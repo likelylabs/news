@@ -43,10 +43,23 @@ doubt, leave it out.
 
 ## 2. Run workflow (do these in order, every run)
 
-1. **Read what's already covered.** Open `ledger.json` and `index.json`.
-   The ledger lists the `story_key`s you've already published. The index
-   shows what's currently live. **Do not** write a story whose event is
-   already in the ledger — that's a duplicate.
+1. **Read what's already covered — this is how you avoid duplicates.**
+   - Open `ledger.json` (the dedup memory: every story from the last 5 days
+     as `{key, id, first_seen, headline_en}`) and `index.json` (the
+     currently-live articles, with EN + ZH headlines).
+   - You don't need to open every article file — the headlines in those two
+     files are enough. As a cheap cross-check you may also list the
+     filenames under `articles/` for today and the previous day or two.
+   - **Dedup by event, not by exact key.** Treat a candidate as ALREADY
+     COVERED if the same underlying event appears there — by matching
+     `story_key`, by a near-duplicate headline, or by obviously being the
+     same incident — **even if you'd word it differently or assign a
+     slightly different key.** When unsure whether it's the same event,
+     assume it is and skip it.
+   - Only write about an already-covered event again if there is a **major
+     new development** (a confirmed death toll, an arrest, an official
+     decision). Then give it a NEW `id`/slug and a `story_key` that names the
+     development, and lead with what's new — don't restate the old article.
 2. **Find the latest HK news.** Use live web / X search. Prefer primary and
    established sources (government departments and the Observatory, the
    police and courts, official company statements, and reputable Hong Kong
