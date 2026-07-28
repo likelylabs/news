@@ -1,5 +1,24 @@
 {
-  "updated_at": null,
+  "updated_at": "2026-07-28T12:00:00+08:00",
   "retention_days": 5,
-  "covered": []
+  "covered": [
+    {
+      "key": "high-court-judge-wilson-chan-early-retirement",
+      "id": "2026-07-28-high-court-judge-wilson-chan-early-retirement",
+      "first_seen": "2026-07-28T12:00:00+08:00",
+      "headline_en": "High Court judge Wilson Chan to retire early after repeated plagiarism"
+    },
+    {
+      "key": "kwun-tong-minibus-water-tanker-collision",
+      "id": "2026-07-28-kwun-tong-minibus-water-tanker-collision",
+      "first_seen": "2026-07-28T12:00:00+08:00",
+      "headline_en": "Ten injured after minibus collides with water tanker in Kwun Tong"
+    },
+    {
+      "key": "hung-hom-parknshop-rat-infestation",
+      "id": "2026-07-28-hung-hom-parknshop-rat-infestation",
+      "first_seen": "2026-07-28T12:00:00+08:00",
+      "headline_en": "FEHD issues orders after rats spotted inside Hung Hom ParknShop"
+    }
+  ]
 }
