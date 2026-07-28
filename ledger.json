@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T05:36:36+08:00",
+  "updated_at": "2026-07-29T07:20:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -73,6 +73,30 @@
       "id": "2026-07-28-tutorial-centre-owner-sentenced",
       "first_seen": "2026-07-28T21:14:00+08:00",
       "headline_en": "Tutorial centre owner jailed for six years and four months over assaults on five boys"
+    },
+    {
+      "key": "hk-mens-foil-team-silver-fencing-worlds-2026",
+      "id": "2026-07-29-hk-mens-foil-team-silver-world-championships",
+      "first_seen": "2026-07-29T07:15:00+08:00",
+      "headline_en": "Hong Kong men's foil team takes silver at Fencing World Championships"
+    },
+    {
+      "key": "tuen-mun-fu-fat-lane-water-main-leak",
+      "id": "2026-07-29-tuen-mun-water-main-leak-suspension",
+      "first_seen": "2026-07-29T07:16:00+08:00",
+      "headline_en": "Water supply suspended overnight in Tuen Mun estates after main leak"
+    },
+    {
+      "key": "kwai-chung-noodles-clostridium-perfringens",
+      "id": "2026-07-29-kwai-chung-zhajiang-noodles-bacteria",
+      "first_seen": "2026-07-29T07:17:00+08:00",
+      "headline_en": "CFS finds excessive bacteria in Shanghai zhajiang noodles from Kwai Chung shop"
+    },
+    {
+      "key": "immigration-illegal-tour-guide-photography-arrests",
+      "id": "2026-07-29-immigration-illegal-tour-guide-arrests",
+      "first_seen": "2026-07-29T07:18:00+08:00",
+      "headline_en": "Two arrested for providing illegal tour guide and photography services"
     }
   ]
 }
