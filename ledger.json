@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T12:05:01+08:00",
+  "updated_at": "2026-07-28T17:16:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -37,6 +37,24 @@
       "id": "2026-07-28-wu-chi-wai-uk-visitor-stay",
       "first_seen": "2026-07-28T12:27:00+08:00",
       "headline_en": "Former Democratic Party chairman Wu Chi-wai granted six-month UK stay"
+    },
+    {
+      "key": "legco-by-election-william-wong-seat-priority",
+      "id": "2026-07-28-ce-by-election-priority-william-wong",
+      "first_seen": "2026-07-28T17:10:00+08:00",
+      "headline_en": "Chief Executive says LegCo by-election lower priority than three major polls"
+    },
+    {
+      "key": "siu-sai-wan-family-medicine-clinic-opening",
+      "id": "2026-07-28-siu-sai-wan-family-medicine-clinic",
+      "first_seen": "2026-07-28T17:12:00+08:00",
+      "headline_en": "New family medicine clinic in Siu Sai Wan to open on 1 August"
+    },
+    {
+      "key": "wild-boar-population-halved-cull-2025",
+      "id": "2026-07-28-wild-boar-population-halved",
+      "first_seen": "2026-07-28T17:15:00+08:00",
+      "headline_en": "Wild boar population halves after capture-and-kill policy expanded"
     }
   ]
 }
