@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-07-28T11:27:16+08:00",
+  "generated_at": "2026-07-28T11:47:52+08:00",
   "live_window_hours": 72,
-  "count": 0,
-  "articles": []
+  "count": 3,
+  "articles": [
+    {
+      "id": "2026-07-28-high-court-judge-wilson-chan-early-retirement",
+      "published_at": "2026-07-28T12:00:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "judiciary",
+        "high-court",
+        "wilson-chan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-28/2026-07-28-high-court-judge-wilson-chan-early-retirement.json",
+      "en": {
+        "headline": "High Court judge Wilson Chan to retire early after repeated plagiarism",
+        "dek": "Chief Justice Andrew Cheung formally requested the early retirement, saying repeated judicial copying had undermined public confidence in the judge’s ability to discharge his duties."
+      },
+      "zh": {
+        "headline": "高等法院法官陳嘉信因多次抄襲提早退休",
+        "dek": "終審法院首席法官張舉能正式要求陳嘉信提早退休，指其多次在判詞中抄襲已損害公眾對他履行職務能力的信心。"
+      }
+    },
+    {
+      "id": "2026-07-28-hung-hom-parknshop-rat-infestation",
+      "published_at": "2026-07-28T12:00:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "food-hygiene",
+        "fehd",
+        "parknshop",
+        "hung-hom"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-28/2026-07-28-hung-hom-parknshop-rat-infestation.json",
+      "en": {
+        "headline": "FEHD issues orders after rats spotted inside Hung Hom ParknShop",
+        "dek": "A social media video showed rodents feeding on produce and snacks inside the closed supermarket; the department found signs of rodent activity and required corrective action."
+      },
+      "zh": {
+        "headline": "紅磡百佳發現老鼠 食環署發出法定通知",
+        "dek": "社交媒體影片顯示老鼠在已關閉的超市內覓食蔬菜及零食，食環署巡查後發現鼠患跡象並要求限期糾正。"
+      }
+    },
+    {
+      "id": "2026-07-28-kwun-tong-minibus-water-tanker-collision",
+      "published_at": "2026-07-28T12:00:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "kwun-tong",
+        "minibus"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-28/2026-07-28-kwun-tong-minibus-water-tanker-collision.json",
+      "en": {
+        "headline": "Ten injured after minibus collides with water tanker in Kwun Tong",
+        "dek": "Police said the accident occurred near Yue Man Square Public Transport Terminal shortly after midday on Monday; three of the injured were classified as serious but non-life-threatening."
+      },
+      "zh": {
+        "headline": "觀塘小巴與運水車相撞十人受傷",
+        "dek": "警方表示，事故於星期一中午過後在裕民坊公共運輸交匯處附近發生，其中三人傷勢被列為嚴重但無生命危險。"
+      }
+    }
+  ]
 }
