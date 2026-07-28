@@ -1,0 +1,50 @@
+name: build-news-index
+
+# The deterministic half of the pipeline (tenet #5, "one sanctioned write
+# path"). The news automation only writes article files + ledger.json; this
+# Action validates every article, prunes old ones, and regenerates
+# index.json. If an article is malformed the run FAILS loudly and the live
+# index is left untouched (no regression) until the article is fixed.
+
+on:
+  push:
+    paths:
+      - 'articles/**'
+      - 'ledger.json'
+      - 'tools/**'
+      - 'schema/**'
+  workflow_dispatch: {}
+  schedule:
+    # Daily prune so stale files/ledger keys age out even on quiet days.
+    - cron: '30 20 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-news-index
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Prune old articles + trim ledger
+        run: python3 tools/prune.py
+
+      - name: Validate articles + rebuild index.json
+        run: python3 tools/build_index.py
+
+      - name: Commit regenerated index (and any pruning)
+        run: |
+          git config user.name  "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "chore(index): rebuild index + prune [skip ci]"
+            git push
+          else
+            echo "Nothing to commit — index already current."
+          fi
