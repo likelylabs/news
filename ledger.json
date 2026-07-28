@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T12:00:00+08:00",
+  "updated_at": "2026-07-28T12:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -19,6 +19,24 @@
       "id": "2026-07-28-hung-hom-parknshop-rat-infestation",
       "first_seen": "2026-07-28T12:00:00+08:00",
       "headline_en": "FEHD issues orders after rats spotted inside Hung Hom ParknShop"
+    },
+    {
+      "key": "amber-rainstorm-warning-july-28",
+      "id": "2026-07-28-amber-rainstorm-warning-new-territories-flooding",
+      "first_seen": "2026-07-28T12:10:00+08:00",
+      "headline_en": "Amber rainstorm warning issued as heavy rain hits New Territories"
+    },
+    {
+      "key": "mong-kok-drug-syndicate-arrests",
+      "id": "2026-07-28-mong-kok-drug-syndicate-arrests",
+      "first_seen": "2026-07-28T12:10:00+08:00",
+      "headline_en": "Two foreign men arrested in Mong Kok drug syndicate raids"
+    },
+    {
+      "key": "chuk-yuen-south-estate-suspected-arson",
+      "id": "2026-07-28-chuk-yuen-south-estate-suspected-arson",
+      "first_seen": "2026-07-28T12:10:00+08:00",
+      "headline_en": "Police investigate suspected arson at Chuk Yuen South Estate"
     }
   ]
 }
