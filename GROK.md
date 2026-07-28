@@ -59,8 +59,9 @@ doubt, leave it out.
    present.
 5. **Write each article** to `articles/<YYYY-MM-DD>/<id>.json`, matching
    `schema/article.schema.json` exactly. See `schema/example-article.json`
-   for the shape. `id` = `<YYYY-MM-DD>-<slug>`, `published_at` in `+08:00`,
-   `ai_generated: true`.
+   for the shape. `id` = `<YYYY-MM-DD>-<slug>`; `published_at` = the **real
+   current time to the minute** in `+08:00` (not a rounded placeholder like
+   `12:00:00`); `ai_generated: true`.
 6. **Append each published story to `ledger.json`** under `covered`, as
    `{ "key": "<story_key>", "id": "<id>", "first_seen": "<now +08:00>",
    "headline_en": "<en.headline>" }`.
@@ -97,6 +98,10 @@ Full file-hygiene rules live in **TIDINESS.md** — follow it.
 - **Numbers and names are high-risk.** Double-check spellings of people and
   places, and every figure. When a number is uncertain, describe it
   qualitatively rather than guess.
+- **Figures get revised — stay conservative.** Early casualty, injury-
+  severity, and damage counts change as authorities update them. Use the
+  **latest official figure**, attribute it, and when reports disagree on
+  severity, state it **conservatively** — never upgrade "minor" to "serious".
 - **Freshness check.** Confirm a story is current before publishing — old
   articles resurface in search. If you can't confirm it's recent, skip it.
 - **Original prose only.** Report the facts in your own words. Do not copy
