@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-07-28T12:05:01+08:00",
+  "generated_at": "2026-07-28T17:05:33+08:00",
   "live_window_hours": 72,
-  "count": 9,
+  "count": 12,
   "articles": [
+    {
+      "id": "2026-07-28-wild-boar-population-halved",
+      "published_at": "2026-07-28T17:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "wild-boar",
+        "afcd",
+        "wildlife",
+        "agriculture"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-28/2026-07-28-wild-boar-population-halved.json",
+      "en": {
+        "headline": "Wild boar population halves after capture-and-kill policy expanded",
+        "dek": "A Legislative Council research brief showed authorities humanely dispatched 723 wild boars last year, up from 64 in 2021, while the estimated population fell from around 2,000 to 990."
+      },
+      "zh": {
+        "headline": "野豬數量減半 當局去年人道處理逾700頭",
+        "dek": "立法會研究報告顯示，漁護署去年人道處理723頭野豬，較2021年的64頭大幅增加，估計數目由約2,000頭降至990頭。"
+      }
+    },
+    {
+      "id": "2026-07-28-siu-sai-wan-family-medicine-clinic",
+      "published_at": "2026-07-28T17:12:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "hospital-authority",
+        "family-medicine",
+        "eastern-district",
+        "primary-care"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-28/2026-07-28-siu-sai-wan-family-medicine-clinic.json",
+      "en": {
+        "headline": "New family medicine clinic in Siu Sai Wan to open on 1 August",
+        "dek": "The Hospital Authority said the clinic at Siu Sai Wan Health Centre will provide doctor consultations, preventive screening, chronic disease management and vaccination services for Eastern District residents."
+      },
+      "zh": {
+        "headline": "小西灣家庭醫學診所8月1日起投入服務",
+        "dek": "醫管局表示，位於小西灣康健綜合大樓的新診所將提供醫生診症、預防篩查、慢性疾病管理及疫苗接種等服務，加強東區基層醫療。"
+      }
+    },
+    {
+      "id": "2026-07-28-ce-by-election-priority-william-wong",
+      "published_at": "2026-07-28T17:10:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "legislative-council",
+        "john-lee",
+        "by-election",
+        "william-wong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-28/2026-07-28-ce-by-election-priority-william-wong.json",
+      "en": {
+        "headline": "Chief Executive says LegCo by-election lower priority than three major polls",
+        "dek": "John Lee indicated that filling the seat vacated by former lawmaker William Wong Kam-fai ranks behind the Election Committee, chief executive and District Council elections scheduled over the next 18 months."
+      },
+      "zh": {
+        "headline": "李家超指立法會補選優先次序低於三場重要選舉",
+        "dek": "行政長官表示，填補前議員黃錦輝出缺議席的補選，在時間及工作量上優先於未來18個月的選委會、行政長官及區議會選舉。"
+      }
+    },
     {
       "id": "2026-07-28-wu-chi-wai-uk-visitor-stay",
       "published_at": "2026-07-28T12:27:00+08:00",
