@@ -1,8 +1,138 @@
 {
-  "generated_at": "2026-07-28T11:47:52+08:00",
+  "generated_at": "2026-07-28T12:05:01+08:00",
   "live_window_hours": 72,
-  "count": 3,
+  "count": 9,
   "articles": [
+    {
+      "id": "2026-07-28-wu-chi-wai-uk-visitor-stay",
+      "published_at": "2026-07-28T12:27:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "wu-chi-wai",
+        "united-kingdom",
+        "immigration"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-28/2026-07-28-wu-chi-wai-uk-visitor-stay.json",
+      "en": {
+        "headline": "Former Democratic Party chairman Wu Chi-wai granted six-month UK stay",
+        "dek": "British immigration authorities approved visitor status for the former legislator after an initial seven-day restriction following his arrival to visit family."
+      },
+      "zh": {
+        "headline": "前民主黨主席胡志偉獲准以旅客身份留英六個月",
+        "dek": "英國入境當局在重新審視後批准胡志偉以旅客身份逗留六個月，較早前的七天限制獲解除。"
+      }
+    },
+    {
+      "id": "2026-07-28-haeco-airport-worker-death",
+      "published_at": "2026-07-28T12:26:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "industrial-accident",
+        "airport",
+        "labour-department",
+        "haeco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-28/2026-07-28-haeco-airport-worker-death.json",
+      "en": {
+        "headline": "Aircraft worker dies after falling from platform at Hong Kong airport",
+        "dek": "A 62-year-old maintenance worker fell about six metres while repairing an aircraft fuselage at a HAECO hangar; the Labour Department has launched an investigation and issued a suspension notice."
+      },
+      "zh": {
+        "headline": "赤鱲角飛機維修工墮下不治 勞工處展開調查",
+        "dek": "一名62歲維修工人在港機工程機庫維修飛機外殼時由約6米高工作台墮下，勞工處已展開調查並發出停工通知。"
+      }
+    },
+    {
+      "id": "2026-07-28-ce-legco-first-dialogue-exchange",
+      "published_at": "2026-07-28T12:25:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "legislative-council",
+        "john-lee",
+        "executive-legislative"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-28/2026-07-28-ce-legco-first-dialogue-exchange.json",
+      "en": {
+        "headline": "Chief Executive holds first dialogue exchange with LegCo members",
+        "dek": "John Lee shared experience on the practice of patriots administering Hong Kong during a closed-door session designed to deepen mutual understanding between the executive and legislature."
+      },
+      "zh": {
+        "headline": "李家超與立法會議員舉行首次對談交流會",
+        "dek": "行政長官李家超於閉門會議中分享「愛國者治港」實踐體會，會議旨在增進行政立法互相了解及共識。"
+      }
+    },
+    {
+      "id": "2026-07-28-amber-rainstorm-warning-new-territories-flooding",
+      "published_at": "2026-07-28T12:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "rainstorm",
+        "flooding",
+        "observatory",
+        "new-territories"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-28/2026-07-28-amber-rainstorm-warning-new-territories-flooding.json",
+      "en": {
+        "headline": "Amber rainstorm warning issued as heavy rain hits New Territories",
+        "dek": "The Hong Kong Observatory raised the amber rainstorm signal on Tuesday morning, with waterlogged roads reported in Tai Po and Sha Tin."
+      },
+      "zh": {
+        "headline": "天文台發出黃色暴雨警告 新界多處道路水浸",
+        "dek": "天文台星期二早上發出黃色暴雨警告信號，大埔及沙田有道路水浸，兩輛小巴一度受阻。"
+      }
+    },
+    {
+      "id": "2026-07-28-chuk-yuen-south-estate-suspected-arson",
+      "published_at": "2026-07-28T12:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "arson",
+        "wong-tai-sin",
+        "police",
+        "fire"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-28/2026-07-28-chuk-yuen-south-estate-suspected-arson.json",
+      "en": {
+        "headline": "Police investigate suspected arson at Chuk Yuen South Estate",
+        "dek": "A curtain hanging on a flat door in Fu Yuen House caught fire; the case has been classified as arson with no injuries reported."
+      },
+      "zh": {
+        "headline": "竹園南邨單位大門布簾起火 警方列作縱火調查",
+        "dek": "黃大仙竹園南邨富園樓一個單位大門上的布簾起火，消防初步懷疑有可疑，警方列作縱火案跟進，無人受傷。"
+      }
+    },
+    {
+      "id": "2026-07-28-mong-kok-drug-syndicate-arrests",
+      "published_at": "2026-07-28T12:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "drugs",
+        "police",
+        "mong-kok",
+        "narcotics"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-28/2026-07-28-mong-kok-drug-syndicate-arrests.json",
+      "en": {
+        "headline": "Two foreign men arrested in Mong Kok drug syndicate raids",
+        "dek": "Police seized about 7.89 kg of suspected ice and 1.81 kg of suspected heroin worth HK$4.8 million in operations targeting a Kowloon drug syndicate."
+      },
+      "zh": {
+        "headline": "旺角掃毒拘兩名外籍男子 檢值480萬元毒品",
+        "dek": "警方在旺角兩個唐樓單位檢獲約7.89公斤懷疑冰毒及1.81公斤懷疑海洛英，估計市值約480萬元。"
+      }
+    },
     {
       "id": "2026-07-28-high-court-judge-wilson-chan-early-retirement",
       "published_at": "2026-07-28T12:00:00+08:00",
