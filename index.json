@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-07-29T17:04:33+08:00",
+  "generated_at": "2026-07-29T21:05:48+08:00",
   "live_window_hours": 72,
-  "count": 25,
+  "count": 28,
   "articles": [
+    {
+      "id": "2026-07-29-mong-kok-wounding-mainland-tourist",
+      "published_at": "2026-07-29T21:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "wounding",
+        "mong-kok",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-29/2026-07-29-mong-kok-wounding-mainland-tourist.json",
+      "en": {
+        "headline": "Mainland visitor wounded in Mong Kok early-morning attack",
+        "dek": "A 35-year-old man was injured in the neck at a building on Argyle Street around 2 am; police classify the case as wounding and are seeking a suspect."
+      },
+      "zh": {
+        "headline": "旺角凌晨傷人案內地男頸部受傷",
+        "dek": "35歲男子約凌晨2時在亞皆老街大廈內頸部受傷，清醒送院；警方列傷人案調查，正通緝一名疑犯。"
+      }
+    },
+    {
+      "id": "2026-07-29-fehd-unlicensed-hawkers-food-crackdown",
+      "published_at": "2026-07-29T21:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fehd",
+        "food-safety",
+        "hawkers",
+        "unlicensed"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-29/2026-07-29-fehd-unlicensed-hawkers-food-crackdown.json",
+      "en": {
+        "headline": "FEHD arrests 14 unlicensed hawkers and seizes nearly 600 kg of food",
+        "dek": "An intelligence-led citywide operation that began on 17 July targeted high-risk locations; suspects aged 38 to 74 face charges including obstruction and selling restricted food."
+      },
+      "zh": {
+        "headline": "食環署拘14名無牌小販檢獲近600公斤食品",
+        "dek": "由7月17日起展開的情報主導全港行動針對高風險地點，涉案者年齡38至74歲，大部分另被控阻街，兩人兼控售賣限制售賣食物。"
+      }
+    },
+    {
+      "id": "2026-07-29-cfs-infant-formula-lead-sampling",
+      "published_at": "2026-07-29T21:05:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "food-safety",
+        "cfs",
+        "infant-formula",
+        "lead"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-29/2026-07-29-cfs-infant-formula-lead-sampling.json",
+      "en": {
+        "headline": "CFS finds no excessive lead in over 50 infant formula samples",
+        "dek": "All samples tested between 25 and 28 July, including 11 batches of one brand previously linked to a Macau alert, met Hong Kong’s legal limit of 0.01 mg per kg."
+      },
+      "zh": {
+        "headline": "食安中心抽檢逾50個嬰幼兒奶粉樣本全部鉛含量合格",
+        "dek": "7月25至28日抽取的樣本（包括11個曾與澳門通報有關的品牌批次）鉛含量均未超出本港法定上限每公斤0.01毫克。"
+      }
+    },
     {
       "id": "2026-07-29-doctor-yiu-man-kit-acquitted-laser",
       "published_at": "2026-07-29T17:12:00+08:00",
