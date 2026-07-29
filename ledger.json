@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T07:08:09+08:00",
+  "updated_at": "2026-07-29T12:16:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -97,6 +97,24 @@
       "id": "2026-07-29-immigration-illegal-tour-guide-arrests",
       "first_seen": "2026-07-29T07:18:00+08:00",
       "headline_en": "Two arrested for providing illegal tour guide and photography services"
+    },
+    {
+      "key": "fanling-ling-shan-tsuen-village-house-fire",
+      "id": "2026-07-29-fanling-ling-shan-tsuen-fire-death",
+      "first_seen": "2026-07-29T12:10:00+08:00",
+      "headline_en": "Man dies after fire engulfs tin-roofed house in Fanling village"
+    },
+    {
+      "key": "tin-shui-wai-kingswood-le-hu-ju-fire",
+      "id": "2026-07-29-tin-shui-wai-kingswood-villas-fire",
+      "first_seen": "2026-07-29T12:12:00+08:00",
+      "headline_en": "Fire at Tin Shui Wai Kingswood Villas flat forces 220 to evacuate"
+    },
+    {
+      "key": "private-residential-price-index-june-2026",
+      "id": "2026-07-29-private-residential-price-index-june",
+      "first_seen": "2026-07-29T12:15:00+08:00",
+      "headline_en": "Private residential price index rises 0.3 per cent in June"
     }
   ]
 }
