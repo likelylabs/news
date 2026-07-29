@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T05:25:27+08:00",
+  "updated_at": "2026-07-30T07:22:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -151,6 +151,24 @@
       "id": "2026-07-29-mong-kok-wounding-mainland-tourist",
       "first_seen": "2026-07-29T21:12:00+08:00",
       "headline_en": "Mainland visitor wounded in Mong Kok early-morning attack"
+    },
+    {
+      "key": "customs-shenzhen-bay-electronic-chips-seizure",
+      "id": "2026-07-30-customs-shenzhen-bay-electronic-chips",
+      "first_seen": "2026-07-30T07:15:00+08:00",
+      "headline_en": "Customs seizes 225,000 electronic chips worth HK$6.25 million at Shenzhen Bay"
+    },
+    {
+      "key": "tsim-sha-tsui-bar-assault-arrests",
+      "id": "2026-07-30-tsim-sha-tsui-bar-assault-seven-arrested",
+      "first_seen": "2026-07-30T07:18:00+08:00",
+      "headline_en": "Seven arrested over Tsim Sha Tsui bar assault that left man in critical condition"
+    },
+    {
+      "key": "whatsapp-ai-voice-hijacking-scams",
+      "id": "2026-07-30-police-whatsapp-ai-voice-scam-alert",
+      "first_seen": "2026-07-30T07:21:00+08:00",
+      "headline_en": "Police warn of AI voice scams after 150 WhatsApp hijackings cause HK$26 million losses"
     }
   ]
 }
