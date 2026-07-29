@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-07-29T07:08:09+08:00",
+  "generated_at": "2026-07-29T12:05:07+08:00",
   "live_window_hours": 72,
-  "count": 19,
+  "count": 22,
   "articles": [
+    {
+      "id": "2026-07-29-private-residential-price-index-june",
+      "published_at": "2026-07-29T12:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "property",
+        "price-index",
+        "rating-and-valuation",
+        "housing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-29/2026-07-29-private-residential-price-index-june.json",
+      "en": {
+        "headline": "Private residential price index rises 0.3 per cent in June",
+        "dek": "The Rating and Valuation Department reported the index at 323.2, up 12.7 per cent year on year and nearly 8 per cent for the first half."
+      },
+      "zh": {
+        "headline": "6月私人住宅售價指數按月升0.3% 上半年累升近8%",
+        "dek": "差餉物業估價署公布6月私人住宅售價指數報323.2，按年升12.7%，上半年累計升近7.9%。"
+      }
+    },
+    {
+      "id": "2026-07-29-tin-shui-wai-kingswood-villas-fire",
+      "published_at": "2026-07-29T12:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "tin-shui-wai",
+        "kingswood-villas",
+        "evacuation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-29/2026-07-29-tin-shui-wai-kingswood-villas-fire.json",
+      "en": {
+        "headline": "Fire at Tin Shui Wai Kingswood Villas flat forces 220 to evacuate",
+        "dek": "A low-floor unit at Le Hu Ju in Kingswood Villas caught fire on Tuesday evening; firefighters put out the blaze with no injuries reported."
+      },
+      "zh": {
+        "headline": "天水圍嘉湖山莊樂湖居單位起火 220居民疏散",
+        "dek": "星期二晚天水圍嘉湖山莊樂湖居7座低層單位起火，消防約24分鐘救熄，約220名居民疏散，無人受傷。"
+      }
+    },
+    {
+      "id": "2026-07-29-fanling-ling-shan-tsuen-fire-death",
+      "published_at": "2026-07-29T12:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "fanling",
+        "ling-shan-tsuen",
+        "evacuation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-29/2026-07-29-fanling-ling-shan-tsuen-fire-death.json",
+      "en": {
+        "headline": "Man dies after fire engulfs tin-roofed house in Fanling village",
+        "dek": "A blaze at a metal structure in Ling Shan Tsuen early on Wednesday left one man dead and forced about 78 residents to evacuate, police and fire services said."
+      },
+      "zh": {
+        "headline": "粉嶺靈山村鐵皮屋火警 中年男子倒斃現場",
+        "dek": "消防凌晨在粉嶺靈山村撲滅鐵皮屋火警，發現一名約50至60歲男子當場不治，約78名居民及寵物疏散。"
+      }
+    },
     {
       "id": "2026-07-29-immigration-illegal-tour-guide-arrests",
       "published_at": "2026-07-29T07:18:00+08:00",
