@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-07-29T12:05:07+08:00",
+  "generated_at": "2026-07-29T17:04:33+08:00",
   "live_window_hours": 72,
-  "count": 22,
+  "count": 25,
   "articles": [
+    {
+      "id": "2026-07-29-doctor-yiu-man-kit-acquitted-laser",
+      "published_at": "2026-07-29T17:12:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "medical-council",
+        "ophthalmology",
+        "professional-conduct",
+        "lasik"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-29/2026-07-29-doctor-yiu-man-kit-acquitted-laser.json",
+      "en": {
+        "headline": "Doctor cleared of misconduct over 2010 laser eye surgeries after 15 years",
+        "dek": "The Medical Council offered no evidence against ophthalmologist Yiu Man-kit on three disciplinary charges linked to Lasik procedures and follow-up treatment."
+      },
+      "zh": {
+        "headline": "眼科醫生涉2010年激光手術專業失德指控不成立",
+        "dek": "醫務委員會秘書未有就三項紀律指控提證，眼科醫生姚文傑在事隔15年後獲裁定專業失德不成立。"
+      }
+    },
+    {
+      "id": "2026-07-29-ex-cathay-worker-jailed-smuggling-bribes",
+      "published_at": "2026-07-29T17:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "bribery",
+        "cathay-pacific",
+        "human-smuggling",
+        "icac"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-29/2026-07-29-ex-cathay-worker-jailed-smuggling-bribes.json",
+      "en": {
+        "headline": "Ex-Cathay Pacific officer jailed 20 months for bribes in human smuggling case",
+        "dek": "Tsui Ying-kit, 45, pleaded guilty to accepting at least HK$18,000 to help ineligible travellers check in at the airport between 2008 and 2009 after years on the run."
+      },
+      "zh": {
+        "headline": "前國泰地勤涉收賄助偷渡判囚20個月",
+        "dek": "45歲徐英傑承認於2008至2009年收取至少1.8萬元利益，協助不合資格旅客辦理登機手續，潛逃多年後自首。"
+      }
+    },
+    {
+      "id": "2026-07-29-cheung-chau-coach-child-abuse-charges",
+      "published_at": "2026-07-29T17:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "child-protection",
+        "cheung-chau",
+        "coach"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-29/2026-07-29-cheung-chau-coach-child-abuse-charges.json",
+      "en": {
+        "headline": "Coach charged over alleged slap and outdoor punishment of boy at Cheung Chau camp",
+        "dek": "A 51-year-old woman faces two counts of assault and ill-treatment of a child under her care stemming from a 2024 training camp incident; she was granted bail."
+      },
+      "zh": {
+        "headline": "女教練涉長洲營地掌摑及罰企8歲男童被控兩虐兒罪",
+        "dek": "51歲教練趙軼群被控於2024年在長洲明愛明暉營襲擊及虐待所看管男童，今在東區裁判法院提堂，獲准保釋至9月再訊。"
+      }
+    },
     {
       "id": "2026-07-29-private-residential-price-index-june",
       "published_at": "2026-07-29T12:15:00+08:00",
