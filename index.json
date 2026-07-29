@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-07-30T05:25:27+08:00",
+  "generated_at": "2026-07-30T07:07:54+08:00",
   "live_window_hours": 72,
-  "count": 28,
+  "count": 31,
   "articles": [
+    {
+      "id": "2026-07-30-police-whatsapp-ai-voice-scam-alert",
+      "published_at": "2026-07-30T07:21:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "scam",
+        "whatsapp",
+        "ai",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-30/2026-07-30-police-whatsapp-ai-voice-scam-alert.json",
+      "en": {
+        "headline": "Police warn of AI voice scams after 150 WhatsApp hijackings cause HK$26 million losses",
+        "dek": "In the past two weeks scammers have used artificial intelligence to imitate the voices of hijacked account holders’ relatives; one victim lost HK$10 million."
+      },
+      "zh": {
+        "headline": "警誡WhatsApp被盜用後AI語音詐騙 兩周150宗損失逾2600萬",
+        "dek": "騙徒在過去兩周利用人工智能模仿被盜帳戶親友聲音，其中一宗受害人損失1000萬元。"
+      }
+    },
+    {
+      "id": "2026-07-30-tsim-sha-tsui-bar-assault-seven-arrested",
+      "published_at": "2026-07-30T07:18:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "wounding",
+        "tsim-sha-tsui",
+        "bar"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-30/2026-07-30-tsim-sha-tsui-bar-assault-seven-arrested.json",
+      "en": {
+        "headline": "Seven arrested over Tsim Sha Tsui bar assault that left man in critical condition",
+        "dek": "Police say the 32-year-old victim suffered severe head injuries and a fractured rib; some of those arrested are suspected of having triad links and further arrests are not ruled out."
+      },
+      "zh": {
+        "headline": "尖沙咀酒吧傷人案七人被捕 傷者情況危殆",
+        "dek": "警方指32歲男傷者頭部嚴重受傷及肋骨骨折，部分被捕人士涉嫌有黑社會背景，不排除再有人被捕。"
+      }
+    },
+    {
+      "id": "2026-07-30-customs-shenzhen-bay-electronic-chips",
+      "published_at": "2026-07-30T07:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "smuggling",
+        "shenzhen-bay",
+        "electronic-chips"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-30/2026-07-30-customs-shenzhen-bay-electronic-chips.json",
+      "en": {
+        "headline": "Customs seizes 225,000 electronic chips worth HK$6.25 million at Shenzhen Bay",
+        "dek": "Two men were arrested after officers intercepted an outbound private car and found the suspected unmanifested cargo in the boot; they face court today."
+      },
+      "zh": {
+        "headline": "海關深圳灣檢獲22.5萬枚電子芯片 估值625萬元",
+        "dek": "關員截查一輛出境私家車，在車尾箱發現懷疑未列艙單貨物；兩名男子被控意圖輸出未列艙單貨物，今早在屯門裁判法院應訊。"
+      }
+    },
     {
       "id": "2026-07-29-mong-kok-wounding-mainland-tourist",
       "published_at": "2026-07-29T21:12:00+08:00",
