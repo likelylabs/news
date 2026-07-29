@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T17:04:33+08:00",
+  "updated_at": "2026-07-29T21:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -133,6 +133,24 @@
       "id": "2026-07-29-doctor-yiu-man-kit-acquitted-laser",
       "first_seen": "2026-07-29T17:12:00+08:00",
       "headline_en": "Doctor cleared of misconduct over 2010 laser eye surgeries after 15 years"
+    },
+    {
+      "key": "cfs-infant-formula-lead-sampling-july",
+      "id": "2026-07-29-cfs-infant-formula-lead-sampling",
+      "first_seen": "2026-07-29T21:05:00+08:00",
+      "headline_en": "CFS finds no excessive lead in over 50 infant formula samples"
+    },
+    {
+      "key": "fehd-dawn-net-hawkers-crackdown-14-arrests",
+      "id": "2026-07-29-fehd-unlicensed-hawkers-food-crackdown",
+      "first_seen": "2026-07-29T21:08:00+08:00",
+      "headline_en": "FEHD arrests 14 unlicensed hawkers and seizes nearly 600 kg of food"
+    },
+    {
+      "key": "mong-kok-king-hing-building-wounding",
+      "id": "2026-07-29-mong-kok-wounding-mainland-tourist",
+      "first_seen": "2026-07-29T21:12:00+08:00",
+      "headline_en": "Mainland visitor wounded in Mong Kok early-morning attack"
     }
   ]
 }
