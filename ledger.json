@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T12:05:07+08:00",
+  "updated_at": "2026-07-29T17:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -115,6 +115,24 @@
       "id": "2026-07-29-private-residential-price-index-june",
       "first_seen": "2026-07-29T12:15:00+08:00",
       "headline_en": "Private residential price index rises 0.3 per cent in June"
+    },
+    {
+      "key": "cheung-chau-coach-zhao-yiqun-charges",
+      "id": "2026-07-29-cheung-chau-coach-child-abuse-charges",
+      "first_seen": "2026-07-29T17:05:00+08:00",
+      "headline_en": "Coach charged over alleged slap and outdoor punishment of boy at Cheung Chau camp"
+    },
+    {
+      "key": "tsui-ying-kit-cathay-bribery-sentence",
+      "id": "2026-07-29-ex-cathay-worker-jailed-smuggling-bribes",
+      "first_seen": "2026-07-29T17:08:00+08:00",
+      "headline_en": "Ex-Cathay Pacific officer jailed 20 months for bribes in human smuggling case"
+    },
+    {
+      "key": "yiu-man-kit-medical-council-acquittal",
+      "id": "2026-07-29-doctor-yiu-man-kit-acquitted-laser",
+      "first_seen": "2026-07-29T17:12:00+08:00",
+      "headline_en": "Doctor cleared of misconduct over 2010 laser eye surgeries after 15 years"
     }
   ]
 }
