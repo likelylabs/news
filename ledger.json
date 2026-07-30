@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T15:18:00+08:00",
+  "updated_at": "2026-07-30T19:08:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -223,6 +223,24 @@
       "id": "2026-07-30-lpg-fuel-subsidy-ends-taxis-minibuses",
       "first_seen": "2026-07-30T15:17:00+08:00",
       "headline_en": "Two-month LPG fuel subsidy for taxis and minibuses ends tonight"
+    },
+    {
+      "key": "miao-chi-hung-cocaine-trafficking-sentence",
+      "id": "2026-07-30-miao-chi-hung-cocaine-sentence",
+      "first_seen": "2026-07-30T19:05:00+08:00",
+      "headline_en": "Taiwanese man jailed 12 years and four months for cocaine trafficking"
+    },
+    {
+      "key": "doctor-lee-chi-leung-misconduct-sentence",
+      "id": "2026-07-30-doctor-lee-chi-leung-community-service",
+      "first_seen": "2026-07-30T19:06:00+08:00",
+      "headline_en": "Former hospital doctor given community service for misappropriating drugs"
+    },
+    {
+      "key": "hkpf-knpa-mou-signed",
+      "id": "2026-07-30-hkpf-korean-police-mou",
+      "first_seen": "2026-07-30T19:07:00+08:00",
+      "headline_en": "Hong Kong and Korean police sign MOU to fight cross-border crime"
     }
   ]
 }
