@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T21:09:53+08:00",
+  "updated_at": "2026-07-30T23:06:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -259,6 +259,18 @@
       "id": "2026-07-30-tuen-mun-water-supply-restored",
       "first_seen": "2026-07-30T21:16:00+08:00",
       "headline_en": "Water supply restored to Tuen Mun estates after two-day repairs"
+    },
+    {
+      "key": "customs-airport-18kg-ketamine-3kg-cannabis-july30",
+      "id": "2026-07-30-customs-airport-18kg-ketamine-3kg-cannabis",
+      "first_seen": "2026-07-30T23:05:00+08:00",
+      "headline_en": "Customs seizes 18 kg ketamine and 3 kg cannabis at airport, arrests two"
+    },
+    {
+      "key": "to-kwa-wan-market-fish-tank-vibrio-cholera",
+      "id": "2026-07-30-to-kwa-wan-market-vibrio-cholera",
+      "first_seen": "2026-07-30T23:06:00+08:00",
+      "headline_en": "FEHD closes To Kwa Wan Market stall after vibrio cholera found in fish tank"
     }
   ]
 }
