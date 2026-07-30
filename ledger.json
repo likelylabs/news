@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T07:07:54+08:00",
+  "updated_at": "2026-07-30T11:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -169,6 +169,24 @@
       "id": "2026-07-30-police-whatsapp-ai-voice-scam-alert",
       "first_seen": "2026-07-30T07:21:00+08:00",
       "headline_en": "Police warn of AI voice scams after 150 WhatsApp hijackings cause HK$26 million losses"
+    },
+    {
+      "key": "rgc-aoe-trs-funding-2026-27",
+      "id": "2026-07-30-rgc-funding-12-projects-aoe-trs",
+      "first_seen": "2026-07-30T11:10:00+08:00",
+      "headline_en": "Research Grants Council awards record HK$478 million to 12 university projects"
+    },
+    {
+      "key": "tsing-yi-cheung-ching-road-truck-van-collision",
+      "id": "2026-07-30-tsing-yi-cheung-ching-road-truck-overturn",
+      "first_seen": "2026-07-30T11:12:00+08:00",
+      "headline_en": "Box truck overturns on Cheung Ching Road after colliding with van"
+    },
+    {
+      "key": "nt-south-champion-illegal-worker-arrests-july30",
+      "id": "2026-07-30-nt-south-illegal-worker-operation-38",
+      "first_seen": "2026-07-30T11:14:00+08:00",
+      "headline_en": "38 arrested in New Territories South anti-illegal worker operation"
     }
   ]
 }
