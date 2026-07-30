@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-07-30T07:07:54+08:00",
+  "generated_at": "2026-07-30T11:04:50+08:00",
   "live_window_hours": 72,
-  "count": 31,
+  "count": 34,
   "articles": [
+    {
+      "id": "2026-07-30-nt-south-illegal-worker-operation-38",
+      "published_at": "2026-07-30T11:14:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "immigration",
+        "police",
+        "illegal-workers",
+        "new-territories"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-30/2026-07-30-nt-south-illegal-worker-operation-38.json",
+      "en": {
+        "headline": "38 arrested in New Territories South anti-illegal worker operation",
+        "dek": "Police and Immigration Department officers raided multiple locations under Operation CHAMPION on Wednesday; those arrested face offences including illegal entry and breach of stay conditions."
+      },
+      "zh": {
+        "headline": "新界南反非法勞工行動拘38人",
+        "dek": "警方聯同入境處星期三在新界南多處進行「冠軍」行動，被捕人士涉嫌非法入境及違反逗留條件等。"
+      }
+    },
+    {
+      "id": "2026-07-30-tsing-yi-cheung-ching-road-truck-overturn",
+      "published_at": "2026-07-30T11:12:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "tsing-yi",
+        "airport",
+        "cheung-ching-road"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-30/2026-07-30-tsing-yi-cheung-ching-road-truck-overturn.json",
+      "en": {
+        "headline": "Box truck overturns on Cheung Ching Road after colliding with van",
+        "dek": "The accident near the Shell oil depot in Tsing Yi blocked multiple lanes and caused heavy congestion on routes towards the airport on Wednesday evening."
+      },
+      "zh": {
+        "headline": "青衣長青公路貨櫃車與客貨車相撞翻側",
+        "dek": "星期三傍晚近蜆殼油庫位置發生車禍，多條行車線受阻，往機場方向交通嚴重擠塞。"
+      }
+    },
+    {
+      "id": "2026-07-30-rgc-funding-12-projects-aoe-trs",
+      "published_at": "2026-07-30T11:10:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "research-grants-council",
+        "ai",
+        "university",
+        "funding"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-30/2026-07-30-rgc-funding-12-projects-aoe-trs.json",
+      "en": {
+        "headline": "Research Grants Council awards record HK$478 million to 12 university projects",
+        "dek": "More than one-third of the supported proposals under the Areas of Excellence and Theme-based Research schemes involve artificial intelligence applications."
+      },
+      "zh": {
+        "headline": "研資局撥款約4.78億元支持12個大學研究項目",
+        "dek": "卓越學科領域計劃及主題研究計劃合共支持破紀錄12個項目，逾三分之一涉及人工智能應用。"
+      }
+    },
     {
       "id": "2026-07-30-police-whatsapp-ai-voice-scam-alert",
       "published_at": "2026-07-30T07:21:00+08:00",
