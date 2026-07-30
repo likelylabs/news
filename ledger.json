@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T21:06:24+08:00",
+  "updated_at": "2026-07-30T21:18:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -241,6 +241,24 @@
       "id": "2026-07-30-hkpf-korean-police-mou",
       "first_seen": "2026-07-30T19:07:00+08:00",
       "headline_en": "Hong Kong and Korean police sign MOU to fight cross-border crime"
+    },
+    {
+      "key": "ce-advisers-luncheons-five-year-plan-2026",
+      "id": "2026-07-30-ce-advisers-luncheons-five-year-plan",
+      "first_seen": "2026-07-30T21:12:00+08:00",
+      "headline_en": "Chief Executive concludes advisers' talks on first five-year plan"
+    },
+    {
+      "key": "yuen-long-castle-peak-road-truck-minibus-collision",
+      "id": "2026-07-30-yuen-long-castle-peak-road-truck-minibus-collision",
+      "first_seen": "2026-07-30T21:14:00+08:00",
+      "headline_en": "Six injured after truck and minibus collide on Castle Peak Road"
+    },
+    {
+      "key": "tuen-mun-water-supply-restored-july30",
+      "id": "2026-07-30-tuen-mun-water-supply-restored",
+      "first_seen": "2026-07-30T21:16:00+08:00",
+      "headline_en": "Water supply restored to Tuen Mun estates after two-day repairs"
     }
   ]
 }
