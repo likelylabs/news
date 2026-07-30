@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-07-30T11:04:50+08:00",
+  "generated_at": "2026-07-30T13:05:28+08:00",
   "live_window_hours": 72,
-  "count": 34,
+  "count": 37,
   "articles": [
+    {
+      "id": "2026-07-30-hkma-base-rate-unchanged-fed",
+      "published_at": "2026-07-30T14:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hkma",
+        "interest-rate",
+        "base-rate",
+        "fed"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-30/2026-07-30-hkma-base-rate-unchanged-fed.json",
+      "en": {
+        "headline": "HKMA keeps base rate at 4 per cent after Fed holds rates steady",
+        "dek": "The Hong Kong Monetary Authority said the Federal Reserve’s decision to leave the federal funds target range unchanged was in line with market expectations and local markets continued to operate orderly."
+      },
+      "zh": {
+        "headline": "金管局維持基本利率4厘 緊隨聯儲局按兵不動",
+        "dek": "金管局表示聯儲局維持聯邦基金利率目標範圍的決定符合市場預期，本港貨幣及金融市場繼續有序運作。"
+      }
+    },
+    {
+      "id": "2026-07-30-zhongji-innolight-ipo-debut",
+      "published_at": "2026-07-30T14:18:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "ipo",
+        "stock-market",
+        "zhongji-innolight",
+        "listing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-30/2026-07-30-zhongji-innolight-ipo-debut.json",
+      "en": {
+        "headline": "Zhongji Innolight shares fall on debut after HK$53.4 billion Hong Kong listing",
+        "dek": "The Chinese optical-parts maker raised HK$53.41 billion in what became Hong Kong’s largest share sale this year; shares opened below the offer price of HK$980."
+      },
+      "zh": {
+        "headline": "中際旭創港股上市集資534億元 首日股價低開",
+        "dek": "中國光學零件製造商完成今年本港最大型新股上市，發行價980港元，股份今早低於發行價開出。"
+      }
+    },
+    {
+      "id": "2026-07-30-customs-airport-ketamine-cannabis-seizure",
+      "published_at": "2026-07-30T14:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "drugs",
+        "airport",
+        "ketamine",
+        "cannabis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-30/2026-07-30-customs-airport-ketamine-cannabis-seizure.json",
+      "en": {
+        "headline": "Customs seizes 36 kg ketamine and 21 kg cannabis at airport, arrests four",
+        "dek": "Two British nationals, a Malaysian man and a local woman were stopped after officers found the drugs in check-in luggage on flights from London and Bangkok; one faces court today."
+      },
+      "zh": {
+        "headline": "海關機場檢獲36公斤氯胺酮及21公斤大麻花 拘四人",
+        "dek": "兩名英國籍旅客、一名馬來西亞男子及一名本地女子在倫敦及曼谷航班行李中被發現毒品，其中一人今日提堂。"
+      }
+    },
     {
       "id": "2026-07-30-nt-south-illegal-worker-operation-38",
       "published_at": "2026-07-30T11:14:00+08:00",
