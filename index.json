@@ -1,8 +1,145 @@
 {
-  "generated_at": "2026-07-30T13:05:28+08:00",
+  "generated_at": "2026-07-30T20:54:27+08:00",
   "live_window_hours": 72,
-  "count": 37,
+  "count": 43,
   "articles": [
+    {
+      "id": "2026-07-30-hkpf-korean-police-mou",
+      "published_at": "2026-07-30T19:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "international",
+        "cooperation",
+        "cross-border-crime",
+        "mou"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-30/2026-07-30-hkpf-korean-police-mou.json",
+      "en": {
+        "headline": "Hong Kong and Korean police sign MOU to fight cross-border crime",
+        "dek": "The Hong Kong Police Force and the Korean National Police Agency signed a memorandum of understanding in Seoul on 29 July to deepen cooperation on drugs, human trafficking, cybercrime and training."
+      },
+      "zh": {
+        "headline": "港警與韓國警察廳簽署合作備忘錄 打擊跨境罪案",
+        "dek": "香港警務處與韓國警察廳7月29日在首爾簽署合作備忘錄，加強打擊跨境罪案及專業培訓合作，涵蓋毒品、人口販運、網絡罪案及情報交流。"
+      }
+    },
+    {
+      "id": "2026-07-30-doctor-lee-chi-leung-community-service",
+      "published_at": "2026-07-30T19:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "district-court",
+        "misconduct",
+        "hospital-authority",
+        "icac",
+        "sentence"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-30/2026-07-30-doctor-lee-chi-leung-community-service.json",
+      "en": {
+        "headline": "Former hospital doctor given community service for misappropriating drugs",
+        "dek": "Lee Chi-leung, a former associate consultant at Queen Elizabeth Hospital, was sentenced to 160 hours of community service and ordered to pay HK$20,000 after being found guilty of misconduct in public office."
+      },
+      "zh": {
+        "headline": "前伊院醫生公職人員行為失當 判160小時社會服務令",
+        "dek": "前伊利沙伯醫院副顧問醫生李志良因公職人員行為失當，被判160小時社會服務令及向醫管局賠償2萬元，涉及以虛假預約及過量處方方式取得咳藥水及治療專注力不足藥物。"
+      }
+    },
+    {
+      "id": "2026-07-30-miao-chi-hung-cocaine-sentence",
+      "published_at": "2026-07-30T19:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "high-court",
+        "drugs",
+        "cocaine",
+        "trafficking",
+        "sentence"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-30/2026-07-30-miao-chi-hung-cocaine-sentence.json",
+      "en": {
+        "headline": "Taiwanese man jailed 12 years and four months for cocaine trafficking",
+        "dek": "High Court Judge Wilson Chan sentenced Miao Chi-hung on his final working day after the defendant admitted bringing 890 grams of cocaine into Hong Kong in wine bottles in 2019."
+      },
+      "zh": {
+        "headline": "台灣男子運毒判囚12年4個月 為法官陳嘉信最後一案",
+        "dek": "高等法院法官陳嘉信星期四判處台灣男子苗志鴻監禁12年4個月，被告承認2019年以紅酒樽藏有890克可卡因入境，為法官提早退休前最後一次公開聆訊。"
+      }
+    },
+    {
+      "id": "2026-07-30-lpg-fuel-subsidy-ends-taxis-minibuses",
+      "published_at": "2026-07-30T15:17:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "lpg",
+        "fuel-subsidy",
+        "taxi",
+        "minibus",
+        "transport-department"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-30/2026-07-30-lpg-fuel-subsidy-ends-taxis-minibuses.json",
+      "en": {
+        "headline": "Two-month LPG fuel subsidy for taxis and minibuses ends tonight",
+        "dek": "The temporary 50-cent-per-litre rebate for liquefied petroleum gas used by taxis, public light buses and school private light buses expires at 11.59 pm, after which drivers will pay full pump prices."
+      },
+      "zh": {
+        "headline": "的士小巴石油氣補貼今晚屆滿",
+        "dek": "為期兩個月、每公升0.5元的臨時石油氣燃料補貼將於今晚11時59分結束，受惠車輛其後須按油公司牌價全數付款。"
+      }
+    },
+    {
+      "id": "2026-07-30-ngau-tau-kok-security-guard-cat-cruelty-jail",
+      "published_at": "2026-07-30T15:16:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "animal-cruelty",
+        "court",
+        "ngau-tau-kok",
+        "security-guard"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-30/2026-07-30-ngau-tau-kok-security-guard-cat-cruelty-jail.json",
+      "en": {
+        "headline": "Security guard jailed four months for dumping resident's cat in rubbish bin",
+        "dek": "Chau Wing-lok, 62, admitted one count of animal cruelty at Kowloon City Magistrates' Courts after placing a lost cat in a plastic bag and discarding it at Lee Kee Building in Ngau Tau Kok last August."
+      },
+      "zh": {
+        "headline": "牛頭角保安員將走失貓丟入垃圾桶判囚四個月",
+        "dek": "62歲周姓保安員承認一項殘酷對待動物罪，於九龍城裁判法院被判即時入獄四個月，案涉去年8月在利基大廈將走失家貓裝袋棄置。"
+      }
+    },
+    {
+      "id": "2026-07-30-huanggang-port-colocation-arrangement-signed",
+      "published_at": "2026-07-30T15:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "huanggang-port",
+        "border",
+        "shenzhen",
+        "colocation",
+        "security-bureau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-30/2026-07-30-huanggang-port-colocation-arrangement-signed.json",
+      "en": {
+        "headline": "Hong Kong and Shenzhen sign colocation arrangement for Huanggang Port",
+        "dek": "Secretary for Security Tang Ping-keung and a Shenzhen vice-mayor signed the co-operation arrangement and right-to-use agreement, bringing the Hong Kong Port Area under HKSAR jurisdiction from midnight."
+      },
+      "zh": {
+        "headline": "港深簽署皇崗口岸「一地兩檢」合作安排",
+        "dek": "保安局局長鄧炳強與深圳市副市長今日在中環政府總部簽署合作安排及使用權協議，香港口岸區將於明日零時起由特區依法管轄。"
+      }
+    },
     {
       "id": "2026-07-30-hkma-base-rate-unchanged-fed",
       "published_at": "2026-07-30T14:20:00+08:00",
