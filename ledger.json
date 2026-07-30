@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T11:04:50+08:00",
+  "updated_at": "2026-07-30T14:20:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -187,6 +187,24 @@
       "id": "2026-07-30-nt-south-illegal-worker-operation-38",
       "first_seen": "2026-07-30T11:14:00+08:00",
       "headline_en": "38 arrested in New Territories South anti-illegal worker operation"
+    },
+    {
+      "key": "customs-airport-ketamine-cannabis-seizure-july29",
+      "id": "2026-07-30-customs-airport-ketamine-cannabis-seizure",
+      "first_seen": "2026-07-30T14:15:00+08:00",
+      "headline_en": "Customs seizes 36 kg ketamine and 21 kg cannabis at airport, arrests four"
+    },
+    {
+      "key": "zhongji-innolight-hong-kong-ipo-debut",
+      "id": "2026-07-30-zhongji-innolight-ipo-debut",
+      "first_seen": "2026-07-30T14:18:00+08:00",
+      "headline_en": "Zhongji Innolight shares fall on debut after HK$53.4 billion Hong Kong listing"
+    },
+    {
+      "key": "hkma-base-rate-unchanged-july30",
+      "id": "2026-07-30-hkma-base-rate-unchanged-fed",
+      "first_seen": "2026-07-30T14:20:00+08:00",
+      "headline_en": "HKMA keeps base rate at 4 per cent after Fed holds rates steady"
     }
   ]
 }
