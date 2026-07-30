@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-07-30T21:06:24+08:00",
+  "generated_at": "2026-07-30T21:09:53+08:00",
   "live_window_hours": 72,
-  "count": 43,
+  "count": 46,
   "articles": [
+    {
+      "id": "2026-07-30-tuen-mun-water-supply-restored",
+      "published_at": "2026-07-30T21:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "water-supplies",
+        "tuen-mun",
+        "pipe-leak",
+        "restoration"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-30/2026-07-30-tuen-mun-water-supply-restored.json",
+      "en": {
+        "headline": "Water supply restored to Tuen Mun estates after two-day repairs",
+        "dek": "The Water Supplies Department said supply gradually resumed from 6 pm on Thursday to estates including Yi Fung Court, Hin Fat Estate, Hang Shun Garden and Koon Fung Garden after further leak repairs."
+      },
+      "zh": {
+        "headline": "屯門多個屋苑傍晚起陸續恢復食水供應",
+        "dek": "水務署表示，經過兩日搶修富發里及屯興路水管漏點後，怡峰園、顯發邨、恒順園及冠峰園等屋苑星期四傍晚六時起陸續恢復供水。"
+      }
+    },
+    {
+      "id": "2026-07-30-yuen-long-castle-peak-road-truck-minibus-collision",
+      "published_at": "2026-07-30T21:14:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "yuen-long",
+        "castle-peak-road",
+        "minibus",
+        "truck"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-30/2026-07-30-yuen-long-castle-peak-road-truck-minibus-collision.json",
+      "en": {
+        "headline": "Six injured after truck and minibus collide on Castle Peak Road",
+        "dek": "A heavy goods vehicle and a green minibus collided on the Yuen Long-bound section of Castle Peak Road–Tam Mi near Po Wai around 4.30 pm, leaving six people with neck injuries."
+      },
+      "zh": {
+        "headline": "青山公路潭尾段貨車小巴相撞六人受傷",
+        "dek": "一輛重型貨車與一輛專線小巴星期四下午約四時半在元朗青山公路潭尾段近壆圍相撞，六人頸部受傷送往博愛醫院。"
+      }
+    },
+    {
+      "id": "2026-07-30-ce-advisers-luncheons-five-year-plan",
+      "published_at": "2026-07-30T21:12:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "chief-executive",
+        "five-year-plan",
+        "policy-address",
+        "ceca",
+        "northern-metropolis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-30/2026-07-30-ce-advisers-luncheons-five-year-plan.json",
+      "en": {
+        "headline": "Chief Executive concludes advisers' talks on first five-year plan",
+        "dek": "John Lee held three days of working luncheons with the Chief Executive's Council of Advisers to gather views on Hong Kong's first five-year plan and the 2026 Policy Address."
+      },
+      "zh": {
+        "headline": "李家超與特首顧問團完成三年規劃及施政報告交流",
+        "dek": "行政長官李家超一連三日與特首顧問團舉行工作午餐，聽取對香港第一個五年規劃及2026年施政報告的意見。"
+      }
+    },
     {
       "id": "2026-07-30-hkpf-korean-police-mou",
       "published_at": "2026-07-30T19:07:00+08:00",
