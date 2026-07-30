@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-07-31T05:40:24+08:00",
+  "generated_at": "2026-07-31T07:04:57+08:00",
   "live_window_hours": 72,
-  "count": 48,
+  "count": 51,
   "articles": [
+    {
+      "id": "2026-07-31-youth-suicide-rate-rise-2025",
+      "published_at": "2026-07-31T07:20:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "suicide-prevention",
+        "youth",
+        "samaritan-befrienders",
+        "mental-health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-31/2026-07-31-youth-suicide-rate-rise-2025.json",
+      "en": {
+        "headline": "Youth suicides hit near 10-year high in 2025, NGO says",
+        "dek": "Samaritan Befrienders Hong Kong reported 47 deaths among those aged 19 or under last year, up more than 30 per cent, while the overall suicide rate fell."
+      },
+      "zh": {
+        "headline": "2025年青少年自殺數字近十年最高",
+        "dek": "撒瑪利亞會指19歲或以下自殺死亡個案增至47宗，升逾三成，惟整體自殺率下跌。"
+      }
+    },
+    {
+      "id": "2026-07-31-red-cross-disaster-risk-map",
+      "published_at": "2026-07-31T07:18:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "red-cross",
+        "disaster-risk",
+        "climate",
+        "northern-metropolis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-31/2026-07-31-red-cross-disaster-risk-map.json",
+      "en": {
+        "headline": "Red Cross map shows northern districts face highest disaster risk",
+        "dek": "A new Hong Kong Red Cross study finds 14.7 per cent of the territory is at extreme risk from typhoons, extreme heat or fires, with Yuen Long and North District the most exposed."
+      },
+      "zh": {
+        "headline": "紅十字會災害風險地圖 元朗北區風險最高",
+        "dek": "香港紅十字會研究顯示全港近15%地區屬極端災害風險，元朗及北區最集中，超過一半地區同時面對兩種或以上高風險。"
+      }
+    },
+    {
+      "id": "2026-07-31-icac-hsbc-managers-bribery-charges",
+      "published_at": "2026-07-31T07:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "icac",
+        "hsbc",
+        "bribery",
+        "bank"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-31/2026-07-31-icac-hsbc-managers-bribery-charges.json",
+      "en": {
+        "headline": "Three former HSBC staff charged with bribery over account openings",
+        "dek": "The ICAC alleges the relationship managers at a Causeway Bay branch accepted payments in 2024 to help customers referred by an insurance agent jump the queue."
+      },
+      "zh": {
+        "headline": "三名前匯豐職員涉收賄協助開戶被控",
+        "dek": "廉署指三人於銅鑼灣分行任職關係經理期間，在2024年收受利益協助保險代理轉介客戶免排隊開立銀行帳戶。"
+      }
+    },
     {
       "id": "2026-07-30-to-kwa-wan-market-vibrio-cholera",
       "published_at": "2026-07-30T23:06:00+08:00",
