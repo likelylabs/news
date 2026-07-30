@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T13:05:27+08:00",
+  "updated_at": "2026-07-30T15:18:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -205,6 +205,24 @@
       "id": "2026-07-30-hkma-base-rate-unchanged-fed",
       "first_seen": "2026-07-30T14:20:00+08:00",
       "headline_en": "HKMA keeps base rate at 4 per cent after Fed holds rates steady"
+    },
+    {
+      "key": "huanggang-port-colocation-arrangement-signed",
+      "id": "2026-07-30-huanggang-port-colocation-arrangement-signed",
+      "first_seen": "2026-07-30T15:15:00+08:00",
+      "headline_en": "Hong Kong and Shenzhen sign colocation arrangement for Huanggang Port"
+    },
+    {
+      "key": "ngau-tau-kok-security-guard-cat-cruelty-sentence",
+      "id": "2026-07-30-ngau-tau-kok-security-guard-cat-cruelty-jail",
+      "first_seen": "2026-07-30T15:16:00+08:00",
+      "headline_en": "Security guard jailed four months for dumping resident's cat in rubbish bin"
+    },
+    {
+      "key": "lpg-fuel-subsidy-ends-july-30",
+      "id": "2026-07-30-lpg-fuel-subsidy-ends-taxis-minibuses",
+      "first_seen": "2026-07-30T15:17:00+08:00",
+      "headline_en": "Two-month LPG fuel subsidy for taxis and minibuses ends tonight"
     }
   ]
 }
