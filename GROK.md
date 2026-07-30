@@ -152,10 +152,10 @@ Full file-hygiene rules live in **TIDINESS.md** — follow it.
 
 - **English:** clear, professional wire-service style. Tight headline (no
   clickbait, no ALL CAPS, no trailing punctuation, 8–90 chars), a
-  one-sentence dek (**12–220 chars — a hard cap**; the build validator
-  rejects anything longer and that freezes ALL publishing until a human
-  fixes it, so count and trim a dense sentence), then short body
-  paragraphs. Aim for 3+ paragraphs so the app can place native
+  one-sentence dek (**12–220 chars**; the build auto-trims anything longer
+  to the cap with an ellipsis, but a cut-off dek reads worse — so write to
+  budget), then short body paragraphs. Aim for 3+ paragraphs so the app
+  can place native
   ads between them.
 - **Hong Kong Chinese (`zh`):** **Traditional Chinese in natural Hong Kong
   written register** — the Chinese a Hong Kong reader expects, using local

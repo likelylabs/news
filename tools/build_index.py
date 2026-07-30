@@ -36,9 +36,54 @@ TOP_KEYS = {"id", "published_at", "updated_at", "category", "tags",
             "breaking", "ai_generated", "story_key", "en", "zh"}
 LANG_KEYS = {"headline", "dek", "body"}
 
+# Length caps for the short display fields. Over-length values are trimmed
+# to the max (see normalize_lengths) rather than failing the run; the min is
+# still enforced by validation (truncation can't fix a too-short field).
+HEADLINE_MIN, HEADLINE_MAX = 8, 90
+DEK_MIN, DEK_MAX = 12, 220
+
 
 def err(path, msg):
     return f"{path}: {msg}"
+
+
+def truncate_text(s, max_len):
+    """Trim s to at most max_len characters, ending with an ellipsis.
+
+    Space-delimited text (English) is cut back to the last word boundary so
+    we don't slice a word in half; scripts without spaces (Chinese) fall
+    back to a hard cut. The ellipsis (…) counts as one character, so the
+    result is always <= max_len.
+    """
+    if len(s) <= max_len:
+        return s
+    cut = s[: max_len - 1].rstrip()
+    sp = cut.rfind(" ")
+    if sp >= max_len // 2:  # only honour a word boundary that isn't too greedy
+        cut = cut[:sp]
+    cut = cut.rstrip(" ,.;:!?—–-")
+    return cut + "…"
+
+
+def normalize_lengths(art):
+    """Auto-trim over-length headline/dek fields to their caps so one long
+    value degrades gracefully instead of failing the whole index build.
+
+    Mutates art in place and returns a list of human-readable change notes
+    (empty if nothing needed trimming).
+    """
+    notes = []
+    for lang in ("en", "zh"):
+        obj = art.get(lang)
+        if not isinstance(obj, dict):
+            continue
+        for key, cap in (("headline", HEADLINE_MAX), ("dek", DEK_MAX)):
+            val = obj.get(key)
+            if isinstance(val, str) and len(val) > cap:
+                new = truncate_text(val, cap)
+                obj[key] = new
+                notes.append(f"{lang}.{key} {len(val)}→{len(new)} chars")
+    return notes
 
 
 def validate_localized(lang, obj, path):
@@ -53,14 +98,14 @@ def validate_localized(lang, obj, path):
             problems.append(err(path, f"'{lang}.{k}' is required"))
     hl = obj.get("headline")
     if isinstance(hl, str):
-        if not (8 <= len(hl) <= 90):
-            problems.append(err(path, f"'{lang}.headline' length must be 8-90 (got {len(hl)})"))
+        if not (HEADLINE_MIN <= len(hl) <= HEADLINE_MAX):
+            problems.append(err(path, f"'{lang}.headline' length must be {HEADLINE_MIN}-{HEADLINE_MAX} (got {len(hl)})"))
     elif hl is not None:
         problems.append(err(path, f"'{lang}.headline' must be a string"))
     dek = obj.get("dek")
     if isinstance(dek, str):
-        if not (12 <= len(dek) <= 220):
-            problems.append(err(path, f"'{lang}.dek' length must be 12-220 (got {len(dek)})"))
+        if not (DEK_MIN <= len(dek) <= DEK_MAX):
+            problems.append(err(path, f"'{lang}.dek' length must be {DEK_MIN}-{DEK_MAX} (got {len(dek)})"))
     elif dek is not None:
         problems.append(err(path, f"'{lang}.dek' must be a string"))
     body = obj.get("body")
@@ -134,6 +179,7 @@ def main():
     all_problems = []
     seen_ids = {}
     entries = []
+    normalized = []
 
     for path in sorted(ARTICLES_DIR.glob("*/*.json")):
         expected_date = path.parent.name
@@ -142,6 +188,16 @@ def main():
         except json.JSONDecodeError as e:
             all_problems.append(err(path, f"invalid JSON: {e}"))
             continue
+
+        # Auto-trim over-length headline/dek before validating so one long
+        # field can't fail the whole run. The trimmed value is written back
+        # to the source article so it and the index stay consistent (the
+        # workflow's commit step picks up the rewritten file).
+        notes = normalize_lengths(art)
+        if notes:
+            path.write_text(json.dumps(art, ensure_ascii=False, indent=2) + "\n",
+                            encoding="utf-8")
+            normalized.extend(f"{path.relative_to(REPO)}: {n}" for n in notes)
 
         problems = validate(art, path, expected_date)
         all_problems += problems
@@ -170,6 +226,11 @@ def main():
             "en": {"headline": art["en"]["headline"], "dek": art["en"]["dek"]},
             "zh": {"headline": art["zh"]["headline"], "dek": art["zh"]["dek"]},
         })
+
+    if normalized:
+        print(f"auto-trimmed {len(normalized)} over-length field(s) to the cap:")
+        for n in normalized:
+            print("  - " + n)
 
     if all_problems:
         print("VALIDATION FAILED — index NOT written:", file=sys.stderr)
