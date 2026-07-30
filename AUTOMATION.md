@@ -59,7 +59,7 @@ ACCURACY — non-negotiable:
 FORMAT — for each story, create a file at articles/<YYYY-MM-DD>/<id>.json matching schema/article.schema.json (see schema/example-article.json). Fields:
 - id: "<YYYY-MM-DD>-<slug>"; published_at: the real current time to the minute in +08:00 (NOT a rounded placeholder like 12:00:00); ai_generated: true.
 - category: exactly one of politics, business, weather, transport, health, crime, community, culture, sport, technology. Optional tags (≤6 lowercase slugs). story_key: a lowercase slug naming the EVENT itself (not the headline).
-- en and zh, each with: headline (≤90 chars, no clickbait/ALL CAPS), dek (one sentence), body (array of 3+ plain-text paragraphs — no markdown, no links).
+- en and zh, each with: headline (8–90 chars, no clickbait/ALL CAPS), dek (one sentence, 12–220 chars — the build validator REJECTS anything longer, which freezes ALL publishing until fixed), body (array of 3+ plain-text paragraphs — no markdown, no links). These length caps are hard limits from schema/article.schema.json; count characters and trim if needed.
 - en: clear, professional wire-service English.
 - zh: natural Hong Kong Traditional Chinese in local written register (local terms/place names like 港鐵, 天文台, 立法會; never Simplified, never Mainland Mandarin phrasing). Same facts as the English, independently written — not a literal translation.
 
