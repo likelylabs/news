@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T05:40:24+08:00",
+  "updated_at": "2026-07-31T07:20:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -271,6 +271,24 @@
       "id": "2026-07-30-to-kwa-wan-market-vibrio-cholera",
       "first_seen": "2026-07-30T23:06:00+08:00",
       "headline_en": "FEHD closes To Kwa Wan Market stall after vibrio cholera found in fish tank"
+    },
+    {
+      "key": "icac-hsbc-causeway-bay-managers-bribery",
+      "id": "2026-07-31-icac-hsbc-managers-bribery-charges",
+      "first_seen": "2026-07-31T07:15:00+08:00",
+      "headline_en": "Three former HSBC staff charged with bribery over account openings"
+    },
+    {
+      "key": "red-cross-disaster-risk-hotspots-map",
+      "id": "2026-07-31-red-cross-disaster-risk-map",
+      "first_seen": "2026-07-31T07:18:00+08:00",
+      "headline_en": "Red Cross map shows northern districts face highest disaster risk"
+    },
+    {
+      "key": "youth-suicide-2025-ten-year-high",
+      "id": "2026-07-31-youth-suicide-rate-rise-2025",
+      "first_seen": "2026-07-31T07:20:00+08:00",
+      "headline_en": "Youth suicides hit near 10-year high in 2025, NGO says"
     }
   ]
 }
