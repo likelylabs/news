@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-07-30T21:09:53+08:00",
+  "generated_at": "2026-07-30T23:06:31+08:00",
   "live_window_hours": 72,
-  "count": 46,
+  "count": 48,
   "articles": [
+    {
+      "id": "2026-07-30-to-kwa-wan-market-vibrio-cholera",
+      "published_at": "2026-07-30T23:06:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "fehd",
+        "food-safety",
+        "cholera",
+        "to-kwa-wan",
+        "market"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-30/2026-07-30-to-kwa-wan-market-vibrio-cholera.json",
+      "en": {
+        "headline": "FEHD closes To Kwa Wan Market stall after vibrio cholera found in fish tank",
+        "dek": "A water sample taken on 24 July from stall F22 on the first floor of the market at 165 Ma Tau Wai Road tested positive; the stall remains closed for thorough disinfection."
+      },
+      "zh": {
+        "headline": "土瓜灣街市魚缸水驗出霍亂弧菌 食環署封閉檔位",
+        "dek": "馬頭圍道165號土瓜灣街市一樓F22號檔位7月24日抽取的魚缸水樣本驗出O1群霍亂弧菌，檔位已即時暫時封閉徹底清潔消毒。"
+      }
+    },
+    {
+      "id": "2026-07-30-customs-airport-18kg-ketamine-3kg-cannabis",
+      "published_at": "2026-07-30T23:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "drugs",
+        "airport",
+        "ketamine",
+        "cannabis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-30/2026-07-30-customs-airport-18kg-ketamine-3kg-cannabis.json",
+      "en": {
+        "headline": "Customs seizes 18 kg ketamine and 3 kg cannabis at airport, arrests two",
+        "dek": "A local woman arriving from Zurich and a Malaysian man from Bangkok were stopped with the drugs hidden in check-in luggage; the haul is valued at about HK$7.9 million."
+      },
+      "zh": {
+        "headline": "海關機場檢獲18公斤氯胺酮及3公斤大麻花 拘兩人",
+        "dek": "一名由蘇黎世抵港的本地女子及一名由曼谷抵港的馬來西亞男子，在託運行李藏毒被截獲，估計總市值約790萬元。"
+      }
+    },
     {
       "id": "2026-07-30-tuen-mun-water-supply-restored",
       "published_at": "2026-07-30T21:16:00+08:00",
