@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-07-31T13:04:35+08:00",
+  "generated_at": "2026-07-31T15:06:09+08:00",
   "live_window_hours": 72,
-  "count": 50,
+  "count": 52,
   "articles": [
+    {
+      "id": "2026-07-31-fehd-monthly-public-niche-allocation",
+      "published_at": "2026-07-31T15:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fehd",
+        "columbarium",
+        "public-niches",
+        "allocation",
+        "cemeteries"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-31/2026-07-31-fehd-monthly-public-niche-allocation.json",
+      "en": {
+        "headline": "FEHD launches monthly allocation of over 1,600 public niches from tomorrow",
+        "dek": "The enhanced arrangement replaces annual allocation and covers four columbaria; unsuccessful applicants for preferred sites will automatically be offered a niche at Tsang Tsui."
+      },
+      "zh": {
+        "headline": "食環署明日起每月編配逾1600個公眾骨灰龕位",
+        "dek": "新安排全面取代周年編配，涵蓋四個靈灰安置所；未能獲選指定地點者將自動獲配曾咀龕位。"
+      }
+    },
+    {
+      "id": "2026-07-31-huanggang-port-hk-area-established",
+      "published_at": "2026-07-31T15:05:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "huanggang-port",
+        "border",
+        "shenzhen",
+        "security-bureau",
+        "colocation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-31/2026-07-31-huanggang-port-hk-area-established.json",
+      "en": {
+        "headline": "Hong Kong Port Area at Huanggang established; Security Secretary inspects facilities",
+        "dek": "The Hong Kong Port Area came under HKSAR jurisdiction from midnight; Tang Ping-keung inspected the co-location facilities and chaired a cross-departmental meeting on readiness."
+      },
+      "zh": {
+        "headline": "皇崗口岸港方口岸區今日零時成立 鄧炳強視察並主持跨部門會議",
+        "dek": "港方口岸區由今日零時起由特區依法管轄；保安局局長鄧炳強下午視察聯檢大樓設施，並主持跨部門會議推進開通前準備工作。"
+      }
+    },
     {
       "id": "2026-07-31-scaffolding-safety-codes-addenda",
       "published_at": "2026-07-31T13:25:00+08:00",
