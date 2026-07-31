@@ -1,31 +1,27 @@
 {
   "id": "2026-08-01-thunderstorm-warning-morning",
-  "published_at": "2026-08-01T07:15:00+08:00",
+  "published_at": "2026-08-01T07:25:00+08:00",
   "category": "weather",
-  "tags": [
-    "thunderstorm",
-    "observatory",
-    "warning"
-  ],
+  "tags": ["thunderstorm", "hko"],
   "breaking": false,
   "ai_generated": true,
   "story_key": "thunderstorm-warning-aug1-morning",
   "en": {
-    "headline": "Thunderstorm warning issued for isolated storms this morning",
-    "dek": "The Hong Kong Observatory issued a Thunderstorm Warning at 6.45 am valid until 7.45 am as isolated thunderstorms are expected over the territory.",
+    "headline": "Thunderstorm warning issued for Saturday morning",
+    "dek": "The Hong Kong Observatory has issued a Thunderstorm Warning valid until 7:45 a.m., with isolated thunderstorms expected across the territory.",
     "body": [
-      "The Hong Kong Observatory issued a Thunderstorm Warning at 6.45 am on Saturday, saying the warning would remain in force until 7.45 am.",
-      "Isolated thunderstorms are expected to occur over Hong Kong, according to the Observatory.",
-      "The public is advised to take precautions, stay away from highly conductive objects, trees or masts, and avoid outdoor activities while the warning is in force."
+      "The Hong Kong Observatory issued a Thunderstorm Warning at 6:45 a.m. on Saturday. It remains in force until 7:45 a.m., with isolated thunderstorms expected to occur over Hong Kong.",
+      "A broad trough of low pressure is bringing cloudy conditions with showers and squally thunderstorms to the coast of Guangdong. The Observatory said showers will be heavy at times, and the maximum temperature is expected around 28 degrees Celsius under moderate east to southeasterly winds.",
+      "The public is advised to seek safe shelter when outdoors and keep away from highly conductive objects, trees or masts. The Observatory forecasts similar unsettled weather with heavy showers and thunderstorms continuing into Sunday and Monday."
     ]
   },
   "zh": {
-    "headline": "天文台發出雷暴警告 料有孤立雷暴",
-    "dek": "天文台於今早6時45分發出雷暴警告，有效至7時45分，預料本港有孤立雷暴。",
+    "headline": "天文台發出雷暴警告 有效至早上7時45分",
+    "dek": "香港天文台於今早6時45分發出雷暴警告，有效至7時45分，預期本港有局部地區雷暴。",
     "body": [
-      "香港天文台於今日（8月1日）早上6時45分發出雷暴警告，表示警告將維持至早上7時45分。",
-      "天文台表示，預料本港有孤立雷暴。",
-      "市民應採取適當預防措施，遠離導電物體、樹木或桅杆，並在警告生效期間盡量避免戶外活動。"
+      "香港天文台於星期六早上6時45分發出雷暴警告，警告有效至早上7時45分。天文台表示，預期本港有局部地區出現雷暴。",
+      "受一道廣泛低壓槽影響，廣東沿岸及本港天氣不穩定，多雲，有驟雨及狂風雷暴，雨勢有時頗大。氣溫介乎24至28度，吹和緩東至東南風。",
+      "天文台呼籲市民在戶外時盡快尋找安全地方躲避，並遠離高導電物體、樹木或桅杆。展望未來，星期日及星期一仍有大驟雨及雷暴。"
     ]
   }
 }
