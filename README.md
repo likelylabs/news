@@ -9,7 +9,7 @@ Ecosystem map and operating tenets: `~/localdev/radioapp-hq/CLAUDE.md`.
 ## How it works
 
 ```
- 3–4 scheduled automations           GitHub Action (this repo)          the app
+ 9 scheduled automations             GitHub Action (this repo)          the app
  (Grok, web/X + GitHub connector)     build-index.yml                    news section
  ───────────────────────────────     ─────────────────────────────      ───────────────
  read ledger.json  ─── dedup         on push:                           GET index.json

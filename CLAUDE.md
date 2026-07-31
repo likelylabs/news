@@ -6,7 +6,7 @@ ecosystem map and the eleven tenets before changing anything.
 
 ## Pipeline
 
-- **Write path:** 3–4 scheduled **Grok** automations (web/X + GitHub
+- **Write path:** 9 scheduled **Grok** automations (web/X + GitHub
   connector) write `articles/<date>/<id>.json` + append `ledger.json`. The
   brief is `GROK.md`; the paste-in prompt and schedule are in `AUTOMATION.md`.
 - **Enforce path:** the `build-index` GitHub Action validates every article,
