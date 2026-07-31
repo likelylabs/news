@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-07-31T15:08:52+08:00",
+  "generated_at": "2026-07-31T17:08:42+08:00",
   "live_window_hours": 72,
-  "count": 52,
+  "count": 56,
   "articles": [
+    {
+      "id": "2026-07-31-lantau-fire-extinguisher-forgery-arrest",
+      "published_at": "2026-07-31T17:16:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "fire-services",
+        "forgery",
+        "lantau",
+        "restaurant",
+        "contractor"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-31/2026-07-31-lantau-fire-extinguisher-forgery-arrest.json",
+      "en": {
+        "headline": "Man arrested over suspected forged fire extinguisher certificate",
+        "dek": "A 62-year-old contractor was arrested after investigators found severe corrosion on an extinguisher that had been certified as functional at a Lantau restaurant last year."
+      },
+      "zh": {
+        "headline": "疑虛報滅火筒檢查證書 62歲承辦商被捕",
+        "dek": "消防處調查大嶼山食肆滅火筒爆炸後，發現承辦商去年發出的證書聲稱器材正常，惟其後發現嚴重銹蝕，懷疑未曾親身檢查。"
+      }
+    },
+    {
+      "id": "2026-07-31-hotel-fire-escape-hoods-backtrack",
+      "published_at": "2026-07-31T17:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "hotels",
+        "fire-safety",
+        "home-affairs",
+        "smoke-hoods",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-31/2026-07-31-hotel-fire-escape-hoods-backtrack.json",
+      "en": {
+        "headline": "Authorities backtrack on mandatory fire escape hoods for hotels",
+        "dek": "The Home Affairs Department will only encourage hotels and guest houses to provide sufficient smoke hoods in rooms, after industry concerns were raised following an earlier statement that they would be required."
+      },
+      "zh": {
+        "headline": "當局改為鼓勵酒店提供逃生頭套 不再強制規定",
+        "dek": "民政事務總署回應業界關注後表示，只會鼓勵酒店及賓館在客房按最高住客量提供足夠煙霧頭套，不再強制要求。"
+      }
+    },
+    {
+      "id": "2026-07-31-super-typhoon-dolphin-hot-weather",
+      "published_at": "2026-07-31T17:12:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "typhoon",
+        "observatory",
+        "hot-weather",
+        "dolphin",
+        "forecast"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-31/2026-07-31-super-typhoon-dolphin-hot-weather.json",
+      "en": {
+        "headline": "Super Typhoon Dolphin expected to bring very hot weather next week",
+        "dek": "The Hong Kong Observatory said the storm’s outer subsiding airstream is likely to affect the southeastern China coast in the latter part of next week, though its later track remains uncertain."
+      },
+      "zh": {
+        "headline": "超強颱風海豚料下周後期為本港帶來酷熱天氣",
+        "dek": "天文台指風暴外圍下沉氣流有較大機會影響華南沿岸，惟其後路徑仍有變數，現階段難料會否帶來暴雨。"
+      }
+    },
+    {
+      "id": "2026-07-31-dse-mainland-entry-fee-hike",
+      "published_at": "2026-07-31T17:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "dse",
+        "hkeaa",
+        "education",
+        "mainland",
+        "examination-fees"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-31/2026-07-31-dse-mainland-entry-fee-hike.json",
+      "en": {
+        "headline": "Mainland DSE candidates face 220 per cent entry fee rise to HK$8,000",
+        "dek": "The Hong Kong Examinations and Assessment Authority ends a three-year pilot subsidy, raising the initial fee for candidates sitting the diploma exam at designated mainland centres."
+      },
+      "zh": {
+        "headline": "內地考DSE初步報名費升220%至8000元",
+        "dek": "考評局結束三年試驗計劃後調整費用，於指定內地試場應考文憑試的考生初步報名費將由2500元增至8000元。"
+      }
+    },
     {
       "id": "2026-07-31-fehd-monthly-public-niche-allocation",
       "published_at": "2026-07-31T15:08:00+08:00",
