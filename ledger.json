@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T15:08:52+08:00",
+  "updated_at": "2026-07-31T17:18:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -349,6 +349,30 @@
       "id": "2026-07-31-fehd-monthly-public-niche-allocation",
       "first_seen": "2026-07-31T15:08:00+08:00",
       "headline_en": "FEHD launches monthly allocation of over 1,600 public niches from tomorrow"
+    },
+    {
+      "key": "dse-mainland-entry-fee-hike-2026",
+      "id": "2026-07-31-dse-mainland-entry-fee-hike",
+      "first_seen": "2026-07-31T17:10:00+08:00",
+      "headline_en": "Mainland DSE candidates face 220 per cent entry fee rise to HK$8,000"
+    },
+    {
+      "key": "super-typhoon-dolphin-hot-weather-forecast",
+      "id": "2026-07-31-super-typhoon-dolphin-hot-weather",
+      "first_seen": "2026-07-31T17:12:00+08:00",
+      "headline_en": "Super Typhoon Dolphin expected to bring very hot weather next week"
+    },
+    {
+      "key": "hotel-fire-escape-hoods-policy-backtrack",
+      "id": "2026-07-31-hotel-fire-escape-hoods-backtrack",
+      "first_seen": "2026-07-31T17:14:00+08:00",
+      "headline_en": "Authorities backtrack on mandatory fire escape hoods for hotels"
+    },
+    {
+      "key": "lantau-fire-extinguisher-forgery-arrest",
+      "id": "2026-07-31-lantau-fire-extinguisher-forgery-arrest",
+      "first_seen": "2026-07-31T17:16:00+08:00",
+      "headline_en": "Man arrested over suspected forged fire extinguisher certificate"
     }
   ]
 }
