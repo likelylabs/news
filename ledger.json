@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T11:07:06+08:00",
+  "updated_at": "2026-07-31T13:25:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -319,6 +319,24 @@
       "id": "2026-07-31-advance-decision-ordinance-takes-effect",
       "first_seen": "2026-07-31T11:12:00+08:00",
       "headline_en": "Advance Decision on Life-sustaining Treatment Ordinance takes effect"
+    },
+    {
+      "key": "tsim-sha-tsui-bar-assault-victim-dies-murder",
+      "id": "2026-07-31-tsim-sha-tsui-bar-victim-dies-murder",
+      "first_seen": "2026-07-31T13:20:00+08:00",
+      "headline_en": "Tsim Sha Tsui bar assault victim dies, police reclassify case as murder"
+    },
+    {
+      "key": "red-rainstorm-warning-jul31",
+      "id": "2026-07-31-red-rainstorm-warning-pm-schools",
+      "first_seen": "2026-07-31T13:22:00+08:00",
+      "headline_en": "Red rainstorm warning issued; afternoon school classes cancelled"
+    },
+    {
+      "key": "scaffolding-safety-codes-addenda-gazetted",
+      "id": "2026-07-31-scaffolding-safety-codes-addenda",
+      "first_seen": "2026-07-31T13:25:00+08:00",
+      "headline_en": "Labour Department gazettes addenda to scaffolding safety codes"
     }
   ]
 }
