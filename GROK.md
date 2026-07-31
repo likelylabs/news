@@ -65,13 +65,17 @@ Observatory** (and other primary / reputable outlets as needed). Use
 
 ### Notable weather (any run)
 
-When there is **notable weather ahead or underway** — typhoon / tropical
-cyclone signals, black/red rainstorm, thunderstorm warnings that matter for
-the city, extreme heat or cold, strong monsoon, serious air quality, or
-similar — publish a weather article **in addition to** ordinary news. Lead
-with what is in force or expected, what the public should know, and the
-Observatory's latest. If nothing notable is happening, do not invent a
-weather piece.
+**Any official HKO weather warning in force or clearly ahead requires an article.** This includes:
+
+- every Thunderstorm Warning (including short-duration or "isolated" ones),
+- Amber / Red / Black Rainstorm Warning,
+- any Tropical Cyclone signal (T1 and above),
+- Strong Monsoon Signal,
+- extreme heat or cold warnings,
+- serious air-quality warnings,
+- and similar official signals.
+
+Do **not** skip ordinary or short Thunderstorm Warnings. Write at least a short piece. Lead with what is in force, the issue time and validity period, expected impacts, and any local geographic detail the Observatory provides (districts, heights, etc.). Source strictly from the Observatory. If nothing is in force and nothing notable is clearly ahead, do not invent a weather piece.
 
 ### Standing outlooks (time-aware)
 
