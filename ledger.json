@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T21:05:55+08:00",
+  "updated_at": "2026-08-01T02:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -415,6 +415,24 @@
       "id": "2026-07-31-h1-crime-figures-down",
       "first_seen": "2026-07-31T21:11:00+08:00",
       "headline_en": "Overall crime falls 1.5 per cent in first half as phishing scams surge"
+    },
+    {
+      "key": "mainland-talent-visa-university-fees-judicial-review",
+      "id": "2026-08-01-mainland-families-university-fees-challenge",
+      "first_seen": "2026-08-01T02:10:00+08:00",
+      "headline_en": "High Court rejects mainland families' challenge to university fee rules"
+    },
+    {
+      "key": "ha-risk-alert-q1-2026-medication-errors",
+      "id": "2026-08-01-ha-medication-errors-q1-2026",
+      "first_seen": "2026-08-01T02:12:00+08:00",
+      "headline_en": "Public hospitals record 26 serious medication errors in first quarter"
+    },
+    {
+      "key": "kwun-tong-wai-lok-ev-lpg-station-sale",
+      "id": "2026-08-01-kwun-tong-ev-lpg-site-tender",
+      "first_seen": "2026-08-01T02:14:00+08:00",
+      "headline_en": "Government tenders Kwun Tong site for EV fast charging and LPG station"
     }
   ]
 }
