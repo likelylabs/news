@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T19:08:58+08:00",
+  "updated_at": "2026-07-31T21:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -391,6 +391,30 @@
       "id": "2026-07-31-hkhs-lotus-tower-fire-alarm-fine",
       "first_seen": "2026-07-31T19:14:00+08:00",
       "headline_en": "Housing Society fined HK$8,000 over faulty fire alarm after fatal blaze"
+    },
+    {
+      "key": "dickson-poon-insider-dealing-mmt",
+      "id": "2026-07-31-dickson-poon-insider-dealing-mmt",
+      "first_seen": "2026-07-31T21:05:00+08:00",
+      "headline_en": "Market Misconduct Tribunal finds Sir Dickson Poon culpable of insider dealing"
+    },
+    {
+      "key": "hk-q2-2026-gdp-growth",
+      "id": "2026-07-31-q2-gdp-4-3-percent",
+      "first_seen": "2026-07-31T21:07:00+08:00",
+      "headline_en": "Hong Kong GDP expands 4.3 per cent in second quarter"
+    },
+    {
+      "key": "causeway-bay-dermasa-controlled-drugs",
+      "id": "2026-07-31-causeway-bay-beauty-parlour-poisons",
+      "first_seen": "2026-07-31T21:09:00+08:00",
+      "headline_en": "Woman arrested over beauty parlour product containing undeclared controlled drugs"
+    },
+    {
+      "key": "hk-h1-2026-overall-crime-down",
+      "id": "2026-07-31-h1-crime-figures-down",
+      "first_seen": "2026-07-31T21:11:00+08:00",
+      "headline_en": "Overall crime falls 1.5 per cent in first half as phishing scams surge"
     }
   ]
 }
