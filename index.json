@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-07-31T07:04:57+08:00",
+  "generated_at": "2026-07-31T09:06:45+08:00",
   "live_window_hours": 72,
-  "count": 51,
+  "count": 54,
   "articles": [
+    {
+      "id": "2026-07-31-cheung-tsing-highway-truck-collision-probe",
+      "published_at": "2026-07-31T09:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "tsing-yi",
+        "cheung-tsing-highway",
+        "airport",
+        "transport-department"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-31/2026-07-31-cheung-tsing-highway-truck-collision-probe.json",
+      "en": {
+        "headline": "Transport Department orders probe after truck crash snarls airport link",
+        "dek": "A medium goods vehicle overturned on Cheung Tsing Highway in Tsing Yi during the Thursday evening rush hour, causing more than three hours of gridlock on the route to the airport."
+      },
+      "zh": {
+        "headline": "長青公路貨車翻側堵塞機場通道 運輸署要求調查",
+        "dek": "一輛中型貨車星期四晚在青衣長青公路翻側，導致往機場方向交通癱瘓逾三小時，運輸署已要求青馬管制區營辦商提交報告。"
+      }
+    },
+    {
+      "id": "2026-07-31-mai-po-warehouse-no3-fire",
+      "published_at": "2026-07-31T09:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "mai-po",
+        "warehouse",
+        "yuen-long",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-31/2026-07-31-mai-po-warehouse-no3-fire.json",
+      "en": {
+        "headline": "No. 3 alarm fire breaks out at Mai Po warehouse",
+        "dek": "Firefighters used three jets and breathing apparatus teams after the blaze at Luk Mei Tsuen was upgraded early on Friday; no casualties have been reported."
+      },
+      "zh": {
+        "headline": "米埔倉庫三級火 消防出動三條喉及煙帽隊",
+        "dek": "元朗米埔綠美村倉庫凌晨起火，約四時半升為三級火，消防以三條喉及煙帽隊灌救，暫未有人受傷。"
+      }
+    },
+    {
+      "id": "2026-07-31-langham-place-rodent-vermin-notice",
+      "published_at": "2026-07-31T09:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fehd",
+        "rodent",
+        "mong-kok",
+        "langham-place",
+        "hygiene"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-31/2026-07-31-langham-place-rodent-vermin-notice.json",
+      "en": {
+        "headline": "FEHD issues vermin notice to Langham Place after rat video",
+        "dek": "The department ordered the Mong Kok shopping centre's management to eliminate conditions conducive to rodents by 6 August or face possible prosecution."
+      },
+      "zh": {
+        "headline": "食環署向朗豪坊發消除蟲鼠通知 限期8月6日前改善",
+        "dek": "旺角朗豪坊有影片顯示老鼠沿扶手奔跑，食環署巡查後發現鼠跡及天花孔洞，向管理方發出法定通知，否則可被檢控。"
+      }
+    },
     {
       "id": "2026-07-31-youth-suicide-rate-rise-2025",
       "published_at": "2026-07-31T07:20:00+08:00",
