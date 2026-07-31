@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T15:06:09+08:00",
+  "updated_at": "2026-07-31T15:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -337,6 +337,18 @@
       "id": "2026-07-31-scaffolding-safety-codes-addenda",
       "first_seen": "2026-07-31T13:25:00+08:00",
       "headline_en": "Labour Department gazettes addenda to scaffolding safety codes"
+    },
+    {
+      "key": "huanggang-port-hk-area-established-jul31",
+      "id": "2026-07-31-huanggang-port-hk-area-established",
+      "first_seen": "2026-07-31T15:05:00+08:00",
+      "headline_en": "Hong Kong Port Area at Huanggang established; Security Secretary inspects facilities"
+    },
+    {
+      "key": "fehd-monthly-niche-allocation-from-aug1",
+      "id": "2026-07-31-fehd-monthly-public-niche-allocation",
+      "first_seen": "2026-07-31T15:08:00+08:00",
+      "headline_en": "FEHD launches monthly allocation of over 1,600 public niches from tomorrow"
     }
   ]
 }
