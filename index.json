@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-07-31T19:08:58+08:00",
+  "generated_at": "2026-07-31T21:05:55+08:00",
   "live_window_hours": 72,
-  "count": 56,
+  "count": 60,
   "articles": [
+    {
+      "id": "2026-07-31-h1-crime-figures-down",
+      "published_at": "2026-07-31T21:11:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "crime-statistics",
+        "fraud",
+        "phishing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-31/2026-07-31-h1-crime-figures-down.json",
+      "en": {
+        "headline": "Overall crime falls 1.5 per cent in first half as phishing scams surge",
+        "dek": "Police recorded 42,736 offences in the first six months of 2026, down 671 cases from a year earlier, while phishing fraud rose about 61 per cent."
+      },
+      "zh": {
+        "headline": "上半年整體罪案跌1.5% 釣魚騙案升約六成",
+        "dek": "今年首六個月錄得42,736宗罪案，較去年同期減少671宗；釣魚騙案則上升約61%。"
+      }
+    },
+    {
+      "id": "2026-07-31-causeway-bay-beauty-parlour-poisons",
+      "published_at": "2026-07-31T21:09:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "department-of-health",
+        "pharmacy",
+        "poisons",
+        "causeway-bay",
+        "beauty"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-31/2026-07-31-causeway-bay-beauty-parlour-poisons.json",
+      "en": {
+        "headline": "Woman arrested over beauty parlour product containing undeclared controlled drugs",
+        "dek": "The Department of Health and police acted against a Causeway Bay parlour after laboratory tests found a topical cream labelled Dermasa contained three local anaesthetics classified as Part 1 poisons."
+      },
+      "zh": {
+        "headline": "銅鑼灣美容院售含未標示受管制藥物產品 女子被捕",
+        "dek": "衞生署聯同警方採取行動，化驗顯示名為Dermasa的外用產品含有三種屬第1部毒藥的局部麻醉劑。"
+      }
+    },
+    {
+      "id": "2026-07-31-q2-gdp-4-3-percent",
+      "published_at": "2026-07-31T21:07:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "gdp",
+        "economy",
+        "census-statistics",
+        "exports"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-31/2026-07-31-q2-gdp-4-3-percent.json",
+      "en": {
+        "headline": "Hong Kong GDP expands 4.3 per cent in second quarter",
+        "dek": "Advance estimates show the economy grew for a 14th consecutive quarter, driven by strong merchandise exports, though seasonally adjusted growth slipped 0.6 per cent from the first quarter."
+      },
+      "zh": {
+        "headline": "本港第二季本地生產總值按年升4.3%",
+        "dek": "政府公布初步估計，第二季經濟連續第14季擴張，貨品出口表現強勁，惟經季節性調整後按季下跌0.6%。"
+      }
+    },
+    {
+      "id": "2026-07-31-dickson-poon-insider-dealing-mmt",
+      "published_at": "2026-07-31T21:05:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "sfc",
+        "market-misconduct",
+        "insider-dealing",
+        "dickson-concepts"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-31/2026-07-31-dickson-poon-insider-dealing-mmt.json",
+      "en": {
+        "headline": "Market Misconduct Tribunal finds Sir Dickson Poon culpable of insider dealing",
+        "dek": "The tribunal ruled that the Dickson Concepts founder bought shares while in possession of inside information about a US$4 billion acquisition that later yielded the company about HK$1.15 billion in cash."
+      },
+      "zh": {
+        "headline": "市場失當行為審裁處裁定潘廸生爵士內幕交易罪成",
+        "dek": "審裁處裁定廸生創建創辦人兼前集團執行主席在掌握有關一項最終為公司帶來約11.5億港元現金交易的內幕消息下，買入公司股份。"
+      }
+    },
     {
       "id": "2026-07-31-hkhs-lotus-tower-fire-alarm-fine",
       "published_at": "2026-07-31T19:14:00+08:00",
