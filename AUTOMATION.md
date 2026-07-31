@@ -80,11 +80,11 @@ WORKFLOW (do in order):
 4. Choose up to 5 net-new news stories (usually fewer). Zero is a fine result for news.
 
 WEATHER (in addition to news — does not count against the 5-news budget):
-- Notable weather any run: if typhoon/tropical cyclone signals, serious rainstorm or thunderstorm warnings, extreme heat/cold, strong monsoon, serious air quality, or similar is in force or clearly ahead, publish a weather article (category: weather) sourced from the Hong Kong Observatory. If nothing notable, do not invent one.
+- Any official HKO warning in force or clearly ahead: publish a weather article (category: weather) sourced from the Hong Kong Observatory. This includes every Thunderstorm Warning, Amber/Red/Black Rainstorm Warning, any Tropical Cyclone signal (T1+), Strong Monsoon Signal, extreme heat/cold warnings, serious air quality, and similar. Do not skip “ordinary” or short-duration Thunderstorm Warnings — write at least a short piece. Include issue time, validity period, expected impacts, and any local geographic detail the Observatory provides. If nothing is in force and nothing notable is clearly ahead, do not invent one.
 - Standing weekend outlook: on a normal week, Friday around lunchtime HKT (~12:00–14:00) — publish a weekend weather outlook if not already in the ledger for that span. Prefer the run inside that window; if missed, catch up same day.
 - Standing work-week outlook: on a normal week, Sunday afternoon HKT (~14:00–18:00) — publish a work-week weather outlook if not already in the ledger for that span.
 - Long weekends / HK public holidays: "Friday" and "Sunday" are colloquial hinge points for a normal weekend. If a public holiday creates a long weekend or shifts the break, move the brief to the real hinge day and cover the full break or full work stretch (e.g. Fri–Mon, or Tue start after a Monday holiday).
-- story_keys like weekend-weather-outlook-aug1 / workweek-weather-outlook-aug3; only re-publish if the forecast has materially changed (new id/key naming the update).
+- story_keys like thunderstorm-warning-aug1-morning / weekend-weather-outlook-aug1 / workweek-weather-outlook-aug3; only re-publish if the forecast or warning status has materially changed (new id/key naming the update).
 
 ACCURACY — non-negotiable:
 - Never fabricate quotes, names, numbers, dates, or events. If you did not find it in real reporting, leave it out.
