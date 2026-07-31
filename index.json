@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-07-31T09:06:45+08:00",
+  "generated_at": "2026-07-31T11:07:06+08:00",
   "live_window_hours": 72,
-  "count": 54,
+  "count": 56,
   "articles": [
+    {
+      "id": "2026-07-31-advance-decision-ordinance-takes-effect",
+      "published_at": "2026-07-31T11:12:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "end-of-life",
+        "advance-directive",
+        "hospital-authority",
+        "health-bureau",
+        "legislation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-31/2026-07-31-advance-decision-ordinance-takes-effect.json",
+      "en": {
+        "headline": "Advance Decision on Life-sustaining Treatment Ordinance takes effect",
+        "dek": "The new law provides a legal framework for advance medical directives and do-not-attempt CPR orders, offering protection for patients’ wishes and for medical staff who follow them."
+      },
+      "zh": {
+        "headline": "《維持生命治療的預作決定條例》今日生效",
+        "dek": "新法例為預設醫療指示及不作心肺復甦術命令提供法律框架，保障病人意願及遵從指示的醫護人員。"
+      }
+    },
+    {
+      "id": "2026-07-31-tai-po-tolo-highway-motorcycle-fatal",
+      "published_at": "2026-07-31T11:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "tai-po",
+        "tolo-highway",
+        "motorcycle",
+        "dangerous-driving"
+      ],
+      "breaking": false,
+      "path": "articles/2026-07-31/2026-07-31-tai-po-tolo-highway-motorcycle-fatal.json",
+      "en": {
+        "headline": "Motorcyclist dies after Tolo Highway crash in Tai Po",
+        "dek": "A 39-year-old man was certified dead after his motorcycle fell and was struck by a private car on Thursday evening; the car driver has been arrested for dangerous driving causing death."
+      },
+      "zh": {
+        "headline": "大埔吐露港公路電單車車禍 男司機死亡",
+        "dek": "一名39歲男子星期四晚騎電單車在吐露港公路失控跌倒，再被私家車輾過，其後證實死亡；私家車司機涉嫌危險駕駛導致他人死亡被捕。"
+      }
+    },
     {
       "id": "2026-07-31-cheung-tsing-highway-truck-collision-probe",
       "published_at": "2026-07-31T09:10:00+08:00",
