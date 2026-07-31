@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T07:04:57+08:00",
+  "updated_at": "2026-07-31T09:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -289,6 +289,24 @@
       "id": "2026-07-31-youth-suicide-rate-rise-2025",
       "first_seen": "2026-07-31T07:20:00+08:00",
       "headline_en": "Youth suicides hit near 10-year high in 2025, NGO says"
+    },
+    {
+      "key": "langham-place-rodent-vermin-notice",
+      "id": "2026-07-31-langham-place-rodent-vermin-notice",
+      "first_seen": "2026-07-31T09:06:00+08:00",
+      "headline_en": "FEHD issues vermin notice to Langham Place after rat video"
+    },
+    {
+      "key": "mai-po-luk-mei-tsuen-warehouse-fire",
+      "id": "2026-07-31-mai-po-warehouse-no3-fire",
+      "first_seen": "2026-07-31T09:08:00+08:00",
+      "headline_en": "No. 3 alarm fire breaks out at Mai Po warehouse"
+    },
+    {
+      "key": "cheung-tsing-highway-truck-overturn-probe",
+      "id": "2026-07-31-cheung-tsing-highway-truck-collision-probe",
+      "first_seen": "2026-07-31T09:10:00+08:00",
+      "headline_en": "Transport Department orders probe after truck crash snarls airport link"
     }
   ]
 }
