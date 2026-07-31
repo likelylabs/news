@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T09:06:45+08:00",
+  "updated_at": "2026-07-31T11:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -307,6 +307,18 @@
       "id": "2026-07-31-cheung-tsing-highway-truck-collision-probe",
       "first_seen": "2026-07-31T09:10:00+08:00",
       "headline_en": "Transport Department orders probe after truck crash snarls airport link"
+    },
+    {
+      "key": "tai-po-tolo-highway-motorcycle-fatal",
+      "id": "2026-07-31-tai-po-tolo-highway-motorcycle-fatal",
+      "first_seen": "2026-07-31T11:10:00+08:00",
+      "headline_en": "Motorcyclist dies after Tolo Highway crash in Tai Po"
+    },
+    {
+      "key": "advance-decision-ordinance-takes-effect",
+      "id": "2026-07-31-advance-decision-ordinance-takes-effect",
+      "first_seen": "2026-07-31T11:12:00+08:00",
+      "headline_en": "Advance Decision on Life-sustaining Treatment Ordinance takes effect"
     }
   ]
 }
