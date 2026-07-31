@@ -1,27 +1,26 @@
 {
-  "generated_at": "2026-08-01T07:19:18+08:00",
+  "generated_at": "2026-08-01T07:20:15+08:00",
   "live_window_hours": 72,
   "count": 57,
   "articles": [
     {
       "id": "2026-08-01-thunderstorm-warning-morning",
-      "published_at": "2026-08-01T07:15:00+08:00",
+      "published_at": "2026-08-01T07:25:00+08:00",
       "updated_at": null,
       "category": "weather",
       "tags": [
         "thunderstorm",
-        "observatory",
-        "warning"
+        "hko"
       ],
       "breaking": false,
       "path": "articles/2026-08-01/2026-08-01-thunderstorm-warning-morning.json",
       "en": {
-        "headline": "Thunderstorm warning issued for isolated storms this morning",
-        "dek": "The Hong Kong Observatory issued a Thunderstorm Warning at 6.45 am valid until 7.45 am as isolated thunderstorms are expected over the territory."
+        "headline": "Thunderstorm warning issued for Saturday morning",
+        "dek": "The Hong Kong Observatory has issued a Thunderstorm Warning valid until 7:45 a.m., with isolated thunderstorms expected across the territory."
       },
       "zh": {
-        "headline": "天文台發出雷暴警告 料有孤立雷暴",
-        "dek": "天文台於今早6時45分發出雷暴警告，有效至7時45分，預料本港有孤立雷暴。"
+        "headline": "天文台發出雷暴警告 有效至早上7時45分",
+        "dek": "香港天文台於今早6時45分發出雷暴警告，有效至7時45分，預期本港有局部地區雷暴。"
       }
     },
     {
