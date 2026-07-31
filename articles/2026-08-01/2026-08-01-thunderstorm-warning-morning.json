@@ -1,0 +1,31 @@
+{
+  "id": "2026-08-01-thunderstorm-warning-morning",
+  "published_at": "2026-08-01T07:15:00+08:00",
+  "category": "weather",
+  "tags": [
+    "thunderstorm",
+    "observatory",
+    "warning"
+  ],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "thunderstorm-warning-aug1-morning",
+  "en": {
+    "headline": "Thunderstorm warning issued for isolated storms this morning",
+    "dek": "The Hong Kong Observatory issued a Thunderstorm Warning at 6.45 am valid until 7.45 am as isolated thunderstorms are expected over the territory.",
+    "body": [
+      "The Hong Kong Observatory issued a Thunderstorm Warning at 6.45 am on Saturday, saying the warning would remain in force until 7.45 am.",
+      "Isolated thunderstorms are expected to occur over Hong Kong, according to the Observatory.",
+      "The public is advised to take precautions, stay away from highly conductive objects, trees or masts, and avoid outdoor activities while the warning is in force."
+    ]
+  },
+  "zh": {
+    "headline": "天文台發出雷暴警告 料有孤立雷暴",
+    "dek": "天文台於今早6時45分發出雷暴警告，有效至7時45分，預料本港有孤立雷暴。",
+    "body": [
+      "香港天文台於今日（8月1日）早上6時45分發出雷暴警告，表示警告將維持至早上7時45分。",
+      "天文台表示，預料本港有孤立雷暴。",
+      "市民應採取適當預防措施，遠離導電物體、樹木或桅杆，並在警告生效期間盡量避免戶外活動。"
+    ]
+  }
+}
