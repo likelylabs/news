@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T17:09:00+08:00",
+  "updated_at": "2026-08-01T23:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -67,6 +67,18 @@
       "id": "2026-08-01-tai-po-taxi-furious-driving-arrest",
       "first_seen": "2026-08-01T17:09:00+08:00",
       "headline_en": "Taxi driver arrested after crash injures family of three in Tai Po"
+    },
+    {
+      "key": "triad-debt-collection-syndicate-jul2026",
+      "id": "2026-08-01-triad-debt-collection-57-arrested",
+      "first_seen": "2026-08-01T23:10:00+08:00",
+      "headline_en": "Police arrest 57 including 14-year-old in triad debt collection crackdown"
+    },
+    {
+      "key": "pla-hk-garrison-99th-anniversary-reception-2026",
+      "id": "2026-08-01-pla-garrison-99th-anniversary-reception",
+      "first_seen": "2026-08-01T23:12:00+08:00",
+      "headline_en": "PLA Hong Kong Garrison marks 99th anniversary of army founding with reception"
     }
   ]
 }
