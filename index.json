@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-08-01T17:09:00+08:00",
+  "generated_at": "2026-08-01T23:08:14+08:00",
   "live_window_hours": 72,
-  "count": 64,
+  "count": 62,
   "articles": [
+    {
+      "id": "2026-08-01-pla-garrison-99th-anniversary-reception",
+      "published_at": "2026-08-01T23:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "pla",
+        "garrison",
+        "national-day",
+        "defence",
+        "stonecutters-island"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-01/2026-08-01-pla-garrison-99th-anniversary-reception.json",
+      "en": {
+        "headline": "PLA Hong Kong Garrison marks 99th anniversary of army founding with reception",
+        "dek": "Political commissar Rear Admiral Lai Ruxin and Chief Executive John Lee spoke at the event held at Ngong Shuen Chau Barracks on Stonecutters Island."
+      },
+      "zh": {
+        "headline": "駐港部隊舉行建軍99周年招待會",
+        "dek": "政治委員賴汝新少將及行政長官李家超在昂船洲軍營出席活動並致辭。"
+      }
+    },
+    {
+      "id": "2026-08-01-triad-debt-collection-57-arrested",
+      "published_at": "2026-08-01T23:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "triad",
+        "debt-collection",
+        "arrest",
+        "youth"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-01/2026-08-01-triad-debt-collection-57-arrested.json",
+      "en": {
+        "headline": "Police arrest 57 including 14-year-old in triad debt collection crackdown",
+        "dek": "Officers dismantled a triad-controlled syndicate that recruited youths for red-paint attacks and threats, also shutting a brothel, drug den and three illegal gambling dens."
+      },
+      "zh": {
+        "headline": "警搗破三合會放數集團拘57人 包括14歲少年",
+        "dek": "警方瓦解一個三合會操控的非法追債集團，並搗破一間色情場所、一所毒窟及三個非法賭場，部分被捕者年紀僅十多歲。"
+      }
+    },
     {
       "id": "2026-08-01-tai-po-taxi-furious-driving-arrest",
       "published_at": "2026-08-01T17:09:00+08:00",
@@ -1350,94 +1396,6 @@
       "zh": {
         "headline": "海關深圳灣檢獲22.5萬枚電子芯片 估值625萬元",
         "dek": "關員截查一輛出境私家車，在車尾箱發現懷疑未列艙單貨物；兩名男子被控意圖輸出未列艙單貨物，今早在屯門裁判法院應訊。"
-      }
-    },
-    {
-      "id": "2026-07-29-mong-kok-wounding-mainland-tourist",
-      "published_at": "2026-07-29T21:12:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "wounding",
-        "mong-kok",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-29/2026-07-29-mong-kok-wounding-mainland-tourist.json",
-      "en": {
-        "headline": "Mainland visitor wounded in Mong Kok early-morning attack",
-        "dek": "A 35-year-old man was injured in the neck at a building on Argyle Street around 2 am; police classify the case as wounding and are seeking a suspect."
-      },
-      "zh": {
-        "headline": "旺角凌晨傷人案內地男頸部受傷",
-        "dek": "35歲男子約凌晨2時在亞皆老街大廈內頸部受傷，清醒送院；警方列傷人案調查，正通緝一名疑犯。"
-      }
-    },
-    {
-      "id": "2026-07-29-fehd-unlicensed-hawkers-food-crackdown",
-      "published_at": "2026-07-29T21:08:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fehd",
-        "food-safety",
-        "hawkers",
-        "unlicensed"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-29/2026-07-29-fehd-unlicensed-hawkers-food-crackdown.json",
-      "en": {
-        "headline": "FEHD arrests 14 unlicensed hawkers and seizes nearly 600 kg of food",
-        "dek": "An intelligence-led citywide operation that began on 17 July targeted high-risk locations; suspects aged 38 to 74 face charges including obstruction and selling restricted food."
-      },
-      "zh": {
-        "headline": "食環署拘14名無牌小販檢獲近600公斤食品",
-        "dek": "由7月17日起展開的情報主導全港行動針對高風險地點，涉案者年齡38至74歲，大部分另被控阻街，兩人兼控售賣限制售賣食物。"
-      }
-    },
-    {
-      "id": "2026-07-29-cfs-infant-formula-lead-sampling",
-      "published_at": "2026-07-29T21:05:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "food-safety",
-        "cfs",
-        "infant-formula",
-        "lead"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-29/2026-07-29-cfs-infant-formula-lead-sampling.json",
-      "en": {
-        "headline": "CFS finds no excessive lead in over 50 infant formula samples",
-        "dek": "All samples tested between 25 and 28 July, including 11 batches of one brand previously linked to a Macau alert, met Hong Kong’s legal limit of 0.01 mg per kg."
-      },
-      "zh": {
-        "headline": "食安中心抽檢逾50個嬰幼兒奶粉樣本全部鉛含量合格",
-        "dek": "7月25至28日抽取的樣本（包括11個曾與澳門通報有關的品牌批次）鉛含量均未超出本港法定上限每公斤0.01毫克。"
-      }
-    },
-    {
-      "id": "2026-07-29-doctor-yiu-man-kit-acquitted-laser",
-      "published_at": "2026-07-29T17:12:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "medical-council",
-        "ophthalmology",
-        "professional-conduct",
-        "lasik"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-29/2026-07-29-doctor-yiu-man-kit-acquitted-laser.json",
-      "en": {
-        "headline": "Doctor cleared of misconduct over 2010 laser eye surgeries after 15 years",
-        "dek": "The Medical Council offered no evidence against ophthalmologist Yiu Man-kit on three disciplinary charges linked to Lasik procedures and follow-up treatment."
-      },
-      "zh": {
-        "headline": "眼科醫生涉2010年激光手術專業失德指控不成立",
-        "dek": "醫務委員會秘書未有就三項紀律指控提證，眼科醫生姚文傑在事隔15年後獲裁定專業失德不成立。"
       }
     }
   ]
