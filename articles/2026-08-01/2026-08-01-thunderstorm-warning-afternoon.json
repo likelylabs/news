@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-01-thunderstorm-warning-afternoon",
+  "published_at": "2026-08-01T13:10:00+08:00",
+  "category": "weather",
+  "tags": ["thunderstorm", "hko", "warning"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "thunderstorm-warning-aug1-afternoon",
+  "en": {
+    "headline": "Thunderstorm warning in force until 3pm",
+    "dek": "The Hong Kong Observatory has issued a Thunderstorm Warning valid until 3 p.m., with thundery showers developing over southern and eastern areas.",
+    "body": [
+      "The Hong Kong Observatory issued a Thunderstorm Warning that remains in force until 3 p.m. on Saturday. A few squally thunderstorms are expected to affect Hong Kong.",
+      "Areas of thundery showers over the southern and eastern parts of the territory are developing gradually and are expected to affect wider areas in the coming hours, the Observatory said.",
+      "Members of the public are advised to take precautions, including seeking safe shelter if outdoors and staying away from highly conductive objects, trees or masts when thunderstorms occur."
+    ]
+  },
+  "zh": {
+    "headline": "雷暴警告生效至下午3時",
+    "dek": "天文台發出雷暴警告，有效至今日下午3時，南部及東部有雷雨區逐漸發展。",
+    "body": [
+      "香港天文台發出雷暴警告，現時繼續生效至今日下午3時。預期本港有局部地區出現狂風雷暴。",
+      "天文台表示，本港南部及東部有雷雨區正逐漸發展，預料未來數小時會影響較廣範圍。",
+      "市民如在戶外，應盡快找尋安全地方躲避，並遠離導電物體、樹木或桅杆。"
+    ]
+  }
+}
