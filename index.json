@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-08-01T11:09:09+08:00",
+  "generated_at": "2026-08-01T13:04:43+08:00",
   "live_window_hours": 72,
   "count": 61,
   "articles": [
+    {
+      "id": "2026-08-01-beach-red-flags-big-wave-bay-ting-kau",
+      "published_at": "2026-08-01T13:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "beach",
+        "water-quality",
+        "lcsd",
+        "epd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-01/2026-08-01-beach-red-flags-big-wave-bay-ting-kau.json",
+      "en": {
+        "headline": "Red flags raised at Big Wave Bay and Ting Kau beaches",
+        "dek": "The Leisure and Cultural Services Department said water quality is forecast as very poor at the two beaches due to possible fluctuations after heavy rain."
+      },
+      "zh": {
+        "headline": "大浪灣及汀九泳灘懸掛紅旗",
+        "dek": "康文署表示兩處泳灘水質預測指數為4屬非常差，因大雨可能導致短暫水質波動。"
+      }
+    },
+    {
+      "id": "2026-08-01-tsuen-wan-missing-man-au",
+      "published_at": "2026-08-01T13:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "missing-person",
+        "police",
+        "tsuen-wan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-01/2026-08-01-tsuen-wan-missing-man-au.json",
+      "en": {
+        "headline": "Police seek information on missing 78-year-old man in Tsuen Wan",
+        "dek": "Au Chun-cheong left his home on Lai King Hill Road on Friday afternoon and has not been seen since; officers issued a public appeal on Saturday."
+      },
+      "zh": {
+        "headline": "警方尋找荃灣失蹤78歲男子區振昌",
+        "dek": "區振昌於星期五下午離開荔景山路住所後失蹤，警方星期六發出尋人呼籲。"
+      }
+    },
+    {
+      "id": "2026-08-01-thunderstorm-warning-afternoon",
+      "published_at": "2026-08-01T13:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "thunderstorm",
+        "hko",
+        "warning"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-01/2026-08-01-thunderstorm-warning-afternoon.json",
+      "en": {
+        "headline": "Thunderstorm warning in force until 3pm",
+        "dek": "The Hong Kong Observatory has issued a Thunderstorm Warning valid until 3 p.m., with thundery showers developing over southern and eastern areas."
+      },
+      "zh": {
+        "headline": "雷暴警告生效至下午3時",
+        "dek": "天文台發出雷暴警告，有效至今日下午3時，南部及東部有雷雨區逐漸發展。"
+      }
+    },
     {
       "id": "2026-08-01-coleman-wong-los-cabos-semifinal",
       "published_at": "2026-08-01T11:17:00+08:00",
@@ -1304,72 +1368,6 @@
       "zh": {
         "headline": "女教練涉長洲營地掌摑及罰企8歲男童被控兩虐兒罪",
         "dek": "51歲教練趙軼群被控於2024年在長洲明愛明暉營襲擊及虐待所看管男童，今在東區裁判法院提堂，獲准保釋至9月再訊。"
-      }
-    },
-    {
-      "id": "2026-07-29-private-residential-price-index-june",
-      "published_at": "2026-07-29T12:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "property",
-        "price-index",
-        "rating-and-valuation",
-        "housing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-29/2026-07-29-private-residential-price-index-june.json",
-      "en": {
-        "headline": "Private residential price index rises 0.3 per cent in June",
-        "dek": "The Rating and Valuation Department reported the index at 323.2, up 12.7 per cent year on year and nearly 8 per cent for the first half."
-      },
-      "zh": {
-        "headline": "6月私人住宅售價指數按月升0.3% 上半年累升近8%",
-        "dek": "差餉物業估價署公布6月私人住宅售價指數報323.2，按年升12.7%，上半年累計升近7.9%。"
-      }
-    },
-    {
-      "id": "2026-07-29-tin-shui-wai-kingswood-villas-fire",
-      "published_at": "2026-07-29T12:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "tin-shui-wai",
-        "kingswood-villas",
-        "evacuation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-29/2026-07-29-tin-shui-wai-kingswood-villas-fire.json",
-      "en": {
-        "headline": "Fire at Tin Shui Wai Kingswood Villas flat forces 220 to evacuate",
-        "dek": "A low-floor unit at Le Hu Ju in Kingswood Villas caught fire on Tuesday evening; firefighters put out the blaze with no injuries reported."
-      },
-      "zh": {
-        "headline": "天水圍嘉湖山莊樂湖居單位起火 220居民疏散",
-        "dek": "星期二晚天水圍嘉湖山莊樂湖居7座低層單位起火，消防約24分鐘救熄，約220名居民疏散，無人受傷。"
-      }
-    },
-    {
-      "id": "2026-07-29-fanling-ling-shan-tsuen-fire-death",
-      "published_at": "2026-07-29T12:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "fanling",
-        "ling-shan-tsuen",
-        "evacuation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-29/2026-07-29-fanling-ling-shan-tsuen-fire-death.json",
-      "en": {
-        "headline": "Man dies after fire engulfs tin-roofed house in Fanling village",
-        "dek": "A blaze at a metal structure in Ling Shan Tsuen early on Wednesday left one man dead and forced about 78 residents to evacuate, police and fire services said."
-      },
-      "zh": {
-        "headline": "粉嶺靈山村鐵皮屋火警 中年男子倒斃現場",
-        "dek": "消防凌晨在粉嶺靈山村撲滅鐵皮屋火警，發現一名約50至60歲男子當場不治，約78名居民及寵物疏散。"
       }
     }
   ]
