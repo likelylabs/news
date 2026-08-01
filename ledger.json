@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T13:04:43+08:00",
+  "updated_at": "2026-08-01T13:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -463,6 +463,24 @@
       "id": "2026-08-01-coleman-wong-los-cabos-semifinal",
       "first_seen": "2026-08-01T11:17:00+08:00",
       "headline_en": "Coleman Wong reaches first ATP Tour semi-final and enters top 100"
+    },
+    {
+      "key": "thunderstorm-warning-aug1-afternoon",
+      "id": "2026-08-01-thunderstorm-warning-afternoon",
+      "first_seen": "2026-08-01T13:10:00+08:00",
+      "headline_en": "Thunderstorm warning in force until 3pm"
+    },
+    {
+      "key": "tsuen-wan-missing-man-au-chun-cheong",
+      "id": "2026-08-01-tsuen-wan-missing-man-au",
+      "first_seen": "2026-08-01T13:12:00+08:00",
+      "headline_en": "Police seek information on missing 78-year-old man in Tsuen Wan"
+    },
+    {
+      "key": "beach-red-flags-aug1-big-wave-bay-ting-kau",
+      "id": "2026-08-01-beach-red-flags-big-wave-bay-ting-kau",
+      "first_seen": "2026-08-01T13:14:00+08:00",
+      "headline_en": "Red flags raised at Big Wave Bay and Ting Kau beaches"
     }
   ]
 }
