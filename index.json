@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-01T13:07:53+08:00",
+  "generated_at": "2026-08-01T15:07:14+08:00",
   "live_window_hours": 72,
-  "count": 61,
+  "count": 62,
   "articles": [
+    {
+      "id": "2026-08-01-money-lenders-regulation-phase1",
+      "published_at": "2026-08-01T15:05:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "money-lenders",
+        "regulation",
+        "financial-services",
+        "debt",
+        "fstb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-01/2026-08-01-money-lenders-regulation-phase1.json",
+      "en": {
+        "headline": "Debt servicing caps and referee ban for money lenders take effect",
+        "dek": "First-phase measures prohibit lenders from requiring loan referees and set debt-servicing ratio limits of 35 to 40 per cent for unsecured personal loans to low-income earners."
+      },
+      "zh": {
+        "headline": "放債人規管措施首階段今日生效 設供款比率上限及禁止要求擔保人",
+        "dek": "首階段措施禁止放債人要求借款人提供貸款擔保人，並為低收入人士無抵押私人貸款設定35%至40%的債務供款比率上限。"
+      }
+    },
     {
       "id": "2026-08-01-beach-red-flags-big-wave-bay-ting-kau",
       "published_at": "2026-08-01T13:14:00+08:00",
