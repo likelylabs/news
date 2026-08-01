@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-08-01T15:07:14+08:00",
+  "generated_at": "2026-08-01T17:09:00+08:00",
   "live_window_hours": 72,
-  "count": 62,
+  "count": 64,
   "articles": [
+    {
+      "id": "2026-08-01-tai-po-taxi-furious-driving-arrest",
+      "published_at": "2026-08-01T17:09:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "taxi",
+        "tai-po",
+        "police",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-01/2026-08-01-tai-po-taxi-furious-driving-arrest.json",
+      "en": {
+        "headline": "Taxi driver arrested after crash injures family of three in Tai Po",
+        "dek": "A 31-year-old driver was detained on suspicion of furious driving and driving while his licence was suspended after the vehicle hit a curb near Fu Heng Estate early Saturday."
+      },
+      "zh": {
+        "headline": "大埔的士失控撞路邊 三口家傷 司機涉危險駕駛及停牌期間駕駛被捕",
+        "dek": "31歲姓陳司機清晨在富亨邨附近失控撞路邊，三名乘客受傷送院；司機涉嫌瘋狂駕駛及在停牌期間駕駛被扣查。"
+      }
+    },
+    {
+      "id": "2026-08-01-coleman-wong-los-cabos-semifinal-loss",
+      "published_at": "2026-08-01T17:08:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "tennis",
+        "atp",
+        "coleman-wong",
+        "los-cabos",
+        "ranking"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-01/2026-08-01-coleman-wong-los-cabos-semifinal-loss.json",
+      "en": {
+        "headline": "Coleman Wong falls to Arthur Gea in Los Cabos semi-final",
+        "dek": "The Hong Kong player lost 7-6, 6-3 to the French qualifier, ending his run at the ATP 250 event after reaching his first Tour semi-final and securing a top-100 ranking."
+      },
+      "zh": {
+        "headline": "黃澤林洛斯卡沃斯半決賽不敵法國新秀 止步四強",
+        "dek": "港將直落兩盤輸給法國球員吉亞，結束ATP 250賽事征途；惟仍穩奪生涯首次入圍世界排名前100。"
+      }
+    },
+    {
+      "id": "2026-08-01-ce-tuen-mun-district-consultation",
+      "published_at": "2026-08-01T17:07:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "chief-executive",
+        "policy-address",
+        "five-year-plan",
+        "tuen-mun",
+        "consultation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-01/2026-08-01-ce-tuen-mun-district-consultation.json",
+      "en": {
+        "headline": "Chief Executive to hold first district consultation in Tuen Mun on Sunday",
+        "dek": "John Lee and principal officials will meet residents in small-group sessions to gather views on the 2026 Policy Address and Hong Kong's first five-year plan."
+      },
+      "zh": {
+        "headline": "李家超周日赴屯門舉行首場地區諮詢會 聽取施政報告意見",
+        "dek": "行政長官與主要官員將以小組討論形式與市民交流，收集對2026年施政報告及首個五年規劃的意見。"
+      }
+    },
+    {
+      "id": "2026-08-01-huanggang-port-stress-tests-10000",
+      "published_at": "2026-08-01T17:06:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "huanggang-port",
+        "border",
+        "security-bureau",
+        "shenzhen",
+        "colocation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-01/2026-08-01-huanggang-port-stress-tests-10000.json",
+      "en": {
+        "headline": "Huanggang Port to hold over 100 drills including stress tests with 10,000 people",
+        "dek": "Secretary for Security Chris Tang said the exercises, some jointly with Shenzhen, will cover traffic, anti-terrorism and systems before the redeveloped checkpoint opens."
+      },
+      "zh": {
+        "headline": "皇崗口岸通關前將進行逾百次演練 壓力測試涉逾萬人",
+        "dek": "保安局局長鄧炳強表示，演練包括與深圳方面聯合進行的跨境壓力測試，涵蓋交通、反恐及系統等，確保運作暢順安全後才決定開通日期。"
+      }
+    },
     {
       "id": "2026-08-01-money-lenders-regulation-phase1",
       "published_at": "2026-08-01T15:05:00+08:00",
@@ -1346,51 +1438,6 @@
       "zh": {
         "headline": "眼科醫生涉2010年激光手術專業失德指控不成立",
         "dek": "醫務委員會秘書未有就三項紀律指控提證，眼科醫生姚文傑在事隔15年後獲裁定專業失德不成立。"
-      }
-    },
-    {
-      "id": "2026-07-29-ex-cathay-worker-jailed-smuggling-bribes",
-      "published_at": "2026-07-29T17:08:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "bribery",
-        "cathay-pacific",
-        "human-smuggling",
-        "icac"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-29/2026-07-29-ex-cathay-worker-jailed-smuggling-bribes.json",
-      "en": {
-        "headline": "Ex-Cathay Pacific officer jailed 20 months for bribes in human smuggling case",
-        "dek": "Tsui Ying-kit, 45, pleaded guilty to accepting at least HK$18,000 to help ineligible travellers check in at the airport between 2008 and 2009 after years on the run."
-      },
-      "zh": {
-        "headline": "前國泰地勤涉收賄助偷渡判囚20個月",
-        "dek": "45歲徐英傑承認於2008至2009年收取至少1.8萬元利益，協助不合資格旅客辦理登機手續，潛逃多年後自首。"
-      }
-    },
-    {
-      "id": "2026-07-29-cheung-chau-coach-child-abuse-charges",
-      "published_at": "2026-07-29T17:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "child-protection",
-        "cheung-chau",
-        "coach"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-29/2026-07-29-cheung-chau-coach-child-abuse-charges.json",
-      "en": {
-        "headline": "Coach charged over alleged slap and outdoor punishment of boy at Cheung Chau camp",
-        "dek": "A 51-year-old woman faces two counts of assault and ill-treatment of a child under her care stemming from a 2024 training camp incident; she was granted bail."
-      },
-      "zh": {
-        "headline": "女教練涉長洲營地掌摑及罰企8歲男童被控兩虐兒罪",
-        "dek": "51歲教練趙軼群被控於2024年在長洲明愛明暉營襲擊及虐待所看管男童，今在東區裁判法院提堂，獲准保釋至9月再訊。"
       }
     }
   ]

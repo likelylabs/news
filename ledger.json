@@ -1,1 +1,72 @@
-{"updated_at": "2026-08-01T17:10:00+08:00", "retention_days": 5, "covered": [{"key": "provisional-voter-registers-2026", "id": "2026-08-01-provisional-voter-registers-2026", "first_seen": "2026-08-01T11:15:00+08:00", "headline_en": "Provisional voter registers released with 64,900 new geographical electors"}, {"key": "ura-bailey-street-tender-award-coli", "id": "2026-08-01-ura-bailey-street-coli-tender-award", "first_seen": "2026-08-01T11:16:00+08:00", "headline_en": "URA awards Hung Hom Bailey Street project to China Overseas for HK$6.9 billion"}, {"key": "coleman-wong-los-cabos-first-semifinal", "id": "2026-08-01-coleman-wong-los-cabos-semifinal", "first_seen": "2026-08-01T11:17:00+08:00", "headline_en": "Coleman Wong reaches first ATP Tour semi-final and enters top 100"}, {"key": "thunderstorm-warning-aug1-afternoon", "id": "2026-08-01-thunderstorm-warning-afternoon", "first_seen": "2026-08-01T13:10:00+08:00", "headline_en": "Thunderstorm warning in force until 3pm"}, {"key": "tsuen-wan-missing-man-au-chun-cheong", "id": "2026-08-01-tsuen-wan-missing-man-au", "first_seen": "2026-08-01T13:12:00+08:00", "headline_en": "Police seek information on missing 78-year-old man in Tsuen Wan"}, {"key": "beach-red-flags-aug1-big-wave-bay-ting-kau", "id": "2026-08-01-beach-red-flags-big-wave-bay-ting-kau", "first_seen": "2026-08-01T13:14:00+08:00", "headline_en": "Red flags raised at Big Wave Bay and Ting Kau beaches"}, {"key": "money-lenders-regulation-phase1-aug2026", "id": "2026-08-01-money-lenders-regulation-phase1", "first_seen": "2026-08-01T15:05:00+08:00", "headline_en": "Debt servicing caps and referee ban for money lenders take effect"}, {"key": "huanggang-port-stress-tests-10000", "id": "2026-08-01-huanggang-port-stress-tests-10000", "first_seen": "2026-08-01T17:06:00+08:00", "headline_en": "Huanggang Port to hold over 100 drills including stress tests with 10,000 people"}, {"key": "ce-tuen-mun-policy-address-consultation", "id": "2026-08-01-ce-tuen-mun-district-consultation", "first_seen": "2026-08-01T17:07:00+08:00", "headline_en": "Chief Executive to hold first district consultation in Tuen Mun on Sunday"}, {"key": "coleman-wong-los-cabos-semifinal-loss", "id": "2026-08-01-coleman-wong-los-cabos-semifinal-loss", "first_seen": "2026-08-01T17:08:00+08:00", "headline_en": "Coleman Wong falls to Arthur Gea in Los Cabos semi-final"}, {"key": "tai-po-taxi-crash-family-arrest", "id": "2026-08-01-tai-po-taxi-furious-driving-arrest", "first_seen": "2026-08-01T17:09:00+08:00", "headline_en": "Taxi driver arrested after crash injures family of three in Tai Po"}]}
+{
+  "updated_at": "2026-08-01T17:09:00+08:00",
+  "retention_days": 5,
+  "covered": [
+    {
+      "key": "provisional-voter-registers-2026",
+      "id": "2026-08-01-provisional-voter-registers-2026",
+      "first_seen": "2026-08-01T11:15:00+08:00",
+      "headline_en": "Provisional voter registers released with 64,900 new geographical electors"
+    },
+    {
+      "key": "ura-bailey-street-tender-award-coli",
+      "id": "2026-08-01-ura-bailey-street-coli-tender-award",
+      "first_seen": "2026-08-01T11:16:00+08:00",
+      "headline_en": "URA awards Hung Hom Bailey Street project to China Overseas for HK$6.9 billion"
+    },
+    {
+      "key": "coleman-wong-los-cabos-first-semifinal",
+      "id": "2026-08-01-coleman-wong-los-cabos-semifinal",
+      "first_seen": "2026-08-01T11:17:00+08:00",
+      "headline_en": "Coleman Wong reaches first ATP Tour semi-final and enters top 100"
+    },
+    {
+      "key": "thunderstorm-warning-aug1-afternoon",
+      "id": "2026-08-01-thunderstorm-warning-afternoon",
+      "first_seen": "2026-08-01T13:10:00+08:00",
+      "headline_en": "Thunderstorm warning in force until 3pm"
+    },
+    {
+      "key": "tsuen-wan-missing-man-au-chun-cheong",
+      "id": "2026-08-01-tsuen-wan-missing-man-au",
+      "first_seen": "2026-08-01T13:12:00+08:00",
+      "headline_en": "Police seek information on missing 78-year-old man in Tsuen Wan"
+    },
+    {
+      "key": "beach-red-flags-aug1-big-wave-bay-ting-kau",
+      "id": "2026-08-01-beach-red-flags-big-wave-bay-ting-kau",
+      "first_seen": "2026-08-01T13:14:00+08:00",
+      "headline_en": "Red flags raised at Big Wave Bay and Ting Kau beaches"
+    },
+    {
+      "key": "money-lenders-regulation-phase1-aug2026",
+      "id": "2026-08-01-money-lenders-regulation-phase1",
+      "first_seen": "2026-08-01T15:05:00+08:00",
+      "headline_en": "Debt servicing caps and referee ban for money lenders take effect"
+    },
+    {
+      "key": "huanggang-port-stress-tests-10000",
+      "id": "2026-08-01-huanggang-port-stress-tests-10000",
+      "first_seen": "2026-08-01T17:06:00+08:00",
+      "headline_en": "Huanggang Port to hold over 100 drills including stress tests with 10,000 people"
+    },
+    {
+      "key": "ce-tuen-mun-policy-address-consultation",
+      "id": "2026-08-01-ce-tuen-mun-district-consultation",
+      "first_seen": "2026-08-01T17:07:00+08:00",
+      "headline_en": "Chief Executive to hold first district consultation in Tuen Mun on Sunday"
+    },
+    {
+      "key": "coleman-wong-los-cabos-semifinal-loss",
+      "id": "2026-08-01-coleman-wong-los-cabos-semifinal-loss",
+      "first_seen": "2026-08-01T17:08:00+08:00",
+      "headline_en": "Coleman Wong falls to Arthur Gea in Los Cabos semi-final"
+    },
+    {
+      "key": "tai-po-taxi-crash-family-arrest",
+      "id": "2026-08-01-tai-po-taxi-furious-driving-arrest",
+      "first_seen": "2026-08-01T17:09:00+08:00",
+      "headline_en": "Taxi driver arrested after crash injures family of three in Tai Po"
+    }
+  ]
+}
