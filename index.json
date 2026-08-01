@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-08-01T07:20:15+08:00",
+  "generated_at": "2026-08-01T09:04:00+08:00",
   "live_window_hours": 72,
-  "count": 57,
+  "count": 58,
   "articles": [
+    {
+      "id": "2026-08-01-thunderstorm-warning-extended-0930",
+      "published_at": "2026-08-01T09:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "thunderstorm",
+        "hko"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-01/2026-08-01-thunderstorm-warning-extended-0930.json",
+      "en": {
+        "headline": "Thunderstorm warning extended until 9.30am",
+        "dek": "The Hong Kong Observatory has kept the Thunderstorm Warning in force until 9.30 a.m., with isolated thunderstorms still expected over the territory this morning."
+      },
+      "zh": {
+        "headline": "雷暴警告延長至上午9時30分",
+        "dek": "香港天文台表示雷暴警告繼續生效至上午9時30分，預期本港仍有局部地區出現雷暴。"
+      }
+    },
     {
       "id": "2026-08-01-thunderstorm-warning-morning",
       "published_at": "2026-08-01T07:25:00+08:00",
