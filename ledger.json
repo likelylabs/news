@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T01:20:26+08:00",
+  "updated_at": "2026-08-03T03:14:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -163,6 +163,24 @@
       "id": "2026-08-03-thunderstorm-warning-early-morning",
       "first_seen": "2026-08-03T01:20:00+08:00",
       "headline_en": "Thunderstorm warning in force until 5am amid heavy rain risk"
+    },
+    {
+      "key": "hkex-cgb-futures-launch-aug3",
+      "id": "2026-08-03-hkex-cgb-futures-launch",
+      "first_seen": "2026-08-03T03:12:00+08:00",
+      "headline_en": "HKEX launches 5-year China Government Bond Futures today"
+    },
+    {
+      "key": "minimum-spreads-reduction-phase2-aug3",
+      "id": "2026-08-03-minimum-spreads-phase2",
+      "first_seen": "2026-08-03T03:13:00+08:00",
+      "headline_en": "HKEX cuts minimum tick size for mid-priced stocks from today"
+    },
+    {
+      "key": "ce-meets-csrc-chairman-aug2",
+      "id": "2026-08-03-ce-meets-csrc-wu-qing",
+      "first_seen": "2026-08-03T03:14:00+08:00",
+      "headline_en": "Chief Executive meets CSRC chairman on deepening market links"
     }
   ]
 }
