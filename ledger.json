@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T19:05:38+08:00",
+  "updated_at": "2026-08-02T21:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -151,6 +151,12 @@
       "id": "2026-08-02-kwai-chung-water-pipe-leak",
       "first_seen": "2026-08-02T19:12:00+08:00",
       "headline_en": "Fresh water supply disrupted in Kwai Chung after pipe leak"
+    },
+    {
+      "key": "sport-for-all-day-2026",
+      "id": "2026-08-02-sport-for-all-day",
+      "first_seen": "2026-08-02T21:12:00+08:00",
+      "headline_en": "Residents join free Sport For All Day activities across the city"
     }
   ]
 }
