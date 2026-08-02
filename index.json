@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-08-02T12:56:20+08:00",
+  "generated_at": "2026-08-02T13:06:55+08:00",
   "live_window_hours": 72,
-  "count": 58,
+  "count": 62,
   "articles": [
+    {
+      "id": "2026-08-02-workweek-weather-outlook-aug3",
+      "published_at": "2026-08-02T13:11:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "forecast",
+        "work-week",
+        "showers",
+        "hot-weather"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-02/2026-08-02-workweek-weather-outlook-aug3.json",
+      "en": {
+        "headline": "Work-week outlook: heavy showers early then turning very hot",
+        "dek": "The Hong Kong Observatory expects occasional heavy showers and thunderstorms on Monday, with the weather becoming brighter later in the week and very hot from Friday onwards."
+      },
+      "zh": {
+        "headline": "本周天氣預報：初段有大驟雨其後轉酷熱",
+        "dek": "天文台預料周一仍有大驟雨及雷暴，其後天氣逐漸轉為明亮，周五起日間酷熱。"
+      }
+    },
+    {
+      "id": "2026-08-02-beach-red-flags-several",
+      "published_at": "2026-08-02T13:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "beach",
+        "lcsd",
+        "red-flag",
+        "water-safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-02/2026-08-02-beach-red-flags-several.json",
+      "en": {
+        "headline": "Red flags raised at six beaches due to big waves and inclement weather",
+        "dek": "The Leisure and Cultural Services Department advised beachgoers not to swim at Shek O, Big Wave Bay, Pui O, Hap Mun Bay, Silverstrand and Tai Po Lung Mei beaches on Sunday."
+      },
+      "zh": {
+        "headline": "六個泳灘因大浪及惡劣天氣懸掛紅旗",
+        "dek": "康樂及文化事務署周日表示，因大浪及惡劣天氣，石澳、大浪灣、貝澳、鹹田灣、銀線灣及大埔龍尾泳灘已懸掛紅旗，呼籲泳客不要下水。"
+      }
+    },
+    {
+      "id": "2026-08-02-airport-patrolling-robot-damaged",
+      "published_at": "2026-08-02T13:09:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "airport",
+        "robot",
+        "airport-authority",
+        "trial"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-02/2026-08-02-airport-patrolling-robot-damaged.json",
+      "en": {
+        "headline": "Patrolling robot damaged after falling down staircase at Hong Kong airport",
+        "dek": "The Airport Authority said a humanoid robot tumbled down a staircase in Terminal One during a test run on Saturday, resulting in partial damage with no injuries reported."
+      },
+      "zh": {
+        "headline": "機場巡邏機械人測試期間墮梯損毀",
+        "dek": "機場管理局表示，一部人形機械人周六在一號客運大樓進行測試時墮下樓梯，局部損毀，無人受傷。"
+      }
+    },
+    {
+      "id": "2026-08-02-ce-tuen-mun-consultation-held",
+      "published_at": "2026-08-02T13:08:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "chief-executive",
+        "policy-address",
+        "five-year-plan",
+        "tuen-mun",
+        "consultation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-02/2026-08-02-ce-tuen-mun-consultation-held.json",
+      "en": {
+        "headline": "Chief Executive holds first district consultation on five-year plan in Tuen Mun",
+        "dek": "John Lee and principal officials met more than 130 residents at South Tuen Mun Government Secondary School on Sunday to gather views on Hong Kong’s first five-year plan and the 2026 Policy Address."
+      },
+      "zh": {
+        "headline": "李家超於屯門舉行首場五年規劃及施政報告地區諮詢會",
+        "dek": "行政長官李家超與主要官員周日在南屯門官立中學會見逾130名市民及地區代表，就香港首個五年規劃及2026年施政報告聽取意見。"
+      }
+    },
     {
       "id": "2026-08-02-inter-milan-man-city-kai-tak",
       "published_at": "2026-08-02T09:06:00+08:00",
