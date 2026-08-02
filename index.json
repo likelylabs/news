@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-02T19:05:38+08:00",
+  "generated_at": "2026-08-02T21:10:38+08:00",
   "live_window_hours": 72,
-  "count": 61,
+  "count": 60,
   "articles": [
+    {
+      "id": "2026-08-02-sport-for-all-day",
+      "published_at": "2026-08-02T21:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sport-for-all-day",
+        "lcsd",
+        "asian-games",
+        "recreation",
+        "free-activities"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-02/2026-08-02-sport-for-all-day.json",
+      "en": {
+        "headline": "Residents join free Sport For All Day activities across the city",
+        "dek": "The Leisure and Cultural Services Department offered free access to facilities and programmes on Sunday under the theme Asian Games in Motion, City in Action, with Chief Executive John Lee among participants."
+      },
+      "zh": {
+        "headline": "市民踴躍參與全民運動日免費活動",
+        "dek": "康文署周日以「亞運動起來 全城動起來」為主題，全港18區指定場地提供免費設施及體育活動，行政長官李家超亦有出席。"
+      }
+    },
     {
       "id": "2026-08-02-kwai-chung-water-pipe-leak",
       "published_at": "2026-08-02T19:12:00+08:00",
@@ -1330,52 +1353,6 @@
       "zh": {
         "headline": "李家超與特首顧問團完成三年規劃及施政報告交流",
         "dek": "行政長官李家超一連三日與特首顧問團舉行工作午餐，聽取對香港第一個五年規劃及2026年施政報告的意見。"
-      }
-    },
-    {
-      "id": "2026-07-30-hkpf-korean-police-mou",
-      "published_at": "2026-07-30T19:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "international",
-        "cooperation",
-        "cross-border-crime",
-        "mou"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-30/2026-07-30-hkpf-korean-police-mou.json",
-      "en": {
-        "headline": "Hong Kong and Korean police sign MOU to fight cross-border crime",
-        "dek": "The Hong Kong Police Force and the Korean National Police Agency signed a memorandum of understanding in Seoul on 29 July to deepen cooperation on drugs, human trafficking, cybercrime and training."
-      },
-      "zh": {
-        "headline": "港警與韓國警察廳簽署合作備忘錄 打擊跨境罪案",
-        "dek": "香港警務處與韓國警察廳7月29日在首爾簽署合作備忘錄，加強打擊跨境罪案及專業培訓合作，涵蓋毒品、人口販運、網絡罪案及情報交流。"
-      }
-    },
-    {
-      "id": "2026-07-30-doctor-lee-chi-leung-community-service",
-      "published_at": "2026-07-30T19:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "district-court",
-        "misconduct",
-        "hospital-authority",
-        "icac",
-        "sentence"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-30/2026-07-30-doctor-lee-chi-leung-community-service.json",
-      "en": {
-        "headline": "Former hospital doctor given community service for misappropriating drugs",
-        "dek": "Lee Chi-leung, a former associate consultant at Queen Elizabeth Hospital, was sentenced to 160 hours of community service and ordered to pay HK$20,000 after being found guilty of misconduct in public office."
-      },
-      "zh": {
-        "headline": "前伊院醫生公職人員行為失當 判160小時社會服務令",
-        "dek": "前伊利沙伯醫院副顧問醫生李志良因公職人員行為失當，被判160小時社會服務令及向醫管局賠償2萬元，涉及以虛假預約及過量處方方式取得咳藥水及治療專注力不足藥物。"
       }
     }
   ]
