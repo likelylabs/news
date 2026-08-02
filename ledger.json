@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T21:10:38+08:00",
+  "updated_at": "2026-08-03T01:20:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -157,6 +157,12 @@
       "id": "2026-08-02-sport-for-all-day",
       "first_seen": "2026-08-02T21:12:00+08:00",
       "headline_en": "Residents join free Sport For All Day activities across the city"
+    },
+    {
+      "key": "thunderstorm-warning-aug3-early-morning",
+      "id": "2026-08-03-thunderstorm-warning-early-morning",
+      "first_seen": "2026-08-03T01:20:00+08:00",
+      "headline_en": "Thunderstorm warning in force until 5am amid heavy rain risk"
     }
   ]
 }
