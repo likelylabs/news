@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T09:05:52+08:00",
+  "updated_at": "2026-08-02T09:07:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -79,6 +79,18 @@
       "id": "2026-08-01-pla-garrison-99th-anniversary-reception",
       "first_seen": "2026-08-01T23:12:00+08:00",
       "headline_en": "PLA Hong Kong Garrison marks 99th anniversary of army founding with reception"
+    },
+    {
+      "key": "amber-rainstorm-thunderstorm-warning-aug2-morning",
+      "id": "2026-08-02-amber-rainstorm-thunderstorm-warning-morning",
+      "first_seen": "2026-08-02T09:05:00+08:00",
+      "headline_en": "Amber rainstorm and thunderstorm warnings in force this morning"
+    },
+    {
+      "key": "inter-milan-beats-man-city-hk-football-festival",
+      "id": "2026-08-02-inter-milan-man-city-kai-tak",
+      "first_seen": "2026-08-02T09:06:00+08:00",
+      "headline_en": "Inter Milan beat Manchester City on penalties at Kai Tak Stadium"
     }
   ]
 }
