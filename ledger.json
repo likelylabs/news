@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T17:05:17+08:00",
+  "updated_at": "2026-08-02T17:06:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -133,6 +133,12 @@
       "id": "2026-08-02-students-space-dialogue-astronaut",
       "first_seen": "2026-08-02T15:16:00+08:00",
       "headline_en": "Students may speak with astronaut Lai Ka-ying from September"
+    },
+    {
+      "key": "tai-mei-tuk-triathlon-drowning-aug2",
+      "id": "2026-08-02-tai-mei-tuk-triathlon-swimmer-dies",
+      "first_seen": "2026-08-02T17:05:00+08:00",
+      "headline_en": "59-year-old man dies after rescue from Tai Mei Tuk triathlon swim"
     }
   ]
 }
