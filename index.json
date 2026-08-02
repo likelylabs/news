@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-08-02T17:06:25+08:00",
+  "generated_at": "2026-08-02T19:05:38+08:00",
   "live_window_hours": 72,
-  "count": 60,
+  "count": 61,
   "articles": [
+    {
+      "id": "2026-08-02-kwai-chung-water-pipe-leak",
+      "published_at": "2026-08-02T19:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "water-supplies",
+        "kwai-chung",
+        "pipe-leak",
+        "wsd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-02/2026-08-02-kwai-chung-water-pipe-leak.json",
+      "en": {
+        "headline": "Fresh water supply disrupted in Kwai Chung after pipe leak",
+        "dek": "The Water Supplies Department is conducting emergency repairs on a 200mm pipe on Ta Chuen Ping Street that supplies Po Sing Centre, aiming to restore service by midnight."
+      },
+      "zh": {
+        "headline": "葵涌水管漏水 部分地區食水暫停供應",
+        "dek": "水務署正緊急搶修打磚坪街一條200毫米食水喉，影響寶星中心供水，目標午夜前恢復。"
+      }
+    },
+    {
+      "id": "2026-08-02-heavy-rain-alert-evening",
+      "published_at": "2026-08-02T19:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "heavy-rain",
+        "flooding",
+        "thunderstorm"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-02/2026-08-02-heavy-rain-alert-evening.json",
+      "en": {
+        "headline": "Observatory warns of widespread heavy rain in coming hours",
+        "dek": "The Hong Kong Observatory issued a special announcement at 5.50pm saying widespread heavy rain may affect the city in a couple of hours."
+      },
+      "zh": {
+        "headline": "天文台：未來數小時香港廣泛地區可能受大雨影響",
+        "dek": "天文台下午5時50分發出特別天氣提示，指未來兩三小時本港廣泛地區可能受大雨影響，呼籲市民提高警覺。"
+      }
+    },
     {
       "id": "2026-08-02-tai-mei-tuk-triathlon-swimmer-dies",
       "published_at": "2026-08-02T17:05:00+08:00",
@@ -1332,29 +1376,6 @@
       "zh": {
         "headline": "前伊院醫生公職人員行為失當 判160小時社會服務令",
         "dek": "前伊利沙伯醫院副顧問醫生李志良因公職人員行為失當，被判160小時社會服務令及向醫管局賠償2萬元，涉及以虛假預約及過量處方方式取得咳藥水及治療專注力不足藥物。"
-      }
-    },
-    {
-      "id": "2026-07-30-miao-chi-hung-cocaine-sentence",
-      "published_at": "2026-07-30T19:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "high-court",
-        "drugs",
-        "cocaine",
-        "trafficking",
-        "sentence"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-30/2026-07-30-miao-chi-hung-cocaine-sentence.json",
-      "en": {
-        "headline": "Taiwanese man jailed 12 years and four months for cocaine trafficking",
-        "dek": "High Court Judge Wilson Chan sentenced Miao Chi-hung on his final working day after the defendant admitted bringing 890 grams of cocaine into Hong Kong in wine bottles in 2019."
-      },
-      "zh": {
-        "headline": "台灣男子運毒判囚12年4個月 為法官陳嘉信最後一案",
-        "dek": "高等法院法官陳嘉信星期四判處台灣男子苗志鴻監禁12年4個月，被告承認2019年以紅酒樽藏有890克可卡因入境，為法官提早退休前最後一次公開聆訊。"
       }
     }
   ]
