@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-08-03T05:23:02+08:00",
+  "generated_at": "2026-08-03T07:03:15+08:00",
   "live_window_hours": 72,
-  "count": 59,
+  "count": 61,
   "articles": [
+    {
+      "id": "2026-08-03-ride-hailing-regulation-takes-effect",
+      "published_at": "2026-08-03T07:06:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "ride-hailing",
+        "transport-department",
+        "taxi",
+        "regulation",
+        "driving-test"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-03/2026-08-03-ride-hailing-regulation-takes-effect.json",
+      "en": {
+        "headline": "Ride-hailing regulatory regime takes effect with combined taxi test launch",
+        "dek": "Most legal provisions governing ride-hailing services come into force today, while the Transport Department begins accepting applications for a new combined taxi and ride-hailing vehicle driving test."
+      },
+      "zh": {
+        "headline": "網約車規管制度今日生效 合併駕駛考試同步開放申請",
+        "dek": "規管網約車服務的大部分法例條文今日起生效，運輸署同日推出的士及網約車合併駕駛考試並開始接受申請。"
+      }
+    },
+    {
+      "id": "2026-08-03-amber-rainstorm-thunderstorm-warning-morning",
+      "published_at": "2026-08-03T07:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "amber-rainstorm",
+        "thunderstorm",
+        "heavy-rain",
+        "flooding"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-03/2026-08-03-amber-rainstorm-thunderstorm-warning-morning.json",
+      "en": {
+        "headline": "Amber rainstorm and thunderstorm warnings in force this morning",
+        "dek": "The Hong Kong Observatory issued an Amber Rainstorm Warning at 6.40am, with the Thunderstorm Warning also remaining in force under a broad trough of low pressure."
+      },
+      "zh": {
+        "headline": "黃色暴雨及雷暴警告今早生效",
+        "dek": "天文台於上午6時40分發出黃色暴雨警告信號，雷暴警告亦繼續生效，受廣闊低壓槽影響本港有大雨。"
+      }
+    },
     {
       "id": "2026-08-03-ce-meets-csrc-wu-qing",
       "published_at": "2026-08-03T03:14:00+08:00",
