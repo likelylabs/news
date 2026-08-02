@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T13:06:55+08:00",
+  "updated_at": "2026-08-02T15:16:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -115,6 +115,24 @@
       "id": "2026-08-02-workweek-weather-outlook-aug3",
       "first_seen": "2026-08-02T13:11:00+08:00",
       "headline_en": "Work-week outlook: heavy showers early then turning very hot"
+    },
+    {
+      "key": "tsim-sha-tsui-murder-additional-arrests-aug2",
+      "id": "2026-08-02-tsim-sha-tsui-murder-three-more-arrested",
+      "first_seen": "2026-08-02T15:12:00+08:00",
+      "headline_en": "Police arrest three more men over Tsim Sha Tsui bar murder"
+    },
+    {
+      "key": "gdp-forecast-raise-indication-aug2026",
+      "id": "2026-08-02-paul-chan-gdp-forecast-raise",
+      "first_seen": "2026-08-02T15:14:00+08:00",
+      "headline_en": "Financial Secretary signals full-year GDP forecast will be raised"
+    },
+    {
+      "key": "students-space-earth-dialogue-lai-ka-ying",
+      "id": "2026-08-02-students-space-dialogue-astronaut",
+      "first_seen": "2026-08-02T15:16:00+08:00",
+      "headline_en": "Students may speak with astronaut Lai Ka-ying from September"
     }
   ]
 }
