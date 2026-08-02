@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T12:56:20+08:00",
+  "updated_at": "2026-08-02T13:11:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -91,6 +91,30 @@
       "id": "2026-08-02-inter-milan-man-city-kai-tak",
       "first_seen": "2026-08-02T09:06:00+08:00",
       "headline_en": "Inter Milan beat Manchester City on penalties at Kai Tak Stadium"
+    },
+    {
+      "key": "ce-tuen-mun-consultation-held-aug2",
+      "id": "2026-08-02-ce-tuen-mun-consultation-held",
+      "first_seen": "2026-08-02T13:08:00+08:00",
+      "headline_en": "Chief Executive holds first district consultation on five-year plan in Tuen Mun"
+    },
+    {
+      "key": "airport-patrolling-robot-staircase-fall-aug2",
+      "id": "2026-08-02-airport-patrolling-robot-damaged",
+      "first_seen": "2026-08-02T13:09:00+08:00",
+      "headline_en": "Patrolling robot damaged after falling down staircase at Hong Kong airport"
+    },
+    {
+      "key": "beach-red-flags-aug2",
+      "id": "2026-08-02-beach-red-flags-several",
+      "first_seen": "2026-08-02T13:10:00+08:00",
+      "headline_en": "Red flags raised at six beaches due to big waves and inclement weather"
+    },
+    {
+      "key": "workweek-weather-outlook-aug3",
+      "id": "2026-08-02-workweek-weather-outlook-aug3",
+      "first_seen": "2026-08-02T13:11:00+08:00",
+      "headline_en": "Work-week outlook: heavy showers early then turning very hot"
     }
   ]
 }
