@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-02T05:22:43+08:00",
+  "generated_at": "2026-08-02T09:05:52+08:00",
   "live_window_hours": 72,
-  "count": 62,
+  "count": 61,
   "articles": [
+    {
+      "id": "2026-08-02-inter-milan-man-city-kai-tak",
+      "published_at": "2026-08-02T09:06:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "football",
+        "hong-kong-football-festival",
+        "kai-tak",
+        "manchester-city",
+        "inter-milan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-02/2026-08-02-inter-milan-man-city-kai-tak.json",
+      "en": {
+        "headline": "Inter Milan beat Manchester City on penalties at Kai Tak Stadium",
+        "dek": "The Italian champions won 3-1 in the shootout after a 1-1 draw in the opening match of the Hong Kong Football Festival, with Divin Mubama scoring for City."
+      },
+      "zh": {
+        "headline": "國際米蘭十二碼擊敗曼城 凱旋體育場足球節揭幕戰",
+        "dek": "意甲冠軍於香港足球節揭幕戰1比1賽和後，以3比1贏十二碼勝出，曼城新帥任內首球由穆巴馬打進。"
+      }
+    },
+    {
+      "id": "2026-08-02-amber-rainstorm-thunderstorm-warning-morning",
+      "published_at": "2026-08-02T09:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "rainstorm",
+        "thunderstorm",
+        "hko",
+        "amber-warning"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-02/2026-08-02-amber-rainstorm-thunderstorm-warning-morning.json",
+      "en": {
+        "headline": "Amber rainstorm and thunderstorm warnings in force this morning",
+        "dek": "The Hong Kong Observatory issued an Amber Rainstorm Warning at 6.10am and a Thunderstorm Warning earlier, with heavy showers and risk of flooding in low-lying areas."
+      },
+      "zh": {
+        "headline": "黃色暴雨及雷暴警告今早生效",
+        "dek": "天文台於上午6時10分發出黃色暴雨警告信號，較早前已發出雷暴警告，本港有大雨及低窪地區可能水浸。"
+      }
+    },
     {
       "id": "2026-08-01-pla-garrison-99th-anniversary-reception",
       "published_at": "2026-08-01T23:12:00+08:00",
@@ -1329,73 +1374,6 @@
       "zh": {
         "headline": "研資局撥款約4.78億元支持12個大學研究項目",
         "dek": "卓越學科領域計劃及主題研究計劃合共支持破紀錄12個項目，逾三分之一涉及人工智能應用。"
-      }
-    },
-    {
-      "id": "2026-07-30-police-whatsapp-ai-voice-scam-alert",
-      "published_at": "2026-07-30T07:21:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "scam",
-        "whatsapp",
-        "ai",
-        "fraud"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-30/2026-07-30-police-whatsapp-ai-voice-scam-alert.json",
-      "en": {
-        "headline": "Police warn of AI voice scams after 150 WhatsApp hijackings cause HK$26 million losses",
-        "dek": "In the past two weeks scammers have used artificial intelligence to imitate the voices of hijacked account holders’ relatives; one victim lost HK$10 million."
-      },
-      "zh": {
-        "headline": "警誡WhatsApp被盜用後AI語音詐騙 兩周150宗損失逾2600萬",
-        "dek": "騙徒在過去兩周利用人工智能模仿被盜帳戶親友聲音，其中一宗受害人損失1000萬元。"
-      }
-    },
-    {
-      "id": "2026-07-30-tsim-sha-tsui-bar-assault-seven-arrested",
-      "published_at": "2026-07-30T07:18:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "wounding",
-        "tsim-sha-tsui",
-        "bar"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-30/2026-07-30-tsim-sha-tsui-bar-assault-seven-arrested.json",
-      "en": {
-        "headline": "Seven arrested over Tsim Sha Tsui bar assault that left man in critical condition",
-        "dek": "Police say the 32-year-old victim suffered severe head injuries and a fractured rib; some of those arrested are suspected of having triad links and further arrests are not ruled out."
-      },
-      "zh": {
-        "headline": "尖沙咀酒吧傷人案七人被捕 傷者情況危殆",
-        "dek": "警方指32歲男傷者頭部嚴重受傷及肋骨骨折，部分被捕人士涉嫌有黑社會背景，不排除再有人被捕。"
-      }
-    },
-    {
-      "id": "2026-07-30-customs-shenzhen-bay-electronic-chips",
-      "published_at": "2026-07-30T07:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "smuggling",
-        "shenzhen-bay",
-        "electronic-chips"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-30/2026-07-30-customs-shenzhen-bay-electronic-chips.json",
-      "en": {
-        "headline": "Customs seizes 225,000 electronic chips worth HK$6.25 million at Shenzhen Bay",
-        "dek": "Two men were arrested after officers intercepted an outbound private car and found the suspected unmanifested cargo in the boot; they face court today."
-      },
-      "zh": {
-        "headline": "海關深圳灣檢獲22.5萬枚電子芯片 估值625萬元",
-        "dek": "關員截查一輛出境私家車，在車尾箱發現懷疑未列艙單貨物；兩名男子被控意圖輸出未列艙單貨物，今早在屯門裁判法院應訊。"
       }
     }
   ]
