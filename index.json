@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-08-03T01:20:26+08:00",
+  "generated_at": "2026-08-03T03:04:38+08:00",
   "live_window_hours": 72,
-  "count": 56,
+  "count": 59,
   "articles": [
+    {
+      "id": "2026-08-03-ce-meets-csrc-wu-qing",
+      "published_at": "2026-08-03T03:14:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "chief-executive",
+        "csrc",
+        "financial-connectivity",
+        "rmb",
+        "policy-address"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-03/2026-08-03-ce-meets-csrc-wu-qing.json",
+      "en": {
+        "headline": "Chief Executive meets CSRC chairman on deepening market links",
+        "dek": "John Lee hosted China Securities Regulatory Commission chairman Wu Qing at Government House on Sunday to discuss closer financial cooperation between Hong Kong and the mainland."
+      },
+      "zh": {
+        "headline": "李家超晤中證監主席吳清 商討深化兩地金融互聯互通",
+        "dek": "行政長官李家超周日在禮賓府與中國證券監督管理委員會主席吳清會面，就深化香港與內地金融市場互聯互通交流意見。"
+      }
+    },
+    {
+      "id": "2026-08-03-minimum-spreads-phase2",
+      "published_at": "2026-08-03T03:13:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hkex",
+        "tick-size",
+        "minimum-spreads",
+        "equities",
+        "market-structure"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-03/2026-08-03-minimum-spreads-phase2.json",
+      "en": {
+        "headline": "HKEX cuts minimum tick size for mid-priced stocks from today",
+        "dek": "Phase 2 of the minimum spreads reduction takes effect, halving the tick size for equities and other securities priced between HK$0.50 and HK$10."
+      },
+      "zh": {
+        "headline": "港交所今日起下調中價股最低上落價位",
+        "dek": "最低上落價位下調第二階段今日生效，介乎0.5元至10元的股票及其他適用證券最低上落價位減半至0.005元。"
+      }
+    },
+    {
+      "id": "2026-08-03-hkex-cgb-futures-launch",
+      "published_at": "2026-08-03T03:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hkex",
+        "cgb-futures",
+        "rmb",
+        "bond-connect",
+        "sfc"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-03/2026-08-03-hkex-cgb-futures-launch.json",
+      "en": {
+        "headline": "HKEX launches 5-year China Government Bond Futures today",
+        "dek": "The first offshore China Government Bond futures contract begins trading on the Hong Kong exchange, giving investors a new tool to manage interest-rate risk on mainland bonds."
+      },
+      "zh": {
+        "headline": "港交所今日推出五年期中國國債期貨",
+        "dek": "香港交易所今日起買賣首隻離岸中國國債期貨合約，為投資者提供管理內地債券利率風險的新工具。"
+      }
+    },
     {
       "id": "2026-08-03-thunderstorm-warning-early-morning",
       "published_at": "2026-08-03T01:20:00+08:00",
