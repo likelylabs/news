@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-08-02T13:06:55+08:00",
+  "generated_at": "2026-08-02T15:05:29+08:00",
   "live_window_hours": 72,
   "count": 62,
   "articles": [
+    {
+      "id": "2026-08-02-students-space-dialogue-astronaut",
+      "published_at": "2026-08-02T15:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "astronaut",
+        "lai-ka-ying",
+        "education",
+        "space",
+        "students"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-02/2026-08-02-students-space-dialogue-astronaut.json",
+      "en": {
+        "headline": "Students may speak with astronaut Lai Ka-ying from September",
+        "dek": "The Innovation, Technology and Industry Bureau is organising a Space-Earth Dialogue that could allow primary and secondary pupils to talk directly with Hong Kong’s first astronaut."
+      },
+      "zh": {
+        "headline": "學生最早9月可與航天員黎家盈「天地對話」",
+        "dek": "創新科技及工業局局長孫東表示，中小學生最早可於9月新學年開始後，透過「天地對話」直接與香港首位航天員黎家盈通話。"
+      }
+    },
+    {
+      "id": "2026-08-02-paul-chan-gdp-forecast-raise",
+      "published_at": "2026-08-02T15:14:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "gdp",
+        "economy",
+        "paul-chan",
+        "financial-secretary",
+        "renminbi"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-02/2026-08-02-paul-chan-gdp-forecast-raise.json",
+      "en": {
+        "headline": "Financial Secretary signals full-year GDP forecast will be raised",
+        "dek": "Paul Chan said the economy expanded 5.1 per cent in the first half and authorities will revise the annual growth projection upward later this month."
+      },
+      "zh": {
+        "headline": "陳茂波：上半年經濟增長5.1% 稍後上調全年預測",
+        "dek": "財政司司長陳茂波在網誌表示，本港上半年經濟按年增長5.1%，當局稍後本月內會上調全年本地生產總值增長預測。"
+      }
+    },
+    {
+      "id": "2026-08-02-tsim-sha-tsui-murder-three-more-arrested",
+      "published_at": "2026-08-02T15:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "murder",
+        "tsim-sha-tsui",
+        "arrest",
+        "triad"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-02/2026-08-02-tsim-sha-tsui-murder-three-more-arrested.json",
+      "en": {
+        "headline": "Police arrest three more men over Tsim Sha Tsui bar murder",
+        "dek": "A 40-year-old man was arrested for murder and two others for assisting offenders in connection with the 26 July attack that left a 32-year-old man dead."
+      },
+      "zh": {
+        "headline": "尖沙咀酒吧謀殺案再拘三人 包括一名謀殺嫌疑",
+        "dek": "警方就7月26日尖沙咀樓上酒吧襲擊致死案再拘捕三名本地男子，其中40歲男子涉嫌謀殺，另外兩人涉嫌協助罪犯。"
+      }
+    },
     {
       "id": "2026-08-02-workweek-weather-outlook-aug3",
       "published_at": "2026-08-02T13:11:00+08:00",
@@ -1331,73 +1400,6 @@
       "zh": {
         "headline": "港深簽署皇崗口岸「一地兩檢」合作安排",
         "dek": "保安局局長鄧炳強與深圳市副市長今日在中環政府總部簽署合作安排及使用權協議，香港口岸區將於明日零時起由特區依法管轄。"
-      }
-    },
-    {
-      "id": "2026-07-30-hkma-base-rate-unchanged-fed",
-      "published_at": "2026-07-30T14:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hkma",
-        "interest-rate",
-        "base-rate",
-        "fed"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-30/2026-07-30-hkma-base-rate-unchanged-fed.json",
-      "en": {
-        "headline": "HKMA keeps base rate at 4 per cent after Fed holds rates steady",
-        "dek": "The Hong Kong Monetary Authority said the Federal Reserve’s decision to leave the federal funds target range unchanged was in line with market expectations and local markets continued to operate orderly."
-      },
-      "zh": {
-        "headline": "金管局維持基本利率4厘 緊隨聯儲局按兵不動",
-        "dek": "金管局表示聯儲局維持聯邦基金利率目標範圍的決定符合市場預期，本港貨幣及金融市場繼續有序運作。"
-      }
-    },
-    {
-      "id": "2026-07-30-zhongji-innolight-ipo-debut",
-      "published_at": "2026-07-30T14:18:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "ipo",
-        "stock-market",
-        "zhongji-innolight",
-        "listing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-30/2026-07-30-zhongji-innolight-ipo-debut.json",
-      "en": {
-        "headline": "Zhongji Innolight shares fall on debut after HK$53.4 billion Hong Kong listing",
-        "dek": "The Chinese optical-parts maker raised HK$53.41 billion in what became Hong Kong’s largest share sale this year; shares opened below the offer price of HK$980."
-      },
-      "zh": {
-        "headline": "中際旭創港股上市集資534億元 首日股價低開",
-        "dek": "中國光學零件製造商完成今年本港最大型新股上市，發行價980港元，股份今早低於發行價開出。"
-      }
-    },
-    {
-      "id": "2026-07-30-customs-airport-ketamine-cannabis-seizure",
-      "published_at": "2026-07-30T14:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "drugs",
-        "airport",
-        "ketamine",
-        "cannabis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-30/2026-07-30-customs-airport-ketamine-cannabis-seizure.json",
-      "en": {
-        "headline": "Customs seizes 36 kg ketamine and 21 kg cannabis at airport, arrests four",
-        "dek": "Two British nationals, a Malaysian man and a local woman were stopped after officers found the drugs in check-in luggage on flights from London and Bangkok; one faces court today."
-      },
-      "zh": {
-        "headline": "海關機場檢獲36公斤氯胺酮及21公斤大麻花 拘四人",
-        "dek": "兩名英國籍旅客、一名馬來西亞男子及一名本地女子在倫敦及曼谷航班行李中被發現毒品，其中一人今日提堂。"
       }
     }
   ]
