@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T17:06:25+08:00",
+  "updated_at": "2026-08-02T19:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -139,6 +139,18 @@
       "id": "2026-08-02-tai-mei-tuk-triathlon-swimmer-dies",
       "first_seen": "2026-08-02T17:05:00+08:00",
       "headline_en": "59-year-old man dies after rescue from Tai Mei Tuk triathlon swim"
+    },
+    {
+      "key": "heavy-rain-alert-aug2-evening",
+      "id": "2026-08-02-heavy-rain-alert-evening",
+      "first_seen": "2026-08-02T19:10:00+08:00",
+      "headline_en": "Observatory warns of widespread heavy rain in coming hours"
+    },
+    {
+      "key": "kwai-chung-water-pipe-leak-aug2",
+      "id": "2026-08-02-kwai-chung-water-pipe-leak",
+      "first_seen": "2026-08-02T19:12:00+08:00",
+      "headline_en": "Fresh water supply disrupted in Kwai Chung after pipe leak"
     }
   ]
 }

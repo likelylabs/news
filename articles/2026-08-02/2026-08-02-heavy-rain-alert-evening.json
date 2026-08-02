@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-02-heavy-rain-alert-evening",
+  "published_at": "2026-08-02T19:10:00+08:00",
+  "category": "weather",
+  "tags": ["hko", "heavy-rain", "flooding", "thunderstorm"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "heavy-rain-alert-aug2-evening",
+  "en": {
+    "headline": "Observatory warns of widespread heavy rain in coming hours",
+    "dek": "The Hong Kong Observatory issued a special announcement at 5.50pm saying widespread heavy rain may affect the city in a couple of hours.",
+    "body": [
+      "The Hong Kong Observatory said at 5.50 p.m. on Sunday that widespread heavy rain may affect Hong Kong in a couple of hours and urged members of the public to stay alert.",
+      "A broad trough of low pressure continues to bring heavy showers and squally thunderstorms to the coast of southern China. The Observatory advised people to take precautions against flooding in low-lying areas and to avoid outdoor activities during intense downpours.",
+      "Earlier on Sunday the Drainage Services Department confirmed it had handled seven flooding cases by 5 p.m., all of which had been resolved. The affected locations included sites in Sheung Shui, Tai Po, Yuen Long and Kowloon, and all roads had returned to normal operation."
+    ]
+  },
+  "zh": {
+    "headline": "天文台：未來數小時香港廣泛地區可能受大雨影響",
+    "dek": "天文台下午5時50分發出特別天氣提示，指未來兩三小時本港廣泛地區可能受大雨影響，呼籲市民提高警覺。",
+    "body": [
+      "香港天文台於周日下午5時50分表示，未來兩三小時香港廣泛地區可能受大雨影響，市民應提高警覺。",
+      "受廣闊低壓槽影響，華南沿岸繼續有大驟雨及狂風雷暴。天文台提醒市民注意低窪地區可能出現水浸，大雨期間盡量避免戶外活動。",
+      "渠務署較早前表示，截至下午5時共確認7宗水浸個案，全部已完成處理。涉事地點包括上水、大埔、元朗及九龍等地，受影響道路已回復正常。"
+    ]
+  }
+}
