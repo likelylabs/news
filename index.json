@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-02T21:10:38+08:00",
+  "generated_at": "2026-08-03T01:20:26+08:00",
   "live_window_hours": 72,
-  "count": 60,
+  "count": 56,
   "articles": [
+    {
+      "id": "2026-08-03-thunderstorm-warning-early-morning",
+      "published_at": "2026-08-03T01:20:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "thunderstorm",
+        "heavy-rain",
+        "warning"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-03/2026-08-03-thunderstorm-warning-early-morning.json",
+      "en": {
+        "headline": "Thunderstorm warning in force until 5am amid heavy rain risk",
+        "dek": "The Hong Kong Observatory has the Thunderstorm Warning in effect until 5 a.m., with intense rain bands near the Pearl River Estuary and widespread heavy rain possible in the next few hours."
+      },
+      "zh": {
+        "headline": "雷暴警告生效至清晨5時 廣泛大雨風險",
+        "dek": "天文台表示雷暴警告繼續生效至今日上午5時，珠江口一帶有強烈雨帶持續影響，未來數小時本港廣泛地區可能受大雨影響。"
+      }
+    },
     {
       "id": "2026-08-02-sport-for-all-day",
       "published_at": "2026-08-02T21:12:00+08:00",
@@ -1239,120 +1261,6 @@
       "zh": {
         "headline": "三名前匯豐職員涉收賄協助開戶被控",
         "dek": "廉署指三人於銅鑼灣分行任職關係經理期間，在2024年收受利益協助保險代理轉介客戶免排隊開立銀行帳戶。"
-      }
-    },
-    {
-      "id": "2026-07-30-to-kwa-wan-market-vibrio-cholera",
-      "published_at": "2026-07-30T23:06:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "fehd",
-        "food-safety",
-        "cholera",
-        "to-kwa-wan",
-        "market"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-30/2026-07-30-to-kwa-wan-market-vibrio-cholera.json",
-      "en": {
-        "headline": "FEHD closes To Kwa Wan Market stall after vibrio cholera found in fish tank",
-        "dek": "A water sample taken on 24 July from stall F22 on the first floor of the market at 165 Ma Tau Wai Road tested positive; the stall remains closed for thorough disinfection."
-      },
-      "zh": {
-        "headline": "土瓜灣街市魚缸水驗出霍亂弧菌 食環署封閉檔位",
-        "dek": "馬頭圍道165號土瓜灣街市一樓F22號檔位7月24日抽取的魚缸水樣本驗出O1群霍亂弧菌，檔位已即時暫時封閉徹底清潔消毒。"
-      }
-    },
-    {
-      "id": "2026-07-30-customs-airport-18kg-ketamine-3kg-cannabis",
-      "published_at": "2026-07-30T23:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "drugs",
-        "airport",
-        "ketamine",
-        "cannabis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-30/2026-07-30-customs-airport-18kg-ketamine-3kg-cannabis.json",
-      "en": {
-        "headline": "Customs seizes 18 kg ketamine and 3 kg cannabis at airport, arrests two",
-        "dek": "A local woman arriving from Zurich and a Malaysian man from Bangkok were stopped with the drugs hidden in check-in luggage; the haul is valued at about HK$7.9 million."
-      },
-      "zh": {
-        "headline": "海關機場檢獲18公斤氯胺酮及3公斤大麻花 拘兩人",
-        "dek": "一名由蘇黎世抵港的本地女子及一名由曼谷抵港的馬來西亞男子，在託運行李藏毒被截獲，估計總市值約790萬元。"
-      }
-    },
-    {
-      "id": "2026-07-30-tuen-mun-water-supply-restored",
-      "published_at": "2026-07-30T21:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "water-supplies",
-        "tuen-mun",
-        "pipe-leak",
-        "restoration"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-30/2026-07-30-tuen-mun-water-supply-restored.json",
-      "en": {
-        "headline": "Water supply restored to Tuen Mun estates after two-day repairs",
-        "dek": "The Water Supplies Department said supply gradually resumed from 6 pm on Thursday to estates including Yi Fung Court, Hin Fat Estate, Hang Shun Garden and Koon Fung Garden after further leak repairs."
-      },
-      "zh": {
-        "headline": "屯門多個屋苑傍晚起陸續恢復食水供應",
-        "dek": "水務署表示，經過兩日搶修富發里及屯興路水管漏點後，怡峰園、顯發邨、恒順園及冠峰園等屋苑星期四傍晚六時起陸續恢復供水。"
-      }
-    },
-    {
-      "id": "2026-07-30-yuen-long-castle-peak-road-truck-minibus-collision",
-      "published_at": "2026-07-30T21:14:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "yuen-long",
-        "castle-peak-road",
-        "minibus",
-        "truck"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-30/2026-07-30-yuen-long-castle-peak-road-truck-minibus-collision.json",
-      "en": {
-        "headline": "Six injured after truck and minibus collide on Castle Peak Road",
-        "dek": "A heavy goods vehicle and a green minibus collided on the Yuen Long-bound section of Castle Peak Road–Tam Mi near Po Wai around 4.30 pm, leaving six people with neck injuries."
-      },
-      "zh": {
-        "headline": "青山公路潭尾段貨車小巴相撞六人受傷",
-        "dek": "一輛重型貨車與一輛專線小巴星期四下午約四時半在元朗青山公路潭尾段近壆圍相撞，六人頸部受傷送往博愛醫院。"
-      }
-    },
-    {
-      "id": "2026-07-30-ce-advisers-luncheons-five-year-plan",
-      "published_at": "2026-07-30T21:12:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "chief-executive",
-        "five-year-plan",
-        "policy-address",
-        "ceca",
-        "northern-metropolis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-30/2026-07-30-ce-advisers-luncheons-five-year-plan.json",
-      "en": {
-        "headline": "Chief Executive concludes advisers' talks on first five-year plan",
-        "dek": "John Lee held three days of working luncheons with the Chief Executive's Council of Advisers to gather views on Hong Kong's first five-year plan and the 2026 Policy Address."
-      },
-      "zh": {
-        "headline": "李家超與特首顧問團完成三年規劃及施政報告交流",
-        "dek": "行政長官李家超一連三日與特首顧問團舉行工作午餐，聽取對香港第一個五年規劃及2026年施政報告的意見。"
       }
     }
   ]
