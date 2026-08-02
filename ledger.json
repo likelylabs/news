@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T05:23:02+08:00",
+  "updated_at": "2026-08-03T07:06:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -181,6 +181,18 @@
       "id": "2026-08-03-ce-meets-csrc-wu-qing",
       "first_seen": "2026-08-03T03:14:00+08:00",
       "headline_en": "Chief Executive meets CSRC chairman on deepening market links"
+    },
+    {
+      "key": "amber-rainstorm-warning-aug3-morning",
+      "id": "2026-08-03-amber-rainstorm-thunderstorm-warning-morning",
+      "first_seen": "2026-08-03T07:05:00+08:00",
+      "headline_en": "Amber rainstorm and thunderstorm warnings in force this morning"
+    },
+    {
+      "key": "ride-hailing-regulation-takes-effect-aug3",
+      "id": "2026-08-03-ride-hailing-regulation-takes-effect",
+      "first_seen": "2026-08-03T07:06:00+08:00",
+      "headline_en": "Ride-hailing regulatory regime takes effect with combined taxi test launch"
     }
   ]
 }
