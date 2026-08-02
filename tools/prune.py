@@ -61,16 +61,28 @@ def main():
             if d.is_dir() and not any(d.iterdir()):
                 d.rmdir()
 
-    # 2) Trim stale ledger entries.
-    ledger = json.loads(LEDGER_PATH.read_text(encoding="utf-8"))
-    before = len(ledger.get("covered", []))
-    kept = [e for e in ledger.get("covered", [])
-            if (parse_dt(e.get("first_seen")) or now) >= led_cutoff]
-    trimmed = before - len(kept)
-    if not dry:
-        ledger["covered"] = kept
-        ledger["updated_at"] = now.isoformat(timespec="seconds")
-        LEDGER_PATH.write_text(json.dumps(ledger, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    # 2) Trim stale ledger entries. A momentarily empty or corrupt ledger.json
+    # (e.g. an interrupted/empty write from the news automation) must NOT crash
+    # the whole run — skip trimming this pass and leave the file untouched so
+    # the next automation write can self-heal it. Overwriting it with an empty
+    # ledger here would wipe dedup state and let old stories re-report as "new".
+    trimmed = 0
+    try:
+        ledger = json.loads(LEDGER_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError) as e:
+        print(f"WARNING: ledger.json unreadable ({e}); skipping ledger trim "
+              f"(left untouched for the next automation run to self-heal).",
+              file=sys.stderr)
+        ledger = None
+    if ledger is not None:
+        before = len(ledger.get("covered", []))
+        kept = [e for e in ledger.get("covered", [])
+                if (parse_dt(e.get("first_seen")) or now) >= led_cutoff]
+        trimmed = before - len(kept)
+        if not dry:
+            ledger["covered"] = kept
+            ledger["updated_at"] = now.isoformat(timespec="seconds")
+            LEDGER_PATH.write_text(json.dumps(ledger, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
     print(f"{'[dry-run] ' if dry else ''}pruned {removed} article file(s), "
           f"trimmed {trimmed} ledger entr(y/ies).")
