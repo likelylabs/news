@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-08-03T09:03:46+08:00",
+  "generated_at": "2026-08-03T13:05:17+08:00",
   "live_window_hours": 72,
-  "count": 61,
+  "count": 58,
   "articles": [
+    {
+      "id": "2026-08-03-fs-cgb-futures-launch-speech",
+      "published_at": "2026-08-03T13:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "finance",
+        "hkex",
+        "cgb-futures",
+        "rmb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-03/2026-08-03-fs-cgb-futures-launch-speech.json",
+      "en": {
+        "headline": "Financial Secretary hails China Government Bond Futures as key offshore RMB tool",
+        "dek": "Paul Chan said the launch closes a critical gap in the offshore renminbi toolkit and strengthens Hong Kong’s role as a risk-management hub."
+      },
+      "zh": {
+        "headline": "財政司司長：國債期貨補上離岸人民幣工具關鍵拼圖",
+        "dek": "陳茂波在港交所五年期中國國債期貨上市儀式上表示，產品為離岸人民幣工具箱補上重要一環，強化香港風險管理中心角色。"
+      }
+    },
+    {
+      "id": "2026-08-03-csrc-sfc-market-cooperation-measures",
+      "published_at": "2026-08-03T13:05:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "finance",
+        "csrc",
+        "sfc",
+        "market-connect"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-03/2026-08-03-csrc-sfc-market-cooperation-measures.json",
+      "en": {
+        "headline": "CSRC and SFC announce new measures to deepen Hong Kong-Mainland market links",
+        "dek": "The regulators unveiled 10 measures covering cross-boundary listings, ETFs, indices, RMB futures and professional qualifications to strengthen co-operation."
+      },
+      "zh": {
+        "headline": "中證監與證監會公布深化兩地市場合作新措施",
+        "dek": "監管機構公布十項措施，涵蓋跨境上市、ETF、指數合作、人民幣期貨及專業資格等範疇，加強兩地市場聯通。"
+      }
+    },
     {
       "id": "2026-08-03-kwai-chung-minibus-van-collision",
       "published_at": "2026-08-03T09:14:00+08:00",
@@ -1264,121 +1308,6 @@
       "zh": {
         "headline": "尖沙咀酒吧傷人案受害人不治 警方改列謀殺案",
         "dek": "32歲男子於7月26日在尖沙咀樓上酒吧遇襲後，今晨不治；警方將案件改列謀殺，再拘兩人，其中一人將被控謀殺罪。"
-      }
-    },
-    {
-      "id": "2026-07-31-advance-decision-ordinance-takes-effect",
-      "published_at": "2026-07-31T11:12:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "end-of-life",
-        "advance-directive",
-        "hospital-authority",
-        "health-bureau",
-        "legislation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-advance-decision-ordinance-takes-effect.json",
-      "en": {
-        "headline": "Advance Decision on Life-sustaining Treatment Ordinance takes effect",
-        "dek": "The new law provides a legal framework for advance medical directives and do-not-attempt CPR orders, offering protection for patients’ wishes and for medical staff who follow them."
-      },
-      "zh": {
-        "headline": "《維持生命治療的預作決定條例》今日生效",
-        "dek": "新法例為預設醫療指示及不作心肺復甦術命令提供法律框架，保障病人意願及遵從指示的醫護人員。"
-      }
-    },
-    {
-      "id": "2026-07-31-tai-po-tolo-highway-motorcycle-fatal",
-      "published_at": "2026-07-31T11:10:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "tai-po",
-        "tolo-highway",
-        "motorcycle",
-        "dangerous-driving"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-tai-po-tolo-highway-motorcycle-fatal.json",
-      "en": {
-        "headline": "Motorcyclist dies after Tolo Highway crash in Tai Po",
-        "dek": "A 39-year-old man was certified dead after his motorcycle fell and was struck by a private car on Thursday evening; the car driver has been arrested for dangerous driving causing death."
-      },
-      "zh": {
-        "headline": "大埔吐露港公路電單車車禍 男司機死亡",
-        "dek": "一名39歲男子星期四晚騎電單車在吐露港公路失控跌倒，再被私家車輾過，其後證實死亡；私家車司機涉嫌危險駕駛導致他人死亡被捕。"
-      }
-    },
-    {
-      "id": "2026-07-31-cheung-tsing-highway-truck-collision-probe",
-      "published_at": "2026-07-31T09:10:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "tsing-yi",
-        "cheung-tsing-highway",
-        "airport",
-        "transport-department"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-cheung-tsing-highway-truck-collision-probe.json",
-      "en": {
-        "headline": "Transport Department orders probe after truck crash snarls airport link",
-        "dek": "A medium goods vehicle overturned on Cheung Tsing Highway in Tsing Yi during the Thursday evening rush hour, causing more than three hours of gridlock on the route to the airport."
-      },
-      "zh": {
-        "headline": "長青公路貨車翻側堵塞機場通道 運輸署要求調查",
-        "dek": "一輛中型貨車星期四晚在青衣長青公路翻側，導致往機場方向交通癱瘓逾三小時，運輸署已要求青馬管制區營辦商提交報告。"
-      }
-    },
-    {
-      "id": "2026-07-31-mai-po-warehouse-no3-fire",
-      "published_at": "2026-07-31T09:08:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "mai-po",
-        "warehouse",
-        "yuen-long",
-        "fire-services"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-mai-po-warehouse-no3-fire.json",
-      "en": {
-        "headline": "No. 3 alarm fire breaks out at Mai Po warehouse",
-        "dek": "Firefighters used three jets and breathing apparatus teams after the blaze at Luk Mei Tsuen was upgraded early on Friday; no casualties have been reported."
-      },
-      "zh": {
-        "headline": "米埔倉庫三級火 消防出動三條喉及煙帽隊",
-        "dek": "元朗米埔綠美村倉庫凌晨起火，約四時半升為三級火，消防以三條喉及煙帽隊灌救，暫未有人受傷。"
-      }
-    },
-    {
-      "id": "2026-07-31-langham-place-rodent-vermin-notice",
-      "published_at": "2026-07-31T09:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fehd",
-        "rodent",
-        "mong-kok",
-        "langham-place",
-        "hygiene"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-langham-place-rodent-vermin-notice.json",
-      "en": {
-        "headline": "FEHD issues vermin notice to Langham Place after rat video",
-        "dek": "The department ordered the Mong Kok shopping centre's management to eliminate conditions conducive to rodents by 6 August or face possible prosecution."
-      },
-      "zh": {
-        "headline": "食環署向朗豪坊發消除蟲鼠通知 限期8月6日前改善",
-        "dek": "旺角朗豪坊有影片顯示老鼠沿扶手奔跑，食環署巡查後發現鼠跡及天花孔洞，向管理方發出法定通知，否則可被檢控。"
       }
     }
   ]
