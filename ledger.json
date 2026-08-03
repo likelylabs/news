@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T15:07:34+08:00",
+  "updated_at": "2026-08-03T21:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -241,6 +241,30 @@
       "id": "2026-08-03-eurocham-five-year-plan-comments",
       "first_seen": "2026-08-03T15:22:00+08:00",
       "headline_en": "EuroCham says five-year plan gives firms clear strategic vision"
+    },
+    {
+      "key": "kowloon-city-safety-manager-fall-aug3",
+      "id": "2026-08-03-kowloon-city-safety-manager-fall",
+      "first_seen": "2026-08-03T21:06:00+08:00",
+      "headline_en": "Safety manager dies after falling 10 floors at Kowloon City site"
+    },
+    {
+      "key": "severe-paediatric-influenza-a-aug3",
+      "id": "2026-08-03-severe-paediatric-influenza-a",
+      "first_seen": "2026-08-03T21:07:00+08:00",
+      "headline_en": "Seven-year-old boy in critical condition with severe influenza A"
+    },
+    {
+      "key": "cannabis-gummies-children-hospital-aug3",
+      "id": "2026-08-03-cannabis-gummies-children-hospital",
+      "first_seen": "2026-08-03T21:08:00+08:00",
+      "headline_en": "Mother and relative arrested after children eat cannabis sweets"
+    },
+    {
+      "key": "chanel-warehouse-theft-sentencing-aug3",
+      "id": "2026-08-03-chanel-warehouse-theft-sentencing",
+      "first_seen": "2026-08-03T21:09:00+08:00",
+      "headline_en": "Four jailed over plots to steal Chanel goods worth HK$8.7 million"
     }
   ]
 }
