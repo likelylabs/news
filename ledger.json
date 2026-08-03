@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T13:05:17+08:00",
+  "updated_at": "2026-08-03T15:22:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -223,6 +223,24 @@
       "id": "2026-08-03-fs-cgb-futures-launch-speech",
       "first_seen": "2026-08-03T13:06:00+08:00",
       "headline_en": "Financial Secretary hails China Government Bond Futures as key offshore RMB tool"
+    },
+    {
+      "key": "beach-red-flags-water-quality-aug3",
+      "id": "2026-08-03-beach-red-flags-water-quality",
+      "first_seen": "2026-08-03T15:20:00+08:00",
+      "headline_en": "Red flags raised at eight beaches over poor water quality forecast"
+    },
+    {
+      "key": "triathlon-safety-reforms-lawmakers-aug3",
+      "id": "2026-08-03-triathlon-safety-reforms-lawmakers",
+      "first_seen": "2026-08-03T15:21:00+08:00",
+      "headline_en": "Lawmakers call for tighter safety rules after triathlon drowning"
+    },
+    {
+      "key": "eurocham-five-year-plan-vision-aug3",
+      "id": "2026-08-03-eurocham-five-year-plan-comments",
+      "first_seen": "2026-08-03T15:22:00+08:00",
+      "headline_en": "EuroCham says five-year plan gives firms clear strategic vision"
     }
   ]
 }
