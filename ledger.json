@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T07:03:15+08:00",
+  "updated_at": "2026-08-03T09:14:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -193,6 +193,24 @@
       "id": "2026-08-03-ride-hailing-regulation-takes-effect",
       "first_seen": "2026-08-03T07:06:00+08:00",
       "headline_en": "Ride-hailing regulatory regime takes effect with combined taxi test launch"
+    },
+    {
+      "key": "july-2026-rainfall-second-highest",
+      "id": "2026-08-03-july-rainfall-second-highest",
+      "first_seen": "2026-08-03T09:12:00+08:00",
+      "headline_en": "July rainfall second-highest on record as hikers risk dam discharge"
+    },
+    {
+      "key": "cityplaza-car-park-gridlock-aug2",
+      "id": "2026-08-03-cityplaza-car-park-gridlock",
+      "first_seen": "2026-08-03T09:13:00+08:00",
+      "headline_en": "Drivers trapped over two hours in Cityplaza car park gridlock"
+    },
+    {
+      "key": "kwai-chung-minibus-van-collision-aug2",
+      "id": "2026-08-03-kwai-chung-minibus-van-collision",
+      "first_seen": "2026-08-03T09:14:00+08:00",
+      "headline_en": "Six injured after minibus and van collide in Kwai Chung"
     }
   ]
 }
