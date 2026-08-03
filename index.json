@@ -1,8 +1,123 @@
 {
-  "generated_at": "2026-08-03T21:09:07+08:00",
+  "generated_at": "2026-08-03T23:06:40+08:00",
   "live_window_hours": 72,
-  "count": 50,
+  "count": 54,
   "articles": [
+    {
+      "id": "2026-08-03-burmese-python-causeway-bay",
+      "published_at": "2026-08-03T23:09:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "wildlife",
+        "python",
+        "causeway-bay",
+        "rain",
+        "conservation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-03/2026-08-03-burmese-python-causeway-bay.json",
+      "en": {
+        "headline": "Burmese python spotted near Jardine Noonday Gun in Causeway Bay",
+        "dek": "A two-to-three-metre snake was filmed on Victoria Park Road on Sunday night; an expert linked the appearance to recent heavy rain flooding natural habitats."
+      },
+      "zh": {
+        "headline": "銅鑼灣近午炮台現緬甸蟒 專家指或與大雨有關",
+        "dek": "周日晚有人在維園道近怡和午炮台拍攝到一條長約兩至三米的蟒蛇，專家指近日大雨可能迫使其離開自然生境。"
+      }
+    },
+    {
+      "id": "2026-08-03-customs-illegal-birds-lok-ma-chau",
+      "published_at": "2026-08-03T23:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "illegal-import",
+        "birds",
+        "lok-ma-chau",
+        "afcd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-03/2026-08-03-customs-illegal-birds-lok-ma-chau.json",
+      "en": {
+        "headline": "Customs seizes 62 live birds at Lok Ma Chau Spur Line",
+        "dek": "A 22-year-old Mainland man was arrested after officers found 62 suspected illegally imported live birds valued at about HK$12,000 in his baggage."
+      },
+      "zh": {
+        "headline": "海關落馬洲支線檢62隻懷疑非法進口活鳥",
+        "dek": "海關周一在落馬洲支線管制站截獲一名22歲內地男旅客，在其行李檢獲62隻估計市值約1.2萬元的活鳥，並將其拘捕。"
+      }
+    },
+    {
+      "id": "2026-08-03-customs-illegal-cats-lok-ma-chau",
+      "published_at": "2026-08-03T23:07:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "illegal-import",
+        "animals",
+        "lok-ma-chau",
+        "afcd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-03/2026-08-03-customs-illegal-cats-lok-ma-chau.json",
+      "en": {
+        "headline": "Customs seizes three live cats at Lok Ma Chau Spur Line",
+        "dek": "A 56-year-old Mainland woman was arrested after three suspected illegally imported cats valued at about HK$30,000 were found in her rucksack at the control point."
+      },
+      "zh": {
+        "headline": "海關落馬洲支線檢三隻懷疑非法進口活貓",
+        "dek": "海關周一在落馬洲支線管制站截獲一名56歲內地女旅客，在其背囊檢獲三隻估計市值約3萬元的活貓，並將其拘捕。"
+      }
+    },
+    {
+      "id": "2026-08-03-security-guard-blank-vote-sentence",
+      "published_at": "2026-08-03T23:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "election",
+        "legco",
+        "incitement",
+        "west-kowloon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-03/2026-08-03-security-guard-blank-vote-sentence.json",
+      "en": {
+        "headline": "Security guard given suspended sentence for blank-vote comments",
+        "dek": "A 38-year-old man was sentenced to two months’ jail suspended for three years after pleading guilty to publicly inciting others to cast invalid votes during the 2025 Legislative Council election."
+      },
+      "zh": {
+        "headline": "保安員網上鼓吹投白票判囚兩月緩刑三年",
+        "dek": "38歲男子承認在2025年立法會選舉期間公開煽惑他人投無效票，西九龍裁判法院周一判處監禁兩個月，緩刑三年。"
+      }
+    },
+    {
+      "id": "2026-08-03-ngan-lai-ching-missing-found",
+      "published_at": "2026-08-03T23:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "missing-person",
+        "police",
+        "tseung-kwan-o",
+        "kwun-tong",
+        "search-and-rescue"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-03/2026-08-03-ngan-lai-ching-missing-found.json",
+      "en": {
+        "headline": "Missing Tseung Kwan O woman found alive on Kwun Tong hillside",
+        "dek": "Police said 60-year-old Ngan Lai-ching, missing since 24 July, was located near On Luen Village with minor abrasions and airlifted to hospital in a conscious state."
+      },
+      "zh": {
+        "headline": "將軍澳失蹤11日女子在觀塘山邊尋回",
+        "dek": "警方表示，60歲區麗貞自7月24日失蹤後，周一在觀塘安聯村附近山坡尋回，手腳擦傷，清醒送院，無可疑情況。"
+      }
+    },
     {
       "id": "2026-08-03-chanel-warehouse-theft-sentencing",
       "published_at": "2026-08-03T21:09:00+08:00",
@@ -1106,28 +1221,6 @@
       "zh": {
         "headline": "高院駁回內地人才計劃家庭挑戰大學學費政策",
         "dek": "法官裁定教育局要求子女須居港至少兩年才可享資助學額的政策並非不合理，由2028年起生效。"
-      }
-    },
-    {
-      "id": "2026-07-31-h1-crime-figures-down",
-      "published_at": "2026-07-31T21:11:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "crime-statistics",
-        "fraud",
-        "phishing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-h1-crime-figures-down.json",
-      "en": {
-        "headline": "Overall crime falls 1.5 per cent in first half as phishing scams surge",
-        "dek": "Police recorded 42,736 offences in the first six months of 2026, down 671 cases from a year earlier, while phishing fraud rose about 61 per cent."
-      },
-      "zh": {
-        "headline": "上半年整體罪案跌1.5% 釣魚騙案升約六成",
-        "dek": "今年首六個月錄得42,736宗罪案，較去年同期減少671宗；釣魚騙案則上升約61%。"
       }
     }
   ]
