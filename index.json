@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-08-03T13:05:17+08:00",
+  "generated_at": "2026-08-03T15:07:34+08:00",
   "live_window_hours": 72,
-  "count": 58,
+  "count": 57,
   "articles": [
+    {
+      "id": "2026-08-03-eurocham-five-year-plan-comments",
+      "published_at": "2026-08-03T15:22:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "five-year-plan",
+        "eurocham",
+        "northern-metropolis",
+        "business",
+        "consultation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-03/2026-08-03-eurocham-five-year-plan-comments.json",
+      "en": {
+        "headline": "EuroCham says five-year plan gives firms clear strategic vision",
+        "dek": "The European Chamber of Commerce in Hong Kong said the city’s first five-year plan will help foreign businesses understand long-term priorities and prepare products and solutions accordingly."
+      },
+      "zh": {
+        "headline": "歐洲商會：五年規劃助企業掌握長遠方向",
+        "dek": "香港歐洲商會表示，本港首個五年規劃讓外資企業更清楚了解香港的長遠策略目標，有助提前部署產品及方案。"
+      }
+    },
+    {
+      "id": "2026-08-03-triathlon-safety-reforms-lawmakers",
+      "published_at": "2026-08-03T15:21:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "triathlon",
+        "tai-mei-tuk",
+        "safety",
+        "lawmakers",
+        "open-water"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-03/2026-08-03-triathlon-safety-reforms-lawmakers.json",
+      "en": {
+        "headline": "Lawmakers call for tighter safety rules after triathlon drowning",
+        "dek": "Legislators urged organisers to introduce real-time tracking and clearer weather protocols following the death of a 59-year-old competitor during the swim leg at Tai Mei Tuk on Sunday."
+      },
+      "zh": {
+        "headline": "議員促三項鐵人賽加強安全措施",
+        "dek": "立法會議員就周日大美督三項鐵人賽游泳項目有選手遇溺不治，促請主辦單位引入實時追蹤及更清晰的天氣指引。"
+      }
+    },
+    {
+      "id": "2026-08-03-beach-red-flags-water-quality",
+      "published_at": "2026-08-03T15:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "beach",
+        "lcsd",
+        "epd",
+        "water-quality",
+        "red-flag"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-03/2026-08-03-beach-red-flags-water-quality.json",
+      "en": {
+        "headline": "Red flags raised at eight beaches over poor water quality forecast",
+        "dek": "The Leisure and Cultural Services Department hoisted red flags at beaches across several districts after the Environmental Protection Department forecast very poor water quality following heavy rain."
+      },
+      "zh": {
+        "headline": "八個泳灘因水質預測非常差懸掛紅旗",
+        "dek": "康文署表示，環保署泳灘水質預測指數為4，多個泳灘水質預測屬非常差，已懸掛紅旗，呼籲泳客不要下水。"
+      }
+    },
     {
       "id": "2026-08-03-fs-cgb-futures-launch-speech",
       "published_at": "2026-08-03T13:06:00+08:00",
@@ -1216,98 +1285,6 @@
       "zh": {
         "headline": "食環署明日起每月編配逾1600個公眾骨灰龕位",
         "dek": "新安排全面取代周年編配，涵蓋四個靈灰安置所；未能獲選指定地點者將自動獲配曾咀龕位。"
-      }
-    },
-    {
-      "id": "2026-07-31-huanggang-port-hk-area-established",
-      "published_at": "2026-07-31T15:05:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "huanggang-port",
-        "border",
-        "shenzhen",
-        "security-bureau",
-        "colocation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-huanggang-port-hk-area-established.json",
-      "en": {
-        "headline": "Hong Kong Port Area at Huanggang established; Security Secretary inspects facilities",
-        "dek": "The Hong Kong Port Area came under HKSAR jurisdiction from midnight; Tang Ping-keung inspected the co-location facilities and chaired a cross-departmental meeting on readiness."
-      },
-      "zh": {
-        "headline": "皇崗口岸港方口岸區今日零時成立 鄧炳強視察並主持跨部門會議",
-        "dek": "港方口岸區由今日零時起由特區依法管轄；保安局局長鄧炳強下午視察聯檢大樓設施，並主持跨部門會議推進開通前準備工作。"
-      }
-    },
-    {
-      "id": "2026-07-31-scaffolding-safety-codes-addenda",
-      "published_at": "2026-07-31T13:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "labour-department",
-        "scaffolding",
-        "safety",
-        "construction",
-        "occupational-health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-scaffolding-safety-codes-addenda.json",
-      "en": {
-        "headline": "Labour Department gazettes addenda to scaffolding safety codes",
-        "dek": "Revised guidance on bamboo and metal scaffolding, including stronger toe-board and fire-retardant requirements, takes immediate effect after publication in the Gazette."
-      },
-      "zh": {
-        "headline": "勞工處刊憲棚架安全守則增編即日生效",
-        "dek": "《竹棚架工作安全守則》及《金屬棚架工作安全守則》增編今日刊憲即日生效，加強底護板強度及保護幕阻燃要求。"
-      }
-    },
-    {
-      "id": "2026-07-31-red-rainstorm-warning-pm-schools",
-      "published_at": "2026-07-31T13:22:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "rainstorm",
-        "observatory",
-        "education-bureau",
-        "schools",
-        "flooding"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-red-rainstorm-warning-pm-schools.json",
-      "en": {
-        "headline": "Red rainstorm warning issued; afternoon school classes cancelled",
-        "dek": "The Hong Kong Observatory raised the red rainstorm signal at 11.05 am on Friday; the Education Bureau said students of PM schools need not attend classes this afternoon."
-      },
-      "zh": {
-        "headline": "紅色暴雨警告生效 教育局：下午校學生今日無需上課",
-        "dek": "天文台於上午11時05分發出紅色暴雨警告信號；教育局宣布下午校學生今日無需上課，學校須繼續開放照顧已到校學生。"
-      }
-    },
-    {
-      "id": "2026-07-31-tsim-sha-tsui-bar-victim-dies-murder",
-      "published_at": "2026-07-31T13:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "murder",
-        "tsim-sha-tsui",
-        "police",
-        "bar",
-        "assault"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-tsim-sha-tsui-bar-victim-dies-murder.json",
-      "en": {
-        "headline": "Tsim Sha Tsui bar assault victim dies, police reclassify case as murder",
-        "dek": "A 32-year-old man died early on Friday after the 26 July attack at an upstairs bar; police have reclassified the case as murder, made two further arrests and will charge one man with murder."
-      },
-      "zh": {
-        "headline": "尖沙咀酒吧傷人案受害人不治 警方改列謀殺案",
-        "dek": "32歲男子於7月26日在尖沙咀樓上酒吧遇襲後，今晨不治；警方將案件改列謀殺，再拘兩人，其中一人將被控謀殺罪。"
       }
     }
   ]
