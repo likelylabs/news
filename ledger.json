@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T21:09:07+08:00",
+  "updated_at": "2026-08-03T23:09:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -265,6 +265,36 @@
       "id": "2026-08-03-chanel-warehouse-theft-sentencing",
       "first_seen": "2026-08-03T21:09:00+08:00",
       "headline_en": "Four jailed over plots to steal Chanel goods worth HK$8.7 million"
+    },
+    {
+      "key": "ngan-lai-ching-missing-found-aug3",
+      "id": "2026-08-03-ngan-lai-ching-missing-found",
+      "first_seen": "2026-08-03T23:05:00+08:00",
+      "headline_en": "Missing Tseung Kwan O woman found alive on Kwun Tong hillside"
+    },
+    {
+      "key": "security-guard-blank-vote-sentence-aug3",
+      "id": "2026-08-03-security-guard-blank-vote-sentence",
+      "first_seen": "2026-08-03T23:06:00+08:00",
+      "headline_en": "Security guard given suspended sentence for blank-vote comments"
+    },
+    {
+      "key": "customs-illegal-cats-lok-ma-chau-aug3",
+      "id": "2026-08-03-customs-illegal-cats-lok-ma-chau",
+      "first_seen": "2026-08-03T23:07:00+08:00",
+      "headline_en": "Customs seizes three live cats at Lok Ma Chau Spur Line"
+    },
+    {
+      "key": "customs-illegal-birds-lok-ma-chau-aug3",
+      "id": "2026-08-03-customs-illegal-birds-lok-ma-chau",
+      "first_seen": "2026-08-03T23:08:00+08:00",
+      "headline_en": "Customs seizes 62 live birds at Lok Ma Chau Spur Line"
+    },
+    {
+      "key": "burmese-python-causeway-bay-aug2",
+      "id": "2026-08-03-burmese-python-causeway-bay",
+      "first_seen": "2026-08-03T23:09:00+08:00",
+      "headline_en": "Burmese python spotted near Jardine Noonday Gun in Causeway Bay"
     }
   ]
 }
