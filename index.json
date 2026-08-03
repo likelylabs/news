@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-08-03T15:07:34+08:00",
+  "generated_at": "2026-08-03T21:09:07+08:00",
   "live_window_hours": 72,
-  "count": 57,
+  "count": 50,
   "articles": [
+    {
+      "id": "2026-08-03-chanel-warehouse-theft-sentencing",
+      "published_at": "2026-08-03T21:09:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "theft",
+        "chanel",
+        "warehouse",
+        "high-court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-03/2026-08-03-chanel-warehouse-theft-sentencing.json",
+      "en": {
+        "headline": "Four jailed over plots to steal Chanel goods worth HK$8.7 million",
+        "dek": "The High Court sentenced four former warehouse workers to terms of up to seven years for conspiring to steal obsolete Chanel handbags and wallets from a Tsing Yi facility."
+      },
+      "zh": {
+        "headline": "四名前倉務員串謀盜竊Chanel貨品判囚最長七年",
+        "dek": "高等法院周一判處四名前倉庫工人最高七年監禁，罪名是串謀從青衣貨倉盜竊價值至少870萬元的Chanel過季手袋及銀包。"
+      }
+    },
+    {
+      "id": "2026-08-03-cannabis-gummies-children-hospital",
+      "published_at": "2026-08-03T21:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "cannabis",
+        "child-abuse",
+        "dangerous-drugs",
+        "wong-tai-sin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-03/2026-08-03-cannabis-gummies-children-hospital.json",
+      "en": {
+        "headline": "Mother and relative arrested after children eat cannabis sweets",
+        "dek": "A six-year-old boy and 12-year-old girl were taken to hospital after falling ill at their Wang Tau Hom Estate home; the mother was arrested for suspected child abuse."
+      },
+      "zh": {
+        "headline": "兩童誤食懷疑含大麻糖果不適 母親及親戚被捕",
+        "dek": "一名六歲男童及12歲女童周一下午在橫頭磡邨家中不適送院，母親涉嫌虐待兒童被捕，另一名親戚涉嫌藏毒被捕。"
+      }
+    },
+    {
+      "id": "2026-08-03-severe-paediatric-influenza-a",
+      "published_at": "2026-08-03T21:07:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "influenza",
+        "paediatric",
+        "chp",
+        "department-of-health",
+        "hospital"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-03/2026-08-03-severe-paediatric-influenza-a.json",
+      "en": {
+        "headline": "Seven-year-old boy in critical condition with severe influenza A",
+        "dek": "The Centre for Health Protection is investigating a severe paediatric influenza A case involving a previously healthy boy who developed shock and encephalopathy."
+      },
+      "zh": {
+        "headline": "七歲男童感染甲型流感危殆 併發休克及腦病變",
+        "dek": "衞生防護中心正調查一宗嚴重兒童甲型流感個案，一名過往健康良好的七歲男童出現休克及腦病變，情況危殆。"
+      }
+    },
+    {
+      "id": "2026-08-03-kowloon-city-safety-manager-fall",
+      "published_at": "2026-08-03T21:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "construction",
+        "industrial-accident",
+        "kowloon-city",
+        "labour-department",
+        "safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-03/2026-08-03-kowloon-city-safety-manager-fall.json",
+      "en": {
+        "headline": "Safety manager dies after falling 10 floors at Kowloon City site",
+        "dek": "A 39-year-old construction safety manager fell about 10 storeys at a Sa Po Road worksite on Monday afternoon and was later certified dead in hospital."
+      },
+      "zh": {
+        "headline": "九龍城地盤安全主任墮下約十層樓不治",
+        "dek": "一名39歲地盤安全主任周一下午在九龍城沙浦道地盤從天台墮下約十層樓，其後送院不治。"
+      }
+    },
     {
       "id": "2026-08-03-eurocham-five-year-plan-comments",
       "published_at": "2026-08-03T15:22:00+08:00",
@@ -1036,255 +1128,6 @@
       "zh": {
         "headline": "上半年整體罪案跌1.5% 釣魚騙案升約六成",
         "dek": "今年首六個月錄得42,736宗罪案，較去年同期減少671宗；釣魚騙案則上升約61%。"
-      }
-    },
-    {
-      "id": "2026-07-31-causeway-bay-beauty-parlour-poisons",
-      "published_at": "2026-07-31T21:09:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "department-of-health",
-        "pharmacy",
-        "poisons",
-        "causeway-bay",
-        "beauty"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-causeway-bay-beauty-parlour-poisons.json",
-      "en": {
-        "headline": "Woman arrested over beauty parlour product containing undeclared controlled drugs",
-        "dek": "The Department of Health and police acted against a Causeway Bay parlour after laboratory tests found a topical cream labelled Dermasa contained three local anaesthetics classified as Part 1 poisons."
-      },
-      "zh": {
-        "headline": "銅鑼灣美容院售含未標示受管制藥物產品 女子被捕",
-        "dek": "衞生署聯同警方採取行動，化驗顯示名為Dermasa的外用產品含有三種屬第1部毒藥的局部麻醉劑。"
-      }
-    },
-    {
-      "id": "2026-07-31-q2-gdp-4-3-percent",
-      "published_at": "2026-07-31T21:07:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "gdp",
-        "economy",
-        "census-statistics",
-        "exports"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-q2-gdp-4-3-percent.json",
-      "en": {
-        "headline": "Hong Kong GDP expands 4.3 per cent in second quarter",
-        "dek": "Advance estimates show the economy grew for a 14th consecutive quarter, driven by strong merchandise exports, though seasonally adjusted growth slipped 0.6 per cent from the first quarter."
-      },
-      "zh": {
-        "headline": "本港第二季本地生產總值按年升4.3%",
-        "dek": "政府公布初步估計，第二季經濟連續第14季擴張，貨品出口表現強勁，惟經季節性調整後按季下跌0.6%。"
-      }
-    },
-    {
-      "id": "2026-07-31-dickson-poon-insider-dealing-mmt",
-      "published_at": "2026-07-31T21:05:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "sfc",
-        "market-misconduct",
-        "insider-dealing",
-        "dickson-concepts"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-dickson-poon-insider-dealing-mmt.json",
-      "en": {
-        "headline": "Market Misconduct Tribunal finds Sir Dickson Poon culpable of insider dealing",
-        "dek": "The tribunal ruled that the Dickson Concepts founder bought shares while in possession of inside information about a US$4 billion acquisition that later yielded the company about HK$1.15 billion in cash."
-      },
-      "zh": {
-        "headline": "市場失當行為審裁處裁定潘廸生爵士內幕交易罪成",
-        "dek": "審裁處裁定廸生創建創辦人兼前集團執行主席在掌握有關一項最終為公司帶來約11.5億港元現金交易的內幕消息下，買入公司股份。"
-      }
-    },
-    {
-      "id": "2026-07-31-hkhs-lotus-tower-fire-alarm-fine",
-      "published_at": "2026-07-31T19:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "fire-safety",
-        "court",
-        "kwun-tong",
-        "hkhs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-hkhs-lotus-tower-fire-alarm-fine.json",
-      "en": {
-        "headline": "Housing Society fined HK$8,000 over faulty fire alarm after fatal blaze",
-        "dek": "The Hong Kong Housing Society pleaded guilty at Kwun Tong Magistrates’ Court to failing to keep fire service installations in working order at Lotus Tower, where a man died in an October 2025 fire."
-      },
-      "zh": {
-        "headline": "房協火警警報故障罰款8000元 涉觀塘致命火警",
-        "dek": "香港房屋協會於觀塘裁判法院承認一項未有保持消防裝置有效運作的控罪，該案涉及蓮花樓火警警報故障，去年10月有一名男子在火災中死亡。"
-      }
-    },
-    {
-      "id": "2026-07-31-yung-kam-wah-basketball-coach-no-charge",
-      "published_at": "2026-07-31T19:12:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "basketball",
-        "assault",
-        "education"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-yung-kam-wah-basketball-coach-no-charge.json",
-      "en": {
-        "headline": "Police find insufficient evidence to charge basketball coach over student video",
-        "dek": "Yung Kam-wah, a former Hong Kong national team player and Basketball Association vice-chairman, will not face prosecution after an investigation into a viral clip from a school training session."
-      },
-      "zh": {
-        "headline": "籃球教練迫學生掌摑案 警方指證據不足不檢控",
-        "dek": "前港隊球員、籃總副主席翁金華涉校內訓練片段，警方完成深入調查後表示證據不足以起訴任何人。"
-      }
-    },
-    {
-      "id": "2026-07-31-senior-superintendent-ian-chow-sentence",
-      "published_at": "2026-07-31T19:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "court",
-        "indecent-assault",
-        "west-kowloon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-senior-superintendent-ian-chow-sentence.json",
-      "en": {
-        "headline": "Senior police superintendent jailed nearly six months for indecent assault",
-        "dek": "Ian Chow Ngai-kong was sentenced at West Kowloon Court after being convicted of assaulting a Civil Service Bureau clerk on three occasions at police headquarters in 2024."
-      },
-      "zh": {
-        "headline": "高級警司非禮文員判囚近六個月",
-        "dek": "周艾剛於西九龍法院被判刑，早前裁定他在2024年於警察總部三次非禮一名公務員事務局文員罪名成立。"
-      }
-    },
-    {
-      "id": "2026-07-31-lantau-fire-extinguisher-forgery-arrest",
-      "published_at": "2026-07-31T17:16:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "fire-services",
-        "forgery",
-        "lantau",
-        "restaurant",
-        "contractor"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-lantau-fire-extinguisher-forgery-arrest.json",
-      "en": {
-        "headline": "Man arrested over suspected forged fire extinguisher certificate",
-        "dek": "A 62-year-old contractor was arrested after investigators found severe corrosion on an extinguisher that had been certified as functional at a Lantau restaurant last year."
-      },
-      "zh": {
-        "headline": "疑虛報滅火筒檢查證書 62歲承辦商被捕",
-        "dek": "消防處調查大嶼山食肆滅火筒爆炸後，發現承辦商去年發出的證書聲稱器材正常，惟其後發現嚴重銹蝕，懷疑未曾親身檢查。"
-      }
-    },
-    {
-      "id": "2026-07-31-hotel-fire-escape-hoods-backtrack",
-      "published_at": "2026-07-31T17:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "hotels",
-        "fire-safety",
-        "home-affairs",
-        "smoke-hoods",
-        "tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-hotel-fire-escape-hoods-backtrack.json",
-      "en": {
-        "headline": "Authorities backtrack on mandatory fire escape hoods for hotels",
-        "dek": "The Home Affairs Department will only encourage hotels and guest houses to provide sufficient smoke hoods in rooms, after industry concerns were raised following an earlier statement that they would be required."
-      },
-      "zh": {
-        "headline": "當局改為鼓勵酒店提供逃生頭套 不再強制規定",
-        "dek": "民政事務總署回應業界關注後表示，只會鼓勵酒店及賓館在客房按最高住客量提供足夠煙霧頭套，不再強制要求。"
-      }
-    },
-    {
-      "id": "2026-07-31-super-typhoon-dolphin-hot-weather",
-      "published_at": "2026-07-31T17:12:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "typhoon",
-        "observatory",
-        "hot-weather",
-        "dolphin",
-        "forecast"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-super-typhoon-dolphin-hot-weather.json",
-      "en": {
-        "headline": "Super Typhoon Dolphin expected to bring very hot weather next week",
-        "dek": "The Hong Kong Observatory said the storm’s outer subsiding airstream is likely to affect the southeastern China coast in the latter part of next week, though its later track remains uncertain."
-      },
-      "zh": {
-        "headline": "超強颱風海豚料下周後期為本港帶來酷熱天氣",
-        "dek": "天文台指風暴外圍下沉氣流有較大機會影響華南沿岸，惟其後路徑仍有變數，現階段難料會否帶來暴雨。"
-      }
-    },
-    {
-      "id": "2026-07-31-dse-mainland-entry-fee-hike",
-      "published_at": "2026-07-31T17:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "dse",
-        "hkeaa",
-        "education",
-        "mainland",
-        "examination-fees"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-dse-mainland-entry-fee-hike.json",
-      "en": {
-        "headline": "Mainland DSE candidates face 220 per cent entry fee rise to HK$8,000",
-        "dek": "The Hong Kong Examinations and Assessment Authority ends a three-year pilot subsidy, raising the initial fee for candidates sitting the diploma exam at designated mainland centres."
-      },
-      "zh": {
-        "headline": "內地考DSE初步報名費升220%至8000元",
-        "dek": "考評局結束三年試驗計劃後調整費用，於指定內地試場應考文憑試的考生初步報名費將由2500元增至8000元。"
-      }
-    },
-    {
-      "id": "2026-07-31-fehd-monthly-public-niche-allocation",
-      "published_at": "2026-07-31T15:08:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fehd",
-        "columbarium",
-        "public-niches",
-        "allocation",
-        "cemeteries"
-      ],
-      "breaking": false,
-      "path": "articles/2026-07-31/2026-07-31-fehd-monthly-public-niche-allocation.json",
-      "en": {
-        "headline": "FEHD launches monthly allocation of over 1,600 public niches from tomorrow",
-        "dek": "The enhanced arrangement replaces annual allocation and covers four columbaria; unsuccessful applicants for preferred sites will automatically be offered a niche at Tsang Tsui."
-      },
-      "zh": {
-        "headline": "食環署明日起每月編配逾1600個公眾骨灰龕位",
-        "dek": "新安排全面取代周年編配，涵蓋四個靈灰安置所；未能獲選指定地點者將自動獲配曾咀龕位。"
       }
     }
   ]
