@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-03T23:06:40+08:00",
+  "generated_at": "2026-08-04T05:37:24+08:00",
   "live_window_hours": 72,
-  "count": 54,
+  "count": 51,
   "articles": [
     {
       "id": "2026-08-03-burmese-python-causeway-bay",
@@ -1154,73 +1154,6 @@
       "zh": {
         "headline": "天文台發出雷暴警告 有效至早上7時45分",
         "dek": "香港天文台於今早6時45分發出雷暴警告，有效至7時45分，預期本港有局部地區雷暴。"
-      }
-    },
-    {
-      "id": "2026-08-01-kwun-tong-ev-lpg-site-tender",
-      "published_at": "2026-08-01T02:14:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "ev-charging",
-        "lpg",
-        "land-sale",
-        "kwun-tong",
-        "environment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-01/2026-08-01-kwun-tong-ev-lpg-site-tender.json",
-      "en": {
-        "headline": "Government tenders Kwun Tong site for EV fast charging and LPG station",
-        "dek": "The 5,896-square-metre lot at Wai Lok Street will replace a dedicated LPG station and support the city's EV popularisation roadmap."
-      },
-      "zh": {
-        "headline": "政府招標出售觀塘和樂街地皮作電動車快速充電及石油氣站",
-        "dek": "該幅5,896平方米地皮將重置專用石油氣加氣站，並配合電動車普及化路線圖。"
-      }
-    },
-    {
-      "id": "2026-08-01-ha-medication-errors-q1-2026",
-      "published_at": "2026-08-01T02:12:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "hospital-authority",
-        "medication",
-        "patient-safety",
-        "risk-alert"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-01/2026-08-01-ha-medication-errors-q1-2026.json",
-      "en": {
-        "headline": "Public hospitals record 26 serious medication errors in first quarter",
-        "dek": "The Hospital Authority said the figure rose more than 70 per cent from the previous quarter, with anticoagulants involved in 12 cases."
-      },
-      "zh": {
-        "headline": "公院首季錄26宗嚴重藥物錯誤事件",
-        "dek": "醫管局指數字較上一季上升逾七成，其中12宗涉及抗凝血藥。"
-      }
-    },
-    {
-      "id": "2026-08-01-mainland-families-university-fees-challenge",
-      "published_at": "2026-08-01T02:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "high-court",
-        "talent-visa",
-        "university"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-01/2026-08-01-mainland-families-university-fees-challenge.json",
-      "en": {
-        "headline": "High Court rejects mainland families' challenge to university fee rules",
-        "dek": "Judge Russell Coleman ruled the Education Bureau's two-year residency requirement for subsidised places from 2028 is not irrational."
-      },
-      "zh": {
-        "headline": "高院駁回內地人才計劃家庭挑戰大學學費政策",
-        "dek": "法官裁定教育局要求子女須居港至少兩年才可享資助學額的政策並非不合理，由2028年起生效。"
       }
     }
   ]
