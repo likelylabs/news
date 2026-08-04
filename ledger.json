@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T05:37:24+08:00",
+  "updated_at": "2026-08-04T09:08:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -295,6 +295,24 @@
       "id": "2026-08-03-burmese-python-causeway-bay",
       "first_seen": "2026-08-03T23:09:00+08:00",
       "headline_en": "Burmese python spotted near Jardine Noonday Gun in Causeway Bay"
+    },
+    {
+      "key": "to-kwa-wan-stairwell-stabbing-aug3",
+      "id": "2026-08-04-to-kwa-wan-stairwell-stabbing",
+      "first_seen": "2026-08-04T09:05:00+08:00",
+      "headline_en": "Police hunt three suspects after man stabbed in To Kwa Wan stairwell"
+    },
+    {
+      "key": "prison-officer-tam-lik-chung-sentence-aug3",
+      "id": "2026-08-04-prison-officer-inmate-assault-sentence",
+      "first_seen": "2026-08-04T09:06:00+08:00",
+      "headline_en": "Former prison officer jailed three years for assaulting inmate"
+    },
+    {
+      "key": "tsim-sha-tsui-bar-murder-left-mouth-charged",
+      "id": "2026-08-04-tsim-sha-tsui-murder-triad-leader-charged",
+      "first_seen": "2026-08-04T09:07:00+08:00",
+      "headline_en": "Triad leader charged with murder over Tsim Sha Tsui bar attack"
     }
   ]
 }
