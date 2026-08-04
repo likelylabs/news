@@ -1,8 +1,51 @@
 {
-  "generated_at": "2026-08-04T11:04:29+08:00",
+  "generated_at": "2026-08-04T13:06:39+08:00",
   "live_window_hours": 72,
-  "count": 54,
+  "count": 53,
   "articles": [
+    {
+      "id": "2026-08-04-hsbc-interim-results",
+      "published_at": "2026-08-04T13:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hsbc",
+        "banking",
+        "interim-results",
+        "dividend"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-04/2026-08-04-hsbc-interim-results.json",
+      "en": {
+        "headline": "HSBC first-half profit before tax rises 23% to US$19.5 billion",
+        "dek": "The bank reported higher banking net interest income and strong wealth fee growth, declared a second interim dividend of US$0.10 per share and plans a share buy-back of up to US$1 billion."
+      },
+      "zh": {
+        "headline": "滙控上半年稅前盈利升23%至195億美元",
+        "dek": "銀行業務淨利息收益及財富管理費用收入增長帶動業績，派第二次中期股息每股10美仙，並計劃最多10億美元股份回購。"
+      }
+    },
+    {
+      "id": "2026-08-04-yellow-working-heat-stress-warning",
+      "published_at": "2026-08-04T13:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "heat-stress",
+        "labour-department",
+        "hot-weather"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-04/2026-08-04-yellow-working-heat-stress-warning.json",
+      "en": {
+        "headline": "Yellow Working Heat Stress Warning issued at midday",
+        "dek": "The Labour Department activated the Yellow Working Heat Stress Warning at 12.10pm as heat stress levels rose in parts of the territory under hot and humid conditions."
+      },
+      "zh": {
+        "headline": "黃色工作暑熱警告中午生效",
+        "dek": "勞工處下午12時10分發出黃色工作暑熱警告，表示部分工作環境的熱壓力頗高。"
+      }
+    },
     {
       "id": "2026-08-04-coleman-wong-atp-ranking-92",
       "published_at": "2026-08-04T11:06:00+08:00",
@@ -1157,74 +1200,6 @@
       "zh": {
         "headline": "雷暴警告生效至下午3時",
         "dek": "天文台發出雷暴警告，有效至今日下午3時，南部及東部有雷雨區逐漸發展。"
-      }
-    },
-    {
-      "id": "2026-08-01-coleman-wong-los-cabos-semifinal",
-      "published_at": "2026-08-01T11:17:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "tennis",
-        "atp",
-        "coleman-wong",
-        "los-cabos",
-        "ranking"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-01/2026-08-01-coleman-wong-los-cabos-semifinal.json",
-      "en": {
-        "headline": "Coleman Wong reaches first ATP Tour semi-final and enters top 100",
-        "dek": "The 22-year-old Hong Kong player defeated Jenson Brooksby in straight sets at the Los Cabos Open after earlier upsetting world No. 12 Jiri Lehecka."
-      },
-      "zh": {
-        "headline": "黃澤林首闖ATP巡迴賽四強 成港產男網首人入百強",
-        "dek": "22歲港將於洛斯卡沃斯公開賽直落兩盤擊敗美國球員布碌士比，稍早亦爆冷淘汰世界排名第12的列赫卡。"
-      }
-    },
-    {
-      "id": "2026-08-01-ura-bailey-street-coli-tender-award",
-      "published_at": "2026-08-01T11:16:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "ura",
-        "urban-renewal",
-        "hung-hom",
-        "china-overseas",
-        "property"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-01/2026-08-01-ura-bailey-street-coli-tender-award.json",
-      "en": {
-        "headline": "URA awards Hung Hom Bailey Street project to China Overseas for HK$6.9 billion",
-        "dek": "Top Global Investment, a wholly-owned subsidiary of China Overseas Land & Investment, won the development contract after seven tenders were received."
-      },
-      "zh": {
-        "headline": "市建局紅磡庇利街項目批予中海 投標價69.02億元",
-        "dek": "中國海外發展全資附屬公司偉國投資投得發展合約，共接獲七份標書。"
-      }
-    },
-    {
-      "id": "2026-08-01-provisional-voter-registers-2026",
-      "published_at": "2026-08-01T11:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "elections",
-        "voter-registration",
-        "reo",
-        "geographical-constituencies"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-01/2026-08-01-provisional-voter-registers-2026.json",
-      "en": {
-        "headline": "Provisional voter registers released with 64,900 new geographical electors",
-        "dek": "The Registration and Electoral Office published the 2026 provisional registers and omissions lists; the public has until 25 August to check particulars or lodge claims."
-      },
-      "zh": {
-        "headline": "2026年臨時選民登記冊公布 地方選區新增約6.49萬人",
-        "dek": "選舉事務處今日公布臨時選民登記冊及遭剔除者名單，市民可於8月25日前核對資料或提出申索及反對。"
       }
     }
   ]
