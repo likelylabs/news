@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T13:06:39+08:00",
+  "updated_at": "2026-08-04T15:05:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -337,6 +337,12 @@
       "id": "2026-08-04-hsbc-interim-results",
       "first_seen": "2026-08-04T13:06:00+08:00",
       "headline_en": "HSBC first-half profit before tax rises 23% to US$19.5 billion"
+    },
+    {
+      "key": "huanggang-port-drills-aug2026-civil-servants",
+      "id": "2026-08-04-huanggang-port-drills-civil-servants",
+      "first_seen": "2026-08-04T15:05:00+08:00",
+      "headline_en": "Huanggang Port to hold four days of drills with 36,000 civil-servant trips"
     }
   ]
 }
