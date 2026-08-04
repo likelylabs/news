@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-05T05:46:18+08:00",
+  "generated_at": "2026-08-05T07:06:14+08:00",
   "live_window_hours": 72,
-  "count": 50,
+  "count": 52,
   "articles": [
+    {
+      "id": "2026-08-05-legionnaires-sanatorium-water-dispenser",
+      "published_at": "2026-08-05T07:06:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "chp",
+        "legionnaires",
+        "hospital",
+        "hong-kong-sanatorium",
+        "water"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-05/2026-08-05-legionnaires-sanatorium-water-dispenser.json",
+      "en": {
+        "headline": "Legionnaires’ disease linked to hospital water dispenser",
+        "dek": "An 89-year-old patient at Hong Kong Sanatorium & Hospital is highly likely to have contracted the disease from a cooled-boiled-water device that tested positive for Legionella, the Centre for Health Protection said."
+      },
+      "zh": {
+        "headline": "養和醫院退伍軍人病個案與飲水機有關",
+        "dek": "衞生防護中心表示，一名89歲男病人很大可能因飲用受污染的凍開水飲水機供水而感染退伍軍人病，同層137名病人已納入醫學監察。"
+      }
+    },
+    {
+      "id": "2026-08-05-very-hot-weather-warning-morning",
+      "published_at": "2026-08-05T07:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "very-hot-weather",
+        "heat",
+        "warning"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-05/2026-08-05-very-hot-weather-warning-morning.json",
+      "en": {
+        "headline": "Very Hot Weather Warning issued this morning",
+        "dek": "The Hong Kong Observatory activated the warning at 6.45am as temperatures climbed under mainly fine and very hot conditions expected through the day."
+      },
+      "zh": {
+        "headline": "酷熱天氣警告今早生效",
+        "dek": "天文台上午6時45分發出酷熱天氣警告，預料今日大致天晴酷熱，日間市區最高氣溫約33度。"
+      }
+    },
     {
       "id": "2026-08-04-property-sales-july-2026",
       "published_at": "2026-08-04T23:13:00+08:00",
