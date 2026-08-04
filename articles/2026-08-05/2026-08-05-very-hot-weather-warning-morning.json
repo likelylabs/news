@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-05-very-hot-weather-warning-morning",
+  "published_at": "2026-08-05T07:05:00+08:00",
+  "category": "weather",
+  "tags": ["hko", "very-hot-weather", "heat", "warning"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "very-hot-weather-warning-aug5-morning",
+  "en": {
+    "headline": "Very Hot Weather Warning issued this morning",
+    "dek": "The Hong Kong Observatory activated the warning at 6.45am as temperatures climbed under mainly fine and very hot conditions expected through the day.",
+    "body": [
+      "The Hong Kong Observatory issued the Very Hot Weather Warning at 6.45am on Wednesday. At 6am the temperature at the Observatory stood at 27 degrees Celsius with relative humidity of 87 per cent.",
+      "The Observatory forecast sunny periods with isolated showers and very hot conditions during the day. Urban temperatures were expected to reach about 33 degrees, with readings a couple of degrees higher in parts of the New Territories. Light winds were expected.",
+      "Members of the public were advised to beware of heat stroke, drink more water and avoid prolonged outdoor exposure during the hottest hours. The elderly, children, pregnant women and people with chronic illnesses were reminded to take extra care."
+    ]
+  },
+  "zh": {
+    "headline": "酷熱天氣警告今早生效",
+    "dek": "天文台上午6時45分發出酷熱天氣警告，預料今日大致天晴酷熱，日間市區最高氣溫約33度。",
+    "body": [
+      "香港天文台於周三上午6時45分發出酷熱天氣警告。上午6時，天文台氣溫為27度，相對濕度87%。",
+      "天文台預料今日短暫時間有陽光，局部地區有驟雨，日間酷熱。市區最高氣溫約33度，新界再高一兩度，吹微風。",
+      "天文台提醒市民注意中暑風險，多喝水，避免在酷熱時段長時間戶外活動。長者、小童、孕婦及長期病患者尤須小心。"
+    ]
+  }
+}
