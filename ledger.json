@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T11:04:29+08:00",
+  "updated_at": "2026-08-04T13:06:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -325,6 +325,18 @@
       "id": "2026-08-04-coleman-wong-atp-ranking-92",
       "first_seen": "2026-08-04T11:06:00+08:00",
       "headline_en": "Coleman Wong climbs to career-high ATP ranking of 92"
+    },
+    {
+      "key": "yellow-working-heat-stress-warning-aug4-midday",
+      "id": "2026-08-04-yellow-working-heat-stress-warning",
+      "first_seen": "2026-08-04T13:05:00+08:00",
+      "headline_en": "Yellow Working Heat Stress Warning issued at midday"
+    },
+    {
+      "key": "hsbc-h1-2026-profit-before-tax",
+      "id": "2026-08-04-hsbc-interim-results",
+      "first_seen": "2026-08-04T13:06:00+08:00",
+      "headline_en": "HSBC first-half profit before tax rises 23% to US$19.5 billion"
     }
   ]
 }
