@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-08-04T05:37:24+08:00",
+  "generated_at": "2026-08-04T09:05:51+08:00",
   "live_window_hours": 72,
-  "count": 51,
+  "count": 52,
   "articles": [
+    {
+      "id": "2026-08-04-tsim-sha-tsui-murder-triad-leader-charged",
+      "published_at": "2026-08-04T09:07:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "murder",
+        "triad",
+        "tsim-sha-tsui",
+        "court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-04/2026-08-04-tsim-sha-tsui-murder-triad-leader-charged.json",
+      "en": {
+        "headline": "Triad leader charged with murder over Tsim Sha Tsui bar attack",
+        "dek": "A 40-year-old man known as Left Mouth faces a murder charge and a 52-year-old faces a charge of assisting an offender after the fatal assault on a 32-year-old businessman last month."
+      },
+      "zh": {
+        "headline": "尖沙咀酒吧謀殺案 三合會頭目左咀被控謀殺",
+        "dek": "一名40歲外號「左咀」的三合會頭目被控謀殺，另一名52歲男子被控協助罪犯，案件與上月尖沙咀酒吧致命襲擊有關。"
+      }
+    },
+    {
+      "id": "2026-08-04-prison-officer-inmate-assault-sentence",
+      "published_at": "2026-08-04T09:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "correctional-services",
+        "pik-uk",
+        "assault"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-04/2026-08-04-prison-officer-inmate-assault-sentence.json",
+      "en": {
+        "headline": "Former prison officer jailed three years for assaulting inmate",
+        "dek": "Tam Lik-chung was sentenced at the District Court after admitting he ordered and took part in an attack on a prisoner at Pik Uk Correctional Institution in December 2023."
+      },
+      "zh": {
+        "headline": "前懲教助理員襲擊在囚人士判囚三年",
+        "dek": "譚力中承認於2023年12月在壁屋懲教所下令及參與襲擊一名在囚人士，區域法院周一判處監禁三年。"
+      }
+    },
+    {
+      "id": "2026-08-04-to-kwa-wan-stairwell-stabbing",
+      "published_at": "2026-08-04T09:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "wounding",
+        "to-kwa-wan",
+        "stabbing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-04/2026-08-04-to-kwa-wan-stairwell-stabbing.json",
+      "en": {
+        "headline": "Police hunt three suspects after man stabbed in To Kwa Wan stairwell",
+        "dek": "A 21-year-old man was attacked with a meat cleaver on San Lau Street on Monday evening and taken to hospital with a severe arm wound; the case is classified as wounding."
+      },
+      "zh": {
+        "headline": "土瓜灣樓梯間斬人案 警追三名疑兇",
+        "dek": "一名21歲男子周一傍晚在新樓街樓梯間遭三名男子以肉刀襲擊，手臂重傷送院，案件列為傷人。"
+      }
+    },
     {
       "id": "2026-08-03-burmese-python-causeway-bay",
       "published_at": "2026-08-03T23:09:00+08:00",
@@ -1114,46 +1181,6 @@
       "zh": {
         "headline": "2026年臨時選民登記冊公布 地方選區新增約6.49萬人",
         "dek": "選舉事務處今日公布臨時選民登記冊及遭剔除者名單，市民可於8月25日前核對資料或提出申索及反對。"
-      }
-    },
-    {
-      "id": "2026-08-01-thunderstorm-warning-extended-0930",
-      "published_at": "2026-08-01T09:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "thunderstorm",
-        "hko"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-01/2026-08-01-thunderstorm-warning-extended-0930.json",
-      "en": {
-        "headline": "Thunderstorm warning extended until 9.30am",
-        "dek": "The Hong Kong Observatory has kept the Thunderstorm Warning in force until 9.30 a.m., with isolated thunderstorms still expected over the territory this morning."
-      },
-      "zh": {
-        "headline": "雷暴警告延長至上午9時30分",
-        "dek": "香港天文台表示雷暴警告繼續生效至上午9時30分，預期本港仍有局部地區出現雷暴。"
-      }
-    },
-    {
-      "id": "2026-08-01-thunderstorm-warning-morning",
-      "published_at": "2026-08-01T07:25:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "thunderstorm",
-        "hko"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-01/2026-08-01-thunderstorm-warning-morning.json",
-      "en": {
-        "headline": "Thunderstorm warning issued for Saturday morning",
-        "dek": "The Hong Kong Observatory has issued a Thunderstorm Warning valid until 7:45 a.m., with isolated thunderstorms expected across the territory."
-      },
-      "zh": {
-        "headline": "天文台發出雷暴警告 有效至早上7時45分",
-        "dek": "香港天文台於今早6時45分發出雷暴警告，有效至7時45分，預期本港有局部地區雷暴。"
       }
     }
   ]
