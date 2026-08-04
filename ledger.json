@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T21:04:27+08:00",
+  "updated_at": "2026-08-04T23:13:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -355,6 +355,30 @@
       "id": "2026-08-04-fehd-officer-bogus-littering-tickets",
       "first_seen": "2026-08-04T21:06:00+08:00",
       "headline_en": "FEHD foreman charged with misconduct over bogus littering tickets"
+    },
+    {
+      "key": "severe-paediatric-influenza-a-death-aug4",
+      "id": "2026-08-04-paediatric-influenza-a-death",
+      "first_seen": "2026-08-04T23:10:00+08:00",
+      "headline_en": "Seven-year-old boy dies in first fatal paediatric flu case of 2026"
+    },
+    {
+      "key": "kmb-route-86-wheel-detachment-aug4",
+      "id": "2026-08-04-kmb-wheel-detachment-cheung-sha-wan",
+      "first_seen": "2026-08-04T23:11:00+08:00",
+      "headline_en": "Boy, 7, suffers minor injury after KMB bus wheel detaches in Cheung Sha Wan"
+    },
+    {
+      "key": "fun-coffee-crypto-scam-arrests-aug4",
+      "id": "2026-08-04-fun-coffee-scam-arrests",
+      "first_seen": "2026-08-04T23:12:00+08:00",
+      "headline_en": "Police arrest six over Fun Coffee cryptocurrency investment scam"
+    },
+    {
+      "key": "property-sales-july-2026",
+      "id": "2026-08-04-property-sales-july-2026",
+      "first_seen": "2026-08-04T23:13:00+08:00",
+      "headline_en": "Property sales fall 28.8% in July from previous month"
     }
   ]
 }
