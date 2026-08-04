@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-08-04T09:05:51+08:00",
+  "generated_at": "2026-08-04T11:04:29+08:00",
   "live_window_hours": 72,
-  "count": 52,
+  "count": 54,
   "articles": [
+    {
+      "id": "2026-08-04-coleman-wong-atp-ranking-92",
+      "published_at": "2026-08-04T11:06:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "tennis",
+        "atp",
+        "coleman-wong",
+        "ranking"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-04/2026-08-04-coleman-wong-atp-ranking-92.json",
+      "en": {
+        "headline": "Coleman Wong climbs to career-high ATP ranking of 92",
+        "dek": "The Hong Kong player rose 16 places after earning 92 ranking points from his run to the Los Cabos semi-finals, becoming the first local man inside the top 100."
+      },
+      "zh": {
+        "headline": "黃澤林ATP排名升至第92位創生涯新高",
+        "dek": "港將上週洛斯卡沃斯四強之旅為他帶來92分，最新正式排名攀升16位至92，成為首位躋身男單前100的香港球員。"
+      }
+    },
+    {
+      "id": "2026-08-04-tuen-mun-water-pipe-repair-complete",
+      "published_at": "2026-08-04T11:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "water-supplies",
+        "tuen-mun",
+        "pipe-leak",
+        "wsd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-04/2026-08-04-tuen-mun-water-pipe-repair-complete.json",
+      "en": {
+        "headline": "Tuen Mun water supply restored after emergency pipe repair",
+        "dek": "The Water Supplies Department completed urgent works on a 600mm main near Tuen Lee Street, restoring service to Villa Tiara, Hin Fat Estate and nearby estates from 9.30am."
+      },
+      "zh": {
+        "headline": "屯門水管搶修完成 怡峰園等屋苑供水恢復",
+        "dek": "水務署完成青山公路近屯利街600毫米食水鋼管緊急維修，怡峰園、顯發邨、恆順園及冠峰園今早9時半起陸續恢復供水。"
+      }
+    },
     {
       "id": "2026-08-04-tsim-sha-tsui-murder-triad-leader-charged",
       "published_at": "2026-08-04T09:07:00+08:00",
