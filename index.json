@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-08-04T21:04:27+08:00",
+  "generated_at": "2026-08-04T23:08:38+08:00",
   "live_window_hours": 72,
-  "count": 48,
+  "count": 52,
   "articles": [
+    {
+      "id": "2026-08-04-property-sales-july-2026",
+      "published_at": "2026-08-04T23:13:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "property",
+        "land-registry",
+        "housing",
+        "sales"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-04/2026-08-04-property-sales-july-2026.json",
+      "en": {
+        "headline": "Property sales fall 28.8% in July from previous month",
+        "dek": "The Land Registry recorded 6,715 sale and purchase agreements for all building units last month, with residential agreements down 41.7% to 4,462."
+      },
+      "zh": {
+        "headline": "7月物業買賣合約按月跌28.8%",
+        "dek": "土地註冊處錄得6,715份所有樓宇單位買賣合約，住宅單位合約跌41.7%至4,462份。"
+      }
+    },
+    {
+      "id": "2026-08-04-fun-coffee-scam-arrests",
+      "published_at": "2026-08-04T23:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "fraud",
+        "cryptocurrency",
+        "macau",
+        "investment-scam"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-04/2026-08-04-fun-coffee-scam-arrests.json",
+      "en": {
+        "headline": "Police arrest six over Fun Coffee cryptocurrency investment scam",
+        "dek": "A joint operation with Macau police netted five women and one man aged 51 to 64; authorities have received 225 reports involving suspected losses of about HK$94 million."
+      },
+      "zh": {
+        "headline": "警拘六人涉「Fun Coffee」加密貨幣投資騙案",
+        "dek": "與澳門警方聯合行動拘捕五女一男，年齡介乎51至64歲；本港接獲225宗舉報，涉款約9,400萬元。"
+      }
+    },
+    {
+      "id": "2026-08-04-kmb-wheel-detachment-cheung-sha-wan",
+      "published_at": "2026-08-04T23:11:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "kmb",
+        "bus",
+        "cheung-sha-wan",
+        "road-safety",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-04/2026-08-04-kmb-wheel-detachment-cheung-sha-wan.json",
+      "en": {
+        "headline": "Boy, 7, suffers minor injury after KMB bus wheel detaches in Cheung Sha Wan",
+        "dek": "A rear-left wheel came off a route 86 double-decker outside Cheung Sha Wan Plaza on Tuesday afternoon, struck a railing and hit the child waiting at a bus stop."
+      },
+      "zh": {
+        "headline": "九巴長沙灣車胎甩脫擊傷七歲男童",
+        "dek": "一輛86線雙層巴士周二下午在長沙灣廣場外左後車輪甩脫，撞向欄杆後擊中在巴士站候車的男童，男童輕傷。"
+      }
+    },
+    {
+      "id": "2026-08-04-paediatric-influenza-a-death",
+      "published_at": "2026-08-04T23:10:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "influenza",
+        "paediatric",
+        "chp",
+        "department-of-health",
+        "princess-margaret-hospital"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-04/2026-08-04-paediatric-influenza-a-death.json",
+      "en": {
+        "headline": "Seven-year-old boy dies in first fatal paediatric flu case of 2026",
+        "dek": "The Centre for Health Protection said the previously healthy child, who had received the seasonal vaccine, died on Tuesday after developing shock and encephalopathy from influenza A (H3)."
+      },
+      "zh": {
+        "headline": "七歲男童感染甲型流感不治 成今年首宗兒童死亡個案",
+        "dek": "衞生防護中心表示，該名過往健康良好並已接種季節性流感疫苗的男童，周二因甲型流感（H3）併發休克及腦病變死亡。"
+      }
+    },
     {
       "id": "2026-08-04-fehd-officer-bogus-littering-tickets",
       "published_at": "2026-08-04T21:06:00+08:00",
