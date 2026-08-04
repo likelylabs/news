@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-04T13:06:39+08:00",
+  "generated_at": "2026-08-04T15:05:09+08:00",
   "live_window_hours": 72,
-  "count": 53,
+  "count": 50,
   "articles": [
+    {
+      "id": "2026-08-04-huanggang-port-drills-civil-servants",
+      "published_at": "2026-08-04T15:05:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "huanggang-port",
+        "border",
+        "security-bureau",
+        "civil-service",
+        "shenzhen"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-04/2026-08-04-huanggang-port-drills-civil-servants.json",
+      "en": {
+        "headline": "Huanggang Port to hold four days of drills with 36,000 civil-servant trips",
+        "dek": "The government will mobilise about 36,000 civil-servant attendances across four dates this month to test clearance systems and capacity at the redeveloped checkpoint, with the largest exercise on 29 August."
+      },
+      "zh": {
+        "headline": "新皇崗口岸將演練四日 動員公務員約3.6萬人次",
+        "dek": "政府本月四個日子啟動全政府總動員，徵召約3.6萬人次公務員模擬過境，測試皇崗口岸通關系統及運載能力，其中8月29日規模最大。"
+      }
+    },
     {
       "id": "2026-08-04-hsbc-interim-results",
       "published_at": "2026-08-04T13:06:00+08:00",
@@ -1113,93 +1136,6 @@
       "zh": {
         "headline": "皇崗口岸通關前將進行逾百次演練 壓力測試涉逾萬人",
         "dek": "保安局局長鄧炳強表示，演練包括與深圳方面聯合進行的跨境壓力測試，涵蓋交通、反恐及系統等，確保運作暢順安全後才決定開通日期。"
-      }
-    },
-    {
-      "id": "2026-08-01-money-lenders-regulation-phase1",
-      "published_at": "2026-08-01T15:05:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "money-lenders",
-        "regulation",
-        "financial-services",
-        "debt",
-        "fstb"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-01/2026-08-01-money-lenders-regulation-phase1.json",
-      "en": {
-        "headline": "Debt servicing caps and referee ban for money lenders take effect",
-        "dek": "First-phase measures prohibit lenders from requiring loan referees and set debt-servicing ratio limits of 35 to 40 per cent for unsecured personal loans to low-income earners."
-      },
-      "zh": {
-        "headline": "放債人規管措施首階段今日生效 設供款比率上限及禁止要求擔保人",
-        "dek": "首階段措施禁止放債人要求借款人提供貸款擔保人，並為低收入人士無抵押私人貸款設定35%至40%的債務供款比率上限。"
-      }
-    },
-    {
-      "id": "2026-08-01-beach-red-flags-big-wave-bay-ting-kau",
-      "published_at": "2026-08-01T13:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "beach",
-        "water-quality",
-        "lcsd",
-        "epd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-01/2026-08-01-beach-red-flags-big-wave-bay-ting-kau.json",
-      "en": {
-        "headline": "Red flags raised at Big Wave Bay and Ting Kau beaches",
-        "dek": "The Leisure and Cultural Services Department said water quality is forecast as very poor at the two beaches due to possible fluctuations after heavy rain."
-      },
-      "zh": {
-        "headline": "大浪灣及汀九泳灘懸掛紅旗",
-        "dek": "康文署表示兩處泳灘水質預測指數為4屬非常差，因大雨可能導致短暫水質波動。"
-      }
-    },
-    {
-      "id": "2026-08-01-tsuen-wan-missing-man-au",
-      "published_at": "2026-08-01T13:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "missing-person",
-        "police",
-        "tsuen-wan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-01/2026-08-01-tsuen-wan-missing-man-au.json",
-      "en": {
-        "headline": "Police seek information on missing 78-year-old man in Tsuen Wan",
-        "dek": "Au Chun-cheong left his home on Lai King Hill Road on Friday afternoon and has not been seen since; officers issued a public appeal on Saturday."
-      },
-      "zh": {
-        "headline": "警方尋找荃灣失蹤78歲男子區振昌",
-        "dek": "區振昌於星期五下午離開荔景山路住所後失蹤，警方星期六發出尋人呼籲。"
-      }
-    },
-    {
-      "id": "2026-08-01-thunderstorm-warning-afternoon",
-      "published_at": "2026-08-01T13:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "thunderstorm",
-        "hko",
-        "warning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-01/2026-08-01-thunderstorm-warning-afternoon.json",
-      "en": {
-        "headline": "Thunderstorm warning in force until 3pm",
-        "dek": "The Hong Kong Observatory has issued a Thunderstorm Warning valid until 3 p.m., with thundery showers developing over southern and eastern areas."
-      },
-      "zh": {
-        "headline": "雷暴警告生效至下午3時",
-        "dek": "天文台發出雷暴警告，有效至今日下午3時，南部及東部有雷雨區逐漸發展。"
       }
     }
   ]
