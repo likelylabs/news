@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-08-05T07:06:14+08:00",
+  "generated_at": "2026-08-05T11:08:00+08:00",
   "live_window_hours": 72,
   "count": 52,
   "articles": [
+    {
+      "id": "2026-08-05-hk-express-okinawa-cancellations-dolphin",
+      "published_at": "2026-08-05T11:06:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "hk-express",
+        "typhoon-dolphin",
+        "okinawa",
+        "flights",
+        "aviation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-05/2026-08-05-hk-express-okinawa-cancellations-dolphin.json",
+      "en": {
+        "headline": "HK Express cancels Okinawa and Ishigaki flights as Typhoon Dolphin approaches",
+        "dek": "Multiple services between Hong Kong and Okinawa from Thursday to Saturday, plus Saturday Ishigaki flights, are cancelled; the carrier added an extra pair of flights on Wednesday."
+      },
+      "zh": {
+        "headline": "白海豚逼近 香港快運取消沖繩石垣多班航班",
+        "dek": "周四至周六多班往返沖繩航班及周六石垣航班取消，快運周三已加開特別航班疏導旅客。"
+      }
+    },
+    {
+      "id": "2026-08-05-jupas-main-round-offers",
+      "published_at": "2026-08-05T11:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "jupas",
+        "dse",
+        "university",
+        "admissions",
+        "education"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-05/2026-08-05-jupas-main-round-offers.json",
+      "en": {
+        "headline": "JUPAS offers places to 34.3% of applicants as competition rises",
+        "dek": "Some 15,619 students secured university or subsidised diploma places in the main round, down slightly from last year as total applicants rose 5.3% to 45,545."
+      },
+      "zh": {
+        "headline": "聯招正式遴選34.3%申請人獲派位 競爭加劇",
+        "dek": "15,619名考生獲八大、都大或教大資助高級文憑學額，申請人數按年升5.3%至45,545人，取錄比率較去年微跌。"
+      }
+    },
     {
       "id": "2026-08-05-legionnaires-sanatorium-water-dispenser",
       "published_at": "2026-08-05T07:06:00+08:00",
@@ -1134,51 +1180,6 @@
       "zh": {
         "headline": "李家超於屯門舉行首場五年規劃及施政報告地區諮詢會",
         "dek": "行政長官李家超與主要官員周日在南屯門官立中學會見逾130名市民及地區代表，就香港首個五年規劃及2026年施政報告聽取意見。"
-      }
-    },
-    {
-      "id": "2026-08-02-inter-milan-man-city-kai-tak",
-      "published_at": "2026-08-02T09:06:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "football",
-        "hong-kong-football-festival",
-        "kai-tak",
-        "manchester-city",
-        "inter-milan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-02/2026-08-02-inter-milan-man-city-kai-tak.json",
-      "en": {
-        "headline": "Inter Milan beat Manchester City on penalties at Kai Tak Stadium",
-        "dek": "The Italian champions won 3-1 in the shootout after a 1-1 draw in the opening match of the Hong Kong Football Festival, with Divin Mubama scoring for City."
-      },
-      "zh": {
-        "headline": "國際米蘭十二碼擊敗曼城 凱旋體育場足球節揭幕戰",
-        "dek": "意甲冠軍於香港足球節揭幕戰1比1賽和後，以3比1贏十二碼勝出，曼城新帥任內首球由穆巴馬打進。"
-      }
-    },
-    {
-      "id": "2026-08-02-amber-rainstorm-thunderstorm-warning-morning",
-      "published_at": "2026-08-02T09:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "rainstorm",
-        "thunderstorm",
-        "hko",
-        "amber-warning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-02/2026-08-02-amber-rainstorm-thunderstorm-warning-morning.json",
-      "en": {
-        "headline": "Amber rainstorm and thunderstorm warnings in force this morning",
-        "dek": "The Hong Kong Observatory issued an Amber Rainstorm Warning at 6.10am and a Thunderstorm Warning earlier, with heavy showers and risk of flooding in low-lying areas."
-      },
-      "zh": {
-        "headline": "黃色暴雨及雷暴警告今早生效",
-        "dek": "天文台於上午6時10分發出黃色暴雨警告信號，較早前已發出雷暴警告，本港有大雨及低窪地區可能水浸。"
       }
     }
   ]
