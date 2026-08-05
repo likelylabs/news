@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T15:04:48+08:00",
+  "updated_at": "2026-08-05T21:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -415,6 +415,24 @@
       "id": "2026-08-05-labour-drones-site-smoking-ban",
       "first_seen": "2026-08-05T15:06:00+08:00",
       "headline_en": "Labour Department tests infrared drones to enforce construction site smoking ban"
+    },
+    {
+      "key": "next-digital-investigation-terminated-aug2026",
+      "id": "2026-08-05-next-digital-investigation-terminated",
+      "first_seen": "2026-08-05T21:10:00+08:00",
+      "headline_en": "Financial Secretary ends investigation into Next Digital affairs"
+    },
+    {
+      "key": "tung-wah-college-jupas-email-error-2026",
+      "id": "2026-08-05-tung-wah-college-jupas-email-error",
+      "first_seen": "2026-08-05T21:11:00+08:00",
+      "headline_en": "Tung Wah College apologises for false JUPAS admission emails to 11,000"
+    },
+    {
+      "key": "fatal-traffic-accidents-h1-2026",
+      "id": "2026-08-05-fatal-traffic-accidents-h1-2026",
+      "first_seen": "2026-08-05T21:12:00+08:00",
+      "headline_en": "Fatal traffic accidents rise 44% in first half of 2026"
     }
   ]
 }
