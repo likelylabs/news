@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T21:07:54+08:00",
+  "updated_at": "2026-08-05T23:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -433,6 +433,24 @@
       "id": "2026-08-05-fatal-traffic-accidents-h1-2026",
       "first_seen": "2026-08-05T21:12:00+08:00",
       "headline_en": "Fatal traffic accidents rise 44% in first half of 2026"
+    },
+    {
+      "key": "customs-sham-shui-po-illicit-cigarettes-aug5",
+      "id": "2026-08-05-customs-sham-shui-po-illicit-cigarettes",
+      "first_seen": "2026-08-05T23:10:00+08:00",
+      "headline_en": "Customs seizes 1.6 million illicit cigarettes in Sham Shui Po crackdown"
+    },
+    {
+      "key": "dh-unregistered-painkillers-seizure-aug5",
+      "id": "2026-08-05-dh-unregistered-painkillers-seizure",
+      "first_seen": "2026-08-05T23:11:00+08:00",
+      "headline_en": "Health Department seizes about 100 boxes of unregistered painkillers"
+    },
+    {
+      "key": "mpox-confirmed-case-aug5",
+      "id": "2026-08-05-mpox-confirmed-case-31yo",
+      "first_seen": "2026-08-05T23:12:00+08:00",
+      "headline_en": "Centre for Health Protection confirms new local mpox case"
     }
   ]
 }
