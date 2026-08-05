@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T07:06:14+08:00",
+  "updated_at": "2026-08-05T11:07:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -391,6 +391,18 @@
       "id": "2026-08-05-legionnaires-sanatorium-water-dispenser",
       "first_seen": "2026-08-05T07:06:00+08:00",
       "headline_en": "Legionnaires’ disease linked to hospital water dispenser"
+    },
+    {
+      "key": "jupas-main-round-offers-2026",
+      "id": "2026-08-05-jupas-main-round-offers",
+      "first_seen": "2026-08-05T11:05:00+08:00",
+      "headline_en": "JUPAS offers places to 34.3% of applicants as competition rises"
+    },
+    {
+      "key": "hk-express-okinawa-cancellations-dolphin-aug2026",
+      "id": "2026-08-05-hk-express-okinawa-cancellations-dolphin",
+      "first_seen": "2026-08-05T11:06:00+08:00",
+      "headline_en": "HK Express cancels Okinawa and Ishigaki flights as Typhoon Dolphin approaches"
     }
   ]
 }
