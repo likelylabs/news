@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-08-06T15:03:47+08:00",
+  "generated_at": "2026-08-06T21:05:48+08:00",
   "live_window_hours": 72,
-  "count": 53,
+  "count": 52,
   "articles": [
+    {
+      "id": "2026-08-06-customs-sea-containers-illicit-cigarettes",
+      "published_at": "2026-08-06T21:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "illicit-cigarettes",
+        "smuggling",
+        "container",
+        "kwai-chung"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-customs-sea-containers-illicit-cigarettes.json",
+      "en": {
+        "headline": "Customs seizes 8.12 million illicit cigarettes in two sea-container cases",
+        "dek": "Officers arrested three local men after finding cigarettes hidden in a container declared as lifeboats from Singapore and another from South Korea declared as toiletries, with a combined estimated market value of…"
+      },
+      "zh": {
+        "headline": "海關破兩宗海路私煙案 檢約812萬支拘3人",
+        "dek": "關員在葵涌貨櫃碼頭先後截獲由新加坡及南韓抵港的貨櫃，分別以救生艇及牙膏護膚品作掩飾，共檢約812萬支懷疑未完稅香煙，市值約3700萬元。"
+      }
+    },
+    {
+      "id": "2026-08-06-silver-bond-batch-11",
+      "published_at": "2026-08-06T21:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "silver-bond",
+        "government-bond",
+        "senior",
+        "treasury",
+        "infrastructure"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-silver-bond-batch-11.json",
+      "en": {
+        "headline": "Government launches new silver bonds with 4.25% guaranteed rate",
+        "dek": "The 11th batch targets HK$50 billion and may rise to HK$55 billion; applications open 21 August for residents born in or before 1967, with issuance on 15 September."
+      },
+      "zh": {
+        "headline": "新一批銀色債券保證息率4.25厘 最高發行額550億",
+        "dek": "第11批銀債目標發行額500億元，可視乎認購反應上調至550億元；1967年或之前出生居民可於8月21日起認購，9月15日發行。"
+      }
+    },
     {
       "id": "2026-08-06-swire-pacific-interim-results",
       "published_at": "2026-08-06T15:08:00+08:00",
@@ -1133,75 +1179,6 @@
       "zh": {
         "headline": "九龍城地盤安全主任墮下約十層樓不治",
         "dek": "一名39歲地盤安全主任周一下午在九龍城沙浦道地盤從天台墮下約十層樓，其後送院不治。"
-      }
-    },
-    {
-      "id": "2026-08-03-eurocham-five-year-plan-comments",
-      "published_at": "2026-08-03T15:22:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "five-year-plan",
-        "eurocham",
-        "northern-metropolis",
-        "business",
-        "consultation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-03/2026-08-03-eurocham-five-year-plan-comments.json",
-      "en": {
-        "headline": "EuroCham says five-year plan gives firms clear strategic vision",
-        "dek": "The European Chamber of Commerce in Hong Kong said the city’s first five-year plan will help foreign businesses understand long-term priorities and prepare products and solutions accordingly."
-      },
-      "zh": {
-        "headline": "歐洲商會：五年規劃助企業掌握長遠方向",
-        "dek": "香港歐洲商會表示，本港首個五年規劃讓外資企業更清楚了解香港的長遠策略目標，有助提前部署產品及方案。"
-      }
-    },
-    {
-      "id": "2026-08-03-triathlon-safety-reforms-lawmakers",
-      "published_at": "2026-08-03T15:21:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "triathlon",
-        "tai-mei-tuk",
-        "safety",
-        "lawmakers",
-        "open-water"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-03/2026-08-03-triathlon-safety-reforms-lawmakers.json",
-      "en": {
-        "headline": "Lawmakers call for tighter safety rules after triathlon drowning",
-        "dek": "Legislators urged organisers to introduce real-time tracking and clearer weather protocols following the death of a 59-year-old competitor during the swim leg at Tai Mei Tuk on Sunday."
-      },
-      "zh": {
-        "headline": "議員促三項鐵人賽加強安全措施",
-        "dek": "立法會議員就周日大美督三項鐵人賽游泳項目有選手遇溺不治，促請主辦單位引入實時追蹤及更清晰的天氣指引。"
-      }
-    },
-    {
-      "id": "2026-08-03-beach-red-flags-water-quality",
-      "published_at": "2026-08-03T15:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "beach",
-        "lcsd",
-        "epd",
-        "water-quality",
-        "red-flag"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-03/2026-08-03-beach-red-flags-water-quality.json",
-      "en": {
-        "headline": "Red flags raised at eight beaches over poor water quality forecast",
-        "dek": "The Leisure and Cultural Services Department hoisted red flags at beaches across several districts after the Environmental Protection Department forecast very poor water quality following heavy rain."
-      },
-      "zh": {
-        "headline": "八個泳灘因水質預測非常差懸掛紅旗",
-        "dek": "康文署表示，環保署泳灘水質預測指數為4，多個泳灘水質預測屬非常差，已懸掛紅旗，呼籲泳客不要下水。"
       }
     }
   ]
