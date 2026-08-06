@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-08-06T05:42:36+08:00",
+  "generated_at": "2026-08-06T09:05:22+08:00",
   "live_window_hours": 72,
-  "count": 45,
+  "count": 47,
   "articles": [
+    {
+      "id": "2026-08-06-hk-electric-smart-operations-centre",
+      "published_at": "2026-08-06T09:06:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "hk-electric",
+        "power-grid",
+        "ai",
+        "emergency-response",
+        "iot"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-hk-electric-smart-operations-centre.json",
+      "en": {
+        "headline": "HK Electric opens smart operations centre to speed emergency repairs",
+        "dek": "The centre, launched in June ahead of typhoon season, integrates AI, IoT sensors and live video links so engineers can locate cable faults and coordinate repairs more quickly."
+      },
+      "zh": {
+        "headline": "港燈啟用智能營運及緊急應變中心 加快搶修",
+        "dek": "中心於6月風季前投入服務，結合人工智能、物聯網感應器及即時視像，協助迅速定位電纜故障及協調前線搶修。"
+      }
+    },
+    {
+      "id": "2026-08-06-rental-crypto-scam-arrest",
+      "published_at": "2026-08-06T09:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "fraud",
+        "cryptocurrency",
+        "scam",
+        "west-district"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-rental-crypto-scam-arrest.json",
+      "en": {
+        "headline": "Woman, 67, arrested over HK$4.3 million rental crypto scam",
+        "dek": "Police say the suspect posed as a tenant, prepaid rent to win trust, then supplied phones pre-loaded with fake investment app links that transferred control of victims’ wallets."
+      },
+      "zh": {
+        "headline": "六旬婦扮租客誘投資加密貨幣 呃兩業主430萬被捕",
+        "dek": "西區警方指67歲女子假扮租客預支租金博信任，再提供預載虛假連結的手機，令兩名業主共損失約430萬元。"
+      }
+    },
+    {
+      "id": "2026-08-06-peter-lai-death",
+      "published_at": "2026-08-06T09:04:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "cantopop",
+        "lyricist",
+        "actor",
+        "tvb",
+        "entertainment"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-peter-lai-death.json",
+      "en": {
+        "headline": "Veteran lyricist and actor Peter Lai dies at 76",
+        "dek": "The Cantopop pioneer, known for classics written with Sam Hui and his role as Uncle Pau in a long-running TVB sitcom, passed away on Wednesday morning after months of declining health."
+      },
+      "zh": {
+        "headline": "填詞人兼演員黎彼得因病離世 享年76歲",
+        "dek": "殿堂級填詞人黎彼得周三早上離世，好友鍾志光證實消息，指他今年3月中風後一直臥床，家人希望低調處理後事。"
+      }
+    },
+    {
+      "id": "2026-08-06-very-hot-weather-warning-morning",
+      "published_at": "2026-08-06T09:03:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "very-hot-weather",
+        "heat",
+        "warning"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-very-hot-weather-warning-morning.json",
+      "en": {
+        "headline": "Very Hot Weather Warning issued this morning",
+        "dek": "The Hong Kong Observatory activated the warning at 6.45am as mainly fine and very hot conditions are expected, with urban temperatures reaching about 33 degrees."
+      },
+      "zh": {
+        "headline": "酷熱天氣警告今早生效",
+        "dek": "天文台上午6時45分發出酷熱天氣警告，預料今日大致天晴酷熱，市區最高氣溫約33度，新界再高兩三度。"
+      }
+    },
     {
       "id": "2026-08-05-mpox-confirmed-case-31yo",
       "published_at": "2026-08-05T23:12:00+08:00",
@@ -974,52 +1065,6 @@
       "zh": {
         "headline": "7月雨量創有紀錄以來第二高 有人於河背水塘泄洪口旁拍照",
         "dek": "天文台指上月錄得790.3毫米雨量，超過正常一倍，為1884年有紀錄以來第二高；網上片段顯示有人在元朗河背水塘泄洪口附近危險位置拍照。"
-      }
-    },
-    {
-      "id": "2026-08-03-ride-hailing-regulation-takes-effect",
-      "published_at": "2026-08-03T07:06:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "ride-hailing",
-        "transport-department",
-        "taxi",
-        "regulation",
-        "driving-test"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-03/2026-08-03-ride-hailing-regulation-takes-effect.json",
-      "en": {
-        "headline": "Ride-hailing regulatory regime takes effect with combined taxi test launch",
-        "dek": "Most legal provisions governing ride-hailing services come into force today, while the Transport Department begins accepting applications for a new combined taxi and ride-hailing vehicle driving test."
-      },
-      "zh": {
-        "headline": "網約車規管制度今日生效 合併駕駛考試同步開放申請",
-        "dek": "規管網約車服務的大部分法例條文今日起生效，運輸署同日推出的士及網約車合併駕駛考試並開始接受申請。"
-      }
-    },
-    {
-      "id": "2026-08-03-amber-rainstorm-thunderstorm-warning-morning",
-      "published_at": "2026-08-03T07:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "amber-rainstorm",
-        "thunderstorm",
-        "heavy-rain",
-        "flooding"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-03/2026-08-03-amber-rainstorm-thunderstorm-warning-morning.json",
-      "en": {
-        "headline": "Amber rainstorm and thunderstorm warnings in force this morning",
-        "dek": "The Hong Kong Observatory issued an Amber Rainstorm Warning at 6.40am, with the Thunderstorm Warning also remaining in force under a broad trough of low pressure."
-      },
-      "zh": {
-        "headline": "黃色暴雨及雷暴警告今早生效",
-        "dek": "天文台於上午6時40分發出黃色暴雨警告信號，雷暴警告亦繼續生效，受廣闊低壓槽影響本港有大雨。"
       }
     }
   ]
