@@ -1,0 +1,165 @@
+name: pages-deploy
+
+# Actions-based GitHub Pages deploy for news.likelylabs.com. Replaces the
+# managed "deploy from a branch" pipeline so WE own timeout/retry/notify.
+#
+# Hardened against the 2026-08-06 outage, where a single managed deploy hung
+# in `queued`/`in_progress` and gave up at the default 10-min timeout, leaving
+# the live feed a cycle stale with no auto-recovery. What actually healed it
+# was creating a FRESH deployment (not waiting longer on the wedged one).
+# So robustness here is defense-in-depth:
+#   1. In-run retry — up to 3 FRESH deploy attempts, short timeout each, so a
+#      wedged attempt is abandoned fast and replaced instead of waited out.
+#   2. Scheduled reconciler — every 30 min, redeploy iff the live feed has
+#      drifted from the committed index (auto-heals a fully-failed run with
+#      no human in the loop).
+#   3. Content-push net — every build-news-index completion redeploys anyway.
+
+on:
+  workflow_run:
+    workflows: ["build-news-index"]
+    types: [completed]
+  workflow_dispatch: {}
+  schedule:
+    - cron: '*/30 * * * *'   # layer 2: out-of-band self-heal
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deploy at a time; queue rather than cancel (cancelling was the source of
+# the stray "cancelled" runs under the managed pipeline).
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    # workflow_dispatch + schedule: always eligible. workflow_run: only a
+    # successful build on main (never publish a half-built index).
+    if: >-
+      github.event_name != 'workflow_run' ||
+      (github.event.workflow_run.conclusion == 'success' &&
+       github.event.workflow_run.head_branch == 'main')
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.resolve.outputs.page_url }}
+    steps:
+      - name: Checkout main tip
+        uses: actions/checkout@v4
+        with:
+          # main's TIP, not workflow_run.head_sha — head_sha is the article
+          # commit; build-news-index then pushes the "[skip ci]" index-rebuild
+          # commit on top, and THAT is the content we must publish.
+          ref: main
+
+      - name: Decide whether to deploy
+        id: gate
+        run: |
+          set -euo pipefail
+          # Non-schedule triggers always deploy. The scheduled reconciler only
+          # deploys when the live feed has actually drifted from the committed
+          # index (else the every-30-min run is a cheap no-op).
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "go=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          live="$(curl -fsS --max-time 20 https://news.likelylabs.com/index.json || echo '__ERR__')"
+          if [ "$live" = "__ERR__" ]; then
+            echo "live feed unreachable — deploy to be safe"
+            echo "go=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          if printf '%s' "$live" | python3 -c "import json,sys; live=json.load(sys.stdin); repo=json.load(open('index.json')); sys.exit(0 if json.dumps(live,sort_keys=True)==json.dumps(repo,sort_keys=True) else 1)"; then
+            echo "live feed already current — skipping scheduled reconcile"
+            echo "go=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "::notice title=Pages reconcile::live feed drifted from committed index — redeploying"
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Assemble publish dir
+        if: steps.gate.outputs.go == 'true'
+        run: |
+          set -euo pipefail
+          mkdir -p _site
+          # Preserve the exact public surface the legacy site served (repo root,
+          # .nojekyll disabling Jekyll). CNAME + .nojekyll MUST ship or the
+          # custom domain / underscore files break. Exclude only VCS + CI.
+          rsync -a --exclude='.git' --exclude='.github' --exclude='_site' ./ ./_site/
+          test -f _site/CNAME      || { echo "::error::CNAME missing from artifact";      exit 1; }
+          test -f _site/.nojekyll  || { echo "::error::.nojekyll missing from artifact";  exit 1; }
+          test -f _site/index.json || { echo "::error::index.json missing from artifact"; exit 1; }
+
+      - uses: actions/configure-pages@v5
+        if: steps.gate.outputs.go == 'true'
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.gate.outputs.go == 'true'
+        with:
+          path: _site
+
+      # --- Layer 1: up to 3 FRESH deploy attempts. Each deploy-pages call
+      # creates a new deployment, so a wedged attempt is replaced, not waited
+      # out. 5-min per-attempt timeout keeps a hang from eating the whole run. ---
+      - name: Deploy (attempt 1/3)
+        id: d1
+        if: steps.gate.outputs.go == 'true'
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+        with:
+          timeout: 300000
+
+      - name: Cooldown before retry 2
+        if: steps.gate.outputs.go == 'true' && steps.d1.outcome == 'failure'
+        run: sleep 25
+
+      - name: Deploy (attempt 2/3)
+        id: d2
+        if: steps.gate.outputs.go == 'true' && steps.d1.outcome == 'failure'
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+        with:
+          timeout: 300000
+
+      - name: Cooldown before retry 3
+        if: steps.gate.outputs.go == 'true' && steps.d1.outcome == 'failure' && steps.d2.outcome == 'failure'
+        run: sleep 40
+
+      - name: Deploy (attempt 3/3)
+        id: d3
+        if: steps.gate.outputs.go == 'true' && steps.d1.outcome == 'failure' && steps.d2.outcome == 'failure'
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+        with:
+          timeout: 300000
+
+      - name: Resolve outcome / hard-fail if all attempts failed
+        id: resolve
+        if: steps.gate.outputs.go == 'true'
+        run: |
+          set -euo pipefail
+          if   [ "${{ steps.d1.outcome }}" = "success" ]; then url='${{ steps.d1.outputs.page_url }}'
+          elif [ "${{ steps.d2.outcome }}" = "success" ]; then url='${{ steps.d2.outputs.page_url }}'
+          elif [ "${{ steps.d3.outcome }}" = "success" ]; then url='${{ steps.d3.outputs.page_url }}'
+          else
+            echo "::error title=Pages deploy failed 3x::All deploy attempts failed. The 30-min reconciler will retry; check githubstatus.com."
+            exit 1
+          fi
+          echo "page_url=$url" >> "$GITHUB_OUTPUT"
+
+      - name: Notify success — push-notification hook
+        if: steps.gate.outputs.go == 'true' && steps.resolve.outcome == 'success'
+        env:
+          PAGE_URL: ${{ steps.resolve.outputs.page_url }}
+          DEPLOY_SHA: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+          echo "Pages live: ${PAGE_URL} (sha ${DEPLOY_SHA})"
+          # ---------------------------------------------------------------
+          # FUTURE push notifications: runs once per SUCCESSFUL deploy, with
+          # the live URL + SHA in scope. When wiring FCM:
+          #   - token in `secrets` (never in RC / never in the app — tenet #10)
+          #   - gate on "did the newest article set change vs the last notified
+          #     deploy" — today proved a deploy can fail while the site still
+          #     updated by another path, so track CONTENT change, not job success.
+          # ---------------------------------------------------------------
