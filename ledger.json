@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T15:03:47+08:00",
+  "updated_at": "2026-08-06T21:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -505,6 +505,18 @@
       "id": "2026-08-06-swire-pacific-interim-results",
       "first_seen": "2026-08-06T15:08:00+08:00",
       "headline_en": "Swire Pacific first-half underlying profit rises 43% to HK$7.84 billion"
+    },
+    {
+      "key": "silver-bond-issuance-aug2026",
+      "id": "2026-08-06-silver-bond-batch-11",
+      "first_seen": "2026-08-06T21:10:00+08:00",
+      "headline_en": "Government launches new silver bonds with 4.25% guaranteed rate"
+    },
+    {
+      "key": "customs-illicit-cigarettes-sea-aug6",
+      "id": "2026-08-06-customs-sea-containers-illicit-cigarettes",
+      "first_seen": "2026-08-06T21:12:00+08:00",
+      "headline_en": "Customs seizes 8.12 million illicit cigarettes in two sea-container cases"
     }
   ]
 }
