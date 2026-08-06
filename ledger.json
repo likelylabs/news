@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T09:06:14+08:00",
+  "updated_at": "2026-08-06T11:07:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -475,6 +475,24 @@
       "id": "2026-08-06-hk-electric-smart-operations-centre",
       "first_seen": "2026-08-06T09:06:00+08:00",
       "headline_en": "HK Electric opens smart operations centre to speed emergency repairs"
+    },
+    {
+      "key": "diamond-hill-salt-water-pipe-leak-aug6",
+      "id": "2026-08-06-diamond-hill-salt-water-pipe-leak",
+      "first_seen": "2026-08-06T11:05:00+08:00",
+      "headline_en": "Salt-water pipe leak near Chi Lin Nunnery disrupts flush supply"
+    },
+    {
+      "key": "fake-evisa-websites-pcpd-aug2026",
+      "id": "2026-08-06-fake-evisa-websites-warning",
+      "first_seen": "2026-08-06T11:06:00+08:00",
+      "headline_en": "Privacy chief warns of fake e-visa sites after 16 cases"
+    },
+    {
+      "key": "chinese-chamber-five-year-plan-proposals-aug2026",
+      "id": "2026-08-06-chinese-chamber-five-year-plan",
+      "first_seen": "2026-08-06T11:07:00+08:00",
+      "headline_en": "Chinese Chamber urges population of 10 million and annual plan review"
     }
   ]
 }
