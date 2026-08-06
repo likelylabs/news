@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-08-06T21:05:48+08:00",
+  "generated_at": "2026-08-06T23:08:01+08:00",
   "live_window_hours": 72,
-  "count": 52,
+  "count": 48,
   "articles": [
+    {
+      "id": "2026-08-06-alice-mak-care-teams-training",
+      "published_at": "2026-08-06T23:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "care-teams",
+        "alice-mak",
+        "district-governance",
+        "training"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-alice-mak-care-teams-training.json",
+      "en": {
+        "headline": "Alice Mak says Care Teams now key part of district governance",
+        "dek": "The Secretary for Home and Youth Affairs told a training session for team leaders that the Care Teams, together with District Councils and the three committees, form the “three carriages” of local governance after…"
+      },
+      "zh": {
+        "headline": "麥美娟：關愛隊已成地區治理重要一環",
+        "dek": "民政及青年事務局局長在關愛隊培訓班表示，關愛隊成立三年已成為完善地區治理架構重要部分，與區議會及「三會」組成「三駕馬車」。"
+      }
+    },
+    {
+      "id": "2026-08-06-chan-kwok-ki-huanggang-inspection",
+      "published_at": "2026-08-06T23:07:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "huanggang-port",
+        "eric-chan",
+        "border",
+        "drills",
+        "civil-service"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-chan-kwok-ki-huanggang-inspection.json",
+      "en": {
+        "headline": "Chan Kwok-ki inspects Huanggang Port, demands highest standards for drills",
+        "dek": "The Chief Secretary visited the Hong Kong-side facilities on Thursday afternoon and said the inter-departmental team must complete more than 100 exercises and tests to the highest standard before the redeveloped…"
+      },
+      "zh": {
+        "headline": "陳國基視察皇崗口岸 要求演練達最高標準",
+        "dek": "政務司司長周四下午到港方口岸區實地視察，強調跨部門小組必須以最高標準完成逾百項演練及測試，確保通關安全暢順後才正式開通。"
+      }
+    },
+    {
+      "id": "2026-08-06-black-cod-methylmercury-exceed",
+      "published_at": "2026-08-06T23:06:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "food-safety",
+        "cfs",
+        "methylmercury",
+        "fish",
+        "recall"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-black-cod-methylmercury-exceed.json",
+      "en": {
+        "headline": "CFS finds pre-packaged black cod exceeding methylmercury limit",
+        "dek": "A sample of Alaska Seafood U.S. Alaska Black Cod Steak contained 0.8 mg/kg of methylmercury, above the legal limit of 0.5 mg/kg; the Centre for Food Safety ordered the affected batch withdrawn from sale and recalled."
+      },
+      "zh": {
+        "headline": "食安中心檢銀鱈魚扒甲基汞超標 受影響批次須下架回收",
+        "dek": "一個預先包裝美國銀鱈魚扒樣本甲基汞含量每公斤0.8毫克，超出法例上限0.5毫克；食安中心已指令停售下架，進口商正回收。"
+      }
+    },
+    {
+      "id": "2026-08-06-tung-chung-bus-motorcycle-crash",
+      "published_at": "2026-08-06T23:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "tung-chung",
+        "bus",
+        "motorcycle",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-tung-chung-bus-motorcycle-crash.json",
+      "en": {
+        "headline": "Bus driver arrested after motorcyclist critically injured in Tung Chung crash",
+        "dek": "A 58-year-old motorcyclist was trapped under a bus and left unconscious after a collision at Tung Chung East Interchange on Thursday evening; the 60-year-old bus driver was arrested on suspicion of dangerous driving…"
+      },
+      "zh": {
+        "headline": "東涌巴士電單車相撞 鐵騎士重傷昏迷 車長被捕",
+        "dek": "周四傍晚東涌東交匯處一輛龍運巴士與電單車相撞，58歲鐵騎士被捲入車底拖行後昏迷送院，60歲巴士車長涉危險駕駛引致他人身體受嚴重傷害被捕。"
+      }
+    },
     {
       "id": "2026-08-06-customs-sea-containers-illicit-cigarettes",
       "published_at": "2026-08-06T21:12:00+08:00",
@@ -995,190 +1086,6 @@
       "zh": {
         "headline": "銅鑼灣近午炮台現緬甸蟒 專家指或與大雨有關",
         "dek": "周日晚有人在維園道近怡和午炮台拍攝到一條長約兩至三米的蟒蛇，專家指近日大雨可能迫使其離開自然生境。"
-      }
-    },
-    {
-      "id": "2026-08-03-customs-illegal-birds-lok-ma-chau",
-      "published_at": "2026-08-03T23:08:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "illegal-import",
-        "birds",
-        "lok-ma-chau",
-        "afcd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-03/2026-08-03-customs-illegal-birds-lok-ma-chau.json",
-      "en": {
-        "headline": "Customs seizes 62 live birds at Lok Ma Chau Spur Line",
-        "dek": "A 22-year-old Mainland man was arrested after officers found 62 suspected illegally imported live birds valued at about HK$12,000 in his baggage."
-      },
-      "zh": {
-        "headline": "海關落馬洲支線檢62隻懷疑非法進口活鳥",
-        "dek": "海關周一在落馬洲支線管制站截獲一名22歲內地男旅客，在其行李檢獲62隻估計市值約1.2萬元的活鳥，並將其拘捕。"
-      }
-    },
-    {
-      "id": "2026-08-03-customs-illegal-cats-lok-ma-chau",
-      "published_at": "2026-08-03T23:07:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "illegal-import",
-        "animals",
-        "lok-ma-chau",
-        "afcd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-03/2026-08-03-customs-illegal-cats-lok-ma-chau.json",
-      "en": {
-        "headline": "Customs seizes three live cats at Lok Ma Chau Spur Line",
-        "dek": "A 56-year-old Mainland woman was arrested after three suspected illegally imported cats valued at about HK$30,000 were found in her rucksack at the control point."
-      },
-      "zh": {
-        "headline": "海關落馬洲支線檢三隻懷疑非法進口活貓",
-        "dek": "海關周一在落馬洲支線管制站截獲一名56歲內地女旅客，在其背囊檢獲三隻估計市值約3萬元的活貓，並將其拘捕。"
-      }
-    },
-    {
-      "id": "2026-08-03-security-guard-blank-vote-sentence",
-      "published_at": "2026-08-03T23:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "election",
-        "legco",
-        "incitement",
-        "west-kowloon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-03/2026-08-03-security-guard-blank-vote-sentence.json",
-      "en": {
-        "headline": "Security guard given suspended sentence for blank-vote comments",
-        "dek": "A 38-year-old man was sentenced to two months’ jail suspended for three years after pleading guilty to publicly inciting others to cast invalid votes during the 2025 Legislative Council election."
-      },
-      "zh": {
-        "headline": "保安員網上鼓吹投白票判囚兩月緩刑三年",
-        "dek": "38歲男子承認在2025年立法會選舉期間公開煽惑他人投無效票，西九龍裁判法院周一判處監禁兩個月，緩刑三年。"
-      }
-    },
-    {
-      "id": "2026-08-03-ngan-lai-ching-missing-found",
-      "published_at": "2026-08-03T23:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "missing-person",
-        "police",
-        "tseung-kwan-o",
-        "kwun-tong",
-        "search-and-rescue"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-03/2026-08-03-ngan-lai-ching-missing-found.json",
-      "en": {
-        "headline": "Missing Tseung Kwan O woman found alive on Kwun Tong hillside",
-        "dek": "Police said 60-year-old Ngan Lai-ching, missing since 24 July, was located near On Luen Village with minor abrasions and airlifted to hospital in a conscious state."
-      },
-      "zh": {
-        "headline": "將軍澳失蹤11日女子在觀塘山邊尋回",
-        "dek": "警方表示，60歲區麗貞自7月24日失蹤後，周一在觀塘安聯村附近山坡尋回，手腳擦傷，清醒送院，無可疑情況。"
-      }
-    },
-    {
-      "id": "2026-08-03-chanel-warehouse-theft-sentencing",
-      "published_at": "2026-08-03T21:09:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "theft",
-        "chanel",
-        "warehouse",
-        "high-court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-03/2026-08-03-chanel-warehouse-theft-sentencing.json",
-      "en": {
-        "headline": "Four jailed over plots to steal Chanel goods worth HK$8.7 million",
-        "dek": "The High Court sentenced four former warehouse workers to terms of up to seven years for conspiring to steal obsolete Chanel handbags and wallets from a Tsing Yi facility."
-      },
-      "zh": {
-        "headline": "四名前倉務員串謀盜竊Chanel貨品判囚最長七年",
-        "dek": "高等法院周一判處四名前倉庫工人最高七年監禁，罪名是串謀從青衣貨倉盜竊價值至少870萬元的Chanel過季手袋及銀包。"
-      }
-    },
-    {
-      "id": "2026-08-03-cannabis-gummies-children-hospital",
-      "published_at": "2026-08-03T21:08:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "cannabis",
-        "child-abuse",
-        "dangerous-drugs",
-        "wong-tai-sin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-03/2026-08-03-cannabis-gummies-children-hospital.json",
-      "en": {
-        "headline": "Mother and relative arrested after children eat cannabis sweets",
-        "dek": "A six-year-old boy and 12-year-old girl were taken to hospital after falling ill at their Wang Tau Hom Estate home; the mother was arrested for suspected child abuse."
-      },
-      "zh": {
-        "headline": "兩童誤食懷疑含大麻糖果不適 母親及親戚被捕",
-        "dek": "一名六歲男童及12歲女童周一下午在橫頭磡邨家中不適送院，母親涉嫌虐待兒童被捕，另一名親戚涉嫌藏毒被捕。"
-      }
-    },
-    {
-      "id": "2026-08-03-severe-paediatric-influenza-a",
-      "published_at": "2026-08-03T21:07:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "influenza",
-        "paediatric",
-        "chp",
-        "department-of-health",
-        "hospital"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-03/2026-08-03-severe-paediatric-influenza-a.json",
-      "en": {
-        "headline": "Seven-year-old boy in critical condition with severe influenza A",
-        "dek": "The Centre for Health Protection is investigating a severe paediatric influenza A case involving a previously healthy boy who developed shock and encephalopathy."
-      },
-      "zh": {
-        "headline": "七歲男童感染甲型流感危殆 併發休克及腦病變",
-        "dek": "衞生防護中心正調查一宗嚴重兒童甲型流感個案，一名過往健康良好的七歲男童出現休克及腦病變，情況危殆。"
-      }
-    },
-    {
-      "id": "2026-08-03-kowloon-city-safety-manager-fall",
-      "published_at": "2026-08-03T21:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "construction",
-        "industrial-accident",
-        "kowloon-city",
-        "labour-department",
-        "safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-03/2026-08-03-kowloon-city-safety-manager-fall.json",
-      "en": {
-        "headline": "Safety manager dies after falling 10 floors at Kowloon City site",
-        "dek": "A 39-year-old construction safety manager fell about 10 storeys at a Sa Po Road worksite on Monday afternoon and was later certified dead in hospital."
-      },
-      "zh": {
-        "headline": "九龍城地盤安全主任墮下約十層樓不治",
-        "dek": "一名39歲地盤安全主任周一下午在九龍城沙浦道地盤從天台墮下約十層樓，其後送院不治。"
       }
     }
   ]
