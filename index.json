@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-08-06T09:06:14+08:00",
+  "generated_at": "2026-08-06T11:03:07+08:00",
   "live_window_hours": 72,
   "count": 47,
   "articles": [
+    {
+      "id": "2026-08-06-chinese-chamber-five-year-plan",
+      "published_at": "2026-08-06T11:07:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "five-year-plan",
+        "chinese-chamber",
+        "northern-metropolis",
+        "population",
+        "policy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-chinese-chamber-five-year-plan.json",
+      "en": {
+        "headline": "Chinese Chamber urges population of 10 million and annual plan review",
+        "dek": "The Chinese General Chamber of Commerce submitted more than 60 recommendations on Hong Kong’s first five-year plan, including a target of 10 million residents within a decade and a standing committee to review…"
+      },
+      "zh": {
+        "headline": "中總倡十年人口達千萬 五年規劃設一年一檢委會",
+        "dek": "香港中華總商會就首份五年規劃及施政報告提出逾60項建議，包括未來十年逐步提升人口至1,000萬配合北都發展，並成立常設委員會每年檢視進度。"
+      }
+    },
+    {
+      "id": "2026-08-06-fake-evisa-websites-warning",
+      "published_at": "2026-08-06T11:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "privacy",
+        "scam",
+        "visa",
+        "pcpd",
+        "travel"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-fake-evisa-websites-warning.json",
+      "en": {
+        "headline": "Privacy chief warns of fake e-visa sites after 16 cases",
+        "dek": "The Privacy Commissioner for Personal Data said 16 enquiries or complaints about fraudulent electronic-visa websites were received in three months, with losses of a few hundred to more than HK$1,700 per case."
+      },
+      "zh": {
+        "headline": "假電子簽證網站湧現 私隱署三個月接16宗",
+        "dek": "私隱專員鍾麗玲表示過去三個月接獲16宗假冒電子簽證網站查詢或投訴，主要涉美、英、泰旅遊簽證，損失數百至一千七百多元，呼籲勿盡信搜尋引擎置頂結果。"
+      }
+    },
+    {
+      "id": "2026-08-06-diamond-hill-salt-water-pipe-leak",
+      "published_at": "2026-08-06T11:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "water-supplies",
+        "diamond-hill",
+        "wsd",
+        "flush-water"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-diamond-hill-salt-water-pipe-leak.json",
+      "en": {
+        "headline": "Salt-water pipe leak near Chi Lin Nunnery disrupts flush supply",
+        "dek": "The Water Supplies Department is repairing a 300 mm salt-water main on Fung Tak Road after a leak reported in the early hours, affecting flush water to the Hammer Hill Road area."
+      },
+      "zh": {
+        "headline": "鑽石山鳳德道鹹水管滲漏 沖廁水受影響",
+        "dek": "水務署凌晨接報鑽石山鳳德道近志蓮淨苑有水管滲漏，確認為300毫米鹹水管，正維修並盡快恢復斧山道近瓊東街一帶沖廁水供應。"
+      }
+    },
     {
       "id": "2026-08-06-hk-electric-smart-operations-centre",
       "published_at": "2026-08-06T09:06:00+08:00",
@@ -996,75 +1064,6 @@
       "zh": {
         "headline": "中證監與證監會公布深化兩地市場合作新措施",
         "dek": "監管機構公布十項措施，涵蓋跨境上市、ETF、指數合作、人民幣期貨及專業資格等範疇，加強兩地市場聯通。"
-      }
-    },
-    {
-      "id": "2026-08-03-kwai-chung-minibus-van-collision",
-      "published_at": "2026-08-03T09:14:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "kwai-chung",
-        "minibus",
-        "police",
-        "injury"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-03/2026-08-03-kwai-chung-minibus-van-collision.json",
-      "en": {
-        "headline": "Six injured after minibus and van collide in Kwai Chung",
-        "dek": "A light goods vehicle and a green minibus crashed at the junction of Kwai Fuk Road and Shing Fuk Street on Sunday night; all six casualties were conscious."
-      },
-      "zh": {
-        "headline": "葵涌小巴與貨車相撞 六人受傷",
-        "dek": "周日晚葵涌葵福路與盛福街交界一輛輕型貨車與綠色小巴相撞，六名傷者清醒送院。"
-      }
-    },
-    {
-      "id": "2026-08-03-cityplaza-car-park-gridlock",
-      "published_at": "2026-08-03T09:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "cityplaza",
-        "tai-koo",
-        "car-park",
-        "traffic",
-        "shopping"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-03/2026-08-03-cityplaza-car-park-gridlock.json",
-      "en": {
-        "headline": "Drivers trapped over two hours in Cityplaza car park gridlock",
-        "dek": "Dozens of motorists were stuck in the basement car park at the Tai Koo Shing shopping centre on Sunday night and complained of being charged for the extra time."
-      },
-      "zh": {
-        "headline": "太古城中心停車場塞車逾兩小時 司機抱怨仍要收費",
-        "dek": "周日晚太古城中心地庫停車場出現嚴重擠塞，多名司機受困逾兩小時，並投訴因塞車多付的泊車費。"
-      }
-    },
-    {
-      "id": "2026-08-03-july-rainfall-second-highest",
-      "published_at": "2026-08-03T09:12:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "rainfall",
-        "reservoir",
-        "safety",
-        "july"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-03/2026-08-03-july-rainfall-second-highest.json",
-      "en": {
-        "headline": "July rainfall second-highest on record as hikers risk dam discharge",
-        "dek": "Hong Kong recorded 790.3 mm of rain last month, more than double the normal total, while a video showed hikers posing near a powerful flood discharge at Ho Pui Reservoir."
-      },
-      "zh": {
-        "headline": "7月雨量創有紀錄以來第二高 有人於河背水塘泄洪口旁拍照",
-        "dek": "天文台指上月錄得790.3毫米雨量，超過正常一倍，為1884年有紀錄以來第二高；網上片段顯示有人在元朗河背水塘泄洪口附近危險位置拍照。"
       }
     }
   ]
