@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-08-06T13:05:36+08:00",
+  "generated_at": "2026-08-06T15:03:47+08:00",
   "live_window_hours": 72,
-  "count": 50,
+  "count": 53,
   "articles": [
+    {
+      "id": "2026-08-06-swire-pacific-interim-results",
+      "published_at": "2026-08-06T15:08:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "swire",
+        "interim-results",
+        "property",
+        "dividend",
+        "aviation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-swire-pacific-interim-results.json",
+      "en": {
+        "headline": "Swire Pacific first-half underlying profit rises 43% to HK$7.84 billion",
+        "dek": "The conglomerate reported higher contributions from property, beverages and aviation, declared an increased interim dividend and said it is making its largest-ever investments across businesses."
+      },
+      "zh": {
+        "headline": "太古上半年基本溢利升43%至78.4億元 中期息增15%",
+        "dek": "太古股份公司公布中期業績，基本溢利78.43億元，地產、飲料及航空業務均有改善，A股派中期息1.5元。"
+      }
+    },
+    {
+      "id": "2026-08-06-cuhk-five-year-strategy-plan",
+      "published_at": "2026-08-06T15:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "cuhk",
+        "education",
+        "five-year-plan",
+        "postgraduate",
+        "research"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-cuhk-five-year-strategy-plan.json",
+      "en": {
+        "headline": "CUHK unveils five-year plan with new postgraduate college",
+        "dek": "The Chinese University of Hong Kong will establish a tenth college dedicated to postgraduate students and reform general education to integrate national education with a global outlook under its 2026–2030 strategy."
+      },
+      "zh": {
+        "headline": "中大公布五年策略計劃 將設研究生書院增至10所",
+        "dek": "中文大學發布《中大2026-2030》策略計劃，成立第10所書院專供研究生，並革新通識教育融合國民教育與全球視野。"
+      }
+    },
+    {
+      "id": "2026-08-06-mtr-tuen-ma-line-signal-fault",
+      "published_at": "2026-08-06T15:06:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "tuen-ma-line",
+        "signal-fault",
+        "kam-sheung-road",
+        "delay"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-mtr-tuen-ma-line-signal-fault.json",
+      "en": {
+        "headline": "Tuen Ma Line delays after signal fault near Kam Sheung Road",
+        "dek": "Services between Hung Hom and Tuen Mun were disrupted for about an hour on Thursday afternoon after signalling equipment failed, with journey times extended by up to 30 minutes before normal operations resumed."
+      },
+      "zh": {
+        "headline": "屯馬綫錦上路站附近信號故障 紅磡至屯門一度延誤",
+        "dek": "港鐵下午1時許因錦上路站附近信號設備故障實施雙向行車，紅磡至屯門行車時間最多額外30分鐘，約2時23分修復後服務逐步恢復。"
+      }
+    },
+    {
+      "id": "2026-08-06-loan-shark-syndicate-25-arrested",
+      "published_at": "2026-08-06T15:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "loan-shark",
+        "triad",
+        "organised-crime",
+        "interest-rate"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-loan-shark-syndicate-25-arrested.json",
+      "en": {
+        "headline": "Police arrest 25 in triad-linked loan-shark ring charging up to 282% interest",
+        "dek": "The Organised Crime and Triad Bureau dismantled a syndicate that lent more than HK$200 million to about 2,000 people over a year, recruiting teenagers as young as 13 for debt collection."
+      },
+      "zh": {
+        "headline": "O記破三合會高利貸集團拘25人 年利率高達282%",
+        "dek": "警方搗破一個由三合會操控的高利貸集團，一年間向約2,000人放債逾2億元，招攬年僅13歲青少年淋紅油追債，凍結約840萬元犯罪得益。"
+      }
+    },
     {
       "id": "2026-08-06-tsim-sha-tsui-murder-four-more-charged",
       "published_at": "2026-08-06T13:08:00+08:00",
@@ -1110,28 +1202,6 @@
       "zh": {
         "headline": "八個泳灘因水質預測非常差懸掛紅旗",
         "dek": "康文署表示，環保署泳灘水質預測指數為4，多個泳灘水質預測屬非常差，已懸掛紅旗，呼籲泳客不要下水。"
-      }
-    },
-    {
-      "id": "2026-08-03-fs-cgb-futures-launch-speech",
-      "published_at": "2026-08-03T13:06:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "finance",
-        "hkex",
-        "cgb-futures",
-        "rmb"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-03/2026-08-03-fs-cgb-futures-launch-speech.json",
-      "en": {
-        "headline": "Financial Secretary hails China Government Bond Futures as key offshore RMB tool",
-        "dek": "Paul Chan said the launch closes a critical gap in the offshore renminbi toolkit and strengthens Hong Kong’s role as a risk-management hub."
-      },
-      "zh": {
-        "headline": "財政司司長：國債期貨補上離岸人民幣工具關鍵拼圖",
-        "dek": "陳茂波在港交所五年期中國國債期貨上市儀式上表示，產品為離岸人民幣工具箱補上重要一環，強化香港風險管理中心角色。"
       }
     }
   ]

@@ -1,25 +1,7 @@
 {
-  "updated_at": "2026-08-06T15:10:00+08:00",
+  "updated_at": "2026-08-06T15:03:47+08:00",
   "retention_days": 5,
   "covered": [
-    {
-      "key": "thunderstorm-warning-aug1-afternoon",
-      "id": "2026-08-01-thunderstorm-warning-afternoon",
-      "first_seen": "2026-08-01T13:10:00+08:00",
-      "headline_en": "Thunderstorm warning in force until 3pm"
-    },
-    {
-      "key": "tsuen-wan-missing-man-au-chun-cheong",
-      "id": "2026-08-01-tsuen-wan-missing-man-au",
-      "first_seen": "2026-08-01T13:12:00+08:00",
-      "headline_en": "Police seek information on missing 78-year-old man in Tsuen Wan"
-    },
-    {
-      "key": "beach-red-flags-aug1-big-wave-bay-ting-kau",
-      "id": "2026-08-01-beach-red-flags-big-wave-bay-ting-kau",
-      "first_seen": "2026-08-01T13:14:00+08:00",
-      "headline_en": "Red flags raised at Big Wave Bay and Ting Kau beaches"
-    },
     {
       "key": "money-lenders-regulation-phase1-aug2026",
       "id": "2026-08-01-money-lenders-regulation-phase1",
