@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T13:05:36+08:00",
+  "updated_at": "2026-08-06T15:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -499,6 +499,30 @@
       "id": "2026-08-06-tsim-sha-tsui-murder-four-more-charged",
       "first_seen": "2026-08-06T13:08:00+08:00",
       "headline_en": "Four more men charged with murder over Tsim Sha Tsui bar killing"
+    },
+    {
+      "key": "loan-shark-syndicate-25-arrested-aug2026",
+      "id": "2026-08-06-loan-shark-syndicate-25-arrested",
+      "first_seen": "2026-08-06T15:05:00+08:00",
+      "headline_en": "Police arrest 25 in triad-linked loan-shark ring charging up to 282% interest"
+    },
+    {
+      "key": "mtr-tuen-ma-line-signal-fault-aug6",
+      "id": "2026-08-06-mtr-tuen-ma-line-signal-fault",
+      "first_seen": "2026-08-06T15:06:00+08:00",
+      "headline_en": "Tuen Ma Line delays after signal fault near Kam Sheung Road"
+    },
+    {
+      "key": "cuhk-five-year-strategy-plan-2026-2030",
+      "id": "2026-08-06-cuhk-five-year-strategy-plan",
+      "first_seen": "2026-08-06T15:07:00+08:00",
+      "headline_en": "CUHK unveils five-year plan with new postgraduate college"
+    },
+    {
+      "key": "swire-pacific-h1-2026-results",
+      "id": "2026-08-06-swire-pacific-interim-results",
+      "first_seen": "2026-08-06T15:08:00+08:00",
+      "headline_en": "Swire Pacific first-half underlying profit rises 43% to HK$7.84 billion"
     }
   ]
 }
