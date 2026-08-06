@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T23:13:46+08:00",
+  "updated_at": "2026-08-07T01:06:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -499,6 +499,18 @@
       "id": "2026-08-06-alice-mak-care-teams-training",
       "first_seen": "2026-08-06T23:08:00+08:00",
       "headline_en": "Alice Mak says Care Teams now key part of district governance"
+    },
+    {
+      "key": "happy-valley-pool-fake-lifeguard-aug6",
+      "id": "2026-08-07-happy-valley-pool-fake-lifeguard",
+      "first_seen": "2026-08-07T01:05:00+08:00",
+      "headline_en": "Happy Valley estate pool closed over suspected fake lifeguard certificate"
+    },
+    {
+      "key": "prolonged-heat-weekend-extreme-aug7",
+      "id": "2026-08-07-prolonged-heat-weekend-outlook",
+      "first_seen": "2026-08-07T01:06:00+08:00",
+      "headline_en": "Very hot weather to continue, extremely hot over weekend"
     }
   ]
 }
