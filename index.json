@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-08-06T11:03:07+08:00",
+  "generated_at": "2026-08-06T13:03:43+08:00",
   "live_window_hours": 72,
-  "count": 47,
+  "count": 51,
   "articles": [
+    {
+      "id": "2026-08-06-tsim-sha-tsui-murder-four-more-charged",
+      "published_at": "2026-08-06T13:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "murder",
+        "triad",
+        "tsim-sha-tsui",
+        "court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-tsim-sha-tsui-murder-four-more-charged.json",
+      "en": {
+        "headline": "Four more men charged with murder over Tsim Sha Tsui bar killing",
+        "dek": "Four men aged 26 to 33 appeared in Kowloon City Magistrates’ Courts on Thursday and were remanded in custody until 29 October pending further investigation."
+      },
+      "zh": {
+        "headline": "尖沙咀酒吧命案再多4人被控謀殺 還押至10月",
+        "dek": "4名介乎26至33歲男子周四在九龍城裁判法院提堂，被控謀殺罪，暫不准保釋，還押至10月29日再訊。"
+      }
+    },
+    {
+      "id": "2026-08-06-stonecutters-bridge-body-found",
+      "published_at": "2026-08-06T13:07:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "drowning",
+        "stonecutters",
+        "kwai-chung",
+        "body"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-stonecutters-bridge-body-found.json",
+      "en": {
+        "headline": "Man’s body recovered near Stonecutters Bridge, suspected drowning",
+        "dek": "A man aged about 40 was found floating in the sea near Stonecutters Bridge early this morning; clothes recovered at a nearby private pier suggest he may have been swimming."
+      },
+      "zh": {
+        "headline": "昂船洲大橋附近海面撈起男屍 疑游泳遇溺",
+        "dek": "今早8時許有人發現昂船洲大橋附近海面有人形物體載浮載沉，救援人員撈起一名約40歲男子，初步相信游泳期間遇溺。"
+      }
+    },
+    {
+      "id": "2026-08-06-clp-interim-results",
+      "published_at": "2026-08-06T13:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "clp",
+        "interim-results",
+        "energy",
+        "dividend"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-clp-interim-results.json",
+      "en": {
+        "headline": "CLP first-half earnings rise 6.6% to HK$6.0 billion",
+        "dek": "The power utility reported total earnings of HK$5,997 million for the six months to June, with operating earnings before fair value movements up 9.7%, and declared an unchanged second interim dividend of 63 HK cents."
+      },
+      "zh": {
+        "headline": "中電上半年盈利升6.6%至近60億元",
+        "dek": "中電控股公布上半年總盈利59.97億元，按年升6.6%，計入公平價值變動前營運盈利升9.7%，派第二期中期股息每股0.63港元，與去年相同。"
+      }
+    },
+    {
+      "id": "2026-08-06-yellow-working-heat-stress-warning",
+      "published_at": "2026-08-06T13:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "heat-stress",
+        "labour-department",
+        "hot-weather",
+        "very-hot"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-06/2026-08-06-yellow-working-heat-stress-warning.json",
+      "en": {
+        "headline": "Yellow Working Heat Stress Warning issued at midday",
+        "dek": "The Labour Department activated the Yellow Working Heat Stress Warning shortly after midday as heat stress levels rose under the ongoing Very Hot Weather Warning."
+      },
+      "zh": {
+        "headline": "黃色工作暑熱警告中午生效",
+        "dek": "勞工處中午約12時26分發出黃色工作暑熱警告，表示部分工作環境的熱壓力頗高，酷熱天氣警告同時生效。"
+      }
+    },
     {
       "id": "2026-08-06-chinese-chamber-five-year-plan",
       "published_at": "2026-08-06T11:07:00+08:00",
