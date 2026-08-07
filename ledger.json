@@ -1,19 +1,7 @@
 {
-  "updated_at": "2026-08-07T08:56:23+08:00",
+  "updated_at": "2026-08-07T11:05:25+08:00",
   "retention_days": 5,
   "covered": [
-    {
-      "key": "amber-rainstorm-thunderstorm-warning-aug2-morning",
-      "id": "2026-08-02-amber-rainstorm-thunderstorm-warning-morning",
-      "first_seen": "2026-08-02T09:05:00+08:00",
-      "headline_en": "Amber rainstorm and thunderstorm warnings in force this morning"
-    },
-    {
-      "key": "inter-milan-beats-man-city-hk-football-festival",
-      "id": "2026-08-02-inter-milan-man-city-kai-tak",
-      "first_seen": "2026-08-02T09:06:00+08:00",
-      "headline_en": "Inter Milan beat Manchester City on penalties at Kai Tak Stadium"
-    },
     {
       "key": "ce-tuen-mun-consultation-held-aug2",
       "id": "2026-08-02-ce-tuen-mun-consultation-held",

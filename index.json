@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-08-07T08:56:23+08:00",
+  "generated_at": "2026-08-07T11:05:26+08:00",
   "live_window_hours": 72,
   "count": 49,
   "articles": [
+    {
+      "id": "2026-08-07-law-society-five-year-plan",
+      "published_at": "2026-08-07T11:05:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "law-society",
+        "five-year-plan",
+        "northern-metropolis",
+        "legal",
+        "consultation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-07/2026-08-07-law-society-five-year-plan.json",
+      "en": {
+        "headline": "Law Society urges ‘law comes first’ in five-year plan submission",
+        "dek": "The professional body submitted recommendations stressing that economic and social development must rest on a clear, predictable and internationally credible legal framework, and offered proposals on the Northern…"
+      },
+      "zh": {
+        "headline": "律師會就五年規劃提交建議 強調「法律先行」",
+        "dek": "律師會在意見書中強調經濟與社會發展願景須以清晰、可預測及具國際公信力的法律框架為基礎，並就北部都會區、仲裁及體育法等提出建議。"
+      }
+    },
+    {
+      "id": "2026-08-07-h8-sprinkler-vandalism-arrest",
+      "published_at": "2026-08-07T11:04:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "criminal-damage",
+        "tsim-sha-tsui",
+        "triad",
+        "vandalism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-07/2026-08-07-h8-sprinkler-vandalism-arrest.json",
+      "en": {
+        "headline": "Man arrested over H8 building sprinkler attack that disabled three lifts",
+        "dek": "A 21-year-old man was arrested after a fire sprinkler head was smashed with a baseball bat on 1 August, flooding lift shafts at the Tsim Sha Tsui commercial building and putting all three lifts out of service for days."
+      },
+      "zh": {
+        "headline": "尖沙咀H8大廈花灑遭棒球棍破壞 21歲男子被捕",
+        "dek": "一名21歲男子涉於8月1日以棒球棍擊毀消防花灑頭，導致三部升降機入水停運多日，警方已拘捕該男子並追緝另外四人。"
+      }
+    },
+    {
+      "id": "2026-08-07-kwun-tong-drug-den-raid",
+      "published_at": "2026-08-07T11:03:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "drugs",
+        "kwun-tong",
+        "narcotics",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-07/2026-08-07-kwun-tong-drug-den-raid.json",
+      "en": {
+        "headline": "Police arrest 15 after Kwun Tong drug den raid",
+        "dek": "Officers raided a unit on Shui Wo Street on Thursday, seizing suspected heroin, ice and other drugs with an estimated value of about HK$120,000; a 43-year-old woman was arrested for operating a drug den and trafficking."
+      },
+      "zh": {
+        "headline": "觀塘毒窟搜查 警拘15人檢約12萬元毒品",
+        "dek": "警方周四在瑞和街一單位搜查，檢獲懷疑海洛英、冰毒等，市值約12萬元；一名43歲女子涉經營毒窟及販毒被捕。"
+      }
+    },
+    {
+      "id": "2026-08-07-lingnan-student-union-dissolve",
+      "published_at": "2026-08-07T11:02:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lingnan-university",
+        "student-union",
+        "education",
+        "campus"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-07/2026-08-07-lingnan-student-union-dissolve.json",
+      "en": {
+        "headline": "Lingnan University Students’ Union announces dissolution after 59 years",
+        "dek": "The union said campus and external conditions had changed and it had taken the difficult decision to dissolve after a joint meeting, leaving only a handful of active student unions among the eight publicly funded…"
+      },
+      "zh": {
+        "headline": "嶺南大學學生會宣布解散 結束近59年運作",
+        "dek": "學生會稱近年校園內外形勢出現變化，經聯席會議通過後作出解散的艱難決定，八大資助大學僅剩少數學生會仍在運作。"
+      }
+    },
     {
       "id": "2026-08-07-prolonged-heat-weekend-outlook",
       "published_at": "2026-08-07T01:06:00+08:00",
@@ -1019,95 +1110,6 @@
       "zh": {
         "headline": "黃澤林ATP排名升至第92位創生涯新高",
         "dek": "港將上週洛斯卡沃斯四強之旅為他帶來92分，最新正式排名攀升16位至92，成為首位躋身男單前100的香港球員。"
-      }
-    },
-    {
-      "id": "2026-08-04-tuen-mun-water-pipe-repair-complete",
-      "published_at": "2026-08-04T11:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "water-supplies",
-        "tuen-mun",
-        "pipe-leak",
-        "wsd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-04/2026-08-04-tuen-mun-water-pipe-repair-complete.json",
-      "en": {
-        "headline": "Tuen Mun water supply restored after emergency pipe repair",
-        "dek": "The Water Supplies Department completed urgent works on a 600mm main near Tuen Lee Street, restoring service to Villa Tiara, Hin Fat Estate and nearby estates from 9.30am."
-      },
-      "zh": {
-        "headline": "屯門水管搶修完成 怡峰園等屋苑供水恢復",
-        "dek": "水務署完成青山公路近屯利街600毫米食水鋼管緊急維修，怡峰園、顯發邨、恆順園及冠峰園今早9時半起陸續恢復供水。"
-      }
-    },
-    {
-      "id": "2026-08-04-tsim-sha-tsui-murder-triad-leader-charged",
-      "published_at": "2026-08-04T09:07:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "murder",
-        "triad",
-        "tsim-sha-tsui",
-        "court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-04/2026-08-04-tsim-sha-tsui-murder-triad-leader-charged.json",
-      "en": {
-        "headline": "Triad leader charged with murder over Tsim Sha Tsui bar attack",
-        "dek": "A 40-year-old man known as Left Mouth faces a murder charge and a 52-year-old faces a charge of assisting an offender after the fatal assault on a 32-year-old businessman last month."
-      },
-      "zh": {
-        "headline": "尖沙咀酒吧謀殺案 三合會頭目左咀被控謀殺",
-        "dek": "一名40歲外號「左咀」的三合會頭目被控謀殺，另一名52歲男子被控協助罪犯，案件與上月尖沙咀酒吧致命襲擊有關。"
-      }
-    },
-    {
-      "id": "2026-08-04-prison-officer-inmate-assault-sentence",
-      "published_at": "2026-08-04T09:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "correctional-services",
-        "pik-uk",
-        "assault"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-04/2026-08-04-prison-officer-inmate-assault-sentence.json",
-      "en": {
-        "headline": "Former prison officer jailed three years for assaulting inmate",
-        "dek": "Tam Lik-chung was sentenced at the District Court after admitting he ordered and took part in an attack on a prisoner at Pik Uk Correctional Institution in December 2023."
-      },
-      "zh": {
-        "headline": "前懲教助理員襲擊在囚人士判囚三年",
-        "dek": "譚力中承認於2023年12月在壁屋懲教所下令及參與襲擊一名在囚人士，區域法院周一判處監禁三年。"
-      }
-    },
-    {
-      "id": "2026-08-04-to-kwa-wan-stairwell-stabbing",
-      "published_at": "2026-08-04T09:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "wounding",
-        "to-kwa-wan",
-        "stabbing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-04/2026-08-04-to-kwa-wan-stairwell-stabbing.json",
-      "en": {
-        "headline": "Police hunt three suspects after man stabbed in To Kwa Wan stairwell",
-        "dek": "A 21-year-old man was attacked with a meat cleaver on San Lau Street on Monday evening and taken to hospital with a severe arm wound; the case is classified as wounding."
-      },
-      "zh": {
-        "headline": "土瓜灣樓梯間斬人案 警追三名疑兇",
-        "dek": "一名21歲男子周一傍晚在新樓街樓梯間遭三名男子以肉刀襲擊，手臂重傷送院，案件列為傷人。"
       }
     }
   ]
