@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-08-07T15:06:22+08:00",
+  "generated_at": "2026-08-07T21:08:58+08:00",
   "live_window_hours": 72,
-  "count": 52,
+  "count": 53,
   "articles": [
+    {
+      "id": "2026-08-07-huanggang-port-20000-drill",
+      "published_at": "2026-08-07T21:12:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "huanggang-port",
+        "chris-tang",
+        "border",
+        "drills",
+        "immigration"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-07/2026-08-07-huanggang-port-20000-drill.json",
+      "en": {
+        "headline": "Chris Tang says Huanggang Port drills will involve up to 20,000 people",
+        "dek": "The Security Bureau chief said progressive exercises starting next week will test traffic and passenger flows well above previous peak-hour levels before any decision on formal opening."
+      },
+      "zh": {
+        "headline": "鄧炳強：皇崗口岸演練將涉最多兩萬人",
+        "dek": "保安局局長表示下星期起將進行遞增規模演練，最大一場涉及約兩萬人，遠超以往高峰人流後才決定正式開通日期。"
+      }
+    },
+    {
+      "id": "2026-08-07-sai-kung-hang-hau-chau-drowning",
+      "published_at": "2026-08-07T21:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sai-kung",
+        "drowning",
+        "snorkeling",
+        "hang-hau-chau",
+        "accident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-07/2026-08-07-sai-kung-hang-hau-chau-drowning.json",
+      "en": {
+        "headline": "Man dies after suspected snorkelling accident off Sai Kung’s Hang Hau Chau",
+        "dek": "A 58-year-old man was pulled unconscious from the sea near Hang Hau Chau on Friday afternoon and later certified dead at Tseung Kwan O Hospital; he had been out with colleagues on a private boat trip."
+      },
+      "zh": {
+        "headline": "西貢吊鐘洲男子浮潛疑遇溺不治",
+        "dek": "一名58歲男子周五下午在西貢吊鐘洲對開海面被發現昏迷，送院後不治；他與同事出海遊船河期間落水浮潛。"
+      }
+    },
+    {
+      "id": "2026-08-07-wang-fuk-court-final-report",
+      "published_at": "2026-08-07T21:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "wang-fuk-court",
+        "tai-po",
+        "fire",
+        "investigation",
+        "independent-committee"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-07/2026-08-07-wang-fuk-court-final-report.json",
+      "en": {
+        "headline": "Wang Fuk Court probe: discarded cigarette most likely ignited deadly blaze",
+        "dek": "The inter-departmental investigation team’s final report, uploaded by the independent committee, finds the fire probably started when an unextinguished cigarette butt set alight construction debris on a Wang Cheong…"
+      },
+      "zh": {
+        "headline": "宏福苑跨部門最終報告：煙頭極可能引燃大火",
+        "dek": "獨立委員會上載跨部門調查專組最終報告，指火勢極可能由未熄滅煙頭點燃宏昌閣平台堆積的建築雜物引起。"
+      }
+    },
     {
       "id": "2026-08-07-yellow-working-heat-stress-aug7",
       "published_at": "2026-08-07T15:14:00+08:00",
@@ -1136,51 +1205,6 @@
       "zh": {
         "headline": "七歲男童感染甲型流感不治 成今年首宗兒童死亡個案",
         "dek": "衞生防護中心表示，該名過往健康良好並已接種季節性流感疫苗的男童，周二因甲型流感（H3）併發休克及腦病變死亡。"
-      }
-    },
-    {
-      "id": "2026-08-04-fehd-officer-bogus-littering-tickets",
-      "published_at": "2026-08-04T21:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "icac",
-        "fehd",
-        "misconduct",
-        "littering",
-        "court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-04/2026-08-04-fehd-officer-bogus-littering-tickets.json",
-      "en": {
-        "headline": "FEHD foreman charged with misconduct over bogus littering tickets",
-        "dek": "The ICAC charged a 41-year-old Food and Environmental Hygiene Department officer with misconduct in public office after he allegedly issued five false fixed-penalty notices that led to court warrants and one wrongful…"
-      },
-      "zh": {
-        "headline": "食環署管工涉發虛假垃圾票 被廉政公署控公職人員行為失當",
-        "dek": "一名41歲食環署管工被控向五人發出虛假定額罰款通知書，導致法庭發出拘捕令及一人被錯誤拘捕，案件由廉政公署跟進。"
-      }
-    },
-    {
-      "id": "2026-08-04-retail-sales-june-2026",
-      "published_at": "2026-08-04T21:05:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "retail-sales",
-        "census-statistics",
-        "consumer-spending",
-        "online-sales"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-04/2026-08-04-retail-sales-june-2026.json",
-      "en": {
-        "headline": "Retail sales rise 4.6% in June for 14th consecutive month",
-        "dek": "The value of total retail sales reached HK$31.5 billion in June, with online sales up 11.6% and jewellery and watches jumping more than 20%, the Census and Statistics Department said."
-      },
-      "zh": {
-        "headline": "6月零售銷售額按年升4.6% 連續14個月增長",
-        "dek": "政府統計處公布，6月零售業總銷貨價值暫定為315億元，按年升4.6%，網上銷售升11.6%，珠寶首飾、鐘錶及名貴禮物銷售升逾兩成。"
       }
     }
   ]
