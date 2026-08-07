@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T15:06:22+08:00",
+  "updated_at": "2026-08-07T21:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -79,6 +79,24 @@
       "id": "2026-08-07-yellow-working-heat-stress-aug7",
       "first_seen": "2026-08-07T15:14:00+08:00",
       "headline_en": "Yellow Working Heat Stress Warning issued this afternoon"
+    },
+    {
+      "key": "wang-fuk-court-final-investigation-report-aug7",
+      "id": "2026-08-07-wang-fuk-court-final-report",
+      "first_seen": "2026-08-07T21:10:00+08:00",
+      "headline_en": "Wang Fuk Court probe: discarded cigarette most likely ignited deadly blaze"
+    },
+    {
+      "key": "sai-kung-hang-hau-chau-drowning-aug7",
+      "id": "2026-08-07-sai-kung-hang-hau-chau-drowning",
+      "first_seen": "2026-08-07T21:11:00+08:00",
+      "headline_en": "Man dies after suspected snorkelling accident off Sai Kung’s Hang Hau Chau"
+    },
+    {
+      "key": "huanggang-port-20000-drill-aug7",
+      "id": "2026-08-07-huanggang-port-20000-drill",
+      "first_seen": "2026-08-07T21:12:00+08:00",
+      "headline_en": "Chris Tang says Huanggang Port drills will involve up to 20,000 people"
     }
   ]
 }
