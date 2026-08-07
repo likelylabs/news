@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T11:06:11+08:00",
+  "updated_at": "2026-08-07T13:08:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -37,6 +37,30 @@
       "id": "2026-08-07-law-society-five-year-plan",
       "first_seen": "2026-08-07T11:05:00+08:00",
       "headline_en": "Law Society urges ‘law comes first’ in five-year plan submission"
+    },
+    {
+      "key": "election-committee-subsector-polling-nov22-2026",
+      "id": "2026-08-07-election-committee-polling-date",
+      "first_seen": "2026-08-07T13:05:00+08:00",
+      "headline_en": "Election Committee subsector polls set for 22 November"
+    },
+    {
+      "key": "airport-yacht-bay-water-recreation-gazetted",
+      "id": "2026-08-07-airport-yacht-bay-water-recreation",
+      "first_seen": "2026-08-07T13:06:00+08:00",
+      "headline_en": "Government gazettes water recreation and yacht bay works near airport"
+    },
+    {
+      "key": "north-point-fuk-yan-road-water-main-burst",
+      "id": "2026-08-07-north-point-water-main-burst",
+      "first_seen": "2026-08-07T13:07:00+08:00",
+      "headline_en": "North Point water main burst disrupts supply on Fuk Yan Road"
+    },
+    {
+      "key": "hkmca-boc-life-annuity-referral",
+      "id": "2026-08-07-hkmca-boc-life-referral",
+      "first_seen": "2026-08-07T13:08:00+08:00",
+      "headline_en": "HKMCA authorises BOC Life intermediaries to refer annuity plan"
     }
   ]
 }
