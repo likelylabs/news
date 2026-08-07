@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T21:08:58+08:00",
+  "updated_at": "2026-08-08T01:06:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -97,6 +97,18 @@
       "id": "2026-08-07-huanggang-port-20000-drill",
       "first_seen": "2026-08-07T21:12:00+08:00",
       "headline_en": "Chris Tang says Huanggang Port drills will involve up to 20,000 people"
+    },
+    {
+      "key": "tuen-mun-new-coffee-bay-couple-drowning-aug7",
+      "id": "2026-08-08-tuen-mun-new-coffee-bay-drowning",
+      "first_seen": "2026-08-08T01:05:00+08:00",
+      "headline_en": "Couple found unconscious after swimming off Tuen Mun’s New Coffee Bay"
+    },
+    {
+      "key": "swd-fake-messaging-app-phishing-aug7",
+      "id": "2026-08-08-swd-fake-messaging-app-warning",
+      "first_seen": "2026-08-08T01:06:00+08:00",
+      "headline_en": "Social Welfare Department warns of fake messaging accounts"
     }
   ]
 }
