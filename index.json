@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-08T05:07:23+08:00",
+  "generated_at": "2026-08-08T07:07:56+08:00",
   "live_window_hours": 72,
-  "count": 51,
+  "count": 50,
   "articles": [
+    {
+      "id": "2026-08-08-extreme-hot-weather-continues",
+      "published_at": "2026-08-08T07:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "very-hot-weather",
+        "heat",
+        "hko",
+        "extreme-heat"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-08/2026-08-08-extreme-hot-weather-continues.json",
+      "en": {
+        "headline": "Extreme heat continues under Very Hot Weather Warning",
+        "dek": "The Observatory issued a special weather tip this morning warning of prolonged extremely hot conditions through the weekend and into next week, with some areas expected to reach 37 degrees or above."
+      },
+      "zh": {
+        "headline": "酷熱天氣警告持續 天文台籲提防極端高溫",
+        "dek": "天文台今早發出特別天氣提示，指受強颱風白海豚外圍下沉氣流影響，極端酷熱天氣將持續至周末及下周一，部分地區氣溫可達37度或以上。"
+      }
+    },
     {
       "id": "2026-08-08-swd-fake-messaging-app-warning",
       "published_at": "2026-08-08T01:06:00+08:00",
@@ -1115,51 +1137,6 @@
       "zh": {
         "headline": "聯招正式遴選34.3%申請人獲派位 競爭加劇",
         "dek": "15,619名考生獲八大、都大或教大資助高級文憑學額，申請人數按年升5.3%至45,545人，取錄比率較去年微跌。"
-      }
-    },
-    {
-      "id": "2026-08-05-legionnaires-sanatorium-water-dispenser",
-      "published_at": "2026-08-05T07:06:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "chp",
-        "legionnaires",
-        "hospital",
-        "hong-kong-sanatorium",
-        "water"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-05/2026-08-05-legionnaires-sanatorium-water-dispenser.json",
-      "en": {
-        "headline": "Legionnaires’ disease linked to hospital water dispenser",
-        "dek": "An 89-year-old patient at Hong Kong Sanatorium & Hospital is highly likely to have contracted the disease from a cooled-boiled-water device that tested positive for Legionella, the Centre for Health Protection said."
-      },
-      "zh": {
-        "headline": "養和醫院退伍軍人病個案與飲水機有關",
-        "dek": "衞生防護中心表示，一名89歲男病人很大可能因飲用受污染的凍開水飲水機供水而感染退伍軍人病，同層137名病人已納入醫學監察。"
-      }
-    },
-    {
-      "id": "2026-08-05-very-hot-weather-warning-morning",
-      "published_at": "2026-08-05T07:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "very-hot-weather",
-        "heat",
-        "warning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-05/2026-08-05-very-hot-weather-warning-morning.json",
-      "en": {
-        "headline": "Very Hot Weather Warning issued this morning",
-        "dek": "The Hong Kong Observatory activated the warning at 6.45am as temperatures climbed under mainly fine and very hot conditions expected through the day."
-      },
-      "zh": {
-        "headline": "酷熱天氣警告今早生效",
-        "dek": "天文台上午6時45分發出酷熱天氣警告，預料今日大致天晴酷熱，日間市區最高氣溫約33度。"
       }
     }
   ]
