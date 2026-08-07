@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-08-07T13:03:17+08:00",
+  "generated_at": "2026-08-07T15:06:22+08:00",
   "live_window_hours": 72,
   "count": 52,
   "articles": [
+    {
+      "id": "2026-08-07-yellow-working-heat-stress-aug7",
+      "published_at": "2026-08-07T15:14:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "heat-stress",
+        "labour-department",
+        "very-hot",
+        "working-warning"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-07/2026-08-07-yellow-working-heat-stress-aug7.json",
+      "en": {
+        "headline": "Yellow Working Heat Stress Warning issued this afternoon",
+        "dek": "The Labour Department activated the Yellow Working Heat Stress Warning around 1.15pm as heat-stress levels rose under the ongoing Very Hot Weather Warning, advising employers to arrange rest breaks for outdoor and…"
+      },
+      "zh": {
+        "headline": "黃色工作暑熱警告下午生效",
+        "dek": "勞工處下午約1時15分發出黃色工作暑熱警告，表示部分工作環境熱壓力頗高；酷熱天氣警告同時生效，僱主應安排適當休息時間。"
+      }
+    },
+    {
+      "id": "2026-08-07-tsuen-wan-guo-rui-road-water-burst",
+      "published_at": "2026-08-07T15:13:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "water-supplies",
+        "tsuen-wan",
+        "pipe-burst",
+        "guo-rui-road",
+        "construction"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-07/2026-08-07-tsuen-wan-guo-rui-road-water-burst.json",
+      "en": {
+        "headline": "Tsuen Wan construction site water main burst sends jet tens of metres high",
+        "dek": "An underground water pipe ruptured at a roadside works site on Guo Rui Road near Summit Terrace around 11am, producing a water column estimated at about ten storeys high; the Water Supplies Department is carrying out…"
+      },
+      "zh": {
+        "headline": "荃灣國瑞路工地爆水管 水柱高約十層樓",
+        "dek": "周五上午11時許，荃灣國瑞路近昇柏山對開路邊工地有地底水管爆裂，水柱噴高約十層樓，水務署已到場關掣搶修。"
+      }
+    },
+    {
+      "id": "2026-08-07-hk69m-mainland-official-scam",
+      "published_at": "2026-08-07T15:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "fraud",
+        "scam",
+        "police",
+        "western-district",
+        "money-laundering"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-07/2026-08-07-hk69m-mainland-official-scam.json",
+      "en": {
+        "headline": "Woman loses nearly HK$69 million to scammers posing as mainland officials",
+        "dek": "A 43-year-old Hong Kong woman transferred about HK$68.9 million over a month after callers claiming to be mainland law-enforcement officers accused her of a crime and demanded money to prove her innocence."
+      },
+      "zh": {
+        "headline": "女子墮假冒內地官員騙局 損失近6,900萬元",
+        "dek": "一名43歲香港女子接獲自稱內地執法人員來電，指她涉案並要求轉帳「保證金」，一個月內合共轉出約6,890萬元至指定帳戶。"
+      }
+    },
     {
       "id": "2026-08-07-hkmca-boc-life-referral",
       "published_at": "2026-08-07T13:08:00+08:00",
@@ -1113,72 +1181,6 @@
       "zh": {
         "headline": "6月零售銷售額按年升4.6% 連續14個月增長",
         "dek": "政府統計處公布，6月零售業總銷貨價值暫定為315億元，按年升4.6%，網上銷售升11.6%，珠寶首飾、鐘錶及名貴禮物銷售升逾兩成。"
-      }
-    },
-    {
-      "id": "2026-08-04-huanggang-port-drills-civil-servants",
-      "published_at": "2026-08-04T15:05:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "huanggang-port",
-        "border",
-        "security-bureau",
-        "civil-service",
-        "shenzhen"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-04/2026-08-04-huanggang-port-drills-civil-servants.json",
-      "en": {
-        "headline": "Huanggang Port to hold four days of drills with 36,000 civil-servant trips",
-        "dek": "The government will mobilise about 36,000 civil-servant attendances across four dates this month to test clearance systems and capacity at the redeveloped checkpoint, with the largest exercise on 29 August."
-      },
-      "zh": {
-        "headline": "新皇崗口岸將演練四日 動員公務員約3.6萬人次",
-        "dek": "政府本月四個日子啟動全政府總動員，徵召約3.6萬人次公務員模擬過境，測試皇崗口岸通關系統及運載能力，其中8月29日規模最大。"
-      }
-    },
-    {
-      "id": "2026-08-04-hsbc-interim-results",
-      "published_at": "2026-08-04T13:06:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hsbc",
-        "banking",
-        "interim-results",
-        "dividend"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-04/2026-08-04-hsbc-interim-results.json",
-      "en": {
-        "headline": "HSBC first-half profit before tax rises 23% to US$19.5 billion",
-        "dek": "The bank reported higher banking net interest income and strong wealth fee growth, declared a second interim dividend of US$0.10 per share and plans a share buy-back of up to US$1 billion."
-      },
-      "zh": {
-        "headline": "滙控上半年稅前盈利升23%至195億美元",
-        "dek": "銀行業務淨利息收益及財富管理費用收入增長帶動業績，派第二次中期股息每股10美仙，並計劃最多10億美元股份回購。"
-      }
-    },
-    {
-      "id": "2026-08-04-yellow-working-heat-stress-warning",
-      "published_at": "2026-08-04T13:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "heat-stress",
-        "labour-department",
-        "hot-weather"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-04/2026-08-04-yellow-working-heat-stress-warning.json",
-      "en": {
-        "headline": "Yellow Working Heat Stress Warning issued at midday",
-        "dek": "The Labour Department activated the Yellow Working Heat Stress Warning at 12.10pm as heat stress levels rose in parts of the territory under hot and humid conditions."
-      },
-      "zh": {
-        "headline": "黃色工作暑熱警告中午生效",
-        "dek": "勞工處下午12時10分發出黃色工作暑熱警告，表示部分工作環境的熱壓力頗高。"
       }
     }
   ]
