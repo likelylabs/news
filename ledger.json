@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T13:03:17+08:00",
+  "updated_at": "2026-08-07T15:14:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -61,6 +61,24 @@
       "id": "2026-08-07-hkmca-boc-life-referral",
       "first_seen": "2026-08-07T13:08:00+08:00",
       "headline_en": "HKMCA authorises BOC Life intermediaries to refer annuity plan"
+    },
+    {
+      "key": "hk69m-mainland-official-scam-aug7",
+      "id": "2026-08-07-hk69m-mainland-official-scam",
+      "first_seen": "2026-08-07T15:12:00+08:00",
+      "headline_en": "Woman loses nearly HK$69 million to scammers posing as mainland officials"
+    },
+    {
+      "key": "tsuen-wan-guo-rui-road-water-main-burst",
+      "id": "2026-08-07-tsuen-wan-guo-rui-road-water-burst",
+      "first_seen": "2026-08-07T15:13:00+08:00",
+      "headline_en": "Tsuen Wan construction site water main burst sends jet tens of metres high"
+    },
+    {
+      "key": "yellow-working-heat-stress-warning-aug7-afternoon",
+      "id": "2026-08-07-yellow-working-heat-stress-aug7",
+      "first_seen": "2026-08-07T15:14:00+08:00",
+      "headline_en": "Yellow Working Heat Stress Warning issued this afternoon"
     }
   ]
 }
