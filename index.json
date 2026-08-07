@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-08-07T11:06:11+08:00",
+  "generated_at": "2026-08-07T13:03:17+08:00",
   "live_window_hours": 72,
-  "count": 48,
+  "count": 52,
   "articles": [
+    {
+      "id": "2026-08-07-hkmca-boc-life-referral",
+      "published_at": "2026-08-07T13:08:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hkmca",
+        "boc-life",
+        "annuity",
+        "retirement",
+        "referral"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-07/2026-08-07-hkmca-boc-life-referral.json",
+      "en": {
+        "headline": "HKMCA authorises BOC Life intermediaries to refer annuity plan",
+        "dek": "Designated licensed insurance intermediaries of BOC Group Life Assurance may now introduce the HKMC Annuity Plan to customers and refer eligible clients under a new partnership announced Friday."
+      },
+      "zh": {
+        "headline": "年金公司與中銀人壽合作 授權中介介紹年金計劃",
+        "dek": "香港按揭證券有限公司全資附屬的年金公司周五公布，中銀人壽指定持牌保險中介可向客戶介紹年金計劃並轉介合資格客戶。"
+      }
+    },
+    {
+      "id": "2026-08-07-north-point-water-main-burst",
+      "published_at": "2026-08-07T13:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "water-supplies",
+        "north-point",
+        "pipe-burst",
+        "fuk-yan-road",
+        "supply"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-07/2026-08-07-north-point-water-main-burst.json",
+      "en": {
+        "headline": "North Point water main burst disrupts supply on Fuk Yan Road",
+        "dek": "A 250 mm fresh-water main burst at the junction of King Wah Road and Fuk Yan Road early Friday, cutting supply to nearby residences and shops; most service was restored by late morning with repairs continuing."
+      },
+      "zh": {
+        "headline": "北角福蔭道食水管爆裂 附近一度停水",
+        "dek": "周五早上京華道與福蔭道交界一條250毫米食水管爆裂，附近住宅及食肆食水供應受影響，大部分用戶上午已恢復，搶修仍在進行。"
+      }
+    },
+    {
+      "id": "2026-08-07-airport-yacht-bay-water-recreation",
+      "published_at": "2026-08-07T13:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "airport-authority",
+        "yacht-bay",
+        "water-recreation",
+        "tung-chung",
+        "hzmb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-07/2026-08-07-airport-yacht-bay-water-recreation.json",
+      "en": {
+        "headline": "Government gazettes water recreation and yacht bay works near airport",
+        "dek": "Proposed works by the Airport Authority in the bay between the airport, the Hong Kong-Zhuhai-Macao Bridge Hong Kong Port and Tung Chung aim to create leisure and tourism facilities, with construction tentatively from…"
+      },
+      "zh": {
+        "headline": "政府刊憲機場附近水上康樂及遊艇港灣工程",
+        "dek": "機管局擬於機場、港珠澳大橋香港口岸與東涌之間海灣進行水上康樂及遊艇港灣發展工程，暫訂2027年展開、2030年完成。"
+      }
+    },
+    {
+      "id": "2026-08-07-election-committee-polling-date",
+      "published_at": "2026-08-07T13:05:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "election-committee",
+        "polling-date",
+        "nomination",
+        "gazette"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-07/2026-08-07-election-committee-polling-date.json",
+      "en": {
+        "headline": "Election Committee subsector polls set for 22 November",
+        "dek": "The Chief Executive has gazetted Sunday 22 November as the polling day for the 2026 Election Committee Subsector Ordinary Elections, with nominations running from 7 to 20 October."
+      },
+      "zh": {
+        "headline": "選委會界別分組選舉投票日定11月22日",
+        "dek": "行政長官已刊憲指明2026年11月22日為選舉委員會界別分組一般選舉投票日，提名期由10月7日至20日。"
+      }
+    },
     {
       "id": "2026-08-07-law-society-five-year-plan",
       "published_at": "2026-08-07T11:05:00+08:00",
