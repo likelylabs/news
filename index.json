@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-06T23:13:46+08:00",
+  "generated_at": "2026-08-07T08:56:23+08:00",
   "live_window_hours": 72,
-  "count": 47,
+  "count": 49,
   "articles": [
+    {
+      "id": "2026-08-07-prolonged-heat-weekend-outlook",
+      "published_at": "2026-08-07T01:06:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "very-hot-weather",
+        "heat",
+        "weekend-outlook",
+        "hko"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-07/2026-08-07-prolonged-heat-weekend-outlook.json",
+      "en": {
+        "headline": "Very hot weather to continue, extremely hot over weekend",
+        "dek": "The Observatory warns of prolonged high temperatures with parts of the New Territories expected to reach 36 degrees or above under the influence of outer subsiding air from Tropical Cyclone Dolphin."
+      },
+      "zh": {
+        "headline": "酷熱天氣持續 周末部分地區極端酷熱",
+        "dek": "天文台指出受熱帶氣旋白海豚外圍下沉氣流影響，未來數日高溫持續，周末新界部分地區氣溫可達36度或以上。"
+      }
+    },
+    {
+      "id": "2026-08-07-happy-valley-pool-fake-lifeguard",
+      "published_at": "2026-08-07T01:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "swimming-pool",
+        "fehd",
+        "lifeguard",
+        "happy-valley",
+        "ventris-road"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-07/2026-08-07-happy-valley-pool-fake-lifeguard.json",
+      "en": {
+        "headline": "Happy Valley estate pool closed over suspected fake lifeguard certificate",
+        "dek": "The Food and Environmental Hygiene Department ordered the immediate closure of a private swimming pool after a lifeguard’s credentials failed to match official records."
+      },
+      "zh": {
+        "headline": "跑馬地屋苑泳池疑用假救生員證 食環署令即時關閉",
+        "dek": "食環署發現跑馬地雲地利道私人屋苑持牌泳池有救生員使用虛假證件，已指令泳池即時關閉，並考慮檢控持牌人。"
+      }
+    },
     {
       "id": "2026-08-06-alice-mak-care-teams-training",
       "published_at": "2026-08-06T23:08:00+08:00",
