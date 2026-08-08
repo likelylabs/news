@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T23:05:23+08:00",
+  "updated_at": "2026-08-08T23:06:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -163,6 +163,18 @@
       "id": "2026-08-08-bar-association-sex-offence-response",
       "first_seen": "2026-08-08T21:17:00+08:00",
       "headline_en": "Bar Association broadly backs new persistent child sexual abuse offence"
+    },
+    {
+      "key": "peak-road-police-assault-aug8",
+      "id": "2026-08-08-peak-road-police-assault",
+      "first_seen": "2026-08-08T23:05:00+08:00",
+      "headline_en": "Driver arrested after assaulting officer during Peak traffic stop"
+    },
+    {
+      "key": "cebu-pacific-ceb143-cargo-door-aug8",
+      "id": "2026-08-08-cebu-pacific-cargo-door-return",
+      "first_seen": "2026-08-08T23:06:00+08:00",
+      "headline_en": "Cebu Pacific flight returns to Hong Kong after suspected cargo door issue"
     }
   ]
 }
