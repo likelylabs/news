@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-09T04:56:11+08:00",
+  "generated_at": "2026-08-09T07:07:50+08:00",
   "live_window_hours": 72,
-  "count": 51,
+  "count": 52,
   "articles": [
+    {
+      "id": "2026-08-09-hikers-heat-illness-airlift",
+      "published_at": "2026-08-09T07:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "heat",
+        "hiking",
+        "rescue",
+        "government-flying-service",
+        "heat-illness"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-09/2026-08-09-hikers-heat-illness-airlift.json",
+      "en": {
+        "headline": "Two hikers airlifted after heat illness on hottest day of the year",
+        "dek": "A 28-year-old man near Po Pin Chau in Sai Kung and a seven-year-old girl on the South Lantau Country Trail were rescued by Government Flying Service helicopter on Saturday afternoon as temperatures exceeded 38 degrees…"
+      },
+      "zh": {
+        "headline": "酷熱天氣兩名行山者疑中暑 直升機救出包括7歲女童",
+        "dek": "周六本港極端酷熱，新界部分地區氣溫超過38度，西貢破邊洲一名28歲男子及南大嶼山一名7歲女童先後懷疑中暑，由飛行服務隊直升機送往律敦治醫院。"
+      }
+    },
     {
       "id": "2026-08-09-very-hot-weather-warning-continues",
       "published_at": "2026-08-09T03:04:00+08:00",
