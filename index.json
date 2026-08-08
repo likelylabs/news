@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-08T07:07:56+08:00",
+  "generated_at": "2026-08-08T09:04:51+08:00",
   "live_window_hours": 72,
-  "count": 50,
+  "count": 52,
   "articles": [
+    {
+      "id": "2026-08-08-wong-tai-sin-knife-fall",
+      "published_at": "2026-08-08T09:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "wong-tai-sin",
+        "police",
+        "assault",
+        "fall",
+        "estate"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-08/2026-08-08-wong-tai-sin-knife-fall.json",
+      "en": {
+        "headline": "Man with knife wounds found in Wong Tai Sin lift; another dies after fall",
+        "dek": "Police are investigating whether two incidents at Chiu Sin House in Wong Tai Sin Upper Estate on Saturday morning are linked, after a man with multiple cuts was found in a lift and another man was certified dead on a…"
+      },
+      "zh": {
+        "headline": "黃大仙上邨電梯內發現刀傷男子 另一男墮樓死亡",
+        "dek": "警方正調查黃大仙上邨昭善樓今早兩宗事故是否有關，一名男子在電梯內多處刀傷送院，另一名男子倒臥平台證實死亡。"
+      }
+    },
+    {
+      "id": "2026-08-08-yellow-working-heat-stress-aug8",
+      "published_at": "2026-08-08T09:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "heat-stress",
+        "labour-department",
+        "very-hot",
+        "working-warning"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-08/2026-08-08-yellow-working-heat-stress-aug8.json",
+      "en": {
+        "headline": "Yellow Working Heat Stress Warning issued this morning",
+        "dek": "The Labour Department activated the Yellow Working Heat Stress Warning at 7am as heat-stress levels rose under the ongoing Very Hot Weather Warning, advising employers to arrange rest breaks for outdoor and…"
+      },
+      "zh": {
+        "headline": "黃色工作暑熱警告今早生效",
+        "dek": "勞工處上午7時發出黃色工作暑熱警告，表示部分工作環境熱壓力頗高；酷熱天氣警告同時生效，僱主應為戶外及無空調室內工作員工安排適當休息。"
+      }
+    },
     {
       "id": "2026-08-08-extreme-hot-weather-continues",
       "published_at": "2026-08-08T07:10:00+08:00",
