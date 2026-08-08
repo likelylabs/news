@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-08-08T21:09:27+08:00",
+  "generated_at": "2026-08-08T23:05:23+08:00",
   "live_window_hours": 72,
-  "count": 54,
+  "count": 53,
   "articles": [
+    {
+      "id": "2026-08-08-cebu-pacific-cargo-door-return",
+      "published_at": "2026-08-08T23:06:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "airport",
+        "flight",
+        "cebu-pacific",
+        "safety",
+        "manila"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-08/2026-08-08-cebu-pacific-cargo-door-return.json",
+      "en": {
+        "headline": "Cebu Pacific flight returns to Hong Kong after suspected cargo door issue",
+        "dek": "A Manila-bound Cebu Pacific Airbus A321 returned safely to Hong Kong International Airport on Saturday afternoon after its cargo door was suspected to have opened; no injuries were reported."
+      },
+      "zh": {
+        "headline": "宿霧太平洋航班疑貨艙門開啟 折返香港機場安全着陸",
+        "dek": "一班由香港飛往馬尼拉的宿霧太平洋航空CEB143航班周六下午疑因貨艙門開啟問題折返香港國際機場，安全着陸無人受傷。"
+      }
+    },
+    {
+      "id": "2026-08-08-peak-road-police-assault",
+      "published_at": "2026-08-08T23:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "assault",
+        "peak",
+        "traffic",
+        "central"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-08/2026-08-08-peak-road-police-assault.json",
+      "en": {
+        "headline": "Driver arrested after assaulting officer during Peak traffic stop",
+        "dek": "A 55-year-old man was arrested on suspicion of assaulting a police officer and obstructing police after becoming agitated when stopped for failing to obey traffic signs on Peak Road on Saturday morning."
+      },
+      "zh": {
+        "headline": "山頂私家車違例被查 55歲司機襲警涉兩罪被捕",
+        "dek": "山頂道一輛私家車今早未遵從交通標誌被截查，55歲姓蘇男司機情緒激動拒絕合作並襲擊男警，涉襲警及阻差辦公被捕。"
+      }
+    },
     {
       "id": "2026-08-08-bar-association-sex-offence-response",
       "published_at": "2026-08-08T21:17:00+08:00",
@@ -1160,75 +1206,6 @@
       "zh": {
         "headline": "海關深水埗破南亞裔私煙集團 檢約160萬支私煙拘27人",
         "dek": "由7月23日至8月5日一連串行動檢獲約160萬支私煙，估計市值逾720萬元，應課稅值約530萬元，拘捕27人，當中包括4名南亞裔骨幹。"
-      }
-    },
-    {
-      "id": "2026-08-05-fatal-traffic-accidents-h1-2026",
-      "published_at": "2026-08-05T21:12:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "police",
-        "road-safety",
-        "traffic-accidents",
-        "elderly",
-        "enforcement"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-05/2026-08-05-fatal-traffic-accidents-h1-2026.json",
-      "en": {
-        "headline": "Fatal traffic accidents rise 44% in first half of 2026",
-        "dek": "Police recorded 59 fatal crashes and 63 deaths, up sharply from a year earlier, while overall injury accidents continued their long-term decline; a three-week enforcement drive has begun."
-      },
-      "zh": {
-        "headline": "上半年致命交通意外升44% 共63人死亡",
-        "dek": "警方錄得59宗致命車禍，死亡人數較去年同期升47%；整體傷亡意外則繼續下降，並展開為期三周的專題執法行動。"
-      }
-    },
-    {
-      "id": "2026-08-05-tung-wah-college-jupas-email-error",
-      "published_at": "2026-08-05T21:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "jupas",
-        "tung-wah-college",
-        "education",
-        "admissions",
-        "email"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-05/2026-08-05-tung-wah-college-jupas-email-error.json",
-      "en": {
-        "headline": "Tung Wah College apologises for false JUPAS admission emails to 11,000",
-        "dek": "Human error caused an acceptance notice intended for successful applicants to be sent to every one of the 11,139 people who applied through JUPAS, the college said after issuing a rapid clarification."
-      },
-      "zh": {
-        "headline": "東華學院誤向1.1萬聯招申請人發取錄電郵致歉",
-        "dek": "校方指因人為操作疏忽，將原擬發給獲取錄者的確認電郵誤發予全部11,139名申請人，已即時澄清並成立危機小組跟進。"
-      }
-    },
-    {
-      "id": "2026-08-05-next-digital-investigation-terminated",
-      "published_at": "2026-08-05T21:10:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "financial-secretary",
-        "next-digital",
-        "companies-ordinance",
-        "corporate-governance",
-        "national-security"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-05/2026-08-05-next-digital-investigation-terminated.json",
-      "en": {
-        "headline": "Financial Secretary ends investigation into Next Digital affairs",
-        "dek": "Paul Chan directed the inspector to terminate the probe after the company was wound up, delisted and related national-security convictions were secured, saying further inquiry was no longer necessary."
-      },
-      "zh": {
-        "headline": "財政司司長指示終止調查壹傳媒事務",
-        "dek": "陳茂波經審視清盤、除牌及國安相關定罪等情況後，認為已無需要繼續調查，並指示審查員終止有關工作。"
       }
     }
   ]
