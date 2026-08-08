@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-08-08T13:03:47+08:00",
+  "generated_at": "2026-08-08T21:09:27+08:00",
   "live_window_hours": 72,
-  "count": 53,
+  "count": 54,
   "articles": [
+    {
+      "id": "2026-08-08-bar-association-sex-offence-response",
+      "published_at": "2026-08-08T21:17:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "bar-association",
+        "sex-offences",
+        "child-protection",
+        "law-reform",
+        "consultation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-08/2026-08-08-bar-association-sex-offence-response.json",
+      "en": {
+        "headline": "Bar Association broadly backs new persistent child sexual abuse offence",
+        "dek": "The legal body said it supports introducing a dedicated offence while calling for safeguards to ensure fair trials, and also urged expanded pre-conviction anonymity for both complainants and defendants."
+      },
+      "zh": {
+        "headline": "大律師公會原則支持新增持續性侵犯兒童罪",
+        "dek": "公會回應性罪行法例諮詢，原則同意增設相關罪行但須設保障措施確保公平審訊，並倡擴大定罪前匿名保護。"
+      }
+    },
+    {
+      "id": "2026-08-08-fdh-wage-freeze-call",
+      "published_at": "2026-08-08T21:16:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "domestic-helpers",
+        "minimum-wage",
+        "employers",
+        "labour",
+        "fdh"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-08/2026-08-08-fdh-wage-freeze-call.json",
+      "en": {
+        "headline": "Employer groups urge freeze on domestic helper minimum wage",
+        "dek": "Two employer organisations petitioned the government on Saturday, citing a survey in which most respondents said they could not afford a rise and might dismiss helpers if wages increased."
+      },
+      "zh": {
+        "headline": "外傭僱主團體促凍結最低工資 稱加薪或致大量解僱",
+        "dek": "兩個僱主團體周六向政府請願，指調查顯示逾九成僱主希望凍薪，八成半表示難以負擔加薪或考慮解僱外傭。"
+      }
+    },
+    {
+      "id": "2026-08-08-record-heat-temperature-aug8",
+      "published_at": "2026-08-08T21:15:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "very-hot-weather",
+        "heat",
+        "hko",
+        "record-temperature",
+        "dolphin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-08/2026-08-08-record-heat-temperature-aug8.json",
+      "en": {
+        "headline": "Observatory records 34.7°C, hottest day of the year so far",
+        "dek": "Under the influence of Severe Typhoon Dolphin’s outer subsiding air, temperatures exceeded 38 degrees in parts of the New Territories while the headquarters logged its highest reading of 2026."
+      },
+      "zh": {
+        "headline": "天文台錄34.7度創今年最高 上水高見38.5度",
+        "dek": "受強颱風白海豚外圍下沉氣流影響，本港極端酷熱，天文台總部錄得今年最高氣溫，新界多區超過37度。"
+      }
+    },
     {
       "id": "2026-08-08-northern-metropolis-construction-boom",
       "published_at": "2026-08-08T13:07:00+08:00",
@@ -1160,51 +1229,6 @@
       "zh": {
         "headline": "財政司司長指示終止調查壹傳媒事務",
         "dek": "陳茂波經審視清盤、除牌及國安相關定罪等情況後，認為已無需要繼續調查，並指示審查員終止有關工作。"
-      }
-    },
-    {
-      "id": "2026-08-05-labour-drones-site-smoking-ban",
-      "published_at": "2026-08-05T15:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "labour-department",
-        "construction",
-        "smoking-ban",
-        "drones",
-        "safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-05/2026-08-05-labour-drones-site-smoking-ban.json",
-      "en": {
-        "headline": "Labour Department tests infrared drones to enforce construction site smoking ban",
-        "dek": "Officials have issued 39 fixed-penalty notices and 11 advisories since the ban took effect on 17 July, describing compliance as unsatisfactory and exploring AI-assisted detection."
-      },
-      "zh": {
-        "headline": "勞工處試用紅外線無人機巡查地盤禁煙",
-        "dek": "禁煙令7月17日生效後已發出39張定額罰款通知書及11張敦促改善通知書，當局指合規情况未如理想，並研究結合人工智能偵測。"
-      }
-    },
-    {
-      "id": "2026-08-05-cathay-pacific-h1-2026-results",
-      "published_at": "2026-08-05T15:05:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "cathay-pacific",
-        "aviation",
-        "interim-results",
-        "dividend"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-05/2026-08-05-cathay-pacific-h1-2026-results.json",
-      "en": {
-        "headline": "Cathay Pacific first-half profit rises 71% to HK$6.24 billion",
-        "dek": "The group posted its strongest interim result since 2010 on solid passenger and cargo demand, declaring a first interim dividend of 26 HK cents per share."
-      },
-      "zh": {
-        "headline": "國泰上半年溢利升71%至62.4億元",
-        "dek": "集團錄得2010年以來最強中期業績，乘客及貨運需求穩健，宣布派發第一次中期股息每股26港仙。"
       }
     }
   ]
