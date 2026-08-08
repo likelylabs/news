@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T09:04:51+08:00",
+  "updated_at": "2026-08-08T13:07:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -127,6 +127,24 @@
       "id": "2026-08-08-wong-tai-sin-knife-fall",
       "first_seen": "2026-08-08T09:06:00+08:00",
       "headline_en": "Man with knife wounds found in Wong Tai Sin lift; another dies after fall"
+    },
+    {
+      "key": "outbound-specialist-team-malaysia-aug8",
+      "id": "2026-08-08-outbound-specialist-team-malaysia",
+      "first_seen": "2026-08-08T13:05:00+08:00",
+      "headline_en": "Algernon Yau to lead mainland and Hong Kong firms on Malaysia visit next week"
+    },
+    {
+      "key": "flu-season-kwan-comments-aug8",
+      "id": "2026-08-08-flu-season-kwan-yat-wah",
+      "first_seen": "2026-08-08T13:06:00+08:00",
+      "headline_en": "Paediatric expert says hard to predict flu peak, urges vaccination"
+    },
+    {
+      "key": "northern-metropolis-construction-volume-aug8",
+      "id": "2026-08-08-northern-metropolis-construction-boom",
+      "first_seen": "2026-08-08T13:07:00+08:00",
+      "headline_en": "Bernadette Linn expects construction volume to rise with Northern Metropolis"
     }
   ]
 }
