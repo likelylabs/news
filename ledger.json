@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T23:06:18+08:00",
+  "updated_at": "2026-08-09T03:04:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -175,6 +175,12 @@
       "id": "2026-08-08-cebu-pacific-cargo-door-return",
       "first_seen": "2026-08-08T23:06:00+08:00",
       "headline_en": "Cebu Pacific flight returns to Hong Kong after suspected cargo door issue"
+    },
+    {
+      "key": "very-hot-weather-warning-aug9-morning",
+      "id": "2026-08-09-very-hot-weather-warning-continues",
+      "first_seen": "2026-08-09T03:04:00+08:00",
+      "headline_en": "Very Hot Weather Warning remains in force as extreme heat continues"
     }
   ]
 }
