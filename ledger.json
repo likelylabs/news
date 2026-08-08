@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T13:03:47+08:00",
+  "updated_at": "2026-08-08T21:17:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -145,6 +145,24 @@
       "id": "2026-08-08-northern-metropolis-construction-boom",
       "first_seen": "2026-08-08T13:07:00+08:00",
       "headline_en": "Bernadette Linn expects construction volume to rise with Northern Metropolis"
+    },
+    {
+      "key": "record-high-temperature-aug8-2026",
+      "id": "2026-08-08-record-heat-temperature-aug8",
+      "first_seen": "2026-08-08T21:15:00+08:00",
+      "headline_en": "Observatory records 34.7°C, hottest day of the year so far"
+    },
+    {
+      "key": "fdh-minimum-wage-freeze-petition-aug8",
+      "id": "2026-08-08-fdh-wage-freeze-call",
+      "first_seen": "2026-08-08T21:16:00+08:00",
+      "headline_en": "Employer groups urge freeze on domestic helper minimum wage"
+    },
+    {
+      "key": "bar-association-sex-offence-consultation-aug8",
+      "id": "2026-08-08-bar-association-sex-offence-response",
+      "first_seen": "2026-08-08T21:17:00+08:00",
+      "headline_en": "Bar Association broadly backs new persistent child sexual abuse offence"
     }
   ]
 }
