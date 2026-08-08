@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T07:08:11+08:00",
+  "updated_at": "2026-08-09T07:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -181,6 +181,18 @@
       "id": "2026-08-09-very-hot-weather-warning-continues",
       "first_seen": "2026-08-09T03:04:00+08:00",
       "headline_en": "Very Hot Weather Warning remains in force as extreme heat continues"
+    },
+    {
+      "key": "hikers-heat-illness-airlift-aug8",
+      "id": "2026-08-09-hikers-heat-illness-airlift",
+      "first_seen": "2026-08-09T07:10:00+08:00",
+      "headline_en": "Two hikers airlifted after heat illness on hottest day of the year"
+    },
+    {
+      "key": "social-media-under16-regulation-calls-aug8",
+      "id": "2026-08-09-social-media-under16-regulation-calls",
+      "first_seen": "2026-08-09T07:12:00+08:00",
+      "headline_en": "Educators and experts urge stronger regulation of social media for under-16s"
     }
   ]
 }
