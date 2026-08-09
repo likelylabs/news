@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T05:00:47+08:00",
+  "updated_at": "2026-08-10T07:08:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -283,6 +283,30 @@
       "id": "2026-08-10-mtr-tiu-keng-leng-hand-trapped",
       "first_seen": "2026-08-10T01:16:00+08:00",
       "headline_en": "MTR passenger’s hand trapped in train door while retrieving item from tracks"
+    },
+    {
+      "key": "extreme-hot-weather-continues-aug10",
+      "id": "2026-08-10-extreme-hot-weather-continues-monday",
+      "first_seen": "2026-08-10T07:05:00+08:00",
+      "headline_en": "Extremely hot weather continues under Very Hot Weather Warning"
+    },
+    {
+      "key": "morse-park-football-brawl-aug9",
+      "id": "2026-08-10-morse-park-football-brawl",
+      "first_seen": "2026-08-10T07:06:00+08:00",
+      "headline_en": "Man injured in Morse Park football brawl; no arrests yet"
+    },
+    {
+      "key": "tin-hau-teens-cannabis-iron-knuckles-aug9",
+      "id": "2026-08-10-tin-hau-teens-cannabis-arrest",
+      "first_seen": "2026-08-10T07:07:00+08:00",
+      "headline_en": "Six teenagers arrested after boy found unconscious in Tin Hau flat with cannabis"
+    },
+    {
+      "key": "lifestyle-food-expo-2026-aug13",
+      "id": "2026-08-10-lifestyle-food-expo-2026",
+      "first_seen": "2026-08-10T07:08:00+08:00",
+      "headline_en": "Food Expo and concurrent fairs open at Convention Centre from 13 August"
     }
   ]
 }
