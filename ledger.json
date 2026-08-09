@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T07:10:17+08:00",
+  "updated_at": "2026-08-09T11:05:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -193,6 +193,12 @@
       "id": "2026-08-09-social-media-under16-regulation-calls",
       "first_seen": "2026-08-09T07:12:00+08:00",
       "headline_en": "Educators and experts urge stronger regulation of social media for under-16s"
+    },
+    {
+      "key": "workweek-weather-outlook-aug10",
+      "id": "2026-08-09-workweek-weather-outlook-aug10",
+      "first_seen": "2026-08-09T11:05:00+08:00",
+      "headline_en": "Extremely hot start to the work week, showers possible midweek"
     }
   ]
 }
