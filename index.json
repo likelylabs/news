@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-08-10T05:00:47+08:00",
+  "generated_at": "2026-08-10T07:04:01+08:00",
   "live_window_hours": 72,
-  "count": 45,
+  "count": 49,
   "articles": [
+    {
+      "id": "2026-08-10-lifestyle-food-expo-2026",
+      "published_at": "2026-08-10T07:08:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "food",
+        "exhibition",
+        "hktdc",
+        "wan-chai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-10/2026-08-10-lifestyle-food-expo-2026.json",
+      "en": {
+        "headline": "Food Expo and concurrent fairs open at Convention Centre from 13 August",
+        "dek": "The HKTDC event runs five days with more than 1,850 exhibitors from over 30 countries and regions; public tickets start from HK$30 and cover multiple concurrent shows."
+      },
+      "zh": {
+        "headline": "美食博覽8月13日起會展開鑼 一票行勻多展",
+        "dek": "貿發局主辦的第36屆美食博覽及同期展覽於灣仔會展舉行，超過1,850家展商參展，公眾館門票30元起。"
+      }
+    },
+    {
+      "id": "2026-08-10-tin-hau-teens-cannabis-arrest",
+      "published_at": "2026-08-10T07:07:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "drugs",
+        "cannabis",
+        "youth",
+        "tin-hau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-10/2026-08-10-tin-hau-teens-cannabis-arrest.json",
+      "en": {
+        "headline": "Six teenagers arrested after boy found unconscious in Tin Hau flat with cannabis",
+        "dek": "Police seized a small amount of suspected cannabis and a pair of iron knuckles after a 16-year-old was discovered semi-conscious in a toilet; the six, aged 13 to 18, face drug and weapons possession charges."
+      },
+      "zh": {
+        "headline": "天后單位16歲少年暈倒 警拘6青少年檢大麻及鐵蓮花",
+        "dek": "保安發現16歲少年半清醒倒卧廁所，警在單位檢獲少量懷疑大麻花及鐵蓮花，拘捕3男3女，年齡介乎13至18歲。"
+      }
+    },
+    {
+      "id": "2026-08-10-morse-park-football-brawl",
+      "published_at": "2026-08-10T07:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "assault",
+        "wong-tai-sin",
+        "football",
+        "morse-park"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-10/2026-08-10-morse-park-football-brawl.json",
+      "en": {
+        "headline": "Man injured in Morse Park football brawl; no arrests yet",
+        "dek": "A 43-year-old man reported being attacked by about 11 people during an amateur match at the Wong Tai Sin pitch on Sunday evening; police classified the case as assault occasioning actual bodily harm."
+      },
+      "zh": {
+        "headline": "摩士公園足球賽變群毆 43歲男子受傷暫無人被捕",
+        "dek": "黃大仙摩士公園周日晚業餘球賽發生衝突，43歲男子報稱遭約11人圍毆，左眼瘀傷、頭部流血，案件列襲擊致造成身體傷害。"
+      }
+    },
+    {
+      "id": "2026-08-10-extreme-hot-weather-continues-monday",
+      "published_at": "2026-08-10T07:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "very-hot-weather",
+        "heat",
+        "hko",
+        "dolphin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-10/2026-08-10-extreme-hot-weather-continues-monday.json",
+      "en": {
+        "headline": "Extremely hot weather continues under Very Hot Weather Warning",
+        "dek": "The Observatory said Tropical Cyclone Dolphin’s outer subsiding air will keep temperatures high today and tomorrow, with urban highs around 36°C and some New Territories areas reaching 37°C or above."
+      },
+      "zh": {
+        "headline": "酷熱天氣警告仍然生效 極端酷熱持續",
+        "dek": "天文台指熱帶氣旋白海豚外圍下沉氣流影響，今明兩日部分地區氣溫達37度或以上，市區最高約36度。"
+      }
+    },
     {
       "id": "2026-08-10-mtr-tiu-keng-leng-hand-trapped",
       "published_at": "2026-08-10T01:16:00+08:00",
