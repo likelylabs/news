@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T23:06:06+08:00",
+  "updated_at": "2026-08-10T01:16:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -271,6 +271,18 @@
       "id": "2026-08-09-village-house-burglary-gang",
       "first_seen": "2026-08-09T23:06:00+08:00",
       "headline_en": "Police arrest five over 19 village-house burglaries linked to illegal entrants"
+    },
+    {
+      "key": "heat-stress-warning-review-aug9",
+      "id": "2026-08-10-heat-stress-warning-system-review",
+      "first_seen": "2026-08-10T01:15:00+08:00",
+      "headline_en": "Labour Department to review heat-stress warning system after amber alert on record-hot day"
+    },
+    {
+      "key": "mtr-hand-trapped-door-tiu-keng-leng-aug7",
+      "id": "2026-08-10-mtr-tiu-keng-leng-hand-trapped",
+      "first_seen": "2026-08-10T01:16:00+08:00",
+      "headline_en": "MTR passenger’s hand trapped in train door while retrieving item from tracks"
     }
   ]
 }
