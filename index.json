@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-08-09T11:03:35+08:00",
+  "generated_at": "2026-08-09T13:08:31+08:00",
   "live_window_hours": 72,
-  "count": 50,
+  "count": 45,
   "articles": [
+    {
+      "id": "2026-08-09-five-year-plan-district-forum",
+      "published_at": "2026-08-09T13:12:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "five-year-plan",
+        "policy-address",
+        "john-lee",
+        "consultation",
+        "northern-metropolis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-09/2026-08-09-five-year-plan-district-forum.json",
+      "en": {
+        "headline": "Lee says independent building-maintenance agency worth considering",
+        "dek": "At the second district forum on Hong Kong’s first five-year plan and the 2026 Policy Address, the Chief Executive responded to public suggestions on housing, youth development and building repairs."
+      },
+      "zh": {
+        "headline": "李家超：獨立專業機構代辦樓宇維修值得考慮",
+        "dek": "特首李家超周日率領司局長出席第二場五年規劃及2026年施政報告地區諮詢會，回應市民就房屋、青年發展及樓宇維修等建議。"
+      }
+    },
+    {
+      "id": "2026-08-09-record-heat-temperature-aug9",
+      "published_at": "2026-08-09T13:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "very-hot-weather",
+        "heat",
+        "hko",
+        "record-temperature",
+        "dolphin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-09/2026-08-09-record-heat-temperature-aug9.json",
+      "en": {
+        "headline": "Observatory records 36.0°C, new high for the year",
+        "dek": "The Hong Kong Observatory headquarters logged 36.0 degrees Celsius by early afternoon on Sunday under the influence of Severe Typhoon Dolphin’s outer subsiding air, surpassing the previous 2026 peak."
+      },
+      "zh": {
+        "headline": "天文台錄36.0度創今年新高",
+        "dek": "受強颱風白海豚外圍下沉氣流影響，天文台總部周日中午前後錄得36.0度，刷新今年最高氣溫紀錄，新界多區超過37度。"
+      }
+    },
     {
       "id": "2026-08-09-workweek-weather-outlook-aug10",
       "published_at": "2026-08-09T11:05:00+08:00",
@@ -980,164 +1026,6 @@
       "zh": {
         "headline": "O記破三合會高利貸集團拘25人 年利率高達282%",
         "dek": "警方搗破一個由三合會操控的高利貸集團，一年間向約2,000人放債逾2億元，招攬年僅13歲青少年淋紅油追債，凍結約840萬元犯罪得益。"
-      }
-    },
-    {
-      "id": "2026-08-06-tsim-sha-tsui-murder-four-more-charged",
-      "published_at": "2026-08-06T13:08:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "murder",
-        "triad",
-        "tsim-sha-tsui",
-        "court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-06/2026-08-06-tsim-sha-tsui-murder-four-more-charged.json",
-      "en": {
-        "headline": "Four more men charged with murder over Tsim Sha Tsui bar killing",
-        "dek": "Four men aged 26 to 33 appeared in Kowloon City Magistrates’ Courts on Thursday and were remanded in custody until 29 October pending further investigation."
-      },
-      "zh": {
-        "headline": "尖沙咀酒吧命案再多4人被控謀殺 還押至10月",
-        "dek": "4名介乎26至33歲男子周四在九龍城裁判法院提堂，被控謀殺罪，暫不准保釋，還押至10月29日再訊。"
-      }
-    },
-    {
-      "id": "2026-08-06-stonecutters-bridge-body-found",
-      "published_at": "2026-08-06T13:07:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "drowning",
-        "stonecutters",
-        "kwai-chung",
-        "body"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-06/2026-08-06-stonecutters-bridge-body-found.json",
-      "en": {
-        "headline": "Man’s body recovered near Stonecutters Bridge, suspected drowning",
-        "dek": "A man aged about 40 was found floating in the sea near Stonecutters Bridge early this morning; clothes recovered at a nearby private pier suggest he may have been swimming."
-      },
-      "zh": {
-        "headline": "昂船洲大橋附近海面撈起男屍 疑游泳遇溺",
-        "dek": "今早8時許有人發現昂船洲大橋附近海面有人形物體載浮載沉，救援人員撈起一名約40歲男子，初步相信游泳期間遇溺。"
-      }
-    },
-    {
-      "id": "2026-08-06-clp-interim-results",
-      "published_at": "2026-08-06T13:06:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "clp",
-        "interim-results",
-        "energy",
-        "dividend"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-06/2026-08-06-clp-interim-results.json",
-      "en": {
-        "headline": "CLP first-half earnings rise 6.6% to HK$6.0 billion",
-        "dek": "The power utility reported total earnings of HK$5,997 million for the six months to June, with operating earnings before fair value movements up 9.7%, and declared an unchanged second interim dividend of 63 HK cents."
-      },
-      "zh": {
-        "headline": "中電上半年盈利升6.6%至近60億元",
-        "dek": "中電控股公布上半年總盈利59.97億元，按年升6.6%，計入公平價值變動前營運盈利升9.7%，派第二期中期股息每股0.63港元，與去年相同。"
-      }
-    },
-    {
-      "id": "2026-08-06-yellow-working-heat-stress-warning",
-      "published_at": "2026-08-06T13:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "heat-stress",
-        "labour-department",
-        "hot-weather",
-        "very-hot"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-06/2026-08-06-yellow-working-heat-stress-warning.json",
-      "en": {
-        "headline": "Yellow Working Heat Stress Warning issued at midday",
-        "dek": "The Labour Department activated the Yellow Working Heat Stress Warning shortly after midday as heat stress levels rose under the ongoing Very Hot Weather Warning."
-      },
-      "zh": {
-        "headline": "黃色工作暑熱警告中午生效",
-        "dek": "勞工處中午約12時26分發出黃色工作暑熱警告，表示部分工作環境的熱壓力頗高，酷熱天氣警告同時生效。"
-      }
-    },
-    {
-      "id": "2026-08-06-chinese-chamber-five-year-plan",
-      "published_at": "2026-08-06T11:07:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "five-year-plan",
-        "chinese-chamber",
-        "northern-metropolis",
-        "population",
-        "policy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-06/2026-08-06-chinese-chamber-five-year-plan.json",
-      "en": {
-        "headline": "Chinese Chamber urges population of 10 million and annual plan review",
-        "dek": "The Chinese General Chamber of Commerce submitted more than 60 recommendations on Hong Kong’s first five-year plan, including a target of 10 million residents within a decade and a standing committee to review…"
-      },
-      "zh": {
-        "headline": "中總倡十年人口達千萬 五年規劃設一年一檢委會",
-        "dek": "香港中華總商會就首份五年規劃及施政報告提出逾60項建議，包括未來十年逐步提升人口至1,000萬配合北都發展，並成立常設委員會每年檢視進度。"
-      }
-    },
-    {
-      "id": "2026-08-06-fake-evisa-websites-warning",
-      "published_at": "2026-08-06T11:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "privacy",
-        "scam",
-        "visa",
-        "pcpd",
-        "travel"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-06/2026-08-06-fake-evisa-websites-warning.json",
-      "en": {
-        "headline": "Privacy chief warns of fake e-visa sites after 16 cases",
-        "dek": "The Privacy Commissioner for Personal Data said 16 enquiries or complaints about fraudulent electronic-visa websites were received in three months, with losses of a few hundred to more than HK$1,700 per case."
-      },
-      "zh": {
-        "headline": "假電子簽證網站湧現 私隱署三個月接16宗",
-        "dek": "私隱專員鍾麗玲表示過去三個月接獲16宗假冒電子簽證網站查詢或投訴，主要涉美、英、泰旅遊簽證，損失數百至一千七百多元，呼籲勿盡信搜尋引擎置頂結果。"
-      }
-    },
-    {
-      "id": "2026-08-06-diamond-hill-salt-water-pipe-leak",
-      "published_at": "2026-08-06T11:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "water-supplies",
-        "diamond-hill",
-        "wsd",
-        "flush-water"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-06/2026-08-06-diamond-hill-salt-water-pipe-leak.json",
-      "en": {
-        "headline": "Salt-water pipe leak near Chi Lin Nunnery disrupts flush supply",
-        "dek": "The Water Supplies Department is repairing a 300 mm salt-water main on Fung Tak Road after a leak reported in the early hours, affecting flush water to the Hammer Hill Road area."
-      },
-      "zh": {
-        "headline": "鑽石山鳳德道鹹水管滲漏 沖廁水受影響",
-        "dek": "水務署凌晨接報鑽石山鳳德道近志蓮淨苑有水管滲漏，確認為300毫米鹹水管，正維修並盡快恢復斧山道近瓊東街一帶沖廁水供應。"
       }
     }
   ]
