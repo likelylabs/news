@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-09T15:04:32+08:00",
+  "generated_at": "2026-08-09T15:04:54+08:00",
   "live_window_hours": 72,
-  "count": 47,
+  "count": 48,
   "articles": [
+    {
+      "id": "2026-08-09-paul-chan-mega-events-h2",
+      "published_at": "2026-08-09T15:07:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "paul-chan",
+        "mega-events",
+        "tourism",
+        "retail",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-09/2026-08-09-paul-chan-mega-events-h2.json",
+      "en": {
+        "headline": "Paul Chan expects over 100 mega events in second half to draw 1.85 million visitors",
+        "dek": "The Financial Secretary said first-half events already attracted 1.75 million participants and generated about HK$5.8 billion in spending, with retail sales rising for 14 consecutive months."
+      },
+      "zh": {
+        "headline": "陳茂波：下半年逾100項盛事料吸185萬旅客",
+        "dek": "財政司司長在網誌表示，上半年盛事已吸引175萬人次參與並帶來約58億元消費，零售業總銷貨價值連升14個月。"
+      }
+    },
     {
       "id": "2026-08-09-triad-laundering-rapidhorse",
       "published_at": "2026-08-09T15:06:00+08:00",
