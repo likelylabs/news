@@ -22,8 +22,12 @@ LEDGER_PATH = REPO / "ledger.json"
 # Must be >= index live window (72h) so nothing vanishes from a live index early.
 ARTICLE_RETENTION_DAYS = 14
 # Keep dedup keys this long — longer than the live window so a story that just
-# rolled off the front page isn't re-reported as "new".
-LEDGER_RETENTION_DAYS = 5
+# rolled off the front page isn't re-reported as "new". Matched to the article
+# retention window: dedup memory now lasts exactly as long as the files on disk,
+# which also stops a long-running lifestyle subject (an exhibition that runs for
+# weeks, a shop that keeps getting written up) being re-covered once its first
+# piece ages out.
+LEDGER_RETENTION_DAYS = 14
 
 HKT = timezone(timedelta(hours=8))
 

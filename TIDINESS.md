@@ -30,7 +30,7 @@ schema/example-article.json         an illustrative sample (not a live story)
   event written two different ways still collides. If a candidate's key is
   already in the ledger, **skip it.**
 - After publishing, append `{ "key", "id", "first_seen", "headline_en" }`.
-- Old keys age out automatically (5-day retention) — don't prune by hand.
+- Old keys age out automatically (14-day retention) — don't prune by hand.
 
 ## index.json is generated — never hand-edit it
 
@@ -43,7 +43,7 @@ the file.
 ## Retention is automatic
 
 `tools/prune.py` (also run by the Action) deletes article files older than
-**14 days** and trims ledger keys older than **5 days**. Git history is the
+**14 days** and trims ledger keys older than **14 days**. Git history is the
 permanent archive, so nothing is truly lost. Don't delete articles manually
 to "clean up" — let prune do it, and never delete a live article to hide a
 mistake.
