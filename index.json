@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-09T15:04:15+08:00",
+  "generated_at": "2026-08-09T15:04:32+08:00",
   "live_window_hours": 72,
-  "count": 46,
+  "count": 47,
   "articles": [
+    {
+      "id": "2026-08-09-triad-laundering-rapidhorse",
+      "published_at": "2026-08-09T15:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "triad",
+        "money-laundering",
+        "organised-crime",
+        "rapidhorse"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-09/2026-08-09-triad-laundering-rapidhorse.json",
+      "en": {
+        "headline": "Police arrest 147 in triad syndicate linked to HK$600 million laundering",
+        "dek": "A citywide operation code-named Rapidhorse dismantled an alleged triad network running drug dens and illegal gambling, with officers seizing cash, jewellery and weapons after tracing criminal proceeds through puppet…"
+      },
+      "zh": {
+        "headline": "O記搗三合會洗黑錢集團拘147人 涉逾6億元",
+        "dek": "警方代號「捷駒」行動搗破懷疑三合會集團經營毒窟及賭檔，利用傀儡戶口清洗逾6億元犯罪得益，拘捕包括主腦在內共147人。"
+      }
+    },
     {
       "id": "2026-08-09-alltime-heat-record-aug9",
       "published_at": "2026-08-09T15:05:00+08:00",
