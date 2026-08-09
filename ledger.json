@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T15:04:54+08:00",
+  "updated_at": "2026-08-09T15:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -211,6 +211,24 @@
       "id": "2026-08-09-five-year-plan-district-forum",
       "first_seen": "2026-08-09T13:12:00+08:00",
       "headline_en": "Lee says independent building-maintenance agency worth considering"
+    },
+    {
+      "key": "alltime-heat-record-aug9-2026",
+      "id": "2026-08-09-alltime-heat-record-aug9",
+      "first_seen": "2026-08-09T15:05:00+08:00",
+      "headline_en": "Observatory records 36.8°C, hottest day since records began in 1884"
+    },
+    {
+      "key": "triad-laundering-rapidhorse-aug2026",
+      "id": "2026-08-09-triad-laundering-rapidhorse",
+      "first_seen": "2026-08-09T15:06:00+08:00",
+      "headline_en": "Police arrest 147 in triad syndicate linked to HK$600 million laundering"
+    },
+    {
+      "key": "paul-chan-mega-events-outlook-h2-2026",
+      "id": "2026-08-09-paul-chan-mega-events-h2",
+      "first_seen": "2026-08-09T15:07:00+08:00",
+      "headline_en": "Paul Chan expects over 100 mega events in second half to draw 1.85 million visitors"
     }
   ]
 }
