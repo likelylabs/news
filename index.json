@@ -1,8 +1,122 @@
 {
-  "generated_at": "2026-08-09T15:05:55+08:00",
+  "generated_at": "2026-08-09T21:08:44+08:00",
   "live_window_hours": 72,
-  "count": 47,
+  "count": 49,
   "articles": [
+    {
+      "id": "2026-08-09-five-year-plan-september-target",
+      "published_at": "2026-08-09T21:12:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "five-year-plan",
+        "policy-address",
+        "john-lee",
+        "consultation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-09/2026-08-09-five-year-plan-september-target.json",
+      "en": {
+        "headline": "Lee targets September release for Hong Kong’s first five-year plan",
+        "dek": "After a district consultation forum, the Chief Executive said the government aims to publish the plan within the third quarter and wants the subsequent Policy Address issued as soon as possible afterwards."
+      },
+      "zh": {
+        "headline": "李家超：目標9月內發表香港首份五年規劃",
+        "dek": "特首出席地區諮詢會後表示，五年規劃諮詢本周五結束，政府目標於第三季即9月內發表，其後盡快公布施政報告。"
+      }
+    },
+    {
+      "id": "2026-08-09-tai-po-hiker-death",
+      "published_at": "2026-08-09T21:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "heat",
+        "hiking",
+        "tai-po",
+        "plover-cove",
+        "rescue"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-09/2026-08-09-tai-po-hiker-death.json",
+      "en": {
+        "headline": "Hiker dies after collapsing on Plover Cove Reservoir Country Trail",
+        "dek": "A 64-year-old Filipino man holding a Hong Kong identity card was found unconscious on the trail near Tai Po on Sunday afternoon and was certified dead while being airlifted; police are investigating whether heat…"
+      },
+      "zh": {
+        "headline": "大埔船灣郊遊徑男子暈倒 直升機送院途中不治",
+        "dek": "周日下午一名64歲持香港身份證的菲律賓籍男子於船灣淡水湖郊遊徑被發現昏迷，飛行服務隊直升機送院途中證實不治，警方調查是否與中暑有關。"
+      }
+    },
+    {
+      "id": "2026-08-09-five-year-old-flu-severe",
+      "published_at": "2026-08-09T21:10:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "influenza",
+        "flu",
+        "children",
+        "chp",
+        "sepsis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-09/2026-08-09-five-year-old-flu-severe.json",
+      "en": {
+        "headline": "Five-year-old with chronic illness in serious condition after influenza A",
+        "dek": "The Centre for Health Protection is investigating a case of influenza A (H1) complicated by sepsis; the girl, who had received the 2025/26 seasonal vaccine, remains in the paediatric intensive care unit at Tuen Mun…"
+      },
+      "zh": {
+        "headline": "5歲長期病患女童染甲流併發敗血症 情况嚴重",
+        "dek": "衞生防護中心調查一宗兒童甲型流感嚴重個案，女童已接種2025/26年度季節性流感疫苗，現於屯門醫院兒童深切治療部留醫，情况嚴重。"
+      }
+    },
+    {
+      "id": "2026-08-09-taikoo-shing-ac-fire",
+      "published_at": "2026-08-09T21:09:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "taikoo-shing",
+        "harbour-view-gardens",
+        "air-conditioner",
+        "evacuation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-09/2026-08-09-taikoo-shing-ac-fire.json",
+      "en": {
+        "headline": "Air-conditioner fire at Taikoo Shing sends 16 to hospital",
+        "dek": "A suspected short-circuit in a split-type air-conditioner on the 20th floor of Begonia Mansion at Harbour View Gardens caused heavy smoke on Sunday afternoon; about 300 residents were evacuated and more than 20 waited…"
+      },
+      "zh": {
+        "headline": "太古城海棠閣冷氣機起火 16人不適送院",
+        "dek": "周日下午海景花園海棠閣20樓單位懷疑分體式冷氣機電線短路起火，冒出大量濃煙，約300人疏散，逾20人暫上天台，16人不適送院。"
+      }
+    },
+    {
+      "id": "2026-08-09-alltime-heat-record-369",
+      "published_at": "2026-08-09T21:08:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "very-hot-weather",
+        "heat",
+        "hko",
+        "record-temperature",
+        "dolphin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-09/2026-08-09-alltime-heat-record-369.json",
+      "en": {
+        "headline": "Observatory records 36.9°C, new all-time high since 1884",
+        "dek": "Under Severe Typhoon Dolphin’s outer subsiding air, the Hong Kong Observatory headquarters reached 36.9 degrees Celsius by mid-afternoon, while Sheung Shui hit 39.7–39.8 degrees, the highest at any automatic station…"
+      },
+      "zh": {
+        "headline": "天文台錄36.9度再破有紀錄最高溫 上水見39.8度",
+        "dek": "受強颱風白海豚外圍下沉氣流影響，天文台總部周日下午錄得36.9度，刷新1884年有紀錄以來最高氣溫，上水自動氣象站更高見39.7至39.8度。"
+      }
+    },
     {
       "id": "2026-08-09-paul-chan-mega-events-h2",
       "published_at": "2026-08-09T15:07:00+08:00",
@@ -1003,75 +1117,6 @@
       "zh": {
         "headline": "新一批銀色債券保證息率4.25厘 最高發行額550億",
         "dek": "第11批銀債目標發行額500億元，可視乎認購反應上調至550億元；1967年或之前出生居民可於8月21日起認購，9月15日發行。"
-      }
-    },
-    {
-      "id": "2026-08-06-swire-pacific-interim-results",
-      "published_at": "2026-08-06T15:08:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "swire",
-        "interim-results",
-        "property",
-        "dividend",
-        "aviation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-06/2026-08-06-swire-pacific-interim-results.json",
-      "en": {
-        "headline": "Swire Pacific first-half underlying profit rises 43% to HK$7.84 billion",
-        "dek": "The conglomerate reported higher contributions from property, beverages and aviation, declared an increased interim dividend and said it is making its largest-ever investments across businesses."
-      },
-      "zh": {
-        "headline": "太古上半年基本溢利升43%至78.4億元 中期息增15%",
-        "dek": "太古股份公司公布中期業績，基本溢利78.43億元，地產、飲料及航空業務均有改善，A股派中期息1.5元。"
-      }
-    },
-    {
-      "id": "2026-08-06-cuhk-five-year-strategy-plan",
-      "published_at": "2026-08-06T15:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "cuhk",
-        "education",
-        "five-year-plan",
-        "postgraduate",
-        "research"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-06/2026-08-06-cuhk-five-year-strategy-plan.json",
-      "en": {
-        "headline": "CUHK unveils five-year plan with new postgraduate college",
-        "dek": "The Chinese University of Hong Kong will establish a tenth college dedicated to postgraduate students and reform general education to integrate national education with a global outlook under its 2026–2030 strategy."
-      },
-      "zh": {
-        "headline": "中大公布五年策略計劃 將設研究生書院增至10所",
-        "dek": "中文大學發布《中大2026-2030》策略計劃，成立第10所書院專供研究生，並革新通識教育融合國民教育與全球視野。"
-      }
-    },
-    {
-      "id": "2026-08-06-mtr-tuen-ma-line-signal-fault",
-      "published_at": "2026-08-06T15:06:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "tuen-ma-line",
-        "signal-fault",
-        "kam-sheung-road",
-        "delay"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-06/2026-08-06-mtr-tuen-ma-line-signal-fault.json",
-      "en": {
-        "headline": "Tuen Ma Line delays after signal fault near Kam Sheung Road",
-        "dek": "Services between Hung Hom and Tuen Mun were disrupted for about an hour on Thursday afternoon after signalling equipment failed, with journey times extended by up to 30 minutes before normal operations resumed."
-      },
-      "zh": {
-        "headline": "屯馬綫錦上路站附近信號故障 紅磡至屯門一度延誤",
-        "dek": "港鐵下午1時許因錦上路站附近信號設備故障實施雙向行車，紅磡至屯門行車時間最多額外30分鐘，約2時23分修復後服務逐步恢復。"
       }
     }
   ]
