@@ -48,7 +48,7 @@ jobs:
       url: ${{ steps.resolve.outputs.page_url }}
     steps:
       - name: Checkout main tip
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           # main's TIP, not workflow_run.head_sha — head_sha is the article
           # commit; build-news-index then pushes the "[skip ci]" index-rebuild
@@ -91,9 +91,9 @@ jobs:
           test -f _site/.nojekyll  || { echo "::error::.nojekyll missing from artifact";  exit 1; }
           test -f _site/index.json || { echo "::error::index.json missing from artifact"; exit 1; }
 
-      - uses: actions/configure-pages@v5
+      - uses: actions/configure-pages@v6
         if: steps.gate.outputs.go == 'true'
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         if: steps.gate.outputs.go == 'true'
         with:
           path: _site
@@ -105,7 +105,7 @@ jobs:
         id: d1
         if: steps.gate.outputs.go == 'true'
         continue-on-error: true
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
         with:
           timeout: 300000
 
@@ -117,7 +117,7 @@ jobs:
         id: d2
         if: steps.gate.outputs.go == 'true' && steps.d1.outcome == 'failure'
         continue-on-error: true
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
         with:
           timeout: 300000
 
@@ -129,7 +129,7 @@ jobs:
         id: d3
         if: steps.gate.outputs.go == 'true' && steps.d1.outcome == 'failure' && steps.d2.outcome == 'failure'
         continue-on-error: true
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
         with:
           timeout: 300000
 

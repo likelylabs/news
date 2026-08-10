@@ -29,22 +29,50 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - name: Prune old articles + trim ledger
-        run: python3 tools/prune.py
-
-      - name: Validate articles + rebuild index.json
-        run: python3 tools/build_index.py
-
-      - name: Commit regenerated index (and any pruning)
+      # Prune + rebuild + push, retried against a moving main.
+      #
+      # The `concurrency` group above serialises this workflow against itself,
+      # but NOT against the news automation, which commits each article in its
+      # own push. A run that checks out at commit A while the automation pushes
+      # commit B gets "cannot lock ref 'refs/heads/main'" and dies with a stale
+      # index left live.
+      #
+      # index.json is 100% derived from the article files, so there is nothing
+      # to merge: on a rejected push we throw our commit away, hard-reset to the
+      # new tip, and recompute from that tree. The last attempt to land wins and
+      # is correct by construction.
+      #
+      # prune.py / build_index.py failures are NOT retried — the shell's -e
+      # aborts the run immediately, so a malformed article still fails loudly
+      # and leaves the live index untouched.
+      - name: Prune, validate, rebuild index.json, and commit
         run: |
           git config user.name  "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
-          if [ -n "$(git status --porcelain)" ]; then
+
+          for attempt in 1 2 3 4 5; do
+            python3 tools/prune.py
+            python3 tools/build_index.py
+
+            if [ -z "$(git status --porcelain)" ]; then
+              echo "Nothing to commit — index already current."
+              exit 0
+            fi
+
             git add -A
             git commit -m "chore(index): rebuild index + prune [skip ci]"
-            git push
-          else
-            echo "Nothing to commit — index already current."
-          fi
+
+            if git push; then
+              exit 0
+            fi
+
+            echo "::notice::push rejected on attempt ${attempt}/5 — main moved under us (the news automation pushed mid-build). Resetting and recomputing."
+            git fetch origin main
+            git reset --hard origin/main
+            sleep $(( attempt * 5 ))
+          done
+
+          echo "::error::could not land the regenerated index after 5 attempts — main is being pushed to faster than the index can be rebuilt."
+          exit 1
