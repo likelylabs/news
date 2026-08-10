@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-08-10T13:04:36+08:00",
+  "generated_at": "2026-08-10T21:06:06+08:00",
   "live_window_hours": 72,
-  "count": 50,
+  "count": 46,
   "articles": [
+    {
+      "id": "2026-08-10-tsuen-wan-community-living-room",
+      "published_at": "2026-08-10T21:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community-living-room",
+        "tsuen-wan",
+        "subdivided-flats",
+        "chan-kwok-ki",
+        "welfare"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-10/2026-08-10-tsuen-wan-community-living-room.json",
+      "en": {
+        "headline": "Hong Kong’s largest community living room opens in Tsuen Wan",
+        "dek": "The 7,000-square-foot facility is the sixth new living room opened this year and is expected to serve about 610 subdivided-flat households, Chief Secretary Chan Kwok-ki said."
+      },
+      "zh": {
+        "headline": "全港最大社區客廳在荃灣開幕",
+        "dek": "政務司司長陳國基表示，實用面積約7,000平方呎的荃灣社區客廳是今年第六間新設施，料可惠及約610個劏房戶。"
+      }
+    },
+    {
+      "id": "2026-08-10-infant-flu-critical-aug10",
+      "published_at": "2026-08-10T21:09:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "influenza",
+        "flu",
+        "children",
+        "chp",
+        "sepsis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-10/2026-08-10-infant-flu-critical-aug10.json",
+      "en": {
+        "headline": "20-month-old infant in critical condition after influenza A and septic shock",
+        "dek": "The Centre for Health Protection is investigating the case of a previously healthy boy who developed fever and convulsions; he remains in paediatric intensive care at Queen Elizabeth Hospital."
+      },
+      "zh": {
+        "headline": "20個月大男嬰染甲流併發敗血性休克危殆",
+        "dek": "衞生防護中心調查一宗兒童甲型流感嚴重個案，男嬰過往健康良好，現於伊利沙伯醫院兒童深切治療部留醫，情况危殆。"
+      }
+    },
+    {
+      "id": "2026-08-10-lam-tei-reservoir-drowning",
+      "published_at": "2026-08-10T21:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "drowning",
+        "tuen-mun",
+        "reservoir",
+        "rescue"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-10/2026-08-10-lam-tei-reservoir-drowning.json",
+      "en": {
+        "headline": "Man dies after suspected drowning at Tuen Mun’s Lam Tei Reservoir",
+        "dek": "Firefighters recovered a man in his 30s from the water near the dam outlet on Monday afternoon; he was certified dead at the scene and police are investigating the circumstances."
+      },
+      "zh": {
+        "headline": "屯門藍地水塘男子疑遇溺不治",
+        "dek": "周一午後一名年約30多歲男子在藍地水塘水壩放水口附近載浮載沉，消防救起後當場證實死亡，警方正調查身分及原因。"
+      }
+    },
     {
       "id": "2026-08-10-35-plus-cfa-certificate",
       "published_at": "2026-08-10T13:07:00+08:00",
@@ -977,165 +1045,6 @@
       "zh": {
         "headline": "宏福苑跨部門最終報告：煙頭極可能引燃大火",
         "dek": "獨立委員會上載跨部門調查專組最終報告，指火勢極可能由未熄滅煙頭點燃宏昌閣平台堆積的建築雜物引起。"
-      }
-    },
-    {
-      "id": "2026-08-07-yellow-working-heat-stress-aug7",
-      "published_at": "2026-08-07T15:14:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "heat-stress",
-        "labour-department",
-        "very-hot",
-        "working-warning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-07/2026-08-07-yellow-working-heat-stress-aug7.json",
-      "en": {
-        "headline": "Yellow Working Heat Stress Warning issued this afternoon",
-        "dek": "The Labour Department activated the Yellow Working Heat Stress Warning around 1.15pm as heat-stress levels rose under the ongoing Very Hot Weather Warning, advising employers to arrange rest breaks for outdoor and…"
-      },
-      "zh": {
-        "headline": "黃色工作暑熱警告下午生效",
-        "dek": "勞工處下午約1時15分發出黃色工作暑熱警告，表示部分工作環境熱壓力頗高；酷熱天氣警告同時生效，僱主應安排適當休息時間。"
-      }
-    },
-    {
-      "id": "2026-08-07-tsuen-wan-guo-rui-road-water-burst",
-      "published_at": "2026-08-07T15:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "water-supplies",
-        "tsuen-wan",
-        "pipe-burst",
-        "guo-rui-road",
-        "construction"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-07/2026-08-07-tsuen-wan-guo-rui-road-water-burst.json",
-      "en": {
-        "headline": "Tsuen Wan construction site water main burst sends jet tens of metres high",
-        "dek": "An underground water pipe ruptured at a roadside works site on Guo Rui Road near Summit Terrace around 11am, producing a water column estimated at about ten storeys high; the Water Supplies Department is carrying out…"
-      },
-      "zh": {
-        "headline": "荃灣國瑞路工地爆水管 水柱高約十層樓",
-        "dek": "周五上午11時許，荃灣國瑞路近昇柏山對開路邊工地有地底水管爆裂，水柱噴高約十層樓，水務署已到場關掣搶修。"
-      }
-    },
-    {
-      "id": "2026-08-07-hk69m-mainland-official-scam",
-      "published_at": "2026-08-07T15:12:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "fraud",
-        "scam",
-        "police",
-        "western-district",
-        "money-laundering"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-07/2026-08-07-hk69m-mainland-official-scam.json",
-      "en": {
-        "headline": "Woman loses nearly HK$69 million to scammers posing as mainland officials",
-        "dek": "A 43-year-old Hong Kong woman transferred about HK$68.9 million over a month after callers claiming to be mainland law-enforcement officers accused her of a crime and demanded money to prove her innocence."
-      },
-      "zh": {
-        "headline": "女子墮假冒內地官員騙局 損失近6,900萬元",
-        "dek": "一名43歲香港女子接獲自稱內地執法人員來電，指她涉案並要求轉帳「保證金」，一個月內合共轉出約6,890萬元至指定帳戶。"
-      }
-    },
-    {
-      "id": "2026-08-07-hkmca-boc-life-referral",
-      "published_at": "2026-08-07T13:08:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hkmca",
-        "boc-life",
-        "annuity",
-        "retirement",
-        "referral"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-07/2026-08-07-hkmca-boc-life-referral.json",
-      "en": {
-        "headline": "HKMCA authorises BOC Life intermediaries to refer annuity plan",
-        "dek": "Designated licensed insurance intermediaries of BOC Group Life Assurance may now introduce the HKMC Annuity Plan to customers and refer eligible clients under a new partnership announced Friday."
-      },
-      "zh": {
-        "headline": "年金公司與中銀人壽合作 授權中介介紹年金計劃",
-        "dek": "香港按揭證券有限公司全資附屬的年金公司周五公布，中銀人壽指定持牌保險中介可向客戶介紹年金計劃並轉介合資格客戶。"
-      }
-    },
-    {
-      "id": "2026-08-07-north-point-water-main-burst",
-      "published_at": "2026-08-07T13:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "water-supplies",
-        "north-point",
-        "pipe-burst",
-        "fuk-yan-road",
-        "supply"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-07/2026-08-07-north-point-water-main-burst.json",
-      "en": {
-        "headline": "North Point water main burst disrupts supply on Fuk Yan Road",
-        "dek": "A 250 mm fresh-water main burst at the junction of King Wah Road and Fuk Yan Road early Friday, cutting supply to nearby residences and shops; most service was restored by late morning with repairs continuing."
-      },
-      "zh": {
-        "headline": "北角福蔭道食水管爆裂 附近一度停水",
-        "dek": "周五早上京華道與福蔭道交界一條250毫米食水管爆裂，附近住宅及食肆食水供應受影響，大部分用戶上午已恢復，搶修仍在進行。"
-      }
-    },
-    {
-      "id": "2026-08-07-airport-yacht-bay-water-recreation",
-      "published_at": "2026-08-07T13:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "airport-authority",
-        "yacht-bay",
-        "water-recreation",
-        "tung-chung",
-        "hzmb"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-07/2026-08-07-airport-yacht-bay-water-recreation.json",
-      "en": {
-        "headline": "Government gazettes water recreation and yacht bay works near airport",
-        "dek": "Proposed works by the Airport Authority in the bay between the airport, the Hong Kong-Zhuhai-Macao Bridge Hong Kong Port and Tung Chung aim to create leisure and tourism facilities, with construction tentatively from…"
-      },
-      "zh": {
-        "headline": "政府刊憲機場附近水上康樂及遊艇港灣工程",
-        "dek": "機管局擬於機場、港珠澳大橋香港口岸與東涌之間海灣進行水上康樂及遊艇港灣發展工程，暫訂2027年展開、2030年完成。"
-      }
-    },
-    {
-      "id": "2026-08-07-election-committee-polling-date",
-      "published_at": "2026-08-07T13:05:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "election-committee",
-        "polling-date",
-        "nomination",
-        "gazette"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-07/2026-08-07-election-committee-polling-date.json",
-      "en": {
-        "headline": "Election Committee subsector polls set for 22 November",
-        "dek": "The Chief Executive has gazetted Sunday 22 November as the polling day for the 2026 Election Committee Subsector Ordinary Elections, with nominations running from 7 to 20 October."
-      },
-      "zh": {
-        "headline": "選委會界別分組選舉投票日定11月22日",
-        "dek": "行政長官已刊憲指明2026年11月22日為選舉委員會界別分組一般選舉投票日，提名期由10月7日至20日。"
       }
     }
   ]
