@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T01:06:59+08:00",
+  "updated_at": "2026-08-11T01:13:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -373,6 +373,24 @@
       "id": "2026-08-10-uber-elite-kwoon-chung-launch",
       "first_seen": "2026-08-10T23:07:00+08:00",
       "headline_en": "Uber launches first Asia-Pacific Elite premium service with Kwoon Chung"
+    },
+    {
+      "key": "extreme-hot-weather-continues-aug11",
+      "id": "2026-08-11-extreme-hot-weather-continues-tuesday",
+      "first_seen": "2026-08-11T01:10:00+08:00",
+      "headline_en": "Extremely hot weather continues under Very Hot Weather Warning"
+    },
+    {
+      "key": "customs-airport-cannabis-4kg-aug10",
+      "id": "2026-08-11-customs-airport-cannabis-4kg",
+      "first_seen": "2026-08-11T01:11:00+08:00",
+      "headline_en": "Customs seizes 4kg of suspected cannabis buds at airport, arrests mainland man"
+    },
+    {
+      "key": "tai-lam-women-prison-assault-aug10",
+      "id": "2026-08-11-tai-lam-women-prison-assault",
+      "first_seen": "2026-08-11T01:12:00+08:00",
+      "headline_en": "Remand prisoner attacks staff at Tai Lam Centre for Women; both injured"
     }
   ]
 }
