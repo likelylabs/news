@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-08-10T07:04:01+08:00",
+  "generated_at": "2026-08-10T09:03:40+08:00",
   "live_window_hours": 72,
-  "count": 49,
+  "count": 51,
   "articles": [
+    {
+      "id": "2026-08-10-lifestyle-commune-causeway-bay",
+      "published_at": "2026-08-10T09:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "restaurant",
+        "causeway-bay",
+        "opening"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-10/2026-08-10-lifestyle-commune-causeway-bay.json",
+      "en": {
+        "headline": "Mainland bar-restaurant chain Commune opens first Hong Kong outlet",
+        "dek": "The flagship store at Lee Garden Three in Causeway Bay marks the start of the chain’s overseas expansion, with plans for more locations and a regional headquarters in the city."
+      },
+      "zh": {
+        "headline": "內地酒吧餐廳連鎖Commune首店進駐銅鑼灣",
+        "dek": "旗艦店位於利園三期，計劃一年內再開分店，並在港設立地區總部統籌海外擴展。"
+      }
+    },
+    {
+      "id": "2026-08-10-uniformed-groups-membership-drop",
+      "published_at": "2026-08-10T09:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "youth",
+        "uniformed-groups",
+        "home-youth-affairs",
+        "membership",
+        "scouts"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-10/2026-08-10-uniformed-groups-membership-drop.json",
+      "en": {
+        "headline": "Youth membership in uniformed groups falls 8% over five years",
+        "dek": "Home and Youth Affairs Bureau figures show total membership across 11 subsidised groups dropped from 117,671 to 108,551 between 2020-21 and 2024-25, linked to low birth rates."
+      },
+      "zh": {
+        "headline": "制服團體青年會員五年跌8% 出生率低為主因",
+        "dek": "民政及青年事務局數字顯示，11個受資助制服團體會員由2020-21年11.7萬人降至2024-25年10.8萬人，十年間跌近18%。"
+      }
+    },
     {
       "id": "2026-08-10-lifestyle-food-expo-2026",
       "published_at": "2026-08-10T07:08:00+08:00",
