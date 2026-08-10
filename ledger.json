@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T21:06:06+08:00",
+  "updated_at": "2026-08-10T21:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -337,6 +337,24 @@
       "id": "2026-08-10-35-plus-cfa-certificate",
       "first_seen": "2026-08-10T13:07:00+08:00",
       "headline_en": "Court of Appeal grants 11 defendants certificate to seek CFA leave in 35+ case"
+    },
+    {
+      "key": "lam-tei-reservoir-drowning-aug10",
+      "id": "2026-08-10-lam-tei-reservoir-drowning",
+      "first_seen": "2026-08-10T21:08:00+08:00",
+      "headline_en": "Man dies after suspected drowning at Tuen Mun’s Lam Tei Reservoir"
+    },
+    {
+      "key": "infant-flu-critical-aug10",
+      "id": "2026-08-10-infant-flu-critical-aug10",
+      "first_seen": "2026-08-10T21:09:00+08:00",
+      "headline_en": "20-month-old infant in critical condition after influenza A and septic shock"
+    },
+    {
+      "key": "tsuen-wan-community-living-room-opening",
+      "id": "2026-08-10-tsuen-wan-community-living-room",
+      "first_seen": "2026-08-10T21:10:00+08:00",
+      "headline_en": "Hong Kong’s largest community living room opens in Tsuen Wan"
     }
   ]
 }
