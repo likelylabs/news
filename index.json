@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-08-10T23:04:06+08:00",
+  "generated_at": "2026-08-11T01:06:59+08:00",
   "live_window_hours": 72,
-  "count": 46,
+  "count": 47,
   "articles": [
+    {
+      "id": "2026-08-11-tai-lam-women-prison-assault",
+      "published_at": "2026-08-11T01:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "correctional-services",
+        "prison",
+        "assault",
+        "tai-lam",
+        "women"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-11/2026-08-11-tai-lam-women-prison-assault.json",
+      "en": {
+        "headline": "Remand prisoner attacks staff at Tai Lam Centre for Women; both injured",
+        "dek": "A 35-year-old woman held on remand for possessing Part I poison allegedly assaulted a correctional officer in a reception room on Monday afternoon; both were taken to hospital."
+      },
+      "zh": {
+        "headline": "大欖女懲教所還押女子襲擊職員 雙方受傷送院",
+        "dek": "一名35歲因管有第I部毒藥罪還押的女子周一在收押室突然情緒失控襲擊懲教人員，雙方均受傷送院。"
+      }
+    },
+    {
+      "id": "2026-08-11-customs-airport-cannabis-4kg",
+      "published_at": "2026-08-11T01:11:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "airport",
+        "cannabis",
+        "drugs",
+        "trafficking"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-11/2026-08-11-customs-airport-cannabis-4kg.json",
+      "en": {
+        "headline": "Customs seizes 4kg of suspected cannabis buds at airport, arrests mainland man",
+        "dek": "A 28-year-old mainland passenger arriving from Bangkok was arrested after officers found about 4 kilograms of suspected cannabis buds worth an estimated HK$900,000 in his checked luggage."
+      },
+      "zh": {
+        "headline": "海關機場檢4公斤懷疑大麻花 拘28歲內地男子",
+        "dek": "一名28歲內地男旅客由曼谷抵港，海關在其寄艙行李箱內發現約4公斤懷疑大麻花，估計市值約90萬元，男子已被捕。"
+      }
+    },
+    {
+      "id": "2026-08-11-extreme-hot-weather-continues-tuesday",
+      "published_at": "2026-08-11T01:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "very-hot-weather",
+        "heat",
+        "hko",
+        "dolphin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-11/2026-08-11-extreme-hot-weather-continues-tuesday.json",
+      "en": {
+        "headline": "Extremely hot weather continues under Very Hot Weather Warning",
+        "dek": "The Observatory expects mainly fine and extremely hot conditions on Tuesday, with some areas reaching 37 degrees Celsius or above under residual influence from Tropical Cyclone Dolphin."
+      },
+      "zh": {
+        "headline": "酷熱天氣警告仍然生效 今日繼續極端酷熱",
+        "dek": "天文台料熱帶氣旋白海豚外圍下沉氣流影響下，星期二大致天晴極端酷熱，部分地區氣溫達37度或以上。"
+      }
+    },
     {
       "id": "2026-08-10-uber-elite-kwoon-chung-launch",
       "published_at": "2026-08-10T23:07:00+08:00",
@@ -999,52 +1067,6 @@
       "zh": {
         "headline": "酷熱天氣警告持續 天文台籲提防極端高溫",
         "dek": "天文台今早發出特別天氣提示，指受強颱風白海豚外圍下沉氣流影響，極端酷熱天氣將持續至周末及下周一，部分地區氣溫可達37度或以上。"
-      }
-    },
-    {
-      "id": "2026-08-08-swd-fake-messaging-app-warning",
-      "published_at": "2026-08-08T01:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "social-welfare",
-        "scam",
-        "phishing",
-        "personal-data",
-        "swd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-08/2026-08-08-swd-fake-messaging-app-warning.json",
-      "en": {
-        "headline": "Social Welfare Department warns of fake messaging accounts",
-        "dek": "The department urged the public not to reply to or click links from messaging-app accounts purporting to represent SWD service centres, after detecting phishing attempts to harvest personal data."
-      },
-      "zh": {
-        "headline": "社署籲提防偽冒通訊應用程式帳戶",
-        "dek": "社會福利署周五呼籲市民勿回覆自稱代表社署服務中心的通訊應用程式帳戶，或點擊不明連結，以免個人資料被盜。"
-      }
-    },
-    {
-      "id": "2026-08-08-tuen-mun-new-coffee-bay-drowning",
-      "published_at": "2026-08-08T01:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tuen-mun",
-        "drowning",
-        "swimming",
-        "new-coffee-bay",
-        "lifeguard"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-08/2026-08-08-tuen-mun-new-coffee-bay-drowning.json",
-      "en": {
-        "headline": "Couple found unconscious after swimming off Tuen Mun’s New Coffee Bay",
-        "dek": "A 23-year-old man and his 20-year-old wife, both Pakistani holders of Hong Kong identity cards, were pulled from the sea near the shark net on Friday evening and remain in critical condition at Tuen Mun Hospital."
-      },
-      "zh": {
-        "headline": "屯門新咖啡灣夫婦嬉水遇溺 雙雙昏迷送院",
-        "dek": "一對持香港身份證的巴基斯坦裔夫婦周五晚在新咖啡灣防鯊網附近遇溺，20歲妻子及23歲丈夫均陷入昏迷，送往屯門醫院時情況危殆。"
       }
     }
   ]
