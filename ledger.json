@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T09:06:04+08:00",
+  "updated_at": "2026-08-10T13:08:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -319,6 +319,24 @@
       "id": "2026-08-10-lifestyle-commune-causeway-bay",
       "first_seen": "2026-08-10T09:06:00+08:00",
       "headline_en": "Mainland bar-restaurant chain Commune opens first Hong Kong outlet"
+    },
+    {
+      "key": "dating-scam-tight-net-arrests-aug2026",
+      "id": "2026-08-10-dating-scam-tight-net-arrests",
+      "first_seen": "2026-08-10T13:05:00+08:00",
+      "headline_en": "Police arrest eight over compensated dating scams involving HK$6.2 million"
+    },
+    {
+      "key": "baguio-villa-knife-attack-aug10",
+      "id": "2026-08-10-baguio-villa-knife-attack",
+      "first_seen": "2026-08-10T13:06:00+08:00",
+      "headline_en": "Man arrested after knife attack injures domestic helper and security guard at Baguio Villa"
+    },
+    {
+      "key": "35-plus-cfa-leave-certificate-aug2026",
+      "id": "2026-08-10-35-plus-cfa-certificate",
+      "first_seen": "2026-08-10T13:07:00+08:00",
+      "headline_en": "Court of Appeal grants 11 defendants certificate to seek CFA leave in 35+ case"
     }
   ]
 }
