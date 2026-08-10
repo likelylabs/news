@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-08-10T09:06:04+08:00",
+  "generated_at": "2026-08-10T13:04:36+08:00",
   "live_window_hours": 72,
-  "count": 51,
+  "count": 50,
   "articles": [
+    {
+      "id": "2026-08-10-35-plus-cfa-certificate",
+      "published_at": "2026-08-10T13:07:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "courts",
+        "national-security",
+        "appeals"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-10/2026-08-10-35-plus-cfa-certificate.json",
+      "en": {
+        "headline": "Court of Appeal grants 11 defendants certificate to seek CFA leave in 35+ case",
+        "dek": "The Court of Appeal certified five points of law of great and general importance arising from the national-security convictions linked to the 2020 democratic primary."
+      },
+      "zh": {
+        "headline": "35+案11名被告獲批終院上訴證明書",
+        "dek": "上訴庭裁定五項涉及國安法及基本法預算案機制的法律議題屬廣泛及重要，批出證明書。"
+      }
+    },
+    {
+      "id": "2026-08-10-baguio-villa-knife-attack",
+      "published_at": "2026-08-10T13:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "assault",
+        "police",
+        "pok-fu-lam"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-10/2026-08-10-baguio-villa-knife-attack.json",
+      "en": {
+        "headline": "Man arrested after knife attack injures domestic helper and security guard at Baguio Villa",
+        "dek": "A man in his twenties was detained after allegedly wounding two people with a knife outside the Pok Fu Lam estate on Monday morning."
+      },
+      "zh": {
+        "headline": "碧瑤灣男子持刀傷人 外傭及保安受傷被捕",
+        "dek": "周一早上薄扶林碧瑤灣發生持刀襲擊，一名外籍女傭及一名保安員受傷，警方當場拘捕涉案男子。"
+      }
+    },
+    {
+      "id": "2026-08-10-dating-scam-tight-net-arrests",
+      "published_at": "2026-08-10T13:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "scam",
+        "police",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-10/2026-08-10-dating-scam-tight-net-arrests.json",
+      "en": {
+        "headline": "Police arrest eight over compensated dating scams involving HK$6.2 million",
+        "dek": "Officers say the suspects posed as lawyers and tycoons on social media, offering large monthly payments before demanding so-called legal fees from victims."
+      },
+      "zh": {
+        "headline": "警方拘八人涉援交詐騙涉款620萬元",
+        "dek": "疑犯在社交平台出示假名片，自稱律師或富商，承諾每月支付數萬元後向事主索取所謂律師費。"
+      }
+    },
     {
       "id": "2026-08-10-lifestyle-commune-causeway-bay",
       "published_at": "2026-08-10T09:06:00+08:00",
@@ -1073,97 +1136,6 @@
       "zh": {
         "headline": "選委會界別分組選舉投票日定11月22日",
         "dek": "行政長官已刊憲指明2026年11月22日為選舉委員會界別分組一般選舉投票日，提名期由10月7日至20日。"
-      }
-    },
-    {
-      "id": "2026-08-07-law-society-five-year-plan",
-      "published_at": "2026-08-07T11:05:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "law-society",
-        "five-year-plan",
-        "northern-metropolis",
-        "legal",
-        "consultation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-07/2026-08-07-law-society-five-year-plan.json",
-      "en": {
-        "headline": "Law Society urges ‘law comes first’ in five-year plan submission",
-        "dek": "The professional body submitted recommendations stressing that economic and social development must rest on a clear, predictable and internationally credible legal framework, and offered proposals on the Northern…"
-      },
-      "zh": {
-        "headline": "律師會就五年規劃提交建議 強調「法律先行」",
-        "dek": "律師會在意見書中強調經濟與社會發展願景須以清晰、可預測及具國際公信力的法律框架為基礎，並就北部都會區、仲裁及體育法等提出建議。"
-      }
-    },
-    {
-      "id": "2026-08-07-h8-sprinkler-vandalism-arrest",
-      "published_at": "2026-08-07T11:04:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "criminal-damage",
-        "tsim-sha-tsui",
-        "triad",
-        "vandalism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-07/2026-08-07-h8-sprinkler-vandalism-arrest.json",
-      "en": {
-        "headline": "Man arrested over H8 building sprinkler attack that disabled three lifts",
-        "dek": "A 21-year-old man was arrested after a fire sprinkler head was smashed with a baseball bat on 1 August, flooding lift shafts at the Tsim Sha Tsui commercial building and putting all three lifts out of service for days."
-      },
-      "zh": {
-        "headline": "尖沙咀H8大廈花灑遭棒球棍破壞 21歲男子被捕",
-        "dek": "一名21歲男子涉於8月1日以棒球棍擊毀消防花灑頭，導致三部升降機入水停運多日，警方已拘捕該男子並追緝另外四人。"
-      }
-    },
-    {
-      "id": "2026-08-07-kwun-tong-drug-den-raid",
-      "published_at": "2026-08-07T11:03:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "drugs",
-        "kwun-tong",
-        "narcotics",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-07/2026-08-07-kwun-tong-drug-den-raid.json",
-      "en": {
-        "headline": "Police arrest 15 after Kwun Tong drug den raid",
-        "dek": "Officers raided a unit on Shui Wo Street on Thursday, seizing suspected heroin, ice and other drugs with an estimated value of about HK$120,000; a 43-year-old woman was arrested for operating a drug den and trafficking."
-      },
-      "zh": {
-        "headline": "觀塘毒窟搜查 警拘15人檢約12萬元毒品",
-        "dek": "警方周四在瑞和街一單位搜查，檢獲懷疑海洛英、冰毒等，市值約12萬元；一名43歲女子涉經營毒窟及販毒被捕。"
-      }
-    },
-    {
-      "id": "2026-08-07-lingnan-student-union-dissolve",
-      "published_at": "2026-08-07T11:02:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lingnan-university",
-        "student-union",
-        "education",
-        "campus"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-07/2026-08-07-lingnan-student-union-dissolve.json",
-      "en": {
-        "headline": "Lingnan University Students’ Union announces dissolution after 59 years",
-        "dek": "The union said campus and external conditions had changed and it had taken the difficult decision to dissolve after a joint meeting, leaving only a handful of active student unions among the eight publicly funded…"
-      },
-      "zh": {
-        "headline": "嶺南大學學生會宣布解散 結束近59年運作",
-        "dek": "學生會稱近年校園內外形勢出現變化，經聯席會議通過後作出解散的艱難決定，八大資助大學僅剩少數學生會仍在運作。"
       }
     }
   ]
