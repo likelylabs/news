@@ -63,13 +63,28 @@ the only reason to touch a published file.
 3. Verify facts (see GROK.md §3). Drop anything shaky.
 4. Write ≤5 valid article files to `articles/<date>/`.
 5. Append each to `ledger.json`.
-6. Commit article files + ledger.json — **not** index.json.
+6. Commit article files + ledger.json — **not** index.json — as **one commit,
+   pushed once**, at the end of the run.
 7. Nothing new? Commit nothing. No empty commits, no "no news today" placeholders.
+
+## One commit, one push, per run
+
+The whole run lands together: every article file plus the `ledger.json`
+update, in a **single commit**, pushed **once**. Never commit article by
+article or push after each file.
+
+Each push triggers the index rebuild, so a run that pushes five times starts
+five rebuilds racing each other — and briefly leaves articles on `main` whose
+ledger entries haven't landed, which is exactly the state a sibling run reads
+when it dedups. The Action retries through the race (see
+`.github/workflows/build-index.yml`), but not racing is better than
+recovering from one.
 
 ## Commit convention
 
 - New articles: `news: <n> article(s) — <short topic list>`
   e.g. `news: 2 articles — typhoon signal 8, hang seng close`
+  One such commit per run, covering everything that run published.
 - Correction: `fix: correction to <id>`
 - The Action's own commits: `chore(index): rebuild index + prune [skip ci]`
   (leave these to the bot).

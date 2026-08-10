@@ -298,8 +298,16 @@ translation reads worst, so write it natively for a Hong Kong reader.
    before you commit. (If — and only if — your run environment can execute
    code, you may self-check by running `python3 tools/build_index.py`, which
    prints exactly what's wrong; but the Action is the source of truth.)
-10. **Commit** (see TIDINESS.md for the message convention). If you published
-   nothing this run, make no commit at all.
+10. **Commit the whole run at once — ONE commit, ONE push.** Every article
+    file you wrote this run *plus* the `ledger.json` update go in a **single
+    commit**, pushed **once**, at the very end. Do not commit article by
+    article, do not push after each file, and do not push the ledger
+    separately from the articles it describes. (Each push kicks off the index
+    rebuild, and a second push landing mid-rebuild is a race — the Action
+    recovers, but a one-push run is cheaper, and it never leaves an article on
+    `main` whose ledger entry hasn't landed yet.) See TIDINESS.md for the
+    message convention. If you published nothing this run, make no commit at
+    all.
 
 Full file-hygiene rules live in **TIDINESS.md** — follow it.
 

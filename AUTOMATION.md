@@ -115,7 +115,7 @@ FORMAT — for each story, create a file at articles/<YYYY-MM-DD>/<id>.json matc
 
 THEN:
 - Append each published story to ledger.json under "covered" as {"key": story_key, "id": id, "first_seen": now in +08:00, "headline_en": en.headline}.
-- Commit the new article file(s) and the updated ledger.json.
+- Commit the whole run AT ONCE — ONE commit, ONE push, at the very end: every article file you wrote this run PLUS the ledger.json update in a single commit. Do not commit article by article, do not push after each file, and do not push the ledger separately from the articles it describes. Each push kicks off the index rebuild, so a run that pushes five times races itself; one push per run is cheaper and never leaves an article on main whose ledger entry hasn't landed.
 - DO NOT create or edit index.json — a GitHub Action rebuilds it automatically. Just make sure every article file is valid JSON matching the schema.
 - If you published nothing this run, make no commit.
 
