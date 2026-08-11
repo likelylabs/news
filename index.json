@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-08-11T21:06:44+08:00",
+  "generated_at": "2026-08-11T23:06:09+08:00",
   "live_window_hours": 72,
-  "count": 53,
+  "count": 50,
   "articles": [
+    {
+      "id": "2026-08-11-universal-funeral-parlour-power-outage",
+      "published_at": "2026-08-11T23:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "power-outage",
+        "hung-hom",
+        "funeral",
+        "heat",
+        "tung-wah"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-11/2026-08-11-universal-funeral-parlour-power-outage.json",
+      "en": {
+        "headline": "Universal Funeral Parlour limited to partial service after power fault",
+        "dek": "Tung Wah Group of Hospitals said a busbar and fuse failure at the Hung Hom parlour left some floors without full air-conditioning and lighting; full operations are expected to resume on Thursday afternoon."
+      },
+      "zh": {
+        "headline": "寰宇殯儀館電力故障僅限有限度服務 料周四復常",
+        "dek": "東華三院指紅磡寰宇殯儀館二樓電表房滙流排及保險絲故障，部分樓層冷氣及照明受影響，殮房正常，預計周四下午全面修復。"
+      }
+    },
+    {
+      "id": "2026-08-11-sha-tin-hiker-found-dead",
+      "published_at": "2026-08-11T23:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "hiking",
+        "sha-tin",
+        "fo-tan",
+        "rescue",
+        "heat"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-11/2026-08-11-sha-tin-hiker-found-dead.json",
+      "en": {
+        "headline": "72-year-old hiker found dead on Sha Tin trail after three-day search",
+        "dek": "Rescuers located the body of Tam Hing-man on a mountain path in Man Hang, Fo Tan, on Tuesday morning; he had gone missing while hiking on Saturday."
+      },
+      "zh": {
+        "headline": "72歲行山客沙田失蹤三日後尋回遺體",
+        "dek": "搜救人員周二上午在火炭蚊坑山路發現譚姓男子倒卧，當場證實死亡；他周六行山時與同伴走失後失聯。"
+      }
+    },
     {
       "id": "2026-08-11-hzmb-sightseeing-boat-missing-passenger",
       "published_at": "2026-08-11T21:09:00+08:00",
@@ -1089,121 +1135,6 @@
       "zh": {
         "headline": "酷熱天氣警告仍然生效 極端酷熱天氣持續",
         "dek": "天文台表示酷熱天氣警告於周日早上仍然生效，預料大致天晴，日間極端酷熱，市區最高氣溫約36度。"
-      }
-    },
-    {
-      "id": "2026-08-08-cebu-pacific-cargo-door-return",
-      "published_at": "2026-08-08T23:06:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "airport",
-        "flight",
-        "cebu-pacific",
-        "safety",
-        "manila"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-08/2026-08-08-cebu-pacific-cargo-door-return.json",
-      "en": {
-        "headline": "Cebu Pacific flight returns to Hong Kong after suspected cargo door issue",
-        "dek": "A Manila-bound Cebu Pacific Airbus A321 returned safely to Hong Kong International Airport on Saturday afternoon after its cargo door was suspected to have opened; no injuries were reported."
-      },
-      "zh": {
-        "headline": "宿霧太平洋航班疑貨艙門開啟 折返香港機場安全着陸",
-        "dek": "一班由香港飛往馬尼拉的宿霧太平洋航空CEB143航班周六下午疑因貨艙門開啟問題折返香港國際機場，安全着陸無人受傷。"
-      }
-    },
-    {
-      "id": "2026-08-08-peak-road-police-assault",
-      "published_at": "2026-08-08T23:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "assault",
-        "peak",
-        "traffic",
-        "central"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-08/2026-08-08-peak-road-police-assault.json",
-      "en": {
-        "headline": "Driver arrested after assaulting officer during Peak traffic stop",
-        "dek": "A 55-year-old man was arrested on suspicion of assaulting a police officer and obstructing police after becoming agitated when stopped for failing to obey traffic signs on Peak Road on Saturday morning."
-      },
-      "zh": {
-        "headline": "山頂私家車違例被查 55歲司機襲警涉兩罪被捕",
-        "dek": "山頂道一輛私家車今早未遵從交通標誌被截查，55歲姓蘇男司機情緒激動拒絕合作並襲擊男警，涉襲警及阻差辦公被捕。"
-      }
-    },
-    {
-      "id": "2026-08-08-bar-association-sex-offence-response",
-      "published_at": "2026-08-08T21:17:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "bar-association",
-        "sex-offences",
-        "child-protection",
-        "law-reform",
-        "consultation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-08/2026-08-08-bar-association-sex-offence-response.json",
-      "en": {
-        "headline": "Bar Association broadly backs new persistent child sexual abuse offence",
-        "dek": "The legal body said it supports introducing a dedicated offence while calling for safeguards to ensure fair trials, and also urged expanded pre-conviction anonymity for both complainants and defendants."
-      },
-      "zh": {
-        "headline": "大律師公會原則支持新增持續性侵犯兒童罪",
-        "dek": "公會回應性罪行法例諮詢，原則同意增設相關罪行但須設保障措施確保公平審訊，並倡擴大定罪前匿名保護。"
-      }
-    },
-    {
-      "id": "2026-08-08-fdh-wage-freeze-call",
-      "published_at": "2026-08-08T21:16:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "domestic-helpers",
-        "minimum-wage",
-        "employers",
-        "labour",
-        "fdh"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-08/2026-08-08-fdh-wage-freeze-call.json",
-      "en": {
-        "headline": "Employer groups urge freeze on domestic helper minimum wage",
-        "dek": "Two employer organisations petitioned the government on Saturday, citing a survey in which most respondents said they could not afford a rise and might dismiss helpers if wages increased."
-      },
-      "zh": {
-        "headline": "外傭僱主團體促凍結最低工資 稱加薪或致大量解僱",
-        "dek": "兩個僱主團體周六向政府請願，指調查顯示逾九成僱主希望凍薪，八成半表示難以負擔加薪或考慮解僱外傭。"
-      }
-    },
-    {
-      "id": "2026-08-08-record-heat-temperature-aug8",
-      "published_at": "2026-08-08T21:15:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "very-hot-weather",
-        "heat",
-        "hko",
-        "record-temperature",
-        "dolphin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-08/2026-08-08-record-heat-temperature-aug8.json",
-      "en": {
-        "headline": "Observatory records 34.7°C, hottest day of the year so far",
-        "dek": "Under the influence of Severe Typhoon Dolphin’s outer subsiding air, temperatures exceeded 38 degrees in parts of the New Territories while the headquarters logged its highest reading of 2026."
-      },
-      "zh": {
-        "headline": "天文台錄34.7度創今年最高 上水高見38.5度",
-        "dek": "受強颱風白海豚外圍下沉氣流影響，本港極端酷熱，天文台總部錄得今年最高氣溫，新界多區超過37度。"
       }
     }
   ]
