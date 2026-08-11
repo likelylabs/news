@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-08-11T05:10:15+08:00",
+  "generated_at": "2026-08-11T09:06:51+08:00",
   "live_window_hours": 72,
   "count": 47,
   "articles": [
+    {
+      "id": "2026-08-11-lok-ma-chau-knife-attack",
+      "published_at": "2026-08-11T09:17:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "assault",
+        "lok-ma-chau",
+        "wounding"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-11/2026-08-11-lok-ma-chau-knife-attack.json",
+      "en": {
+        "headline": "Foreign man injured in knife attack in Lok Ma Chau",
+        "dek": "A 29-year-old man was wounded in the leg by two assailants on Monday night; police are searching for the suspects and have classified the case as wounding."
+      },
+      "zh": {
+        "headline": "落馬洲外籍男子遭刀襲 腿部受傷",
+        "dek": "29歲外籍男子周一晚在落馬洲金博路西被兩人持刀襲擊，腿部受傷，清醒送往博愛醫院，案件列傷人，警方正緝捕疑犯。"
+      }
+    },
+    {
+      "id": "2026-08-11-michelle-wai-hundred-flowers",
+      "published_at": "2026-08-11T09:16:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "film",
+        "awards",
+        "michelle-wai",
+        "hong-kong-cinema"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-11/2026-08-11-michelle-wai-hundred-flowers.json",
+      "en": {
+        "headline": "Michelle Wai wins Best Actress at Hundred Flowers Awards for The Last Dance",
+        "dek": "The Hong Kong actress took the prize in Beijing on Monday for her role in the funeral-industry drama, ahead of mainland competitors."
+      },
+      "zh": {
+        "headline": "衛詩雅憑《破·地獄》奪百花獎最佳女主角",
+        "dek": "香港女演員衛詩雅周一在北京第38屆大眾電影百花獎憑本地電影《破·地獄》奪最佳女主角，票數領先內地對手。"
+      }
+    },
+    {
+      "id": "2026-08-11-tst-imperial-hotel-robbery",
+      "published_at": "2026-08-11T09:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "robbery",
+        "tsim-sha-tsui",
+        "hotel",
+        "tourist"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-11/2026-08-11-tst-imperial-hotel-robbery.json",
+      "en": {
+        "headline": "Japanese tourist robbed of HK$15,000 in Tsim Sha Tsui hotel room",
+        "dek": "A 19-year-old woman was attacked after opening her door at The Imperial Hotel on Monday night; the suspect fled and no arrests have been made."
+      },
+      "zh": {
+        "headline": "尖沙咀酒店日籍女遊客遭搶 損失1.5萬元",
+        "dek": "19歲日本女子周一晚在帝豪酒店房門被襲，頸部受傷，約1.5萬元現金被搶，疑犯逃走，暫無人被捕。"
+      }
+    },
     {
       "id": "2026-08-11-tai-lam-women-prison-assault",
       "published_at": "2026-08-11T01:12:00+08:00",
@@ -1000,73 +1068,6 @@
       "zh": {
         "headline": "丘應樺下周率內地及港企訪馬來西亞",
         "dek": "商經局局長表示出海專班已在內地辦逾10場推介，約200間企業來港設立或擴展業務，準備走出去。"
-      }
-    },
-    {
-      "id": "2026-08-08-wong-tai-sin-knife-fall",
-      "published_at": "2026-08-08T09:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "wong-tai-sin",
-        "police",
-        "assault",
-        "fall",
-        "estate"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-08/2026-08-08-wong-tai-sin-knife-fall.json",
-      "en": {
-        "headline": "Man with knife wounds found in Wong Tai Sin lift; another dies after fall",
-        "dek": "Police are investigating whether two incidents at Chiu Sin House in Wong Tai Sin Upper Estate on Saturday morning are linked, after a man with multiple cuts was found in a lift and another man was certified dead on a…"
-      },
-      "zh": {
-        "headline": "黃大仙上邨電梯內發現刀傷男子 另一男墮樓死亡",
-        "dek": "警方正調查黃大仙上邨昭善樓今早兩宗事故是否有關，一名男子在電梯內多處刀傷送院，另一名男子倒臥平台證實死亡。"
-      }
-    },
-    {
-      "id": "2026-08-08-yellow-working-heat-stress-aug8",
-      "published_at": "2026-08-08T09:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "heat-stress",
-        "labour-department",
-        "very-hot",
-        "working-warning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-08/2026-08-08-yellow-working-heat-stress-aug8.json",
-      "en": {
-        "headline": "Yellow Working Heat Stress Warning issued this morning",
-        "dek": "The Labour Department activated the Yellow Working Heat Stress Warning at 7am as heat-stress levels rose under the ongoing Very Hot Weather Warning, advising employers to arrange rest breaks for outdoor and…"
-      },
-      "zh": {
-        "headline": "黃色工作暑熱警告今早生效",
-        "dek": "勞工處上午7時發出黃色工作暑熱警告，表示部分工作環境熱壓力頗高；酷熱天氣警告同時生效，僱主應為戶外及無空調室內工作員工安排適當休息。"
-      }
-    },
-    {
-      "id": "2026-08-08-extreme-hot-weather-continues",
-      "published_at": "2026-08-08T07:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "very-hot-weather",
-        "heat",
-        "hko",
-        "extreme-heat"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-08/2026-08-08-extreme-hot-weather-continues.json",
-      "en": {
-        "headline": "Extreme heat continues under Very Hot Weather Warning",
-        "dek": "The Observatory issued a special weather tip this morning warning of prolonged extremely hot conditions through the weekend and into next week, with some areas expected to reach 37 degrees or above."
-      },
-      "zh": {
-        "headline": "酷熱天氣警告持續 天文台籲提防極端高溫",
-        "dek": "天文台今早發出特別天氣提示，指受強颱風白海豚外圍下沉氣流影響，極端酷熱天氣將持續至周末及下周一，部分地區氣溫可達37度或以上。"
       }
     }
   ]
