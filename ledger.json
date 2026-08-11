@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T11:02:57+08:00",
+  "updated_at": "2026-08-11T13:07:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -55,6 +55,18 @@
       "id": "2026-08-11-kwai-chung-taxi-police-collision",
       "first_seen": "2026-08-11T11:07:00+08:00",
       "headline_en": "Taxi collides with police car in Kwai Chung, three injured"
+    },
+    {
+      "key": "pcpd-doxxing-restaurant-dispute-aug11",
+      "id": "2026-08-11-pcpd-doxxing-restaurant-dispute",
+      "first_seen": "2026-08-11T13:05:00+08:00",
+      "headline_en": "Privacy watchdog arrests man for alleged doxxing over restaurant debt dispute"
+    },
+    {
+      "key": "lifestyle-oil-painting-exchange-exhibition-aug11",
+      "id": "2026-08-11-lifestyle-oil-painting-exchange-exhibition",
+      "first_seen": "2026-08-11T13:06:00+08:00",
+      "headline_en": "International oil painting exchange exhibition opens at Central Library"
     }
   ]
 }
