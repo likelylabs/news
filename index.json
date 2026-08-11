@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-08-12T05:12:55+08:00",
+  "generated_at": "2026-08-12T07:06:54+08:00",
   "live_window_hours": 72,
-  "count": 54,
+  "count": 56,
   "articles": [
+    {
+      "id": "2026-08-12-yuen-long-anti-prostitution-19-arrested",
+      "published_at": "2026-08-12T07:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "immigration",
+        "yuen-long",
+        "prostitution",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-12/2026-08-12-yuen-long-anti-prostitution-19-arrested.json",
+      "en": {
+        "headline": "Police and Immigration arrest 19 mainland women in Yuen Long anti-prostitution operation",
+        "dek": "Officers from the Yuen Long Police District Special Duties Squad and the Immigration Department detained the women, aged 21 to 51, for alleged breach of conditions of stay during a joint operation on Tuesday."
+      },
+      "zh": {
+        "headline": "元朗掃黃聯同入境處拘19名內地女子 涉違反逗留條件",
+        "dek": "元朗警區特別職務隊聯同入境事務處周二展開行動，以涉嫌違反逗留條件拘捕19名年齡介乎21至51歲的內地女子，全部被扣留調查。"
+      }
+    },
+    {
+      "id": "2026-08-12-huanggang-port-cross-department-drill",
+      "published_at": "2026-08-12T07:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "huanggang",
+        "customs",
+        "immigration",
+        "border",
+        "checkpoint"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-12/2026-08-12-huanggang-port-cross-department-drill.json",
+      "en": {
+        "headline": "Customs and Immigration run cross-department drill at new Huanggang Port",
+        "dek": "About 50 officers from Customs, Immigration, police, the Department of Health and the Government Property Agency practised vehicle and passenger clearance procedures, including system faults and reverse exits, ahead…"
+      },
+      "zh": {
+        "headline": "新皇崗口岸跨部門通關演練 模擬系統故障及倒車離場",
+        "dek": "海關、入境處、警務處、衞生署及政府產業署約50人周二在港方口岸區演練人車通關程序，包括查驗系統故障及車輛倒車離開聯合一站式車道等突發情况。"
+      }
+    },
     {
       "id": "2026-08-12-hkbu-ransomware-claim",
       "published_at": "2026-08-12T03:15:00+08:00",
