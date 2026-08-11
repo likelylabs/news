@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-08-11T23:06:09+08:00",
+  "generated_at": "2026-08-12T03:12:52+08:00",
   "live_window_hours": 72,
-  "count": 50,
+  "count": 52,
   "articles": [
+    {
+      "id": "2026-08-12-hkbu-ransomware-credential-leak",
+      "published_at": "2026-08-12T03:14:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "cybersecurity",
+        "data-breach",
+        "university",
+        "ransomware",
+        "privacy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-12/2026-08-12-hkbu-ransomware-credential-leak.json",
+      "en": {
+        "headline": "HKBU investigating reports of ransomware group and leaked credentials",
+        "dek": "Security platforms listed Hong Kong Baptist University among victims of the group TheGentlemen, with roughly 1,900 sets of credentials reportedly exposed involving staff and student accounts."
+      },
+      "zh": {
+        "headline": "浸大調查勒索軟件組織聲稱入侵及憑證外洩報告",
+        "dek": "網絡安全平台列出浸會大學為勒索軟件組織TheGentlemen聲稱受害者，約1,900組與hkbu.edu.hk相關憑證據報外洩，涉及職員及學生帳戶。"
+      }
+    },
+    {
+      "id": "2026-08-12-cfs-olitalia-olive-oil-mineral-oil",
+      "published_at": "2026-08-12T03:13:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "food-safety",
+        "cfs",
+        "olive-oil",
+        "recall",
+        "mineral-oil"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-12/2026-08-12-cfs-olitalia-olive-oil-mineral-oil.json",
+      "en": {
+        "headline": "CFS urges public not to consume two Olitalia olive oil products",
+        "dek": "The Centre for Food Safety said the Italian-brand Pomace Olive Oil in 1-litre and 5-litre bottles may contain mineral oil aromatic hydrocarbons after a Belgian recall notice."
+      },
+      "zh": {
+        "headline": "食安中心籲勿食用兩款Olitalia橄欖油 或含礦物油",
+        "dek": "食安中心指意大利品牌Olitalia的1公升及5公升瓶裝Pomace Olive Oil可能含芳香族碳氫化合物礦物油，分銷商已停售下架並回收。"
+      }
+    },
+    {
+      "id": "2026-08-12-yuen-long-shui-pin-wai-second-outage",
+      "published_at": "2026-08-12T03:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "power-outage",
+        "yuen-long",
+        "clp",
+        "housing-estate",
+        "heat"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-12/2026-08-12-yuen-long-shui-pin-wai-second-outage.json",
+      "en": {
+        "headline": "Shui Pin Wai Estate hit by second power cut within 18 hours",
+        "dek": "Temporary cables installed after the morning outage failed around 10.30pm on Tuesday, leaving about 2,200 households without electricity for roughly 30 minutes and trapping residents in lifts."
+      },
+      "zh": {
+        "headline": "水邊圍邨18小時內兩度停電 臨時電纜不穩再斷約半小時",
+        "dek": "中電指早上搶修後鋪設的臨時電纜於周二晚約10時31分供電不穩，影響約2,200戶約半小時，消防接獲多宗困𨋢報告。"
+      }
+    },
     {
       "id": "2026-08-11-universal-funeral-parlour-power-outage",
       "published_at": "2026-08-11T23:11:00+08:00",
@@ -1114,27 +1183,6 @@
       "zh": {
         "headline": "酷熱天氣兩名行山者疑中暑 直升機救出包括7歲女童",
         "dek": "周六本港極端酷熱，新界部分地區氣溫超過38度，西貢破邊洲一名28歲男子及南大嶼山一名7歲女童先後懷疑中暑，由飛行服務隊直升機送往律敦治醫院。"
-      }
-    },
-    {
-      "id": "2026-08-09-very-hot-weather-warning-continues",
-      "published_at": "2026-08-09T03:04:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "very-hot-weather",
-        "heat-warning",
-        "observatory"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-09/2026-08-09-very-hot-weather-warning-continues.json",
-      "en": {
-        "headline": "Very Hot Weather Warning remains in force as extreme heat continues",
-        "dek": "The Hong Kong Observatory keeps the Very Hot Weather Warning active into Sunday, with mainly fine and extremely hot conditions expected and temperatures forecast to reach 36 degrees Celsius in urban areas."
-      },
-      "zh": {
-        "headline": "酷熱天氣警告仍然生效 極端酷熱天氣持續",
-        "dek": "天文台表示酷熱天氣警告於周日早上仍然生效，預料大致天晴，日間極端酷熱，市區最高氣溫約36度。"
       }
     }
   ]
