@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T09:07:12+08:00",
+  "updated_at": "2026-08-11T11:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -37,6 +37,24 @@
       "id": "2026-08-11-lok-ma-chau-knife-attack",
       "first_seen": "2026-08-11T09:17:00+08:00",
       "headline_en": "Foreign man injured in knife attack in Lok Ma Chau"
+    },
+    {
+      "key": "labour-heat-stress-warning-review-aug11",
+      "id": "2026-08-11-labour-heat-stress-warning-review",
+      "first_seen": "2026-08-11T11:05:00+08:00",
+      "headline_en": "Labour chief says heat-stress warning thresholds under review after record heat"
+    },
+    {
+      "key": "yuen-long-shui-pin-wai-power-outage-aug11",
+      "id": "2026-08-11-yuen-long-shui-pin-wai-outage",
+      "first_seen": "2026-08-11T11:06:00+08:00",
+      "headline_en": "Underground cable fault leaves 2,400 Yuen Long households without power"
+    },
+    {
+      "key": "kwai-chung-taxi-police-collision-aug10",
+      "id": "2026-08-11-kwai-chung-taxi-police-collision",
+      "first_seen": "2026-08-11T11:07:00+08:00",
+      "headline_en": "Taxi collides with police car in Kwai Chung, three injured"
     }
   ]
 }
