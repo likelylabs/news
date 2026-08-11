@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T23:06:09+08:00",
+  "updated_at": "2026-08-12T03:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -103,6 +103,24 @@
       "id": "2026-08-11-universal-funeral-parlour-power-outage",
       "first_seen": "2026-08-11T23:11:00+08:00",
       "headline_en": "Universal Funeral Parlour limited to partial service after power fault"
+    },
+    {
+      "key": "yuen-long-shui-pin-wai-second-outage-aug11-night",
+      "id": "2026-08-12-yuen-long-shui-pin-wai-second-outage",
+      "first_seen": "2026-08-12T03:12:00+08:00",
+      "headline_en": "Shui Pin Wai Estate hit by second power cut within 18 hours"
+    },
+    {
+      "key": "cfs-olitalia-pomace-olive-oil-mineral-oil-aug11",
+      "id": "2026-08-12-cfs-olitalia-olive-oil-mineral-oil",
+      "first_seen": "2026-08-12T03:13:00+08:00",
+      "headline_en": "CFS urges public not to consume two Olitalia olive oil products"
+    },
+    {
+      "key": "hkbu-ransomware-credential-leak-aug11",
+      "id": "2026-08-12-hkbu-ransomware-credential-leak",
+      "first_seen": "2026-08-12T03:14:00+08:00",
+      "headline_en": "HKBU investigating reports of ransomware group and leaked credentials"
     }
   ]
 }
