@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T05:12:54+08:00",
+  "updated_at": "2026-08-12T07:07:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -127,6 +127,18 @@
       "id": "2026-08-12-hkbu-ransomware-claim",
       "first_seen": "2026-08-12T03:15:00+08:00",
       "headline_en": "Baptist University reviews systems after ransomware group claims breach"
+    },
+    {
+      "key": "huanggang-port-cross-department-drill-aug11",
+      "id": "2026-08-12-huanggang-port-cross-department-drill",
+      "first_seen": "2026-08-12T07:05:00+08:00",
+      "headline_en": "Customs and Immigration run cross-department drill at new Huanggang Port"
+    },
+    {
+      "key": "yuen-long-anti-prostitution-19-arrested-aug11",
+      "id": "2026-08-12-yuen-long-anti-prostitution-19-arrested",
+      "first_seen": "2026-08-12T07:06:00+08:00",
+      "headline_en": "Police and Immigration arrest 19 mainland women in Yuen Long anti-prostitution operation"
     }
   ]
 }
