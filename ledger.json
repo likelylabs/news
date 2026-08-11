@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T03:12:52+08:00",
+  "updated_at": "2026-08-12T03:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -105,22 +105,28 @@
       "headline_en": "Universal Funeral Parlour limited to partial service after power fault"
     },
     {
-      "key": "yuen-long-shui-pin-wai-second-outage-aug11-night",
-      "id": "2026-08-12-yuen-long-shui-pin-wai-second-outage",
+      "key": "very-hot-weather-continues-aug12",
+      "id": "2026-08-12-very-hot-weather-continues-wednesday",
       "first_seen": "2026-08-12T03:12:00+08:00",
+      "headline_en": "Very Hot Weather Warning remains in force as extreme heat continues"
+    },
+    {
+      "key": "yuen-long-shui-pin-wai-second-outage-aug11",
+      "id": "2026-08-12-yuen-long-shui-pin-wai-second-outage",
+      "first_seen": "2026-08-12T03:13:00+08:00",
       "headline_en": "Shui Pin Wai Estate hit by second power cut within 18 hours"
     },
     {
       "key": "cfs-olitalia-pomace-olive-oil-mineral-oil-aug11",
       "id": "2026-08-12-cfs-olitalia-olive-oil-mineral-oil",
-      "first_seen": "2026-08-12T03:13:00+08:00",
+      "first_seen": "2026-08-12T03:14:00+08:00",
       "headline_en": "CFS urges public not to consume two Olitalia olive oil products"
     },
     {
-      "key": "hkbu-ransomware-credential-leak-aug11",
-      "id": "2026-08-12-hkbu-ransomware-credential-leak",
-      "first_seen": "2026-08-12T03:14:00+08:00",
-      "headline_en": "HKBU investigating reports of ransomware group and leaked credentials"
+      "key": "hkbu-ransomware-claim-aug11",
+      "id": "2026-08-12-hkbu-ransomware-claim",
+      "first_seen": "2026-08-12T03:15:00+08:00",
+      "headline_en": "Baptist University reviews systems after ransomware group claims breach"
     }
   ]
 }

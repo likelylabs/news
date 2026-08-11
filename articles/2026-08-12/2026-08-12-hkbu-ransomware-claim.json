@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-12-hkbu-ransomware-claim",
+  "published_at": "2026-08-12T03:15:00+08:00",
+  "category": "technology",
+  "tags": ["cybersecurity", "ransomware", "hkbu", "data-breach"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "hkbu-ransomware-claim-aug11",
+  "en": {
+    "headline": "Baptist University reviews systems after ransomware group claims breach",
+    "dek": "The university said it is examining IT security and personal data protection following online claims by the group The Gentlemen that credentials linked to about 1,900 accounts may have been compromised.",
+    "body": [
+      "Hong Kong Baptist University said it is closely reviewing the security of its information technology systems and personal data after a ransomware group claimed online to have accessed its data.",
+      "Cybersecurity monitoring platforms reported that the group known as The Gentlemen had listed the university among its victims. Data circulating on tracking sites indicated roughly 1,900 credentials associated with the hkbu.edu.hk domain may have been exposed, including staff, student and third-party accounts.",
+      "In a statement the university said it had noted a webpage alleging an unlawful breach of its systems. It was examining the security of its IT systems and personal data, would take appropriate action under existing mechanisms, and would maintain contact with local regulatory and law-enforcement agencies.",
+      "Industry commentators noted that compromised credentials often result from malware on personal devices used to access institutional systems rather than a direct attack on core servers, and advised password resets and multi-factor authentication."
+    ]
+  },
+  "zh": {
+    "headline": "浸大檢視系統保安 勒索軟件組織聲稱入侵",
+    "dek": "校方表示正密切檢視資訊科技系統及個人資料安全，有平台指約1,900組與浸大網域相關的憑證可能外洩。",
+    "body": [
+      "香港浸會大學表示，留意到有網頁聲稱大學資訊科技系統被非法入侵後，正密切檢視系統及個人資料的安全情況。",
+      "網絡安全監察平台報道，勒索軟件組織「The Gentlemen」將浸大列為受害者。追蹤網站顯示，約1,900組與hkbu.edu.hk網域相關的憑證可能外洩，包括教職員、學生及第三方帳戶。",
+      "校方聲明指，已留意有關網頁，現正檢視資訊科技系統及個人資料保安，會按機制採取適當行動，並與本港監管及執法機構保持聯繫。",
+      "業界人士指出，憑證外洩很多時源於個人裝置中木馬程式，而非直接攻擊核心伺服器，建議立即重設密碼及啟用多重身份驗證。"
+    ]
+  }
+}
