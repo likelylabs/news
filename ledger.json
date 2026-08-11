@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T13:03:08+08:00",
+  "updated_at": "2026-08-11T21:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -67,6 +67,30 @@
       "id": "2026-08-11-lifestyle-oil-painting-exchange-exhibition",
       "first_seen": "2026-08-11T13:06:00+08:00",
       "headline_en": "International oil painting exchange exhibition opens at Central Library"
+    },
+    {
+      "key": "infant-flu-encephalopathy-aug11",
+      "id": "2026-08-11-infant-flu-encephalopathy-aug11",
+      "first_seen": "2026-08-11T21:06:00+08:00",
+      "headline_en": "18-month-old in serious condition with influenza A and encephalopathy"
+    },
+    {
+      "key": "police-drone-kwun-tong-bypass-arrests-aug11",
+      "id": "2026-08-11-police-drone-kwun-tong-bypass-arrests",
+      "first_seen": "2026-08-11T21:07:00+08:00",
+      "headline_en": "Police arrest 10 for dangerous driving after first drone operation on Kwun Tong Bypass"
+    },
+    {
+      "key": "school-flu-vaccine-e-consent-2026",
+      "id": "2026-08-11-school-flu-vaccine-e-consent",
+      "first_seen": "2026-08-11T21:08:00+08:00",
+      "headline_en": "School flu vaccine outreach switches to electronic consent forms from 17 August"
+    },
+    {
+      "key": "hzmb-sightseeing-boat-missing-passenger-aug11",
+      "id": "2026-08-11-hzmb-sightseeing-boat-missing-passenger",
+      "first_seen": "2026-08-11T21:09:00+08:00",
+      "headline_en": "Search under way for passenger missing from Shekou sightseeing boat near HZMB"
     }
   ]
 }
