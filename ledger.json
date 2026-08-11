@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T21:06:44+08:00",
+  "updated_at": "2026-08-11T23:11:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -91,6 +91,18 @@
       "id": "2026-08-11-hzmb-sightseeing-boat-missing-passenger",
       "first_seen": "2026-08-11T21:09:00+08:00",
       "headline_en": "Search under way for passenger missing from Shekou sightseeing boat near HZMB"
+    },
+    {
+      "key": "sha-tin-hiker-death-aug11",
+      "id": "2026-08-11-sha-tin-hiker-found-dead",
+      "first_seen": "2026-08-11T23:10:00+08:00",
+      "headline_en": "72-year-old hiker found dead on Sha Tin trail after three-day search"
+    },
+    {
+      "key": "universal-funeral-parlour-power-outage-aug11",
+      "id": "2026-08-11-universal-funeral-parlour-power-outage",
+      "first_seen": "2026-08-11T23:11:00+08:00",
+      "headline_en": "Universal Funeral Parlour limited to partial service after power fault"
     }
   ]
 }
