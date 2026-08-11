@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-08-11T11:02:57+08:00",
+  "generated_at": "2026-08-11T13:03:08+08:00",
   "live_window_hours": 72,
-  "count": 50,
+  "count": 52,
   "articles": [
+    {
+      "id": "2026-08-11-lifestyle-oil-painting-exchange-exhibition",
+      "published_at": "2026-08-11T13:06:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "art",
+        "central-library",
+        "oil-painting"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-11/2026-08-11-lifestyle-oil-painting-exchange-exhibition.json",
+      "en": {
+        "headline": "International oil painting exchange exhibition opens at Central Library",
+        "dek": "The second Hong Kong–Beijing–Moscow–St Petersburg–Paris International Oil Painting Exchange Exhibition runs from 11 to 16 August, featuring more than 240 works by local and overseas artists."
+      },
+      "zh": {
+        "headline": "國際油畫交流大展中央圖書館揭幕",
+        "dek": "第二屆香港—北京—莫斯科—聖彼得堡—巴黎國際油畫交流大展今日起至16日在中央圖書館舉行，展出超過240幅本地及海外作品。"
+      }
+    },
+    {
+      "id": "2026-08-11-pcpd-doxxing-restaurant-dispute",
+      "published_at": "2026-08-11T13:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "pcpd",
+        "doxxing",
+        "privacy",
+        "police",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-11/2026-08-11-pcpd-doxxing-restaurant-dispute.json",
+      "en": {
+        "headline": "Privacy watchdog arrests man for alleged doxxing over restaurant debt dispute",
+        "dek": "A 37-year-old wholesale food supplier is suspected of disclosing personal details of a former restaurant operator and consultant online after a payment dispute, the Office of the Privacy Commissioner for Personal Data…"
+      },
+      "zh": {
+        "headline": "私隱專員公署拘男子涉因食肆欠款糾紛起底",
+        "dek": "一名37歲凍肉批發商涉嫌在網上披露前餐廳東主及顧問的個人資料，私隱專員公署表示案件源於一宗付款爭議。"
+      }
+    },
     {
       "id": "2026-08-11-kwai-chung-taxi-police-collision",
       "published_at": "2026-08-11T11:07:00+08:00",
