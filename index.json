@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-08-11T13:03:08+08:00",
+  "generated_at": "2026-08-11T21:06:44+08:00",
   "live_window_hours": 72,
-  "count": 52,
+  "count": 53,
   "articles": [
+    {
+      "id": "2026-08-11-hzmb-sightseeing-boat-missing-passenger",
+      "published_at": "2026-08-11T21:09:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "rescue",
+        "marine",
+        "tuen-mun",
+        "hzmb",
+        "missing-person"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-11/2026-08-11-hzmb-sightseeing-boat-missing-passenger.json",
+      "en": {
+        "headline": "Search under way for passenger missing from Shekou sightseeing boat near HZMB",
+        "dek": "Hong Kong marine police, fireboats and a Government Flying Service helicopter joined the search in waters west of Tuen Mun after the man was noticed missing on the return to Shenzhen."
+      },
+      "zh": {
+        "headline": "港珠澳大橋觀光船疑有乘客墮海 屯門海域搜救中",
+        "dek": "深圳蛇口出發的觀光船回程發現一名男乘客失蹤，香港水警、滅火輪及飛行服務隊直升機在屯門后海灣一帶搜索。"
+      }
+    },
+    {
+      "id": "2026-08-11-school-flu-vaccine-e-consent",
+      "published_at": "2026-08-11T21:08:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "influenza",
+        "flu",
+        "vaccine",
+        "children",
+        "chp"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-11/2026-08-11-school-flu-vaccine-e-consent.json",
+      "en": {
+        "headline": "School flu vaccine outreach switches to electronic consent forms from 17 August",
+        "dek": "Parents can submit consent via the eHealth app by scanning a school-specific QR code, streamlining paperwork for the 2026/27 Seasonal Influenza Vaccination School Outreach Programme."
+      },
+      "zh": {
+        "headline": "流感疫苗學校外展計劃下周一起推電子同意書",
+        "dek": "家長可由8月17日起經醫健通掃描學校專屬二維碼為子女遞交接種同意書，簡化填表及行政程序。"
+      }
+    },
+    {
+      "id": "2026-08-11-police-drone-kwun-tong-bypass-arrests",
+      "published_at": "2026-08-11T21:07:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "police",
+        "traffic",
+        "drones",
+        "dangerous-driving",
+        "kwun-tong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-11/2026-08-11-police-drone-kwun-tong-bypass-arrests.json",
+      "en": {
+        "headline": "Police arrest 10 for dangerous driving after first drone operation on Kwun Tong Bypass",
+        "dek": "Nine men and a woman aged 25 to 51 were detained between 3 and 10 August; officers seized seven private cars and three motorcycles in the East Kowloon operation."
+      },
+      "zh": {
+        "headline": "警首次用無人機打擊觀塘繞道危駕 拘10人扣10車",
+        "dek": "東九龍交通部3日至10日行動中，9男1女年齡25至51歲涉危險駕駛被捕，扣留7輛私家車及3輛電單車。"
+      }
+    },
+    {
+      "id": "2026-08-11-infant-flu-encephalopathy-aug11",
+      "published_at": "2026-08-11T21:06:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "influenza",
+        "flu",
+        "children",
+        "chp",
+        "sepsis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-11/2026-08-11-infant-flu-encephalopathy-aug11.json",
+      "en": {
+        "headline": "18-month-old in serious condition with influenza A and encephalopathy",
+        "dek": "The Centre for Health Protection is investigating a severe paediatric case; the previously healthy boy remains in intensive care at Queen Elizabeth Hospital after developing convulsions."
+      },
+      "zh": {
+        "headline": "18個月大男嬰染甲流併發腦病變及敗血性休克 情况嚴重",
+        "dek": "衞生防護中心正調查一宗兒童甲型流感嚴重個案，男嬰過往健康良好，現於伊利沙伯醫院兒童深切治療部留醫。"
+      }
+    },
     {
       "id": "2026-08-11-lifestyle-oil-painting-exchange-exhibition",
       "published_at": "2026-08-11T13:06:00+08:00",
@@ -1112,75 +1204,6 @@
       "zh": {
         "headline": "天文台錄34.7度創今年最高 上水高見38.5度",
         "dek": "受強颱風白海豚外圍下沉氣流影響，本港極端酷熱，天文台總部錄得今年最高氣溫，新界多區超過37度。"
-      }
-    },
-    {
-      "id": "2026-08-08-northern-metropolis-construction-boom",
-      "published_at": "2026-08-08T13:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "northern-metropolis",
-        "construction",
-        "bernadette-linn",
-        "talent",
-        "development"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-08/2026-08-08-northern-metropolis-construction-boom.json",
-      "en": {
-        "headline": "Bernadette Linn expects construction volume to rise with Northern Metropolis",
-        "dek": "The Development Secretary told a construction industry awards ceremony that the sector needs talent skilled in advanced technology and AI as project workload is set to increase in the coming years."
-      },
-      "zh": {
-        "headline": "甯漢豪料北都發展帶動工程量上升",
-        "dek": "發展局局長在建造業界頒獎禮表示，未來數年工程量持續上升，業界需積極裝備人才迎接前景。"
-      }
-    },
-    {
-      "id": "2026-08-08-flu-season-kwan-yat-wah",
-      "published_at": "2026-08-08T13:06:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "influenza",
-        "flu",
-        "vaccine",
-        "children",
-        "chp"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-08/2026-08-08-flu-season-kwan-yat-wah.json",
-      "en": {
-        "headline": "Paediatric expert says hard to predict flu peak, urges vaccination",
-        "dek": "Dr Kwan Yat-wah said Hong Kong faces a triple epidemic of influenza, COVID-19 and RSV, and the recent child death from H3 influenza was an individual case that should not undermine vaccine confidence."
-      },
-      "zh": {
-        "headline": "關日華：難估計流感何時見頂 籲接種疫苗",
-        "dek": "亞洲兒童傳染病學會會長指本港現受「三疫夾擊」，近期兒童甲流死亡屬個別事件，不應動搖對疫苗信心。"
-      }
-    },
-    {
-      "id": "2026-08-08-outbound-specialist-team-malaysia",
-      "published_at": "2026-08-08T13:05:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "outbound",
-        "malaysia",
-        "algernon-yau",
-        "mainland-enterprises",
-        "trade"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-08/2026-08-08-outbound-specialist-team-malaysia.json",
-      "en": {
-        "headline": "Algernon Yau to lead mainland and Hong Kong firms on Malaysia visit next week",
-        "dek": "The Commerce and Economic Development Secretary said the outbound specialist team has held more than 10 mainland promotion events and helped about 200 companies set up or expand in Hong Kong."
-      },
-      "zh": {
-        "headline": "丘應樺下周率內地及港企訪馬來西亞",
-        "dek": "商經局局長表示出海專班已在內地辦逾10場推介，約200間企業來港設立或擴展業務，準備走出去。"
       }
     }
   ]
