@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T13:05:49+08:00",
+  "updated_at": "2026-08-12T15:05:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -175,6 +175,12 @@
       "id": "2026-08-12-hep-a-vaccine-msm-ends",
       "first_seen": "2026-08-12T13:08:00+08:00",
       "headline_en": "CHP to end free hepatitis A vaccine for MSM from 12 September"
+    },
+    {
+      "key": "galaxy-entertainment-interim-results-1h2026",
+      "id": "2026-08-12-galaxy-entertainment-interim-results",
+      "first_seen": "2026-08-12T15:05:00+08:00",
+      "headline_en": "Galaxy Entertainment first-half profit edges up on Macau tourism recovery"
     }
   ]
 }
