@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-08-12T15:04:06+08:00",
+  "generated_at": "2026-08-12T21:05:15+08:00",
   "live_window_hours": 72,
-  "count": 58,
+  "count": 59,
   "articles": [
+    {
+      "id": "2026-08-12-cfs-pistachio-paste-aflatoxin",
+      "published_at": "2026-08-12T21:08:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "food-safety",
+        "cfs",
+        "recall",
+        "aflatoxin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-12/2026-08-12-cfs-pistachio-paste-aflatoxin.json",
+      "en": {
+        "headline": "CFS finds excessive aflatoxin in bottled pistachio paste, orders recall",
+        "dek": "A sample of Naturalam 100% Pure Pistachio Butter sold at Sogo contained 12 times the legal limit; the public is advised not to consume the affected batch."
+      },
+      "zh": {
+        "headline": "食安中心驗出開心果醬黃曲霉毒素超標 指令下架回收",
+        "dek": "天然之林純開心果醬樣本每公斤含120微克黃曲霉毒素，超法定上限11倍，市民應停止食用受影響批次。"
+      }
+    },
+    {
+      "id": "2026-08-12-building-management-ordinance-consultation",
+      "published_at": "2026-08-12T21:07:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "building-management",
+        "consultation",
+        "had",
+        "legislation",
+        "owners"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-12/2026-08-12-building-management-ordinance-consultation.json",
+      "en": {
+        "headline": "Government launches consultation on Building Management Ordinance reforms",
+        "dek": "Proposals include higher attendance and voting thresholds for large-scale works, limits on proxy votes, and stronger powers for the authority; views are invited until 11 September."
+      },
+      "zh": {
+        "headline": "政府就《建築物管理條例》修訂展開公眾諮詢",
+        "dek": "建議提高大型維修及大額採購的出席和投票門檻、限制授權票數量，並加強主管當局權力，諮詢期至9月11日。"
+      }
+    },
+    {
+      "id": "2026-08-12-paediatric-flu-17m-girl-critical",
+      "published_at": "2026-08-12T21:06:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "influenza",
+        "flu",
+        "children",
+        "chp",
+        "sepsis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-12/2026-08-12-paediatric-flu-17m-girl-critical.json",
+      "en": {
+        "headline": "17-month-old girl in critical condition with influenza A, pneumonia and septic shock",
+        "dek": "The Centre for Health Protection reported another severe paediatric case; the previously healthy toddler remains in intensive care at Queen Elizabeth Hospital."
+      },
+      "zh": {
+        "headline": "17個月大女嬰染甲流併發嚴重肺炎及敗血性休克 情況危殆",
+        "dek": "衞生防護中心公布再有兒童甲型流感嚴重個案，女嬰過往健康良好，現於伊利沙伯醫院兒童深切治療部留醫，情況危殆。"
+      }
+    },
+    {
+      "id": "2026-08-12-shing-mun-tunnel-tour-bus-driver-death",
+      "published_at": "2026-08-12T21:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "shing-mun-tunnel",
+        "tour-bus",
+        "sha-tin",
+        "tsuen-wan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-12/2026-08-12-shing-mun-tunnel-tour-bus-driver-death.json",
+      "en": {
+        "headline": "Tour bus driver dies after collapsing in Shing Mun Tunnel; 47 children unhurt",
+        "dek": "A 71-year-old driver lost consciousness while ferrying schoolchildren from Sha Tin toward Tsuen Wan; the vehicle struck a barrier and he later died in hospital."
+      },
+      "zh": {
+        "headline": "城門隧道旅遊巴司機昏迷撞壆後不治 車上47名幼童無恙",
+        "dek": "71歲男司機下午載學童由沙田往荃灣方向駛經城門隧道時突然失去知覺，旅遊巴撞向路壆，司機送院後不治，車上幼童全部無受傷。"
+      }
+    },
     {
       "id": "2026-08-12-galaxy-entertainment-interim-results",
       "published_at": "2026-08-12T15:05:00+08:00",
@@ -1245,75 +1336,6 @@
       "zh": {
         "headline": "天文台錄36.9度再破有紀錄最高溫 上水見39.8度",
         "dek": "受強颱風白海豚外圍下沉氣流影響，天文台總部周日下午錄得36.9度，刷新1884年有紀錄以來最高氣溫，上水自動氣象站更高見39.7至39.8度。"
-      }
-    },
-    {
-      "id": "2026-08-09-paul-chan-mega-events-h2",
-      "published_at": "2026-08-09T15:07:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "paul-chan",
-        "mega-events",
-        "tourism",
-        "retail",
-        "economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-09/2026-08-09-paul-chan-mega-events-h2.json",
-      "en": {
-        "headline": "Paul Chan expects over 100 mega events in second half to draw 1.85 million visitors",
-        "dek": "The Financial Secretary said first-half events already attracted 1.75 million participants and generated about HK$5.8 billion in spending, with retail sales rising for 14 consecutive months."
-      },
-      "zh": {
-        "headline": "陳茂波：下半年逾100項盛事料吸185萬旅客",
-        "dek": "財政司司長在網誌表示，上半年盛事已吸引175萬人次參與並帶來約58億元消費，零售業總銷貨價值連升14個月。"
-      }
-    },
-    {
-      "id": "2026-08-09-triad-laundering-rapidhorse",
-      "published_at": "2026-08-09T15:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "triad",
-        "money-laundering",
-        "organised-crime",
-        "rapidhorse"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-09/2026-08-09-triad-laundering-rapidhorse.json",
-      "en": {
-        "headline": "Police arrest 147 in triad syndicate linked to HK$600 million laundering",
-        "dek": "A citywide operation code-named Rapidhorse dismantled an alleged triad network running drug dens and illegal gambling, with officers seizing cash, jewellery and weapons after tracing criminal proceeds through puppet…"
-      },
-      "zh": {
-        "headline": "O記搗三合會洗黑錢集團拘147人 涉逾6億元",
-        "dek": "警方代號「捷駒」行動搗破懷疑三合會集團經營毒窟及賭檔，利用傀儡戶口清洗逾6億元犯罪得益，拘捕包括主腦在內共147人。"
-      }
-    },
-    {
-      "id": "2026-08-09-alltime-heat-record-aug9",
-      "published_at": "2026-08-09T15:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "very-hot-weather",
-        "heat",
-        "hko",
-        "record-temperature",
-        "dolphin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-09/2026-08-09-alltime-heat-record-aug9.json",
-      "en": {
-        "headline": "Observatory records 36.8°C, hottest day since records began in 1884",
-        "dek": "Under Severe Typhoon Dolphin’s outer subsiding air, the Hong Kong Observatory headquarters reached a new all-time high of 36.8 degrees Celsius on Sunday afternoon, while Happy Valley hit 38 degrees."
-      },
-      "zh": {
-        "headline": "天文台錄36.8度破有紀錄最高溫 跑馬地見38度",
-        "dek": "受強颱風白海豚外圍下沉氣流影響，天文台總部周日下午錄得36.8度，刷新1884年有紀錄以來最高氣溫，跑馬地更高見38度。"
       }
     }
   ]
