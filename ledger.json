@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T15:04:06+08:00",
+  "updated_at": "2026-08-12T21:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -181,6 +181,30 @@
       "id": "2026-08-12-galaxy-entertainment-interim-results",
       "first_seen": "2026-08-12T15:05:00+08:00",
       "headline_en": "Galaxy Entertainment first-half profit edges up on Macau tourism recovery"
+    },
+    {
+      "key": "shing-mun-tunnel-tour-bus-driver-death-aug12",
+      "id": "2026-08-12-shing-mun-tunnel-tour-bus-driver-death",
+      "first_seen": "2026-08-12T21:05:00+08:00",
+      "headline_en": "Tour bus driver dies after collapsing in Shing Mun Tunnel; 47 children unhurt"
+    },
+    {
+      "key": "paediatric-flu-17m-girl-critical-aug12",
+      "id": "2026-08-12-paediatric-flu-17m-girl-critical",
+      "first_seen": "2026-08-12T21:06:00+08:00",
+      "headline_en": "17-month-old girl in critical condition with influenza A, pneumonia and septic shock"
+    },
+    {
+      "key": "building-management-ordinance-consultation-aug12",
+      "id": "2026-08-12-building-management-ordinance-consultation",
+      "first_seen": "2026-08-12T21:07:00+08:00",
+      "headline_en": "Government launches consultation on Building Management Ordinance reforms"
+    },
+    {
+      "key": "cfs-pistachio-paste-aflatoxin-aug12",
+      "id": "2026-08-12-cfs-pistachio-paste-aflatoxin",
+      "first_seen": "2026-08-12T21:08:00+08:00",
+      "headline_en": "CFS finds excessive aflatoxin in bottled pistachio paste, orders recall"
     }
   ]
 }
