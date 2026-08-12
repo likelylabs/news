@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-12T13:05:49+08:00",
+  "generated_at": "2026-08-12T15:04:06+08:00",
   "live_window_hours": 72,
-  "count": 59,
+  "count": 58,
   "articles": [
+    {
+      "id": "2026-08-12-galaxy-entertainment-interim-results",
+      "published_at": "2026-08-12T15:05:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "galaxy-entertainment",
+        "macau",
+        "gaming",
+        "interim-results",
+        "dividend"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-12/2026-08-12-galaxy-entertainment-interim-results.json",
+      "en": {
+        "headline": "Galaxy Entertainment first-half profit edges up on Macau tourism recovery",
+        "dek": "Net profit rose 0.8 per cent to HK$5.28 billion while revenue increased 4.2 per cent; the group declared an interim dividend of HK$0.90 per share."
+      },
+      "zh": {
+        "headline": "銀河娛樂上半年盈利微升0.8% 派中期息0.9元",
+        "dek": "受澳門旅客回升帶動，集團錄得淨利潤52.8億元，收入升4.2%；董事會宣佈派發中期股息每股0.9港元。"
+      }
+    },
     {
       "id": "2026-08-12-hep-a-vaccine-msm-ends",
       "published_at": "2026-08-12T13:08:00+08:00",
@@ -1291,52 +1314,6 @@
       "zh": {
         "headline": "天文台錄36.8度破有紀錄最高溫 跑馬地見38度",
         "dek": "受強颱風白海豚外圍下沉氣流影響，天文台總部周日下午錄得36.8度，刷新1884年有紀錄以來最高氣溫，跑馬地更高見38度。"
-      }
-    },
-    {
-      "id": "2026-08-09-five-year-plan-district-forum",
-      "published_at": "2026-08-09T13:12:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "five-year-plan",
-        "policy-address",
-        "john-lee",
-        "consultation",
-        "northern-metropolis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-09/2026-08-09-five-year-plan-district-forum.json",
-      "en": {
-        "headline": "Lee says independent building-maintenance agency worth considering",
-        "dek": "At the second district forum on Hong Kong’s first five-year plan and the 2026 Policy Address, the Chief Executive responded to public suggestions on housing, youth development and building repairs."
-      },
-      "zh": {
-        "headline": "李家超：獨立專業機構代辦樓宇維修值得考慮",
-        "dek": "特首李家超周日率領司局長出席第二場五年規劃及2026年施政報告地區諮詢會，回應市民就房屋、青年發展及樓宇維修等建議。"
-      }
-    },
-    {
-      "id": "2026-08-09-record-heat-temperature-aug9",
-      "published_at": "2026-08-09T13:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "very-hot-weather",
-        "heat",
-        "hko",
-        "record-temperature",
-        "dolphin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-09/2026-08-09-record-heat-temperature-aug9.json",
-      "en": {
-        "headline": "Observatory records 36.0°C, new high for the year",
-        "dek": "The Hong Kong Observatory headquarters logged 36.0 degrees Celsius by early afternoon on Sunday under the influence of Severe Typhoon Dolphin’s outer subsiding air, surpassing the previous 2026 peak."
-      },
-      "zh": {
-        "headline": "天文台錄36.0度創今年新高",
-        "dek": "受強颱風白海豚外圍下沉氣流影響，天文台總部周日中午前後錄得36.0度，刷新今年最高氣溫紀錄，新界多區超過37度。"
       }
     }
   ]
