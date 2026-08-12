@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T21:05:15+08:00",
+  "updated_at": "2026-08-12T23:08:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -205,6 +205,24 @@
       "id": "2026-08-12-cfs-pistachio-paste-aflatoxin",
       "first_seen": "2026-08-12T21:08:00+08:00",
       "headline_en": "CFS finds excessive aflatoxin in bottled pistachio paste, orders recall"
+    },
+    {
+      "key": "bishop-hill-clearance-starts-aug12",
+      "id": "2026-08-12-bishop-hill-clearance-starts",
+      "first_seen": "2026-08-12T23:05:00+08:00",
+      "headline_en": "Government begins first phase of Bishop Hill clearance"
+    },
+    {
+      "key": "jimmy-white-hk-resident-aug12",
+      "id": "2026-08-12-jimmy-white-hk-resident",
+      "first_seen": "2026-08-12T23:06:00+08:00",
+      "headline_en": "Snooker star Jimmy White becomes Hong Kong resident via talent scheme"
+    },
+    {
+      "key": "yan-chai-nurse-indecent-assault-aug12",
+      "id": "2026-08-12-yan-chai-nurse-indecent-assault",
+      "first_seen": "2026-08-12T23:07:00+08:00",
+      "headline_en": "Police arrest 80-year-old man after community nurse reports indecent assault"
     }
   ]
 }
