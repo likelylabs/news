@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-08-12T21:05:15+08:00",
+  "generated_at": "2026-08-12T23:05:41+08:00",
   "live_window_hours": 72,
-  "count": 59,
+  "count": 56,
   "articles": [
+    {
+      "id": "2026-08-12-yan-chai-nurse-indecent-assault",
+      "published_at": "2026-08-12T23:07:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "hospital",
+        "yan-chai",
+        "indecent-assault",
+        "community-nurse"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-12/2026-08-12-yan-chai-nurse-indecent-assault.json",
+      "en": {
+        "headline": "Police arrest 80-year-old man after community nurse reports indecent assault",
+        "dek": "Yan Chai Hospital said a community nurse was allegedly assaulted during home visits on 31 July and 4 August; the hospital has zero tolerance for such behaviour and is supporting the staff member."
+      },
+      "zh": {
+        "headline": "仁濟社康護士外出探訪疑被非禮 警拘80歲男子",
+        "dek": "院方指一名社康護士於7月31日及8月4日探訪期間懷疑被非禮，接報後報警，警方其後拘捕一名80歲男子。"
+      }
+    },
+    {
+      "id": "2026-08-12-jimmy-white-hk-resident",
+      "published_at": "2026-08-12T23:06:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "snooker",
+        "talent-scheme",
+        "immigration",
+        "jimmy-white"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-12/2026-08-12-jimmy-white-hk-resident.json",
+      "en": {
+        "headline": "Snooker star Jimmy White becomes Hong Kong resident via talent scheme",
+        "dek": "The English player known as ‘The Whirlwind’ obtained his identity card through the Quality Migrant Admission Scheme and said he plans to open a snooker academy in the city."
+      },
+      "zh": {
+        "headline": "桌球名將占美韋德成香港居民 擬開桌球學院",
+        "dek": "有「白旋風」之稱的英國桌球手透過優秀人才入境計劃取得香港身份證，表示計劃在港開設桌球學校培育本地人才。"
+      }
+    },
+    {
+      "id": "2026-08-12-bishop-hill-clearance-starts",
+      "published_at": "2026-08-12T23:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sham-shui-po",
+        "bishop-hill",
+        "clearance",
+        "had",
+        "recreation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-12/2026-08-12-bishop-hill-clearance-starts.json",
+      "en": {
+        "headline": "Government begins first phase of Bishop Hill clearance",
+        "dek": "Authorities started removing unauthorised structures and facilities on the Sham Shui Po hillside today, sealing one side for about three days while keeping access open via the other entrance."
+      },
+      "zh": {
+        "headline": "政府展開主教山首階段清場",
+        "dek": "當局今日開始清理深水埗窩仔山違法及不安全構築物，首階段圍封棠蔭街一邊約三日，另一邊入口仍可供市民上山。"
+      }
+    },
     {
       "id": "2026-08-12-cfs-pistachio-paste-aflatoxin",
       "published_at": "2026-08-12T21:08:00+08:00",
@@ -1199,143 +1267,6 @@
       "zh": {
         "headline": "警拘5人涉19村屋爆竊 損失約210萬 主腦疑安排人蛇犯案",
         "dek": "新界北總區刑事總部瓦解活躍於屯門、元朗、大埔的村屋爆竊團伙，涉案19個單位總損失約210萬元，兩名疑犯懷疑非法入境。"
-      }
-    },
-    {
-      "id": "2026-08-09-customs-airport-cannabis-6kg",
-      "published_at": "2026-08-09T23:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "airport",
-        "cannabis",
-        "drugs",
-        "trafficking"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-09/2026-08-09-customs-airport-cannabis-6kg.json",
-      "en": {
-        "headline": "Customs seizes 6kg of suspected cannabis buds at airport, arrests mainland man",
-        "dek": "A 31-year-old mainland passenger arriving from Bangkok via Singapore was arrested after officers found about 6 kilograms of suspected cannabis buds worth an estimated HK$1.1 million in his checked luggage."
-      },
-      "zh": {
-        "headline": "海關機場檢6公斤懷疑大麻花 拘31歲內地男子",
-        "dek": "一名31歲內地男旅客由泰國曼谷經新加坡抵港，海關在其寄艙行李箱內發現約6公斤懷疑大麻花，估計市值約110萬元，男子已被控販運危險藥物罪，明日提堂。"
-      }
-    },
-    {
-      "id": "2026-08-09-five-year-plan-september-target",
-      "published_at": "2026-08-09T21:12:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "five-year-plan",
-        "policy-address",
-        "john-lee",
-        "consultation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-09/2026-08-09-five-year-plan-september-target.json",
-      "en": {
-        "headline": "Lee targets September release for Hong Kong’s first five-year plan",
-        "dek": "After a district consultation forum, the Chief Executive said the government aims to publish the plan within the third quarter and wants the subsequent Policy Address issued as soon as possible afterwards."
-      },
-      "zh": {
-        "headline": "李家超：目標9月內發表香港首份五年規劃",
-        "dek": "特首出席地區諮詢會後表示，五年規劃諮詢本周五結束，政府目標於第三季即9月內發表，其後盡快公布施政報告。"
-      }
-    },
-    {
-      "id": "2026-08-09-tai-po-hiker-death",
-      "published_at": "2026-08-09T21:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "heat",
-        "hiking",
-        "tai-po",
-        "plover-cove",
-        "rescue"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-09/2026-08-09-tai-po-hiker-death.json",
-      "en": {
-        "headline": "Hiker dies after collapsing on Plover Cove Reservoir Country Trail",
-        "dek": "A 64-year-old Filipino man holding a Hong Kong identity card was found unconscious on the trail near Tai Po on Sunday afternoon and was certified dead while being airlifted; police are investigating whether heat…"
-      },
-      "zh": {
-        "headline": "大埔船灣郊遊徑男子暈倒 直升機送院途中不治",
-        "dek": "周日下午一名64歲持香港身份證的菲律賓籍男子於船灣淡水湖郊遊徑被發現昏迷，飛行服務隊直升機送院途中證實不治，警方調查是否與中暑有關。"
-      }
-    },
-    {
-      "id": "2026-08-09-five-year-old-flu-severe",
-      "published_at": "2026-08-09T21:10:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "influenza",
-        "flu",
-        "children",
-        "chp",
-        "sepsis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-09/2026-08-09-five-year-old-flu-severe.json",
-      "en": {
-        "headline": "Five-year-old with chronic illness in serious condition after influenza A",
-        "dek": "The Centre for Health Protection is investigating a case of influenza A (H1) complicated by sepsis; the girl, who had received the 2025/26 seasonal vaccine, remains in the paediatric intensive care unit at Tuen Mun…"
-      },
-      "zh": {
-        "headline": "5歲長期病患女童染甲流併發敗血症 情况嚴重",
-        "dek": "衞生防護中心調查一宗兒童甲型流感嚴重個案，女童已接種2025/26年度季節性流感疫苗，現於屯門醫院兒童深切治療部留醫，情况嚴重。"
-      }
-    },
-    {
-      "id": "2026-08-09-taikoo-shing-ac-fire",
-      "published_at": "2026-08-09T21:09:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "taikoo-shing",
-        "harbour-view-gardens",
-        "air-conditioner",
-        "evacuation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-09/2026-08-09-taikoo-shing-ac-fire.json",
-      "en": {
-        "headline": "Air-conditioner fire at Taikoo Shing sends 16 to hospital",
-        "dek": "A suspected short-circuit in a split-type air-conditioner on the 20th floor of Begonia Mansion at Harbour View Gardens caused heavy smoke on Sunday afternoon; about 300 residents were evacuated and more than 20 waited…"
-      },
-      "zh": {
-        "headline": "太古城海棠閣冷氣機起火 16人不適送院",
-        "dek": "周日下午海景花園海棠閣20樓單位懷疑分體式冷氣機電線短路起火，冒出大量濃煙，約300人疏散，逾20人暫上天台，16人不適送院。"
-      }
-    },
-    {
-      "id": "2026-08-09-alltime-heat-record-369",
-      "published_at": "2026-08-09T21:08:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "very-hot-weather",
-        "heat",
-        "hko",
-        "record-temperature",
-        "dolphin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-09/2026-08-09-alltime-heat-record-369.json",
-      "en": {
-        "headline": "Observatory records 36.9°C, new all-time high since 1884",
-        "dek": "Under Severe Typhoon Dolphin’s outer subsiding air, the Hong Kong Observatory headquarters reached 36.9 degrees Celsius by mid-afternoon, while Sheung Shui hit 39.7–39.8 degrees, the highest at any automatic station…"
-      },
-      "zh": {
-        "headline": "天文台錄36.9度再破有紀錄最高溫 上水見39.8度",
-        "dek": "受強颱風白海豚外圍下沉氣流影響，天文台總部周日下午錄得36.9度，刷新1884年有紀錄以來最高氣溫，上水自動氣象站更高見39.7至39.8度。"
       }
     }
   ]
