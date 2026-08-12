@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T07:06:54+08:00",
+  "updated_at": "2026-08-12T11:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -131,7 +131,7 @@
     {
       "key": "huanggang-port-cross-department-drill-aug11",
       "id": "2026-08-12-huanggang-port-cross-department-drill",
-      "first_seen": "2026-08-12T07:05:00+08:00",
+      "first_seen": "2026-08-12T03:15:00+08:00",
       "headline_en": "Customs and Immigration run cross-department drill at new Huanggang Port"
     },
     {
@@ -139,6 +139,18 @@
       "id": "2026-08-12-yuen-long-anti-prostitution-19-arrested",
       "first_seen": "2026-08-12T07:06:00+08:00",
       "headline_en": "Police and Immigration arrest 19 mainland women in Yuen Long anti-prostitution operation"
+    },
+    {
+      "key": "sai-kung-po-toi-o-fish-raft-fire-aug12",
+      "id": "2026-08-12-sai-kung-po-toi-o-fish-raft-fire",
+      "first_seen": "2026-08-12T11:10:00+08:00",
+      "headline_en": "Fish raft fire in Sai Kung’s Po Toi O injures man; vessels damaged"
+    },
+    {
+      "key": "housing-society-rent-increase-2026",
+      "id": "2026-08-12-housing-society-rent-increase",
+      "first_seen": "2026-08-12T11:12:00+08:00",
+      "headline_en": "Housing Society raises rents 2.85% from October at most rental estates"
     }
   ]
 }
