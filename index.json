@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-08-12T23:05:41+08:00",
+  "generated_at": "2026-08-13T01:14:02+08:00",
   "live_window_hours": 72,
-  "count": 56,
+  "count": 58,
   "articles": [
+    {
+      "id": "2026-08-13-baby-basic-pasta-weevil-recall",
+      "published_at": "2026-08-13T01:14:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "food-safety",
+        "recall",
+        "cfs",
+        "children",
+        "baby-food"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-13/2026-08-13-baby-basic-pasta-weevil-recall.json",
+      "en": {
+        "headline": "Baby Basic recalls pasta and congee products after rice weevil reports",
+        "dek": "The local baby-food maker has withdrawn several instant products from shelves as a precaution and suspended production of three pasta varieties; government tests have not confirmed a health risk."
+      },
+      "zh": {
+        "headline": "寶寶百味回收米形麵及粥品 疑有穀牛",
+        "dek": "本地嬰幼兒食品商周三自願下架多款即食產品並暫停三款米形麵生產，作為預防措施；政府化驗未證實健康風險。"
+      }
+    },
+    {
+      "id": "2026-08-13-chu-hai-college-finance-director-court",
+      "published_at": "2026-08-13T01:13:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "courts",
+        "theft",
+        "tuen-mun",
+        "education"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-13/2026-08-13-chu-hai-college-finance-director-court.json",
+      "en": {
+        "headline": "Chu Hai College finance director remanded over alleged HK$41m theft",
+        "dek": "Ray Yip Kam-chun appeared in Tuen Mun Court on Wednesday facing a theft charge; his wife and an engineering contractor were also denied bail on money-laundering counts."
+      },
+      "zh": {
+        "headline": "珠海學院財務總監涉盜竊4100萬 還押候訊",
+        "dek": "葉錦真周三在屯門裁判法院提堂，被控盜竊罪；妻子及一名工程商亦因清洗黑錢罪名不准保釋。"
+      }
+    },
+    {
+      "id": "2026-08-13-very-hot-weather-continues-thursday",
+      "published_at": "2026-08-13T01:12:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "very-hot-weather",
+        "heat",
+        "hko"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-13/2026-08-13-very-hot-weather-continues-thursday.json",
+      "en": {
+        "headline": "Very Hot Weather Warning remains in force as heat eases only slightly",
+        "dek": "The Observatory expects sunny periods and one or two showers on Thursday, with urban highs around 34 degrees Celsius and continued very hot conditions across the territory."
+      },
+      "zh": {
+        "headline": "酷熱天氣警告仍然生效 極端酷熱稍為緩和",
+        "dek": "天文台預料星期四部分時間有陽光及一兩陣驟雨，市區最高氣溫約34度，本港天氣仍然酷熱。"
+      }
+    },
     {
       "id": "2026-08-12-yan-chai-nurse-indecent-assault",
       "published_at": "2026-08-12T23:07:00+08:00",
@@ -1244,29 +1311,6 @@
       "zh": {
         "headline": "破紀錄高溫僅發黃色工作暑熱警告 勞工處稱會檢視系統",
         "dek": "周日天文台錄36.9度破1884年有紀錄最高，勞工處全天只維持黃色工作暑熱警告，工會及前天文台台長批評門檻過高；處方表示會密切留意並檢視是否需進一步優化。"
-      }
-    },
-    {
-      "id": "2026-08-09-village-house-burglary-gang",
-      "published_at": "2026-08-09T23:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "burglary",
-        "village-house",
-        "nt-north",
-        "illegal-immigrants"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-09/2026-08-09-village-house-burglary-gang.json",
-      "en": {
-        "headline": "Police arrest five over 19 village-house burglaries linked to illegal entrants",
-        "dek": "A New Territories North crime unit dismantled a gang targeting quiet village houses near hillsides, with total losses of about HK$2.1 million; two suspects are alleged illegal immigrants."
-      },
-      "zh": {
-        "headline": "警拘5人涉19村屋爆竊 損失約210萬 主腦疑安排人蛇犯案",
-        "dek": "新界北總區刑事總部瓦解活躍於屯門、元朗、大埔的村屋爆竊團伙，涉案19個單位總損失約210萬元，兩名疑犯懷疑非法入境。"
       }
     }
   ]
