@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T11:06:10+08:00",
+  "updated_at": "2026-08-12T13:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -151,6 +151,30 @@
       "id": "2026-08-12-housing-society-rent-increase",
       "first_seen": "2026-08-12T11:12:00+08:00",
       "headline_en": "Housing Society raises rents 2.85% from October at most rental estates"
+    },
+    {
+      "key": "yuen-long-unlicensed-dogs-afcd-aug12",
+      "id": "2026-08-12-yuen-long-unlicensed-dogs-afcd",
+      "first_seen": "2026-08-12T13:05:00+08:00",
+      "headline_en": "AFCD prosecutes woman over 136 unlicensed dogs at Yuen Long shelter"
+    },
+    {
+      "key": "queen-mary-hospital-lifts-fix-aug12",
+      "id": "2026-08-12-queen-mary-hospital-lifts-fix",
+      "first_seen": "2026-08-12T13:06:00+08:00",
+      "headline_en": "ASD demands urgent lift repairs at Queen Mary Hospital new clinical block"
+    },
+    {
+      "key": "dse-super-top-scorer-appeal-aug12",
+      "id": "2026-08-12-dse-super-top-scorer-appeal",
+      "first_seen": "2026-08-12T13:07:00+08:00",
+      "headline_en": "DSE appeal results add one more super top scorer from Yuen Long school"
+    },
+    {
+      "key": "hep-a-vaccine-msm-ends-aug12",
+      "id": "2026-08-12-hep-a-vaccine-msm-ends",
+      "first_seen": "2026-08-12T13:08:00+08:00",
+      "headline_en": "CHP to end free hepatitis A vaccine for MSM from 12 September"
     }
   ]
 }
