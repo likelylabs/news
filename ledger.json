@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T23:05:41+08:00",
+  "updated_at": "2026-08-13T01:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -223,6 +223,24 @@
       "id": "2026-08-12-yan-chai-nurse-indecent-assault",
       "first_seen": "2026-08-12T23:07:00+08:00",
       "headline_en": "Police arrest 80-year-old man after community nurse reports indecent assault"
+    },
+    {
+      "key": "very-hot-weather-continues-aug13",
+      "id": "2026-08-13-very-hot-weather-continues-thursday",
+      "first_seen": "2026-08-13T01:12:00+08:00",
+      "headline_en": "Very Hot Weather Warning remains in force as heat eases only slightly"
+    },
+    {
+      "key": "chu-hai-college-finance-theft-court-aug12",
+      "id": "2026-08-13-chu-hai-college-finance-director-court",
+      "first_seen": "2026-08-13T01:13:00+08:00",
+      "headline_en": "Chu Hai College finance director remanded over alleged HK$41m theft"
+    },
+    {
+      "key": "baby-basic-pasta-recall-aug12",
+      "id": "2026-08-13-baby-basic-pasta-weevil-recall",
+      "first_seen": "2026-08-13T01:14:00+08:00",
+      "headline_en": "Baby Basic recalls pasta and congee products after rice weevil reports"
     }
   ]
 }
