@@ -78,13 +78,15 @@ h2 { font-size:1.05rem; margin:2rem 0 .6rem; color:var(--muted);
   text-transform:uppercase; letter-spacing:.04em; }
 .meta { color:var(--muted); font-size:.85rem; margin:.2rem 0 1rem; }
 .meta .badge { color:var(--badge); font-weight:700; }
+.pill { display:inline-block; background:var(--chip); border:1px solid var(--line);
+  border-radius:999px; padding:.05rem .6rem; font-size:.75rem;
+  color:var(--muted); margin-right:.5rem; white-space:nowrap; }
 .dek { font-size:1.05rem; color:var(--muted); margin:0 0 1.2rem; }
 .disclosure { font-size:.8rem; color:var(--muted); border-left:3px solid var(--line);
   padding-left:.75rem; margin:1.5rem 0; }
 .updated { font-size:.85rem; color:var(--badge); margin:.5rem 0 1rem; }
 ul.items { list-style:none; margin:0; padding:0; }
 ul.items li { padding:.55rem 0; border-bottom:1px solid var(--line); }
-ul.items .when { color:var(--muted); font-size:.8rem; margin-right:.5rem; }
 ul.items .cat { color:var(--muted); font-size:.8rem; margin-left:.5rem; }
 ul.items .badge { color:var(--badge); font-size:.8rem; font-weight:700; margin-left:.5rem; }
 ul.items .dek { font-size:.9rem; margin:.15rem 0 0; }
@@ -142,6 +144,12 @@ def month_label(ym):
 def day_label(d):
     en = f"{d.day} {MONTH_NAMES_EN[d.month - 1]} {d.year}"
     zh = f"{d.year}年{d.month}月{d.day}日"
+    return en, zh
+
+
+def short_day_label(d):
+    en = f"{d.day} {MONTH_NAMES_EN[d.month - 1][:3]}"
+    zh = f"{d.month}月{d.day}日"
     return en, zh
 
 
@@ -216,13 +224,17 @@ def lang_block(art, lang):
     return d.get("headline", ""), d.get("dek", ""), d.get("body", [])
 
 
-def item_li(pub, art_id, art, with_dek=False):
+def item_li(pub, art_id, art, with_dek=False, date_pill=False):
     cat_en, cat_zh = category_label(art.get("category", ""))
     h_en, dek_en, _ = lang_block(art, "en")
     h_zh, dek_zh, _ = lang_block(art, "zh")
     badge = f'<span class="badge">{bi("Breaking", "突發")}</span>' if art.get("breaking") else ""
     dek = f'<p class="dek">{bi(dek_en, dek_zh)}</p>' if with_dek else ""
-    return (f'<li><span class="when">{pub.strftime("%H:%M")}</span>'
+    pill = ""
+    if date_pill:
+        s_en, s_zh = short_day_label(pub.date())
+        pill = f'<span class="pill">{bi(s_en, s_zh)}</span>'
+    return (f'<li>{pill}'
             f'<a href="{esc(art_id)}.html">{bi(h_en, h_zh)}</a>'
             f'<span class="cat">{bi(cat_en, cat_zh)}</span>{badge}{dek}</li>')
 
@@ -232,7 +244,6 @@ def render_article(pub, art_id, art):
     h_en, dek_en, body_en = lang_block(art, "en")
     h_zh, dek_zh, body_zh = lang_block(art, "zh")
     d_en, d_zh = day_label(pub.date())
-    when = pub.strftime("%H:%M")
     ym = art_id[:7]
     m_en, m_zh = month_label(ym)
 
@@ -252,7 +263,7 @@ def render_article(pub, art_id, art):
     body_html = f"""
 <article>
   <h1>{bi(h_en, h_zh)}</h1>
-  <p class="meta">{bi(d_en, d_zh)} {when} · {bi(cat_en, cat_zh)}{badge}</p>
+  <p class="meta"><span class="pill">{bi(d_en, d_zh)}</span>{bi(cat_en, cat_zh)}{badge}</p>
   {updated}
   <p class="dek">{bi(dek_en, dek_zh)}</p>
   <div class="l-en" lang="en">{paras_en}</div>
@@ -296,7 +307,7 @@ def render_index(items, months):
         return page("Archive", "檔案", "\n".join(parts))
     parts.append(f"<h2>{bi('Recently archived', '最近存檔')}</h2><ul class=\"items\">")
     for pub, art_id, art in items[:FRONT_PAGE_RECENT]:
-        parts.append(item_li(pub, art_id, art, with_dek=True))
+        parts.append(item_li(pub, art_id, art, with_dek=True, date_pill=True))
     parts.append("</ul>")
     parts.append(f"<h2>{bi('By month', '按月瀏覽')}</h2><ul class=\"months\">")
     for ym in sorted(months, reverse=True):
