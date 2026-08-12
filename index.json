@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13T01:14:02+08:00",
+  "generated_at": "2026-08-13T03:21:49+08:00",
   "live_window_hours": 72,
-  "count": 58,
+  "count": 56,
   "articles": [
     {
       "id": "2026-08-13-baby-basic-pasta-weevil-recall",
@@ -1265,52 +1265,6 @@
       "zh": {
         "headline": "酷熱天氣警告仍然生效 極端酷熱持續",
         "dek": "天文台指熱帶氣旋白海豚外圍下沉氣流影響，今明兩日部分地區氣溫達37度或以上，市區最高約36度。"
-      }
-    },
-    {
-      "id": "2026-08-10-mtr-tiu-keng-leng-hand-trapped",
-      "published_at": "2026-08-10T01:16:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "tiu-keng-leng",
-        "passenger-safety",
-        "train-door",
-        "tseung-kwan-o-line"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-10/2026-08-10-mtr-tiu-keng-leng-hand-trapped.json",
-      "en": {
-        "headline": "MTR passenger’s hand trapped in train door while retrieving item from tracks",
-        "dek": "A man suffered finger injuries on a Tseung Kwan O Line train after attempting to pick up a dropped phone near Tiu Keng Leng; the train returned to the station and staff recovered the item."
-      },
-      "zh": {
-        "headline": "港鐵乘客執路軌物品遭車門夾手 三指受傷送院",
-        "dek": "一名男子周五晚在調景嶺站開出的將軍澳綫列車上，疑因手機跌落路軌伸手拾取時被車門夾住手指，列車折返車站後由救護車送院。"
-      }
-    },
-    {
-      "id": "2026-08-10-heat-stress-warning-system-review",
-      "published_at": "2026-08-10T01:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "heat-stress",
-        "labour-department",
-        "outdoor-workers",
-        "very-hot-weather",
-        "warning-system"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-10/2026-08-10-heat-stress-warning-system-review.json",
-      "en": {
-        "headline": "Labour Department to review heat-stress warning system after amber alert on record-hot day",
-        "dek": "Unions and a former Observatory director criticised the system for remaining at the lowest amber level throughout Sunday’s all-time high of 36.9°C; the department said it will monitor operations and consider further…"
-      },
-      "zh": {
-        "headline": "破紀錄高溫僅發黃色工作暑熱警告 勞工處稱會檢視系統",
-        "dek": "周日天文台錄36.9度破1884年有紀錄最高，勞工處全天只維持黃色工作暑熱警告，工會及前天文台台長批評門檻過高；處方表示會密切留意並檢視是否需進一步優化。"
       }
     }
   ]
