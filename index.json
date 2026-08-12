@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-08-12T11:06:10+08:00",
+  "generated_at": "2026-08-12T13:05:49+08:00",
   "live_window_hours": 72,
-  "count": 55,
+  "count": 59,
   "articles": [
+    {
+      "id": "2026-08-12-hep-a-vaccine-msm-ends",
+      "published_at": "2026-08-12T13:08:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "chp",
+        "hepatitis",
+        "vaccine",
+        "public-health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-12/2026-08-12-hep-a-vaccine-msm-ends.json",
+      "en": {
+        "headline": "CHP to end free hepatitis A vaccine for MSM from 12 September",
+        "dek": "The Centre for Health Protection said the transmission chain linked to a cluster among men who have sex with men has been interrupted and cases have returned to baseline levels."
+      },
+      "zh": {
+        "headline": "男男性接觸者免費甲肝疫苗接種安排9月12日停止",
+        "dek": "衞生防護中心指涉及男男性接觸者的甲型肝炎群組傳播鏈已截斷，個案回落至基線水平，免費接種安排將於9月12日結束。"
+      }
+    },
+    {
+      "id": "2026-08-12-dse-super-top-scorer-appeal",
+      "published_at": "2026-08-12T13:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "dse",
+        "education",
+        "exam",
+        "yuen-long",
+        "university"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-12/2026-08-12-dse-super-top-scorer-appeal.json",
+      "en": {
+        "headline": "DSE appeal results add one more super top scorer from Yuen Long school",
+        "dek": "A student from Heung Yee Kuk Yuen Long District Secondary School secured seven 5** grades after a successful biology review, lifting the year’s total top scorers to 25 and super top scorers to 12."
+      },
+      "zh": {
+        "headline": "文憑試覆核結果新增一名超級狀元 來自元朗鄉中",
+        "dek": "新界鄉議局元朗區中學孫菀青成功覆核生物科後共獲七科5**，今屆狀元增至25人、超級狀元增至12人，已獲港大醫學院錄取。"
+      }
+    },
+    {
+      "id": "2026-08-12-queen-mary-hospital-lifts-fix",
+      "published_at": "2026-08-12T13:06:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "hospital",
+        "queen-mary",
+        "construction",
+        "lifts",
+        "asd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-12/2026-08-12-queen-mary-hospital-lifts-fix.json",
+      "en": {
+        "headline": "ASD demands urgent lift repairs at Queen Mary Hospital new clinical block",
+        "dek": "Only four of 28 lifts are operating in Clinical Block 1; the Architectural Services Department has ordered the contractor to complete rectification by the fourth quarter and reserved the right to claim damages."
+      },
+      "zh": {
+        "headline": "建築署責成瑪麗醫院新大樓承建商盡早完成升降機執修",
+        "dek": "臨床大樓1共28部升降機目前只有4部可用，建築署已責成總承建商及分判商盡快完成執修，預算今年第四季內完成，並保留追究權利。"
+      }
+    },
+    {
+      "id": "2026-08-12-yuen-long-unlicensed-dogs-afcd",
+      "published_at": "2026-08-12T13:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "afcd",
+        "dogs",
+        "yuen-long",
+        "animal-welfare",
+        "licensing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-12/2026-08-12-yuen-long-unlicensed-dogs-afcd.json",
+      "en": {
+        "headline": "AFCD prosecutes woman over 136 unlicensed dogs at Yuen Long shelter",
+        "dek": "The Agriculture, Fisheries and Conservation Department charged a woman under the Rabies Regulation after a raid on a Yuen Long animal shelter found 136 dogs without valid licences."
+      },
+      "zh": {
+        "headline": "漁護署檢控元朗收容所女子 涉無牌畜養136隻狗",
+        "dek": "漁護署接市民投訴後突擊檢查元朗一間動物收容所，發現136隻懷疑未領有效牌照的狗隻，已向一名女子提出檢控。"
+      }
+    },
     {
       "id": "2026-08-12-housing-society-rent-increase",
       "published_at": "2026-08-12T11:12:00+08:00",
