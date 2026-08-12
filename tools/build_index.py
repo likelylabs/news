@@ -20,7 +20,8 @@ ARTICLES_DIR = REPO / "articles"
 INDEX_PATH = REPO / "index.json"
 
 # Articles whose published_at is within this window appear in index.json.
-# On-disk retention (deletion) is separate and longer — see tools/prune.py.
+# Older articles stay on disk forever and are served at /archive/
+# (tools/build_archive.py, which must keep the same window).
 LIVE_WINDOW_HOURS = 72
 HKT = timezone(timedelta(hours=8))
 
