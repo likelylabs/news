@@ -91,6 +91,21 @@ jobs:
           test -f _site/.nojekyll  || { echo "::error::.nojekyll missing from artifact";  exit 1; }
           test -f _site/index.json || { echo "::error::index.json missing from artifact"; exit 1; }
 
+      - name: Build archive site
+        if: steps.gate.outputs.go == 'true'
+        run: |
+          set -uo pipefail
+          # /archive/ is rendered fresh each deploy, never committed. If the
+          # generator fails, the app feed still ships — degrade, don't block:
+          # a hard fail here would also wedge the 30-min reconciler loop.
+          if python3 tools/build_archive.py --out _site/archive \
+             && test -f _site/archive/index.html; then
+            echo "archive: $(find _site/archive -name '*.html' | wc -l) page(s)"
+          else
+            echo "::warning title=Archive build failed::deploying WITHOUT /archive/ so the feed stays fresh — fix tools/build_archive.py"
+            rm -rf _site/archive
+          fi
+
       - uses: actions/configure-pages@v6
         if: steps.gate.outputs.go == 'true'
       - uses: actions/upload-pages-artifact@v5

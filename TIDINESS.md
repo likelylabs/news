@@ -40,13 +40,14 @@ or edit it. Hand-editing it is the one sure way to desync the app from
 reality (tenet #5). If it ever looks wrong, re-run the Action — don't patch
 the file.
 
-## Retention is automatic
+## Articles are permanent; the ledger self-trims
 
-`tools/prune.py` (also run by the Action) deletes article files older than
-**14 days** and trims ledger keys older than **14 days**. Git history is the
-permanent archive, so nothing is truly lost. Don't delete articles manually
-to "clean up" — let prune do it, and never delete a live article to hide a
-mistake.
+Article files are **never deleted**. Anything older than the 72h live
+window is served human-readably at `/archive/` (rendered at deploy time by
+`tools/build_archive.py` — output never committed). `tools/prune.py` (also
+run by the Action) now only trims ledger keys older than **14 days**. Don't
+delete articles manually to "clean up", and never delete a live article to
+hide a mistake.
 
 ## Articles are immutable except for corrections
 

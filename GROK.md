@@ -292,7 +292,7 @@ translation reads worst, so write it natively for a Hong Kong reader.
    "headline_en": "<en.headline>" }`.
 9. **Never touch `index.json`.** You do **not** build the index. Once you
    commit your article files and the ledger update, the repository's GitHub
-   Action validates every article against the schema, prunes old files, and
+   Action validates every article against the schema, trims the ledger, and
    regenerates `index.json` automatically. Your only job is to make sure each
    article file is **valid JSON that matches `schema/article.schema.json`**
    before you commit. (If — and only if — your run environment can execute
@@ -400,5 +400,5 @@ Published articles are **immutable** except for genuine factual
 corrections. To correct one: edit its existing file (keep the same `id` and
 `published_at`), fix the fact, set `updated_at` to now `+08:00`, and note
 the correction in a final body paragraph ("Correction: …"). Never silently
-rewrite history, and never delete a published article to hide an error —
-prune handles retention automatically.
+rewrite history, and never delete a published article — articles are
+permanent (older ones are served on the public archive automatically).
