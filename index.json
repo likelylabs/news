@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-08-13T21:07:28+08:00",
+  "generated_at": "2026-08-13T23:10:16+08:00",
   "live_window_hours": 72,
-  "count": 61,
+  "count": 58,
   "articles": [
+    {
+      "id": "2026-08-13-aedes-albopictus-index-aug-second-batch",
+      "published_at": "2026-08-13T23:12:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "mosquito",
+        "dengue",
+        "fehd",
+        "public-health",
+        "aedes"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-13/2026-08-13-aedes-albopictus-index-aug-second-batch.json",
+      "en": {
+        "headline": "Kowloon Tong records highest Aedes mosquito index in latest FEHD survey",
+        "dek": "Eleven of 16 surveyed areas reached Level 2, indicating fairly extensive distribution of Aedes albopictus; the department issued three prosecutions and multiple statutory notices over breeding sites."
+      },
+      "zh": {
+        "headline": "八月第二批白紋伊蚊指數 九龍塘最高達16.7% 食環提三宗檢控",
+        "dek": "16個監察地區中有11區屬第二級別，顯示白紋伊蚊分布頗為廣泛；東區及九龍城發現滋生地點並採取執法行動。"
+      }
+    },
+    {
+      "id": "2026-08-13-ck-hutchison-interim-results",
+      "published_at": "2026-08-13T23:11:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "ck-hutchison",
+        "interim-results",
+        "ports",
+        "dividend",
+        "li-ka-shing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-13/2026-08-13-ck-hutchison-interim-results.json",
+      "en": {
+        "headline": "CK Hutchison first-half profit surges more than 30-fold on asset sales",
+        "dek": "Reported profit attributable to shareholders reached HK$26.8 billion, driven by gains from UK infrastructure disposals; underlying profit rose about 7 per cent and the interim dividend increased 5 per cent."
+      },
+      "zh": {
+        "headline": "長和上半年純利飆升逾30倍至268億元 派中期息0.7455元",
+        "dek": "主要受惠出售英國基建資產收益，基本溢利升約7%；中期息按年增加5%，淨負債比率降至歷史低位。"
+      }
+    },
+    {
+      "id": "2026-08-13-mcdonalds-shrimp-burger-suspension",
+      "published_at": "2026-08-13T23:10:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "food-safety",
+        "mcdonalds",
+        "recall",
+        "antibiotics",
+        "cfs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-13/2026-08-13-mcdonalds-shrimp-burger-suspension.json",
+      "en": {
+        "headline": "McDonald’s Hong Kong suspends shrimp burgers after Taiwan finds banned antibiotic",
+        "dek": "The local operator said its shrimp patties come from a different Thai production batch and recipe, but paused sales of the Ebi range as a precaution to address public concern."
+      },
+      "zh": {
+        "headline": "台麥當勞蝦堡驗出禁用抗生素 港方預防性停售滋味蝦堡系列",
+        "dek": "香港麥當勞指本地蝦餅配方及批次與台灣不同，為釋除公眾疑慮即時暫停出售相關產品。"
+      }
+    },
     {
       "id": "2026-08-13-public-housing-waiting-time-4-8",
       "published_at": "2026-08-13T21:08:00+08:00",
@@ -1240,143 +1309,6 @@
       "zh": {
         "headline": "酷熱天氣警告仍然生效 今日繼續極端酷熱",
         "dek": "天文台料熱帶氣旋白海豚外圍下沉氣流影響下，星期二大致天晴極端酷熱，部分地區氣溫達37度或以上。"
-      }
-    },
-    {
-      "id": "2026-08-10-uber-elite-kwoon-chung-launch",
-      "published_at": "2026-08-10T23:07:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "uber",
-        "transport",
-        "kwoon-chung",
-        "premium-service",
-        "tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-10/2026-08-10-uber-elite-kwoon-chung-launch.json",
-      "en": {
-        "headline": "Uber launches first Asia-Pacific Elite premium service with Kwoon Chung",
-        "dek": "The partnership offers pre-booked Mercedes-Benz S-Class and V-Class rides with uniformed chauffeurs, targeting business travellers and making Hong Kong the first market outside the United States to introduce the service."
-      },
-      "zh": {
-        "headline": "Uber聯乘冠忠推Elite尊尚服務 成亞太首個市場",
-        "dek": "乘客可經App預約平治S及V-Class豪華車，司機穿制服並完成培訓，服務涵蓋機場接送，香港為美國以外首個推出地點。"
-      }
-    },
-    {
-      "id": "2026-08-10-simplified-flats-registration-progress",
-      "published_at": "2026-08-10T23:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "simplified-flats",
-        "subdivided-units",
-        "winnie-ho",
-        "registration"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-10/2026-08-10-simplified-flats-registration-progress.json",
-      "en": {
-        "headline": "Over 34,000 subdivided units registered under simplified-flats scheme",
-        "dek": "Housing Secretary Winnie Ho said about 70 per cent of Hong Kong’s estimated 110,000 subdivided units need only minor works to meet minimum standards, and registration progress is satisfactory."
-      },
-      "zh": {
-        "headline": "逾3.4萬分間單位已交簡樸房登記申請 何永賢稱進度理想",
-        "dek": "房屋局局長指全港約11萬個分間單位中，約七成只需小規模改動即可符合最低標準，鼓勵業主在8月31日前登記。"
-      }
-    },
-    {
-      "id": "2026-08-10-police-drone-traffic-enforcement",
-      "published_at": "2026-08-10T23:05:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "police",
-        "traffic",
-        "drones",
-        "west-kowloon",
-        "enforcement"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-10/2026-08-10-police-drone-traffic-enforcement.json",
-      "en": {
-        "headline": "Police deploy drones for first time in West Kowloon traffic enforcement",
-        "dek": "A two-week territory-wide operation targeting careless driving and other offences began with aerial patrols along the West Kowloon Highway and Lin Cheung Road on Monday."
-      },
-      "zh": {
-        "headline": "警方西九龍公路首次出動無人機交通執法",
-        "dek": "為期兩周的全港交通執法行動周一展開，西九龍總區率先於連翔道及西九龍公路以無人機空中監察，重點打擊不專注駕駛等違例。"
-      }
-    },
-    {
-      "id": "2026-08-10-tsuen-wan-community-living-room",
-      "published_at": "2026-08-10T21:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community-living-room",
-        "tsuen-wan",
-        "subdivided-flats",
-        "chan-kwok-ki",
-        "welfare"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-10/2026-08-10-tsuen-wan-community-living-room.json",
-      "en": {
-        "headline": "Hong Kong’s largest community living room opens in Tsuen Wan",
-        "dek": "The 7,000-square-foot facility is the sixth new living room opened this year and is expected to serve about 610 subdivided-flat households, Chief Secretary Chan Kwok-ki said."
-      },
-      "zh": {
-        "headline": "全港最大社區客廳在荃灣開幕",
-        "dek": "政務司司長陳國基表示，實用面積約7,000平方呎的荃灣社區客廳是今年第六間新設施，料可惠及約610個劏房戶。"
-      }
-    },
-    {
-      "id": "2026-08-10-infant-flu-critical-aug10",
-      "published_at": "2026-08-10T21:09:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "influenza",
-        "flu",
-        "children",
-        "chp",
-        "sepsis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-10/2026-08-10-infant-flu-critical-aug10.json",
-      "en": {
-        "headline": "20-month-old infant in critical condition after influenza A and septic shock",
-        "dek": "The Centre for Health Protection is investigating the case of a previously healthy boy who developed fever and convulsions; he remains in paediatric intensive care at Queen Elizabeth Hospital."
-      },
-      "zh": {
-        "headline": "20個月大男嬰染甲流併發敗血性休克危殆",
-        "dek": "衞生防護中心調查一宗兒童甲型流感嚴重個案，男嬰過往健康良好，現於伊利沙伯醫院兒童深切治療部留醫，情况危殆。"
-      }
-    },
-    {
-      "id": "2026-08-10-lam-tei-reservoir-drowning",
-      "published_at": "2026-08-10T21:08:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "drowning",
-        "tuen-mun",
-        "reservoir",
-        "rescue"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-10/2026-08-10-lam-tei-reservoir-drowning.json",
-      "en": {
-        "headline": "Man dies after suspected drowning at Tuen Mun’s Lam Tei Reservoir",
-        "dek": "Firefighters recovered a man in his 30s from the water near the dam outlet on Monday afternoon; he was certified dead at the scene and police are investigating the circumstances."
-      },
-      "zh": {
-        "headline": "屯門藍地水塘男子疑遇溺不治",
-        "dek": "周一午後一名年約30多歲男子在藍地水塘水壩放水口附近載浮載沉，消防救起後當場證實死亡，警方正調查身分及原因。"
       }
     }
   ]
