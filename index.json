@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-08-13T05:11:30+08:00",
+  "generated_at": "2026-08-13T09:09:42+08:00",
   "live_window_hours": 72,
-  "count": 56,
+  "count": 53,
   "articles": [
+    {
+      "id": "2026-08-13-mong-kok-tesla-pedestrian",
+      "published_at": "2026-08-13T09:12:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "mong-kok",
+        "tesla",
+        "pedestrian"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-13/2026-08-13-mong-kok-tesla-pedestrian.json",
+      "en": {
+        "headline": "Tesla hits pedestrian in Mong Kok after series of lane changes",
+        "dek": "A 59-year-old woman suffered limb and buttock injuries and was taken conscious to Kwong Wah Hospital; the 52-year-old driver passed a breath test and was not arrested."
+      },
+      "zh": {
+        "headline": "旺角Tesla連切線轉彎撞傷女途人",
+        "dek": "59歲姓冼女途人手腳及臀部受傷，清醒送廣華醫院；52歲姓陳男司機通過酒精測試，暫無人被捕。"
+      }
+    },
+    {
+      "id": "2026-08-13-wu-kai-sha-pier-drowning",
+      "published_at": "2026-08-13T09:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "drowning",
+        "ma-on-shan",
+        "wu-kai-sha",
+        "rescue"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-13/2026-08-13-wu-kai-sha-pier-drowning.json",
+      "en": {
+        "headline": "82-year-old man dies after being pulled from water at Wu Kai Sha pier",
+        "dek": "The man, surnamed Chan, was found unconscious by other swimmers around 4pm on Wednesday and was later certified dead at Prince of Wales Hospital; a post-mortem examination is pending."
+      },
+      "zh": {
+        "headline": "烏溪沙碼頭82歲男子遇溺不治",
+        "dek": "男子周三下午約4時被其他泳客發現昏迷，送往威爾斯親王醫院後證實死亡，死因有待剖驗確定。"
+      }
+    },
+    {
+      "id": "2026-08-13-customs-airport-cigarettes-190k-jail",
+      "published_at": "2026-08-13T09:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "airport",
+        "cigarettes",
+        "smuggling",
+        "courts"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-13/2026-08-13-customs-airport-cigarettes-190k-jail.json",
+      "en": {
+        "headline": "Two mainland men jailed 10 months for 190,000 duty-not-paid cigarettes at airport",
+        "dek": "Customs seized the cigarettes, with a market value of about HK$850,000, from the personal baggage of passengers arriving from Vientiane via Hanoi; the sentences were handed down at West Kowloon Magistrates’ Courts."
+      },
+      "zh": {
+        "headline": "兩內地男攜19萬支未完稅香煙抵港 同判囚10個月",
+        "dek": "海關在機場兩名由老撾經河內抵港旅客的個人行李檢獲合共約19萬支未完稅香煙，市值約85萬元；西九龍裁判法院周三判處各人監禁10個月。"
+      }
+    },
     {
       "id": "2026-08-13-baby-basic-pasta-weevil-recall",
       "published_at": "2026-08-13T01:14:00+08:00",
@@ -1128,143 +1195,6 @@
       "zh": {
         "headline": "警方拘八人涉援交詐騙涉款620萬元",
         "dek": "疑犯在社交平台出示假名片，自稱律師或富商，承諾每月支付數萬元後向事主索取所謂律師費。"
-      }
-    },
-    {
-      "id": "2026-08-10-lifestyle-commune-causeway-bay",
-      "published_at": "2026-08-10T09:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "restaurant",
-        "causeway-bay",
-        "opening"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-10/2026-08-10-lifestyle-commune-causeway-bay.json",
-      "en": {
-        "headline": "Mainland bar-restaurant chain Commune opens first Hong Kong outlet",
-        "dek": "The flagship store at Lee Garden Three in Causeway Bay marks the start of the chain’s overseas expansion, with plans for more locations and a regional headquarters in the city."
-      },
-      "zh": {
-        "headline": "內地酒吧餐廳連鎖Commune首店進駐銅鑼灣",
-        "dek": "旗艦店位於利園三期，計劃一年內再開分店，並在港設立地區總部統籌海外擴展。"
-      }
-    },
-    {
-      "id": "2026-08-10-uniformed-groups-membership-drop",
-      "published_at": "2026-08-10T09:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "youth",
-        "uniformed-groups",
-        "home-youth-affairs",
-        "membership",
-        "scouts"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-10/2026-08-10-uniformed-groups-membership-drop.json",
-      "en": {
-        "headline": "Youth membership in uniformed groups falls 8% over five years",
-        "dek": "Home and Youth Affairs Bureau figures show total membership across 11 subsidised groups dropped from 117,671 to 108,551 between 2020-21 and 2024-25, linked to low birth rates."
-      },
-      "zh": {
-        "headline": "制服團體青年會員五年跌8% 出生率低為主因",
-        "dek": "民政及青年事務局數字顯示，11個受資助制服團體會員由2020-21年11.7萬人降至2024-25年10.8萬人，十年間跌近18%。"
-      }
-    },
-    {
-      "id": "2026-08-10-lifestyle-food-expo-2026",
-      "published_at": "2026-08-10T07:08:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "food",
-        "exhibition",
-        "hktdc",
-        "wan-chai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-10/2026-08-10-lifestyle-food-expo-2026.json",
-      "en": {
-        "headline": "Food Expo and concurrent fairs open at Convention Centre from 13 August",
-        "dek": "The HKTDC event runs five days with more than 1,850 exhibitors from over 30 countries and regions; public tickets start from HK$30 and cover multiple concurrent shows."
-      },
-      "zh": {
-        "headline": "美食博覽8月13日起會展開鑼 一票行勻多展",
-        "dek": "貿發局主辦的第36屆美食博覽及同期展覽於灣仔會展舉行，超過1,850家展商參展，公眾館門票30元起。"
-      }
-    },
-    {
-      "id": "2026-08-10-tin-hau-teens-cannabis-arrest",
-      "published_at": "2026-08-10T07:07:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "drugs",
-        "cannabis",
-        "youth",
-        "tin-hau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-10/2026-08-10-tin-hau-teens-cannabis-arrest.json",
-      "en": {
-        "headline": "Six teenagers arrested after boy found unconscious in Tin Hau flat with cannabis",
-        "dek": "Police seized a small amount of suspected cannabis and a pair of iron knuckles after a 16-year-old was discovered semi-conscious in a toilet; the six, aged 13 to 18, face drug and weapons possession charges."
-      },
-      "zh": {
-        "headline": "天后單位16歲少年暈倒 警拘6青少年檢大麻及鐵蓮花",
-        "dek": "保安發現16歲少年半清醒倒卧廁所，警在單位檢獲少量懷疑大麻花及鐵蓮花，拘捕3男3女，年齡介乎13至18歲。"
-      }
-    },
-    {
-      "id": "2026-08-10-morse-park-football-brawl",
-      "published_at": "2026-08-10T07:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "assault",
-        "wong-tai-sin",
-        "football",
-        "morse-park"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-10/2026-08-10-morse-park-football-brawl.json",
-      "en": {
-        "headline": "Man injured in Morse Park football brawl; no arrests yet",
-        "dek": "A 43-year-old man reported being attacked by about 11 people during an amateur match at the Wong Tai Sin pitch on Sunday evening; police classified the case as assault occasioning actual bodily harm."
-      },
-      "zh": {
-        "headline": "摩士公園足球賽變群毆 43歲男子受傷暫無人被捕",
-        "dek": "黃大仙摩士公園周日晚業餘球賽發生衝突，43歲男子報稱遭約11人圍毆，左眼瘀傷、頭部流血，案件列襲擊致造成身體傷害。"
-      }
-    },
-    {
-      "id": "2026-08-10-extreme-hot-weather-continues-monday",
-      "published_at": "2026-08-10T07:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "very-hot-weather",
-        "heat",
-        "hko",
-        "dolphin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-10/2026-08-10-extreme-hot-weather-continues-monday.json",
-      "en": {
-        "headline": "Extremely hot weather continues under Very Hot Weather Warning",
-        "dek": "The Observatory said Tropical Cyclone Dolphin’s outer subsiding air will keep temperatures high today and tomorrow, with urban highs around 36°C and some New Territories areas reaching 37°C or above."
-      },
-      "zh": {
-        "headline": "酷熱天氣警告仍然生效 極端酷熱持續",
-        "dek": "天文台指熱帶氣旋白海豚外圍下沉氣流影響，今明兩日部分地區氣溫達37度或以上，市區最高約36度。"
       }
     }
   ]
