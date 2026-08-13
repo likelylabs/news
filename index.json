@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-08-13T23:10:16+08:00",
+  "generated_at": "2026-08-14T01:04:56+08:00",
   "live_window_hours": 72,
-  "count": 58,
+  "count": 60,
   "articles": [
+    {
+      "id": "2026-08-14-lifestyle-re-love-festival-vintage-mills",
+      "published_at": "2026-08-14T01:04:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "festival",
+        "the-mills",
+        "tsuen-wan",
+        "vintage"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-14/2026-08-14-lifestyle-re-love-festival-vintage-mills.json",
+      "en": {
+        "headline": "Re-Love Festival shifts to Vintage Revival theme at The Mills this weekend",
+        "dek": "The second weekend of the Re-Love Festival at The Mills in Tsuen Wan opens today with a Vintage Revival programme featuring markets, classic cars and 1960s–1980s style."
+      },
+      "zh": {
+        "headline": "南豐紗廠Re-Love綠續生活節本周末轉入古著文化祭",
+        "dek": "荃灣南豐紗廠Re-Love綠續生活節第二周末由今日起以「古著文化祭」為主題，包括市集、老爺車及六十至八十年代風格活動。"
+      }
+    },
+    {
+      "id": "2026-08-14-thunderstorm-warning-early-morning",
+      "published_at": "2026-08-14T01:03:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "thunderstorm",
+        "hko",
+        "weather"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-14/2026-08-14-thunderstorm-warning-early-morning.json",
+      "en": {
+        "headline": "Thunderstorm Warning in force until 3:30 a.m. with isolated squally storms",
+        "dek": "The Hong Kong Observatory has issued a Thunderstorm Warning effective until 3:30 a.m. Friday, expecting isolated squally thunderstorms across the territory."
+      },
+      "zh": {
+        "headline": "雷暴警告生效至凌晨3時30分 局部地區有狂風雷暴",
+        "dek": "天文台發出雷暴警告，有效至周五凌晨3時30分，預料本港有局部地區出現狂風雷暴。"
+      }
+    },
     {
       "id": "2026-08-13-aedes-albopictus-index-aug-second-batch",
       "published_at": "2026-08-13T23:12:00+08:00",
