@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T15:07:45+08:00",
+  "updated_at": "2026-08-13T21:08:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -301,6 +301,30 @@
       "id": "2026-08-13-hysan-interim-results",
       "first_seen": "2026-08-13T15:08:00+08:00",
       "headline_en": "Hysan first-half underlying profit rises 7.4% on residential sales gains"
+    },
+    {
+      "key": "very-hot-weather-warning-cancelled-aug13",
+      "id": "2026-08-13-very-hot-weather-warning-cancelled",
+      "first_seen": "2026-08-13T21:05:00+08:00",
+      "headline_en": "Very Hot Weather Warning cancelled after nine consecutive hot days"
+    },
+    {
+      "key": "mtr-interim-results-1h2026",
+      "id": "2026-08-13-mtr-interim-results",
+      "first_seen": "2026-08-13T21:06:00+08:00",
+      "headline_en": "MTR first-half profit more than doubles to HK$15.87 billion on property gains"
+    },
+    {
+      "key": "huanggang-port-public-transport-drill-aug13",
+      "id": "2026-08-13-huanggang-port-stress-drill",
+      "first_seen": "2026-08-13T21:07:00+08:00",
+      "headline_en": "Around 1,000 civil servants take part in first large Huanggang Port transport drill"
+    },
+    {
+      "key": "public-housing-cwt-4-8-q2-2026",
+      "id": "2026-08-13-public-housing-waiting-time-4-8",
+      "first_seen": "2026-08-13T21:08:00+08:00",
+      "headline_en": "Public housing waiting time edges up to 4.8 years in latest quarter"
     }
   ]
 }
