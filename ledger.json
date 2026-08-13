@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T05:11:30+08:00",
+  "updated_at": "2026-08-13T09:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -241,6 +241,24 @@
       "id": "2026-08-13-baby-basic-pasta-weevil-recall",
       "first_seen": "2026-08-13T01:14:00+08:00",
       "headline_en": "Baby Basic recalls pasta and congee products after rice weevil reports"
+    },
+    {
+      "key": "customs-airport-cigarettes-190k-aug12",
+      "id": "2026-08-13-customs-airport-cigarettes-190k-jail",
+      "first_seen": "2026-08-13T09:10:00+08:00",
+      "headline_en": "Two mainland men jailed 10 months for 190,000 duty-not-paid cigarettes at airport"
+    },
+    {
+      "key": "wu-kai-sha-pier-drowning-aug12",
+      "id": "2026-08-13-wu-kai-sha-pier-drowning",
+      "first_seen": "2026-08-13T09:11:00+08:00",
+      "headline_en": "82-year-old man dies after being pulled from water at Wu Kai Sha pier"
+    },
+    {
+      "key": "mong-kok-tesla-pedestrian-aug12",
+      "id": "2026-08-13-mong-kok-tesla-pedestrian",
+      "first_seen": "2026-08-13T09:12:00+08:00",
+      "headline_en": "Tesla hits pedestrian in Mong Kok after series of lane changes"
     }
   ]
 }
