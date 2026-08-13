@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-08-13T15:07:45+08:00",
+  "generated_at": "2026-08-13T21:07:28+08:00",
   "live_window_hours": 72,
-  "count": 57,
+  "count": 61,
   "articles": [
+    {
+      "id": "2026-08-13-public-housing-waiting-time-4-8",
+      "published_at": "2026-08-13T21:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "public-housing",
+        "waiting-time",
+        "housing-bureau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-13/2026-08-13-public-housing-waiting-time-4-8.json",
+      "en": {
+        "headline": "Public housing waiting time edges up to 4.8 years in latest quarter",
+        "dek": "The Housing Bureau said the slight rise reflects more long-waiting applicants being housed in popular urban and extended urban units; the target remains 4.5 years by 2026/27."
+      },
+      "zh": {
+        "headline": "公屋綜合輪候時間微升至4.8年 房屋局指仍向4.5年目標邁進",
+        "dek": "房屋局公布截至6月底綜合輪候時間4.8年，較上季升0.1年，仍低於5年；目標維持2026/27年度回落至4.5年。"
+      }
+    },
+    {
+      "id": "2026-08-13-huanggang-port-stress-drill",
+      "published_at": "2026-08-13T21:07:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "huanggang",
+        "border",
+        "customs",
+        "immigration",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-13/2026-08-13-huanggang-port-stress-drill.json",
+      "en": {
+        "headline": "Around 1,000 civil servants take part in first large Huanggang Port transport drill",
+        "dek": "Secretary for Security Chris Tang said the stress test of the public transport interchange went smoothly and officials noted areas for improvement such as signage and queue control."
+      },
+      "zh": {
+        "headline": "新皇崗口岸逾千公務員參與公共運輸壓力測試 鄧炳強指順利",
+        "dek": "保安局局長鄧炳強表示演練安排周密、過程順利，已識別指示牌及排隊管理等可改進範疇。"
+      }
+    },
+    {
+      "id": "2026-08-13-mtr-interim-results",
+      "published_at": "2026-08-13T21:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "mtr",
+        "interim-results",
+        "property",
+        "rail"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-13/2026-08-13-mtr-interim-results.json",
+      "en": {
+        "headline": "MTR first-half profit more than doubles to HK$15.87 billion on property gains",
+        "dek": "Strong contributions from Tai Wai Station and Southside Package 5 projects lifted property development profit by 120.7 per cent; interim dividend held at 42 cents."
+      },
+      "zh": {
+        "headline": "港鐵上半年盈利倍增至158.7億元 物業發展收益大增",
+        "dek": "大圍站及黃竹坑南港島線第五期項目帶動物業發展溢利升120.7%；中期息維持每股0.42元。"
+      }
+    },
+    {
+      "id": "2026-08-13-very-hot-weather-warning-cancelled",
+      "published_at": "2026-08-13T21:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "very-hot-weather",
+        "hko",
+        "heat"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-13/2026-08-13-very-hot-weather-warning-cancelled.json",
+      "en": {
+        "headline": "Very Hot Weather Warning cancelled after nine consecutive hot days",
+        "dek": "The Hong Kong Observatory lifted the warning at 7.20pm on Thursday as temperatures eased; the city had recorded highs of 33 degrees Celsius or above for nine days running."
+      },
+      "zh": {
+        "headline": "酷熱天氣警告晚上取消 連續九日最高溫33度或以上",
+        "dek": "天文台周四晚上7時20分取消酷熱天氣警告；本港連續九日錄得最高氣溫33度或以上，平八月最長紀錄。"
+      }
+    },
     {
       "id": "2026-08-13-hysan-interim-results",
       "published_at": "2026-08-13T15:08:00+08:00",
