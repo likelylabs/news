@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-08-14T05:12:07+08:00",
+  "generated_at": "2026-08-14T07:07:30+08:00",
   "live_window_hours": 72,
-  "count": 57,
+  "count": 58,
   "articles": [
+    {
+      "id": "2026-08-14-thunderstorm-warning-morning",
+      "published_at": "2026-08-14T07:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "thunderstorm",
+        "hko",
+        "weather"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-14/2026-08-14-thunderstorm-warning-morning.json",
+      "en": {
+        "headline": "Thunderstorm Warning extended until 8:45 a.m. with squally storms",
+        "dek": "The Hong Kong Observatory has extended the Thunderstorm Warning issued at 4:45 a.m. until 8:45 a.m. Friday, expecting a few squally thunderstorms over Hong Kong."
+      },
+      "zh": {
+        "headline": "雷暴警告延至上午8時45分 局部地區有狂風雷暴",
+        "dek": "天文台將今早4時45分發出的雷暴警告延長至周五上午8時45分，預料本港有幾陣狂風雷暴。"
+      }
+    },
     {
       "id": "2026-08-14-lifestyle-re-love-festival-vintage-mills",
       "published_at": "2026-08-14T01:04:00+08:00",
