@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-14-thunderstorm-warning-morning",
+  "published_at": "2026-08-14T07:10:00+08:00",
+  "category": "weather",
+  "tags": ["thunderstorm", "hko", "weather"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "thunderstorm-warning-aug14-morning",
+  "en": {
+    "headline": "Thunderstorm Warning extended until 8:45 a.m. with squally storms",
+    "dek": "The Hong Kong Observatory has extended the Thunderstorm Warning issued at 4:45 a.m. until 8:45 a.m. Friday, expecting a few squally thunderstorms over Hong Kong.",
+    "body": [
+      "The Hong Kong Observatory said the Thunderstorm Warning first issued at 4:45 a.m. on Friday has been extended and remains in force until 8:45 a.m. A few squally thunderstorms are expected to occur over the territory.",
+      "At 6 a.m. the Observatory recorded 29 degrees Celsius with relative humidity of 81 per cent. Lightning was detected between 4:45 a.m. and 5:45 a.m. over New Territories East, Hong Kong Island and Kowloon, with rainfall of up to 17 mm recorded in parts of the Southern District and up to 14 mm in the Eastern District.",
+      "The Observatory advised the public to seek safe shelter if outdoors, leave the water and avoid outdoor water sports, and keep away from high ground, trees and highly conductive objects. Showers associated with an upper-air disturbance and a southwesterly airstream are expected to continue affecting southern China today."
+    ]
+  },
+  "zh": {
+    "headline": "雷暴警告延至上午8時45分 局部地區有狂風雷暴",
+    "dek": "天文台將今早4時45分發出的雷暴警告延長至周五上午8時45分，預料本港有幾陣狂風雷暴。",
+    "body": [
+      "香港天文台表示，周五凌晨4時45分發出的雷暴警告已延長，有效至上午8時45分，預料本港有幾陣狂風雷暴。",
+      "上午6時，天文台錄得氣溫29度，相對濕度81%。凌晨4時45分至5時45分，新界東、香港島及九龍有閃電，南區部分地區錄得降雨量最高17毫米，東區最高14毫米。",
+      "天文台呼籲市民在戶外時尋找安全地方躲避，離開水面及避免進行水上活動，並遠離高地、樹木及導電物體。與高空擾動及西南氣流相關的驟雨預料今日繼續影響華南。"
+    ]
+  }
+}
