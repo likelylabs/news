@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T23:10:16+08:00",
+  "updated_at": "2026-08-14T01:04:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -343,6 +343,18 @@
       "id": "2026-08-13-aedes-albopictus-index-aug-second-batch",
       "first_seen": "2026-08-13T23:12:00+08:00",
       "headline_en": "Kowloon Tong records highest Aedes mosquito index in latest FEHD survey"
+    },
+    {
+      "key": "thunderstorm-warning-aug14-early",
+      "id": "2026-08-14-thunderstorm-warning-early-morning",
+      "first_seen": "2026-08-14T01:03:00+08:00",
+      "headline_en": "Thunderstorm Warning in force until 3:30 a.m. with isolated squally storms"
+    },
+    {
+      "key": "lifestyle-re-love-festival-vintage-mills",
+      "id": "2026-08-14-lifestyle-re-love-festival-vintage-mills",
+      "first_seen": "2026-08-14T01:04:00+08:00",
+      "headline_en": "Re-Love Festival shifts to Vintage Revival theme at The Mills this weekend"
     }
   ]
 }

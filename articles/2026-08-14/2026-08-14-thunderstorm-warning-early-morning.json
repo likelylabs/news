@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-14-thunderstorm-warning-early-morning",
+  "published_at": "2026-08-14T01:03:00+08:00",
+  "category": "weather",
+  "tags": ["thunderstorm", "hko", "weather"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "thunderstorm-warning-aug14-early",
+  "en": {
+    "headline": "Thunderstorm Warning in force until 3:30 a.m. with isolated squally storms",
+    "dek": "The Hong Kong Observatory has issued a Thunderstorm Warning effective until 3:30 a.m. Friday, expecting isolated squally thunderstorms across the territory.",
+    "body": [
+      "The Hong Kong Observatory issued a Thunderstorm Warning that remains in force until 3:30 a.m. on Friday. Isolated squally thunderstorms are expected to affect Hong Kong.",
+      "Lightning was detected between 10:45 p.m. and 11:45 p.m. on Thursday over Lantau and the western New Territories. Rainfall of up to 7 mm was recorded in parts of Sha Tin and Tai Po during that period.",
+      "The Observatory forecast mainly cloudy conditions on Friday with occasional showers and squally thunderstorms, heavier at times in the morning. Temperatures are expected to range between 27 and 31 degrees Celsius under moderate southwesterly winds."
+    ]
+  },
+  "zh": {
+    "headline": "雷暴警告生效至凌晨3時30分 局部地區有狂風雷暴",
+    "dek": "天文台發出雷暴警告，有效至周五凌晨3時30分，預料本港有局部地區出現狂風雷暴。",
+    "body": [
+      "香港天文台發出雷暴警告，有效時間至周五凌晨3時30分。預料香港有局部地區出現狂風雷暴。",
+      "周四晚上10時45分至11時45分，大嶼山及新界西錄得閃電。沙田及大埔部分地區雨量錄得最多7毫米。",
+      "天文台預料周五大致多雲，間中有驟雨及狂風雷暴，初時雨勢有時頗大。氣溫介乎27至31度，吹和緩西南風。"
+    ]
+  }
+}
