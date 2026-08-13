@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-08-13T09:09:42+08:00",
+  "generated_at": "2026-08-13T13:06:07+08:00",
   "live_window_hours": 72,
-  "count": 53,
+  "count": 54,
   "articles": [
+    {
+      "id": "2026-08-13-lifestyle-tsuen-wan-food-waste-pilot",
+      "published_at": "2026-08-13T13:17:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food-waste",
+        "recycling",
+        "tsuen-wan",
+        "environment"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-13/2026-08-13-lifestyle-tsuen-wan-food-waste-pilot.json",
+      "en": {
+        "headline": "Tsuen Wan street shops to trial dedicated food-waste collection points from September",
+        "dek": "The Environmental Protection Department will set up three new collection points serving more than 100 shops selling meat, fruit, vegetables and fish, with bins open daily from 9am to 9pm."
+      },
+      "zh": {
+        "headline": "荃灣街舖九月試行廚餘回收點 覆蓋逾百間肉菜魚檔",
+        "dek": "環保署將在川龍街、河背街一帶增設三個回收點，每日上午9時至晚上9時開放，服務逾100間街舖。"
+      }
+    },
+    {
+      "id": "2026-08-13-to-kwa-wan-minibus-pedestrian",
+      "published_at": "2026-08-13T13:16:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "to-kwa-wan",
+        "minibus",
+        "pedestrian"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-13/2026-08-13-to-kwa-wan-minibus-pedestrian.json",
+      "en": {
+        "headline": "Elderly pedestrian critically injured after private minibus collision in To Kwa Wan",
+        "dek": "A 75-year-old man was knocked down at the junction of Lok Shan Road and Mei Sin Tong Road around 10am and taken unconscious to Queen Elizabeth Hospital; the driver remained at the scene."
+      },
+      "zh": {
+        "headline": "土瓜灣私家小巴撞倒七旬途人 重傷昏迷送院",
+        "dek": "75歲男子周四上午約10時在落山道與美善同道交界被撞倒昏迷，送伊利沙伯醫院搶救；小巴男司機在場協助調查。"
+      }
+    },
+    {
+      "id": "2026-08-13-competition-commission-bid-rigging-second-round",
+      "published_at": "2026-08-13T13:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "competition-commission",
+        "bid-rigging",
+        "building-maintenance",
+        "courts"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-13/2026-08-13-competition-commission-bid-rigging-second-round.json",
+      "en": {
+        "headline": "Competition Commission mounts second-round raids in building maintenance bid-rigging probe",
+        "dek": "Officers searched 12 premises including four contractors’ offices and residences over suspected cartel conduct affecting 28 estates and buildings with contracts worth about HK$500 million."
+      },
+      "zh": {
+        "headline": "競委會樓宇維修圍標案第二輪執法 涉28屋苑約5億元",
+        "dek": "競委會周三根據法庭手令搜查12個處所，包括4間工程承辦商辦公室及涉案人士住所，懷疑違反《競爭條例》第一行為守則。"
+      }
+    },
     {
       "id": "2026-08-13-mong-kok-tesla-pedestrian",
       "published_at": "2026-08-13T09:12:00+08:00",
@@ -1153,48 +1220,6 @@
       "zh": {
         "headline": "35+案11名被告獲批終院上訴證明書",
         "dek": "上訴庭裁定五項涉及國安法及基本法預算案機制的法律議題屬廣泛及重要，批出證明書。"
-      }
-    },
-    {
-      "id": "2026-08-10-baguio-villa-knife-attack",
-      "published_at": "2026-08-10T13:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "assault",
-        "police",
-        "pok-fu-lam"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-10/2026-08-10-baguio-villa-knife-attack.json",
-      "en": {
-        "headline": "Man arrested after knife attack injures domestic helper and security guard at Baguio Villa",
-        "dek": "A man in his twenties was detained after allegedly wounding two people with a knife outside the Pok Fu Lam estate on Monday morning."
-      },
-      "zh": {
-        "headline": "碧瑤灣男子持刀傷人 外傭及保安受傷被捕",
-        "dek": "周一早上薄扶林碧瑤灣發生持刀襲擊，一名外籍女傭及一名保安員受傷，警方當場拘捕涉案男子。"
-      }
-    },
-    {
-      "id": "2026-08-10-dating-scam-tight-net-arrests",
-      "published_at": "2026-08-10T13:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "scam",
-        "police",
-        "fraud"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-10/2026-08-10-dating-scam-tight-net-arrests.json",
-      "en": {
-        "headline": "Police arrest eight over compensated dating scams involving HK$6.2 million",
-        "dek": "Officers say the suspects posed as lawyers and tycoons on social media, offering large monthly payments before demanding so-called legal fees from victims."
-      },
-      "zh": {
-        "headline": "警方拘八人涉援交詐騙涉款620萬元",
-        "dek": "疑犯在社交平台出示假名片，自稱律師或富商，承諾每月支付數萬元後向事主索取所謂律師費。"
       }
     }
   ]
