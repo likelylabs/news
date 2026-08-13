@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-08-13T13:06:07+08:00",
+  "generated_at": "2026-08-13T15:07:45+08:00",
   "live_window_hours": 72,
-  "count": 54,
+  "count": 57,
   "articles": [
+    {
+      "id": "2026-08-13-hysan-interim-results",
+      "published_at": "2026-08-13T15:08:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hysan",
+        "property",
+        "interim-results",
+        "causeway-bay",
+        "retail"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-13/2026-08-13-hysan-interim-results.json",
+      "en": {
+        "headline": "Hysan first-half underlying profit rises 7.4% on residential sales gains",
+        "dek": "The Causeway Bay landlord reported underlying profit of HK$1.11 billion and declared an unchanged first interim dividend of 27 cents per share."
+      },
+      "zh": {
+        "headline": "希慎上半年基本溢利升7.4% 派中期息27仙",
+        "dek": "受惠出售竹林苑住宅單位公平值收益，基本溢利11.07億元，第一次中期息維持每股27仙。"
+      }
+    },
+    {
+      "id": "2026-08-13-lifestyle-food-expo-opens",
+      "published_at": "2026-08-13T15:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food-expo",
+        "exhibition",
+        "wan-chai",
+        "hktdc"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-13/2026-08-13-lifestyle-food-expo-opens.json",
+      "en": {
+        "headline": "Food Expo opens at Wan Chai convention centre with queues for bargains",
+        "dek": "The five-day event and four companion fairs drew more than 1,850 exhibitors from over 30 places; Financial Secretary Paul Chan said mega events are expected to bring HK$12 billion in spending."
+      },
+      "zh": {
+        "headline": "美食博覽灣仔會展開鑼 市民清晨排隊搶購",
+        "dek": "連同四個同期展覽共逾1850家展商參與，財爺陳茂波指大型活動料帶來120億元消費。"
+      }
+    },
+    {
+      "id": "2026-08-13-jiawei-security-labour-sanction",
+      "published_at": "2026-08-13T15:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "labour",
+        "supplementary-labour",
+        "security",
+        "employment"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-13/2026-08-13-jiawei-security-labour-sanction.json",
+      "en": {
+        "headline": "Labour Department bars security firm from imported labour applications for two years",
+        "dek": "Jiawei Security Services was sanctioned for altering recruitment conditions without approval, rejecting qualified local applicants and submitting false interview records under the Supplementary Labour Scheme."
+      },
+      "zh": {
+        "headline": "佳衛保安違規拒聘本地求職者 勞工處禁申外勞兩年",
+        "dek": "公司在補充勞工優化計劃下未獲同意改招聘條件、無理拒聘合資格者及提交失實面試資料，遭即時中止申請及兩年禁令。"
+      }
+    },
+    {
+      "id": "2026-08-13-future-science-prize-2026",
+      "published_at": "2026-08-13T15:05:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "science",
+        "future-science-prize",
+        "innovation",
+        "research"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-13/2026-08-13-future-science-prize-2026.json",
+      "en": {
+        "headline": "Three mainland scientists win 2026 Future Science Prize in Hong Kong",
+        "dek": "Innovation Secretary Sun Dong said the prize has cemented its status as a premier scientific event in the city after four consecutive years hosted here."
+      },
+      "zh": {
+        "headline": "三名內地科學家獲2026未來科學大獎 孫東指鞏固香港創科地位",
+        "dek": "創新科技及工業局局長孫東表示，大獎連續四年在港舉行，已確立為本港首屈一指的科學盛事。"
+      }
+    },
     {
       "id": "2026-08-13-lifestyle-tsuen-wan-food-waste-pilot",
       "published_at": "2026-08-13T13:17:00+08:00",
@@ -1199,27 +1289,6 @@
       "zh": {
         "headline": "屯門藍地水塘男子疑遇溺不治",
         "dek": "周一午後一名年約30多歲男子在藍地水塘水壩放水口附近載浮載沉，消防救起後當場證實死亡，警方正調查身分及原因。"
-      }
-    },
-    {
-      "id": "2026-08-10-35-plus-cfa-certificate",
-      "published_at": "2026-08-10T13:07:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "courts",
-        "national-security",
-        "appeals"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-10/2026-08-10-35-plus-cfa-certificate.json",
-      "en": {
-        "headline": "Court of Appeal grants 11 defendants certificate to seek CFA leave in 35+ case",
-        "dek": "The Court of Appeal certified five points of law of great and general importance arising from the national-security convictions linked to the 2020 democratic primary."
-      },
-      "zh": {
-        "headline": "35+案11名被告獲批終院上訴證明書",
-        "dek": "上訴庭裁定五項涉及國安法及基本法預算案機制的法律議題屬廣泛及重要，批出證明書。"
       }
     }
   ]
