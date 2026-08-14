@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-08-14T15:09:28+08:00",
+  "generated_at": "2026-08-14T21:15:26+08:00",
   "live_window_hours": 72,
-  "count": 62,
+  "count": 61,
   "articles": [
+    {
+      "id": "2026-08-14-ura-turns-profit-25th",
+      "published_at": "2026-08-14T21:17:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "ura",
+        "urban-renewal",
+        "housing",
+        "property",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-14/2026-08-14-ura-turns-profit-25th.json",
+      "en": {
+        "headline": "Urban Renewal Authority records HK$338 million surplus for 2025/26",
+        "dek": "The authority returned to profit in its silver jubilee year and is preparing an enhanced tender service to help owners engage consultants and contractors for building works."
+      },
+      "zh": {
+        "headline": "市建局2025/26年度轉虧為盈 錄3.38億元盈餘",
+        "dek": "銀禧年恢復盈利，正與政府敲定「加強版招標妥」服務細節，加強支援業主聘用顧問及承建商。"
+      }
+    },
+    {
+      "id": "2026-08-14-kai-tak-mass-transit-tender",
+      "published_at": "2026-08-14T21:16:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "kai-tak",
+        "mtr",
+        "transit",
+        "government",
+        "infrastructure"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-14/2026-08-14-kai-tak-mass-transit-tender.json",
+      "en": {
+        "headline": "Kai Tak smart green mass transit tender closes with two bids including MTR",
+        "dek": "The government received submissions from the MTR Corporation and a consortium of Transport International and Sun Hung Kai Properties; the system is targeted for service in 2031."
+      },
+      "zh": {
+        "headline": "啟德智慧綠色集體運輸系統截標 接獲包括港鐵兩份標書",
+        "dek": "投標者包括港鐵，以及載通國際與新鴻基地產合資的綠色智軌集團；系統目標2031年投入服務。"
+      }
+    },
+    {
+      "id": "2026-08-14-gdp-forecast-upgrade-2026",
+      "published_at": "2026-08-14T21:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "economy",
+        "gdp",
+        "government",
+        "trade",
+        "ai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-14/2026-08-14-gdp-forecast-upgrade-2026.json",
+      "en": {
+        "headline": "Government raises 2026 GDP growth forecast to 3.5–4.5% after strong first half",
+        "dek": "The revision follows a 5.1 per cent expansion in the first six months, the strongest half-year performance in nearly five years, driven by robust AI-related exports."
+      },
+      "zh": {
+        "headline": "政府上調2026年經濟增長預測至3.5%至4.5%",
+        "dek": "上半年實質本地生產總值增長5.1%，為近五年來最強勁半年度表現，主要受人工智能相關產品出口帶動。"
+      }
+    },
     {
       "id": "2026-08-14-public-cemetery-remains-2019",
       "published_at": "2026-08-14T15:14:00+08:00",
@@ -1300,98 +1369,6 @@
       "zh": {
         "headline": "72歲行山客沙田失蹤三日後尋回遺體",
         "dek": "搜救人員周二上午在火炭蚊坑山路發現譚姓男子倒卧，當場證實死亡；他周六行山時與同伴走失後失聯。"
-      }
-    },
-    {
-      "id": "2026-08-11-hzmb-sightseeing-boat-missing-passenger",
-      "published_at": "2026-08-11T21:09:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "rescue",
-        "marine",
-        "tuen-mun",
-        "hzmb",
-        "missing-person"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-11/2026-08-11-hzmb-sightseeing-boat-missing-passenger.json",
-      "en": {
-        "headline": "Search under way for passenger missing from Shekou sightseeing boat near HZMB",
-        "dek": "Hong Kong marine police, fireboats and a Government Flying Service helicopter joined the search in waters west of Tuen Mun after the man was noticed missing on the return to Shenzhen."
-      },
-      "zh": {
-        "headline": "港珠澳大橋觀光船疑有乘客墮海 屯門海域搜救中",
-        "dek": "深圳蛇口出發的觀光船回程發現一名男乘客失蹤，香港水警、滅火輪及飛行服務隊直升機在屯門后海灣一帶搜索。"
-      }
-    },
-    {
-      "id": "2026-08-11-school-flu-vaccine-e-consent",
-      "published_at": "2026-08-11T21:08:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "influenza",
-        "flu",
-        "vaccine",
-        "children",
-        "chp"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-11/2026-08-11-school-flu-vaccine-e-consent.json",
-      "en": {
-        "headline": "School flu vaccine outreach switches to electronic consent forms from 17 August",
-        "dek": "Parents can submit consent via the eHealth app by scanning a school-specific QR code, streamlining paperwork for the 2026/27 Seasonal Influenza Vaccination School Outreach Programme."
-      },
-      "zh": {
-        "headline": "流感疫苗學校外展計劃下周一起推電子同意書",
-        "dek": "家長可由8月17日起經醫健通掃描學校專屬二維碼為子女遞交接種同意書，簡化填表及行政程序。"
-      }
-    },
-    {
-      "id": "2026-08-11-police-drone-kwun-tong-bypass-arrests",
-      "published_at": "2026-08-11T21:07:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "police",
-        "traffic",
-        "drones",
-        "dangerous-driving",
-        "kwun-tong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-11/2026-08-11-police-drone-kwun-tong-bypass-arrests.json",
-      "en": {
-        "headline": "Police arrest 10 for dangerous driving after first drone operation on Kwun Tong Bypass",
-        "dek": "Nine men and a woman aged 25 to 51 were detained between 3 and 10 August; officers seized seven private cars and three motorcycles in the East Kowloon operation."
-      },
-      "zh": {
-        "headline": "警首次用無人機打擊觀塘繞道危駕 拘10人扣10車",
-        "dek": "東九龍交通部3日至10日行動中，9男1女年齡25至51歲涉危險駕駛被捕，扣留7輛私家車及3輛電單車。"
-      }
-    },
-    {
-      "id": "2026-08-11-infant-flu-encephalopathy-aug11",
-      "published_at": "2026-08-11T21:06:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "influenza",
-        "flu",
-        "children",
-        "chp",
-        "sepsis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-11/2026-08-11-infant-flu-encephalopathy-aug11.json",
-      "en": {
-        "headline": "18-month-old in serious condition with influenza A and encephalopathy",
-        "dek": "The Centre for Health Protection is investigating a severe paediatric case; the previously healthy boy remains in intensive care at Queen Elizabeth Hospital after developing convulsions."
-      },
-      "zh": {
-        "headline": "18個月大男嬰染甲流併發腦病變及敗血性休克 情况嚴重",
-        "dek": "衞生防護中心正調查一宗兒童甲型流感嚴重個案，男嬰過往健康良好，現於伊利沙伯醫院兒童深切治療部留醫。"
       }
     }
   ]
