@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-15T01:04:14+08:00",
+  "generated_at": "2026-08-15T03:05:35+08:00",
   "live_window_hours": 72,
-  "count": 65,
+  "count": 66,
   "articles": [
+    {
+      "id": "2026-08-15-amber-rainstorm-warning-early-morning",
+      "published_at": "2026-08-15T03:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "rainstorm",
+        "amber-rainstorm",
+        "saturday"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-15/2026-08-15-amber-rainstorm-warning-early-morning.json",
+      "en": {
+        "headline": "Amber Rainstorm Warning issued early Saturday as heavy rain spreads",
+        "dek": "The Hong Kong Observatory issued the Amber Rainstorm Warning at 2.35 a.m., saying heavy rain exceeding 30 mm an hour has fallen or is expected generally across the territory and may continue."
+      },
+      "zh": {
+        "headline": "黃色暴雨警告凌晨生效 廣泛地區有大雨",
+        "dek": "天文台於凌晨2時35分發出黃色暴雨警告信號，指本港廣泛地區已錄得或預料會有每小時超過30毫米的大雨，雨勢可能持續。"
+      }
+    },
     {
       "id": "2026-08-15-queen-mary-lifts-contractors-suspended",
       "published_at": "2026-08-15T01:06:00+08:00",
