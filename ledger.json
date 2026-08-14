@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T11:05:10+08:00",
+  "updated_at": "2026-08-14T11:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -385,6 +385,36 @@
       "id": "2026-08-14-belvedere-garden-power-outage",
       "first_seen": "2026-08-14T09:18:00+08:00",
       "headline_en": "Two Belvedere Garden blocks lose power for nearly three hours"
+    },
+    {
+      "key": "weekend-weather-outlook-aug14",
+      "id": "2026-08-14-weekend-weather-outlook",
+      "first_seen": "2026-08-14T11:05:00+08:00",
+      "headline_en": "Weekend outlook: showers and thunderstorms easing, then hotter days return"
+    },
+    {
+      "key": "sau-mau-ping-drink-driving-aug13",
+      "id": "2026-08-14-sau-mau-ping-drink-driving",
+      "first_seen": "2026-08-14T11:06:00+08:00",
+      "headline_en": "Driver arrested after crash into parked dump truck, nearly four times over alcohol limit"
+    },
+    {
+      "key": "kowloon-funeral-parlour-sale-aug14",
+      "id": "2026-08-14-kowloon-funeral-parlour-sale",
+      "first_seen": "2026-08-14T11:07:00+08:00",
+      "headline_en": "Kowloon Funeral Parlour sold for HK$473 million to local consortium"
+    },
+    {
+      "key": "hsr-cross-border-20m-2026",
+      "id": "2026-08-14-hsr-cross-border-20m",
+      "first_seen": "2026-08-14T11:08:00+08:00",
+      "headline_en": "High-speed rail cross-border trips top 20 million this year, 11 days earlier than 2025"
+    },
+    {
+      "key": "lifestyle-tai-kwun-better-together-exhibition",
+      "id": "2026-08-14-lifestyle-tai-kwun-better-together",
+      "first_seen": "2026-08-14T11:09:00+08:00",
+      "headline_en": "Tai Kwun exhibition celebrates brotherhood in classic Hong Kong films"
     }
   ]
 }
