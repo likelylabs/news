@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T07:07:30+08:00",
+  "updated_at": "2026-08-14T09:18:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -361,6 +361,30 @@
       "id": "2026-08-14-thunderstorm-warning-morning",
       "first_seen": "2026-08-14T07:10:00+08:00",
       "headline_en": "Thunderstorm Warning extended until 8:45 a.m. with squally storms"
+    },
+    {
+      "key": "amber-rainstorm-thunderstorm-aug14-morning",
+      "id": "2026-08-14-amber-rainstorm-warning-morning",
+      "first_seen": "2026-08-14T09:15:00+08:00",
+      "headline_en": "Amber Rainstorm Warning issued; Thunderstorm Warning extended to 11 a.m."
+    },
+    {
+      "key": "tsing-yi-mgv-driver-collapse-aug13",
+      "id": "2026-08-14-tsing-yi-mgv-driver-collapse",
+      "first_seen": "2026-08-14T09:16:00+08:00",
+      "headline_en": "44-year-old truck driver dies after collapsing at wheel in Tsing Yi"
+    },
+    {
+      "key": "tsuen-wan-sea-woman-death-aug14",
+      "id": "2026-08-14-tsuen-wan-sea-woman-death",
+      "first_seen": "2026-08-14T09:17:00+08:00",
+      "headline_en": "Woman in 60s dies after being pulled from sea off Tsuen Wan"
+    },
+    {
+      "key": "belvedere-garden-power-outage-aug13",
+      "id": "2026-08-14-belvedere-garden-power-outage",
+      "first_seen": "2026-08-14T09:18:00+08:00",
+      "headline_en": "Two Belvedere Garden blocks lose power for nearly three hours"
     }
   ]
 }
