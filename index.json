@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-08-14T21:15:26+08:00",
+  "generated_at": "2026-08-14T23:08:06+08:00",
   "live_window_hours": 72,
-  "count": 61,
+  "count": 65,
   "articles": [
+    {
+      "id": "2026-08-14-lifestyle-juju-world-pacific-place",
+      "published_at": "2026-08-14T23:08:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "pacific-place",
+        "art",
+        "admiralty"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-14/2026-08-14-lifestyle-juju-world-pacific-place.json",
+      "en": {
+        "headline": "CJ Hendry’s juju world at Pacific Place enters final weekend",
+        "dek": "The free immersive installation featuring oversized characters, a room of more than 400 plush figures and Hong Kong-exclusive collectibles runs until Sunday 16 August."
+      },
+      "zh": {
+        "headline": "太古廣場CJ Hendry juju world本周末結束",
+        "dek": "金鐘太古廣場沉浸式裝置免費開放至八月十六日，包括巨型角色、逾四百隻毛絨公仔空間及香港限定收藏品。"
+      }
+    },
+    {
+      "id": "2026-08-14-ia-ceo-clement-cheung-reappointed",
+      "published_at": "2026-08-14T23:07:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "insurance",
+        "regulation",
+        "financial-services",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-14/2026-08-14-ia-ceo-clement-cheung-reappointed.json",
+      "en": {
+        "headline": "Clement Cheung reappointed Insurance Authority chief for another three years",
+        "dek": "The government confirmed the reappointment of the regulator’s longest-serving CEO, citing progress on risk-based capital, insurance-linked securities and captive insurance."
+      },
+      "zh": {
+        "headline": "保險業監管局行政總監張雲正獲續任三年",
+        "dek": "政府公布張雲正由八月十五日起再任三年，財庫局局長許正宇讚揚其推動風險為本資本制度及保險相連證券市場的工作。"
+      }
+    },
+    {
+      "id": "2026-08-14-five-year-plan-consultation-closes",
+      "published_at": "2026-08-14T23:06:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "government",
+        "five-year-plan",
+        "consultation",
+        "northern-metropolis",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-14/2026-08-14-five-year-plan-consultation-closes.json",
+      "en": {
+        "headline": "Hong Kong’s first five-year plan consultation closes with more than 16,000 submissions",
+        "dek": "Secretary for Constitutional and Mainland Affairs Janice Tse said views generally supported focused alignment with national development and faster progress on the Northern Metropolis."
+      },
+      "zh": {
+        "headline": "香港首份五年規劃公眾諮詢結束 收到逾1.6萬份意見",
+        "dek": "政制及內地事務局局長謝小華表示，意見普遍支持聚焦對接國家戰略發展，並加快北部都會區建設，目標九月內發表規劃。"
+      }
+    },
+    {
+      "id": "2026-08-14-ce-citation-list-bomb-housing",
+      "published_at": "2026-08-14T23:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "government",
+        "civil-service",
+        "housing",
+        "security",
+        "bomb-disposal"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-14/2026-08-14-ce-citation-list-bomb-housing.json",
+      "en": {
+        "headline": "Bomb-disposal and light public housing teams win Chief Executive’s Citation List awards",
+        "dek": "Chief Executive John Lee presented the awards at a ceremony at Government Headquarters, praising the teams for professional solidarity and innovative delivery of results."
+      },
+      "zh": {
+        "headline": "行政長官表揚榜 拆彈及簡約公屋兩跨部門團隊獲獎",
+        "dek": "李家超在政府總部頒獎典禮上向兩支隊伍頒發獎狀，讚揚公務員專業團結、敢於挑戰及以結果為目標的服務精神。"
+      }
+    },
     {
       "id": "2026-08-14-ura-turns-profit-25th",
       "published_at": "2026-08-14T21:17:00+08:00",
