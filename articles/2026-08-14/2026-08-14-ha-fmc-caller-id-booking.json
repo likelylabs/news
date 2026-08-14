@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-14-ha-fmc-caller-id-booking",
+  "published_at": "2026-08-14T15:13:00+08:00",
+  "category": "health",
+  "tags": ["hospital-authority", "family-medicine", "appointment", "privacy", "ha-go"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "ha-fmc-caller-id-booking-aug15",
+  "en": {
+    "headline": "Family medicine clinics to accept only caller-ID numbers for phone bookings from Saturday",
+    "dek": "The Hospital Authority said the change aims to protect patient data and stop impersonation; patients who hide their number will hear a recorded prompt to call again with caller ID enabled.",
+    "body": [
+      "The Hospital Authority reminded the public on Friday that from Saturday 15 August the telephone appointment system at Family Medicine Clinics will accept only calls that display a caller ID number.",
+      "A spokesperson said the measure is intended to record the source of every booking call accurately, allow verification of patient details when needed, and reduce the risk of people using withheld numbers to impersonate patients.",
+      "Callers who hide their number will hear an automatic recording asking them to switch to a phone that shows caller ID and try again. Patients using mobile phones can turn on the ‘show my caller ID’ setting; those on fixed lines that have fully suppressed the number can dial 1357 before the call to display it once, or contact their provider.",
+      "The Authority continues to encourage use of the Book FMC function inside the HA Go mobile app, which it describes as more convenient. New patients who have never registered with the Hospital Authority must still visit a clinic in person with original identity documents before they can use the telephone system."
+    ]
+  },
+  "zh": {
+    "headline": "家庭醫學診所周六起只接受有來電顯示號碼電話預約",
+    "dek": "醫管局指安排為加強保障病人資料及防止冒認；隱藏號碼來電會收到錄音提示。",
+    "body": [
+      "醫院管理局周五提醒市民，由周六（8月15日）起，家庭醫學診所電話預約系統只會接受有來電顯示號碼的預約。",
+      "發言人表示，更新安排是為準確記錄每個預約電話來源，有需要時可核實病人資料，並防止不法分子以沒有來電顯示的電話冒認病人預約。",
+      "若病人隱藏電話號碼致電，系統會自動播放錄音，提示轉用有來電顯示的電話再試。使用手機的市民可在設定開啟「顯示我的來電號碼」；固網電話已選用完全停止示號者，可先按1357單次顯示號碼，或聯絡電訊商取消有關功能。",
+      "醫管局鼓勵市民使用流動應用程式HA Go內的「預約家庭醫學診所」功能。從未在醫管局登記的新症病人，仍須帶備身份證明文件正本親身到診所登記，方可使用電話預約。"
+    ]
+  }
+}

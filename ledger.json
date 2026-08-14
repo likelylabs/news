@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T11:07:06+08:00",
+  "updated_at": "2026-08-14T15:14:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -415,6 +415,24 @@
       "id": "2026-08-14-lifestyle-tai-kwun-better-together",
       "first_seen": "2026-08-14T11:09:00+08:00",
       "headline_en": "Tai Kwun exhibition celebrates brotherhood in classic Hong Kong films"
+    },
+    {
+      "key": "police-fraud-h1-2026",
+      "id": "2026-08-14-police-fraud-h1-2026",
+      "first_seen": "2026-08-14T15:12:00+08:00",
+      "headline_en": "Police record more than 20,000 scam cases in first half, losses hit HK$3.5 billion"
+    },
+    {
+      "key": "ha-fmc-caller-id-booking-aug15",
+      "id": "2026-08-14-ha-fmc-caller-id-booking",
+      "first_seen": "2026-08-14T15:13:00+08:00",
+      "headline_en": "Family medicine clinics to accept only caller-ID numbers for phone bookings from Saturday"
+    },
+    {
+      "key": "public-cemetery-remains-2019-removal",
+      "id": "2026-08-14-public-cemetery-remains-2019",
+      "first_seen": "2026-08-14T15:14:00+08:00",
+      "headline_en": "Gazette order requires removal of 2019 remains from six public cemeteries"
     }
   ]
 }
