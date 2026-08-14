@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T15:09:28+08:00",
+  "updated_at": "2026-08-14T21:17:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -433,6 +433,24 @@
       "id": "2026-08-14-public-cemetery-remains-2019",
       "first_seen": "2026-08-14T15:14:00+08:00",
       "headline_en": "Gazette order requires removal of 2019 remains from six public cemeteries"
+    },
+    {
+      "key": "gdp-forecast-upgrade-2026",
+      "id": "2026-08-14-gdp-forecast-upgrade-2026",
+      "first_seen": "2026-08-14T21:15:00+08:00",
+      "headline_en": "Government raises 2026 GDP growth forecast to 3.5–4.5% after strong first half"
+    },
+    {
+      "key": "kai-tak-mass-transit-tender-close",
+      "id": "2026-08-14-kai-tak-mass-transit-tender",
+      "first_seen": "2026-08-14T21:16:00+08:00",
+      "headline_en": "Kai Tak smart green mass transit tender closes with two bids including MTR"
+    },
+    {
+      "key": "ura-turns-profit-2025-26",
+      "id": "2026-08-14-ura-turns-profit-25th",
+      "first_seen": "2026-08-14T21:17:00+08:00",
+      "headline_en": "Urban Renewal Authority records HK$338 million surplus for 2025/26"
     }
   ]
 }
