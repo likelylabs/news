@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T03:05:35+08:00",
+  "generated_at": "2026-08-15T04:54:17+08:00",
   "live_window_hours": 72,
-  "count": 66,
+  "count": 61,
   "articles": [
     {
       "id": "2026-08-15-amber-rainstorm-warning-early-morning",
@@ -1371,116 +1371,6 @@
       "zh": {
         "headline": "新皇崗口岸跨部門通關演練 模擬系統故障及倒車離場",
         "dek": "海關、入境處、警務處、衞生署及政府產業署約50人周二在港方口岸區演練人車通關程序，包括查驗系統故障及車輛倒車離開聯合一站式車道等突發情况。"
-      }
-    },
-    {
-      "id": "2026-08-12-hkbu-ransomware-claim",
-      "published_at": "2026-08-12T03:15:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "cybersecurity",
-        "ransomware",
-        "hkbu",
-        "data-breach"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-hkbu-ransomware-claim.json",
-      "en": {
-        "headline": "Baptist University reviews systems after ransomware group claims breach",
-        "dek": "The university said it is examining IT security and personal data protection following online claims by the group The Gentlemen that credentials linked to about 1,900 accounts may have been compromised."
-      },
-      "zh": {
-        "headline": "浸大檢視系統保安 勒索軟件組織聲稱入侵",
-        "dek": "校方表示正密切檢視資訊科技系統及個人資料安全，有平台指約1,900組與浸大網域相關的憑證可能外洩。"
-      }
-    },
-    {
-      "id": "2026-08-12-cfs-olitalia-olive-oil-mineral-oil",
-      "published_at": "2026-08-12T03:14:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "food-safety",
-        "cfs",
-        "olive-oil",
-        "recall"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-cfs-olitalia-olive-oil-mineral-oil.json",
-      "en": {
-        "headline": "CFS urges public not to consume two Olitalia olive oil products",
-        "dek": "The Centre for Food Safety said the Italian pomace olive oils may contain mineral oil hydrocarbons after a Belgian alert; the local distributor has stopped sales and begun a recall."
-      },
-      "zh": {
-        "headline": "食安中心籲勿食用兩款Olitalia橄欖油 或含礦物油",
-        "dek": "中心指意大利品牌兩款果渣橄欖油可能含芳香族碳氫化合物，分銷商已停售下架並展開回收。"
-      }
-    },
-    {
-      "id": "2026-08-12-hkbu-ransomware-credential-leak",
-      "published_at": "2026-08-12T03:14:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "cybersecurity",
-        "data-breach",
-        "university",
-        "ransomware",
-        "privacy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-hkbu-ransomware-credential-leak.json",
-      "en": {
-        "headline": "HKBU investigating reports of ransomware group and leaked credentials",
-        "dek": "Security platforms listed Hong Kong Baptist University among victims of the group TheGentlemen, with roughly 1,900 sets of credentials reportedly exposed involving staff and student accounts."
-      },
-      "zh": {
-        "headline": "浸大調查勒索軟件組織聲稱入侵及憑證外洩報告",
-        "dek": "網絡安全平台列出浸會大學為勒索軟件組織TheGentlemen聲稱受害者，約1,900組與hkbu.edu.hk相關憑證據報外洩，涉及職員及學生帳戶。"
-      }
-    },
-    {
-      "id": "2026-08-12-yuen-long-shui-pin-wai-second-outage",
-      "published_at": "2026-08-12T03:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "power-outage",
-        "yuen-long",
-        "clp",
-        "housing-estate"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-yuen-long-shui-pin-wai-second-outage.json",
-      "en": {
-        "headline": "Shui Pin Wai Estate hit by second power cut within 18 hours",
-        "dek": "CLP Power said temporary cables caused unstable supply affecting about 2,200 households for roughly 30 minutes on Tuesday night; fire services handled lift entrapment reports."
-      },
-      "zh": {
-        "headline": "水邊圍邨18小時內兩度停電 臨時電纜供電不穩",
-        "dek": "中電指周二晚臨時電纜線路懷疑供電不穩，影響約2,200戶約半小時；消防接獲困𨋢報告。"
-      }
-    },
-    {
-      "id": "2026-08-12-very-hot-weather-continues-wednesday",
-      "published_at": "2026-08-12T03:12:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "very-hot-weather",
-        "heat",
-        "hko"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-very-hot-weather-continues-wednesday.json",
-      "en": {
-        "headline": "Very Hot Weather Warning remains in force as extreme heat continues",
-        "dek": "The Observatory expects mainly fine and very hot conditions on Wednesday, with urban highs around 34 degrees Celsius and some New Territories areas still extremely hot."
-      },
-      "zh": {
-        "headline": "酷熱天氣警告仍然生效 今日繼續酷熱",
-        "dek": "天文台料星期三大致天晴，日間酷熱，市區最高氣溫約34度，新界部分地區仍然極端酷熱。"
       }
     }
   ]
