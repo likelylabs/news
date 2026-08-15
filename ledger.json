@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T04:54:17+08:00",
+  "updated_at": "2026-08-15T11:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -25,6 +25,24 @@
       "id": "2026-08-15-amber-rainstorm-warning-early-morning",
       "first_seen": "2026-08-15T03:05:00+08:00",
       "headline_en": "Amber Rainstorm Warning issued early Saturday as heavy rain spreads"
+    },
+    {
+      "key": "pcpd-complaints-h1-2026",
+      "id": "2026-08-15-pcpd-complaints-h1-2026",
+      "first_seen": "2026-08-15T11:10:00+08:00",
+      "headline_en": "Privacy watchdog receives 2,990 complaints in first half, up more than 60%"
+    },
+    {
+      "key": "huanggang-port-second-drill-aug15",
+      "id": "2026-08-15-huanggang-port-second-drill",
+      "first_seen": "2026-08-15T11:11:00+08:00",
+      "headline_en": "Second large-scale drill held at Huanggang Port Hong Kong side"
+    },
+    {
+      "key": "hung-shui-kiu-logistics-eoi-aug15",
+      "id": "2026-08-15-hung-shui-kiu-logistics-eoi",
+      "first_seen": "2026-08-15T11:12:00+08:00",
+      "headline_en": "Government invites industry interest for first Hung Shui Kiu logistics sites"
     }
   ]
 }
