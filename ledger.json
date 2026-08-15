@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T21:06:54+08:00",
+  "updated_at": "2026-08-15T23:07:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -67,6 +67,24 @@
       "id": "2026-08-15-lifestyle-wetland-park-ecology-day",
       "first_seen": "2026-08-15T21:08:00+08:00",
       "headline_en": "Hong Kong Wetland Park offers free admission on National Ecology Day"
+    },
+    {
+      "key": "sau-mau-ping-cocaine-seizure-aug15",
+      "id": "2026-08-15-sau-mau-ping-cocaine-seizure",
+      "first_seen": "2026-08-15T23:05:00+08:00",
+      "headline_en": "Police seize 3.6 kg of cocaine worth HK$2.9 million in Sau Mau Ping public housing"
+    },
+    {
+      "key": "mastercard-global-outage-aug15",
+      "id": "2026-08-15-mastercard-global-outage",
+      "first_seen": "2026-08-15T23:06:00+08:00",
+      "headline_en": "Mastercard payments briefly disrupted worldwide after system update"
+    },
+    {
+      "key": "auxiliary-police-graduation-aug15",
+      "id": "2026-08-15-auxiliary-police-graduation",
+      "first_seen": "2026-08-15T23:07:00+08:00",
+      "headline_en": "204 auxiliary police officers graduate, including barrister and government statistician"
     }
   ]
 }

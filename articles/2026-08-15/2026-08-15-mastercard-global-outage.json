@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-15-mastercard-global-outage",
+  "published_at": "2026-08-15T23:06:00+08:00",
+  "category": "technology",
+  "tags": ["mastercard", "payments", "outage", "banking"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "mastercard-global-outage-aug15",
+  "en": {
+    "headline": "Mastercard payments briefly disrupted worldwide after system update",
+    "dek": "Hong Kong users reported declined transactions and Apple Pay failures on Saturday afternoon before the company confirmed systems had returned to normal.",
+    "body": [
+      "Mastercard experienced a global disruption to card payments on Saturday after a scheduled system update caused transactions to be declined for a period of time.",
+      "In Hong Kong, users reported problems with physical cards, Apple Pay and cash withdrawals. Similar reports emerged from Australia, Japan, Singapore, the United Kingdom and other markets. Downdetector recorded a sharp spike in outage reports in Australia during the afternoon.",
+      "A Mastercard spokesperson said a scheduled system update had caused transactions to be declined earlier in the day. The situation had been resolved and all systems were working normally again.",
+      "Hong Kong Information Technology Federation honorary president Charles Mok attributed the incident to a technical anomaly during a routine upgrade that temporarily disrupted global transaction data transmission. He noted that while core payment networks have high redundancy standards, large cross-border upgrades still carry residual risk."
+    ]
+  },
+  "zh": {
+    "headline": "萬事達卡全球系統更新故障 香港用戶交易一度被拒",
+    "dek": "周六下午包括香港在內多地用戶反映刷卡、Apple Pay及提款受阻，公司其後確認系統已恢復正常。",
+    "body": [
+      "萬事達卡（Mastercard）周六因預定系統更新，一度令全球多地交易被拒，包括香港用戶在實體卡、Apple Pay及現金提款等場景均受影響。",
+      "澳洲、日本、新加坡及英國等地亦有類似報告。澳洲故障監測網站曾錄得近兩千宗相關報告。",
+      "萬事達卡向傳媒表示，一次預定系統更新導致交易在較早時段被拒絕，目前情況已經解決，所有系統正正常運作。",
+      "香港資訊科技商會榮譽會長方保僑指，事故主因源於例行系統升級過程中的技術異常，引發全球交易數據傳輸暫時癱瘓。他指出核心支付網絡雖有極高備援標準，但大型跨國升級仍存在不可預期的技術風險。"
+    ]
+  }
+}
