@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-08-15T11:06:35+08:00",
+  "generated_at": "2026-08-15T21:06:54+08:00",
   "live_window_hours": 72,
-  "count": 62,
+  "count": 57,
   "articles": [
+    {
+      "id": "2026-08-15-lifestyle-wetland-park-ecology-day",
+      "published_at": "2026-08-15T21:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "wetland-park",
+        "ecology",
+        "free-admission",
+        "tin-shui-wai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-15/2026-08-15-lifestyle-wetland-park-ecology-day.json",
+      "en": {
+        "headline": "Hong Kong Wetland Park offers free admission on National Ecology Day",
+        "dek": "Visitors can enter without tickets on Saturday and join free guided tours in the wetland reserve, as part of wider government and NGO activities."
+      },
+      "zh": {
+        "headline": "全國生態日香港濕地公園免費開放 設公眾導賞",
+        "dek": "天水圍濕地公園周六全日免費入場，市民可直接經訪客中心進入，並參加濕地保護區免費導賞團。"
+      }
+    },
+    {
+      "id": "2026-08-15-panda-cubs-second-birthday",
+      "published_at": "2026-08-15T21:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "ocean-park",
+        "panda",
+        "wildlife",
+        "ecology"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-15/2026-08-15-panda-cubs-second-birthday.json",
+      "en": {
+        "headline": "Hong Kong-born panda twins Jia Jia and De De turn two at Ocean Park",
+        "dek": "Secretary for Culture, Sports and Tourism Rosanna Law said the cubs, now nearly 60 kg, may soon live separately from their mother Ying Ying."
+      },
+      "zh": {
+        "headline": "港產大熊貓龍鳳胎加加得得兩歲 海洋公園舉行慶祝活動",
+        "dek": "文化體育及旅遊局局長羅淑佩表示兩姊弟體重近六十公斤，未來或需與媽媽盈盈分居，呼籲市民珍惜同框時光。"
+      }
+    },
+    {
+      "id": "2026-08-15-cyberport-phase-5-leasing",
+      "published_at": "2026-08-15T21:06:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "cyberport",
+        "ai",
+        "innovation",
+        "office",
+        "pok-fu-lam"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-15/2026-08-15-cyberport-phase-5-leasing.json",
+      "en": {
+        "headline": "Cyberport Phase 5 offices more than half leased after June completion",
+        "dek": "Chairman Simon Chan said the expansion adds 66,000 square metres including a Tier-III+ data centre, with tenants such as Lenovo and BrainCo already moved in."
+      },
+      "zh": {
+        "headline": "數碼港第五期寫字樓出租率逾五成 聯想等企業進駐",
+        "dek": "董事局主席陳細明表示，六月竣工的擴建項目新增約六萬六千平方米，包括數據中心，目前寫字樓出租率已過半。"
+      }
+    },
+    {
+      "id": "2026-08-15-lion-rock-tunnel-road-accidents",
+      "published_at": "2026-08-15T21:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "lion-rock",
+        "sha-tin",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-15/2026-08-15-lion-rock-tunnel-road-accidents.json",
+      "en": {
+        "headline": "Two accidents on Lion Rock Tunnel Road injure five and cause congestion",
+        "dek": "Ten vehicles were involved in separate collisions on the Kowloon-bound carriageway near Union Hospital around midday, leaving five people with minor injuries."
+      },
+      "zh": {
+        "headline": "獅子山隧道公路半小時兩宗車禍 涉十車五人傷",
+        "dek": "沙田往九龍方向近仁安醫院先後發生兩宗交通意外，共涉及十輛車，五人輕傷送院，部分行車線封閉引致擠塞。"
+      }
+    },
     {
       "id": "2026-08-15-hung-shui-kiu-logistics-eoi",
       "published_at": "2026-08-15T11:12:00+08:00",
@@ -1190,210 +1280,6 @@
       "zh": {
         "headline": "政府就《建築物管理條例》修訂展開公眾諮詢",
         "dek": "建議提高大型維修及大額採購的出席和投票門檻、限制授權票數量，並加強主管當局權力，諮詢期至9月11日。"
-      }
-    },
-    {
-      "id": "2026-08-12-paediatric-flu-17m-girl-critical",
-      "published_at": "2026-08-12T21:06:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "influenza",
-        "flu",
-        "children",
-        "chp",
-        "sepsis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-paediatric-flu-17m-girl-critical.json",
-      "en": {
-        "headline": "17-month-old girl in critical condition with influenza A, pneumonia and septic shock",
-        "dek": "The Centre for Health Protection reported another severe paediatric case; the previously healthy toddler remains in intensive care at Queen Elizabeth Hospital."
-      },
-      "zh": {
-        "headline": "17個月大女嬰染甲流併發嚴重肺炎及敗血性休克 情況危殆",
-        "dek": "衞生防護中心公布再有兒童甲型流感嚴重個案，女嬰過往健康良好，現於伊利沙伯醫院兒童深切治療部留醫，情況危殆。"
-      }
-    },
-    {
-      "id": "2026-08-12-shing-mun-tunnel-tour-bus-driver-death",
-      "published_at": "2026-08-12T21:05:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "shing-mun-tunnel",
-        "tour-bus",
-        "sha-tin",
-        "tsuen-wan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-shing-mun-tunnel-tour-bus-driver-death.json",
-      "en": {
-        "headline": "Tour bus driver dies after collapsing in Shing Mun Tunnel; 47 children unhurt",
-        "dek": "A 71-year-old driver lost consciousness while ferrying schoolchildren from Sha Tin toward Tsuen Wan; the vehicle struck a barrier and he later died in hospital."
-      },
-      "zh": {
-        "headline": "城門隧道旅遊巴司機昏迷撞壆後不治 車上47名幼童無恙",
-        "dek": "71歲男司機下午載學童由沙田往荃灣方向駛經城門隧道時突然失去知覺，旅遊巴撞向路壆，司機送院後不治，車上幼童全部無受傷。"
-      }
-    },
-    {
-      "id": "2026-08-12-galaxy-entertainment-interim-results",
-      "published_at": "2026-08-12T15:05:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "galaxy-entertainment",
-        "macau",
-        "gaming",
-        "interim-results",
-        "dividend"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-galaxy-entertainment-interim-results.json",
-      "en": {
-        "headline": "Galaxy Entertainment first-half profit edges up on Macau tourism recovery",
-        "dek": "Net profit rose 0.8 per cent to HK$5.28 billion while revenue increased 4.2 per cent; the group declared an interim dividend of HK$0.90 per share."
-      },
-      "zh": {
-        "headline": "銀河娛樂上半年盈利微升0.8% 派中期息0.9元",
-        "dek": "受澳門旅客回升帶動，集團錄得淨利潤52.8億元，收入升4.2%；董事會宣佈派發中期股息每股0.9港元。"
-      }
-    },
-    {
-      "id": "2026-08-12-hep-a-vaccine-msm-ends",
-      "published_at": "2026-08-12T13:08:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "chp",
-        "hepatitis",
-        "vaccine",
-        "public-health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-hep-a-vaccine-msm-ends.json",
-      "en": {
-        "headline": "CHP to end free hepatitis A vaccine for MSM from 12 September",
-        "dek": "The Centre for Health Protection said the transmission chain linked to a cluster among men who have sex with men has been interrupted and cases have returned to baseline levels."
-      },
-      "zh": {
-        "headline": "男男性接觸者免費甲肝疫苗接種安排9月12日停止",
-        "dek": "衞生防護中心指涉及男男性接觸者的甲型肝炎群組傳播鏈已截斷，個案回落至基線水平，免費接種安排將於9月12日結束。"
-      }
-    },
-    {
-      "id": "2026-08-12-dse-super-top-scorer-appeal",
-      "published_at": "2026-08-12T13:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "dse",
-        "education",
-        "exam",
-        "yuen-long",
-        "university"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-dse-super-top-scorer-appeal.json",
-      "en": {
-        "headline": "DSE appeal results add one more super top scorer from Yuen Long school",
-        "dek": "A student from Heung Yee Kuk Yuen Long District Secondary School secured seven 5** grades after a successful biology review, lifting the year’s total top scorers to 25 and super top scorers to 12."
-      },
-      "zh": {
-        "headline": "文憑試覆核結果新增一名超級狀元 來自元朗鄉中",
-        "dek": "新界鄉議局元朗區中學孫菀青成功覆核生物科後共獲七科5**，今屆狀元增至25人、超級狀元增至12人，已獲港大醫學院錄取。"
-      }
-    },
-    {
-      "id": "2026-08-12-queen-mary-hospital-lifts-fix",
-      "published_at": "2026-08-12T13:06:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "hospital",
-        "queen-mary",
-        "construction",
-        "lifts",
-        "asd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-queen-mary-hospital-lifts-fix.json",
-      "en": {
-        "headline": "ASD demands urgent lift repairs at Queen Mary Hospital new clinical block",
-        "dek": "Only four of 28 lifts are operating in Clinical Block 1; the Architectural Services Department has ordered the contractor to complete rectification by the fourth quarter and reserved the right to claim damages."
-      },
-      "zh": {
-        "headline": "建築署責成瑪麗醫院新大樓承建商盡早完成升降機執修",
-        "dek": "臨床大樓1共28部升降機目前只有4部可用，建築署已責成總承建商及分判商盡快完成執修，預算今年第四季內完成，並保留追究權利。"
-      }
-    },
-    {
-      "id": "2026-08-12-yuen-long-unlicensed-dogs-afcd",
-      "published_at": "2026-08-12T13:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "afcd",
-        "dogs",
-        "yuen-long",
-        "animal-welfare",
-        "licensing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-yuen-long-unlicensed-dogs-afcd.json",
-      "en": {
-        "headline": "AFCD prosecutes woman over 136 unlicensed dogs at Yuen Long shelter",
-        "dek": "The Agriculture, Fisheries and Conservation Department charged a woman under the Rabies Regulation after a raid on a Yuen Long animal shelter found 136 dogs without valid licences."
-      },
-      "zh": {
-        "headline": "漁護署檢控元朗收容所女子 涉無牌畜養136隻狗",
-        "dek": "漁護署接市民投訴後突擊檢查元朗一間動物收容所，發現136隻懷疑未領有效牌照的狗隻，已向一名女子提出檢控。"
-      }
-    },
-    {
-      "id": "2026-08-12-housing-society-rent-increase",
-      "published_at": "2026-08-12T11:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "housing-society",
-        "rent",
-        "public-housing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-housing-society-rent-increase.json",
-      "en": {
-        "headline": "Housing Society raises rents 2.85% from October at most rental estates",
-        "dek": "Category A tenants will pay about HK$73 more on average each month and Category B tenants about HK$200 more; the new levels run until September 2028."
-      },
-      "zh": {
-        "headline": "房協出租屋邨十月起加租2.85% 甲乙類平均月租增73至200元",
-        "dek": "新租金由10月1日起生效至2028年9月30日，近兩年新入伙四個屋邨不在今次檢討範圍內。"
-      }
-    },
-    {
-      "id": "2026-08-12-sai-kung-po-toi-o-fish-raft-fire",
-      "published_at": "2026-08-12T11:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "sai-kung",
-        "fish-raft",
-        "rescue"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-sai-kung-po-toi-o-fish-raft-fire.json",
-      "en": {
-        "headline": "Fish raft fire in Sai Kung’s Po Toi O injures man; vessels damaged",
-        "dek": "A blaze at fish rafts near the minibus stop this morning produced explosions and thick smoke; firefighters and a fireboat extinguished it within about 50 minutes."
-      },
-      "zh": {
-        "headline": "西貢布袋澳魚排起火傳爆炸聲 一人手指受傷",
-        "dek": "今早布袋澳一號及二號魚排起火，曾傳出爆炸聲及冒出濃煙，消防水陸兩路灌救，約50分鐘救熄，一名六旬男子救火時手指受傷。"
       }
     }
   ]
