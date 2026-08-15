@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T23:02:39+08:00",
+  "updated_at": "2026-08-16T03:06:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -85,6 +85,18 @@
       "id": "2026-08-15-auxiliary-police-graduation",
       "first_seen": "2026-08-15T23:07:00+08:00",
       "headline_en": "204 auxiliary police officers graduate, including barrister and government statistician"
+    },
+    {
+      "key": "police-officer-dancing-uniform-video",
+      "id": "2026-08-16-police-officer-dancing-uniform-video",
+      "first_seen": "2026-08-16T03:05:00+08:00",
+      "headline_en": "Police investigate serving officer over viral Douyin video dancing in uniform"
+    },
+    {
+      "key": "doo-wu-women-doubles-silver-wtt-sweden",
+      "id": "2026-08-16-doo-wu-women-doubles-silver-wtt-sweden",
+      "first_seen": "2026-08-16T03:06:00+08:00",
+      "headline_en": "Doo Hoi-kem and Wu Yung-lin take women’s doubles silver at WTT Sweden Smash"
     }
   ]
 }
