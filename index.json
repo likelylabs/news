@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-08-15T04:54:17+08:00",
+  "generated_at": "2026-08-15T11:06:35+08:00",
   "live_window_hours": 72,
-  "count": 61,
+  "count": 62,
   "articles": [
+    {
+      "id": "2026-08-15-hung-shui-kiu-logistics-eoi",
+      "published_at": "2026-08-15T11:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "logistics",
+        "northern-metropolis",
+        "hung-shui-kiu",
+        "land",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-15/2026-08-15-hung-shui-kiu-logistics-eoi.json",
+      "en": {
+        "headline": "Government invites industry interest for first Hung Shui Kiu logistics sites",
+        "dek": "Secretary for Transport and Logistics Mable Chan said the initial batch of e-commerce logistics plots offers flexible development options and could reach the market by late 2027 or early 2028."
+      },
+      "zh": {
+        "headline": "政府就洪水橋物流圈首批用地邀請業界提交意向書",
+        "dek": "運輸及物流局局長陳美寶表示，首批電商物流用地具彈性，可個別或合併發展，預計最快2027年底或2028年初推出。"
+      }
+    },
+    {
+      "id": "2026-08-15-huanggang-port-second-drill",
+      "published_at": "2026-08-15T11:11:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "huanggang",
+        "border",
+        "customs",
+        "immigration",
+        "security"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-15/2026-08-15-huanggang-port-second-drill.json",
+      "en": {
+        "headline": "Second large-scale drill held at Huanggang Port Hong Kong side",
+        "dek": "The Security Bureau also launched a dedicated webpage explaining the new co-location facilities, clearance mode and public-transport links ahead of the port’s eventual opening."
+      },
+      "zh": {
+        "headline": "皇崗口岸港方口岸舉行第二次大型演練 保安局推專頁介紹設施",
+        "dek": "演練包括跨部門反恐及重大事故演習，測試聯檢大樓及公共運輸交匯處人流車流管理，並加強突發事故應變能力。"
+      }
+    },
+    {
+      "id": "2026-08-15-pcpd-complaints-h1-2026",
+      "published_at": "2026-08-15T11:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "privacy",
+        "pcpd",
+        "data-protection",
+        "ai",
+        "complaints"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-15/2026-08-15-pcpd-complaints-h1-2026.json",
+      "en": {
+        "headline": "Privacy watchdog receives 2,990 complaints in first half, up more than 60%",
+        "dek": "The Privacy Commissioner for Personal Data said information-technology cases formed the largest share, reflecting faster collection and use of personal data in the AI era and greater public awareness."
+      },
+      "zh": {
+        "headline": "私隱公署上半年接2990宗投訴升逾六成 資訊科技佔最多",
+        "dek": "私隱專員鍾麗玲表示，人工智能時代令網上收集及使用個人資料的速度與數量大增，加上市民意識提高，投訴因而上升。"
+      }
+    },
     {
       "id": "2026-08-15-amber-rainstorm-warning-early-morning",
       "published_at": "2026-08-15T03:05:00+08:00",
@@ -1325,52 +1394,6 @@
       "zh": {
         "headline": "西貢布袋澳魚排起火傳爆炸聲 一人手指受傷",
         "dek": "今早布袋澳一號及二號魚排起火，曾傳出爆炸聲及冒出濃煙，消防水陸兩路灌救，約50分鐘救熄，一名六旬男子救火時手指受傷。"
-      }
-    },
-    {
-      "id": "2026-08-12-yuen-long-anti-prostitution-19-arrested",
-      "published_at": "2026-08-12T07:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "immigration",
-        "yuen-long",
-        "prostitution",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-yuen-long-anti-prostitution-19-arrested.json",
-      "en": {
-        "headline": "Police and Immigration arrest 19 mainland women in Yuen Long anti-prostitution operation",
-        "dek": "Officers from the Yuen Long Police District Special Duties Squad and the Immigration Department detained the women, aged 21 to 51, for alleged breach of conditions of stay during a joint operation on Tuesday."
-      },
-      "zh": {
-        "headline": "元朗掃黃聯同入境處拘19名內地女子 涉違反逗留條件",
-        "dek": "元朗警區特別職務隊聯同入境事務處周二展開行動，以涉嫌違反逗留條件拘捕19名年齡介乎21至51歲的內地女子，全部被扣留調查。"
-      }
-    },
-    {
-      "id": "2026-08-12-huanggang-port-cross-department-drill",
-      "published_at": "2026-08-12T07:05:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "huanggang",
-        "customs",
-        "immigration",
-        "border",
-        "checkpoint"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-huanggang-port-cross-department-drill.json",
-      "en": {
-        "headline": "Customs and Immigration run cross-department drill at new Huanggang Port",
-        "dek": "About 50 officers from Customs, Immigration, police, the Department of Health and the Government Property Agency practised vehicle and passenger clearance procedures, including system faults and reverse exits, ahead…"
-      },
-      "zh": {
-        "headline": "新皇崗口岸跨部門通關演練 模擬系統故障及倒車離場",
-        "dek": "海關、入境處、警務處、衞生署及政府產業署約50人周二在港方口岸區演練人車通關程序，包括查驗系統故障及車輛倒車離開聯合一站式車道等突發情况。"
       }
     }
   ]
