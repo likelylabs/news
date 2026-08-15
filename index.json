@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-15T23:02:39+08:00",
+  "generated_at": "2026-08-16T03:05:13+08:00",
   "live_window_hours": 72,
-  "count": 58,
+  "count": 54,
   "articles": [
+    {
+      "id": "2026-08-16-doo-wu-women-doubles-silver-wtt-sweden",
+      "published_at": "2026-08-16T03:06:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "table-tennis",
+        "wtt",
+        "doo-hoi-kem",
+        "wu-yung-lin",
+        "sweden"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-16/2026-08-16-doo-wu-women-doubles-silver-wtt-sweden.json",
+      "en": {
+        "headline": "Doo Hoi-kem and Wu Yung-lin take women’s doubles silver at WTT Sweden Smash",
+        "dek": "The Hong Kong pair, who earlier upset the world No. 1 Chinese duo, fell 1-3 to Japan’s Hina Hayata and Miwa Harimoto in the final of the Grand Smash event."
+      },
+      "zh": {
+        "headline": "杜凱琹吳詠琳瑞典大滿貫女雙摘銀 力戰不敵日本世二",
+        "dek": "港隊組合先後擊敗中國世一及韓國世三晉級決賽，最終以1比3不敵日本早田希娜／張本美和，奪得大滿貫女雙亞軍。"
+      }
+    },
+    {
+      "id": "2026-08-16-police-officer-dancing-uniform-video",
+      "published_at": "2026-08-16T03:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "conduct",
+        "social-media",
+        "douyin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-16/2026-08-16-police-officer-dancing-uniform-video.json",
+      "en": {
+        "headline": "Police investigate serving officer over viral Douyin video dancing in uniform",
+        "dek": "The force confirmed the short-haired woman in the clip is an active officer, ordered the post removed and opened an internal inquiry into professional image and conduct."
+      },
+      "zh": {
+        "headline": "女警穿制服跳抖音片惹議 警方證實現役並內部調查",
+        "dek": "警方確認短片中短髮女子為現役警務人員，已責成下架影片並展開內部調查，強調重視人員操守及專業形象。"
+      }
+    },
     {
       "id": "2026-08-15-auxiliary-police-graduation",
       "published_at": "2026-08-15T23:07:00+08:00",
@@ -1167,141 +1212,6 @@
       "zh": {
         "headline": "兩內地男攜19萬支未完稅香煙抵港 同判囚10個月",
         "dek": "海關在機場兩名由老撾經河內抵港旅客的個人行李檢獲合共約19萬支未完稅香煙，市值約85萬元；西九龍裁判法院周三判處各人監禁10個月。"
-      }
-    },
-    {
-      "id": "2026-08-13-baby-basic-pasta-weevil-recall",
-      "published_at": "2026-08-13T01:14:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "food-safety",
-        "recall",
-        "cfs",
-        "children",
-        "baby-food"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-13/2026-08-13-baby-basic-pasta-weevil-recall.json",
-      "en": {
-        "headline": "Baby Basic recalls pasta and congee products after rice weevil reports",
-        "dek": "The local baby-food maker has withdrawn several instant products from shelves as a precaution and suspended production of three pasta varieties; government tests have not confirmed a health risk."
-      },
-      "zh": {
-        "headline": "寶寶百味回收米形麵及粥品 疑有穀牛",
-        "dek": "本地嬰幼兒食品商周三自願下架多款即食產品並暫停三款米形麵生產，作為預防措施；政府化驗未證實健康風險。"
-      }
-    },
-    {
-      "id": "2026-08-13-chu-hai-college-finance-director-court",
-      "published_at": "2026-08-13T01:13:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "courts",
-        "theft",
-        "tuen-mun",
-        "education"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-13/2026-08-13-chu-hai-college-finance-director-court.json",
-      "en": {
-        "headline": "Chu Hai College finance director remanded over alleged HK$41m theft",
-        "dek": "Ray Yip Kam-chun appeared in Tuen Mun Court on Wednesday facing a theft charge; his wife and an engineering contractor were also denied bail on money-laundering counts."
-      },
-      "zh": {
-        "headline": "珠海學院財務總監涉盜竊4100萬 還押候訊",
-        "dek": "葉錦真周三在屯門裁判法院提堂，被控盜竊罪；妻子及一名工程商亦因清洗黑錢罪名不准保釋。"
-      }
-    },
-    {
-      "id": "2026-08-13-very-hot-weather-continues-thursday",
-      "published_at": "2026-08-13T01:12:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "very-hot-weather",
-        "heat",
-        "hko"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-13/2026-08-13-very-hot-weather-continues-thursday.json",
-      "en": {
-        "headline": "Very Hot Weather Warning remains in force as heat eases only slightly",
-        "dek": "The Observatory expects sunny periods and one or two showers on Thursday, with urban highs around 34 degrees Celsius and continued very hot conditions across the territory."
-      },
-      "zh": {
-        "headline": "酷熱天氣警告仍然生效 極端酷熱稍為緩和",
-        "dek": "天文台預料星期四部分時間有陽光及一兩陣驟雨，市區最高氣溫約34度，本港天氣仍然酷熱。"
-      }
-    },
-    {
-      "id": "2026-08-12-yan-chai-nurse-indecent-assault",
-      "published_at": "2026-08-12T23:07:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "hospital",
-        "yan-chai",
-        "indecent-assault",
-        "community-nurse"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-yan-chai-nurse-indecent-assault.json",
-      "en": {
-        "headline": "Police arrest 80-year-old man after community nurse reports indecent assault",
-        "dek": "Yan Chai Hospital said a community nurse was allegedly assaulted during home visits on 31 July and 4 August; the hospital has zero tolerance for such behaviour and is supporting the staff member."
-      },
-      "zh": {
-        "headline": "仁濟社康護士外出探訪疑被非禮 警拘80歲男子",
-        "dek": "院方指一名社康護士於7月31日及8月4日探訪期間懷疑被非禮，接報後報警，警方其後拘捕一名80歲男子。"
-      }
-    },
-    {
-      "id": "2026-08-12-jimmy-white-hk-resident",
-      "published_at": "2026-08-12T23:06:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "snooker",
-        "talent-scheme",
-        "immigration",
-        "jimmy-white"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-jimmy-white-hk-resident.json",
-      "en": {
-        "headline": "Snooker star Jimmy White becomes Hong Kong resident via talent scheme",
-        "dek": "The English player known as ‘The Whirlwind’ obtained his identity card through the Quality Migrant Admission Scheme and said he plans to open a snooker academy in the city."
-      },
-      "zh": {
-        "headline": "桌球名將占美韋德成香港居民 擬開桌球學院",
-        "dek": "有「白旋風」之稱的英國桌球手透過優秀人才入境計劃取得香港身份證，表示計劃在港開設桌球學校培育本地人才。"
-      }
-    },
-    {
-      "id": "2026-08-12-bishop-hill-clearance-starts",
-      "published_at": "2026-08-12T23:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "sham-shui-po",
-        "bishop-hill",
-        "clearance",
-        "had",
-        "recreation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-bishop-hill-clearance-starts.json",
-      "en": {
-        "headline": "Government begins first phase of Bishop Hill clearance",
-        "dek": "Authorities started removing unauthorised structures and facilities on the Sham Shui Po hillside today, sealing one side for about three days while keeping access open via the other entrance."
-      },
-      "zh": {
-        "headline": "政府展開主教山首階段清場",
-        "dek": "當局今日開始清理深水埗窩仔山違法及不安全構築物，首階段圍封棠蔭街一邊約三日，另一邊入口仍可供市民上山。"
       }
     }
   ]
