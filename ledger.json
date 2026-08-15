@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T11:06:35+08:00",
+  "updated_at": "2026-08-15T21:08:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -33,16 +33,40 @@
       "headline_en": "Privacy watchdog receives 2,990 complaints in first half, up more than 60%"
     },
     {
-      "key": "huanggang-port-second-drill-aug15",
+      "key": "huanggang-port-second-drill",
       "id": "2026-08-15-huanggang-port-second-drill",
       "first_seen": "2026-08-15T11:11:00+08:00",
       "headline_en": "Second large-scale drill held at Huanggang Port Hong Kong side"
     },
     {
-      "key": "hung-shui-kiu-logistics-eoi-aug15",
+      "key": "hung-shui-kiu-logistics-eoi",
       "id": "2026-08-15-hung-shui-kiu-logistics-eoi",
       "first_seen": "2026-08-15T11:12:00+08:00",
       "headline_en": "Government invites industry interest for first Hung Shui Kiu logistics sites"
+    },
+    {
+      "key": "lion-rock-tunnel-road-accidents-aug15",
+      "id": "2026-08-15-lion-rock-tunnel-road-accidents",
+      "first_seen": "2026-08-15T21:05:00+08:00",
+      "headline_en": "Two accidents on Lion Rock Tunnel Road injure five and cause congestion"
+    },
+    {
+      "key": "cyberport-phase-5-leasing-aug15",
+      "id": "2026-08-15-cyberport-phase-5-leasing",
+      "first_seen": "2026-08-15T21:06:00+08:00",
+      "headline_en": "Cyberport Phase 5 offices more than half leased after June completion"
+    },
+    {
+      "key": "panda-cubs-jia-jia-de-de-second-birthday",
+      "id": "2026-08-15-panda-cubs-second-birthday",
+      "first_seen": "2026-08-15T21:07:00+08:00",
+      "headline_en": "Hong Kong-born panda twins Jia Jia and De De turn two at Ocean Park"
+    },
+    {
+      "key": "lifestyle-wetland-park-national-ecology-day",
+      "id": "2026-08-15-lifestyle-wetland-park-ecology-day",
+      "first_seen": "2026-08-15T21:08:00+08:00",
+      "headline_en": "Hong Kong Wetland Park offers free admission on National Ecology Day"
     }
   ]
 }
