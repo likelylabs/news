@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-08-15T21:06:54+08:00",
+  "generated_at": "2026-08-15T23:02:39+08:00",
   "live_window_hours": 72,
-  "count": 57,
+  "count": 58,
   "articles": [
+    {
+      "id": "2026-08-15-auxiliary-police-graduation",
+      "published_at": "2026-08-15T23:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "auxiliary-police",
+        "graduation",
+        "public-service"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-15/2026-08-15-auxiliary-police-graduation.json",
+      "en": {
+        "headline": "204 auxiliary police officers graduate, including barrister and government statistician",
+        "dek": "The new batch of part-time officers from diverse professions completed training and will support frontline policing across Hong Kong."
+      },
+      "zh": {
+        "headline": "204名輔警結業 大律師及政府統計師跨界投身前線",
+        "dek": "結業會操見證來自各行各業的學員完成訓練，包括執業大律師及統計師，將投入支援正規警隊工作。"
+      }
+    },
+    {
+      "id": "2026-08-15-mastercard-global-outage",
+      "published_at": "2026-08-15T23:06:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "mastercard",
+        "payments",
+        "outage",
+        "banking"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-15/2026-08-15-mastercard-global-outage.json",
+      "en": {
+        "headline": "Mastercard payments briefly disrupted worldwide after system update",
+        "dek": "Hong Kong users reported declined transactions and Apple Pay failures on Saturday afternoon before the company confirmed systems had returned to normal."
+      },
+      "zh": {
+        "headline": "萬事達卡全球系統更新故障 香港用戶交易一度被拒",
+        "dek": "周六下午包括香港在內多地用戶反映刷卡、Apple Pay及提款受阻，公司其後確認系統已恢復正常。"
+      }
+    },
+    {
+      "id": "2026-08-15-sau-mau-ping-cocaine-seizure",
+      "published_at": "2026-08-15T23:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "drugs",
+        "cocaine",
+        "sau-mau-ping",
+        "public-housing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-15/2026-08-15-sau-mau-ping-cocaine-seizure.json",
+      "en": {
+        "headline": "Police seize 3.6 kg of cocaine worth HK$2.9 million in Sau Mau Ping public housing",
+        "dek": "A 48-year-old man was arrested on suspicion of trafficking dangerous drugs after officers raided a unit used as a storage and distribution centre."
+      },
+      "zh": {
+        "headline": "警搗秀茂坪公屋毒品倉檢3.6公斤可卡因市值290萬 拘48歲男",
+        "dek": "中區反三合會行動組人員在公屋單位檢獲逾60包懷疑可卡因及電子磅等工具，疑犯涉嫌販運危險藥物被扣查。"
+      }
+    },
     {
       "id": "2026-08-15-lifestyle-wetland-park-ecology-day",
       "published_at": "2026-08-15T21:08:00+08:00",
@@ -1235,51 +1302,6 @@
       "zh": {
         "headline": "政府展開主教山首階段清場",
         "dek": "當局今日開始清理深水埗窩仔山違法及不安全構築物，首階段圍封棠蔭街一邊約三日，另一邊入口仍可供市民上山。"
-      }
-    },
-    {
-      "id": "2026-08-12-cfs-pistachio-paste-aflatoxin",
-      "published_at": "2026-08-12T21:08:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "food-safety",
-        "cfs",
-        "recall",
-        "aflatoxin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-cfs-pistachio-paste-aflatoxin.json",
-      "en": {
-        "headline": "CFS finds excessive aflatoxin in bottled pistachio paste, orders recall",
-        "dek": "A sample of Naturalam 100% Pure Pistachio Butter sold at Sogo contained 12 times the legal limit; the public is advised not to consume the affected batch."
-      },
-      "zh": {
-        "headline": "食安中心驗出開心果醬黃曲霉毒素超標 指令下架回收",
-        "dek": "天然之林純開心果醬樣本每公斤含120微克黃曲霉毒素，超法定上限11倍，市民應停止食用受影響批次。"
-      }
-    },
-    {
-      "id": "2026-08-12-building-management-ordinance-consultation",
-      "published_at": "2026-08-12T21:07:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "building-management",
-        "consultation",
-        "had",
-        "legislation",
-        "owners"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-12/2026-08-12-building-management-ordinance-consultation.json",
-      "en": {
-        "headline": "Government launches consultation on Building Management Ordinance reforms",
-        "dek": "Proposals include higher attendance and voting thresholds for large-scale works, limits on proxy votes, and stronger powers for the authority; views are invited until 11 September."
-      },
-      "zh": {
-        "headline": "政府就《建築物管理條例》修訂展開公眾諮詢",
-        "dek": "建議提高大型維修及大額採購的出席和投票門檻、限制授權票數量，並加強主管當局權力，諮詢期至9月11日。"
       }
     }
   ]
