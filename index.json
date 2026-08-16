@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-08-16T09:07:18+08:00",
+  "generated_at": "2026-08-16T15:03:22+08:00",
   "live_window_hours": 72,
-  "count": 57,
+  "count": 55,
   "articles": [
+    {
+      "id": "2026-08-16-tseung-kwan-o-seven-seater-crash",
+      "published_at": "2026-08-16T15:08:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "tseung-kwan-o",
+        "police",
+        "road-safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-16/2026-08-16-tseung-kwan-o-seven-seater-crash.json",
+      "en": {
+        "headline": "Three injured after seven-seater hits barrier and overturns in Tseung Kwan O",
+        "dek": "The dual-plate vehicle struck a central divider on Wan Po Road near the sports ground around 5 a.m., skidded more than 50 metres and flipped; one passenger was taken to hospital."
+      },
+      "zh": {
+        "headline": "將軍澳七人車撞壆衝前翻側 三人輕傷一人送院",
+        "dek": "中港牌七人車清晨在環保大道撞向分隔石壆後失控翻側，三人一度被困，女乘客送院治理。"
+      }
+    },
+    {
+      "id": "2026-08-16-huanggang-port-capacity-kwok",
+      "published_at": "2026-08-16T15:07:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "huanggang",
+        "border",
+        "immigration",
+        "customs",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-16/2026-08-16-huanggang-port-capacity-kwok.json",
+      "en": {
+        "headline": "Huanggang Port expected to handle 200,000 daily crossings initially, immigration chief…",
+        "dek": "Director of Immigration Benson Kwok said nearly 200 retired staff have been rehired and personnel will be redeployed from quieter control points to support the new facility."
+      },
+      "zh": {
+        "headline": "郭俊峯：新皇崗口岸初期料每日應付20萬人次",
+        "dek": "入境處長表示已重聘近200名退休人員，並會從客流較少口岸調配人手支援新口岸運作。"
+      }
+    },
+    {
+      "id": "2026-08-16-paul-chan-h2-economy-outlook",
+      "published_at": "2026-08-16T15:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "economy",
+        "paul-chan",
+        "gdp",
+        "trade",
+        "interest-rates"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-16/2026-08-16-paul-chan-h2-economy-outlook.json",
+      "en": {
+        "headline": "Paul Chan says US trade policy impact on Hong Kong mainly psychological",
+        "dek": "The Financial Secretary expressed cautious optimism for the second half, citing resilient exports and domestic demand after the government raised its full-year growth forecast."
+      },
+      "zh": {
+        "headline": "陳茂波：美國貿易政策對港影響主要屬心理層面",
+        "dek": "財政司司長在電台節目表示，上半年經濟表現不俗，對下半年審慎樂觀，外部風險可控。"
+      }
+    },
+    {
+      "id": "2026-08-16-workweek-weather-outlook-aug17",
+      "published_at": "2026-08-16T15:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "weather-outlook",
+        "showers",
+        "thunderstorm",
+        "heat"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-16/2026-08-16-workweek-weather-outlook-aug17.json",
+      "en": {
+        "headline": "Work-week outlook: very hot Monday then unsettled with showers and thunderstorms",
+        "dek": "The Hong Kong Observatory expects sunny periods and very hot conditions on Monday before a broad trough brings cloudier weather, showers and squally thunderstorms from midweek."
+      },
+      "zh": {
+        "headline": "下周天氣展望：周一酷熱後中期轉不穩定有驟雨雷暴",
+        "dek": "天文台預料周一短暫陽光及酷熱，其後受廣闊低壓槽影響，中期起大致多雲，有幾陣驟雨及雷暴，風力亦會加強。"
+      }
+    },
     {
       "id": "2026-08-16-lifestyle-container-aquaculture-au-tau",
       "published_at": "2026-08-16T09:12:00+08:00",
@@ -1146,140 +1237,6 @@
       "zh": {
         "headline": "三名內地科學家獲2026未來科學大獎 孫東指鞏固香港創科地位",
         "dek": "創新科技及工業局局長孫東表示，大獎連續四年在港舉行，已確立為本港首屈一指的科學盛事。"
-      }
-    },
-    {
-      "id": "2026-08-13-lifestyle-tsuen-wan-food-waste-pilot",
-      "published_at": "2026-08-13T13:17:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food-waste",
-        "recycling",
-        "tsuen-wan",
-        "environment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-13/2026-08-13-lifestyle-tsuen-wan-food-waste-pilot.json",
-      "en": {
-        "headline": "Tsuen Wan street shops to trial dedicated food-waste collection points from September",
-        "dek": "The Environmental Protection Department will set up three new collection points serving more than 100 shops selling meat, fruit, vegetables and fish, with bins open daily from 9am to 9pm."
-      },
-      "zh": {
-        "headline": "荃灣街舖九月試行廚餘回收點 覆蓋逾百間肉菜魚檔",
-        "dek": "環保署將在川龍街、河背街一帶增設三個回收點，每日上午9時至晚上9時開放，服務逾100間街舖。"
-      }
-    },
-    {
-      "id": "2026-08-13-to-kwa-wan-minibus-pedestrian",
-      "published_at": "2026-08-13T13:16:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "to-kwa-wan",
-        "minibus",
-        "pedestrian"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-13/2026-08-13-to-kwa-wan-minibus-pedestrian.json",
-      "en": {
-        "headline": "Elderly pedestrian critically injured after private minibus collision in To Kwa Wan",
-        "dek": "A 75-year-old man was knocked down at the junction of Lok Shan Road and Mei Sin Tong Road around 10am and taken unconscious to Queen Elizabeth Hospital; the driver remained at the scene."
-      },
-      "zh": {
-        "headline": "土瓜灣私家小巴撞倒七旬途人 重傷昏迷送院",
-        "dek": "75歲男子周四上午約10時在落山道與美善同道交界被撞倒昏迷，送伊利沙伯醫院搶救；小巴男司機在場協助調查。"
-      }
-    },
-    {
-      "id": "2026-08-13-competition-commission-bid-rigging-second-round",
-      "published_at": "2026-08-13T13:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "competition-commission",
-        "bid-rigging",
-        "building-maintenance",
-        "courts"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-13/2026-08-13-competition-commission-bid-rigging-second-round.json",
-      "en": {
-        "headline": "Competition Commission mounts second-round raids in building maintenance bid-rigging probe",
-        "dek": "Officers searched 12 premises including four contractors’ offices and residences over suspected cartel conduct affecting 28 estates and buildings with contracts worth about HK$500 million."
-      },
-      "zh": {
-        "headline": "競委會樓宇維修圍標案第二輪執法 涉28屋苑約5億元",
-        "dek": "競委會周三根據法庭手令搜查12個處所，包括4間工程承辦商辦公室及涉案人士住所，懷疑違反《競爭條例》第一行為守則。"
-      }
-    },
-    {
-      "id": "2026-08-13-mong-kok-tesla-pedestrian",
-      "published_at": "2026-08-13T09:12:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "mong-kok",
-        "tesla",
-        "pedestrian"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-13/2026-08-13-mong-kok-tesla-pedestrian.json",
-      "en": {
-        "headline": "Tesla hits pedestrian in Mong Kok after series of lane changes",
-        "dek": "A 59-year-old woman suffered limb and buttock injuries and was taken conscious to Kwong Wah Hospital; the 52-year-old driver passed a breath test and was not arrested."
-      },
-      "zh": {
-        "headline": "旺角Tesla連切線轉彎撞傷女途人",
-        "dek": "59歲姓冼女途人手腳及臀部受傷，清醒送廣華醫院；52歲姓陳男司機通過酒精測試，暫無人被捕。"
-      }
-    },
-    {
-      "id": "2026-08-13-wu-kai-sha-pier-drowning",
-      "published_at": "2026-08-13T09:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "drowning",
-        "ma-on-shan",
-        "wu-kai-sha",
-        "rescue"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-13/2026-08-13-wu-kai-sha-pier-drowning.json",
-      "en": {
-        "headline": "82-year-old man dies after being pulled from water at Wu Kai Sha pier",
-        "dek": "The man, surnamed Chan, was found unconscious by other swimmers around 4pm on Wednesday and was later certified dead at Prince of Wales Hospital; a post-mortem examination is pending."
-      },
-      "zh": {
-        "headline": "烏溪沙碼頭82歲男子遇溺不治",
-        "dek": "男子周三下午約4時被其他泳客發現昏迷，送往威爾斯親王醫院後證實死亡，死因有待剖驗確定。"
-      }
-    },
-    {
-      "id": "2026-08-13-customs-airport-cigarettes-190k-jail",
-      "published_at": "2026-08-13T09:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "airport",
-        "cigarettes",
-        "smuggling",
-        "courts"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-13/2026-08-13-customs-airport-cigarettes-190k-jail.json",
-      "en": {
-        "headline": "Two mainland men jailed 10 months for 190,000 duty-not-paid cigarettes at airport",
-        "dek": "Customs seized the cigarettes, with a market value of about HK$850,000, from the personal baggage of passengers arriving from Vientiane via Hanoi; the sentences were handed down at West Kowloon Magistrates’ Courts."
-      },
-      "zh": {
-        "headline": "兩內地男攜19萬支未完稅香煙抵港 同判囚10個月",
-        "dek": "海關在機場兩名由老撾經河內抵港旅客的個人行李檢獲合共約19萬支未完稅香煙，市值約85萬元；西九龍裁判法院周三判處各人監禁10個月。"
       }
     }
   ]
