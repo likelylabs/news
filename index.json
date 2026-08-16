@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-08-16T21:08:57+08:00",
+  "generated_at": "2026-08-16T23:04:56+08:00",
   "live_window_hours": 72,
-  "count": 51,
+  "count": 54,
   "articles": [
+    {
+      "id": "2026-08-16-lifestyle-computer-communications-festival",
+      "published_at": "2026-08-16T23:07:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "technology",
+        "ai",
+        "wan-chai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-16/2026-08-16-lifestyle-computer-communications-festival.json",
+      "en": {
+        "headline": "Hong Kong Computer & Communications Festival opens 21 August with AI focus",
+        "dek": "The four-day event at the Convention and Exhibition Centre features more than 200 exhibitors, free AI workshops and an AI and digital-transformation zone organised with the Productivity Council."
+      },
+      "zh": {
+        "headline": "電腦通訊節8月21日會展開鑼 以AI應用為主題",
+        "dek": "一連四日於灣仔會展舉行，逾200家參展商，設AI及數碼轉型專區及超過20場免費工作坊。"
+      }
+    },
+    {
+      "id": "2026-08-16-subdivided-flats-heat-survey",
+      "published_at": "2026-08-16T23:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "heat",
+        "subdivided-flats",
+        "public-health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-16/2026-08-16-subdivided-flats-heat-survey.json",
+      "en": {
+        "headline": "Subdivided-flat survey finds indoor heat that feels like 52°C",
+        "dek": "CarbonCare InnoLab and the Concerning Subdivided Units Alliance tracked temperatures in 78 inadequate homes and found night-time averages above the Observatory's hot-night threshold, with carers hardest hit."
+      },
+      "zh": {
+        "headline": "劏房調查：室內體感最高達52度 夜間均溫仍逾29度",
+        "dek": "低碳想創坊與劏房支援連線監測78個不適切居所，發現日間體感最高52.21度，照顧者受熱及電費雙重壓力最大。"
+      }
+    },
+    {
+      "id": "2026-08-16-cheung-sha-wan-cat-cruelty-arrest",
+      "published_at": "2026-08-16T23:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "animal-cruelty",
+        "cheung-sha-wan",
+        "youth"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-16/2026-08-16-cheung-sha-wan-cat-cruelty-arrest.json",
+      "en": {
+        "headline": "14-year-old arrested after classmate's cat dies of suspected abuse",
+        "dek": "Police say the boy, who had been fostering an eight-month-old cat, was detained on suspicion of animal cruelty after a Cheung Sha Wan veterinary clinic reported suspicious injuries."
+      },
+      "zh": {
+        "headline": "14歲少年涉虐死同學託管貓隻被捕",
+        "dek": "長沙灣獸醫診所發現八個月大貓隻傷勢可疑後報警，警方指少年曾在家中掌摑及踢向貓隻，以涉嫌殘酷對待動物拘捕。"
+      }
+    },
     {
       "id": "2026-08-16-lifestyle-egypt-exhibition-final",
       "published_at": "2026-08-16T21:13:00+08:00",
