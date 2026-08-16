@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T04:44:35+08:00",
+  "updated_at": "2026-08-17T07:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -199,6 +199,12 @@
       "id": "2026-08-17-hku-cityu-arwu-top-100",
       "first_seen": "2026-08-17T03:07:00+08:00",
       "headline_en": "HKU rises to 62nd and CityU to 95th in global academic ranking"
+    },
+    {
+      "key": "lifestyle-food-expo-final-day",
+      "id": "2026-08-17-lifestyle-food-expo-final-day",
+      "first_seen": "2026-08-17T07:10:00+08:00",
+      "headline_en": "HKTDC Food Expo enters final day at Convention and Exhibition Centre"
     }
   ]
 }
