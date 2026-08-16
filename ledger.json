@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T23:04:56+08:00",
+  "updated_at": "2026-08-17T03:07:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -181,6 +181,24 @@
       "id": "2026-08-16-lifestyle-computer-communications-festival",
       "first_seen": "2026-08-16T23:07:00+08:00",
       "headline_en": "Hong Kong Computer & Communications Festival opens 21 August with AI focus"
+    },
+    {
+      "key": "very-hot-weather-warning-aug17",
+      "id": "2026-08-17-very-hot-weather-warning-monday",
+      "first_seen": "2026-08-17T03:05:00+08:00",
+      "headline_en": "Very Hot Weather Warning remains in force as temperatures stay elevated"
+    },
+    {
+      "key": "zhu-rongji-half-staff-aug18",
+      "id": "2026-08-17-zhu-rongji-half-staff-flags",
+      "first_seen": "2026-08-17T03:06:00+08:00",
+      "headline_en": "Flags to fly at half-staff Tuesday for late former premier Zhu Rongji"
+    },
+    {
+      "key": "arwu-2026-hku-cityu",
+      "id": "2026-08-17-hku-cityu-arwu-top-100",
+      "first_seen": "2026-08-17T03:07:00+08:00",
+      "headline_en": "HKU rises to 62nd and CityU to 95th in global academic ranking"
     }
   ]
 }
