@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-08-16T23:04:56+08:00",
+  "generated_at": "2026-08-17T03:04:36+08:00",
   "live_window_hours": 72,
-  "count": 54,
+  "count": 52,
   "articles": [
+    {
+      "id": "2026-08-17-hku-cityu-arwu-top-100",
+      "published_at": "2026-08-17T03:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "university",
+        "hku",
+        "cityu",
+        "ranking"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-hku-cityu-arwu-top-100.json",
+      "en": {
+        "headline": "HKU rises to 62nd and CityU to 95th in global academic ranking",
+        "dek": "Both universities enter the top 100 of the 2026 Academic Ranking of World Universities released by ShanghaiRanking, with HKU improving five places and CityU four."
+      },
+      "zh": {
+        "headline": "港大及城大躋身軟科世界大學排名百強",
+        "dek": "2026年軟科世界大學學術排名公布，港大升5位至全球第62，城大升4位至第95，連續第二年進入百強。"
+      }
+    },
+    {
+      "id": "2026-08-17-zhu-rongji-half-staff-flags",
+      "published_at": "2026-08-17T03:06:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "government",
+        "zhu-rongji",
+        "mourning",
+        "flags"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-zhu-rongji-half-staff-flags.json",
+      "en": {
+        "headline": "Flags to fly at half-staff Tuesday for late former premier Zhu Rongji",
+        "dek": "The Hong Kong government will lower national and regional flags at Central Government Offices, Government House, boundary control points and the airport on 18 August as a token of mourning."
+      },
+      "zh": {
+        "headline": "悼念前總理朱鎔基 下周二港府指定場所下半旗",
+        "dek": "按中央人民政府通知，港府將於8月18日在添馬政府總部、禮賓府、各口岸及機場將國旗及區旗下半旗致哀。"
+      }
+    },
+    {
+      "id": "2026-08-17-very-hot-weather-warning-monday",
+      "published_at": "2026-08-17T03:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "very-hot-weather",
+        "heat",
+        "monday"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-very-hot-weather-warning-monday.json",
+      "en": {
+        "headline": "Very Hot Weather Warning remains in force as temperatures stay elevated",
+        "dek": "The Hong Kong Observatory continues the warning issued on Sunday, forecasting sunny periods and a maximum of around 33°C on Monday before heavier showers and thunderstorms develop later."
+      },
+      "zh": {
+        "headline": "酷熱天氣警告繼續生效 周一最高氣溫約33度",
+        "dek": "天文台周日發出的酷熱天氣警告仍然生效，預料周一短暫陽光及酷熱，其後部分地區驟雨較大及有狂風雷暴。"
+      }
+    },
     {
       "id": "2026-08-16-lifestyle-computer-communications-festival",
       "published_at": "2026-08-16T23:07:00+08:00",
@@ -1105,119 +1172,6 @@
       "zh": {
         "headline": "雷暴警告延至上午8時45分 局部地區有狂風雷暴",
         "dek": "天文台將今早4時45分發出的雷暴警告延長至周五上午8時45分，預料本港有幾陣狂風雷暴。"
-      }
-    },
-    {
-      "id": "2026-08-14-lifestyle-re-love-festival-vintage-mills",
-      "published_at": "2026-08-14T01:04:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "festival",
-        "the-mills",
-        "tsuen-wan",
-        "vintage"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-lifestyle-re-love-festival-vintage-mills.json",
-      "en": {
-        "headline": "Re-Love Festival shifts to Vintage Revival theme at The Mills this weekend",
-        "dek": "The second weekend of the Re-Love Festival at The Mills in Tsuen Wan opens today with a Vintage Revival programme featuring markets, classic cars and 1960s–1980s style."
-      },
-      "zh": {
-        "headline": "南豐紗廠Re-Love綠續生活節本周末轉入古著文化祭",
-        "dek": "荃灣南豐紗廠Re-Love綠續生活節第二周末由今日起以「古著文化祭」為主題，包括市集、老爺車及六十至八十年代風格活動。"
-      }
-    },
-    {
-      "id": "2026-08-14-thunderstorm-warning-early-morning",
-      "published_at": "2026-08-14T01:03:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "thunderstorm",
-        "hko",
-        "weather"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-thunderstorm-warning-early-morning.json",
-      "en": {
-        "headline": "Thunderstorm Warning in force until 3:30 a.m. with isolated squally storms",
-        "dek": "The Hong Kong Observatory has issued a Thunderstorm Warning effective until 3:30 a.m. Friday, expecting isolated squally thunderstorms across the territory."
-      },
-      "zh": {
-        "headline": "雷暴警告生效至凌晨3時30分 局部地區有狂風雷暴",
-        "dek": "天文台發出雷暴警告，有效至周五凌晨3時30分，預料本港有局部地區出現狂風雷暴。"
-      }
-    },
-    {
-      "id": "2026-08-13-aedes-albopictus-index-aug-second-batch",
-      "published_at": "2026-08-13T23:12:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "mosquito",
-        "dengue",
-        "fehd",
-        "public-health",
-        "aedes"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-13/2026-08-13-aedes-albopictus-index-aug-second-batch.json",
-      "en": {
-        "headline": "Kowloon Tong records highest Aedes mosquito index in latest FEHD survey",
-        "dek": "Eleven of 16 surveyed areas reached Level 2, indicating fairly extensive distribution of Aedes albopictus; the department issued three prosecutions and multiple statutory notices over breeding sites."
-      },
-      "zh": {
-        "headline": "八月第二批白紋伊蚊指數 九龍塘最高達16.7% 食環提三宗檢控",
-        "dek": "16個監察地區中有11區屬第二級別，顯示白紋伊蚊分布頗為廣泛；東區及九龍城發現滋生地點並採取執法行動。"
-      }
-    },
-    {
-      "id": "2026-08-13-ck-hutchison-interim-results",
-      "published_at": "2026-08-13T23:11:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "ck-hutchison",
-        "interim-results",
-        "ports",
-        "dividend",
-        "li-ka-shing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-13/2026-08-13-ck-hutchison-interim-results.json",
-      "en": {
-        "headline": "CK Hutchison first-half profit surges more than 30-fold on asset sales",
-        "dek": "Reported profit attributable to shareholders reached HK$26.8 billion, driven by gains from UK infrastructure disposals; underlying profit rose about 7 per cent and the interim dividend increased 5 per cent."
-      },
-      "zh": {
-        "headline": "長和上半年純利飆升逾30倍至268億元 派中期息0.7455元",
-        "dek": "主要受惠出售英國基建資產收益，基本溢利升約7%；中期息按年增加5%，淨負債比率降至歷史低位。"
-      }
-    },
-    {
-      "id": "2026-08-13-mcdonalds-shrimp-burger-suspension",
-      "published_at": "2026-08-13T23:10:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "food-safety",
-        "mcdonalds",
-        "recall",
-        "antibiotics",
-        "cfs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-13/2026-08-13-mcdonalds-shrimp-burger-suspension.json",
-      "en": {
-        "headline": "McDonald’s Hong Kong suspends shrimp burgers after Taiwan finds banned antibiotic",
-        "dek": "The local operator said its shrimp patties come from a different Thai production batch and recipe, but paused sales of the Ebi range as a precaution to address public concern."
-      },
-      "zh": {
-        "headline": "台麥當勞蝦堡驗出禁用抗生素 港方預防性停售滋味蝦堡系列",
-        "dek": "香港麥當勞指本地蝦餅配方及批次與台灣不同，為釋除公眾疑慮即時暫停出售相關產品。"
       }
     }
   ]
