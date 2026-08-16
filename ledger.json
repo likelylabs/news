@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T04:45:29+08:00",
+  "updated_at": "2026-08-16T09:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -97,6 +97,24 @@
       "id": "2026-08-16-doo-wu-women-doubles-silver-wtt-sweden",
       "first_seen": "2026-08-16T03:06:00+08:00",
       "headline_en": "Doo Hoi-kem and Wu Yung-lin take women’s doubles silver at WTT Sweden Smash"
+    },
+    {
+      "key": "very-hot-weather-warning-aug16",
+      "id": "2026-08-16-very-hot-weather-warning",
+      "first_seen": "2026-08-16T09:10:00+08:00",
+      "headline_en": "Very Hot Weather Warning issued as temperatures expected to reach 33°C"
+    },
+    {
+      "key": "wong-chan-men-doubles-silver-wtt-sweden",
+      "id": "2026-08-16-wong-chan-men-doubles-silver-wtt-sweden",
+      "first_seen": "2026-08-16T09:11:00+08:00",
+      "headline_en": "Wong Chun-ting and Chan Ho-wah take men’s doubles silver at WTT Sweden Smash"
+    },
+    {
+      "key": "lifestyle-container-aquaculture-au-tau",
+      "id": "2026-08-16-lifestyle-container-aquaculture-au-tau",
+      "first_seen": "2026-08-16T09:12:00+08:00",
+      "headline_en": "AFCD demonstrates container fish farming system at Au Tau with triple the yield"
     }
   ]
 }
