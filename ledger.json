@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T15:03:22+08:00",
+  "updated_at": "2026-08-16T21:13:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -139,6 +139,30 @@
       "id": "2026-08-16-tseung-kwan-o-seven-seater-crash",
       "first_seen": "2026-08-16T15:08:00+08:00",
       "headline_en": "Three injured after seven-seater hits barrier and overturns in Tseung Kwan O"
+    },
+    {
+      "key": "icac-sfc-manager-tong-charged",
+      "id": "2026-08-16-icac-sfc-manager-charged",
+      "first_seen": "2026-08-16T21:10:00+08:00",
+      "headline_en": "ICAC charges former SFC manager over unauthorised access to internal systems"
+    },
+    {
+      "key": "police-scam-malaysian-runners-aug16",
+      "id": "2026-08-16-police-scam-malaysian-runners",
+      "first_seen": "2026-08-16T21:11:00+08:00",
+      "headline_en": "Police arrest 17 and seize HK$3.67m in crackdown on scam using Malaysian runners"
+    },
+    {
+      "key": "police-youth-crime-crackdown-aug16",
+      "id": "2026-08-16-police-youth-crime-arrests",
+      "first_seen": "2026-08-16T21:12:00+08:00",
+      "headline_en": "Police arrest 16 including 13-year-old in New Territories South youth crime crackdown"
+    },
+    {
+      "key": "lifestyle-egypt-unveiled-final-weeks",
+      "id": "2026-08-16-lifestyle-egypt-exhibition-final",
+      "first_seen": "2026-08-16T21:13:00+08:00",
+      "headline_en": "Ancient Egypt Unveiled exhibition enters final weeks at Hong Kong Palace Museum"
     }
   ]
 }
