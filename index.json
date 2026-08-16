@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-17T04:44:35+08:00",
+  "generated_at": "2026-08-17T07:07:51+08:00",
   "live_window_hours": 72,
-  "count": 52,
+  "count": 53,
   "articles": [
+    {
+      "id": "2026-08-17-lifestyle-food-expo-final-day",
+      "published_at": "2026-08-17T07:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "exhibition",
+        "wan-chai",
+        "hktdc"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-lifestyle-food-expo-final-day.json",
+      "en": {
+        "headline": "HKTDC Food Expo enters final day at Convention and Exhibition Centre",
+        "dek": "The five-day event and concurrent Beauty & Wellness and Home Delights expos close at 6 p.m. Monday after drawing exhibitors from more than 30 countries and regions."
+      },
+      "zh": {
+        "headline": "貿發局美食博覽今日最後一天 會展晚上6時閉幕",
+        "dek": "一連五日的美食博覽連同美與健生活博覽及家電家居博覽於周一晚上6時結束，逾30個國家及地區展商參與。"
+      }
+    },
     {
       "id": "2026-08-17-hku-cityu-arwu-top-100",
       "published_at": "2026-08-17T03:07:00+08:00",
