@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T21:08:57+08:00",
+  "updated_at": "2026-08-16T23:07:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -163,6 +163,24 @@
       "id": "2026-08-16-lifestyle-egypt-exhibition-final",
       "first_seen": "2026-08-16T21:13:00+08:00",
       "headline_en": "Ancient Egypt Unveiled exhibition enters final weeks at Hong Kong Palace Museum"
+    },
+    {
+      "key": "cheung-sha-wan-cat-cruelty-arrest",
+      "id": "2026-08-16-cheung-sha-wan-cat-cruelty-arrest",
+      "first_seen": "2026-08-16T23:05:00+08:00",
+      "headline_en": "14-year-old arrested after classmate's cat dies of suspected abuse"
+    },
+    {
+      "key": "subdivided-flats-heat-survey-aug16",
+      "id": "2026-08-16-subdivided-flats-heat-survey",
+      "first_seen": "2026-08-16T23:06:00+08:00",
+      "headline_en": "Subdivided-flat survey finds indoor heat that feels like 52°C"
+    },
+    {
+      "key": "lifestyle-computer-communications-festival-2026",
+      "id": "2026-08-16-lifestyle-computer-communications-festival",
+      "first_seen": "2026-08-16T23:07:00+08:00",
+      "headline_en": "Hong Kong Computer & Communications Festival opens 21 August with AI focus"
     }
   ]
 }
