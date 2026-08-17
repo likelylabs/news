@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-18T04:51:29+08:00",
+  "generated_at": "2026-08-18T07:15:35+08:00",
   "live_window_hours": 72,
-  "count": 52,
+  "count": 54,
   "articles": [
+    {
+      "id": "2026-08-18-lifestyle-palace-museum-egypt-after-hours",
+      "published_at": "2026-08-18T07:21:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "west-kowloon",
+        "palace-museum",
+        "egypt"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-18/2026-08-18-lifestyle-palace-museum-egypt-after-hours.json",
+      "en": {
+        "headline": "Hong Kong Palace Museum stages one-night Egypt after-hours event on Wednesday",
+        "dek": "A Pharaoh’s Rendezvous offers exclusive evening access to the Ancient Egypt Unveiled exhibition plus guided tours, performances and themed food on 19 August."
+      },
+      "zh": {
+        "headline": "故宮博物館周三晚辦古埃及展特別夜間活動",
+        "dek": "「法老之約」提供展覽獨家晚間入場、導賞、表演及主題飲食，門票450元，展期至8月31日。"
+      }
+    },
+    {
+      "id": "2026-08-18-mong-kok-maid-cafe-molestation-arrest",
+      "published_at": "2026-08-18T07:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "mong-kok",
+        "youth",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-18/2026-08-18-mong-kok-maid-cafe-molestation-arrest.json",
+      "en": {
+        "headline": "Maid cafe operator arrested over alleged molestation of 14-year-old employee",
+        "dek": "A 35-year-old man was detained in Mong Kok after a Form Three student reported being touched on multiple occasions starting from her first day of work."
+      },
+      "zh": {
+        "headline": "旺角女僕咖啡店負責人涉非禮14歲女員工被捕",
+        "dek": "中三女生8月7日首日上班起多次被觸碰，上周五報警，35歲男負責人周六被捕，另檢獲兒童色情照片。"
+      }
+    },
     {
       "id": "2026-08-18-kai-tak-mall-july-sales",
       "published_at": "2026-08-18T03:12:00+08:00",
