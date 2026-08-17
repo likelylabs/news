@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T13:05:59+08:00",
+  "updated_at": "2026-08-17T15:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -241,6 +241,24 @@
       "id": "2026-08-17-tai-po-container-truck-overturn",
       "first_seen": "2026-08-17T13:12:00+08:00",
       "headline_en": "Container truck overturns on Tai Po Wan Shing Road, driver briefly trapped"
+    },
+    {
+      "key": "thunderstorm-warning-aug17-extended",
+      "id": "2026-08-17-thunderstorm-warning-extended-afternoon",
+      "first_seen": "2026-08-17T15:10:00+08:00",
+      "headline_en": "Thunderstorm Warning extended until 4:30 pm as squally storms persist"
+    },
+    {
+      "key": "tsing-kwai-highway-collision-aug17",
+      "id": "2026-08-17-tsing-kwai-highway-taxi-collision",
+      "first_seen": "2026-08-17T15:11:00+08:00",
+      "headline_en": "Five injured after taxi and three cars collide on Tsing Kwai Highway"
+    },
+    {
+      "key": "silicon-valley-invention-festival-2026-hk",
+      "id": "2026-08-17-silicon-valley-invention-awards",
+      "first_seen": "2026-08-17T15:12:00+08:00",
+      "headline_en": "Hong Kong inventors take Grand Prix and 35 medals at Silicon Valley festival"
     }
   ]
 }
