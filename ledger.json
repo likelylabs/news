@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T15:12:17+08:00",
+  "updated_at": "2026-08-17T21:14:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -259,6 +259,36 @@
       "id": "2026-08-17-silicon-valley-invention-awards",
       "first_seen": "2026-08-17T15:12:00+08:00",
       "headline_en": "Hong Kong inventors take Grand Prix and 35 medals at Silicon Valley festival"
+    },
+    {
+      "key": "yoho-large-dog-kills-two-aug17",
+      "id": "2026-08-17-yoho-large-dog-kills-two",
+      "first_seen": "2026-08-17T21:10:00+08:00",
+      "headline_en": "Large dog kills two small dogs near YOHO Mall in Yuen Long"
+    },
+    {
+      "key": "tourist-arrivals-july-2026",
+      "id": "2026-08-17-tourist-arrivals-july-2026",
+      "first_seen": "2026-08-17T21:11:00+08:00",
+      "headline_en": "Hong Kong records 4.5 million visitor arrivals in July, up 3%"
+    },
+    {
+      "key": "hkex-ceo-bonnie-chan-reappointed",
+      "id": "2026-08-17-hkex-ceo-bonnie-chan-reappointed",
+      "first_seen": "2026-08-17T21:12:00+08:00",
+      "headline_en": "HKEX renews CEO Bonnie Chan’s contract for three more years"
+    },
+    {
+      "key": "mpox-case-32-year-old-aug17",
+      "id": "2026-08-17-mpox-case-32-year-old",
+      "first_seen": "2026-08-17T21:13:00+08:00",
+      "headline_en": "CHP investigates new local Mpox case involving 32-year-old man"
+    },
+    {
+      "key": "lifestyle-tai-kwun-chinese-culture-funfair",
+      "id": "2026-08-17-lifestyle-tai-kwun-chinese-culture-funfair",
+      "first_seen": "2026-08-17T21:14:00+08:00",
+      "headline_en": "Chinese Culture Funfair at Tai Kwun ends Monday after four-day run"
     }
   ]
 }
