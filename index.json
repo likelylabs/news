@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-17T07:07:51+08:00",
+  "generated_at": "2026-08-17T09:04:24+08:00",
   "live_window_hours": 72,
-  "count": 53,
+  "count": 54,
   "articles": [
+    {
+      "id": "2026-08-17-construction-site-smoking-ban-one-month",
+      "published_at": "2026-08-17T09:13:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "labour",
+        "smoking",
+        "construction",
+        "safety",
+        "enforcement"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-construction-site-smoking-ban-one-month.json",
+      "en": {
+        "headline": "Construction-site smoking ban: 44 fixed penalties in first three weeks",
+        "dek": "The Labour Department also issued 12 improvement notices to contractors and is considering prosecutions in two cases after the ban took effect on 17 July."
+      },
+      "zh": {
+        "headline": "地盤全面禁煙滿月 首三周發44張定額罰款通知書",
+        "dek": "勞工處截至8月8日巡查1,721個地盤，另向承建商發12張敦促改善通知書，擬檢控兩宗個案。"
+      }
+    },
+    {
+      "id": "2026-08-17-central-kowloon-route-lgv-overturn",
+      "published_at": "2026-08-17T09:12:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "central-kowloon-route",
+        "kai-tak",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-central-kowloon-route-lgv-overturn.json",
+      "en": {
+        "headline": "Light goods vehicle overturns on Central Kowloon Route near Kai Tak",
+        "dek": "The driver was uninjured after the vehicle left the road around 6 a.m.; affected Yau Ma Tei-bound lanes at the Kai Tak interchange were temporarily closed and later reopened."
+      },
+      "zh": {
+        "headline": "中九龍繞道輕型貨車翻側 啟德交匯處一度全線封閉",
+        "dek": "今早約6時一輛輕型貨車在啟福道近啟德交匯處失控翻側，司機無恙；往油麻地方向支路一度全封，其後重開。"
+      }
+    },
     {
       "id": "2026-08-17-lifestyle-food-expo-final-day",
       "published_at": "2026-08-17T07:10:00+08:00",
@@ -1174,27 +1219,6 @@
       "zh": {
         "headline": "黃色暴雨警告生效 雷暴警告延至上午11時",
         "dek": "天文台周五上午8時40分發出黃色暴雨警告信號，指本港已有或預料會有超過每小時30毫米的大雨，並將雷暴警告延長至上午11時。"
-      }
-    },
-    {
-      "id": "2026-08-14-thunderstorm-warning-morning",
-      "published_at": "2026-08-14T07:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "thunderstorm",
-        "hko",
-        "weather"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-thunderstorm-warning-morning.json",
-      "en": {
-        "headline": "Thunderstorm Warning extended until 8:45 a.m. with squally storms",
-        "dek": "The Hong Kong Observatory has extended the Thunderstorm Warning issued at 4:45 a.m. until 8:45 a.m. Friday, expecting a few squally thunderstorms over Hong Kong."
-      },
-      "zh": {
-        "headline": "雷暴警告延至上午8時45分 局部地區有狂風雷暴",
-        "dek": "天文台將今早4時45分發出的雷暴警告延長至周五上午8時45分，預料本港有幾陣狂風雷暴。"
       }
     }
   ]
