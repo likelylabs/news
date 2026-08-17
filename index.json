@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-08-17T09:04:24+08:00",
+  "generated_at": "2026-08-17T11:03:26+08:00",
   "live_window_hours": 72,
-  "count": 54,
+  "count": 52,
   "articles": [
+    {
+      "id": "2026-08-17-chris-tang-huanggang-drills-update",
+      "published_at": "2026-08-17T11:06:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "huanggang-port",
+        "security-bureau",
+        "chris-tang"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-chris-tang-huanggang-drills-update.json",
+      "en": {
+        "headline": "Chris Tang says Huanggang Port drills smooth, more tests planned",
+        "dek": "The Security Bureau chief said the first two large-scale drills at the Hong Kong side of the redeveloped Huanggang Port went smoothly overall and that further improvements will focus on signage and the public…"
+      },
+      "zh": {
+        "headline": "鄧炳強：皇崗口岸兩次演練整體暢順 將改善指示及交匯處安排",
+        "dek": "保安局局長鄧炳強表示，新皇崗口岸港方口岸區首兩次大型演練整體暢順，會加強指示牌及改善公共交通交匯處排隊與車流管理。"
+      }
+    },
+    {
+      "id": "2026-08-17-thunderstorm-warning-morning",
+      "published_at": "2026-08-17T11:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "thunderstorm-warning",
+        "hko"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-thunderstorm-warning-morning.json",
+      "en": {
+        "headline": "Thunderstorm Warning issued for northern New Territories",
+        "dek": "The Hong Kong Observatory issued a Thunderstorm Warning at 10:35 am, valid until 12:30 pm, expecting localised thunderstorms over the northern New Territories."
+      },
+      "zh": {
+        "headline": "天文台發出雷暴警告 預料新界北部有局部雷暴",
+        "dek": "天文台上午10時35分發出雷暴警告，有效至下午12時30分，預料新界北部有局部地區雷暴。"
+      }
+    },
     {
       "id": "2026-08-17-construction-site-smoking-ban-one-month",
       "published_at": "2026-08-17T09:13:00+08:00",
@@ -1131,94 +1172,6 @@
       "zh": {
         "headline": "週末天氣展望：驟雨雷暴逐漸減少 下周初回復酷熱",
         "dek": "天文台預料周六初時部分地區仍有較多驟雨及雷暴，日間短暫陽光；周日起日間酷熱，但仍有幾陣驟雨。"
-      }
-    },
-    {
-      "id": "2026-08-14-belvedere-garden-power-outage",
-      "published_at": "2026-08-14T09:18:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "power-outage",
-        "tsuen-wan",
-        "clp",
-        "housing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-belvedere-garden-power-outage.json",
-      "en": {
-        "headline": "Two Belvedere Garden blocks lose power for nearly three hours",
-        "dek": "Blocks 5 and 6 in Tsuen Wan suffered an outage from about 9 p.m. Thursday that cut air-conditioning and lighting; CLP restored supply around midnight as residents gathered downstairs to escape the heat."
-      },
-      "zh": {
-        "headline": "荃灣麗城花園兩座停電近三小時 居民下樓避暑",
-        "dek": "第5座及第6座周四晚約9時停電，冷氣及照明受影響，中電至約午夜復電；不少居民因室內酷熱下樓透氣。"
-      }
-    },
-    {
-      "id": "2026-08-14-tsuen-wan-sea-woman-death",
-      "published_at": "2026-08-14T09:17:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "rescue",
-        "tsuen-wan",
-        "drowning",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-tsuen-wan-sea-woman-death.json",
-      "en": {
-        "headline": "Woman in 60s dies after being pulled from sea off Tsuen Wan",
-        "dek": "Marine police rescued the unconscious woman about 20 metres from shore near Belvedere Garden around midnight; she was certified dead at Yan Chai Hospital after prolonged resuscitation."
-      },
-      "zh": {
-        "headline": "荃灣海面救起60多歲女子 送院後不治",
-        "dek": "水警於周五凌晨在麗城花園對開約20米海面救起昏迷女子，送仁濟醫院搶救後證實死亡。"
-      }
-    },
-    {
-      "id": "2026-08-14-tsing-yi-mgv-driver-collapse",
-      "published_at": "2026-08-14T09:16:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "tsing-yi",
-        "driver",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-tsing-yi-mgv-driver-collapse.json",
-      "en": {
-        "headline": "44-year-old truck driver dies after collapsing at wheel in Tsing Yi",
-        "dek": "Police said the medium goods vehicle driver lost consciousness while travelling towards Tsuen Wan on Thursday evening; the vehicle hit a kerb and he was certified dead at Yan Chai Hospital."
-      },
-      "zh": {
-        "headline": "青衣44歲貨車司機駕駛期間暈倒 送院後不治",
-        "dek": "警方指事主周四晚駕駛中型貨車沿青衣路往荃灣方向行駛時失去知覺，車輛失控撞壆，送仁濟醫院後證實死亡。"
-      }
-    },
-    {
-      "id": "2026-08-14-amber-rainstorm-warning-morning",
-      "published_at": "2026-08-14T09:15:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "rainstorm",
-        "thunderstorm",
-        "hko",
-        "amber-rainstorm"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-amber-rainstorm-warning-morning.json",
-      "en": {
-        "headline": "Amber Rainstorm Warning issued; Thunderstorm Warning extended to 11 a.m.",
-        "dek": "The Hong Kong Observatory issued the Amber Rainstorm Warning at 8.40 a.m. Friday as heavy rain fell or was expected, and extended the Thunderstorm Warning until 11 a.m. with squally storms."
-      },
-      "zh": {
-        "headline": "黃色暴雨警告生效 雷暴警告延至上午11時",
-        "dek": "天文台周五上午8時40分發出黃色暴雨警告信號，指本港已有或預料會有超過每小時30毫米的大雨，並將雷暴警告延長至上午11時。"
       }
     }
   ]
