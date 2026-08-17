@@ -1,8 +1,123 @@
 {
-  "generated_at": "2026-08-17T15:12:17+08:00",
+  "generated_at": "2026-08-17T21:08:28+08:00",
   "live_window_hours": 72,
-  "count": 51,
+  "count": 54,
   "articles": [
+    {
+      "id": "2026-08-17-lifestyle-tai-kwun-chinese-culture-funfair",
+      "published_at": "2026-08-17T21:14:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "tai-kwun",
+        "exhibition",
+        "central",
+        "culture"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-lifestyle-tai-kwun-chinese-culture-funfair.json",
+      "en": {
+        "headline": "Chinese Culture Funfair at Tai Kwun ends Monday after four-day run",
+        "dek": "The free event on the Parade Ground showcased work by more than 240 ambassadors from the Jockey Club programme, with workshops and cultural experiences open until 3 p.m. today."
+      },
+      "zh": {
+        "headline": "大館中華文化嘉年華今日結束 一連四日免費開放",
+        "dek": "賽馬會中華文化大使計劃總結活動於大館操場舉行，展出逾240名大使成果，並設工作坊及傳統工藝體驗。"
+      }
+    },
+    {
+      "id": "2026-08-17-mpox-case-32-year-old",
+      "published_at": "2026-08-17T21:13:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "mpox",
+        "chp",
+        "public-health",
+        "vaccination"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-mpox-case-32-year-old.json",
+      "en": {
+        "headline": "CHP investigates new local Mpox case involving 32-year-old man",
+        "dek": "The patient is in stable condition at Princess Margaret Hospital after developing fever, muscle pain and a rash; he had high-risk contacts with male strangers in Hong Kong."
+      },
+      "zh": {
+        "headline": "衞生防護中心調查一宗本地猴痘個案 32歲男情況穩定",
+        "dek": "患者出現發燒、肌肉痛及皮疹後入住瑪嘉烈醫院隔離，潛伏期曾在港與陌生男子有高風險接觸。"
+      }
+    },
+    {
+      "id": "2026-08-17-hkex-ceo-bonnie-chan-reappointed",
+      "published_at": "2026-08-17T21:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hkex",
+        "financial-services",
+        "ceo",
+        "securities",
+        "regulation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-hkex-ceo-bonnie-chan-reappointed.json",
+      "en": {
+        "headline": "HKEX renews CEO Bonnie Chan’s contract for three more years",
+        "dek": "The board approved a new term running from March 2027 to February 2030; the Securities and Futures Commission has approved the reappointment."
+      },
+      "zh": {
+        "headline": "港交所行政總裁陳翊庭獲續任三年至2030年",
+        "dek": "董事會批准續約，任期由2027年3月1日至2030年2月28日，證監會已核准。"
+      }
+    },
+    {
+      "id": "2026-08-17-tourist-arrivals-july-2026",
+      "published_at": "2026-08-17T21:11:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "tourism",
+        "hktb",
+        "visitor-arrivals",
+        "economy",
+        "mice"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-tourist-arrivals-july-2026.json",
+      "en": {
+        "headline": "Hong Kong records 4.5 million visitor arrivals in July, up 3%",
+        "dek": "The Tourism Board said major MICE events supported growth while several days of wet weather moderated the rise in mainland arrivals; first-seven-month total reached 31.22 million."
+      },
+      "zh": {
+        "headline": "7月訪港旅客450萬人次 按年升3%",
+        "dek": "旅發局指大型會展活動帶動增長，惡劣天氣令內地客升幅放緩；首七個月累計3,122萬人次，升11%。"
+      }
+    },
+    {
+      "id": "2026-08-17-yoho-large-dog-kills-two",
+      "published_at": "2026-08-17T21:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "animal",
+        "yuen-long",
+        "police",
+        "afcd",
+        "public-safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-yoho-large-dog-kills-two.json",
+      "en": {
+        "headline": "Large dog kills two small dogs near YOHO Mall in Yuen Long",
+        "dek": "A roughly 60 kg dog without a leash or muzzle attacked a 17-year-old miniature poodle and a four-year-old bichon frise within about 20 minutes; police and AFCD are seeking the owner."
+      },
+      "zh": {
+        "headline": "元朗YOHO大狗連咬死兩小狗 警尋狗主",
+        "dek": "約60公斤大狗在約20分鐘內先後咬死17歲迷你貴婦狗及4歲比熊犬，當時無狗繩及口罩，漁護署已帶走涉事狗隻。"
+      }
+    },
     {
       "id": "2026-08-17-silicon-valley-invention-awards",
       "published_at": "2026-08-17T15:12:00+08:00",
@@ -1103,51 +1218,6 @@
       "zh": {
         "headline": "政府上調2026年經濟增長預測至3.5%至4.5%",
         "dek": "上半年實質本地生產總值增長5.1%，為近五年來最強勁半年度表現，主要受人工智能相關產品出口帶動。"
-      }
-    },
-    {
-      "id": "2026-08-14-public-cemetery-remains-2019",
-      "published_at": "2026-08-14T15:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fehd",
-        "cemetery",
-        "exhumation",
-        "public-health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-public-cemetery-remains-2019.json",
-      "en": {
-        "headline": "Gazette order requires removal of 2019 remains from six public cemeteries",
-        "dek": "Families who wish to arrange private exhumation must apply by 29 August; otherwise the remains will be cremated and the ashes buried at Sandy Ridge or another designated site."
-      },
-      "zh": {
-        "headline": "憲報公告須移走2019年安葬六個公眾墳場先人遺骸",
-        "dek": "家屬如欲自行撿掘須於8月29日或前申請；否則政府會火化後安葬於沙嶺或其他指定地點。"
-      }
-    },
-    {
-      "id": "2026-08-14-ha-fmc-caller-id-booking",
-      "published_at": "2026-08-14T15:13:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "hospital-authority",
-        "family-medicine",
-        "appointment",
-        "privacy",
-        "ha-go"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-ha-fmc-caller-id-booking.json",
-      "en": {
-        "headline": "Family medicine clinics to accept only caller-ID numbers for phone bookings from Saturday",
-        "dek": "The Hospital Authority said the change aims to protect patient data and stop impersonation; patients who hide their number will hear a recorded prompt to call again with caller ID enabled."
-      },
-      "zh": {
-        "headline": "家庭醫學診所周六起只接受有來電顯示號碼電話預約",
-        "dek": "醫管局指安排為加強保障病人資料及防止冒認；隱藏號碼來電會收到錄音提示。"
       }
     }
   ]
