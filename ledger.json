@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T04:51:29+08:00",
+  "updated_at": "2026-08-18T07:21:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -19,6 +19,18 @@
       "id": "2026-08-18-kai-tak-mall-july-sales",
       "first_seen": "2026-08-18T03:12:00+08:00",
       "headline_en": "Kai Tak Mall July sales rise more than 20% from opening levels"
+    },
+    {
+      "key": "mong-kok-maid-cafe-molestation-arrest",
+      "id": "2026-08-18-mong-kok-maid-cafe-molestation-arrest",
+      "first_seen": "2026-08-18T07:20:00+08:00",
+      "headline_en": "Maid cafe operator arrested over alleged molestation of 14-year-old employee"
+    },
+    {
+      "key": "lifestyle-palace-museum-egypt-after-hours",
+      "id": "2026-08-18-lifestyle-palace-museum-egypt-after-hours",
+      "first_seen": "2026-08-18T07:21:00+08:00",
+      "headline_en": "Hong Kong Palace Museum stages one-night Egypt after-hours event on Wednesday"
     }
   ]
 }
