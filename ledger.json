@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T07:07:51+08:00",
+  "updated_at": "2026-08-17T09:03:36+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -205,6 +205,18 @@
       "id": "2026-08-17-lifestyle-food-expo-final-day",
       "first_seen": "2026-08-17T07:10:00+08:00",
       "headline_en": "HKTDC Food Expo enters final day at Convention and Exhibition Centre"
+    },
+    {
+      "key": "central-kowloon-route-lgv-overturn-aug17",
+      "id": "2026-08-17-central-kowloon-route-lgv-overturn",
+      "first_seen": "2026-08-17T09:03:36+08:00",
+      "headline_en": "Light goods vehicle overturns on Central Kowloon Route near Kai Tak"
+    },
+    {
+      "key": "construction-site-smoking-ban-enforcement-aug",
+      "id": "2026-08-17-construction-site-smoking-ban-one-month",
+      "first_seen": "2026-08-17T09:03:36+08:00",
+      "headline_en": "Construction-site smoking ban: 44 fixed penalties in first three weeks"
     }
   ]
 }
