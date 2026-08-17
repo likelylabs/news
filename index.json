@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-08-17T11:03:26+08:00",
+  "generated_at": "2026-08-17T13:05:59+08:00",
   "live_window_hours": 72,
-  "count": 52,
+  "count": 49,
   "articles": [
+    {
+      "id": "2026-08-17-tai-po-container-truck-overturn",
+      "published_at": "2026-08-17T13:12:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "tai-po",
+        "container-truck",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-tai-po-container-truck-overturn.json",
+      "en": {
+        "headline": "Container truck overturns on Tai Po Wan Shing Road, driver briefly trapped",
+        "dek": "The vehicle left the road near Tai Fat Street around 11 a.m., crushing a central planter and spilling cargo across the carriageway; traffic was disrupted."
+      },
+      "zh": {
+        "headline": "大埔完善路貨櫃車翻側 司機一度被困",
+        "dek": "今早約11時一輛貨櫃車在完善路近大發街失控翻側，壓落路中花槽並橫越對面線，司機一度被困，貨物散落路面。"
+      }
+    },
+    {
+      "id": "2026-08-17-tung-chung-school-bus-collision",
+      "published_at": "2026-08-17T13:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "tung-chung",
+        "school-bus",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-tung-chung-school-bus-collision.json",
+      "en": {
+        "headline": "School bus and private car collide in Tung Chung, nine taken to hospital",
+        "dek": "A nanny and eight children under six were among those sent for checks after the head-on crash on Wui Tung Street near Yu Nga Court shortly before 9 a.m."
+      },
+      "zh": {
+        "headline": "東涌校巴與私家車迎頭相撞 9人送院包括學童",
+        "dek": "今早約8時51分匯東街近裕雅苑發生車禍，校巴上一名保母及8名未滿6歲學童送院檢驗，學童傷勢輕微。"
+      }
+    },
     {
       "id": "2026-08-17-chris-tang-huanggang-drills-update",
       "published_at": "2026-08-17T11:06:00+08:00",
@@ -1061,117 +1105,6 @@
       "zh": {
         "headline": "警方上半年錄逾2萬宗騙案 涉款約35億元 投資騙案佔逾16億",
         "dek": "約一成個案屬投資騙案；警方提到騙徒使用AI生成投資專家，並更新Fun Coffee及JPEX案數字。"
-      }
-    },
-    {
-      "id": "2026-08-14-lifestyle-tai-kwun-better-together",
-      "published_at": "2026-08-14T11:09:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "tai-kwun",
-        "film",
-        "hong-kong-cinema"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-lifestyle-tai-kwun-better-together.json",
-      "en": {
-        "headline": "Tai Kwun exhibition celebrates brotherhood in classic Hong Kong films",
-        "dek": "Better Together – Partnering Up for Hong Kong Movies runs until 4 October, recreating iconic scenes from films including Once a Thief and Police Story 3."
-      },
-      "zh": {
-        "headline": "大館展覽探索港產片中的兄弟情義",
-        "dek": "「拍住上——香港電影中的夥伴情誼」展出至10月4日，重現《縱橫四海》《警察故事3》等經典場景。"
-      }
-    },
-    {
-      "id": "2026-08-14-hsr-cross-border-20m",
-      "published_at": "2026-08-14T11:08:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "high-speed-rail",
-        "cross-border",
-        "gba"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-hsr-cross-border-20m.json",
-      "en": {
-        "headline": "High-speed rail cross-border trips top 20 million this year, 11 days earlier than 2025",
-        "dek": "Guangzhou-Shenzhen-Hong Kong Express Rail Link carried 20.054 million passengers as of 10 August, with weekend daily averages 25 per cent higher than weekdays."
-      },
-      "zh": {
-        "headline": "廣深港高鐵跨境客流今年提前11天破2000萬人次",
-        "dek": "截至8月10日累計運送旅客2005.4萬人次，周末日均較平日高約25%，暑運期間受演唱會等活動帶動再創新高。"
-      }
-    },
-    {
-      "id": "2026-08-14-kowloon-funeral-parlour-sale",
-      "published_at": "2026-08-14T11:07:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "property",
-        "tai-kok-tsui",
-        "funeral",
-        "bruce-lee"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-kowloon-funeral-parlour-sale.json",
-      "en": {
-        "headline": "Kowloon Funeral Parlour sold for HK$473 million to local consortium",
-        "dek": "The nearly 70-year-old Tai Kok Tsui premises, once the site of Bruce Lee’s public funeral, changed hands along with its business operations and an adjoining warehouse."
-      },
-      "zh": {
-        "headline": "九龍殯儀館4.73億元易主 曾送別李小龍",
-        "dek": "大角咀近70年歷史殯儀館連同營運生意及鄰近貨倉，售予本地金主與業界人士合組財團。"
-      }
-    },
-    {
-      "id": "2026-08-14-sau-mau-ping-drink-driving",
-      "published_at": "2026-08-14T11:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "drink-driving",
-        "sau-mau-ping",
-        "traffic-accident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-sau-mau-ping-drink-driving.json",
-      "en": {
-        "headline": "Driver arrested after crash into parked dump truck, nearly four times over alcohol limit",
-        "dek": "A Volkswagen private car struck the rear of a stationary medium goods vehicle on On Sau Road in Sau Mau Ping late Thursday; the male driver recorded 109 microgrammes of alcohol per 100 millilitres of breath."
-      },
-      "zh": {
-        "headline": "秀茂坪私家車撞停泊泥頭車 司機酒測超標近四倍被捕",
-        "dek": "周四晚一輛福士私家車在安秀道失控撞向停泊泥頭車車尾，男司機酒精呼氣測試錄得109微克，超法定上限近四倍。"
-      }
-    },
-    {
-      "id": "2026-08-14-weekend-weather-outlook",
-      "published_at": "2026-08-14T11:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "weekend",
-        "showers",
-        "thunderstorm"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-weekend-weather-outlook.json",
-      "en": {
-        "headline": "Weekend outlook: showers and thunderstorms easing, then hotter days return",
-        "dek": "The Hong Kong Observatory expects occasional showers and squally thunderstorms to continue into Saturday before sunny intervals and very hot conditions develop early next week."
-      },
-      "zh": {
-        "headline": "週末天氣展望：驟雨雷暴逐漸減少 下周初回復酷熱",
-        "dek": "天文台預料周六初時部分地區仍有較多驟雨及雷暴，日間短暫陽光；周日起日間酷熱，但仍有幾陣驟雨。"
       }
     }
   ]
