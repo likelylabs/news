@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-17-thunderstorm-warning-morning",
+  "published_at": "2026-08-17T11:05:00+08:00",
+  "category": "weather",
+  "tags": ["thunderstorm-warning", "hko"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "thunderstorm-warning-aug17-morning",
+  "en": {
+    "headline": "Thunderstorm Warning issued for northern New Territories",
+    "dek": "The Hong Kong Observatory issued a Thunderstorm Warning at 10:35 am, valid until 12:30 pm, expecting localised thunderstorms over the northern New Territories.",
+    "body": [
+      "The Hong Kong Observatory issued a Thunderstorm Warning at 10:35 am on Monday, valid until 12:30 pm. Localised thunderstorms are expected over the northern New Territories.",
+      "The Observatory advised people outdoors to take shelter in a safe place, stay away from water and stop outdoor water sports, and avoid high ground or objects that conduct electricity such as trees and masts.",
+      "A Very Hot Weather Warning remains in force. The forecast for the rest of Monday is sunny periods with a few showers, very hot during the day with temperatures reaching about 33 degrees in the urban areas, and heavier showers with squally thunderstorms in some areas later."
+    ]
+  },
+  "zh": {
+    "headline": "天文台發出雷暴警告 預料新界北部有局部雷暴",
+    "dek": "天文台上午10時35分發出雷暴警告，有效至下午12時30分，預料新界北部有局部地區雷暴。",
+    "body": [
+      "香港天文台於星期一上午10時35分發出雷暴警告，有效時間至今日下午12時30分，預料新界北部有局部地區雷暴。",
+      "天文台提醒，雷暴發生時如身處室外，應到安全地方躲避；離開水面，切勿在戶外游泳或進行其他戶外水上運動；切勿站立於高地或接近導電的物體、樹木或桅杆。",
+      "酷熱天氣警告仍然生效。今日其餘時間預測部分時間有陽光，有幾陣驟雨，日間酷熱，市區最高氣溫約33度，稍後部分地區雨勢較大及有狂風雷暴。"
+    ]
+  }
+}
