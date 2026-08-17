@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-08-17T13:05:59+08:00",
+  "generated_at": "2026-08-17T15:12:17+08:00",
   "live_window_hours": 72,
-  "count": 49,
+  "count": 51,
   "articles": [
+    {
+      "id": "2026-08-17-silicon-valley-invention-awards",
+      "published_at": "2026-08-17T15:12:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "invention",
+        "innovation",
+        "silicon-valley",
+        "technology",
+        "awards"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-silicon-valley-invention-awards.json",
+      "en": {
+        "headline": "Hong Kong inventors take Grand Prix and 35 medals at Silicon Valley festival",
+        "dek": "A solar-powered air-to-fertiliser system won the top prize; the Hong Kong delegation secured 22 gold and 13 silver medals at the event that ended on Sunday."
+      },
+      "zh": {
+        "headline": "港發明家矽谷發明節奪全場大獎及35獎",
+        "dek": "太陽能空氣製肥系統奪最高榮譽；香港代表團合共取得22金13銀，活動周日於加州聖塔克拉拉結束。"
+      }
+    },
+    {
+      "id": "2026-08-17-tsing-kwai-highway-taxi-collision",
+      "published_at": "2026-08-17T15:11:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "tsing-kwai-highway",
+        "taxi",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-tsing-kwai-highway-taxi-collision.json",
+      "en": {
+        "headline": "Five injured after taxi and three cars collide on Tsing Kwai Highway",
+        "dek": "The four-vehicle pile-up near Lai King at 8:40 a.m. left four men and one woman with minor injuries; the Kowloon-bound fast lane was closed until 10:39 a.m."
+      },
+      "zh": {
+        "headline": "青葵公路的士與三車相撞 五人輕傷送院",
+        "dek": "今早約8時40分近荔景往九龍方向發生四車相撞，四男一女輕傷，快線一度封閉至上午10時39分。"
+      }
+    },
+    {
+      "id": "2026-08-17-thunderstorm-warning-extended-afternoon",
+      "published_at": "2026-08-17T15:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "thunderstorm-warning",
+        "hko",
+        "showers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-thunderstorm-warning-extended-afternoon.json",
+      "en": {
+        "headline": "Thunderstorm Warning extended until 4:30 pm as squally storms persist",
+        "dek": "The Hong Kong Observatory extended the warning first issued at 10:35 a.m., expecting a few more squally thunderstorms over the territory this afternoon."
+      },
+      "zh": {
+        "headline": "雷暴警告延長至下午4時30分 預料仍有狂風雷暴",
+        "dek": "天文台將今早10時35分發出的雷暴警告有效時間延長至今日下午4時30分，預料香港仍有幾陣狂風雷暴。"
+      }
+    },
     {
       "id": "2026-08-17-tai-po-container-truck-overturn",
       "published_at": "2026-08-17T13:12:00+08:00",
@@ -1082,29 +1148,6 @@
       "zh": {
         "headline": "家庭醫學診所周六起只接受有來電顯示號碼電話預約",
         "dek": "醫管局指安排為加強保障病人資料及防止冒認；隱藏號碼來電會收到錄音提示。"
-      }
-    },
-    {
-      "id": "2026-08-14-police-fraud-h1-2026",
-      "published_at": "2026-08-14T15:12:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "fraud",
-        "scams",
-        "investment",
-        "commercial-crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-police-fraud-h1-2026.json",
-      "en": {
-        "headline": "Police record more than 20,000 scam cases in first half, losses hit HK$3.5 billion",
-        "dek": "Investment scams accounted for about one-tenth of cases and more than HK$1.6 billion in losses; officers highlighted AI-generated personas and ongoing Fun Coffee and JPEX investigations."
-      },
-      "zh": {
-        "headline": "警方上半年錄逾2萬宗騙案 涉款約35億元 投資騙案佔逾16億",
-        "dek": "約一成個案屬投資騙案；警方提到騙徒使用AI生成投資專家，並更新Fun Coffee及JPEX案數字。"
       }
     }
   ]
