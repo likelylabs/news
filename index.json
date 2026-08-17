@@ -1,8 +1,123 @@
 {
-  "generated_at": "2026-08-17T21:08:28+08:00",
+  "generated_at": "2026-08-17T23:09:33+08:00",
   "live_window_hours": 72,
-  "count": 54,
+  "count": 52,
   "articles": [
+    {
+      "id": "2026-08-17-lifestyle-exotic-pets-world-hopewell",
+      "published_at": "2026-08-17T23:14:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "wan-chai",
+        "animals",
+        "family"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-lifestyle-exotic-pets-world-hopewell.json",
+      "en": {
+        "headline": "Exotic Pets World at Hopewell Mall enters final day on Tuesday",
+        "dek": "The free pop-up in Wan Chai has showcased more than 15 rare species including axolotls, an Aldabra giant tortoise and a critically endangered iguana since late July."
+      },
+      "zh": {
+        "headline": "合和商場另類寵物世界明日結束 展出逾15種異寵",
+        "dek": "灣仔合和商場三樓中庭的免費展覽自7月25日起展出極危小安德烈斯島鬣蜥、阿爾達布拉巨龜及美西螈等物種。"
+      }
+    },
+    {
+      "id": "2026-08-17-icable-ctf-name-change",
+      "published_at": "2026-08-17T23:13:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "icable",
+        "media",
+        "chow-tai-fook",
+        "corporate",
+        "listing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-icable-ctf-name-change.json",
+      "en": {
+        "headline": "i-CABLE shareholders approve rename to CTF Media & Entertainment",
+        "dek": "All voting shareholders backed the change of company name to reflect closer ties with the Chow Tai Fook group; the new identity will not alter consumer brands such as HOY and i-Cable News."
+      },
+      "zh": {
+        "headline": "有線寬頻股東全數通過改名周大福媒體娛樂",
+        "dek": "公司表示新名稱更能反映與周大福集團的協同效應，面向觀眾的HOY及有線新聞等品牌將維持不變。"
+      }
+    },
+    {
+      "id": "2026-08-17-ai-efficacy-30-projects",
+      "published_at": "2026-08-17T23:12:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "ai",
+        "government",
+        "digital-policy",
+        "public-services",
+        "efficiency"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-ai-efficacy-30-projects.json",
+      "en": {
+        "headline": "Government rolls out first 30 AI projects to speed up public services",
+        "dek": "The AI Efficacy Enhancement Team said the initiatives across 13 departments include licensing, leisure bookings and complaint handling, with some approval times cut by up to 90 per cent."
+      },
+      "zh": {
+        "headline": "AI效能提升組首批30項目落地 部分審批時間縮減九成",
+        "dek": "涉及13個部門的項目涵蓋運輸牌照、康體設施、食物業牌照及投訴處理等，部分透過人工智能將審批或輪候時間大幅縮短。"
+      }
+    },
+    {
+      "id": "2026-08-17-pwh-cancer-drugs-fridge",
+      "published_at": "2026-08-17T23:11:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "hospital",
+        "prince-of-wales",
+        "cancer",
+        "medication",
+        "ha"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-pwh-cancer-drugs-fridge.json",
+      "en": {
+        "headline": "Prince of Wales Hospital investigates cancer drugs left out of fridge for 20 hours",
+        "dek": "A support staff member and a dispenser at the Sir Yue-kong Pao Centre for Cancer failed to refrigerate a batch of drugs worth about HK$400,000 on 4 August; the manufacturer later confirmed stability was unaffected."
+      },
+      "zh": {
+        "headline": "威院癌症藥漏放雪櫃20小時 院方指溝通誤會將紀律處分",
+        "dek": "沙田威爾斯親王醫院包玉剛爵士癌症中心一批約值40萬元癌症藥物因支援員工與配藥員溝通誤會未及時入雪櫃，生產商確認穩定性未受影響。"
+      }
+    },
+    {
+      "id": "2026-08-17-fehd-uniform-smoking-investigation",
+      "published_at": "2026-08-17T23:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fehd",
+        "smoking",
+        "discipline",
+        "public-service",
+        "hawker-control"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-17/2026-08-17-fehd-uniform-smoking-investigation.json",
+      "en": {
+        "headline": "FEHD opens disciplinary probe after officers filmed smoking in uniform",
+        "dek": "A viral video showed two men from a district hawker control task force lighting cigarettes in a back alley; the department said the incident dated to early June and that smoking in uniform is strictly banned."
+      },
+      "zh": {
+        "headline": "食環署人員着制服街上吸煙 署方確認展開紀律調查",
+        "dek": "網上片段顯示兩名小販管理隊人員在後巷吸煙，食環署證實事件發生於6月初，強調着制服及在公眾地方吸煙一律禁止。"
+      }
+    },
     {
       "id": "2026-08-17-lifestyle-tai-kwun-chinese-culture-funfair",
       "published_at": "2026-08-17T21:14:00+08:00",
@@ -1058,166 +1173,6 @@
       "zh": {
         "headline": "本港今早部分地區預料有較大雨勢及狂風雷暴",
         "dek": "天文台表示珠江口一帶持續有雷雨區發展，未來數小時本港部分地區雨勢較大及有狂風雷暴，市民請留意天氣變化。"
-      }
-    },
-    {
-      "id": "2026-08-14-lifestyle-juju-world-pacific-place",
-      "published_at": "2026-08-14T23:08:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "pacific-place",
-        "art",
-        "admiralty"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-lifestyle-juju-world-pacific-place.json",
-      "en": {
-        "headline": "CJ Hendry’s juju world at Pacific Place enters final weekend",
-        "dek": "The free immersive installation featuring oversized characters, a room of more than 400 plush figures and Hong Kong-exclusive collectibles runs until Sunday 16 August."
-      },
-      "zh": {
-        "headline": "太古廣場CJ Hendry juju world本周末結束",
-        "dek": "金鐘太古廣場沉浸式裝置免費開放至八月十六日，包括巨型角色、逾四百隻毛絨公仔空間及香港限定收藏品。"
-      }
-    },
-    {
-      "id": "2026-08-14-ia-ceo-clement-cheung-reappointed",
-      "published_at": "2026-08-14T23:07:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "insurance",
-        "regulation",
-        "financial-services",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-ia-ceo-clement-cheung-reappointed.json",
-      "en": {
-        "headline": "Clement Cheung reappointed Insurance Authority chief for another three years",
-        "dek": "The government confirmed the reappointment of the regulator’s longest-serving CEO, citing progress on risk-based capital, insurance-linked securities and captive insurance."
-      },
-      "zh": {
-        "headline": "保險業監管局行政總監張雲正獲續任三年",
-        "dek": "政府公布張雲正由八月十五日起再任三年，財庫局局長許正宇讚揚其推動風險為本資本制度及保險相連證券市場的工作。"
-      }
-    },
-    {
-      "id": "2026-08-14-five-year-plan-consultation-closes",
-      "published_at": "2026-08-14T23:06:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "government",
-        "five-year-plan",
-        "consultation",
-        "northern-metropolis",
-        "economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-five-year-plan-consultation-closes.json",
-      "en": {
-        "headline": "Hong Kong’s first five-year plan consultation closes with more than 16,000 submissions",
-        "dek": "Secretary for Constitutional and Mainland Affairs Janice Tse said views generally supported focused alignment with national development and faster progress on the Northern Metropolis."
-      },
-      "zh": {
-        "headline": "香港首份五年規劃公眾諮詢結束 收到逾1.6萬份意見",
-        "dek": "政制及內地事務局局長謝小華表示，意見普遍支持聚焦對接國家戰略發展，並加快北部都會區建設，目標九月內發表規劃。"
-      }
-    },
-    {
-      "id": "2026-08-14-ce-citation-list-bomb-housing",
-      "published_at": "2026-08-14T23:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "government",
-        "civil-service",
-        "housing",
-        "security",
-        "bomb-disposal"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-ce-citation-list-bomb-housing.json",
-      "en": {
-        "headline": "Bomb-disposal and light public housing teams win Chief Executive’s Citation List awards",
-        "dek": "Chief Executive John Lee presented the awards at a ceremony at Government Headquarters, praising the teams for professional solidarity and innovative delivery of results."
-      },
-      "zh": {
-        "headline": "行政長官表揚榜 拆彈及簡約公屋兩跨部門團隊獲獎",
-        "dek": "李家超在政府總部頒獎典禮上向兩支隊伍頒發獎狀，讚揚公務員專業團結、敢於挑戰及以結果為目標的服務精神。"
-      }
-    },
-    {
-      "id": "2026-08-14-ura-turns-profit-25th",
-      "published_at": "2026-08-14T21:17:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "ura",
-        "urban-renewal",
-        "housing",
-        "property",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-ura-turns-profit-25th.json",
-      "en": {
-        "headline": "Urban Renewal Authority records HK$338 million surplus for 2025/26",
-        "dek": "The authority returned to profit in its silver jubilee year and is preparing an enhanced tender service to help owners engage consultants and contractors for building works."
-      },
-      "zh": {
-        "headline": "市建局2025/26年度轉虧為盈 錄3.38億元盈餘",
-        "dek": "銀禧年恢復盈利，正與政府敲定「加強版招標妥」服務細節，加強支援業主聘用顧問及承建商。"
-      }
-    },
-    {
-      "id": "2026-08-14-kai-tak-mass-transit-tender",
-      "published_at": "2026-08-14T21:16:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "kai-tak",
-        "mtr",
-        "transit",
-        "government",
-        "infrastructure"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-kai-tak-mass-transit-tender.json",
-      "en": {
-        "headline": "Kai Tak smart green mass transit tender closes with two bids including MTR",
-        "dek": "The government received submissions from the MTR Corporation and a consortium of Transport International and Sun Hung Kai Properties; the system is targeted for service in 2031."
-      },
-      "zh": {
-        "headline": "啟德智慧綠色集體運輸系統截標 接獲包括港鐵兩份標書",
-        "dek": "投標者包括港鐵，以及載通國際與新鴻基地產合資的綠色智軌集團；系統目標2031年投入服務。"
-      }
-    },
-    {
-      "id": "2026-08-14-gdp-forecast-upgrade-2026",
-      "published_at": "2026-08-14T21:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "economy",
-        "gdp",
-        "government",
-        "trade",
-        "ai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-14/2026-08-14-gdp-forecast-upgrade-2026.json",
-      "en": {
-        "headline": "Government raises 2026 GDP growth forecast to 3.5–4.5% after strong first half",
-        "dek": "The revision follows a 5.1 per cent expansion in the first six months, the strongest half-year performance in nearly five years, driven by robust AI-related exports."
-      },
-      "zh": {
-        "headline": "政府上調2026年經濟增長預測至3.5%至4.5%",
-        "dek": "上半年實質本地生產總值增長5.1%，為近五年來最強勁半年度表現，主要受人工智能相關產品出口帶動。"
       }
     }
   ]
