@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T11:03:26+08:00",
+  "updated_at": "2026-08-17T13:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -229,6 +229,18 @@
       "id": "2026-08-17-chris-tang-huanggang-drills-update",
       "first_seen": "2026-08-17T11:06:00+08:00",
       "headline_en": "Chris Tang says Huanggang Port drills smooth, more tests planned"
+    },
+    {
+      "key": "tung-chung-school-bus-collision-aug17",
+      "id": "2026-08-17-tung-chung-school-bus-collision",
+      "first_seen": "2026-08-17T13:10:00+08:00",
+      "headline_en": "School bus and private car collide in Tung Chung, nine taken to hospital"
+    },
+    {
+      "key": "tai-po-container-truck-overturn-aug17",
+      "id": "2026-08-17-tai-po-container-truck-overturn",
+      "first_seen": "2026-08-17T13:12:00+08:00",
+      "headline_en": "Container truck overturns on Tai Po Wan Shing Road, driver briefly trapped"
     }
   ]
 }
