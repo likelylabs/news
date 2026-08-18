@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T09:08:00+08:00",
+  "updated_at": "2026-08-18T11:06:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -49,6 +49,18 @@
       "id": "2026-08-18-hongkong-post-contract-staff",
       "first_seen": "2026-08-18T09:17:00+08:00",
       "headline_en": "Hongkong Post to offer two-year contracts instead of permanent terms"
+    },
+    {
+      "key": "tuen-mun-castle-peak-minibus-collision-aug17",
+      "id": "2026-08-18-tuen-mun-castle-peak-minibus-collision",
+      "first_seen": "2026-08-18T11:05:00+08:00",
+      "headline_en": "Eleven injured after private car and green minibus collide in Tuen Mun"
+    },
+    {
+      "key": "food-expo-2026-record-attendance",
+      "id": "2026-08-18-food-expo-record-attendance",
+      "first_seen": "2026-08-18T11:06:00+08:00",
+      "headline_en": "Food Expo and concurrent shows draw record 520,000 visitors"
     }
   ]
 }
