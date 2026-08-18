@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T11:05:33+08:00",
+  "updated_at": "2026-08-18T15:13:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -61,6 +61,30 @@
       "id": "2026-08-18-food-expo-record-attendance",
       "first_seen": "2026-08-18T11:06:00+08:00",
       "headline_en": "Food Expo and concurrent shows draw record 520,000 visitors"
+    },
+    {
+      "key": "shau-kei-wan-postman-fall-death",
+      "id": "2026-08-18-shau-kei-wan-postman-fall",
+      "first_seen": "2026-08-18T15:10:00+08:00",
+      "headline_en": "Postman dies after falling from Ming Wah Mansion in Shau Kei Wan"
+    },
+    {
+      "key": "wang-fuk-court-fire-report-delay",
+      "id": "2026-08-18-wang-fuk-court-report-delay",
+      "first_seen": "2026-08-18T15:11:00+08:00",
+      "headline_en": "Wang Fuk Court fire independent committee report delayed to end of October"
+    },
+    {
+      "key": "construction-worker-daughter-rape-sentence",
+      "id": "2026-08-18-construction-worker-rape-sentence",
+      "first_seen": "2026-08-18T15:12:00+08:00",
+      "headline_en": "Construction worker jailed 22 years for raping daughter over decade"
+    },
+    {
+      "key": "lifestyle-maxims-palace-moko",
+      "id": "2026-08-18-lifestyle-maxims-palace-moko",
+      "first_seen": "2026-08-18T15:13:00+08:00",
+      "headline_en": "Maxim’s Palace opens seventh branch at MOKO in Mong Kok"
     }
   ]
 }
