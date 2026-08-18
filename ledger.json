@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T21:07:32+08:00",
+  "updated_at": "2026-08-18T23:14:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -115,6 +115,30 @@
       "id": "2026-08-18-lifestyle-guoquan-wan-chai",
       "first_seen": "2026-08-18T21:14:00+08:00",
       "headline_en": "Mainland hotpot ingredients chain Guoquan opens first Hong Kong store in Wan Chai"
+    },
+    {
+      "key": "strong-monsoon-signal-aug18-evening",
+      "id": "2026-08-18-strong-monsoon-signal-evening",
+      "first_seen": "2026-08-18T23:10:00+08:00",
+      "headline_en": "Strong Monsoon Signal issued as easterly winds strengthen"
+    },
+    {
+      "key": "measles-case-35yo-aug18",
+      "id": "2026-08-18-measles-case-35yo",
+      "first_seen": "2026-08-18T23:11:00+08:00",
+      "headline_en": "CHP investigates measles case involving 35-year-old woman, 198 contacts"
+    },
+    {
+      "key": "severe-flu-16yo-aug18",
+      "id": "2026-08-18-severe-flu-16yo",
+      "first_seen": "2026-08-18T23:12:00+08:00",
+      "headline_en": "16-year-old girl critically ill with influenza A and septic shock"
+    },
+    {
+      "key": "yoho-dog-owner-arrest-aug18",
+      "id": "2026-08-18-yoho-dog-owner-arrest",
+      "first_seen": "2026-08-18T23:13:00+08:00",
+      "headline_en": "AFCD arrests owner of large dog that killed two small pets in Yuen Long"
     }
   ]
 }
