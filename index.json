@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-18T23:08:14+08:00",
+  "generated_at": "2026-08-19T01:10:59+08:00",
   "live_window_hours": 72,
-  "count": 62,
+  "count": 63,
   "articles": [
+    {
+      "id": "2026-08-19-cfs-ktipiti-listeria-spread",
+      "published_at": "2026-08-19T01:15:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "cfs",
+        "food-safety",
+        "listeria",
+        "public-health",
+        "recall"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-19/2026-08-19-cfs-ktipiti-listeria-spread.json",
+      "en": {
+        "headline": "CFS urges public not to eat French spread product over possible Listeria contamination",
+        "dek": "A batch of L'atelier Blini Ktipiti Extra Red Pepper & Feta Cheese Spread imported by City Super is being recalled after French authorities flagged a suspected cold-chain problem."
+      },
+      "zh": {
+        "headline": "食安中心籲勿食法國進口塗抹醬 或受李斯特菌污染",
+        "dek": "一批由City Super進口的L'atelier Blini Ktipiti特製紅椒菲達芝士醬因法國當局指懷疑冷鏈問題或受李斯特菌污染，正回收。"
+      }
+    },
     {
       "id": "2026-08-18-yoho-dog-owner-arrest",
       "published_at": "2026-08-18T23:13:00+08:00",
