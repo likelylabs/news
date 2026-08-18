@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-08-19T01:10:59+08:00",
+  "generated_at": "2026-08-19T03:11:55+08:00",
   "live_window_hours": 72,
-  "count": 63,
+  "count": 64,
   "articles": [
+    {
+      "id": "2026-08-19-lifestyle-wine-dine-festival-2026",
+      "published_at": "2026-08-19T03:12:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "festival",
+        "wine",
+        "tourism",
+        "harbourfront"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-19/2026-08-19-lifestyle-wine-dine-festival-2026.json",
+      "en": {
+        "headline": "Hong Kong Wine & Dine Festival set for 29 October to 1 November",
+        "dek": "The Hong Kong Tourism Board said the annual event will return to the Central Harbourfront Event Space with more than 300 booths, new country pavilions and a month of citywide culinary follow-up activities."
+      },
+      "zh": {
+        "headline": "香港美酒佳餚巡禮定於10月29日至11月1日舉行",
+        "dek": "旅發局宣布年度盛事重臨中環海濱活動空間，設逾300個攤位、新增多個國家展館，並有「只在香港」風味活動及全城美食跟進推廣。"
+      }
+    },
+    {
+      "id": "2026-08-19-yuen-long-missing-woman-body",
+      "published_at": "2026-08-19T03:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "yuen-long",
+        "missing-person",
+        "death"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-19/2026-08-19-yuen-long-missing-woman-body.json",
+      "en": {
+        "headline": "Body of missing 64-year-old woman found in Yuen Long manhole",
+        "dek": "Police discovered the body of Yeung during a missing-person inquiry on Tai Tong Shan Road on Tuesday afternoon; she had last been seen at her Kiu Hing Road home on 7 August."
+      },
+      "zh": {
+        "headline": "元朗失蹤64歲女子遺體於大棠山道沙井發現",
+        "dek": "警方周二下午調查失蹤人口案時，在大棠山道一個沙井內發現楊姓女子遺體，事主8月7日最後於僑興路住所露面。"
+      }
+    },
+    {
+      "id": "2026-08-19-strong-monsoon-signal-morning",
+      "published_at": "2026-08-19T03:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "strong-monsoon-signal",
+        "wind"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-19/2026-08-19-strong-monsoon-signal-morning.json",
+      "en": {
+        "headline": "Strong Monsoon Signal remains in force as easterly winds continue",
+        "dek": "The Hong Kong Observatory reported sustained winds exceeding 40 km/h from the east overnight, with gusts reaching gale force at exposed locations including Waglan Island and Tap Mun."
+      },
+      "zh": {
+        "headline": "強烈季候風信號繼續生效 偏東強風持續",
+        "dek": "天文台指通宵吹偏東強風，平均風速超過每小時40公里，離岸及高地陣風間中達烈風程度，橫瀾島及塔門等地錄得較高風速。"
+      }
+    },
     {
       "id": "2026-08-19-cfs-ktipiti-listeria-spread",
       "published_at": "2026-08-19T01:15:00+08:00",
@@ -1367,51 +1433,6 @@
       "zh": {
         "headline": "酷熱天氣警告生效 預料最高氣溫約33度",
         "dek": "天文台今早6時45分發出酷熱天氣警告，預料今日日間酷熱，部分時間有陽光，局部地區有驟雨及雷暴。"
-      }
-    },
-    {
-      "id": "2026-08-16-doo-wu-women-doubles-silver-wtt-sweden",
-      "published_at": "2026-08-16T03:06:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "table-tennis",
-        "wtt",
-        "doo-hoi-kem",
-        "wu-yung-lin",
-        "sweden"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-16/2026-08-16-doo-wu-women-doubles-silver-wtt-sweden.json",
-      "en": {
-        "headline": "Doo Hoi-kem and Wu Yung-lin take women’s doubles silver at WTT Sweden Smash",
-        "dek": "The Hong Kong pair, who earlier upset the world No. 1 Chinese duo, fell 1-3 to Japan’s Hina Hayata and Miwa Harimoto in the final of the Grand Smash event."
-      },
-      "zh": {
-        "headline": "杜凱琹吳詠琳瑞典大滿貫女雙摘銀 力戰不敵日本世二",
-        "dek": "港隊組合先後擊敗中國世一及韓國世三晉級決賽，最終以1比3不敵日本早田希娜／張本美和，奪得大滿貫女雙亞軍。"
-      }
-    },
-    {
-      "id": "2026-08-16-police-officer-dancing-uniform-video",
-      "published_at": "2026-08-16T03:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "conduct",
-        "social-media",
-        "douyin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-16/2026-08-16-police-officer-dancing-uniform-video.json",
-      "en": {
-        "headline": "Police investigate serving officer over viral Douyin video dancing in uniform",
-        "dek": "The force confirmed the short-haired woman in the clip is an active officer, ordered the post removed and opened an internal inquiry into professional image and conduct."
-      },
-      "zh": {
-        "headline": "女警穿制服跳抖音片惹議 警方證實現役並內部調查",
-        "dek": "警方確認短片中短髮女子為現役警務人員，已責成下架影片並展開內部調查，強調重視人員操守及專業形象。"
       }
     }
   ]
