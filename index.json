@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-08-18T11:05:33+08:00",
+  "generated_at": "2026-08-18T15:10:23+08:00",
   "live_window_hours": 72,
-  "count": 59,
+  "count": 60,
   "articles": [
+    {
+      "id": "2026-08-18-lifestyle-maxims-palace-moko",
+      "published_at": "2026-08-18T15:13:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "mong-kok",
+        "restaurant",
+        "dim-sum"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-18/2026-08-18-lifestyle-maxims-palace-moko.json",
+      "en": {
+        "headline": "Maxim’s Palace opens seventh branch at MOKO in Mong Kok",
+        "dek": "The new outlet retains traditional hand-pushed dim sum carts and adds live roast suckling pig carving and a dim sum academy for customers."
+      },
+      "zh": {
+        "headline": "美心皇宮第七間分店進駐旺角MOKO",
+        "dek": "新店保留人手推車點心傳統，新增現場燒乳豬切件及點心學堂體驗。"
+      }
+    },
+    {
+      "id": "2026-08-18-construction-worker-rape-sentence",
+      "published_at": "2026-08-18T15:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "crime",
+        "sexual-offence"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-18/2026-08-18-construction-worker-rape-sentence.json",
+      "en": {
+        "headline": "Construction worker jailed 22 years for raping daughter over decade",
+        "dek": "A High Court judge described the 14 rapes and one anal offence as leaving the victim living in hell and said the defendant’s remorse appeared only superficial."
+      },
+      "zh": {
+        "headline": "地盤工強姦親女十年判囚22年 官指事主如活在地獄",
+        "dek": "高等法院法官指14次強姦及一項肛交罪令女兒十年如活在地獄，被告悔意流於表面。"
+      }
+    },
+    {
+      "id": "2026-08-18-wang-fuk-court-report-delay",
+      "published_at": "2026-08-18T15:11:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "wang-fuk-court",
+        "fire",
+        "independent-committee",
+        "tai-po"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-18/2026-08-18-wang-fuk-court-report-delay.json",
+      "en": {
+        "headline": "Wang Fuk Court fire independent committee report delayed to end of October",
+        "dek": "The Chief Executive has approved an extension so the panel can analyse more than one million files and complete its findings and recommendations."
+      },
+      "zh": {
+        "headline": "宏福苑火災獨立委員會報告延至十月底提交",
+        "dek": "行政長官已同意延期，委員會指需時分析逾百萬個檔案及各方資料後才完成研判及建議。"
+      }
+    },
+    {
+      "id": "2026-08-18-shau-kei-wan-postman-fall",
+      "published_at": "2026-08-18T15:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "hongkong-post",
+        "shau-kei-wan",
+        "death",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-18/2026-08-18-shau-kei-wan-postman-fall.json",
+      "en": {
+        "headline": "Postman dies after falling from Ming Wah Mansion in Shau Kei Wan",
+        "dek": "A 57-year-old Hongkong Post employee was found unconscious outside the building around 8:30 a.m. and later pronounced dead at Eastern Hospital; the cause remains under investigation."
+      },
+      "zh": {
+        "headline": "筲箕灣明華大廈郵差墮樓送院不治",
+        "dek": "57歲香港郵政員工今早約8時半被發現倒臥明華大廈外昏迷，送東區醫院後證實不治，死因有待調查。"
+      }
+    },
     {
       "id": "2026-08-18-food-expo-record-attendance",
       "published_at": "2026-08-18T11:06:00+08:00",
@@ -1260,75 +1348,6 @@
       "zh": {
         "headline": "獅子山隧道公路半小時兩宗車禍 涉十車五人傷",
         "dek": "沙田往九龍方向近仁安醫院先後發生兩宗交通意外，共涉及十輛車，五人輕傷送院，部分行車線封閉引致擠塞。"
-      }
-    },
-    {
-      "id": "2026-08-15-hung-shui-kiu-logistics-eoi",
-      "published_at": "2026-08-15T11:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "logistics",
-        "northern-metropolis",
-        "hung-shui-kiu",
-        "land",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-15/2026-08-15-hung-shui-kiu-logistics-eoi.json",
-      "en": {
-        "headline": "Government invites industry interest for first Hung Shui Kiu logistics sites",
-        "dek": "Secretary for Transport and Logistics Mable Chan said the initial batch of e-commerce logistics plots offers flexible development options and could reach the market by late 2027 or early 2028."
-      },
-      "zh": {
-        "headline": "政府就洪水橋物流圈首批用地邀請業界提交意向書",
-        "dek": "運輸及物流局局長陳美寶表示，首批電商物流用地具彈性，可個別或合併發展，預計最快2027年底或2028年初推出。"
-      }
-    },
-    {
-      "id": "2026-08-15-huanggang-port-second-drill",
-      "published_at": "2026-08-15T11:11:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "huanggang",
-        "border",
-        "customs",
-        "immigration",
-        "security"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-15/2026-08-15-huanggang-port-second-drill.json",
-      "en": {
-        "headline": "Second large-scale drill held at Huanggang Port Hong Kong side",
-        "dek": "The Security Bureau also launched a dedicated webpage explaining the new co-location facilities, clearance mode and public-transport links ahead of the port’s eventual opening."
-      },
-      "zh": {
-        "headline": "皇崗口岸港方口岸舉行第二次大型演練 保安局推專頁介紹設施",
-        "dek": "演練包括跨部門反恐及重大事故演習，測試聯檢大樓及公共運輸交匯處人流車流管理，並加強突發事故應變能力。"
-      }
-    },
-    {
-      "id": "2026-08-15-pcpd-complaints-h1-2026",
-      "published_at": "2026-08-15T11:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "privacy",
-        "pcpd",
-        "data-protection",
-        "ai",
-        "complaints"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-15/2026-08-15-pcpd-complaints-h1-2026.json",
-      "en": {
-        "headline": "Privacy watchdog receives 2,990 complaints in first half, up more than 60%",
-        "dek": "The Privacy Commissioner for Personal Data said information-technology cases formed the largest share, reflecting faster collection and use of personal data in the AI era and greater public awareness."
-      },
-      "zh": {
-        "headline": "私隱公署上半年接2990宗投訴升逾六成 資訊科技佔最多",
-        "dek": "私隱專員鍾麗玲表示，人工智能時代令網上收集及使用個人資料的速度與數量大增，加上市民意識提高，投訴因而上升。"
       }
     }
   ]
