@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-08-18T07:15:35+08:00",
+  "generated_at": "2026-08-18T09:08:00+08:00",
   "live_window_hours": 72,
-  "count": 54,
+  "count": 57,
   "articles": [
+    {
+      "id": "2026-08-18-hongkong-post-contract-staff",
+      "published_at": "2026-08-18T09:17:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "hongkong-post",
+        "employment",
+        "civil-service",
+        "labour"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-18/2026-08-18-hongkong-post-contract-staff.json",
+      "en": {
+        "headline": "Hongkong Post to offer two-year contracts instead of permanent terms",
+        "dek": "About 200 postal officers and postmen completing probation in September will be retained on civil-service contract terms amid declining mail volumes."
+      },
+      "zh": {
+        "headline": "香港郵政約200名試用期員工改兩年合約續聘",
+        "dek": "因應郵件量持續下降，郵政署表示現時沒有條件向9月完成試用期的郵務員及郵差發出長期聘用條款，改以公務員合約續聘兩年。"
+      }
+    },
+    {
+      "id": "2026-08-18-merchant-attempted-murder-sentence",
+      "published_at": "2026-08-18T09:16:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "crime",
+        "tuen-mun",
+        "attempted-murder"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-18/2026-08-18-merchant-attempted-murder-sentence.json",
+      "en": {
+        "headline": "Merchant jailed 5 years 4 months for attempted murder of wife and daughters",
+        "dek": "A High Court judge described the Tuen Mun charcoal-burning case as tragic, noting the defendant’s depression and that he later extinguished the fire himself."
+      },
+      "zh": {
+        "headline": "商人企圖謀殺妻女判囚5年4個月 法官指本案屬悲劇",
+        "dek": "45歲商人承認四項企圖謀殺罪，高等法院法官指被告受抑鬱影響，後來自行熄滅炭火，並無對家人造成長遠身心傷害。"
+      }
+    },
+    {
+      "id": "2026-08-18-huanggang-dedicated-lanes",
+      "published_at": "2026-08-18T09:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "huanggang-port",
+        "transport",
+        "public-transport",
+        "border",
+        "fanling"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-18/2026-08-18-huanggang-dedicated-lanes.json",
+      "en": {
+        "headline": "Dedicated public transport lanes open for new Huanggang Port",
+        "dek": "The Transport Department has set up lanes on Fanling Highway and San Tin Highway so franchised buses, cross-boundary coaches and minibuses can reach San Sham Road without using the busy San Tin Interchange."
+      },
+      "zh": {
+        "headline": "新皇崗口岸公共運輸專用車道啟用 免經新田交匯處",
+        "dek": "運輸署已在粉嶺公路及新田公路增設專用車道，讓專營巴士、跨境巴士及專線小巴直達新深路前往新口岸，無需駛經較繁忙的新田交匯處。"
+      }
+    },
     {
       "id": "2026-08-18-lifestyle-palace-museum-egypt-after-hours",
       "published_at": "2026-08-18T07:21:00+08:00",
