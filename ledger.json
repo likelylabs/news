@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T15:10:23+08:00",
+  "updated_at": "2026-08-18T21:14:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -85,6 +85,36 @@
       "id": "2026-08-18-lifestyle-maxims-palace-moko",
       "first_seen": "2026-08-18T15:13:00+08:00",
       "headline_en": "Maxim’s Palace opens seventh branch at MOKO in Mong Kok"
+    },
+    {
+      "key": "thunderstorm-warning-aug18-evening",
+      "id": "2026-08-18-thunderstorm-warning-evening",
+      "first_seen": "2026-08-18T21:10:00+08:00",
+      "headline_en": "Thunderstorm Warning extended until 11 pm as squally storms continue"
+    },
+    {
+      "key": "midyear-population-2026",
+      "id": "2026-08-18-midyear-population-2026",
+      "first_seen": "2026-08-18T21:11:00+08:00",
+      "headline_en": "Hong Kong mid-year population rises 0.3% to 7.52 million"
+    },
+    {
+      "key": "customs-fire-mesh-cannabis-aug18",
+      "id": "2026-08-18-customs-fire-mesh-cannabis",
+      "first_seen": "2026-08-18T21:12:00+08:00",
+      "headline_en": "Customs seize 240 kg of cannabis worth HK$56 m, arrest 10 in airport operation"
+    },
+    {
+      "key": "icac-mos-burger-ghost-workers",
+      "id": "2026-08-18-icac-mos-burger-ghost-workers",
+      "first_seen": "2026-08-18T21:13:00+08:00",
+      "headline_en": "ICAC charges eight over MOS Burger ‘ghost worker’ payroll fraud"
+    },
+    {
+      "key": "lifestyle-guoquan-wan-chai-opening",
+      "id": "2026-08-18-lifestyle-guoquan-wan-chai",
+      "first_seen": "2026-08-18T21:14:00+08:00",
+      "headline_en": "Mainland hotpot ingredients chain Guoquan opens first Hong Kong store in Wan Chai"
     }
   ]
 }
