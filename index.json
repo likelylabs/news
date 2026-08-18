@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-18T09:08:00+08:00",
+  "generated_at": "2026-08-18T11:05:33+08:00",
   "live_window_hours": 72,
-  "count": 57,
+  "count": 59,
   "articles": [
+    {
+      "id": "2026-08-18-food-expo-record-attendance",
+      "published_at": "2026-08-18T11:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hktdc",
+        "food-expo",
+        "exhibition",
+        "retail",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-18/2026-08-18-food-expo-record-attendance.json",
+      "en": {
+        "headline": "Food Expo and concurrent shows draw record 520,000 visitors",
+        "dek": "The five HKTDC events that closed on Monday attracted more than 520,000 public visitors and average spending of HK$1,685, both all-time highs."
+      },
+      "zh": {
+        "headline": "美食博覽及同期展覽入場逾52萬人次創紀錄",
+        "dek": "貿發局五項展覽周一結束，公眾入場人次逾52萬、人均消費1,685元，均創歷屆新高，反映本地消費保持活力。"
+      }
+    },
+    {
+      "id": "2026-08-18-tuen-mun-castle-peak-minibus-collision",
+      "published_at": "2026-08-18T11:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "tuen-mun",
+        "minibus",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-18/2026-08-18-tuen-mun-castle-peak-minibus-collision.json",
+      "en": {
+        "headline": "Eleven injured after private car and green minibus collide in Tuen Mun",
+        "dek": "The crash on Castle Peak Road near Tun Fu Road late on Monday left both drivers and nine passengers with minor injuries; a section of the road was temporarily closed."
+      },
+      "zh": {
+        "headline": "屯門青山公路私家車與專線小巴相撞 11人輕傷",
+        "dek": "周一晚近10時青山公路嶺南段近屯富路兩車相撞，兩名司機及九名乘客受傷，全部清醒送屯門醫院，一段道路一度全封。"
+      }
+    },
     {
       "id": "2026-08-18-hongkong-post-contract-staff",
       "published_at": "2026-08-18T09:17:00+08:00",
