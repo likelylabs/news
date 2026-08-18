@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T23:08:14+08:00",
+  "updated_at": "2026-08-19T01:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -139,6 +139,12 @@
       "id": "2026-08-18-yoho-dog-owner-arrest",
       "first_seen": "2026-08-18T23:13:00+08:00",
       "headline_en": "AFCD arrests owner of large dog that killed two small pets in Yuen Long"
+    },
+    {
+      "key": "cfs-ktipiti-listeria-spread-aug18",
+      "id": "2026-08-19-cfs-ktipiti-listeria-spread",
+      "first_seen": "2026-08-19T01:15:00+08:00",
+      "headline_en": "CFS urges public not to eat French spread product over possible Listeria contamination"
     }
   ]
 }
