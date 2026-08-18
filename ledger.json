@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T07:15:35+08:00",
+  "updated_at": "2026-08-18T09:18:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -31,6 +31,24 @@
       "id": "2026-08-18-lifestyle-palace-museum-egypt-after-hours",
       "first_seen": "2026-08-18T07:21:00+08:00",
       "headline_en": "Hong Kong Palace Museum stages one-night Egypt after-hours event on Wednesday"
+    },
+    {
+      "key": "huanggang-public-transport-dedicated-lanes",
+      "id": "2026-08-18-huanggang-dedicated-lanes",
+      "first_seen": "2026-08-18T09:15:00+08:00",
+      "headline_en": "Dedicated public transport lanes open for new Huanggang Port"
+    },
+    {
+      "key": "wong-pak-ting-attempted-murder-sentence",
+      "id": "2026-08-18-merchant-attempted-murder-sentence",
+      "first_seen": "2026-08-18T09:16:00+08:00",
+      "headline_en": "Merchant jailed 5 years 4 months for attempted murder of wife and daughters"
+    },
+    {
+      "key": "hongkong-post-two-year-contracts",
+      "id": "2026-08-18-hongkong-post-contract-staff",
+      "first_seen": "2026-08-18T09:17:00+08:00",
+      "headline_en": "Hongkong Post to offer two-year contracts instead of permanent terms"
     }
   ]
 }
