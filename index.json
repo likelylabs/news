@@ -1,8 +1,119 @@
 {
-  "generated_at": "2026-08-18T15:10:23+08:00",
+  "generated_at": "2026-08-18T21:07:32+08:00",
   "live_window_hours": 72,
-  "count": 60,
+  "count": 62,
   "articles": [
+    {
+      "id": "2026-08-18-lifestyle-guoquan-wan-chai",
+      "published_at": "2026-08-18T21:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "wan-chai",
+        "retail",
+        "opening"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-18/2026-08-18-lifestyle-guoquan-wan-chai.json",
+      "en": {
+        "headline": "Mainland hotpot ingredients chain Guoquan opens first Hong Kong store in Wan Chai",
+        "dek": "The Hennessy Road outlet is described by the company as a ‘test bed’ for overseas expansion, offering community-kitchen style products adapted for local tastes."
+      },
+      "zh": {
+        "headline": "內地火鍋食材店鍋圈食匯灣仔開首店",
+        "dek": "軒尼詩道門店被集團定位為海外布局「試驗田」，延續社區央廚模式並加入本地化產品。"
+      }
+    },
+    {
+      "id": "2026-08-18-icac-mos-burger-ghost-workers",
+      "published_at": "2026-08-18T21:13:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "icac",
+        "fraud",
+        "employment",
+        "court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-18/2026-08-18-icac-mos-burger-ghost-workers.json",
+      "en": {
+        "headline": "ICAC charges eight over MOS Burger ‘ghost worker’ payroll fraud",
+        "dek": "A former store manager, his wife and six alleged ghost employees face conspiracy-to-defraud charges involving about HK$680,000 in wages and MPF contributions."
+      },
+      "zh": {
+        "headline": "廉署起訴摩斯漢堡前店長等8人涉「鬼工」騙薪68萬",
+        "dek": "前店長、其妻及六名被指虛報出勤的店務員被控串謀詐騙，涉薪金及強積金合共約74萬元，案件轉介區院。"
+      }
+    },
+    {
+      "id": "2026-08-18-customs-fire-mesh-cannabis",
+      "published_at": "2026-08-18T21:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "drugs",
+        "cannabis",
+        "airport",
+        "trafficking"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-18/2026-08-18-customs-fire-mesh-cannabis.json",
+      "en": {
+        "headline": "Customs seize 240 kg of cannabis worth HK$56 m, arrest 10 in airport operation",
+        "dek": "Month-long ‘Fire Mesh’ action targeted a syndicate using Hong Kong as a transit hub to move cannabis buds from Southeast Asia to Europe and Africa."
+      },
+      "zh": {
+        "headline": "海關「火網」行動檢240公斤大麻市值5600萬 拘10人",
+        "dek": "為期一個月行動針對以香港為中轉站、由東南亞運大麻往歐洲及非洲的集團，於機場過境行李發現可疑包裹。"
+      }
+    },
+    {
+      "id": "2026-08-18-midyear-population-2026",
+      "published_at": "2026-08-18T21:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "population",
+        "census",
+        "demographics",
+        "talent"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-18/2026-08-18-midyear-population-2026.json",
+      "en": {
+        "headline": "Hong Kong mid-year population rises 0.3% to 7.52 million",
+        "dek": "Net inflow of nearly 40,000 residents more than offset a natural decrease of 20,400, though births fell below 30,000 for the first time on record."
+      },
+      "zh": {
+        "headline": "年中人口增0.3%至751.8萬 出生人數首跌破3萬",
+        "dek": "淨移入近4萬人抵銷自然減少2.04萬人，惟出生人數按年跌15.6%至2.97萬，創有紀錄新低。"
+      }
+    },
+    {
+      "id": "2026-08-18-thunderstorm-warning-evening",
+      "published_at": "2026-08-18T21:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "thunderstorm-warning",
+        "hko",
+        "showers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-18/2026-08-18-thunderstorm-warning-evening.json",
+      "en": {
+        "headline": "Thunderstorm Warning extended until 11 pm as squally storms continue",
+        "dek": "The Hong Kong Observatory first issued the warning at 7 pm and later extended it, expecting a few more squally thunderstorms over the territory this evening."
+      },
+      "zh": {
+        "headline": "雷暴警告延長至晚上11時 預料仍有狂風雷暴",
+        "dek": "天文台傍晚7時發出雷暴警告，其後將有效時間延長至今晚11時，預料香港仍有幾陣狂風雷暴。"
+      }
+    },
     {
       "id": "2026-08-18-lifestyle-maxims-palace-moko",
       "published_at": "2026-08-18T15:13:00+08:00",
@@ -1281,73 +1392,6 @@
       "zh": {
         "headline": "全國生態日香港濕地公園免費開放 設公眾導賞",
         "dek": "天水圍濕地公園周六全日免費入場，市民可直接經訪客中心進入，並參加濕地保護區免費導賞團。"
-      }
-    },
-    {
-      "id": "2026-08-15-panda-cubs-second-birthday",
-      "published_at": "2026-08-15T21:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "ocean-park",
-        "panda",
-        "wildlife",
-        "ecology"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-15/2026-08-15-panda-cubs-second-birthday.json",
-      "en": {
-        "headline": "Hong Kong-born panda twins Jia Jia and De De turn two at Ocean Park",
-        "dek": "Secretary for Culture, Sports and Tourism Rosanna Law said the cubs, now nearly 60 kg, may soon live separately from their mother Ying Ying."
-      },
-      "zh": {
-        "headline": "港產大熊貓龍鳳胎加加得得兩歲 海洋公園舉行慶祝活動",
-        "dek": "文化體育及旅遊局局長羅淑佩表示兩姊弟體重近六十公斤，未來或需與媽媽盈盈分居，呼籲市民珍惜同框時光。"
-      }
-    },
-    {
-      "id": "2026-08-15-cyberport-phase-5-leasing",
-      "published_at": "2026-08-15T21:06:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "cyberport",
-        "ai",
-        "innovation",
-        "office",
-        "pok-fu-lam"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-15/2026-08-15-cyberport-phase-5-leasing.json",
-      "en": {
-        "headline": "Cyberport Phase 5 offices more than half leased after June completion",
-        "dek": "Chairman Simon Chan said the expansion adds 66,000 square metres including a Tier-III+ data centre, with tenants such as Lenovo and BrainCo already moved in."
-      },
-      "zh": {
-        "headline": "數碼港第五期寫字樓出租率逾五成 聯想等企業進駐",
-        "dek": "董事局主席陳細明表示，六月竣工的擴建項目新增約六萬六千平方米，包括數據中心，目前寫字樓出租率已過半。"
-      }
-    },
-    {
-      "id": "2026-08-15-lion-rock-tunnel-road-accidents",
-      "published_at": "2026-08-15T21:05:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "lion-rock",
-        "sha-tin",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-15/2026-08-15-lion-rock-tunnel-road-accidents.json",
-      "en": {
-        "headline": "Two accidents on Lion Rock Tunnel Road injure five and cause congestion",
-        "dek": "Ten vehicles were involved in separate collisions on the Kowloon-bound carriageway near Union Hospital around midday, leaving five people with minor injuries."
-      },
-      "zh": {
-        "headline": "獅子山隧道公路半小時兩宗車禍 涉十車五人傷",
-        "dek": "沙田往九龍方向近仁安醫院先後發生兩宗交通意外，共涉及十輛車，五人輕傷送院，部分行車線封閉引致擠塞。"
       }
     }
   ]
