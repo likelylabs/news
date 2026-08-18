@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T03:11:55+08:00",
+  "updated_at": "2026-08-19T03:13:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -145,6 +145,24 @@
       "id": "2026-08-19-cfs-ktipiti-listeria-spread",
       "first_seen": "2026-08-19T01:15:00+08:00",
       "headline_en": "CFS urges public not to eat French spread product over possible Listeria contamination"
+    },
+    {
+      "key": "strong-monsoon-signal-aug19-morning",
+      "id": "2026-08-19-strong-monsoon-signal-morning",
+      "first_seen": "2026-08-19T03:10:00+08:00",
+      "headline_en": "Strong Monsoon Signal remains in force as easterly winds continue"
+    },
+    {
+      "key": "yuen-long-yeung-missing-body-aug18",
+      "id": "2026-08-19-yuen-long-missing-woman-body",
+      "first_seen": "2026-08-19T03:11:00+08:00",
+      "headline_en": "Body of missing 64-year-old woman found in Yuen Long manhole"
+    },
+    {
+      "key": "lifestyle-wine-dine-festival-2026-announcement",
+      "id": "2026-08-19-lifestyle-wine-dine-festival-2026",
+      "first_seen": "2026-08-19T03:12:00+08:00",
+      "headline_en": "Hong Kong Wine & Dine Festival set for 29 October to 1 November"
     }
   ]
 }
