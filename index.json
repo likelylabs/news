@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-08-18T21:07:32+08:00",
+  "generated_at": "2026-08-18T23:08:14+08:00",
   "live_window_hours": 72,
   "count": 62,
   "articles": [
+    {
+      "id": "2026-08-18-yoho-dog-owner-arrest",
+      "published_at": "2026-08-18T23:13:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "afcd",
+        "animal",
+        "yuen-long",
+        "public-safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-18/2026-08-18-yoho-dog-owner-arrest.json",
+      "en": {
+        "headline": "AFCD arrests owner of large dog that killed two small pets in Yuen Long",
+        "dek": "The 60 kg dog had been detained in July over a previous attack and returned after a warning; the department is investigating both cases and may prosecute."
+      },
+      "zh": {
+        "headline": "漁護署拘捕元朗咬斃兩小狗大狗飼主",
+        "dek": "涉事約60公斤大狗曾於7月因另一咬傷案被扣留後發還，署方正調查兩案，如證據足夠將檢控。"
+      }
+    },
+    {
+      "id": "2026-08-18-severe-flu-16yo",
+      "published_at": "2026-08-18T23:12:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "chp",
+        "influenza",
+        "paediatric",
+        "public-health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-18/2026-08-18-severe-flu-16yo.json",
+      "en": {
+        "headline": "16-year-old girl critically ill with influenza A and septic shock",
+        "dek": "The patient with chronic illness developed fever on 15 August and was transferred to the paediatric intensive care unit at United Christian Hospital; CHP says flu activity remains high."
+      },
+      "zh": {
+        "headline": "16歲少女感染甲型流感併發嚴重肺炎及敗血性休克 情況危殆",
+        "dek": "有長期病患少女8月15日起發燒，今日氣促送院，轉聯合醫院兒童深切治療部；衞生防護中心指流感活躍程度仍高。"
+      }
+    },
+    {
+      "id": "2026-08-18-measles-case-35yo",
+      "published_at": "2026-08-18T23:11:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "chp",
+        "measles",
+        "public-health",
+        "vaccination"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-18/2026-08-18-measles-case-35yo.json",
+      "en": {
+        "headline": "CHP investigates measles case involving 35-year-old woman, 198 contacts",
+        "dek": "The non-locally born patient developed fever and cough from 4 August and a rash on 9 August; she is in stable condition and 198 close contacts are under medical surveillance."
+      },
+      "zh": {
+        "headline": "衞生防護中心調查35歲女子麻疹個案 198人列密切接觸者",
+        "dek": "患者非本港出生，8月4日起發燒咳嗽，9日出現皮疹，情況穩定；198名密切接觸者暫無病徵，正接受醫學監察。"
+      }
+    },
+    {
+      "id": "2026-08-18-strong-monsoon-signal-evening",
+      "published_at": "2026-08-18T23:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "strong-monsoon-signal",
+        "wind"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-18/2026-08-18-strong-monsoon-signal-evening.json",
+      "en": {
+        "headline": "Strong Monsoon Signal issued as easterly winds strengthen",
+        "dek": "The Hong Kong Observatory cancelled the Thunderstorm Warning at 10:30 pm and issued the Strong Monsoon Signal at 10:10 pm, warning of strong easterly winds and rough seas."
+      },
+      "zh": {
+        "headline": "強烈季候風信號生效 吹偏東強風",
+        "dek": "天文台晚上10時10分發出強烈季候風信號，預料吹偏東強風，陣風間中達烈風程度，並於10時30分取消雷暴警告。"
+      }
+    },
     {
       "id": "2026-08-18-lifestyle-guoquan-wan-chai",
       "published_at": "2026-08-18T21:14:00+08:00",
@@ -1302,96 +1389,6 @@
       "zh": {
         "headline": "女警穿制服跳抖音片惹議 警方證實現役並內部調查",
         "dek": "警方確認短片中短髮女子為現役警務人員，已責成下架影片並展開內部調查，強調重視人員操守及專業形象。"
-      }
-    },
-    {
-      "id": "2026-08-15-auxiliary-police-graduation",
-      "published_at": "2026-08-15T23:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "auxiliary-police",
-        "graduation",
-        "public-service"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-15/2026-08-15-auxiliary-police-graduation.json",
-      "en": {
-        "headline": "204 auxiliary police officers graduate, including barrister and government statistician",
-        "dek": "The new batch of part-time officers from diverse professions completed training and will support frontline policing across Hong Kong."
-      },
-      "zh": {
-        "headline": "204名輔警結業 大律師及政府統計師跨界投身前線",
-        "dek": "結業會操見證來自各行各業的學員完成訓練，包括執業大律師及統計師，將投入支援正規警隊工作。"
-      }
-    },
-    {
-      "id": "2026-08-15-mastercard-global-outage",
-      "published_at": "2026-08-15T23:06:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "mastercard",
-        "payments",
-        "outage",
-        "banking"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-15/2026-08-15-mastercard-global-outage.json",
-      "en": {
-        "headline": "Mastercard payments briefly disrupted worldwide after system update",
-        "dek": "Hong Kong users reported declined transactions and Apple Pay failures on Saturday afternoon before the company confirmed systems had returned to normal."
-      },
-      "zh": {
-        "headline": "萬事達卡全球系統更新故障 香港用戶交易一度被拒",
-        "dek": "周六下午包括香港在內多地用戶反映刷卡、Apple Pay及提款受阻，公司其後確認系統已恢復正常。"
-      }
-    },
-    {
-      "id": "2026-08-15-sau-mau-ping-cocaine-seizure",
-      "published_at": "2026-08-15T23:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "drugs",
-        "cocaine",
-        "sau-mau-ping",
-        "public-housing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-15/2026-08-15-sau-mau-ping-cocaine-seizure.json",
-      "en": {
-        "headline": "Police seize 3.6 kg of cocaine worth HK$2.9 million in Sau Mau Ping public housing",
-        "dek": "A 48-year-old man was arrested on suspicion of trafficking dangerous drugs after officers raided a unit used as a storage and distribution centre."
-      },
-      "zh": {
-        "headline": "警搗秀茂坪公屋毒品倉檢3.6公斤可卡因市值290萬 拘48歲男",
-        "dek": "中區反三合會行動組人員在公屋單位檢獲逾60包懷疑可卡因及電子磅等工具，疑犯涉嫌販運危險藥物被扣查。"
-      }
-    },
-    {
-      "id": "2026-08-15-lifestyle-wetland-park-ecology-day",
-      "published_at": "2026-08-15T21:08:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "wetland-park",
-        "ecology",
-        "free-admission",
-        "tin-shui-wai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-15/2026-08-15-lifestyle-wetland-park-ecology-day.json",
-      "en": {
-        "headline": "Hong Kong Wetland Park offers free admission on National Ecology Day",
-        "dek": "Visitors can enter without tickets on Saturday and join free guided tours in the wetland reserve, as part of wider government and NGO activities."
-      },
-      "zh": {
-        "headline": "全國生態日香港濕地公園免費開放 設公眾導賞",
-        "dek": "天水圍濕地公園周六全日免費入場，市民可直接經訪客中心進入，並參加濕地保護區免費導賞團。"
       }
     }
   ]
