@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T04:46:36+08:00",
+  "updated_at": "2026-08-19T09:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -163,6 +163,18 @@
       "id": "2026-08-19-lifestyle-wine-dine-festival-2026",
       "first_seen": "2026-08-19T03:12:00+08:00",
       "headline_en": "Hong Kong Wine & Dine Festival set for 29 October to 1 November"
+    },
+    {
+      "key": "to-kwa-wan-minibus-elderly-death-aug13",
+      "id": "2026-08-19-to-kwa-wan-minibus-elderly-death",
+      "first_seen": "2026-08-19T09:10:00+08:00",
+      "headline_en": "75-year-old dies five days after To Kwa Wan minibus collision"
+    },
+    {
+      "key": "heat-stress-warning-system-revamp",
+      "id": "2026-08-19-heat-stress-warning-revamp",
+      "first_seen": "2026-08-19T09:11:00+08:00",
+      "headline_en": "Government aims to complete heat-stress warning system review by end of August"
     }
   ]
 }
