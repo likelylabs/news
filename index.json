@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-08-20T04:52:12+08:00",
+  "generated_at": "2026-08-20T07:10:59+08:00",
   "live_window_hours": 72,
-  "count": 68,
+  "count": 69,
   "articles": [
+    {
+      "id": "2026-08-20-kwai-chung-hospital-child-psych",
+      "published_at": "2026-08-20T07:11:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "hospital-authority",
+        "mental-health",
+        "kwai-chung",
+        "paediatric",
+        "public-health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-20/2026-08-20-kwai-chung-hospital-child-psych.json",
+      "en": {
+        "headline": "Kwai Chung Hospital opens city’s first dedicated psychiatric block for under-18s",
+        "dek": "The redeveloped main and child-and-adolescent blocks provide 1,000 beds and a ‘therapeutic village’ design; most services have already moved, with remaining relocation due by September."
+      },
+      "zh": {
+        "headline": "葵涌醫院新大樓啟用 設全港首個精神科兒童青少年服務座",
+        "dek": "重建後主座及兒童青少年服務座提供1,000張病床，引入治療村概念；絕大部分服務已遷入，餘下預計9月完成。"
+      }
+    },
+    {
+      "id": "2026-08-20-jupas-rr-offers-aug20",
+      "published_at": "2026-08-20T07:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "jupas",
+        "education",
+        "dse",
+        "university",
+        "admissions"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-20/2026-08-20-jupas-rr-offers-aug20.json",
+      "en": {
+        "headline": "JUPAS: 287 of 453 applicants succeed in reconsideration after DSE review",
+        "dek": "Sixty-three per cent of those who sought a fresh look after rechecking results received an offer or a higher-preference programme; 83 students who had none previously gained a place."
+      },
+      "zh": {
+        "headline": "聯招覆核後重新考慮結果公布 287人成功佔六成三",
+        "dek": "453名申請人中287人獲取錄或較高次序課程，成功率63.4%；83人由原先未獲派學位變為獲取錄。"
+      }
+    },
     {
       "id": "2026-08-20-lifestyle-teemtonefai-sheung-wan",
       "published_at": "2026-08-20T03:07:00+08:00",
@@ -1496,29 +1542,6 @@
       "zh": {
         "headline": "中九龍繞道輕型貨車翻側 啟德交匯處一度全線封閉",
         "dek": "今早約6時一輛輕型貨車在啟福道近啟德交匯處失控翻側，司機無恙；往油麻地方向支路一度全封，其後重開。"
-      }
-    },
-    {
-      "id": "2026-08-17-lifestyle-food-expo-final-day",
-      "published_at": "2026-08-17T07:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "exhibition",
-        "wan-chai",
-        "hktdc"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-lifestyle-food-expo-final-day.json",
-      "en": {
-        "headline": "HKTDC Food Expo enters final day at Convention and Exhibition Centre",
-        "dek": "The five-day event and concurrent Beauty & Wellness and Home Delights expos close at 6 p.m. Monday after drawing exhibitors from more than 30 countries and regions."
-      },
-      "zh": {
-        "headline": "貿發局美食博覽今日最後一天 會展晚上6時閉幕",
-        "dek": "一連五日的美食博覽連同美與健生活博覽及家電家居博覽於周一晚上6時結束，逾30個國家及地區展商參與。"
       }
     }
   ]
