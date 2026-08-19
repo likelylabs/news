@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T21:21:19+08:00",
+  "updated_at": "2026-08-19T23:08:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -247,6 +247,30 @@
       "id": "2026-08-19-lifestyle-summer-iff-2026",
       "first_seen": "2026-08-19T21:21:00+08:00",
       "headline_en": "Cine Fan Summer International Film Festival opens with Na Hong-jin’s HOPE"
+    },
+    {
+      "key": "customs-cannabis-oil-lab-aug19",
+      "id": "2026-08-19-customs-cannabis-oil-lab",
+      "first_seen": "2026-08-19T23:05:00+08:00",
+      "headline_en": "Customs smash cannabis oil lab and distribution centre, seize HK$1.3 m drugs"
+    },
+    {
+      "key": "mtr-av-tests-west-kowloon-aug19",
+      "id": "2026-08-19-mtr-autonomous-vehicle-tests",
+      "first_seen": "2026-08-19T23:06:00+08:00",
+      "headline_en": "MTR begins autonomous vehicle road tests linking West Kowloon and Kowloon stations"
+    },
+    {
+      "key": "bonus-plot-ratio-pilot-scheme-aug19",
+      "id": "2026-08-19-bonus-plot-ratio-pilot",
+      "first_seen": "2026-08-19T23:07:00+08:00",
+      "headline_en": "Government issues practice note for bonus plot ratio pilot scheme starting 1 September"
+    },
+    {
+      "key": "lifestyle-ocean-park-reptile-territory",
+      "id": "2026-08-19-lifestyle-ocean-park-reptile-territory",
+      "first_seen": "2026-08-19T23:08:00+08:00",
+      "headline_en": "Ocean Park’s Reptile Territory opens to public on Friday with nearly 20 species"
     }
   ]
 }
