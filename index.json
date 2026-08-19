@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-08-19T04:46:36+08:00",
+  "generated_at": "2026-08-19T09:09:55+08:00",
   "live_window_hours": 72,
-  "count": 64,
+  "count": 66,
   "articles": [
+    {
+      "id": "2026-08-19-heat-stress-warning-revamp",
+      "published_at": "2026-08-19T09:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "labour",
+        "heat",
+        "public-health",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-19/2026-08-19-heat-stress-warning-revamp.json",
+      "en": {
+        "headline": "Government aims to complete heat-stress warning system review by end of August",
+        "dek": "Labour and welfare chief Chris Sun said the Labour Department and Observatory are working to adjust thresholds after the lowest-level alert stayed in force during record temperatures."
+      },
+      "zh": {
+        "headline": "政府料本月底前完成酷熱工作警告機制檢討",
+        "dek": "勞福局局長孫玉菡表示，勞工處與天文台正就啟動門檻及觸發機制進行準備工作，以盡快落實優化。"
+      }
+    },
+    {
+      "id": "2026-08-19-to-kwa-wan-minibus-elderly-death",
+      "published_at": "2026-08-19T09:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "to-kwa-wan",
+        "minibus",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-19/2026-08-19-to-kwa-wan-minibus-elderly-death.json",
+      "en": {
+        "headline": "75-year-old dies five days after To Kwa Wan minibus collision",
+        "dek": "Wong was struck on 13 August at the junction of Lok Shan Road and Maidstone Road by a private minibus belonging to a social-service centre; the driver remains under investigation."
+      },
+      "zh": {
+        "headline": "土瓜灣75歲翁捱復康小巴撞 留醫五日後不治",
+        "dek": "事主8月13日於落山道與美善同道交界被基督教家庭服務中心私家小巴撞倒，頭部受傷昏迷，延至18日下午不治；52歲司機早前涉危駕被捕。"
+      }
+    },
     {
       "id": "2026-08-19-lifestyle-wine-dine-festival-2026",
       "published_at": "2026-08-19T03:12:00+08:00",
