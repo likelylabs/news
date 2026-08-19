@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T15:03:24+08:00",
+  "updated_at": "2026-08-19T21:21:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -217,6 +217,36 @@
       "id": "2026-08-19-lifestyle-hk-cyclothon-2026",
       "first_seen": "2026-08-19T15:08:00+08:00",
       "headline_en": "Hong Kong Cyclothon returns 11 October with new five-tunnel three-bridge route"
+    },
+    {
+      "key": "strong-monsoon-signal-aug19-evening",
+      "id": "2026-08-19-strong-monsoon-signal-evening",
+      "first_seen": "2026-08-19T21:17:00+08:00",
+      "headline_en": "Strong Monsoon Signal remains in force under continued easterly winds"
+    },
+    {
+      "key": "customs-opatra-arrests-aug19",
+      "id": "2026-08-19-customs-opatra-arrests",
+      "first_seen": "2026-08-19T21:18:00+08:00",
+      "headline_en": "Customs arrest two Opatra London managers over alleged aggressive sales"
+    },
+    {
+      "key": "chris-tang-huanggang-inspection-aug19",
+      "id": "2026-08-19-chris-tang-huanggang-inspection",
+      "first_seen": "2026-08-19T21:19:00+08:00",
+      "headline_en": "Chris Tang and Shenzhen officials inspect new Huanggang Port preparations"
+    },
+    {
+      "key": "qatar-airways-cargo-hk-office",
+      "id": "2026-08-19-qatar-airways-cargo-office",
+      "first_seen": "2026-08-19T21:20:00+08:00",
+      "headline_en": "Qatar Airways Cargo opens Hong Kong regional office and signs MOU with Airport Authority"
+    },
+    {
+      "key": "lifestyle-summer-iff-2026-opening",
+      "id": "2026-08-19-lifestyle-summer-iff-2026",
+      "first_seen": "2026-08-19T21:21:00+08:00",
+      "headline_en": "Cine Fan Summer International Film Festival opens with Na Hong-jin’s HOPE"
     }
   ]
 }
