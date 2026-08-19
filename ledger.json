@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T23:09:26+08:00",
+  "updated_at": "2026-08-20T03:07:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -271,6 +271,24 @@
       "id": "2026-08-19-lifestyle-ocean-park-reptile-territory",
       "first_seen": "2026-08-19T23:08:00+08:00",
       "headline_en": "Ocean Park’s Reptile Territory opens to public on Friday with nearly 20 species"
+    },
+    {
+      "key": "strong-monsoon-signal-aug20-morning",
+      "id": "2026-08-20-strong-monsoon-signal-morning",
+      "first_seen": "2026-08-20T03:05:00+08:00",
+      "headline_en": "Strong Monsoon Signal remains in force under continued easterly winds"
+    },
+    {
+      "key": "central-tram-citybus-collision-aug19",
+      "id": "2026-08-20-central-tram-bus-collision",
+      "first_seen": "2026-08-20T03:06:00+08:00",
+      "headline_en": "Tram derails in Central after Citybus swerves to avoid child, no injuries"
+    },
+    {
+      "key": "lifestyle-teemtonefai-sheung-wan-opening",
+      "id": "2026-08-20-lifestyle-teemtonefai-sheung-wan",
+      "first_seen": "2026-08-20T03:07:00+08:00",
+      "headline_en": "Local ice-cream brand TeemTonefai opens first permanent shop in Sheung Wan"
     }
   ]
 }
