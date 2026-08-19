@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-08-19T09:09:55+08:00",
+  "generated_at": "2026-08-19T13:05:34+08:00",
   "live_window_hours": 72,
   "count": 66,
   "articles": [
+    {
+      "id": "2026-08-19-strong-monsoon-signal-midday",
+      "published_at": "2026-08-19T13:07:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "strong-monsoon-signal",
+        "wind",
+        "heat"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-19/2026-08-19-strong-monsoon-signal-midday.json",
+      "en": {
+        "headline": "Strong Monsoon Signal remains in force under hot and windy conditions",
+        "dek": "The Hong Kong Observatory reported temperatures around 31–33°C at noon with very high UV levels; strong easterly winds continue and the public is advised to beware of rough seas."
+      },
+      "zh": {
+        "headline": "強烈季候風信號繼續生效 天氣炎熱吹偏東強風",
+        "dek": "天文台中午錄得約31至33度，紫外線指數極高；偏東強風持續，市民須提防海面大浪。"
+      }
+    },
+    {
+      "id": "2026-08-19-hkex-record-h1-profit",
+      "published_at": "2026-08-19T13:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hkex",
+        "financial-services",
+        "ipo",
+        "securities"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-19/2026-08-19-hkex-record-h1-profit.json",
+      "en": {
+        "headline": "HKEX posts record first-half profit of HK$10.57 billion",
+        "dek": "Second-quarter net profit rose 21 per cent to HK$5.38 billion, beating estimates, as average daily turnover hit a quarterly high and IPO fundraising nearly doubled."
+      },
+      "zh": {
+        "headline": "港交所上半年盈利創新高達105.7億元",
+        "dek": "第二季純利升21%至53.8億元，勝過預期；日均成交創季度新高，IPO集資額近乎倍增。"
+      }
+    },
+    {
+      "id": "2026-08-19-yoho-dog-euthanasia-option",
+      "published_at": "2026-08-19T13:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "afcd",
+        "animal",
+        "yuen-long",
+        "public-safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-19/2026-08-19-yoho-dog-euthanasia-option.json",
+      "en": {
+        "headline": "AFCD may euthanise large dog that killed two pets if owner surrenders it",
+        "dek": "Assistant director Jackie Yip said the 60 kg mixed-breed dog remains under observation; if kept by the owner it could be declared a known dangerous dog requiring a muzzle and short leash."
+      },
+      "zh": {
+        "headline": "漁護署：元朗咬斃兩犬大狗若交由政府或考慮人道處理",
+        "dek": "助理署長葉恩明表示，約60公斤混種犬仍在觀察中；若狗主繼續飼養，署方或申請將其列為已知危險狗隻，須戴口罩及用短於1.5米狗繩。"
+      }
+    },
     {
       "id": "2026-08-19-heat-stress-warning-revamp",
       "published_at": "2026-08-19T09:11:00+08:00",
@@ -1409,74 +1475,6 @@
       "zh": {
         "headline": "下周天氣展望：周一酷熱後中期轉不穩定有驟雨雷暴",
         "dek": "天文台預料周一短暫陽光及酷熱，其後受廣闊低壓槽影響，中期起大致多雲，有幾陣驟雨及雷暴，風力亦會加強。"
-      }
-    },
-    {
-      "id": "2026-08-16-lifestyle-container-aquaculture-au-tau",
-      "published_at": "2026-08-16T09:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "aquaculture",
-        "afcd",
-        "yuen-long",
-        "fisheries"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-16/2026-08-16-lifestyle-container-aquaculture-au-tau.json",
-      "en": {
-        "headline": "AFCD demonstrates container fish farming system at Au Tau with triple the yield",
-        "dek": "Three 20-foot containers at the Yuen Long fisheries office produce about three times the output of a traditional one-acre pond while recycling water through ecological ponds."
-      },
-      "zh": {
-        "headline": "漁護署凹頭示範集裝箱生態養魚 產量約傳統魚塘三倍",
-        "dek": "元朗凹頭辦事處以三個20呎貨櫃進行高密度養殖，尾水經生態池塘淨化循環再用，並設智慧監測平台。"
-      }
-    },
-    {
-      "id": "2026-08-16-wong-chan-men-doubles-silver-wtt-sweden",
-      "published_at": "2026-08-16T09:11:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "table-tennis",
-        "wtt",
-        "wong-chun-ting",
-        "chan-ho-wah",
-        "sweden"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-16/2026-08-16-wong-chan-men-doubles-silver-wtt-sweden.json",
-      "en": {
-        "headline": "Wong Chun-ting and Chan Ho-wah take men’s doubles silver at WTT Sweden Smash",
-        "dek": "The Hong Kong pair, defending champions, fell 0-3 to France’s Alexis and Félix Lebrun in the final, completing a hat-trick of doubles silvers for the SAR side."
-      },
-      "zh": {
-        "headline": "黃鎮廷陳顥樺瑞典大滿貫男雙奪銀 不敵法國勒布倫兄弟",
-        "dek": "衛冕組合決賽直落三局負於法國眼鏡兄弟，港隊本屆双打共取得三面銀牌。"
-      }
-    },
-    {
-      "id": "2026-08-16-very-hot-weather-warning",
-      "published_at": "2026-08-16T09:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "very-hot-weather",
-        "heat",
-        "sunday"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-16/2026-08-16-very-hot-weather-warning.json",
-      "en": {
-        "headline": "Very Hot Weather Warning issued as temperatures expected to reach 33°C",
-        "dek": "The Hong Kong Observatory issued the warning at 6.45 a.m. Sunday, advising the public to beware of heat stroke amid sunny periods and isolated showers."
-      },
-      "zh": {
-        "headline": "酷熱天氣警告生效 預料最高氣溫約33度",
-        "dek": "天文台今早6時45分發出酷熱天氣警告，預料今日日間酷熱，部分時間有陽光，局部地區有驟雨及雷暴。"
       }
     }
   ]
