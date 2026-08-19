@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-08-19T23:09:27+08:00",
+  "generated_at": "2026-08-20T03:09:01+08:00",
   "live_window_hours": 72,
   "count": 68,
   "articles": [
+    {
+      "id": "2026-08-20-lifestyle-teemtonefai-sheung-wan",
+      "published_at": "2026-08-20T03:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "sheung-wan",
+        "opening",
+        "retail"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-20/2026-08-20-lifestyle-teemtonefai-sheung-wan.json",
+      "en": {
+        "headline": "Local ice-cream brand TeemTonefai opens first permanent shop in Sheung Wan",
+        "dek": "The 10-year-old maker of Chinese-ingredient flavours begins soft opening on 21 August at Upper Lascar Row, after years of pop-ups and collaborations."
+      },
+      "zh": {
+        "headline": "本地雪糕品牌TEEMTONEfai上環開首間實體店",
+        "dek": "成立十年的創意雪糕品牌8月21日起於上環摩羅上街試業，主打中式茶香及香料口味，過往以期間限定店及聯乘聞名。"
+      }
+    },
+    {
+      "id": "2026-08-20-central-tram-bus-collision",
+      "published_at": "2026-08-20T03:06:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "central",
+        "tram",
+        "citybus",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-20/2026-08-20-central-tram-bus-collision.json",
+      "en": {
+        "headline": "Tram derails in Central after Citybus swerves to avoid child, no injuries",
+        "dek": "A Citybus route 930 vehicle struck a tram on Des Voeux Road Central near Jubilee Street on Wednesday evening while avoiding a five-year-old girl who had stepped into the roadway; services later resumed."
+      },
+      "zh": {
+        "headline": "中環城巴閃避女童撞電車出軌 無人受傷",
+        "dek": "周三晚一輛930線城巴在德輔道中近租庇利街為避一名突然衝出馬路的5歲女童而撞向電車，導致電車出軌，車上無人受傷，電車服務其後恢復。"
+      }
+    },
+    {
+      "id": "2026-08-20-strong-monsoon-signal-morning",
+      "published_at": "2026-08-20T03:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "strong-monsoon-signal",
+        "wind"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-20/2026-08-20-strong-monsoon-signal-morning.json",
+      "en": {
+        "headline": "Strong Monsoon Signal remains in force under continued easterly winds",
+        "dek": "The Hong Kong Observatory maintained the signal into Thursday morning, warning of strong easterly winds with occasional gale-force gusts and rough seas while monitoring a low-pressure area near Hainan."
+      },
+      "zh": {
+        "headline": "強烈季候風信號繼續生效 偏東強風持續",
+        "dek": "天文台周四清晨維持強烈季候風信號，預料吹偏東強風，陣風間中達烈風程度，並繼續監察南海北部低壓區動向。"
+      }
+    },
     {
       "id": "2026-08-19-lifestyle-ocean-park-reptile-territory",
       "published_at": "2026-08-19T23:08:00+08:00",
@@ -1452,73 +1519,6 @@
       "zh": {
         "headline": "貿發局美食博覽今日最後一天 會展晚上6時閉幕",
         "dek": "一連五日的美食博覽連同美與健生活博覽及家電家居博覽於周一晚上6時結束，逾30個國家及地區展商參與。"
-      }
-    },
-    {
-      "id": "2026-08-17-hku-cityu-arwu-top-100",
-      "published_at": "2026-08-17T03:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "university",
-        "hku",
-        "cityu",
-        "ranking"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-hku-cityu-arwu-top-100.json",
-      "en": {
-        "headline": "HKU rises to 62nd and CityU to 95th in global academic ranking",
-        "dek": "Both universities enter the top 100 of the 2026 Academic Ranking of World Universities released by ShanghaiRanking, with HKU improving five places and CityU four."
-      },
-      "zh": {
-        "headline": "港大及城大躋身軟科世界大學排名百強",
-        "dek": "2026年軟科世界大學學術排名公布，港大升5位至全球第62，城大升4位至第95，連續第二年進入百強。"
-      }
-    },
-    {
-      "id": "2026-08-17-zhu-rongji-half-staff-flags",
-      "published_at": "2026-08-17T03:06:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "government",
-        "zhu-rongji",
-        "mourning",
-        "flags"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-zhu-rongji-half-staff-flags.json",
-      "en": {
-        "headline": "Flags to fly at half-staff Tuesday for late former premier Zhu Rongji",
-        "dek": "The Hong Kong government will lower national and regional flags at Central Government Offices, Government House, boundary control points and the airport on 18 August as a token of mourning."
-      },
-      "zh": {
-        "headline": "悼念前總理朱鎔基 下周二港府指定場所下半旗",
-        "dek": "按中央人民政府通知，港府將於8月18日在添馬政府總部、禮賓府、各口岸及機場將國旗及區旗下半旗致哀。"
-      }
-    },
-    {
-      "id": "2026-08-17-very-hot-weather-warning-monday",
-      "published_at": "2026-08-17T03:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "very-hot-weather",
-        "heat",
-        "monday"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-very-hot-weather-warning-monday.json",
-      "en": {
-        "headline": "Very Hot Weather Warning remains in force as temperatures stay elevated",
-        "dek": "The Hong Kong Observatory continues the warning issued on Sunday, forecasting sunny periods and a maximum of around 33°C on Monday before heavier showers and thunderstorms develop later."
-      },
-      "zh": {
-        "headline": "酷熱天氣警告繼續生效 周一最高氣溫約33度",
-        "dek": "天文台周日發出的酷熱天氣警告仍然生效，預料周一短暫陽光及酷熱，其後部分地區驟雨較大及有狂風雷暴。"
       }
     }
   ]
