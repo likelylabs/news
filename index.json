@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-08-19T21:21:19+08:00",
+  "generated_at": "2026-08-19T23:09:27+08:00",
   "live_window_hours": 72,
-  "count": 67,
+  "count": 68,
   "articles": [
+    {
+      "id": "2026-08-19-lifestyle-ocean-park-reptile-territory",
+      "published_at": "2026-08-19T23:08:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "ocean-park",
+        "exhibition",
+        "animals",
+        "conservation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-19/2026-08-19-lifestyle-ocean-park-reptile-territory.json",
+      "en": {
+        "headline": "Ocean Park’s Reptile Territory opens to public on Friday with nearly 20 species",
+        "dek": "The new Summit pavilion features endangered rhinoceros iguanas, Chinese crocodile lizards and blue-tongued skinks, some rescued by the Agriculture, Fisheries and Conservation Department."
+      },
+      "zh": {
+        "headline": "海洋公園爬行探索基地周五起對公眾開放 展出近20種爬行動物",
+        "dek": "高峰樂園新展館包括國家一級保護瑤山鱷蜥、瀕危犀牛鬣蜥及藍舌石龍子等，部分動物來自漁護署充公後由園方護理。"
+      }
+    },
+    {
+      "id": "2026-08-19-bonus-plot-ratio-pilot",
+      "published_at": "2026-08-19T23:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "development-bureau",
+        "urban-renewal",
+        "housing",
+        "plot-ratio",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-19/2026-08-19-bonus-plot-ratio-pilot.json",
+      "en": {
+        "headline": "Government issues practice note for bonus plot ratio pilot scheme starting 1 September",
+        "dek": "Developers redeveloping qualifying old residential buildings in seven designated districts can obtain an extra 20 per cent plot ratio free of land premium for five years."
+      },
+      "zh": {
+        "headline": "額外地積比率先導計劃9月生效 聯合作業備考詳列安排",
+        "dek": "發展商在七個指定舊區拆卸樓齡50年或以上、地盤不少於700平方米的住宅樓宇並重建作住宅用途，可獲額外20%免補地價總樓面面積，計劃為期五年。"
+      }
+    },
+    {
+      "id": "2026-08-19-mtr-autonomous-vehicle-tests",
+      "published_at": "2026-08-19T23:06:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "autonomous-vehicle",
+        "west-kowloon",
+        "airport-express",
+        "technology"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-19/2026-08-19-mtr-autonomous-vehicle-tests.json",
+      "en": {
+        "headline": "MTR begins autonomous vehicle road tests linking West Kowloon and Kowloon stations",
+        "dek": "Four Baidu Apollo sixth-generation cars started non-passenger trials on Wednesday along a designated route; a transfer service is targeted for the second quarter of 2027."
+      },
+      "zh": {
+        "headline": "港鐵西九龍展開自動車路面測試 目標明年第二季提供接駁服務",
+        "dek": "四輛百度Apollo第六代自動私家車周三起在指定路段測試，初期不載客，後備操作員全程隨車；擬明年第二季推出高鐵與機場快綫接駁服務。"
+      }
+    },
+    {
+      "id": "2026-08-19-customs-cannabis-oil-lab",
+      "published_at": "2026-08-19T23:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "drugs",
+        "cannabis",
+        "kowloon-bay"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-19/2026-08-19-customs-cannabis-oil-lab.json",
+      "en": {
+        "headline": "Customs smash cannabis oil lab and distribution centre, seize HK$1.3 m drugs",
+        "dek": "A 46-year-old Indonesian man was arrested in Prince Edward and charged with manufacturing and trafficking dangerous drugs after raids on industrial units in Kowloon Bay and Yau Tong."
+      },
+      "zh": {
+        "headline": "海關搗破大麻油製毒工場及分銷中心 檢130萬元毒品拘一男",
+        "dek": "46歲持行街紙印尼籍男子在太子被捕，九龍灣及油塘工廈單位檢獲約1.9公斤懷疑大麻油、2.4公斤軟糖及2,200支煙彈，明日提堂。"
+      }
+    },
     {
       "id": "2026-08-19-lifestyle-summer-iff-2026",
       "published_at": "2026-08-19T21:21:00+08:00",
@@ -1428,73 +1519,6 @@
       "zh": {
         "headline": "酷熱天氣警告繼續生效 周一最高氣溫約33度",
         "dek": "天文台周日發出的酷熱天氣警告仍然生效，預料周一短暫陽光及酷熱，其後部分地區驟雨較大及有狂風雷暴。"
-      }
-    },
-    {
-      "id": "2026-08-16-lifestyle-computer-communications-festival",
-      "published_at": "2026-08-16T23:07:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "technology",
-        "ai",
-        "wan-chai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-16/2026-08-16-lifestyle-computer-communications-festival.json",
-      "en": {
-        "headline": "Hong Kong Computer & Communications Festival opens 21 August with AI focus",
-        "dek": "The four-day event at the Convention and Exhibition Centre features more than 200 exhibitors, free AI workshops and an AI and digital-transformation zone organised with the Productivity Council."
-      },
-      "zh": {
-        "headline": "電腦通訊節8月21日會展開鑼 以AI應用為主題",
-        "dek": "一連四日於灣仔會展舉行，逾200家參展商，設AI及數碼轉型專區及超過20場免費工作坊。"
-      }
-    },
-    {
-      "id": "2026-08-16-subdivided-flats-heat-survey",
-      "published_at": "2026-08-16T23:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "heat",
-        "subdivided-flats",
-        "public-health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-16/2026-08-16-subdivided-flats-heat-survey.json",
-      "en": {
-        "headline": "Subdivided-flat survey finds indoor heat that feels like 52°C",
-        "dek": "CarbonCare InnoLab and the Concerning Subdivided Units Alliance tracked temperatures in 78 inadequate homes and found night-time averages above the Observatory's hot-night threshold, with carers hardest hit."
-      },
-      "zh": {
-        "headline": "劏房調查：室內體感最高達52度 夜間均溫仍逾29度",
-        "dek": "低碳想創坊與劏房支援連線監測78個不適切居所，發現日間體感最高52.21度，照顧者受熱及電費雙重壓力最大。"
-      }
-    },
-    {
-      "id": "2026-08-16-cheung-sha-wan-cat-cruelty-arrest",
-      "published_at": "2026-08-16T23:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "animal-cruelty",
-        "cheung-sha-wan",
-        "youth"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-16/2026-08-16-cheung-sha-wan-cat-cruelty-arrest.json",
-      "en": {
-        "headline": "14-year-old arrested after classmate's cat dies of suspected abuse",
-        "dek": "Police say the boy, who had been fostering an eight-month-old cat, was detained on suspicion of animal cruelty after a Cheung Sha Wan veterinary clinic reported suspicious injuries."
-      },
-      "zh": {
-        "headline": "14歲少年涉虐死同學託管貓隻被捕",
-        "dek": "長沙灣獸醫診所發現八個月大貓隻傷勢可疑後報警，警方指少年曾在家中掌摑及踢向貓隻，以涉嫌殘酷對待動物拘捕。"
       }
     }
   ]
