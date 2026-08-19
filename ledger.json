@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T04:52:12+08:00",
+  "updated_at": "2026-08-20T07:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -289,6 +289,18 @@
       "id": "2026-08-20-lifestyle-teemtonefai-sheung-wan",
       "first_seen": "2026-08-20T03:07:00+08:00",
       "headline_en": "Local ice-cream brand TeemTonefai opens first permanent shop in Sheung Wan"
+    },
+    {
+      "key": "jupas-rr-offers-aug20",
+      "id": "2026-08-20-jupas-rr-offers-aug20",
+      "first_seen": "2026-08-20T07:10:00+08:00",
+      "headline_en": "JUPAS: 287 of 453 applicants succeed in reconsideration after DSE review"
+    },
+    {
+      "key": "kwai-chung-hospital-child-psych-facility",
+      "id": "2026-08-20-kwai-chung-hospital-child-psych",
+      "first_seen": "2026-08-20T07:11:00+08:00",
+      "headline_en": "Kwai Chung Hospital opens city’s first dedicated psychiatric block for under-18s"
     }
   ]
 }
