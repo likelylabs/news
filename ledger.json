@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T13:05:34+08:00",
+  "updated_at": "2026-08-19T15:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -193,6 +193,30 @@
       "id": "2026-08-19-strong-monsoon-signal-midday",
       "first_seen": "2026-08-19T13:07:00+08:00",
       "headline_en": "Strong Monsoon Signal remains in force under hot and windy conditions"
+    },
+    {
+      "key": "customs-lo-wu-live-birds-aug19",
+      "id": "2026-08-19-customs-lo-wu-live-birds",
+      "first_seen": "2026-08-19T15:05:00+08:00",
+      "headline_en": "Customs seize 200 live birds worth HK$20,000 at Lo Wu, arrest two"
+    },
+    {
+      "key": "sham-shui-po-pei-ho-cable-smoke-aug19",
+      "id": "2026-08-19-sham-shui-po-pei-ho-cable",
+      "first_seen": "2026-08-19T15:06:00+08:00",
+      "headline_en": "Underground cable sparks and smoke force response on Pei Ho Street"
+    },
+    {
+      "key": "interpol-ga-drill-aug18",
+      "id": "2026-08-19-interpol-general-assembly-drill",
+      "first_seen": "2026-08-19T15:07:00+08:00",
+      "headline_en": "Police lead 2,600-person drill for November Interpol General Assembly"
+    },
+    {
+      "key": "lifestyle-hk-cyclothon-2026",
+      "id": "2026-08-19-lifestyle-hk-cyclothon-2026",
+      "first_seen": "2026-08-19T15:08:00+08:00",
+      "headline_en": "Hong Kong Cyclothon returns 11 October with new five-tunnel three-bridge route"
     }
   ]
 }
