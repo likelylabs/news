@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T09:09:55+08:00",
+  "updated_at": "2026-08-19T13:07:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -175,6 +175,24 @@
       "id": "2026-08-19-heat-stress-warning-revamp",
       "first_seen": "2026-08-19T09:11:00+08:00",
       "headline_en": "Government aims to complete heat-stress warning system review by end of August"
+    },
+    {
+      "key": "yoho-dog-euthanasia-option",
+      "id": "2026-08-19-yoho-dog-euthanasia-option",
+      "first_seen": "2026-08-19T13:05:00+08:00",
+      "headline_en": "AFCD may euthanise large dog that killed two pets if owner surrenders it"
+    },
+    {
+      "key": "hkex-record-h1-profit-2026",
+      "id": "2026-08-19-hkex-record-h1-profit",
+      "first_seen": "2026-08-19T13:06:00+08:00",
+      "headline_en": "HKEX posts record first-half profit of HK$10.57 billion"
+    },
+    {
+      "key": "strong-monsoon-signal-aug19-midday",
+      "id": "2026-08-19-strong-monsoon-signal-midday",
+      "first_seen": "2026-08-19T13:07:00+08:00",
+      "headline_en": "Strong Monsoon Signal remains in force under hot and windy conditions"
     }
   ]
 }
