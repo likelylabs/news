@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-08-19T13:05:34+08:00",
+  "generated_at": "2026-08-19T15:03:24+08:00",
   "live_window_hours": 72,
-  "count": 66,
+  "count": 70,
   "articles": [
+    {
+      "id": "2026-08-19-lifestyle-hk-cyclothon-2026",
+      "published_at": "2026-08-19T15:08:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "lifestyle",
+        "cyclothon",
+        "sport",
+        "tourism",
+        "west-kowloon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-19/2026-08-19-lifestyle-hk-cyclothon-2026.json",
+      "en": {
+        "headline": "Hong Kong Cyclothon returns 11 October with new five-tunnel three-bridge route",
+        "dek": "Registration for the 56 km and 32 km public rides opens on 20 August; the event will again feature a UCI 1.1 road race and a family carnival at West Kowloon Cultural District."
+      },
+      "zh": {
+        "headline": "香港單車節10月11日舉行 推「五隧三橋」路線",
+        "dek": "56公里組及32公里組公眾騎行項目8月20日起接受網上報名，起點及終點設於西九文化區，並再次上演國際單車聯盟1.1級公路賽。"
+      }
+    },
+    {
+      "id": "2026-08-19-interpol-general-assembly-drill",
+      "published_at": "2026-08-19T15:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "interpol",
+        "security",
+        "counter-terrorism",
+        "convention"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-19/2026-08-19-interpol-general-assembly-drill.json",
+      "en": {
+        "headline": "Police lead 2,600-person drill for November Interpol General Assembly",
+        "dek": "The overnight exercise at the Convention and Exhibition Centre, Victoria Harbour and West Kowloon tested crowd management, transport coordination and response to a simulated terrorist attack."
+      },
+      "zh": {
+        "headline": "警聯同多部門演練 為11月底國際刑警大會作準備",
+        "dek": "逾2600人參與的跨部門演習於會展、維港及西九一帶進行，模擬人流管理、交通協調及恐襲應變，警務處處長周一鳴到場視察。"
+      }
+    },
+    {
+      "id": "2026-08-19-sham-shui-po-pei-ho-cable",
+      "published_at": "2026-08-19T15:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sham-shui-po",
+        "fire",
+        "electricity",
+        "clp",
+        "public-safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-19/2026-08-19-sham-shui-po-pei-ho-cable.json",
+      "en": {
+        "headline": "Underground cable sparks and smoke force response on Pei Ho Street",
+        "dek": "Firefighters attended reports of smoke and several loud bangs from manhole covers near vegetable stalls in Sham Shui Po on Wednesday morning; no one was injured and nearby shops temporarily lost power."
+      },
+      "zh": {
+        "headline": "深水埗北河街渠蓋冒煙傳爆炸聲 疑地底電纜肇事",
+        "dek": "周三早上約10時半，深水埗北河街菜檔附近渠蓋冒煙並傳出多次巨響，消防射水降溫，無人受傷，附近部分商舖一度停電。"
+      }
+    },
+    {
+      "id": "2026-08-19-customs-lo-wu-live-birds",
+      "published_at": "2026-08-19T15:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "lo-wu",
+        "smuggling",
+        "animals",
+        "afcd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-19/2026-08-19-customs-lo-wu-live-birds.json",
+      "en": {
+        "headline": "Customs seize 200 live birds worth HK$20,000 at Lo Wu, arrest two",
+        "dek": "A mainland woman and a local man were stopped at the arrival hall on Tuesday with bird cages in their luggage; the cases have been handed to the Agriculture, Fisheries and Conservation Department."
+      },
+      "zh": {
+        "headline": "海關羅湖檢200隻走私活雀鳥值2萬 兩男女被捕",
+        "dek": "海關人員周二在羅湖管制站入境大堂截查一名33歲內地女旅客及一名51歲本地男旅客，在行李內發現裝有雀鳥的鳥籠，兩人被捕，案件交漁護署跟進。"
+      }
+    },
     {
       "id": "2026-08-19-strong-monsoon-signal-midday",
       "published_at": "2026-08-19T13:07:00+08:00",
