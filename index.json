@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-08-20T09:06:58+08:00",
+  "generated_at": "2026-08-20T13:04:33+08:00",
   "live_window_hours": 72,
-  "count": 72,
+  "count": 71,
   "articles": [
+    {
+      "id": "2026-08-20-lifestyle-computer-communications-festival",
+      "published_at": "2026-08-20T13:07:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "technology",
+        "wan-chai",
+        "ai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-20/2026-08-20-lifestyle-computer-communications-festival.json",
+      "en": {
+        "headline": "Hong Kong Computer & Communications Festival opens Friday at HKCEC",
+        "dek": "The four-day technology fair runs 21–24 August under the theme ‘AI Connect: Let’s Link the Future’, with an AI and digital transformation zone and more than 20 free workshops."
+      },
+      "zh": {
+        "headline": "香港電腦通訊節周五會展開鑼 主題「AI Connect」",
+        "dek": "展覽8月21至24日於灣仔會展1號展覽廳舉行，設AI及數碼轉型專區，並有逾20場免費AI講座及工作坊。"
+      }
+    },
+    {
+      "id": "2026-08-20-yuen-long-dog-owner-court",
+      "published_at": "2026-08-20T13:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "afcd",
+        "animal",
+        "yuen-long",
+        "court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-20/2026-08-20-yuen-long-dog-owner-court.json",
+      "en": {
+        "headline": "Yuen Long large-dog owner charged over fatal attacks appears in court, granted bail",
+        "dek": "A 52-year-old man faces two counts of allowing a large dog to enter a public place without a secure leash; the case was adjourned to 29 October and he was released on HK$3,000 cash bail."
+      },
+      "zh": {
+        "headline": "元朗大狗咬斃兩犬案 狗主提堂准3千元保釋",
+        "dek": "52歲男狗主被控兩項容受大型狗隻在公眾地方未穩妥牽引罪，屯門裁判法院押後至10月29日再訊，被告准以3,000元現金保釋。"
+      }
+    },
+    {
+      "id": "2026-08-20-police-drone-drug-arrest",
+      "published_at": "2026-08-20T13:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "drugs",
+        "drone",
+        "traffic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-20/2026-08-20-police-drone-drug-arrest.json",
+      "en": {
+        "headline": "Police drone operation leads to drug arrest after minivan intercepted on Route 3",
+        "dek": "Officers from New Territories South stopped a seven-seater near Ching Lai Court after spotting unstable driving and an irregular number plate; cannabis and sildenafil tablets were found inside."
+      },
+      "zh": {
+        "headline": "警無人機執法截七人車 檢大麻及「偉哥」拘男司機",
+        "dek": "新界南交通特遣隊今早在三號幹線及龍翔道一帶用無人機執法，於清麗苑附近截停一輛行駛不穩及車牌不合規格的七人車，車內檢獲懷疑大麻及壯陽藥。"
+      }
+    },
     {
       "id": "2026-08-20-sheung-shui-rolex-robbery",
       "published_at": "2026-08-20T09:12:00+08:00",
@@ -1521,92 +1588,6 @@
       "zh": {
         "headline": "東涌校巴與私家車迎頭相撞 9人送院包括學童",
         "dek": "今早約8時51分匯東街近裕雅苑發生車禍，校巴上一名保母及8名未滿6歲學童送院檢驗，學童傷勢輕微。"
-      }
-    },
-    {
-      "id": "2026-08-17-chris-tang-huanggang-drills-update",
-      "published_at": "2026-08-17T11:06:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "huanggang-port",
-        "security-bureau",
-        "chris-tang"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-chris-tang-huanggang-drills-update.json",
-      "en": {
-        "headline": "Chris Tang says Huanggang Port drills smooth, more tests planned",
-        "dek": "The Security Bureau chief said the first two large-scale drills at the Hong Kong side of the redeveloped Huanggang Port went smoothly overall and that further improvements will focus on signage and the public…"
-      },
-      "zh": {
-        "headline": "鄧炳強：皇崗口岸兩次演練整體暢順 將改善指示及交匯處安排",
-        "dek": "保安局局長鄧炳強表示，新皇崗口岸港方口岸區首兩次大型演練整體暢順，會加強指示牌及改善公共交通交匯處排隊與車流管理。"
-      }
-    },
-    {
-      "id": "2026-08-17-thunderstorm-warning-morning",
-      "published_at": "2026-08-17T11:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "thunderstorm-warning",
-        "hko"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-thunderstorm-warning-morning.json",
-      "en": {
-        "headline": "Thunderstorm Warning issued for northern New Territories",
-        "dek": "The Hong Kong Observatory issued a Thunderstorm Warning at 10:35 am, valid until 12:30 pm, expecting localised thunderstorms over the northern New Territories."
-      },
-      "zh": {
-        "headline": "天文台發出雷暴警告 預料新界北部有局部雷暴",
-        "dek": "天文台上午10時35分發出雷暴警告，有效至下午12時30分，預料新界北部有局部地區雷暴。"
-      }
-    },
-    {
-      "id": "2026-08-17-construction-site-smoking-ban-one-month",
-      "published_at": "2026-08-17T09:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "labour",
-        "smoking",
-        "construction",
-        "safety",
-        "enforcement"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-construction-site-smoking-ban-one-month.json",
-      "en": {
-        "headline": "Construction-site smoking ban: 44 fixed penalties in first three weeks",
-        "dek": "The Labour Department also issued 12 improvement notices to contractors and is considering prosecutions in two cases after the ban took effect on 17 July."
-      },
-      "zh": {
-        "headline": "地盤全面禁煙滿月 首三周發44張定額罰款通知書",
-        "dek": "勞工處截至8月8日巡查1,721個地盤，另向承建商發12張敦促改善通知書，擬檢控兩宗個案。"
-      }
-    },
-    {
-      "id": "2026-08-17-central-kowloon-route-lgv-overturn",
-      "published_at": "2026-08-17T09:12:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "central-kowloon-route",
-        "kai-tak",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-central-kowloon-route-lgv-overturn.json",
-      "en": {
-        "headline": "Light goods vehicle overturns on Central Kowloon Route near Kai Tak",
-        "dek": "The driver was uninjured after the vehicle left the road around 6 a.m.; affected Yau Ma Tei-bound lanes at the Kai Tak interchange were temporarily closed and later reopened."
-      },
-      "zh": {
-        "headline": "中九龍繞道輕型貨車翻側 啟德交匯處一度全線封閉",
-        "dek": "今早約6時一輛輕型貨車在啟福道近啟德交匯處失控翻側，司機無恙；往油麻地方向支路一度全封，其後重開。"
       }
     }
   ]
