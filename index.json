@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-08-20T15:11:39+08:00",
+  "generated_at": "2026-08-20T21:15:33+08:00",
   "live_window_hours": 72,
-  "count": 70,
+  "count": 69,
   "articles": [
+    {
+      "id": "2026-08-20-yuen-long-child-scald-arrest",
+      "published_at": "2026-08-20T21:19:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "yuen-long",
+        "child",
+        "domestic-helper"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-20/2026-08-20-yuen-long-child-scald-arrest.json",
+      "en": {
+        "headline": "Domestic helper arrested after toddler suffers second-degree burns in Yuen Long",
+        "dek": "A 30-year-old Indonesian woman was detained on suspicion of ill-treating or neglecting a child in her care; the 23-month-old girl remains in hospital under observation."
+      },
+      "zh": {
+        "headline": "元朗女童手部二級燒傷 30歲印傭涉虐兒被捕",
+        "dek": "23個月大女童雙手燙傷送院觀察，印尼籍家庭傭工涉嫌對所看管兒童虐待或忽略，明日提堂。"
+      }
+    },
+    {
+      "id": "2026-08-20-haeco-calc-engine-mou",
+      "published_at": "2026-08-20T21:18:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "aviation",
+        "haeco",
+        "airport",
+        "transport",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-20/2026-08-20-haeco-calc-engine-mou.json",
+      "en": {
+        "headline": "HAECO and CALC sign MOU to develop aircraft engine maintenance centre in Hong Kong",
+        "dek": "The partnership will focus initially on quick-turn services, hospital repairs and engine asset management, according to the Transport and Logistics Bureau."
+      },
+      "zh": {
+        "headline": "港機工程與中國飛機租賃簽備忘錄 擬設引擎快修中心",
+        "dek": "合作初期聚焦快修、大修及引擎資產管理，運輸及物流局指有助鞏固航空樞紐地位。"
+      }
+    },
+    {
+      "id": "2026-08-20-cpi-july-2026",
+      "published_at": "2026-08-20T21:17:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "inflation",
+        "cpi",
+        "census-statistics",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-20/2026-08-20-cpi-july-2026.json",
+      "en": {
+        "headline": "July consumer prices rise 1.7% year on year as inflation stays moderate",
+        "dek": "The smaller increase from June mainly reflected a rates concession; underlying inflation held at 1.9% after stripping out one-off relief measures."
+      },
+      "zh": {
+        "headline": "7月綜合消費物價指數按年升1.7% 基本通脹維持1.9%",
+        "dek": "升幅較6月放緩主因差餉寬免，剔除政府一次性措施後基本通脹率與上月相同。"
+      }
+    },
+    {
+      "id": "2026-08-20-unemployment-may-july-2026",
+      "published_at": "2026-08-20T21:16:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "employment",
+        "census-statistics",
+        "labour",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-20/2026-08-20-unemployment-may-july-2026.json",
+      "en": {
+        "headline": "Unemployment rate holds steady at 3.7% for May–July period",
+        "dek": "The seasonally adjusted jobless rate remained unchanged while the underemployment rate edged up to 1.7%; total employment rose by about 1,500 people."
+      },
+      "zh": {
+        "headline": "5至7月失業率維持3.7% 就業不足率微升至1.7%",
+        "dek": "經季節性調整失業率與上期相同，總就業人數增加約1,500人，失業人數增加約6,000人。"
+      }
+    },
+    {
+      "id": "2026-08-20-thunderstorm-warning-evening",
+      "published_at": "2026-08-20T21:15:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "thunderstorm-warning",
+        "hko",
+        "showers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-20/2026-08-20-thunderstorm-warning-evening.json",
+      "en": {
+        "headline": "Thunderstorm Warning issued until 8:30 pm as isolated storms affect Hong Kong",
+        "dek": "The Hong Kong Observatory issued the warning at 7:05 p.m., expecting isolated thunderstorms over the territory before cancelling it later in the evening."
+      },
+      "zh": {
+        "headline": "天文台傍晚發出雷暴警告至晚上8時30分",
+        "dek": "天文台下午7時05分發出雷暴警告，預料香港有局部地區雷暴，有效時間至晚上8時30分。"
+      }
+    },
     {
       "id": "2026-08-20-customs-35m-money-laundering",
       "published_at": "2026-08-20T15:17:00+08:00",
@@ -1431,144 +1541,6 @@
       "zh": {
         "headline": "食環署人員着制服街上吸煙 署方確認展開紀律調查",
         "dek": "網上片段顯示兩名小販管理隊人員在後巷吸煙，食環署證實事件發生於6月初，強調着制服及在公眾地方吸煙一律禁止。"
-      }
-    },
-    {
-      "id": "2026-08-17-lifestyle-tai-kwun-chinese-culture-funfair",
-      "published_at": "2026-08-17T21:14:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "tai-kwun",
-        "exhibition",
-        "central",
-        "culture"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-lifestyle-tai-kwun-chinese-culture-funfair.json",
-      "en": {
-        "headline": "Chinese Culture Funfair at Tai Kwun ends Monday after four-day run",
-        "dek": "The free event on the Parade Ground showcased work by more than 240 ambassadors from the Jockey Club programme, with workshops and cultural experiences open until 3 p.m. today."
-      },
-      "zh": {
-        "headline": "大館中華文化嘉年華今日結束 一連四日免費開放",
-        "dek": "賽馬會中華文化大使計劃總結活動於大館操場舉行，展出逾240名大使成果，並設工作坊及傳統工藝體驗。"
-      }
-    },
-    {
-      "id": "2026-08-17-mpox-case-32-year-old",
-      "published_at": "2026-08-17T21:13:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "mpox",
-        "chp",
-        "public-health",
-        "vaccination"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-mpox-case-32-year-old.json",
-      "en": {
-        "headline": "CHP investigates new local Mpox case involving 32-year-old man",
-        "dek": "The patient is in stable condition at Princess Margaret Hospital after developing fever, muscle pain and a rash; he had high-risk contacts with male strangers in Hong Kong."
-      },
-      "zh": {
-        "headline": "衞生防護中心調查一宗本地猴痘個案 32歲男情況穩定",
-        "dek": "患者出現發燒、肌肉痛及皮疹後入住瑪嘉烈醫院隔離，潛伏期曾在港與陌生男子有高風險接觸。"
-      }
-    },
-    {
-      "id": "2026-08-17-hkex-ceo-bonnie-chan-reappointed",
-      "published_at": "2026-08-17T21:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hkex",
-        "financial-services",
-        "ceo",
-        "securities",
-        "regulation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-hkex-ceo-bonnie-chan-reappointed.json",
-      "en": {
-        "headline": "HKEX renews CEO Bonnie Chan’s contract for three more years",
-        "dek": "The board approved a new term running from March 2027 to February 2030; the Securities and Futures Commission has approved the reappointment."
-      },
-      "zh": {
-        "headline": "港交所行政總裁陳翊庭獲續任三年至2030年",
-        "dek": "董事會批准續約，任期由2027年3月1日至2030年2月28日，證監會已核准。"
-      }
-    },
-    {
-      "id": "2026-08-17-tourist-arrivals-july-2026",
-      "published_at": "2026-08-17T21:11:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "tourism",
-        "hktb",
-        "visitor-arrivals",
-        "economy",
-        "mice"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-tourist-arrivals-july-2026.json",
-      "en": {
-        "headline": "Hong Kong records 4.5 million visitor arrivals in July, up 3%",
-        "dek": "The Tourism Board said major MICE events supported growth while several days of wet weather moderated the rise in mainland arrivals; first-seven-month total reached 31.22 million."
-      },
-      "zh": {
-        "headline": "7月訪港旅客450萬人次 按年升3%",
-        "dek": "旅發局指大型會展活動帶動增長，惡劣天氣令內地客升幅放緩；首七個月累計3,122萬人次，升11%。"
-      }
-    },
-    {
-      "id": "2026-08-17-yoho-large-dog-kills-two",
-      "published_at": "2026-08-17T21:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "animal",
-        "yuen-long",
-        "police",
-        "afcd",
-        "public-safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-yoho-large-dog-kills-two.json",
-      "en": {
-        "headline": "Large dog kills two small dogs near YOHO Mall in Yuen Long",
-        "dek": "A roughly 60 kg dog without a leash or muzzle attacked a 17-year-old miniature poodle and a four-year-old bichon frise within about 20 minutes; police and AFCD are seeking the owner."
-      },
-      "zh": {
-        "headline": "元朗YOHO大狗連咬死兩小狗 警尋狗主",
-        "dek": "約60公斤大狗在約20分鐘內先後咬死17歲迷你貴婦狗及4歲比熊犬，當時無狗繩及口罩，漁護署已帶走涉事狗隻。"
-      }
-    },
-    {
-      "id": "2026-08-17-silicon-valley-invention-awards",
-      "published_at": "2026-08-17T15:12:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "invention",
-        "innovation",
-        "silicon-valley",
-        "technology",
-        "awards"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-silicon-valley-invention-awards.json",
-      "en": {
-        "headline": "Hong Kong inventors take Grand Prix and 35 medals at Silicon Valley festival",
-        "dek": "A solar-powered air-to-fertiliser system won the top prize; the Hong Kong delegation secured 22 gold and 13 silver medals at the event that ended on Sunday."
-      },
-      "zh": {
-        "headline": "港發明家矽谷發明節奪全場大獎及35獎",
-        "dek": "太陽能空氣製肥系統奪最高榮譽；香港代表團合共取得22金13銀，活動周日於加州聖塔克拉拉結束。"
       }
     }
   ]
