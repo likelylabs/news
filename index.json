@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-20T23:19:38+08:00",
+  "generated_at": "2026-08-21T04:54:28+08:00",
   "live_window_hours": 72,
-  "count": 67,
+  "count": 64,
   "articles": [
     {
       "id": "2026-08-20-cathay-almaty-flights",
@@ -1428,72 +1428,6 @@
       "zh": {
         "headline": "旺角女僕咖啡店負責人涉非禮14歲女員工被捕",
         "dek": "中三女生8月7日首日上班起多次被觸碰，上周五報警，35歲男負責人周六被捕，另檢獲兒童色情照片。"
-      }
-    },
-    {
-      "id": "2026-08-18-kai-tak-mall-july-sales",
-      "published_at": "2026-08-18T03:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "kai-tak",
-        "retail",
-        "sports-park",
-        "tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-kai-tak-mall-july-sales.json",
-      "en": {
-        "headline": "Kai Tak Mall July sales rise more than 20% from opening levels",
-        "dek": "The sports-park operator said continuous mega-events and progressive opening of leisure facilities lifted both footfall and spending at the retail halls."
-      },
-      "zh": {
-        "headline": "啟德零售館7月銷售額較開幕初期升逾兩成",
-        "dek": "體育園表示連場盛事及運動消閒設施陸續啟用帶動人流及生意，第二季日均人流較首季升逾一成。"
-      }
-    },
-    {
-      "id": "2026-08-18-mong-kok-illegal-workers-arrest",
-      "published_at": "2026-08-18T03:11:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "immigration",
-        "illegal-workers",
-        "mong-kok"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-mong-kok-illegal-workers-arrest.json",
-      "en": {
-        "headline": "Police and Immigration arrest 19 in Mong Kok anti-illegal worker operation",
-        "dek": "Seventeen women were detained for suspected breach of conditions of stay and two local men for allegedly employing people not lawfully employable during a joint raid on Monday."
-      },
-      "zh": {
-        "headline": "旺角反非法勞工行動拘19人 最細16歲",
-        "dek": "警聯同入境處周一展開代號「冠軍」行動，17名女子涉違反逗留條件，兩名本地男子涉聘用不可合法受僱人士。"
-      }
-    },
-    {
-      "id": "2026-08-18-harbour-chan-appeal-dismissed",
-      "published_at": "2026-08-18T03:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "court",
-        "fraud",
-        "mortgage"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-harbour-chan-appeal-dismissed.json",
-      "en": {
-        "headline": "Court of Appeal dismisses senior officer’s challenge to fraud conviction",
-        "dek": "Superintendent Harbour Chan Hoi-kong’s appeal against his 6½-year sentence for securing more than HK$26 million in mortgages by concealing his police rank is rejected in full."
-      },
-      "zh": {
-        "headline": "警司陳凱港按揭欺詐上訴全遭駁回",
-        "dek": "上訴庭駁回「海港Sir」陳凱港及同案商人就定罪及判刑的全部上訴，維持6年半監禁。"
       }
     }
   ]
