@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-08-20T13:04:33+08:00",
+  "generated_at": "2026-08-20T15:11:39+08:00",
   "live_window_hours": 72,
-  "count": 71,
+  "count": 70,
   "articles": [
+    {
+      "id": "2026-08-20-customs-35m-money-laundering",
+      "published_at": "2026-08-20T15:17:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "money-laundering",
+        "drugs",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-20/2026-08-20-customs-35m-money-laundering.json",
+      "en": {
+        "headline": "Customs arrest two over HK$35 million money-laundering linked to earlier drug case",
+        "dek": "Financial investigation of a 2025 narcotics seizure uncovered suspicious transfers of about HK$35 million through the personal bank accounts of two 33-year-old local men between January 2024 and August 2025."
+      },
+      "zh": {
+        "headline": "海關跟進毒品案拘兩男 涉清洗黑錢約3500萬元",
+        "dek": "根據2025年一宗毒品案財富調查，兩名33歲本地男子個人銀行戶口於2024年1月至2025年8月有大量可疑交易，涉款約3500萬元，昨被控處理犯罪得益。"
+      }
+    },
+    {
+      "id": "2026-08-20-police-youth-drug-stores",
+      "published_at": "2026-08-20T15:16:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "drugs",
+        "youth",
+        "kwai-chung",
+        "tsueng-wan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-20/2026-08-20-police-youth-drug-stores.json",
+      "en": {
+        "headline": "Police smash three drug stores in Kwai Chung and Tsuen Wan, arrest four including three…",
+        "dek": "Officers seized ketamine, crack cocaine and other drugs worth more than HK$1.4 million; a 19-year-old is alleged to have recruited the three minors for storage, packaging and delivery work during the summer holiday."
+      },
+      "zh": {
+        "headline": "警搗葵涌荃灣三毒品倉拘4人 包括3名未成年少年",
+        "dek": "檢獲氯胺酮、霹靂可卡因等市值逾140萬元毒品；19歲男子疑招攬3名16至17歲少年管倉、包裝及派送，每人報酬數百元，案件明日西九龍法院提堂。"
+      }
+    },
+    {
+      "id": "2026-08-20-td-ai-licence-smart-lights",
+      "published_at": "2026-08-20T15:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport-department",
+        "ai",
+        "traffic",
+        "causeway-bay",
+        "licence"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-20/2026-08-20-td-ai-licence-smart-lights.json",
+      "en": {
+        "headline": "Transport Department to use AI for faster licence renewals and smart traffic lights",
+        "dek": "Online vehicle licence renewals and cross-boundary permit applications are targeted for automated approval by year-end; a Causeway Bay junction will trial real-time pedestrian-priority signals from early 2027."
+      },
+      "zh": {
+        "headline": "運輸署推AI加快續牌及智慧燈號 銅鑼灣路口明年試行",
+        "dek": "年底起用大型語言模型自動審批網上續領車牌及跨境駕駛計劃申請，目標九成自動批核、最長審批時間由10個工作天縮至1天；銅鑼灣告士打道路口明年首季試行實時燈號，行人最長等候可減15至20秒。"
+      }
+    },
     {
       "id": "2026-08-20-lifestyle-computer-communications-festival",
       "published_at": "2026-08-20T13:07:00+08:00",
@@ -1501,93 +1569,6 @@
       "zh": {
         "headline": "港發明家矽谷發明節奪全場大獎及35獎",
         "dek": "太陽能空氣製肥系統奪最高榮譽；香港代表團合共取得22金13銀，活動周日於加州聖塔克拉拉結束。"
-      }
-    },
-    {
-      "id": "2026-08-17-tsing-kwai-highway-taxi-collision",
-      "published_at": "2026-08-17T15:11:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "tsing-kwai-highway",
-        "taxi",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-tsing-kwai-highway-taxi-collision.json",
-      "en": {
-        "headline": "Five injured after taxi and three cars collide on Tsing Kwai Highway",
-        "dek": "The four-vehicle pile-up near Lai King at 8:40 a.m. left four men and one woman with minor injuries; the Kowloon-bound fast lane was closed until 10:39 a.m."
-      },
-      "zh": {
-        "headline": "青葵公路的士與三車相撞 五人輕傷送院",
-        "dek": "今早約8時40分近荔景往九龍方向發生四車相撞，四男一女輕傷，快線一度封閉至上午10時39分。"
-      }
-    },
-    {
-      "id": "2026-08-17-thunderstorm-warning-extended-afternoon",
-      "published_at": "2026-08-17T15:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "thunderstorm-warning",
-        "hko",
-        "showers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-thunderstorm-warning-extended-afternoon.json",
-      "en": {
-        "headline": "Thunderstorm Warning extended until 4:30 pm as squally storms persist",
-        "dek": "The Hong Kong Observatory extended the warning first issued at 10:35 a.m., expecting a few more squally thunderstorms over the territory this afternoon."
-      },
-      "zh": {
-        "headline": "雷暴警告延長至下午4時30分 預料仍有狂風雷暴",
-        "dek": "天文台將今早10時35分發出的雷暴警告有效時間延長至今日下午4時30分，預料香港仍有幾陣狂風雷暴。"
-      }
-    },
-    {
-      "id": "2026-08-17-tai-po-container-truck-overturn",
-      "published_at": "2026-08-17T13:12:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "tai-po",
-        "container-truck",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-tai-po-container-truck-overturn.json",
-      "en": {
-        "headline": "Container truck overturns on Tai Po Wan Shing Road, driver briefly trapped",
-        "dek": "The vehicle left the road near Tai Fat Street around 11 a.m., crushing a central planter and spilling cargo across the carriageway; traffic was disrupted."
-      },
-      "zh": {
-        "headline": "大埔完善路貨櫃車翻側 司機一度被困",
-        "dek": "今早約11時一輛貨櫃車在完善路近大發街失控翻側，壓落路中花槽並橫越對面線，司機一度被困，貨物散落路面。"
-      }
-    },
-    {
-      "id": "2026-08-17-tung-chung-school-bus-collision",
-      "published_at": "2026-08-17T13:10:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "tung-chung",
-        "school-bus",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-tung-chung-school-bus-collision.json",
-      "en": {
-        "headline": "School bus and private car collide in Tung Chung, nine taken to hospital",
-        "dek": "A nanny and eight children under six were among those sent for checks after the head-on crash on Wui Tung Street near Yu Nga Court shortly before 9 a.m."
-      },
-      "zh": {
-        "headline": "東涌校巴與私家車迎頭相撞 9人送院包括學童",
-        "dek": "今早約8時51分匯東街近裕雅苑發生車禍，校巴上一名保母及8名未滿6歲學童送院檢驗，學童傷勢輕微。"
       }
     }
   ]
