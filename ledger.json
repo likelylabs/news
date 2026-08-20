@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T09:06:58+08:00",
+  "updated_at": "2026-08-20T13:07:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -319,6 +319,24 @@
       "id": "2026-08-20-sheung-shui-rolex-robbery",
       "first_seen": "2026-08-20T09:12:00+08:00",
       "headline_en": "Man attacked and robbed of HK$300,000 Rolex in Sheung Shui"
+    },
+    {
+      "key": "police-drone-drug-arrest-aug20",
+      "id": "2026-08-20-police-drone-drug-arrest",
+      "first_seen": "2026-08-20T13:05:00+08:00",
+      "headline_en": "Police drone operation leads to drug arrest after minivan intercepted on Route 3"
+    },
+    {
+      "key": "yuen-long-dog-owner-court-aug20",
+      "id": "2026-08-20-yuen-long-dog-owner-court",
+      "first_seen": "2026-08-20T13:06:00+08:00",
+      "headline_en": "Yuen Long large-dog owner charged over fatal attacks appears in court, granted bail"
+    },
+    {
+      "key": "lifestyle-computer-communications-festival-2026",
+      "id": "2026-08-20-lifestyle-computer-communications-festival",
+      "first_seen": "2026-08-20T13:07:00+08:00",
+      "headline_en": "Hong Kong Computer & Communications Festival opens Friday at HKCEC"
     }
   ]
 }
