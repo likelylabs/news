@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T07:10:59+08:00",
+  "updated_at": "2026-08-20T09:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -301,6 +301,24 @@
       "id": "2026-08-20-kwai-chung-hospital-child-psych",
       "first_seen": "2026-08-20T07:11:00+08:00",
       "headline_en": "Kwai Chung Hospital opens city’s first dedicated psychiatric block for under-18s"
+    },
+    {
+      "key": "thunderstorm-warning-aug20-morning",
+      "id": "2026-08-20-thunderstorm-warning-morning",
+      "first_seen": "2026-08-20T09:10:00+08:00",
+      "headline_en": "Thunderstorm Warning issued until 10:30 am as squally storms approach"
+    },
+    {
+      "key": "mong-kok-one-piece-card-shop-scam-aug18",
+      "id": "2026-08-20-mong-kok-card-shop-scam",
+      "first_seen": "2026-08-20T09:11:00+08:00",
+      "headline_en": "Three arrested over Mong Kok One Piece card shop scam involving HK$1.47 m"
+    },
+    {
+      "key": "sheung-shui-rolex-robbery-aug19",
+      "id": "2026-08-20-sheung-shui-rolex-robbery",
+      "first_seen": "2026-08-20T09:12:00+08:00",
+      "headline_en": "Man attacked and robbed of HK$300,000 Rolex in Sheung Shui"
     }
   ]
 }

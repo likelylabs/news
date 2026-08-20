@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-20-thunderstorm-warning-morning",
+  "published_at": "2026-08-20T09:10:00+08:00",
+  "category": "weather",
+  "tags": ["thunderstorm-warning", "hko", "showers"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "thunderstorm-warning-aug20-morning",
+  "en": {
+    "headline": "Thunderstorm Warning issued until 10:30 am as squally storms approach",
+    "dek": "The Hong Kong Observatory issued the warning at 8:40 a.m., expecting isolated squally thunderstorms over the territory after areas of intense showers edged closer from the south and east.",
+    "body": [
+      "The Hong Kong Observatory issued a Thunderstorm Warning at 8:40 a.m. on Thursday. It remains effective until 10:30 a.m. Isolated squally thunderstorms are expected to occur over Hong Kong.",
+      "Earlier special weather tips noted that areas of intense showers over the seas south and east of Hong Kong were gradually approaching and were expected to affect the territory within a couple of hours. At 8 a.m. the Observatory recorded 28 degrees Celsius with relative humidity at 88 per cent.",
+      "The public is advised to seek safe shelter if outdoors, leave the water and avoid outdoor water sports, and keep away from high ground and highly conductive objects when thunderstorms occur. The Strong Monsoon Signal had been cancelled earlier in the morning."
+    ]
+  },
+  "zh": {
+    "headline": "天文台發出雷暴警告至上午10時30分",
+    "dek": "天文台上午8時40分發出雷暴警告，預料香港有局部地區出現狂風雷暴，早前特別天氣提示指南部及東部海域強雨區正逐漸靠近。",
+    "body": [
+      "香港天文台於周四上午8時40分發出雷暴警告，有效至上午10時30分。預料香港有局部地區出現狂風雷暴。",
+      "早前特別天氣提示指出，位於本港以南及以東海面的強雨區正逐漸靠近，預計未來兩三小時影響本港。上午8時天文台錄得氣溫28度，相對濕度百分之88。",
+      "市民如身處戶外應盡快尋找安全庇護處，離開水面，避免進行水上活動，並遠離高地及導電物體。強烈季候風信號已於較早前取消。"
+    ]
+  }
+}
