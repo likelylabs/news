@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-20-td-ai-licence-smart-lights",
+  "published_at": "2026-08-20T15:15:00+08:00",
+  "category": "transport",
+  "tags": ["transport-department", "ai", "traffic", "causeway-bay", "licence"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "td-ai-licence-smart-lights-aug20",
+  "en": {
+    "headline": "Transport Department to use AI for faster licence renewals and smart traffic lights",
+    "dek": "Online vehicle licence renewals and cross-boundary permit applications are targeted for automated approval by year-end; a Causeway Bay junction will trial real-time pedestrian-priority signals from early 2027.",
+    "body": [
+      "The Transport Department said on Thursday it would roll out artificial-intelligence tools to speed up licence services and improve traffic-signal management under the coordination of the government’s AI Efficacy Enhancement Team.",
+      "A new ‘licence application approval’ project scheduled for the end of 2026 will use large-language-model technology to automatically identify, compare and verify supporting documents for online vehicle licence renewals and the “Hong Kong cars going north” and “Guangdong cars coming south” schemes. The department aims to raise the share of automated online renewals to more than 90 per cent and cut the longest processing time from 10 working days to one day.",
+      "Separately, the department will introduce a real-time traffic-signal adjustment system at the junction of Gloucester Road and Great George Street near Victoria Park in Causeway Bay in the first quarter of 2027. Sensors will detect vehicle and pedestrian volumes and allocate more green time to pedestrians, with the longest waiting time expected to fall by 15 to 20 seconds.",
+      "The department has already applied optical character recognition to some licence checks and introduced AI measures against robotic booking of driving-licence counters, reducing maximum queue times from about two hours to under 45 minutes. It is also expanding real-time signal systems to about 50 suitable junctions across the city."
+    ]
+  },
+  "zh": {
+    "headline": "運輸署推AI加快續牌及智慧燈號 銅鑼灣路口明年試行",
+    "dek": "年底起用大型語言模型自動審批網上續領車牌及跨境駕駛計劃申請，目標九成自動批核、最長審批時間由10個工作天縮至1天；銅鑼灣告士打道路口明年首季試行實時燈號，行人最長等候可減15至20秒。",
+    "body": [
+      "運輸署今日表示，在人工智能效能提升組統籌下，將陸續推出多項AI項目，提升牌照服務效率及推動智慧出行。",
+      "署方籌備於今年底推出「牌照申請審批易」項目，利用大型語言模型技術，為網上續領車輛牌照以及「港車北上」、「粵車南下」申請自動辨識、比對及核實文件。目標是將網上續領車牌自動審批比例提升至超過九成，審批時間由最長10個工作天縮短至1個工作天。",
+      "另外，署方將於明年首季在銅鑼灣告士打道與記利佐治街交界近維多利亞公園的路口推行「智慧燈號路暢通」項目。感應器會探測實時車流及人流，以AI運算合適燈號時間，動態分配更多綠燈便利行人，預計最長等候時間可減少15至20秒。",
+      "署方已於免試簽發正式駕駛執照櫃位預約系統引入AI攔截機械人程式，成功申請人輪候時間由最長約兩小時減至45分鐘內，並正逐步將實時交通燈號調節系統推展至全港約50個合適路口。"
+    ]
+  }
+}
