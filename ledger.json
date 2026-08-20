@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T21:15:33+08:00",
+  "updated_at": "2026-08-20T23:19:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -385,6 +385,24 @@
       "id": "2026-08-20-yuen-long-child-scald-arrest",
       "first_seen": "2026-08-20T21:19:00+08:00",
       "headline_en": "Domestic helper arrested after toddler suffers second-degree burns in Yuen Long"
+    },
+    {
+      "key": "ta-kwu-ling-woman-dog-attack-death-aug20",
+      "id": "2026-08-20-ta-kwu-ling-woman-death",
+      "first_seen": "2026-08-20T23:17:00+08:00",
+      "headline_en": "Woman found dead in Ta Kwu Ling with suspected animal bite marks"
+    },
+    {
+      "key": "customs-lok-ma-chau-live-cats-aug20",
+      "id": "2026-08-20-customs-lok-ma-chau-cats",
+      "first_seen": "2026-08-20T23:18:00+08:00",
+      "headline_en": "Customs seize three live cats at Lok Ma Chau Spur Line, arrest woman"
+    },
+    {
+      "key": "cathay-almaty-flights-2027",
+      "id": "2026-08-20-cathay-almaty-flights",
+      "first_seen": "2026-08-20T23:19:00+08:00",
+      "headline_en": "Cathay Pacific to launch direct flights to Almaty from January 2027"
     }
   ]
 }
