@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-08-20T21:15:33+08:00",
+  "generated_at": "2026-08-20T23:19:38+08:00",
   "live_window_hours": 72,
-  "count": 69,
+  "count": 67,
   "articles": [
+    {
+      "id": "2026-08-20-cathay-almaty-flights",
+      "published_at": "2026-08-20T23:19:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "aviation",
+        "cathay-pacific",
+        "airport",
+        "transport",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-20/2026-08-20-cathay-almaty-flights.json",
+      "en": {
+        "headline": "Cathay Pacific to launch direct flights to Almaty from January 2027",
+        "dek": "The three-times-weekly service will be the airline’s first Central Asian destination and the only non-stop link between Hong Kong and Kazakhstan, subject to regulatory approval."
+      },
+      "zh": {
+        "headline": "國泰明年1月開通阿拉木圖直航 成中亞首個航點",
+        "dek": "每周三班服務將成為國泰首個中亞目的地，亦是香港與哈薩克之間唯一直航客運航線，尚待當局批准。"
+      }
+    },
+    {
+      "id": "2026-08-20-customs-lok-ma-chau-cats",
+      "published_at": "2026-08-20T23:18:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "smuggling",
+        "animals",
+        "lok-ma-chau",
+        "afcd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-20/2026-08-20-customs-lok-ma-chau-cats.json",
+      "en": {
+        "headline": "Customs seize three live cats at Lok Ma Chau Spur Line, arrest woman",
+        "dek": "A 68-year-old mainland passenger was intercepted in the arrival hall with the animals in her luggage; the cats are valued at about HK$36,000 and the case has been referred to the AFCD."
+      },
+      "zh": {
+        "headline": "海關落馬洲支線檢3隻懷疑非法進口活貓 拘68歲女",
+        "dek": "關員在入境大堂截查一名抵港內地女旅客，於行李內發現3隻活貓，估計市值約3.6萬元，案件交漁護署跟進。"
+      }
+    },
+    {
+      "id": "2026-08-20-ta-kwu-ling-woman-death",
+      "published_at": "2026-08-20T23:17:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "ta-kwu-ling",
+        "animal",
+        "death"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-20/2026-08-20-ta-kwu-ling-woman-death.json",
+      "en": {
+        "headline": "Woman found dead in Ta Kwu Ling with suspected animal bite marks",
+        "dek": "Police are investigating after a 33-year-old woman was discovered collapsed outside a village house near a dog training centre and boarding facility on Thursday afternoon."
+      },
+      "zh": {
+        "headline": "打鼓嶺女子伏屍村屋外 身上疑有動物咬噬痕跡",
+        "dek": "一名33歲女子周四下午在坪洋新村坪原路一村屋外被發現倒臥，當場證實死亡，屍體有懷疑動物咬噬痕跡，警方正調查。"
+      }
+    },
     {
       "id": "2026-08-20-yuen-long-child-scald-arrest",
       "published_at": "2026-08-20T21:19:00+08:00",
@@ -1426,121 +1494,6 @@
       "zh": {
         "headline": "警司陳凱港按揭欺詐上訴全遭駁回",
         "dek": "上訴庭駁回「海港Sir」陳凱港及同案商人就定罪及判刑的全部上訴，維持6年半監禁。"
-      }
-    },
-    {
-      "id": "2026-08-17-lifestyle-exotic-pets-world-hopewell",
-      "published_at": "2026-08-17T23:14:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "wan-chai",
-        "animals",
-        "family"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-lifestyle-exotic-pets-world-hopewell.json",
-      "en": {
-        "headline": "Exotic Pets World at Hopewell Mall enters final day on Tuesday",
-        "dek": "The free pop-up in Wan Chai has showcased more than 15 rare species including axolotls, an Aldabra giant tortoise and a critically endangered iguana since late July."
-      },
-      "zh": {
-        "headline": "合和商場另類寵物世界明日結束 展出逾15種異寵",
-        "dek": "灣仔合和商場三樓中庭的免費展覽自7月25日起展出極危小安德烈斯島鬣蜥、阿爾達布拉巨龜及美西螈等物種。"
-      }
-    },
-    {
-      "id": "2026-08-17-icable-ctf-name-change",
-      "published_at": "2026-08-17T23:13:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "icable",
-        "media",
-        "chow-tai-fook",
-        "corporate",
-        "listing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-icable-ctf-name-change.json",
-      "en": {
-        "headline": "i-CABLE shareholders approve rename to CTF Media & Entertainment",
-        "dek": "All voting shareholders backed the change of company name to reflect closer ties with the Chow Tai Fook group; the new identity will not alter consumer brands such as HOY and i-Cable News."
-      },
-      "zh": {
-        "headline": "有線寬頻股東全數通過改名周大福媒體娛樂",
-        "dek": "公司表示新名稱更能反映與周大福集團的協同效應，面向觀眾的HOY及有線新聞等品牌將維持不變。"
-      }
-    },
-    {
-      "id": "2026-08-17-ai-efficacy-30-projects",
-      "published_at": "2026-08-17T23:12:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "ai",
-        "government",
-        "digital-policy",
-        "public-services",
-        "efficiency"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-ai-efficacy-30-projects.json",
-      "en": {
-        "headline": "Government rolls out first 30 AI projects to speed up public services",
-        "dek": "The AI Efficacy Enhancement Team said the initiatives across 13 departments include licensing, leisure bookings and complaint handling, with some approval times cut by up to 90 per cent."
-      },
-      "zh": {
-        "headline": "AI效能提升組首批30項目落地 部分審批時間縮減九成",
-        "dek": "涉及13個部門的項目涵蓋運輸牌照、康體設施、食物業牌照及投訴處理等，部分透過人工智能將審批或輪候時間大幅縮短。"
-      }
-    },
-    {
-      "id": "2026-08-17-pwh-cancer-drugs-fridge",
-      "published_at": "2026-08-17T23:11:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "hospital",
-        "prince-of-wales",
-        "cancer",
-        "medication",
-        "ha"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-pwh-cancer-drugs-fridge.json",
-      "en": {
-        "headline": "Prince of Wales Hospital investigates cancer drugs left out of fridge for 20 hours",
-        "dek": "A support staff member and a dispenser at the Sir Yue-kong Pao Centre for Cancer failed to refrigerate a batch of drugs worth about HK$400,000 on 4 August; the manufacturer later confirmed stability was unaffected."
-      },
-      "zh": {
-        "headline": "威院癌症藥漏放雪櫃20小時 院方指溝通誤會將紀律處分",
-        "dek": "沙田威爾斯親王醫院包玉剛爵士癌症中心一批約值40萬元癌症藥物因支援員工與配藥員溝通誤會未及時入雪櫃，生產商確認穩定性未受影響。"
-      }
-    },
-    {
-      "id": "2026-08-17-fehd-uniform-smoking-investigation",
-      "published_at": "2026-08-17T23:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fehd",
-        "smoking",
-        "discipline",
-        "public-service",
-        "hawker-control"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-17/2026-08-17-fehd-uniform-smoking-investigation.json",
-      "en": {
-        "headline": "FEHD opens disciplinary probe after officers filmed smoking in uniform",
-        "dek": "A viral video showed two men from a district hawker control task force lighting cigarettes in a back alley; the department said the incident dated to early June and that smoking in uniform is strictly banned."
-      },
-      "zh": {
-        "headline": "食環署人員着制服街上吸煙 署方確認展開紀律調查",
-        "dek": "網上片段顯示兩名小販管理隊人員在後巷吸煙，食環署證實事件發生於6月初，強調着制服及在公眾地方吸煙一律禁止。"
       }
     }
   ]
