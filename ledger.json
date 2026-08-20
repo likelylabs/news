@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T15:11:39+08:00",
+  "updated_at": "2026-08-20T21:20:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -355,6 +355,36 @@
       "id": "2026-08-20-customs-35m-money-laundering",
       "first_seen": "2026-08-20T15:17:00+08:00",
       "headline_en": "Customs arrest two over HK$35 million money-laundering linked to earlier drug case"
+    },
+    {
+      "key": "thunderstorm-warning-aug20-evening",
+      "id": "2026-08-20-thunderstorm-warning-evening",
+      "first_seen": "2026-08-20T21:15:00+08:00",
+      "headline_en": "Thunderstorm Warning issued until 8:30 pm as isolated storms affect Hong Kong"
+    },
+    {
+      "key": "unemployment-rate-may-july-2026",
+      "id": "2026-08-20-unemployment-may-july-2026",
+      "first_seen": "2026-08-20T21:16:00+08:00",
+      "headline_en": "Unemployment rate holds steady at 3.7% for May–July period"
+    },
+    {
+      "key": "cpi-july-2026",
+      "id": "2026-08-20-cpi-july-2026",
+      "first_seen": "2026-08-20T21:17:00+08:00",
+      "headline_en": "July consumer prices rise 1.7% year on year as inflation stays moderate"
+    },
+    {
+      "key": "haeco-calc-engine-maintenance-mou",
+      "id": "2026-08-20-haeco-calc-engine-mou",
+      "first_seen": "2026-08-20T21:18:00+08:00",
+      "headline_en": "HAECO and CALC sign MOU to develop aircraft engine maintenance centre in Hong Kong"
+    },
+    {
+      "key": "yuen-long-toddler-scald-arrest-aug19",
+      "id": "2026-08-20-yuen-long-child-scald-arrest",
+      "first_seen": "2026-08-20T21:19:00+08:00",
+      "headline_en": "Domestic helper arrested after toddler suffers second-degree burns in Yuen Long"
     }
   ]
 }

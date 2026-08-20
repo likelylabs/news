@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-20-thunderstorm-warning-evening",
+  "published_at": "2026-08-20T21:15:00+08:00",
+  "category": "weather",
+  "tags": ["thunderstorm-warning", "hko", "showers"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "thunderstorm-warning-aug20-evening",
+  "en": {
+    "headline": "Thunderstorm Warning issued until 8:30 pm as isolated storms affect Hong Kong",
+    "dek": "The Hong Kong Observatory issued the warning at 7:05 p.m., expecting isolated thunderstorms over the territory before cancelling it later in the evening.",
+    "body": [
+      "The Hong Kong Observatory issued a Thunderstorm Warning at 7:05 p.m. on Thursday, valid until 8:30 p.m., saying isolated thunderstorms were expected over Hong Kong.",
+      "The Observatory advised the public to seek safe shelter if outdoors, leave the water and avoid outdoor water sports, and stay away from high ground and conductive objects such as trees or masts.",
+      "Earlier in the day the Observatory had issued a morning Thunderstorm Warning that was later cancelled. A low-pressure area near Hainan continued to be monitored while local conditions remained cloudy with occasional showers."
+    ]
+  },
+  "zh": {
+    "headline": "天文台傍晚發出雷暴警告至晚上8時30分",
+    "dek": "天文台下午7時05分發出雷暴警告，預料香港有局部地區雷暴，有效時間至晚上8時30分。",
+    "body": [
+      "香港天文台周四下午7時05分發出雷暴警告，有效時間至晚上8時30分，預料香港有局部地區雷暴。",
+      "天文台呼籲市民如身處室外請到安全地方躲避，離開水面，切勿進行戶外水上活動，亦勿站立於高地或接近導電物體、樹木或桅杆。",
+      "天文台早前亦曾於上午發出雷暴警告其後取消。位於海南島附近的低壓區仍受監察，本港天氣大致多雲，間中有驟雨。"
+    ]
+  }
+}
