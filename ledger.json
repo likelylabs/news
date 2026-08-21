@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-08-21T21:05:11+08:00",
+  "updated_at": "2026-08-22T01:12:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "po-pin-chau-reservation-trial",
+      "id": "2026-08-22-po-pin-chau-reservation-trial",
+      "first_seen": "2026-08-22T01:10:00+08:00",
+      "headline_en": "AFCD to trial real-name booking for Po Pin Chau trail from September"
+    },
+    {
+      "key": "lifestyle-sportfest-hk-2026",
+      "id": "2026-08-22-lifestyle-sportfest-hk-2026",
+      "first_seen": "2026-08-22T01:12:00+08:00",
+      "headline_en": "Sportfest Hong Kong continues at HKCEC with pickleball and new sports trials"
+    },
     {
       "key": "icac-hku-it-education-bribery",
       "id": "2026-08-21-icac-hku-it-bribery",
