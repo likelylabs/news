@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-08-21T11:29:52+08:00",
+  "updated_at": "2026-08-21T13:24:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "weekend-weather-outlook-aug22-23",
+      "id": "2026-08-21-weekend-weather-outlook",
+      "first_seen": "2026-08-21T13:24:00+08:00",
+      "headline_en": "Weekend outlook: cloudy with showers and isolated thunderstorms"
+    },
     {
       "key": "hong-kong-alliance-inciting-subversion-verdict",
       "id": "2026-08-21-hong-kong-alliance-subversion-verdict",
