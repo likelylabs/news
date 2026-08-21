@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-21T15:02:22+08:00",
+  "updated_at": "2026-08-21T21:07:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "icac-hku-it-education-bribery",
+      "id": "2026-08-21-icac-hku-it-bribery",
+      "first_seen": "2026-08-21T21:05:00+08:00",
+      "headline_en": "ICAC charges HKU associate professor and three others over HK$2.2 m IT education bribes"
+    },
+    {
+      "key": "cuhk-robot-assisted-pelvic-fracture-surgery",
+      "id": "2026-08-21-cuhk-robot-pelvic-surgery",
+      "first_seen": "2026-08-21T21:06:00+08:00",
+      "headline_en": "CUHK team completes Hong Kong’s first robot-assisted pelvic fracture surgeries"
+    },
+    {
+      "key": "tse-chin-wan-fighting-dogs-review",
+      "id": "2026-08-21-fighting-dogs-review",
+      "first_seen": "2026-08-21T21:07:00+08:00",
+      "headline_en": "Government to review fighting-dog definition after fatal attacks"
+    },
     {
       "key": "cuhk-ip-training-scientists",
       "id": "2026-08-21-cuhk-ip-training-scientists",
