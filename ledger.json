@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-08-22T01:07:41+08:00",
+  "updated_at": "2026-08-22T03:15:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "mtr-senior-manager-green-bond-scam",
+      "id": "2026-08-22-mtr-senior-manager-green-bond-scam",
+      "first_seen": "2026-08-22T03:10:00+08:00",
+      "headline_en": "MTR senior manager loses HK$74 m in alleged green-bond scam"
+    },
+    {
+      "key": "lifestyle-harry-potter-mahou-dokoro-popup",
+      "id": "2026-08-22-lifestyle-harry-potter-mahou-dokoro-popup",
+      "first_seen": "2026-08-22T03:12:00+08:00",
+      "headline_en": "Harry Potter Mahou Dokoro pop-up at Hysan Place closes on 25 August"
+    },
     {
       "key": "po-pin-chau-reservation-trial",
       "id": "2026-08-22-po-pin-chau-reservation-trial",
