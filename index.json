@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-21T08:09:13+08:00",
+  "generated_at": "2026-08-21T11:20:13+08:00",
   "live_window_hours": 72,
-  "count": 64,
+  "count": 60,
   "articles": [
+    {
+      "id": "2026-08-21-hong-kong-alliance-subversion-verdict",
+      "published_at": "2026-08-21T11:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "national-security",
+        "court",
+        "hong-kong-alliance",
+        "lee-cheuk-yan",
+        "chow-hang-tung"
+      ],
+      "breaking": true,
+      "path": "articles/2026-08-21/2026-08-21-hong-kong-alliance-subversion-verdict.json",
+      "en": {
+        "headline": "Hong Kong Alliance and two former leaders found guilty of inciting subversion",
+        "dek": "A High Court panel sitting at West Kowloon Magistrates’ Courts convicted the disbanded group, Lee Cheuk-yan and Chow Hang-tung; Albert Ho earlier pleaded guilty and all face sentencing later."
+      },
+      "zh": {
+        "headline": "支聯會及兩名前領導被裁定煽動顛覆國家政權罪成",
+        "dek": "高等法院三名國安法指定法官裁定已解散的支聯會、前主席李卓人及前副主席鄒幸彤罪名成立；何俊仁早前認罪，各人稍後判刑。"
+      }
+    },
     {
       "id": "2026-08-21-lifestyle-after-taste-exhibition",
       "published_at": "2026-08-21T08:06:00+08:00",
@@ -1315,118 +1338,6 @@
       "zh": {
         "headline": "筲箕灣明華大廈郵差墮樓送院不治",
         "dek": "57歲香港郵政員工今早約8時半被發現倒臥明華大廈外昏迷，送東區醫院後證實不治，死因有待調查。"
-      }
-    },
-    {
-      "id": "2026-08-18-food-expo-record-attendance",
-      "published_at": "2026-08-18T11:06:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hktdc",
-        "food-expo",
-        "exhibition",
-        "retail",
-        "tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-food-expo-record-attendance.json",
-      "en": {
-        "headline": "Food Expo and concurrent shows draw record 520,000 visitors",
-        "dek": "The five HKTDC events that closed on Monday attracted more than 520,000 public visitors and average spending of HK$1,685, both all-time highs."
-      },
-      "zh": {
-        "headline": "美食博覽及同期展覽入場逾52萬人次創紀錄",
-        "dek": "貿發局五項展覽周一結束，公眾入場人次逾52萬、人均消費1,685元，均創歷屆新高，反映本地消費保持活力。"
-      }
-    },
-    {
-      "id": "2026-08-18-tuen-mun-castle-peak-minibus-collision",
-      "published_at": "2026-08-18T11:05:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "tuen-mun",
-        "minibus",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-tuen-mun-castle-peak-minibus-collision.json",
-      "en": {
-        "headline": "Eleven injured after private car and green minibus collide in Tuen Mun",
-        "dek": "The crash on Castle Peak Road near Tun Fu Road late on Monday left both drivers and nine passengers with minor injuries; a section of the road was temporarily closed."
-      },
-      "zh": {
-        "headline": "屯門青山公路私家車與專線小巴相撞 11人輕傷",
-        "dek": "周一晚近10時青山公路嶺南段近屯富路兩車相撞，兩名司機及九名乘客受傷，全部清醒送屯門醫院，一段道路一度全封。"
-      }
-    },
-    {
-      "id": "2026-08-18-hongkong-post-contract-staff",
-      "published_at": "2026-08-18T09:17:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "hongkong-post",
-        "employment",
-        "civil-service",
-        "labour"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-hongkong-post-contract-staff.json",
-      "en": {
-        "headline": "Hongkong Post to offer two-year contracts instead of permanent terms",
-        "dek": "About 200 postal officers and postmen completing probation in September will be retained on civil-service contract terms amid declining mail volumes."
-      },
-      "zh": {
-        "headline": "香港郵政約200名試用期員工改兩年合約續聘",
-        "dek": "因應郵件量持續下降，郵政署表示現時沒有條件向9月完成試用期的郵務員及郵差發出長期聘用條款，改以公務員合約續聘兩年。"
-      }
-    },
-    {
-      "id": "2026-08-18-merchant-attempted-murder-sentence",
-      "published_at": "2026-08-18T09:16:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "crime",
-        "tuen-mun",
-        "attempted-murder"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-merchant-attempted-murder-sentence.json",
-      "en": {
-        "headline": "Merchant jailed 5 years 4 months for attempted murder of wife and daughters",
-        "dek": "A High Court judge described the Tuen Mun charcoal-burning case as tragic, noting the defendant’s depression and that he later extinguished the fire himself."
-      },
-      "zh": {
-        "headline": "商人企圖謀殺妻女判囚5年4個月 法官指本案屬悲劇",
-        "dek": "45歲商人承認四項企圖謀殺罪，高等法院法官指被告受抑鬱影響，後來自行熄滅炭火，並無對家人造成長遠身心傷害。"
-      }
-    },
-    {
-      "id": "2026-08-18-huanggang-dedicated-lanes",
-      "published_at": "2026-08-18T09:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "huanggang-port",
-        "transport",
-        "public-transport",
-        "border",
-        "fanling"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-huanggang-dedicated-lanes.json",
-      "en": {
-        "headline": "Dedicated public transport lanes open for new Huanggang Port",
-        "dek": "The Transport Department has set up lanes on Fanling Highway and San Tin Highway so franchised buses, cross-boundary coaches and minibuses can reach San Sham Road without using the busy San Tin Interchange."
-      },
-      "zh": {
-        "headline": "新皇崗口岸公共運輸專用車道啟用 免經新田交匯處",
-        "dek": "運輸署已在粉嶺公路及新田公路增設專用車道，讓專營巴士、跨境巴士及專線小巴直達新深路前往新口岸，無需駛經較繁忙的新田交匯處。"
       }
     }
   ]
