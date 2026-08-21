@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-08-21T15:02:22+08:00",
+  "generated_at": "2026-08-21T21:05:11+08:00",
   "live_window_hours": 72,
-  "count": 63,
+  "count": 62,
   "articles": [
+    {
+      "id": "2026-08-21-fighting-dogs-review",
+      "published_at": "2026-08-21T21:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "afcd",
+        "animal",
+        "government",
+        "public-safety",
+        "legislation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-21/2026-08-21-fighting-dogs-review.json",
+      "en": {
+        "headline": "Government to review fighting-dog definition after fatal attacks",
+        "dek": "Secretary for Environment and Ecology Tse Chin-wan said the list of controlled breeds and related controls will be examined, with proposals aimed at LegCo within the year."
+      },
+      "zh": {
+        "headline": "謝展寰：檢討格鬥狗隻定義及名單 加強大型狗管理",
+        "dek": "環境及生態局長指兩宗近期狗咬事件後將全面審視管控措施，爭取年內向立法會提交建議。"
+      }
+    },
+    {
+      "id": "2026-08-21-cuhk-robot-pelvic-surgery",
+      "published_at": "2026-08-21T21:06:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "cuhk",
+        "hospital",
+        "surgery",
+        "robotics",
+        "public-health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-21/2026-08-21-cuhk-robot-pelvic-surgery.json",
+      "en": {
+        "headline": "CUHK team completes Hong Kong’s first robot-assisted pelvic fracture surgeries",
+        "dek": "Three elderly patients treated since June with a new orthopaedic robotic system that reduced blood loss to 10–20 ml and shortened incisions to under 2 cm."
+      },
+      "zh": {
+        "headline": "中大完成全港首例機械人輔助盆骨骨折微創手術",
+        "dek": "自6月起已為三名長者完成手術，術中失血僅10至20毫升，傷口縮至不足2厘米。"
+      }
+    },
+    {
+      "id": "2026-08-21-icac-hku-it-bribery",
+      "published_at": "2026-08-21T21:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "icac",
+        "hku",
+        "bribery",
+        "education",
+        "court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-21/2026-08-21-icac-hku-it-bribery.json",
+      "en": {
+        "headline": "ICAC charges HKU associate professor and three others over HK$2.2 m IT education bribes",
+        "dek": "Gary Wong Ka-wai is accused of accepting cash rewards for awarding more than HK$10 million in purchase orders; the case is due for mention on Monday."
+      },
+      "zh": {
+        "headline": "廉署起訴港大副教授等四人 涉收賄220萬批出千萬IT教育項目",
+        "dek": "黃家偉被指收受現金賄款後批出逾1000萬元採購訂單，案件下周一東區裁判法院提堂。"
+      }
+    },
     {
       "id": "2026-08-21-lifestyle-meow-cation-dx-hub",
       "published_at": "2026-08-21T15:06:00+08:00",
@@ -1318,94 +1387,6 @@
       "zh": {
         "headline": "雷暴警告延長至晚上11時 預料仍有狂風雷暴",
         "dek": "天文台傍晚7時發出雷暴警告，其後將有效時間延長至今晚11時，預料香港仍有幾陣狂風雷暴。"
-      }
-    },
-    {
-      "id": "2026-08-18-lifestyle-maxims-palace-moko",
-      "published_at": "2026-08-18T15:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "mong-kok",
-        "restaurant",
-        "dim-sum"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-lifestyle-maxims-palace-moko.json",
-      "en": {
-        "headline": "Maxim’s Palace opens seventh branch at MOKO in Mong Kok",
-        "dek": "The new outlet retains traditional hand-pushed dim sum carts and adds live roast suckling pig carving and a dim sum academy for customers."
-      },
-      "zh": {
-        "headline": "美心皇宮第七間分店進駐旺角MOKO",
-        "dek": "新店保留人手推車點心傳統，新增現場燒乳豬切件及點心學堂體驗。"
-      }
-    },
-    {
-      "id": "2026-08-18-construction-worker-rape-sentence",
-      "published_at": "2026-08-18T15:12:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "crime",
-        "sexual-offence"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-construction-worker-rape-sentence.json",
-      "en": {
-        "headline": "Construction worker jailed 22 years for raping daughter over decade",
-        "dek": "A High Court judge described the 14 rapes and one anal offence as leaving the victim living in hell and said the defendant’s remorse appeared only superficial."
-      },
-      "zh": {
-        "headline": "地盤工強姦親女十年判囚22年 官指事主如活在地獄",
-        "dek": "高等法院法官指14次強姦及一項肛交罪令女兒十年如活在地獄，被告悔意流於表面。"
-      }
-    },
-    {
-      "id": "2026-08-18-wang-fuk-court-report-delay",
-      "published_at": "2026-08-18T15:11:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "wang-fuk-court",
-        "fire",
-        "independent-committee",
-        "tai-po"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-wang-fuk-court-report-delay.json",
-      "en": {
-        "headline": "Wang Fuk Court fire independent committee report delayed to end of October",
-        "dek": "The Chief Executive has approved an extension so the panel can analyse more than one million files and complete its findings and recommendations."
-      },
-      "zh": {
-        "headline": "宏福苑火災獨立委員會報告延至十月底提交",
-        "dek": "行政長官已同意延期，委員會指需時分析逾百萬個檔案及各方資料後才完成研判及建議。"
-      }
-    },
-    {
-      "id": "2026-08-18-shau-kei-wan-postman-fall",
-      "published_at": "2026-08-18T15:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "hongkong-post",
-        "shau-kei-wan",
-        "death",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-shau-kei-wan-postman-fall.json",
-      "en": {
-        "headline": "Postman dies after falling from Ming Wah Mansion in Shau Kei Wan",
-        "dek": "A 57-year-old Hongkong Post employee was found unconscious outside the building around 8:30 a.m. and later pronounced dead at Eastern Hospital; the cause remains under investigation."
-      },
-      "zh": {
-        "headline": "筲箕灣明華大廈郵差墮樓送院不治",
-        "dek": "57歲香港郵政員工今早約8時半被發現倒臥明華大廈外昏迷，送東區醫院後證實不治，死因有待調查。"
       }
     }
   ]
