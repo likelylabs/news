@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-08-21T21:05:11+08:00",
+  "generated_at": "2026-08-22T01:07:41+08:00",
   "live_window_hours": 72,
-  "count": 62,
+  "count": 55,
   "articles": [
+    {
+      "id": "2026-08-22-lifestyle-sportfest-hk-2026",
+      "published_at": "2026-08-22T01:12:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "lifestyle",
+        "sport",
+        "exhibition",
+        "hkcec",
+        "pickleball",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-22/2026-08-22-lifestyle-sportfest-hk-2026.json",
+      "en": {
+        "headline": "Sportfest Hong Kong continues at HKCEC with pickleball and new sports trials",
+        "dek": "The three-day sports expo under the theme “Dare to Sport Dai Pai Dong” runs until Sunday, offering free experiences of emerging sports alongside competitions and a youth volleyball final."
+      },
+      "zh": {
+        "headline": "香港運動節會展續舉行 設匹克球及新興運動體驗",
+        "dek": "以「敢運動大排檔」為主題的三天運動博覽進行至周日，提供匹克球挑戰、新興運動試玩及青年排球決賽等。"
+      }
+    },
+    {
+      "id": "2026-08-22-po-pin-chau-reservation-trial",
+      "published_at": "2026-08-22T01:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "afcd",
+        "sai-kung",
+        "geopark",
+        "tourism",
+        "conservation",
+        "lifestyle"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-22/2026-08-22-po-pin-chau-reservation-trial.json",
+      "en": {
+        "headline": "AFCD to trial real-name booking for Po Pin Chau trail from September",
+        "dek": "Daily visitor quota of 2,000 will apply on weekends and the Golden Week holiday period at the popular High Island Geo Trail section in Sai Kung East Country Park."
+      },
+      "zh": {
+        "headline": "漁護署9月起試行破邊洲實名預約 周末及黃金周每日限2000人",
+        "dek": "西貢萬宜地質步道破邊洲段將於9月5日至10月7日周末、中秋及國慶黃金周實施預約制，每兩小時時段500名額。"
+      }
+    },
     {
       "id": "2026-08-21-fighting-dogs-review",
       "published_at": "2026-08-21T21:07:00+08:00",
@@ -1189,204 +1237,6 @@
       "zh": {
         "headline": "食安中心籲勿食法國進口塗抹醬 或受李斯特菌污染",
         "dek": "一批由City Super進口的L'atelier Blini Ktipiti特製紅椒菲達芝士醬因法國當局指懷疑冷鏈問題或受李斯特菌污染，正回收。"
-      }
-    },
-    {
-      "id": "2026-08-18-yoho-dog-owner-arrest",
-      "published_at": "2026-08-18T23:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "afcd",
-        "animal",
-        "yuen-long",
-        "public-safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-yoho-dog-owner-arrest.json",
-      "en": {
-        "headline": "AFCD arrests owner of large dog that killed two small pets in Yuen Long",
-        "dek": "The 60 kg dog had been detained in July over a previous attack and returned after a warning; the department is investigating both cases and may prosecute."
-      },
-      "zh": {
-        "headline": "漁護署拘捕元朗咬斃兩小狗大狗飼主",
-        "dek": "涉事約60公斤大狗曾於7月因另一咬傷案被扣留後發還，署方正調查兩案，如證據足夠將檢控。"
-      }
-    },
-    {
-      "id": "2026-08-18-severe-flu-16yo",
-      "published_at": "2026-08-18T23:12:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "chp",
-        "influenza",
-        "paediatric",
-        "public-health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-severe-flu-16yo.json",
-      "en": {
-        "headline": "16-year-old girl critically ill with influenza A and septic shock",
-        "dek": "The patient with chronic illness developed fever on 15 August and was transferred to the paediatric intensive care unit at United Christian Hospital; CHP says flu activity remains high."
-      },
-      "zh": {
-        "headline": "16歲少女感染甲型流感併發嚴重肺炎及敗血性休克 情況危殆",
-        "dek": "有長期病患少女8月15日起發燒，今日氣促送院，轉聯合醫院兒童深切治療部；衞生防護中心指流感活躍程度仍高。"
-      }
-    },
-    {
-      "id": "2026-08-18-measles-case-35yo",
-      "published_at": "2026-08-18T23:11:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "chp",
-        "measles",
-        "public-health",
-        "vaccination"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-measles-case-35yo.json",
-      "en": {
-        "headline": "CHP investigates measles case involving 35-year-old woman, 198 contacts",
-        "dek": "The non-locally born patient developed fever and cough from 4 August and a rash on 9 August; she is in stable condition and 198 close contacts are under medical surveillance."
-      },
-      "zh": {
-        "headline": "衞生防護中心調查35歲女子麻疹個案 198人列密切接觸者",
-        "dek": "患者非本港出生，8月4日起發燒咳嗽，9日出現皮疹，情況穩定；198名密切接觸者暫無病徵，正接受醫學監察。"
-      }
-    },
-    {
-      "id": "2026-08-18-strong-monsoon-signal-evening",
-      "published_at": "2026-08-18T23:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "strong-monsoon-signal",
-        "wind"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-strong-monsoon-signal-evening.json",
-      "en": {
-        "headline": "Strong Monsoon Signal issued as easterly winds strengthen",
-        "dek": "The Hong Kong Observatory cancelled the Thunderstorm Warning at 10:30 pm and issued the Strong Monsoon Signal at 10:10 pm, warning of strong easterly winds and rough seas."
-      },
-      "zh": {
-        "headline": "強烈季候風信號生效 吹偏東強風",
-        "dek": "天文台晚上10時10分發出強烈季候風信號，預料吹偏東強風，陣風間中達烈風程度，並於10時30分取消雷暴警告。"
-      }
-    },
-    {
-      "id": "2026-08-18-lifestyle-guoquan-wan-chai",
-      "published_at": "2026-08-18T21:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "wan-chai",
-        "retail",
-        "opening"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-lifestyle-guoquan-wan-chai.json",
-      "en": {
-        "headline": "Mainland hotpot ingredients chain Guoquan opens first Hong Kong store in Wan Chai",
-        "dek": "The Hennessy Road outlet is described by the company as a ‘test bed’ for overseas expansion, offering community-kitchen style products adapted for local tastes."
-      },
-      "zh": {
-        "headline": "內地火鍋食材店鍋圈食匯灣仔開首店",
-        "dek": "軒尼詩道門店被集團定位為海外布局「試驗田」，延續社區央廚模式並加入本地化產品。"
-      }
-    },
-    {
-      "id": "2026-08-18-icac-mos-burger-ghost-workers",
-      "published_at": "2026-08-18T21:13:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "icac",
-        "fraud",
-        "employment",
-        "court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-icac-mos-burger-ghost-workers.json",
-      "en": {
-        "headline": "ICAC charges eight over MOS Burger ‘ghost worker’ payroll fraud",
-        "dek": "A former store manager, his wife and six alleged ghost employees face conspiracy-to-defraud charges involving about HK$680,000 in wages and MPF contributions."
-      },
-      "zh": {
-        "headline": "廉署起訴摩斯漢堡前店長等8人涉「鬼工」騙薪68萬",
-        "dek": "前店長、其妻及六名被指虛報出勤的店務員被控串謀詐騙，涉薪金及強積金合共約74萬元，案件轉介區院。"
-      }
-    },
-    {
-      "id": "2026-08-18-customs-fire-mesh-cannabis",
-      "published_at": "2026-08-18T21:12:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "drugs",
-        "cannabis",
-        "airport",
-        "trafficking"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-customs-fire-mesh-cannabis.json",
-      "en": {
-        "headline": "Customs seize 240 kg of cannabis worth HK$56 m, arrest 10 in airport operation",
-        "dek": "Month-long ‘Fire Mesh’ action targeted a syndicate using Hong Kong as a transit hub to move cannabis buds from Southeast Asia to Europe and Africa."
-      },
-      "zh": {
-        "headline": "海關「火網」行動檢240公斤大麻市值5600萬 拘10人",
-        "dek": "為期一個月行動針對以香港為中轉站、由東南亞運大麻往歐洲及非洲的集團，於機場過境行李發現可疑包裹。"
-      }
-    },
-    {
-      "id": "2026-08-18-midyear-population-2026",
-      "published_at": "2026-08-18T21:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "population",
-        "census",
-        "demographics",
-        "talent"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-midyear-population-2026.json",
-      "en": {
-        "headline": "Hong Kong mid-year population rises 0.3% to 7.52 million",
-        "dek": "Net inflow of nearly 40,000 residents more than offset a natural decrease of 20,400, though births fell below 30,000 for the first time on record."
-      },
-      "zh": {
-        "headline": "年中人口增0.3%至751.8萬 出生人數首跌破3萬",
-        "dek": "淨移入近4萬人抵銷自然減少2.04萬人，惟出生人數按年跌15.6%至2.97萬，創有紀錄新低。"
-      }
-    },
-    {
-      "id": "2026-08-18-thunderstorm-warning-evening",
-      "published_at": "2026-08-18T21:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "thunderstorm-warning",
-        "hko",
-        "showers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-thunderstorm-warning-evening.json",
-      "en": {
-        "headline": "Thunderstorm Warning extended until 11 pm as squally storms continue",
-        "dek": "The Hong Kong Observatory first issued the warning at 7 pm and later extended it, expecting a few more squally thunderstorms over the territory this evening."
-      },
-      "zh": {
-        "headline": "雷暴警告延長至晚上11時 預料仍有狂風雷暴",
-        "dek": "天文台傍晚7時發出雷暴警告，其後將有效時間延長至今晚11時，預料香港仍有幾陣狂風雷暴。"
       }
     }
   ]
