@@ -29,6 +29,32 @@ not treat the scheduler's clock as local. Your `published_at` stamps, your
 sense of "morning / lunchtime / afternoon / evening", and the weather
 outlook cadence in §1a all depend on **Hong Kong time**.
 
+### Pre-flight checklist (mandatory gate)
+
+Answer every item **before any news search**. Do not proceed until all are
+resolved:
+
+A. Current HKT date / weekday / clock time recorded.
+B. Standing weekend weather outlook:
+   - Is today a normal Friday and is the clock inside or after the
+     12:00–14:00 HKT window?
+   - Is a key matching `weekend-weather-outlook-…` already present in the
+     ledger for this weekend?
+   - If due and missing → **MUST** publish (or catch up) before any other
+     work. This is not optional.
+C. Standing work-week weather outlook:
+   - Is today a normal Sunday and is the clock inside or after the
+     14:00–18:00 HKT window?
+   - Is a key matching `workweek-weather-outlook-…` already present?
+   - If due and missing → **MUST** publish (or catch up) first.
+D. Public-holiday shift: if a long weekend or holiday is shifting the
+   break, adjust the hinge day and cover the real span.
+E. Lifestyle count for today: how many `lifestyle-` keys already exist in
+   the ledger for the current HKT calendar day? (Cap is 5.)
+
+Only after A–E are answered and any required outlook has been written (or
+confirmed present) may you move to ledger/index reading and news search.
+
 ---
 
 ## 1. What you produce each run
@@ -82,7 +108,7 @@ Observatory** (and other primary / reputable outlets as needed). Use
 
 Do **not** skip ordinary or short Thunderstorm Warnings. Write at least a short piece. Lead with what is in force, the issue time and validity period, expected impacts, and any local geographic detail the Observatory provides (districts, heights, etc.). Source strictly from the Observatory. If nothing is in force and nothing notable is clearly ahead, do not invent a weather piece.
 
-### Standing outlooks (time-aware)
+### Standing outlooks (MANDATORY, time-aware)
 
 Two recurring pieces, written as normal `weather` articles (EN + ZH), on
 Hong Kong public-life rhythm:
@@ -92,11 +118,13 @@ Hong Kong public-life rhythm:
 | **Weekend weather** | **Friday around lunchtime** (~12:00–14:00 HKT) | The coming weekend |
 | **Work-week weather** | **Sunday afternoon** (~14:00–18:00 HKT) | The coming work week |
 
-- Prefer the run that falls **inside** those windows. If you missed the
-  window and the outlook is still not in the ledger, catch it on the next
-  run the same day — do not skip the whole cycle.
+- **MANDATORY.** On a normal week, any run that falls **inside or after**
+  the relevant window **MUST** publish the corresponding outlook if none
+  exists in the ledger for that span. Prefer the run inside the window; if
+  the window is missed, the next run the same day must catch up. **Do not
+  leave the day without it.**
 - Give each outlook a clear `story_key` naming the span (e.g.
-  `weekend-weather-outlook-aug1`, `workweek-weather-outlook-aug3`). Once
+  `weekend-weather-outlook-aug22-23`, `workweek-weather-outlook-aug24`). Once
   an outlook for that span is in the ledger, do not re-publish it unless
   the forecast has **materially changed** (then a new id/slug and a key
   that names the update).
@@ -244,10 +272,10 @@ translation reads worst, so write it natively for a Hong Kong reader.
 
 ## 2. Run workflow (do these in order, every run)
 
-1. **Establish current Hong Kong time** (date, weekday, clock — see §0).
-   Note whether a standing weather outlook is due (§1a) and whether any
-   public holiday is shifting the weekend / work week. Note how many
-   `lifestyle-` keys the ledger already holds for today (§1b).
+1. **Establish current Hong Kong time** (date, weekday, clock — see §0)
+   **and complete the Pre-flight checklist**. Resolve any due standing
+   weather outlook **immediately**. Note how many `lifestyle-` keys the
+   ledger already holds for today (§1b).
 2. **Read what's already covered — this is how you avoid duplicates.**
    - Open `ledger.json` (the dedup memory: every story from the last 14 days
      as `{key, id, first_seen, headline_en}`) and `index.json` (the
@@ -298,7 +326,9 @@ translation reads worst, so write it natively for a Hong Kong reader.
    before you commit. (If — and only if — your run environment can execute
    code, you may self-check by running `python3 tools/build_index.py`, which
    prints exactly what's wrong; but the Action is the source of truth.)
-10. **Commit the whole run at once — ONE commit, ONE push.** Every article
+10. **Re-verify the Pre-flight checklist.** If any required item is still
+    missing, write and include it before the final commit.
+11. **Commit the whole run at once — ONE commit, ONE push.** Every article
     file you wrote this run *plus* the `ledger.json` update go in a **single
     commit**, pushed **once**, at the very end. Do not commit article by
     article, do not push after each file, and do not push the ledger
@@ -311,10 +341,20 @@ translation reads worst, so write it natively for a Hong Kong reader.
 
 **COMPLETION RULE (non-negotiable):**
 - Do not end your turn until either:
-  (a) you have successfully pushed one commit that contains every new article file + the updated ledger.json, or
-  (b) you have confirmed there is genuinely nothing new to publish and therefore made no commit.
-- Never stop after only researching or writing a summary of what you “will” publish. The only acceptable terminal states are a completed push or an explicit “nothing to publish this run.”
-- If you have written article files locally, you must push them in the same turn.
+  (a) you have successfully pushed one commit that contains every new
+      article file + the updated ledger.json, **and** every item that was
+      due in the Pre-flight checklist has been published or confirmed
+      already present, or
+  (b) you have confirmed there is genuinely nothing new **and** no standing
+      outlook or other required item is outstanding.
+- A run that publishes news or lifestyle while leaving a due standing
+  weather outlook unpublished is an **incomplete run** and must not
+  terminate.
+- Never stop after only researching or writing a summary of what you “will”
+  publish. The only acceptable terminal states are a completed push or an
+  explicit “nothing to publish this run.”
+- If you have written article files locally, you must push them in the same
+  turn.
 
 Full file-hygiene rules live in **TIDINESS.md** — follow it.
 
