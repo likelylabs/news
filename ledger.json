@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-22T04:47:20+08:00",
+  "updated_at": "2026-08-22T07:18:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "tuen-mun-youth-crime-operation",
+      "id": "2026-08-22-tuen-mun-youth-crime-operation",
+      "first_seen": "2026-08-22T07:15:00+08:00",
+      "headline_en": "Tuen Mun police arrest 22 in week-long youth crime crackdown"
+    },
+    {
+      "key": "customs-man-kam-to-pests-pet-food",
+      "id": "2026-08-22-customs-man-kam-to-pests",
+      "first_seen": "2026-08-22T07:16:00+08:00",
+      "headline_en": "Customs seize 118 kg of live pests and frozen rats at Man Kam To"
+    },
+    {
+      "key": "lifestyle-toycar-salon-2026",
+      "id": "2026-08-22-lifestyle-toycar-salon-2026",
+      "first_seen": "2026-08-22T07:17:00+08:00",
+      "headline_en": "Hong Kong ToyCar Salon continues this weekend at Hopewell Hotel"
+    },
     {
       "key": "mtr-senior-manager-green-bond-scam",
       "id": "2026-08-22-mtr-senior-manager-green-bond-scam",
