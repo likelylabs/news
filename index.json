@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-08-21T13:24:47+08:00",
+  "generated_at": "2026-08-21T15:02:22+08:00",
   "live_window_hours": 72,
-  "count": 61,
+  "count": 63,
   "articles": [
+    {
+      "id": "2026-08-21-lifestyle-meow-cation-dx-hub",
+      "published_at": "2026-08-21T15:06:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "sham-shui-po",
+        "design",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-21/2026-08-21-lifestyle-meow-cation-dx-hub.json",
+      "en": {
+        "headline": "Meow-cation exhibition at DX design hub links cats, textiles and Sham Shui Po craft",
+        "dek": "The community-driven showcase features a giant cat installation made from local textiles and runs until 2 November at the Hong Kong Design Centre venue in Sham Shui Po."
+      },
+      "zh": {
+        "headline": "DX設計館《喵之旅》展出 以紡織與貓咪連結深水埗社區",
+        "dek": "社區主導展覽以本地紡織物料製成巨型貓咪裝置，展期至11月2日，於深水埗香港設計中心場地舉行。"
+      }
+    },
+    {
+      "id": "2026-08-21-cuhk-ip-training-scientists",
+      "published_at": "2026-08-21T15:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "cuhk",
+        "education",
+        "intellectual-property",
+        "research",
+        "innovation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-21/2026-08-21-cuhk-ip-training-scientists.json",
+      "en": {
+        "headline": "CUHK head calls for better intellectual property training for scientists",
+        "dek": "Vice-Chancellor Dennis Lo said researchers should patent their work and urged the government to consider an early-stage angel fund that is not too dilutive."
+      },
+      "zh": {
+        "headline": "中大校長促加強科研人員知識產權培訓",
+        "dek": "盧煜明表示科學家應為研究成果申請專利，並建議政府考慮設立不太攤薄股權的早期天使基金。"
+      }
+    },
     {
       "id": "2026-08-21-weekend-weather-outlook",
       "published_at": "2026-08-21T13:24:00+08:00",
