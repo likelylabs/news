@@ -1,12 +1,24 @@
 {
-  "updated_at": "2026-08-21T11:24:58+08:00",
+  "updated_at": "2026-08-21T11:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
-      "key": "harbour-chan-mortgage-fraud-appeal",
-      "id": "2026-08-18-harbour-chan-appeal-dismissed",
-      "first_seen": "2026-08-18T03:10:00+08:00",
-      "headline_en": "Court of Appeal dismisses senior officer’s challenge to fraud conviction"
+      "key": "hong-kong-alliance-inciting-subversion-verdict",
+      "id": "2026-08-21-hong-kong-alliance-subversion-verdict",
+      "first_seen": "2026-08-21T11:15:00+08:00",
+      "headline_en": "Hong Kong Alliance and two former leaders found guilty of inciting subversion"
+    },
+    {
+      "key": "lifestyle-after-taste-exhibition-cheung-sha-wan",
+      "id": "2026-08-21-lifestyle-after-taste-exhibition",
+      "first_seen": "2026-08-21T08:06:00+08:00",
+      "headline_en": "After Taste exhibition opens in Cheung Sha Wan tracing a century of Hong Kong dining"
+    },
+    {
+      "key": "thunderstorm-warning-aug21-early-morning",
+      "id": "2026-08-21-thunderstorm-warning-early-morning",
+      "first_seen": "2026-08-21T08:05:00+08:00",
+      "headline_en": "Thunderstorm Warning issued overnight, cancelled at 5:45 am"
     }
   ]
 }
