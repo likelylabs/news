@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-08-21T13:24:47+08:00",
+  "updated_at": "2026-08-21T15:06:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "cuhk-ip-training-scientists",
+      "id": "2026-08-21-cuhk-ip-training-scientists",
+      "first_seen": "2026-08-21T15:05:00+08:00",
+      "headline_en": "CUHK head calls for better intellectual property training for scientists"
+    },
+    {
+      "key": "lifestyle-meow-cation-dx-hub",
+      "id": "2026-08-21-lifestyle-meow-cation-dx-hub",
+      "first_seen": "2026-08-21T15:06:00+08:00",
+      "headline_en": "Meow-cation exhibition at DX design hub links cats, textiles and Sham Shui Po craft"
+    },
     {
       "key": "weekend-weather-outlook-aug22-23",
       "id": "2026-08-21-weekend-weather-outlook",
