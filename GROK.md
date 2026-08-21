@@ -10,6 +10,12 @@ fully-written articles that the radio app renders natively — plus, when
 appropriate, weather outlook pieces (see §1a) and lifestyle / city-life
 pieces (see §1b).
 
+**ALWAYS PUBLISH SOMETHING.** A run must never end empty. If there is no
+hard news and no required weather outlook due, actively find and publish at
+least one recent, current, light or whimsical Hong Kong piece (lifestyle /
+quirky city-life). Still real, verified and fresh — never invent. Quiet
+news days are exactly when the paper should feel alive.
+
 > The short prompt pasted into the automation's Instructions box is a
 > condensed version of this file — see `AUTOMATION.md`. This file is the
 > full, authoritative brief; when the two ever disagree, this file wins.
@@ -62,16 +68,15 @@ confirmed present) may you move to ledger/index reading and news search.
 - **Up to 5 news articles per run. Usually fewer.** Publish only what is
   *genuinely new since the last run* (which may be ~2 hours ago — other
   staggered automations share this repo, so always trust the ledger, not the
-  clock). Zero new stories is a perfectly good run — in that case, publish
-  nothing and commit nothing (unless a standing weather outlook is due;
-  see §1a).
+  clock). Hard news can be zero — but the run itself must not be empty.
 - **Weather outlooks are in addition to news.** Standing weekend / work-week
   weather pieces and notable-weather updates (see §1a) do **not** count
   against the five-news-article budget and should not squeeze out real news.
 - **Lifestyle & city-life pieces are also in addition to news** (see §1b).
   They do **not** count against the five-news-article budget, and they never
   replace a real news story — if a run has hard news, the hard news gets
-  written first.
+  written first. On quiet news runs, lean harder into light, quirky or
+  whimsical recent pieces so something always appears.
 - **Only the latest.** A story is eligible if it broke, or materially
   developed, since the last run — think "the current news cycle", not a
   fixed window. Do not re-report what's already in the ledger. Do not pad.
@@ -151,10 +156,11 @@ break:
 
 A real Hong Kong publication is not only warnings, arrests and results. It
 also tells readers **what is on, what is new, and what is worth their
-Saturday**. Every run, after you have handled the news, deliberately go
-looking for this material. It is a standing assignment, not an optional
-extra — a run that publishes only hard news and never a city-life piece is
-an incomplete run.
+Saturday** — including the small, fun or whimsical moments that make the
+city feel alive. Every run, after you have handled the news, deliberately
+go looking for this material. It is a standing assignment, not an optional
+extra. On quiet news runs, treat at least one lifestyle / light piece as
+required so the run is never empty.
 
 ### What qualifies
 
@@ -173,17 +179,19 @@ Things happening in Hong Kong that a curious local would want to know:
 - **Things to do** — hikes, beaches, ferry rides, new trails and parks,
   pop-ups, weekend markets, sports and wellness happenings, family outings,
   cheap-and-cheerful ideas.
-- **Cool and quirky** — the small, characterful, distinctly-Hong-Kong story:
-  a neon sign saved, a rooftop farm, a cat that runs a shop, a craft that
-  survives in Sham Shui Po.
+- **Cool and quirky / whimsical** — the small, characterful, distinctly-
+  Hong-Kong story: a neon sign saved, a rooftop farm, a cat that runs a
+  shop, a craft that survives in Sham Shui Po, a local animal story, a
+  playful public installation, a seasonal street scene, a short-lived
+  pop-up, a local tradition being kept alive.
 
 ### How much, how often
 
 - **Up to 2 lifestyle pieces per run**, and **at most 5 per Hong Kong
   calendar day** across all nine runs. Count them from the ledger (see the
   `lifestyle-` key prefix below) before writing.
-- Aim for **at least one per run** when there is anything genuinely worth
-  covering. Quiet news runs are exactly when these pieces should appear.
+- On quiet news runs, treat at least one lifestyle / light / whimsical
+  piece as required. Quiet days are exactly when these should appear.
 - Spread the variety across the day — don't publish two exhibition pieces in
   the same run when a food story and a neighbourhood story are available.
 
@@ -200,7 +208,9 @@ directly. Reliable places to *discover* stories include:
 
 plus LCSD / museum / West Kowloon and Tai Kwun programme pages, HK Tourism
 Board listings, district council and government event announcements, and
-the venues' and organisers' own public channels.
+the venues' and organisers' own public channels. Also scan recent local
+social chatter and photo posts for genuine, verifiable light stories
+(still confirm the facts).
 
 **Those sites are leads, not copy.** Treat a lifestyle site the way you'd
 treat any secondary source: find the story there, then **verify the facts
@@ -215,9 +225,10 @@ framing, or their list; write your own piece from verified facts.
 Lifestyle is not evergreen filler. Every piece needs a reason to run *now*:
 it just opened, it closes soon, tickets just went on sale, the dates were
 just announced, the season just started, it just won something, it is
-shutting down. "This restaurant exists" is not a story. And these are
-**single, focused features** like every other article here — not listicles,
-not round-ups, no "read more", no links.
+shutting down, or it is a current seasonal / whimsical moment. "This
+restaurant exists" is not a story. And these are **single, focused
+features** like every other article here — not listicles, not round-ups, no
+"read more", no links.
 
 ### Categorising and dedup
 
@@ -300,10 +311,11 @@ translation reads worst, so write it natively for a Hong Kong reader.
    police and courts, official company statements, and reputable Hong Kong
    newsrooms). Note *who* is reporting each fact.
 4. **Then go looking for city life (§1b)** — what's on, what's opening,
-   what's closing, what's worth a Hong Kong weekend. Check the city-life
-   press listed in §1b and verify the details against the venue's or
-   organiser's own announcement. Up to 2 pieces this run, within the daily
-   cap of 5.
+   what's closing, what's worth a Hong Kong weekend, or any current light /
+   quirky / whimsical moment. Check the city-life press listed in §1b and
+   verify the details against the venue's or organiser's own announcement.
+   Up to 2 pieces this run, within the daily cap of 5. On quiet news runs,
+   at least one is required.
 5. **Verify before you write (see §3).** Drop anything you can't stand
    behind.
 6. **Assign each story a `story_key`** — a short lowercase slug naming the
@@ -327,7 +339,9 @@ translation reads worst, so write it natively for a Hong Kong reader.
    code, you may self-check by running `python3 tools/build_index.py`, which
    prints exactly what's wrong; but the Action is the source of truth.)
 10. **Re-verify the Pre-flight checklist.** If any required item is still
-    missing, write and include it before the final commit.
+    missing, write and include it before the final commit. If the run would
+    otherwise publish nothing, find and publish at least one current
+    lifestyle / light / whimsical piece before finishing.
 11. **Commit the whole run at once — ONE commit, ONE push.** Every article
     file you wrote this run *plus* the `ledger.json` update go in a **single
     commit**, pushed **once**, at the very end. Do not commit article by
@@ -336,23 +350,23 @@ translation reads worst, so write it natively for a Hong Kong reader.
     rebuild, and a second push landing mid-rebuild is a race — the Action
     recovers, but a one-push run is cheaper, and it never leaves an article on
     `main` whose ledger entry hasn't landed yet.) See TIDINESS.md for the
-    message convention. If you published nothing this run, make no commit at
-    all.
+    message convention.
 
 **COMPLETION RULE (non-negotiable):**
-- Do not end your turn until either:
-  (a) you have successfully pushed one commit that contains every new
-      article file + the updated ledger.json, **and** every item that was
-      due in the Pre-flight checklist has been published or confirmed
-      already present, or
-  (b) you have confirmed there is genuinely nothing new **and** no standing
-      outlook or other required item is outstanding.
+- Do not end your turn until you have successfully pushed one commit that
+  contains every new article file + the updated ledger.json, **and** every
+  item that was due in the Pre-flight checklist has been published or
+  confirmed already present, **and** the run is not empty.
 - A run that publishes news or lifestyle while leaving a due standing
   weather outlook unpublished is an **incomplete run** and must not
   terminate.
+- A run that finds no hard news and no required weather must still publish
+  at least one recent, verified lifestyle or light/whimsical piece. Ending
+  with “nothing to publish” is no longer acceptable.
 - Never stop after only researching or writing a summary of what you “will”
-  publish. The only acceptable terminal states are a completed push or an
-  explicit “nothing to publish this run.”
+  publish. The only acceptable terminal state is a completed push that
+  leaves the day with at least one new article (or a confirmed catch-up of
+  a required outlook).
 - If you have written article files locally, you must push them in the same
   turn.
 
