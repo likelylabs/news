@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-08-22T01:07:41+08:00",
+  "generated_at": "2026-08-22T03:07:58+08:00",
   "live_window_hours": 72,
-  "count": 55,
+  "count": 56,
   "articles": [
+    {
+      "id": "2026-08-22-lifestyle-harry-potter-mahou-dokoro-popup",
+      "published_at": "2026-08-22T03:12:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "causeway-bay",
+        "shopping",
+        "pop-up"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-22/2026-08-22-lifestyle-harry-potter-mahou-dokoro-popup.json",
+      "en": {
+        "headline": "Harry Potter Mahou Dokoro pop-up at Hysan Place closes on 25 August",
+        "dek": "The limited-time store in Causeway Bay, stocking official apparel and collectables inspired by the films, has been open since late July and ends next Tuesday."
+      },
+      "zh": {
+        "headline": "哈利波特Mahou Dokoro期間限定店希慎廣場8月25日結束",
+        "dek": "銅鑼灣希慎廣場B1層的官方主題期間限定店自7月24日開業，售賣電影靈感服裝及收藏品，下周二結束營業。"
+      }
+    },
+    {
+      "id": "2026-08-22-mtr-senior-manager-green-bond-scam",
+      "published_at": "2026-08-22T03:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "mtr",
+        "fraud",
+        "police",
+        "scam",
+        "hsbc"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-22/2026-08-22-mtr-senior-manager-green-bond-scam.json",
+      "en": {
+        "headline": "MTR senior manager loses HK$74 m in alleged green-bond scam",
+        "dek": "Police are investigating after a 59-year-old expatriate reported being lured over two years by a caller posing as an HSBC UK private-bank employee into transferring funds to overseas accounts."
+      },
+      "zh": {
+        "headline": "港鐵高級經理疑遭綠色債券騙案損失7400萬元",
+        "dek": "一名59歲外籍港鐵高級經理報稱兩年間被冒充英國滙豐私人銀行職員的來電誘騙，向海外戶口轉帳約7400萬元，警方正調查。"
+      }
+    },
     {
       "id": "2026-08-22-lifestyle-sportfest-hk-2026",
       "published_at": "2026-08-22T01:12:00+08:00",
@@ -1214,29 +1260,6 @@
       "zh": {
         "headline": "強烈季候風信號繼續生效 偏東強風持續",
         "dek": "天文台指通宵吹偏東強風，平均風速超過每小時40公里，離岸及高地陣風間中達烈風程度，橫瀾島及塔門等地錄得較高風速。"
-      }
-    },
-    {
-      "id": "2026-08-19-cfs-ktipiti-listeria-spread",
-      "published_at": "2026-08-19T01:15:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "cfs",
-        "food-safety",
-        "listeria",
-        "public-health",
-        "recall"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-19/2026-08-19-cfs-ktipiti-listeria-spread.json",
-      "en": {
-        "headline": "CFS urges public not to eat French spread product over possible Listeria contamination",
-        "dek": "A batch of L'atelier Blini Ktipiti Extra Red Pepper & Feta Cheese Spread imported by City Super is being recalled after French authorities flagged a suspected cold-chain problem."
-      },
-      "zh": {
-        "headline": "食安中心籲勿食法國進口塗抹醬 或受李斯特菌污染",
-        "dek": "一批由City Super進口的L'atelier Blini Ktipiti特製紅椒菲達芝士醬因法國當局指懷疑冷鏈問題或受李斯特菌污染，正回收。"
       }
     }
   ]
