@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T04:54:28+08:00",
+  "updated_at": "2026-08-21T08:06:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -403,6 +403,18 @@
       "id": "2026-08-20-cathay-almaty-flights",
       "first_seen": "2026-08-20T23:19:00+08:00",
       "headline_en": "Cathay Pacific to launch direct flights to Almaty from January 2027"
+    },
+    {
+      "key": "thunderstorm-warning-aug21-early-morning",
+      "id": "2026-08-21-thunderstorm-warning-early-morning",
+      "first_seen": "2026-08-21T08:05:00+08:00",
+      "headline_en": "Thunderstorm Warning issued overnight, cancelled at 5:45 am"
+    },
+    {
+      "key": "lifestyle-after-taste-exhibition-cheung-sha-wan",
+      "id": "2026-08-21-lifestyle-after-taste-exhibition",
+      "first_seen": "2026-08-21T08:06:00+08:00",
+      "headline_en": "After Taste exhibition opens in Cheung Sha Wan tracing a century of Hong Kong dining"
     }
   ]
 }
