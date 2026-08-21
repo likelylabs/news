@@ -1,1 +1,12 @@
-PLACEHOLDER
+{
+  "updated_at": "2026-08-21T11:15:00+08:00",
+  "retention_days": 5,
+  "covered": [
+    {
+      "key": "harbour-chan-mortgage-fraud-appeal",
+      "id": "2026-08-18-harbour-chan-appeal-dismissed",
+      "first_seen": "2026-08-18T03:10:00+08:00",
+      "headline_en": "Court of Appeal dismisses senior officer’s challenge to fraud conviction"
+    }
+  ]
+}
