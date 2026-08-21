@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-21T11:29:52+08:00",
+  "generated_at": "2026-08-21T13:24:47+08:00",
   "live_window_hours": 72,
-  "count": 60,
+  "count": 61,
   "articles": [
+    {
+      "id": "2026-08-21-weekend-weather-outlook",
+      "published_at": "2026-08-21T13:24:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "weekend-outlook",
+        "showers",
+        "thunderstorms"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-21/2026-08-21-weekend-weather-outlook.json",
+      "en": {
+        "headline": "Weekend outlook: cloudy with showers and isolated thunderstorms",
+        "dek": "The Hong Kong Observatory expects mainly cloudy skies with a few showers this weekend, more frequent at first on Saturday and later on Sunday, under a broad trough of low pressure."
+      },
+      "zh": {
+        "headline": "周末展望：多雲有驟雨及局部雷暴",
+        "dek": "天文台預料周末大致多雲，有幾陣驟雨，周六初時及周日稍後部分地區驟雨較多並有雷暴，受廣闊低壓槽影響。"
+      }
+    },
     {
       "id": "2026-08-21-hong-kong-alliance-subversion-verdict",
       "published_at": "2026-08-21T11:15:00+08:00",
