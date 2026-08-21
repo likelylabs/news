@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-08-22T04:47:20+08:00",
+  "generated_at": "2026-08-22T07:14:42+08:00",
   "live_window_hours": 72,
-  "count": 53,
+  "count": 56,
   "articles": [
+    {
+      "id": "2026-08-22-lifestyle-toycar-salon-2026",
+      "published_at": "2026-08-22T07:17:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "wan-chai",
+        "models",
+        "hobby"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-22/2026-08-22-lifestyle-toycar-salon-2026.json",
+      "en": {
+        "headline": "Hong Kong ToyCar Salon continues this weekend at Hopewell Hotel",
+        "dek": "The three-day model-car exhibition in Wan Chai features more than 200 new releases, JDM display cars and a new aircraft model zone, running until Sunday."
+      },
+      "zh": {
+        "headline": "香港車仔展2026周末續於灣仔合和酒店舉行",
+        "dek": "為期三日的模型車展匯集逾200款首發產品、JDM真車及新增飛機模型區，今日及周日繼續開放。"
+      }
+    },
+    {
+      "id": "2026-08-22-customs-man-kam-to-pests",
+      "published_at": "2026-08-22T07:16:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "smuggling",
+        "man-kam-to",
+        "animals",
+        "afcd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-22/2026-08-22-customs-man-kam-to-pests.json",
+      "en": {
+        "headline": "Customs seize 118 kg of live pests and frozen rats at Man Kam To",
+        "dek": "A 40-year-old local driver was arrested after officers found undeclared mealworms, cockroaches, fruit flies and frozen domestic rats mixed with declared goods."
+      },
+      "zh": {
+        "headline": "海關文錦渡檢118公斤活體病蟲害及冷藏白老鼠",
+        "dek": "入境貨車混藏麥皮蟲、蟑螂、果蠅及冷藏白老鼠，40歲本地男司機被捕，市值約3.5萬元。"
+      }
+    },
+    {
+      "id": "2026-08-22-tuen-mun-youth-crime-operation",
+      "published_at": "2026-08-22T07:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "youth",
+        "tuen-mun",
+        "drugs",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-22/2026-08-22-tuen-mun-youth-crime-operation.json",
+      "en": {
+        "headline": "Tuen Mun police arrest 22 in week-long youth crime crackdown",
+        "dek": "Fourteen of those detained were students; offences ranged from drug trafficking and criminal damage to indecent assault, with six already charged."
+      },
+      "zh": {
+        "headline": "屯門警區反青少年罪惡行動拘22人 包括14名學生",
+        "dek": "行動為期七日，涉販毒、刑事毀壞、非禮等多項罪名，其中六人已被落案起訴。"
+      }
+    },
     {
       "id": "2026-08-22-lifestyle-harry-potter-mahou-dokoro-popup",
       "published_at": "2026-08-22T03:12:00+08:00",
