@@ -309,6 +309,13 @@ translation reads worst, so write it natively for a Hong Kong reader.
     message convention. If you published nothing this run, make no commit at
     all.
 
+**COMPLETION RULE (non-negotiable):**
+- Do not end your turn until either:
+  (a) you have successfully pushed one commit that contains every new article file + the updated ledger.json, or
+  (b) you have confirmed there is genuinely nothing new to publish and therefore made no commit.
+- Never stop after only researching or writing a summary of what you “will” publish. The only acceptable terminal states are a completed push or an explicit “nothing to publish this run.”
+- If you have written article files locally, you must push them in the same turn.
+
 Full file-hygiene rules live in **TIDINESS.md** — follow it.
 
 ---
