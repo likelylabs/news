@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-08-21T04:54:28+08:00",
+  "generated_at": "2026-08-21T08:09:13+08:00",
   "live_window_hours": 72,
   "count": 64,
   "articles": [
+    {
+      "id": "2026-08-21-lifestyle-after-taste-exhibition",
+      "published_at": "2026-08-21T08:06:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "food",
+        "cheung-sha-wan",
+        "heritage"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-21/2026-08-21-lifestyle-after-taste-exhibition.json",
+      "en": {
+        "headline": "After Taste exhibition opens in Cheung Sha Wan tracing a century of Hong Kong dining",
+        "dek": "Local studio artellex and private collectors present rare menus, calligraphic scrolls and antique cookbooks from 21 August to 27 September, by appointment only."
+      },
+      "zh": {
+        "headline": "《過去味來》長沙灣開展 重現香港百年飲食演變",
+        "dek": "本地工作室artellex聯同私人收藏家展出珍稀餐牌、書法字頭及古籍食譜，8月21日至9月27日舉行，需預約參觀。"
+      }
+    },
+    {
+      "id": "2026-08-21-thunderstorm-warning-early-morning",
+      "published_at": "2026-08-21T08:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "thunderstorm-warning",
+        "hko",
+        "showers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-21/2026-08-21-thunderstorm-warning-early-morning.json",
+      "en": {
+        "headline": "Thunderstorm Warning issued overnight, cancelled at 5:45 am",
+        "dek": "The Hong Kong Observatory issued the warning at 12:30 a.m. for isolated squally thunderstorms and cancelled it after dawn as the weather stabilised."
+      },
+      "zh": {
+        "headline": "天文台昨晚發出雷暴警告 今早5時45分取消",
+        "dek": "天文台凌晨12時30分發出雷暴警告，其後延長至早上6時30分，預料局部地區有狂風雷暴，清晨5時45分取消。"
+      }
+    },
     {
       "id": "2026-08-20-cathay-almaty-flights",
       "published_at": "2026-08-20T23:19:00+08:00",
@@ -1383,51 +1427,6 @@
       "zh": {
         "headline": "新皇崗口岸公共運輸專用車道啟用 免經新田交匯處",
         "dek": "運輸署已在粉嶺公路及新田公路增設專用車道，讓專營巴士、跨境巴士及專線小巴直達新深路前往新口岸，無需駛經較繁忙的新田交匯處。"
-      }
-    },
-    {
-      "id": "2026-08-18-lifestyle-palace-museum-egypt-after-hours",
-      "published_at": "2026-08-18T07:21:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "west-kowloon",
-        "palace-museum",
-        "egypt"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-lifestyle-palace-museum-egypt-after-hours.json",
-      "en": {
-        "headline": "Hong Kong Palace Museum stages one-night Egypt after-hours event on Wednesday",
-        "dek": "A Pharaoh’s Rendezvous offers exclusive evening access to the Ancient Egypt Unveiled exhibition plus guided tours, performances and themed food on 19 August."
-      },
-      "zh": {
-        "headline": "故宮博物館周三晚辦古埃及展特別夜間活動",
-        "dek": "「法老之約」提供展覽獨家晚間入場、導賞、表演及主題飲食，門票450元，展期至8月31日。"
-      }
-    },
-    {
-      "id": "2026-08-18-mong-kok-maid-cafe-molestation-arrest",
-      "published_at": "2026-08-18T07:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "mong-kok",
-        "youth",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-18/2026-08-18-mong-kok-maid-cafe-molestation-arrest.json",
-      "en": {
-        "headline": "Maid cafe operator arrested over alleged molestation of 14-year-old employee",
-        "dek": "A 35-year-old man was detained in Mong Kok after a Form Three student reported being touched on multiple occasions starting from her first day of work."
-      },
-      "zh": {
-        "headline": "旺角女僕咖啡店負責人涉非禮14歲女員工被捕",
-        "dek": "中三女生8月7日首日上班起多次被觸碰，上周五報警，35歲男負責人周六被捕，另檢獲兒童色情照片。"
       }
     }
   ]
