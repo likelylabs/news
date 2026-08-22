@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-22T07:14:42+08:00",
+  "updated_at": "2026-08-22T11:17:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "north-lantau-highway-multiple-collisions",
+      "id": "2026-08-22-north-lantau-highway-collisions",
+      "first_seen": "2026-08-22T11:15:00+08:00",
+      "headline_en": "Multiple collisions on North Lantau Highway disrupt airport traffic"
+    },
+    {
+      "key": "tourism-visitor-target-2026-confidence",
+      "id": "2026-08-22-tourism-visitor-target-confidence",
+      "first_seen": "2026-08-22T11:16:00+08:00",
+      "headline_en": "Tourism chief confident Hong Kong will hit 53.8 million visitor target"
+    },
+    {
+      "key": "lifestyle-ukrainian-culture-day-2026",
+      "id": "2026-08-22-lifestyle-ukrainian-culture-day",
+      "first_seen": "2026-08-22T11:17:00+08:00",
+      "headline_en": "Ukrainian Culture Day brings bazaar, workshops and music to Goethe-Institut"
+    },
     {
       "key": "tuen-mun-youth-crime-operation",
       "id": "2026-08-22-tuen-mun-youth-crime-operation",
