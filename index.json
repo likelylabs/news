@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-22T21:14:09+08:00",
+  "generated_at": "2026-08-23T03:06:11+08:00",
   "live_window_hours": 72,
-  "count": 58,
+  "count": 48,
   "articles": [
+    {
+      "id": "2026-08-23-lifestyle-peppa-pig-fun-day-out-final",
+      "published_at": "2026-08-23T03:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "family",
+        "theatre",
+        "east-kowloon",
+        "children"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-23/2026-08-23-lifestyle-peppa-pig-fun-day-out-final.json",
+      "en": {
+        "headline": "Peppa Pig’s Fun Day Out ends its Hong Kong debut today at East Kowloon Cultural Centre",
+        "dek": "The interactive English-language musical, making its local premiere this weekend, stages its final performances on Sunday with shows at 11 am, 3 pm and 6 pm."
+      },
+      "zh": {
+        "headline": "Peppa Pig音樂舞台劇香港首演今最後一日 東九文化中心上演",
+        "dek": "互動英語音樂舞台劇《PEPPA PIG Fun Day Out!》周末於牛頭角東九文化中心首演，今日（23日）為最後一天，設上午11時、下午3時及6時三場。"
+      }
+    },
     {
       "id": "2026-08-22-ehealth-87-percent",
       "published_at": "2026-08-22T21:16:00+08:00",
@@ -1060,252 +1083,6 @@
       "zh": {
         "headline": "本地雪糕品牌TEEMTONEfai上環開首間實體店",
         "dek": "成立十年的創意雪糕品牌8月21日起於上環摩羅上街試業，主打中式茶香及香料口味，過往以期間限定店及聯乘聞名。"
-      }
-    },
-    {
-      "id": "2026-08-20-central-tram-bus-collision",
-      "published_at": "2026-08-20T03:06:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "central",
-        "tram",
-        "citybus",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-20/2026-08-20-central-tram-bus-collision.json",
-      "en": {
-        "headline": "Tram derails in Central after Citybus swerves to avoid child, no injuries",
-        "dek": "A Citybus route 930 vehicle struck a tram on Des Voeux Road Central near Jubilee Street on Wednesday evening while avoiding a five-year-old girl who had stepped into the roadway; services later resumed."
-      },
-      "zh": {
-        "headline": "中環城巴閃避女童撞電車出軌 無人受傷",
-        "dek": "周三晚一輛930線城巴在德輔道中近租庇利街為避一名突然衝出馬路的5歲女童而撞向電車，導致電車出軌，車上無人受傷，電車服務其後恢復。"
-      }
-    },
-    {
-      "id": "2026-08-20-strong-monsoon-signal-morning",
-      "published_at": "2026-08-20T03:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "strong-monsoon-signal",
-        "wind"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-20/2026-08-20-strong-monsoon-signal-morning.json",
-      "en": {
-        "headline": "Strong Monsoon Signal remains in force under continued easterly winds",
-        "dek": "The Hong Kong Observatory maintained the signal into Thursday morning, warning of strong easterly winds with occasional gale-force gusts and rough seas while monitoring a low-pressure area near Hainan."
-      },
-      "zh": {
-        "headline": "強烈季候風信號繼續生效 偏東強風持續",
-        "dek": "天文台周四清晨維持強烈季候風信號，預料吹偏東強風，陣風間中達烈風程度，並繼續監察南海北部低壓區動向。"
-      }
-    },
-    {
-      "id": "2026-08-19-lifestyle-ocean-park-reptile-territory",
-      "published_at": "2026-08-19T23:08:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "ocean-park",
-        "exhibition",
-        "animals",
-        "conservation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-19/2026-08-19-lifestyle-ocean-park-reptile-territory.json",
-      "en": {
-        "headline": "Ocean Park’s Reptile Territory opens to public on Friday with nearly 20 species",
-        "dek": "The new Summit pavilion features endangered rhinoceros iguanas, Chinese crocodile lizards and blue-tongued skinks, some rescued by the Agriculture, Fisheries and Conservation Department."
-      },
-      "zh": {
-        "headline": "海洋公園爬行探索基地周五起對公眾開放 展出近20種爬行動物",
-        "dek": "高峰樂園新展館包括國家一級保護瑤山鱷蜥、瀕危犀牛鬣蜥及藍舌石龍子等，部分動物來自漁護署充公後由園方護理。"
-      }
-    },
-    {
-      "id": "2026-08-19-bonus-plot-ratio-pilot",
-      "published_at": "2026-08-19T23:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "development-bureau",
-        "urban-renewal",
-        "housing",
-        "plot-ratio",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-19/2026-08-19-bonus-plot-ratio-pilot.json",
-      "en": {
-        "headline": "Government issues practice note for bonus plot ratio pilot scheme starting 1 September",
-        "dek": "Developers redeveloping qualifying old residential buildings in seven designated districts can obtain an extra 20 per cent plot ratio free of land premium for five years."
-      },
-      "zh": {
-        "headline": "額外地積比率先導計劃9月生效 聯合作業備考詳列安排",
-        "dek": "發展商在七個指定舊區拆卸樓齡50年或以上、地盤不少於700平方米的住宅樓宇並重建作住宅用途，可獲額外20%免補地價總樓面面積，計劃為期五年。"
-      }
-    },
-    {
-      "id": "2026-08-19-mtr-autonomous-vehicle-tests",
-      "published_at": "2026-08-19T23:06:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "autonomous-vehicle",
-        "west-kowloon",
-        "airport-express",
-        "technology"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-19/2026-08-19-mtr-autonomous-vehicle-tests.json",
-      "en": {
-        "headline": "MTR begins autonomous vehicle road tests linking West Kowloon and Kowloon stations",
-        "dek": "Four Baidu Apollo sixth-generation cars started non-passenger trials on Wednesday along a designated route; a transfer service is targeted for the second quarter of 2027."
-      },
-      "zh": {
-        "headline": "港鐵西九龍展開自動車路面測試 目標明年第二季提供接駁服務",
-        "dek": "四輛百度Apollo第六代自動私家車周三起在指定路段測試，初期不載客，後備操作員全程隨車；擬明年第二季推出高鐵與機場快綫接駁服務。"
-      }
-    },
-    {
-      "id": "2026-08-19-customs-cannabis-oil-lab",
-      "published_at": "2026-08-19T23:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "drugs",
-        "cannabis",
-        "kowloon-bay"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-19/2026-08-19-customs-cannabis-oil-lab.json",
-      "en": {
-        "headline": "Customs smash cannabis oil lab and distribution centre, seize HK$1.3 m drugs",
-        "dek": "A 46-year-old Indonesian man was arrested in Prince Edward and charged with manufacturing and trafficking dangerous drugs after raids on industrial units in Kowloon Bay and Yau Tong."
-      },
-      "zh": {
-        "headline": "海關搗破大麻油製毒工場及分銷中心 檢130萬元毒品拘一男",
-        "dek": "46歲持行街紙印尼籍男子在太子被捕，九龍灣及油塘工廈單位檢獲約1.9公斤懷疑大麻油、2.4公斤軟糖及2,200支煙彈，明日提堂。"
-      }
-    },
-    {
-      "id": "2026-08-19-lifestyle-summer-iff-2026",
-      "published_at": "2026-08-19T21:21:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "film",
-        "festival",
-        "cinema",
-        "hkiff"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-19/2026-08-19-lifestyle-summer-iff-2026.json",
-      "en": {
-        "headline": "Cine Fan Summer International Film Festival opens with Na Hong-jin’s HOPE",
-        "dek": "The Hong Kong International Film Festival Society’s summer programme runs until 31 August, opening with the South Korean director’s Cannes competition title and featuring a masterclass."
-      },
-      "zh": {
-        "headline": "夏日國際電影節開幕 羅泓軫《HOPE：逆襲希望港》打頭陣",
-        "dek": "香港國際電影節協會主辦的夏日影展即日至8月31日舉行，開幕電影為康城主競賽作品，導演將來港主持大師班。"
-      }
-    },
-    {
-      "id": "2026-08-19-qatar-airways-cargo-office",
-      "published_at": "2026-08-19T21:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "aviation",
-        "airport",
-        "cargo",
-        "qatar",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-19/2026-08-19-qatar-airways-cargo-office.json",
-      "en": {
-        "headline": "Qatar Airways Cargo opens Hong Kong regional office and signs MOU with Airport Authority",
-        "dek": "Secretary for Transport and Logistics Mable Chan said the move reflected confidence in Hong Kong as an international aviation hub and hinted at a forthcoming Central Asia passenger route."
-      },
-      "zh": {
-        "headline": "卡塔爾航空貨運設香港區域辦事處 與機管局簽備忘錄",
-        "dek": "運輸及物流局局長陳美寶表示此舉反映對香港作為國際航空樞紐的信心，並透露本地航空公司將公布中亞新航線。"
-      }
-    },
-    {
-      "id": "2026-08-19-chris-tang-huanggang-inspection",
-      "published_at": "2026-08-19T21:19:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "huanggang-port",
-        "security-bureau",
-        "chris-tang",
-        "border"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-19/2026-08-19-chris-tang-huanggang-inspection.json",
-      "en": {
-        "headline": "Chris Tang and Shenzhen officials inspect new Huanggang Port preparations",
-        "dek": "The Security Bureau chief said both sides agreed the port could open once systems are fully equipped and cross-boundary stress tests are completed successfully."
-      },
-      "zh": {
-        "headline": "鄧炳強與深圳官員視察新皇崗口岸準備工作",
-        "dek": "保安局局長表示雙方同意在檢測設施完善及跨境壓力測試順利完成後，可盡早啟用新口岸。"
-      }
-    },
-    {
-      "id": "2026-08-19-customs-opatra-arrests",
-      "published_at": "2026-08-19T21:18:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "trade-descriptions",
-        "consumer",
-        "beauty"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-19/2026-08-19-customs-opatra-arrests.json",
-      "en": {
-        "headline": "Customs arrest two Opatra London managers over alleged aggressive sales",
-        "dek": "A man and a woman described as financial and administration managers were detained on Wednesday after six complaints of high-pressure tactics involving sums of up to HK$100,000."
-      },
-      "zh": {
-        "headline": "海關拘Opatra London兩名經理 涉不良營商手法",
-        "dek": "海關周三拘捕一男一女管理人員，涉使用具威嚇性的營業行為，接獲至少六宗投訴，涉款由1,800元至10萬元不等。"
-      }
-    },
-    {
-      "id": "2026-08-19-strong-monsoon-signal-evening",
-      "published_at": "2026-08-19T21:17:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "strong-monsoon-signal",
-        "wind"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-19/2026-08-19-strong-monsoon-signal-evening.json",
-      "en": {
-        "headline": "Strong Monsoon Signal remains in force under continued easterly winds",
-        "dek": "The Hong Kong Observatory kept the signal active through the evening, warning of strong easterly winds, occasional gale-force gusts and rough seas, while monitoring a low-pressure area near Hainan."
-      },
-      "zh": {
-        "headline": "強烈季候風信號繼續生效 偏東強風及大浪持續",
-        "dek": "天文台周三晚維持強烈季候風信號，預料吹偏東強風，陣風間中達烈風程度，並密切監察南海北部低壓區動向。"
       }
     }
   ]
