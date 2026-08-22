@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-08-22T13:07:53+08:00",
+  "updated_at": "2026-08-22T21:16:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "thunderstorm-warning-aug22-evening",
+      "id": "2026-08-22-thunderstorm-warning-evening",
+      "first_seen": "2026-08-22T21:12:00+08:00",
+      "headline_en": "Thunderstorm Warning issued for New Territories, extended into evening"
+    },
+    {
+      "key": "sham-shui-po-scaffolding-collapse-aug22",
+      "id": "2026-08-22-sham-shui-po-scaffolding-collapse",
+      "first_seen": "2026-08-22T21:13:00+08:00",
+      "headline_en": "Worker injured after scaffolding collapses in Sham Shui Po"
+    },
+    {
+      "key": "pok-fu-lam-drug-driving-crash-aug22",
+      "id": "2026-08-22-pok-fu-lam-drug-driving-crash",
+      "first_seen": "2026-08-22T21:14:00+08:00",
+      "headline_en": "Driver arrested for drug driving after three-vehicle crash in Pok Fu Lam"
+    },
+    {
+      "key": "phishing-scam-arrests-aug22",
+      "id": "2026-08-22-phishing-scam-arrests",
+      "first_seen": "2026-08-22T21:15:00+08:00",
+      "headline_en": "Police arrest two men over phishing texts that netted more than HK$500,000"
+    },
+    {
+      "key": "ehealth-registration-87-percent",
+      "id": "2026-08-22-ehealth-87-percent",
+      "first_seen": "2026-08-22T21:16:00+08:00",
+      "headline_en": "eHealth registration reaches 87 per cent of Hong Kong population"
+    },
     {
       "key": "huanggang-port-saturday-drill",
       "id": "2026-08-22-huanggang-port-drill",

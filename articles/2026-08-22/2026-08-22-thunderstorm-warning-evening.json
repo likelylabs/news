@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-22-thunderstorm-warning-evening",
+  "published_at": "2026-08-22T21:12:00+08:00",
+  "category": "weather",
+  "tags": ["thunderstorm-warning", "hko", "showers"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "thunderstorm-warning-aug22-evening",
+  "en": {
+    "headline": "Thunderstorm Warning issued for New Territories, extended into evening",
+    "dek": "The Hong Kong Observatory issued the warning at 5:52 p.m. and later extended it, expecting isolated thunderstorms over the New Territories.",
+    "body": [
+      "The Hong Kong Observatory issued a Thunderstorm Warning at 5:52 p.m. on Saturday, later extending its validity into the evening as isolated thunderstorms were expected over the New Territories.",
+      "Lightning was detected in parts of the New Territories during the evening. Members of the public were advised to seek safe shelter if outdoors, leave water areas and avoid high ground or conductive objects.",
+      "A broad trough of low pressure continued to bring cloudy conditions and showers to the territory. The Observatory was also monitoring Tropical Storm Narra near Beibu Wan and Tropical Depression Gaenari to the east."
+    ]
+  },
+  "zh": {
+    "headline": "天文台發出雷暴警告至晚間 預料新界局部有雷暴",
+    "dek": "天文台下午5時52分發出雷暴警告，其後延長有效時間，預料新界有局部地區雷暴。",
+    "body": [
+      "香港天文台周六下午5時52分發出雷暴警告，其後延長有效時間至晚間，預料新界有局部地區雷暴。",
+      "晚間新界部分地區曾偵測到閃電。天文台呼籲市民如身處室外應到安全地方躲避，離開水面，切勿站立於高地或接近導電物體。",
+      "廣闊低壓槽持續影響本港，帶來多雲及驟雨天氣。天文台同時監察位於北部灣的熱帶風暴簡拉維及以東的熱帶低氣壓。"
+    ]
+  }
+}
