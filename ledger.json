@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-08-22T21:14:09+08:00",
+  "updated_at": "2026-08-23T03:05:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-peppa-pig-fun-day-out-final",
+      "id": "2026-08-23-lifestyle-peppa-pig-fun-day-out-final",
+      "first_seen": "2026-08-23T03:05:00+08:00",
+      "headline_en": "Peppa Pig’s Fun Day Out ends its Hong Kong debut today at East Kowloon Cultural Centre"
+    },
     {
       "key": "thunderstorm-warning-aug22-evening",
       "id": "2026-08-22-thunderstorm-warning-evening",
