@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-08-23T13:08:02+08:00",
+  "generated_at": "2026-08-23T15:10:14+08:00",
   "live_window_hours": 72,
-  "count": 45,
+  "count": 49,
   "articles": [
+    {
+      "id": "2026-08-23-lifestyle-isaac-chong-wai-tai-kwun",
+      "published_at": "2026-08-23T15:16:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "arts",
+        "tai-kwun",
+        "exhibition",
+        "performance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-23/2026-08-23-lifestyle-isaac-chong-wai-tai-kwun.json",
+      "en": {
+        "headline": "Isaac Chong Wai’s first solo live-art show at Tai Kwun ends today",
+        "dek": "The Berlin-based Hong Kong artist’s exhibition of conceptual performances exploring collective memory and vulnerability closes on Sunday after a run at Tai Kwun Contemporary."
+      },
+      "zh": {
+        "headline": "張子謙首個本地現場藝術個展大館今日結束",
+        "dek": "駐柏林香港藝術家張子謙於大館當代美術館的概念表演展今日閉幕，探討集體記憶與脆弱性。"
+      }
+    },
+    {
+      "id": "2026-08-23-kwong-wah-hospital-arson",
+      "published_at": "2026-08-23T15:14:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "arson",
+        "hospital",
+        "yau-ma-tei"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-23/2026-08-23-kwong-wah-hospital-arson.json",
+      "en": {
+        "headline": "Patient arrested after bedding and restraint belts set ablaze at Kwong Wah Hospital",
+        "dek": "A 25-year-old man was arrested on suspicion of arson after a fire broke out at the Yau Ma Tei hospital in the early hours of Sunday; no injuries were reported."
+      },
+      "zh": {
+        "headline": "廣華醫院病人點燃約束帶及床墊 25歲男子涉縱火被捕",
+        "dek": "周日凌晨油麻地廣華醫院發生可疑火警，一名25歲姓黃男病人涉嫌點燃約束帶及床墊，無人受傷，已被警方拘捕。"
+      }
+    },
+    {
+      "id": "2026-08-23-very-hot-thunderstorm-warnings",
+      "published_at": "2026-08-23T15:12:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "very-hot-weather-warning",
+        "thunderstorm-warning",
+        "heat"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-23/2026-08-23-very-hot-thunderstorm-warnings.json",
+      "en": {
+        "headline": "Very Hot Weather and Thunderstorm Warnings in force this afternoon",
+        "dek": "The Hong Kong Observatory issued the Very Hot Weather Warning at 1:10 p.m. and a Thunderstorm Warning at 2 p.m., valid until 4 p.m., expecting isolated thunderstorms over Lantau and the New Territories."
+      },
+      "zh": {
+        "headline": "酷熱天氣警告及雷暴警告生效 預料大嶼山新界局部有雷暴",
+        "dek": "天文台下午1時10分發出酷熱天氣警告，下午2時發出雷暴警告至4時，預料大嶼山及新界有局部雷暴。"
+      }
+    },
+    {
+      "id": "2026-08-23-workweek-weather-outlook",
+      "published_at": "2026-08-23T15:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "workweek-outlook",
+        "showers",
+        "thunderstorms",
+        "narra"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-23/2026-08-23-workweek-weather-outlook.json",
+      "en": {
+        "headline": "Work-week outlook: unsettled with showers and possible tropical cyclone signals",
+        "dek": "The Hong Kong Observatory expects cloudy conditions with occasional showers and squally thunderstorms early to midweek as Tropical Storm Narra edges closer to western Guangdong, with very hot weather returning later…"
+      },
+      "zh": {
+        "headline": "下周展望：初中期不穩定有驟雨 或發熱帶氣旋警告",
+        "dek": "天文台預料受廣闊低壓槽及熱帶風暴紫檀影響，下周初至中期多雲有驟雨及狂風雷暴，風勢較大，稍後轉酷熱。"
+      }
+    },
     {
       "id": "2026-08-23-erb-ai-courses-november",
       "published_at": "2026-08-23T13:24:00+08:00",
