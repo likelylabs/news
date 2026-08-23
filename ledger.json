@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-23T21:13:41+08:00",
+  "updated_at": "2026-08-23T23:08:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "ethnic-minority-care-teams-18000-households",
+      "id": "2026-08-23-ethnic-minority-care-teams-update",
+      "first_seen": "2026-08-23T23:07:00+08:00",
+      "headline_en": "Ethnic minority care teams have reached more than 18,000 households"
+    },
+    {
+      "key": "senior-civil-servants-pku-mpa-fifth-cohort",
+      "id": "2026-08-23-senior-civil-servants-pku-course",
+      "first_seen": "2026-08-23T23:06:00+08:00",
+      "headline_en": "Fifteen senior civil servants to begin year-long study at Peking University"
+    },
+    {
+      "key": "tropical-storm-narra-signal-assessment-aug23",
+      "id": "2026-08-23-tropical-storm-narra-signals",
+      "first_seen": "2026-08-23T23:05:00+08:00",
+      "headline_en": "Observatory monitors Tropical Storm Narra for possible signals midweek"
+    },
     {
       "key": "ride-hailing-combined-test-applications-aug23",
       "id": "2026-08-23-ride-hailing-test-applications",
@@ -192,7 +210,7 @@
       "key": "lifestyle-sportfest-hk-2026",
       "id": "2026-08-22-lifestyle-sportfest-hk-2026",
       "first_seen": "2026-08-22T01:12:00+08:00",
-      "headline_en": "Sportfest Hong Kong continues at HKCEC with pickleball and new sports trials"
+      "headline_en": "Sportfest Hong Kong continues this weekend at HKCEC with pickleball and new sports trials"
     },
     {
       "key": "icac-hku-it-education-bribery",
