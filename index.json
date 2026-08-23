@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-08-23T15:10:14+08:00",
+  "generated_at": "2026-08-23T21:13:41+08:00",
   "live_window_hours": 72,
   "count": 49,
   "articles": [
+    {
+      "id": "2026-08-23-ride-hailing-test-applications",
+      "published_at": "2026-08-23T21:17:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "ride-hailing",
+        "taxi",
+        "mable-chan",
+        "transport-department",
+        "licensing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-23/2026-08-23-ride-hailing-test-applications.json",
+      "en": {
+        "headline": "More than 7,500 apply for combined taxi and ride-hailing written test",
+        "dek": "Transport Secretary Mable Chan said the new exam, open since 3 August, has drawn strong interest and that platforms will be invited to apply for licences in the coming weeks."
+      },
+      "zh": {
+        "headline": "的士及網約車綜合筆試逾7500人報考 未來數周邀平台申請牌照",
+        "dek": "運輸及物流局長陳美寶表示，綜合筆試自本月3日開放申請以來已有逾7500人報名，未來數星期會邀請網約車平台申請牌照。"
+      }
+    },
+    {
+      "id": "2026-08-23-abu-robocon-hku-champion",
+      "published_at": "2026-08-23T21:16:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "robotics",
+        "hku",
+        "cuhk",
+        "robocon",
+        "innovation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-23/2026-08-23-abu-robocon-hku-champion.json",
+      "en": {
+        "headline": "HKU wins ABU Robocon 2026 as both local teams reach final",
+        "dek": "The University of Hong Kong team defeated the Chinese University of Hong Kong 240-100 in the final of the Asia-Pacific Broadcasting Union robotics contest held at Queen Elizabeth Stadium."
+      },
+      "zh": {
+        "headline": "亞太廣播聯盟機械人大賽港大奪冠 中大屈居亞軍",
+        "dek": "亞太廣播聯盟機械人大賽周日於伊利沙伯體育館舉行，港大「格物」隊決賽以240比100擊敗中大「功無不克」隊奪冠。"
+      }
+    },
+    {
+      "id": "2026-08-23-shek-lei-escalator-accident",
+      "published_at": "2026-08-23T21:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "accident",
+        "shek-lei",
+        "kwai-chung",
+        "escalator",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-23/2026-08-23-shek-lei-escalator-accident.json",
+      "en": {
+        "headline": "Two men injured after escalator fall at Shek Lei Shopping Centre",
+        "dek": "A 76-year-old man lost his balance on a Phase 1 escalator on Sunday afternoon, colliding with a 68-year-old man behind him; both were taken to hospital conscious."
+      },
+      "zh": {
+        "headline": "石籬商場扶手電梯兩男跌倒受傷 七旬翁一度被困",
+        "dek": "周日下午一名76歲男子在石籬商場一期扶手電梯失平衡向後跌，撞倒身後68歲男子，兩人清醒送瑪嘉烈醫院。"
+      }
+    },
     {
       "id": "2026-08-23-lifestyle-isaac-chong-wai-tai-kwun",
       "published_at": "2026-08-23T15:16:00+08:00",
@@ -1040,74 +1109,6 @@
       "zh": {
         "headline": "天文台傍晚發出雷暴警告至晚上8時30分",
         "dek": "天文台下午7時05分發出雷暴警告，預料香港有局部地區雷暴，有效時間至晚上8時30分。"
-      }
-    },
-    {
-      "id": "2026-08-20-customs-35m-money-laundering",
-      "published_at": "2026-08-20T15:17:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "money-laundering",
-        "drugs",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-20/2026-08-20-customs-35m-money-laundering.json",
-      "en": {
-        "headline": "Customs arrest two over HK$35 million money-laundering linked to earlier drug case",
-        "dek": "Financial investigation of a 2025 narcotics seizure uncovered suspicious transfers of about HK$35 million through the personal bank accounts of two 33-year-old local men between January 2024 and August 2025."
-      },
-      "zh": {
-        "headline": "海關跟進毒品案拘兩男 涉清洗黑錢約3500萬元",
-        "dek": "根據2025年一宗毒品案財富調查，兩名33歲本地男子個人銀行戶口於2024年1月至2025年8月有大量可疑交易，涉款約3500萬元，昨被控處理犯罪得益。"
-      }
-    },
-    {
-      "id": "2026-08-20-police-youth-drug-stores",
-      "published_at": "2026-08-20T15:16:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "drugs",
-        "youth",
-        "kwai-chung",
-        "tsueng-wan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-20/2026-08-20-police-youth-drug-stores.json",
-      "en": {
-        "headline": "Police smash three drug stores in Kwai Chung and Tsuen Wan, arrest four including three…",
-        "dek": "Officers seized ketamine, crack cocaine and other drugs worth more than HK$1.4 million; a 19-year-old is alleged to have recruited the three minors for storage, packaging and delivery work during the summer holiday."
-      },
-      "zh": {
-        "headline": "警搗葵涌荃灣三毒品倉拘4人 包括3名未成年少年",
-        "dek": "檢獲氯胺酮、霹靂可卡因等市值逾140萬元毒品；19歲男子疑招攬3名16至17歲少年管倉、包裝及派送，每人報酬數百元，案件明日西九龍法院提堂。"
-      }
-    },
-    {
-      "id": "2026-08-20-td-ai-licence-smart-lights",
-      "published_at": "2026-08-20T15:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport-department",
-        "ai",
-        "traffic",
-        "causeway-bay",
-        "licence"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-20/2026-08-20-td-ai-licence-smart-lights.json",
-      "en": {
-        "headline": "Transport Department to use AI for faster licence renewals and smart traffic lights",
-        "dek": "Online vehicle licence renewals and cross-boundary permit applications are targeted for automated approval by year-end; a Causeway Bay junction will trial real-time pedestrian-priority signals from early 2027."
-      },
-      "zh": {
-        "headline": "運輸署推AI加快續牌及智慧燈號 銅鑼灣路口明年試行",
-        "dek": "年底起用大型語言模型自動審批網上續領車牌及跨境駕駛計劃申請，目標九成自動批核、最長審批時間由10個工作天縮至1天；銅鑼灣告士打道路口明年首季試行實時燈號，行人最長等候可減15至20秒。"
       }
     }
   ]
