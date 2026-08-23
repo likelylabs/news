@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-08-24T01:12:08+08:00",
+  "generated_at": "2026-08-24T03:05:18+08:00",
   "live_window_hours": 72,
-  "count": 45,
+  "count": 46,
   "articles": [
+    {
+      "id": "2026-08-24-lifestyle-design-ah-m-plus",
+      "published_at": "2026-08-24T03:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "m-plus",
+        "west-kowloon",
+        "family",
+        "design"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-24/2026-08-24-lifestyle-design-ah-m-plus.json",
+      "en": {
+        "headline": "Design Ah! interactive exhibition continues at M+ through January",
+        "dek": "The family-friendly show exploring everyday design through 21 play stations remains open at the Main Hall Gallery in West Kowloon until 10 January 2027."
+      },
+      "zh": {
+        "headline": "M+《設計啊！》互動展持續至明年一月",
+        "dek": "以日常設計為題的親子互動展覽於西九文化區M+主展廳舉行，設21個體驗站，展期至2027年1月10日。"
+      }
+    },
     {
       "id": "2026-08-24-lifestyle-computer-communications-festival-final",
       "published_at": "2026-08-24T01:15:00+08:00",
