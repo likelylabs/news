@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-23T13:08:02+08:00",
+  "updated_at": "2026-08-23T15:16:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "workweek-weather-outlook-aug24-28",
+      "id": "2026-08-23-workweek-weather-outlook",
+      "first_seen": "2026-08-23T15:10:00+08:00",
+      "headline_en": "Work-week outlook: unsettled with showers and possible tropical cyclone signals"
+    },
+    {
+      "key": "very-hot-thunderstorm-warnings-aug23-afternoon",
+      "id": "2026-08-23-very-hot-thunderstorm-warnings",
+      "first_seen": "2026-08-23T15:12:00+08:00",
+      "headline_en": "Very Hot Weather and Thunderstorm Warnings in force this afternoon"
+    },
+    {
+      "key": "kwong-wah-hospital-arson-aug23",
+      "id": "2026-08-23-kwong-wah-hospital-arson",
+      "first_seen": "2026-08-23T15:14:00+08:00",
+      "headline_en": "Patient arrested after bedding and restraint belts set ablaze at Kwong Wah Hospital"
+    },
+    {
+      "key": "lifestyle-isaac-chong-wai-tai-kwun-final",
+      "id": "2026-08-23-lifestyle-isaac-chong-wai-tai-kwun",
+      "first_seen": "2026-08-23T15:16:00+08:00",
+      "headline_en": "Isaac Chong Wai’s first solo live-art show at Tai Kwun ends today"
+    },
     {
       "key": "tseung-kwan-o-taxi-fatal-crash-aug23",
       "id": "2026-08-23-tseung-kwan-o-taxi-fatal-crash",
