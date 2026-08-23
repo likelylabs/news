@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-23T23:05:52+08:00",
+  "generated_at": "2026-08-24T01:12:08+08:00",
   "live_window_hours": 72,
-  "count": 47,
+  "count": 45,
   "articles": [
+    {
+      "id": "2026-08-24-lifestyle-computer-communications-festival-final",
+      "published_at": "2026-08-24T01:15:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "ai",
+        "wan-chai",
+        "hkcec"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-24/2026-08-24-lifestyle-computer-communications-festival-final.json",
+      "en": {
+        "headline": "Hong Kong Computer & Communications Festival ends today at HKCEC",
+        "dek": "The four-day tech fair focused on AI applications closes at 7 pm on Monday after drawing exhibitors and visitors to Hall 1 of the Convention and Exhibition Centre."
+      },
+      "zh": {
+        "headline": "香港電腦通訊節今日閉幕 會展開放至晚上七時",
+        "dek": "以人工智能應用為主題的四日科技展覽今日最後一日於灣仔會展一號展覽廳舉行，晚上七時結束。"
+      }
+    },
     {
       "id": "2026-08-23-ethnic-minority-care-teams-update",
       "published_at": "2026-08-23T23:07:00+08:00",
@@ -1000,74 +1023,6 @@
       "zh": {
         "headline": "天文台昨晚發出雷暴警告 今早5時45分取消",
         "dek": "天文台凌晨12時30分發出雷暴警告，其後延長至早上6時30分，預料局部地區有狂風雷暴，清晨5時45分取消。"
-      }
-    },
-    {
-      "id": "2026-08-20-cathay-almaty-flights",
-      "published_at": "2026-08-20T23:19:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "aviation",
-        "cathay-pacific",
-        "airport",
-        "transport",
-        "tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-20/2026-08-20-cathay-almaty-flights.json",
-      "en": {
-        "headline": "Cathay Pacific to launch direct flights to Almaty from January 2027",
-        "dek": "The three-times-weekly service will be the airline’s first Central Asian destination and the only non-stop link between Hong Kong and Kazakhstan, subject to regulatory approval."
-      },
-      "zh": {
-        "headline": "國泰明年1月開通阿拉木圖直航 成中亞首個航點",
-        "dek": "每周三班服務將成為國泰首個中亞目的地，亦是香港與哈薩克之間唯一直航客運航線，尚待當局批准。"
-      }
-    },
-    {
-      "id": "2026-08-20-customs-lok-ma-chau-cats",
-      "published_at": "2026-08-20T23:18:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "smuggling",
-        "animals",
-        "lok-ma-chau",
-        "afcd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-20/2026-08-20-customs-lok-ma-chau-cats.json",
-      "en": {
-        "headline": "Customs seize three live cats at Lok Ma Chau Spur Line, arrest woman",
-        "dek": "A 68-year-old mainland passenger was intercepted in the arrival hall with the animals in her luggage; the cats are valued at about HK$36,000 and the case has been referred to the AFCD."
-      },
-      "zh": {
-        "headline": "海關落馬洲支線檢3隻懷疑非法進口活貓 拘68歲女",
-        "dek": "關員在入境大堂截查一名抵港內地女旅客，於行李內發現3隻活貓，估計市值約3.6萬元，案件交漁護署跟進。"
-      }
-    },
-    {
-      "id": "2026-08-20-ta-kwu-ling-woman-death",
-      "published_at": "2026-08-20T23:17:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "ta-kwu-ling",
-        "animal",
-        "death"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-20/2026-08-20-ta-kwu-ling-woman-death.json",
-      "en": {
-        "headline": "Woman found dead in Ta Kwu Ling with suspected animal bite marks",
-        "dek": "Police are investigating after a 33-year-old woman was discovered collapsed outside a village house near a dog training centre and boarding facility on Thursday afternoon."
-      },
-      "zh": {
-        "headline": "打鼓嶺女子伏屍村屋外 身上疑有動物咬噬痕跡",
-        "dek": "一名33歲女子周四下午在坪洋新村坪原路一村屋外被發現倒臥，當場證實死亡，屍體有懷疑動物咬噬痕跡，警方正調查。"
       }
     }
   ]
