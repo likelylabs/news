@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-08-23T21:13:41+08:00",
+  "generated_at": "2026-08-23T23:05:52+08:00",
   "live_window_hours": 72,
-  "count": 49,
+  "count": 47,
   "articles": [
+    {
+      "id": "2026-08-23-ethnic-minority-care-teams-update",
+      "published_at": "2026-08-23T23:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "ethnic-minorities",
+        "chan-kwok-ki",
+        "home-affairs",
+        "care-teams",
+        "inclusion"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-23/2026-08-23-ethnic-minority-care-teams-update.json",
+      "en": {
+        "headline": "Ethnic minority care teams have reached more than 18,000 households",
+        "dek": "Chief Secretary Chan Kwok-ki said the teams, operating from ten support service centres, have delivered real impact through home visits and emergency support over the past two years."
+      },
+      "zh": {
+        "headline": "少數族裔關愛隊兩年多接觸逾1.8萬戶家庭",
+        "dek": "政務司司長陳國基表示，關愛隊由十間支援服務中心營運，透過家訪及緊急支援發揮實質作用。"
+      }
+    },
+    {
+      "id": "2026-08-23-senior-civil-servants-pku-course",
+      "published_at": "2026-08-23T23:06:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "civil-service",
+        "ingrid-yeung",
+        "beijing",
+        "training",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-23/2026-08-23-senior-civil-servants-pku-course.json",
+      "en": {
+        "headline": "Fifteen senior civil servants to begin year-long study at Peking University",
+        "dek": "Secretary for the Civil Service Ingrid Yeung said the fifth cohort of the two-year Master of Public Administration programme will start immersive learning in Beijing next month."
+      },
+      "zh": {
+        "headline": "15名高級公務員下月赴北大展開一年沉浸式學習",
+        "dek": "公務員事務局局長楊何蓓茵表示，第五屆高級公務員公共管理碩士課程學員將於九月在北京大學展開全年學習。"
+      }
+    },
+    {
+      "id": "2026-08-23-tropical-storm-narra-signals",
+      "published_at": "2026-08-23T23:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "tropical-cyclone",
+        "narra",
+        "thunderstorms",
+        "showers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-23/2026-08-23-tropical-storm-narra-signals.json",
+      "en": {
+        "headline": "Observatory monitors Tropical Storm Narra for possible signals midweek",
+        "dek": "The Hong Kong Observatory said Narra is expected to linger over Beibu Wan before turning northeast towards the Leizhou Peninsula, with an assessment of tropical cyclone warning signals on Tuesday or Wednesday."
+      },
+      "zh": {
+        "headline": "天文台密切監察熱帶風暴紫檀 周二或周三或發熱帶氣旋警告",
+        "dek": "天文台表示紫檀預料於北部灣徘徊後轉向東北靠近雷州半島，會評估周二或周三是否需要發出熱帶氣旋警告信號。"
+      }
+    },
     {
       "id": "2026-08-23-ride-hailing-test-applications",
       "published_at": "2026-08-23T21:17:00+08:00",
@@ -999,116 +1068,6 @@
       "zh": {
         "headline": "打鼓嶺女子伏屍村屋外 身上疑有動物咬噬痕跡",
         "dek": "一名33歲女子周四下午在坪洋新村坪原路一村屋外被發現倒臥，當場證實死亡，屍體有懷疑動物咬噬痕跡，警方正調查。"
-      }
-    },
-    {
-      "id": "2026-08-20-yuen-long-child-scald-arrest",
-      "published_at": "2026-08-20T21:19:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "yuen-long",
-        "child",
-        "domestic-helper"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-20/2026-08-20-yuen-long-child-scald-arrest.json",
-      "en": {
-        "headline": "Domestic helper arrested after toddler suffers second-degree burns in Yuen Long",
-        "dek": "A 30-year-old Indonesian woman was detained on suspicion of ill-treating or neglecting a child in her care; the 23-month-old girl remains in hospital under observation."
-      },
-      "zh": {
-        "headline": "元朗女童手部二級燒傷 30歲印傭涉虐兒被捕",
-        "dek": "23個月大女童雙手燙傷送院觀察，印尼籍家庭傭工涉嫌對所看管兒童虐待或忽略，明日提堂。"
-      }
-    },
-    {
-      "id": "2026-08-20-haeco-calc-engine-mou",
-      "published_at": "2026-08-20T21:18:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "aviation",
-        "haeco",
-        "airport",
-        "transport",
-        "economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-20/2026-08-20-haeco-calc-engine-mou.json",
-      "en": {
-        "headline": "HAECO and CALC sign MOU to develop aircraft engine maintenance centre in Hong Kong",
-        "dek": "The partnership will focus initially on quick-turn services, hospital repairs and engine asset management, according to the Transport and Logistics Bureau."
-      },
-      "zh": {
-        "headline": "港機工程與中國飛機租賃簽備忘錄 擬設引擎快修中心",
-        "dek": "合作初期聚焦快修、大修及引擎資產管理，運輸及物流局指有助鞏固航空樞紐地位。"
-      }
-    },
-    {
-      "id": "2026-08-20-cpi-july-2026",
-      "published_at": "2026-08-20T21:17:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "inflation",
-        "cpi",
-        "census-statistics",
-        "economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-20/2026-08-20-cpi-july-2026.json",
-      "en": {
-        "headline": "July consumer prices rise 1.7% year on year as inflation stays moderate",
-        "dek": "The smaller increase from June mainly reflected a rates concession; underlying inflation held at 1.9% after stripping out one-off relief measures."
-      },
-      "zh": {
-        "headline": "7月綜合消費物價指數按年升1.7% 基本通脹維持1.9%",
-        "dek": "升幅較6月放緩主因差餉寬免，剔除政府一次性措施後基本通脹率與上月相同。"
-      }
-    },
-    {
-      "id": "2026-08-20-unemployment-may-july-2026",
-      "published_at": "2026-08-20T21:16:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "employment",
-        "census-statistics",
-        "labour",
-        "economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-20/2026-08-20-unemployment-may-july-2026.json",
-      "en": {
-        "headline": "Unemployment rate holds steady at 3.7% for May–July period",
-        "dek": "The seasonally adjusted jobless rate remained unchanged while the underemployment rate edged up to 1.7%; total employment rose by about 1,500 people."
-      },
-      "zh": {
-        "headline": "5至7月失業率維持3.7% 就業不足率微升至1.7%",
-        "dek": "經季節性調整失業率與上期相同，總就業人數增加約1,500人，失業人數增加約6,000人。"
-      }
-    },
-    {
-      "id": "2026-08-20-thunderstorm-warning-evening",
-      "published_at": "2026-08-20T21:15:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "thunderstorm-warning",
-        "hko",
-        "showers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-20/2026-08-20-thunderstorm-warning-evening.json",
-      "en": {
-        "headline": "Thunderstorm Warning issued until 8:30 pm as isolated storms affect Hong Kong",
-        "dek": "The Hong Kong Observatory issued the warning at 7:05 p.m., expecting isolated thunderstorms over the territory before cancelling it later in the evening."
-      },
-      "zh": {
-        "headline": "天文台傍晚發出雷暴警告至晚上8時30分",
-        "dek": "天文台下午7時05分發出雷暴警告，預料香港有局部地區雷暴，有效時間至晚上8時30分。"
       }
     }
   ]
