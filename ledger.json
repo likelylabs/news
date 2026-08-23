@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-23T15:10:14+08:00",
+  "updated_at": "2026-08-23T21:18:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "ride-hailing-combined-test-applications-aug23",
+      "id": "2026-08-23-ride-hailing-test-applications",
+      "first_seen": "2026-08-23T21:17:00+08:00",
+      "headline_en": "More than 7,500 apply for combined taxi and ride-hailing written test"
+    },
+    {
+      "key": "abu-robocon-2026-hku-champion",
+      "id": "2026-08-23-abu-robocon-hku-champion",
+      "first_seen": "2026-08-23T21:16:00+08:00",
+      "headline_en": "HKU wins ABU Robocon 2026 as both local teams reach final"
+    },
+    {
+      "key": "shek-lei-escalator-accident-aug23",
+      "id": "2026-08-23-shek-lei-escalator-accident",
+      "first_seen": "2026-08-23T21:15:00+08:00",
+      "headline_en": "Two men injured after escalator fall at Shek Lei Shopping Centre"
+    },
     {
       "key": "workweek-weather-outlook-aug24-28",
       "id": "2026-08-23-workweek-weather-outlook",
