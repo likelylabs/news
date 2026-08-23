@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-23T09:06:32+08:00",
+  "generated_at": "2026-08-23T11:06:33+08:00",
   "live_window_hours": 72,
-  "count": 47,
+  "count": 45,
   "articles": [
+    {
+      "id": "2026-08-23-lifestyle-loft-moko-mong-kok",
+      "published_at": "2026-08-23T11:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "shopping",
+        "mong-kok",
+        "japanese",
+        "retail"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-23/2026-08-23-lifestyle-loft-moko-mong-kok.json",
+      "en": {
+        "headline": "Japanese lifestyle retailer LOFT returns to Hong Kong with one-year pop-up at MOKO",
+        "dek": "After a 15-year absence the stationery and novelty specialist opened on Saturday at Mong Kok’s New Century Plaza, stocking about 3,500 products of which half are exclusive to the local market."
+      },
+      "zh": {
+        "headline": "日本生活雜貨店LOFT闊別15年重返香港 旺角MOKO設一年限定店",
+        "dek": "文具及創意雜貨品牌周六於旺角新世紀廣場開業，店內約3,500款產品中有半數為香港限定，由引入3COINS的YAICHI集團營運。"
+      }
+    },
     {
       "id": "2026-08-23-lifestyle-teemtonefai-sheung-wan",
       "published_at": "2026-08-23T09:15:00+08:00",
@@ -995,71 +1018,6 @@
       "zh": {
         "headline": "警無人機執法截七人車 檢大麻及「偉哥」拘男司機",
         "dek": "新界南交通特遣隊今早在三號幹線及龍翔道一帶用無人機執法，於清麗苑附近截停一輛行駛不穩及車牌不合規格的七人車，車內檢獲懷疑大麻及壯陽藥。"
-      }
-    },
-    {
-      "id": "2026-08-20-sheung-shui-rolex-robbery",
-      "published_at": "2026-08-20T09:12:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "crime",
-        "robbery",
-        "sheung-shui"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-20/2026-08-20-sheung-shui-rolex-robbery.json",
-      "en": {
-        "headline": "Man attacked and robbed of HK$300,000 Rolex in Sheung Shui",
-        "dek": "Five men armed with iron bars set upon a 36-year-old victim near Hak Pai Tsai Village late on Wednesday; the attackers fled in a private car and no arrests have been made."
-      },
-      "zh": {
-        "headline": "上水男子遇襲被搶30萬元勞力士錶 五賊在逃",
-        "dek": "36歲事主周三晚在沙頭角公路龍躍頭段黑排仔村遭五名男子持鐵通襲擊，勞力士錶被掠走，事主手部受傷及腰痛送院。"
-      }
-    },
-    {
-      "id": "2026-08-20-mong-kok-card-shop-scam",
-      "published_at": "2026-08-20T09:11:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "crime",
-        "fraud",
-        "mong-kok"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-20/2026-08-20-mong-kok-card-shop-scam.json",
-      "en": {
-        "headline": "Three arrested over Mong Kok One Piece card shop scam involving HK$1.47 m",
-        "dek": "Police say 44 victims paid for game cards at a Nathan Road shop that suddenly closed; two local men and a foreign woman were detained on Tuesday on suspicion of obtaining property by deception."
-      },
-      "zh": {
-        "headline": "旺角海賊王卡牌店涉走數 44人損失147萬元拘三人",
-        "dek": "警方指受害人向彌敦道一間遊戲卡店訂貨付款後店舖突結業，兩名本地男子及一名外籍女子周二被捕，涉嫌以欺騙手段取得財產。"
-      }
-    },
-    {
-      "id": "2026-08-20-thunderstorm-warning-morning",
-      "published_at": "2026-08-20T09:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "thunderstorm-warning",
-        "hko",
-        "showers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-20/2026-08-20-thunderstorm-warning-morning.json",
-      "en": {
-        "headline": "Thunderstorm Warning issued until 10:30 am as squally storms approach",
-        "dek": "The Hong Kong Observatory issued the warning at 8:40 a.m., expecting isolated squally thunderstorms over the territory after areas of intense showers edged closer from the south and east."
-      },
-      "zh": {
-        "headline": "天文台發出雷暴警告至上午10時30分",
-        "dek": "天文台上午8時40分發出雷暴警告，預料香港有局部地區出現狂風雷暴，早前特別天氣提示指南部及東部海域強雨區正逐漸靠近。"
       }
     }
   ]
