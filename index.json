@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-23T07:07:41+08:00",
+  "generated_at": "2026-08-23T09:06:32+08:00",
   "live_window_hours": 72,
-  "count": 48,
+  "count": 47,
   "articles": [
+    {
+      "id": "2026-08-23-lifestyle-teemtonefai-sheung-wan",
+      "published_at": "2026-08-23T09:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "sheung-wan",
+        "ice-cream",
+        "local"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-23/2026-08-23-lifestyle-teemtonefai-sheung-wan.json",
+      "en": {
+        "headline": "Local ice-cream brand TEEMTONEfai opens first permanent shop in Sheung Wan",
+        "dek": "After a decade of pop-ups, the Hong Kong maker known for inventive flavours has settled at Upper Lascar Row with nine new Chinese-inspired scoops and soft-opening promotions through the end of August."
+      },
+      "zh": {
+        "headline": "本地雪糕品牌TEEMTONEfai上環開首間實體店",
+        "dek": "成立十年後，以創意口味聞名的香港雪糕品牌終於在上環摩羅上街落腳，推出九款中式靈感新口味，試業優惠至八月底。"
+      }
+    },
     {
       "id": "2026-08-23-lifestyle-para-site-unsubscribe-all",
       "published_at": "2026-08-23T07:10:00+08:00",
@@ -1037,52 +1060,6 @@
       "zh": {
         "headline": "天文台發出雷暴警告至上午10時30分",
         "dek": "天文台上午8時40分發出雷暴警告，預料香港有局部地區出現狂風雷暴，早前特別天氣提示指南部及東部海域強雨區正逐漸靠近。"
-      }
-    },
-    {
-      "id": "2026-08-20-kwai-chung-hospital-child-psych",
-      "published_at": "2026-08-20T07:11:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "hospital-authority",
-        "mental-health",
-        "kwai-chung",
-        "paediatric",
-        "public-health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-20/2026-08-20-kwai-chung-hospital-child-psych.json",
-      "en": {
-        "headline": "Kwai Chung Hospital opens city’s first dedicated psychiatric block for under-18s",
-        "dek": "The redeveloped main and child-and-adolescent blocks provide 1,000 beds and a ‘therapeutic village’ design; most services have already moved, with remaining relocation due by September."
-      },
-      "zh": {
-        "headline": "葵涌醫院新大樓啟用 設全港首個精神科兒童青少年服務座",
-        "dek": "重建後主座及兒童青少年服務座提供1,000張病床，引入治療村概念；絕大部分服務已遷入，餘下預計9月完成。"
-      }
-    },
-    {
-      "id": "2026-08-20-jupas-rr-offers-aug20",
-      "published_at": "2026-08-20T07:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "jupas",
-        "education",
-        "dse",
-        "university",
-        "admissions"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-20/2026-08-20-jupas-rr-offers-aug20.json",
-      "en": {
-        "headline": "JUPAS: 287 of 453 applicants succeed in reconsideration after DSE review",
-        "dek": "Sixty-three per cent of those who sought a fresh look after rechecking results received an offer or a higher-preference programme; 83 students who had none previously gained a place."
-      },
-      "zh": {
-        "headline": "聯招覆核後重新考慮結果公布 287人成功佔六成三",
-        "dek": "453名申請人中287人獲取錄或較高次序課程，成功率63.4%；83人由原先未獲派學位變為獲取錄。"
       }
     }
   ]
