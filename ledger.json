@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-24T09:14:52+08:00",
+  "updated_at": "2026-08-24T11:15:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-guoquan-shihui-wan-chai",
+      "id": "2026-08-24-lifestyle-guoquan-shihui-wan-chai",
+      "first_seen": "2026-08-24T11:14:00+08:00",
+      "headline_en": "Mainland hotpot-ingredient chain Guoquan opens first Hong Kong store in Wan Chai"
+    },
+    {
+      "key": "shein-hong-kong-ipo-launch",
+      "id": "2026-08-24-shein-hong-kong-ipo",
+      "first_seen": "2026-08-24T11:12:00+08:00",
+      "headline_en": "Shein launches Hong Kong IPO aiming for up to US$27 billion valuation"
+    },
+    {
+      "key": "shui-chuen-o-burglary-aug24",
+      "id": "2026-08-24-shui-chuen-o-burglary",
+      "first_seen": "2026-08-24T11:10:00+08:00",
+      "headline_en": "Burglars take more than HK$200,000 from Sha Tin flat"
+    },
     {
       "key": "lifestyle-nicole-zuraitis-xiqu-centre",
       "id": "2026-08-24-lifestyle-nicole-zuraitis-xiqu",
