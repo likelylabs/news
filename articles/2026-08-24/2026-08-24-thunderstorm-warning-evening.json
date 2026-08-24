@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-24-thunderstorm-warning-evening",
+  "published_at": "2026-08-24T21:12:00+08:00",
+  "category": "weather",
+  "tags": ["hko", "thunderstorm-warning", "showers"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "thunderstorm-warning-aug24-evening",
+  "en": {
+    "headline": "Thunderstorm Warning issued for eastern waters until 9:30 pm",
+    "dek": "The Hong Kong Observatory issued the warning at 8:15 p.m., expecting isolated thunderstorms over the eastern waters of Hong Kong.",
+    "body": [
+      "The Hong Kong Observatory issued a Thunderstorm Warning at 8:15 p.m. on Monday, valid until 9:30 p.m., forecasting isolated thunderstorms over the eastern waters of Hong Kong.",
+      "Members of the public were advised to seek safe shelter if outdoors, leave the water and avoid outdoor swimming or water sports, and stay away from high ground, trees and conductive objects.",
+      "A broad trough of low pressure continued to bring showers and thunderstorms to the northern South China Sea and the Guangdong coast. Tropical Storm Narra remained over the Beibu Wan area and was expected to keep a considerable distance from Hong Kong."
+    ]
+  },
+  "zh": {
+    "headline": "天文台發出雷暴警告至晚上9時半 預料東部水域局部有雷暴",
+    "dek": "天文台晚上8時15分發出雷暴警告，有效至今晚9時30分，預料香港東部水域有局部地區雷暴。",
+    "body": [
+      "香港天文台於周一晚上8時15分發出雷暴警告，有效時間至今晚9時30分，預料香港東部水域有局部地區雷暴。",
+      "天文台提醒市民，如身處室外請到安全地方躲避，離開水面，切勿進行戶外游泳或其他水上活動，亦勿站立於高地或接近導電物體、樹木或桅杆。",
+      "一道廣闊低壓槽繼續為南海北部及廣東沿岸帶來驟雨及雷暴。熱帶風暴紫檀仍於北部灣一帶，預料與本港保持相當距離。"
+    ]
+  }
+}

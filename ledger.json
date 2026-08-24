@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-24T15:09:41+08:00",
+  "updated_at": "2026-08-24T21:15:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "thunderstorm-warning-aug24-evening",
+      "id": "2026-08-24-thunderstorm-warning-evening",
+      "first_seen": "2026-08-24T21:12:00+08:00",
+      "headline_en": "Thunderstorm Warning issued for eastern waters until 9:30 pm"
+    },
+    {
+      "key": "hung-shui-kiu-large-scale-land-disposal-aug24",
+      "id": "2026-08-24-hung-shui-kiu-northern-metropolis-tender",
+      "first_seen": "2026-08-24T21:13:00+08:00",
+      "headline_en": "Consortium wins first Northern Metropolis large-scale land tender for HK$1.03 billion"
+    },
+    {
+      "key": "preschool-oral-health-outreach-sep2026",
+      "id": "2026-08-24-preschool-oral-health-programme",
+      "first_seen": "2026-08-24T21:14:00+08:00",
+      "headline_en": "Free dental check-ups for kindergarten children start on 1 September"
+    },
     {
       "key": "customs-lo-wu-live-cats-aug23",
       "id": "2026-08-24-customs-lo-wu-live-cats",
