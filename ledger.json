@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-25T04:56:37+08:00",
+  "updated_at": "2026-08-25T07:08:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "thunderstorm-warning-aug25-morning",
+      "id": "2026-08-25-thunderstorm-warning-morning",
+      "first_seen": "2026-08-25T07:05:00+08:00",
+      "headline_en": "Thunderstorm Warning in force until 8:30 am"
+    },
+    {
+      "key": "yuen-long-child-neglect-aug25",
+      "id": "2026-08-25-yuen-long-child-neglect",
+      "first_seen": "2026-08-25T07:06:00+08:00",
+      "headline_en": "Parents arrested after 2-year-old left alone in Yuen Long village house"
+    },
+    {
+      "key": "tseung-kwan-o-parrot-cruelty-aug25",
+      "id": "2026-08-25-tseung-kwan-o-parrot-cruelty",
+      "first_seen": "2026-08-25T07:07:00+08:00",
+      "headline_en": "Man arrested after parrot found with clipped wings and bloodstains in Tseung Kwan O"
+    },
+    {
+      "key": "lifestyle-tradition-renewed-alisan-ink",
+      "id": "2026-08-25-lifestyle-tradition-renewed-alisan",
+      "first_seen": "2026-08-25T07:08:00+08:00",
+      "headline_en": "Alisan Fine Arts opens Tradition Renewed ink exhibition in Central today"
+    },
     {
       "key": "thunderstorm-warning-aug24-evening",
       "id": "2026-08-24-thunderstorm-warning-evening",
