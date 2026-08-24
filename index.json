@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-08-24T15:09:41+08:00",
+  "generated_at": "2026-08-24T21:12:51+08:00",
   "live_window_hours": 72,
   "count": 53,
   "articles": [
+    {
+      "id": "2026-08-24-preschool-oral-health-programme",
+      "published_at": "2026-08-24T21:14:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "department-of-health",
+        "dental",
+        "kindergarten",
+        "children",
+        "public-health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-24/2026-08-24-preschool-oral-health-programme.json",
+      "en": {
+        "headline": "Free dental check-ups for kindergarten children start on 1 September",
+        "dek": "The Department of Health’s new Outreach Oral Health Programme will send professional teams to schools for annual screenings and fluoride treatment; more than 70 per cent of kindergartens have already joined."
+      },
+      "zh": {
+        "headline": "學前兒童口腔健康外展計劃9月1日推出 七成幼稚園已參與",
+        "dek": "衞生署新計劃將派出牙科團隊到校為幼稚園學童提供免費口腔檢查及預防服務，目前已有逾七成幼稚園報名。"
+      }
+    },
+    {
+      "id": "2026-08-24-hung-shui-kiu-northern-metropolis-tender",
+      "published_at": "2026-08-24T21:13:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "northern-metropolis",
+        "development-bureau",
+        "housing",
+        "land",
+        "hung-shui-kiu"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-24/2026-08-24-hung-shui-kiu-northern-metropolis-tender.json",
+      "en": {
+        "headline": "Consortium wins first Northern Metropolis large-scale land tender for HK$1.03 billion",
+        "dek": "A six-company group including China Overseas, China Resources Land, Sino Land and JD.com will develop about 10.5 hectares in Hung Shui Kiu, providing around 3,000 flats and a smart logistics centre."
+      },
+      "zh": {
+        "headline": "北部都會區洪水橋大規模土地批出首標 財團以10.3億元中標",
+        "dek": "由中海外、華潤置地、信和及京東等六企組成的財團投得約10.5公頃用地，將提供約3,000個住宅單位及智慧物流中心。"
+      }
+    },
+    {
+      "id": "2026-08-24-thunderstorm-warning-evening",
+      "published_at": "2026-08-24T21:12:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "thunderstorm-warning",
+        "showers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-24/2026-08-24-thunderstorm-warning-evening.json",
+      "en": {
+        "headline": "Thunderstorm Warning issued for eastern waters until 9:30 pm",
+        "dek": "The Hong Kong Observatory issued the warning at 8:15 p.m., expecting isolated thunderstorms over the eastern waters of Hong Kong."
+      },
+      "zh": {
+        "headline": "天文台發出雷暴警告至晚上9時半 預料東部水域局部有雷暴",
+        "dek": "天文台晚上8時15分發出雷暴警告，有效至今晚9時30分，預料香港東部水域有局部地區雷暴。"
+      }
+    },
     {
       "id": "2026-08-24-lifestyle-sui-tang-exhibition-final",
       "published_at": "2026-08-24T15:07:00+08:00",
@@ -1140,75 +1207,6 @@
       "zh": {
         "headline": "漁護署9月起試行破邊洲實名預約 周末及黃金周每日限2000人",
         "dek": "西貢萬宜地質步道破邊洲段將於9月5日至10月7日周末、中秋及國慶黃金周實施預約制，每兩小時時段500名額。"
-      }
-    },
-    {
-      "id": "2026-08-21-fighting-dogs-review",
-      "published_at": "2026-08-21T21:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "afcd",
-        "animal",
-        "government",
-        "public-safety",
-        "legislation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-21/2026-08-21-fighting-dogs-review.json",
-      "en": {
-        "headline": "Government to review fighting-dog definition after fatal attacks",
-        "dek": "Secretary for Environment and Ecology Tse Chin-wan said the list of controlled breeds and related controls will be examined, with proposals aimed at LegCo within the year."
-      },
-      "zh": {
-        "headline": "謝展寰：檢討格鬥狗隻定義及名單 加強大型狗管理",
-        "dek": "環境及生態局長指兩宗近期狗咬事件後將全面審視管控措施，爭取年內向立法會提交建議。"
-      }
-    },
-    {
-      "id": "2026-08-21-cuhk-robot-pelvic-surgery",
-      "published_at": "2026-08-21T21:06:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "cuhk",
-        "hospital",
-        "surgery",
-        "robotics",
-        "public-health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-21/2026-08-21-cuhk-robot-pelvic-surgery.json",
-      "en": {
-        "headline": "CUHK team completes Hong Kong’s first robot-assisted pelvic fracture surgeries",
-        "dek": "Three elderly patients treated since June with a new orthopaedic robotic system that reduced blood loss to 10–20 ml and shortened incisions to under 2 cm."
-      },
-      "zh": {
-        "headline": "中大完成全港首例機械人輔助盆骨骨折微創手術",
-        "dek": "自6月起已為三名長者完成手術，術中失血僅10至20毫升，傷口縮至不足2厘米。"
-      }
-    },
-    {
-      "id": "2026-08-21-icac-hku-it-bribery",
-      "published_at": "2026-08-21T21:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "icac",
-        "hku",
-        "bribery",
-        "education",
-        "court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-21/2026-08-21-icac-hku-it-bribery.json",
-      "en": {
-        "headline": "ICAC charges HKU associate professor and three others over HK$2.2 m IT education bribes",
-        "dek": "Gary Wong Ka-wai is accused of accepting cash rewards for awarding more than HK$10 million in purchase orders; the case is due for mention on Monday."
-      },
-      "zh": {
-        "headline": "廉署起訴港大副教授等四人 涉收賄220萬批出千萬IT教育項目",
-        "dek": "黃家偉被指收受現金賄款後批出逾1000萬元採購訂單，案件下周一東區裁判法院提堂。"
       }
     }
   ]
