@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-08-24T11:04:56+08:00",
+  "generated_at": "2026-08-24T13:06:44+08:00",
   "live_window_hours": 72,
-  "count": 50,
+  "count": 53,
   "articles": [
+    {
+      "id": "2026-08-24-ce-unicorn-summit-launchpad",
+      "published_at": "2026-08-24T13:08:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "john-lee",
+        "innovation",
+        "startups",
+        "unicorn",
+        "technology"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-24/2026-08-24-ce-unicorn-summit-launchpad.json",
+      "en": {
+        "headline": "Chief Executive says Hong Kong is ideal launchpad for mainland firms going global",
+        "dek": "John Lee told the Global Unicorn Summit that the city has nurtured around 20 local unicorns and offers comprehensive support through Science Park and Cyberport for startups expanding internationally."
+      },
+      "zh": {
+        "headline": "行政長官：香港是內地企業「走出去」的理想跳板",
+        "dek": "李家超在全球獨角獸峰會表示，過去十年本港孕育約20家本地獨角獸企業，科學園及數碼港為初創提供全面支援。"
+      }
+    },
+    {
+      "id": "2026-08-24-alibaba-80b-share-placement",
+      "published_at": "2026-08-24T13:07:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "alibaba",
+        "ipo",
+        "stock-market",
+        "ai",
+        "hong-kong-exchange"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-24/2026-08-24-alibaba-80b-share-placement.json",
+      "en": {
+        "headline": "Alibaba prices HK$80 billion Hong Kong share placement to fund AI expansion",
+        "dek": "The company is issuing 710 million new shares at HK$112.70 each, marking the largest primary follow-on offering by a Hong Kong-listed firm, with proceeds earmarked for full-stack AI capabilities."
+      },
+      "zh": {
+        "headline": "阿里巴巴港股配售800億港元新股 全部用於AI發展",
+        "dek": "公司按每股112.70港元發行7.1億股新股，為港股歷來最大型一次主要後續發售，所得款項全數投入全棧人工智能能力。"
+      }
+    },
+    {
+      "id": "2026-08-24-smart-site-safety-4s",
+      "published_at": "2026-08-24T13:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "construction",
+        "safety",
+        "development-bureau",
+        "bernadette-linn",
+        "labour"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-24/2026-08-24-smart-site-safety-4s.json",
+      "en": {
+        "headline": "Government aims to make Smart Site Safety System standard on all construction sites",
+        "dek": "Secretary for Development Bernadette Linn said accident rates fell about 20 per cent from 2023 to 2025 as adoption of the 4S system reached roughly 80 per cent of local sites."
+      },
+      "zh": {
+        "headline": "政府推動智慧工地安全系統成全港工地標準配置",
+        "dek": "發展局局長甯漢豪表示，建造業意外率由2023至2025年下降約兩成，智慧工地安全系統已安裝於約八成本地工地。"
+      }
+    },
+    {
+      "id": "2026-08-24-very-hot-thunderstorm-warnings",
+      "published_at": "2026-08-24T13:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "very-hot-weather-warning",
+        "thunderstorm-warning",
+        "heat",
+        "showers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-24/2026-08-24-very-hot-thunderstorm-warnings.json",
+      "en": {
+        "headline": "Very Hot Weather and Thunderstorm Warnings in force on Monday",
+        "dek": "The Hong Kong Observatory issued the Very Hot Weather Warning at 10:45 a.m. and a Thunderstorm Warning at 11:18 a.m., valid until 1:30 p.m., expecting isolated thunderstorms over the eastern New Territories."
+      },
+      "zh": {
+        "headline": "酷熱天氣警告及雷暴警告生效 新界東部局部有雷暴",
+        "dek": "天文台上午10時45分發出酷熱天氣警告，11時18分發出雷暴警告至下午1時30分，預料新界東部有局部地區雷暴。"
+      }
+    },
     {
       "id": "2026-08-24-lifestyle-guoquan-shihui-wan-chai",
       "published_at": "2026-08-24T11:14:00+08:00",
@@ -1115,29 +1207,6 @@
       "zh": {
         "headline": "周末展望：多雲有驟雨及局部雷暴",
         "dek": "天文台預料周末大致多雲，有幾陣驟雨，周六初時及周日稍後部分地區驟雨較多並有雷暴，受廣闊低壓槽影響。"
-      }
-    },
-    {
-      "id": "2026-08-21-hong-kong-alliance-subversion-verdict",
-      "published_at": "2026-08-21T11:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "national-security",
-        "court",
-        "hong-kong-alliance",
-        "lee-cheuk-yan",
-        "chow-hang-tung"
-      ],
-      "breaking": true,
-      "path": "articles/2026-08-21/2026-08-21-hong-kong-alliance-subversion-verdict.json",
-      "en": {
-        "headline": "Hong Kong Alliance and two former leaders found guilty of inciting subversion",
-        "dek": "A High Court panel sitting at West Kowloon Magistrates’ Courts convicted the disbanded group, Lee Cheuk-yan and Chow Hang-tung; Albert Ho earlier pleaded guilty and all face sentencing later."
-      },
-      "zh": {
-        "headline": "支聯會及兩名前領導被裁定煽動顛覆國家政權罪成",
-        "dek": "高等法院三名國安法指定法官裁定已解散的支聯會、前主席李卓人及前副主席鄒幸彤罪名成立；何俊仁早前認罪，各人稍後判刑。"
       }
     }
   ]
