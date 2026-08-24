@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-08-25T04:56:37+08:00",
+  "generated_at": "2026-08-25T07:05:08+08:00",
   "live_window_hours": 72,
-  "count": 49,
+  "count": 53,
   "articles": [
+    {
+      "id": "2026-08-25-lifestyle-tradition-renewed-alisan",
+      "published_at": "2026-08-25T07:08:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "art",
+        "central",
+        "ink"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-lifestyle-tradition-renewed-alisan.json",
+      "en": {
+        "headline": "Alisan Fine Arts opens Tradition Renewed ink exhibition in Central today",
+        "dek": "The show marking the gallery’s 45th anniversary features four contemporary literati masters and runs until mid-November, with an opening reception this evening."
+      },
+      "zh": {
+        "headline": "藝倡畫廊今日開幕《傳統再造》水墨展",
+        "dek": "畫廊45周年項目展出四位當代文人畫家作品，展期至11月中，今晚5時半至7時半舉行開幕酒會。"
+      }
+    },
+    {
+      "id": "2026-08-25-tseung-kwan-o-parrot-cruelty",
+      "published_at": "2026-08-25T07:07:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "tseung-kwan-o",
+        "animals",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-tseung-kwan-o-parrot-cruelty.json",
+      "en": {
+        "headline": "Man arrested after parrot found with clipped wings and bloodstains in Tseung Kwan O",
+        "dek": "A 39-year-old owner was detained on suspicion of cruelty to animals after a resident reported an injured bird near Po Lam Road North on Monday evening."
+      },
+      "zh": {
+        "headline": "將軍澳鸚鵡疑遭剪翼流血 39歲男主人涉虐畜被捕",
+        "dek": "市民周一晚在寶琳北路發現受傷成鳥，翅膀羽毛被剪並帶血漬，警方拘捕姓張男主人，案件交將軍澳警區跟進。"
+      }
+    },
+    {
+      "id": "2026-08-25-yuen-long-child-neglect",
+      "published_at": "2026-08-25T07:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "yuen-long",
+        "child",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-yuen-long-child-neglect.json",
+      "en": {
+        "headline": "Parents arrested after 2-year-old left alone in Yuen Long village house",
+        "dek": "A neighbour reported the toddler alone at a Kung Um Road address late on Monday; the child was found conscious with a swollen foot and taken to hospital."
+      },
+      "zh": {
+        "headline": "元朗2歲男童疑被獨留家中 父母涉虐兒被捕",
+        "dek": "鄰居昨晚約10時報警指公庵路村屋有幼童獨留，警方到場發現男童清醒腳部紅腫，父母涉嫌對所看管兒童虐待或忽略被捕。"
+      }
+    },
+    {
+      "id": "2026-08-25-thunderstorm-warning-morning",
+      "published_at": "2026-08-25T07:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "thunderstorm-warning",
+        "showers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-thunderstorm-warning-morning.json",
+      "en": {
+        "headline": "Thunderstorm Warning in force until 8:30 am",
+        "dek": "The Hong Kong Observatory issued the warning at 2:33 a.m. and later extended it, expecting isolated squally thunderstorms over the territory."
+      },
+      "zh": {
+        "headline": "雷暴警告生效至上午8時30分",
+        "dek": "天文台於凌晨2時33分發出雷暴警告，其後延長至今早8時30分，預料本港有局部地區狂風雷暴。"
+      }
+    },
     {
       "id": "2026-08-24-preschool-oral-health-programme",
       "published_at": "2026-08-24T21:14:00+08:00",
