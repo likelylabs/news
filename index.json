@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-08-24T04:46:02+08:00",
+  "generated_at": "2026-08-24T09:14:52+08:00",
   "live_window_hours": 72,
-  "count": 46,
+  "count": 47,
   "articles": [
+    {
+      "id": "2026-08-24-lifestyle-nicole-zuraitis-xiqu",
+      "published_at": "2026-08-24T09:22:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "music",
+        "jazz",
+        "west-kowloon",
+        "xiqu-centre",
+        "performance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-24/2026-08-24-lifestyle-nicole-zuraitis-xiqu.json",
+      "en": {
+        "headline": "Grammy-winning jazz vocalist Nicole Zuraitis returns to Xiqu Centre tonight",
+        "dek": "The New York-based singer and her quartet perform two sets each evening on 24 and 25 August at the Tea House Theatre in West Kowloon."
+      },
+      "zh": {
+        "headline": "葛萊美得主Nicole Zuraitis今晚起戲曲中心茶館劇場演出",
+        "dek": "紐約爵士歌手連同四重奏於8月24及25日每晚兩場在西九戲曲中心茶館劇場登台。"
+      }
+    },
+    {
+      "id": "2026-08-24-mong-kok-watch-shop-red-paint",
+      "published_at": "2026-08-24T09:21:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "mong-kok",
+        "criminal-damage",
+        "youth"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-24/2026-08-24-mong-kok-watch-shop-red-paint.json",
+      "en": {
+        "headline": "Two 15-year-old boys arrested after red paint poured on Mong Kok watch shop",
+        "dek": "An off-duty officer detained the pair early Monday after seeing them splash red paint on a shop signboard and pavement near Argyle Centre."
+      },
+      "zh": {
+        "headline": "旺角鐘錶舖遭淋紅油 兩名15歲男童當場被捕",
+        "dek": "休班警員今晨在西洋菜南街近旺角中心發現兩名少年向鐘錶舖淋潑紅油，即場拘捕兩人。"
+      }
+    },
+    {
+      "id": "2026-08-24-kwai-chung-estate-couple-deaths",
+      "published_at": "2026-08-24T09:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "kwai-chung",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-24/2026-08-24-kwai-chung-estate-couple-deaths.json",
+      "en": {
+        "headline": "Elderly couple found dead at Kwai Chung Estate in suspected murder-suicide",
+        "dek": "Police are investigating after an elderly man was found outside a residential block and a woman with multiple wounds was discovered inside their flat on Sunday night."
+      },
+      "zh": {
+        "headline": "葵涌邨春葵樓雙屍案 八旬翁墮樓 六旬婦伏屍單位內",
+        "dek": "警方正調查一宗懷疑謀殺及自殺案，周日晚一名八旬男子倒臥大廈外，單位內發現一名六旬女子身上有多處利器傷痕。"
+      }
+    },
     {
       "id": "2026-08-24-lifestyle-design-ah-m-plus",
       "published_at": "2026-08-24T03:10:00+08:00",
@@ -1003,50 +1070,6 @@
       "zh": {
         "headline": "支聯會及兩名前領導被裁定煽動顛覆國家政權罪成",
         "dek": "高等法院三名國安法指定法官裁定已解散的支聯會、前主席李卓人及前副主席鄒幸彤罪名成立；何俊仁早前認罪，各人稍後判刑。"
-      }
-    },
-    {
-      "id": "2026-08-21-lifestyle-after-taste-exhibition",
-      "published_at": "2026-08-21T08:06:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "food",
-        "cheung-sha-wan",
-        "heritage"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-21/2026-08-21-lifestyle-after-taste-exhibition.json",
-      "en": {
-        "headline": "After Taste exhibition opens in Cheung Sha Wan tracing a century of Hong Kong dining",
-        "dek": "Local studio artellex and private collectors present rare menus, calligraphic scrolls and antique cookbooks from 21 August to 27 September, by appointment only."
-      },
-      "zh": {
-        "headline": "《過去味來》長沙灣開展 重現香港百年飲食演變",
-        "dek": "本地工作室artellex聯同私人收藏家展出珍稀餐牌、書法字頭及古籍食譜，8月21日至9月27日舉行，需預約參觀。"
-      }
-    },
-    {
-      "id": "2026-08-21-thunderstorm-warning-early-morning",
-      "published_at": "2026-08-21T08:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "thunderstorm-warning",
-        "hko",
-        "showers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-21/2026-08-21-thunderstorm-warning-early-morning.json",
-      "en": {
-        "headline": "Thunderstorm Warning issued overnight, cancelled at 5:45 am",
-        "dek": "The Hong Kong Observatory issued the warning at 12:30 a.m. for isolated squally thunderstorms and cancelled it after dawn as the weather stabilised."
-      },
-      "zh": {
-        "headline": "天文台昨晚發出雷暴警告 今早5時45分取消",
-        "dek": "天文台凌晨12時30分發出雷暴警告，其後延長至早上6時30分，預料局部地區有狂風雷暴，清晨5時45分取消。"
       }
     }
   ]
