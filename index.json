@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-08-24T13:06:44+08:00",
+  "generated_at": "2026-08-24T15:09:41+08:00",
   "live_window_hours": 72,
   "count": 53,
   "articles": [
+    {
+      "id": "2026-08-24-lifestyle-sui-tang-exhibition-final",
+      "published_at": "2026-08-24T15:07:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "museum",
+        "history",
+        "sui-tang",
+        "free"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-24/2026-08-24-lifestyle-sui-tang-exhibition-final.json",
+      "en": {
+        "headline": "Sui and Tang civilisation exhibition at History Museum ends today",
+        "dek": "The free Hong Kong Jockey Club Series show, featuring more than 165 sets of artefacts from Shaanxi and local finds, including 18 national first-class treasures, closes on Monday after a four-month run."
+      },
+      "zh": {
+        "headline": "歷史博物館隋唐文明展今日閉幕",
+        "dek": "香港賽馬會呈獻系列「長安萬象——陝西隋唐文明展」免費展出逾165件（套）文物，包括18件國家一級文物，展期至今日結束。"
+      }
+    },
+    {
+      "id": "2026-08-24-green-earth-emissions-data",
+      "published_at": "2026-08-24T15:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "environment",
+        "emissions",
+        "green-earth",
+        "climate",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-24/2026-08-24-green-earth-emissions-data.json",
+      "en": {
+        "headline": "Half of public bodies omit greenhouse gas emissions data, green group finds",
+        "dek": "The Green Earth’s study of 82 government departments and public entities showed 41 published emissions figures, while about eight used outdated emission factors that could overstate reductions."
+      },
+      "zh": {
+        "headline": "綠惜地球：半數公共機構未披露溫室氣體排放數據",
+        "dek": "綠惜地球研究82個政府部門及公共機構，發現41個有公布排放數字，約八個使用過時排放因子，或令減排幅度被高估。"
+      }
+    },
+    {
+      "id": "2026-08-24-customs-lo-wu-live-cats",
+      "published_at": "2026-08-24T15:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "smuggling",
+        "animals",
+        "lo-wu",
+        "afcd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-24/2026-08-24-customs-lo-wu-live-cats.json",
+      "en": {
+        "headline": "Customs seize two live cats from mainland passenger at Lo Wu",
+        "dek": "A 44-year-old man was arrested after officers found the animals, valued at about HK$2,000, in his luggage at the control point on Sunday; the case was referred to the Agriculture, Fisheries and Conservation Department."
+      },
+      "zh": {
+        "headline": "海關羅湖截獲內地男旅客行李藏兩活貓",
+        "dek": "44歲內地男旅客周日在羅湖管制站入境大堂被截查，行李內檢獲兩隻懷疑非法進口活貓，市值約2,000港元，男子當場被捕，案件交漁護署跟進。"
+      }
+    },
     {
       "id": "2026-08-24-ce-unicorn-summit-launchpad",
       "published_at": "2026-08-24T13:08:00+08:00",
@@ -1139,74 +1209,6 @@
       "zh": {
         "headline": "廉署起訴港大副教授等四人 涉收賄220萬批出千萬IT教育項目",
         "dek": "黃家偉被指收受現金賄款後批出逾1000萬元採購訂單，案件下周一東區裁判法院提堂。"
-      }
-    },
-    {
-      "id": "2026-08-21-lifestyle-meow-cation-dx-hub",
-      "published_at": "2026-08-21T15:06:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "sham-shui-po",
-        "design",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-21/2026-08-21-lifestyle-meow-cation-dx-hub.json",
-      "en": {
-        "headline": "Meow-cation exhibition at DX design hub links cats, textiles and Sham Shui Po craft",
-        "dek": "The community-driven showcase features a giant cat installation made from local textiles and runs until 2 November at the Hong Kong Design Centre venue in Sham Shui Po."
-      },
-      "zh": {
-        "headline": "DX設計館《喵之旅》展出 以紡織與貓咪連結深水埗社區",
-        "dek": "社區主導展覽以本地紡織物料製成巨型貓咪裝置，展期至11月2日，於深水埗香港設計中心場地舉行。"
-      }
-    },
-    {
-      "id": "2026-08-21-cuhk-ip-training-scientists",
-      "published_at": "2026-08-21T15:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "cuhk",
-        "education",
-        "intellectual-property",
-        "research",
-        "innovation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-21/2026-08-21-cuhk-ip-training-scientists.json",
-      "en": {
-        "headline": "CUHK head calls for better intellectual property training for scientists",
-        "dek": "Vice-Chancellor Dennis Lo said researchers should patent their work and urged the government to consider an early-stage angel fund that is not too dilutive."
-      },
-      "zh": {
-        "headline": "中大校長促加強科研人員知識產權培訓",
-        "dek": "盧煜明表示科學家應為研究成果申請專利，並建議政府考慮設立不太攤薄股權的早期天使基金。"
-      }
-    },
-    {
-      "id": "2026-08-21-weekend-weather-outlook",
-      "published_at": "2026-08-21T13:24:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "weekend-outlook",
-        "showers",
-        "thunderstorms"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-21/2026-08-21-weekend-weather-outlook.json",
-      "en": {
-        "headline": "Weekend outlook: cloudy with showers and isolated thunderstorms",
-        "dek": "The Hong Kong Observatory expects mainly cloudy skies with a few showers this weekend, more frequent at first on Saturday and later on Sunday, under a broad trough of low pressure."
-      },
-      "zh": {
-        "headline": "周末展望：多雲有驟雨及局部雷暴",
-        "dek": "天文台預料周末大致多雲，有幾陣驟雨，周六初時及周日稍後部分地區驟雨較多並有雷暴，受廣闊低壓槽影響。"
       }
     }
   ]
