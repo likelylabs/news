@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-08-25T09:11:26+08:00",
+  "generated_at": "2026-08-25T11:12:44+08:00",
   "live_window_hours": 72,
-  "count": 52,
+  "count": 57,
   "articles": [
+    {
+      "id": "2026-08-25-lifestyle-mahou-dokoro-final",
+      "published_at": "2026-08-25T11:19:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "causeway-bay",
+        "pop-up",
+        "harry-potter"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-lifestyle-mahou-dokoro-final.json",
+      "en": {
+        "headline": "Harry Potter Mahou Dokoro pop-up ends today at Hysan Place",
+        "dek": "The official merchandise store offering apparel, accessories and collectables from the films closes on Tuesday after a month-long run in Causeway Bay."
+      },
+      "zh": {
+        "headline": "哈利波特Mahou Dokoro期間限定店今日結束",
+        "dek": "希慎廣場官方周邊店營業至今日，提供電影系列服裝、配件及收藏品。"
+      }
+    },
+    {
+      "id": "2026-08-25-world-skills-record-team",
+      "published_at": "2026-08-25T11:18:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "skills",
+        "vtc",
+        "youth"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-world-skills-record-team.json",
+      "en": {
+        "headline": "Hong Kong sends record 41 competitors to WorldSkills Shanghai",
+        "dek": "The largest-ever local contingent will take part in 37 skill categories next month, including two events Hong Kong is entering for the first time."
+      },
+      "zh": {
+        "headline": "港隊派歷來最多41人出戰上海世界技能大賽",
+        "dek": "第48屆世界技能大賽下月在上海舉行，香港派出41名選手參加37個項目，包括首次出戰的軟件測試及家具製作。"
+      }
+    },
+    {
+      "id": "2026-08-25-jordan-scaffolding-dismantle",
+      "published_at": "2026-08-25T11:17:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire-services",
+        "scaffolding",
+        "jordan",
+        "accident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-jordan-scaffolding-dismantle.json",
+      "en": {
+        "headline": "Firefighters dismantle precarious scaffolding outside Jordan building",
+        "dek": "A 1.5-metre scaffold erected for air-conditioner works shifted and hung dangerously overnight; one traffic lane was closed during the removal."
+      },
+      "zh": {
+        "headline": "佐敦大廈棚架搖搖欲墜 消防升雲梯拆除",
+        "dek": "柯士甸道百安大廈一樓冷氣工程棚架移位懸空，消防凌晨出動雲梯移除，往紅磡方向一度封閉一條行車線。"
+      }
+    },
+    {
+      "id": "2026-08-25-police-mortgage-fraud-court",
+      "published_at": "2026-08-25T11:16:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "fraud",
+        "court",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-police-mortgage-fraud-court.json",
+      "en": {
+        "headline": "Suspended police officer appears in court over alleged HK$4.2 million mortgage fraud",
+        "dek": "A 32-year-old officer attached to Kwai Tsing district faces two counts of fraud after allegedly submitting false documents to a bank in 2021."
+      },
+      "zh": {
+        "headline": "男警涉虛假文件申420萬按揭貸款 今沙田提堂",
+        "dek": "32歲葵青警區男警被控兩項欺詐罪，指他於2021年向銀行提供虛假文件及資料騙取約420萬元按揭貸款。"
+      }
+    },
+    {
+      "id": "2026-08-25-thunderstorm-warning-midmorning",
+      "published_at": "2026-08-25T11:15:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "thunderstorm-warning",
+        "showers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-thunderstorm-warning-midmorning.json",
+      "en": {
+        "headline": "Thunderstorm Warning reissued until 11:30 am",
+        "dek": "The Hong Kong Observatory issued a fresh Thunderstorm Warning at 10:20 a.m., expecting isolated squally thunderstorms over the territory."
+      },
+      "zh": {
+        "headline": "雷暴警告再發至上午11時30分",
+        "dek": "天文台上午10時20分再發雷暴警告，預料本港有局部地區狂風雷暴。"
+      }
+    },
     {
       "id": "2026-08-25-lifestyle-novelbright-macpherson",
       "published_at": "2026-08-25T09:11:00+08:00",
