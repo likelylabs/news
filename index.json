@@ -1,8 +1,117 @@
 {
-  "generated_at": "2026-08-25T15:13:36+08:00",
+  "generated_at": "2026-08-25T21:10:18+08:00",
   "live_window_hours": 72,
-  "count": 57,
+  "count": 62,
   "articles": [
+    {
+      "id": "2026-08-25-chinese-medicine-hospital-inpatient",
+      "published_at": "2026-08-25T21:10:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "chinese-medicine",
+        "hospital",
+        "tseung-kwan-o",
+        "health-bureau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-chinese-medicine-hospital-inpatient.json",
+      "en": {
+        "headline": "Chinese Medicine Hospital to launch 24-hour inpatient services on 11 December",
+        "dek": "The Tseung Kwan O facility will open 93 inpatient beds in the first phase, with government-subsidised care priced at a package rate of HK$980 per day."
+      },
+      "zh": {
+        "headline": "香港中醫醫院12月11日起開展24小時住院服務",
+        "dek": "將軍澳醫院首階段提供93張住院病床，政府資助服務以每日980元套餐收費，預計2030年底達400張病床。"
+      }
+    },
+    {
+      "id": "2026-08-25-kaiser-jewellery-tour-ban",
+      "published_at": "2026-08-25T21:09:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tourism",
+        "tia",
+        "jewellery",
+        "travel"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-kaiser-jewellery-tour-ban.json",
+      "en": {
+        "headline": "Jewellery shop barred from tour groups for 30 days over coerced shopping",
+        "dek": "The Travel Industry Authority suspended Kaiser Jewellery International from receiving inbound tour groups after finding it failed to stop a guide coercing mainland visitors into purchases."
+      },
+      "zh": {
+        "headline": "凱旋珠寶未制止導遊威迫購物 被旅監局停接待旅行團30日",
+        "dek": "旅遊業監管局因2月一宗內地旅行團個案，暫停Kaiser Jewellery International註冊商店資格，由8月26日至9月24日不得接待訪港旅行團。"
+      }
+    },
+    {
+      "id": "2026-08-25-power-fuel-charges-september",
+      "published_at": "2026-08-25T21:08:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "electricity",
+        "clp",
+        "hk-electric",
+        "fuel-charge"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-power-fuel-charges-september.json",
+      "en": {
+        "headline": "CLP and HK Electric raise September fuel charges amid energy volatility",
+        "dek": "CLP’s fuel adjustment rises marginally to 45.1 cents per unit while HK Electric’s climbs 3.4 cents to 60.7 cents; both offer temporary rebates for lower-usage households."
+      },
+      "zh": {
+        "headline": "中電港燈9月燃料調整費上調 兩電推特別回扣紓緩",
+        "dek": "中電燃料調整費微升至每度45.1仙，港燈升3.4仙至60.7仙；兩電均為低用量住宅客戶提供為期三個月的特別回扣或補助。"
+      }
+    },
+    {
+      "id": "2026-08-25-exports-july-surge",
+      "published_at": "2026-08-25T21:07:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "exports",
+        "trade",
+        "census-statistics",
+        "ai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-exports-july-surge.json",
+      "en": {
+        "headline": "Hong Kong exports surge 50.7 per cent in July on AI electronics demand",
+        "dek": "The value of merchandise exports rose to a record HK$672.5 billion, while imports grew 41 per cent, according to provisional figures from the Census and Statistics Department."
+      },
+      "zh": {
+        "headline": "7月出口按年升50.7% AI相關電子產品需求強勁",
+        "dek": "政府統計處公布，7月商品整體出口貨值達6725億元創新高，進口升41%，有形貿易逆差49億元。"
+      }
+    },
+    {
+      "id": "2026-08-25-thunderstorm-warning-evening",
+      "published_at": "2026-08-25T21:06:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "thunderstorm-warning",
+        "showers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-thunderstorm-warning-evening.json",
+      "en": {
+        "headline": "Thunderstorm Warning extended until 8:30 p.m.",
+        "dek": "The Hong Kong Observatory reissued and later extended the warning, expecting isolated squally thunderstorms over the territory this evening."
+      },
+      "zh": {
+        "headline": "雷暴警告延長至晚上8時30分",
+        "dek": "天文台下午3時35分發出雷暴警告，其後延長有效時間，預料本港有局部地區狂風雷暴。"
+      }
+    },
     {
       "id": "2026-08-25-construction-safety-design-calls",
       "published_at": "2026-08-25T15:14:00+08:00",
