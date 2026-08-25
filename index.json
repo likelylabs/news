@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-08-25T21:10:18+08:00",
+  "generated_at": "2026-08-25T23:11:27+08:00",
   "live_window_hours": 72,
-  "count": 62,
+  "count": 61,
   "articles": [
+    {
+      "id": "2026-08-25-lifestyle-ppa-pickleball-kai-tak",
+      "published_at": "2026-08-25T23:15:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "lifestyle",
+        "pickleball",
+        "kai-tak",
+        "sport",
+        "tournament"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-lifestyle-ppa-pickleball-kai-tak.json",
+      "en": {
+        "headline": "Asia’s biggest professional pickleball event set for Kai Tak in October",
+        "dek": "The PPA Asia 1500 Hang Seng Bank Hong Kong Slam will run from 19 to 25 October at Kai Tak Arena with a record US$1.1 million purse and more than 860 players."
+      },
+      "zh": {
+        "headline": "亞洲最大職業匹克球賽10月啟德舉行 獎金110萬美元",
+        "dek": "PPA亞洲職業匹克球巡迴賽1500級別香港大滿貫將於10月19至25日在啟德體藝館上演，總獎金高達110萬美元，逾860人參賽。"
+      }
+    },
+    {
+      "id": "2026-08-25-fdh-privacy-loan-warnings",
+      "published_at": "2026-08-25T23:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "privacy",
+        "domestic-helpers",
+        "pcpd",
+        "loans"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-fdh-privacy-loan-warnings.json",
+      "en": {
+        "headline": "Three domestic helpers warned for using employers’ data to obtain loans",
+        "dek": "The Privacy Commissioner found the helpers breached the Personal Data (Privacy) Ordinance by supplying names, addresses and phone numbers without consent, leading to debt-collector harassment."
+      },
+      "zh": {
+        "headline": "三外傭擅用僱主資料借貸 私隱公署發警告信",
+        "dek": "私隱專員裁定三名外籍家庭傭工未經同意向財務機構提供僱主姓名、地址及電話，違反私隱條例，僱主其後遭追債滋擾。"
+      }
+    },
+    {
+      "id": "2026-08-25-airport-gold-robbery-suspect-arrest",
+      "published_at": "2026-08-25T23:13:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "robbery",
+        "airport",
+        "drugs",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-airport-gold-robbery-suspect-arrest.json",
+      "en": {
+        "headline": "Suspect in HK$7 million airport gold robbery arrested after Tate’s Cairn Tunnel crash",
+        "dek": "A 21-year-old man linked to the June gold-bar heist was detained after crashing inside the tunnel early Tuesday; police also seized suspected drugs worth about HK$70,000."
+      },
+      "zh": {
+        "headline": "機場劫金條案再拘一人 大老山隧道撞車後落網",
+        "dek": "一名21歲男子被指與6月機場停車場劫去約700萬元金條案有關，周二凌晨在大老山隧道撞車後被捕，並檢獲約7萬元懷疑毒品。"
+      }
+    },
+    {
+      "id": "2026-08-25-lantau-cheung-tung-crash",
+      "published_at": "2026-08-25T23:12:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "lantau",
+        "taxi",
+        "bus"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-lantau-cheung-tung-crash.json",
+      "en": {
+        "headline": "Taxi driver dies after three-vehicle crash on Lantau’s Cheung Tung Road",
+        "dek": "A taxi, a Discovery Bay bus and a goods vehicle collided near Sunny Bay around 8 p.m.; the taxi driver later died of his injuries and more than ten people were hurt."
+      },
+      "zh": {
+        "headline": "北大嶼山翔東路三車相撞 的士司機傷重不治",
+        "dek": "晚上約八時翔東路近欣澳發生涉及的士、愉景灣巴士及貨車的車禍，的士司機其後傷重不治，逾十人受傷。"
+      }
+    },
     {
       "id": "2026-08-25-chinese-medicine-hospital-inpatient",
       "published_at": "2026-08-25T21:10:00+08:00",
@@ -1279,115 +1369,6 @@
       "zh": {
         "headline": "Peppa Pig音樂舞台劇香港首演今最後一日 東九文化中心上演",
         "dek": "互動英語音樂舞台劇《PEPPA PIG Fun Day Out!》周末於牛頭角東九文化中心首演，今日（23日）為最後一天，設上午11時、下午3時及6時三場。"
-      }
-    },
-    {
-      "id": "2026-08-22-ehealth-87-percent",
-      "published_at": "2026-08-22T21:16:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "ehealth",
-        "lo-chung-mau",
-        "healthcare",
-        "digital"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-22/2026-08-22-ehealth-87-percent.json",
-      "en": {
-        "headline": "eHealth registration reaches 87 per cent of Hong Kong population",
-        "dek": "Secretary for Health Lo Chung-mau said more than 6.5 million residents have joined the electronic health system as it marks its tenth anniversary."
-      },
-      "zh": {
-        "headline": "醫健通登記人數突破650萬 佔全港人口87%",
-        "dek": "醫務衞生局局長盧寵茂在十周年活動上表示，系統已連結逾4700間醫護機構及6.3萬名醫護人員。"
-      }
-    },
-    {
-      "id": "2026-08-22-phishing-scam-arrests",
-      "published_at": "2026-08-22T21:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "fraud",
-        "scam",
-        "phishing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-22/2026-08-22-phishing-scam-arrests.json",
-      "en": {
-        "headline": "Police arrest two men over phishing texts that netted more than HK$500,000",
-        "dek": "Officers found 110 SIM cards and a modem pool in a hotel room used to send nearly 2,000 scam messages about undelivered parcels and insurance fees."
-      },
-      "zh": {
-        "headline": "警拘兩男涉發釣魚短訊騙逾50萬 檢110張電話卡",
-        "dek": "商罪科在酒店房檢獲「貓池」裝置及近2000條已發短訊，兩名內地男子涉嫌串謀詐騙被捕。"
-      }
-    },
-    {
-      "id": "2026-08-22-pok-fu-lam-drug-driving-crash",
-      "published_at": "2026-08-22T21:14:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "traffic-accident",
-        "drug-driving",
-        "police",
-        "pok-fu-lam"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-22/2026-08-22-pok-fu-lam-drug-driving-crash.json",
-      "en": {
-        "headline": "Driver arrested for drug driving after three-vehicle crash in Pok Fu Lam",
-        "dek": "A refrigerated-truck driver tested positive for cocaine after a collision that left a light-goods-vehicle couple trapped and injured on Saturday afternoon."
-      },
-      "zh": {
-        "headline": "薄扶林道三車相撞 冷凍貨車司機涉毒駕被捕",
-        "dek": "周六下午薄扶林道近置富花園發生三車相撞，客貨車一對夫婦被困受傷，冷凍貨車司機對可卡因呈陽性反應被捕。"
-      }
-    },
-    {
-      "id": "2026-08-22-sham-shui-po-scaffolding-collapse",
-      "published_at": "2026-08-22T21:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "industrial-accident",
-        "sham-shui-po",
-        "labour",
-        "scaffolding"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-22/2026-08-22-sham-shui-po-scaffolding-collapse.json",
-      "en": {
-        "headline": "Worker injured after scaffolding collapses in Sham Shui Po",
-        "dek": "A 69-year-old man was trapped under debris when a section of bamboo scaffolding fell from a building on Nam Cheong Street and was later rescued conscious."
-      },
-      "zh": {
-        "headline": "深水埗南昌街棚架倒塌 69歲男工受傷被困獲救",
-        "dek": "周六下午南昌街近汝州街唐樓外牆棚架倒塌，一名69歲男工被困瓦礫下，消防救出後清醒送院。"
-      }
-    },
-    {
-      "id": "2026-08-22-thunderstorm-warning-evening",
-      "published_at": "2026-08-22T21:12:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "thunderstorm-warning",
-        "hko",
-        "showers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-22/2026-08-22-thunderstorm-warning-evening.json",
-      "en": {
-        "headline": "Thunderstorm Warning issued for New Territories, extended into evening",
-        "dek": "The Hong Kong Observatory issued the warning at 5:52 p.m. and later extended it, expecting isolated thunderstorms over the New Territories."
-      },
-      "zh": {
-        "headline": "天文台發出雷暴警告至晚間 預料新界局部有雷暴",
-        "dek": "天文台下午5時52分發出雷暴警告，其後延長有效時間，預料新界有局部地區雷暴。"
       }
     }
   ]
