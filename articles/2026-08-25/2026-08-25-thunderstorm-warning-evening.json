@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-25-thunderstorm-warning-evening",
+  "published_at": "2026-08-25T21:06:00+08:00",
+  "category": "weather",
+  "tags": ["hko", "thunderstorm-warning", "showers"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "thunderstorm-warning-aug25-evening",
+  "en": {
+    "headline": "Thunderstorm Warning extended until 8:30 p.m.",
+    "dek": "The Hong Kong Observatory reissued and later extended the warning, expecting isolated squally thunderstorms over the territory this evening.",
+    "body": [
+      "The Hong Kong Observatory issued a Thunderstorm Warning at 3:35 p.m. on Tuesday and subsequently extended it until 8:30 p.m., expecting isolated squally thunderstorms over Hong Kong.",
+      "Members of the public were advised to seek safe shelter if outdoors, leave the water and avoid outdoor swimming or water sports, and keep away from high ground, trees and highly conductive objects.",
+      "An active southerly airstream is bringing showers and thunderstorms to the coast of Guangdong. Tropical Depression Narra is expected to move across the Leizhou Peninsula on Wednesday and then into inland western Guangdong, remaining at a considerable distance from Hong Kong."
+    ]
+  },
+  "zh": {
+    "headline": "雷暴警告延長至晚上8時30分",
+    "dek": "天文台下午3時35分發出雷暴警告，其後延長有效時間，預料本港有局部地區狂風雷暴。",
+    "body": [
+      "天文台於星期二下午3時35分發出雷暴警告，其後將有效時間延長至今日晚上8時30分，預料香港有局部地區狂風雷暴。",
+      "市民如身處室外應到安全地方躲避，離開水面，切勿進行戶外游泳或其他水上活動，並避免站立於高地或接近導電物體、樹木或桅杆。",
+      "活躍偏南氣流為廣東沿岸帶來驟雨及雷暴。熱帶低氣壓紫檀預料星期三橫過雷州半島，其後移入廣東西部內陸並減弱，與本港保持相當距離。"
+    ]
+  }
+}

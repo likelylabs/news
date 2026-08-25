@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-08-25T15:13:36+08:00",
+  "updated_at": "2026-08-25T21:10:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "thunderstorm-warning-aug25-evening",
+      "id": "2026-08-25-thunderstorm-warning-evening",
+      "first_seen": "2026-08-25T21:06:00+08:00",
+      "headline_en": "Thunderstorm Warning extended until 8:30 p.m."
+    },
+    {
+      "key": "exports-july-2026-surge",
+      "id": "2026-08-25-exports-july-surge",
+      "first_seen": "2026-08-25T21:07:00+08:00",
+      "headline_en": "Hong Kong exports surge 50.7 per cent in July on AI electronics demand"
+    },
+    {
+      "key": "power-fuel-charges-september-2026",
+      "id": "2026-08-25-power-fuel-charges-september",
+      "first_seen": "2026-08-25T21:08:00+08:00",
+      "headline_en": "CLP and HK Electric raise September fuel charges amid energy volatility"
+    },
+    {
+      "key": "kaiser-jewellery-tour-group-ban-aug26",
+      "id": "2026-08-25-kaiser-jewellery-tour-ban",
+      "first_seen": "2026-08-25T21:09:00+08:00",
+      "headline_en": "Jewellery shop barred from tour groups for 30 days over coerced shopping"
+    },
+    {
+      "key": "chinese-medicine-hospital-24h-inpatient-dec11",
+      "id": "2026-08-25-chinese-medicine-hospital-inpatient",
+      "first_seen": "2026-08-25T21:10:00+08:00",
+      "headline_en": "Chinese Medicine Hospital to launch 24-hour inpatient services on 11 December"
+    },
     {
       "key": "gsh-shing-chi-court-flat-selection-aug25",
       "id": "2026-08-25-gsh-shing-chi-court-selection",
