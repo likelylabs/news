@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-25T23:11:27+08:00",
+  "updated_at": "2026-08-26T01:15:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "customs-ketamine-air-parcel-aug25",
+      "id": "2026-08-26-customs-ketamine-air-parcel",
+      "first_seen": "2026-08-26T01:12:00+08:00",
+      "headline_en": "Customs seize 12.4 kg of suspected ketamine in air parcel, arrest woman in Kwun Tong"
+    },
+    {
+      "key": "airport-cannabis-transit-arrest-aug24",
+      "id": "2026-08-26-airport-cannabis-transit-arrest",
+      "first_seen": "2026-08-26T01:13:00+08:00",
+      "headline_en": "British transit passenger arrested with 35 kg of suspected cannabis buds at airport"
+    },
+    {
+      "key": "lifestyle-novelbright-macpherson-final-aug26",
+      "id": "2026-08-26-lifestyle-novelbright-final-night",
+      "first_seen": "2026-08-26T01:14:00+08:00",
+      "headline_en": "Japanese rock band Novelbright closes two-night Hong Kong stand at MacPherson Stadium tonight"
+    },
     {
       "key": "lantau-cheung-tung-road-crash-aug25",
       "id": "2026-08-25-lantau-cheung-tung-crash",
