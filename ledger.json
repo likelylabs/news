@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-25T21:10:18+08:00",
+  "updated_at": "2026-08-25T23:16:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lantau-cheung-tung-road-crash-aug25",
+      "id": "2026-08-25-lantau-cheung-tung-crash",
+      "first_seen": "2026-08-25T23:12:00+08:00",
+      "headline_en": "Taxi driver dies after three-vehicle crash on Lantau’s Cheung Tung Road"
+    },
+    {
+      "key": "airport-gold-robbery-suspect-tates-cairn-aug25",
+      "id": "2026-08-25-airport-gold-robbery-suspect-arrest",
+      "first_seen": "2026-08-25T23:13:00+08:00",
+      "headline_en": "Suspect in HK$7 million airport gold robbery arrested after Tate’s Cairn Tunnel crash"
+    },
+    {
+      "key": "fdh-privacy-loan-warnings-aug25",
+      "id": "2026-08-25-fdh-privacy-loan-warnings",
+      "first_seen": "2026-08-25T23:14:00+08:00",
+      "headline_en": "Three domestic helpers warned for using employers’ data to obtain loans"
+    },
+    {
+      "key": "lifestyle-ppa-pickleball-kai-tak-oct2026",
+      "id": "2026-08-25-lifestyle-ppa-pickleball-kai-tak",
+      "first_seen": "2026-08-25T23:15:00+08:00",
+      "headline_en": "Asia’s biggest professional pickleball event set for Kai Tak in October"
+    },
     {
       "key": "thunderstorm-warning-aug25-evening",
       "id": "2026-08-25-thunderstorm-warning-evening",
