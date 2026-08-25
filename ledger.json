@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-25T13:08:53+08:00",
+  "updated_at": "2026-08-25T15:15:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "gsh-shing-chi-court-flat-selection-aug25",
+      "id": "2026-08-25-gsh-shing-chi-court-selection",
+      "first_seen": "2026-08-25T15:12:00+08:00",
+      "headline_en": "Green Form home buyers queue for discounted Kowloon Bay flats"
+    },
+    {
+      "key": "senior-secondary-science-maths-curriculum-revamp-2029",
+      "id": "2026-08-25-senior-secondary-science-maths-curriculum",
+      "first_seen": "2026-08-25T15:13:00+08:00",
+      "headline_en": "Senior secondary science and maths curriculum to be revamped from 2029-30"
+    },
+    {
+      "key": "construction-safety-design-calls-aug25",
+      "id": "2026-08-25-construction-safety-design-calls",
+      "first_seen": "2026-08-25T15:14:00+08:00",
+      "headline_en": "Experts call for safety-by-design to cut construction fatalities"
+    },
     {
       "key": "thunderstorm-warning-aug25-midday",
       "id": "2026-08-25-thunderstorm-warning-midday",
@@ -161,7 +179,7 @@
     {
       "key": "shui-chuen-o-burglary-aug24",
       "id": "2026-08-24-shui-chuen-o-burglary",
-      "first_seen": "2026-08-24T11:10:00+08:00",
+      "first_seen": "2026-08-24T09:20:00+08:00",
       "headline_en": "Burglars take more than HK$200,000 from Sha Tin flat"
     },
     {
