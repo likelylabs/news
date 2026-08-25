@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-08-25T11:12:44+08:00",
+  "generated_at": "2026-08-25T13:08:54+08:00",
   "live_window_hours": 72,
   "count": 57,
   "articles": [
+    {
+      "id": "2026-08-25-thunderstorm-warning-midday",
+      "published_at": "2026-08-25T13:09:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "thunderstorm-warning",
+        "showers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-thunderstorm-warning-midday.json",
+      "en": {
+        "headline": "Thunderstorm Warning remains in force until 1 p.m.",
+        "dek": "The Hong Kong Observatory reissued the warning at 10.20 a.m., expecting isolated squally thunderstorms and intense gusts over the territory."
+      },
+      "zh": {
+        "headline": "雷暴警告生效至下午1時 局部有狂風雷暴",
+        "dek": "天文台上午10時20分發出雷暴警告，預料本港有局部地區狂風雷暴，並可能有時速80公里或以上強陣風。"
+      }
+    },
+    {
+      "id": "2026-08-25-causeway-bay-hennessy-fire",
+      "published_at": "2026-08-25T13:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "causeway-bay",
+        "hennessy-road",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-causeway-bay-hennessy-fire.json",
+      "en": {
+        "headline": "Fire at Causeway Bay subdivided flat leaves one woman hospitalised",
+        "dek": "Flames broke out on the ninth floor of Hennessy Apartments on Tuesday morning; 73 people were evacuated and tram services were temporarily suspended."
+      },
+      "zh": {
+        "headline": "銅鑼灣軒尼詩大廈劏房起火 73人疏散一名老婦送院",
+        "dek": "軒尼詩道488至490號單位今早起火，消防出動撲救，火警約中午12時半救熄，波斯富街一度全線封閉。"
+      }
+    },
+    {
+      "id": "2026-08-25-tuen-mun-water-pipe-leak",
+      "published_at": "2026-08-25T13:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "water-supplies",
+        "tuen-mun",
+        "pipe-leak",
+        "wsd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-tuen-mun-water-pipe-leak.json",
+      "en": {
+        "headline": "Tuen Mun water main leaks again near Tun Lai Street",
+        "dek": "The Water Supplies Department is investigating a fresh leak on Castle Peak Road after yellow muddy water was seen gushing from the ground on Tuesday morning."
+      },
+      "zh": {
+        "headline": "屯門青山公路近屯利街再爆水管 水務署派人跟進",
+        "dek": "水務署接獲報告指青山公路近屯利街有食水供水管滲漏，已派員到場處理，網上片段顯示黃泥水湧出路面。"
+      }
+    },
     {
       "id": "2026-08-25-lifestyle-mahou-dokoro-final",
       "published_at": "2026-08-25T11:19:00+08:00",
@@ -1220,73 +1285,6 @@
       "zh": {
         "headline": "皇崗口岸港方區周六壓力測試 萬名公務員參與",
         "dek": "新皇崗口岸港方口岸區第三場大型演練測試全面通關流程、電子通道及車輛檢查亭，為口岸啟用作準備。"
-      }
-    },
-    {
-      "id": "2026-08-22-lifestyle-ukrainian-culture-day",
-      "published_at": "2026-08-22T11:17:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "exhibition",
-        "community",
-        "goethe-institut"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-22/2026-08-22-lifestyle-ukrainian-culture-day.json",
-      "en": {
-        "headline": "Ukrainian Culture Day brings bazaar, workshops and music to Goethe-Institut",
-        "dek": "The one-day event on Saturday features a free handicraft bazaar, embroidery exhibitions, workshops, Ukrainian food and two live music performances in Wan Chai."
-      },
-      "zh": {
-        "headline": "烏克蘭文化日歌德學院舉行 設市集工作坊及音樂會",
-        "dek": "香港烏克蘭協會周六於灣仔歌德學院舉辦一日活動，包括免費手工藝市集、刺繡展覽、工作坊、美食及兩場現場音樂演出。"
-      }
-    },
-    {
-      "id": "2026-08-22-tourism-visitor-target-confidence",
-      "published_at": "2026-08-22T11:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tourism",
-        "rosanna-law",
-        "visitors",
-        "kai-tak"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-22/2026-08-22-tourism-visitor-target-confidence.json",
-      "en": {
-        "headline": "Tourism chief confident Hong Kong will hit 53.8 million visitor target",
-        "dek": "Rosanna Law said the first seven months delivered solid growth despite July rain and higher fuel costs, with the traditional peak season still ahead."
-      },
-      "zh": {
-        "headline": "羅淑佩有信心全年達5380萬人次訪港目標",
-        "dek": "文化體育及旅遊局局長指首七個月已錄得約3122萬人次，即使7月多雨及燃油成本上升，仍對下半年旺季有信心。"
-      }
-    },
-    {
-      "id": "2026-08-22-north-lantau-highway-collisions",
-      "published_at": "2026-08-22T11:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "airport",
-        "lantau",
-        "transport-department"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-22/2026-08-22-north-lantau-highway-collisions.json",
-      "en": {
-        "headline": "Multiple collisions on North Lantau Highway disrupt airport traffic",
-        "dek": "Ten accidents involving 29 vehicles left five people injured this morning near Siu Ho Wan, with temporary lane closures towards the airport."
-      },
-      "zh": {
-        "headline": "北大嶼山公路多宗車禍 往機場方向一度封閉部分行車線",
-        "dek": "今早約兩小時內發生十宗交通意外，涉29輛車，其中三宗造成五人輕傷，運輸署曾封閉近小蠔灣部分行車線並呼籲市民乘搭港鐵。"
       }
     }
   ]
