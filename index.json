@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-08-25T23:11:27+08:00",
+  "generated_at": "2026-08-26T01:11:45+08:00",
   "live_window_hours": 72,
-  "count": 61,
+  "count": 64,
   "articles": [
+    {
+      "id": "2026-08-26-lifestyle-novelbright-final-night",
+      "published_at": "2026-08-26T01:14:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "music",
+        "concert",
+        "mong-kok",
+        "rock"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-lifestyle-novelbright-final-night.json",
+      "en": {
+        "headline": "Japanese rock band Novelbright closes two-night Hong Kong stand at MacPherson Stadium…",
+        "dek": "The Osaka group’s Asia Tour PYRAMID final show starts at 7 p.m.; tickets remain available from HK$699 with a VIP option that includes early entry and a photo opportunity."
+      },
+      "zh": {
+        "headline": "日本搖滾樂隊Novelbright今晚麥花臣場館演最終場",
+        "dek": "亞洲巡演「PYRAMID」香港站第二晚於晚上7時開始，門票由699港元起，另設含優先入場及合照的VIP套票。"
+      }
+    },
+    {
+      "id": "2026-08-26-airport-cannabis-transit-arrest",
+      "published_at": "2026-08-26T01:13:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "drugs",
+        "airport",
+        "cannabis",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-airport-cannabis-transit-arrest.json",
+      "en": {
+        "headline": "British transit passenger arrested with 35 kg of suspected cannabis buds at airport",
+        "dek": "A 19-year-old man arriving from Bangkok and bound for London was stopped on Monday; the drugs in two suitcases are valued at about HK$8.2 million and he appears in court today."
+      },
+      "zh": {
+        "headline": "英籍過境男旅客行李藏35公斤懷疑大麻花被捕",
+        "dek": "19歲男子由曼谷抵港擬轉飛倫敦，兩個行李箱檢獲64包懷疑大麻花，市值約820萬元，今日西九龍裁判法院提堂。"
+      }
+    },
+    {
+      "id": "2026-08-26-customs-ketamine-air-parcel",
+      "published_at": "2026-08-26T01:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "drugs",
+        "airport",
+        "ketamine",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-customs-ketamine-air-parcel.json",
+      "en": {
+        "headline": "Customs seize 12.4 kg of suspected ketamine in air parcel, arrest woman in Kwun Tong",
+        "dek": "Officers found the drugs hidden in plastic buckets declared as swimming-pool sanitisers arriving from Spain via France; a 23-year-old local woman was detained after a controlled delivery."
+      },
+      "zh": {
+        "headline": "海關檢獲12.4公斤懷疑氯胺酮 觀塘拘23歲女子",
+        "dek": "空運包裹報稱為泳池消毒劑，內藏膠桶裝懷疑K仔，市值逾500萬元；關員監控遞送後於觀塘拘捕本地女子。"
+      }
+    },
     {
       "id": "2026-08-25-lifestyle-ppa-pickleball-kai-tak",
       "published_at": "2026-08-25T23:15:00+08:00",
