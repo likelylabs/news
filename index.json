@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-26T01:11:45+08:00",
+  "generated_at": "2026-08-26T03:05:54+08:00",
   "live_window_hours": 72,
   "count": 64,
   "articles": [
+    {
+      "id": "2026-08-26-lifestyle-ancient-egypt-unveiled-final",
+      "published_at": "2026-08-26T03:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "museum",
+        "west-kowloon",
+        "egypt"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-lifestyle-ancient-egypt-unveiled-final.json",
+      "en": {
+        "headline": "Ancient Egypt Unveiled exhibition enters final days at Hong Kong Palace Museum",
+        "dek": "The largest display of ancient Egyptian treasures ever staged in Hong Kong closes on 31 August after nine and a half months, featuring 250 objects from seven Egyptian museums and Saqqara."
+      },
+      "zh": {
+        "headline": "香港故宮「古埃及文明大展」進入最後數天",
+        "dek": "本港歷來最大型古埃及文物展將於8月31日閉幕，展出七間埃及博物館及薩卡拉遺址共250件珍藏，為期九個半月。"
+      }
+    },
     {
       "id": "2026-08-26-lifestyle-novelbright-final-night",
       "published_at": "2026-08-26T01:14:00+08:00",
@@ -1415,29 +1438,6 @@
       "zh": {
         "headline": "Para Site第八屆國際研討會今於港大探討科技推想未來",
         "dek": "名為「更新預設」的全日免費活動於上午10時半至下午6時在港大研究生堂王賡武講堂舉行，匯聚本地及海外藝術家與思想家。"
-      }
-    },
-    {
-      "id": "2026-08-23-lifestyle-peppa-pig-fun-day-out-final",
-      "published_at": "2026-08-23T03:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "family",
-        "theatre",
-        "east-kowloon",
-        "children"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-23/2026-08-23-lifestyle-peppa-pig-fun-day-out-final.json",
-      "en": {
-        "headline": "Peppa Pig’s Fun Day Out ends its Hong Kong debut today at East Kowloon Cultural Centre",
-        "dek": "The interactive English-language musical, making its local premiere this weekend, stages its final performances on Sunday with shows at 11 am, 3 pm and 6 pm."
-      },
-      "zh": {
-        "headline": "Peppa Pig音樂舞台劇香港首演今最後一日 東九文化中心上演",
-        "dek": "互動英語音樂舞台劇《PEPPA PIG Fun Day Out!》周末於牛頭角東九文化中心首演，今日（23日）為最後一天，設上午11時、下午3時及6時三場。"
       }
     }
   ]
