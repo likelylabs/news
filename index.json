@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-08-26T04:53:29+08:00",
+  "generated_at": "2026-08-26T07:13:37+08:00",
   "live_window_hours": 72,
-  "count": 64,
+  "count": 67,
   "articles": [
+    {
+      "id": "2026-08-26-lifestyle-po-toi-chau-booking",
+      "published_at": "2026-08-26T07:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "hiking",
+        "sai-kung",
+        "afcd",
+        "country-park"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-lifestyle-po-toi-chau-booking.json",
+      "en": {
+        "headline": "Trial booking system opens for High Island Reservoir’s Po Toi Chau section",
+        "dek": "The Agriculture, Fisheries and Conservation Department has set a daily quota of 2,000 visitors for selected weekends and holidays from 5 September, with online real-name registration via Klook."
+      },
+      "zh": {
+        "headline": "萬宜水庫破邊洲段試行預約制 每日限額二千",
+        "dek": "漁護署已開放9月5日起指定周末及假期名額，須經指定平台實名登記，每日合共二千個名額分四個時段。"
+      }
+    },
+    {
+      "id": "2026-08-26-huanggang-ambulance-drill",
+      "published_at": "2026-08-26T07:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "customs",
+        "fire-services",
+        "immigration",
+        "health",
+        "huanggang-port"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-huanggang-ambulance-drill.json",
+      "en": {
+        "headline": "Multi-agency drill tests cross-border ambulance handover at new Huanggang Port",
+        "dek": "Fire Services, Customs, Immigration, the Department of Health and the Government Property Agency simulated a patient transfer from the mainland via the joint one-stop lane on Tuesday."
+      },
+      "zh": {
+        "headline": "新皇崗口岸多部門演練深港救護車跨境病人交接",
+        "dek": "消防、海關、入境處、衞生署及政府產業署周二模擬病人經聯合一站式車道由內地轉交港方救護人員。"
+      }
+    },
+    {
+      "id": "2026-08-26-customs-illegal-petrol-kwai-chung",
+      "published_at": "2026-08-26T07:13:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "fire-services",
+        "illegal-fuel",
+        "kwai-chung"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-customs-illegal-petrol-kwai-chung.json",
+      "en": {
+        "headline": "Customs and Fire Services seize 770 litres of untaxed petrol in Kwai Chung",
+        "dek": "Two mobile illegal petrol stations were uncovered in a public open car park on Stonecutters Island on Monday afternoon; a 26-year-old operator and a 55-year-old driver were arrested."
+      },
+      "zh": {
+        "headline": "海關聯同消防葵涌破兩流動非法加油站 檢770公升未完稅汽油",
+        "dek": "周一午在昂船洲公眾露天停車場搗破兩個流動非法電油加油站，拘捕26歲操作員及55歲司機，檢獲約770公升未完稅汽油。"
+      }
+    },
+    {
+      "id": "2026-08-26-thunderstorm-warning-morning",
+      "published_at": "2026-08-26T07:12:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "thunderstorm-warning",
+        "showers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-thunderstorm-warning-morning.json",
+      "en": {
+        "headline": "Thunderstorm Warning in force until 7:30 a.m.",
+        "dek": "The Hong Kong Observatory issued the warning at 5:20 a.m., expecting a few squally thunderstorms and intense gusts reaching 70 km/h or above over the territory."
+      },
+      "zh": {
+        "headline": "雷暴警告生效至上午7時30分",
+        "dek": "天文台於清晨5時20分發出雷暴警告，預料本港有幾陣狂風雷暴，並可能出現時速70公里或以上強陣風。"
+      }
+    },
     {
       "id": "2026-08-26-lifestyle-ancient-egypt-unveiled-final",
       "published_at": "2026-08-26T03:10:00+08:00",
@@ -1415,29 +1504,6 @@
       "zh": {
         "headline": "本地雪糕品牌TEEMTONEfai上環開首間實體店",
         "dek": "成立十年後，以創意口味聞名的香港雪糕品牌終於在上環摩羅上街落腳，推出九款中式靈感新口味，試業優惠至八月底。"
-      }
-    },
-    {
-      "id": "2026-08-23-lifestyle-para-site-unsubscribe-all",
-      "published_at": "2026-08-23T07:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "arts",
-        "technology",
-        "hku"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-23/2026-08-23-lifestyle-para-site-unsubscribe-all.json",
-      "en": {
-        "headline": "Para Site’s 8th International Conference explores speculative tech futures at HKU today",
-        "dek": "The free full-day event titled “Unsubscribe All!” runs from 10:30 a.m. to 6 p.m. at Wang Gungwu Lecture Hall, bringing together artists and thinkers from Hong Kong and abroad."
-      },
-      "zh": {
-        "headline": "Para Site第八屆國際研討會今於港大探討科技推想未來",
-        "dek": "名為「更新預設」的全日免費活動於上午10時半至下午6時在港大研究生堂王賡武講堂舉行，匯聚本地及海外藝術家與思想家。"
       }
     }
   ]
