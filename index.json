@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-08-25T13:08:54+08:00",
+  "generated_at": "2026-08-25T15:13:36+08:00",
   "live_window_hours": 72,
   "count": 57,
   "articles": [
+    {
+      "id": "2026-08-25-construction-safety-design-calls",
+      "published_at": "2026-08-25T15:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "construction",
+        "safety",
+        "labour"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-construction-safety-design-calls.json",
+      "en": {
+        "headline": "Experts call for safety-by-design to cut construction fatalities",
+        "dek": "Industry leaders urge embedding safety into building plans after 15 fatal industrial accidents were recorded so far this year."
+      },
+      "zh": {
+        "headline": "業界促將安全設計納入建築規劃減致命意外",
+        "dek": "建造業今年已錄得15宗致命工業意外，業界領袖呼籲從設計階段納入安全考慮。"
+      }
+    },
+    {
+      "id": "2026-08-25-senior-secondary-science-maths-curriculum",
+      "published_at": "2026-08-25T15:13:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "curriculum",
+        "science"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-senior-secondary-science-maths-curriculum.json",
+      "en": {
+        "headline": "Senior secondary science and maths curriculum to be revamped from 2029-30",
+        "dek": "The Education Bureau will update physics, chemistry, biology and extended mathematics syllabuses to encourage more students to take multiple science subjects."
+      },
+      "zh": {
+        "headline": "高中數理課程2029/30學年起優化",
+        "dek": "教育局將更新物理、化學、生物及數學延伸部分課程，鼓勵更多學生修讀多個理科科目。"
+      }
+    },
+    {
+      "id": "2026-08-25-gsh-shing-chi-court-selection",
+      "published_at": "2026-08-25T15:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "gsh",
+        "kowloon-bay"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-25/2026-08-25-gsh-shing-chi-court-selection.json",
+      "en": {
+        "headline": "Green Form home buyers queue for discounted Kowloon Bay flats",
+        "dek": "Flat selection under the Green Form Subsidised Home Ownership Scheme 2025 begins, with more than 800 units at Shing Chi Court offered at 60 per cent of market value."
+      },
+      "zh": {
+        "headline": "綠置居九龍灣盛緻苑今日起揀樓",
+        "dek": "「綠表置居計劃」2025的揀樓今日展開，九龍灣盛緻苑提供逾800個單位，以市值六折發售。"
+      }
+    },
     {
       "id": "2026-08-25-thunderstorm-warning-midday",
       "published_at": "2026-08-25T13:09:00+08:00",
@@ -1216,75 +1279,6 @@
       "zh": {
         "headline": "天文台發出雷暴警告至晚間 預料新界局部有雷暴",
         "dek": "天文台下午5時52分發出雷暴警告，其後延長有效時間，預料新界有局部地區雷暴。"
-      }
-    },
-    {
-      "id": "2026-08-22-asian-games-team-size",
-      "published_at": "2026-08-22T13:14:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "rosanna-law",
-        "athletes",
-        "nagoya",
-        "sport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-22/2026-08-22-asian-games-team-size.json",
-      "en": {
-        "headline": "Hong Kong to send more than 500 athletes to Nagoya Asian Games",
-        "dek": "Culture, Sports and Tourism Secretary Rosanna Law said full funding is being provided for the Games and the final squad will be confirmed at the September flag presentation."
-      },
-      "zh": {
-        "headline": "港隊亞運派出逾500人 羅淑佩指政府全額資助",
-        "dek": "文化體育及旅遊局長表示運動員準備充足，正式名單下月初於授旗儀式公布，賽事9月19日開幕。"
-      }
-    },
-    {
-      "id": "2026-08-22-public-healthcare-fee-reform",
-      "published_at": "2026-08-22T13:12:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "hospital-authority",
-        "healthcare",
-        "fees",
-        "lo-chung-mau",
-        "drugs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-22/2026-08-22-public-healthcare-fee-reform.json",
-      "en": {
-        "headline": "Public hospital fee reform lifts full-waiver beneficiaries more than 20-fold",
-        "dek": "Secretary for Health Lo Chung-mau said government subsidy remains at 95 per cent after the January changes, with a five-year target of 90 per cent, while 17 new drugs have been added to the formulary."
-      },
-      "zh": {
-        "headline": "公院收費改革後全額豁免人數增逾20倍 政府仍資助95%",
-        "dek": "醫務衞生局局長盧寵茂表示，改革後政府資助維持95%，五年目標降至90%，藥物名冊已新增17種藥包括專科用藥。"
-      }
-    },
-    {
-      "id": "2026-08-22-huanggang-port-drill",
-      "published_at": "2026-08-22T13:10:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "huanggang-port",
-        "border",
-        "chris-tang",
-        "security-bureau",
-        "clearance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-22/2026-08-22-huanggang-port-drill.json",
-      "en": {
-        "headline": "10,000 civil servants take part in Huanggang port stress test",
-        "dek": "The third major readiness exercise at the new Hong Kong Port Area tests full boundary clearance procedures, e-channels and vehicle booths ahead of the facility’s opening."
-      },
-      "zh": {
-        "headline": "皇崗口岸港方區周六壓力測試 萬名公務員參與",
-        "dek": "新皇崗口岸港方口岸區第三場大型演練測試全面通關流程、電子通道及車輛檢查亭，為口岸啟用作準備。"
       }
     }
   ]
