@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-26T07:13:36+08:00",
+  "updated_at": "2026-08-26T09:10:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "thunderstorm-warning-aug26-midmorning",
+      "id": "2026-08-26-thunderstorm-warning-midmorning",
+      "first_seen": "2026-08-26T09:05:00+08:00",
+      "headline_en": "Thunderstorm Warning extended until 9:30 a.m."
+    },
+    {
+      "key": "sham-shui-po-man-fall-death-aug25",
+      "id": "2026-08-26-sham-shui-po-man-fall",
+      "first_seen": "2026-08-26T09:06:00+08:00",
+      "headline_en": "Man dies after falling from building in Sham Shui Po"
+    },
+    {
+      "key": "tsuen-wan-drug-arrest-aug25",
+      "id": "2026-08-26-tsuen-wan-drug-arrest",
+      "first_seen": "2026-08-26T09:07:00+08:00",
+      "headline_en": "Man arrested in Tsuen Wan car park drug seizure"
+    },
+    {
+      "key": "pla-garrison-rotation-aug25",
+      "id": "2026-08-26-pla-garrison-rotation",
+      "first_seen": "2026-08-26T09:08:00+08:00",
+      "headline_en": "PLA Hong Kong Garrison completes 29th unit rotation"
+    },
     {
       "key": "thunderstorm-warning-aug26-morning",
       "id": "2026-08-26-thunderstorm-warning-morning",
