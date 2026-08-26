@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-08-26T09:07:13+08:00",
+  "generated_at": "2026-08-26T11:06:10+08:00",
   "live_window_hours": 72,
-  "count": 71,
+  "count": 73,
   "articles": [
+    {
+      "id": "2026-08-26-heung-yuen-wai-overnight-crossing",
+      "published_at": "2026-08-26T11:07:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "border",
+        "cross-boundary",
+        "lok-ma-chau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-heung-yuen-wai-overnight-crossing.json",
+      "en": {
+        "headline": "Heung Yuen Wai permit holders can use Lok Ma Chau overnight from today",
+        "dek": "Cross-boundary private cars with valid Heung Yuen Wai closed-road permits may cross via Lok Ma Chau between midnight and 6:30 a.m. daily under a new Guangdong-Hong Kong arrangement."
+      },
+      "zh": {
+        "headline": "香園圍許可證跨境私家車今起可通宵經落馬洲過境",
+        "dek": "持有香園圍管制站封閉道路通行許可證的跨境私家車，由今日起每日午夜12時至上午6時30分可經落馬洲管制站過境。"
+      }
+    },
+    {
+      "id": "2026-08-26-tsing-yi-drug-arrest",
+      "published_at": "2026-08-26T11:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "drugs",
+        "tsing-yi",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-tsing-yi-drug-arrest.json",
+      "en": {
+        "headline": "Two men arrested after drugs found in Tsing Yi light goods vehicle",
+        "dek": "Police seized about 44.5 grams of suspected crack cocaine, e-cigarette cartridges and drug paraphernalia valued at roughly HK$45,000 after a report of suspected drug use late on Tuesday."
+      },
+      "zh": {
+        "headline": "青衣輕型貨車檢懷疑毒品 兩男涉販毒等被捕",
+        "dek": "警方接報在青衣楓樹窩路一輛輕型貨車內檢獲約44.5克懷疑霹靂可卡因、電子煙彈及吸食工具，市值約4.5萬元，拘捕兩名男子。"
+      }
+    },
+    {
+      "id": "2026-08-26-thunderstorm-warning-late-morning",
+      "published_at": "2026-08-26T11:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "thunderstorm-warning",
+        "showers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-thunderstorm-warning-late-morning.json",
+      "en": {
+        "headline": "Thunderstorm Warning extended until 11:30 a.m.",
+        "dek": "The Hong Kong Observatory extended the warning issued at 5:20 a.m., expecting a few squally thunderstorms over the territory this morning under an active southerly airstream."
+      },
+      "zh": {
+        "headline": "雷暴警告延長至上午11時30分",
+        "dek": "天文台將清晨5時20分發出的雷暴警告延長至上午11時30分，預料本港有幾陣狂風雷暴，受活躍偏南氣流影響。"
+      }
+    },
     {
       "id": "2026-08-26-pla-garrison-rotation",
       "published_at": "2026-08-26T09:08:00+08:00",
@@ -1566,29 +1631,6 @@
       "zh": {
         "headline": "日本生活雜貨店LOFT闊別15年重返香港 旺角MOKO設一年限定店",
         "dek": "文具及創意雜貨品牌周六於旺角新世紀廣場開業，店內約3,500款產品中有半數為香港限定，由引入3COINS的YAICHI集團營運。"
-      }
-    },
-    {
-      "id": "2026-08-23-lifestyle-teemtonefai-sheung-wan",
-      "published_at": "2026-08-23T09:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "sheung-wan",
-        "ice-cream",
-        "local"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-23/2026-08-23-lifestyle-teemtonefai-sheung-wan.json",
-      "en": {
-        "headline": "Local ice-cream brand TEEMTONEfai opens first permanent shop in Sheung Wan",
-        "dek": "After a decade of pop-ups, the Hong Kong maker known for inventive flavours has settled at Upper Lascar Row with nine new Chinese-inspired scoops and soft-opening promotions through the end of August."
-      },
-      "zh": {
-        "headline": "本地雪糕品牌TEEMTONEfai上環開首間實體店",
-        "dek": "成立十年後，以創意口味聞名的香港雪糕品牌終於在上環摩羅上街落腳，推出九款中式靈感新口味，試業優惠至八月底。"
       }
     }
   ]
