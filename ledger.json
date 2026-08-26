@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-27T03:11:45+08:00",
+  "updated_at": "2026-08-27T07:15:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "red-rainstorm-warning-aug27-morning",
+      "id": "2026-08-27-red-rainstorm-warning-morning",
+      "first_seen": "2026-08-27T07:12:00+08:00",
+      "headline_en": "Red Rainstorm Warning issued; morning and whole-day classes suspended"
+    },
+    {
+      "key": "so-uk-estate-charger-fire-aug27",
+      "id": "2026-08-27-so-uk-estate-charger-fire",
+      "first_seen": "2026-08-27T07:13:00+08:00",
+      "headline_en": "Charger fire at So Uk Estate injures three and kills four cats"
+    },
+    {
+      "key": "domestic-health-accounts-2024-25",
+      "id": "2026-08-27-domestic-health-accounts-2024-25",
+      "first_seen": "2026-08-27T07:14:00+08:00",
+      "headline_en": "Health spending rose 5 per cent to HK$262.5 billion last year"
+    },
+    {
+      "key": "lifestyle-sinfonietta-bach-legacy-aug27",
+      "id": "2026-08-27-lifestyle-sinfonietta-bach-legacy",
+      "first_seen": "2026-08-27T07:15:00+08:00",
+      "headline_en": "Hong Kong Sinfonietta plays Bach’s Legacy at City Hall tonight"
+    },
     {
       "key": "sham-shui-po-fishing-machine-gambling-aug26",
       "id": "2026-08-27-sham-shui-po-fishing-machine-gambling",
