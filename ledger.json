@@ -1,1 +1,66 @@
-{"updated_at": "2026-08-27T03:12:00+08:00", "retention_days": 5, "covered": [{"key": "sham-shui-po-fishing-machine-gambling-aug26", "id": "2026-08-27-sham-shui-po-fishing-machine-gambling", "first_seen": "2026-08-27T03:10:00+08:00", "headline_en": "Police smash multiple illegal fishing-machine dens in Sham Shui Po, arrest 25"}, {"key": "lifestyle-chilli-beans-hong-kong-aug30", "id": "2026-08-27-lifestyle-chilli-beans-concert", "first_seen": "2026-08-27T03:11:00+08:00", "headline_en": "Japanese indie-pop trio Chilli Beans. returns for solo Hong Kong show on 30 August"}, {"key": "amber-rainstorm-thunderstorm-aug27-early-morning", "id": "2026-08-27-amber-rainstorm-thunderstorm-early-morning", "first_seen": "2026-08-27T01:05:00+08:00", "headline_en": "Amber Rainstorm Warning reissued after midnight with Thunderstorm Warning still in force"}, {"key": "apm-kwun-tong-girl-slap-fight-arrests-aug26", "id": "2026-08-27-apm-kwun-tong-assault-arrests", "first_seen": "2026-08-27T01:06:00+08:00", "headline_en": "Two women arrested after fight at Kwun Tong mall over girl being slapped"}, {"key": "customs-sheung-shui-controlled-pharma-aug26", "id": "2026-08-27-customs-sheung-shui-pharma-seizure", "first_seen": "2026-08-27T01:07:00+08:00", "headline_en": "Customs seize HK$11 million of suspected controlled pharmaceuticals in Sheung Shui"}, {"key": "lung-mo-temple-monkey-king-statue-theft-aug24", "id": "2026-08-27-monk-monkey-king-statue-theft", "first_seen": "2026-08-27T01:08:00+08:00", "headline_en": "Mainland monk remanded over alleged theft of Monkey King statue from Tsuen Wan temple"}, {"key": "lifestyle-chan-wai-lap-jeremys-bathhouse-oi", "id": "2026-08-27-lifestyle-chan-wai-lap-bathhouse-oi", "first_seen": "2026-08-27T01:09:00+08:00", "headline_en": "Chan Wai-lap’s ceramic bathhouse installation continues at Oi! until 30 August"}, {"key": "huanggang-port-20k-civil-servants-drill-aug29", "id": "2026-08-26-huanggang-port-20k-drill", "first_seen": "2026-08-26T23:15:00+08:00", "headline_en": "20,000 civil servants to join Huanggang Port peak-capacity drill on Saturday"}, {"key": "friso-formula-no-lead-poisoning-aug26", "id": "2026-08-26-friso-formula-no-lead-poisoning", "first_seen": "2026-08-26T23:14:00+08:00", "headline_en": "No lead poisoning cases found after infant formula scare"}, {"key": "thunderstorm-warning-aug26-late-evening", "id": "2026-08-26-thunderstorm-warning-late-evening", "first_seen": "2026-08-26T23:13:00+08:00", "headline_en": "Thunderstorm Warning remains in force until 11:30 p.m."}]}
+{
+  "updated_at": "2026-08-27T03:11:45+08:00",
+  "retention_days": 5,
+  "covered": [
+    {
+      "key": "sham-shui-po-fishing-machine-gambling-aug26",
+      "id": "2026-08-27-sham-shui-po-fishing-machine-gambling",
+      "first_seen": "2026-08-27T03:10:00+08:00",
+      "headline_en": "Police smash multiple illegal fishing-machine dens in Sham Shui Po, arrest 25"
+    },
+    {
+      "key": "lifestyle-chilli-beans-hong-kong-aug30",
+      "id": "2026-08-27-lifestyle-chilli-beans-concert",
+      "first_seen": "2026-08-27T03:11:00+08:00",
+      "headline_en": "Japanese indie-pop trio Chilli Beans. returns for solo Hong Kong show on 30 August"
+    },
+    {
+      "key": "amber-rainstorm-thunderstorm-aug27-early-morning",
+      "id": "2026-08-27-amber-rainstorm-thunderstorm-early-morning",
+      "first_seen": "2026-08-27T01:05:00+08:00",
+      "headline_en": "Amber Rainstorm Warning reissued after midnight with Thunderstorm Warning still in force"
+    },
+    {
+      "key": "apm-kwun-tong-girl-slap-fight-arrests-aug26",
+      "id": "2026-08-27-apm-kwun-tong-assault-arrests",
+      "first_seen": "2026-08-27T01:06:00+08:00",
+      "headline_en": "Two women arrested after fight at Kwun Tong mall over girl being slapped"
+    },
+    {
+      "key": "customs-sheung-shui-controlled-pharma-aug26",
+      "id": "2026-08-27-customs-sheung-shui-pharma-seizure",
+      "first_seen": "2026-08-27T01:07:00+08:00",
+      "headline_en": "Customs seize HK$11 million of suspected controlled pharmaceuticals in Sheung Shui"
+    },
+    {
+      "key": "lung-mo-temple-monkey-king-statue-theft-aug24",
+      "id": "2026-08-27-monk-monkey-king-statue-theft",
+      "first_seen": "2026-08-27T01:08:00+08:00",
+      "headline_en": "Mainland monk remanded over alleged theft of Monkey King statue from Tsuen Wan temple"
+    },
+    {
+      "key": "lifestyle-chan-wai-lap-jeremys-bathhouse-oi",
+      "id": "2026-08-27-lifestyle-chan-wai-lap-bathhouse-oi",
+      "first_seen": "2026-08-27T01:09:00+08:00",
+      "headline_en": "Chan Wai-lap’s ceramic bathhouse installation continues at Oi! until 30 August"
+    },
+    {
+      "key": "huanggang-port-20k-civil-servants-drill-aug29",
+      "id": "2026-08-26-huanggang-port-20k-drill",
+      "first_seen": "2026-08-26T23:15:00+08:00",
+      "headline_en": "20,000 civil servants to join Huanggang Port peak-capacity drill on Saturday"
+    },
+    {
+      "key": "friso-formula-no-lead-poisoning-aug26",
+      "id": "2026-08-26-friso-formula-no-lead-poisoning",
+      "first_seen": "2026-08-26T23:14:00+08:00",
+      "headline_en": "No lead poisoning cases found after infant formula scare"
+    },
+    {
+      "key": "thunderstorm-warning-aug26-late-evening",
+      "id": "2026-08-26-thunderstorm-warning-late-evening",
+      "first_seen": "2026-08-26T23:13:00+08:00",
+      "headline_en": "Thunderstorm Warning remains in force until 11:30 p.m."
+    }
+  ]
+}

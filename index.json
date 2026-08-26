@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-27T01:13:32+08:00",
+  "generated_at": "2026-08-27T03:11:45+08:00",
   "live_window_hours": 72,
   "count": 79,
   "articles": [
+    {
+      "id": "2026-08-27-lifestyle-chilli-beans-concert",
+      "published_at": "2026-08-27T03:11:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "music",
+        "concert",
+        "japanese",
+        "tides"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-lifestyle-chilli-beans-concert.json",
+      "en": {
+        "headline": "Japanese indie-pop trio Chilli Beans. returns for solo Hong Kong show on 30 August",
+        "dek": "The group, known for the One Piece ending theme Raise and recent Netflix work, performs at Tides after their Clockenflap appearance late last year."
+      },
+      "zh": {
+        "headline": "日本獨立流行組合Chilli Beans. 8月30日再臨香港專場",
+        "dek": "憑《海賊王》片尾曲Raise及Netflix動畫主題曲成名的三人組合，繼去年Clockenflap後於Tides舉行演唱會。"
+      }
+    },
+    {
+      "id": "2026-08-27-sham-shui-po-fishing-machine-gambling",
+      "published_at": "2026-08-27T03:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "crime",
+        "gambling",
+        "sham-shui-po"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-sham-shui-po-fishing-machine-gambling.json",
+      "en": {
+        "headline": "Police smash multiple illegal fishing-machine dens in Sham Shui Po, arrest 25",
+        "dek": "Officers from Sham Shui Po District raided units on several streets under Operation Rising Sun, seizing dozens of machines, gambling equipment and cash."
+      },
+      "zh": {
+        "headline": "警深水埗搗破多個非法釣魚機賭場 拘25人",
+        "dek": "深水埗警區人員展開代號「旭日」行動，搜查南昌街、鴨寮街、長沙灣道及基隆街多個單位，檢獲數十部釣魚機機件、賭具及賭款。"
+      }
+    },
     {
       "id": "2026-08-27-lifestyle-chan-wai-lap-bathhouse-oi",
       "published_at": "2026-08-27T01:09:00+08:00",
@@ -1702,53 +1747,6 @@
       "zh": {
         "headline": "葵涌邨春葵樓雙屍案 八旬翁墮樓 六旬婦伏屍單位內",
         "dek": "警方正調查一宗懷疑謀殺及自殺案，周日晚一名八旬男子倒臥大廈外，單位內發現一名六旬女子身上有多處利器傷痕。"
-      }
-    },
-    {
-      "id": "2026-08-24-lifestyle-design-ah-m-plus",
-      "published_at": "2026-08-24T03:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "m-plus",
-        "west-kowloon",
-        "family",
-        "design"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-24/2026-08-24-lifestyle-design-ah-m-plus.json",
-      "en": {
-        "headline": "Design Ah! interactive exhibition continues at M+ through January",
-        "dek": "The family-friendly show exploring everyday design through 21 play stations remains open at the Main Hall Gallery in West Kowloon until 10 January 2027."
-      },
-      "zh": {
-        "headline": "M+《設計啊！》互動展持續至明年一月",
-        "dek": "以日常設計為題的親子互動展覽於西九文化區M+主展廳舉行，設21個體驗站，展期至2027年1月10日。"
-      }
-    },
-    {
-      "id": "2026-08-24-lifestyle-computer-communications-festival-final",
-      "published_at": "2026-08-24T01:15:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "ai",
-        "wan-chai",
-        "hkcec"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-24/2026-08-24-lifestyle-computer-communications-festival-final.json",
-      "en": {
-        "headline": "Hong Kong Computer & Communications Festival ends today at HKCEC",
-        "dek": "The four-day tech fair focused on AI applications closes at 7 pm on Monday after drawing exhibitors and visitors to Hall 1 of the Convention and Exhibition Centre."
-      },
-      "zh": {
-        "headline": "香港電腦通訊節今日閉幕 會展開放至晚上七時",
-        "dek": "以人工智能應用為主題的四日科技展覽今日最後一日於灣仔會展一號展覽廳舉行，晚上七時結束。"
       }
     }
   ]
