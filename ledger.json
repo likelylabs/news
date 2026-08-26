@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-26T15:09:30+08:00",
+  "updated_at": "2026-08-26T21:22:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "amber-rainstorm-thunderstorm-aug26-evening",
+      "id": "2026-08-26-amber-rainstorm-thunderstorm-evening",
+      "first_seen": "2026-08-26T21:20:00+08:00",
+      "headline_en": "Amber Rainstorm Warning and Thunderstorm Warning in force this evening"
+    },
+    {
+      "key": "lee-five-year-plan-policy-address-sep16",
+      "id": "2026-08-26-lee-five-year-plan-policy-address-sep16",
+      "first_seen": "2026-08-26T21:21:00+08:00",
+      "headline_en": "John Lee to unveil Hong Kong’s first five-year plan and Policy Address on 16 September"
+    },
+    {
+      "key": "tai-po-on-po-road-water-main-burst-aug26",
+      "id": "2026-08-26-tai-po-on-po-road-water-main-burst",
+      "first_seen": "2026-08-26T21:22:00+08:00",
+      "headline_en": "Tai Po water main burst leaves thousands without supply overnight"
+    },
     {
       "key": "thunderstorm-warning-aug26-midafternoon",
       "id": "2026-08-26-thunderstorm-warning-midafternoon",
