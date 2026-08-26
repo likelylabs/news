@@ -1,8 +1,116 @@
 {
-  "generated_at": "2026-08-26T11:06:10+08:00",
+  "generated_at": "2026-08-26T13:07:13+08:00",
   "live_window_hours": 72,
-  "count": 73,
+  "count": 77,
   "articles": [
+    {
+      "id": "2026-08-26-police-cannabis-social-media-arrests",
+      "published_at": "2026-08-26T13:09:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "drugs",
+        "cannabis",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-police-cannabis-social-media-arrests.json",
+      "en": {
+        "headline": "Six men arrested after police dismantle social-media cannabis trafficking group",
+        "dek": "About 7.7 kg of suspected cannabis buds and related products valued at more than HK$1.9 million were seized in raids on bases and stores in Tsuen Wan and Yuen Long."
+      },
+      "zh": {
+        "headline": "警拘6男瓦解社交平台販毒集團 檢值190萬元大麻花",
+        "dek": "行動中於荃灣及元朗搗破行動基地及儲存倉，檢獲約7.7公斤懷疑大麻花及相關產品，市值超過190萬元。"
+      }
+    },
+    {
+      "id": "2026-08-26-cfs-junlebao-milk-bacterial",
+      "published_at": "2026-08-26T13:08:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "food-safety",
+        "cfs",
+        "milk",
+        "import"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-cfs-junlebao-milk-bacterial.json",
+      "en": {
+        "headline": "CFS finds bacterial counts exceeded in Junlebao pure milk samples",
+        "dek": "Four samples of the one-litre product exceeded legal limits; the affected batch remains at the importer’s warehouse and has not entered the market."
+      },
+      "zh": {
+        "headline": "君樂寶純牛奶菌落計數超標 食安中心封存產品暫撤進口准許",
+        "dek": "四個樣本菌落計數超出法例標準，受影響批次仍存於進口商貨倉，並無流出市面。"
+      }
+    },
+    {
+      "id": "2026-08-26-police-ha-ct-mou",
+      "published_at": "2026-08-26T13:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "hospital-authority",
+        "counter-terrorism",
+        "health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-police-ha-ct-mou.json",
+      "en": {
+        "headline": "Police and Hospital Authority sign MoU on counter-terrorism medical collaboration",
+        "dek": "Commissioner Raymond Siu and HA chief executive Libby Lee signed the agreement covering tactical medical training, on-scene procedures and professional accreditation."
+      },
+      "zh": {
+        "headline": "警方與醫管局簽署諒解備忘錄 深化反恐應變及醫療協作",
+        "dek": "警務處處長周一鳴與醫管局行政總裁李夏茵簽署文件，涵蓋戰術醫療訓練、現場處置程序及專業認證等範疇。"
+      }
+    },
+    {
+      "id": "2026-08-26-west-kowloon-eu-firearm-discharge",
+      "published_at": "2026-08-26T13:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "west-kowloon",
+        "firearm"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-west-kowloon-eu-firearm-discharge.json",
+      "en": {
+        "headline": "West Kowloon Emergency Unit officer’s service weapon discharges accidentally while loading",
+        "dek": "One round was fired at about 11:01 p.m. on Tuesday inside the unit’s operations base; no one was injured and the force said the matter is under investigation."
+      },
+      "zh": {
+        "headline": "西九龍衝鋒隊男警配槍上彈走火 射出一子彈無人傷",
+        "dek": "一名男警昨晚約11時01分在西九龍總區衝鋒隊行動基地上彈區為配槍入彈時意外走火，發射一發子彈，無人受傷。"
+      }
+    },
+    {
+      "id": "2026-08-26-thunderstorm-warning-afternoon",
+      "published_at": "2026-08-26T13:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "thunderstorm-warning",
+        "showers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-thunderstorm-warning-afternoon.json",
+      "en": {
+        "headline": "Thunderstorm Warning extended until 1:30 p.m.",
+        "dek": "The Hong Kong Observatory said a few squally thunderstorms are expected over the territory this afternoon under an active southerly airstream."
+      },
+      "zh": {
+        "headline": "雷暴警告延長至下午1時30分",
+        "dek": "天文台表示受活躍偏南氣流影響，預料本港今午有幾陣狂風雷暴。"
+      }
+    },
     {
       "id": "2026-08-26-heung-yuen-wai-overnight-crossing",
       "published_at": "2026-08-26T11:07:00+08:00",
@@ -1608,29 +1716,6 @@
       "zh": {
         "headline": "將軍澳的士司機落車查爆胎遭撞斃 私家車男司機涉危駕被捕",
         "dek": "周日凌晨一名67歲的士司機在環保大道因左後胎爆裂落車檢查時，被一輛私家車從後撞倒夾困，送院後不治，35歲私家車司機涉危險駕駛引致他人死亡被捕。"
-      }
-    },
-    {
-      "id": "2026-08-23-lifestyle-loft-moko-mong-kok",
-      "published_at": "2026-08-23T11:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "shopping",
-        "mong-kok",
-        "japanese",
-        "retail"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-23/2026-08-23-lifestyle-loft-moko-mong-kok.json",
-      "en": {
-        "headline": "Japanese lifestyle retailer LOFT returns to Hong Kong with one-year pop-up at MOKO",
-        "dek": "After a 15-year absence the stationery and novelty specialist opened on Saturday at Mong Kok’s New Century Plaza, stocking about 3,500 products of which half are exclusive to the local market."
-      },
-      "zh": {
-        "headline": "日本生活雜貨店LOFT闊別15年重返香港 旺角MOKO設一年限定店",
-        "dek": "文具及創意雜貨品牌周六於旺角新世紀廣場開業，店內約3,500款產品中有半數為香港限定，由引入3COINS的YAICHI集團營運。"
       }
     }
   ]
