@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-08-26T15:09:30+08:00",
+  "generated_at": "2026-08-26T21:21:26+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 74,
   "articles": [
+    {
+      "id": "2026-08-26-tai-po-on-po-road-water-main-burst",
+      "published_at": "2026-08-26T21:22:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "water-supplies",
+        "tai-po",
+        "pipe-leak",
+        "wsd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-tai-po-on-po-road-water-main-burst.json",
+      "en": {
+        "headline": "Tai Po water main burst leaves thousands without supply overnight",
+        "dek": "A 200-millimetre fresh-water pipe burst on On Po Road near Tai Yuen Estate; the Water Supplies Department will shut off supply after 11 p.m. for repairs and aims to restore service by noon on Thursday."
+      },
+      "zh": {
+        "headline": "大埔安埔路食水管爆裂 大元邨汀雅苑等近五千戶受影響",
+        "dek": "水務署安排今晚11時後停水維修，爭取明日中午12時前恢復供水，並已派出水車及水箱提供臨時食水。"
+      }
+    },
+    {
+      "id": "2026-08-26-lee-five-year-plan-policy-address-sep16",
+      "published_at": "2026-08-26T21:21:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "john-lee",
+        "policy-address",
+        "five-year-plan",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-lee-five-year-plan-policy-address-sep16.json",
+      "en": {
+        "headline": "John Lee to unveil Hong Kong’s first five-year plan and Policy Address on 16 September",
+        "dek": "The Chief Executive said the two documents would be released together so the public can see how the annual Policy Address implements the longer-term blueprint."
+      },
+      "zh": {
+        "headline": "李家超：9月16日公布首份五年規劃及施政報告",
+        "dek": "行政長官表示兩份文件同日發表，方便市民理解五年規劃與年度施政的一脈相承關係。"
+      }
+    },
+    {
+      "id": "2026-08-26-amber-rainstorm-thunderstorm-evening",
+      "published_at": "2026-08-26T21:20:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "amber-rainstorm",
+        "thunderstorm-warning",
+        "showers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-amber-rainstorm-thunderstorm-evening.json",
+      "en": {
+        "headline": "Amber Rainstorm Warning and Thunderstorm Warning in force this evening",
+        "dek": "The Hong Kong Observatory issued the Amber Rainstorm Warning at 6:45 p.m. and extended the Thunderstorm Warning, with violent gusts recorded and further heavy rain expected overnight and tomorrow morning."
+      },
+      "zh": {
+        "headline": "黃色暴雨及雷暴警告生效 大澳錄得時速80公里陣風",
+        "dek": "天文台下午6時45分發出黃色暴雨警告，雷暴警告延長，預料今晚及明早雨勢有時頗大，並可能有猛烈陣風。"
+      }
+    },
     {
       "id": "2026-08-26-lee-pku-higher-education",
       "published_at": "2026-08-26T15:10:00+08:00",
@@ -1576,165 +1642,6 @@
       "zh": {
         "headline": "天文台密切監察熱帶風暴紫檀 周二或周三或發熱帶氣旋警告",
         "dek": "天文台表示紫檀預料於北部灣徘徊後轉向東北靠近雷州半島，會評估周二或周三是否需要發出熱帶氣旋警告信號。"
-      }
-    },
-    {
-      "id": "2026-08-23-ride-hailing-test-applications",
-      "published_at": "2026-08-23T21:17:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "ride-hailing",
-        "taxi",
-        "mable-chan",
-        "transport-department",
-        "licensing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-23/2026-08-23-ride-hailing-test-applications.json",
-      "en": {
-        "headline": "More than 7,500 apply for combined taxi and ride-hailing written test",
-        "dek": "Transport Secretary Mable Chan said the new exam, open since 3 August, has drawn strong interest and that platforms will be invited to apply for licences in the coming weeks."
-      },
-      "zh": {
-        "headline": "的士及網約車綜合筆試逾7500人報考 未來數周邀平台申請牌照",
-        "dek": "運輸及物流局長陳美寶表示，綜合筆試自本月3日開放申請以來已有逾7500人報名，未來數星期會邀請網約車平台申請牌照。"
-      }
-    },
-    {
-      "id": "2026-08-23-abu-robocon-hku-champion",
-      "published_at": "2026-08-23T21:16:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "robotics",
-        "hku",
-        "cuhk",
-        "robocon",
-        "innovation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-23/2026-08-23-abu-robocon-hku-champion.json",
-      "en": {
-        "headline": "HKU wins ABU Robocon 2026 as both local teams reach final",
-        "dek": "The University of Hong Kong team defeated the Chinese University of Hong Kong 240-100 in the final of the Asia-Pacific Broadcasting Union robotics contest held at Queen Elizabeth Stadium."
-      },
-      "zh": {
-        "headline": "亞太廣播聯盟機械人大賽港大奪冠 中大屈居亞軍",
-        "dek": "亞太廣播聯盟機械人大賽周日於伊利沙伯體育館舉行，港大「格物」隊決賽以240比100擊敗中大「功無不克」隊奪冠。"
-      }
-    },
-    {
-      "id": "2026-08-23-shek-lei-escalator-accident",
-      "published_at": "2026-08-23T21:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "accident",
-        "shek-lei",
-        "kwai-chung",
-        "escalator",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-23/2026-08-23-shek-lei-escalator-accident.json",
-      "en": {
-        "headline": "Two men injured after escalator fall at Shek Lei Shopping Centre",
-        "dek": "A 76-year-old man lost his balance on a Phase 1 escalator on Sunday afternoon, colliding with a 68-year-old man behind him; both were taken to hospital conscious."
-      },
-      "zh": {
-        "headline": "石籬商場扶手電梯兩男跌倒受傷 七旬翁一度被困",
-        "dek": "周日下午一名76歲男子在石籬商場一期扶手電梯失平衡向後跌，撞倒身後68歲男子，兩人清醒送瑪嘉烈醫院。"
-      }
-    },
-    {
-      "id": "2026-08-23-lifestyle-isaac-chong-wai-tai-kwun",
-      "published_at": "2026-08-23T15:16:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "arts",
-        "tai-kwun",
-        "exhibition",
-        "performance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-23/2026-08-23-lifestyle-isaac-chong-wai-tai-kwun.json",
-      "en": {
-        "headline": "Isaac Chong Wai’s first solo live-art show at Tai Kwun ends today",
-        "dek": "The Berlin-based Hong Kong artist’s exhibition of conceptual performances exploring collective memory and vulnerability closes on Sunday after a run at Tai Kwun Contemporary."
-      },
-      "zh": {
-        "headline": "張子謙首個本地現場藝術個展大館今日結束",
-        "dek": "駐柏林香港藝術家張子謙於大館當代美術館的概念表演展今日閉幕，探討集體記憶與脆弱性。"
-      }
-    },
-    {
-      "id": "2026-08-23-kwong-wah-hospital-arson",
-      "published_at": "2026-08-23T15:14:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "arson",
-        "hospital",
-        "yau-ma-tei"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-23/2026-08-23-kwong-wah-hospital-arson.json",
-      "en": {
-        "headline": "Patient arrested after bedding and restraint belts set ablaze at Kwong Wah Hospital",
-        "dek": "A 25-year-old man was arrested on suspicion of arson after a fire broke out at the Yau Ma Tei hospital in the early hours of Sunday; no injuries were reported."
-      },
-      "zh": {
-        "headline": "廣華醫院病人點燃約束帶及床墊 25歲男子涉縱火被捕",
-        "dek": "周日凌晨油麻地廣華醫院發生可疑火警，一名25歲姓黃男病人涉嫌點燃約束帶及床墊，無人受傷，已被警方拘捕。"
-      }
-    },
-    {
-      "id": "2026-08-23-very-hot-thunderstorm-warnings",
-      "published_at": "2026-08-23T15:12:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "very-hot-weather-warning",
-        "thunderstorm-warning",
-        "heat"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-23/2026-08-23-very-hot-thunderstorm-warnings.json",
-      "en": {
-        "headline": "Very Hot Weather and Thunderstorm Warnings in force this afternoon",
-        "dek": "The Hong Kong Observatory issued the Very Hot Weather Warning at 1:10 p.m. and a Thunderstorm Warning at 2 p.m., valid until 4 p.m., expecting isolated thunderstorms over Lantau and the New Territories."
-      },
-      "zh": {
-        "headline": "酷熱天氣警告及雷暴警告生效 預料大嶼山新界局部有雷暴",
-        "dek": "天文台下午1時10分發出酷熱天氣警告，下午2時發出雷暴警告至4時，預料大嶼山及新界有局部雷暴。"
-      }
-    },
-    {
-      "id": "2026-08-23-workweek-weather-outlook",
-      "published_at": "2026-08-23T15:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "workweek-outlook",
-        "showers",
-        "thunderstorms",
-        "narra"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-23/2026-08-23-workweek-weather-outlook.json",
-      "en": {
-        "headline": "Work-week outlook: unsettled with showers and possible tropical cyclone signals",
-        "dek": "The Hong Kong Observatory expects cloudy conditions with occasional showers and squally thunderstorms early to midweek as Tropical Storm Narra edges closer to western Guangdong, with very hot weather returning later…"
-      },
-      "zh": {
-        "headline": "下周展望：初中期不穩定有驟雨 或發熱帶氣旋警告",
-        "dek": "天文台預料受廣闊低壓槽及熱帶風暴紫檀影響，下周初至中期多雲有驟雨及狂風雷暴，風勢較大，稍後轉酷熱。"
       }
     }
   ]
