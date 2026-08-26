@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-08-26T07:13:37+08:00",
+  "generated_at": "2026-08-26T09:07:13+08:00",
   "live_window_hours": 72,
-  "count": 67,
+  "count": 71,
   "articles": [
+    {
+      "id": "2026-08-26-pla-garrison-rotation",
+      "published_at": "2026-08-26T09:08:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "pla",
+        "garrison",
+        "defence"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-pla-garrison-rotation.json",
+      "en": {
+        "headline": "PLA Hong Kong Garrison completes 29th unit rotation",
+        "dek": "The garrison carried out a scheduled rotation of army, navy and air force units between 24 and 25 August under the Garrison Law and a Central Military Commission order."
+      },
+      "zh": {
+        "headline": "解放軍駐港部隊完成第29次建制單位輪換",
+        "dek": "駐港部隊於8月24至25日組織陸軍、海軍、空軍部分兵力進行第29次建制單位輪換，行動全程安全順利。"
+      }
+    },
+    {
+      "id": "2026-08-26-tsuen-wan-drug-arrest",
+      "published_at": "2026-08-26T09:07:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "drugs",
+        "tsuen-wan",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-tsuen-wan-drug-arrest.json",
+      "en": {
+        "headline": "Man arrested in Tsuen Wan car park drug seizure",
+        "dek": "Police detained a 34-year-old local man after finding about 27 grams of suspected ketamine and 23 grams of suspected cocaine valued at roughly HK$26,000 in two private cars."
+      },
+      "zh": {
+        "headline": "荃灣停車場檢獲毒品 34歲男子被捕",
+        "dek": "警方在荃灣住宅停車場截查兩輛私家車，檢獲約27克懷疑氯胺酮及23克懷疑可卡因，市值約2.6萬元，拘捕一名34歲本地男子。"
+      }
+    },
+    {
+      "id": "2026-08-26-sham-shui-po-man-fall",
+      "published_at": "2026-08-26T09:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "sham-shui-po",
+        "accident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-sham-shui-po-man-fall.json",
+      "en": {
+        "headline": "Man dies after falling from building in Sham Shui Po",
+        "dek": "A 55-year-old man was found dead on Tuesday evening after falling from a tenement building near the junction of Nam Cheong Street and Lai Chi Kok Road, striking a parked works vehicle."
+      },
+      "zh": {
+        "headline": "深水埗男子墮樓壓中工程車後死亡",
+        "dek": "一名55歲男子周二晚在南昌街近荔枝角道交界大廈墮下，先壓中停泊路邊的渠務工程車再反彈落地，當場不治。"
+      }
+    },
+    {
+      "id": "2026-08-26-thunderstorm-warning-midmorning",
+      "published_at": "2026-08-26T09:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "thunderstorm-warning",
+        "showers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-thunderstorm-warning-midmorning.json",
+      "en": {
+        "headline": "Thunderstorm Warning extended until 9:30 a.m.",
+        "dek": "The Hong Kong Observatory extended the warning issued at 5:20 a.m., expecting a few squally thunderstorms over the territory this morning."
+      },
+      "zh": {
+        "headline": "雷暴警告延長至上午9時30分",
+        "dek": "天文台將清晨5時20分發出的雷暴警告延長至上午9時30分，預料本港有幾陣狂風雷暴。"
+      }
+    },
     {
       "id": "2026-08-26-lifestyle-po-toi-chau-booking",
       "published_at": "2026-08-26T07:15:00+08:00",
