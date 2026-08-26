@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-26T09:07:13+08:00",
+  "updated_at": "2026-08-26T11:07:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "thunderstorm-warning-aug26-late-morning",
+      "id": "2026-08-26-thunderstorm-warning-late-morning",
+      "first_seen": "2026-08-26T11:05:00+08:00",
+      "headline_en": "Thunderstorm Warning extended until 11:30 a.m."
+    },
+    {
+      "key": "tsing-yi-drug-arrest-aug25",
+      "id": "2026-08-26-tsing-yi-drug-arrest",
+      "first_seen": "2026-08-26T11:06:00+08:00",
+      "headline_en": "Two men arrested after drugs found in Tsing Yi light goods vehicle"
+    },
+    {
+      "key": "heung-yuen-wai-lok-ma-chau-overnight",
+      "id": "2026-08-26-heung-yuen-wai-overnight-crossing",
+      "first_seen": "2026-08-26T11:07:00+08:00",
+      "headline_en": "Heung Yuen Wai permit holders can use Lok Ma Chau overnight from today"
+    },
     {
       "key": "thunderstorm-warning-aug26-midmorning",
       "id": "2026-08-26-thunderstorm-warning-midmorning",

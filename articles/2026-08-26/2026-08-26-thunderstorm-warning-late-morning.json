@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-26-thunderstorm-warning-late-morning",
+  "published_at": "2026-08-26T11:05:00+08:00",
+  "category": "weather",
+  "tags": ["hko", "thunderstorm-warning", "showers"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "thunderstorm-warning-aug26-late-morning",
+  "en": {
+    "headline": "Thunderstorm Warning extended until 11:30 a.m.",
+    "dek": "The Hong Kong Observatory extended the warning issued at 5:20 a.m., expecting a few squally thunderstorms over the territory this morning under an active southerly airstream.",
+    "body": [
+      "The Hong Kong Observatory said the Thunderstorm Warning first issued at 5:20 a.m. on 26 August has been extended until 11:30 a.m. today. A few squally thunderstorms are expected to occur over Hong Kong.",
+      "Special weather tips issued earlier this morning warned that widespread heavy rain may affect the territory in the coming hours and that members of the public should remain on the alert. Showers will be heavy at times today and tomorrow, with winds occasionally strong offshore and on high ground.",
+      "Tropical Depression Narra was centred about 20 kilometres east of Zhanjiang at 10 a.m. and is forecast to move into the inland areas of western Guangdong and weaken, maintaining quite some distance from Hong Kong. Its direct threat to the territory is not high, the Observatory said."
+    ]
+  },
+  "zh": {
+    "headline": "雷暴警告延長至上午11時30分",
+    "dek": "天文台將清晨5時20分發出的雷暴警告延長至上午11時30分，預料本港有幾陣狂風雷暴，受活躍偏南氣流影響。",
+    "body": [
+      "香港天文台表示，8月26日清晨5時20分發出的雷暴警告已延長至今日上午11時30分，預料本港有幾陣狂風雷暴。",
+      "天文台較早前發出的特別天氣提示指出，未來一兩小時香港廣泛地區可能受大雨影響，市民應提高警覺。今明兩日部分地區雨勢有時較大，離岸及高地間中吹強風。",
+      "熱帶低氣壓紫檀於上午10時集結在湛江以東約20公里，預料移入廣東西部內陸並減弱，與本港保持相當距離，對本港直接威脅不大。"
+    ]
+  }
+}
