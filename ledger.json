@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-26T13:07:13+08:00",
+  "updated_at": "2026-08-26T15:10:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "thunderstorm-warning-aug26-midafternoon",
+      "id": "2026-08-26-thunderstorm-warning-midafternoon",
+      "first_seen": "2026-08-26T15:07:00+08:00",
+      "headline_en": "Thunderstorm Warning extended until 3:30 p.m."
+    },
+    {
+      "key": "rthk-editor-upskirt-sentence-aug26",
+      "id": "2026-08-26-rthk-editor-upskirt-sentence",
+      "first_seen": "2026-08-26T15:08:00+08:00",
+      "headline_en": "RTHK senior editor given 160 hours community service for upskirt filming"
+    },
+    {
+      "key": "investment-scam-recyclable-waste-aug26",
+      "id": "2026-08-26-investment-scam-recyclable-waste",
+      "first_seen": "2026-08-26T15:09:00+08:00",
+      "headline_en": "Man loses over HK$2.8 million in recyclable-waste investment scam"
+    },
+    {
+      "key": "lee-pku-meeting-aug26",
+      "id": "2026-08-26-lee-pku-higher-education",
+      "first_seen": "2026-08-26T15:10:00+08:00",
+      "headline_en": "John Lee meets Peking University party secretary on higher-education cooperation"
+    },
     {
       "key": "thunderstorm-warning-aug26-afternoon",
       "id": "2026-08-26-thunderstorm-warning-afternoon",
