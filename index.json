@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-08-27T03:11:45+08:00",
+  "generated_at": "2026-08-27T07:16:20+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-08-27-lifestyle-sinfonietta-bach-legacy",
+      "published_at": "2026-08-27T07:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "concert",
+        "classical-music",
+        "city-hall"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-lifestyle-sinfonietta-bach-legacy.json",
+      "en": {
+        "headline": "Hong Kong Sinfonietta plays Bach’s Legacy at City Hall tonight",
+        "dek": "Recorder player Stefan Temmingh and harpsichordist Sebastian Wienand join the orchestra’s string musicians at 8 p.m. for a programme of Bach family works and an Asian première."
+      },
+      "zh": {
+        "headline": "香港小交響樂團今晚城廳上演「巴赫的傳承」",
+        "dek": "直笛演奏家Stefan Temmingh與鍵琴家Sebastian Wienand今晚8時在香港大會堂音樂廳，與樂團弦樂組演出巴赫家族作品及一闕亞洲首演。"
+      }
+    },
+    {
+      "id": "2026-08-27-domestic-health-accounts-2024-25",
+      "published_at": "2026-08-27T07:14:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health-bureau",
+        "public-health",
+        "hospitals"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-domestic-health-accounts-2024-25.json",
+      "en": {
+        "headline": "Health spending rose 5 per cent to HK$262.5 billion last year",
+        "dek": "The Health Bureau said recurrent health expenditure in 2024/25 reached HK$262.513 billion, or 8.2 per cent of GDP, with public spending accounting for just over half."
+      },
+      "zh": {
+        "headline": "上年度醫療經常開支2625億 按年增5%",
+        "dek": "醫務衞生局公布2024/25年度本地醫療衞生總開支帳目，經常性開支2625.13億元，佔本地生產總值8.2%，人均34890元。"
+      }
+    },
+    {
+      "id": "2026-08-27-so-uk-estate-charger-fire",
+      "published_at": "2026-08-27T07:13:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "sham-shui-po",
+        "housing",
+        "pets"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-so-uk-estate-charger-fire.json",
+      "en": {
+        "headline": "Charger fire at So Uk Estate injures three and kills four cats",
+        "dek": "Firefighters put out a blaze in a ninth-floor flat at Carnation House before dawn after a portable charger overheated; about 80 residents were evacuated."
+      },
+      "zh": {
+        "headline": "蘇屋邭充電器起火三人送院 單位四貓不治",
+        "dek": "長沙灣蘇屋邭石竹樓九樓單位清晨充電器過熱起火，消防約半小時救熄，約80人疏散，三人送院，單位內四隻家貓搶救後不治。"
+      }
+    },
+    {
+      "id": "2026-08-27-red-rainstorm-warning-morning",
+      "published_at": "2026-08-27T07:12:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "red-rainstorm",
+        "thunderstorm-warning",
+        "schools",
+        "flooding"
+      ],
+      "breaking": true,
+      "path": "articles/2026-08-27/2026-08-27-red-rainstorm-warning-morning.json",
+      "en": {
+        "headline": "Red Rainstorm Warning issued; morning and whole-day classes suspended",
+        "dek": "The Observatory upgraded to a Red Rainstorm Warning at 5:05 a.m., with a Thunderstorm Warning in force until 8:30 a.m., and the Education Bureau suspended morning and whole-day school classes."
+      },
+      "zh": {
+        "headline": "天文台改發紅色暴雨警告 上午校及全日制學校停課",
+        "dek": "天文台今晨5時05分改發紅色暴雨警告，雷暴警告有效至上午8時30分；教育局宣布所有上午校及全日制學校今日停課。"
+      }
+    },
     {
       "id": "2026-08-27-lifestyle-chilli-beans-concert",
       "published_at": "2026-08-27T03:11:00+08:00",
