@@ -1,8 +1,184 @@
 {
-  "generated_at": "2026-08-26T21:21:26+08:00",
+  "generated_at": "2026-08-27T01:13:32+08:00",
   "live_window_hours": 72,
-  "count": 74,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-08-27-lifestyle-chan-wai-lap-bathhouse-oi",
+      "published_at": "2026-08-27T01:09:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "art",
+        "north-point",
+        "oi"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-lifestyle-chan-wai-lap-bathhouse-oi.json",
+      "en": {
+        "headline": "Chan Wai-lap’s ceramic bathhouse installation continues at Oi! until 30 August",
+        "dek": "The free exhibition Jeremy’s Bathhouse at Oil Street Art Space features a heart-shaped pool of more than 1,200 handmade tiles and mist effects exploring bathing cultures and connection."
+      },
+      "zh": {
+        "headline": "陳惠立「左旋們浴場」陶瓷裝置展油街實現至8月30日",
+        "dek": "免費展覽以逾1,200塊手工陶瓷磚組成心形浴池，結合霧氣效果，探討浴場文化與人際連結，北角油街實現舉行。"
+      }
+    },
+    {
+      "id": "2026-08-27-monk-monkey-king-statue-theft",
+      "published_at": "2026-08-27T01:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "crime",
+        "tsuen-wan",
+        "theft"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-monk-monkey-king-statue-theft.json",
+      "en": {
+        "headline": "Mainland monk remanded over alleged theft of Monkey King statue from Tsuen Wan temple",
+        "dek": "Zha Jianxin, 57, a two-way permit holder from Shenzhen, appeared in West Kowloon Court charged with stealing a HK$2,000 copper statue of Sun Wukong from Lung Mo Temple."
+      },
+      "zh": {
+        "headline": "內地和尚涉偷荃灣龍母佛堂孫悟空神像還押",
+        "dek": "57歲雙程證持有人查建新被控於8月24日在荃灣龍母佛堂附近偷取價值2,000元銅製孫悟空神像，西九龍裁判法院還押至9月23日再訊。"
+      }
+    },
+    {
+      "id": "2026-08-27-customs-sheung-shui-pharma-seizure",
+      "published_at": "2026-08-27T01:07:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "crime",
+        "pharmaceuticals",
+        "sheung-shui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-customs-sheung-shui-pharma-seizure.json",
+      "en": {
+        "headline": "Customs seize HK$11 million of suspected controlled pharmaceuticals in Sheung Shui",
+        "dek": "Officers raided a warehouse used for storage and repackaging, arresting two mainland two-way permit holders and seizing more than 400,000 items mostly for sexual health and cancer treatment."
+      },
+      "zh": {
+        "headline": "海關上水搗破倉庫檢逾1100萬元受管制藥品拘兩人",
+        "dek": "關員於上水工廈單位檢獲逾40萬件懷疑受管制藥劑製品，大部分為壯陽藥及抗癌藥，兩名雙程證持有人被捕。"
+      }
+    },
+    {
+      "id": "2026-08-27-apm-kwun-tong-assault-arrests",
+      "published_at": "2026-08-27T01:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "crime",
+        "kwun-tong",
+        "assault"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-apm-kwun-tong-assault-arrests.json",
+      "en": {
+        "headline": "Two women arrested after fight at Kwun Tong mall over girl being slapped",
+        "dek": "Police detained a 68-year-old woman and a 34-year-old woman following a viral video of an altercation at the APM shopping centre play area on Wednesday afternoon."
+      },
+      "zh": {
+        "headline": "觀塘apm女童被掌摑混戰 警拘兩女",
+        "dek": "周三下午觀塘apm商場遊戲區發生爭執，影片顯示阿婆推撞及掌摑女童後引發混戰，警方拘捕68歲及34歲女子。"
+      }
+    },
+    {
+      "id": "2026-08-27-amber-rainstorm-thunderstorm-early-morning",
+      "published_at": "2026-08-27T01:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "amber-rainstorm",
+        "thunderstorm-warning",
+        "showers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-amber-rainstorm-thunderstorm-early-morning.json",
+      "en": {
+        "headline": "Amber Rainstorm Warning reissued after midnight with Thunderstorm Warning still in force",
+        "dek": "The Hong Kong Observatory reissued the Amber Rainstorm Warning shortly after midnight and has the Thunderstorm Warning extended until 3 a.m., expecting heavy rain and squally thunderstorms under an active southerly…"
+      },
+      "zh": {
+        "headline": "午夜後再發黃色暴雨警告 雷暴警告延長至凌晨3時",
+        "dek": "天文台午夜過後再發出黃色暴雨警告，雷暴警告延長至今日凌晨3時，預料受活躍偏南氣流影響，本港有大雨及狂風雷暴。"
+      }
+    },
+    {
+      "id": "2026-08-26-huanggang-port-20k-drill",
+      "published_at": "2026-08-26T23:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "huanggang-port",
+        "border",
+        "civil-service",
+        "security"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-huanggang-port-20k-drill.json",
+      "en": {
+        "headline": "20,000 civil servants to join Huanggang Port peak-capacity drill on Saturday",
+        "dek": "Chief Executive John Lee said the second large-scale cross-boundary exercise with Shenzhen will test the new control point under maximum pressure before opening."
+      },
+      "zh": {
+        "headline": "新皇崗口岸周六兩萬公務員演練測試頂峰承受力",
+        "dek": "行政長官李家超表示，港深第二次大型跨境演練將測試口岸高峰承載能力，條件充分時會盡快開通。"
+      }
+    },
+    {
+      "id": "2026-08-26-friso-formula-no-lead-poisoning",
+      "published_at": "2026-08-26T23:14:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "food-safety",
+        "cfs",
+        "infant-formula"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-friso-formula-no-lead-poisoning.json",
+      "en": {
+        "headline": "No lead poisoning cases found after infant formula scare",
+        "dek": "The Department of Health said 237 children who drank a flagged Friso batch have undergone clinical assessment and none showed signs of lead poisoning; a special hotline will close on Friday."
+      },
+      "zh": {
+        "headline": "美素力奶粉事件未發現鉛中毒個案 熱線周五停止",
+        "dek": "衞生署表示237名嬰幼兒完成臨床評估，整體健康良好，未有鉛中毒；特別熱線將於周五下午6時起停止運作。"
+      }
+    },
+    {
+      "id": "2026-08-26-thunderstorm-warning-late-evening",
+      "published_at": "2026-08-26T23:13:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "thunderstorm-warning",
+        "showers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-26/2026-08-26-thunderstorm-warning-late-evening.json",
+      "en": {
+        "headline": "Thunderstorm Warning remains in force until 11:30 p.m.",
+        "dek": "The Hong Kong Observatory said a few squally thunderstorms are still expected over the territory this evening after the Amber Rainstorm Warning was cancelled earlier."
+      },
+      "zh": {
+        "headline": "雷暴警告延長至晚上11時30分",
+        "dek": "天文台表示今晚仍有幾陣狂風雷暴，黃色暴雨警告早前已取消，惟珠江口一帶仍有雷雨區發展。"
+      }
+    },
     {
       "id": "2026-08-26-tai-po-on-po-road-water-main-burst",
       "published_at": "2026-08-26T21:22:00+08:00",
@@ -1573,75 +1749,6 @@
       "zh": {
         "headline": "香港電腦通訊節今日閉幕 會展開放至晚上七時",
         "dek": "以人工智能應用為主題的四日科技展覽今日最後一日於灣仔會展一號展覽廳舉行，晚上七時結束。"
-      }
-    },
-    {
-      "id": "2026-08-23-ethnic-minority-care-teams-update",
-      "published_at": "2026-08-23T23:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "ethnic-minorities",
-        "chan-kwok-ki",
-        "home-affairs",
-        "care-teams",
-        "inclusion"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-23/2026-08-23-ethnic-minority-care-teams-update.json",
-      "en": {
-        "headline": "Ethnic minority care teams have reached more than 18,000 households",
-        "dek": "Chief Secretary Chan Kwok-ki said the teams, operating from ten support service centres, have delivered real impact through home visits and emergency support over the past two years."
-      },
-      "zh": {
-        "headline": "少數族裔關愛隊兩年多接觸逾1.8萬戶家庭",
-        "dek": "政務司司長陳國基表示，關愛隊由十間支援服務中心營運，透過家訪及緊急支援發揮實質作用。"
-      }
-    },
-    {
-      "id": "2026-08-23-senior-civil-servants-pku-course",
-      "published_at": "2026-08-23T23:06:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "civil-service",
-        "ingrid-yeung",
-        "beijing",
-        "training",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-23/2026-08-23-senior-civil-servants-pku-course.json",
-      "en": {
-        "headline": "Fifteen senior civil servants to begin year-long study at Peking University",
-        "dek": "Secretary for the Civil Service Ingrid Yeung said the fifth cohort of the two-year Master of Public Administration programme will start immersive learning in Beijing next month."
-      },
-      "zh": {
-        "headline": "15名高級公務員下月赴北大展開一年沉浸式學習",
-        "dek": "公務員事務局局長楊何蓓茵表示，第五屆高級公務員公共管理碩士課程學員將於九月在北京大學展開全年學習。"
-      }
-    },
-    {
-      "id": "2026-08-23-tropical-storm-narra-signals",
-      "published_at": "2026-08-23T23:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "tropical-cyclone",
-        "narra",
-        "thunderstorms",
-        "showers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-23/2026-08-23-tropical-storm-narra-signals.json",
-      "en": {
-        "headline": "Observatory monitors Tropical Storm Narra for possible signals midweek",
-        "dek": "The Hong Kong Observatory said Narra is expected to linger over Beibu Wan before turning northeast towards the Leizhou Peninsula, with an assessment of tropical cyclone warning signals on Tuesday or Wednesday."
-      },
-      "zh": {
-        "headline": "天文台密切監察熱帶風暴紫檀 周二或周三或發熱帶氣旋警告",
-        "dek": "天文台表示紫檀預料於北部灣徘徊後轉向東北靠近雷州半島，會評估周二或周三是否需要發出熱帶氣旋警告信號。"
       }
     }
   ]
