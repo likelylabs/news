@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-08-27T11:05:50+08:00",
+  "generated_at": "2026-08-27T11:10:57+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-08-27-lifestyle-space-fantasy-ccohk",
+      "published_at": "2026-08-27T11:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "concert",
+        "family",
+        "tsuen-wan",
+        "music"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-lifestyle-space-fantasy-ccohk.json",
+      "en": {
+        "headline": "City Chamber Orchestra premieres Space Fantasy in Tsuen Wan this weekend",
+        "dek": "Three English-language family performances run on Saturday and Sunday at Tsuen Wan Town Hall Auditorium, with tickets from HK$120 at URBTIX."
+      },
+      "zh": {
+        "headline": "城市室樂團《太空幻遊》本周末荃灣大會堂首演",
+        "dek": "周六下午3時及晚上7時半、周日下午3時於荃灣大會堂演奏廳演出，英語家庭節目，門票120至600元於城市售票網發售。"
+      }
+    },
+    {
+      "id": "2026-08-27-lung-cheung-road-taxi-motorcycle",
+      "published_at": "2026-08-27T11:14:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "taxi",
+        "police",
+        "wong-tai-sin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-lung-cheung-road-taxi-motorcycle.json",
+      "en": {
+        "headline": "Taxi spins on wet Lung Cheung Road flyover and hits motorcycle",
+        "dek": "The rider was taken to hospital after the late-night crash near Choi Hung Estate; some lanes on the flyover were closed for a time."
+      },
+      "zh": {
+        "headline": "龍翔道天橋的士天雨路滑打轉 撞電單車鐵騎士送院",
+        "dek": "周三近午夜彩虹邸對開天橋彎位發生車禍，運輸署一度封閉來回部分行車線；警方正調查意外起因。"
+      }
+    },
+    {
+      "id": "2026-08-27-fei-ngo-shan-slope-rescue",
+      "published_at": "2026-08-27T11:13:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "accident",
+        "hiking",
+        "kowloon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-fei-ngo-shan-slope-rescue.json",
+      "en": {
+        "headline": "Man rescued after falling 30 metres on Fei Ngo Shan slope",
+        "dek": "Rescuers found him conscious about two hours after a report near Jat's Incline before dawn and took him to United Christian Hospital."
+      },
+      "zh": {
+        "headline": "飛鵝山男子墮約30米山坡被困 清晨救起送院",
+        "dek": "警方凌晨近4時接報扎山道一帶有人失足被困，救援人員約5時41分在山邊尋獲事主，清醒送聯合醫院。"
+      }
+    },
+    {
+      "id": "2026-08-27-hongkong-post-reform-lee",
+      "published_at": "2026-08-27T11:12:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "john-lee",
+        "civil-service",
+        "hongkong-post",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-hongkong-post-reform-lee.json",
+      "en": {
+        "headline": "John Lee says Hongkong Post must be reformed after heavy losses",
+        "dek": "The Chief Executive said transition arrangements were inevitable as about 200 staff finishing probation in September will be offered two-year contracts instead of permanent terms."
+      },
+      "zh": {
+        "headline": "李家超：香港郵政必須改革 約200人改兩年合約",
+        "dek": "行政長官指郵政署2024/25年度虧損約8億元，商經局將研究改革方案提交立法會；9月試用期屆滿員工改以兩年公務員合約續聘。"
+      }
+    },
     {
       "id": "2026-08-27-lung-kwu-tan-hydrogen-blend-trial",
       "published_at": "2026-08-27T11:05:00+08:00",
@@ -1946,28 +2035,6 @@
       "zh": {
         "headline": "Shein啟動港股上市 最高估值約270億美元",
         "dek": "快時尚零售商今起招股，發售2.8億股，每股定價介乎47.6至49.5港元，預計8月31日定價，9月1日開始買賣。"
-      }
-    },
-    {
-      "id": "2026-08-24-shui-chuen-o-burglary",
-      "published_at": "2026-08-24T11:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "burglary",
-        "sha-tin",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-24/2026-08-24-shui-chuen-o-burglary.json",
-      "en": {
-        "headline": "Burglars take more than HK$200,000 from Sha Tin flat",
-        "dek": "A 47-year-old woman returned to her Shui Chuen O Estate unit on Sunday night to find a window forced open and cash plus jewellery missing; police are investigating."
-      },
-      "zh": {
-        "headline": "沙田水泉澳邨單位遭爆竊 住戶失逾20萬現金珠寶",
-        "dek": "47歲女住戶周日晚返回映泉樓單位，發現窗戶被撬及有搜掠痕跡，約7萬港元、5萬人民幣現金及8萬元珠寶金器失竊，警方列爆竊調查。"
       }
     }
   ]
