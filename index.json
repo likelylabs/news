@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-08-28T03:10:05+08:00",
+  "generated_at": "2026-08-28T07:17:08+08:00",
   "live_window_hours": 72,
   "count": 92,
   "articles": [
+    {
+      "id": "2026-08-28-lifestyle-hktb-mid-autumn-lantern",
+      "published_at": "2026-08-28T07:19:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "festival",
+        "victoria-park",
+        "tourism",
+        "mid-autumn"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-lifestyle-hktb-mid-autumn-lantern.json",
+      "en": {
+        "headline": "Tourism Board to stage first international lantern show at Victoria Park",
+        "dek": "The International Lantern Spectacular will run from 17 to 27 September beside the LCSD carnival, with displays lit from 6.30 p.m. and free admission."
+      },
+      "zh": {
+        "headline": "旅發局首辦國際中秋綵燈匯 9月17日起維園免費開放",
+        "dek": "活動與康文署中秋綵燈會同期舉行，展出來自20個國家及地區的綵燈，每晚6時半亮燈。"
+      }
+    },
+    {
+      "id": "2026-08-28-tin-hau-dog-cwb-rescue",
+      "published_at": "2026-08-28T07:18:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "accident",
+        "animals",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-tin-hau-dog-cwb-rescue.json",
+      "en": {
+        "headline": "Loose dog runs from Tin Hau onto harbour bypass",
+        "dek": "A two-year-old white mixed-breed escaped near the waterfront on Thursday afternoon and was later found with an injured front leg inside the Central–Wan Chai Bypass."
+      },
+      "zh": {
+        "headline": "北角海濱小狗失控竄入東廊及繞道 右前肢受傷被救回",
+        "dek": "警方指外傭周四傍晚在天后海濱遛狗期間犬隻走失，跑入中環灣仔繞道，愛協其後發現右前肢受傷並聯絡狗主。"
+      }
+    },
+    {
+      "id": "2026-08-28-nt-south-illegal-workers-champion",
+      "published_at": "2026-08-28T07:17:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "crime",
+        "immigration",
+        "illegal-workers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-nt-south-illegal-workers-champion.json",
+      "en": {
+        "headline": "Joint New Territories South raid arrests 29 over illegal work",
+        "dek": "Officers from several police districts and other departments detained 22 men and seven women in Operation Champion on Thursday, including five mainland women suspected of prostitution."
+      },
+      "zh": {
+        "headline": "新界南跨部門反黑工拘29人 五內地女子涉賣淫",
+        "dek": "警方聯同相關部門周四進行代號「冠軍」行動，突擊搜查新界南多個罪案黑點，拘捕22男7女。"
+      }
+    },
+    {
+      "id": "2026-08-28-coleman-wong-us-open-qualifies",
+      "published_at": "2026-08-28T07:16:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "tennis",
+        "us-open",
+        "coleman-wong",
+        "sport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-coleman-wong-us-open-qualifies.json",
+      "en": {
+        "headline": "Coleman Wong qualifies again for US Open main draw",
+        "dek": "The Hong Kong player beat Serbia’s Dusan Lajovic 6-4, 6-3 in the final qualifying round at Flushing Meadows on Thursday."
+      },
+      "zh": {
+        "headline": "黃澤林再闖美網正賽 決賽圈直落兩盤過關",
+        "dek": "香港網球手周四在紐約資格賽決賽以6比4、6比3擊敗塞爾維亞的拉約維奇，連續第二年打入美網男單正賽。"
+      }
+    },
     {
       "id": "2026-08-28-lifestyle-yayoi-kusama-tributes",
       "published_at": "2026-08-28T03:21:00+08:00",
@@ -1933,94 +2022,6 @@
       "zh": {
         "headline": "大老山隧道兩私家車相撞 一司機輕傷",
         "dek": "今晨約3時北行線發生車禍，其中一輛車車頭嚴重損毀，隧道一度擠塞。"
-      }
-    },
-    {
-      "id": "2026-08-25-lifestyle-tradition-renewed-alisan",
-      "published_at": "2026-08-25T07:08:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "art",
-        "central",
-        "ink"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-lifestyle-tradition-renewed-alisan.json",
-      "en": {
-        "headline": "Alisan Fine Arts opens Tradition Renewed ink exhibition in Central today",
-        "dek": "The show marking the gallery’s 45th anniversary features four contemporary literati masters and runs until mid-November, with an opening reception this evening."
-      },
-      "zh": {
-        "headline": "藝倡畫廊今日開幕《傳統再造》水墨展",
-        "dek": "畫廊45周年項目展出四位當代文人畫家作品，展期至11月中，今晚5時半至7時半舉行開幕酒會。"
-      }
-    },
-    {
-      "id": "2026-08-25-tseung-kwan-o-parrot-cruelty",
-      "published_at": "2026-08-25T07:07:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "tseung-kwan-o",
-        "animals",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-tseung-kwan-o-parrot-cruelty.json",
-      "en": {
-        "headline": "Man arrested after parrot found with clipped wings and bloodstains in Tseung Kwan O",
-        "dek": "A 39-year-old owner was detained on suspicion of cruelty to animals after a resident reported an injured bird near Po Lam Road North on Monday evening."
-      },
-      "zh": {
-        "headline": "將軍澳鸚鵡疑遭剪翼流血 39歲男主人涉虐畜被捕",
-        "dek": "市民周一晚在寶琳北路發現受傷成鳥，翅膀羽毛被剪並帶血漬，警方拘捕姓張男主人，案件交將軍澳警區跟進。"
-      }
-    },
-    {
-      "id": "2026-08-25-yuen-long-child-neglect",
-      "published_at": "2026-08-25T07:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "yuen-long",
-        "child",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-yuen-long-child-neglect.json",
-      "en": {
-        "headline": "Parents arrested after 2-year-old left alone in Yuen Long village house",
-        "dek": "A neighbour reported the toddler alone at a Kung Um Road address late on Monday; the child was found conscious with a swollen foot and taken to hospital."
-      },
-      "zh": {
-        "headline": "元朗2歲男童疑被獨留家中 父母涉虐兒被捕",
-        "dek": "鄰居昨晚約10時報警指公庵路村屋有幼童獨留，警方到場發現男童清醒腳部紅腫，父母涉嫌對所看管兒童虐待或忽略被捕。"
-      }
-    },
-    {
-      "id": "2026-08-25-thunderstorm-warning-morning",
-      "published_at": "2026-08-25T07:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "thunderstorm-warning",
-        "showers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-thunderstorm-warning-morning.json",
-      "en": {
-        "headline": "Thunderstorm Warning in force until 8:30 am",
-        "dek": "The Hong Kong Observatory issued the warning at 2:33 a.m. and later extended it, expecting isolated squally thunderstorms over the territory."
-      },
-      "zh": {
-        "headline": "雷暴警告生效至上午8時30分",
-        "dek": "天文台於凌晨2時33分發出雷暴警告，其後延長至今早8時30分，預料本港有局部地區狂風雷暴。"
       }
     }
   ]
