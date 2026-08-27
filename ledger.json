@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-27T11:05:15+08:00",
+  "updated_at": "2026-08-27T11:06:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "amber-rainstorm-cancelled-thunderstorm-noon-aug27",
+      "id": "2026-08-27-amber-cancelled-thunderstorm-noon",
+      "first_seen": "2026-08-27T11:02:00+08:00",
+      "headline_en": "Amber Rainstorm Warning cancelled; thunderstorms still expected until noon"
+    },
+    {
+      "key": "hkgcc-asia-internationality-index-2026",
+      "id": "2026-08-27-hkgcc-asia-internationality-index",
+      "first_seen": "2026-08-27T11:03:00+08:00",
+      "headline_en": "Hong Kong tops Asian cities internationality index, widening lead on Singapore"
+    },
+    {
+      "key": "july-2026-private-home-price-index",
+      "id": "2026-08-27-july-private-home-price-index",
+      "first_seen": "2026-08-27T11:04:00+08:00",
+      "headline_en": "Private home prices fall 0.46 per cent in July after 13-month rise"
+    },
+    {
+      "key": "lung-kwu-tan-hydrogen-blend-trial-aug27",
+      "id": "2026-08-27-lung-kwu-tan-hydrogen-blend-trial",
+      "first_seen": "2026-08-27T11:05:00+08:00",
+      "headline_en": "Castle Peak Power cleared to trial hydrogen blend at Lung Kwu Tan plant"
+    },
     {
       "key": "tai-po-on-po-road-water-supply-restored-aug27",
       "id": "2026-08-27-tai-po-water-supply-restored",
