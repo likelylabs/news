@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-27-thunderstorm-warning-afternoon",
+  "published_at": "2026-08-27T13:15:00+08:00",
+  "category": "weather",
+  "tags": ["hko", "thunderstorm-warning", "showers"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "thunderstorm-warning-aug27-afternoon",
+  "en": {
+    "headline": "Thunderstorm Warning extended until 2:30 p.m.",
+    "dek": "The Hong Kong Observatory extended the warning at noon, expecting isolated thunderstorms over the territory this afternoon.",
+    "body": [
+      "The Hong Kong Observatory said the Thunderstorm Warning issued at 5:20 a.m. on 26 August has been extended until 2:30 p.m. today.",
+      "Isolated thunderstorms are expected to occur over Hong Kong. The Observatory advised members of the public to seek safe shelter if outdoors, leave the water and avoid outdoor water sports, and keep away from high ground and highly conductive objects.",
+      "The Amber Rainstorm Warning was cancelled earlier in the morning. Showers are forecast to ease gradually later in the day."
+    ]
+  },
+  "zh": {
+    "headline": "雷暴警告延長至下午2時30分",
+    "dek": "天文台中午延長警告，預料本港今午有局部地區雷暴。",
+    "body": [
+      "香港天文台表示，8月26日上午5時20分發出的雷暴警告已延長至今日下午2時30分。",
+      "預料香港有局部地區雷暴。天文台呼籲市民如身處室外，請到安全地方躲避；離開水面，切勿進行戶外水上運動；以及切勿站立於高地或接近導電物體。",
+      "黃色暴雨警告今早較早前已取消。預料稍後驟雨會逐漸減少。"
+    ]
+  }
+}
