@@ -1,8 +1,119 @@
 {
-  "generated_at": "2026-08-27T07:54:12+08:00",
+  "generated_at": "2026-08-27T09:15:36+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-08-27-lifestyle-janice-gigi-ultimate",
+      "published_at": "2026-08-27T09:16:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "music",
+        "concert",
+        "lantau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-lifestyle-janice-gigi-ultimate.json",
+      "en": {
+        "headline": "Janice Vidal and Gigi Yim share Ultimate Song Chart stage on Saturday",
+        "dek": "Commercial Radio 903’s concert She and Her Secret is scheduled for 7 p.m. on 29 August at AsiaWorld-Expo Arena, pairing the two singers on a single billed night."
+      },
+      "zh": {
+        "headline": "衛蘭炎明熹周六亞博拉闊音樂會同台",
+        "dek": "吆哮903主辦《拉闊音樂會 她和她的秘密》訂於8月29日晚上7時在亞洲國際博覽館Arena舉行。"
+      }
+    },
+    {
+      "id": "2026-08-27-hung-hom-drink-driving-crash",
+      "published_at": "2026-08-27T09:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "crime",
+        "traffic-accident",
+        "hung-hom"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-hung-hom-drink-driving-crash.json",
+      "en": {
+        "headline": "Man arrested for drink-driving after car flips on Princess Margaret Road",
+        "dek": "Police said a 48-year-old driver failed a breath test after his private car hit a barrier and overturned near Hung Hom on Wednesday night; he was not injured."
+      },
+      "zh": {
+        "headline": "公主道私家車撞壤翻側 48歲司機涉酒駕被捕",
+        "dek": "警方指車輛周三晚在紅磬公主道近治民街失控撞壤翻側，司機酒精呼氣測試不合格，沒有受傷。"
+      }
+    },
+    {
+      "id": "2026-08-27-customs-airport-ketamine-38kg",
+      "published_at": "2026-08-27T09:14:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "drugs",
+        "airport",
+        "ketamine",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-customs-airport-ketamine-38kg.json",
+      "en": {
+        "headline": "Three appear in court after 38 kg ketamine seizure at airport",
+        "dek": "Customs said two passengers arriving from Rome and one from Kuala Lumpur were charged with trafficking dangerous drugs after officers found about 38 kilograms of suspected ketamine worth some HK$15 million."
+      },
+      "zh": {
+        "headline": "機場檢38公斤懷疑氯胺酮 三人今西九龍提堂",
+        "dek": "海關在兩宗旅客案件共檢獲約38公斤懷疑K仔，市值約1,500萬元，三人被控販運危險藥物。"
+      }
+    },
+    {
+      "id": "2026-08-27-customs-tsing-yi-illicit-cigarettes",
+      "published_at": "2026-08-27T09:13:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "crime",
+        "illicit-cigarettes",
+        "tsing-yi"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-customs-tsing-yi-illicit-cigarettes.json",
+      "en": {
+        "headline": "Customs seize HK$8.3 million illicit cigarettes in Tsing Yi flat",
+        "dek": "Officers raided a 600-square-foot private-estate unit used as a storage, packing and distribution centre, arresting a 28-year-old local man after finding about 1.86 million suspected untaxed cigarettes."
+      },
+      "zh": {
+        "headline": "海關青衣私樓搗私煙倉 檢186萬支煙拔28歲男子",
+        "dek": "關員在青衣私人屋苑約600平方呎單位檢獲約186萬支懷疑私煙，市值約830萬元，應課稅值約610萬元。"
+      }
+    },
+    {
+      "id": "2026-08-27-tai-po-water-supply-restored",
+      "published_at": "2026-08-27T09:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "water-supplies",
+        "tai-po",
+        "pipe-leak",
+        "wsd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-tai-po-water-supply-restored.json",
+      "en": {
+        "headline": "Tai Po water supply restored after overnight main repair",
+        "dek": "The Water Supplies Department said supply to Tai Yuen Estate, Ting Nga Court and Tai Yuen Shopping Centre began returning to normal from about 6 a.m. after crews finished emergency works on On Po Road."
+      },
+      "zh": {
+        "headline": "大埔安埔路水管搶修完成 大元邸汀雅苑今早復水",
+        "dek": "水務署表示通宵完成緊急維修，大元邸、汀雅苑及大元商場食水供應由今早約6時起陸續恢復正常。"
+      }
+    },
     {
       "id": "2026-08-27-lifestyle-sinfonietta-bach-legacy",
       "published_at": "2026-08-27T07:15:00+08:00",
