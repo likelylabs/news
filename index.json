@@ -1,8 +1,51 @@
 {
-  "generated_at": "2026-08-27T11:10:57+08:00",
+  "generated_at": "2026-08-27T13:12:37+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-08-27-pcpd-doxxing-boxer-arrest",
+      "published_at": "2026-08-27T13:16:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "pcpd",
+        "crime",
+        "doxxing",
+        "privacy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-pcpd-doxxing-boxer-arrest.json",
+      "en": {
+        "headline": "Privacy watchdog arrests 29-year-old man over alleged doxxing after boxing match",
+        "dek": "The Office of the Privacy Commissioner for Personal Data said the Chinese national was detained in Kowloon today and granted bail pending further investigation."
+      },
+      "zh": {
+        "headline": "私隱專員公署拘29歲男 涉拳賽後「起底」對手",
+        "dek": "公署今日在九龍區拘捕一名中國籍男子，涉嫌未經同意披露個人資料，已准保釋繼續調查。"
+      }
+    },
+    {
+      "id": "2026-08-27-thunderstorm-warning-afternoon",
+      "published_at": "2026-08-27T13:15:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "thunderstorm-warning",
+        "showers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-thunderstorm-warning-afternoon.json",
+      "en": {
+        "headline": "Thunderstorm Warning extended until 2:30 p.m.",
+        "dek": "The Hong Kong Observatory extended the warning at noon, expecting isolated thunderstorms over the territory this afternoon."
+      },
+      "zh": {
+        "headline": "雷暴警告延長至下午2時30分",
+        "dek": "天文台中午延長警告，預料本港今午有局部地區雷暴。"
+      }
+    },
     {
       "id": "2026-08-27-lifestyle-space-fantasy-ccohk",
       "published_at": "2026-08-27T11:15:00+08:00",
@@ -1897,144 +1940,6 @@
       "zh": {
         "headline": "海關羅湖截獲內地男旅客行李藏兩活貓",
         "dek": "44歲內地男旅客周日在羅湖管制站入境大堂被截查，行李內檢獲兩隻懷疑非法進口活貓，市值約2,000港元，男子當場被捕，案件交漁護署跟進。"
-      }
-    },
-    {
-      "id": "2026-08-24-ce-unicorn-summit-launchpad",
-      "published_at": "2026-08-24T13:08:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "john-lee",
-        "innovation",
-        "startups",
-        "unicorn",
-        "technology"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-24/2026-08-24-ce-unicorn-summit-launchpad.json",
-      "en": {
-        "headline": "Chief Executive says Hong Kong is ideal launchpad for mainland firms going global",
-        "dek": "John Lee told the Global Unicorn Summit that the city has nurtured around 20 local unicorns and offers comprehensive support through Science Park and Cyberport for startups expanding internationally."
-      },
-      "zh": {
-        "headline": "行政長官：香港是內地企業「走出去」的理想跳板",
-        "dek": "李家超在全球獨角獸峰會表示，過去十年本港孕育約20家本地獨角獸企業，科學園及數碼港為初創提供全面支援。"
-      }
-    },
-    {
-      "id": "2026-08-24-alibaba-80b-share-placement",
-      "published_at": "2026-08-24T13:07:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "alibaba",
-        "ipo",
-        "stock-market",
-        "ai",
-        "hong-kong-exchange"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-24/2026-08-24-alibaba-80b-share-placement.json",
-      "en": {
-        "headline": "Alibaba prices HK$80 billion Hong Kong share placement to fund AI expansion",
-        "dek": "The company is issuing 710 million new shares at HK$112.70 each, marking the largest primary follow-on offering by a Hong Kong-listed firm, with proceeds earmarked for full-stack AI capabilities."
-      },
-      "zh": {
-        "headline": "阿里巴巴港股配售800億港元新股 全部用於AI發展",
-        "dek": "公司按每股112.70港元發行7.1億股新股，為港股歷來最大型一次主要後續發售，所得款項全數投入全棧人工智能能力。"
-      }
-    },
-    {
-      "id": "2026-08-24-smart-site-safety-4s",
-      "published_at": "2026-08-24T13:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "construction",
-        "safety",
-        "development-bureau",
-        "bernadette-linn",
-        "labour"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-24/2026-08-24-smart-site-safety-4s.json",
-      "en": {
-        "headline": "Government aims to make Smart Site Safety System standard on all construction sites",
-        "dek": "Secretary for Development Bernadette Linn said accident rates fell about 20 per cent from 2023 to 2025 as adoption of the 4S system reached roughly 80 per cent of local sites."
-      },
-      "zh": {
-        "headline": "政府推動智慧工地安全系統成全港工地標準配置",
-        "dek": "發展局局長甯漢豪表示，建造業意外率由2023至2025年下降約兩成，智慧工地安全系統已安裝於約八成本地工地。"
-      }
-    },
-    {
-      "id": "2026-08-24-very-hot-thunderstorm-warnings",
-      "published_at": "2026-08-24T13:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "very-hot-weather-warning",
-        "thunderstorm-warning",
-        "heat",
-        "showers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-24/2026-08-24-very-hot-thunderstorm-warnings.json",
-      "en": {
-        "headline": "Very Hot Weather and Thunderstorm Warnings in force on Monday",
-        "dek": "The Hong Kong Observatory issued the Very Hot Weather Warning at 10:45 a.m. and a Thunderstorm Warning at 11:18 a.m., valid until 1:30 p.m., expecting isolated thunderstorms over the eastern New Territories."
-      },
-      "zh": {
-        "headline": "酷熱天氣警告及雷暴警告生效 新界東部局部有雷暴",
-        "dek": "天文台上午10時45分發出酷熱天氣警告，11時18分發出雷暴警告至下午1時30分，預料新界東部有局部地區雷暴。"
-      }
-    },
-    {
-      "id": "2026-08-24-lifestyle-guoquan-shihui-wan-chai",
-      "published_at": "2026-08-24T11:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "wan-chai",
-        "retail",
-        "hotpot"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-24/2026-08-24-lifestyle-guoquan-shihui-wan-chai.json",
-      "en": {
-        "headline": "Mainland hotpot-ingredient chain Guoquan opens first Hong Kong store in Wan Chai",
-        "dek": "The company, listed in Hong Kong, has opened its debut local outlet on Hennessy Road, describing the city as a testing ground for overseas expansion."
-      },
-      "zh": {
-        "headline": "內地火鍋食材連鎖鍋圈食匯灣仔開香港首店",
-        "dek": "已於港上市的鍋圈食匯於軒尼詩道開設首間本地門店，形容香港是集團海外布局的試驗田。"
-      }
-    },
-    {
-      "id": "2026-08-24-shein-hong-kong-ipo",
-      "published_at": "2026-08-24T11:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "ipo",
-        "shein",
-        "stock-market",
-        "fashion",
-        "hong-kong-exchange"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-24/2026-08-24-shein-hong-kong-ipo.json",
-      "en": {
-        "headline": "Shein launches Hong Kong IPO aiming for up to US$27 billion valuation",
-        "dek": "The fast-fashion retailer is offering 280 million shares at HK$47.60 to HK$49.50 each, with pricing set for 31 August and trading expected to begin on 1 September."
-      },
-      "zh": {
-        "headline": "Shein啟動港股上市 最高估值約270億美元",
-        "dek": "快時尚零售商今起招股，發售2.8億股，每股定價介乎47.6至49.5港元，預計8月31日定價，9月1日開始買賣。"
       }
     }
   ]
