@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-08-27T23:06:58+08:00",
+  "generated_at": "2026-08-28T01:10:46+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-08-28-hkpc-ai-for-all-launch",
+      "published_at": "2026-08-28T01:13:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "ai",
+        "sme",
+        "hkpc",
+        "training"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-hkpc-ai-for-all-launch.json",
+      "en": {
+        "headline": "HKPC launches AI for All programme with free training for SMEs",
+        "dek": "The Productivity Council opened the final segment of the government’s HK$50 million inclusive AI initiative on Thursday, focusing on practical skills for small firms."
+      },
+      "zh": {
+        "headline": "生產力局啟動全民AI普惠計劃 為中小企提供免費培訓",
+        "dek": "香港生產力促進局周四啟動政府5,000萬港元「全民AI」普惠計劃的企業賦能部分，聚焦中小企實務應用培訓。"
+      }
+    },
+    {
+      "id": "2026-08-28-post-malone-kai-tak-postponed",
+      "published_at": "2026-08-28T01:12:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "concert",
+        "kai-tak",
+        "post-malone"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-post-malone-kai-tak-postponed.json",
+      "en": {
+        "headline": "Post Malone postpones September Hong Kong concert at Kai Tak Stadium",
+        "dek": "Live Nation Hong Kong said the 16 September show has been postponed with full refunds for tickets bought through official platforms; no new date was given."
+      },
+      "zh": {
+        "headline": "Post Malone啟德體育館演唱會延期 主辦方安排全額退款",
+        "dek": "Live Nation Hong Kong周四宣布原定9月16日啟德體育館演唱會延期，經官方渠道購票的觀眾可獲全額退款，暫未公布新日期。"
+      }
+    },
     {
       "id": "2026-08-27-wan-chai-cpe-nursing-home-cluster",
       "published_at": "2026-08-27T23:07:00+08:00",
