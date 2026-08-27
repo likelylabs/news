@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-08-27T09:15:36+08:00",
+  "generated_at": "2026-08-27T11:05:15+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-08-27-lung-kwu-tan-hydrogen-blend-trial",
+      "published_at": "2026-08-27T11:05:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "energy",
+        "environment",
+        "hydrogen",
+        "power"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-lung-kwu-tan-hydrogen-blend-trial.json",
+      "en": {
+        "headline": "Castle Peak Power cleared to trial hydrogen blend at Lung Kwu Tan plant",
+        "dek": "The government’s hydrogen working group has in principle approved a project to mix up to 5 per cent hydrogen with natural gas in an existing combined-cycle unit."
+      },
+      "zh": {
+        "headline": "龍鼓灑發電廠獲准試驗氫氣混燃 目標摻氫最高5%",
+        "dek": "環境及生態局表示，氫能源跨部門工作小組原則上同意青山發電有限公司在現有聯合循環機組混燒氫氣與天然氣。"
+      }
+    },
+    {
+      "id": "2026-08-27-july-private-home-price-index",
+      "published_at": "2026-08-27T11:04:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "property",
+        "housing",
+        "rvd",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-july-private-home-price-index.json",
+      "en": {
+        "headline": "Private home prices fall 0.46 per cent in July after 13-month rise",
+        "dek": "The Rating and Valuation Department’s index slipped to 321.5, while the rental index hit a record 207.4 after a further monthly gain."
+      },
+      "zh": {
+        "headline": "7月私樓售價指數跌0.46% 連升13個月後轉跌",
+        "dek": "差飼物業估價署數字顯示指數報321.5點，今年首七個月仍累升約7.3%；租金指數再創新高。"
+      }
+    },
+    {
+      "id": "2026-08-27-hkgcc-asia-internationality-index",
+      "published_at": "2026-08-27T11:03:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "economy",
+        "business",
+        "hkgcc",
+        "singapore"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-hkgcc-asia-internationality-index.json",
+      "en": {
+        "headline": "Hong Kong tops Asian cities internationality index, widening lead on Singapore",
+        "dek": "The General Chamber of Commerce scored the city 74.6 out of 100, two points ahead of Singapore, in its second annual ranking of 11 Asian cities."
+      },
+      "zh": {
+        "headline": "總商會國際化指數港蟬聯亞洲第一 領先新加坡拉開至兩分",
+        "dek": "香港總商會公布2026年亞洲城市國際化指數，本港獲74.6分居首，較新加坡高兩分，領先幅度較去年擴大。"
+      }
+    },
+    {
+      "id": "2026-08-27-amber-cancelled-thunderstorm-noon",
+      "published_at": "2026-08-27T11:02:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "amber-rainstorm",
+        "thunderstorm-warning",
+        "showers",
+        "schools"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-amber-cancelled-thunderstorm-noon.json",
+      "en": {
+        "headline": "Amber Rainstorm Warning cancelled; thunderstorms still expected until noon",
+        "dek": "The Observatory cancelled the Amber Rainstorm Warning at 10:15 a.m. after downgrading from Red earlier, and extended the Thunderstorm Warning until 12:30 p.m."
+      },
+      "zh": {
+        "headline": "黃色暴雨警告取消 雷暴警告延長至中午12時半",
+        "dek": "天文台上午10時15分取消黃色暴雨警告，紅雨今早一度生效後已改發黃雨；雷暴警告延長至下午12時30分。"
+      }
+    },
     {
       "id": "2026-08-27-lifestyle-janice-gigi-ultimate",
       "published_at": "2026-08-27T09:16:00+08:00",
@@ -1879,73 +1968,6 @@
       "zh": {
         "headline": "沙田水泉澳邨單位遭爆竊 住戶失逾20萬現金珠寶",
         "dek": "47歲女住戶周日晚返回映泉樓單位，發現窗戶被撬及有搜掠痕跡，約7萬港元、5萬人民幣現金及8萬元珠寶金器失竊，警方列爆竊調查。"
-      }
-    },
-    {
-      "id": "2026-08-24-lifestyle-nicole-zuraitis-xiqu",
-      "published_at": "2026-08-24T09:22:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "music",
-        "jazz",
-        "west-kowloon",
-        "xiqu-centre",
-        "performance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-24/2026-08-24-lifestyle-nicole-zuraitis-xiqu.json",
-      "en": {
-        "headline": "Grammy-winning jazz vocalist Nicole Zuraitis returns to Xiqu Centre tonight",
-        "dek": "The New York-based singer and her quartet perform two sets each evening on 24 and 25 August at the Tea House Theatre in West Kowloon."
-      },
-      "zh": {
-        "headline": "葛萊美得主Nicole Zuraitis今晚起戲曲中心茶館劇場演出",
-        "dek": "紐約爵士歌手連同四重奏於8月24及25日每晚兩場在西九戲曲中心茶館劇場登台。"
-      }
-    },
-    {
-      "id": "2026-08-24-mong-kok-watch-shop-red-paint",
-      "published_at": "2026-08-24T09:21:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "mong-kok",
-        "criminal-damage",
-        "youth"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-24/2026-08-24-mong-kok-watch-shop-red-paint.json",
-      "en": {
-        "headline": "Two 15-year-old boys arrested after red paint poured on Mong Kok watch shop",
-        "dek": "An off-duty officer detained the pair early Monday after seeing them splash red paint on a shop signboard and pavement near Argyle Centre."
-      },
-      "zh": {
-        "headline": "旺角鐘錶舖遭淋紅油 兩名15歲男童當場被捕",
-        "dek": "休班警員今晨在西洋菜南街近旺角中心發現兩名少年向鐘錶舖淋潑紅油，即場拘捕兩人。"
-      }
-    },
-    {
-      "id": "2026-08-24-kwai-chung-estate-couple-deaths",
-      "published_at": "2026-08-24T09:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "kwai-chung",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-24/2026-08-24-kwai-chung-estate-couple-deaths.json",
-      "en": {
-        "headline": "Elderly couple found dead at Kwai Chung Estate in suspected murder-suicide",
-        "dek": "Police are investigating after an elderly man was found outside a residential block and a woman with multiple wounds was discovered inside their flat on Sunday night."
-      },
-      "zh": {
-        "headline": "葵涌邨春葵樓雙屍案 八旬翁墮樓 六旬婦伏屍單位內",
-        "dek": "警方正調查一宗懷疑謀殺及自殺案，周日晚一名八旬男子倒臥大廈外，單位內發現一名六旬女子身上有多處利器傷痕。"
       }
     }
   ]
