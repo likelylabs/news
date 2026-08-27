@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-27T21:07:46+08:00",
+  "updated_at": "2026-08-27T23:08:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "west-kowloon-illegal-hire-cars-aug27",
+      "id": "2026-08-27-west-kowloon-illegal-hire-cars",
+      "first_seen": "2026-08-27T23:05:00+08:00",
+      "headline_en": "West Kowloon traffic police arrest two in illegal hire-car sting"
+    },
+    {
+      "key": "police-officer-misconduct-indecent-messages-aug27",
+      "id": "2026-08-27-police-officer-misconduct-indecent-messages",
+      "first_seen": "2026-08-27T23:06:00+08:00",
+      "headline_en": "Police officer charged with misconduct over indecent messages to suspect’s friend"
+    },
+    {
+      "key": "wan-chai-cpe-green-mountain-home-aug27",
+      "id": "2026-08-27-wan-chai-cpe-nursing-home-cluster",
+      "first_seen": "2026-08-27T23:07:00+08:00",
+      "headline_en": "Four residents colonised by CPE at Wan Chai nursing home"
+    },
     {
       "key": "tseung-kwan-o-fisherman-lightning-aug27",
       "id": "2026-08-27-tseung-kwan-o-fisherman-lightning",
