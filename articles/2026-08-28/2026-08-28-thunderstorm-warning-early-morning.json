@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-28-thunderstorm-warning-early-morning",
+  "published_at": "2026-08-28T03:20:00+08:00",
+  "category": "weather",
+  "tags": ["hko", "thunderstorm-warning", "heavy-rain", "landslip"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "thunderstorm-warning-aug28-early-morning",
+  "en": {
+    "headline": "Thunderstorm Warning extended to 4:30 a.m.; heavy rain hits Tai Po",
+    "dek": "The Observatory also issued a Localised Heavy Rain Advisory for Tai Po and a Special Landslip Advisory for Po Toi Island and Sai Kung East as thundery showers affected the territory.",
+    "body": [
+      "The Hong Kong Observatory extended the Thunderstorm Warning until 4:30 a.m. on Friday, saying a few thunderstorms were expected over the territory. The warning was first issued at 12:35 a.m.",
+      "A Localised Heavy Rain Advisory was in force for Tai Po District, where more than 70 millimetres of hourly rainfall had fallen or was expected. Residents were advised to take precautions against flooding. Between 12:45 a.m. and 1:45 a.m., Tai Po recorded up to 53 mm of rain.",
+      "A Special Landslip Advisory covered Po Toi Island and Sai Kung East, warning that heavy rain could trigger landslides. The public was told to stay away from slopes and leave immediately if a landslide occurred nearby, calling police only when safe.",
+      "At 2 a.m. the temperature at the Observatory was 29 degrees Celsius with relative humidity of 83 per cent. Areas of thundery showers linked to a broad trough of low pressure and a southerly airstream were expected to continue affecting Hong Kong in the following hours."
+    ]
+  },
+  "zh": {
+    "headline": "雷暴警告延長至清晨4時30分 大埔錄得大雨",
+    "dek": "天文台同時發出大埔區局部地區大雨提示，以及蒲台島及西貢東特別山泥傾瀉提示，雷雨區正影響本港。",
+    "body": [
+      "香港天文台將雷暴警告有效時間延長至今日（28日）上午4時30分，預料本港有幾陣雷暴。該警告於凌晨12時35分發出。",
+      "大埔區發出局部地區大雨提示，表示該區已錄得或預料會有每小時超過70毫米的大雨，可能引致嚴重水浸，市民應採取預防措施。凌晨12時45分至1時45分期間，大埔錄得最高53毫米雨量。",
+      "蒲台島及西貢東發出特別山泥傾瀉提示，指大雨可能引發山泥傾瀉，市民應遠離斜坡，如附近發生山泥傾瀉應立即離開，並在安全情況下報警。",
+      "凌晨2時天文台氣溫29度，相對濕度83%。受廣闊低壓槽及偏南氣流影響，珠江口一帶持續有雷雨區發展，預料未來數小時繼續影響本港。"
+    ]
+  }
+}

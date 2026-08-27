@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-08-28T01:10:46+08:00",
+  "updated_at": "2026-08-28T03:21:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "thunderstorm-warning-aug28-early-morning",
+      "id": "2026-08-28-thunderstorm-warning-early-morning",
+      "first_seen": "2026-08-28T03:20:00+08:00",
+      "headline_en": "Thunderstorm Warning extended to 4:30 a.m.; heavy rain hits Tai Po"
+    },
+    {
+      "key": "lifestyle-yayoi-kusama-tributes-hk",
+      "id": "2026-08-28-lifestyle-yayoi-kusama-tributes",
+      "first_seen": "2026-08-28T03:21:00+08:00",
+      "headline_en": "Hong Kong arts figures pay tribute to Yayoi Kusama after death at 97"
+    },
     {
       "key": "lifestyle-post-malone-kai-tak-postponed",
       "id": "2026-08-28-post-malone-kai-tak-postponed",
