@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-27T13:12:37+08:00",
+  "updated_at": "2026-08-27T21:10:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "tseung-kwan-o-fisherman-lightning-aug27",
+      "id": "2026-08-27-tseung-kwan-o-fisherman-lightning",
+      "first_seen": "2026-08-27T21:08:00+08:00",
+      "headline_en": "Fisherman dies after suspected lightning strike on sampan off Tseung Kwan O"
+    },
+    {
+      "key": "heat-stress-warning-system-update-aug27",
+      "id": "2026-08-27-heat-stress-warning-system-update",
+      "first_seen": "2026-08-27T21:09:00+08:00",
+      "headline_en": "Labour Department lowers thresholds for heat stress at work warnings from Friday"
+    },
+    {
+      "key": "star-ferry-fare-tac-aug27",
+      "id": "2026-08-27-star-ferry-fare-tac",
+      "first_seen": "2026-08-27T21:10:00+08:00",
+      "headline_en": "Transport Advisory Committee discusses Star Ferry fare increase application"
+    },
     {
       "key": "thunderstorm-warning-aug27-afternoon",
       "id": "2026-08-27-thunderstorm-warning-afternoon",
