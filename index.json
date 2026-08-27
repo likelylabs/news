@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-08-27T21:07:46+08:00",
+  "generated_at": "2026-08-27T23:06:58+08:00",
   "live_window_hours": 72,
   "count": 88,
   "articles": [
+    {
+      "id": "2026-08-27-wan-chai-cpe-nursing-home-cluster",
+      "published_at": "2026-08-27T23:07:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "chp",
+        "nursing-home",
+        "infection-control"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-wan-chai-cpe-nursing-home-cluster.json",
+      "en": {
+        "headline": "Four residents colonised by CPE at Wan Chai nursing home",
+        "dek": "The Centre for Health Protection is investigating a cluster of carbapenemase-producing Enterobacteriaceae at Green Mountain Home; infection-control lapses are suspected to have allowed spread within the facility."
+      },
+      "zh": {
+        "headline": "灣仔綠山居護老院四院友帶產碳青霉烯酶腸道桿菌",
+        "dek": "衞生防護中心調查綠山居護老院產碳青霉烯酶腸道桿菌帶菌群組，四名73至90歲院友情況穩定，院舍未妥善執行感染控制措施。"
+      }
+    },
+    {
+      "id": "2026-08-27-police-officer-misconduct-indecent-messages",
+      "published_at": "2026-08-27T23:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "misconduct",
+        "court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-police-officer-misconduct-indecent-messages.json",
+      "en": {
+        "headline": "Police officer charged with misconduct over indecent messages to suspect’s friend",
+        "dek": "A 32-year-old officer from Kwai Tsing district is accused of privately contacting a female friend of a man arrested in a 2025 criminal case and sending her indecent texts and photos; he appears in court on Friday."
+      },
+      "zh": {
+        "headline": "男警涉向疑犯女友人傳不雅短訊及照片 被控公職人員行為失當",
+        "dek": "32歲葵青警區男警被指在調查2025年刑事案件期間私下聯絡被捕人的女性朋友並傳送不雅內容，明日於沙田裁判法院提堂，已被停職。"
+      }
+    },
+    {
+      "id": "2026-08-27-west-kowloon-illegal-hire-cars",
+      "published_at": "2026-08-27T23:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "illegal-hire",
+        "west-kowloon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-west-kowloon-illegal-hire-cars.json",
+      "en": {
+        "headline": "West Kowloon traffic police arrest two in illegal hire-car sting",
+        "dek": "Undercover officers posing as passengers booked two private cars via online platforms; both drivers face charges of using vehicles for hire without a permit and without third-party insurance."
+      },
+      "zh": {
+        "headline": "西九龍交警放蛇打擊白牌車 兩本地司機被捕",
+        "dek": "人員喬裝乘客透過網上平台租用兩輛私家車，因車輛沒有有效出租汽車許可證，拘捕兩名46歲及43歲本地男司機，兩人獲准保釋候查。"
+      }
+    },
     {
       "id": "2026-08-27-star-ferry-fare-tac",
       "published_at": "2026-08-27T21:10:00+08:00",
@@ -1869,73 +1932,6 @@
       "zh": {
         "headline": "雷暴警告生效至上午8時30分",
         "dek": "天文台於凌晨2時33分發出雷暴警告，其後延長至今早8時30分，預料本港有局部地區狂風雷暴。"
-      }
-    },
-    {
-      "id": "2026-08-24-preschool-oral-health-programme",
-      "published_at": "2026-08-24T21:14:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "department-of-health",
-        "dental",
-        "kindergarten",
-        "children",
-        "public-health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-24/2026-08-24-preschool-oral-health-programme.json",
-      "en": {
-        "headline": "Free dental check-ups for kindergarten children start on 1 September",
-        "dek": "The Department of Health’s new Outreach Oral Health Programme will send professional teams to schools for annual screenings and fluoride treatment; more than 70 per cent of kindergartens have already joined."
-      },
-      "zh": {
-        "headline": "學前兒童口腔健康外展計劃9月1日推出 七成幼稚園已參與",
-        "dek": "衞生署新計劃將派出牙科團隊到校為幼稚園學童提供免費口腔檢查及預防服務，目前已有逾七成幼稚園報名。"
-      }
-    },
-    {
-      "id": "2026-08-24-hung-shui-kiu-northern-metropolis-tender",
-      "published_at": "2026-08-24T21:13:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "northern-metropolis",
-        "development-bureau",
-        "housing",
-        "land",
-        "hung-shui-kiu"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-24/2026-08-24-hung-shui-kiu-northern-metropolis-tender.json",
-      "en": {
-        "headline": "Consortium wins first Northern Metropolis large-scale land tender for HK$1.03 billion",
-        "dek": "A six-company group including China Overseas, China Resources Land, Sino Land and JD.com will develop about 10.5 hectares in Hung Shui Kiu, providing around 3,000 flats and a smart logistics centre."
-      },
-      "zh": {
-        "headline": "北部都會區洪水橋大規模土地批出首標 財團以10.3億元中標",
-        "dek": "由中海外、華潤置地、信和及京東等六企組成的財團投得約10.5公頃用地，將提供約3,000個住宅單位及智慧物流中心。"
-      }
-    },
-    {
-      "id": "2026-08-24-thunderstorm-warning-evening",
-      "published_at": "2026-08-24T21:12:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "thunderstorm-warning",
-        "showers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-24/2026-08-24-thunderstorm-warning-evening.json",
-      "en": {
-        "headline": "Thunderstorm Warning issued for eastern waters until 9:30 pm",
-        "dek": "The Hong Kong Observatory issued the warning at 8:15 p.m., expecting isolated thunderstorms over the eastern waters of Hong Kong."
-      },
-      "zh": {
-        "headline": "天文台發出雷暴警告至晚上9時半 預料東部水域局部有雷暴",
-        "dek": "天文台晚上8時15分發出雷暴警告，有效至今晚9時30分，預料香港東部水域有局部地區雷暴。"
       }
     }
   ]
