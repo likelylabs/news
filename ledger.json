@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-28T03:10:05+08:00",
+  "updated_at": "2026-08-28T07:19:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "coleman-wong-us-open-qualify-2026",
+      "id": "2026-08-28-coleman-wong-us-open-qualifies",
+      "first_seen": "2026-08-28T07:16:00+08:00",
+      "headline_en": "Coleman Wong qualifies again for US Open main draw"
+    },
+    {
+      "key": "nt-south-operation-champion-aug27",
+      "id": "2026-08-28-nt-south-illegal-workers-champion",
+      "first_seen": "2026-08-28T07:17:00+08:00",
+      "headline_en": "Joint New Territories South raid arrests 29 over illegal work"
+    },
+    {
+      "key": "tin-hau-dog-cwb-escape-aug27",
+      "id": "2026-08-28-tin-hau-dog-cwb-rescue",
+      "first_seen": "2026-08-28T07:18:00+08:00",
+      "headline_en": "Loose dog runs from Tin Hau onto harbour bypass"
+    },
+    {
+      "key": "lifestyle-hktb-international-lantern-victoria-park-2026",
+      "id": "2026-08-28-lifestyle-hktb-mid-autumn-lantern",
+      "first_seen": "2026-08-28T07:19:00+08:00",
+      "headline_en": "Tourism Board to stage first international lantern show at Victoria Park"
+    },
     {
       "key": "thunderstorm-warning-aug28-early-morning",
       "id": "2026-08-28-thunderstorm-warning-early-morning",
