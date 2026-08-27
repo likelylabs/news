@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-08-27T13:12:37+08:00",
+  "generated_at": "2026-08-27T21:07:46+08:00",
   "live_window_hours": 72,
   "count": 88,
   "articles": [
+    {
+      "id": "2026-08-27-star-ferry-fare-tac",
+      "published_at": "2026-08-27T21:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "ferry",
+        "star-ferry",
+        "tac"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-star-ferry-fare-tac.json",
+      "en": {
+        "headline": "Transport Advisory Committee discusses Star Ferry fare increase application",
+        "dek": "Members balanced the operator’s financial viability against public acceptability for proposed rises of about 30 per cent on the two franchised cross-harbour routes."
+      },
+      "zh": {
+        "headline": "交諮會討論天星小輪兩航線加價申請 將向政府提交建議",
+        "dek": "委員已平衡渡輪服務長遠財務可行性與公眾對擬議約三成加幅的接受程度，稍後提交建議供行政會議考慮。"
+      }
+    },
+    {
+      "id": "2026-08-27-heat-stress-warning-system-update",
+      "published_at": "2026-08-27T21:09:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "labour",
+        "heat",
+        "weather",
+        "occupational-safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-heat-stress-warning-system-update.json",
+      "en": {
+        "headline": "Labour Department lowers thresholds for heat stress at work warnings from Friday",
+        "dek": "Two new trigger conditions will allow higher-level alerts to be issued more readily when temperatures reach extreme levels or an extreme heat special alert is in force."
+      },
+      "zh": {
+        "headline": "勞工處明日起優化工作暑熱警告 下調門檻及自動調高一級",
+        "dek": "新增兩項觸發條件，當天文台發極端酷熱特別提示或全港多處氣溫達35度或以上時，可更早發出更高級別警告。"
+      }
+    },
+    {
+      "id": "2026-08-27-tseung-kwan-o-fisherman-lightning",
+      "published_at": "2026-08-27T21:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "accident",
+        "weather",
+        "tseung-kwan-o"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-27/2026-08-27-tseung-kwan-o-fisherman-lightning.json",
+      "en": {
+        "headline": "Fisherman dies after suspected lightning strike on sampan off Tseung Kwan O",
+        "dek": "A 67-year-old man was found unconscious on a sampan near the Cross Bay Link during the red rainstorm warning and was certified dead at Tseung Kwan O Hospital."
+      },
+      "zh": {
+        "headline": "將軍澳六旬漁民疑遭雷擊 舢舨上昏迷送院不治",
+        "dek": "紅雨期間一名67歲男子在跨灣大橋對開海面舢舨上暈倒，送將軍澳醫院後證實死亡，初步懷疑遭雷電擊中。"
+      }
+    },
     {
       "id": "2026-08-27-pcpd-doxxing-boxer-arrest",
       "published_at": "2026-08-27T13:16:00+08:00",
@@ -1870,76 +1936,6 @@
       "zh": {
         "headline": "天文台發出雷暴警告至晚上9時半 預料東部水域局部有雷暴",
         "dek": "天文台晚上8時15分發出雷暴警告，有效至今晚9時30分，預料香港東部水域有局部地區雷暴。"
-      }
-    },
-    {
-      "id": "2026-08-24-lifestyle-sui-tang-exhibition-final",
-      "published_at": "2026-08-24T15:07:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "museum",
-        "history",
-        "sui-tang",
-        "free"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-24/2026-08-24-lifestyle-sui-tang-exhibition-final.json",
-      "en": {
-        "headline": "Sui and Tang civilisation exhibition at History Museum ends today",
-        "dek": "The free Hong Kong Jockey Club Series show, featuring more than 165 sets of artefacts from Shaanxi and local finds, including 18 national first-class treasures, closes on Monday after a four-month run."
-      },
-      "zh": {
-        "headline": "歷史博物館隋唐文明展今日閉幕",
-        "dek": "香港賽馬會呈獻系列「長安萬象——陝西隋唐文明展」免費展出逾165件（套）文物，包括18件國家一級文物，展期至今日結束。"
-      }
-    },
-    {
-      "id": "2026-08-24-green-earth-emissions-data",
-      "published_at": "2026-08-24T15:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "environment",
-        "emissions",
-        "green-earth",
-        "climate",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-24/2026-08-24-green-earth-emissions-data.json",
-      "en": {
-        "headline": "Half of public bodies omit greenhouse gas emissions data, green group finds",
-        "dek": "The Green Earth’s study of 82 government departments and public entities showed 41 published emissions figures, while about eight used outdated emission factors that could overstate reductions."
-      },
-      "zh": {
-        "headline": "綠惜地球：半數公共機構未披露溫室氣體排放數據",
-        "dek": "綠惜地球研究82個政府部門及公共機構，發現41個有公布排放數字，約八個使用過時排放因子，或令減排幅度被高估。"
-      }
-    },
-    {
-      "id": "2026-08-24-customs-lo-wu-live-cats",
-      "published_at": "2026-08-24T15:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "smuggling",
-        "animals",
-        "lo-wu",
-        "afcd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-24/2026-08-24-customs-lo-wu-live-cats.json",
-      "en": {
-        "headline": "Customs seize two live cats from mainland passenger at Lo Wu",
-        "dek": "A 44-year-old man was arrested after officers found the animals, valued at about HK$2,000, in his luggage at the control point on Sunday; the case was referred to the Agriculture, Fisheries and Conservation Department."
-      },
-      "zh": {
-        "headline": "海關羅湖截獲內地男旅客行李藏兩活貓",
-        "dek": "44歲內地男旅客周日在羅湖管制站入境大堂被截查，行李內檢獲兩隻懷疑非法進口活貓，市值約2,000港元，男子當場被捕，案件交漁護署跟進。"
       }
     }
   ]
