@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-28T01:10:46+08:00",
+  "generated_at": "2026-08-28T03:10:05+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-08-28-lifestyle-yayoi-kusama-tributes",
+      "published_at": "2026-08-28T03:21:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "art",
+        "m-plus",
+        "west-kowloon",
+        "kusama"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-lifestyle-yayoi-kusama-tributes.json",
+      "en": {
+        "headline": "Hong Kong arts figures pay tribute to Yayoi Kusama after death at 97",
+        "dek": "West Kowloon Cultural District Authority board chairman Bernard Chan and local design studio AllRightsReserved were among those expressing sadness following confirmation of the Japanese artist’s death."
+      },
+      "zh": {
+        "headline": "香港藝文界悼念草間彌生辭世 西九主席陳智思感懷",
+        "dek": "西九文化區管理局董事局主席陳智思及本地設計工作室AllRightsReserved等周四就日本前衛藝術家草間彌生辭世表達哀思。"
+      }
+    },
+    {
+      "id": "2026-08-28-thunderstorm-warning-early-morning",
+      "published_at": "2026-08-28T03:20:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "thunderstorm-warning",
+        "heavy-rain",
+        "landslip"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-thunderstorm-warning-early-morning.json",
+      "en": {
+        "headline": "Thunderstorm Warning extended to 4:30 a.m.; heavy rain hits Tai Po",
+        "dek": "The Observatory also issued a Localised Heavy Rain Advisory for Tai Po and a Special Landslip Advisory for Po Toi Island and Sai Kung East as thundery showers affected the territory."
+      },
+      "zh": {
+        "headline": "雷暴警告延長至清晨4時30分 大埔錄得大雨",
+        "dek": "天文台同時發出大埔區局部地區大雨提示，以及蒲台島及西貢東特別山泥傾瀉提示，雷雨區正影響本港。"
+      }
+    },
     {
       "id": "2026-08-28-hkpc-ai-for-all-launch",
       "published_at": "2026-08-28T01:13:00+08:00",
