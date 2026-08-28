@@ -1,1 +1,24 @@
-PLACEHOLDER
+{
+  "updated_at": "2026-08-28T21:17:00+08:00",
+  "retention_days": 5,
+  "covered": [
+    {
+      "key": "insurance-licence-cheating-scheme-aug28",
+      "id": "2026-08-28-insurance-licence-cheating-scheme",
+      "first_seen": "2026-08-28T21:15:00+08:00",
+      "headline_en": "Police arrest 15 over insurance licence exam cheating scheme"
+    },
+    {
+      "key": "wang-fuk-court-96pc-accept-aug28",
+      "id": "2026-08-28-wang-fuk-court-96pc-accept",
+      "first_seen": "2026-08-28T21:16:00+08:00",
+      "headline_en": "Over 96 per cent of Wang Fuk Court owners accept government buyout"
+    },
+    {
+      "key": "mtr-hung-shui-kiu-skidding-construction",
+      "id": "2026-08-28-mtr-hung-shui-kiu-skidding",
+      "first_seen": "2026-08-28T21:17:00+08:00",
+      "headline_en": "MTR to use world-first skidding method for Hung Shui Kiu Station"
+    }
+  ]
+}
