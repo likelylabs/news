@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-08-29T03:07:48+08:00",
+  "generated_at": "2026-08-29T07:17:23+08:00",
   "live_window_hours": 72,
-  "count": 96,
+  "count": 95,
   "articles": [
+    {
+      "id": "2026-08-29-lifestyle-lcsd-hk-artists-dance",
+      "published_at": "2026-08-29T07:17:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "arts",
+        "dance",
+        "lcsd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-29/2026-08-29-lifestyle-lcsd-hk-artists-dance.json",
+      "en": {
+        "headline": "LCSD dance bills by local choreographers go on sale 1 September",
+        "dek": "Three new works by Kaki Lee, Ching Chu and Rosalie Ng will play in Kwai Tsing and Tai Po this autumn and winter under the Hong Kong Artists Series 2026."
+      },
+      "zh": {
+        "headline": "康文署香港藝術家系列三齣新舞作 9月1日開售",
+        "dek": "李嘉禊、朱晴及伍家蔚新作將於今秋至冬季在葵青劇院及大埔文娛中心黑盒劇場上演，早鳥優惠至9月14日。"
+      }
+    },
+    {
+      "id": "2026-08-29-jardines-lookout-ev-charging-tender",
+      "published_at": "2026-08-29T07:16:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "environment",
+        "transport",
+        "ev",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-29/2026-08-29-jardines-lookout-ev-charging-tender.json",
+      "en": {
+        "headline": "Government tenders Jardine's Lookout site for EV fast charging",
+        "dek": "Inland Lot No. 9105 at 137 Tai Hang Road, covering 901.3 square metres, is being sold for conversion into an electric-vehicle fast charging station, with tenders closing on 6 November."
+      },
+      "zh": {
+        "headline": "政府招標出售渣甸山地皮作電動車高速充電站",
+        "dek": "大坑道137號內地段第9105號面積901.3平方米，指定改作電動車高速充電站，公開招標於11月6日截標。"
+      }
+    },
+    {
+      "id": "2026-08-29-hdrc-medical-dispute-platform",
+      "published_at": "2026-08-29T07:15:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "legal",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-29/2026-08-29-hdrc-medical-dispute-platform.json",
+      "en": {
+        "headline": "Healthcare centre launches online medical dispute platform",
+        "dek": "The Healthcare Dispute Resolution Centre opened a virtual and in-person mediation and arbitration service on Friday for patients and providers in Hong Kong and the Greater Bay Area."
+      },
+      "zh": {
+        "headline": "醫療爭議解決中心推出網上調解平台",
+        "dek": "非牟利機構周五啟用網上及面對面調解與仲裁服務，供本港及大灣區患者與醫療服務提供者處理爭議。"
+      }
+    },
+    {
+      "id": "2026-08-29-poa-2027-arrangements",
+      "published_at": "2026-08-29T07:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "schools",
+        "community",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-29/2026-08-29-poa-2027-arrangements.json",
+      "en": {
+        "headline": "EDB opens Primary One 2027 applications from mid-September",
+        "dek": "Hong Kong children born on or before 31 December 2021 can join the Primary One Admission System for September 2027, with digital applications encouraged through the ePOA platform."
+      },
+      "zh": {
+        "headline": "教育局公布2027年小一入學安排 9月中起接受申請",
+        "dek": "2021年12月31日或之前出生、未曾入讀小學亦未獲派小一學位的本港兒童，可參加2027年9月小一入學統籌辦法，當局鼓勵經電子平台申請。"
+      }
+    },
     {
       "id": "2026-08-29-lifestyle-sui-tang-attire-exhibition",
       "published_at": "2026-08-29T03:10:00+08:00",
@@ -1988,118 +2076,6 @@
       "zh": {
         "headline": "雷暴警告延長至上午9時30分",
         "dek": "天文台將清晨5時20分發出的雷暴警告延長至上午9時30分，預料本港有幾陣狂風雷暴。"
-      }
-    },
-    {
-      "id": "2026-08-26-lifestyle-po-toi-chau-booking",
-      "published_at": "2026-08-26T07:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "hiking",
-        "sai-kung",
-        "afcd",
-        "country-park"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-26/2026-08-26-lifestyle-po-toi-chau-booking.json",
-      "en": {
-        "headline": "Trial booking system opens for High Island Reservoir’s Po Toi Chau section",
-        "dek": "The Agriculture, Fisheries and Conservation Department has set a daily quota of 2,000 visitors for selected weekends and holidays from 5 September, with online real-name registration via Klook."
-      },
-      "zh": {
-        "headline": "萬宜水庫破邊洲段試行預約制 每日限額二千",
-        "dek": "漁護署已開放9月5日起指定周末及假期名額，須經指定平台實名登記，每日合共二千個名額分四個時段。"
-      }
-    },
-    {
-      "id": "2026-08-26-huanggang-ambulance-drill",
-      "published_at": "2026-08-26T07:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "customs",
-        "fire-services",
-        "immigration",
-        "health",
-        "huanggang-port"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-26/2026-08-26-huanggang-ambulance-drill.json",
-      "en": {
-        "headline": "Multi-agency drill tests cross-border ambulance handover at new Huanggang Port",
-        "dek": "Fire Services, Customs, Immigration, the Department of Health and the Government Property Agency simulated a patient transfer from the mainland via the joint one-stop lane on Tuesday."
-      },
-      "zh": {
-        "headline": "新皇崗口岸多部門演練深港救護車跨境病人交接",
-        "dek": "消防、海關、入境處、衞生署及政府產業署周二模擬病人經聯合一站式車道由內地轉交港方救護人員。"
-      }
-    },
-    {
-      "id": "2026-08-26-customs-illegal-petrol-kwai-chung",
-      "published_at": "2026-08-26T07:13:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "fire-services",
-        "illegal-fuel",
-        "kwai-chung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-26/2026-08-26-customs-illegal-petrol-kwai-chung.json",
-      "en": {
-        "headline": "Customs and Fire Services seize 770 litres of untaxed petrol in Kwai Chung",
-        "dek": "Two mobile illegal petrol stations were uncovered in a public open car park on Stonecutters Island on Monday afternoon; a 26-year-old operator and a 55-year-old driver were arrested."
-      },
-      "zh": {
-        "headline": "海關聯同消防葵涌破兩流動非法加油站 檢770公升未完稅汽油",
-        "dek": "周一午在昂船洲公眾露天停車場搗破兩個流動非法電油加油站，拘捕26歲操作員及55歲司機，檢獲約770公升未完稅汽油。"
-      }
-    },
-    {
-      "id": "2026-08-26-thunderstorm-warning-morning",
-      "published_at": "2026-08-26T07:12:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "thunderstorm-warning",
-        "showers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-26/2026-08-26-thunderstorm-warning-morning.json",
-      "en": {
-        "headline": "Thunderstorm Warning in force until 7:30 a.m.",
-        "dek": "The Hong Kong Observatory issued the warning at 5:20 a.m., expecting a few squally thunderstorms and intense gusts reaching 70 km/h or above over the territory."
-      },
-      "zh": {
-        "headline": "雷暴警告生效至上午7時30分",
-        "dek": "天文台於清晨5時20分發出雷暴警告，預料本港有幾陣狂風雷暴，並可能出現時速70公里或以上強陣風。"
-      }
-    },
-    {
-      "id": "2026-08-26-lifestyle-ancient-egypt-unveiled-final",
-      "published_at": "2026-08-26T03:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "museum",
-        "west-kowloon",
-        "egypt"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-26/2026-08-26-lifestyle-ancient-egypt-unveiled-final.json",
-      "en": {
-        "headline": "Ancient Egypt Unveiled exhibition enters final days at Hong Kong Palace Museum",
-        "dek": "The largest display of ancient Egyptian treasures ever staged in Hong Kong closes on 31 August after nine and a half months, featuring 250 objects from seven Egyptian museums and Saqqara."
-      },
-      "zh": {
-        "headline": "香港故宮「古埃及文明大展」進入最後數天",
-        "dek": "本港歷來最大型古埃及文物展將於8月31日閉幕，展出七間埃及博物館及薩卡拉遺址共250件珍藏，為期九個半月。"
       }
     }
   ]
