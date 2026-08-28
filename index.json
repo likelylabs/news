@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-08-28T11:20:20+08:00",
+  "generated_at": "2026-08-28T11:21:39+08:00",
   "live_window_hours": 72,
-  "count": 99,
+  "count": 102,
   "articles": [
+    {
+      "id": "2026-08-28-hku-csd-hepc-screening",
+      "published_at": "2026-08-28T11:20:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "public-health",
+        "health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-hku-csd-hepc-screening.json",
+      "en": {
+        "headline": "HKU and prisons find hepatitis C in 4.1 per cent of inmates screened",
+        "dek": "A voluntary pilot at Stanley Prison with the Correctional Services Department reported a rate far above the 0.3 per cent in the general population; treated inmates cleared the virus."
+      },
+      "zh": {
+        "headline": "港大懲教署篩查顯示在囚人士丙肝盛行率4.1%",
+        "dek": "赤柱監獄自願先導計劃發現比率遠高於本港一般人口的0.3%，確診者經治療後病毒均被清除，團隊促擴展計劃。"
+      }
+    },
     {
       "id": "2026-08-28-afcd-stanley-dog-neuter",
       "published_at": "2026-08-28T11:19:00+08:00",
@@ -23,6 +43,48 @@
       "zh": {
         "headline": "漁護署赤柱食肄接投訴 要求狗主為十歲犬絕育",
         "dek": "署方周三接報巡查懷疑格鬥犬後將犬隻帶走調查，表明若不由註冊獸醫絕育便會扣押，狗主其後安排緊急手術。"
+      }
+    },
+    {
+      "id": "2026-08-28-genai-sandbox-first-cohort",
+      "published_at": "2026-08-28T11:19:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "ai",
+        "hkma",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-genai-sandbox-first-cohort.json",
+      "en": {
+        "headline": "Regulators pick 36 use cases for first GenAI Sandbox++ cohort",
+        "dek": "The HKMA, SFC, Insurance Authority and MPFA, with Cyberport, selected projects from nearly 100 proposals involving 30 financial institutions and 27 technology partners."
+      },
+      "zh": {
+        "headline": "金管局等公布首期GenAI沙盒++ 36個用例入選",
+        "dek": "金管局、證監會、保監局及積金局聯同數碼港，從近100份建議中選出30家金融機構及27家技術夥伴的項目，稍後展開測試。"
+      }
+    },
+    {
+      "id": "2026-08-28-cuhk-lo-northern-metropolis-loan",
+      "published_at": "2026-08-28T11:18:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "education",
+        "northern-metropolis",
+        "cuhk"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-cuhk-lo-northern-metropolis-loan.json",
+      "en": {
+        "headline": "CUHK president seeks larger loan for Northern Metropolis campus",
+        "dek": "Dennis Lo Yuk-ming told RTHK he hopes the HK$10 billion construction loan reserved for universities in the Northern Metropolis can be increased so the university can plan a larger Hung Shui Kiu campus."
+      },
+      "zh": {
+        "headline": "中大校長盧煌明冀北都建校百億貸款加碼",
+        "dek": "盧煌明接受港台訪問，指北部都會區洪水橋位置優越，希望政府將預留予院校的100億元建設貸款加碼，方便中大規劃擴展。"
       }
     },
     {
