@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-08-28T11:12:00+08:00",
+  "generated_at": "2026-08-28T11:20:20+08:00",
   "live_window_hours": 72,
-  "count": 100,
+  "count": 99,
   "articles": [
+    {
+      "id": "2026-08-28-afcd-stanley-dog-neuter",
+      "published_at": "2026-08-28T11:19:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "animals",
+        "afcd",
+        "stanley",
+        "pets"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-afcd-stanley-dog-neuter.json",
+      "en": {
+        "headline": "AFCD orders neutering after Stanley cafe dog complaint",
+        "dek": "Officers took a 10-year-old dog for inspection after a report of a suspected fighting breed at a Stanley eatery; the owner arranged emergency surgery to avoid impoundment."
+      },
+      "zh": {
+        "headline": "漁護署赤柱食肄接投訴 要求狗主為十歲犬絕育",
+        "dek": "署方周三接報巡查懷疑格鬥犬後將犬隻帶走調查，表明若不由註冊獸醫絕育便會扣押，狗主其後安排緊急手術。"
+      }
+    },
+    {
+      "id": "2026-08-28-cuhk-lo-northern-metropolis",
+      "published_at": "2026-08-28T11:18:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "northern-metropolis",
+        "cuhk",
+        "universities"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-cuhk-lo-northern-metropolis.json",
+      "en": {
+        "headline": "CUHK chief seeks larger loan for Northern Metropolis campus",
+        "dek": "Dennis Lo Yuk-ming said the government’s HK$10 billion construction loan for universities in the new town should be increased so the university can plan a larger campus."
+      },
+      "zh": {
+        "headline": "盧煌明冀北都大學城百億建設貸款加碼",
+        "dek": "中大校長在港台節目表示，洪水橋位置優越，有助擴大學校規模，希望政府預留予院校的100億元貸款可以提高。"
+      }
+    },
+    {
+      "id": "2026-08-28-tac-new-appointments",
+      "published_at": "2026-08-28T11:17:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "tac",
+        "government",
+        "appointments"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-tac-new-appointments.json",
+      "en": {
+        "headline": "Seven new members appointed to Transport Advisory Committee",
+        "dek": "The Chief Executive reappointed two serving members and named seven new ones with effect from 1 October, two of them through the youth self-recommendation scheme."
+      },
+      "zh": {
+        "headline": "交諮會七名新成員獲委任 十月一日生效",
+        "dek": "行政長官再委任兩名現任委員，並新委任七人，當中兩人經青年委員自薦計劃出任，任期由十月一日起。"
+      }
+    },
+    {
+      "id": "2026-08-28-genai-sandbox-plusplus-cohort",
+      "published_at": "2026-08-28T11:16:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "ai",
+        "finance",
+        "hkma",
+        "cyberport",
+        "regulation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-genai-sandbox-plusplus-cohort.json",
+      "en": {
+        "headline": "Regulators pick 36 agentic AI pilots for expanded finance sandbox",
+        "dek": "HKMA, the SFC, the Insurance Authority and the MPFA selected 36 use cases from nearly 100 proposals, involving 30 financial institutions and 27 technology partners."
+      },
+      "zh": {
+        "headline": "金管局等公布首期GenA.I.沙盒++ 36個用例入選",
+        "dek": "金管局、證監會、保監局及積金局聯同數碼港選出36個用例，來自近100份方案，涉及30家金融機構及27家技術夥伴。"
+      }
+    },
     {
       "id": "2026-08-28-lifestyle-yulan-culture-festival",
       "published_at": "2026-08-28T11:09:00+08:00",
@@ -2083,116 +2172,6 @@
       "zh": {
         "headline": "屯門青山公路近屯利街再爆水管 水務署派人跟進",
         "dek": "水務署接獲報告指青山公路近屯利街有食水供水管滲漏，已派員到場處理，網上片段顯示黃泥水湧出路面。"
-      }
-    },
-    {
-      "id": "2026-08-25-lifestyle-mahou-dokoro-final",
-      "published_at": "2026-08-25T11:19:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "causeway-bay",
-        "pop-up",
-        "harry-potter"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-lifestyle-mahou-dokoro-final.json",
-      "en": {
-        "headline": "Harry Potter Mahou Dokoro pop-up ends today at Hysan Place",
-        "dek": "The official merchandise store offering apparel, accessories and collectables from the films closes on Tuesday after a month-long run in Causeway Bay."
-      },
-      "zh": {
-        "headline": "哈利波特Mahou Dokoro期間限定店今日結束",
-        "dek": "希慎廣場官方周邊店營業至今日，提供電影系列服裝、配件及收藏品。"
-      }
-    },
-    {
-      "id": "2026-08-25-world-skills-record-team",
-      "published_at": "2026-08-25T11:18:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "skills",
-        "vtc",
-        "youth"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-world-skills-record-team.json",
-      "en": {
-        "headline": "Hong Kong sends record 41 competitors to WorldSkills Shanghai",
-        "dek": "The largest-ever local contingent will take part in 37 skill categories next month, including two events Hong Kong is entering for the first time."
-      },
-      "zh": {
-        "headline": "港隊派歷來最多41人出戰上海世界技能大賽",
-        "dek": "第48屆世界技能大賽下月在上海舉行，香港派出41名選手參加37個項目，包括首次出戰的軟件測試及家具製作。"
-      }
-    },
-    {
-      "id": "2026-08-25-jordan-scaffolding-dismantle",
-      "published_at": "2026-08-25T11:17:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire-services",
-        "scaffolding",
-        "jordan",
-        "accident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-jordan-scaffolding-dismantle.json",
-      "en": {
-        "headline": "Firefighters dismantle precarious scaffolding outside Jordan building",
-        "dek": "A 1.5-metre scaffold erected for air-conditioner works shifted and hung dangerously overnight; one traffic lane was closed during the removal."
-      },
-      "zh": {
-        "headline": "佐敦大廈棚架搖搖欲墜 消防升雲梯拆除",
-        "dek": "柯士甸道百安大廈一樓冷氣工程棚架移位懸空，消防凌晨出動雲梯移除，往紅磡方向一度封閉一條行車線。"
-      }
-    },
-    {
-      "id": "2026-08-25-police-mortgage-fraud-court",
-      "published_at": "2026-08-25T11:16:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "fraud",
-        "court",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-police-mortgage-fraud-court.json",
-      "en": {
-        "headline": "Suspended police officer appears in court over alleged HK$4.2 million mortgage fraud",
-        "dek": "A 32-year-old officer attached to Kwai Tsing district faces two counts of fraud after allegedly submitting false documents to a bank in 2021."
-      },
-      "zh": {
-        "headline": "男警涉虛假文件申420萬按揭貸款 今沙田提堂",
-        "dek": "32歲葵青警區男警被控兩項欺詐罪，指他於2021年向銀行提供虛假文件及資料騙取約420萬元按揭貸款。"
-      }
-    },
-    {
-      "id": "2026-08-25-thunderstorm-warning-midmorning",
-      "published_at": "2026-08-25T11:15:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "thunderstorm-warning",
-        "showers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-thunderstorm-warning-midmorning.json",
-      "en": {
-        "headline": "Thunderstorm Warning reissued until 11:30 am",
-        "dek": "The Hong Kong Observatory issued a fresh Thunderstorm Warning at 10:20 a.m., expecting isolated squally thunderstorms over the territory."
-      },
-      "zh": {
-        "headline": "雷暴警告再發至上午11時30分",
-        "dek": "天文台上午10時20分再發雷暴警告，預料本港有局部地區狂風雷暴。"
       }
     }
   ]
