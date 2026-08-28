@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-08-28T13:08:27+08:00",
+  "generated_at": "2026-08-28T21:13:05+08:00",
   "live_window_hours": 72,
-  "count": 106,
+  "count": 100,
   "articles": [
+    {
+      "id": "2026-08-28-mtr-hung-shui-kiu-skidding",
+      "published_at": "2026-08-28T21:17:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "transport",
+        "northern-metropolis",
+        "construction"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-mtr-hung-shui-kiu-skidding.json",
+      "en": {
+        "headline": "MTR to use world-first skidding method for Hung Shui Kiu Station",
+        "dek": "Two 10,000-tonne station structures will be built beside the Tuen Ma Line viaduct and slid into place next year, limiting service disruption to at most two days each time."
+      },
+      "zh": {
+        "headline": "港鐵洪水橋站全球首用「滑移施工」 明年兩次短暫影響屯馬綫",
+        "dek": "兩座各重約1萬噸的車站結構將在屯馬綫高架橋旁預製，明年分兩次滑移就位，每次服務受影響不多於兩日。"
+      }
+    },
+    {
+      "id": "2026-08-28-wang-fuk-court-96pc-accept",
+      "published_at": "2026-08-28T21:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "tai-po",
+        "wang-fuk-court",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-wang-fuk-court-96pc-accept.json",
+      "en": {
+        "headline": "Over 96 per cent of Wang Fuk Court owners accept government buyout",
+        "dek": "Housing secretary Winnie Ho said 1,914 households had accepted the offer as of Thursday, with only about 70 still outstanding before the 31 August deadline."
+      },
+      "zh": {
+        "headline": "宏福苑逾96%業主接受政府收購 尚餘約70戶未回覆",
+        "dek": "房屋局局長何永賢表示，截至周四有1,914戶業主接受收購，距離8月31日截止期限尚餘約70戶。"
+      }
+    },
+    {
+      "id": "2026-08-28-insurance-licence-cheating-scheme",
+      "published_at": "2026-08-28T21:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "crime",
+        "insurance",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-insurance-licence-cheating-scheme.json",
+      "en": {
+        "headline": "Police arrest 15 over insurance licence exam cheating scheme",
+        "dek": "Commercial Crime Bureau officers detained six men and nine women during a test at a Kwun Tong centre; the Insurance Authority has suspended recognition of the FLMI qualification."
+      },
+      "zh": {
+        "headline": "保險牌照考試作弊案拘15人 監管局暫停承認相關資歷",
+        "dek": "商業罪案調查科在觀塘試場突擊行動拘捕六男九女，保險業監管局即時暫停承認FLMI資歷。"
+      }
+    },
     {
       "id": "2026-08-28-kwai-chung-garbage-truck-fatal",
       "published_at": "2026-08-28T13:14:00+08:00",
@@ -2126,199 +2192,6 @@
       "zh": {
         "headline": "北大嶼山翔東路三車相撞 的士司機傷重不治",
         "dek": "晚上約八時翔東路近欣澳發生涉及的士、愉景灣巴士及貨車的車禍，的士司機其後傷重不治，逾十人受傷。"
-      }
-    },
-    {
-      "id": "2026-08-25-chinese-medicine-hospital-inpatient",
-      "published_at": "2026-08-25T21:10:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "chinese-medicine",
-        "hospital",
-        "tseung-kwan-o",
-        "health-bureau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-chinese-medicine-hospital-inpatient.json",
-      "en": {
-        "headline": "Chinese Medicine Hospital to launch 24-hour inpatient services on 11 December",
-        "dek": "The Tseung Kwan O facility will open 93 inpatient beds in the first phase, with government-subsidised care priced at a package rate of HK$980 per day."
-      },
-      "zh": {
-        "headline": "香港中醫醫院12月11日起開展24小時住院服務",
-        "dek": "將軍澳醫院首階段提供93張住院病床，政府資助服務以每日980元套餐收費，預計2030年底達400張病床。"
-      }
-    },
-    {
-      "id": "2026-08-25-kaiser-jewellery-tour-ban",
-      "published_at": "2026-08-25T21:09:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tourism",
-        "tia",
-        "jewellery",
-        "travel"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-kaiser-jewellery-tour-ban.json",
-      "en": {
-        "headline": "Jewellery shop barred from tour groups for 30 days over coerced shopping",
-        "dek": "The Travel Industry Authority suspended Kaiser Jewellery International from receiving inbound tour groups after finding it failed to stop a guide coercing mainland visitors into purchases."
-      },
-      "zh": {
-        "headline": "凱旋珠寶未制止導遊威迫購物 被旅監局停接待旅行團30日",
-        "dek": "旅遊業監管局因2月一宗內地旅行團個案，暫停Kaiser Jewellery International註冊商店資格，由8月26日至9月24日不得接待訪港旅行團。"
-      }
-    },
-    {
-      "id": "2026-08-25-power-fuel-charges-september",
-      "published_at": "2026-08-25T21:08:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "electricity",
-        "clp",
-        "hk-electric",
-        "fuel-charge"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-power-fuel-charges-september.json",
-      "en": {
-        "headline": "CLP and HK Electric raise September fuel charges amid energy volatility",
-        "dek": "CLP’s fuel adjustment rises marginally to 45.1 cents per unit while HK Electric’s climbs 3.4 cents to 60.7 cents; both offer temporary rebates for lower-usage households."
-      },
-      "zh": {
-        "headline": "中電港燈9月燃料調整費上調 兩電推特別回扣紓緩",
-        "dek": "中電燃料調整費微升至每度45.1仙，港燈升3.4仙至60.7仙；兩電均為低用量住宅客戶提供為期三個月的特別回扣或補助。"
-      }
-    },
-    {
-      "id": "2026-08-25-exports-july-surge",
-      "published_at": "2026-08-25T21:07:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "exports",
-        "trade",
-        "census-statistics",
-        "ai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-exports-july-surge.json",
-      "en": {
-        "headline": "Hong Kong exports surge 50.7 per cent in July on AI electronics demand",
-        "dek": "The value of merchandise exports rose to a record HK$672.5 billion, while imports grew 41 per cent, according to provisional figures from the Census and Statistics Department."
-      },
-      "zh": {
-        "headline": "7月出口按年升50.7% AI相關電子產品需求強勁",
-        "dek": "政府統計處公布，7月商品整體出口貨值達6725億元創新高，進口升41%，有形貿易逆差49億元。"
-      }
-    },
-    {
-      "id": "2026-08-25-thunderstorm-warning-evening",
-      "published_at": "2026-08-25T21:06:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "thunderstorm-warning",
-        "showers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-thunderstorm-warning-evening.json",
-      "en": {
-        "headline": "Thunderstorm Warning extended until 8:30 p.m.",
-        "dek": "The Hong Kong Observatory reissued and later extended the warning, expecting isolated squally thunderstorms over the territory this evening."
-      },
-      "zh": {
-        "headline": "雷暴警告延長至晚上8時30分",
-        "dek": "天文台下午3時35分發出雷暴警告，其後延長有效時間，預料本港有局部地區狂風雷暴。"
-      }
-    },
-    {
-      "id": "2026-08-25-construction-safety-design-calls",
-      "published_at": "2026-08-25T15:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "construction",
-        "safety",
-        "labour"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-construction-safety-design-calls.json",
-      "en": {
-        "headline": "Experts call for safety-by-design to cut construction fatalities",
-        "dek": "Industry leaders urge embedding safety into building plans after 15 fatal industrial accidents were recorded so far this year."
-      },
-      "zh": {
-        "headline": "業界促將安全設計納入建築規劃減致命意外",
-        "dek": "建造業今年已錄得15宗致命工業意外，業界領袖呼籲從設計階段納入安全考慮。"
-      }
-    },
-    {
-      "id": "2026-08-25-senior-secondary-science-maths-curriculum",
-      "published_at": "2026-08-25T15:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "curriculum",
-        "science"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-senior-secondary-science-maths-curriculum.json",
-      "en": {
-        "headline": "Senior secondary science and maths curriculum to be revamped from 2029-30",
-        "dek": "The Education Bureau will update physics, chemistry, biology and extended mathematics syllabuses to encourage more students to take multiple science subjects."
-      },
-      "zh": {
-        "headline": "高中數理課程2029/30學年起優化",
-        "dek": "教育局將更新物理、化學、生物及數學延伸部分課程，鼓勵更多學生修讀多個理科科目。"
-      }
-    },
-    {
-      "id": "2026-08-25-gsh-shing-chi-court-selection",
-      "published_at": "2026-08-25T15:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "gsh",
-        "kowloon-bay"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-gsh-shing-chi-court-selection.json",
-      "en": {
-        "headline": "Green Form home buyers queue for discounted Kowloon Bay flats",
-        "dek": "Flat selection under the Green Form Subsidised Home Ownership Scheme 2025 begins, with more than 800 units at Shing Chi Court offered at 60 per cent of market value."
-      },
-      "zh": {
-        "headline": "綠置居九龍灣盛緻苑今日起揀樓",
-        "dek": "「綠表置居計劃」2025的揀樓今日展開，九龍灣盛緻苑提供逾800個單位，以市值六折發售。"
-      }
-    },
-    {
-      "id": "2026-08-25-thunderstorm-warning-midday",
-      "published_at": "2026-08-25T13:09:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "thunderstorm-warning",
-        "showers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-thunderstorm-warning-midday.json",
-      "en": {
-        "headline": "Thunderstorm Warning remains in force until 1 p.m.",
-        "dek": "The Hong Kong Observatory reissued the warning at 10.20 a.m., expecting isolated squally thunderstorms and intense gusts over the territory."
-      },
-      "zh": {
-        "headline": "雷暴警告生效至下午1時 局部有狂風雷暴",
-        "dek": "天文台上午10時20分發出雷暴警告，預料本港有局部地區狂風雷暴，並可能有時速80公里或以上強陣風。"
       }
     }
   ]
