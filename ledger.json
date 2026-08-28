@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-28T11:27:52+08:00",
+  "updated_at": "2026-08-28T11:27:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "hkex-gem-main-board-merge-study-aug27",
+      "id": "2026-08-28-hkex-gem-main-board-study",
+      "first_seen": "2026-08-28T11:24:00+08:00",
+      "headline_en": "HKEX studies merging GEM with Main Board under new chapter"
+    },
+    {
+      "key": "dpo-1823-ai-projects-aug27",
+      "id": "2026-08-28-dpo-1823-ai-tools",
+      "first_seen": "2026-08-28T11:25:00+08:00",
+      "headline_en": "Government to add four AI tools to 1823 hotline this year"
+    },
+    {
+      "key": "ifphk-retirement-expense-index-2026",
+      "id": "2026-08-28-retiree-expense-index-2026",
+      "first_seen": "2026-08-28T11:26:00+08:00",
+      "headline_en": "Retiree living costs rise three times faster than city inflation"
+    },
     {
       "key": "genai-sandbox-plusplus-first-cohort-aug27",
       "id": "2026-08-28-genai-sandbox-plusplus-cohort",
