@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-28-dpo-1823-ai-tools",
+  "published_at": "2026-08-28T11:25:00+08:00",
+  "category": "technology",
+  "tags": ["ai", "government", "technology"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "dpo-1823-ai-projects-aug27",
+  "en": {
+    "headline": "Government to add four AI tools to 1823 hotline this year",
+    "dek": "The Digital Policy Office said new systems would transcribe calls, extract email details and flag priority cases, cutting some triage times from two days to hours.",
+    "body": [
+      "The Digital Policy Office said on Thursday it is developing four artificial-intelligence projects for the government's 1823 public enquiry service, to be rolled out later this year, so staff can spend less time on routine logging and more time on complex cases.",
+      "Acting Commissioner for Digital Policy Daniel Cheung Yee-wai said the 24-hour centre handled about 7.5 million enquiries last year. He said AI was already supporting digital self-service and would be extended to receiving requests, case triage and referral. \"The 1823 hotline is an important bridge between the government and the public,\" he said.",
+      "Officials said a speech-to-text tool would convert specified calls into text and auto-generate case summaries, which they expect to cut post-call handling time by about 15 per cent. An email extraction system would fill case fields for designated topics, which they said could save about 30 per cent of manual input time. A triage tool is intended to identify priority cases in hours rather than about two days.",
+      "A fourth project would present livelihood-related case data on a dashboard for departments. The office also plans a web version of 1823 on the iAM Smart platform in the fourth quarter, and said it would trial agentic AI inside government from the same quarter under a controlled approach. Deputy Commissioner for Data Governance Ng Ping-chung said the tools could combine several steps, such as document checks and summaries, rather than a single task."
+    ]
+  },
+  "zh": {
+    "headline": "數字辦今年推四項AI工具加強1823熱線",
+    "dek": "數字政策辦公室表示，新系統將把來電轉文字、自動擷取電郵資料及識別優先個案，急案分流可由約兩天縮至數小時。",
+    "body": [
+      "數字政策辦公室周四表示，正為政府1823公眾查詢服務開發四個人工智能項目，預計今年內陸續推出，讓前線人員減少例行登錄工作，集中處理較複雜個案。",
+      "署理數字政策專員張以威表示，1823全日運作的聯絡中心去年處理約750萬宗查詢。他說熱線已採用人工智能支援數碼自助服務，並會把自動化延伸至接收訴求、分流及轉介。「1823熱線是政府與市民之間的重要橋樑，」他說。",
+      "當局指，「來電語音達」會把指定主題來電即時轉成文字並自動生成個案摘要，預料可將通話後處理時間減少約15%；「電郵擷取易」會按指定主題自動填寫欄位，估計可節省約三成人手輸入時間。「投訴分流快」則用作識別須優先處理的個案，識別時間由約兩天縮短至數小時。",
+      "第四個項目「訴求一覽通」會把民生相關個案整合到儀表板，供部門跟進。數字辦計劃第四季在「智方便」推出1823網頁版，並在政府內部以受控方式試行可執行多步驟工作的智能體人工智能。副數字政策專員（數據治理）吳秉宗表示，有關工具可把核對文件、撰寫摘要等步驟一併處理。"
+    ]
+  }
+}
