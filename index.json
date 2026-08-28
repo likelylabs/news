@@ -1,8 +1,117 @@
 {
-  "generated_at": "2026-08-28T09:11:55+08:00",
+  "generated_at": "2026-08-28T11:10:35+08:00",
   "live_window_hours": 72,
-  "count": 95,
+  "count": 100,
   "articles": [
+    {
+      "id": "2026-08-28-lifestyle-yulan-culture-festival",
+      "published_at": "2026-08-28T11:09:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "festival",
+        "victoria-park",
+        "heritage",
+        "causeway-bay"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-lifestyle-yulan-culture-festival.json",
+      "en": {
+        "headline": "Yu Lan Cultural Festival returns to Victoria Park next weekend",
+        "dek": "The ninth edition runs free from 4 to 6 September at Soccer Pitch 1, after the main Hungry Ghost Festival day on Thursday."
+      },
+      "zh": {
+        "headline": "第九屆盏蘭文化節下周末維園舉行 免費入場",
+        "dek": "香港潮屬社團總會主辦活動於9月4日至6日在維園1號球場舉行，正日剛過，設搶孤及盆供比賽。"
+      }
+    },
+    {
+      "id": "2026-08-28-kmb-nlb-new-franchises",
+      "published_at": "2026-08-28T11:08:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "buses",
+        "kmb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-kmb-nlb-new-franchises.json",
+      "en": {
+        "headline": "Government to discuss new 10-year franchises with KMB and NLB",
+        "dek": "New Lantao Bus’s current franchise expires on 1 March 2027 and Kowloon Motor Bus’s on 1 July 2027; the public may comment until 28 September."
+      },
+      "zh": {
+        "headline": "政府擬與九巴及嶼巴商討新十年專營權",
+        "dek": "嶼巴現行專營權明年3月1日屆滿，九巴則於7月1日屆滿，兩巴已表明有意申請新專營權，公眾可於9月28日前發表意見。"
+      }
+    },
+    {
+      "id": "2026-08-28-kwun-tong-shun-king-burglary",
+      "published_at": "2026-08-28T11:07:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "kwun-tong",
+        "burglary"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-kwun-tong-shun-king-burglary.json",
+      "en": {
+        "headline": "Two Kwun Tong flats burgled; 53-year-old man arrested nearby",
+        "dek": "Police say three residents of Shun King Building on Ka Lok Street lost more than HK$47,000 after doors were forced on Thursday evening."
+      },
+      "zh": {
+        "headline": "觀塘順景大樓兩單位遇竊 警在附近拙53歲男",
+        "dek": "嘉樂街順景大樓兩個單位周四晚被擠門搜掠，三名住戶合共損失逾4.7萬元，警方其後在約40米外大廈截獲一名男子。"
+      }
+    },
+    {
+      "id": "2026-08-28-wong-tai-sin-bakery-ceiling-fall",
+      "published_at": "2026-08-28T11:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "buildings",
+        "wong-tai-sin",
+        "accident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-wong-tai-sin-bakery-ceiling-fall.json",
+      "en": {
+        "headline": "Ceiling and concrete fall at Wong Tai Sin bakery, woman hurt",
+        "dek": "A section of ceiling about four metres by three metres came down at a ground-floor bakery on Sheung Fung Street this morning, hitting a customer who was taken to hospital."
+      },
+      "zh": {
+        "headline": "黃大仙麵包舖天花連石尾墮下 女顧客受傷送院",
+        "dek": "雙鳳街一地下麵包舖今早約4米乘3米天花連同石尾剝落，擊中一名二十多歲女顧客，她清醒送院。"
+      }
+    },
+    {
+      "id": "2026-08-28-weekend-weather-outlook",
+      "published_at": "2026-08-28T11:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "weekend",
+        "thunderstorm",
+        "forecast"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-weekend-weather-outlook.json",
+      "en": {
+        "headline": "Weekend outlook: showers and isolated storms, Sunday wetter",
+        "dek": "The Observatory expects mainly cloudy skies with a few showers this weekend, very hot on Saturday and more thunderstorms in places on Sunday."
+      },
+      "zh": {
+        "headline": "周末天氣展望：有驟雨及局部雷暴 周日部分地區較多雨",
+        "dek": "天文台預料本周末大致多雲，有幾陣驟雨及局部雷暴，周六日間酷熱，周日部分地區雨勢較多。"
+      }
+    },
     {
       "id": "2026-08-28-lifestyle-yan-ting-coliseum",
       "published_at": "2026-08-28T09:22:00+08:00",
