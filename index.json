@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-08-28T11:21:39+08:00",
+  "generated_at": "2026-08-28T11:27:52+08:00",
   "live_window_hours": 72,
-  "count": 102,
+  "count": 105,
   "articles": [
+    {
+      "id": "2026-08-28-retiree-expense-index-2026",
+      "published_at": "2026-08-28T11:26:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "economy",
+        "business"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-retiree-expense-index-2026.json",
+      "en": {
+        "headline": "Retiree living costs rise three times faster than city inflation",
+        "dek": "A new Hong Kong-Macau index from financial planners and a trustee put average monthly spending at HK$15,090, with travel and cross-boundary trips a main driver."
+      },
+      "zh": {
+        "headline": "退休開支指數升幅近通脹三倍 月均開支約1.5萬",
+        "dek": "財務策劃師學會聯同萬通信託公布首個港澳退休開支指數，指平均每月開支約15,090元，旅遊及跨境行程是主要動力之一。"
+      }
+    },
+    {
+      "id": "2026-08-28-dpo-1823-ai-tools",
+      "published_at": "2026-08-28T11:25:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "ai",
+        "government",
+        "technology"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-dpo-1823-ai-tools.json",
+      "en": {
+        "headline": "Government to add four AI tools to 1823 hotline this year",
+        "dek": "The Digital Policy Office said new systems would transcribe calls, extract email details and flag priority cases, cutting some triage times from two days to hours."
+      },
+      "zh": {
+        "headline": "數字辦今年推四項AI工具加強1823熱線",
+        "dek": "數字政策辦公室表示，新系統將把來電轉文字、自動擷取電郵資料及識別優先個案，急案分流可由約兩天縮至數小時。"
+      }
+    },
+    {
+      "id": "2026-08-28-hkex-gem-main-board-study",
+      "published_at": "2026-08-28T11:24:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "finance",
+        "economy",
+        "business"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-hkex-gem-main-board-study.json",
+      "en": {
+        "headline": "HKEX studies merging GEM with Main Board under new chapter",
+        "dek": "A source told the South China Morning Post the exchange is examining a Chapter 18D listing rule that would absorb more than 300 GEM companies, with public consultation possible by year-end."
+      },
+      "zh": {
+        "headline": "港交所據報研究GEM併入主板 擬增設18D章",
+        "dek": "南華早報引述消息人士指，交易所正研究在《上市規則》新增第18D章，把逾300家GEM公司納入主板專章，或於年底諮詢公眾。"
+      }
+    },
     {
       "id": "2026-08-28-hku-csd-hepc-screening",
       "published_at": "2026-08-28T11:20:00+08:00",
