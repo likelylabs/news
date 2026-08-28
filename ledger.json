@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-28T12:24:22+08:00",
+  "updated_at": "2026-08-28T13:15:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "ride-hailing-platform-licences-open-aug28",
+      "id": "2026-08-28-ride-hailing-platform-licences-open",
+      "first_seen": "2026-08-28T13:10:00+08:00",
+      "headline_en": "Transport Department opens ride-hailing platform licence applications"
+    },
+    {
+      "key": "customs-mong-kok-cocaine-53kg-aug28",
+      "id": "2026-08-28-customs-mong-kok-cocaine-53kg",
+      "first_seen": "2026-08-28T13:12:00+08:00",
+      "headline_en": "Customs seize 53.9 kg of suspected cocaine worth HK$36.2 million in Mong Kok"
+    },
+    {
+      "key": "kwai-chung-garbage-truck-fatal-aug28",
+      "id": "2026-08-28-kwai-chung-garbage-truck-fatal",
+      "first_seen": "2026-08-28T13:14:00+08:00",
+      "headline_en": "Elderly woman dies after being struck by garbage truck in Kwai Chung"
+    },
     {
       "key": "hkex-gem-main-board-merge-study-aug27",
       "id": "2026-08-28-hkex-gem-main-board-study",
