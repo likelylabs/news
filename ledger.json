@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T03:07:48+08:00",
+  "updated_at": "2026-08-29T07:18:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -37,6 +37,30 @@
       "id": "2026-08-29-lifestyle-sui-tang-attire-exhibition",
       "first_seen": "2026-08-29T03:10:00+08:00",
       "headline_en": "Sui and Tang attire exhibition opens at Central Library"
+    },
+    {
+      "key": "poa-2027-arrangements",
+      "id": "2026-08-29-poa-2027-arrangements",
+      "first_seen": "2026-08-29T07:14:00+08:00",
+      "headline_en": "EDB opens Primary One 2027 applications from mid-September"
+    },
+    {
+      "key": "hdrc-online-medical-dispute-platform",
+      "id": "2026-08-29-hdrc-medical-dispute-platform",
+      "first_seen": "2026-08-29T07:15:00+08:00",
+      "headline_en": "Healthcare centre launches online medical dispute platform"
+    },
+    {
+      "key": "jardines-lookout-ev-charging-tender",
+      "id": "2026-08-29-jardines-lookout-ev-charging-tender",
+      "first_seen": "2026-08-29T07:16:00+08:00",
+      "headline_en": "Government tenders Jardine's Lookout site for EV fast charging"
+    },
+    {
+      "key": "lifestyle-lcsd-hk-artists-dance-2026",
+      "id": "2026-08-29-lifestyle-lcsd-hk-artists-dance",
+      "first_seen": "2026-08-29T07:17:00+08:00",
+      "headline_en": "LCSD dance bills by local choreographers go on sale 1 September"
     }
   ]
 }
