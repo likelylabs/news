@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-28-genai-sandbox-first-cohort",
+  "published_at": "2026-08-28T11:19:00+08:00",
+  "category": "technology",
+  "tags": ["ai", "hkma", "finance"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "genai-sandbox-plus-plus-first-cohort-aug27",
+  "en": {
+    "headline": "Regulators pick 36 use cases for first GenAI Sandbox++ cohort",
+    "dek": "The HKMA, SFC, Insurance Authority and MPFA, with Cyberport, selected projects from nearly 100 proposals involving 30 financial institutions and 27 technology partners.",
+    "body": [
+      "Hong Kong’s financial regulators and Cyberport have named the first cohort of the expanded Generative Artificial Intelligence Sandbox++, selecting 36 use cases from nearly 100 proposals.",
+      "The Hong Kong Monetary Authority, the Securities and Futures Commission, the Insurance Authority and the Mandatory Provident Fund Schemes Authority said on Thursday that the cohort involves 30 financial institutions and 27 technology partners. Selection took account of innovation, technical complexity and potential value to the industry, as well as advice from a committee of academic experts.",
+      "The first round will focus on agentic artificial intelligence, meaning systems that can carry out tasks with greater autonomy rather than only generating text or images. Testing is planned to cover end-to-end processes such as customer onboarding, payments, insurance claims and customer interactions, and to look at how one AI system can oversee another.",
+      "Participants will use a platform at Cyberport’s Artificial Intelligence Supercomputing Centre, with technical trials due to start later this year. HKMA chief executive Eddie Yue said the partnerships were intended to open new uses of agentic AI and to support Hong Kong’s role as a financial and innovation centre. The authorities have said that taking part in the sandbox does not by itself amount to approval for commercial rollout."
+    ]
+  },
+  "zh": {
+    "headline": "金管局等公布首期GenAI沙盒++ 36個用例入選",
+    "dek": "金管局、證監會、保監局及積金局聯同數碼港，從近100份建議中選出30家金融機構及27家技術夥伴的項目，稍後展開測試。",
+    "body": [
+      "金管局、證監會、保險業監管局及積金局聯同數碼港公布第一期「生成式人工智能沙盒++」名單，從近100份建議方案中選出36個用例。",
+      "當局周四表示，入選項目來自30家金融機構及27家技術合作夥伴，評選考慮創新程度、技術複雜性、對業界的潛在價值，以及由學界專家組成的評選委員會意見。",
+      "第一期重點探討代理式人工智能，即系統在內容生成以外，以更高自主程度執行任務。測試範圍包括客戶開戶、支付、保險理賠及客戶互動等完整流程，亦會檢視如何以人工智能動態監察其他人工智能應用。",
+      "參與者將使用數碼港人工智能超算中心的專屬平台，技術測試預定今年稍後展開。金管局總裁余偉文表示，有關合作有助釋放代理式人工智能的潛力。當局同時指出，參與沙盒本身並不代表有關系統已獲准作商業推出。"
+    ]
+  }
+}
