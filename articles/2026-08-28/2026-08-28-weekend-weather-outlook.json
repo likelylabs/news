@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-28-weekend-weather-outlook",
+  "published_at": "2026-08-28T11:05:00+08:00",
+  "category": "weather",
+  "tags": ["weather", "weekend", "thunderstorm", "forecast"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "weekend-weather-outlook-aug29-30",
+  "en": {
+    "headline": "Weekend outlook: showers and isolated storms, Sunday wetter",
+    "dek": "The Observatory expects mainly cloudy skies with a few showers this weekend, very hot on Saturday and more thunderstorms in places on Sunday.",
+    "body": [
+      "The Hong Kong Observatory said a southwesterly airstream would keep the coast of southern China mainly cloudy this weekend, with a few showers and isolated thunderstorms, after cancelling all weather warnings by Friday morning.",
+      "Saturday is forecast to be very hot with sunny intervals, temperatures from 28 to 33 degrees Celsius, and west to southwest winds of force 3 to 4. Sunday is expected to stay cloudy with showers and thunderstorms, more so in some areas, and a slightly lower range of 27 to 31 degrees.",
+      "A 7-day forecast updated at 9.50 a.m. on Friday said a broad trough of low pressure would bring unsettled weather to the Guangdong coast and the northern South China Sea from the weekend into early next week. Tropical Cyclone Saudel was moving across southern Zhejiang and inland, weakening, and was not expected to bring a local tropical cyclone signal.",
+      "The Observatory earlier noted overnight rain had been particularly heavy over Po Toi Island and Sai Kung East and issued a special landslip advisory for those areas. It advised people to stay away from slopes if rain returns. Skies are expected to improve from Tuesday as a drier continental airstream arrives."
+    ]
+  },
+  "zh": {
+    "headline": "周末天氣展望：有驟雨及局部雷暴 周日部分地區較多雨",
+    "dek": "天文台預料本周末大致多雲，有幾陣驟雨及局部雷暴，周六日間酷熱，周日部分地區雨勢較多。",
+    "body": [
+      "香港天文台表示，受西南氣流影響，華南沿岸本周末大致多雲，有幾陣驟雨及局部雷暴。周五上午本港已沒有天氣警告生效。",
+      "周六預料短暫時間有陽光，日間酷熱，氣溫介乎28至33度，吹西至西南風至3至4級。周日仍然多雲，有驟雨及雷暴，部分地區雨勢較多，氣溫約27至31度。",
+      "天文台周五上午9時50分更新的七天天氣預報指出，一道廣闊低壓槽會於周末至下周一、二為廣東沿岸及南海北部帶來不穩定天氣。麴風沙德爾正橫過浙江南部並逐漸移入內陸減弱，預料不會為本港帶來熱帶氣旋信號。",
+      "天文台較早亦指，蒲台島及西貢東隔夜雨勢較大，並就該帶發出特別山泥傾瀉通告，呼籲市民如再有大雨，遠離斜坡。預料下周二起受較乾燥的大陸氣流影響，天色轉好。"
+    ]
+  }
+}
