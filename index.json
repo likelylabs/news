@@ -1,8 +1,115 @@
 {
-  "generated_at": "2026-08-28T07:17:08+08:00",
+  "generated_at": "2026-08-28T09:10:51+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 96,
   "articles": [
+    {
+      "id": "2026-08-28-lifestyle-yan-ting-coliseum",
+      "published_at": "2026-08-28T09:22:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "concert",
+        "hung-hom"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-lifestyle-yan-ting-coliseum.json",
+      "en": {
+        "headline": "Yan Ting opens two-night Coliseum run with The Alchemist Live",
+        "dek": "Singer Yan Ting begins a two-night stand at Hong Kong Coliseum this evening, with a second show on Saturday, after tickets went on sale through Cityline and URBTIX."
+      },
+      "zh": {
+        "headline": "周殷廷紅館《The Alchemist Live》今晚揭幕",
+        "dek": "歌手周殷廷今晚及周六連續兩場在紅磬香港體育館舉行演唱會，門票較早前經城市售票網及URBTIX發售。"
+      }
+    },
+    {
+      "id": "2026-08-28-aia-suspends-staff-apm-case",
+      "published_at": "2026-08-28T09:21:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "kwun-tong",
+        "police",
+        "insurance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-aia-suspends-staff-apm-case.json",
+      "en": {
+        "headline": "AIA Hong Kong suspends staff member after Kwun Tong mall fight",
+        "dek": "The insurer said a related person has been temporarily suspended after a filmed dispute at apm in Kwun Tong in which three women were arrested."
+      },
+      "zh": {
+        "headline": "友邦香港就觀塚apm衝突暫停相關人士職務",
+        "dek": "保險公司向傳媒表示，觀塚apm玩樂區衝突有相關人士已被暫時停任，公司會跟進；較早前有三名女子被捕。"
+      }
+    },
+    {
+      "id": "2026-08-28-tai-po-sheung-shui-anti-vice-10",
+      "published_at": "2026-08-28T09:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "tai-po",
+        "sheung-shui",
+        "fanling"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-tai-po-sheung-shui-anti-vice-10.json",
+      "en": {
+        "headline": "Police arrest 10 women in Tai Po, Sheung Shui and Fanling vice raids",
+        "dek": "Tai Po officers and other departments searched four tenement subdivided flats on Thursday afternoon and arrested 10 mainland women on suspicion of breaching conditions of stay."
+      },
+      "zh": {
+        "headline": "大埔上水粉嶺掃黃 四劍房拙10名內地女子",
+        "dek": "大埔警區聯同相關部門周四下午在四個唐樓劍房採取行動，拑10名內地女子，涉嫌違反逗留條件。"
+      }
+    },
+    {
+      "id": "2026-08-28-sha-tin-tai-chung-kiu-van-taxi",
+      "published_at": "2026-08-28T09:19:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "sha-tin",
+        "traffic",
+        "taxi"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-sha-tin-tai-chung-kiu-van-taxi.json",
+      "en": {
+        "headline": "Light goods van overturns after late-night crash with taxi in Sha Tin",
+        "dek": "A light goods vehicle and a taxi collided at Tai Chung Kiu Road shortly after 11 p.m. on Thursday. Both drivers were injured and taken to Prince of Wales Hospital."
+      },
+      "zh": {
+        "headline": "沙田大涌橋路貨Van撞的士後翻側 兩司機受傷",
+        "dek": "周四晚約11時18分，輕型貨車與的士在大涌橋路交界相撞，貨車翻側，兩名司機受傷送往威爾斯親王醫院。"
+      }
+    },
+    {
+      "id": "2026-08-28-kwai-chung-road-minibus-overturn",
+      "published_at": "2026-08-28T09:18:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "kwai-chung",
+        "minibus",
+        "traffic",
+        "transport-department"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-kwai-chung-road-minibus-overturn.json",
+      "en": {
+        "headline": "Empty red minibus overturns on Kwai Chung Road near Lai Chi Kok",
+        "dek": "A driver-only public light bus struck a kerb and flipped onto Kwai Chung Road towards Tsuen Wan at 7.43 a.m., closing lanes near Mei Foo and sending the driver to hospital."
+      },
+      "zh": {
+        "headline": "葵涌道空載紅VAN撞壤翻側 往荃灣交通受阻",
+        "dek": "今早7時43分一輛只有司機的紅色小巴在葵涌道近荔枝角公園失控撞壤翻側，司機面部受傷送院，美孚附近部分行車線封閉。"
+      }
+    },
     {
       "id": "2026-08-28-lifestyle-hktb-mid-autumn-lantern",
       "published_at": "2026-08-28T07:19:00+08:00",
@@ -2000,28 +2107,6 @@
       "zh": {
         "headline": "日本搖滾樂隊Novelbright今晚起麥花臣場館兩晚演出",
         "dek": "亞洲巡演「PYRAMID」於8月25及26日晚上7時舉行，門票由699港元起，另設VIP套票包括優先入場及合照機會。"
-      }
-    },
-    {
-      "id": "2026-08-25-tates-cairn-tunnel-crash",
-      "published_at": "2026-08-25T09:10:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "sha-tin",
-        "tunnel",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-tates-cairn-tunnel-crash.json",
-      "en": {
-        "headline": "Two private cars collide inside Tate's Cairn Tunnel, one driver injured",
-        "dek": "The early-morning crash on the northbound carriageway caused temporary congestion; one driver sustained minor injuries."
-      },
-      "zh": {
-        "headline": "大老山隧道兩私家車相撞 一司機輕傷",
-        "dek": "今晨約3時北行線發生車禍，其中一輛車車頭嚴重損毀，隧道一度擠塞。"
       }
     }
   ]
