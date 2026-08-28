@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-08-28T12:24:22+08:00",
+  "generated_at": "2026-08-28T13:08:27+08:00",
   "live_window_hours": 72,
-  "count": 105,
+  "count": 106,
   "articles": [
+    {
+      "id": "2026-08-28-kwai-chung-garbage-truck-fatal",
+      "published_at": "2026-08-28T13:14:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "kwai-chung",
+        "police",
+        "fatal"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-kwai-chung-garbage-truck-fatal.json",
+      "en": {
+        "headline": "Elderly woman dies after being struck by garbage truck in Kwai Chung",
+        "dek": "An 80-year-old pedestrian pulling a handcart was hit on Hing Ning Road near Kwai Tsing Theatre this morning; the South Asian driver was arrested on suspicion of dangerous driving causing death."
+      },
+      "zh": {
+        "headline": "葵涌垃圾車撞斃八旬女途人 司機涉危駕被捕",
+        "dek": "今早約10時10分興寧路近葵青劇院對開，垃圾車撞倒拉手推車過路的八旬婦，事主當場不治，南亞裔司機涉危險駕駛導致他人死亡被捕。"
+      }
+    },
+    {
+      "id": "2026-08-28-customs-mong-kok-cocaine-53kg",
+      "published_at": "2026-08-28T13:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "drugs",
+        "cocaine",
+        "crime",
+        "mong-kok"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-customs-mong-kok-cocaine-53kg.json",
+      "en": {
+        "headline": "Customs seize 53.9 kg of suspected cocaine worth HK$36.2 million in Mong Kok",
+        "dek": "A 49-year-old foreign man was arrested after officers found 11 kg in his backpack outside a Central hotel and a further 42.9 kg at a residential unit in Mong Kok."
+      },
+      "zh": {
+        "headline": "海關旺角搗毒品倉檢53.9公斤可卡因 拘外籍男",
+        "dek": "49歲外籍男子在中環酒店外被截查，背囊藏11公斤懷疑可卡因，旺角住宅再起獲42.9公斤，市值約3,620萬元。"
+      }
+    },
+    {
+      "id": "2026-08-28-ride-hailing-platform-licences-open",
+      "published_at": "2026-08-28T13:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "ride-hailing",
+        "td",
+        "regulation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-28/2026-08-28-ride-hailing-platform-licences-open.json",
+      "en": {
+        "headline": "Transport Department opens ride-hailing platform licence applications",
+        "dek": "Interested platform companies can apply from today until 30 October for five-year licences under the new regulatory regime, with capital and operating-scale thresholds set."
+      },
+      "zh": {
+        "headline": "運輸署今起接受網約車平台牌照申請",
+        "dek": "有意營運網約車平台的公司可由今日起至10月30日中午申請最長五年牌照，須符合資本及營運規模門檻。"
+      }
+    },
     {
       "id": "2026-08-28-retiree-expense-index-2026",
       "published_at": "2026-08-28T11:26:00+08:00",
@@ -2252,50 +2319,6 @@
       "zh": {
         "headline": "雷暴警告生效至下午1時 局部有狂風雷暴",
         "dek": "天文台上午10時20分發出雷暴警告，預料本港有局部地區狂風雷暴，並可能有時速80公里或以上強陣風。"
-      }
-    },
-    {
-      "id": "2026-08-25-causeway-bay-hennessy-fire",
-      "published_at": "2026-08-25T13:08:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "causeway-bay",
-        "hennessy-road",
-        "fire-services"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-causeway-bay-hennessy-fire.json",
-      "en": {
-        "headline": "Fire at Causeway Bay subdivided flat leaves one woman hospitalised",
-        "dek": "Flames broke out on the ninth floor of Hennessy Apartments on Tuesday morning; 73 people were evacuated and tram services were temporarily suspended."
-      },
-      "zh": {
-        "headline": "銅鑼灣軒尼詩大廈劏房起火 73人疏散一名老婦送院",
-        "dek": "軒尼詩道488至490號單位今早起火，消防出動撲救，火警約中午12時半救熄，波斯富街一度全線封閉。"
-      }
-    },
-    {
-      "id": "2026-08-25-tuen-mun-water-pipe-leak",
-      "published_at": "2026-08-25T13:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "water-supplies",
-        "tuen-mun",
-        "pipe-leak",
-        "wsd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-25/2026-08-25-tuen-mun-water-pipe-leak.json",
-      "en": {
-        "headline": "Tuen Mun water main leaks again near Tun Lai Street",
-        "dek": "The Water Supplies Department is investigating a fresh leak on Castle Peak Road after yellow muddy water was seen gushing from the ground on Tuesday morning."
-      },
-      "zh": {
-        "headline": "屯門青山公路近屯利街再爆水管 水務署派人跟進",
-        "dek": "水務署接獲報告指青山公路近屯利街有食水供水管滲漏，已派員到場處理，網上片段顯示黃泥水湧出路面。"
       }
     }
   ]
