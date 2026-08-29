@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-08-29T15:14:21+08:00",
+  "generated_at": "2026-08-29T21:10:24+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 93,
   "articles": [
+    {
+      "id": "2026-08-29-lifestyle-space-fantasy-ccohk",
+      "published_at": "2026-08-29T21:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "concert",
+        "family",
+        "tsuen-wan",
+        "music"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-29/2026-08-29-lifestyle-space-fantasy-ccohk.json",
+      "en": {
+        "headline": "City Chamber Orchestra stages Space Fantasy family shows this weekend",
+        "dek": "Three English-language performances run at Tsuen Wan Town Hall on Saturday and Sunday, combining live music, dance, theatre and circus for ages three and up."
+      },
+      "zh": {
+        "headline": "城市室樂團《太空幻遊》本周末荃灣大會堂上演",
+        "dek": "周六下午3時及晚上7時半、周日下午3時於荃灣大會堂演奏廳演出，英語家庭節目，門票120元起。"
+      }
+    },
+    {
+      "id": "2026-08-29-mpox-case-39yo",
+      "published_at": "2026-08-29T21:14:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "mpox",
+        "chp",
+        "public-health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-29/2026-08-29-mpox-case-39yo.json",
+      "en": {
+        "headline": "CHP investigates new local Mpox case involving 39-year-old man",
+        "dek": "The patient is stable and will continue isolation at Princess Margaret Hospital; high-risk groups are urged to get vaccinated."
+      },
+      "zh": {
+        "headline": "衞生防護中心調查39歲男子猴痘確診個案",
+        "dek": "患者情況穩定，將轉送瑪嘉烈醫院繼續隔離治療；中心呼籲高風險群組接種疫苗。"
+      }
+    },
+    {
+      "id": "2026-08-29-disaster-relief-nepal-tibet",
+      "published_at": "2026-08-29T21:13:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "disaster-relief",
+        "government",
+        "nepal",
+        "tibet",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-29/2026-08-29-disaster-relief-nepal-tibet.json",
+      "en": {
+        "headline": "Hong Kong earmarks HK$50 million for Nepal-Tibet mudslide victims",
+        "dek": "Chief Executive John Lee said the Disaster Relief Fund Advisory Committee will handle applications swiftly after deadly flash floods along the Himalayan border."
+      },
+      "zh": {
+        "headline": "李家超：賑災基金預留5,000萬元支援尼中泥石流災區",
+        "dek": "行政長官對遇難者表示沉痛哀悼，賑災基金諮詢委員會將迅速處理撥款申請。"
+      }
+    },
+    {
+      "id": "2026-08-29-huanggang-port-20000-drill",
+      "published_at": "2026-08-29T21:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "huanggang-port",
+        "border",
+        "security",
+        "government",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-29/2026-08-29-huanggang-port-20000-drill.json",
+      "en": {
+        "headline": "Huanggang Port 20,000-person drill runs smoothly, ID or home-return permit accepted",
+        "dek": "Security Secretary Chris Tang said the final large-scale pressure test with Shenzhen went as planned and opening timing will be decided jointly once conditions are met."
+      },
+      "zh": {
+        "headline": "皇崗口岸兩萬人演練大致暢順 開通後可用身分證或回鄉證",
+        "dek": "保安局局長鄧炳強表示今次為開通前最後一次大型動員演練，整體暢順有序，正式通關時間將與深方協商決定。"
+      }
+    },
     {
       "id": "2026-08-29-san-tin-tech-city-land-price",
       "published_at": "2026-08-29T15:16:00+08:00",
