@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-08-30T06:42:34+08:00",
+  "generated_at": "2026-08-30T07:15:05+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-08-30-lifestyle-hk-fashion-fest",
+      "published_at": "2026-08-30T07:23:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "fashion",
+        "exhibition",
+        "culture"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-lifestyle-hk-fashion-fest.json",
+      "en": {
+        "headline": "Hong Kong Fashion Fest returns from 1 to 14 September",
+        "dek": "The government-backed third edition will stage eight flagship programmes across the city, with public exhibitions free of charge."
+      },
+      "zh": {
+        "headline": "第三屆香港時裝蕃九月1日至14日舉行",
+        "dek": "政府主辦的時裝蕃將推出八大旗艦節目，公眾展覽免費入場，涉及西九、會展及市區快閃店。"
+      }
+    },
+    {
+      "id": "2026-08-30-mtr-tung-chung-east-wall-collapse",
+      "published_at": "2026-08-30T07:22:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "construction",
+        "tung-chung"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-mtr-tung-chung-east-wall-collapse.json",
+      "en": {
+        "headline": "MTR halts Tung Chung East works after new brick wall toppled",
+        "dek": "A worker pushing a loaded pallet jack knocked down a wall started that afternoon, sending bricks to a lower floor; nobody was hurt, the corporation said."
+      },
+      "zh": {
+        "headline": "東涌東站磚牆被喊車撞倒 港鐵暫停涉事範圍工程",
+        "dek": "港鐵表示，承建商指星期六下午4時許工人推載料喊車時疑撞倒剛開始硬建的磚牆，部分磚頭掉至下層，事件無人受傷。"
+      }
+    },
+    {
+      "id": "2026-08-30-cfs-hsin-tung-yang-rice-noodles",
+      "published_at": "2026-08-30T07:21:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "food-safety",
+        "cfs",
+        "recall"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-cfs-hsin-tung-yang-rice-noodles.json",
+      "en": {
+        "headline": "CFS recalls Taiwan rice noodles after trace formaldehyde found",
+        "dek": "A Hsin Tung Yang sample bought from an online shop contained 12 parts per million of formaldehyde, the Centre for Food Safety said."
+      },
+      "zh": {
+        "headline": "台灣新東陽新竹米粉驗出微量甲醛 食安中心召回",
+        "dek": "食物安全中心表示，網店抽查的新東陽新竹米粉樣本含百萬分之十二甲醛，已指示分銷商停售及回收受影響批次。"
+      }
+    },
     {
       "id": "2026-08-30-tai-po-baptist-school-new-campus",
       "published_at": "2026-08-30T03:05:00+08:00",
@@ -1762,94 +1826,6 @@
       "zh": {
         "headline": "大埔安埔路水管搶修完成 大元邸汀雅苑今早復水",
         "dek": "水務署表示通宵完成緊急維修，大元邸、汀雅苑及大元商場食水供應由今早約6時起陸續恢復正常。"
-      }
-    },
-    {
-      "id": "2026-08-27-lifestyle-sinfonietta-bach-legacy",
-      "published_at": "2026-08-27T07:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "concert",
-        "classical-music",
-        "city-hall"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-lifestyle-sinfonietta-bach-legacy.json",
-      "en": {
-        "headline": "Hong Kong Sinfonietta plays Bach’s Legacy at City Hall tonight",
-        "dek": "Recorder player Stefan Temmingh and harpsichordist Sebastian Wienand join the orchestra’s string musicians at 8 p.m. for a programme of Bach family works and an Asian première."
-      },
-      "zh": {
-        "headline": "香港小交響樂團今晚城廳上演「巴赫的傳承」",
-        "dek": "直笛演奏家Stefan Temmingh與鍵琴家Sebastian Wienand今晚8時在香港大會堂音樂廳，與樂團弦樂組演出巴赫家族作品及一闕亞洲首演。"
-      }
-    },
-    {
-      "id": "2026-08-27-domestic-health-accounts-2024-25",
-      "published_at": "2026-08-27T07:14:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health-bureau",
-        "public-health",
-        "hospitals"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-domestic-health-accounts-2024-25.json",
-      "en": {
-        "headline": "Health spending rose 5 per cent to HK$262.5 billion last year",
-        "dek": "The Health Bureau said recurrent health expenditure in 2024/25 reached HK$262.513 billion, or 8.2 per cent of GDP, with public spending accounting for just over half."
-      },
-      "zh": {
-        "headline": "上年度醫療經常開支2625億 按年增5%",
-        "dek": "醫務衞生局公布2024/25年度本地醫療衞生總開支帳目，經常性開支2625.13億元，佔本地生產總值8.2%，人均34890元。"
-      }
-    },
-    {
-      "id": "2026-08-27-so-uk-estate-charger-fire",
-      "published_at": "2026-08-27T07:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "sham-shui-po",
-        "housing",
-        "pets"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-so-uk-estate-charger-fire.json",
-      "en": {
-        "headline": "Charger fire at So Uk Estate injures three and kills four cats",
-        "dek": "Firefighters put out a blaze in a ninth-floor flat at Carnation House before dawn after a portable charger overheated; about 80 residents were evacuated."
-      },
-      "zh": {
-        "headline": "蘇屋邭充電器起火三人送院 單位四貓不治",
-        "dek": "長沙灣蘇屋邭石竹樓九樓單位清晨充電器過熱起火，消防約半小時救熄，約80人疏散，三人送院，單位內四隻家貓搶救後不治。"
-      }
-    },
-    {
-      "id": "2026-08-27-red-rainstorm-warning-morning",
-      "published_at": "2026-08-27T07:12:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "red-rainstorm",
-        "thunderstorm-warning",
-        "schools",
-        "flooding"
-      ],
-      "breaking": true,
-      "path": "articles/2026-08-27/2026-08-27-red-rainstorm-warning-morning.json",
-      "en": {
-        "headline": "Red Rainstorm Warning issued; morning and whole-day classes suspended",
-        "dek": "The Observatory upgraded to a Red Rainstorm Warning at 5:05 a.m., with a Thunderstorm Warning in force until 8:30 a.m., and the Education Bureau suspended morning and whole-day school classes."
-      },
-      "zh": {
-        "headline": "天文台改發紅色暴雨警告 上午校及全日制學校停課",
-        "dek": "天文台今晨5時05分改發紅色暴雨警告，雷暴警告有效至上午8時30分；教育局宣布所有上午校及全日制學校今日停課。"
       }
     }
   ]
