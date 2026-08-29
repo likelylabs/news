@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T07:17:23+08:00",
+  "updated_at": "2026-08-29T09:18:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -30,7 +30,7 @@
       "key": "lifestyle-maxims-palace-moko-opening",
       "id": "2026-08-28-lifestyle-maxims-palace-moko",
       "first_seen": "2026-08-28T23:06:00+08:00",
-      "headline_en": "Maxim’s Palace opens seventh branch at MOKO in Mong Kok"
+      "headline_en": "Maxim\u2019s Palace opens seventh branch at MOKO in Mong Kok"
     },
     {
       "key": "lifestyle-sui-tang-attire-exhibition",
@@ -61,6 +61,24 @@
       "id": "2026-08-29-lifestyle-lcsd-hk-artists-dance",
       "first_seen": "2026-08-29T07:17:00+08:00",
       "headline_en": "LCSD dance bills by local choreographers go on sale 1 September"
+    },
+    {
+      "key": "very-hot-weather-warning-aug29-morning",
+      "id": "2026-08-29-very-hot-weather-warning-morning",
+      "first_seen": "2026-08-29T09:16:00+08:00",
+      "headline_en": "Observatory issues Very Hot Weather Warning on Saturday morning"
+    },
+    {
+      "key": "tin-sum-reporting-centre-aug30",
+      "id": "2026-08-29-tin-sum-reporting-centre",
+      "first_seen": "2026-08-29T09:17:00+08:00",
+      "headline_en": "Tin Sum police station to become reporting centre from Sunday"
+    },
+    {
+      "key": "doj-gba-lawyers-law-amendments-aug29",
+      "id": "2026-08-29-doj-gba-lawyers-law-amendments",
+      "first_seen": "2026-08-29T09:18:00+08:00",
+      "headline_en": "DoJ welcomes NPCSC amendments regularising GBA lawyers scheme"
     }
   ]
 }
