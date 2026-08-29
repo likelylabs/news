@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T10:51:51+08:00",
+  "updated_at": "2026-08-29T11:06:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -79,6 +79,30 @@
       "id": "2026-08-29-doj-gba-lawyers-law-amendments",
       "first_seen": "2026-08-29T09:18:00+08:00",
       "headline_en": "DoJ welcomes NPCSC amendments regularising GBA lawyers scheme"
+    },
+    {
+      "key": "yellow-heat-stress-work-warning-aug29-morning",
+      "id": "2026-08-29-amber-heat-stress-work-warning",
+      "first_seen": "2026-08-29T11:03:00+08:00",
+      "headline_en": "Labour Department issues Amber Heat Stress at Work Warning"
+    },
+    {
+      "key": "ride-hailing-platform-licence-applications-aug28",
+      "id": "2026-08-29-ride-hailing-licence-applications",
+      "first_seen": "2026-08-29T11:04:00+08:00",
+      "headline_en": "Ride-hailing platform licence applications open until 30 October"
+    },
+    {
+      "key": "club-med-lifestyle-hkex-ipo-filing",
+      "id": "2026-08-29-fosun-club-med-hkex-ipo",
+      "first_seen": "2026-08-29T11:05:00+08:00",
+      "headline_en": "Fosun files Hong Kong listing for Club Med lifestyle group"
+    },
+    {
+      "key": "lifestyle-hkpm-egypt-exhibition-final-days",
+      "id": "2026-08-29-lifestyle-hkpm-egypt-final-days",
+      "first_seen": "2026-08-29T11:06:00+08:00",
+      "headline_en": "Palace Museum Egypt exhibition closes on Monday"
     }
   ]
 }
