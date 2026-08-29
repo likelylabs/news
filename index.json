@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-08-29T07:17:23+08:00",
+  "generated_at": "2026-08-29T09:18:28+08:00",
   "live_window_hours": 72,
-  "count": 95,
+  "count": 94,
   "articles": [
+    {
+      "id": "2026-08-29-doj-gba-lawyers-law-amendments",
+      "published_at": "2026-08-29T09:18:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "legal",
+        "greater-bay-area",
+        "government",
+        "lawyers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-29/2026-08-29-doj-gba-lawyers-law-amendments.json",
+      "en": {
+        "headline": "DoJ welcomes NPCSC amendments regularising GBA lawyers scheme",
+        "dek": "Amendments to the mainland Lawyers Law take effect on 1 September, giving dual-qualified Hong Kong lawyers a statutory basis to practise specified matters in nine Guangdong cities."
+      },
+      "zh": {
+        "headline": "律政司歡迎全國人大常委會修訂律師法 規範大灣區律師機制",
+        "dek": "內地《律師法》修訂將於9月1日生效，為具備雙重資格的香港律師在廣東九市執業指定民商事法律事務提供法律依據。"
+      }
+    },
+    {
+      "id": "2026-08-29-tin-sum-reporting-centre",
+      "published_at": "2026-08-29T09:17:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "sha-tin",
+        "community",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-29/2026-08-29-tin-sum-reporting-centre.json",
+      "en": {
+        "headline": "Tin Sum police station to become reporting centre from Sunday",
+        "dek": "After the Tin Sum Division is merged into Sha Tin and Ma On Shan divisions, the Hin Keng Street report room will operate as a reporting centre from 8am to 10.30pm daily."
+      },
+      "zh": {
+        "headline": "田心警署周日改為報案中心 服務至晚上10時半",
+        "dek": "沙田警區田心分區周日併入沙田及馬鞍山分區後，顯徑街報案室將改為報案中心，每日上午8時至晚上10時半開放。"
+      }
+    },
+    {
+      "id": "2026-08-29-very-hot-weather-warning-morning",
+      "published_at": "2026-08-29T09:16:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "heat",
+        "observatory",
+        "health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-29/2026-08-29-very-hot-weather-warning-morning.json",
+      "en": {
+        "headline": "Observatory issues Very Hot Weather Warning on Saturday morning",
+        "dek": "The Hong Kong Observatory issued the warning at 8.40am, expecting very hot weather today with a high of about 33 degrees and brief sunshine after early showers."
+      },
+      "zh": {
+        "headline": "天文台周六早上發出酷熱天氣警告",
+        "dek": "天文台今早8時40分發出酷熱天氣警告，預料今日酷熱，最高氣溫約33度，早上有驟雨後日間短暫有陽光。"
+      }
+    },
     {
       "id": "2026-08-29-lifestyle-lcsd-hk-artists-dance",
       "published_at": "2026-08-29T07:17:00+08:00",
@@ -1991,91 +2057,6 @@
       "zh": {
         "headline": "雷暴警告延長至上午11時30分",
         "dek": "天文台將清晨5時20分發出的雷暴警告延長至上午11時30分，預料本港有幾陣狂風雷暴，受活躍偏南氣流影響。"
-      }
-    },
-    {
-      "id": "2026-08-26-pla-garrison-rotation",
-      "published_at": "2026-08-26T09:08:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "pla",
-        "garrison",
-        "defence"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-26/2026-08-26-pla-garrison-rotation.json",
-      "en": {
-        "headline": "PLA Hong Kong Garrison completes 29th unit rotation",
-        "dek": "The garrison carried out a scheduled rotation of army, navy and air force units between 24 and 25 August under the Garrison Law and a Central Military Commission order."
-      },
-      "zh": {
-        "headline": "解放軍駐港部隊完成第29次建制單位輪換",
-        "dek": "駐港部隊於8月24至25日組織陸軍、海軍、空軍部分兵力進行第29次建制單位輪換，行動全程安全順利。"
-      }
-    },
-    {
-      "id": "2026-08-26-tsuen-wan-drug-arrest",
-      "published_at": "2026-08-26T09:07:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "drugs",
-        "tsuen-wan",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-26/2026-08-26-tsuen-wan-drug-arrest.json",
-      "en": {
-        "headline": "Man arrested in Tsuen Wan car park drug seizure",
-        "dek": "Police detained a 34-year-old local man after finding about 27 grams of suspected ketamine and 23 grams of suspected cocaine valued at roughly HK$26,000 in two private cars."
-      },
-      "zh": {
-        "headline": "荃灣停車場檢獲毒品 34歲男子被捕",
-        "dek": "警方在荃灣住宅停車場截查兩輛私家車，檢獲約27克懷疑氯胺酮及23克懷疑可卡因，市值約2.6萬元，拘捕一名34歲本地男子。"
-      }
-    },
-    {
-      "id": "2026-08-26-sham-shui-po-man-fall",
-      "published_at": "2026-08-26T09:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "sham-shui-po",
-        "accident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-26/2026-08-26-sham-shui-po-man-fall.json",
-      "en": {
-        "headline": "Man dies after falling from building in Sham Shui Po",
-        "dek": "A 55-year-old man was found dead on Tuesday evening after falling from a tenement building near the junction of Nam Cheong Street and Lai Chi Kok Road, striking a parked works vehicle."
-      },
-      "zh": {
-        "headline": "深水埗男子墮樓壓中工程車後死亡",
-        "dek": "一名55歲男子周二晚在南昌街近荔枝角道交界大廈墮下，先壓中停泊路邊的渠務工程車再反彈落地，當場不治。"
-      }
-    },
-    {
-      "id": "2026-08-26-thunderstorm-warning-midmorning",
-      "published_at": "2026-08-26T09:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "thunderstorm-warning",
-        "showers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-26/2026-08-26-thunderstorm-warning-midmorning.json",
-      "en": {
-        "headline": "Thunderstorm Warning extended until 9:30 a.m.",
-        "dek": "The Hong Kong Observatory extended the warning issued at 5:20 a.m., expecting a few squally thunderstorms over the territory this morning."
-      },
-      "zh": {
-        "headline": "雷暴警告延長至上午9時30分",
-        "dek": "天文台將清晨5時20分發出的雷暴警告延長至上午9時30分，預料本港有幾陣狂風雷暴。"
       }
     }
   ]
