@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T23:08:42+08:00",
+  "updated_at": "2026-08-30T03:05:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -157,6 +157,18 @@
       "id": "2026-08-29-dbs-three-university-pathways",
       "first_seen": "2026-08-29T23:09:00+08:00",
       "headline_en": "Diocesan Boys’ School to offer three university pathways from 2027"
+    },
+    {
+      "key": "afcd-dog-control-special-ops-aug30",
+      "id": "2026-08-30-afcd-dog-control-special-ops",
+      "first_seen": "2026-08-30T03:04:00+08:00",
+      "headline_en": "AFCD launches special dog-control patrols with immediate enforcement"
+    },
+    {
+      "key": "tai-po-baptist-school-new-campus-aug29",
+      "id": "2026-08-30-tai-po-baptist-school-new-campus",
+      "first_seen": "2026-08-30T03:05:00+08:00",
+      "headline_en": "Tai Po Baptist Public School opens new Fu Shin Estate campus"
     }
   ]
 }
