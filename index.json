@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-29T13:16:32+08:00",
+  "generated_at": "2026-08-29T15:13:16+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-08-29-san-tin-tech-city-land-price",
+      "published_at": "2026-08-29T15:16:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "technology",
+        "northern-metropolis",
+        "business",
+        "innovation",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-29/2026-08-29-san-tin-tech-city-land-price.json",
+      "en": {
+        "headline": "San Tin Tech City land prices ‘negotiable’, chairman seeks chip and drone firms",
+        "dek": "Sunny Chai said the 210-hectare site will focus on mid- and downstream advanced manufacturing and that the company has already approached one or two leading enterprises."
+      },
+      "zh": {
+        "headline": "查毅超：新田科技城地價有得傾 已接觸一兩間龍頭企業",
+        "dek": "新田科技城公司主席指園區集中中下游先進製造，冀吸引芯片、無人機及新能源車等高新產業落戶。"
+      }
+    },
+    {
+      "id": "2026-08-29-ha-diabetes-fee-clarification",
+      "published_at": "2026-08-29T15:15:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "hospital-authority",
+        "diabetes",
+        "public-health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-29/2026-08-29-ha-diabetes-fee-clarification.json",
+      "en": {
+        "headline": "Hospital Authority clarifies $250 diabetes fee is for personalised treatment",
+        "dek": "The authority said the charge is not an admission fee for a talk but covers clinical assessment, personalised dietary advice and follow-up under the gazetted fee schedule."
+      },
+      "zh": {
+        "headline": "醫管局澄清糖尿病250元屬個人化治療收費 非講座入場費",
+        "dek": "局方指收費按政府憲報標準，涵蓋臨床評估、個人化飲食建議及跟進，絕大部分一般健康教育講座均免費。"
+      }
+    },
     {
       "id": "2026-08-29-edb-textbook-prices",
       "published_at": "2026-08-29T13:14:00+08:00",
@@ -1910,92 +1955,6 @@
       "zh": {
         "headline": "黃色暴雨及雷暴警告生效 大澳錄得時速80公里陣風",
         "dek": "天文台下午6時45分發出黃色暴雨警告，雷暴警告延長，預料今晚及明早雨勢有時頗大，並可能有猛烈陣風。"
-      }
-    },
-    {
-      "id": "2026-08-26-lee-pku-higher-education",
-      "published_at": "2026-08-26T15:10:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "john-lee",
-        "education",
-        "northern-metropolis",
-        "peking-university"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-26/2026-08-26-lee-pku-higher-education.json",
-      "en": {
-        "headline": "John Lee meets Peking University party secretary on higher-education cooperation",
-        "dek": "The Chief Executive discussed Northern Metropolis university-town plans and deeper collaboration through the Beijing-Hong Kong Universities Alliance."
-      },
-      "zh": {
-        "headline": "李家超晤北大黨委書記 談高等教育合作及北都大學城",
-        "dek": "雙方就推動港與內地高等教育合作、培育人才及科研協作交流，李家超歡迎北大與本地大學協同發展。"
-      }
-    },
-    {
-      "id": "2026-08-26-investment-scam-recyclable-waste",
-      "published_at": "2026-08-26T15:09:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "fraud",
-        "scam",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-26/2026-08-26-investment-scam-recyclable-waste.json",
-      "en": {
-        "headline": "Man loses over HK$2.8 million in recyclable-waste investment scam",
-        "dek": "Police recorded more than 50 investment fraud cases in the past week with total losses exceeding HK$30 million; fraudsters posed as electricity company staff."
-      },
-      "zh": {
-        "headline": "男子誤信「環保廢料計劃」失逾280萬 一周逾50宗投資騙案",
-        "dek": "騙徒冒充中電及國家電網職員，過去一周投資騙案總損失逾3000萬元。"
-      }
-    },
-    {
-      "id": "2026-08-26-rthk-editor-upskirt-sentence",
-      "published_at": "2026-08-26T15:08:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "rthk",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-26/2026-08-26-rthk-editor-upskirt-sentence.json",
-      "en": {
-        "headline": "RTHK senior editor given 160 hours community service for upskirt filming",
-        "dek": "Chong Tak-yin, 57, pleaded guilty to unlawful recording of intimate parts after police found a video of a woman in Mong Kok last November."
-      },
-      "zh": {
-        "headline": "港台助理總採訪主任偷拍裙底 判160小時社服令",
-        "dek": "57歲莊德賢承認非法拍攝私密部位罪，去年11月在旺角被巡邏警員揭發。"
-      }
-    },
-    {
-      "id": "2026-08-26-thunderstorm-warning-midafternoon",
-      "published_at": "2026-08-26T15:07:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "thunderstorm-warning",
-        "showers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-26/2026-08-26-thunderstorm-warning-midafternoon.json",
-      "en": {
-        "headline": "Thunderstorm Warning extended until 3:30 p.m.",
-        "dek": "The Hong Kong Observatory said a few squally thunderstorms are expected over the territory this afternoon under an active southerly airstream."
-      },
-      "zh": {
-        "headline": "雷暴警告延長至下午3時30分",
-        "dek": "天文台表示受活躍偏南氣流影響，預料本港今午有幾陣狂風雷暴。"
       }
     }
   ]
