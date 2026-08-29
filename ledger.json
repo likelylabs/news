@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T06:42:34+08:00",
+  "updated_at": "2026-08-30T07:23:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -169,6 +169,24 @@
       "id": "2026-08-30-tai-po-baptist-school-new-campus",
       "first_seen": "2026-08-30T03:05:00+08:00",
       "headline_en": "Tai Po Baptist Public School opens new Fu Shin Estate campus"
+    },
+    {
+      "key": "cfs-hsin-tung-yang-rice-noodles-formaldehyde",
+      "id": "2026-08-30-cfs-hsin-tung-yang-rice-noodles",
+      "first_seen": "2026-08-30T07:21:00+08:00",
+      "headline_en": "CFS recalls Taiwan rice noodles after trace formaldehyde found"
+    },
+    {
+      "key": "mtr-tung-chung-east-brick-wall-collapse",
+      "id": "2026-08-30-mtr-tung-chung-east-wall-collapse",
+      "first_seen": "2026-08-30T07:22:00+08:00",
+      "headline_en": "MTR halts Tung Chung East works after new brick wall toppled"
+    },
+    {
+      "key": "lifestyle-hk-fashion-fest-2026",
+      "id": "2026-08-30-lifestyle-hk-fashion-fest",
+      "first_seen": "2026-08-30T07:23:00+08:00",
+      "headline_en": "Hong Kong Fashion Fest returns from 1 to 14 September"
     }
   ]
 }
