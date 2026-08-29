@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T15:14:21+08:00",
+  "updated_at": "2026-08-29T21:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -121,6 +121,30 @@
       "id": "2026-08-29-san-tin-tech-city-land-price",
       "first_seen": "2026-08-29T15:16:00+08:00",
       "headline_en": "San Tin Tech City land prices ‘negotiable’, chairman seeks chip and drone firms"
+    },
+    {
+      "key": "huanggang-port-20000-drill-aug29",
+      "id": "2026-08-29-huanggang-port-20000-drill",
+      "first_seen": "2026-08-29T21:12:00+08:00",
+      "headline_en": "Huanggang Port 20,000-person drill runs smoothly, ID or home-return permit accepted"
+    },
+    {
+      "key": "disaster-relief-nepal-tibet-aug29",
+      "id": "2026-08-29-disaster-relief-nepal-tibet",
+      "first_seen": "2026-08-29T21:13:00+08:00",
+      "headline_en": "Hong Kong earmarks HK$50 million for Nepal-Tibet mudslide victims"
+    },
+    {
+      "key": "mpox-case-39yo-aug29",
+      "id": "2026-08-29-mpox-case-39yo",
+      "first_seen": "2026-08-29T21:14:00+08:00",
+      "headline_en": "CHP investigates new local Mpox case involving 39-year-old man"
+    },
+    {
+      "key": "lifestyle-space-fantasy-ccohk-aug29",
+      "id": "2026-08-29-lifestyle-space-fantasy-ccohk",
+      "first_seen": "2026-08-29T21:15:00+08:00",
+      "headline_en": "City Chamber Orchestra stages Space Fantasy family shows this weekend"
     }
   ]
 }
