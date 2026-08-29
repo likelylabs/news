@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-29T21:10:24+08:00",
+  "generated_at": "2026-08-29T23:08:42+08:00",
   "live_window_hours": 72,
-  "count": 93,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-08-29-dbs-three-university-pathways",
+      "published_at": "2026-08-29T23:09:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "schools",
+        "community",
+        "dbs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-29/2026-08-29-dbs-three-university-pathways.json",
+      "en": {
+        "headline": "Diocesan Boys’ School to offer three university pathways from 2027",
+        "dek": "The elite Direct Subsidy Scheme school plans to add the International Advanced Level curriculum alongside the DSE and IB Diploma, pending Education Bureau approval."
+      },
+      "zh": {
+        "headline": "拔萃男書院擬2027年起開辦三條升學路徑",
+        "dek": "直資名校計劃新增國際高級程度會考課程，與文憑試及國際文憑並行，成為本港首間提供三條升學途徑的學校，尚待教育局批准。"
+      }
+    },
+    {
+      "id": "2026-08-29-kam-ying-court-laundry-pods-turtles",
+      "published_at": "2026-08-29T23:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "crime",
+        "animals",
+        "ma-on-shan",
+        "cruelty"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-29/2026-08-29-kam-ying-court-laundry-pods-turtles.json",
+      "en": {
+        "headline": "Man arrested after laundry pods dumped in Kam Ying Court turtle pond",
+        "dek": "Police detained a 42-year-old man on suspicion of cruelty to animals after chemical laundry pods caused one fish to die and injured more than 30 turtles at the Ma On Shan estate."
+      },
+      "zh": {
+        "headline": "錦英苑龜池遭投洗衣球 警拘42歲男涉殘酷對待動物",
+        "dek": "馬鞍山錦英苑二期水池周三發現大量泡沫，一魚死亡、逾30隻龜灼傷，沙田警區刑事調查隊周五以涉嫌殘酷對待動物拘捕一名42歲男子。"
+      }
+    },
     {
       "id": "2026-08-29-lifestyle-space-fantasy-ccohk",
       "published_at": "2026-08-29T21:15:00+08:00",
@@ -1980,72 +2025,6 @@
       "zh": {
         "headline": "雷暴警告延長至晚上11時30分",
         "dek": "天文台表示今晚仍有幾陣狂風雷暴，黃色暴雨警告早前已取消，惟珠江口一帶仍有雷雨區發展。"
-      }
-    },
-    {
-      "id": "2026-08-26-tai-po-on-po-road-water-main-burst",
-      "published_at": "2026-08-26T21:22:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "water-supplies",
-        "tai-po",
-        "pipe-leak",
-        "wsd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-26/2026-08-26-tai-po-on-po-road-water-main-burst.json",
-      "en": {
-        "headline": "Tai Po water main burst leaves thousands without supply overnight",
-        "dek": "A 200-millimetre fresh-water pipe burst on On Po Road near Tai Yuen Estate; the Water Supplies Department will shut off supply after 11 p.m. for repairs and aims to restore service by noon on Thursday."
-      },
-      "zh": {
-        "headline": "大埔安埔路食水管爆裂 大元邨汀雅苑等近五千戶受影響",
-        "dek": "水務署安排今晚11時後停水維修，爭取明日中午12時前恢復供水，並已派出水車及水箱提供臨時食水。"
-      }
-    },
-    {
-      "id": "2026-08-26-lee-five-year-plan-policy-address-sep16",
-      "published_at": "2026-08-26T21:21:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "john-lee",
-        "policy-address",
-        "five-year-plan",
-        "legco"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-26/2026-08-26-lee-five-year-plan-policy-address-sep16.json",
-      "en": {
-        "headline": "John Lee to unveil Hong Kong’s first five-year plan and Policy Address on 16 September",
-        "dek": "The Chief Executive said the two documents would be released together so the public can see how the annual Policy Address implements the longer-term blueprint."
-      },
-      "zh": {
-        "headline": "李家超：9月16日公布首份五年規劃及施政報告",
-        "dek": "行政長官表示兩份文件同日發表，方便市民理解五年規劃與年度施政的一脈相承關係。"
-      }
-    },
-    {
-      "id": "2026-08-26-amber-rainstorm-thunderstorm-evening",
-      "published_at": "2026-08-26T21:20:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "amber-rainstorm",
-        "thunderstorm-warning",
-        "showers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-26/2026-08-26-amber-rainstorm-thunderstorm-evening.json",
-      "en": {
-        "headline": "Amber Rainstorm Warning and Thunderstorm Warning in force this evening",
-        "dek": "The Hong Kong Observatory issued the Amber Rainstorm Warning at 6:45 p.m. and extended the Thunderstorm Warning, with violent gusts recorded and further heavy rain expected overnight and tomorrow morning."
-      },
-      "zh": {
-        "headline": "黃色暴雨及雷暴警告生效 大澳錄得時速80公里陣風",
-        "dek": "天文台下午6時45分發出黃色暴雨警告，雷暴警告延長，預料今晚及明早雨勢有時頗大，並可能有猛烈陣風。"
       }
     }
   ]
