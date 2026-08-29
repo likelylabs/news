@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T11:07:14+08:00",
+  "updated_at": "2026-08-29T13:14:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -103,6 +103,12 @@
       "id": "2026-08-29-lifestyle-hkpm-egypt-final-days",
       "first_seen": "2026-08-29T11:06:00+08:00",
       "headline_en": "Palace Museum Egypt exhibition closes on Monday"
+    },
+    {
+      "key": "edb-textbook-prices-aug29",
+      "id": "2026-08-29-edb-textbook-prices",
+      "first_seen": "2026-08-29T13:14:00+08:00",
+      "headline_en": "Education chief says textbook prices up 3.6 per cent, rejects universal grant"
     }
   ]
 }
