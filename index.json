@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-08-29T10:51:51+08:00",
+  "generated_at": "2026-08-29T11:07:14+08:00",
   "live_window_hours": 72,
-  "count": 94,
+  "count": 95,
   "articles": [
+    {
+      "id": "2026-08-29-lifestyle-hkpm-egypt-final-days",
+      "published_at": "2026-08-29T11:06:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "west-kowloon",
+        "culture",
+        "arts"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-29/2026-08-29-lifestyle-hkpm-egypt-final-days.json",
+      "en": {
+        "headline": "Palace Museum Egypt exhibition closes on Monday",
+        "dek": "Ancient Egypt Unveiled at the Hong Kong Palace Museum ends on 31 August after a nine-and-a-half-month run in West Kowloon."
+      },
+      "zh": {
+        "headline": "香港故宮古埃及展周一結束",
+        "dek": "香港故宮文化博物館「古埃及文明大展──埃及博物館珍藏」將於8月31日結束，西九展覽已舉行約九個半月。"
+      }
+    },
+    {
+      "id": "2026-08-29-fosun-club-med-hkex-ipo",
+      "published_at": "2026-08-29T11:05:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "finance",
+        "tourism",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-29/2026-08-29-fosun-club-med-hkex-ipo.json",
+      "en": {
+        "headline": "Fosun files Hong Kong listing for Club Med lifestyle group",
+        "dek": "The mainland owner of Club Med said its ClubMed Lifestyle Group has applied to list on the Stock Exchange of Hong Kong Main Board."
+      },
+      "zh": {
+        "headline": "復星為Club Med生活集團申請在港上市",
+        "dek": "復星國際公布，旗下ClubMed Lifestyle Group已向香港聯交所提交主板獨立上市申請。"
+      }
+    },
+    {
+      "id": "2026-08-29-ride-hailing-licence-applications",
+      "published_at": "2026-08-29T11:04:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "ride-hailing",
+        "td",
+        "transport-department",
+        "taxi",
+        "regulation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-29/2026-08-29-ride-hailing-licence-applications.json",
+      "en": {
+        "headline": "Ride-hailing platform licence applications open until 30 October",
+        "dek": "The Transport Department is inviting platform companies to apply for licences, while the transport minister said approvals will be decided on merit and not by a set number of operators."
+      },
+      "zh": {
+        "headline": "網約車平台牌照開放申請 截止10月30日",
+        "dek": "運輸署邀請平台公司申請網約車服務牌照，運輸及物流局局長陳美寶表示會擇優而取，暫不預測會批出多少個牌照。"
+      }
+    },
+    {
+      "id": "2026-08-29-amber-heat-stress-work-warning",
+      "published_at": "2026-08-29T11:03:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "heat",
+        "labour",
+        "occupational-safety",
+        "weather"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-29/2026-08-29-amber-heat-stress-work-warning.json",
+      "en": {
+        "headline": "Labour Department issues Amber Heat Stress at Work Warning",
+        "dek": "The Labour Department said some workplaces face fairly high heat stress after issuing an Amber warning at 9.50am, and told employers to take heat-stroke precautions."
+      },
+      "zh": {
+        "headline": "勞工處發出黃色工作暑熱警告",
+        "dek": "勞工處今早時9時50分發出黃色工作暑熱警告，指部分工作環境熱壓力頗高，提醒僱主及僱員採取防暑措施。"
+      }
+    },
     {
       "id": "2026-08-29-doj-gba-lawyers-law-amendments",
       "published_at": "2026-08-29T09:18:00+08:00",
@@ -1992,71 +2082,6 @@
       "zh": {
         "headline": "雷暴警告延長至下午1時30分",
         "dek": "天文台表示受活躍偏南氣流影響，預料本港今午有幾陣狂風雷暴。"
-      }
-    },
-    {
-      "id": "2026-08-26-heung-yuen-wai-overnight-crossing",
-      "published_at": "2026-08-26T11:07:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "border",
-        "cross-boundary",
-        "lok-ma-chau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-26/2026-08-26-heung-yuen-wai-overnight-crossing.json",
-      "en": {
-        "headline": "Heung Yuen Wai permit holders can use Lok Ma Chau overnight from today",
-        "dek": "Cross-boundary private cars with valid Heung Yuen Wai closed-road permits may cross via Lok Ma Chau between midnight and 6:30 a.m. daily under a new Guangdong-Hong Kong arrangement."
-      },
-      "zh": {
-        "headline": "香園圍許可證跨境私家車今起可通宵經落馬洲過境",
-        "dek": "持有香園圍管制站封閉道路通行許可證的跨境私家車，由今日起每日午夜12時至上午6時30分可經落馬洲管制站過境。"
-      }
-    },
-    {
-      "id": "2026-08-26-tsing-yi-drug-arrest",
-      "published_at": "2026-08-26T11:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "drugs",
-        "tsing-yi",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-26/2026-08-26-tsing-yi-drug-arrest.json",
-      "en": {
-        "headline": "Two men arrested after drugs found in Tsing Yi light goods vehicle",
-        "dek": "Police seized about 44.5 grams of suspected crack cocaine, e-cigarette cartridges and drug paraphernalia valued at roughly HK$45,000 after a report of suspected drug use late on Tuesday."
-      },
-      "zh": {
-        "headline": "青衣輕型貨車檢懷疑毒品 兩男涉販毒等被捕",
-        "dek": "警方接報在青衣楓樹窩路一輛輕型貨車內檢獲約44.5克懷疑霹靂可卡因、電子煙彈及吸食工具，市值約4.5萬元，拘捕兩名男子。"
-      }
-    },
-    {
-      "id": "2026-08-26-thunderstorm-warning-late-morning",
-      "published_at": "2026-08-26T11:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "thunderstorm-warning",
-        "showers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-26/2026-08-26-thunderstorm-warning-late-morning.json",
-      "en": {
-        "headline": "Thunderstorm Warning extended until 11:30 a.m.",
-        "dek": "The Hong Kong Observatory extended the warning issued at 5:20 a.m., expecting a few squally thunderstorms over the territory this morning under an active southerly airstream."
-      },
-      "zh": {
-        "headline": "雷暴警告延長至上午11時30分",
-        "dek": "天文台將清晨5時20分發出的雷暴警告延長至上午11時30分，預料本港有幾陣狂風雷暴，受活躍偏南氣流影響。"
       }
     }
   ]
