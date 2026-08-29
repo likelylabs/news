@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T21:10:24+08:00",
+  "updated_at": "2026-08-29T23:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -145,6 +145,18 @@
       "id": "2026-08-29-lifestyle-space-fantasy-ccohk",
       "first_seen": "2026-08-29T21:15:00+08:00",
       "headline_en": "City Chamber Orchestra stages Space Fantasy family shows this weekend"
+    },
+    {
+      "key": "kam-ying-court-animal-cruelty-aug29",
+      "id": "2026-08-29-kam-ying-court-laundry-pods-turtles",
+      "first_seen": "2026-08-29T23:08:00+08:00",
+      "headline_en": "Man arrested after laundry pods dumped in Kam Ying Court turtle pond"
+    },
+    {
+      "key": "dbs-ial-curriculum-2027",
+      "id": "2026-08-29-dbs-three-university-pathways",
+      "first_seen": "2026-08-29T23:09:00+08:00",
+      "headline_en": "Diocesan Boys’ School to offer three university pathways from 2027"
     }
   ]
 }
