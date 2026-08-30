@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-08-30T09:08:42+08:00",
+  "generated_at": "2026-08-30T09:13:06+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-08-30-lifestyle-harbour-city-forever-toys",
+      "published_at": "2026-08-30T09:24:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "family",
+        "tsim-sha-tsui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-lifestyle-harbour-city-forever-toys.json",
+      "en": {
+        "headline": "Harbour City Toy Story carnival enters its last two days",
+        "dek": "FOREVER TOYS at the Tsim Sha Tsui complex, built around Toy Story 5, is scheduled to end on Monday after a summer run that began in June."
+      },
+      "zh": {
+        "headline": "海港城《反斗奇兵》嘉年華進入最後兩日",
+        "dek": "以《反斗奇兵5》為題的FOREVER TOYS活動由6月舉行至周一結束，海運大廈及港威商場仍設打卡裝置及主題店。"
+      }
+    },
+    {
+      "id": "2026-08-30-yuen-long-missing-boy-found",
+      "published_at": "2026-08-30T09:23:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "police",
+        "yuen-long",
+        "family"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-yuen-long-missing-boy-found.json",
+      "en": {
+        "headline": "Motorist stops missing six-year-old boy outside Yuen Long Plaza",
+        "dek": "Police said a passer-by reported the child wandering near Castle Peak Road on Saturday afternoon; he was unhurt and returned to his mother."
+      },
+      "zh": {
+        "headline": "元朗廣場外發現報失六歲男童 途人報案助團聚",
+        "dek": "警方指周六下午有途人在青山公路元朗段近元朗廣場發現男童獨自徘徊，事主沒有受傷，其後交還45歲母親照顧。"
+      }
+    },
+    {
+      "id": "2026-08-30-cheung-tsing-three-car-crash",
+      "published_at": "2026-08-30T09:22:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "transport",
+        "tsing-yi",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-cheung-tsing-three-car-crash.json",
+      "en": {
+        "headline": "Three private cars collide on Cheung Tsing Highway; nobody hurt",
+        "dek": "The three vehicles piled up near the airport spur on Saturday night and stopped in the fast lane; all three male drivers passed breath tests, police said."
+      },
+      "zh": {
+        "headline": "長青公路三私家車串燒相撞 無人受傷",
+        "dek": "三車周六晚近十時在往新界方向近機場支路相撞後停在快線，三名男司機通過酒精呼氣測試，警方正調查起因。"
+      }
+    },
     {
       "id": "2026-08-30-lifestyle-chiikawa-light-rail-final",
       "published_at": "2026-08-30T09:08:00+08:00",
@@ -1870,50 +1936,6 @@
       "zh": {
         "headline": "機場檢38公斤懷疑氯胺酮 三人今西九龍提堂",
         "dek": "海關在兩宗旅客案件共檢獲約38公斤懷疑K仔，市值約1,500萬元，三人被控販運危險藥物。"
-      }
-    },
-    {
-      "id": "2026-08-27-customs-tsing-yi-illicit-cigarettes",
-      "published_at": "2026-08-27T09:13:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "crime",
-        "illicit-cigarettes",
-        "tsing-yi"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-customs-tsing-yi-illicit-cigarettes.json",
-      "en": {
-        "headline": "Customs seize HK$8.3 million illicit cigarettes in Tsing Yi flat",
-        "dek": "Officers raided a 600-square-foot private-estate unit used as a storage, packing and distribution centre, arresting a 28-year-old local man after finding about 1.86 million suspected untaxed cigarettes."
-      },
-      "zh": {
-        "headline": "海關青衣私樓搗私煙倉 檢186萬支煙拔28歲男子",
-        "dek": "關員在青衣私人屋苑約600平方呎單位檢獲約186萬支懷疑私煙，市值約830萬元，應課稅值約610萬元。"
-      }
-    },
-    {
-      "id": "2026-08-27-tai-po-water-supply-restored",
-      "published_at": "2026-08-27T09:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "water-supplies",
-        "tai-po",
-        "pipe-leak",
-        "wsd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-tai-po-water-supply-restored.json",
-      "en": {
-        "headline": "Tai Po water supply restored after overnight main repair",
-        "dek": "The Water Supplies Department said supply to Tai Yuen Estate, Ting Nga Court and Tai Yuen Shopping Centre began returning to normal from about 6 a.m. after crews finished emergency works on On Po Road."
-      },
-      "zh": {
-        "headline": "大埔安埔路水管搶修完成 大元邸汀雅苑今早復水",
-        "dek": "水務署表示通宵完成緊急維修，大元邸、汀雅苑及大元商場食水供應由今早約6時起陸續恢復正常。"
       }
     }
   ]
