@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T09:07:55+08:00",
+  "updated_at": "2026-08-30T09:08:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -187,6 +187,30 @@
       "id": "2026-08-30-lifestyle-hk-fashion-fest",
       "first_seen": "2026-08-30T07:23:00+08:00",
       "headline_en": "Hong Kong Fashion Fest returns from 1 to 14 September"
+    },
+    {
+      "key": "fairview-park-bauhinia-south-burglary-aug29",
+      "id": "2026-08-30-fairview-park-burglary",
+      "first_seen": "2026-08-30T09:05:00+08:00",
+      "headline_en": "Fairview Park house burgled; jewellery worth about $300,000 taken"
+    },
+    {
+      "key": "sau-mau-ping-on-sau-road-crash-driver-missing-aug30",
+      "id": "2026-08-30-sau-mau-ping-crash-driver-missing",
+      "first_seen": "2026-08-30T09:06:00+08:00",
+      "headline_en": "Driver missing after private car hits railings in Sau Mau Ping"
+    },
+    {
+      "key": "lifestyle-db-open-water-race-2026",
+      "id": "2026-08-30-lifestyle-db-open-water-race",
+      "first_seen": "2026-08-30T09:07:00+08:00",
+      "headline_en": "Discovery Bay stages fourth open-water swim challenge today"
+    },
+    {
+      "key": "lifestyle-chiikawa-light-rail-final-aug30",
+      "id": "2026-08-30-lifestyle-chiikawa-light-rail-final",
+      "first_seen": "2026-08-30T09:08:00+08:00",
+      "headline_en": "Chiikawa-themed Light Rail makes its last weekend trips today"
     }
   ]
 }
