@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-08-30T21:09:08+08:00",
+  "generated_at": "2026-08-30T23:17:25+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-08-30-hsk-pilot-6000-jobs",
+      "published_at": "2026-08-30T23:17:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "northern-metropolis",
+        "business",
+        "government",
+        "housing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-hsk-pilot-6000-jobs.json",
+      "en": {
+        "headline": "Hung Shui Kiu pilot project to create over 6,000 jobs, Paul Chan says",
+        "dek": "The Financial Secretary said the consortium awarded the large-scale land disposal site will invest about HK$16.8 billion, marking a milestone for the public-private partnership model in the Northern Metropolis."
+      },
+      "zh": {
+        "headline": "陳茂波：洪水橋先導項目料創造逾6,000職位",
+        "dek": "財爺指獲批大面積土地處置先導區的財團將投資約168億元，標誌北部都會區公私營合作新模式的里程碑。"
+      }
+    },
+    {
+      "id": "2026-08-30-anita-mui-mother-dies",
+      "published_at": "2026-08-30T23:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "celebrity"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-anita-mui-mother-dies.json",
+      "en": {
+        "headline": "Mother of late singer Anita Mui dies aged 102 in Causeway Bay",
+        "dek": "Tam Mei-kam collapsed while being fed liquid oatmeal at her Leighton Road flat on Sunday morning and was later certified dead at Ruttonjee Hospital."
+      },
+      "zh": {
+        "headline": "梅艷芳母親覃美金銅鑼灣寓所離世 享年102歲",
+        "dek": "周日早上在禮頓道單位進食流質食物時暈倒，送往律敦治醫院後證實不治，警方指現場無可疑。"
+      }
+    },
+    {
+      "id": "2026-08-30-afcd-dog-leash-prosecutions",
+      "published_at": "2026-08-30T23:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "animals",
+        "afcd",
+        "pets",
+        "enforcement",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-afcd-dog-leash-prosecutions.json",
+      "en": {
+        "headline": "AFCD to prosecute three owners for failing to leash large dogs",
+        "dek": "During Sunday patrols in Yuen Long, West Kowloon, Cyberport and Kai Tak, officers found three people suspected of not properly controlling large dogs in public; further checks continue next weekend."
+      },
+      "zh": {
+        "headline": "漁護署巡查將檢控三狗主 涉公眾地方未用狗帶牽引大狗",
+        "dek": "周日在元朗、西九、數碼港及啟德一帶巡查，發現三名畜養人涉嫌未妥善控制大型狗隻，署方將提出檢控，下周末行動繼續。"
+      }
+    },
     {
       "id": "2026-08-30-wang-fuk-court-977-accept",
       "published_at": "2026-08-30T21:07:00+08:00",
@@ -1762,91 +1827,6 @@
       "zh": {
         "headline": "Post Malone啟德體育館演唱會延期 主辦方安排全額退款",
         "dek": "Live Nation Hong Kong周四宣布原定9月16日啟德體育館演唱會延期，經官方渠道購票的觀眾可獲全額退款，暫未公布新日期。"
-      }
-    },
-    {
-      "id": "2026-08-27-wan-chai-cpe-nursing-home-cluster",
-      "published_at": "2026-08-27T23:07:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "chp",
-        "nursing-home",
-        "infection-control"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-wan-chai-cpe-nursing-home-cluster.json",
-      "en": {
-        "headline": "Four residents colonised by CPE at Wan Chai nursing home",
-        "dek": "The Centre for Health Protection is investigating a cluster of carbapenemase-producing Enterobacteriaceae at Green Mountain Home; infection-control lapses are suspected to have allowed spread within the facility."
-      },
-      "zh": {
-        "headline": "灣仔綠山居護老院四院友帶產碳青霉烯酶腸道桿菌",
-        "dek": "衞生防護中心調查綠山居護老院產碳青霉烯酶腸道桿菌帶菌群組，四名73至90歲院友情況穩定，院舍未妥善執行感染控制措施。"
-      }
-    },
-    {
-      "id": "2026-08-27-police-officer-misconduct-indecent-messages",
-      "published_at": "2026-08-27T23:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "misconduct",
-        "court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-police-officer-misconduct-indecent-messages.json",
-      "en": {
-        "headline": "Police officer charged with misconduct over indecent messages to suspect’s friend",
-        "dek": "A 32-year-old officer from Kwai Tsing district is accused of privately contacting a female friend of a man arrested in a 2025 criminal case and sending her indecent texts and photos; he appears in court on Friday."
-      },
-      "zh": {
-        "headline": "男警涉向疑犯女友人傳不雅短訊及照片 被控公職人員行為失當",
-        "dek": "32歲葵青警區男警被指在調查2025年刑事案件期間私下聯絡被捕人的女性朋友並傳送不雅內容，明日於沙田裁判法院提堂，已被停職。"
-      }
-    },
-    {
-      "id": "2026-08-27-west-kowloon-illegal-hire-cars",
-      "published_at": "2026-08-27T23:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "illegal-hire",
-        "west-kowloon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-west-kowloon-illegal-hire-cars.json",
-      "en": {
-        "headline": "West Kowloon traffic police arrest two in illegal hire-car sting",
-        "dek": "Undercover officers posing as passengers booked two private cars via online platforms; both drivers face charges of using vehicles for hire without a permit and without third-party insurance."
-      },
-      "zh": {
-        "headline": "西九龍交警放蛇打擊白牌車 兩本地司機被捕",
-        "dek": "人員喬裝乘客透過網上平台租用兩輛私家車，因車輛沒有有效出租汽車許可證，拘捕兩名46歲及43歲本地男司機，兩人獲准保釋候查。"
-      }
-    },
-    {
-      "id": "2026-08-27-star-ferry-fare-tac",
-      "published_at": "2026-08-27T21:10:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "ferry",
-        "star-ferry",
-        "tac"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-star-ferry-fare-tac.json",
-      "en": {
-        "headline": "Transport Advisory Committee discusses Star Ferry fare increase application",
-        "dek": "Members balanced the operator’s financial viability against public acceptability for proposed rises of about 30 per cent on the two franchised cross-harbour routes."
-      },
-      "zh": {
-        "headline": "交諮會討論天星小輪兩航線加價申請 將向政府提交建議",
-        "dek": "委員已平衡渡輪服務長遠財務可行性與公眾對擬議約三成加幅的接受程度，稍後提交建議供行政會議考慮。"
       }
     }
   ]
