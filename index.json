@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-08-30T13:10:55+08:00",
+  "generated_at": "2026-08-30T21:07:57+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-08-30-wang-fuk-court-977-accept",
+      "published_at": "2026-08-30T21:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "tai-po",
+        "wang-fuk-court",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-wang-fuk-court-977-accept.json",
+      "en": {
+        "headline": "Wang Fuk Court acceptance climbs to 97.7 per cent ahead of deadline",
+        "dek": "As of noon on Sunday 1,939 of 1,984 owners had returned acceptance letters, leaving about 45 households; the Housing Bureau urged the remainder to act by 5pm Monday."
+      },
+      "zh": {
+        "headline": "宏福苑業主接受收購比率升至97.7% 尚餘約45戶",
+        "dek": "截至周日中午，1,984戶中有1,939戶已交回接受書，房屋局呼籲餘下業主於周一傍晚5時前把握最後機會。"
+      }
+    },
+    {
+      "id": "2026-08-30-police-anti-drug-operation-defender",
+      "published_at": "2026-08-30T21:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "crime",
+        "drugs",
+        "enforcement"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-police-anti-drug-operation-defender.json",
+      "en": {
+        "headline": "Police arrest 321 in two-month anti-drug operation, seize HK$130m drugs",
+        "dek": "Operation Defender from mid-July to late August netted 234 cases and more than 230 kg of suspected narcotics, including a marked rise in etomidate products, police said."
+      },
+      "zh": {
+        "headline": "警方暑假反毒行動拘321人 檢值1.3億元毒品",
+        "dek": "代號「捍衛者」行動由7月中至8月底進行，偵破234宗案件，檢獲逾230公斤懷疑毒品，依托咪酯相關產品數量明顯上升。"
+      }
+    },
+    {
+      "id": "2026-08-30-workweek-weather-outlook-aug31-sep4",
+      "published_at": "2026-08-30T21:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "forecast",
+        "hko",
+        "observatory"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-workweek-weather-outlook-aug31-sep4.json",
+      "en": {
+        "headline": "Work-week outlook: showers and storms early, then easing",
+        "dek": "The Observatory expects mainly cloudy conditions with showers and squally thunderstorms on Monday and Tuesday, becoming windier midweek before rain eases later in the week."
+      },
+      "zh": {
+        "headline": "工作周天氣展望：初段有驟雨雷暴 後期雨勢減弱",
+        "dek": "天文台預料周一及周二大致多雲，有驟雨及狂風雷暴，中期風力較大，本周後期雨勢逐漸減弱。"
+      }
+    },
     {
       "id": "2026-08-30-washing-machine-dog-cruelty",
       "published_at": "2026-08-30T13:11:00+08:00",
@@ -1825,49 +1891,6 @@
       "zh": {
         "headline": "將軍澳六旬漁民疑遭雷擊 舢舨上昏迷送院不治",
         "dek": "紅雨期間一名67歲男子在跨灣大橋對開海面舢舨上暈倒，送將軍澳醫院後證實死亡，初步懷疑遭雷電擊中。"
-      }
-    },
-    {
-      "id": "2026-08-27-pcpd-doxxing-boxer-arrest",
-      "published_at": "2026-08-27T13:16:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "pcpd",
-        "crime",
-        "doxxing",
-        "privacy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-pcpd-doxxing-boxer-arrest.json",
-      "en": {
-        "headline": "Privacy watchdog arrests 29-year-old man over alleged doxxing after boxing match",
-        "dek": "The Office of the Privacy Commissioner for Personal Data said the Chinese national was detained in Kowloon today and granted bail pending further investigation."
-      },
-      "zh": {
-        "headline": "私隱專員公署拘29歲男 涉拳賽後「起底」對手",
-        "dek": "公署今日在九龍區拘捕一名中國籍男子，涉嫌未經同意披露個人資料，已准保釋繼續調查。"
-      }
-    },
-    {
-      "id": "2026-08-27-thunderstorm-warning-afternoon",
-      "published_at": "2026-08-27T13:15:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "thunderstorm-warning",
-        "showers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-thunderstorm-warning-afternoon.json",
-      "en": {
-        "headline": "Thunderstorm Warning extended until 2:30 p.m.",
-        "dek": "The Hong Kong Observatory extended the warning at noon, expecting isolated thunderstorms over the territory this afternoon."
-      },
-      "zh": {
-        "headline": "雷暴警告延長至下午2時30分",
-        "dek": "天文台中午延長警告，預料本港今午有局部地區雷暴。"
       }
     }
   ]
