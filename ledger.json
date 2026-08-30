@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T21:09:08+08:00",
+  "updated_at": "2026-08-30T23:20:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -295,6 +295,24 @@
       "id": "2026-08-30-wang-fuk-court-977-accept",
       "first_seen": "2026-08-30T21:07:00+08:00",
       "headline_en": "Wang Fuk Court acceptance climbs to 97.7 per cent ahead of deadline"
+    },
+    {
+      "key": "afcd-dog-leash-prosecutions-aug30",
+      "id": "2026-08-30-afcd-dog-leash-prosecutions",
+      "first_seen": "2026-08-30T23:15:00+08:00",
+      "headline_en": "AFCD to prosecute three owners for failing to leash large dogs"
+    },
+    {
+      "key": "anita-mui-mother-dies-aug30",
+      "id": "2026-08-30-anita-mui-mother-dies",
+      "first_seen": "2026-08-30T23:16:00+08:00",
+      "headline_en": "Mother of late singer Anita Mui dies aged 102 in Causeway Bay"
+    },
+    {
+      "key": "hung-shui-kiu-pilot-6000-jobs",
+      "id": "2026-08-30-hsk-pilot-6000-jobs",
+      "first_seen": "2026-08-30T23:17:00+08:00",
+      "headline_en": "Hung Shui Kiu pilot project to create over 6,000 jobs, Paul Chan says"
     }
   ]
 }
