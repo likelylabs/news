@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-08-30T07:15:05+08:00",
+  "generated_at": "2026-08-30T09:07:55+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-08-30-lifestyle-chiikawa-light-rail-final",
+      "published_at": "2026-08-30T09:08:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "mtr",
+        "exhibition"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-lifestyle-chiikawa-light-rail-final.json",
+      "en": {
+        "headline": "Chiikawa-themed Light Rail makes its last weekend trips today",
+        "dek": "Special trains have run four trips each Saturday and Sunday from Siu Hong since 25 July; an $88 same-day Light Rail pass is sold at that stop."
+      },
+      "zh": {
+        "headline": "Chiikawa主題輕鐵今日最後一個周末行走",
+        "dek": "由7月25日起逢周六日由兆康開出四班特色列車，當日於該站可買88元全日輕鐵乘車證。"
+      }
+    },
+    {
+      "id": "2026-08-30-lifestyle-db-open-water-race",
+      "published_at": "2026-08-30T09:07:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "lifestyle",
+        "sport",
+        "discovery-bay",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-lifestyle-db-open-water-race.json",
+      "en": {
+        "headline": "Discovery Bay stages fourth open-water swim challenge today",
+        "dek": "Solo races of 400 metres, 1.7 kilometres and 3.8 kilometres, plus a 400-metre relay, finish at Tai Pak Beach on Sunday."
+      },
+      "zh": {
+        "headline": "第四屆愉景灣公開水域泳賽今日舉行",
+        "dek": "公開組設400米、1.7公里及3.8公里個人賽，另有400米接力，終點同為大白灣泳灘。"
+      }
+    },
+    {
+      "id": "2026-08-30-sau-mau-ping-crash-driver-missing",
+      "published_at": "2026-08-30T09:06:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "police",
+        "transport",
+        "kwun-tong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-sau-mau-ping-crash-driver-missing.json",
+      "en": {
+        "headline": "Driver missing after private car hits railings in Sau Mau Ping",
+        "dek": "Police found an empty white private car with a damaged front end at On Sau Road and On Kin Road shortly after 5am and are trying to contact the owner."
+      },
+      "zh": {
+        "headline": "秀茂坪私家車撞欄司機不知所終",
+        "dek": "周日清晨一輛白色私家車在安秀道轉入安健道時撞向路中鐵欄，警員到場發現車內無人，正聯絡車主。"
+      }
+    },
+    {
+      "id": "2026-08-30-fairview-park-burglary",
+      "published_at": "2026-08-30T09:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "crime",
+        "yuen-long",
+        "burglary"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-fairview-park-burglary.json",
+      "en": {
+        "headline": "Fairview Park house burgled; jewellery worth about $300,000 taken",
+        "dek": "A 49-year-old man reported two rings and a jade bracelet missing from a detached house on Bauhinia South Road late on Saturday; police classified the case as burglary."
+      },
+      "zh": {
+        "headline": "元朗錦緣花園獨立屋遇竊 失約30萬元戒指玉鑛",
+        "dek": "一名49歲男子周六深夜報稱紫荊南路獨立屋失竊，警方初步點算兩隻戒指及一隻玉鑛失蹤，暫未有人被捕。"
+      }
+    },
     {
       "id": "2026-08-30-lifestyle-hk-fashion-fest",
       "published_at": "2026-08-30T07:23:00+08:00",
