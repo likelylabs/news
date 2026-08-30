@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-30T11:08:24+08:00",
+  "generated_at": "2026-08-30T11:13:51+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-08-30-lifestyle-ocean-park-halloween-fest",
+      "published_at": "2026-08-30T11:31:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "family",
+        "festival"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-lifestyle-ocean-park-halloween-fest.json",
+      "en": {
+        "headline": "Ocean Park Halloween Fest returns from 5 September",
+        "dek": "The park lists its 2026 Halloween Fest on the official programme, with haunted houses and an Under the Castle collaboration running into early November on designated dates."
+      },
+      "zh": {
+        "headline": "海洋公園萬聖節活動9月5日起舉行",
+        "dek": "公園官方節目及門票頁列出2026年萬聖節活動，指定日期設鬼屋及《Under the Castle》合作體驗，活動描述為舉行至11月1日。"
+      }
+    },
     {
       "id": "2026-08-30-tai-hang-road-porsche-fire",
       "published_at": "2026-08-30T11:14:00+08:00",
@@ -1802,50 +1824,6 @@
       "zh": {
         "headline": "龍翔道天橋的士天雨路滑打轉 撞電單車鐵騎士送院",
         "dek": "周三近午夜彩虹邸對開天橋彎位發生車禍，運輸署一度封閉來回部分行車線；警方正調查意外起因。"
-      }
-    },
-    {
-      "id": "2026-08-27-fei-ngo-shan-slope-rescue",
-      "published_at": "2026-08-27T11:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "accident",
-        "hiking",
-        "kowloon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-fei-ngo-shan-slope-rescue.json",
-      "en": {
-        "headline": "Man rescued after falling 30 metres on Fei Ngo Shan slope",
-        "dek": "Rescuers found him conscious about two hours after a report near Jat's Incline before dawn and took him to United Christian Hospital."
-      },
-      "zh": {
-        "headline": "飛鵝山男子墮約30米山坡被困 清晨救起送院",
-        "dek": "警方凌晨近4時接報扎山道一帶有人失足被困，救援人員約5時41分在山邊尋獲事主，清醒送聯合醫院。"
-      }
-    },
-    {
-      "id": "2026-08-27-hongkong-post-reform-lee",
-      "published_at": "2026-08-27T11:12:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "john-lee",
-        "civil-service",
-        "hongkong-post",
-        "economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-hongkong-post-reform-lee.json",
-      "en": {
-        "headline": "John Lee says Hongkong Post must be reformed after heavy losses",
-        "dek": "The Chief Executive said transition arrangements were inevitable as about 200 staff finishing probation in September will be offered two-year contracts instead of permanent terms."
-      },
-      "zh": {
-        "headline": "李家超：香港郵政必須改革 約200人改兩年合約",
-        "dek": "行政長官指郵政署2024/25年度虧損約8億元，商經局將研究改革方案提交立法會；9月試用期屆滿員工改以兩年公務員合約續聘。"
       }
     }
   ]
