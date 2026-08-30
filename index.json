@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-08-30T09:14:16+08:00",
+  "generated_at": "2026-08-30T11:05:25+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 84,
   "articles": [
+    {
+      "id": "2026-08-30-tai-hang-road-porsche-fire",
+      "published_at": "2026-08-30T11:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "transport",
+        "causeway-bay",
+        "accident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-tai-hang-road-porsche-fire.json",
+      "en": {
+        "headline": "Porsche on test plates catches fire on Tai Hang Road",
+        "dek": "The driver stopped and left the car after smoke rose from the rear near Tiger Balm Garden; firefighters put out the blaze and nobody was hurt."
+      },
+      "zh": {
+        "headline": "大坑道T牌保時捷行駛中起火 無人受傷",
+        "dek": "一輛掛紅色試車牌的保時捷週日早上在大坑道近虎豹別墅車尾冒煙起火，司機停車逃生，消防救熄，無人受傷。"
+      }
+    },
+    {
+      "id": "2026-08-30-tin-heng-estate-public-fight",
+      "published_at": "2026-08-30T11:13:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "crime",
+        "yuen-long",
+        "tin-shui-wai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-tin-heng-estate-public-fight.json",
+      "en": {
+        "headline": "Tin Shui Wai man arrested after early-morning public fight",
+        "dek": "Police said a 32-year-old man was taken to hospital unconscious after a clash near a Tin Heng Estate playground, then arrested on suspicion of fighting in a public place."
+      },
+      "zh": {
+        "headline": "天水圍天恒邭凌晨鬥鬥 32歲男昏迷送院後被捕",
+        "dek": "警方接報一名男子在天恒邭遊樂場附近遭至少四名男子圍毆，頭部受傷昏迷送院，其後涉嫌在公眾地方鬥鬥被捕。"
+      }
+    },
+    {
+      "id": "2026-08-30-thunderstorm-warning-morning",
+      "published_at": "2026-08-30T11:12:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "thunderstorm-warning",
+        "hko",
+        "observatory"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-thunderstorm-warning-morning.json",
+      "en": {
+        "headline": "Observatory issues Thunderstorm Warning until 11.30am",
+        "dek": "Isolated thunderstorms are expected over Hong Kong’s eastern waters after the warning was issued at 9.40am, the Hong Kong Observatory said."
+      },
+      "zh": {
+        "headline": "天文台發出雷暴警告 有效至上午11時半",
+        "dek": "天文台上午89時40分發出雷暴警告，預料本港東部水域有局部地區雷暴，警告有效至上午11時30分。"
+      }
+    },
     {
       "id": "2026-08-30-lifestyle-harbour-city-forever-toys",
       "published_at": "2026-08-30T09:24:00+08:00",
@@ -1780,139 +1846,6 @@
       "zh": {
         "headline": "李家超：香港郵政必須改革 約200人改兩年合約",
         "dek": "行政長官指郵政署2024/25年度虧損約8億元，商經局將研究改革方案提交立法會；9月試用期屆滿員工改以兩年公務員合約續聘。"
-      }
-    },
-    {
-      "id": "2026-08-27-lung-kwu-tan-hydrogen-blend-trial",
-      "published_at": "2026-08-27T11:05:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "energy",
-        "environment",
-        "hydrogen",
-        "power"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-lung-kwu-tan-hydrogen-blend-trial.json",
-      "en": {
-        "headline": "Castle Peak Power cleared to trial hydrogen blend at Lung Kwu Tan plant",
-        "dek": "The government’s hydrogen working group has in principle approved a project to mix up to 5 per cent hydrogen with natural gas in an existing combined-cycle unit."
-      },
-      "zh": {
-        "headline": "龍鼓灑發電廠獲准試驗氫氣混燃 目標摻氫最高5%",
-        "dek": "環境及生態局表示，氫能源跨部門工作小組原則上同意青山發電有限公司在現有聯合循環機組混燒氫氣與天然氣。"
-      }
-    },
-    {
-      "id": "2026-08-27-july-private-home-price-index",
-      "published_at": "2026-08-27T11:04:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "property",
-        "housing",
-        "rvd",
-        "economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-july-private-home-price-index.json",
-      "en": {
-        "headline": "Private home prices fall 0.46 per cent in July after 13-month rise",
-        "dek": "The Rating and Valuation Department’s index slipped to 321.5, while the rental index hit a record 207.4 after a further monthly gain."
-      },
-      "zh": {
-        "headline": "7月私樓售價指數跌0.46% 連升13個月後轉跌",
-        "dek": "差飼物業估價署數字顯示指數報321.5點，今年首七個月仍累升約7.3%；租金指數再創新高。"
-      }
-    },
-    {
-      "id": "2026-08-27-hkgcc-asia-internationality-index",
-      "published_at": "2026-08-27T11:03:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "economy",
-        "business",
-        "hkgcc",
-        "singapore"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-hkgcc-asia-internationality-index.json",
-      "en": {
-        "headline": "Hong Kong tops Asian cities internationality index, widening lead on Singapore",
-        "dek": "The General Chamber of Commerce scored the city 74.6 out of 100, two points ahead of Singapore, in its second annual ranking of 11 Asian cities."
-      },
-      "zh": {
-        "headline": "總商會國際化指數港蟬聯亞洲第一 領先新加坡拉開至兩分",
-        "dek": "香港總商會公布2026年亞洲城市國際化指數，本港獲74.6分居首，較新加坡高兩分，領先幅度較去年擴大。"
-      }
-    },
-    {
-      "id": "2026-08-27-amber-cancelled-thunderstorm-noon",
-      "published_at": "2026-08-27T11:02:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "amber-rainstorm",
-        "thunderstorm-warning",
-        "showers",
-        "schools"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-amber-cancelled-thunderstorm-noon.json",
-      "en": {
-        "headline": "Amber Rainstorm Warning cancelled; thunderstorms still expected until noon",
-        "dek": "The Observatory cancelled the Amber Rainstorm Warning at 10:15 a.m. after downgrading from Red earlier, and extended the Thunderstorm Warning until 12:30 p.m."
-      },
-      "zh": {
-        "headline": "黃色暴雨警告取消 雷暴警告延長至中午12時半",
-        "dek": "天文台上午10時15分取消黃色暴雨警告，紅雨今早一度生效後已改發黃雨；雷暴警告延長至下午12時30分。"
-      }
-    },
-    {
-      "id": "2026-08-27-lifestyle-janice-gigi-ultimate",
-      "published_at": "2026-08-27T09:16:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "music",
-        "concert",
-        "lantau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-lifestyle-janice-gigi-ultimate.json",
-      "en": {
-        "headline": "Janice Vidal and Gigi Yim share Ultimate Song Chart stage on Saturday",
-        "dek": "Commercial Radio 903’s concert She and Her Secret is scheduled for 7 p.m. on 29 August at AsiaWorld-Expo Arena, pairing the two singers on a single billed night."
-      },
-      "zh": {
-        "headline": "衛蘭炎明熹周六亞博拉闊音樂會同台",
-        "dek": "吆哮903主辦《拉闊音樂會 她和她的秘密》訂於8月29日晚上7時在亞洲國際博覽館Arena舉行。"
-      }
-    },
-    {
-      "id": "2026-08-27-hung-hom-drink-driving-crash",
-      "published_at": "2026-08-27T09:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "crime",
-        "traffic-accident",
-        "hung-hom"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-hung-hom-drink-driving-crash.json",
-      "en": {
-        "headline": "Man arrested for drink-driving after car flips on Princess Margaret Road",
-        "dek": "Police said a 48-year-old driver failed a breath test after his private car hit a barrier and overturned near Hung Hom on Wednesday night; he was not injured."
-      },
-      "zh": {
-        "headline": "公主道私家車撞壤翻側 48歲司機涉酒駕被捕",
-        "dek": "警方指車輛周三晚在紅磬公主道近治民街失控撞壤翻側，司機酒精呼氣測試不合格，沒有受傷。"
       }
     }
   ]
