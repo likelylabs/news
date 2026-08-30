@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T11:16:43+08:00",
+  "updated_at": "2026-08-30T13:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -265,6 +265,18 @@
       "id": "2026-08-30-afcd-pit-bull-mix-seizure",
       "first_seen": "2026-08-30T11:41:00+08:00",
       "headline_en": "AFCD takes eight-year-old dog identified as a pit bull mix"
+    },
+    {
+      "key": "thunderstorm-warning-aug30-extended-1500",
+      "id": "2026-08-30-thunderstorm-warning-extended-1500",
+      "first_seen": "2026-08-30T13:10:00+08:00",
+      "headline_en": "Observatory extends Thunderstorm Warning until 3pm"
+    },
+    {
+      "key": "washing-machine-dog-cruelty-aug30",
+      "id": "2026-08-30-washing-machine-dog-cruelty",
+      "first_seen": "2026-08-30T13:11:00+08:00",
+      "headline_en": "Police investigate video of dog put in running washing machine"
     }
   ]
 }
