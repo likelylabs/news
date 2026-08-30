@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-08-31T06:52:12+08:00",
+  "generated_at": "2026-08-31T07:25:36+08:00",
   "live_window_hours": 72,
   "count": 79,
   "articles": [
+    {
+      "id": "2026-08-31-lifestyle-ma-on-shan-cow-photo",
+      "published_at": "2026-08-31T07:29:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "animals"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-lifestyle-ma-on-shan-cow-photo.json",
+      "en": {
+        "headline": "Hikers filmed trying to ride a resting cow at Ma On Shan",
+        "dek": "A video circulating on Sunday showed a woman attempting to straddle cattle at Ngong Ping before a passer-by shouted at her to stop."
+      },
+      "zh": {
+        "headline": "馬鞍山昂平行山客試圖騎牛打卡 遭途人喝止",
+        "dek": "周日流傳片段顯示女子在昂平多次嘗試跨上伏地黃牛，旁人喝止後兩人離開。"
+      }
+    },
+    {
+      "id": "2026-08-31-hotel-cat-pool-phone-scam",
+      "published_at": "2026-08-31T07:28:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "crime",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-hotel-cat-pool-phone-scam.json",
+      "en": {
+        "headline": "Police smash hotel SIM-box phone-scam den, arrest two men",
+        "dek": "Commercial Crime Bureau officers linked a rented hotel room to at least five late-August cases involving about HK$600,000, the largest a HK$380,000 loss by a retiree."
+      },
+      "zh": {
+        "headline": "警搗酒店「貓池」電騙中心拘兩男 涉款約60萬",
+        "dek": "商業罪案調查科指酒店房間興8月下旬最少5宗電話騙案有關，最大一宗退休人士損失約38萬元。"
+      }
+    },
+    {
+      "id": "2026-08-31-chp-school-year-flu-warning",
+      "published_at": "2026-08-31T07:27:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "schools",
+        "education"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-chp-school-year-flu-warning.json",
+      "en": {
+        "headline": "CHP warns influenza may stay active as school year begins",
+        "dek": "Eleven severe paediatric flu cases have been recorded since late June, including one death; the centre expects outbreaks may occur after students return."
+      },
+      "zh": {
+        "headline": "防護中心料開學初期流感仍活躍 籲學校家長防疫",
+        "dek": "今季自6月底起已錄11宗兒童流感嚴重個案，包括一宗死亡；中心料想新學年學校或現爆發。"
+      }
+    },
+    {
+      "id": "2026-08-31-miss-hong-kong-2026-bernice-yuen",
+      "published_at": "2026-08-31T07:26:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "culture",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-miss-hong-kong-2026-bernice-yuen.json",
+      "en": {
+        "headline": "Theme park performer Bernice Yuen crowned Miss Hong Kong 2026",
+        "dek": "The 26-year-old Baptist University graduate won Sunday night’s final at TVB City, with Ada Tang and Scarlett Li named first and second runners-up."
+      },
+      "zh": {
+        "headline": "主題樂園演員袁絲珩奪2026香港小姐冠軍",
+        "dek": "26歲浸大傳理畢業生周日晚於將軍澳電視城勝出港姐決賽，鄧匡閵及李澤欣分獲亞軍及季軍。"
+      }
+    },
     {
       "id": "2026-08-30-hsk-pilot-6000-jobs",
       "published_at": "2026-08-30T23:17:00+08:00",
@@ -1649,95 +1732,6 @@
       "zh": {
         "headline": "葵涌道空載紅VAN撞壤翻側 往荃灣交通受阻",
         "dek": "今早7時43分一輛只有司機的紅色小巴在葵涌道近荔枝角公園失控撞壤翻側，司機面部受傷送院，美孚附近部分行車線封閉。"
-      }
-    },
-    {
-      "id": "2026-08-28-lifestyle-hktb-mid-autumn-lantern",
-      "published_at": "2026-08-28T07:19:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "festival",
-        "victoria-park",
-        "tourism",
-        "mid-autumn"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-lifestyle-hktb-mid-autumn-lantern.json",
-      "en": {
-        "headline": "Tourism Board to stage first international lantern show at Victoria Park",
-        "dek": "The International Lantern Spectacular will run from 17 to 27 September beside the LCSD carnival, with displays lit from 6.30 p.m. and free admission."
-      },
-      "zh": {
-        "headline": "旅發局首辦國際中秋綵燈匯 9月17日起維園免費開放",
-        "dek": "活動與康文署中秋綵燈會同期舉行，展出來自20個國家及地區的綵燈，每晚6時半亮燈。"
-      }
-    },
-    {
-      "id": "2026-08-28-tin-hau-dog-cwb-rescue",
-      "published_at": "2026-08-28T07:18:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "accident",
-        "animals",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-tin-hau-dog-cwb-rescue.json",
-      "en": {
-        "headline": "Loose dog runs from Tin Hau onto harbour bypass",
-        "dek": "A two-year-old white mixed-breed escaped near the waterfront on Thursday afternoon and was later found with an injured front leg inside the Central–Wan Chai Bypass."
-      },
-      "zh": {
-        "headline": "北角海濱小狗失控竄入東廊及繞道 右前肢受傷被救回",
-        "dek": "警方指外傭周四傍晚在天后海濱遛狗期間犬隻走失，跑入中環灣仔繞道，愛協其後發現右前肢受傷並聯絡狗主。"
-      }
-    },
-    {
-      "id": "2026-08-28-nt-south-illegal-workers-champion",
-      "published_at": "2026-08-28T07:17:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "crime",
-        "immigration",
-        "illegal-workers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-nt-south-illegal-workers-champion.json",
-      "en": {
-        "headline": "Joint New Territories South raid arrests 29 over illegal work",
-        "dek": "Officers from several police districts and other departments detained 22 men and seven women in Operation Champion on Thursday, including five mainland women suspected of prostitution."
-      },
-      "zh": {
-        "headline": "新界南跨部門反黑工拘29人 五內地女子涉賣淫",
-        "dek": "警方聯同相關部門周四進行代號「冠軍」行動，突擊搜查新界南多個罪案黑點，拘捕22男7女。"
-      }
-    },
-    {
-      "id": "2026-08-28-coleman-wong-us-open-qualifies",
-      "published_at": "2026-08-28T07:16:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "tennis",
-        "us-open",
-        "coleman-wong",
-        "sport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-coleman-wong-us-open-qualifies.json",
-      "en": {
-        "headline": "Coleman Wong qualifies again for US Open main draw",
-        "dek": "The Hong Kong player beat Serbia’s Dusan Lajovic 6-4, 6-3 in the final qualifying round at Flushing Meadows on Thursday."
-      },
-      "zh": {
-        "headline": "黃澤林再闖美網正賽 決賽圈直落兩盤過關",
-        "dek": "香港網球手周四在紐約資格賽決賽以6比4、6比3擊敗塞爾維亞的拉約維奇，連續第二年打入美網男單正賽。"
       }
     }
   ]
