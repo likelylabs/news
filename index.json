@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-30T11:14:28+08:00",
+  "generated_at": "2026-08-30T11:16:43+08:00",
   "live_window_hours": 72,
-  "count": 82,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-08-30-afcd-pit-bull-mix-seizure",
+      "published_at": "2026-08-30T11:41:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "animals",
+        "afcd",
+        "pets",
+        "community",
+        "enforcement"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-afcd-pit-bull-mix-seizure.json",
+      "en": {
+        "headline": "AFCD takes eight-year-old dog identified as a pit bull mix",
+        "dek": "Officers collected the dog on Friday after a complaint; the department said the owner produced no valid fighting-dog licence."
+      },
+      "zh": {
+        "headline": "漁護署帶走八歲黑狗 獸醫鑑定屬比特鬥牛㹴混種",
+        "dek": "署方周五接投訴後將狗隻帶回動物管理中心，指畜養人未能出示有效格鬥狗隻牌照。"
+      }
+    },
+    {
+      "id": "2026-08-30-thunderstorm-warning-extended-1300",
+      "published_at": "2026-08-30T11:40:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "thunderstorm-warning",
+        "hko",
+        "observatory"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-thunderstorm-warning-extended-1300.json",
+      "en": {
+        "headline": "Observatory extends Thunderstorm Warning until 1pm",
+        "dek": "The warning issued at 9.40am was prolonged after isolated thunderstorms were forecast over Hong Kong, the Observatory said."
+      },
+      "zh": {
+        "headline": "天文台將雷暴警告延長至下午1時",
+        "dek": "天文台上午9時40分發出的雷暴警告已延長至下午1時，預料本港有局部地區雷暴。"
+      }
+    },
     {
       "id": "2026-08-30-lifestyle-ocean-park-halloween-fest",
       "published_at": "2026-08-30T11:31:00+08:00",
@@ -1779,29 +1824,6 @@
       "zh": {
         "headline": "雷暴警告延長至下午2時30分",
         "dek": "天文台中午延長警告，預料本港今午有局部地區雷暴。"
-      }
-    },
-    {
-      "id": "2026-08-27-lifestyle-space-fantasy-ccohk",
-      "published_at": "2026-08-27T11:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "concert",
-        "family",
-        "tsuen-wan",
-        "music"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-lifestyle-space-fantasy-ccohk.json",
-      "en": {
-        "headline": "City Chamber Orchestra premieres Space Fantasy in Tsuen Wan this weekend",
-        "dek": "Three English-language family performances run on Saturday and Sunday at Tsuen Wan Town Hall Auditorium, with tickets from HK$120 at URBTIX."
-      },
-      "zh": {
-        "headline": "城市室樂團《太空幻遊》本周末荃灣大會堂首演",
-        "dek": "周六下午3時及晚上7時半、周日下午3時於荃灣大會堂演奏廳演出，英語家庭節目，門票120至600元於城市售票網發售。"
       }
     }
   ]
