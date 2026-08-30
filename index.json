@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-08-30T11:16:43+08:00",
+  "generated_at": "2026-08-30T13:10:55+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-08-30-washing-machine-dog-cruelty",
+      "published_at": "2026-08-30T13:11:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "crime",
+        "animals",
+        "cruelty"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-washing-machine-dog-cruelty.json",
+      "en": {
+        "headline": "Police investigate video of dog put in running washing machine",
+        "dek": "Mong Kok officers are examining a circulated Instagram story that appears to show a live dog tumbling inside a front-loading machine with water flowing; no arrest has been made."
+      },
+      "zh": {
+        "headline": "影片疑將狗放入洗衣機開動 警列求警調查",
+        "dek": "社交平台流傳Instagram限時動態，疑有人將活狗放入滾筒洗衣機並開機，旺角警區動物專隊正跟進，暫未有人被捕。"
+      }
+    },
+    {
+      "id": "2026-08-30-thunderstorm-warning-extended-1500",
+      "published_at": "2026-08-30T13:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "thunderstorm-warning",
+        "hko",
+        "observatory"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-30/2026-08-30-thunderstorm-warning-extended-1500.json",
+      "en": {
+        "headline": "Observatory extends Thunderstorm Warning until 3pm",
+        "dek": "The warning first issued at 9.40am was prolonged again after isolated thunderstorms continued to be forecast over Hong Kong, the Observatory said."
+      },
+      "zh": {
+        "headline": "天文台將雷暴警告延長至下午3時",
+        "dek": "天文台上午9時40分發出的雷暴警告再延長至下午3時，預料本港有局部地區雷暴。"
+      }
+    },
     {
       "id": "2026-08-30-afcd-pit-bull-mix-seizure",
       "published_at": "2026-08-30T11:41:00+08:00",
