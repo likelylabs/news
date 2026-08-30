@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-30T11:07:20+08:00",
+  "generated_at": "2026-08-30T11:08:24+08:00",
   "live_window_hours": 72,
   "count": 84,
   "articles": [
     {
       "id": "2026-08-30-tai-hang-road-porsche-fire",
       "published_at": "2026-08-30T11:14:00+08:00",
-      "updated_at": null,
+      "updated_at": "2026-08-30T11:22:00+08:00",
       "category": "community",
       "tags": [
         "fire",
@@ -28,7 +28,7 @@
     {
       "id": "2026-08-30-tin-heng-estate-public-fight",
       "published_at": "2026-08-30T11:13:00+08:00",
-      "updated_at": null,
+      "updated_at": "2026-08-30T11:22:00+08:00",
       "category": "crime",
       "tags": [
         "police",
@@ -50,7 +50,7 @@
     {
       "id": "2026-08-30-thunderstorm-warning-morning",
       "published_at": "2026-08-30T11:12:00+08:00",
-      "updated_at": "2026-08-30T11:18:00+08:00",
+      "updated_at": "2026-08-30T11:22:00+08:00",
       "category": "weather",
       "tags": [
         "weather",
@@ -62,7 +62,7 @@
       "path": "articles/2026-08-30/2026-08-30-thunderstorm-warning-morning.json",
       "en": {
         "headline": "Observatory issues Thunderstorm Warning until 11.30am",
-        "dek": "Isolated thunderstorms are expected over Hong Kong’s eastern waters after the warning was issued at 9.40am, the Hong Kong Observatory said."
+        "dek": "Isolated thunderstorms are expected over Hong Kong's eastern waters after the warning was issued at 9.40am, the Hong Kong Observatory said."
       },
       "zh": {
         "headline": "天文台發出雷暴警告 有效至上午11時半",
