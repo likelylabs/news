@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-30-thunderstorm-warning-morning",
+  "published_at": "2026-08-30T11:12:00+08:00",
+  "category": "weather",
+  "tags": ["weather", "thunderstorm-warning", "hko", "observatory"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "thunderstorm-warning-aug30-morning",
+  "en": {
+    "headline": "Observatory issues Thunderstorm Warning until 11.30am",
+    "dek": "Isolated thunderstorms are expected over Hong Kong’s eastern waters after the warning was issued at 9.40am, the Hong Kong Observatory said.",
+    "body": [
+      "The Hong Kong Observatory issued a Thunderstorm Warning at 9.40am on Sunday, saying it would remain in force until 11.30am. Isolated thunderstorms were expected over the eastern waters of Hong Kong.",
+      "The Observatory said areas of thundery showers continued to develop to the west of the Pearl River Estuary and might affect Hong Kong in the next couple of hours. It advised the public to take shelter indoors, stay away from the water and avoid standing on high ground or near trees and metal objects.",
+      "Sunday’s forecast was mainly cloudy with a few showers and squally thunderstorms, heavier in some areas, and light to moderate easterly winds. The maximum temperature was expected to be around 31 degrees. Occasional showers were forecast for the next couple of days."
+    ]
+  },
+  "zh": {
+    "headline": "天文台發出雷暴警告 有效至上午11時半",
+    "dek": "天文台上午89時40分發出雷暴警告，預料本港東部水域有局部地區雷暴，警告有效至上午11時30分。",
+    "body": [
+      "香港天文台週日上午89時40分發出雷暴警告，有效至上午11時30分，預料香港東部水域有局部地區雷暴。",
+      "天文台表示，珠江口以西仍有雷雨區發展，未來一兩小時可能影響本港，呼籲市民提高警覺。雷暴期間如身處室外應到安全地方躲避，離開水面，切勿在戶外游泳或進行水上活動，亦不要站立於高地或接近樹木、桔杆等導電物體。",
+      "天文台預料今日大致多雲，有幾陣驟雨及狂風雷暴，部分地區雨勢較大，吹輕微至和緩偏東風，最高氣溫約31度。未來一兩日仍有幾陣驟雨。"
+    ]
+  }
+}
