@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T11:05:25+08:00",
+  "updated_at": "2026-08-30T11:14:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -229,6 +229,24 @@
       "id": "2026-08-30-lifestyle-harbour-city-forever-toys",
       "first_seen": "2026-08-30T09:24:00+08:00",
       "headline_en": "Harbour City Toy Story carnival enters its last two days"
+    },
+    {
+      "key": "thunderstorm-warning-aug30-morning",
+      "id": "2026-08-30-thunderstorm-warning-morning",
+      "first_seen": "2026-08-30T11:12:00+08:00",
+      "headline_en": "Observatory issues Thunderstorm Warning until 11.30am"
+    },
+    {
+      "key": "tin-heng-estate-public-fight-aug30",
+      "id": "2026-08-30-tin-heng-estate-public-fight",
+      "first_seen": "2026-08-30T11:13:00+08:00",
+      "headline_en": "Tin Shui Wai man arrested after early-morning public fight"
+    },
+    {
+      "key": "tai-hang-road-porsche-fire-aug30",
+      "id": "2026-08-30-tai-hang-road-porsche-fire",
+      "first_seen": "2026-08-30T11:14:00+08:00",
+      "headline_en": "Porsche on test plates catches fire on Tai Hang Road"
     }
   ]
 }
