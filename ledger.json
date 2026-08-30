@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T11:14:28+08:00",
+  "updated_at": "2026-08-30T11:41:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -253,6 +253,18 @@
       "id": "2026-08-30-lifestyle-ocean-park-halloween-fest",
       "first_seen": "2026-08-30T11:31:00+08:00",
       "headline_en": "Ocean Park Halloween Fest returns from 5 September"
+    },
+    {
+      "key": "thunderstorm-warning-aug30-extended-1300",
+      "id": "2026-08-30-thunderstorm-warning-extended-1300",
+      "first_seen": "2026-08-30T11:40:00+08:00",
+      "headline_en": "Observatory extends Thunderstorm Warning until 1pm"
+    },
+    {
+      "key": "afcd-pit-bull-mix-seizure-aug28",
+      "id": "2026-08-30-afcd-pit-bull-mix-seizure",
+      "first_seen": "2026-08-30T11:41:00+08:00",
+      "headline_en": "AFCD takes eight-year-old dog identified as a pit bull mix"
     }
   ]
 }
