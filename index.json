@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-30T11:13:51+08:00",
+  "generated_at": "2026-08-30T11:14:28+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 82,
   "articles": [
     {
       "id": "2026-08-30-lifestyle-ocean-park-halloween-fest",
       "published_at": "2026-08-30T11:31:00+08:00",
-      "updated_at": null,
+      "updated_at": "2026-08-30T11:36:00+08:00",
       "category": "culture",
       "tags": [
         "lifestyle",
@@ -1802,28 +1802,6 @@
       "zh": {
         "headline": "城市室樂團《太空幻遊》本周末荃灣大會堂首演",
         "dek": "周六下午3時及晚上7時半、周日下午3時於荃灣大會堂演奏廳演出，英語家庭節目，門票120至600元於城市售票網發售。"
-      }
-    },
-    {
-      "id": "2026-08-27-lung-cheung-road-taxi-motorcycle",
-      "published_at": "2026-08-27T11:14:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "taxi",
-        "police",
-        "wong-tai-sin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-27/2026-08-27-lung-cheung-road-taxi-motorcycle.json",
-      "en": {
-        "headline": "Taxi spins on wet Lung Cheung Road flyover and hits motorcycle",
-        "dek": "The rider was taken to hospital after the late-night crash near Choi Hung Estate; some lanes on the flyover were closed for a time."
-      },
-      "zh": {
-        "headline": "龍翔道天橋的士天雨路滑打轉 撞電單車鐵騎士送院",
-        "dek": "周三近午夜彩虹邸對開天橋彎位發生車禍，運輸署一度封閉來回部分行車線；警方正調查意外起因。"
       }
     }
   ]
