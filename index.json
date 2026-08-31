@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-31T09:08:50+08:00",
+  "generated_at": "2026-08-31T09:16:17+08:00",
   "live_window_hours": 72,
-  "count": 82,
+  "count": 86,
   "articles": [
     {
       "id": "2026-08-31-lifestyle-anne-imhof-tai-kwun",
@@ -65,6 +65,93 @@
       "zh": {
         "headline": "首7個月通訊軟件騎劫案升154% 99%涉WhatsApp",
         "dek": "警方錄得2,020宗即時通訊帳戶騎劫案，按年升一倍半，損失約1.5億元，當中絕大部分發生在WhatsApp。"
+      }
+    },
+    {
+      "id": "2026-08-31-lifestyle-barminski-runway-51",
+      "published_at": "2026-08-31T09:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "arts",
+        "exhibition",
+        "central"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-lifestyle-barminski-runway-51.json",
+      "en": {
+        "headline": "Barminski cardboard airport show runs at JPS Gallery until 19 September",
+        "dek": "Runway 51 turns the Staunton Street gallery into a life-size cardboard terminal; admission is free, and the space is open Tuesday to Saturday."
+      },
+      "zh": {
+        "headline": "Barminski紙皮機場展於中環JPS畫廊展至9月19日",
+        "dek": "《51號跑道》把士丹頓街畫廊改成一比一紙皮航廈，免費入場，開放時間為周二至六上午11時至晚上7時。"
+      }
+    },
+    {
+      "id": "2026-08-31-canada-lifeboat-scheme-closes",
+      "published_at": "2026-08-31T09:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-canada-lifeboat-scheme-closes.json",
+      "en": {
+        "headline": "Canada's Hong Kong PR pathways close to new applications today",
+        "dek": "Ottawa will stop taking new Stream A and Stream B filings after 31 August; applications already received will still be processed, Immigration, Refugees and Citizenship Canada said."
+      },
+      "zh": {
+        "headline": "加拿大港人永久居留途徑今日截止接受新申請",
+        "dek": "移民部確認Stream A及Stream B於8月31日停止收新表，限期或之前遞交的申請會繼續審理；截至6月底約1.3萬人已取得永久居民身分。"
+      }
+    },
+    {
+      "id": "2026-08-31-wang-fuk-kong-charged",
+      "published_at": "2026-08-31T09:13:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "wang-fuk-court",
+        "courts"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-wang-fuk-kong-charged.json",
+      "en": {
+        "headline": "Ex-Wang Fuk Court committee member charged over loan scheme",
+        "dek": "Kong Cheung-fat, 64, and his wife Cheung Yeuk-lan, 62, face two fraud counts and one money-laundering count over the 100 per cent guarantee loan scheme, police said."
+      },
+      "zh": {
+        "headline": "宏福苑前法團委員江祥發夫婦被控詐騙及洗黑錢",
+        "dek": "64歲江祥發及62歲妻子張若蘭被控兩項詐騙及一項洗黑錢罪，案件周二在沙田裁判法院提堂，涉百分百擔保特惠貸款。"
+      }
+    },
+    {
+      "id": "2026-08-31-disneyland-taxi-overcharge",
+      "published_at": "2026-08-31T09:12:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "taxi",
+        "tourism",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-disneyland-taxi-overcharge.json",
+      "en": {
+        "headline": "Tourist video shows taxi fare jump after Disneyland trip",
+        "dek": "A passenger said a meter reading of about HK$144.50 from Disneyland to Tsuen Wan West became HK$376 after the driver cited a bridge fee; Lantau Link tolls have been waived since 2020."
+      },
+      "zh": {
+        "headline": "遊客指迪士尼的士以過橋費將車資加至376元",
+        "dek": "短片顯示由樂園往荃灣西如心酒店，咪錶約144.5元後司機稱要過橋費，最終收376元；青嶼幹線已於2020年底起豁免收費。"
       }
     },
     {
