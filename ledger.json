@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T03:05:07+08:00",
+  "updated_at": "2026-09-01T07:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -43,6 +43,36 @@
       "id": "2026-09-01-rbhk-opens-sep1",
       "first_seen": "2026-09-01T03:07:00+08:00",
       "headline_en": "Restaurant, Bar & Café Hong Kong trade show opens at HKCEC"
+    },
+    {
+      "key": "flu-vaccination-programmes-2026-27-sep17",
+      "id": "2026-09-01-flu-vaccination-sep17",
+      "first_seen": "2026-09-01T07:11:00+08:00",
+      "headline_en": "Flu vaccination programmes start 17 September, a week earlier than last year"
+    },
+    {
+      "key": "july-2026-retail-sales-15th-month",
+      "id": "2026-09-01-july-retail-sales",
+      "first_seen": "2026-09-01T07:12:00+08:00",
+      "headline_en": "Retail sales rise 4.5 per cent in July, extending streak to 15 months"
+    },
+    {
+      "key": "whatsapp-hijack-scams-jan-jul-2026",
+      "id": "2026-09-01-whatsapp-hijack-scams",
+      "first_seen": "2026-09-01T07:13:00+08:00",
+      "headline_en": "WhatsApp hijacking scams jump 170 per cent in first seven months"
+    },
+    {
+      "key": "miss-hong-kong-2026-bernice-yuen",
+      "id": "2026-09-01-miss-hong-kong-bernice-yuen",
+      "first_seen": "2026-09-01T07:14:00+08:00",
+      "headline_en": "Theme park performer Bernice Yuen crowned Miss Hong Kong 2026"
+    },
+    {
+      "key": "lifestyle-centrestage-2026-hkcec",
+      "id": "2026-09-01-lifestyle-centrestage-opens",
+      "first_seen": "2026-09-01T07:15:00+08:00",
+      "headline_en": "CENTRESTAGE fashion fair opens at the Convention Centre from Wednesday"
     }
   ]
 }
