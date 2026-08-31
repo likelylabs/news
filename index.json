@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-08-31T09:17:25+08:00",
+  "generated_at": "2026-08-31T11:22:40+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 73,
   "articles": [
+    {
+      "id": "2026-08-31-lifestyle-ive-asiaworld-sep",
+      "published_at": "2026-08-31T11:21:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "concert"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-lifestyle-ive-asiaworld-sep.json",
+      "en": {
+        "headline": "IVE stages three Hong Kong arena nights from Friday",
+        "dek": "The South Korean group's Show What I Am world tour plays AsiaWorld-Arena on 4, 5 and 6 September, with an 8pm start on Friday and 6pm on the weekend."
+      },
+      "zh": {
+        "headline": "IVE香港站周五起一連三場亞博Arena",
+        "dek": "韓國組合IVE世界巡演《SHOW WHAT I AM》定於9月4至6日在亞洲國際博覽館Arena舉行，周五晚上8時、周末晚上6時開場。"
+      }
+    },
+    {
+      "id": "2026-08-31-ohkf-sports-career-survey",
+      "published_at": "2026-08-31T11:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "education",
+        "schools",
+        "sport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-ohkf-sports-career-survey.json",
+      "en": {
+        "headline": "Think tank says more than a quarter of students want sports careers",
+        "dek": "Our Hong Kong Foundation surveyed about 1,100 secondary pupils and called for dual-track school guidelines and clearer entry routes into the industry."
+      },
+      "zh": {
+        "headline": "團結香港基金：逾四分一中學生有意投身體育行業",
+        "dek": "基金會訪問約1,100名中學生，指近半人不清楚入行途徑，建議為全港中學編制雙軌發展指引。"
+      }
+    },
+    {
+      "id": "2026-08-31-coleman-wong-us-open-r1",
+      "published_at": "2026-08-31T11:19:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "tennis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-coleman-wong-us-open-r1.json",
+      "en": {
+        "headline": "Coleman Wong exits US Open after first-round loss to Tommy Paul",
+        "dek": "The Hong Kong qualifier took the opening set in a tie-break on Louis Armstrong Stadium, then dropped the next three against the 20th seed."
+      },
+      "zh": {
+        "headline": "黃澤林美網男單首圈不敵保羅 先贏一盤後遭逆轉",
+        "dek": "港將在路易斯阿姆斯壯球場搶七先下一城，其後連輸三盤，以盤數1比3止步20號種子。"
+      }
+    },
+    {
+      "id": "2026-08-31-saudel-remnant-t1-consideration",
+      "published_at": "2026-08-31T11:18:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "observatory",
+        "forecast"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-saudel-remnant-t1-consideration.json",
+      "en": {
+        "headline": "Observatory may issue Standby Signal as Saudel remnant rebuilds",
+        "dek": "A special weather hint at 8.20am said the remnant of Tropical Cyclone Saudel may strengthen into a tropical depression near Hainan this evening."
+      },
+      "zh": {
+        "headline": "沙德爾殘餘料增強 天文台考慮黃昏前後發一號波",
+        "dek": "天文台今早8時20分發特別天氣提示，指沙德爾殘餘黃昏前後移向海南島東南沿岸，並逐漸增強為熱帶低氣壓。"
+      }
+    },
     {
       "id": "2026-08-31-lifestyle-anne-imhof-tai-kwun",
       "published_at": "2026-08-31T09:20:00+08:00",
@@ -1516,373 +1601,6 @@
       "zh": {
         "headline": "港交所據報研究GEM併入主板 擬增設18D章",
         "dek": "南華早報引述消息人士指，交易所正研究在《上市規則》新增第18D章，把逾300家GEM公司納入主板專章，或於年底諮詢公眾。"
-      }
-    },
-    {
-      "id": "2026-08-28-hku-csd-hepc-screening",
-      "published_at": "2026-08-28T11:20:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "public-health",
-        "health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-hku-csd-hepc-screening.json",
-      "en": {
-        "headline": "HKU and prisons find hepatitis C in 4.1 per cent of inmates screened",
-        "dek": "A voluntary pilot at Stanley Prison with the Correctional Services Department reported a rate far above the 0.3 per cent in the general population; treated inmates cleared the virus."
-      },
-      "zh": {
-        "headline": "港大懲教署篩查顯示在囚人士丙肝盛行率4.1%",
-        "dek": "赤柱監獄自願先導計劃發現比率遠高於本港一般人口的0.3%，確診者經治療後病毒均被清除，團隊促擴展計劃。"
-      }
-    },
-    {
-      "id": "2026-08-28-afcd-stanley-dog-neuter",
-      "published_at": "2026-08-28T11:19:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "animals",
-        "afcd",
-        "stanley",
-        "pets"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-afcd-stanley-dog-neuter.json",
-      "en": {
-        "headline": "AFCD orders neutering after Stanley cafe dog complaint",
-        "dek": "Officers took a 10-year-old dog for inspection after a report of a suspected fighting breed at a Stanley eatery; the owner arranged emergency surgery to avoid impoundment."
-      },
-      "zh": {
-        "headline": "漁護署赤柱食肄接投訴 要求狗主為十歲犬絕育",
-        "dek": "署方周三接報巡查懷疑格鬥犬後將犬隻帶走調查，表明若不由註冊獸醫絕育便會扣押，狗主其後安排緊急手術。"
-      }
-    },
-    {
-      "id": "2026-08-28-genai-sandbox-first-cohort",
-      "published_at": "2026-08-28T11:19:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "ai",
-        "hkma",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-genai-sandbox-first-cohort.json",
-      "en": {
-        "headline": "Regulators pick 36 use cases for first GenAI Sandbox++ cohort",
-        "dek": "The HKMA, SFC, Insurance Authority and MPFA, with Cyberport, selected projects from nearly 100 proposals involving 30 financial institutions and 27 technology partners."
-      },
-      "zh": {
-        "headline": "金管局等公布首期GenAI沙盒++ 36個用例入選",
-        "dek": "金管局、證監會、保監局及積金局聯同數碼港，從近100份建議中選出30家金融機構及27家技術夥伴的項目，稍後展開測試。"
-      }
-    },
-    {
-      "id": "2026-08-28-cuhk-lo-northern-metropolis-loan",
-      "published_at": "2026-08-28T11:18:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "education",
-        "northern-metropolis",
-        "cuhk"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-cuhk-lo-northern-metropolis-loan.json",
-      "en": {
-        "headline": "CUHK president seeks larger loan for Northern Metropolis campus",
-        "dek": "Dennis Lo Yuk-ming told RTHK he hopes the HK$10 billion construction loan reserved for universities in the Northern Metropolis can be increased so the university can plan a larger Hung Shui Kiu campus."
-      },
-      "zh": {
-        "headline": "中大校長盧煌明冀北都建校百億貸款加碼",
-        "dek": "盧煌明接受港台訪問，指北部都會區洪水橋位置優越，希望政府將預留予院校的100億元建設貸款加碼，方便中大規劃擴展。"
-      }
-    },
-    {
-      "id": "2026-08-28-cuhk-lo-northern-metropolis",
-      "published_at": "2026-08-28T11:18:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "northern-metropolis",
-        "cuhk",
-        "universities"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-cuhk-lo-northern-metropolis.json",
-      "en": {
-        "headline": "CUHK chief seeks larger loan for Northern Metropolis campus",
-        "dek": "Dennis Lo Yuk-ming said the government’s HK$10 billion construction loan for universities in the new town should be increased so the university can plan a larger campus."
-      },
-      "zh": {
-        "headline": "盧煌明冀北都大學城百億建設貸款加碼",
-        "dek": "中大校長在港台節目表示，洪水橋位置優越，有助擴大學校規模，希望政府預留予院校的100億元貸款可以提高。"
-      }
-    },
-    {
-      "id": "2026-08-28-tac-new-appointments",
-      "published_at": "2026-08-28T11:17:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "tac",
-        "government",
-        "appointments"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-tac-new-appointments.json",
-      "en": {
-        "headline": "Seven new members appointed to Transport Advisory Committee",
-        "dek": "The Chief Executive reappointed two serving members and named seven new ones with effect from 1 October, two of them through the youth self-recommendation scheme."
-      },
-      "zh": {
-        "headline": "交諮會七名新成員獲委任 十月一日生效",
-        "dek": "行政長官再委任兩名現任委員，並新委任七人，當中兩人經青年委員自薦計劃出任，任期由十月一日起。"
-      }
-    },
-    {
-      "id": "2026-08-28-genai-sandbox-plusplus-cohort",
-      "published_at": "2026-08-28T11:16:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "ai",
-        "finance",
-        "hkma",
-        "cyberport",
-        "regulation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-genai-sandbox-plusplus-cohort.json",
-      "en": {
-        "headline": "Regulators pick 36 agentic AI pilots for expanded finance sandbox",
-        "dek": "HKMA, the SFC, the Insurance Authority and the MPFA selected 36 use cases from nearly 100 proposals, involving 30 financial institutions and 27 technology partners."
-      },
-      "zh": {
-        "headline": "金管局等公布首期GenA.I.沙盒++ 36個用例入選",
-        "dek": "金管局、證監會、保監局及積金局聯同數碼港選出36個用例，來自近100份方案，涉及30家金融機構及27家技術夥伴。"
-      }
-    },
-    {
-      "id": "2026-08-28-lifestyle-yulan-culture-festival",
-      "published_at": "2026-08-28T11:09:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "festival",
-        "victoria-park",
-        "heritage",
-        "causeway-bay"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-lifestyle-yulan-culture-festival.json",
-      "en": {
-        "headline": "Yu Lan Cultural Festival returns to Victoria Park next weekend",
-        "dek": "The ninth edition runs free from 4 to 6 September at Soccer Pitch 1, after the main Hungry Ghost Festival day on Thursday."
-      },
-      "zh": {
-        "headline": "第九屆盏蘭文化節下周末維園舉行 免費入場",
-        "dek": "香港潮屬社團總會主辦活動於9月4日至6日在維園1號球場舉行，正日剛過，設搶孤及盆供比賽。"
-      }
-    },
-    {
-      "id": "2026-08-28-kmb-nlb-new-franchises",
-      "published_at": "2026-08-28T11:08:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "buses",
-        "kmb"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-kmb-nlb-new-franchises.json",
-      "en": {
-        "headline": "Government to discuss new 10-year franchises with KMB and NLB",
-        "dek": "New Lantao Bus’s current franchise expires on 1 March 2027 and Kowloon Motor Bus’s on 1 July 2027; the public may comment until 28 September."
-      },
-      "zh": {
-        "headline": "政府擬與九巴及嶼巴商討新十年專營權",
-        "dek": "嶼巴現行專營權明年3月1日屆滿，九巴則於7月1日屆滿，兩巴已表明有意申請新專營權，公眾可於9月28日前發表意見。"
-      }
-    },
-    {
-      "id": "2026-08-28-kwun-tong-shun-king-burglary",
-      "published_at": "2026-08-28T11:07:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "kwun-tong",
-        "burglary"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-kwun-tong-shun-king-burglary.json",
-      "en": {
-        "headline": "Two Kwun Tong flats burgled; 53-year-old man arrested nearby",
-        "dek": "Police say three residents of Shun King Building on Ka Lok Street lost more than HK$47,000 after doors were forced on Thursday evening."
-      },
-      "zh": {
-        "headline": "觀塘順景大樓兩單位遇竊 警在附近拙53歲男",
-        "dek": "嘉樂街順景大樓兩個單位周四晚被擠門搜掠，三名住戶合共損失逾4.7萬元，警方其後在約40米外大廈截獲一名男子。"
-      }
-    },
-    {
-      "id": "2026-08-28-wong-tai-sin-bakery-ceiling-fall",
-      "published_at": "2026-08-28T11:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "buildings",
-        "wong-tai-sin",
-        "accident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-wong-tai-sin-bakery-ceiling-fall.json",
-      "en": {
-        "headline": "Ceiling and concrete fall at Wong Tai Sin bakery, woman hurt",
-        "dek": "A section of ceiling about four metres by three metres came down at a ground-floor bakery on Sheung Fung Street this morning, hitting a customer who was taken to hospital."
-      },
-      "zh": {
-        "headline": "黃大仙麵包舖天花連石尾墮下 女顧客受傷送院",
-        "dek": "雙鳳街一地下麵包舖今早約4米乘3米天花連同石尾剝落，擊中一名二十多歲女顧客，她清醒送院。"
-      }
-    },
-    {
-      "id": "2026-08-28-weekend-weather-outlook",
-      "published_at": "2026-08-28T11:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "weekend",
-        "thunderstorm",
-        "forecast"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-weekend-weather-outlook.json",
-      "en": {
-        "headline": "Weekend outlook: showers and isolated storms, Sunday wetter",
-        "dek": "The Observatory expects mainly cloudy skies with a few showers this weekend, very hot on Saturday and more thunderstorms in places on Sunday."
-      },
-      "zh": {
-        "headline": "周末天氣展望：有驟雨及局部雷暴 周日部分地區較多雨",
-        "dek": "天文台預料本周末大致多雲，有幾陣驟雨及局部雷暴，周六日間酷熱，周日部分地區雨勢較多。"
-      }
-    },
-    {
-      "id": "2026-08-28-lifestyle-yan-ting-coliseum",
-      "published_at": "2026-08-28T09:22:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "concert",
-        "hung-hom"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-lifestyle-yan-ting-coliseum.json",
-      "en": {
-        "headline": "Yan Ting opens two-night Coliseum run with The Alchemist Live",
-        "dek": "Singer Yan Ting begins a two-night stand at Hong Kong Coliseum this evening, with a second show on Saturday, after tickets went on sale through Cityline and URBTIX."
-      },
-      "zh": {
-        "headline": "周殷廷紅館《The Alchemist Live》今晚揭幕",
-        "dek": "歌手周殷廷今晚及周六連續兩場在紅磬香港體育館舉行演唱會，門票較早前經城市售票網及URBTIX發售。"
-      }
-    },
-    {
-      "id": "2026-08-28-aia-suspends-staff-apm-case",
-      "published_at": "2026-08-28T09:21:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "kwun-tong",
-        "police",
-        "insurance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-aia-suspends-staff-apm-case.json",
-      "en": {
-        "headline": "AIA Hong Kong suspends staff member after Kwun Tong mall fight",
-        "dek": "The insurer said a related person has been temporarily suspended after a filmed dispute at apm in Kwun Tong in which three women were arrested."
-      },
-      "zh": {
-        "headline": "友邦香港就觀塚apm衝突暫停相關人士職務",
-        "dek": "保險公司向傳媒表示，觀塚apm玩樂區衝突有相關人士已被暫時停任，公司會跟進；較早前有三名女子被捕。"
-      }
-    },
-    {
-      "id": "2026-08-28-tai-po-sheung-shui-anti-vice-10",
-      "published_at": "2026-08-28T09:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "tai-po",
-        "sheung-shui",
-        "fanling"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-tai-po-sheung-shui-anti-vice-10.json",
-      "en": {
-        "headline": "Police arrest 10 women in Tai Po, Sheung Shui and Fanling vice raids",
-        "dek": "Tai Po officers and other departments searched four tenement subdivided flats on Thursday afternoon and arrested 10 mainland women on suspicion of breaching conditions of stay."
-      },
-      "zh": {
-        "headline": "大埔上水粉嶺掃黃 四劍房拙10名內地女子",
-        "dek": "大埔警區聯同相關部門周四下午在四個唐樓劍房採取行動，拑10名內地女子，涉嫌違反逗留條件。"
-      }
-    },
-    {
-      "id": "2026-08-28-sha-tin-tai-chung-kiu-van-taxi",
-      "published_at": "2026-08-28T09:19:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "sha-tin",
-        "traffic",
-        "taxi"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-sha-tin-tai-chung-kiu-van-taxi.json",
-      "en": {
-        "headline": "Light goods van overturns after late-night crash with taxi in Sha Tin",
-        "dek": "A light goods vehicle and a taxi collided at Tai Chung Kiu Road shortly after 11 p.m. on Thursday. Both drivers were injured and taken to Prince of Wales Hospital."
-      },
-      "zh": {
-        "headline": "沙田大涌橋路貨Van撞的士後翻側 兩司機受傷",
-        "dek": "周四晚約11時18分，輕型貨車與的士在大涌橋路交界相撞，貨車翻側，兩名司機受傷送往威爾斯親王醫院。"
-      }
-    },
-    {
-      "id": "2026-08-28-kwai-chung-road-minibus-overturn",
-      "published_at": "2026-08-28T09:18:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "kwai-chung",
-        "minibus",
-        "traffic",
-        "transport-department"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-kwai-chung-road-minibus-overturn.json",
-      "en": {
-        "headline": "Empty red minibus overturns on Kwai Chung Road near Lai Chi Kok",
-        "dek": "A driver-only public light bus struck a kerb and flipped onto Kwai Chung Road towards Tsuen Wan at 7.43 a.m., closing lanes near Mei Foo and sending the driver to hospital."
-      },
-      "zh": {
-        "headline": "葵涌道空載紅VAN撞壤翻側 往荃灣交通受阻",
-        "dek": "今早7時43分一輛只有司機的紅色小巴在葵涌道近荔枝角公園失控撞壤翻側，司機面部受傷送院，美孚附近部分行車線封閉。"
       }
     }
   ]
