@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-08-31T15:08:43+08:00",
+  "generated_at": "2026-08-31T23:15:48+08:00",
   "live_window_hours": 72,
-  "count": 75,
+  "count": 74,
   "articles": [
+    {
+      "id": "2026-08-31-xpower-charger-warning",
+      "published_at": "2026-08-31T23:18:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "customs",
+        "consumer-safety",
+        "product-recall"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-xpower-charger-warning.json",
+      "en": {
+        "headline": "Customs warns against XPower wireless power bank over burn risk",
+        "dek": "Tests found the M10C+ model can overheat above 85 degrees Celsius when metal objects are placed between the charger and a device; 220 units were seized and sales banned."
+      },
+      "zh": {
+        "headline": "海關籲停用XPower無線尿袋 測出過熱燒傷風險",
+        "dek": "測試顯示該款M10C+充電器在金屬外物夾於中間時溫度可達86.6至131.4度，超過限值；已檢獲220件並禁售。"
+      }
+    },
+    {
+      "id": "2026-08-31-tram-power-fault",
+      "published_at": "2026-08-31T23:17:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "tram",
+        "hong-kong-tramways",
+        "causeway-bay"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-tram-power-fault.json",
+      "en": {
+        "headline": "Tram service suspended between North Point and Happy Valley after power fault",
+        "dek": "Westbound services from North Point Terminus to Tin Lok Lane were halted from about 6pm; eastbound services later resumed while engineers worked on the fault."
+      },
+      "zh": {
+        "headline": "北角至天樂里西行電車因電力故障暫停服務",
+        "dek": "傍晚約6時起北角總站至天樂里（跑馬地圈）西行線電車暫停，東行線其後恢復，工程人員搶修。"
+      }
+    },
+    {
+      "id": "2026-08-31-wang-fuk-991-accept",
+      "published_at": "2026-08-31T23:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "tai-po",
+        "wang-fuk-court",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-wang-fuk-991-accept.json",
+      "en": {
+        "headline": "Wang Fuk Court buyout acceptance reaches 99.1 per cent as deadline ends",
+        "dek": "By the 5pm Monday cut-off, 1,967 of 1,984 owners had returned acceptance letters, leaving 17 households; the government said it would press ahead with remaining acquisitions."
+      },
+      "zh": {
+        "headline": "宏福苑收購接受率達99.1% 限期屆滿尚餘17戶",
+        "dek": "截至周一傍晚5時截止，1,984戶中有1,967戶交回接受書，比率99.1%；餘下17戶或面對強制收地。"
+      }
+    },
+    {
+      "id": "2026-08-31-t1-saudel-issued",
+      "published_at": "2026-08-31T23:15:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "observatory",
+        "tropical-cyclone",
+        "saudel"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-t1-saudel-issued.json",
+      "en": {
+        "headline": "Standby Signal No. 1 issued as Saudel becomes tropical depression",
+        "dek": "The Hong Kong Observatory issued the signal at 6.10pm after the remnant of the former typhoon intensified; it is expected to stay in force until at least noon on Tuesday."
+      },
+      "zh": {
+        "headline": "沙德爾增強為熱帶低氣壓 天文台發出一號戒備信號",
+        "dek": "天文台傍晚6時10分因沙德爾殘餘增強為熱帶低氣壓而發出一號戒備信號，預料信號至少維持至周二中午。"
+      }
+    },
     {
       "id": "2026-08-31-linda-lin-dai-grave-vandalism",
       "published_at": "2026-08-31T15:07:00+08:00",
@@ -1543,116 +1632,6 @@
       "zh": {
         "headline": "隋唐服飾展於中央圖書館舉行 免費入場至9月6日",
         "dek": "中國文化節活動於香港中央圖書館展覽廊展出復原古裝、當代時裝及數碼展示，融合歷史與現代設計。"
-      }
-    },
-    {
-      "id": "2026-08-28-lifestyle-maxims-palace-moko",
-      "published_at": "2026-08-28T23:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "mong-kok",
-        "dining"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-lifestyle-maxims-palace-moko.json",
-      "en": {
-        "headline": "Maxim’s Palace opens seventh branch at MOKO in Mong Kok",
-        "dek": "The new outlet keeps traditional hand-pushed dim sum carts while adding live suckling-pig carving, a dim sum academy and an open-kitchen concept."
-      },
-      "zh": {
-        "headline": "美心皇宮旺角MOKO開第七分店 保留手推點心車",
-        "dek": "新店保留傳統手推點心車，並加入即場燒乳豬、點心學院及開放式廚房元素。"
-      }
-    },
-    {
-      "id": "2026-08-28-evtol-cyberport-maiden-flight",
-      "published_at": "2026-08-28T23:05:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "ai",
-        "transport",
-        "low-altitude"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-evtol-cyberport-maiden-flight.json",
-      "en": {
-        "headline": "Pilotless eVTOL completes maiden Hong Kong flight at Cyberport",
-        "dek": "EHang’s EH216-S, carrying a robot, flew a preset route at the Cyberport waterfront vertiport as part of the government’s low-altitude economy regulatory sandbox trials."
-      },
-      "zh": {
-        "headline": "無人駕駛eVTOL於數碼港完成香港首航試飛",
-        "dek": "億航EH216-S搭載機械人在數碼港海濱垂直起降機場完成預設航線飛行，屬政府低空經濟監管沙盒X首批試點。"
-      }
-    },
-    {
-      "id": "2026-08-28-mtr-hung-shui-kiu-skidding",
-      "published_at": "2026-08-28T21:17:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "transport",
-        "northern-metropolis",
-        "construction"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-mtr-hung-shui-kiu-skidding.json",
-      "en": {
-        "headline": "MTR to use world-first skidding method for Hung Shui Kiu Station",
-        "dek": "Two 10,000-tonne station structures will be built beside the Tuen Ma Line viaduct and slid into place next year, limiting service disruption to at most two days each time."
-      },
-      "zh": {
-        "headline": "港鐵洪水橋站全球首用「滑移施工」 明年兩次短暫影響屯馬綫",
-        "dek": "兩座各重約1萬噸的車站結構將在屯馬綫高架橋旁預製，明年分兩次滑移就位，每次服務受影響不多於兩日。"
-      }
-    },
-    {
-      "id": "2026-08-28-wang-fuk-court-96pc-accept",
-      "published_at": "2026-08-28T21:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "tai-po",
-        "wang-fuk-court",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-wang-fuk-court-96pc-accept.json",
-      "en": {
-        "headline": "Over 96 per cent of Wang Fuk Court owners accept government buyout",
-        "dek": "Housing secretary Winnie Ho said 1,914 households had accepted the offer as of Thursday, with only about 70 still outstanding before the 31 August deadline."
-      },
-      "zh": {
-        "headline": "宏福苑逾96%業主接受政府收購 尚餘約70戶未回覆",
-        "dek": "房屋局局長何永賢表示，截至周四有1,914戶業主接受收購，距離8月31日截止期限尚餘約70戶。"
-      }
-    },
-    {
-      "id": "2026-08-28-insurance-licence-cheating-scheme",
-      "published_at": "2026-08-28T21:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "crime",
-        "insurance",
-        "fraud"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-insurance-licence-cheating-scheme.json",
-      "en": {
-        "headline": "Police arrest 15 over insurance licence exam cheating scheme",
-        "dek": "Commercial Crime Bureau officers detained six men and nine women during a test at a Kwun Tong centre; the Insurance Authority has suspended recognition of the FLMI qualification."
-      },
-      "zh": {
-        "headline": "保險牌照考試作弊案拘15人 監管局暫停承認相關資歷",
-        "dek": "商業罪案調查科在觀塘試場突擊行動拘捕六男九女，保險業監管局即時暫停承認FLMI資歷。"
       }
     }
   ]
