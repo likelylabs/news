@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-09-01T03:05:07+08:00",
+  "generated_at": "2026-09-01T07:15:41+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-09-01-lifestyle-centrestage-opens",
+      "published_at": "2026-09-01T07:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "fashion",
+        "exhibition",
+        "wan-chai",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-lifestyle-centrestage-opens.json",
+      "en": {
+        "headline": "CENTRESTAGE fashion fair opens at the Convention Centre from Wednesday",
+        "dek": "The Trade Development Council said about 270 brands from 24 places will show through Saturday, with more than 30 runway presentations including an opening night for Kit Wan Studios."
+      },
+      "zh": {
+        "headline": "香港國際時尚匯展周三起於會展舉行",
+        "dek": "貿發局表示約270個品牌來自24個國家及地區，展期至周六，並有逾30場時裝表演，開幕夜聚焦Kit Wan Studios。"
+      }
+    },
+    {
+      "id": "2026-09-01-miss-hong-kong-bernice-yuen",
+      "published_at": "2026-09-01T07:14:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "culture",
+        "celebrity",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-miss-hong-kong-bernice-yuen.json",
+      "en": {
+        "headline": "Theme park performer Bernice Yuen crowned Miss Hong Kong 2026",
+        "dek": "The 26-year-old Baptist University graduate won Sunday night's TVB final at Tseung Kwan O, with Ada Tang and Scarlett Li named first and second runners-up."
+      },
+      "zh": {
+        "headline": "主題樂園演員袁絲珩當選2026香港小姐冠軍",
+        "dek": "26歲浸大傳理系畢業生周日晚於將軍澳電視城奪冠，亞軍鄧匡閷、季軍李澤欣。"
+      }
+    },
+    {
+      "id": "2026-09-01-whatsapp-hijack-scams",
+      "published_at": "2026-09-01T07:13:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "fraud",
+        "police",
+        "security"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-whatsapp-hijack-scams.json",
+      "en": {
+        "headline": "WhatsApp hijacking scams jump 170 per cent in first seven months",
+        "dek": "Police recorded 1,993 WhatsApp account-takeover cases from January to July, with losses of HK$146 million, and said phishing texts remain the main entry point."
+      },
+      "zh": {
+        "headline": "首七個月WhatsApp騎劫騙案升近一倍七 損失1.46億",
+        "dek": "警方錄得1,993宗WhatsApp帳戶被騎劫個案，損失約1.46億元，指大部分仍由釣魚短訊入手。"
+      }
+    },
+    {
+      "id": "2026-09-01-july-retail-sales",
+      "published_at": "2026-09-01T07:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "retail",
+        "economy",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-july-retail-sales.json",
+      "en": {
+        "headline": "Retail sales rise 4.5 per cent in July, extending streak to 15 months",
+        "dek": "Provisional Census and Statistics Department figures put July sales at HK$31 billion; jewellery and watches led the gain while motor vehicles and fuel fell."
+      },
+      "zh": {
+        "headline": "7月零售銷貨價值升4.5% 連續第15個月增長",
+        "dek": "政府統計處臨時數字顯示7月零售銷貨約310億元；珠寶鐘錶升幅最大，汽車及燃料則下跌。"
+      }
+    },
+    {
+      "id": "2026-09-01-flu-vaccination-sep17",
+      "published_at": "2026-09-01T07:11:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "vaccination",
+        "influenza",
+        "chp",
+        "hospital-authority",
+        "schools"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-flu-vaccination-sep17.json",
+      "en": {
+        "headline": "Flu vaccination programmes start 17 September, a week earlier than last year",
+        "dek": "The Centre for Health Protection said about 1.3 million doses have been procured for the 2026-27 season, with school outreach and public clinics opening as influenza remains active."
+      },
+      "zh": {
+        "headline": "季節性流感疫苗接種計劃9月17日展開 較去年提早一周",
+        "dek": "衞生防護中心表示已採購約130萬劑疫苗供2026/27年度計劃使用，學校外展及公營診所同步開打，現時流感仍處高水平。"
+      }
+    },
     {
       "id": "2026-09-01-rbhk-opens-sep1",
       "published_at": "2026-09-01T03:07:00+08:00",
@@ -1725,72 +1838,6 @@
       "zh": {
         "headline": "政府招標出售渣甸山地皮作電動車高速充電站",
         "dek": "大坑道137號內地段第9105號面積901.3平方米，指定改作電動車高速充電站，公開招標於11月6日截標。"
-      }
-    },
-    {
-      "id": "2026-08-29-hdrc-medical-dispute-platform",
-      "published_at": "2026-08-29T07:15:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "legal",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-29/2026-08-29-hdrc-medical-dispute-platform.json",
-      "en": {
-        "headline": "Healthcare centre launches online medical dispute platform",
-        "dek": "The Healthcare Dispute Resolution Centre opened a virtual and in-person mediation and arbitration service on Friday for patients and providers in Hong Kong and the Greater Bay Area."
-      },
-      "zh": {
-        "headline": "醫療爭議解決中心推出網上調解平台",
-        "dek": "非牟利機構周五啟用網上及面對面調解與仲裁服務，供本港及大灣區患者與醫療服務提供者處理爭議。"
-      }
-    },
-    {
-      "id": "2026-08-29-poa-2027-arrangements",
-      "published_at": "2026-08-29T07:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "schools",
-        "community",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-29/2026-08-29-poa-2027-arrangements.json",
-      "en": {
-        "headline": "EDB opens Primary One 2027 applications from mid-September",
-        "dek": "Hong Kong children born on or before 31 December 2021 can join the Primary One Admission System for September 2027, with digital applications encouraged through the ePOA platform."
-      },
-      "zh": {
-        "headline": "教育局公布2027年小一入學安排 9月中起接受申請",
-        "dek": "2021年12月31日或之前出生、未曾入讀小學亦未獲派小一學位的本港兒童，可參加2027年9月小一入學統籌辦法，當局鼓勵經電子平台申請。"
-      }
-    },
-    {
-      "id": "2026-08-29-lifestyle-sui-tang-attire-exhibition",
-      "published_at": "2026-08-29T03:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "culture",
-        "central",
-        "heritage"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-29/2026-08-29-lifestyle-sui-tang-attire-exhibition.json",
-      "en": {
-        "headline": "Sui and Tang attire exhibition opens at Central Library",
-        "dek": "Free show at Hong Kong Central Library runs until 6 September, blending reconstructed historical clothing with contemporary fashion and digital displays."
-      },
-      "zh": {
-        "headline": "隋唐服飾展於中央圖書館舉行 免費入場至9月6日",
-        "dek": "中國文化節活動於香港中央圖書館展覽廊展出復原古裝、當代時裝及數碼展示，融合歷史與現代設計。"
       }
     }
   ]
