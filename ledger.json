@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T01:11:04+08:00",
+  "updated_at": "2026-09-01T03:08:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -25,6 +25,24 @@
       "id": "2026-09-01-lifestyle-margarita-mile-2026",
       "first_seen": "2026-09-01T01:13:00+08:00",
       "headline_en": "Margarita Mile cocktail trail returns across ten Hong Kong bars from today"
+    },
+    {
+      "key": "t1-saudel-still-in-force-sep1",
+      "id": "2026-09-01-t1-saudel-still-in-force",
+      "first_seen": "2026-09-01T03:05:00+08:00",
+      "headline_en": "Standby Signal No. 1 remains in force as Saudel tracks across northern South China Sea"
+    },
+    {
+      "key": "lifestyle-nepal-orchard-fundraiser-aug31",
+      "id": "2026-09-01-lifestyle-nepal-orchard-fundraiser",
+      "first_seen": "2026-09-01T03:06:00+08:00",
+      "headline_en": "Nepalese bartenders pack Central bar for Nepal flood relief fundraiser"
+    },
+    {
+      "key": "rbhk-2026-opens-sep1",
+      "id": "2026-09-01-rbhk-opens-sep1",
+      "first_seen": "2026-09-01T03:07:00+08:00",
+      "headline_en": "Restaurant, Bar & Café Hong Kong trade show opens at HKCEC"
     }
   ]
 }
