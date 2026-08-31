@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T13:16:53+08:00",
+  "updated_at": "2026-08-31T15:07:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -433,6 +433,24 @@
       "id": "2026-08-31-san-tin-highway-truck-crash",
       "first_seen": "2026-08-31T13:17:00+08:00",
       "headline_en": "Two trucks collide on San Tin Highway; driver trapped briefly"
+    },
+    {
+      "key": "icac-police-cc-bid-rigging-50-arrests-aug31",
+      "id": "2026-08-31-icac-bid-rigging-50-arrests",
+      "first_seen": "2026-08-31T15:05:00+08:00",
+      "headline_en": "ICAC, police and Competition Commission arrest 50 over building maintenance bid-rigging"
+    },
+    {
+      "key": "galbot-first-robot-retail-stores-hk",
+      "id": "2026-08-31-galbot-robot-retail-stores",
+      "first_seen": "2026-08-31T15:06:00+08:00",
+      "headline_en": "Hong Kong’s first fully autonomous robot retail stores open Tuesday"
+    },
+    {
+      "key": "linda-lin-dai-grave-vandalism",
+      "id": "2026-08-31-linda-lin-dai-grave-vandalism",
+      "first_seen": "2026-08-31T15:07:00+08:00",
+      "headline_en": "Grave of late actress Linda Lin Dai vandalised at Happy Valley cemetery"
     }
   ]
 }
