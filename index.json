@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-08-31T13:16:53+08:00",
+  "generated_at": "2026-08-31T15:08:43+08:00",
   "live_window_hours": 72,
-  "count": 72,
+  "count": 75,
   "articles": [
+    {
+      "id": "2026-08-31-linda-lin-dai-grave-vandalism",
+      "published_at": "2026-08-31T15:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "crime",
+        "police",
+        "heritage"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-linda-lin-dai-grave-vandalism.json",
+      "en": {
+        "headline": "Grave of late actress Linda Lin Dai vandalised at Happy Valley cemetery",
+        "dek": "Cemetery staff found graffiti and cement covering the marble altar of the four-time Asia Pacific Film Festival best actress; an 87-year-old man was arrested in connection with damage to a nearby grave."
+      },
+      "zh": {
+        "headline": "跑馬地林黛墳墓遭塗鴉及英泥覆蓋 87歲翁涉破壞鄰近墳墓被捕",
+        "dek": "聖彌額爾天主教墳場發現四屆亞太影展影后林黛墓碑遭塗鴉，雲石拜台被英泥覆蓋；警方另就鄰近修會墳墓破壞拘捕一名退休男子。"
+      }
+    },
+    {
+      "id": "2026-08-31-galbot-robot-retail-stores",
+      "published_at": "2026-08-31T15:06:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "ai",
+        "retail",
+        "innovation",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-galbot-robot-retail-stores.json",
+      "en": {
+        "headline": "Hong Kong’s first fully autonomous robot retail stores open Tuesday",
+        "dek": "Mainland firm Galbot launches three Galbot Store outlets at Hung Hom waterfront, Wan Chai waterfront and Kai Tak Sports Park, with Financial Secretary Paul Chan completing the first transaction at Kai Tak."
+      },
+      "zh": {
+        "headline": "本港首批全自主機械人零售店周二起營運",
+        "dek": "內地具身智能企業銀河通用於紅磡海濱、灣仔海濱及啟德體育園開設三間Galbot Store，財政司司長陳茂波在啟德店完成首宗交易。"
+      }
+    },
+    {
+      "id": "2026-08-31-icac-bid-rigging-50-arrests",
+      "published_at": "2026-08-31T15:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "icac",
+        "competition-commission",
+        "bid-rigging"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-icac-bid-rigging-50-arrests.json",
+      "en": {
+        "headline": "ICAC, police and Competition Commission arrest 50 over building maintenance bid-rigging",
+        "dek": "A joint operation codenamed Iron Alliance last week targeted a contractor-led syndicate linked to 27 estates and buildings, with contracts valued at nearly HK$500 million."
+      },
+      "zh": {
+        "headline": "廉署警方競委會聯手拘50人 打擊樓宇維修圍標集團",
+        "dek": "代號「鐵盟」行動上週打擊以一間工程承辦商為首的貪污圍標集團，涉27個屋苑及大廈，合約總值近5億元。"
+      }
+    },
     {
       "id": "2026-08-31-san-tin-highway-truck-crash",
       "published_at": "2026-08-31T13:17:00+08:00",
