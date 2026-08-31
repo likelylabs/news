@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-08-31T07:25:36+08:00",
+  "generated_at": "2026-08-31T09:07:14+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 82,
   "articles": [
+    {
+      "id": "2026-08-31-lifestyle-anne-imhof-tai-kwun",
+      "published_at": "2026-08-31T09:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "arts",
+        "tai-kwun"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-lifestyle-anne-imhof-tai-kwun.json",
+      "en": {
+        "headline": "Tai Kwun to present Anne Imhof’s first major Asia solo show",
+        "dek": "House of Swans opens on 25 September at JC Contemporary and runs until 3 January, with opening-week performances involving Hong Kong Ballet."
+      },
+      "zh": {
+        "headline": "大館下月舉行Anne Imhof亞洲首個大型個展",
+        "dek": "《House of Swans》9月25日至明年1月3日於JC當代空間展出，開幕周有香港茵蕾舞團參與演出。"
+      }
+    },
+    {
+      "id": "2026-08-31-kwun-tong-drink-drive-crash",
+      "published_at": "2026-08-31T09:19:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "traffic",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-kwun-tong-drink-drive-crash.json",
+      "en": {
+        "headline": "Driver arrested for drink-driving after Kwun Tong roundabout crash",
+        "dek": "A motorcyclist was injured when a private car hit a motorcycle at the Lei Yue Mun Road and Kai Tin Road roundabout late on Sunday."
+      },
+      "zh": {
+        "headline": "觀塘迴旋處私家車撞電單車 司機涉酒駕被捕",
+        "dek": "週日近午夜，鯉魚門道與啟田道交界迴旋處兩車相撞，電單車司機手腳受傷送院，私家車司機酒精測試超標。"
+      }
+    },
+    {
+      "id": "2026-08-31-whatsapp-hijack-cases-h1",
+      "published_at": "2026-08-31T09:18:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "crime",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-whatsapp-hijack-cases-h1.json",
+      "en": {
+        "headline": "Police record 2,020 messaging hijack cases in seven months",
+        "dek": "Instant-messaging account takeovers rose 154 per cent from January to July, police said, with WhatsApp involved in 99 per cent of cases."
+      },
+      "zh": {
+        "headline": "首7個月通訊軟件騎劫案升154% 99%涉WhatsApp",
+        "dek": "警方錄得2,020宗即時通訊帳戶騎劫案，按年升一倍半，損失約1.5億元，當中絕大部分發生在WhatsApp。"
+      }
+    },
     {
       "id": "2026-08-31-lifestyle-ma-on-shan-cow-photo",
       "published_at": "2026-08-31T07:29:00+08:00",
