@@ -1,342 +1,65 @@
 {
-  "updated_at": "2026-08-31T09:07:14+08:00",
+  "updated_at": "2026-08-31T09:20:00+08:00",
   "retention_days": 5,
   "covered": [
-    {
-      "key": "insurance-licence-cheating-scheme-aug28",
-      "id": "2026-08-28-insurance-licence-cheating-scheme",
-      "first_seen": "2026-08-28T21:15:00+08:00",
-      "headline_en": "Police arrest 15 over insurance licence exam cheating scheme"
-    },
-    {
-      "key": "wang-fuk-court-96pc-accept-aug28",
-      "id": "2026-08-28-wang-fuk-court-96pc-accept",
-      "first_seen": "2026-08-28T21:16:00+08:00",
-      "headline_en": "Over 96 per cent of Wang Fuk Court owners accept government buyout"
-    },
-    {
-      "key": "mtr-hung-shui-kiu-skidding-construction",
-      "id": "2026-08-28-mtr-hung-shui-kiu-skidding",
-      "first_seen": "2026-08-28T21:17:00+08:00",
-      "headline_en": "MTR to use world-first skidding method for Hung Shui Kiu Station"
-    },
-    {
-      "key": "evtol-cyberport-maiden-flight-aug28",
-      "id": "2026-08-28-evtol-cyberport-maiden-flight",
-      "first_seen": "2026-08-28T23:05:00+08:00",
-      "headline_en": "Pilotless eVTOL completes maiden Hong Kong flight at Cyberport"
-    },
-    {
-      "key": "lifestyle-maxims-palace-moko-opening",
-      "id": "2026-08-28-lifestyle-maxims-palace-moko",
-      "first_seen": "2026-08-28T23:06:00+08:00",
-      "headline_en": "Maxim’s Palace opens seventh branch at MOKO in Mong Kok"
-    },
-    {
-      "key": "lifestyle-sui-tang-attire-exhibition",
-      "id": "2026-08-29-lifestyle-sui-tang-attire-exhibition",
-      "first_seen": "2026-08-29T03:10:00+08:00",
-      "headline_en": "Sui and Tang attire exhibition opens at Central Library"
-    },
-    {
-      "key": "poa-2027-arrangements",
-      "id": "2026-08-29-poa-2027-arrangements",
-      "first_seen": "2026-08-29T07:14:00+08:00",
-      "headline_en": "EDB opens Primary One 2027 applications from mid-September"
-    },
-    {
-      "key": "hdrc-online-medical-dispute-platform",
-      "id": "2026-08-29-hdrc-medical-dispute-platform",
-      "first_seen": "2026-08-29T07:15:00+08:00",
-      "headline_en": "Healthcare centre launches online medical dispute platform"
-    },
-    {
-      "key": "jardines-lookout-ev-charging-tender",
-      "id": "2026-08-29-jardines-lookout-ev-charging-tender",
-      "first_seen": "2026-08-29T07:16:00+08:00",
-      "headline_en": "Government tenders Jardine's Lookout site for EV fast charging"
-    },
-    {
-      "key": "lifestyle-lcsd-hk-artists-dance-2026",
-      "id": "2026-08-29-lifestyle-lcsd-hk-artists-dance",
-      "first_seen": "2026-08-29T07:17:00+08:00",
-      "headline_en": "LCSD dance bills by local choreographers go on sale 1 September"
-    },
-    {
-      "key": "very-hot-weather-warning-aug29-morning",
-      "id": "2026-08-29-very-hot-weather-warning-morning",
-      "first_seen": "2026-08-29T09:16:00+08:00",
-      "headline_en": "Observatory issues Very Hot Weather Warning on Saturday morning"
-    },
-    {
-      "key": "tin-sum-reporting-centre-aug30",
-      "id": "2026-08-29-tin-sum-reporting-centre",
-      "first_seen": "2026-08-29T09:17:00+08:00",
-      "headline_en": "Tin Sum police station to become reporting centre from Sunday"
-    },
-    {
-      "key": "doj-gba-lawyers-law-amendments-aug29",
-      "id": "2026-08-29-doj-gba-lawyers-law-amendments",
-      "first_seen": "2026-08-29T09:18:00+08:00",
-      "headline_en": "DoJ welcomes NPCSC amendments regularising GBA lawyers scheme"
-    },
-    {
-      "key": "yellow-heat-stress-work-warning-aug29-morning",
-      "id": "2026-08-29-amber-heat-stress-work-warning",
-      "first_seen": "2026-08-29T11:03:00+08:00",
-      "headline_en": "Labour Department issues Amber Heat Stress at Work Warning"
-    },
-    {
-      "key": "ride-hailing-platform-licence-applications-aug28",
-      "id": "2026-08-29-ride-hailing-licence-applications",
-      "first_seen": "2026-08-29T11:04:00+08:00",
-      "headline_en": "Ride-hailing platform licence applications open until 30 October"
-    },
-    {
-      "key": "club-med-lifestyle-hkex-ipo-filing",
-      "id": "2026-08-29-fosun-club-med-hkex-ipo",
-      "first_seen": "2026-08-29T11:05:00+08:00",
-      "headline_en": "Fosun files Hong Kong listing for Club Med lifestyle group"
-    },
-    {
-      "key": "lifestyle-hkpm-egypt-exhibition-final-days",
-      "id": "2026-08-29-lifestyle-hkpm-egypt-final-days",
-      "first_seen": "2026-08-29T11:06:00+08:00",
-      "headline_en": "Palace Museum Egypt exhibition closes on Monday"
-    },
-    {
-      "key": "edb-textbook-prices-aug29",
-      "id": "2026-08-29-edb-textbook-prices",
-      "first_seen": "2026-08-29T13:14:00+08:00",
-      "headline_en": "Education chief says textbook prices up 3.6 per cent, rejects universal grant"
-    },
-    {
-      "key": "ha-diabetes-lecture-fee-clarification",
-      "id": "2026-08-29-ha-diabetes-fee-clarification",
-      "first_seen": "2026-08-29T15:15:00+08:00",
-      "headline_en": "Hospital Authority clarifies $250 diabetes fee is for personalised treatment"
-    },
-    {
-      "key": "san-tin-tech-city-chai-land-price",
-      "id": "2026-08-29-san-tin-tech-city-land-price",
-      "first_seen": "2026-08-29T15:16:00+08:00",
-      "headline_en": "San Tin Tech City land prices ‘negotiable’, chairman seeks chip and drone firms"
-    },
-    {
-      "key": "huanggang-port-20000-drill-aug29",
-      "id": "2026-08-29-huanggang-port-20000-drill",
-      "first_seen": "2026-08-29T21:12:00+08:00",
-      "headline_en": "Huanggang Port 20,000-person drill runs smoothly, ID or home-return permit accepted"
-    },
-    {
-      "key": "disaster-relief-nepal-tibet-aug29",
-      "id": "2026-08-29-disaster-relief-nepal-tibet",
-      "first_seen": "2026-08-29T21:13:00+08:00",
-      "headline_en": "Hong Kong earmarks HK$50 million for Nepal-Tibet mudslide victims"
-    },
-    {
-      "key": "mpox-case-39yo-aug29",
-      "id": "2026-08-29-mpox-case-39yo",
-      "first_seen": "2026-08-29T21:14:00+08:00",
-      "headline_en": "CHP investigates new local Mpox case involving 39-year-old man"
-    },
-    {
-      "key": "lifestyle-space-fantasy-ccohk-aug29",
-      "id": "2026-08-29-lifestyle-space-fantasy-ccohk",
-      "first_seen": "2026-08-29T21:15:00+08:00",
-      "headline_en": "City Chamber Orchestra stages Space Fantasy family shows this weekend"
-    },
-    {
-      "key": "kam-ying-court-animal-cruelty-aug29",
-      "id": "2026-08-29-kam-ying-court-laundry-pods-turtles",
-      "first_seen": "2026-08-29T23:08:00+08:00",
-      "headline_en": "Man arrested after laundry pods dumped in Kam Ying Court turtle pond"
-    },
-    {
-      "key": "dbs-ial-curriculum-2027",
-      "id": "2026-08-29-dbs-three-university-pathways",
-      "first_seen": "2026-08-29T23:09:00+08:00",
-      "headline_en": "Diocesan Boys’ School to offer three university pathways from 2027"
-    },
-    {
-      "key": "afcd-dog-control-special-ops-aug30",
-      "id": "2026-08-30-afcd-dog-control-special-ops",
-      "first_seen": "2026-08-30T03:04:00+08:00",
-      "headline_en": "AFCD launches special dog-control patrols with immediate enforcement"
-    },
-    {
-      "key": "tai-po-baptist-school-new-campus-aug29",
-      "id": "2026-08-30-tai-po-baptist-school-new-campus",
-      "first_seen": "2026-08-30T03:05:00+08:00",
-      "headline_en": "Tai Po Baptist Public School opens new Fu Shin Estate campus"
-    },
-    {
-      "key": "cfs-hsin-tung-yang-rice-noodles-formaldehyde",
-      "id": "2026-08-30-cfs-hsin-tung-yang-rice-noodles",
-      "first_seen": "2026-08-30T07:21:00+08:00",
-      "headline_en": "CFS recalls Taiwan rice noodles after trace formaldehyde found"
-    },
-    {
-      "key": "mtr-tung-chung-east-brick-wall-collapse",
-      "id": "2026-08-30-mtr-tung-chung-east-wall-collapse",
-      "first_seen": "2026-08-30T07:22:00+08:00",
-      "headline_en": "MTR halts Tung Chung East works after new brick wall toppled"
-    },
-    {
-      "key": "lifestyle-hk-fashion-fest-2026",
-      "id": "2026-08-30-lifestyle-hk-fashion-fest",
-      "first_seen": "2026-08-30T07:23:00+08:00",
-      "headline_en": "Hong Kong Fashion Fest returns from 1 to 14 September"
-    },
-    {
-      "key": "fairview-park-bauhinia-south-burglary-aug29",
-      "id": "2026-08-30-fairview-park-burglary",
-      "first_seen": "2026-08-30T09:05:00+08:00",
-      "headline_en": "Fairview Park house burgled; jewellery worth about $300,000 taken"
-    },
-    {
-      "key": "sau-mau-ping-on-sau-road-crash-driver-missing-aug30",
-      "id": "2026-08-30-sau-mau-ping-crash-driver-missing",
-      "first_seen": "2026-08-30T09:06:00+08:00",
-      "headline_en": "Driver missing after private car hits railings in Sau Mau Ping"
-    },
-    {
-      "key": "lifestyle-db-open-water-race-2026",
-      "id": "2026-08-30-lifestyle-db-open-water-race",
-      "first_seen": "2026-08-30T09:07:00+08:00",
-      "headline_en": "Discovery Bay stages fourth open-water swim challenge today"
-    },
-    {
-      "key": "lifestyle-chiikawa-light-rail-final-aug30",
-      "id": "2026-08-30-lifestyle-chiikawa-light-rail-final",
-      "first_seen": "2026-08-30T09:08:00+08:00",
-      "headline_en": "Chiikawa-themed Light Rail makes its last weekend trips today"
-    },
-    {
-      "key": "cheung-tsing-highway-three-car-crash-aug29",
-      "id": "2026-08-30-cheung-tsing-three-car-crash",
-      "first_seen": "2026-08-30T09:22:00+08:00",
-      "headline_en": "Three private cars collide on Cheung Tsing Highway; nobody hurt"
-    },
-    {
-      "key": "yuen-long-plaza-missing-boy-found-aug29",
-      "id": "2026-08-30-yuen-long-missing-boy-found",
-      "first_seen": "2026-08-30T09:23:00+08:00",
-      "headline_en": "Motorist stops missing six-year-old boy outside Yuen Long Plaza"
-    },
-    {
-      "key": "lifestyle-harbour-city-forever-toys-final",
-      "id": "2026-08-30-lifestyle-harbour-city-forever-toys",
-      "first_seen": "2026-08-30T09:24:00+08:00",
-      "headline_en": "Harbour City Toy Story carnival enters its last two days"
-    },
-    {
-      "key": "thunderstorm-warning-aug30-morning",
-      "id": "2026-08-30-thunderstorm-warning-morning",
-      "first_seen": "2026-08-30T11:12:00+08:00",
-      "headline_en": "Observatory issues Thunderstorm Warning until 11.30am"
-    },
-    {
-      "key": "tin-heng-estate-public-fight-aug30",
-      "id": "2026-08-30-tin-heng-estate-public-fight",
-      "first_seen": "2026-08-30T11:13:00+08:00",
-      "headline_en": "Tin Shui Wai man arrested after early-morning public fight"
-    },
-    {
-      "key": "tai-hang-road-porsche-fire-aug30",
-      "id": "2026-08-30-tai-hang-road-porsche-fire",
-      "first_seen": "2026-08-30T11:14:00+08:00",
-      "headline_en": "Porsche on test plates catches fire on Tai Hang Road"
-    },
-    {
-      "key": "lifestyle-ocean-park-halloween-fest-2026",
-      "id": "2026-08-30-lifestyle-ocean-park-halloween-fest",
-      "first_seen": "2026-08-30T11:31:00+08:00",
-      "headline_en": "Ocean Park Halloween Fest returns from 5 September"
-    },
-    {
-      "key": "thunderstorm-warning-aug30-extended-1300",
-      "id": "2026-08-30-thunderstorm-warning-extended-1300",
-      "first_seen": "2026-08-30T11:40:00+08:00",
-      "headline_en": "Observatory extends Thunderstorm Warning until 1pm"
-    },
-    {
-      "key": "afcd-pit-bull-mix-seizure-aug28",
-      "id": "2026-08-30-afcd-pit-bull-mix-seizure",
-      "first_seen": "2026-08-30T11:41:00+08:00",
-      "headline_en": "AFCD takes eight-year-old dog identified as a pit bull mix"
-    },
-    {
-      "key": "thunderstorm-warning-aug30-extended-1500",
-      "id": "2026-08-30-thunderstorm-warning-extended-1500",
-      "first_seen": "2026-08-30T13:10:00+08:00",
-      "headline_en": "Observatory extends Thunderstorm Warning until 3pm"
-    },
-    {
-      "key": "washing-machine-dog-cruelty-aug30",
-      "id": "2026-08-30-washing-machine-dog-cruelty",
-      "first_seen": "2026-08-30T13:11:00+08:00",
-      "headline_en": "Police investigate video of dog put in running washing machine"
-    },
-    {
-      "key": "workweek-weather-outlook-aug31-sep4",
-      "id": "2026-08-30-workweek-weather-outlook-aug31-sep4",
-      "first_seen": "2026-08-30T21:05:00+08:00",
-      "headline_en": "Work-week outlook: showers and storms early, then easing"
-    },
-    {
-      "key": "police-anti-drug-operation-defender-aug30",
-      "id": "2026-08-30-police-anti-drug-operation-defender",
-      "first_seen": "2026-08-30T21:06:00+08:00",
-      "headline_en": "Police arrest 321 in two-month anti-drug operation, seize HK$130m drugs"
-    },
-    {
-      "key": "wang-fuk-court-977-accept-aug30",
-      "id": "2026-08-30-wang-fuk-court-977-accept",
-      "first_seen": "2026-08-30T21:07:00+08:00",
-      "headline_en": "Wang Fuk Court acceptance climbs to 97.7 per cent ahead of deadline"
-    },
-    {
-      "key": "afcd-dog-leash-prosecutions-aug30",
-      "id": "2026-08-30-afcd-dog-leash-prosecutions",
-      "first_seen": "2026-08-30T23:15:00+08:00",
-      "headline_en": "AFCD to prosecute three owners for failing to leash large dogs"
-    },
-    {
-      "key": "anita-mui-mother-dies-aug30",
-      "id": "2026-08-30-anita-mui-mother-dies",
-      "first_seen": "2026-08-30T23:16:00+08:00",
-      "headline_en": "Mother of late singer Anita Mui dies aged 102 in Causeway Bay"
-    },
-    {
-      "key": "hung-shui-kiu-pilot-6000-jobs",
-      "id": "2026-08-30-hsk-pilot-6000-jobs",
-      "first_seen": "2026-08-30T23:17:00+08:00",
-      "headline_en": "Hung Shui Kiu pilot project to create over 6,000 jobs, Paul Chan says"
-    },
-    {
-      "key": "miss-hong-kong-2026-bernice-yuen",
-      "id": "2026-08-31-miss-hong-kong-2026-bernice-yuen",
-      "first_seen": "2026-08-31T07:26:00+08:00",
-      "headline_en": "Theme park performer Bernice Yuen crowned Miss Hong Kong 2026"
-    },
-    {
-      "key": "chp-school-year-flu-warning-2026",
-      "id": "2026-08-31-chp-school-year-flu-warning",
-      "first_seen": "2026-08-31T07:27:00+08:00",
-      "headline_en": "CHP warns influenza may stay active as school year begins"
-    },
-    {
-      "key": "hotel-cat-pool-scam-aug28",
-      "id": "2026-08-31-hotel-cat-pool-phone-scam",
-      "first_seen": "2026-08-31T07:28:00+08:00",
-      "headline_en": "Police smash hotel SIM-box phone-scam den, arrest two men"
-    },
-    {
-      "key": "lifestyle-ma-on-shan-cow-photo-aug30",
-      "id": "2026-08-31-lifestyle-ma-on-shan-cow-photo",
-      "first_seen": "2026-08-31T07:29:00+08:00",
-      "headline_en": "Hikers filmed trying to ride a resting cow at Ma On Shan"
-    }
+    {"key": "insurance-licence-cheating-scheme-aug28", "id": "2026-08-28-insurance-licence-cheating-scheme", "first_seen": "2026-08-28T21:15:00+08:00", "headline_en": "Police arrest 15 over insurance licence exam cheating scheme"},
+    {"key": "wang-fuk-court-96pc-accept-aug28", "id": "2026-08-28-wang-fuk-court-96pc-accept", "first_seen": "2026-08-28T21:16:00+08:00", "headline_en": "Over 96 per cent of Wang Fuk Court owners accept government buyout"},
+    {"key": "mtr-hung-shui-kiu-skidding-construction", "id": "2026-08-28-mtr-hung-shui-kiu-skidding", "first_seen": "2026-08-28T21:17:00+08:00", "headline_en": "MTR to use world-first skidding method for Hung Shui Kiu Station"},
+    {"key": "evtol-cyberport-maiden-flight-aug28", "id": "2026-08-28-evtol-cyberport-maiden-flight", "first_seen": "2026-08-28T23:05:00+08:00", "headline_en": "Pilotless eVTOL completes maiden Hong Kong flight at Cyberport"},
+    {"key": "lifestyle-maxims-palace-moko-opening", "id": "2026-08-28-lifestyle-maxims-palace-moko", "first_seen": "2026-08-28T23:06:00+08:00", "headline_en": "Maxim’s Palace opens seventh branch at MOKO in Mong Kok"},
+    {"key": "lifestyle-sui-tang-attire-exhibition", "id": "2026-08-29-lifestyle-sui-tang-attire-exhibition", "first_seen": "2026-08-29T03:10:00+08:00", "headline_en": "Sui and Tang attire exhibition opens at Central Library"},
+    {"key": "poa-2027-arrangements", "id": "2026-08-29-poa-2027-arrangements", "first_seen": "2026-08-29T07:14:00+08:00", "headline_en": "EDB opens Primary One 2027 applications from mid-September"},
+    {"key": "hdrc-online-medical-dispute-platform", "id": "2026-08-29-hdrc-medical-dispute-platform", "first_seen": "2026-08-29T07:15:00+08:00", "headline_en": "Healthcare centre launches online medical dispute platform"},
+    {"key": "jardines-lookout-ev-charging-tender", "id": "2026-08-29-jardines-lookout-ev-charging-tender", "first_seen": "2026-08-29T07:16:00+08:00", "headline_en": "Government tenders Jardine's Lookout site for EV fast charging"},
+    {"key": "lifestyle-lcsd-hk-artists-dance-2026", "id": "2026-08-29-lifestyle-lcsd-hk-artists-dance", "first_seen": "2026-08-29T07:17:00+08:00", "headline_en": "LCSD dance bills by local choreographers go on sale 1 September"},
+    {"key": "very-hot-weather-warning-aug29-morning", "id": "2026-08-29-very-hot-weather-warning-morning", "first_seen": "2026-08-29T09:16:00+08:00", "headline_en": "Observatory issues Very Hot Weather Warning on Saturday morning"},
+    {"key": "tin-sum-reporting-centre-aug30", "id": "2026-08-29-tin-sum-reporting-centre", "first_seen": "2026-08-29T09:17:00+08:00", "headline_en": "Tin Sum police station to become reporting centre from Sunday"},
+    {"key": "doj-gba-lawyers-law-amendments-aug29", "id": "2026-08-29-doj-gba-lawyers-law-amendments", "first_seen": "2026-08-29T09:18:00+08:00", "headline_en": "DoJ welcomes NPCSC amendments regularising GBA lawyers scheme"},
+    {"key": "yellow-heat-stress-work-warning-aug29-morning", "id": "2026-08-29-amber-heat-stress-work-warning", "first_seen": "2026-08-29T11:03:00+08:00", "headline_en": "Labour Department issues Amber Heat Stress at Work Warning"},
+    {"key": "ride-hailing-platform-licence-applications-aug28", "id": "2026-08-29-ride-hailing-licence-applications", "first_seen": "2026-08-29T11:04:00+08:00", "headline_en": "Ride-hailing platform licence applications open until 30 October"},
+    {"key": "club-med-lifestyle-hkex-ipo-filing", "id": "2026-08-29-fosun-club-med-hkex-ipo", "first_seen": "2026-08-29T11:05:00+08:00", "headline_en": "Fosun files Hong Kong listing for Club Med lifestyle group"},
+    {"key": "lifestyle-hkpm-egypt-exhibition-final-days", "id": "2026-08-29-lifestyle-hkpm-egypt-final-days", "first_seen": "2026-08-29T11:06:00+08:00", "headline_en": "Palace Museum Egypt exhibition closes on Monday"},
+    {"key": "edb-textbook-prices-aug29", "id": "2026-08-29-edb-textbook-prices", "first_seen": "2026-08-29T13:14:00+08:00", "headline_en": "Education chief says textbook prices up 3.6 per cent, rejects universal grant"},
+    {"key": "ha-diabetes-lecture-fee-clarification", "id": "2026-08-29-ha-diabetes-fee-clarification", "first_seen": "2026-08-29T15:15:00+08:00", "headline_en": "Hospital Authority clarifies $250 diabetes fee is for personalised treatment"},
+    {"key": "san-tin-tech-city-chai-land-price", "id": "2026-08-29-san-tin-tech-city-land-price", "first_seen": "2026-08-29T15:16:00+08:00", "headline_en": "San Tin Tech City land prices ‘negotiable’, chairman seeks chip and drone firms"},
+    {"key": "huanggang-port-20000-drill-aug29", "id": "2026-08-29-huanggang-port-20000-drill", "first_seen": "2026-08-29T21:12:00+08:00", "headline_en": "Huanggang Port 20,000-person drill runs smoothly, ID or home-return permit accepted"},
+    {"key": "disaster-relief-nepal-tibet-aug29", "id": "2026-08-29-disaster-relief-nepal-tibet", "first_seen": "2026-08-29T21:13:00+08:00", "headline_en": "Hong Kong earmarks HK$50 million for Nepal-Tibet mudslide victims"},
+    {"key": "mpox-case-39yo-aug29", "id": "2026-08-29-mpox-case-39yo", "first_seen": "2026-08-29T21:14:00+08:00", "headline_en": "CHP investigates new local Mpox case involving 39-year-old man"},
+    {"key": "lifestyle-space-fantasy-ccohk-aug29", "id": "2026-08-29-lifestyle-space-fantasy-ccohk", "first_seen": "2026-08-29T21:15:00+08:00", "headline_en": "City Chamber Orchestra stages Space Fantasy family shows this weekend"},
+    {"key": "kam-ying-court-animal-cruelty-aug29", "id": "2026-08-29-kam-ying-court-laundry-pods-turtles", "first_seen": "2026-08-29T23:08:00+08:00", "headline_en": "Man arrested after laundry pods dumped in Kam Ying Court turtle pond"},
+    {"key": "dbs-ial-curriculum-2027", "id": "2026-08-29-dbs-three-university-pathways", "first_seen": "2026-08-29T23:09:00+08:00", "headline_en": "Diocesan Boys’ School to offer three university pathways from 2027"},
+    {"key": "afcd-dog-control-special-ops-aug30", "id": "2026-08-30-afcd-dog-control-special-ops", "first_seen": "2026-08-30T03:04:00+08:00", "headline_en": "AFCD launches special dog-control patrols with immediate enforcement"},
+    {"key": "tai-po-baptist-school-new-campus-aug29", "id": "2026-08-30-tai-po-baptist-school-new-campus", "first_seen": "2026-08-30T03:05:00+08:00", "headline_en": "Tai Po Baptist Public School opens new Fu Shin Estate campus"},
+    {"key": "cfs-hsin-tung-yang-rice-noodles-formaldehyde", "id": "2026-08-30-cfs-hsin-tung-yang-rice-noodles", "first_seen": "2026-08-30T07:21:00+08:00", "headline_en": "CFS recalls Taiwan rice noodles after trace formaldehyde found"},
+    {"key": "mtr-tung-chung-east-brick-wall-collapse", "id": "2026-08-30-mtr-tung-chung-east-wall-collapse", "first_seen": "2026-08-30T07:22:00+08:00", "headline_en": "MTR halts Tung Chung East works after new brick wall toppled"},
+    {"key": "lifestyle-hk-fashion-fest-2026", "id": "2026-08-30-lifestyle-hk-fashion-fest", "first_seen": "2026-08-30T07:23:00+08:00", "headline_en": "Hong Kong Fashion Fest returns from 1 to 14 September"},
+    {"key": "fairview-park-bauhinia-south-burglary-aug29", "id": "2026-08-30-fairview-park-burglary", "first_seen": "2026-08-30T09:05:00+08:00", "headline_en": "Fairview Park house burgled; jewellery worth about $300,000 taken"},
+    {"key": "sau-mau-ping-on-sau-road-crash-driver-missing-aug30", "id": "2026-08-30-sau-mau-ping-crash-driver-missing", "first_seen": "2026-08-30T09:06:00+08:00", "headline_en": "Driver missing after private car hits railings in Sau Mau Ping"},
+    {"key": "lifestyle-db-open-water-race-2026", "id": "2026-08-30-lifestyle-db-open-water-race", "first_seen": "2026-08-30T09:07:00+08:00", "headline_en": "Discovery Bay stages fourth open-water swim challenge today"},
+    {"key": "lifestyle-chiikawa-light-rail-final-aug30", "id": "2026-08-30-lifestyle-chiikawa-light-rail-final", "first_seen": "2026-08-30T09:08:00+08:00", "headline_en": "Chiikawa-themed Light Rail makes its last weekend trips today"},
+    {"key": "cheung-tsing-highway-three-car-crash-aug29", "id": "2026-08-30-cheung-tsing-three-car-crash", "first_seen": "2026-08-30T09:22:00+08:00", "headline_en": "Three private cars collide on Cheung Tsing Highway; nobody hurt"},
+    {"key": "yuen-long-plaza-missing-boy-found-aug29", "id": "2026-08-30-yuen-long-missing-boy-found", "first_seen": "2026-08-30T09:23:00+08:00", "headline_en": "Motorist stops missing six-year-old boy outside Yuen Long Plaza"},
+    {"key": "lifestyle-harbour-city-forever-toys-final", "id": "2026-08-30-lifestyle-harbour-city-forever-toys", "first_seen": "2026-08-30T09:24:00+08:00", "headline_en": "Harbour City Toy Story carnival enters its last two days"},
+    {"key": "thunderstorm-warning-aug30-morning", "id": "2026-08-30-thunderstorm-warning-morning", "first_seen": "2026-08-30T11:12:00+08:00", "headline_en": "Observatory issues Thunderstorm Warning until 11.30am"},
+    {"key": "tin-heng-estate-public-fight-aug30", "id": "2026-08-30-tin-heng-estate-public-fight", "first_seen": "2026-08-30T11:13:00+08:00", "headline_en": "Tin Shui Wai man arrested after early-morning public fight"},
+    {"key": "tai-hang-road-porsche-fire-aug30", "id": "2026-08-30-tai-hang-road-porsche-fire", "first_seen": "2026-08-30T11:14:00+08:00", "headline_en": "Porsche on test plates catches fire on Tai Hang Road"},
+    {"key": "lifestyle-ocean-park-halloween-fest-2026", "id": "2026-08-30-lifestyle-ocean-park-halloween-fest", "first_seen": "2026-08-30T11:31:00+08:00", "headline_en": "Ocean Park Halloween Fest returns from 5 September"},
+    {"key": "thunderstorm-warning-aug30-extended-1300", "id": "2026-08-30-thunderstorm-warning-extended-1300", "first_seen": "2026-08-30T11:40:00+08:00", "headline_en": "Observatory extends Thunderstorm Warning until 1pm"},
+    {"key": "afcd-pit-bull-mix-seizure-aug28", "id": "2026-08-30-afcd-pit-bull-mix-seizure", "first_seen": "2026-08-30T11:41:00+08:00", "headline_en": "AFCD takes eight-year-old dog identified as a pit bull mix"},
+    {"key": "thunderstorm-warning-aug30-extended-1500", "id": "2026-08-30-thunderstorm-warning-extended-1500", "first_seen": "2026-08-30T13:10:00+08:00", "headline_en": "Observatory extends Thunderstorm Warning until 3pm"},
+    {"key": "washing-machine-dog-cruelty-aug30", "id": "2026-08-30-washing-machine-dog-cruelty", "first_seen": "2026-08-30T13:11:00+08:00", "headline_en": "Police investigate video of dog put in running washing machine"},
+    {"key": "workweek-weather-outlook-aug31-sep4", "id": "2026-08-30-workweek-weather-outlook-aug31-sep4", "first_seen": "2026-08-30T21:05:00+08:00", "headline_en": "Work-week outlook: showers and storms early, then easing"},
+    {"key": "police-anti-drug-operation-defender-aug30", "id": "2026-08-30-police-anti-drug-operation-defender", "first_seen": "2026-08-30T21:06:00+08:00", "headline_en": "Police arrest 321 in two-month anti-drug operation, seize HK$130m drugs"},
+    {"key": "wang-fuk-court-977-accept-aug30", "id": "2026-08-30-wang-fuk-court-977-accept", "first_seen": "2026-08-30T21:07:00+08:00", "headline_en": "Wang Fuk Court acceptance climbs to 97.7 per cent ahead of deadline"},
+    {"key": "afcd-dog-leash-prosecutions-aug30", "id": "2026-08-30-afcd-dog-leash-prosecutions", "first_seen": "2026-08-30T23:15:00+08:00", "headline_en": "AFCD to prosecute three owners for failing to leash large dogs"},
+    {"key": "anita-mui-mother-dies-aug30", "id": "2026-08-30-anita-mui-mother-dies", "first_seen": "2026-08-30T23:16:00+08:00", "headline_en": "Mother of late singer Anita Mui dies aged 102 in Causeway Bay"},
+    {"key": "hung-shui-kiu-pilot-6000-jobs", "id": "2026-08-30-hsk-pilot-6000-jobs", "first_seen": "2026-08-30T23:17:00+08:00", "headline_en": "Hung Shui Kiu pilot project to create over 6,000 jobs, Paul Chan says"},
+    {"key": "miss-hong-kong-2026-bernice-yuen", "id": "2026-08-31-miss-hong-kong-2026-bernice-yuen", "first_seen": "2026-08-31T07:26:00+08:00", "headline_en": "Theme park performer Bernice Yuen crowned Miss Hong Kong 2026"},
+    {"key": "chp-school-year-flu-warning-2026", "id": "2026-08-31-chp-school-year-flu-warning", "first_seen": "2026-08-31T07:27:00+08:00", "headline_en": "CHP warns influenza may stay active as school year begins"},
+    {"key": "hotel-cat-pool-scam-aug28", "id": "2026-08-31-hotel-cat-pool-phone-scam", "first_seen": "2026-08-31T07:28:00+08:00", "headline_en": "Police smash hotel SIM-box phone-scam den, arrest two men"},
+    {"key": "lifestyle-ma-on-shan-cow-photo-aug30", "id": "2026-08-31-lifestyle-ma-on-shan-cow-photo", "first_seen": "2026-08-31T07:29:00+08:00", "headline_en": "Hikers filmed trying to ride a resting cow at Ma On Shan"},
+    {"key": "whatsapp-hijack-cases-jan-jul-2026", "id": "2026-08-31-whatsapp-hijack-cases-h1", "first_seen": "2026-08-31T09:18:00+08:00", "headline_en": "Police record 2,020 messaging hijack cases in seven months"},
+    {"key": "kwun-tong-lei-yue-mun-drink-drive-aug30", "id": "2026-08-31-kwun-tong-drink-drive-crash", "first_seen": "2026-08-31T09:19:00+08:00", "headline_en": "Driver arrested for drink-driving after Kwun Tong roundabout crash"},
+    {"key": "lifestyle-anne-imhof-house-of-swans", "id": "2026-08-31-lifestyle-anne-imhof-tai-kwun", "first_seen": "2026-08-31T09:20:00+08:00", "headline_en": "Tai Kwun to present Anne Imhof’s first major Asia solo show"}
   ]
 }
