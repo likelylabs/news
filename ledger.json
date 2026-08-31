@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T11:29:14+08:00",
+  "updated_at": "2026-08-31T13:18:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -415,6 +415,24 @@
       "id": "2026-08-31-dog-smuggling-abandonment-rise",
       "first_seen": "2026-08-31T11:27:00+08:00",
       "headline_en": "Lawmaker urges source checks as dog abandonments rise"
+    },
+    {
+      "key": "amber-rainstorm-warning-aug31-afternoon",
+      "id": "2026-08-31-amber-rainstorm-thunderstorm-aug31",
+      "first_seen": "2026-08-31T13:15:00+08:00",
+      "headline_en": "Observatory issues Amber Rainstorm Warning; thunderstorms until 3pm"
+    },
+    {
+      "key": "siv-programmes-2026-27-sep17",
+      "id": "2026-08-31-siv-programmes-sep17",
+      "first_seen": "2026-08-31T13:16:00+08:00",
+      "headline_en": "Seasonal flu vaccination programmes start on 17 September"
+    },
+    {
+      "key": "san-tin-highway-truck-crash-aug31",
+      "id": "2026-08-31-san-tin-highway-truck-crash",
+      "first_seen": "2026-08-31T13:17:00+08:00",
+      "headline_en": "Two trucks collide on San Tin Highway; driver trapped briefly"
     }
   ]
 }
