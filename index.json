@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-01T07:15:41+08:00",
+  "generated_at": "2026-09-01T07:57:37+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 81,
   "articles": [
     {
       "id": "2026-09-01-lifestyle-centrestage-opens",
@@ -1793,51 +1793,6 @@
       "zh": {
         "headline": "天文台周六早上發出酷熱天氣警告",
         "dek": "天文台今早8時40分發出酷熱天氣警告，預料今日酷熱，最高氣溫約33度，早上有驟雨後日間短暫有陽光。"
-      }
-    },
-    {
-      "id": "2026-08-29-lifestyle-lcsd-hk-artists-dance",
-      "published_at": "2026-08-29T07:17:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "arts",
-        "dance",
-        "lcsd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-29/2026-08-29-lifestyle-lcsd-hk-artists-dance.json",
-      "en": {
-        "headline": "LCSD dance bills by local choreographers go on sale 1 September",
-        "dek": "Three new works by Kaki Lee, Ching Chu and Rosalie Ng will play in Kwai Tsing and Tai Po this autumn and winter under the Hong Kong Artists Series 2026."
-      },
-      "zh": {
-        "headline": "康文署香港藝術家系列三齣新舞作 9月1日開售",
-        "dek": "李嘉禊、朱晴及伍家蔚新作將於今秋至冬季在葵青劇院及大埔文娛中心黑盒劇場上演，早鳥優惠至9月14日。"
-      }
-    },
-    {
-      "id": "2026-08-29-jardines-lookout-ev-charging-tender",
-      "published_at": "2026-08-29T07:16:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "environment",
-        "transport",
-        "ev",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-29/2026-08-29-jardines-lookout-ev-charging-tender.json",
-      "en": {
-        "headline": "Government tenders Jardine's Lookout site for EV fast charging",
-        "dek": "Inland Lot No. 9105 at 137 Tai Hang Road, covering 901.3 square metres, is being sold for conversion into an electric-vehicle fast charging station, with tenders closing on 6 November."
-      },
-      "zh": {
-        "headline": "政府招標出售渣甸山地皮作電動車高速充電站",
-        "dek": "大坑道137號內地段第9105號面積901.3平方米，指定改作電動車高速充電站，公開招標於11月6日截標。"
       }
     }
   ]
