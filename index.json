@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-08-31T23:18:20+08:00",
+  "generated_at": "2026-09-01T01:09:50+08:00",
   "live_window_hours": 72,
-  "count": 74,
+  "count": 78,
   "articles": [
+    {
+      "id": "2026-09-01-lifestyle-margarita-mile-2026",
+      "published_at": "2026-09-01T01:13:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "food",
+        "central",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-lifestyle-margarita-mile-2026.json",
+      "en": {
+        "headline": "Margarita Mile cocktail trail returns across ten Hong Kong bars from today",
+        "dek": "The two-week event runs until 16 September; participants collect stamps for El Tequileño margaritas, with a grand prize of a trip for two to Tequila, Mexico."
+      },
+      "zh": {
+        "headline": "Margarita Mile雞尾酒巡禮今日起於十間酒吧舉行",
+        "dek": "活動由今日至9月16日，集齊印章有機會贏取雙人墨西哥Tequila之旅，包括機票及酒莊參觀。"
+      }
+    },
+    {
+      "id": "2026-09-01-hsitp-land-tender-six-bids",
+      "published_at": "2026-09-01T01:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "northern-metropolis",
+        "technology",
+        "innovation",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-hsitp-land-tender-six-bids.json",
+      "en": {
+        "headline": "Six bids received for inaugural land tender at Hong Kong-Shenzhen Innovation and…",
+        "dek": "Loop Hong Kong Park Company said the response for four parcels totalling more than 76,000 square metres of gross floor area exceeded expectations after the tender closed on Monday."
+      },
+      "zh": {
+        "headline": "港深創新及科技園首批地皮招標接獲六份標書",
+        "dek": "落馬洲河套港方園區營運商表示，四幅合共樓面逾7.6萬平方米的地皮周一截標，反應較預期理想。"
+      }
+    },
+    {
+      "id": "2026-09-01-fanling-golf-appeal-dismissed",
+      "published_at": "2026-09-01T01:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "courts",
+        "environment",
+        "government",
+        "fanling"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-fanling-golf-appeal-dismissed.json",
+      "en": {
+        "headline": "Court of Appeal dismisses government bid to revive Fanling golf course housing plan",
+        "dek": "Judges upheld a 2024 ruling that quashed environmental approval for 12,000 public flats on 9.5 hectares of the resumed site, citing unfair consultation and improper conditions."
+      },
+      "zh": {
+        "headline": "上訴庭駁回政府粉嶺高球場公屋計劃上訴",
+        "dek": "三名法官維持2024年原審裁決，撤銷環評批准，指公眾諮詢不公及附加條件超出法定權限，涉及約12,000個公屋單位。"
+      }
+    },
+    {
+      "id": "2026-09-01-shein-hkex-debut",
+      "published_at": "2026-09-01T01:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "finance",
+        "ipo",
+        "retail",
+        "stock-exchange"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-shein-hkex-debut.json",
+      "en": {
+        "headline": "Shein shares begin trading on Hong Kong exchange after $1.74 billion IPO",
+        "dek": "The fast-fashion retailer priced 280 million shares at HK$48.56 each, valuing the company at about US$26.5 billion; public offering was 5.63 times subscribed."
+      },
+      "zh": {
+        "headline": "Shein股份今日於港交所掛牌 集資約174億港元",
+        "dek": "快時尚零售商以每股48.56港元發售2.8億股，集資約136億港元，估值約265億美元；公開發售超額認購5.63倍。"
+      }
+    },
     {
       "id": "2026-08-31-xpower-charger-warning",
       "published_at": "2026-08-31T23:18:00+08:00",
