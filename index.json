@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-08-31T11:29:14+08:00",
+  "generated_at": "2026-08-31T13:16:53+08:00",
   "live_window_hours": 72,
   "count": 72,
   "articles": [
+    {
+      "id": "2026-08-31-san-tin-highway-truck-crash",
+      "published_at": "2026-08-31T13:17:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "traffic-accident",
+        "yuen-long",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-san-tin-highway-truck-crash.json",
+      "en": {
+        "headline": "Two trucks collide on San Tin Highway; driver trapped briefly",
+        "dek": "A 5.5-tonne lorry hit the rear of a 10-tonne lorry near Fairview Park shortly after 11am, leaving one driver with a trapped foot and another passenger with abrasions."
+      },
+      "zh": {
+        "headline": "新田公路兩貨車相撞 司機腳部被困一度救出",
+        "dek": "上午11時22分近錦綉花園，一輛5.5噸貨車追撞前方10噸貨車，司機腳部被困，另一乘客擦傷，分別送院。"
+      }
+    },
+    {
+      "id": "2026-08-31-siv-programmes-sep17",
+      "published_at": "2026-08-31T13:16:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "chp",
+        "schools",
+        "vaccination",
+        "influenza"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-siv-programmes-sep17.json",
+      "en": {
+        "headline": "Seasonal flu vaccination programmes start on 17 September",
+        "dek": "The Centre for Health Protection said about 1.3 million doses have been procured for the 2026/27 programmes, with school outreach, residential care and subsidy schemes opening mid-month."
+      },
+      "zh": {
+        "headline": "2026/27季節性流感疫苗接種計劃9月17日展開",
+        "dek": "衞生防護中心公布計劃包括學校外展、院舍及疫苗資助計劃，已採購約130萬劑疫苗，呼籲市民盡早接種。"
+      }
+    },
+    {
+      "id": "2026-08-31-amber-rainstorm-thunderstorm-aug31",
+      "published_at": "2026-08-31T13:15:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "observatory",
+        "rainstorm-warning",
+        "thunderstorm-warning"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-amber-rainstorm-thunderstorm-aug31.json",
+      "en": {
+        "headline": "Observatory issues Amber Rainstorm Warning; thunderstorms until 3pm",
+        "dek": "Heavy rain exceeding 30 mm an hour is expected to continue generally over Hong Kong after the signal was issued at 12.25pm, with the Thunderstorm Warning extended until 3pm."
+      },
+      "zh": {
+        "headline": "天文台發黃色暴雨警告 雷暴警告延至下午3時",
+        "dek": "天文台下午12時25分發出黃色暴雨警告，預料廣泛地區每小時雨量超過30毫米；雷暴警告則延長至下午3時。"
+      }
+    },
     {
       "id": "2026-08-31-dog-smuggling-abandonment-rise",
       "published_at": "2026-08-31T11:27:00+08:00",
@@ -1517,73 +1585,6 @@
       "zh": {
         "headline": "保險牌照考試作弊案拘15人 監管局暫停承認相關資歷",
         "dek": "商業罪案調查科在觀塘試場突擊行動拘捕六男九女，保險業監管局即時暫停承認FLMI資歷。"
-      }
-    },
-    {
-      "id": "2026-08-28-kwai-chung-garbage-truck-fatal",
-      "published_at": "2026-08-28T13:14:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "kwai-chung",
-        "police",
-        "fatal"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-kwai-chung-garbage-truck-fatal.json",
-      "en": {
-        "headline": "Elderly woman dies after being struck by garbage truck in Kwai Chung",
-        "dek": "An 80-year-old pedestrian pulling a handcart was hit on Hing Ning Road near Kwai Tsing Theatre this morning; the South Asian driver was arrested on suspicion of dangerous driving causing death."
-      },
-      "zh": {
-        "headline": "葵涌垃圾車撞斃八旬女途人 司機涉危駕被捕",
-        "dek": "今早約10時10分興寧路近葵青劇院對開，垃圾車撞倒拉手推車過路的八旬婦，事主當場不治，南亞裔司機涉危險駕駛導致他人死亡被捕。"
-      }
-    },
-    {
-      "id": "2026-08-28-customs-mong-kok-cocaine-53kg",
-      "published_at": "2026-08-28T13:12:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "drugs",
-        "cocaine",
-        "crime",
-        "mong-kok"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-customs-mong-kok-cocaine-53kg.json",
-      "en": {
-        "headline": "Customs seize 53.9 kg of suspected cocaine worth HK$36.2 million in Mong Kok",
-        "dek": "A 49-year-old foreign man was arrested after officers found 11 kg in his backpack outside a Central hotel and a further 42.9 kg at a residential unit in Mong Kok."
-      },
-      "zh": {
-        "headline": "海關旺角搗毒品倉檢53.9公斤可卡因 拘外籍男",
-        "dek": "49歲外籍男子在中環酒店外被截查，背囊藏11公斤懷疑可卡因，旺角住宅再起獲42.9公斤，市值約3,620萬元。"
-      }
-    },
-    {
-      "id": "2026-08-28-ride-hailing-platform-licences-open",
-      "published_at": "2026-08-28T13:10:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "ride-hailing",
-        "td",
-        "regulation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-ride-hailing-platform-licences-open.json",
-      "en": {
-        "headline": "Transport Department opens ride-hailing platform licence applications",
-        "dek": "Interested platform companies can apply from today until 30 October for five-year licences under the new regulatory regime, with capital and operating-scale thresholds set."
-      },
-      "zh": {
-        "headline": "運輸署今起接受網約車平台牌照申請",
-        "dek": "有意營運網約車平台的公司可由今日起至10月30日中午申請最長五年牌照，須符合資本及營運規模門檻。"
       }
     }
   ]
