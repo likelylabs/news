@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-31T11:24:12+08:00",
+  "generated_at": "2026-08-31T11:29:14+08:00",
   "live_window_hours": 72,
   "count": 72,
   "articles": [
+    {
+      "id": "2026-08-31-dog-smuggling-abandonment-rise",
+      "published_at": "2026-08-31T11:27:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "animals",
+        "afcd",
+        "pets",
+        "community",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-dog-smuggling-abandonment-rise.json",
+      "en": {
+        "headline": "Lawmaker urges source checks as dog abandonments rise",
+        "dek": "Agriculture-sector legislator Chan Pok-chi said smugglers coach buyers to dodge quarantine, while a welfare group said intakes at one shelter rose at least 50 per cent."
+      },
+      "zh": {
+        "headline": "議員倡追截走私狗源頭 團體稱棄養個案升至少五成",
+        "dek": "漁農界議員陳博智指有商人教買家規避檢疫；動物福利關注聯盟成員劉鎮海稱所屬機構近月接收棄養數字按月升至少五成。"
+      }
+    },
+    {
+      "id": "2026-08-31-school-opening-traffic-sep1",
+      "published_at": "2026-08-31T11:26:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "schools",
+        "education",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-08-31/2026-08-31-school-opening-traffic-sep1.json",
+      "en": {
+        "headline": "Transport Department warns of busier roads on first school day",
+        "dek": "Rail, bus, ferry and taxi operators have been told to add services on Tuesday if needed, while the department's emergency centre will run at its highest tier."
+      },
+      "zh": {
+        "headline": "運輸署料開學日交通較繁忙 緊急中心明早最高級別運作",
+        "dek": "署方已提醒鐵路、專營巴士、渡輪及的士提供充足服務，有需要時加密班次；緊急事故交通協調中心明早會以聯合督導模式運作。"
+      }
+    },
     {
       "id": "2026-08-31-lifestyle-ive-asiaworld-sep",
       "published_at": "2026-08-31T11:21:00+08:00",
@@ -1539,47 +1584,6 @@
       "zh": {
         "headline": "運輸署今起接受網約車平台牌照申請",
         "dek": "有意營運網約車平台的公司可由今日起至10月30日中午申請最長五年牌照，須符合資本及營運規模門檻。"
-      }
-    },
-    {
-      "id": "2026-08-28-retiree-expense-index-2026",
-      "published_at": "2026-08-28T11:26:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "economy",
-        "business"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-retiree-expense-index-2026.json",
-      "en": {
-        "headline": "Retiree living costs rise three times faster than city inflation",
-        "dek": "A new Hong Kong-Macau index from financial planners and a trustee put average monthly spending at HK$15,090, with travel and cross-boundary trips a main driver."
-      },
-      "zh": {
-        "headline": "退休開支指數升幅近通脹三倍 月均開支約1.5萬",
-        "dek": "財務策劃師學會聯同萬通信託公布首個港澳退休開支指數，指平均每月開支約15,090元，旅遊及跨境行程是主要動力之一。"
-      }
-    },
-    {
-      "id": "2026-08-28-dpo-1823-ai-tools",
-      "published_at": "2026-08-28T11:25:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "ai",
-        "government",
-        "technology"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-28/2026-08-28-dpo-1823-ai-tools.json",
-      "en": {
-        "headline": "Government to add four AI tools to 1823 hotline this year",
-        "dek": "The Digital Policy Office said new systems would transcribe calls, extract email details and flag priority cases, cutting some triage times from two days to hours."
-      },
-      "zh": {
-        "headline": "數字辦今年推四項AI工具加強1823熱線",
-        "dek": "數字政策辦公室表示，新系統將把來電轉文字、自動擷取電郵資料及識別優先個案，急案分流可由約兩天縮至數小時。"
       }
     }
   ]
