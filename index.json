@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-09-01T01:11:04+08:00",
+  "generated_at": "2026-09-01T03:05:07+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-09-01-rbhk-opens-sep1",
+      "published_at": "2026-09-01T03:07:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "food",
+        "exhibition",
+        "wan-chai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-rbhk-opens-sep1.json",
+      "en": {
+        "headline": "Restaurant, Bar & Café Hong Kong trade show opens at HKCEC",
+        "dek": "The three-day F&B expo runs until Thursday at the Hong Kong Convention and Exhibition Centre, featuring more than 400 exhibitors, coffee competitions and bar awards."
+      },
+      "zh": {
+        "headline": "香港餐飲展於會展開幕 展期至周四",
+        "dek": "為期三天的餐飲貿易展於灣仔香港會議展覽中心舉行，匯聚逾400個參展商，設咖啡競賽及酒吧大獎。"
+      }
+    },
+    {
+      "id": "2026-09-01-lifestyle-nepal-orchard-fundraiser",
+      "published_at": "2026-09-01T03:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "central",
+        "nepal"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-lifestyle-nepal-orchard-fundraiser.json",
+      "en": {
+        "headline": "Nepalese bartenders pack Central bar for Nepal flood relief fundraiser",
+        "dek": "About 100 patrons gathered at Orchard on Monday night as five Nepalese operators and staff served signature cocktails, with all sales going to the Nepal government’s disaster relief appeal."
+      },
+      "zh": {
+        "headline": "尼泊爾籍調酒師中環酒吧籌款 支援家鄉水災災民",
+        "dek": "周一晚約百名顧客到中環Orchard，五名尼泊爾籍經營者及調酒師推出特色雞尾酒，全數收益捐予尼泊爾政府賑災。"
+      }
+    },
+    {
+      "id": "2026-09-01-t1-saudel-still-in-force",
+      "published_at": "2026-09-01T03:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "observatory",
+        "tropical-cyclone",
+        "saudel"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-t1-saudel-still-in-force.json",
+      "en": {
+        "headline": "Standby Signal No. 1 remains in force as Saudel tracks across northern South China Sea",
+        "dek": "The Hong Kong Observatory said the signal will stay until at least noon; Tropical Depression Saudel was about 400 kilometres south-southwest of the territory at 1am."
+      },
+      "zh": {
+        "headline": "沙德爾橫過南海北部 一號戒備信號繼續生效",
+        "dek": "天文台指信號至少維持至中午；熱帶低氣壓沙德爾凌晨1時位於本港西南偏南約400公里。"
+      }
+    },
     {
       "id": "2026-09-01-lifestyle-margarita-mile-2026",
       "published_at": "2026-09-01T01:13:00+08:00",
