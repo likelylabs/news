@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-01T23:07:57+08:00",
+  "updated_at": "2026-09-02T01:21:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "t1-saudel-wednesday-morning",
+      "id": "2026-09-02-t1-saudel-wednesday-morning",
+      "first_seen": "2026-09-02T01:20:00+08:00",
+      "headline_en": "Standby Signal No. 1 remains in force as Saudel edges closer"
+    },
+    {
+      "key": "lifestyle-centrestage-opens-sep2",
+      "id": "2026-09-02-lifestyle-centrestage-opens",
+      "first_seen": "2026-09-02T01:21:00+08:00",
+      "headline_en": "CENTRESTAGE fashion fair opens today at the Convention Centre"
+    },
     {
       "key": "shein-hkex-debut-sep1",
       "id": "2026-09-01-shein-hkex-debut",
