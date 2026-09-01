@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T15:11:04+08:00",
+  "updated_at": "2026-09-01T21:14:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -127,6 +127,24 @@
       "id": "2026-09-01-etax-ombudsman-unclear-wording",
       "first_seen": "2026-09-01T15:13:00+08:00",
       "headline_en": "Ombudsman finds 33,019 eTAX filings incomplete due to unclear wording"
+    },
+    {
+      "key": "t1-saudel-thunderstorm-evening-sep1",
+      "id": "2026-09-01-t1-saudel-thunderstorm-evening",
+      "first_seen": "2026-09-01T21:12:00+08:00",
+      "headline_en": "Standby Signal No. 1 stays in force; Thunderstorm Warning until 10pm"
+    },
+    {
+      "key": "neigbuy-data-breach-sep1",
+      "id": "2026-09-01-neigbuy-data-breach",
+      "first_seen": "2026-09-01T21:13:00+08:00",
+      "headline_en": "Online platform Neigbuy data breach may affect more than 33,000 users"
+    },
+    {
+      "key": "customs-ketamine-belgium-students-sep1",
+      "id": "2026-09-01-customs-ketamine-students",
+      "first_seen": "2026-09-01T21:14:00+08:00",
+      "headline_en": "Customs seize 6.4 kg of ketamine; two secondary students arrested"
     }
   ]
 }

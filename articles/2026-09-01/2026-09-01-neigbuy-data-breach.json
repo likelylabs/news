@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-01-neigbuy-data-breach",
+  "published_at": "2026-09-01T21:13:00+08:00",
+  "category": "crime",
+  "tags": ["crime", "fraud", "privacy", "cybersecurity", "police"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "neigbuy-data-breach-sep1",
+  "en": {
+    "headline": "Online platform Neigbuy data breach may affect more than 33,000 users",
+    "dek": "The Privacy Commissioner’s Office is investigating after the company reported a suspected cyber attack last month; police recorded six related scam cases involving over HK$300,000.",
+    "body": [
+      "The Office of the Privacy Commissioner for Personal Data said more than 33,000 people may have been affected by a data breach at online shopping platform Neigbuy.",
+      "The company said it detected a suspected cyber attack in late August that resulted in unauthorised access to some customer data, including names, phone numbers, email addresses, order details and delivery addresses. Login passwords, credit-card and bank-account details were not involved, it said.",
+      "The Privacy Commissioner’s Office received the notification on 30 August and said it would investigate under its established mechanism. It urged people who may be affected to stay vigilant, consider changing online passwords and enable multi-factor authentication where available.",
+      "Police said they had recorded six cases over the past week of scammers posing as Neigbuy customer-service staff, with total losses exceeding HK$300,000. The company apologised to customers and said it had isolated the relevant systems, rotated credentials and strengthened access controls."
+    ]
+  },
+  "zh": {
+    "headline": "網購平台「鄰住買」資料外洩或影響逾3.3萬人",
+    "dek": "私隱專員公署正調查平台上月疑遭網絡攻擊；警方錄得六宗假冒客服騙案，涉款逾30萬元。",
+    "body": [
+      "個人資料私隱專員公署表示，網購平台「鄰住買」資料外洩事故可能影響逾3.3萬人。",
+      "該公司表示，8月下旬在系統發現疑似遭受攻擊，導致部分資料被未經授權存取，可能涉及姓名、聯絡電話、電郵地址、所購商品及訂單資料、提貨點和送貨地址，但不涉及登入密碼、信用卡及銀行帳戶資料。",
+      "私隱專員公署於8月30日接獲通報，指8月24日發現系統疑似遭受攻擊，會按既定機制展開調查，並呼籲可能受影響人士提高警惕，考慮更改網上帳戶密碼及啟用多重認證。",
+      "警方表示，過去一星期接獲六宗涉及假冒「鄰住買」客服的騙案，總損失超過30萬港元。公司已向警方及公署通報，並隔離相關系統、更換帳戶憑證及加強存取控制，就事件向客戶致歉。"
+    ]
+  }
+}
