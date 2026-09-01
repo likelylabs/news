@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T21:11:56+08:00",
+  "updated_at": "2026-09-01T23:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -145,6 +145,30 @@
       "id": "2026-09-01-customs-ketamine-students",
       "first_seen": "2026-09-01T21:14:00+08:00",
       "headline_en": "Customs seize 6.4 kg of ketamine; two secondary students arrested"
+    },
+    {
+      "key": "t1-saudel-overnight-sep1",
+      "id": "2026-09-01-t1-saudel-overnight",
+      "first_seen": "2026-09-01T23:06:00+08:00",
+      "headline_en": "Standby Signal No. 1 to remain overnight and into Wednesday morning"
+    },
+    {
+      "key": "primary-one-class-cuts-2026-27",
+      "id": "2026-09-01-primary-one-class-cuts-126",
+      "first_seen": "2026-09-01T23:07:00+08:00",
+      "headline_en": "Public schools cut record 126 Primary One classes for new school year"
+    },
+    {
+      "key": "tram-power-fault-admiralty-sep1",
+      "id": "2026-09-01-tram-power-fault-admiralty",
+      "first_seen": "2026-09-01T23:08:00+08:00",
+      "headline_en": "Tram services suspended between Admiralty and Johnston Road after power fault"
+    },
+    {
+      "key": "flu-severe-case-5yo-sep1",
+      "id": "2026-09-01-flu-severe-case-5yo",
+      "first_seen": "2026-09-01T23:09:00+08:00",
+      "headline_en": "Five-year-old with chronic illness in serious condition after influenza A"
     }
   ]
 }
