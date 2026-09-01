@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-02T01:21:35+08:00",
+  "updated_at": "2026-09-02T03:16:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "t1-saudel-wednesday-update",
+      "id": "2026-09-02-t1-saudel-wednesday-update",
+      "first_seen": "2026-09-02T03:15:00+08:00",
+      "headline_en": "Standby Signal No. 1 remains; Saudel now a tropical storm"
+    },
+    {
+      "key": "lifestyle-quan-central-sep2026",
+      "id": "2026-09-02-lifestyle-quan-central",
+      "first_seen": "2026-09-02T03:16:00+08:00",
+      "headline_en": "Contemporary Fujian restaurant Quan opens in Central"
+    },
     {
       "key": "t1-saudel-wednesday-morning",
       "id": "2026-09-02-t1-saudel-wednesday-morning",
