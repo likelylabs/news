@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-02T01:21:35+08:00",
+  "generated_at": "2026-09-02T03:13:45+08:00",
   "live_window_hours": 72,
   "count": 83,
   "articles": [
+    {
+      "id": "2026-09-02-lifestyle-quan-central",
+      "published_at": "2026-09-02T03:16:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "food",
+        "central",
+        "restaurant"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-02/2026-09-02-lifestyle-quan-central.json",
+      "en": {
+        "headline": "Contemporary Fujian restaurant Quan opens in Central",
+        "dek": "Chef Justin Yang’s new tasting-menu restaurant on the fifth floor of CCB Tower focuses on Fujian traditions through a modern lens, with dishes built around the five elements."
+      },
+      "zh": {
+        "headline": "中環新餐廳Quan主打現代福建菜",
+        "dek": "主廚Justin Yang於中銀大廈五樓開設以福建傳統為本的試菜餐廳，菜單按五行結構設計。"
+      }
+    },
+    {
+      "id": "2026-09-02-t1-saudel-wednesday-update",
+      "published_at": "2026-09-02T03:15:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "tropical-cyclone",
+        "saudel",
+        "observatory"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-02/2026-09-02-t1-saudel-wednesday-update.json",
+      "en": {
+        "headline": "Standby Signal No. 1 remains; Saudel now a tropical storm",
+        "dek": "The Hong Kong Observatory said Tropical Storm Saudel was about 250 km east-southeast of the territory early Wednesday and the chance of a Strong Wind Signal stays relatively low."
+      },
+      "zh": {
+        "headline": "一號戒備信號維持 沙德爾已增強為熱帶風暴",
+        "dek": "天文台表示，熱帶風暴沙德爾周三凌晨位於本港東南偏東約250公里，改發三號強風信號機會仍相對較低。"
+      }
+    },
     {
       "id": "2026-09-02-lifestyle-centrestage-opens",
       "published_at": "2026-09-02T01:21:00+08:00",
@@ -1789,52 +1834,6 @@
       "zh": {
         "headline": "台灣新東陽新竹米粉驗出微量甲醛 食安中心召回",
         "dek": "食物安全中心表示，網店抽查的新東陽新竹米粉樣本含百萬分之十二甲醛，已指示分銷商停售及回收受影響批次。"
-      }
-    },
-    {
-      "id": "2026-08-30-tai-po-baptist-school-new-campus",
-      "published_at": "2026-08-30T03:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "schools",
-        "tai-po",
-        "community",
-        "wang-fuk-court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-tai-po-baptist-school-new-campus.json",
-      "en": {
-        "headline": "Tai Po Baptist Public School opens new Fu Shin Estate campus",
-        "dek": "Nearly 600 pupils displaced after the Wang Fuk Court fire reunite at renovated premises after months at two temporary sites; Education Secretary Christine Choi officiated at the opening."
-      },
-      "zh": {
-        "headline": "大埔浸信會公立學校富善邨新校舍啟用",
-        "dek": "宏福苑火災後近600名師生分散兩處臨時校舍數月，周六於富善邨新校舍重聚，教育局局長蔡若蓮主持開幕。"
-      }
-    },
-    {
-      "id": "2026-08-30-afcd-dog-control-special-ops",
-      "published_at": "2026-08-30T03:04:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "animals",
-        "afcd",
-        "pets",
-        "community",
-        "enforcement"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-afcd-dog-control-special-ops.json",
-      "en": {
-        "headline": "AFCD launches special dog-control patrols with immediate enforcement",
-        "dek": "Special inspections begin today and continue on 5 and 6 September at places where dogs gather; owners who fail to keep dogs properly controlled will face action without prior warning."
-      },
-      "zh": {
-        "headline": "漁護署今起特別巡查狗隻控制 違例即時執法不預警",
-        "dek": "署方今日及9月5、6日在全港多個狗隻聚集地點加強巡查，若發現畜養人未妥善控制狗隻將即時執法，不會事先警告。"
       }
     }
   ]
