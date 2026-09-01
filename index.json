@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-09-01T21:11:56+08:00",
+  "generated_at": "2026-09-01T23:07:57+08:00",
   "live_window_hours": 72,
   "count": 83,
   "articles": [
+    {
+      "id": "2026-09-01-flu-severe-case-5yo",
+      "published_at": "2026-09-01T23:09:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "influenza",
+        "chp",
+        "schools"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-flu-severe-case-5yo.json",
+      "en": {
+        "headline": "Five-year-old with chronic illness in serious condition after influenza A",
+        "dek": "The boy developed fever, cough and shortness of breath on Sunday and is being treated in the paediatric intensive care unit at Queen Mary Hospital."
+      },
+      "zh": {
+        "headline": "5歲長期病患男童染甲流併發嚴重肺炎 情況嚴重",
+        "dek": "男童周日起發燒咳嗽氣促，現於瑪麗醫院兒童深切治療部留醫；防護中心料開學初期流感仍活躍。"
+      }
+    },
+    {
+      "id": "2026-09-01-tram-power-fault-admiralty",
+      "published_at": "2026-09-01T23:08:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "tram",
+        "hong-kong-tramways",
+        "admiralty"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-tram-power-fault-admiralty.json",
+      "en": {
+        "headline": "Tram services suspended between Admiralty and Johnston Road after power fault",
+        "dek": "Both eastbound and westbound services on the section were halted from about 9.40pm; the Transport Department advised passengers to use alternative routes."
+      },
+      "zh": {
+        "headline": "金鐘至杜老誌道電車因電力故障暫停服務",
+        "dek": "運輸署晚上約9時43分接獲通知，東西行線電車均暫停；工程人員正搶修，乘客需改用其他交通工具。"
+      }
+    },
+    {
+      "id": "2026-09-01-primary-one-class-cuts-126",
+      "published_at": "2026-09-01T23:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "schools",
+        "community",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-primary-one-class-cuts-126.json",
+      "en": {
+        "headline": "Public schools cut record 126 Primary One classes for new school year",
+        "dek": "The latest Primary School Profiles show a net drop of 8 per cent; Kwai Tsing lost the most classes, followed by Tuen Mun and Eastern district."
+      },
+      "zh": {
+        "headline": "今學年小一淨減126班創紀錄 葵青成縮班重災區",
+        "dek": "《小學概覽2026》顯示官津小學小一班數按年跌約8%；121間學校合共縮144班，15間學校派零班。"
+      }
+    },
+    {
+      "id": "2026-09-01-t1-saudel-overnight",
+      "published_at": "2026-09-01T23:06:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "tropical-cyclone",
+        "saudel",
+        "observatory"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-t1-saudel-overnight.json",
+      "en": {
+        "headline": "Standby Signal No. 1 to remain overnight and into Wednesday morning",
+        "dek": "Tropical Depression Saudel was about 240 km southeast of Hong Kong at 9pm; the Observatory said the chance of a Strong Wind Signal remains relatively low."
+      },
+      "zh": {
+        "headline": "一號戒備信號今晚及明早維持 沙德爾繼續靠近粵東",
+        "dek": "熱帶低氣壓沙德爾晚上9時位於本港東南約240公里；天文台指今明兩日改發三號強風信號機會仍相對較低。"
+      }
+    },
     {
       "id": "2026-09-01-customs-ketamine-students",
       "published_at": "2026-09-01T21:14:00+08:00",
@@ -1746,97 +1834,6 @@
       "zh": {
         "headline": "錦英苑龜池遭投洗衣球 警拘42歲男涉殘酷對待動物",
         "dek": "馬鞍山錦英苑二期水池周三發現大量泡沫，一魚死亡、逾30隻龜灼傷，沙田警區刑事調查隊周五以涉嫌殘酷對待動物拘捕一名42歲男子。"
-      }
-    },
-    {
-      "id": "2026-08-29-lifestyle-space-fantasy-ccohk",
-      "published_at": "2026-08-29T21:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "concert",
-        "family",
-        "tsuen-wan",
-        "music"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-29/2026-08-29-lifestyle-space-fantasy-ccohk.json",
-      "en": {
-        "headline": "City Chamber Orchestra stages Space Fantasy family shows this weekend",
-        "dek": "Three English-language performances run at Tsuen Wan Town Hall on Saturday and Sunday, combining live music, dance, theatre and circus for ages three and up."
-      },
-      "zh": {
-        "headline": "城市室樂團《太空幻遊》本周末荃灣大會堂上演",
-        "dek": "周六下午3時及晚上7時半、周日下午3時於荃灣大會堂演奏廳演出，英語家庭節目，門票120元起。"
-      }
-    },
-    {
-      "id": "2026-08-29-mpox-case-39yo",
-      "published_at": "2026-08-29T21:14:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "mpox",
-        "chp",
-        "public-health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-29/2026-08-29-mpox-case-39yo.json",
-      "en": {
-        "headline": "CHP investigates new local Mpox case involving 39-year-old man",
-        "dek": "The patient is stable and will continue isolation at Princess Margaret Hospital; high-risk groups are urged to get vaccinated."
-      },
-      "zh": {
-        "headline": "衞生防護中心調查39歲男子猴痘確診個案",
-        "dek": "患者情況穩定，將轉送瑪嘉烈醫院繼續隔離治療；中心呼籲高風險群組接種疫苗。"
-      }
-    },
-    {
-      "id": "2026-08-29-disaster-relief-nepal-tibet",
-      "published_at": "2026-08-29T21:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "disaster-relief",
-        "government",
-        "nepal",
-        "tibet",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-29/2026-08-29-disaster-relief-nepal-tibet.json",
-      "en": {
-        "headline": "Hong Kong earmarks HK$50 million for Nepal-Tibet mudslide victims",
-        "dek": "Chief Executive John Lee said the Disaster Relief Fund Advisory Committee will handle applications swiftly after deadly flash floods along the Himalayan border."
-      },
-      "zh": {
-        "headline": "李家超：賑災基金預留5,000萬元支援尼中泥石流災區",
-        "dek": "行政長官對遇難者表示沉痛哀悼，賑災基金諮詢委員會將迅速處理撥款申請。"
-      }
-    },
-    {
-      "id": "2026-08-29-huanggang-port-20000-drill",
-      "published_at": "2026-08-29T21:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "huanggang-port",
-        "border",
-        "security",
-        "government",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-29/2026-08-29-huanggang-port-20000-drill.json",
-      "en": {
-        "headline": "Huanggang Port 20,000-person drill runs smoothly, ID or home-return permit accepted",
-        "dek": "Security Secretary Chris Tang said the final large-scale pressure test with Shenzhen went as planned and opening timing will be decided jointly once conditions are met."
-      },
-      "zh": {
-        "headline": "皇崗口岸兩萬人演練大致暢順 開通後可用身分證或回鄉證",
-        "dek": "保安局局長鄧炳強表示今次為開通前最後一次大型動員演練，整體暢順有序，正式通關時間將與深方協商決定。"
       }
     }
   ]
