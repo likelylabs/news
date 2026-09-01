@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-01T13:14:24+08:00",
+  "generated_at": "2026-09-01T15:11:04+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 82,
   "articles": [
+    {
+      "id": "2026-09-01-etax-ombudsman-unclear-wording",
+      "published_at": "2026-09-01T15:13:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "government",
+        "tax",
+        "ombudsman"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-etax-ombudsman-unclear-wording.json",
+      "en": {
+        "headline": "Ombudsman finds 33,019 eTAX filings incomplete due to unclear wording",
+        "dek": "Ambiguous instructions led many taxpayers to believe signing with iAM Smart finished the process; the Inland Revenue Department accepted 18 improvement recommendations."
+      },
+      "zh": {
+        "headline": "申訴專員：逾3.3萬人因提示不清未完成電子報稅",
+        "dek": "公署指「稅務易」介面字句欠清晰，令不少人誤以為以「智方便」簽署即完成提交；稅務局接納全部18項改善建議。"
+      }
+    },
+    {
+      "id": "2026-09-01-galbot-robot-stores-first-day",
+      "published_at": "2026-09-01T15:12:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "retail",
+        "ai",
+        "robots",
+        "innovation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-galbot-robot-stores-first-day.json",
+      "en": {
+        "headline": "Rain and internet outages mark first day of Hong Kong robot convenience stores",
+        "dek": "Three Galbot Stores staffed by humanoid robots opened in Hung Hom, Wan Chai and Kai Tak on Tuesday, drawing visitors despite technical hiccups and wet weather."
+      },
+      "zh": {
+        "headline": "全港首批機械人便利店首日遇雨及網絡故障",
+        "dek": "銀河通用三間由人形機械人管理的Galbot Store周二於紅磡、灣仔及啟德開業，戶外店受大雨及網絡不穩影響，仍吸引市民到訪。"
+      }
+    },
     {
       "id": "2026-09-01-tang-lung-wai-philippines-return",
       "published_at": "2026-09-01T13:15:00+08:00",
