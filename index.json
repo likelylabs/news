@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-09-01T11:16:14+08:00",
+  "generated_at": "2026-09-01T13:14:24+08:00",
   "live_window_hours": 72,
   "count": 80,
   "articles": [
+    {
+      "id": "2026-09-01-tang-lung-wai-philippines-return",
+      "published_at": "2026-09-01T13:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "philippines",
+        "detention",
+        "deportation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-tang-lung-wai-philippines-return.json",
+      "en": {
+        "headline": "Hong Kong man returned to Philippine prison after weather delays deportation",
+        "dek": "Tang Lung-wai was taken back to maximum-security jail when a typhoon suspended immigration offices, his lawyer said, calling the delay illegal detention."
+      },
+      "zh": {
+        "headline": "港人鄧龍威菲國刑滿後因風球延誤遭送回監獄",
+        "dek": "律師指颱風令入境部門暫停辦公，鄧龍威被送回最高設防監獄，並形容延誤屬非法羈留。"
+      }
+    },
     {
       "id": "2026-09-01-lifestyle-mplus-herzog-focus",
       "published_at": "2026-09-01T11:16:00+08:00",
@@ -1747,28 +1768,6 @@
       "zh": {
         "headline": "醫管局澄清糖尿病250元屬個人化治療收費 非講座入場費",
         "dek": "局方指收費按政府憲報標準，涵蓋臨床評估、個人化飲食建議及跟進，絕大部分一般健康教育講座均免費。"
-      }
-    },
-    {
-      "id": "2026-08-29-edb-textbook-prices",
-      "published_at": "2026-08-29T13:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "schools",
-        "government",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-29/2026-08-29-edb-textbook-prices.json",
-      "en": {
-        "headline": "Education chief says textbook prices up 3.6 per cent, rejects universal grant",
-        "dek": "Christine Choi said the bureau is monitoring costs and has told publishers to avoid excessive packaging, while targeted subsidies remain available for low-income families."
-      },
-      "zh": {
-        "headline": "蔡若蓮：教科書價升3.6% 關注價格問題 拒恢復通派津貼",
-        "dek": "教育局局長表示局方密切監察書價，已要求出版商避免過度精美印刷，基層家庭繼續獲書簿津貼。"
       }
     }
   ]
