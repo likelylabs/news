@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T13:14:24+08:00",
+  "updated_at": "2026-09-01T15:13:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -115,6 +115,18 @@
       "id": "2026-09-01-tang-lung-wai-philippines-return",
       "first_seen": "2026-09-01T13:15:00+08:00",
       "headline_en": "Hong Kong man returned to Philippine prison after weather delays deportation"
+    },
+    {
+      "key": "galbot-robot-stores-first-day-sep1",
+      "id": "2026-09-01-galbot-robot-stores-first-day",
+      "first_seen": "2026-09-01T15:12:00+08:00",
+      "headline_en": "Rain and internet outages mark first day of Hong Kong robot convenience stores"
+    },
+    {
+      "key": "etax-unclear-wording-ombudsman-33019",
+      "id": "2026-09-01-etax-ombudsman-unclear-wording",
+      "first_seen": "2026-09-01T15:13:00+08:00",
+      "headline_en": "Ombudsman finds 33,019 eTAX filings incomplete due to unclear wording"
     }
   ]
 }
