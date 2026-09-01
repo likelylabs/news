@@ -1,78 +1,21 @@
 {
-  "updated_at": "2026-09-01T07:57:37+08:00",
+  "updated_at": "2026-09-01T09:24:30+08:00",
   "retention_days": 5,
   "covered": [
-    {
-      "key": "shein-hkex-debut-sep1",
-      "id": "2026-09-01-shein-hkex-debut",
-      "first_seen": "2026-09-01T01:10:00+08:00",
-      "headline_en": "Shein shares begin trading on Hong Kong exchange after $1.74 billion IPO"
-    },
-    {
-      "key": "fanling-golf-course-appeal-dismissed-aug31",
-      "id": "2026-09-01-fanling-golf-appeal-dismissed",
-      "first_seen": "2026-09-01T01:11:00+08:00",
-      "headline_en": "Court of Appeal dismisses government bid to revive Fanling golf course housing plan"
-    },
-    {
-      "key": "hsitp-loop-land-tender-six-bids-aug31",
-      "id": "2026-09-01-hsitp-land-tender-six-bids",
-      "first_seen": "2026-09-01T01:12:00+08:00",
-      "headline_en": "Six bids received for inaugural land tender at Hong Kong-Shenzhen Innovation and Technology Park"
-    },
-    {
-      "key": "lifestyle-margarita-mile-sep2026",
-      "id": "2026-09-01-lifestyle-margarita-mile-2026",
-      "first_seen": "2026-09-01T01:13:00+08:00",
-      "headline_en": "Margarita Mile cocktail trail returns across ten Hong Kong bars from today"
-    },
-    {
-      "key": "t1-saudel-still-in-force-sep1",
-      "id": "2026-09-01-t1-saudel-still-in-force",
-      "first_seen": "2026-09-01T03:05:00+08:00",
-      "headline_en": "Standby Signal No. 1 remains in force as Saudel tracks across northern South China Sea"
-    },
-    {
-      "key": "lifestyle-nepal-orchard-fundraiser-aug31",
-      "id": "2026-09-01-lifestyle-nepal-orchard-fundraiser",
-      "first_seen": "2026-09-01T03:06:00+08:00",
-      "headline_en": "Nepalese bartenders pack Central bar for Nepal flood relief fundraiser"
-    },
-    {
-      "key": "rbhk-2026-opens-sep1",
-      "id": "2026-09-01-rbhk-opens-sep1",
-      "first_seen": "2026-09-01T03:07:00+08:00",
-      "headline_en": "Restaurant, Bar & Café Hong Kong trade show opens at HKCEC"
-    },
-    {
-      "key": "flu-vaccination-programmes-2026-27-sep17",
-      "id": "2026-09-01-flu-vaccination-sep17",
-      "first_seen": "2026-09-01T07:11:00+08:00",
-      "headline_en": "Flu vaccination programmes start 17 September, a week earlier than last year"
-    },
-    {
-      "key": "july-2026-retail-sales-15th-month",
-      "id": "2026-09-01-july-retail-sales",
-      "first_seen": "2026-09-01T07:12:00+08:00",
-      "headline_en": "Retail sales rise 4.5 per cent in July, extending streak to 15 months"
-    },
-    {
-      "key": "whatsapp-hijack-scams-jan-jul-2026",
-      "id": "2026-09-01-whatsapp-hijack-scams",
-      "first_seen": "2026-09-01T07:13:00+08:00",
-      "headline_en": "WhatsApp hijacking scams jump 170 per cent in first seven months"
-    },
-    {
-      "key": "miss-hong-kong-2026-bernice-yuen",
-      "id": "2026-09-01-miss-hong-kong-bernice-yuen",
-      "first_seen": "2026-09-01T07:14:00+08:00",
-      "headline_en": "Theme park performer Bernice Yuen crowned Miss Hong Kong 2026"
-    },
-    {
-      "key": "lifestyle-centrestage-2026-hkcec",
-      "id": "2026-09-01-lifestyle-centrestage-opens",
-      "first_seen": "2026-09-01T07:15:00+08:00",
-      "headline_en": "CENTRESTAGE fashion fair opens at the Convention Centre from Wednesday"
-    }
+    {"key": "shein-hkex-debut-sep1", "id": "2026-09-01-shein-hkex-debut", "first_seen": "2026-09-01T01:10:00+08:00", "headline_en": "Shein shares begin trading on Hong Kong exchange after $1.74 billion IPO"},
+    {"key": "fanling-golf-course-appeal-dismissed-aug31", "id": "2026-09-01-fanling-golf-appeal-dismissed", "first_seen": "2026-09-01T01:11:00+08:00", "headline_en": "Court of Appeal dismisses government bid to revive Fanling golf course housing plan"},
+    {"key": "hsitp-loop-land-tender-six-bids-aug31", "id": "2026-09-01-hsitp-land-tender-six-bids", "first_seen": "2026-09-01T01:12:00+08:00", "headline_en": "Six bids received for inaugural land tender at Hong Kong-Shenzhen Innovation and Technology Park"},
+    {"key": "lifestyle-margarita-mile-sep2026", "id": "2026-09-01-lifestyle-margarita-mile-2026", "first_seen": "2026-09-01T01:13:00+08:00", "headline_en": "Margarita Mile cocktail trail returns across ten Hong Kong bars from today"},
+    {"key": "t1-saudel-still-in-force-sep1", "id": "2026-09-01-t1-saudel-still-in-force", "first_seen": "2026-09-01T03:05:00+08:00", "headline_en": "Standby Signal No. 1 remains in force as Saudel tracks across northern South China Sea"},
+    {"key": "lifestyle-nepal-orchard-fundraiser-aug31", "id": "2026-09-01-lifestyle-nepal-orchard-fundraiser", "first_seen": "2026-09-01T03:06:00+08:00", "headline_en": "Nepalese bartenders pack Central bar for Nepal flood relief fundraiser"},
+    {"key": "rbhk-2026-opens-sep1", "id": "2026-09-01-rbhk-opens-sep1", "first_seen": "2026-09-01T03:07:00+08:00", "headline_en": "Restaurant, Bar & Café Hong Kong trade show opens at HKCEC"},
+    {"key": "flu-vaccination-programmes-2026-27-sep17", "id": "2026-09-01-flu-vaccination-sep17", "first_seen": "2026-09-01T07:11:00+08:00", "headline_en": "Flu vaccination programmes start 17 September, a week earlier than last year"},
+    {"key": "july-2026-retail-sales-15th-month", "id": "2026-09-01-july-retail-sales", "first_seen": "2026-09-01T07:12:00+08:00", "headline_en": "Retail sales rise 4.5 per cent in July, extending streak to 15 months"},
+    {"key": "whatsapp-hijack-scams-jan-jul-2026", "id": "2026-09-01-whatsapp-hijack-scams", "first_seen": "2026-09-01T07:13:00+08:00", "headline_en": "WhatsApp hijacking scams jump 170 per cent in first seven months"},
+    {"key": "miss-hong-kong-2026-bernice-yuen", "id": "2026-09-01-miss-hong-kong-bernice-yuen", "first_seen": "2026-09-01T07:14:00+08:00", "headline_en": "Theme park performer Bernice Yuen crowned Miss Hong Kong 2026"},
+    {"key": "lifestyle-centrestage-2026-hkcec", "id": "2026-09-01-lifestyle-centrestage-opens", "first_seen": "2026-09-01T07:15:00+08:00", "headline_en": "CENTRESTAGE fashion fair opens at the Convention Centre from Wednesday"},
+    {"key": "dh-unregistered-cancer-vaccine-raids-aug31", "id": "2026-09-01-dh-unregistered-cancer-vaccine-raids", "first_seen": "2026-09-01T09:22:00+08:00", "headline_en": "Health Department raids seven premises over unregistered cancer vaccine claims"},
+    {"key": "wo-che-prh-false-property-declaration-aug31", "id": "2026-09-01-wo-che-prh-false-declaration", "first_seen": "2026-09-01T09:23:00+08:00", "headline_en": "Sha Tin public housing tenant jailed six weeks over undeclared Tai Po flat"},
+    {"key": "lifestyle-hktdc-watch-clock-fair-2026", "id": "2026-09-01-lifestyle-watch-clock-fair", "first_seen": "2026-09-01T09:24:00+08:00", "headline_en": "Hong Kong Watch and Clock Fair opens at the Convention Centre"}
   ]
 }
