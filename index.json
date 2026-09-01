@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-09-01T07:57:37+08:00",
+  "generated_at": "2026-09-01T09:24:42+08:00",
   "live_window_hours": 72,
   "count": 81,
   "articles": [
+    {
+      "id": "2026-09-01-lifestyle-watch-clock-fair",
+      "published_at": "2026-09-01T09:24:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "wan-chai",
+        "events",
+        "trade"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-lifestyle-watch-clock-fair.json",
+      "en": {
+        "headline": "Hong Kong Watch and Clock Fair opens at the Convention Centre",
+        "dek": "The Trade Development Council's 45th edition runs through Saturday at the Wan Chai venue, alongside Salon de TIME, and is open to trade visitors aged 18 or above."
+      },
+      "zh": {
+        "headline": "香港鐘表展今起於灣仔會展開鑾",
+        "dek": "貿發局第四十五屆鐘表展舉行至周六，同期有國際名表蕃萃，實體展只開放予十八歲或以上業內人士。"
+      }
+    },
+    {
+      "id": "2026-09-01-wo-che-prh-false-declaration",
+      "published_at": "2026-09-01T09:23:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "courts",
+        "sha-tin",
+        "public-housing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-wo-che-prh-false-declaration.json",
+      "en": {
+        "headline": "Sha Tin public housing tenant jailed six weeks over undeclared Tai Po flat",
+        "dek": "The Housing Department said a Wo Che Estate resident who declared no Hong Kong property in 2025 in fact owned a home in Tai Po, and the public rental flat will be recovered."
+      },
+      "zh": {
+        "headline": "禾輏邸公屋戶隱瞞大埔物業 判監六星期單位將收回",
+        "dek": "房屋署表示，該戶在二〇二五年申報表填報並無本港物業，其後被揭發當時持有大埔住宅，公屋單位將被收回。"
+      }
+    },
+    {
+      "id": "2026-09-01-dh-unregistered-cancer-vaccine-raids",
+      "published_at": "2026-09-01T09:22:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "dh",
+        "enforcement",
+        "vaccines"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-01/2026-09-01-dh-unregistered-cancer-vaccine-raids.json",
+      "en": {
+        "headline": "Health Department raids seven premises over unregistered cancer vaccine claims",
+        "dek": "The Department of Health said a vaccine advertised as preventing multiple cancers is not a registered medicine in Hong Kong, and referred the case to Customs and the Medical Council."
+      },
+      "zh": {
+        "headline": "衞生署突擊巡查七處所 跟進未註冊防癌疫苗聲稱",
+        "dek": "衞生署表示，有疫苗被宣傳可預防多種癌症，但並非本港註冊藥劑製品，個案已轉介海關及醫務委員會。"
+      }
+    },
     {
       "id": "2026-09-01-lifestyle-centrestage-opens",
       "published_at": "2026-09-01T07:15:00+08:00",
@@ -1727,72 +1794,6 @@
       "zh": {
         "headline": "勞工處發出黃色工作暑熱警告",
         "dek": "勞工處今早時9時50分發出黃色工作暑熱警告，指部分工作環境熱壓力頗高，提醒僱主及僱員採取防暑措施。"
-      }
-    },
-    {
-      "id": "2026-08-29-doj-gba-lawyers-law-amendments",
-      "published_at": "2026-08-29T09:18:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "legal",
-        "greater-bay-area",
-        "government",
-        "lawyers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-29/2026-08-29-doj-gba-lawyers-law-amendments.json",
-      "en": {
-        "headline": "DoJ welcomes NPCSC amendments regularising GBA lawyers scheme",
-        "dek": "Amendments to the mainland Lawyers Law take effect on 1 September, giving dual-qualified Hong Kong lawyers a statutory basis to practise specified matters in nine Guangdong cities."
-      },
-      "zh": {
-        "headline": "律政司歡迎全國人大常委會修訂律師法 規範大灣區律師機制",
-        "dek": "內地《律師法》修訂將於9月1日生效，為具備雙重資格的香港律師在廣東九市執業指定民商事法律事務提供法律依據。"
-      }
-    },
-    {
-      "id": "2026-08-29-tin-sum-reporting-centre",
-      "published_at": "2026-08-29T09:17:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "sha-tin",
-        "community",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-29/2026-08-29-tin-sum-reporting-centre.json",
-      "en": {
-        "headline": "Tin Sum police station to become reporting centre from Sunday",
-        "dek": "After the Tin Sum Division is merged into Sha Tin and Ma On Shan divisions, the Hin Keng Street report room will operate as a reporting centre from 8am to 10.30pm daily."
-      },
-      "zh": {
-        "headline": "田心警署周日改為報案中心 服務至晚上10時半",
-        "dek": "沙田警區田心分區周日併入沙田及馬鞍山分區後，顯徑街報案室將改為報案中心，每日上午8時至晚上10時半開放。"
-      }
-    },
-    {
-      "id": "2026-08-29-very-hot-weather-warning-morning",
-      "published_at": "2026-08-29T09:16:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "heat",
-        "observatory",
-        "health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-29/2026-08-29-very-hot-weather-warning-morning.json",
-      "en": {
-        "headline": "Observatory issues Very Hot Weather Warning on Saturday morning",
-        "dek": "The Hong Kong Observatory issued the warning at 8.40am, expecting very hot weather today with a high of about 33 degrees and brief sunshine after early showers."
-      },
-      "zh": {
-        "headline": "天文台周六早上發出酷熱天氣警告",
-        "dek": "天文台今早8時40分發出酷熱天氣警告，預料今日酷熱，最高氣溫約33度，早上有驟雨後日間短暫有陽光。"
       }
     }
   ]
