@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-02T23:37:34+08:00",
+  "generated_at": "2026-09-03T03:21:38+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-09-03-lifestyle-sui-tang-exhibition-hkm",
+      "published_at": "2026-09-03T03:16:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "exhibition",
+        "museums",
+        "history"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-03/2026-09-03-lifestyle-sui-tang-exhibition-hkm.json",
+      "en": {
+        "headline": "Sui-Tang civilisation exhibition continues at History Museum",
+        "dek": "More than 165 artefacts from Shaanxi, including 18 national first-class cultural relics, remain on show at the Hong Kong Museum of History until 30 November under the title Chang’an Myriad Vistas."
+      },
+      "zh": {
+        "headline": "歷史博物館隋唐文明展繼續展出至11月底",
+        "dek": "「長安萬象—陝西隋唐文明展」展出逾165件（套）文物，包括18件國家一級文物，免費入場，展期至11月30日。"
+      }
+    },
+    {
+      "id": "2026-09-03-t1-saudel-thursday-early",
+      "published_at": "2026-09-03T03:15:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "tropical-cyclone",
+        "saudel",
+        "observatory"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-03/2026-09-03-t1-saudel-thursday-early.json",
+      "en": {
+        "headline": "Standby Signal No. 1 remains; Saudel about 400 km east-northeast",
+        "dek": "Tropical Storm Saudel was estimated near 23.1 degrees north, 118.0 degrees east early Thursday and is forecast to linger over the northeastern South China Sea before turning westwards."
+      },
+      "zh": {
+        "headline": "一號戒備信號維持 沙德爾位於本港東北偏東約400公里",
+        "dek": "熱帶風暴沙德爾周四凌晨位於北緯23.1度、東經118.0度附近，預料在南海東北部徘徊後逐漸轉西，掠過廣東東部沿岸。"
+      }
+    },
     {
       "id": "2026-09-02-hkjc-conghua-postponed-record-turnover",
       "published_at": "2026-09-02T23:32:00+08:00",
