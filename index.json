@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-09-02T13:11:36+08:00",
+  "generated_at": "2026-09-02T15:20:34+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-09-02-ngau-chi-wan-school-bus-collision",
+      "published_at": "2026-09-02T15:20:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "traffic-accident",
+        "schools"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-02/2026-09-02-ngau-chi-wan-school-bus-collision.json",
+      "en": {
+        "headline": "Two school buses collide in Ngau Chi Wan; 13 injured including children",
+        "dek": "A white school bus carrying kindergarten pupils hit a parked yellow school bus outside a school on Jat Shan Road shortly after 1.20pm; all injuries were reported as minor."
+      },
+      "zh": {
+        "headline": "牛池灣扎山道兩校巴相撞 約13人輕傷包括學童",
+        "dek": "白色校巴載有幼稚園學童疑失控撞向停泊的黃色校巴，司機腳部一度被困，全部傷者輕傷送院。"
+      }
+    },
+    {
+      "id": "2026-09-02-cityu-orientation-disco-probe",
+      "published_at": "2026-09-02T15:19:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "universities",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-02/2026-09-02-cityu-orientation-disco-probe.json",
+      "en": {
+        "headline": "CityU probes orientation ‘disco night’ video, vows zero tolerance",
+        "dek": "The university set up a student discipline panel after a social-media clip appeared to show intimate behaviour among people believed to be students at a Management Sciences Society event."
+      },
+      "zh": {
+        "headline": "城大調查迎新「Disco Night」短片 強調零容忍不當行為",
+        "dek": "社交平台流傳疑似管理科學學科聯會迎新活動短片後，城大成立紀律調查委員會，稱對損害學生尊嚴的行為絕不容忍。"
+      }
+    },
+    {
+      "id": "2026-09-02-t1-saudel-wednesday-1500",
+      "published_at": "2026-09-02T15:18:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "tropical-cyclone",
+        "saudel",
+        "observatory"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-02/2026-09-02-t1-saudel-wednesday-1500.json",
+      "en": {
+        "headline": "Standby Signal No. 1 stays; Saudel 330 km east at 3pm",
+        "dek": "Tropical Storm Saudel was centred about 330 kilometres east of Hong Kong at 3pm and is forecast to move northeast at about 10 km/h across the northeastern South China Sea."
+      },
+      "zh": {
+        "headline": "一號戒備信號維持 沙德爾下午3時位於本港以東約330公里",
+        "dek": "熱帶風暴沙德爾下午3時位於本港以東約330公里，預料向東北移動，時速約10公里，橫過南海東北部。"
+      }
+    },
     {
       "id": "2026-09-02-joshua-wong-collusion-plea",
       "published_at": "2026-09-02T13:10:00+08:00",
