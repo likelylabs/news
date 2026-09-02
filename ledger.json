@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-09-02T11:10:41+08:00",
+  "updated_at": "2026-09-02T13:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
-      "key": "t1-saudel-wednesday-midday-westward",
+      "key": "t1-saudel-wednesday-afternoon",
+      "id": "2026-09-02-t1-saudel-wednesday-afternoon",
+      "first_seen": "2026-09-02T13:09:00+08:00",
+      "headline_en": "Standby Signal No. 1 stays; Saudel 310 km east at 1pm"
+    },
+    {
+      "key": "joshua-wong-foreign-collusion-plea",
+      "id": "2026-09-02-joshua-wong-collusion-plea",
+      "first_seen": "2026-09-02T13:10:00+08:00",
+      "headline_en": "Joshua Wong pleads guilty to foreign collusion charge"
+    },
+    {
+      "key": "t1-saudel-wednesday-midday",
       "id": "2026-09-02-t1-saudel-wednesday-midday",
       "first_seen": "2026-09-02T11:04:00+08:00",
       "headline_en": "Observatory to assess Strong Wind Signal as Saudel may turn west"
