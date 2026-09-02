@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-09-02T07:15:28+08:00",
+  "generated_at": "2026-09-02T09:08:18+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-09-02-lifestyle-gruffalo-hkapa",
+      "published_at": "2026-09-02T09:11:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "theatre",
+        "family"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-02/2026-09-02-lifestyle-gruffalo-hkapa.json",
+      "en": {
+        "headline": "The Gruffalo returns to the Academy this weekend",
+        "dek": "Tall Stories’ hour-long English musical of the Julia Donaldson picture book plays the Rita Tong Liu Drama Theatre from Friday, with a second run the following weekend."
+      },
+      "zh": {
+        "headline": "繪本音樂劇《咕嚎牛》本周末起在演藝學院上演",
+        "dek": "英國Tall Stories改編自朱莉婕・唐納森繪本的英語音樂劇，周五起在灣仔演藝學院麗瑞楠戲劇院演出，每場約60分鐘。"
+      }
+    },
+    {
+      "id": "2026-09-02-gyirong-landslide-donations",
+      "published_at": "2026-09-02T09:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-02/2026-09-02-gyirong-landslide-donations.json",
+      "en": {
+        "headline": "Hong Kong firms pledge tens of millions for Tibet landslide relief",
+        "dek": "CK Asset, CK Hutchison, Henderson Land and Sino Group each said they would give 15 million yuan through the Liaison Office disaster-relief account."
+      },
+      "zh": {
+        "headline": "港商再向西藏吉隆泥石流災區捐款 長實恒地等各捐人民幣1500萬",
+        "dek": "長實、長和、李嘉誠基金會，以及恒地與李兆基基金，分別經中聯辦贁災帳戶捐出人民幣1500萬元。"
+      }
+    },
+    {
+      "id": "2026-09-02-lo-chung-mau-drug-centre",
+      "published_at": "2026-09-02T09:09:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "policy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-02/2026-09-02-lo-chung-mau-drug-centre.json",
+      "en": {
+        "headline": "Health chief says drug and device regulator to be set up this year",
+        "dek": "Lo Chung-mau said the new centre would support first-tier local approval of innovative medicines, with a target of full review capacity by 2030."
+      },
+      "zh": {
+        "headline": "盧寵茂：年內成立藥械監督管理中心 盼2030年全面審批新藥",
+        "dek": "醫務衞生局局長接受專訪時表示，香港將於今年內成立藥物及醫療器械監督管理中心，目標2030年可全面審批創新藥物。"
+      }
+    },
+    {
+      "id": "2026-09-02-hku-mbbs-chinese-language",
+      "published_at": "2026-09-02T09:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "universities",
+        "health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-02/2026-09-02-hku-mbbs-chinese-language.json",
+      "en": {
+        "headline": "HKU medicine changes MBBS language bar from Cantonese to Chinese",
+        "dek": "The faculty said 2027/28 applicants may meet the Chinese requirement in Cantonese or Putonghua, but Cantonese is still required before clinical work."
+      },
+      "zh": {
+        "headline": "港大醫科入學語言改為良好中文 院方：實習前仍須粵語",
+        "dek": "港大醫學院更新2027/28年度招生資料，中文要求改為粵語或普通話均可，但強調接觸病人前必須具備粵語溝通能力。"
+      }
+    },
     {
       "id": "2026-09-02-lifestyle-national-ecology-day-ekcc",
       "published_at": "2026-09-02T07:16:00+08:00",
@@ -1791,158 +1873,6 @@
       "zh": {
         "headline": "長青公路三私家車串燒相撞 無人受傷",
         "dek": "三車周六晚近十時在往新界方向近機場支路相撞後停在快線，三名男司機通過酒精呼氣測試，警方正調查起因。"
-      }
-    },
-    {
-      "id": "2026-08-30-lifestyle-chiikawa-light-rail-final",
-      "published_at": "2026-08-30T09:08:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "mtr",
-        "exhibition"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-lifestyle-chiikawa-light-rail-final.json",
-      "en": {
-        "headline": "Chiikawa-themed Light Rail makes its last weekend trips today",
-        "dek": "Special trains have run four trips each Saturday and Sunday from Siu Hong since 25 July; an $88 same-day Light Rail pass is sold at that stop."
-      },
-      "zh": {
-        "headline": "Chiikawa主題輕鐵今日最後一個周末行走",
-        "dek": "由7月25日起逢周六日由兆康開出四班特色列車，當日於該站可買88元全日輕鐵乘車證。"
-      }
-    },
-    {
-      "id": "2026-08-30-lifestyle-db-open-water-race",
-      "published_at": "2026-08-30T09:07:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "lifestyle",
-        "sport",
-        "discovery-bay",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-lifestyle-db-open-water-race.json",
-      "en": {
-        "headline": "Discovery Bay stages fourth open-water swim challenge today",
-        "dek": "Solo races of 400 metres, 1.7 kilometres and 3.8 kilometres, plus a 400-metre relay, finish at Tai Pak Beach on Sunday."
-      },
-      "zh": {
-        "headline": "第四屆愉景灣公開水域泳賽今日舉行",
-        "dek": "公開組設400米、1.7公里及3.8公里個人賽，另有400米接力，終點同為大白灣泳灘。"
-      }
-    },
-    {
-      "id": "2026-08-30-sau-mau-ping-crash-driver-missing",
-      "published_at": "2026-08-30T09:06:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "police",
-        "transport",
-        "kwun-tong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-sau-mau-ping-crash-driver-missing.json",
-      "en": {
-        "headline": "Driver missing after private car hits railings in Sau Mau Ping",
-        "dek": "Police found an empty white private car with a damaged front end at On Sau Road and On Kin Road shortly after 5am and are trying to contact the owner."
-      },
-      "zh": {
-        "headline": "秀茂坪私家車撞欄司機不知所終",
-        "dek": "周日清晨一輛白色私家車在安秀道轉入安健道時撞向路中鐵欄，警員到場發現車內無人，正聯絡車主。"
-      }
-    },
-    {
-      "id": "2026-08-30-fairview-park-burglary",
-      "published_at": "2026-08-30T09:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "crime",
-        "yuen-long",
-        "burglary"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-fairview-park-burglary.json",
-      "en": {
-        "headline": "Fairview Park house burgled; jewellery worth about $300,000 taken",
-        "dek": "A 49-year-old man reported two rings and a jade bracelet missing from a detached house on Bauhinia South Road late on Saturday; police classified the case as burglary."
-      },
-      "zh": {
-        "headline": "元朗錦緣花園獨立屋遇竊 失約30萬元戒指玉鑛",
-        "dek": "一名49歲男子周六深夜報稱紫荊南路獨立屋失竊，警方初步點算兩隻戒指及一隻玉鑛失蹤，暫未有人被捕。"
-      }
-    },
-    {
-      "id": "2026-08-30-lifestyle-hk-fashion-fest",
-      "published_at": "2026-08-30T07:23:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "fashion",
-        "exhibition",
-        "culture"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-lifestyle-hk-fashion-fest.json",
-      "en": {
-        "headline": "Hong Kong Fashion Fest returns from 1 to 14 September",
-        "dek": "The government-backed third edition will stage eight flagship programmes across the city, with public exhibitions free of charge."
-      },
-      "zh": {
-        "headline": "第三屆香港時裝蕃九月1日至14日舉行",
-        "dek": "政府主辦的時裝蕃將推出八大旗艦節目，公眾展覽免費入場，涉及西九、會展及市區快閃店。"
-      }
-    },
-    {
-      "id": "2026-08-30-mtr-tung-chung-east-wall-collapse",
-      "published_at": "2026-08-30T07:22:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "construction",
-        "tung-chung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-mtr-tung-chung-east-wall-collapse.json",
-      "en": {
-        "headline": "MTR halts Tung Chung East works after new brick wall toppled",
-        "dek": "A worker pushing a loaded pallet jack knocked down a wall started that afternoon, sending bricks to a lower floor; nobody was hurt, the corporation said."
-      },
-      "zh": {
-        "headline": "東涌東站磚牆被喊車撞倒 港鐵暫停涉事範圍工程",
-        "dek": "港鐵表示，承建商指星期六下午4時許工人推載料喊車時疑撞倒剛開始硬建的磚牆，部分磚頭掉至下層，事件無人受傷。"
-      }
-    },
-    {
-      "id": "2026-08-30-cfs-hsin-tung-yang-rice-noodles",
-      "published_at": "2026-08-30T07:21:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "food-safety",
-        "cfs",
-        "recall"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-cfs-hsin-tung-yang-rice-noodles.json",
-      "en": {
-        "headline": "CFS recalls Taiwan rice noodles after trace formaldehyde found",
-        "dek": "A Hsin Tung Yang sample bought from an online shop contained 12 parts per million of formaldehyde, the Centre for Food Safety said."
-      },
-      "zh": {
-        "headline": "台灣新東陽新竹米粉驗出微量甲醛 食安中心召回",
-        "dek": "食物安全中心表示，網店抽查的新東陽新竹米粉樣本含百萬分之十二甲醛，已指示分銷商停售及回收受影響批次。"
       }
     }
   ]
