@@ -1,8 +1,94 @@
 {
-  "generated_at": "2026-09-02T09:09:21+08:00",
+  "generated_at": "2026-09-02T11:09:38+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-09-02-seam-innohk-launch",
+      "published_at": "2026-09-02T11:07:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "innovation",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-02/2026-09-02-seam-innohk-launch.json",
+      "en": {
+        "headline": "Government launches third InnoHK platform with HK$2.5 billion",
+        "dek": "SEAM@InnoHK opened at the Science Park on Tuesday with eight research centres focused on sustainability, energy, advanced manufacturing and new materials."
+      },
+      "zh": {
+        "headline": "第三個InnoHK研發平台啟動 政府撥款約25億元",
+        "dek": "SEAM@InnoHK周二於科學園開幕，八所研發中心聚焦可持續發展、能源、先進製造及新材料，夥約30個海內外機構。"
+      }
+    },
+    {
+      "id": "2026-09-02-hku-zhangjiang-campus-term",
+      "published_at": "2026-09-02T11:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "universities",
+        "technology",
+        "innovation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-02/2026-09-02-hku-zhangjiang-campus-term.json",
+      "en": {
+        "headline": "HKU Shanghai campus takes more than 300 students this term",
+        "dek": "Phase two of the Zhangjiang base is in use for the new academic year, with dual-city computing programmes and planned labs with technology firms."
+      },
+      "zh": {
+        "headline": "港大上海張江校園本學期逾300名學生上課",
+        "dek": "張江基地二期3號及5號樓已投入新學年使用，計算與數據科學學院推行港滬雙校區課程，並與多家科技企業合作。"
+      }
+    },
+    {
+      "id": "2026-09-02-bhu-early-bird-registration",
+      "published_at": "2026-09-02T11:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "government",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-02/2026-09-02-bhu-early-bird-registration.json",
+      "en": {
+        "headline": "More than 34,000 subdivided units registered as early-bird window closes",
+        "dek": "The first six-month fee-waiver phase under the Basic Housing Units Ordinance ended on Monday; a second registration window runs until 28 February 2027."
+      },
+      "zh": {
+        "headline": "簡樸房早鳥登記截止 逾3.4萬個分間單位已登記",
+        "dek": "首輪全額寬免認證費優惠已於周一結束；第二輪登記即日至2027年2月28日，寬免幅度較首輪減少。"
+      }
+    },
+    {
+      "id": "2026-09-02-t1-saudel-wednesday-midday",
+      "published_at": "2026-09-02T11:04:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "tropical-cyclone",
+        "saudel",
+        "observatory"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-02/2026-09-02-t1-saudel-wednesday-midday.json",
+      "en": {
+        "headline": "Observatory to assess Strong Wind Signal as Saudel may turn west",
+        "dek": "Tropical Storm Saudel was about 300 kilometres east-southeast of Hong Kong at 10am; the Observatory said it may near the Pearl River Estuary around Friday and Saturday."
+      },
+      "zh": {
+        "headline": "天文台：沙德爾周五至周六或再近珠江口 稍後評估三號波",
+        "dek": "熱帶風暴沙德爾上午10時位於本港東南偏東約300公里；天文台指一號戒備信號料維持至今日完結，稍後評估是否改發三號強風信號。"
+      }
+    },
     {
       "id": "2026-09-02-lifestyle-gruffalo-hkapa",
       "published_at": "2026-09-02T09:11:00+08:00",
@@ -1807,72 +1893,6 @@
       "zh": {
         "headline": "天文台發出雷暴警告 有效至上午11時半",
         "dek": "天文台上午9時40分發出雷暴警告，預料本港東部水域有局部地區雷暴，警告有效至上午11時30分。"
-      }
-    },
-    {
-      "id": "2026-08-30-lifestyle-harbour-city-forever-toys",
-      "published_at": "2026-08-30T09:24:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "family",
-        "tsim-sha-tsui"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-lifestyle-harbour-city-forever-toys.json",
-      "en": {
-        "headline": "Harbour City Toy Story carnival enters its last two days",
-        "dek": "FOREVER TOYS at the Tsim Sha Tsui complex, built around Toy Story 5, is scheduled to end on Monday after a summer run that began in June."
-      },
-      "zh": {
-        "headline": "海港城《反斗奇兵》嘉年華進入最後兩日",
-        "dek": "以《反斗奇兵5》為題的FOREVER TOYS活動由6月舉行至周一結束，海運大廈及港威商場仍設打卡裝置及主題店。"
-      }
-    },
-    {
-      "id": "2026-08-30-yuen-long-missing-boy-found",
-      "published_at": "2026-08-30T09:23:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "police",
-        "yuen-long",
-        "family"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-yuen-long-missing-boy-found.json",
-      "en": {
-        "headline": "Motorist stops missing six-year-old boy outside Yuen Long Plaza",
-        "dek": "Police said a passer-by reported the child wandering near Castle Peak Road on Saturday afternoon; he was unhurt and returned to his mother."
-      },
-      "zh": {
-        "headline": "元朗廣場外發現報失六歲男童 途人報案助團聚",
-        "dek": "警方指周六下午有途人在青山公路元朗段近元朗廣場發現男童獨自徘徊，事主沒有受傷，其後交還45歲母親照顧。"
-      }
-    },
-    {
-      "id": "2026-08-30-cheung-tsing-three-car-crash",
-      "published_at": "2026-08-30T09:22:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "transport",
-        "tsing-yi",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-cheung-tsing-three-car-crash.json",
-      "en": {
-        "headline": "Three private cars collide on Cheung Tsing Highway; nobody hurt",
-        "dek": "The three vehicles piled up near the airport spur on Saturday night and stopped in the fast lane; all three male drivers passed breath tests, police said."
-      },
-      "zh": {
-        "headline": "長青公路三私家車串燒相撞 無人受傷",
-        "dek": "三車周六晚近十時在往新界方向近機場支路相撞後停在快線，三名男司機通過酒精呼氣測試，警方正調查起因。"
       }
     }
   ]
