@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-02T21:06:23+08:00",
+  "updated_at": "2026-09-02T23:33:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "t1-saudel-wednesday-night",
+      "id": "2026-09-02-t1-saudel-wednesday-night",
+      "first_seen": "2026-09-02T23:30:00+08:00",
+      "headline_en": "Standby Signal No. 1 stays; Saudel 380 km east at 11pm"
+    },
+    {
+      "key": "mpox-two-cases-sep2",
+      "id": "2026-09-02-mpox-two-cases-sep2",
+      "first_seen": "2026-09-02T23:31:00+08:00",
+      "headline_en": "CHP investigates two confirmed Mpox cases, urges high-risk groups to vaccinate"
+    },
+    {
+      "key": "hkjc-conghua-racing-postponed-sep2",
+      "id": "2026-09-02-hkjc-conghua-postponed-record-turnover",
+      "first_seen": "2026-09-02T23:32:00+08:00",
+      "headline_en": "HKJC postpones Conghua racing debut; reports record HK$331.7 billion turnover"
+    },
     {
       "key": "t1-saudel-wednesday-evening",
       "id": "2026-09-02-t1-saudel-wednesday-evening",
