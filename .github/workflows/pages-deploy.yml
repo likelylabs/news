@@ -13,6 +13,11 @@ name: pages-deploy
 #   2. Scheduled reconciler — every 30 min, redeploy iff the live feed has
 #      drifted from the committed index (auto-heals a fully-failed run with
 #      no human in the loop).
+#   2b. Index reconciler (added after the 2026-08-06/07 incident) — the same
+#      30-min tick also rebuilds the index in a scratch copy and, if any
+#      live-window article is missing from the COMMITTED index, dispatches
+#      build-news-index. Closes the gap where a failed/missed BUILD left
+#      live == committed and layer 2 said "already current" for ~24 h.
 #   3. Content-push net — every build-news-index completion redeploys anyway.
 
 on:
@@ -27,6 +32,7 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  actions: write   # layer 2b: dispatch build-news-index on index drift
 
 # One deploy at a time; queue rather than cancel (cancelling was the source of
 # the stray "cancelled" runs under the managed pipeline).
@@ -54,6 +60,50 @@ jobs:
           # commit; build-news-index then pushes the "[skip ci]" index-rebuild
           # commit on top, and THAT is the content we must publish.
           ref: main
+
+      - name: Reconcile index.json against articles/ (heal a failed or missed build)
+        # Layer 2b. The gate below only heals failed DEPLOYS: when
+        # build-news-index itself fails or never runs, index.json is never
+        # regenerated, live == committed, and the gate says "already current"
+        # while a fresh article stays invisible until the daily 20:30Z build.
+        # Rebuild the index in a scratch copy with the sanctioned tool (never
+        # in this checkout — index.json's one write path stays
+        # build-news-index, tenet #5) and dispatch that workflow iff a
+        # live-window article is missing from, or differs in, the committed
+        # index. Cannot loop on a healthy tree:
+        #   - one-directional: entries that merely aged out are NOT drift
+        #     (the daily build retires them, as before);
+        #   - a tree the validator rejects is warned about, never dispatched
+        #     (a re-dispatch would only fail the same way every 30 min);
+        #   - skipped on workflow_run, so a build can never re-trigger itself
+        #     through this step. Never blocks the deploy (continue-on-error).
+        if: github.event_name != 'workflow_run'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          scratch="$RUNNER_TEMP/index-reconcile"
+          mkdir -p "$scratch"
+          cp -a articles tools "$scratch/"
+          if ! python3 "$scratch/tools/build_index.py" | sed 's/^/scratch build: /'; then
+            echo "::warning title=Index reconcile::articles/ fails validation — build-news-index would fail the same way; not dispatching. Fix the article."
+            exit 0
+          fi
+          stale="$(python3 - "$scratch/index.json" <<'PY'
+          import json, sys
+          fresh = {a["id"]: a for a in json.load(open(sys.argv[1]))["articles"]}
+          have  = {a["id"]: a for a in json.load(open("index.json"))["articles"]}
+          print("\n".join(i for i, a in fresh.items() if have.get(i) != a))
+          PY
+          )"
+          if [ -z "$stale" ]; then
+            echo "index.json reflects every live article — no rebuild needed"
+            exit 0
+          fi
+          echo "::notice title=Index reconcile::committed index.json is missing or behind $(printf '%s\n' "$stale" | wc -l | tr -d ' ') live article(s) — dispatching build-news-index"
+          printf '%s\n' "$stale" | sed 's/^/  - /'
+          gh workflow run build-index.yml --repo "$GITHUB_REPOSITORY" --ref main
 
       - name: Decide whether to deploy
         id: gate
