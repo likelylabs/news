@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-09-02T21:06:23+08:00",
+  "generated_at": "2026-09-02T23:37:34+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-09-02-hkjc-conghua-postponed-record-turnover",
+      "published_at": "2026-09-02T23:32:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "racing",
+        "hkjc",
+        "business"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-02/2026-09-02-hkjc-conghua-postponed-record-turnover.json",
+      "en": {
+        "headline": "HKJC postpones Conghua racing debut; reports record HK$331.7 billion turnover",
+        "dek": "The planned 31 October launch of regular racing at the Guangzhou track is delayed after a latest risk assessment from mainland departments; the Club also reported strong results for the year ended 30 June."
+      },
+      "zh": {
+        "headline": "馬會延期從化馬場開跑 年度投注額創3317億元新高",
+        "dek": "原定10月31日啟動常規賽馬因內地最新風險評估延期；馬會公布截至6月30日止財政年度業績，博彩及獎券投注總額按年升3.6%。"
+      }
+    },
+    {
+      "id": "2026-09-02-mpox-two-cases-sep2",
+      "published_at": "2026-09-02T23:31:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "chp",
+        "mpox"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-02/2026-09-02-mpox-two-cases-sep2.json",
+      "en": {
+        "headline": "CHP investigates two confirmed Mpox cases, urges high-risk groups to vaccinate",
+        "dek": "A 38-year-old man and a 34-year-old man tested positive; both had high-risk exposure in Hong Kong during the incubation period and are in stable condition under isolation."
+      },
+      "zh": {
+        "headline": "防護中心調查兩宗猴痘確診 籲高風險群組接種疫苗",
+        "dek": "38歲及34歲男病人分別確診，潛伏期內均在港有高風險接觸，現於醫院隔離治療，情況穩定。"
+      }
+    },
+    {
+      "id": "2026-09-02-t1-saudel-wednesday-night",
+      "published_at": "2026-09-02T23:30:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "tropical-cyclone",
+        "saudel",
+        "observatory"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-02/2026-09-02-t1-saudel-wednesday-night.json",
+      "en": {
+        "headline": "Standby Signal No. 1 stays; Saudel 380 km east at 11pm",
+        "dek": "Tropical Storm Saudel was estimated about 380 kilometres east of Hong Kong at 11pm and is forecast to linger over the northeastern South China Sea on Thursday morning before turning westwards."
+      },
+      "zh": {
+        "headline": "一號戒備信號維持 沙德爾晚上11時位於本港以東約380公里",
+        "dek": "熱帶風暴沙德爾晚上11時位於本港以東約380公里，預料周四早上在南海東北部徘徊，其後逐漸轉西掠過廣東東部沿岸。"
+      }
+    },
     {
       "id": "2026-09-02-national-day-fireworks-2026",
       "published_at": "2026-09-02T21:07:00+08:00",
@@ -1757,93 +1822,6 @@
       "zh": {
         "headline": "主題樂園演員袁絲珩奪2026香港小姐冠軍",
         "dek": "26歲浸大傳理畢業生周日晚於將軍澳電視城勝出港姐決賽，鄧匡閵及李澤欣分獲亞軍及季軍。"
-      }
-    },
-    {
-      "id": "2026-08-30-hsk-pilot-6000-jobs",
-      "published_at": "2026-08-30T23:17:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "northern-metropolis",
-        "business",
-        "government",
-        "housing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-hsk-pilot-6000-jobs.json",
-      "en": {
-        "headline": "Hung Shui Kiu pilot project to create over 6,000 jobs, Paul Chan says",
-        "dek": "The Financial Secretary said the consortium awarded the large-scale land disposal site will invest about HK$16.8 billion, marking a milestone for the public-private partnership model in the Northern Metropolis."
-      },
-      "zh": {
-        "headline": "陳茂波：洪水橋先導項目料創造逾6,000職位",
-        "dek": "財爺指獲批大面積土地處置先導區的財團將投資約168億元，標誌北部都會區公私營合作新模式的里程碑。"
-      }
-    },
-    {
-      "id": "2026-08-30-anita-mui-mother-dies",
-      "published_at": "2026-08-30T23:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "celebrity"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-anita-mui-mother-dies.json",
-      "en": {
-        "headline": "Mother of late singer Anita Mui dies aged 102 in Causeway Bay",
-        "dek": "Tam Mei-kam collapsed while being fed liquid oatmeal at her Leighton Road flat on Sunday morning and was later certified dead at Ruttonjee Hospital."
-      },
-      "zh": {
-        "headline": "梅艷芳母親覃美金銅鑼灣寓所離世 享年102歲",
-        "dek": "周日早上在禮頓道單位進食流質食物時暈倒，送往律敦治醫院後證實不治，警方指現場無可疑。"
-      }
-    },
-    {
-      "id": "2026-08-30-afcd-dog-leash-prosecutions",
-      "published_at": "2026-08-30T23:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "animals",
-        "afcd",
-        "pets",
-        "enforcement",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-afcd-dog-leash-prosecutions.json",
-      "en": {
-        "headline": "AFCD to prosecute three owners for failing to leash large dogs",
-        "dek": "During Sunday patrols in Yuen Long, West Kowloon, Cyberport and Kai Tak, officers found three people suspected of not properly controlling large dogs in public; further checks continue next weekend."
-      },
-      "zh": {
-        "headline": "漁護署巡查將檢控三狗主 涉公眾地方未用狗帶牽引大狗",
-        "dek": "周日在元朗、西九、數碼港及啟德一帶巡查，發現三名畜養人涉嫌未妥善控制大型狗隻，署方將提出檢控，下周末行動繼續。"
-      }
-    },
-    {
-      "id": "2026-08-30-wang-fuk-court-977-accept",
-      "published_at": "2026-08-30T21:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "tai-po",
-        "wang-fuk-court",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-wang-fuk-court-977-accept.json",
-      "en": {
-        "headline": "Wang Fuk Court acceptance climbs to 97.7 per cent ahead of deadline",
-        "dek": "As of noon on Sunday 1,939 of 1,984 owners had returned acceptance letters, leaving about 45 households; the Housing Bureau urged the remainder to act by 5pm Monday."
-      },
-      "zh": {
-        "headline": "宏福苑業主接受收購比率升至97.7% 尚餘約45戶",
-        "dek": "截至周日中午，1,984戶中有1,939戶已交回接受書，房屋局呼籲餘下業主於周一傍晚5時前把握最後機會。"
       }
     }
   ]
