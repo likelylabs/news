@@ -1,8 +1,51 @@
 {
-  "generated_at": "2026-09-02T11:10:42+08:00",
+  "generated_at": "2026-09-02T13:11:36+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-09-02-joshua-wong-collusion-plea",
+      "published_at": "2026-09-02T13:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "courts",
+        "national-security"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-02/2026-09-02-joshua-wong-collusion-plea.json",
+      "en": {
+        "headline": "Joshua Wong pleads guilty to foreign collusion charge",
+        "dek": "The 29-year-old activist, already serving a subversion sentence, admitted conspiracy to collude with foreign forces at the High Court on Wednesday."
+      },
+      "zh": {
+        "headline": "黃之鋒承認串謀勾結外國勢力罪",
+        "dek": "29歲的黃之鋒周三在高等法院承認一項串謀勾結外國勢力罪，他目前仍在服顛覆國家政權罪刑期。"
+      }
+    },
+    {
+      "id": "2026-09-02-t1-saudel-wednesday-afternoon",
+      "published_at": "2026-09-02T13:09:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "tropical-cyclone",
+        "saudel",
+        "observatory"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-02/2026-09-02-t1-saudel-wednesday-afternoon.json",
+      "en": {
+        "headline": "Standby Signal No. 1 stays; Saudel 310 km east at 1pm",
+        "dek": "Tropical Storm Saudel was centred about 310 kilometres east of Hong Kong at 1pm and is forecast to move northeast at about 10 km/h across the northeastern South China Sea."
+      },
+      "zh": {
+        "headline": "一號戒備信號維持 沙德爾下午1時位於本港以東約310公里",
+        "dek": "熱帶風暴沙德爾下午1時位於本港以東約310公里，預料向東北移動，時速約10公里，橫過南海東北部。"
+      }
+    },
     {
       "id": "2026-09-02-seam-innohk-launch",
       "published_at": "2026-09-02T11:07:00+08:00",
@@ -1716,183 +1759,6 @@
       "zh": {
         "headline": "工作周天氣展望：初段有驟雨雷暴 後期雨勢減弱",
         "dek": "天文台預料周一及周二大致多雲，有驟雨及狂風雷暴，中期風力較大，本周後期雨勢逐漸減弱。"
-      }
-    },
-    {
-      "id": "2026-08-30-washing-machine-dog-cruelty",
-      "published_at": "2026-08-30T13:11:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "crime",
-        "animals",
-        "cruelty"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-washing-machine-dog-cruelty.json",
-      "en": {
-        "headline": "Police investigate video of dog put in running washing machine",
-        "dek": "Mong Kok officers are examining a circulated Instagram story that appears to show a live dog tumbling inside a front-loading machine with water flowing; no arrest has been made."
-      },
-      "zh": {
-        "headline": "影片疑將狗放入洗衣機開動 警列求警調查",
-        "dek": "社交平台流傳Instagram限時動態，疑有人將活狗放入滾筒洗衣機並開機，旺角警區動物專隊正跟進，暫未有人被捕。"
-      }
-    },
-    {
-      "id": "2026-08-30-thunderstorm-warning-extended-1500",
-      "published_at": "2026-08-30T13:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "thunderstorm-warning",
-        "hko",
-        "observatory"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-thunderstorm-warning-extended-1500.json",
-      "en": {
-        "headline": "Observatory extends Thunderstorm Warning until 3pm",
-        "dek": "The warning first issued at 9.40am was prolonged again after isolated thunderstorms continued to be forecast over Hong Kong, the Observatory said."
-      },
-      "zh": {
-        "headline": "天文台將雷暴警告延長至下午3時",
-        "dek": "天文台上午9時40分發出的雷暴警告再延長至下午3時，預料本港有局部地區雷暴。"
-      }
-    },
-    {
-      "id": "2026-08-30-afcd-pit-bull-mix-seizure",
-      "published_at": "2026-08-30T11:41:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "animals",
-        "afcd",
-        "pets",
-        "community",
-        "enforcement"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-afcd-pit-bull-mix-seizure.json",
-      "en": {
-        "headline": "AFCD takes eight-year-old dog identified as a pit bull mix",
-        "dek": "Officers collected the dog on Friday after a complaint; the department said the owner produced no valid fighting-dog licence."
-      },
-      "zh": {
-        "headline": "漁護署帶走八歲黑狗 獸醫鑑定屬比特鬥牛㹴混種",
-        "dek": "署方周五接投訴後將狗隻帶回動物管理中心，指畜養人未能出示有效格鬥狗隻牌照。"
-      }
-    },
-    {
-      "id": "2026-08-30-thunderstorm-warning-extended-1300",
-      "published_at": "2026-08-30T11:40:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "thunderstorm-warning",
-        "hko",
-        "observatory"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-thunderstorm-warning-extended-1300.json",
-      "en": {
-        "headline": "Observatory extends Thunderstorm Warning until 1pm",
-        "dek": "The warning issued at 9.40am was prolonged after isolated thunderstorms were forecast over Hong Kong, the Observatory said."
-      },
-      "zh": {
-        "headline": "天文台將雷暴警告延長至下午1時",
-        "dek": "天文台上午9時40分發出的雷暴警告已延長至下午1時，預料本港有局部地區雷暴。"
-      }
-    },
-    {
-      "id": "2026-08-30-lifestyle-ocean-park-halloween-fest",
-      "published_at": "2026-08-30T11:31:00+08:00",
-      "updated_at": "2026-08-30T11:36:00+08:00",
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "family",
-        "festival"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-lifestyle-ocean-park-halloween-fest.json",
-      "en": {
-        "headline": "Ocean Park Halloween Fest returns from 5 September",
-        "dek": "The park lists its 2026 Halloween Fest on the official programme, with haunted houses and an Under the Castle collaboration running into early November on designated dates."
-      },
-      "zh": {
-        "headline": "海洋公園萬聖節活動9月5日起舉行",
-        "dek": "公園官方節目及門票頁列出2026年萬聖節活動，指定日期設鬼屋及《Under the Castle》合作體驗，活動描述為舉行至11月1日。"
-      }
-    },
-    {
-      "id": "2026-08-30-tai-hang-road-porsche-fire",
-      "published_at": "2026-08-30T11:14:00+08:00",
-      "updated_at": "2026-08-30T11:22:00+08:00",
-      "category": "community",
-      "tags": [
-        "fire",
-        "transport",
-        "causeway-bay",
-        "accident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-tai-hang-road-porsche-fire.json",
-      "en": {
-        "headline": "Porsche on test plates catches fire on Tai Hang Road",
-        "dek": "The driver stopped and left the car after smoke rose from the rear near Tiger Balm Garden; firefighters put out the blaze and nobody was hurt."
-      },
-      "zh": {
-        "headline": "大坑道T牌保時捷行駛中起火 無人受傷",
-        "dek": "一輛掛紅色試車牌的保時捷週日早上在大坑道近虎豹別墅車尾冒煙起火，司機停車逃生，消防救熄，無人受傷。"
-      }
-    },
-    {
-      "id": "2026-08-30-tin-heng-estate-public-fight",
-      "published_at": "2026-08-30T11:13:00+08:00",
-      "updated_at": "2026-08-30T11:22:00+08:00",
-      "category": "crime",
-      "tags": [
-        "police",
-        "crime",
-        "yuen-long",
-        "tin-shui-wai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-tin-heng-estate-public-fight.json",
-      "en": {
-        "headline": "Tin Shui Wai man arrested after early-morning public fight",
-        "dek": "Police said a 32-year-old man was taken to hospital unconscious after a clash near a Tin Heng Estate playground, then arrested on suspicion of fighting in a public place."
-      },
-      "zh": {
-        "headline": "天水圍天恒邭凌晨鬥鬥 32歲男昏迷送院後被捕",
-        "dek": "警方接報一名男子在天恒邭遊樂場附近遭至少四名男子圍毆，頭部受傷昏迷送院，其後涉嫌在公眾地方鬥鬥被捕。"
-      }
-    },
-    {
-      "id": "2026-08-30-thunderstorm-warning-morning",
-      "published_at": "2026-08-30T11:12:00+08:00",
-      "updated_at": "2026-08-30T11:22:00+08:00",
-      "category": "weather",
-      "tags": [
-        "weather",
-        "thunderstorm-warning",
-        "hko",
-        "observatory"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-30/2026-08-30-thunderstorm-warning-morning.json",
-      "en": {
-        "headline": "Observatory issues Thunderstorm Warning until 11.30am",
-        "dek": "Isolated thunderstorms are expected over Hong Kong's eastern waters after the warning was issued at 9.40am, the Hong Kong Observatory said."
-      },
-      "zh": {
-        "headline": "天文台發出雷暴警告 有效至上午11時半",
-        "dek": "天文台上午9時40分發出雷暴警告，預料本港東部水域有局部地區雷暴，警告有效至上午11時30分。"
       }
     }
   ]
