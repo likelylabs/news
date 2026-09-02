@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-02T15:20:34+08:00",
+  "updated_at": "2026-09-02T21:08:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "t1-saudel-wednesday-evening",
+      "id": "2026-09-02-t1-saudel-wednesday-evening",
+      "first_seen": "2026-09-02T21:05:00+08:00",
+      "headline_en": "Standby Signal No. 1 stays overnight; Saudel 350 km east at 8pm"
+    },
+    {
+      "key": "customs-etomidate-kam-tin-sep2",
+      "id": "2026-09-02-customs-etomidate-kam-tin",
+      "first_seen": "2026-09-02T21:06:00+08:00",
+      "headline_en": "Customs bust etomidate lab in Kam Tin, seize HK$42 million haul"
+    },
+    {
+      "key": "national-day-fireworks-2026-announcement",
+      "id": "2026-09-02-national-day-fireworks-2026",
+      "first_seen": "2026-09-02T21:07:00+08:00",
+      "headline_en": "National Day fireworks set for 1 October over Victoria Harbour"
+    },
     {
       "key": "t1-saudel-wednesday-1500",
       "id": "2026-09-02-t1-saudel-wednesday-1500",
