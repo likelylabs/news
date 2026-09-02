@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-02T13:11:36+08:00",
+  "updated_at": "2026-09-02T15:20:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "t1-saudel-wednesday-1500",
+      "id": "2026-09-02-t1-saudel-wednesday-1500",
+      "first_seen": "2026-09-02T15:18:00+08:00",
+      "headline_en": "Standby Signal No. 1 stays; Saudel 330 km east at 3pm"
+    },
+    {
+      "key": "cityu-orientation-disco-probe-sep2",
+      "id": "2026-09-02-cityu-orientation-disco-probe",
+      "first_seen": "2026-09-02T15:19:00+08:00",
+      "headline_en": "CityU probes orientation ‘disco night’ video, vows zero tolerance"
+    },
+    {
+      "key": "ngau-chi-wan-school-bus-collision-sep2",
+      "id": "2026-09-02-ngau-chi-wan-school-bus-collision",
+      "first_seen": "2026-09-02T15:20:00+08:00",
+      "headline_en": "Two school buses collide in Ngau Chi Wan; 13 injured including children"
+    },
     {
       "key": "t1-saudel-wednesday-afternoon",
       "id": "2026-09-02-t1-saudel-wednesday-afternoon",
