@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-03T07:10:47+08:00",
+  "updated_at": "2026-09-03T09:11:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-cafe-landmark-reopens",
+      "id": "2026-09-03-lifestyle-cafe-landmark-reopens",
+      "first_seen": "2026-09-03T09:11:00+08:00",
+      "headline_en": "Cafe Landmark set to reopen Friday at Landmark Atrium"
+    },
+    {
+      "key": "mtr-tuen-mun-a16-phase2-tender",
+      "id": "2026-09-03-mtr-tuen-mun-a16-phase2-bids",
+      "first_seen": "2026-09-03T09:10:00+08:00",
+      "headline_en": "MTR receives four bids for Tuen Mun Area 16 Phase 2"
+    },
+    {
+      "key": "dh-wt1-unregistered-injections-sep2",
+      "id": "2026-09-03-dh-unregistered-injections-arrests",
+      "first_seen": "2026-09-03T09:09:00+08:00",
+      "headline_en": "DH and police arrest two after seizing unregistered injections"
+    },
+    {
+      "key": "t1-saudel-thursday-8am",
+      "id": "2026-09-03-t1-saudel-thursday-8am",
+      "first_seen": "2026-09-03T09:08:00+08:00",
+      "headline_en": "Saudel makes landfall in Fujian; Signal No. 1 stays today"
+    },
     {
       "key": "lifestyle-yulan-festival-2026",
       "id": "2026-09-03-lifestyle-yulan-festival-victoria-park",
