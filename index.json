@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-04T00:39:44+08:00",
+  "generated_at": "2026-09-04T03:14:51+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 74,
   "articles": [
+    {
+      "id": "2026-09-04-lifestyle-silence-wang-kai-tak",
+      "published_at": "2026-09-04T03:16:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events",
+        "music",
+        "kai-tak"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-04/2026-09-04-lifestyle-silence-wang-kai-tak.json",
+      "en": {
+        "headline": "Silence Wang opens three-night Kai Tak Stadium residency tonight",
+        "dek": "Mainland singer-songwriter Wang Sulong begins his Age of Romance world tour Hong Kong stop with the first of three shows at the new stadium, featuring a large-scale stage production."
+      },
+      "zh": {
+        "headline": "汪蘇瀧今晚啟德體育場展開三場演唱會",
+        "dek": "內地歌手汪蘇瀧「明日世界」世界巡迴演唱會香港站今晚起一連三晚於啟德體育場舉行，舞台製作包括巨型機械人及大型升降螢幕。"
+      }
+    },
+    {
+      "id": "2026-09-04-cnbc-closes-hk-office",
+      "published_at": "2026-09-04T03:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "media",
+        "technology"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-04/2026-09-04-cnbc-closes-hk-office.json",
+      "en": {
+        "headline": "CNBC to close Hong Kong office and drop several shows",
+        "dek": "The business channel is shutting its Hong Kong operations as part of a programming overhaul, with coverage of the city and region to continue from other Asian bureaux."
+      },
+      "zh": {
+        "headline": "CNBC關閉香港辦事處 停播多個直播節目",
+        "dek": "財經頻道確認關閉香港辦公室並調整節目，香港及地區報道將繼續由其他亞洲分社負責。"
+      }
+    },
     {
       "id": "2026-09-04-moonshot-ai-hk-ipo",
       "published_at": "2026-09-04T00:40:00+08:00",
@@ -1579,165 +1623,6 @@
       "zh": {
         "headline": "季節性流感疫苗接種計劃9月17日展開 較去年提早一周",
         "dek": "衞生防護中心表示已採購約130萬劑疫苗供2026/27年度計劃使用，學校外展及公營診所同步開打，現時流感仍處高水平。"
-      }
-    },
-    {
-      "id": "2026-09-01-rbhk-opens-sep1",
-      "published_at": "2026-09-01T03:07:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "food",
-        "exhibition",
-        "wan-chai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-rbhk-opens-sep1.json",
-      "en": {
-        "headline": "Restaurant, Bar & Café Hong Kong trade show opens at HKCEC",
-        "dek": "The three-day F&B expo runs until Thursday at the Hong Kong Convention and Exhibition Centre, featuring more than 400 exhibitors, coffee competitions and bar awards."
-      },
-      "zh": {
-        "headline": "香港餐飲展於會展開幕 展期至周四",
-        "dek": "為期三天的餐飲貿易展於灣仔香港會議展覽中心舉行，匯聚逾400個參展商，設咖啡競賽及酒吧大獎。"
-      }
-    },
-    {
-      "id": "2026-09-01-lifestyle-nepal-orchard-fundraiser",
-      "published_at": "2026-09-01T03:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "community",
-        "central",
-        "nepal"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-lifestyle-nepal-orchard-fundraiser.json",
-      "en": {
-        "headline": "Nepalese bartenders pack Central bar for Nepal flood relief fundraiser",
-        "dek": "About 100 patrons gathered at Orchard on Monday night as five Nepalese operators and staff served signature cocktails, with all sales going to the Nepal government’s disaster relief appeal."
-      },
-      "zh": {
-        "headline": "尼泊爾籍調酒師中環酒吧籌款 支援家鄉水災災民",
-        "dek": "周一晚約百名顧客到中環Orchard，五名尼泊爾籍經營者及調酒師推出特色雞尾酒，全數收益捐予尼泊爾政府賑災。"
-      }
-    },
-    {
-      "id": "2026-09-01-t1-saudel-still-in-force",
-      "published_at": "2026-09-01T03:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "observatory",
-        "tropical-cyclone",
-        "saudel"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-t1-saudel-still-in-force.json",
-      "en": {
-        "headline": "Standby Signal No. 1 remains in force as Saudel tracks across northern South China Sea",
-        "dek": "The Hong Kong Observatory said the signal will stay until at least noon; Tropical Depression Saudel was about 400 kilometres south-southwest of the territory at 1am."
-      },
-      "zh": {
-        "headline": "沙德爾橫過南海北部 一號戒備信號繼續生效",
-        "dek": "天文台指信號至少維持至中午；熱帶低氣壓沙德爾凌晨1時位於本港西南偏南約400公里。"
-      }
-    },
-    {
-      "id": "2026-09-01-lifestyle-margarita-mile-2026",
-      "published_at": "2026-09-01T01:13:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "food",
-        "central",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-lifestyle-margarita-mile-2026.json",
-      "en": {
-        "headline": "Margarita Mile cocktail trail returns across ten Hong Kong bars from today",
-        "dek": "The two-week event runs until 16 September; participants collect stamps for El Tequileño margaritas, with a grand prize of a trip for two to Tequila, Mexico."
-      },
-      "zh": {
-        "headline": "Margarita Mile雞尾酒巡禮今日起於十間酒吧舉行",
-        "dek": "活動由今日至9月16日，集齊印章有機會贏取雙人墨西哥Tequila之旅，包括機票及酒莊參觀。"
-      }
-    },
-    {
-      "id": "2026-09-01-hsitp-land-tender-six-bids",
-      "published_at": "2026-09-01T01:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "northern-metropolis",
-        "technology",
-        "innovation",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-hsitp-land-tender-six-bids.json",
-      "en": {
-        "headline": "Six bids received for inaugural land tender at Hong Kong-Shenzhen Innovation and…",
-        "dek": "Loop Hong Kong Park Company said the response for four parcels totalling more than 76,000 square metres of gross floor area exceeded expectations after the tender closed on Monday."
-      },
-      "zh": {
-        "headline": "港深創新及科技園首批地皮招標接獲六份標書",
-        "dek": "落馬洲河套港方園區營運商表示，四幅合共樓面逾7.6萬平方米的地皮周一截標，反應較預期理想。"
-      }
-    },
-    {
-      "id": "2026-09-01-fanling-golf-appeal-dismissed",
-      "published_at": "2026-09-01T01:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "courts",
-        "environment",
-        "government",
-        "fanling"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-fanling-golf-appeal-dismissed.json",
-      "en": {
-        "headline": "Court of Appeal dismisses government bid to revive Fanling golf course housing plan",
-        "dek": "Judges upheld a 2024 ruling that quashed environmental approval for 12,000 public flats on 9.5 hectares of the resumed site, citing unfair consultation and improper conditions."
-      },
-      "zh": {
-        "headline": "上訴庭駁回政府粉嶺高球場公屋計劃上訴",
-        "dek": "三名法官維持2024年原審裁決，撤銷環評批准，指公眾諮詢不公及附加條件超出法定權限，涉及約12,000個公屋單位。"
-      }
-    },
-    {
-      "id": "2026-09-01-shein-hkex-debut",
-      "published_at": "2026-09-01T01:10:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "finance",
-        "ipo",
-        "retail",
-        "stock-exchange"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-shein-hkex-debut.json",
-      "en": {
-        "headline": "Shein shares begin trading on Hong Kong exchange after $1.74 billion IPO",
-        "dek": "The fast-fashion retailer priced 280 million shares at HK$48.56 each, valuing the company at about US$26.5 billion; public offering was 5.63 times subscribed."
-      },
-      "zh": {
-        "headline": "Shein股份今日於港交所掛牌 集資約174億港元",
-        "dek": "快時尚零售商以每股48.56港元發售2.8億股，集資約136億港元，估值約265億美元；公開發售超額認購5.63倍。"
       }
     }
   ]
