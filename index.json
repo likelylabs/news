@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-09-03T15:10:49+08:00",
+  "generated_at": "2026-09-03T21:11:32+08:00",
   "live_window_hours": 72,
-  "count": 77,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-09-03-lifestyle-chun-on-pawn-community",
+      "published_at": "2026-09-03T21:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "heritage",
+        "wan-chai",
+        "culture"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-03/2026-09-03-lifestyle-chun-on-pawn-community.json",
+      "en": {
+        "headline": "Century-old Chun On Pawn Shop becomes community pop-up",
+        "dek": "The former pawn shop at 91 Wan Chai Road now hosts exhibitions, a café and free community programmes until mid-December under Project House @ Chun On Pawn."
+      },
+      "zh": {
+        "headline": "百年振安大押變社區共享空間 開放至12月",
+        "dek": "灣仔道91號前振安大押現以「壹當」名義營運展覽、咖啡及免費社區活動，開放至12月19日。"
+      }
+    },
+    {
+      "id": "2026-09-03-wang-chi-house-asp-75pc",
+      "published_at": "2026-09-03T21:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "community",
+        "government",
+        "tai-po"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-03/2026-09-03-wang-chi-house-asp-75pc.json",
+      "en": {
+        "headline": "Over 75% of Wang Chi House owners sign sale agreements",
+        "dek": "The Housing Bureau said 188 households, or about 75.8 per cent of the undamaged block at Wang Fuk Court, had signed Agreements for Sale and Purchase as of Wednesday."
+      },
+      "zh": {
+        "headline": "宏志閣逾七成五業主簽買賣協議 政府繼續收購",
+        "dek": "房屋局表示，截至周三共188戶、約75.8%宏志閣業主已簽署《買賣協議》，政府確認繼續推進該座業權收購。"
+      }
+    },
+    {
+      "id": "2026-09-03-t1-saudel-thursday-evening",
+      "published_at": "2026-09-03T21:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "tropical-cyclone",
+        "saudel",
+        "observatory",
+        "hko"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-03/2026-09-03-t1-saudel-thursday-evening.json",
+      "en": {
+        "headline": "Saudel weakens over Guangdong inland; Signal No. 1 stays",
+        "dek": "At 8pm Tropical Depression Saudel was about 280 km northeast of Hong Kong and is forecast to move west-southwest across eastern Guangdong while continuing to weaken."
+      },
+      "zh": {
+        "headline": "沙德爾於廣東內陸減弱 一號戒備信號維持",
+        "dek": "下午8時熱帶低氣壓沙德爾位於本港東北約280公里，預料向西南偏西橫過廣東東部內陸並繼續減弱。"
+      }
+    },
     {
       "id": "2026-09-03-zen-appeal-dismissed",
       "published_at": "2026-09-03T15:12:00+08:00",
