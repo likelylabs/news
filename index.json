@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-03T21:11:32+08:00",
+  "generated_at": "2026-09-04T00:39:44+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-09-04-moonshot-ai-hk-ipo",
+      "published_at": "2026-09-04T00:40:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "technology",
+        "ipo",
+        "ai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-04/2026-09-04-moonshot-ai-hk-ipo.json",
+      "en": {
+        "headline": "Moonshot AI files confidentially for Hong Kong IPO",
+        "dek": "The Beijing developer of the Kimi large language model has submitted a confidential listing application and is said to be targeting about US$3 billion in proceeds."
+      },
+      "zh": {
+        "headline": "月之暗面Moonshot秘密遞表申請香港上市",
+        "dek": "開發Kimi大語言模型的北京初創據報已向港交所提交保密申請，目標集資約30億美元。"
+      }
+    },
+    {
+      "id": "2026-09-04-pol-leung-kuk-contest-cancelled",
+      "published_at": "2026-09-04T00:39:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "education",
+        "charity"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-04/2026-09-04-pol-leung-kuk-contest-cancelled.json",
+      "en": {
+        "headline": "Po Leung Kuk scraps student eco-bag contest after outcry",
+        "dek": "The charity cancelled its “From Martial Love to Love” design competition for primary pupils after public criticism that the theme risked normalising domestic violence."
+      },
+      "zh": {
+        "headline": "保良局取消「從武愛到有愛」環保袋比賽",
+        "dek": "活動宣傳以「七大家暴武器」為題引發網民批評美化家暴，保良局周四宣布取消比賽並刪除相關帖文。"
+      }
+    },
+    {
+      "id": "2026-09-04-t1-saudel-cancelled",
+      "published_at": "2026-09-04T00:38:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "tropical-cyclone",
+        "saudel",
+        "observatory",
+        "hko"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-04/2026-09-04-t1-saudel-cancelled.json",
+      "en": {
+        "headline": "All tropical cyclone signals cancelled as Saudel weakens",
+        "dek": "The Hong Kong Observatory cancelled every tropical cyclone warning signal at 12.10am after Tropical Depression Saudel weakened into a low-pressure area over inland Guangdong."
+      },
+      "zh": {
+        "headline": "沙德爾減弱為低壓區 所有熱帶氣旋警告信號取消",
+        "dek": "天文台於凌晨12時10分取消所有熱帶氣旋警告信號，熱帶低氣壓沙德爾已在廣東內陸減弱為低壓區。"
+      }
+    },
     {
       "id": "2026-09-03-lifestyle-chun-on-pawn-community",
       "published_at": "2026-09-03T21:12:00+08:00",
@@ -1672,95 +1738,6 @@
       "zh": {
         "headline": "Shein股份今日於港交所掛牌 集資約174億港元",
         "dek": "快時尚零售商以每股48.56港元發售2.8億股，集資約136億港元，估值約265億美元；公開發售超額認購5.63倍。"
-      }
-    },
-    {
-      "id": "2026-08-31-xpower-charger-warning",
-      "published_at": "2026-08-31T23:18:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "customs",
-        "consumer-safety",
-        "product-recall"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-xpower-charger-warning.json",
-      "en": {
-        "headline": "Customs warns against XPower wireless power bank over burn risk",
-        "dek": "Tests found the M10C+ model can overheat above 85 degrees Celsius when metal objects are placed between the charger and a device; 220 units were seized and sales banned."
-      },
-      "zh": {
-        "headline": "海關籲停用XPower無線尿袋 測出過熱燒傷風險",
-        "dek": "測試顯示該款M10C+充電器在金屬外物夾於中間時溫度可達86.6至131.4度，超過限值；已檢獲220件並禁售。"
-      }
-    },
-    {
-      "id": "2026-08-31-tram-power-fault",
-      "published_at": "2026-08-31T23:17:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "tram",
-        "hong-kong-tramways",
-        "causeway-bay"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-tram-power-fault.json",
-      "en": {
-        "headline": "Tram service suspended between North Point and Happy Valley after power fault",
-        "dek": "Westbound services from North Point Terminus to Tin Lok Lane were halted from about 6pm; eastbound services later resumed while engineers worked on the fault."
-      },
-      "zh": {
-        "headline": "北角至天樂里西行電車因電力故障暫停服務",
-        "dek": "傍晚約6時起北角總站至天樂里（跑馬地圈）西行線電車暫停，東行線其後恢復，工程人員搶修。"
-      }
-    },
-    {
-      "id": "2026-08-31-wang-fuk-991-accept",
-      "published_at": "2026-08-31T23:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "tai-po",
-        "wang-fuk-court",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-wang-fuk-991-accept.json",
-      "en": {
-        "headline": "Wang Fuk Court buyout acceptance reaches 99.1 per cent as deadline ends",
-        "dek": "By the 5pm Monday cut-off, 1,967 of 1,984 owners had returned acceptance letters, leaving 17 households; the government said it would press ahead with remaining acquisitions."
-      },
-      "zh": {
-        "headline": "宏福苑收購接受率達99.1% 限期屆滿尚餘17戶",
-        "dek": "截至周一傍晚5時截止，1,984戶中有1,967戶交回接受書，比率99.1%；餘下17戶或面對強制收地。"
-      }
-    },
-    {
-      "id": "2026-08-31-t1-saudel-issued",
-      "published_at": "2026-08-31T23:15:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "observatory",
-        "tropical-cyclone",
-        "saudel"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-t1-saudel-issued.json",
-      "en": {
-        "headline": "Standby Signal No. 1 issued as Saudel becomes tropical depression",
-        "dek": "The Hong Kong Observatory issued the signal at 6.10pm after the remnant of the former typhoon intensified; it is expected to stay in force until at least noon on Tuesday."
-      },
-      "zh": {
-        "headline": "沙德爾增強為熱帶低氣壓 天文台發出一號戒備信號",
-        "dek": "天文台傍晚6時10分因沙德爾殘餘增強為熱帶低氣壓而發出一號戒備信號，預料信號至少維持至周二中午。"
       }
     }
   ]
