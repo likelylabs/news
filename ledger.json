@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-03T13:11:29+08:00",
+  "updated_at": "2026-09-03T15:15:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "subdivided-units-registration-70k-aug2026",
+      "id": "2026-09-03-subdivided-units-registration-70k",
+      "first_seen": "2026-09-03T15:10:00+08:00",
+      "headline_en": "Over 70,000 subdivided units registered in first six months"
+    },
+    {
+      "key": "zen-612-fund-appeal-dismissed-2026",
+      "id": "2026-09-03-zen-appeal-dismissed",
+      "first_seen": "2026-09-03T15:12:00+08:00",
+      "headline_en": "Court dismisses Zen and four others’ appeal over 612 fund"
+    },
     {
       "key": "t1-saudel-thursday-afternoon",
       "id": "2026-09-03-t1-saudel-thursday-afternoon",
