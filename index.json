@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-09-03T13:11:29+08:00",
+  "generated_at": "2026-09-03T15:10:49+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 77,
   "articles": [
+    {
+      "id": "2026-09-03-zen-appeal-dismissed",
+      "published_at": "2026-09-03T15:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "courts",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-03/2026-09-03-zen-appeal-dismissed.json",
+      "en": {
+        "headline": "Court dismisses Zen and four others’ appeal over 612 fund",
+        "dek": "The Court of Appeal rejected challenges by Cardinal Joseph Zen and four co-trustees against their 2022 convictions for failing to register the 612 Humanitarian Relief Fund."
+      },
+      "zh": {
+        "headline": "陳日君等五人612基金案上訴遭駁回",
+        "dek": "高等法院上訴庭周四駁回樞機主教陳日君及另外四名信託人就2022年未有登記612人道支援基金定罪的上訴。"
+      }
+    },
+    {
+      "id": "2026-09-03-subdivided-units-registration-70k",
+      "published_at": "2026-09-03T15:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "community",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-03/2026-09-03-subdivided-units-registration-70k.json",
+      "en": {
+        "headline": "Over 70,000 subdivided units registered in first six months",
+        "dek": "Housing Secretary Winnie Ho said applications as of 31 August covered more than 60 per cent of Hong Kong’s estimated 110,000 subdivided units."
+      },
+      "zh": {
+        "headline": "簡樸房首半年收逾7萬個分間單位登記申請",
+        "dek": "房屋局局長何永賢表示，截至8月31日共收到涉及逾7萬個分間單位、約2萬個住宅單位的登記申請，佔全港估計11萬個分間單位逾六成。"
+      }
+    },
     {
       "id": "2026-09-03-national-day-fireworks-2026",
       "published_at": "2026-09-03T13:16:00+08:00",
@@ -1652,142 +1693,6 @@
       "zh": {
         "headline": "沙德爾增強為熱帶低氣壓 天文台發出一號戒備信號",
         "dek": "天文台傍晚6時10分因沙德爾殘餘增強為熱帶低氣壓而發出一號戒備信號，預料信號至少維持至周二中午。"
-      }
-    },
-    {
-      "id": "2026-08-31-linda-lin-dai-grave-vandalism",
-      "published_at": "2026-08-31T15:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "crime",
-        "police",
-        "heritage"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-linda-lin-dai-grave-vandalism.json",
-      "en": {
-        "headline": "Grave of late actress Linda Lin Dai vandalised at Happy Valley cemetery",
-        "dek": "Cemetery staff found graffiti and cement covering the marble altar of the four-time Asia Pacific Film Festival best actress; an 87-year-old man was arrested in connection with damage to a nearby grave."
-      },
-      "zh": {
-        "headline": "跑馬地林黛墳墓遭塗鴉及英泥覆蓋 87歲翁涉破壞鄰近墳墓被捕",
-        "dek": "聖彌額爾天主教墳場發現四屆亞太影展影后林黛墓碑遭塗鴉，雲石拜台被英泥覆蓋；警方另就鄰近修會墳墓破壞拘捕一名退休男子。"
-      }
-    },
-    {
-      "id": "2026-08-31-galbot-robot-retail-stores",
-      "published_at": "2026-08-31T15:06:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "ai",
-        "retail",
-        "innovation",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-galbot-robot-retail-stores.json",
-      "en": {
-        "headline": "Hong Kong’s first fully autonomous robot retail stores open Tuesday",
-        "dek": "Mainland firm Galbot launches three Galbot Store outlets at Hung Hom waterfront, Wan Chai waterfront and Kai Tak Sports Park, with Financial Secretary Paul Chan completing the first transaction at Kai Tak."
-      },
-      "zh": {
-        "headline": "本港首批全自主機械人零售店周二起營運",
-        "dek": "內地具身智能企業銀河通用於紅磡海濱、灣仔海濱及啟德體育園開設三間Galbot Store，財政司司長陳茂波在啟德店完成首宗交易。"
-      }
-    },
-    {
-      "id": "2026-08-31-icac-bid-rigging-50-arrests",
-      "published_at": "2026-08-31T15:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "icac",
-        "competition-commission",
-        "bid-rigging"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-icac-bid-rigging-50-arrests.json",
-      "en": {
-        "headline": "ICAC, police and Competition Commission arrest 50 over building maintenance bid-rigging",
-        "dek": "A joint operation codenamed Iron Alliance last week targeted a contractor-led syndicate linked to 27 estates and buildings, with contracts valued at nearly HK$500 million."
-      },
-      "zh": {
-        "headline": "廉署警方競委會聯手拘50人 打擊樓宇維修圍標集團",
-        "dek": "代號「鐵盟」行動上週打擊以一間工程承辦商為首的貪污圍標集團，涉27個屋苑及大廈，合約總值近5億元。"
-      }
-    },
-    {
-      "id": "2026-08-31-san-tin-highway-truck-crash",
-      "published_at": "2026-08-31T13:17:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "traffic-accident",
-        "yuen-long",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-san-tin-highway-truck-crash.json",
-      "en": {
-        "headline": "Two trucks collide on San Tin Highway; driver trapped briefly",
-        "dek": "A 5.5-tonne lorry hit the rear of a 10-tonne lorry near Fairview Park shortly after 11am, leaving one driver with a trapped foot and another passenger with abrasions."
-      },
-      "zh": {
-        "headline": "新田公路兩貨車相撞 司機腳部被困一度救出",
-        "dek": "上午11時22分近錦綉花園，一輛5.5噸貨車追撞前方10噸貨車，司機腳部被困，另一乘客擦傷，分別送院。"
-      }
-    },
-    {
-      "id": "2026-08-31-siv-programmes-sep17",
-      "published_at": "2026-08-31T13:16:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "chp",
-        "schools",
-        "vaccination",
-        "influenza"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-siv-programmes-sep17.json",
-      "en": {
-        "headline": "Seasonal flu vaccination programmes start on 17 September",
-        "dek": "The Centre for Health Protection said about 1.3 million doses have been procured for the 2026/27 programmes, with school outreach, residential care and subsidy schemes opening mid-month."
-      },
-      "zh": {
-        "headline": "2026/27季節性流感疫苗接種計劃9月17日展開",
-        "dek": "衞生防護中心公布計劃包括學校外展、院舍及疫苗資助計劃，已採購約130萬劑疫苗，呼籲市民盡早接種。"
-      }
-    },
-    {
-      "id": "2026-08-31-amber-rainstorm-thunderstorm-aug31",
-      "published_at": "2026-08-31T13:15:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "observatory",
-        "rainstorm-warning",
-        "thunderstorm-warning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-amber-rainstorm-thunderstorm-aug31.json",
-      "en": {
-        "headline": "Observatory issues Amber Rainstorm Warning; thunderstorms until 3pm",
-        "dek": "Heavy rain exceeding 30 mm an hour is expected to continue generally over Hong Kong after the signal was issued at 12.25pm, with the Thunderstorm Warning extended until 3pm."
-      },
-      "zh": {
-        "headline": "天文台發黃色暴雨警告 雷暴警告延至下午3時",
-        "dek": "天文台下午12時25分發出黃色暴雨警告，預料廣泛地區每小時雨量超過30毫米；雷暴警告則延長至下午3時。"
       }
     }
   ]
