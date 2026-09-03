@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-03T11:05:32+08:00",
+  "updated_at": "2026-09-03T13:20:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "t1-saudel-thursday-afternoon",
+      "id": "2026-09-03-t1-saudel-thursday-afternoon",
+      "first_seen": "2026-09-03T13:15:00+08:00",
+      "headline_en": "Saudel moves inland over eastern Guangdong; Signal No. 1 remains"
+    },
+    {
+      "key": "national-day-fireworks-2026",
+      "id": "2026-09-03-national-day-fireworks-2026",
+      "first_seen": "2026-09-03T13:16:00+08:00",
+      "headline_en": "National Day fireworks set for Victoria Harbour on 1 October"
+    },
     {
       "key": "lifestyle-future-threads-fashion-walk",
       "id": "2026-09-03-lifestyle-future-threads-fashion-walk",
