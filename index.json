@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-09-03T09:10:11+08:00",
+  "generated_at": "2026-09-03T11:05:32+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-09-03-lifestyle-future-threads-fashion-walk",
+      "published_at": "2026-09-03T11:07:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events",
+        "fashion"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-03/2026-09-03-lifestyle-future-threads-fashion-walk.json",
+      "en": {
+        "headline": "Italy-Hong Kong menswear show opens today at Fashion Walk",
+        "dek": "Future Threads gathers ten emerging designers from Hong Kong and Italy at a free Causeway Bay exhibition running through 13 September."
+      },
+      "zh": {
+        "headline": "意港男裝展今起銅鑼灣Fashion Walk免費開放",
+        "dek": "香港設計中心聯同意大利國家時裝商會舉辦的「共織新意」今日至9月13日在銅鑼灣展出十個新銳男裝品牌。"
+      }
+    },
+    {
+      "id": "2026-09-03-august-pmi-49-5",
+      "published_at": "2026-09-03T11:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-03/2026-09-03-august-pmi-49-5.json",
+      "en": {
+        "headline": "Hong Kong PMI slips to 49.5 in August after three-month rise",
+        "dek": "The S&P Global Hong Kong SAR PMI fell below the 50 mark, pointing to a renewed contraction in private-sector conditions after July's reading of 51.0."
+      },
+      "zh": {
+        "headline": "8月香港PMI回落至49.5 連升三個月後再收縮",
+        "dek": "標普全球香港特區採購經理指數由7月的51.0跌至49.5，顯示私營部門營商環境在連續三個月擴張後再度轉差。"
+      }
+    },
+    {
+      "id": "2026-09-03-war-victory-commemoration",
+      "published_at": "2026-09-03T11:05:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "government",
+        "ceremony"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-03/2026-09-03-war-victory-commemoration.json",
+      "en": {
+        "headline": "Lee attends City Hall ceremony marking victory over Japan",
+        "dek": "The official commemoration of the 81st anniversary of victory in the War of Resistance Against Japanese Aggression was held at 8am at the Hong Kong City Hall Memorial Garden."
+      },
+      "zh": {
+        "headline": "抗戰勝利81周年 李家超出席大會堂紀念儀式",
+        "dek": "特區政府今早8時在香港大會堂紀念花園舉行官方儀式，紀念中國人民抗日戰爭暨世界反法西斯戰爭勝利81周年。"
+      }
+    },
     {
       "id": "2026-09-03-lifestyle-cafe-landmark-reopens",
       "published_at": "2026-09-03T09:11:00+08:00",
@@ -1811,157 +1873,6 @@
       "zh": {
         "headline": "沙德爾殘餘料增強 天文台考慮黃昏前後發一號波",
         "dek": "天文台今早8時20分發特別天氣提示，指沙德爾殘餘黃昏前後移向海南島東南沿岸，並逐漸增強為熱帶低氣壓。"
-      }
-    },
-    {
-      "id": "2026-08-31-lifestyle-anne-imhof-tai-kwun",
-      "published_at": "2026-08-31T09:20:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "arts",
-        "tai-kwun"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-lifestyle-anne-imhof-tai-kwun.json",
-      "en": {
-        "headline": "Tai Kwun to present Anne Imhof’s first major Asia solo show",
-        "dek": "House of Swans opens on 25 September at JC Contemporary and runs until 3 January, with opening-week performances involving Hong Kong Ballet."
-      },
-      "zh": {
-        "headline": "大館下月舉行Anne Imhof亞洲首個大型個展",
-        "dek": "《House of Swans》9月25日至明年1月3日於JC當代空間展出，開幕周有香港茵蕾舞團參與演出。"
-      }
-    },
-    {
-      "id": "2026-08-31-kwun-tong-drink-drive-crash",
-      "published_at": "2026-08-31T09:19:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "traffic",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-kwun-tong-drink-drive-crash.json",
-      "en": {
-        "headline": "Driver arrested for drink-driving after Kwun Tong roundabout crash",
-        "dek": "A motorcyclist was injured when a private car hit a motorcycle at the Lei Yue Mun Road and Kai Tin Road roundabout late on Sunday."
-      },
-      "zh": {
-        "headline": "觀塘迴旋處私家車撞電單車 司機涉酒駕被捕",
-        "dek": "週日近午夜，鯉魚門道與啟田道交界迴旋處兩車相撞，電單車司機手腳受傷送院，私家車司機酒精測試超標。"
-      }
-    },
-    {
-      "id": "2026-08-31-whatsapp-hijack-cases-h1",
-      "published_at": "2026-08-31T09:18:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "crime",
-        "fraud"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-whatsapp-hijack-cases-h1.json",
-      "en": {
-        "headline": "Police record 2,020 messaging hijack cases in seven months",
-        "dek": "Instant-messaging account takeovers rose 154 per cent from January to July, police said, with WhatsApp involved in 99 per cent of cases."
-      },
-      "zh": {
-        "headline": "首7個月通訊軟件騎劫案升154% 99%涉WhatsApp",
-        "dek": "警方錄得2,020宗即時通訊帳戶騎劫案，按年升一倍半，損失約1.5億元，當中絕大部分發生在WhatsApp。"
-      }
-    },
-    {
-      "id": "2026-08-31-lifestyle-barminski-runway-51",
-      "published_at": "2026-08-31T09:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "arts",
-        "exhibition",
-        "central"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-lifestyle-barminski-runway-51.json",
-      "en": {
-        "headline": "Barminski cardboard airport show runs at JPS Gallery until 19 September",
-        "dek": "Runway 51 turns the Staunton Street gallery into a life-size cardboard terminal; admission is free, and the space is open Tuesday to Saturday."
-      },
-      "zh": {
-        "headline": "Barminski紙皮機場展於中環JPS畫廊展至9月19日",
-        "dek": "《51號跑道》把士丹頓街畫廊改成一比一紙皮航廈，免費入場，開放時間為周二至六上午11時至晚上7時。"
-      }
-    },
-    {
-      "id": "2026-08-31-canada-lifeboat-scheme-closes",
-      "published_at": "2026-08-31T09:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-canada-lifeboat-scheme-closes.json",
-      "en": {
-        "headline": "Canada's Hong Kong PR pathways close to new applications today",
-        "dek": "Ottawa will stop taking new Stream A and Stream B filings after 31 August; applications already received will still be processed, Immigration, Refugees and Citizenship Canada said."
-      },
-      "zh": {
-        "headline": "加拿大港人永久居留途徑今日截止接受新申請",
-        "dek": "移民部確認Stream A及Stream B於8月31日停止收新表，限期或之前遞交的申請會繼續審理；截至6月底約1.3萬人已取得永久居民身分。"
-      }
-    },
-    {
-      "id": "2026-08-31-wang-fuk-kong-charged",
-      "published_at": "2026-08-31T09:13:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "wang-fuk-court",
-        "courts"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-wang-fuk-kong-charged.json",
-      "en": {
-        "headline": "Ex-Wang Fuk Court committee member charged over loan scheme",
-        "dek": "Kong Cheung-fat, 64, and his wife Cheung Yeuk-lan, 62, face two fraud counts and one money-laundering count over the 100 per cent guarantee loan scheme, police said."
-      },
-      "zh": {
-        "headline": "宏福苑前法團委員江祥發夫婦被控詐騙及洗黑錢",
-        "dek": "64歲江祥發及62歲妻子張若蘭被控兩項詐騙及一項洗黑錢罪，案件周二在沙田裁判法院提堂，涉百分百擔保特惠貸款。"
-      }
-    },
-    {
-      "id": "2026-08-31-disneyland-taxi-overcharge",
-      "published_at": "2026-08-31T09:12:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "taxi",
-        "tourism",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-disneyland-taxi-overcharge.json",
-      "en": {
-        "headline": "Tourist video shows taxi fare jump after Disneyland trip",
-        "dek": "A passenger said a meter reading of about HK$144.50 from Disneyland to Tsuen Wan West became HK$376 after the driver cited a bridge fee; Lantau Link tolls have been waived since 2020."
-      },
-      "zh": {
-        "headline": "遊客指迪士尼的士以過橋費將車資加至376元",
-        "dek": "短片顯示由樂園往荃灣西如心酒店，咪錶約144.5元後司機稱要過橋費，最終收376元；青嶼幹線已於2020年底起豁免收費。"
       }
     }
   ]
