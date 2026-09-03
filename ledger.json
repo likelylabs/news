@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-03T21:11:32+08:00",
+  "updated_at": "2026-09-04T00:40:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "moonshot-ai-hk-ipo-filing",
+      "id": "2026-09-04-moonshot-ai-hk-ipo",
+      "first_seen": "2026-09-04T00:40:00+08:00",
+      "headline_en": "Moonshot AI files confidentially for Hong Kong IPO"
+    },
+    {
+      "key": "pol-leung-kuk-eco-bag-contest-cancelled",
+      "id": "2026-09-04-pol-leung-kuk-contest-cancelled",
+      "first_seen": "2026-09-04T00:39:00+08:00",
+      "headline_en": "Po Leung Kuk scraps student eco-bag contest after outcry"
+    },
+    {
+      "key": "t1-saudel-cancelled-sep4",
+      "id": "2026-09-04-t1-saudel-cancelled",
+      "first_seen": "2026-09-04T00:38:00+08:00",
+      "headline_en": "All tropical cyclone signals cancelled as Saudel weakens"
+    },
     {
       "key": "t1-saudel-thursday-evening",
       "id": "2026-09-03-t1-saudel-thursday-evening",
