@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-03T11:05:32+08:00",
+  "generated_at": "2026-09-03T13:11:29+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-09-03-national-day-fireworks-2026",
+      "published_at": "2026-09-03T13:16:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "culture",
+        "events",
+        "fireworks",
+        "national-day"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-03/2026-09-03-national-day-fireworks-2026.json",
+      "en": {
+        "headline": "National Day fireworks set for Victoria Harbour on 1 October",
+        "dek": "A 23-minute display launching 31,888 shells will mark the 77th anniversary of the founding of the People’s Republic of China under the theme Eternal Radiance."
+      },
+      "zh": {
+        "headline": "國慶煙花匯演10月1日維港上演",
+        "dek": "約23分鐘匯演將燃放31,888枚煙花，主題「永明煙花 綻放中華」，慶祝中華人民共和國成立77周年。"
+      }
+    },
+    {
+      "id": "2026-09-03-t1-saudel-thursday-afternoon",
+      "published_at": "2026-09-03T13:15:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "tropical-cyclone",
+        "saudel",
+        "observatory",
+        "hko"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-03/2026-09-03-t1-saudel-thursday-afternoon.json",
+      "en": {
+        "headline": "Saudel moves inland over eastern Guangdong; Signal No. 1 remains",
+        "dek": "At 1pm Tropical Storm Saudel was about 330 km northeast of Hong Kong and is forecast to move west across inland areas while weakening gradually."
+      },
+      "zh": {
+        "headline": "沙德爾移入廣東東部內陸 一號戒備信號維持",
+        "dek": "下午1時熱帶風暴沙德爾位於本港東北約330公里，預料向西橫過廣東東部內陸並逐漸減弱。"
+      }
+    },
     {
       "id": "2026-09-03-lifestyle-future-threads-fashion-walk",
       "published_at": "2026-09-03T11:07:00+08:00",
@@ -1743,136 +1788,6 @@
       "zh": {
         "headline": "天文台發黃色暴雨警告 雷暴警告延至下午3時",
         "dek": "天文台下午12時25分發出黃色暴雨警告，預料廣泛地區每小時雨量超過30毫米；雷暴警告則延長至下午3時。"
-      }
-    },
-    {
-      "id": "2026-08-31-dog-smuggling-abandonment-rise",
-      "published_at": "2026-08-31T11:27:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "animals",
-        "afcd",
-        "pets",
-        "community",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-dog-smuggling-abandonment-rise.json",
-      "en": {
-        "headline": "Lawmaker urges source checks as dog abandonments rise",
-        "dek": "Agriculture-sector legislator Chan Pok-chi said smugglers coach buyers to dodge quarantine, while a welfare group said intakes at one shelter rose at least 50 per cent."
-      },
-      "zh": {
-        "headline": "議員倡追截走私狗源頭 團體稱棄養個案升至少五成",
-        "dek": "漁農界議員陳博智指有商人教買家規避檢疫；動物福利關注聯盟成員劉鎮海稱所屬機構近月接收棄養數字按月升至少五成。"
-      }
-    },
-    {
-      "id": "2026-08-31-school-opening-traffic-sep1",
-      "published_at": "2026-08-31T11:26:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "schools",
-        "education",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-school-opening-traffic-sep1.json",
-      "en": {
-        "headline": "Transport Department warns of busier roads on first school day",
-        "dek": "Rail, bus, ferry and taxi operators have been told to add services on Tuesday if needed, while the department's emergency centre will run at its highest tier."
-      },
-      "zh": {
-        "headline": "運輸署料開學日交通較繁忙 緊急中心明早最高級別運作",
-        "dek": "署方已提醒鐵路、專營巴士、渡輪及的士提供充足服務，有需要時加密班次；緊急事故交通協調中心明早會以聯合督導模式運作。"
-      }
-    },
-    {
-      "id": "2026-08-31-lifestyle-ive-asiaworld-sep",
-      "published_at": "2026-08-31T11:21:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "concert"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-lifestyle-ive-asiaworld-sep.json",
-      "en": {
-        "headline": "IVE stages three Hong Kong arena nights from Friday",
-        "dek": "The South Korean group's Show What I Am world tour plays AsiaWorld-Arena on 4, 5 and 6 September, with an 8pm start on Friday and 6pm on the weekend."
-      },
-      "zh": {
-        "headline": "IVE香港站周五起一連三場亞博Arena",
-        "dek": "韓國組合IVE世界巡演《SHOW WHAT I AM》定於9月4至6日在亞洲國際博覽館Arena舉行，周五晚上8時、周末晚上6時開場。"
-      }
-    },
-    {
-      "id": "2026-08-31-ohkf-sports-career-survey",
-      "published_at": "2026-08-31T11:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "education",
-        "schools",
-        "sport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-ohkf-sports-career-survey.json",
-      "en": {
-        "headline": "Think tank says more than a quarter of students want sports careers",
-        "dek": "Our Hong Kong Foundation surveyed about 1,100 secondary pupils and called for dual-track school guidelines and clearer entry routes into the industry."
-      },
-      "zh": {
-        "headline": "團結香港基金：逾四分一中學生有意投身體育行業",
-        "dek": "基金會訪問約1,100名中學生，指近半人不清楚入行途徑，建議為全港中學編制雙軌發展指引。"
-      }
-    },
-    {
-      "id": "2026-08-31-coleman-wong-us-open-r1",
-      "published_at": "2026-08-31T11:19:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "tennis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-coleman-wong-us-open-r1.json",
-      "en": {
-        "headline": "Coleman Wong exits US Open after first-round loss to Tommy Paul",
-        "dek": "The Hong Kong qualifier took the opening set in a tie-break on Louis Armstrong Stadium, then dropped the next three against the 20th seed."
-      },
-      "zh": {
-        "headline": "黃澤林美網男單首圈不敵保羅 先贏一盤後遭逆轉",
-        "dek": "港將在路易斯阿姆斯壯球場搶七先下一城，其後連輸三盤，以盤數1比3止步20號種子。"
-      }
-    },
-    {
-      "id": "2026-08-31-saudel-remnant-t1-consideration",
-      "published_at": "2026-08-31T11:18:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "observatory",
-        "forecast"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-saudel-remnant-t1-consideration.json",
-      "en": {
-        "headline": "Observatory may issue Standby Signal as Saudel remnant rebuilds",
-        "dek": "A special weather hint at 8.20am said the remnant of Tropical Cyclone Saudel may strengthen into a tropical depression near Hainan this evening."
-      },
-      "zh": {
-        "headline": "沙德爾殘餘料增強 天文台考慮黃昏前後發一號波",
-        "dek": "天文台今早8時20分發特別天氣提示，指沙德爾殘餘黃昏前後移向海南島東南沿岸，並逐漸增強為熱帶低氣壓。"
       }
     }
   ]
