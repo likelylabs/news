@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-04T06:41:20+08:00",
+  "updated_at": "2026-09-04T07:16:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-centrestage-2026",
+      "id": "2026-09-04-lifestyle-centrestage-final-days",
+      "first_seen": "2026-09-04T07:15:00+08:00",
+      "headline_en": "CENTRESTAGE runs through Saturday at the convention centre"
+    },
+    {
+      "key": "lifestyle-hklgff-37-2026",
+      "id": "2026-09-04-lifestyle-hklgff-opens",
+      "first_seen": "2026-09-04T07:14:00+08:00",
+      "headline_en": "37th Hong Kong Lesbian and Gay Film Festival opens today"
+    },
+    {
+      "key": "sfc-private-market-assets-circular-sep2026",
+      "id": "2026-09-04-sfc-private-market-funds-circular",
+      "first_seen": "2026-09-04T07:13:00+08:00",
+      "headline_en": "SFC tightens disclosure for funds holding private-market assets"
+    },
+    {
+      "key": "star-voyager-hk-autumn-sailings-cancelled",
+      "id": "2026-09-04-star-voyager-hk-sailings-cancelled",
+      "first_seen": "2026-09-04T07:12:00+08:00",
+      "headline_en": "Star Voyager cancels remaining 2026 Hong Kong sailings"
+    },
     {
       "key": "cnbc-closes-hong-kong-office-2026",
       "id": "2026-09-04-cnbc-closes-hk-office",
