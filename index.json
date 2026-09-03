@@ -1,8 +1,102 @@
 {
-  "generated_at": "2026-09-03T07:10:47+08:00",
+  "generated_at": "2026-09-03T09:10:11+08:00",
   "live_window_hours": 72,
   "count": 89,
   "articles": [
+    {
+      "id": "2026-09-03-lifestyle-cafe-landmark-reopens",
+      "published_at": "2026-09-03T09:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "restaurant",
+        "food",
+        "central",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-03/2026-09-03-lifestyle-cafe-landmark-reopens.json",
+      "en": {
+        "headline": "Cafe Landmark set to reopen Friday at Landmark Atrium",
+        "dek": "The first-floor balcony restaurant in Central, closed since early July for renovation, returns on 4 September after more than two decades on the atrium."
+      },
+      "zh": {
+        "headline": "置地廣場Cafe Landmark周五重開",
+        "dek": "中環置地廣場中庭一樓露台餐廳総初因翻新停業，營運商美心集團早前確認保留原名，定於9月4日重新開業。"
+      }
+    },
+    {
+      "id": "2026-09-03-mtr-tuen-mun-a16-phase2-bids",
+      "published_at": "2026-09-03T09:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "housing",
+        "transport",
+        "economy",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-03/2026-09-03-mtr-tuen-mun-a16-phase2-bids.json",
+      "en": {
+        "headline": "MTR receives four bids for Tuen Mun Area 16 Phase 2",
+        "dek": "Tendering closed on Wednesday for the large railway-topside scheme beside the future Tuen Mun South Extension station, with results to be announced later."
+      },
+      "zh": {
+        "headline": "港鐵屯門第16區站第二期收四份標書",
+        "dek": "毗鄰興建中屯門南延絲第16區站的大型上蓋項目周三截標，港鐵稱稍後公布結果，市場估計項目可提供約5,510伙。"
+      }
+    },
+    {
+      "id": "2026-09-03-dh-unregistered-injections-arrests",
+      "published_at": "2026-09-03T09:09:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "department-of-health",
+        "dh",
+        "police",
+        "vaccines",
+        "enforcement"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-03/2026-09-03-dh-unregistered-injections-arrests.json",
+      "en": {
+        "headline": "DH and police arrest two after seizing unregistered injections",
+        "dek": "Health officials said more than 50 suspected unregistered injections were taken from over 13 premises in a joint operation tied to advertised multi-cancer WT1 shots."
+      },
+      "zh": {
+        "headline": "衞生署聯同警方拘兩人 檢逾50支未註冊針劑",
+        "dek": "衞生署表示，就有醫療中心宣傳可預防多種癌症的WT1針劑，聯同警方搜查逾13個處所，檢獲50多支懸疑未經註冊注射劑，兩人被捕。"
+      }
+    },
+    {
+      "id": "2026-09-03-t1-saudel-thursday-8am",
+      "published_at": "2026-09-03T09:08:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "tropical-cyclone",
+        "saudel",
+        "observatory",
+        "hko",
+        "forecast"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-03/2026-09-03-t1-saudel-thursday-8am.json",
+      "en": {
+        "headline": "Saudel makes landfall in Fujian; Signal No. 1 stays today",
+        "dek": "The Observatory said Tropical Storm Saudel had made landfall over Zhangzhou and at 8am was about 370 kilometres east-northeast of Hong Kong, with Signal No. 1 remaining in force."
+      },
+      "zh": {
+        "headline": "沙德爾登陸漳州 一號戒備信號今日維持",
+        "dek": "天文台早上7時45分公布，熱帶風暴沙德爾已登陸福建漳州，上午8時位於本港東北偏東約370公里，一號戒備信號繼續生效。"
+      }
+    },
     {
       "id": "2026-09-03-lifestyle-yulan-festival-victoria-park",
       "published_at": "2026-09-03T07:10:00+08:00",
@@ -1868,89 +1962,6 @@
       "zh": {
         "headline": "遊客指迪士尼的士以過橋費將車資加至376元",
         "dek": "短片顯示由樂園往荃灣西如心酒店，咪錶約144.5元後司機稱要過橋費，最終收376元；青嶼幹線已於2020年底起豁免收費。"
-      }
-    },
-    {
-      "id": "2026-08-31-lifestyle-ma-on-shan-cow-photo",
-      "published_at": "2026-08-31T07:29:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "community",
-        "animals"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-lifestyle-ma-on-shan-cow-photo.json",
-      "en": {
-        "headline": "Hikers filmed trying to ride a resting cow at Ma On Shan",
-        "dek": "A video circulating on Sunday showed a woman attempting to straddle cattle at Ngong Ping before a passer-by shouted at her to stop."
-      },
-      "zh": {
-        "headline": "馬鞍山昂平行山客試圖騎牛打卡 遭途人喝止",
-        "dek": "周日流傳片段顯示女子在昂平多次嘗試跨上伏地黃牛，旁人喝止後兩人離開。"
-      }
-    },
-    {
-      "id": "2026-08-31-hotel-cat-pool-phone-scam",
-      "published_at": "2026-08-31T07:28:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "crime",
-        "fraud"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-hotel-cat-pool-phone-scam.json",
-      "en": {
-        "headline": "Police smash hotel SIM-box phone-scam den, arrest two men",
-        "dek": "Commercial Crime Bureau officers linked a rented hotel room to at least five late-August cases involving about HK$600,000, the largest a HK$380,000 loss by a retiree."
-      },
-      "zh": {
-        "headline": "警搗酒店「貓池」電騙中心拘兩男 涉款約60萬",
-        "dek": "商業罪案調查科指酒店房間興8月下旬最少5宗電話騙案有關，最大一宗退休人士損失約38萬元。"
-      }
-    },
-    {
-      "id": "2026-08-31-chp-school-year-flu-warning",
-      "published_at": "2026-08-31T07:27:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "schools",
-        "education"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-chp-school-year-flu-warning.json",
-      "en": {
-        "headline": "CHP warns influenza may stay active as school year begins",
-        "dek": "Eleven severe paediatric flu cases have been recorded since late June, including one death; the centre expects outbreaks may occur after students return."
-      },
-      "zh": {
-        "headline": "防護中心料開學初期流感仍活躍 籲學校家長防疫",
-        "dek": "今季自6月底起已錄11宗兒童流感嚴重個案，包括一宗死亡；中心料想新學年學校或現爆發。"
-      }
-    },
-    {
-      "id": "2026-08-31-miss-hong-kong-2026-bernice-yuen",
-      "published_at": "2026-08-31T07:26:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "culture",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-08-31/2026-08-31-miss-hong-kong-2026-bernice-yuen.json",
-      "en": {
-        "headline": "Theme park performer Bernice Yuen crowned Miss Hong Kong 2026",
-        "dek": "The 26-year-old Baptist University graduate won Sunday night’s final at TVB City, with Ada Tang and Scarlett Li named first and second runners-up."
-      },
-      "zh": {
-        "headline": "主題樂園演員袁絲珩奪2026香港小姐冠軍",
-        "dek": "26歲浸大傳理畢業生周日晚於將軍澳電視城勝出港姐決賽，鄧匡閵及李澤欣分獲亞軍及季軍。"
       }
     }
   ]
