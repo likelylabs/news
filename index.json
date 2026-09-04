@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-09-05T06:26:05+08:00",
+  "generated_at": "2026-09-05T07:13:12+08:00",
   "live_window_hours": 72,
-  "count": 75,
+  "count": 77,
   "articles": [
+    {
+      "id": "2026-09-05-lifestyle-cavalluna-kai-tak",
+      "published_at": "2026-09-05T07:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events",
+        "kai-tak"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-05/2026-09-05-lifestyle-cavalluna-kai-tak.json",
+      "en": {
+        "headline": "Cavalluna horses settle in at Kai Tak ahead of Tuesday opening",
+        "dek": "Fifty-four European horses arrived this week for eight performances of the equestrian theatre show at Kai Tak Arena from 8 to 13 September."
+      },
+      "zh": {
+        "headline": "歐洲馬術劇場名駒抵港 啟德體藝館週二首演",
+        "dek": "54匹歐洲馬匹本周運抵啟德體育園，《CAVALLUNA 穿梭異境》將於9月8日至13日上演八場。"
+      }
+    },
+    {
+      "id": "2026-09-05-qmh-lifts-devb-review",
+      "published_at": "2026-09-05T07:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "health",
+        "hospital",
+        "infrastructure"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-05/2026-09-05-qmh-lifts-devb-review.json",
+      "en": {
+        "headline": "Development Bureau orders review of Queen Mary Hospital lift works",
+        "dek": "ArchSD and EMSD must report on how they accepted and supervised the new Clinical Block lifts; follow-up repairs are due by the end of the year."
+      },
+      "zh": {
+        "headline": "發展局要求兩署檢視瑪麗醫院新大樓升降機監管",
+        "dek": "建築署及機電署須就驗收及監管工作提交報告；善後工程料於今年第四季完成。"
+      }
+    },
+    {
+      "id": "2026-09-05-slovenia-tax-pact",
+      "published_at": "2026-09-05T07:13:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "economy",
+        "tax"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-05/2026-09-05-slovenia-tax-pact.json",
+      "en": {
+        "headline": "Hong Kong signs 60th tax pact, this time with Slovenia",
+        "dek": "The comprehensive double-tax agreement is the fifth concluded this year; it still needs ratification before the new withholding rates take effect."
+      },
+      "zh": {
+        "headline": "香港與斯洛文尼亞簽署第60份全面性稅務協定",
+        "dek": "這是本屆政府第15份、今年第五份全面性避免雙重課稅協定，須待雙方完成批准程序後生效。"
+      }
+    },
+    {
+      "id": "2026-09-05-rumsey-street-carpark-interpol",
+      "published_at": "2026-09-05T07:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "interpol",
+        "sheung-wan",
+        "parking",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-05/2026-09-05-rumsey-street-carpark-interpol.json",
+      "en": {
+        "headline": "Rumsey Street car park floors to close for Interpol assembly",
+        "dek": "Police will take over the seventh and eighth floors of the Sheung Wan public car park from 1 November as a traffic command centre for the 94th Interpol General Assembly."
+      },
+      "zh": {
+        "headline": "林士街停車場兩層將關閉 供國際刑警大會調度車輛",
+        "dek": "警方將於11月1日起徵用上環林士街多層停車場7樓及8樓作交通指揮中心，大會後12月12日重開。"
+      }
+    },
     {
       "id": "2026-09-05-lifestyle-kennedy-town-seawall-grade2",
       "published_at": "2026-09-05T03:11:00+08:00",
@@ -1586,50 +1673,6 @@
       "zh": {
         "headline": "海關破四個私煙倉檢425萬支煙 市值約2,000萬拙4人",
         "dek": "人員周二在新田、荃灣及北角採取行動，檢獲約425萬支懷疑未完稅香煙，拘4名男子。"
-      }
-    },
-    {
-      "id": "2026-09-02-tai-po-kwong-fuk-gambling",
-      "published_at": "2026-09-02T07:13:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "enforcement",
-        "tai-po"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-02/2026-09-02-tai-po-kwong-fuk-gambling.json",
-      "en": {
-        "headline": "Police raid Tai Po flat used as gambling den, arrest 32",
-        "dek": "Tai Po officers searched a Kwong Fuk Road unit on Tuesday evening, seized six mahjong tables and charged two men with operating a gambling establishment."
-      },
-      "zh": {
-        "headline": "大埔廣福道住宅疑作賭檔 警拓32人最年長91歲",
-        "dek": "大埔警區人員周二傍晚搜查廣福道一個單位，檢獲6張麻雀枱，兩名男子被控經營賭博場所。"
-      }
-    },
-    {
-      "id": "2026-09-02-t1-saudel-wednesday-0700",
-      "published_at": "2026-09-02T07:12:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "tropical-cyclone",
-        "saudel",
-        "observatory"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-02/2026-09-02-t1-saudel-wednesday-0700.json",
-      "en": {
-        "headline": "Standby Signal No. 1 stays in force as Saudel tracks east-southeast",
-        "dek": "Tropical Storm Saudel was about 280 kilometres east-southeast of Hong Kong at 6am; the Observatory said the chance of a Strong Wind Signal remains relatively low."
-      },
-      "zh": {
-        "headline": "一號戒備信號早上維持 沙德爾位於東南偏東約280公里",
-        "dek": "熱帶風暴沙德爾上午6時位於本港東南偏東約280公里；天文台指今明兩日改發三號強風信號機會仍相對較低。"
       }
     }
   ]
