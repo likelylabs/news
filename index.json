@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-09-04T21:31:24+08:00",
+  "generated_at": "2026-09-04T23:24:25+08:00",
   "live_window_hours": 72,
   "count": 74,
   "articles": [
+    {
+      "id": "2026-09-04-hkma-contactless-binding-scams",
+      "published_at": "2026-09-04T23:23:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "scams",
+        "banking",
+        "hkma"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-04/2026-09-04-hkma-contactless-binding-scams.json",
+      "en": {
+        "headline": "HKMA flags about 400 cases of unauthorised contactless payment-card binding",
+        "dek": "Fraudsters use phishing messages, fake sites or calls to obtain card details and PINs, then coax victims into approving binding requests so they can make unauthorised transactions."
+      },
+      "zh": {
+        "headline": "金管局：近期約400宗支付卡被綁定非接觸式流動支付騙案",
+        "dek": "騙徒以釣魚訊息、假網站或電話誘騙取得卡資料及密碼，再誘使受害人批准綁定以便進行未經授權交易。"
+      }
+    },
+    {
+      "id": "2026-09-04-heal-fertility-embryo-investigation",
+      "published_at": "2026-09-04T23:22:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "medical",
+        "fertility",
+        "regulation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-04/2026-09-04-heal-fertility-embryo-investigation.json",
+      "en": {
+        "headline": "Council finds intentional unlawful conduct may have caused Heal Fertility embryo mix-up",
+        "dek": "No embryos were mixed or wrongly implanted; the clinic lacked sufficient protective measures and failed to report the serious event on time, the regulator said."
+      },
+      "zh": {
+        "headline": "希愈胚胎樣本錯配 管理局指或涉個人蓄意不法行為",
+        "dek": "確認無胚胎混淆或錯誤植入；中心防護措施不足且未按時呈報，管理局已要求改善並繼續支援警方調查。"
+      }
+    },
+    {
+      "id": "2026-09-04-pmh-drug-delivery-arrests",
+      "published_at": "2026-09-04T23:21:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "drugs",
+        "police",
+        "hospital"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-04/2026-09-04-pmh-drug-delivery-arrests.json",
+      "en": {
+        "headline": "Four arrested over alleged drug deliveries to Princess Margaret Hospital wards",
+        "dek": "Police say two men delivered narcotics to inpatients after staff found two female patients with suspected dangerous drugs; about HK$20,000 worth of ketamine, heroin and cocaine seized."
+      },
+      "zh": {
+        "headline": "瑪嘉烈醫院病房涉運毒 警拘四男女",
+        "dek": "院方發現兩名女病人藏有懷疑危險藥物，警方揭有人運送毒品入病房，檢獲市值約2萬元氯胺酮、海洛英及可卡因。"
+      }
+    },
+    {
+      "id": "2026-09-04-mtr-tung-chung-track-diversion-phase1",
+      "published_at": "2026-09-04T23:20:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "tung-chung",
+        "rail",
+        "infrastructure"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-04/2026-09-04-mtr-tung-chung-track-diversion-phase1.json",
+      "en": {
+        "headline": "MTR completes first phase of Tung Chung Line track diversion",
+        "dek": "From 13 September, trains leaving Tung Chung for Hong Kong will run on the new section linking to the future Tung Chung East station; journey times and frequencies remain unchanged."
+      },
+      "zh": {
+        "headline": "港鐵東涌綫延線路軌改道首階段完成",
+        "dek": "9月13日起由東涌開出往香港方向列車將改行新路段，接駁未來東涌東站；行車時間及班次維持不變。"
+      }
+    },
     {
       "id": "2026-09-04-chp-severe-paediatric-flu",
       "published_at": "2026-09-04T21:43:00+08:00",
@@ -1522,94 +1610,6 @@
       "zh": {
         "headline": "一號戒備信號繼續生效 沙德爾靠近粵東沿岸",
         "dek": "熱帶風暴沙德爾周三凌晨位於本港東南偏東約250公里；天文台指改發三號強風信號機會仍相對較低。"
-      }
-    },
-    {
-      "id": "2026-09-01-flu-severe-case-5yo",
-      "published_at": "2026-09-01T23:09:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "influenza",
-        "chp",
-        "schools"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-flu-severe-case-5yo.json",
-      "en": {
-        "headline": "Five-year-old with chronic illness in serious condition after influenza A",
-        "dek": "The boy developed fever, cough and shortness of breath on Sunday and is being treated in the paediatric intensive care unit at Queen Mary Hospital."
-      },
-      "zh": {
-        "headline": "5歲長期病患男童染甲流併發嚴重肺炎 情況嚴重",
-        "dek": "男童周日起發燒咳嗽氣促，現於瑪麗醫院兒童深切治療部留醫；防護中心料開學初期流感仍活躍。"
-      }
-    },
-    {
-      "id": "2026-09-01-tram-power-fault-admiralty",
-      "published_at": "2026-09-01T23:08:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "tram",
-        "hong-kong-tramways",
-        "admiralty"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-tram-power-fault-admiralty.json",
-      "en": {
-        "headline": "Tram services suspended between Admiralty and Johnston Road after power fault",
-        "dek": "Both eastbound and westbound services on the section were halted from about 9.40pm; the Transport Department advised passengers to use alternative routes."
-      },
-      "zh": {
-        "headline": "金鐘至杜老誌道電車因電力故障暫停服務",
-        "dek": "運輸署晚上約9時43分接獲通知，東西行線電車均暫停；工程人員正搶修，乘客需改用其他交通工具。"
-      }
-    },
-    {
-      "id": "2026-09-01-primary-one-class-cuts-126",
-      "published_at": "2026-09-01T23:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "schools",
-        "community",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-primary-one-class-cuts-126.json",
-      "en": {
-        "headline": "Public schools cut record 126 Primary One classes for new school year",
-        "dek": "The latest Primary School Profiles show a net drop of 8 per cent; Kwai Tsing lost the most classes, followed by Tuen Mun and Eastern district."
-      },
-      "zh": {
-        "headline": "今學年小一淨減126班創紀錄 葵青成縮班重災區",
-        "dek": "《小學概覽2026》顯示官津小學小一班數按年跌約8%；121間學校合共縮144班，15間學校派零班。"
-      }
-    },
-    {
-      "id": "2026-09-01-t1-saudel-overnight",
-      "published_at": "2026-09-01T23:06:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "tropical-cyclone",
-        "saudel",
-        "observatory"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-t1-saudel-overnight.json",
-      "en": {
-        "headline": "Standby Signal No. 1 to remain overnight and into Wednesday morning",
-        "dek": "Tropical Depression Saudel was about 240 km southeast of Hong Kong at 9pm; the Observatory said the chance of a Strong Wind Signal remains relatively low."
-      },
-      "zh": {
-        "headline": "一號戒備信號今晚及明早維持 沙德爾繼續靠近粵東",
-        "dek": "熱帶低氣壓沙德爾晚上9時位於本港東南約240公里；天文台指今明兩日改發三號強風信號機會仍相對較低。"
       }
     }
   ]
