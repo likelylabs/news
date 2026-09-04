@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-04T15:21:00+08:00",
+  "updated_at": "2026-09-04T21:43:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "chp-severe-paediatric-flu-sep4-2026",
+      "id": "2026-09-04-chp-severe-paediatric-flu",
+      "first_seen": "2026-09-04T21:43:00+08:00",
+      "headline_en": "CHP records severe paediatric influenza A case; girl in serious condition"
+    },
+    {
+      "key": "cfs-french-cheese-listeria-sep2026",
+      "id": "2026-09-04-cfs-french-cheese-listeria",
+      "first_seen": "2026-09-04T21:42:00+08:00",
+      "headline_en": "CFS urges public not to eat three French cheese batches over Listeria risk"
+    },
+    {
+      "key": "silver-bonds-record-subscription-2026",
+      "id": "2026-09-04-silver-bonds-record-subscription",
+      "first_seen": "2026-09-04T21:41:00+08:00",
+      "headline_en": "Silver Bonds draw record 478,000 applications worth nearly HK$120 billion"
+    },
+    {
+      "key": "disneyland-hotel-renovation-oct2026",
+      "id": "2026-09-04-disneyland-hotel-renovation",
+      "first_seen": "2026-09-04T21:40:00+08:00",
+      "headline_en": "Hong Kong Disneyland Hotel to close from 12 October for major renovation"
+    },
     {
       "key": "ive-tsing-yi-store-fire-sep4",
       "id": "2026-09-04-ive-tsing-yi-store-fire",
