@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-04T11:07:32+08:00",
+  "updated_at": "2026-09-04T11:20:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "weekend-weather-outlook-sep5-6",
+      "id": "2026-09-04-weekend-weather-outlook",
+      "first_seen": "2026-09-04T11:18:00+08:00",
+      "headline_en": "Weekend outlook: cloudy with showers after Saudel fades"
+    },
+    {
+      "key": "william-wong-four-charges-sep2026",
+      "id": "2026-09-04-william-wong-four-charges",
+      "first_seen": "2026-09-04T11:19:00+08:00",
+      "headline_en": "Ex-lawmaker Wong Kam-fai faces four driving charges next week"
+    },
+    {
+      "key": "lifestyle-ned-ecology-exhibition-2026",
+      "id": "2026-09-04-lifestyle-ned-ecology-exhibition",
+      "first_seen": "2026-09-04T11:20:00+08:00",
+      "headline_en": "National Ecology Day exhibition runs through Sunday in Kwun Tong"
+    },
     {
       "key": "festival-of-connoisseurs-nov2026",
       "id": "2026-09-04-festival-of-connoisseurs-nov",
