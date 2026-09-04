@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-04T21:31:24+08:00",
+  "updated_at": "2026-09-04T23:25:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "mtr-tung-chung-line-track-diversion-phase1-sep2026",
+      "id": "2026-09-04-mtr-tung-chung-track-diversion-phase1",
+      "first_seen": "2026-09-04T23:20:00+08:00",
+      "headline_en": "MTR completes first phase of Tung Chung Line track diversion"
+    },
+    {
+      "key": "pmh-drug-delivery-arrests-sep2026",
+      "id": "2026-09-04-pmh-drug-delivery-arrests",
+      "first_seen": "2026-09-04T23:21:00+08:00",
+      "headline_en": "Four arrested over alleged drug deliveries to Princess Margaret Hospital wards"
+    },
+    {
+      "key": "heal-fertility-embryo-mixup-investigation-sep2026",
+      "id": "2026-09-04-heal-fertility-embryo-investigation",
+      "first_seen": "2026-09-04T23:22:00+08:00",
+      "headline_en": "Council finds intentional unlawful conduct may have caused Heal Fertility embryo mix-up"
+    },
+    {
+      "key": "hkma-contactless-payment-card-binding-scams-sep2026",
+      "id": "2026-09-04-hkma-contactless-binding-scams",
+      "first_seen": "2026-09-04T23:23:00+08:00",
+      "headline_en": "HKMA flags about 400 cases of unauthorised contactless payment-card binding"
+    },
     {
       "key": "chp-severe-paediatric-flu-sep4-2026",
       "id": "2026-09-04-chp-severe-paediatric-flu",
