@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-04T09:06:40+08:00",
+  "generated_at": "2026-09-04T11:07:32+08:00",
   "live_window_hours": 72,
   "count": 76,
   "articles": [
+    {
+      "id": "2026-09-04-lifestyle-ned-ecology-exhibition",
+      "published_at": "2026-09-04T11:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "exhibition",
+        "events",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-04/2026-09-04-lifestyle-ned-ecology-exhibition.json",
+      "en": {
+        "headline": "National Ecology Day exhibition runs through Sunday in Kwun Tong",
+        "dek": "The Countryside Conservation Office’s free show at the East Kowloon Cultural Centre, combining Mirs Bay photography, village stories and live countryside music, is scheduled to close on 6 September."
+      },
+      "zh": {
+        "headline": "全國生態日專題展觀塘續開至周日",
+        "dek": "鄉郊保育辦事處在東九文化中心「隅」舉辦的免費展覽結合印洲塘影像、鄉村故事及鄉郊音樂，展期至九月六日。"
+      }
+    },
+    {
+      "id": "2026-09-04-william-wong-four-charges",
+      "published_at": "2026-09-04T11:19:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "courts",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-04/2026-09-04-william-wong-four-charges.json",
+      "en": {
+        "headline": "Ex-lawmaker Wong Kam-fai faces four driving charges next week",
+        "dek": "Police have charged former legislator Wong Kam-fai with drink-driving and related offences over a June collision at the CUHK campus; he appears at Sha Tin Magistrates’ Courts on 9 September."
+      },
+      "zh": {
+        "headline": "前議員黃錦輝被控酒駕等四罪 下周三提堂",
+        "dek": "警方已就六月中大校園交通意外向立法會前議員黃錦輝落案起訴酒後駕駛等四項控罪，案件下周三在沙田裁判法院提堂。"
+      }
+    },
+    {
+      "id": "2026-09-04-weekend-weather-outlook",
+      "published_at": "2026-09-04T11:18:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "observatory",
+        "hko",
+        "weekend"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-04/2026-09-04-weekend-weather-outlook.json",
+      "en": {
+        "headline": "Weekend outlook: cloudy with showers after Saudel fades",
+        "dek": "The Hong Kong Observatory expects mainly cloudy skies with isolated showers and sunny intervals on Saturday and Sunday, with highs around 31 degrees after tropical cyclone signals were cancelled overnight."
+      },
+      "zh": {
+        "headline": "周末展望：沙德爾消散後多雲有驟雨",
+        "dek": "天文台預料周六及周日大致多雲，有一兩陣驟雨，日間間中有陽光，最高氣溫約31度；本港已於凌晨取消所有熱帶氣旋警告信號。"
+      }
+    },
     {
       "id": "2026-09-04-festival-of-connoisseurs-nov",
       "published_at": "2026-09-04T09:18:00+08:00",
@@ -1593,73 +1659,6 @@
       "zh": {
         "headline": "一號戒備信號至少維持至下午六時 沙德爾靠近粵東沿岸",
         "dek": "天文台表示，熱帶低氣壓沙德爾仍在南海北部移動，昨晚發出的一號戒備信號會至少維持至今日下午六時。"
-      }
-    },
-    {
-      "id": "2026-09-01-lifestyle-watch-clock-fair",
-      "published_at": "2026-09-01T09:24:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "wan-chai",
-        "events",
-        "trade"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-lifestyle-watch-clock-fair.json",
-      "en": {
-        "headline": "Hong Kong Watch and Clock Fair opens at the Convention Centre",
-        "dek": "The Trade Development Council's 45th edition runs through Saturday at the Wan Chai venue, alongside Salon de TIME, and is open to trade visitors aged 18 or above."
-      },
-      "zh": {
-        "headline": "香港鐘表展今起於灣仔會展開鑾",
-        "dek": "貿發局第四十五屆鐘表展舉行至周六，同期有國際名表蕃萃，實體展只開放予十八歲或以上業內人士。"
-      }
-    },
-    {
-      "id": "2026-09-01-wo-che-prh-false-declaration",
-      "published_at": "2026-09-01T09:23:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "courts",
-        "sha-tin",
-        "public-housing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-wo-che-prh-false-declaration.json",
-      "en": {
-        "headline": "Sha Tin public housing tenant jailed six weeks over undeclared Tai Po flat",
-        "dek": "The Housing Department said a Wo Che Estate resident who declared no Hong Kong property in 2025 in fact owned a home in Tai Po, and the public rental flat will be recovered."
-      },
-      "zh": {
-        "headline": "禾輏邸公屋戶隱瞞大埔物業 判監六星期單位將收回",
-        "dek": "房屋署表示，該戶在二〇二五年申報表填報並無本港物業，其後被揭發當時持有大埔住宅，公屋單位將被收回。"
-      }
-    },
-    {
-      "id": "2026-09-01-dh-unregistered-cancer-vaccine-raids",
-      "published_at": "2026-09-01T09:22:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "dh",
-        "enforcement",
-        "vaccines"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-dh-unregistered-cancer-vaccine-raids.json",
-      "en": {
-        "headline": "Health Department raids seven premises over unregistered cancer vaccine claims",
-        "dek": "The Department of Health said a vaccine advertised as preventing multiple cancers is not a registered medicine in Hong Kong, and referred the case to Customs and the Medical Council."
-      },
-      "zh": {
-        "headline": "衞生署突擊巡查七處所 跟進未註冊防癌疫苗聲稱",
-        "dek": "衞生署表示，有疫苗被宣傳可預防多種癌症，但並非本港註冊藥劑製品，個案已轉介海關及醫務委員會。"
       }
     }
   ]
