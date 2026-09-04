@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-04T07:12:53+08:00",
+  "generated_at": "2026-09-04T09:06:40+08:00",
   "live_window_hours": 72,
   "count": 76,
   "articles": [
+    {
+      "id": "2026-09-04-festival-of-connoisseurs-nov",
+      "published_at": "2026-09-04T09:18:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "tourism",
+        "events",
+        "trade"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-04/2026-09-04-festival-of-connoisseurs-nov.json",
+      "en": {
+        "headline": "Luxury Festival of Connoisseurs slated for November debut",
+        "dek": "Informa Markets and the Hong Kong Tourism Board plan the first Festival of Connoisseurs this November, with a larger edition scheduled for 2027."
+      },
+      "zh": {
+        "headline": "鑑賞家盛典擬11月首辦",
+        "dek": "Informa Markets與旅發局計劃今年11月在港首辦「鑑賞家盛典」，2027年再擴大規模。"
+      }
+    },
+    {
+      "id": "2026-09-04-lifestyle-chiikawa-artiverse-closes",
+      "published_at": "2026-09-04T09:17:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "exhibition",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-04/2026-09-04-lifestyle-chiikawa-artiverse-closes.json",
+      "en": {
+        "headline": "Chiikawa Artiverse at K11 Musea runs through Sunday",
+        "dek": "The character exhibition at K11 Musea and the Tsim Sha Tsui harbourfront, including an outdoor carousel installation, is scheduled to end on 6 September."
+      },
+      "zh": {
+        "headline": "吉伊卡哇藝術宇宙特展周日完結",
+        "dek": "K11 Musea及尖沙咀海濰的吉伊卡哇特展連戶外迴旋木馬裝置，據場地及旅發局資料將於9月6日結束。"
+      }
+    },
+    {
+      "id": "2026-09-04-nias-three-projects",
+      "published_at": "2026-09-04T09:16:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "innovation",
+        "business",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-04/2026-09-04-nias-three-projects.json",
+      "en": {
+        "headline": "ITC backs three smart-factory projects under acceleration scheme",
+        "dek": "The Innovation and Technology Commission said a vetting committee had supported in principle three applications covering health products, semiconductor memory and construction prefabrication."
+      },
+      "zh": {
+        "headline": "創科署原則支持三宗新型工業加速計劃申請",
+        "dek": "創新科技署表示，評審委員會原則上支持三宗申請，涵蓋保健品、半導體記憶體及建造預製加工設施。"
+      }
+    },
     {
       "id": "2026-09-04-lifestyle-centrestage-final-days",
       "published_at": "2026-09-04T07:15:00+08:00",
@@ -1594,73 +1660,6 @@
       "zh": {
         "headline": "衞生署突擊巡查七處所 跟進未註冊防癌疫苗聲稱",
         "dek": "衞生署表示，有疫苗被宣傳可預防多種癌症，但並非本港註冊藥劑製品，個案已轉介海關及醫務委員會。"
-      }
-    },
-    {
-      "id": "2026-09-01-lifestyle-centrestage-opens",
-      "published_at": "2026-09-01T07:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "fashion",
-        "exhibition",
-        "wan-chai",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-lifestyle-centrestage-opens.json",
-      "en": {
-        "headline": "CENTRESTAGE fashion fair opens at the Convention Centre from Wednesday",
-        "dek": "The Trade Development Council said about 270 brands from 24 places will show through Saturday, with more than 30 runway presentations including an opening night for Kit Wan Studios."
-      },
-      "zh": {
-        "headline": "香港國際時尚匯展周三起於會展舉行",
-        "dek": "貿發局表示約270個品牌來自24個國家及地區，展期至周六，並有逾30場時裝表演，開幕夜聚焦Kit Wan Studios。"
-      }
-    },
-    {
-      "id": "2026-09-01-miss-hong-kong-bernice-yuen",
-      "published_at": "2026-09-01T07:14:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "culture",
-        "celebrity",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-miss-hong-kong-bernice-yuen.json",
-      "en": {
-        "headline": "Theme park performer Bernice Yuen crowned Miss Hong Kong 2026",
-        "dek": "The 26-year-old Baptist University graduate won Sunday night's TVB final at Tseung Kwan O, with Ada Tang and Scarlett Li named first and second runners-up."
-      },
-      "zh": {
-        "headline": "主題樂園演員袁絲珩當選2026香港小姐冠軍",
-        "dek": "26歲浸大傳理系畢業生周日晚於將軍澳電視城奪冠，亞軍鄧匡閷、季軍李澤欣。"
-      }
-    },
-    {
-      "id": "2026-09-01-whatsapp-hijack-scams",
-      "published_at": "2026-09-01T07:13:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "fraud",
-        "police",
-        "security"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-whatsapp-hijack-scams.json",
-      "en": {
-        "headline": "WhatsApp hijacking scams jump 170 per cent in first seven months",
-        "dek": "Police recorded 1,993 WhatsApp account-takeover cases from January to July, with losses of HK$146 million, and said phishing texts remain the main entry point."
-      },
-      "zh": {
-        "headline": "首七個月WhatsApp騎劫騙案升近一倍七 損失1.46億",
-        "dek": "警方錄得1,993宗WhatsApp帳戶被騎劫個案，損失約1.46億元，指大部分仍由釣魚短訊入手。"
       }
     }
   ]
