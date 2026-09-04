@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-04T23:24:25+08:00",
+  "updated_at": "2026-09-05T01:16:30+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "parknshop-ghost-workers-fraud-guilty-sep2026",
+      "id": "2026-09-05-parknshop-ghost-workers-fraud-guilty",
+      "first_seen": "2026-09-05T01:14:00+08:00",
+      "headline_en": "Five plead guilty to $3.2m ParknShop warehouse ‘ghost worker’ fraud"
+    },
+    {
+      "key": "hk-marathon-2027-record-quota",
+      "id": "2026-09-05-hk-marathon-2027-record-quota",
+      "first_seen": "2026-09-05T01:15:00+08:00",
+      "headline_en": "HK Marathon 2027 sets record 78,000 main-race quota"
+    },
+    {
+      "key": "lifestyle-dairy-queen-return-2026",
+      "id": "2026-09-05-lifestyle-dairy-queen-return",
+      "first_seen": "2026-09-05T01:16:00+08:00",
+      "headline_en": "Dairy Queen to open four Hong Kong stores from November"
+    },
     {
       "key": "mtr-tung-chung-line-track-diversion-phase1-sep2026",
       "id": "2026-09-04-mtr-tung-chung-track-diversion-phase1",
