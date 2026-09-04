@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-04T11:09:06+08:00",
+  "generated_at": "2026-09-04T13:13:32+08:00",
   "live_window_hours": 72,
-  "count": 76,
+  "count": 74,
   "articles": [
+    {
+      "id": "2026-09-04-cathay-dubai-riyadh-cancelled-nov",
+      "published_at": "2026-09-04T13:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "aviation",
+        "cathay",
+        "middle-east"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-04/2026-09-04-cathay-dubai-riyadh-cancelled-nov.json",
+      "en": {
+        "headline": "Cathay Pacific cancels Dubai and Riyadh flights until end of November",
+        "dek": "The carrier said passenger services to the two Middle East destinations remain suspended through 30 November 2026 because of the latest regional developments, with free rebooking, rerouting or refunds offered to…"
+      },
+      "zh": {
+        "headline": "國泰取消往返迪拜及利雅得航班至11月底",
+        "dek": "國泰航空表示，因應中東最新事態發展，往返迪拜及利雅得的客運航班將取消至2026年11月30日，受影響旅客可免費改期、改道或退款。"
+      }
+    },
     {
       "id": "2026-09-04-lifestyle-ned-ecology-exhibition",
       "published_at": "2026-09-04T11:20:00+08:00",
@@ -1594,71 +1616,6 @@
       "zh": {
         "headline": "港人鄧龍威菲國刑滿後因風球延誤遭送回監獄",
         "dek": "律師指颱風令入境部門暫停辦公，鄧龍威被送回最高設防監獄，並形容延誤屬非法羈留。"
-      }
-    },
-    {
-      "id": "2026-09-01-lifestyle-mplus-herzog-focus",
-      "published_at": "2026-09-01T11:16:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "museums",
-        "west-kowloon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-lifestyle-mplus-herzog-focus.json",
-      "en": {
-        "headline": "M+ to open Herzog & de Meuron exhibition for fifth anniversary",
-        "dek": "The West Kowloon museum said the Focus Gallery show, opening on 12 September, draws on a donation from the Swiss firm that designed the building."
-      },
-      "zh": {
-        "headline": "M+五周年展出Herzog & de Meuron捐贈建築藏品",
-        "dek": "西九M+博物館宣布，《Herzog & de Meuron：聚焦》將於9月12日在二樓焦點空間開幕，展出來自該館建築事務所的捐贈。"
-      }
-    },
-    {
-      "id": "2026-09-01-one-plus-chronic-hives-drug",
-      "published_at": "2026-09-01T11:15:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "department-of-health",
-        "hospitals"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-one-plus-chronic-hives-drug.json",
-      "en": {
-        "headline": "New chronic hives drug approved under Hong Kong's '1+' scheme",
-        "dek": "The Department of Health said a medicine for chronic spontaneous urticaria is the 22nd new drug registered since the streamlined mechanism began in 2023."
-      },
-      "zh": {
-        "headline": "「1+」機制再批新藥 慢性藻麻疹治療增至22款",
-        "dek": "衞生署表示，一款用於慢性自發性藻麻疹的新藥已獲批准註冊，令「1+」機制下獲批新藥增至22款。"
-      }
-    },
-    {
-      "id": "2026-09-01-t1-saudel-extended-6pm",
-      "published_at": "2026-09-01T11:14:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "tropical-cyclone",
-        "saudel",
-        "observatory"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-t1-saudel-extended-6pm.json",
-      "en": {
-        "headline": "Standby Signal No. 1 to stay until at least 6pm as Saudel edges nearer",
-        "dek": "The Observatory said Tropical Depression Saudel remains over the northern South China Sea and that the signal issued on Monday evening will stay in force through this afternoon."
-      },
-      "zh": {
-        "headline": "一號戒備信號至少維持至下午六時 沙德爾靠近粵東沿岸",
-        "dek": "天文台表示，熱帶低氣壓沙德爾仍在南海北部移動，昨晚發出的一號戒備信號會至少維持至今日下午六時。"
       }
     }
   ]
