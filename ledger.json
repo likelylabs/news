@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-05T07:13:12+08:00",
+  "updated_at": "2026-09-05T07:15:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "rumsey-street-carpark-interpol-nov2026",
+      "id": "2026-09-05-rumsey-street-carpark-interpol",
+      "first_seen": "2026-09-05T07:12:00+08:00",
+      "headline_en": "Rumsey Street car park floors to close for Interpol assembly"
+    },
+    {
+      "key": "slovenia-cdta-signed-sep2026",
+      "id": "2026-09-05-slovenia-tax-pact",
+      "first_seen": "2026-09-05T07:13:00+08:00",
+      "headline_en": "Hong Kong signs 60th tax pact, this time with Slovenia"
+    },
+    {
+      "key": "qmh-clinical-block-lifts-devb-review",
+      "id": "2026-09-05-qmh-lifts-devb-review",
+      "first_seen": "2026-09-05T07:14:00+08:00",
+      "headline_en": "Development Bureau orders review of Queen Mary Hospital lift works"
+    },
+    {
+      "key": "lifestyle-cavalluna-kai-tak-2026",
+      "id": "2026-09-05-lifestyle-cavalluna-kai-tak",
+      "first_seen": "2026-09-05T07:15:00+08:00",
+      "headline_en": "Cavalluna horses settle in at Kai Tak ahead of Tuesday opening"
+    },
     {
       "key": "police-tech-scam-arrests-h1-2026",
       "id": "2026-09-05-police-tech-scam-arrests-h1-figures",
