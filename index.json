@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-05T01:15:45+08:00",
+  "generated_at": "2026-09-05T03:08:56+08:00",
   "live_window_hours": 72,
   "count": 77,
   "articles": [
+    {
+      "id": "2026-09-05-lifestyle-kennedy-town-seawall-grade2",
+      "published_at": "2026-09-05T03:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "heritage",
+        "kennedy-town",
+        "harbourfront"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-05/2026-09-05-lifestyle-kennedy-town-seawall-grade2.json",
+      "en": {
+        "headline": "Kennedy Town sea wall proposed for Grade 2 historic status",
+        "dek": "The century-old New Praya structure, a popular waterfront selfie spot, has been recommended for listing after an assessment by the Historic Buildings Assessment Panel."
+      },
+      "zh": {
+        "headline": "堅尼地城新海旁海堤擬列二級歷史建築",
+        "dek": "古物古蹟辦事處歷史建築評估小組建議將這道逾百年海堤評為二級，供公眾諮詢一個月。"
+      }
+    },
+    {
+      "id": "2026-09-05-police-tech-scam-arrests-h1-figures",
+      "published_at": "2026-09-05T03:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "scams",
+        "police",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-05/2026-09-05-police-tech-scam-arrests-h1-figures.json",
+      "en": {
+        "headline": "Police arrest 269 in tech-scam crackdown; phone-scam losses hit HK$900m in H1",
+        "dek": "A two-week operation netted 269 people linked to 203 cases with HK$320 million in losses; overall deception cases fell slightly but phone and phishing fraud rose sharply."
+      },
+      "zh": {
+        "headline": "警方兩周拘269人打科技騙案 上半年電話騙案損失9億",
+        "dek": "行動涉及203宗案件、損失約3.2億元；整體詐騙案微跌，但電話及釣魚騙案分別升45%及61%。"
+      }
+    },
     {
       "id": "2026-09-05-lifestyle-dairy-queen-return",
       "published_at": "2026-09-05T01:16:00+08:00",
@@ -1630,52 +1675,6 @@
       "zh": {
         "headline": "一號戒備信號維持 沙德爾已增強為熱帶風暴",
         "dek": "天文台表示，熱帶風暴沙德爾周三凌晨位於本港東南偏東約250公里，改發三號強風信號機會仍相對較低。"
-      }
-    },
-    {
-      "id": "2026-09-02-lifestyle-centrestage-opens",
-      "published_at": "2026-09-02T01:21:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "fashion",
-        "exhibition",
-        "wan-chai",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-02/2026-09-02-lifestyle-centrestage-opens.json",
-      "en": {
-        "headline": "CENTRESTAGE fashion fair opens today at the Convention Centre",
-        "dek": "About 270 brands from 24 countries and regions are taking part in the four-day event, which features more than 30 fashion shows and is free for trade and public visitors aged 18 or above."
-      },
-      "zh": {
-        "headline": "香港國際時尚匯展今日於會展開幕",
-        "dek": "約270個品牌來自24個國家及地區參與為期四天的展覽，設逾30場時裝表演，18歲或以上業內及公眾人士免費入場。"
-      }
-    },
-    {
-      "id": "2026-09-02-t1-saudel-wednesday-morning",
-      "published_at": "2026-09-02T01:20:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "tropical-cyclone",
-        "saudel",
-        "observatory"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-02/2026-09-02-t1-saudel-wednesday-morning.json",
-      "en": {
-        "headline": "Standby Signal No. 1 remains in force as Saudel edges closer",
-        "dek": "Tropical Storm Saudel was about 250 kilometres east-southeast of Hong Kong early Wednesday; the Observatory said the chance of a Strong Wind Signal remains relatively low."
-      },
-      "zh": {
-        "headline": "一號戒備信號繼續生效 沙德爾靠近粵東沿岸",
-        "dek": "熱帶風暴沙德爾周三凌晨位於本港東南偏東約250公里；天文台指改發三號強風信號機會仍相對較低。"
       }
     }
   ]
