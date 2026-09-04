@@ -1,8 +1,94 @@
 {
-  "generated_at": "2026-09-04T15:21:00+08:00",
+  "generated_at": "2026-09-04T21:31:24+08:00",
   "live_window_hours": 72,
-  "count": 73,
+  "count": 74,
   "articles": [
+    {
+      "id": "2026-09-04-chp-severe-paediatric-flu",
+      "published_at": "2026-09-04T21:43:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "influenza",
+        "chp"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-04/2026-09-04-chp-severe-paediatric-flu.json",
+      "en": {
+        "headline": "CHP records severe paediatric influenza A case; girl in serious condition",
+        "dek": "A 14-year-old girl with underlying illnesses developed severe pneumonia and septic shock; the centre urges early vaccination when the seasonal programme begins on 17 September."
+      },
+      "zh": {
+        "headline": "衛生防護中心錄得一宗嚴重兒童甲型流感個案",
+        "dek": "一名14歲有長期病患的女童出現嚴重肺炎及敗血性休克；中心呼籲9月17日季節性流感疫苗接種計劃展開後盡早接種。"
+      }
+    },
+    {
+      "id": "2026-09-04-cfs-french-cheese-listeria",
+      "published_at": "2026-09-04T21:42:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "food-safety",
+        "cfs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-04/2026-09-04-cfs-french-cheese-listeria.json",
+      "en": {
+        "headline": "CFS urges public not to eat three French cheese batches over Listeria risk",
+        "dek": "Three batches of Brie-style cheese from the Paturages Comtois brand are under recall after a European alert; importers have stopped sales and begun recalls."
+      },
+      "zh": {
+        "headline": "食安中心籲勿食用三批次法國芝士 疑受李斯特菌污染",
+        "dek": "三款Paturages Comtois品牌布里芝士因歐盟警報被回收，入口商已停售並展開回收。"
+      }
+    },
+    {
+      "id": "2026-09-04-silver-bonds-record-subscription",
+      "published_at": "2026-09-04T21:41:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "economy",
+        "bonds",
+        "hkma"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-04/2026-09-04-silver-bonds-record-subscription.json",
+      "en": {
+        "headline": "Silver Bonds draw record 478,000 applications worth nearly HK$120 billion",
+        "dek": "The latest three-year issue with a 4.25 per cent guaranteed floor attracted strong demand from eligible residents aged 60 and above; final issuance is expected to reach the HK$55 billion ceiling."
+      },
+      "zh": {
+        "headline": "銀債認購創紀錄 47.8萬人申請近1200億元",
+        "dek": "最新一批三年期銀債保底息4.25厘，合資格60歲或以上市民反應踴躍；預計最終發行額將達上限550億元。"
+      }
+    },
+    {
+      "id": "2026-09-04-disneyland-hotel-renovation",
+      "published_at": "2026-09-04T21:40:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tourism",
+        "disneyland",
+        "hotel",
+        "renovation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-04/2026-09-04-disneyland-hotel-renovation.json",
+      "en": {
+        "headline": "Hong Kong Disneyland Hotel to close from 12 October for major renovation",
+        "dek": "The Victorian-style hotel, open since 2005, will undergo comprehensive upgrades including more Disney movie-themed rooms; the other two resort hotels remain open."
+      },
+      "zh": {
+        "headline": "香港迪士尼樂園酒店10月12日起暫時關閉翻新",
+        "dek": "開業以來的維多利亞式酒店將進行全面升級，增加迪士尼電影主題房間；另外兩間度假酒店維持開放。"
+      }
+    },
     {
       "id": "2026-09-04-cityu-ocamp-discipline",
       "published_at": "2026-09-04T15:21:00+08:00",
@@ -1524,75 +1610,6 @@
       "zh": {
         "headline": "一號戒備信號今晚及明早維持 沙德爾繼續靠近粵東",
         "dek": "熱帶低氣壓沙德爾晚上9時位於本港東南約240公里；天文台指今明兩日改發三號強風信號機會仍相對較低。"
-      }
-    },
-    {
-      "id": "2026-09-01-customs-ketamine-students",
-      "published_at": "2026-09-01T21:14:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "customs",
-        "drugs",
-        "police",
-        "enforcement"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-customs-ketamine-students.json",
-      "en": {
-        "headline": "Customs seize 6.4 kg of ketamine; two secondary students arrested",
-        "dek": "The drugs were hidden inside garden lamp posts in an air parcel from Belgium; the 13- and 14-year-old boys were due to start Secondary Two on Tuesday."
-      },
-      "zh": {
-        "headline": "海關檢6.4公斤氯胺酮 拘兩名中二生",
-        "dek": "毒品藏於比利時空運園林燈柱包裹內；13歲及14歲男童原定周二開學升讀中二。"
-      }
-    },
-    {
-      "id": "2026-09-01-neigbuy-data-breach",
-      "published_at": "2026-09-01T21:13:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "fraud",
-        "privacy",
-        "cybersecurity",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-neigbuy-data-breach.json",
-      "en": {
-        "headline": "Online platform Neigbuy data breach may affect more than 33,000 users",
-        "dek": "The Privacy Commissioner’s Office is investigating after the company reported a suspected cyber attack last month; police recorded six related scam cases involving over HK$300,000."
-      },
-      "zh": {
-        "headline": "網購平台「鄰住買」資料外洩或影響逾3.3萬人",
-        "dek": "私隱專員公署正調查平台上月疑遭網絡攻擊；警方錄得六宗假冒客服騙案，涉款逾30萬元。"
-      }
-    },
-    {
-      "id": "2026-09-01-t1-saudel-thunderstorm-evening",
-      "published_at": "2026-09-01T21:12:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "tropical-cyclone",
-        "saudel",
-        "observatory",
-        "thunderstorm-warning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-01/2026-09-01-t1-saudel-thunderstorm-evening.json",
-      "en": {
-        "headline": "Standby Signal No. 1 stays in force; Thunderstorm Warning until 10pm",
-        "dek": "Tropical Depression Saudel was about 240 km southeast of Hong Kong at 8pm; the Observatory said the chance of a Strong Wind Signal remains relatively low."
-      },
-      "zh": {
-        "headline": "一號戒備信號繼續生效 雷暴警告至晚上10時",
-        "dek": "熱帶低氣壓沙德爾晚上8時位於本港東南約240公里；天文台指發出三號強風信號機會仍相對較低。"
       }
     }
   ]
