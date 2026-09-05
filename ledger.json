@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-06T01:08:27+08:00",
+  "updated_at": "2026-09-06T03:16:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "taxi-overcharge-peak-arrest-sep6-2026",
+      "id": "2026-09-06-taxi-overcharge-peak-arrest",
+      "first_seen": "2026-09-06T03:15:00+08:00",
+      "headline_en": "Police arrest taxi driver for demanding five times the fare to The Peak"
+    },
+    {
+      "key": "lifestyle-kau-kee-fish-balls-retail",
+      "id": "2026-09-06-lifestyle-kau-kee-fish-balls",
+      "first_seen": "2026-09-06T03:16:00+08:00",
+      "headline_en": "Kau Kee opens first retail shop after 66 years supplying fish balls to eateries"
+    },
     {
       "key": "lifestyle-yu-lan-cultural-festival-2026",
       "id": "2026-09-06-lifestyle-yu-lan-cultural-festival-final",
