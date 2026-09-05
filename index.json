@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-09-05T07:14:23+08:00",
+  "generated_at": "2026-09-05T09:15:41+08:00",
   "live_window_hours": 72,
-  "count": 76,
+  "count": 73,
   "articles": [
+    {
+      "id": "2026-09-05-lifestyle-cheng-pei-pei-matinee",
+      "published_at": "2026-09-05T09:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "film",
+        "lcsd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-05/2026-09-05-lifestyle-cheng-pei-pei-matinee.json",
+      "en": {
+        "headline": "Film Archive opens ticket sales for Cheng Pei-pei matinee series",
+        "dek": "Ten films spanning romance, wuxia, kung fu and comedy screen at Sai Wan Ho from 2 October to 4 December; tickets are $40 from today on URBTIX."
+      },
+      "zh": {
+        "headline": "電影資料館鄭佩佩回顧今起售票 十部作品10月起映",
+        "dek": "「俠影翩躊──懷念鄭佩佩」由10月2日至12月4日在西灣河資料館放映，門票40元，今日起於城市售票網發售。"
+      }
+    },
+    {
+      "id": "2026-09-05-lifestyle-po-pin-chau-booking",
+      "published_at": "2026-09-05T09:19:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "sai-kung",
+        "hiking"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-05/2026-09-05-lifestyle-po-pin-chau-booking.json",
+      "en": {
+        "headline": "Po Pin Chau trail booking trial starts this weekend",
+        "dek": "Visitors heading to the High Island Geo-Trail section at Sai Kung East Dam between 9am and 5pm today and Sunday need a free, named reservation under a 2,000-person daily cap."
+      },
+      "zh": {
+        "headline": "破邊洲段預約制今起試行 每日名額二千",
+        "dek": "西貢萬宜東壩地質步道破邊洲段今明兩日上午九時至下午五時須免費實名預約，每兩小時一段、每日合共二千人。"
+      }
+    },
+    {
+      "id": "2026-09-05-sweeteners-consultation",
+      "published_at": "2026-09-05T09:18:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "food-safety",
+        "cfs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-05/2026-09-05-sweeteners-consultation.json",
+      "en": {
+        "headline": "Government opens three-month consultation on food sweetener rules",
+        "dek": "Proposed changes would bring sugar alcohols under the law, expand the permitted list from 10 to 21 additives and set maximum levels for specific food pairings."
+      },
+      "zh": {
+        "headline": "政府就食物甜味劑規例展開三個月公眾諮詢",
+        "dek": "建議將多美醇納入規管、准用名單由10種增至21種，並按食物與甜味劑組合訂最高含量，完成立法後擬設18個月過渡期。"
+      }
+    },
     {
       "id": "2026-09-05-lifestyle-cavalluna-kai-tak",
       "published_at": "2026-09-05T07:15:00+08:00",
@@ -1526,132 +1591,6 @@
       "zh": {
         "headline": "天文台：沙德爾周五至周六或再近珠江口 稍後評估三號波",
         "dek": "熱帶風暴沙德爾上午10時位於本港東南偏東約300公里；天文台指一號戒備信號料維持至今日完結，稍後評估是否改發三號強風信號。"
-      }
-    },
-    {
-      "id": "2026-09-02-lifestyle-gruffalo-hkapa",
-      "published_at": "2026-09-02T09:11:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "theatre",
-        "family"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-02/2026-09-02-lifestyle-gruffalo-hkapa.json",
-      "en": {
-        "headline": "The Gruffalo returns to the Academy this weekend",
-        "dek": "Tall Stories’ hour-long English musical of the Julia Donaldson picture book plays the Rita Tong Liu Drama Theatre from Friday, with a second run the following weekend."
-      },
-      "zh": {
-        "headline": "繪本音樂劇《咕嚎牛》本周末起在演藝學院上演",
-        "dek": "英國Tall Stories改編自朱莉婕・唐納森繪本的英語音樂劇，周五起在灣仔演藝學院麗瑞楠戲劇院演出，每場約60分鐘。"
-      }
-    },
-    {
-      "id": "2026-09-02-gyirong-landslide-donations",
-      "published_at": "2026-09-02T09:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-02/2026-09-02-gyirong-landslide-donations.json",
-      "en": {
-        "headline": "Hong Kong firms pledge tens of millions for Tibet landslide relief",
-        "dek": "CK Asset, CK Hutchison, Henderson Land and Sino Group each said they would give 15 million yuan through the Liaison Office disaster-relief account."
-      },
-      "zh": {
-        "headline": "港商再向西藏吉隆泥石流災區捐款 長實恒地等各捐人民幣1500萬",
-        "dek": "長實、長和、李嘉誠基金會，以及恒地與李兆基基金，分別經中聯辦贁災帳戶捐出人民幣1500萬元。"
-      }
-    },
-    {
-      "id": "2026-09-02-lo-chung-mau-drug-centre",
-      "published_at": "2026-09-02T09:09:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "policy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-02/2026-09-02-lo-chung-mau-drug-centre.json",
-      "en": {
-        "headline": "Health chief says drug and device regulator to be set up this year",
-        "dek": "Lo Chung-mau said the new centre would support first-tier local approval of innovative medicines, with a target of full review capacity by 2030."
-      },
-      "zh": {
-        "headline": "盧寵茂：年內成立藥械監督管理中心 盼2030年全面審批新藥",
-        "dek": "醫務衞生局局長接受專訪時表示，香港將於今年內成立藥物及醫療器械監督管理中心，目標2030年可全面審批創新藥物。"
-      }
-    },
-    {
-      "id": "2026-09-02-hku-mbbs-chinese-language",
-      "published_at": "2026-09-02T09:08:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "universities",
-        "health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-02/2026-09-02-hku-mbbs-chinese-language.json",
-      "en": {
-        "headline": "HKU medicine changes MBBS language bar from Cantonese to Chinese",
-        "dek": "The faculty said 2027/28 applicants may meet the Chinese requirement in Cantonese or Putonghua, but Cantonese is still required before clinical work."
-      },
-      "zh": {
-        "headline": "港大醫科入學語言改為良好中文 院方：實習前仍須粵語",
-        "dek": "港大醫學院更新2027/28年度招生資料，中文要求改為粵語或普通話均可，但強調接觸病人前必須具備粵語溝通能力。"
-      }
-    },
-    {
-      "id": "2026-09-02-lifestyle-national-ecology-day-ekcc",
-      "published_at": "2026-09-02T07:16:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "exhibition",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-02/2026-09-02-lifestyle-national-ecology-day-ekcc.json",
-      "en": {
-        "headline": "National Ecology Day exhibition opens at East Kowloon Cultural Centre",
-        "dek": "The Countryside Conservation Office is staging a free show at The Corner until 6 September, with displays on Mirs Bay, conservation and village life."
-      },
-      "zh": {
-        "headline": "全國生態日專題展於東九文化中心展隅免費開放",
-        "dek": "鄉郊保育辦事處展覽舉行至9月6日，以大鵬灣、自然保育及鄉村故事為主題，開放時間上午11時至晚上8時。"
-      }
-    },
-    {
-      "id": "2026-09-02-lifestyle-science-museum-wpy-final",
-      "published_at": "2026-09-02T07:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "exhibition",
-        "museums"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-02/2026-09-02-lifestyle-science-museum-wpy-final.json",
-      "en": {
-        "headline": "Wildlife Photographer of the Year closes today at Science Museum",
-        "dek": "The Hong Kong Science Museum’s special exhibition of winning images from the London Natural History Museum contest ends on Wednesday, a free-admission day."
-      },
-      "zh": {
-        "headline": "科學館野外生態攝影年展今日結束 周三常設展免費入場",
-        "dek": "香港科學館展出倫敦自然歷史博物館第61屆野外生態攝影大賽得獎作品，展期至9月2日，入場已包括在常設展覽票價內。"
       }
     }
   ]
