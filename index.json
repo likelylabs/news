@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-09-05T23:12:04+08:00",
+  "generated_at": "2026-09-06T01:06:52+08:00",
   "live_window_hours": 72,
-  "count": 73,
+  "count": 71,
   "articles": [
+    {
+      "id": "2026-09-06-lifestyle-yu-lan-cultural-festival-final",
+      "published_at": "2026-09-06T01:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "festival",
+        "heritage",
+        "victoria-park"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-06/2026-09-06-lifestyle-yu-lan-cultural-festival-final.json",
+      "en": {
+        "headline": "Yu Lan Cultural Festival ends today at Victoria Park",
+        "dek": "The three-day event marking the Hungry Ghost Festival closes Sunday with competitions, workshops, an immersive theatre piece and Chiu Chow food stalls; admission is free."
+      },
+      "zh": {
+        "headline": "盂蘭文化節今日維園煞科 搶孤及互動劇場繼續",
+        "dek": "一連三日的盂蘭文化節今日於銅鑼灣維多利亞公園一號球場舉行最後一天，設搶孤競賽、工作坊、實境劇場及潮汕美食攤位，免費入場。"
+      }
+    },
     {
       "id": "2026-09-05-tesla-driver-death-iec",
       "published_at": "2026-09-05T23:12:00+08:00",
@@ -1525,71 +1548,6 @@
       "zh": {
         "headline": "一號戒備信號維持 沙德爾位於本港東北偏東約400公里",
         "dek": "熱帶風暴沙德爾周四凌晨位於北緯23.1度、東經118.0度附近，預料在南海東北部徘徊後逐漸轉西，掠過廣東東部沿岸。"
-      }
-    },
-    {
-      "id": "2026-09-02-hkjc-conghua-postponed-record-turnover",
-      "published_at": "2026-09-02T23:32:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "racing",
-        "hkjc",
-        "business"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-02/2026-09-02-hkjc-conghua-postponed-record-turnover.json",
-      "en": {
-        "headline": "HKJC postpones Conghua racing debut; reports record HK$331.7 billion turnover",
-        "dek": "The planned 31 October launch of regular racing at the Guangzhou track is delayed after a latest risk assessment from mainland departments; the Club also reported strong results for the year ended 30 June."
-      },
-      "zh": {
-        "headline": "馬會延期從化馬場開跑 年度投注額創3317億元新高",
-        "dek": "原定10月31日啟動常規賽馬因內地最新風險評估延期；馬會公布截至6月30日止財政年度業績，博彩及獎券投注總額按年升3.6%。"
-      }
-    },
-    {
-      "id": "2026-09-02-mpox-two-cases-sep2",
-      "published_at": "2026-09-02T23:31:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "chp",
-        "mpox"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-02/2026-09-02-mpox-two-cases-sep2.json",
-      "en": {
-        "headline": "CHP investigates two confirmed Mpox cases, urges high-risk groups to vaccinate",
-        "dek": "A 38-year-old man and a 34-year-old man tested positive; both had high-risk exposure in Hong Kong during the incubation period and are in stable condition under isolation."
-      },
-      "zh": {
-        "headline": "防護中心調查兩宗猴痘確診 籲高風險群組接種疫苗",
-        "dek": "38歲及34歲男病人分別確診，潛伏期內均在港有高風險接觸，現於醫院隔離治療，情況穩定。"
-      }
-    },
-    {
-      "id": "2026-09-02-t1-saudel-wednesday-night",
-      "published_at": "2026-09-02T23:30:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "tropical-cyclone",
-        "saudel",
-        "observatory"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-02/2026-09-02-t1-saudel-wednesday-night.json",
-      "en": {
-        "headline": "Standby Signal No. 1 stays; Saudel 380 km east at 11pm",
-        "dek": "Tropical Storm Saudel was estimated about 380 kilometres east of Hong Kong at 11pm and is forecast to linger over the northeastern South China Sea on Thursday morning before turning westwards."
-      },
-      "zh": {
-        "headline": "一號戒備信號維持 沙德爾晚上11時位於本港以東約380公里",
-        "dek": "熱帶風暴沙德爾晚上11時位於本港以東約380公里，預料周四早上在南海東北部徘徊，其後逐漸轉西掠過廣東東部沿岸。"
       }
     }
   ]
