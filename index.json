@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-06T01:08:27+08:00",
+  "generated_at": "2026-09-06T03:13:13+08:00",
   "live_window_hours": 72,
-  "count": 71,
+  "count": 73,
   "articles": [
+    {
+      "id": "2026-09-06-lifestyle-kau-kee-fish-balls",
+      "published_at": "2026-09-06T03:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "food",
+        "mong-kok"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-06/2026-09-06-lifestyle-kau-kee-fish-balls.json",
+      "en": {
+        "headline": "Kau Kee opens first retail shop after 66 years supplying fish balls to eateries",
+        "dek": "The Mong Kok factory that has long supplied nearly 1,000 local stalls and restaurants now sells its signature fish balls and snacks directly to the public."
+      },
+      "zh": {
+        "headline": "九記魚蛋廠66年後開首間零售店 直接售予市民",
+        "dek": "長年供應近千間食肆及小食檔的旺角魚蛋廠，去年底開設首間零售店，市民可直接購買招牌魚蛋及小食。"
+      }
+    },
+    {
+      "id": "2026-09-06-taxi-overcharge-peak-arrest",
+      "published_at": "2026-09-06T03:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "taxi",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-06/2026-09-06-taxi-overcharge-peak-arrest.json",
+      "en": {
+        "headline": "Police arrest taxi driver for demanding five times the fare to The Peak",
+        "dek": "Undercover officers were quoted HK$350 for a short Central-to-Peak ride that should cost about HK$66; the 69-year-old faces four charges including overcharging."
+      },
+      "zh": {
+        "headline": "警放蛇拘索五倍車資的士司機 中環往山頂收350元",
+        "dek": "喬裝乘客由山頂纜車中環總站往山頂，合理車資約66元，司機索價350元；69歲男子涉四罪被捕。"
+      }
+    },
     {
       "id": "2026-09-06-lifestyle-yu-lan-cultural-festival-final",
       "published_at": "2026-09-06T01:10:00+08:00",
