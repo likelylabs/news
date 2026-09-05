@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-09-05T15:15:07+08:00",
+  "generated_at": "2026-09-05T21:09:33+08:00",
   "live_window_hours": 72,
-  "count": 72,
+  "count": 70,
   "articles": [
+    {
+      "id": "2026-09-05-housing-society-surplus",
+      "published_at": "2026-09-05T21:09:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "housing",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-05/2026-09-05-housing-society-surplus.json",
+      "en": {
+        "headline": "Housing Society posts HK$1.338 billion surplus for third consecutive year",
+        "dek": "Net assets reached HK$49.9 billion at end-March; more than 15,000 units expected to be completed over the next five financial years."
+      },
+      "zh": {
+        "headline": "房協二零二五至二六年度盈餘十三點三八億 連續三年錄得盈餘",
+        "dek": "截至三月底淨資產四百九十九億元，未來五個財政年度預計落成逾一萬五千個單位。"
+      }
+    },
+    {
+      "id": "2026-09-05-eaton-astor-food-poisoning",
+      "published_at": "2026-09-05T21:08:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "food-safety",
+        "chp",
+        "restaurant"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-05/2026-09-05-eaton-astor-food-poisoning.json",
+      "en": {
+        "headline": "Fourteen fall ill after buffet at Eaton HK restaurant; premises closed for cleaning",
+        "dek": "CHP links five clusters to The Astor at Eaton Hong Kong in Yau Ma Tei; all affected diners are stable and none required hospital admission."
+      },
+      "zh": {
+        "headline": "逸東酒店The Astor食物中毒群組增至十四人 食肆暫時停業",
+        "dek": "衞生防護中心指五個群組有流行病學關連，受影響人士情況穩定，無人需入院。"
+      }
+    },
+    {
+      "id": "2026-09-05-unregistered-vaccine-raids",
+      "published_at": "2026-09-05T21:07:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "vaccines",
+        "dh",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-05/2026-09-05-unregistered-vaccine-raids.json",
+      "en": {
+        "headline": "Three arrested, 1,600 unregistered vials seized in vaccine-related raids",
+        "dek": "Health Secretary Lo Chung-mau said none of the seized items were the touted WT1 cancer-prevention product; no reports of anyone receiving the injection locally."
+      },
+      "zh": {
+        "headline": "無牌針劑搜查拘三人 檢獲一千六百劑未經註冊製品",
+        "dek": "醫務衞生局局長盧寵茂表示檢獲物品並非聲稱的WT1防癌疫苗，暫無發現有人在港注射。"
+      }
+    },
+    {
+      "id": "2026-09-05-chp-three-severe-paediatric-flu",
+      "published_at": "2026-09-05T21:06:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "influenza",
+        "chp",
+        "children"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-05/2026-09-05-chp-three-severe-paediatric-flu.json",
+      "en": {
+        "headline": "CHP records three more severe paediatric flu cases; one girl critical",
+        "dek": "A six-year-old girl is in critical condition with influenza A complicated by encephalopathy; a three-year-old girl and 15-year-old boy are in serious condition."
+      },
+      "zh": {
+        "headline": "衞生防護中心再錄三宗兒童流感嚴重個案 一女童危殆",
+        "dek": "六歲女童甲型流感併發腦病變情況危殆，三歲女童及十五歲男童情況嚴重，三人過往均健康良好。"
+      }
+    },
     {
       "id": "2026-09-05-lee-five-year-plan-drivers",
       "published_at": "2026-09-05T15:13:00+08:00",
@@ -1439,135 +1526,6 @@
       "zh": {
         "headline": "一號戒備信號維持 沙德爾晚上11時位於本港以東約380公里",
         "dek": "熱帶風暴沙德爾晚上11時位於本港以東約380公里，預料周四早上在南海東北部徘徊，其後逐漸轉西掠過廣東東部沿岸。"
-      }
-    },
-    {
-      "id": "2026-09-02-national-day-fireworks-2026",
-      "published_at": "2026-09-02T21:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "events",
-        "national-day"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-02/2026-09-02-national-day-fireworks-2026.json",
-      "en": {
-        "headline": "National Day fireworks set for 1 October over Victoria Harbour",
-        "dek": "A 23-minute display of about 31,888 shells will begin at 8pm under the theme Eternal Radiance, marking the 77th anniversary of the founding of the People’s Republic of China."
-      },
-      "zh": {
-        "headline": "國慶煙花匯演10月1日晚上8時維港上演",
-        "dek": "為慶祝中華人民共和國成立77周年，約31888枚煙花分八幕燃放23分鐘，主題為「永明煙花 綻放中華」。"
-      }
-    },
-    {
-      "id": "2026-09-02-customs-etomidate-kam-tin",
-      "published_at": "2026-09-02T21:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "customs",
-        "drugs",
-        "enforcement"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-02/2026-09-02-customs-etomidate-kam-tin.json",
-      "en": {
-        "headline": "Customs bust etomidate lab in Kam Tin, seize HK$42 million haul",
-        "dek": "A 61-year-old man was arrested after officers found a semi-automated production line and materials capable of making more than 160,000 capsules at a village house."
-      },
-      "zh": {
-        "headline": "海關錦田村屋搗依托咪酯工場 檢市值約4200萬元拘一男",
-        "dek": "61歲男子被控製造及販運危險藥物，單位內設半自動化生產線，原材料可短時間製逾16萬粒煙彈。"
-      }
-    },
-    {
-      "id": "2026-09-02-t1-saudel-wednesday-evening",
-      "published_at": "2026-09-02T21:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "tropical-cyclone",
-        "saudel",
-        "observatory"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-02/2026-09-02-t1-saudel-wednesday-evening.json",
-      "en": {
-        "headline": "Standby Signal No. 1 stays overnight; Saudel 350 km east at 8pm",
-        "dek": "Tropical Storm Saudel was centred about 350 kilometres east of Hong Kong at 8pm and is expected to linger over the northeastern South China Sea through Thursday morning."
-      },
-      "zh": {
-        "headline": "一號戒備信號通宵維持 沙德爾晚上8時位於本港以東約350公里",
-        "dek": "熱帶風暴沙德爾晚上8時位於本港以東約350公里，預料今晚至周四早上在南海東北部徘徊，與本港保持約300公里或以上距離。"
-      }
-    },
-    {
-      "id": "2026-09-02-ngau-chi-wan-school-bus-collision",
-      "published_at": "2026-09-02T15:20:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "traffic-accident",
-        "schools"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-02/2026-09-02-ngau-chi-wan-school-bus-collision.json",
-      "en": {
-        "headline": "Two school buses collide in Ngau Chi Wan; 13 injured including children",
-        "dek": "A white school bus carrying kindergarten pupils hit a parked yellow school bus outside a school on Jat Shan Road shortly after 1.20pm; all injuries were reported as minor."
-      },
-      "zh": {
-        "headline": "牛池灣扎山道兩校巴相撞 約13人輕傷包括學童",
-        "dek": "白色校巴載有幼稚園學童疑失控撞向停泊的黃色校巴，司機腳部一度被困，全部傷者輕傷送院。"
-      }
-    },
-    {
-      "id": "2026-09-02-cityu-orientation-disco-probe",
-      "published_at": "2026-09-02T15:19:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "universities",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-02/2026-09-02-cityu-orientation-disco-probe.json",
-      "en": {
-        "headline": "CityU probes orientation ‘disco night’ video, vows zero tolerance",
-        "dek": "The university set up a student discipline panel after a social-media clip appeared to show intimate behaviour among people believed to be students at a Management Sciences Society event."
-      },
-      "zh": {
-        "headline": "城大調查迎新「Disco Night」短片 強調零容忍不當行為",
-        "dek": "社交平台流傳疑似管理科學學科聯會迎新活動短片後，城大成立紀律調查委員會，稱對損害學生尊嚴的行為絕不容忍。"
-      }
-    },
-    {
-      "id": "2026-09-02-t1-saudel-wednesday-1500",
-      "published_at": "2026-09-02T15:18:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "tropical-cyclone",
-        "saudel",
-        "observatory"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-02/2026-09-02-t1-saudel-wednesday-1500.json",
-      "en": {
-        "headline": "Standby Signal No. 1 stays; Saudel 330 km east at 3pm",
-        "dek": "Tropical Storm Saudel was centred about 330 kilometres east of Hong Kong at 3pm and is forecast to move northeast at about 10 km/h across the northeastern South China Sea."
-      },
-      "zh": {
-        "headline": "一號戒備信號維持 沙德爾下午3時位於本港以東約330公里",
-        "dek": "熱帶風暴沙德爾下午3時位於本港以東約330公里，預料向東北移動，時速約10公里，橫過南海東北部。"
       }
     }
   ]
