@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-09-05T21:09:33+08:00",
+  "generated_at": "2026-09-05T23:12:04+08:00",
   "live_window_hours": 72,
-  "count": 70,
+  "count": 73,
   "articles": [
+    {
+      "id": "2026-09-05-tesla-driver-death-iec",
+      "published_at": "2026-09-05T23:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "traffic",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-05/2026-09-05-tesla-driver-death-iec.json",
+      "en": {
+        "headline": "Tesla driver dies after collision on Island Eastern Corridor",
+        "dek": "54-year-old man found unconscious with no superficial injuries; police investigating possible medical episode while driving."
+      },
+      "zh": {
+        "headline": "東區走廊Tesla司機撞車後不治 警查是否駕駛時不適",
+        "dek": "54歲男子昏迷送院，無表面傷痕；初步不排除暈倒後車輛失控。"
+      }
+    },
+    {
+      "id": "2026-09-05-tiangong-class-hong-kong-macao",
+      "published_at": "2026-09-05T23:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "education",
+        "space",
+        "lai-ka-ying"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-05/2026-09-05-tiangong-class-hong-kong-macao.json",
+      "en": {
+        "headline": "Government to hold Tiangong Classroom with Hong Kong astronaut soon",
+        "dek": "Shenzhou-23 crew including first Hong Kong payload specialist Lai Ka-ying will give science demonstrations and hold a live dialogue with Hong Kong and Macao students."
+      },
+      "zh": {
+        "headline": "政府近日舉辦天宮課堂 黎家盈等與港澳學生天地對話",
+        "dek": "神舟二十三號乘組包括首位港產載荷專家黎家盈將在空間站進行科學實驗示範，並與港澳學生實時交流。"
+      }
+    },
+    {
+      "id": "2026-09-05-chp-mpox-case-sep5",
+      "published_at": "2026-09-05T23:10:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "mpox",
+        "chp"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-05/2026-09-05-chp-mpox-case-sep5.json",
+      "en": {
+        "headline": "CHP records new mpox case; 26-year-old man in stable condition",
+        "dek": "Patient had two high-risk contacts with a man outside Hong Kong during the incubation period; total cases since 2022 reach 100, all male."
+      },
+      "zh": {
+        "headline": "衞生防護中心錄得一宗猴痘確診 26歲男情況穩定",
+        "dek": "患者潛伏期內在港以外與一名男子有兩次高風險接觸；自2022年起累計100宗個案，全部為男性。"
+      }
+    },
     {
       "id": "2026-09-05-housing-society-surplus",
       "published_at": "2026-09-05T21:09:00+08:00",
