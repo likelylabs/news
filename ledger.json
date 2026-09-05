@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-06T06:08:08+08:00",
+  "updated_at": "2026-09-06T07:20:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-gruffalo-hkapa-sep2026",
+      "id": "2026-09-06-lifestyle-gruffalo-hkapa",
+      "first_seen": "2026-09-06T07:20:00+08:00",
+      "headline_en": "The Gruffalo plays two more shows at APA today"
+    },
+    {
+      "key": "hk-youth-squash-worlds-2026",
+      "id": "2026-09-06-squash-youth-worlds-new-york",
+      "first_seen": "2026-09-06T07:19:00+08:00",
+      "headline_en": "Hong Kong youth squash team to make world championships debut"
+    },
+    {
+      "key": "china-masters-hk-mens-singles-final-2026",
+      "id": "2026-09-06-lee-ng-china-masters-final",
+      "first_seen": "2026-09-06T07:18:00+08:00",
+      "headline_en": "Lee Cheuk Yiu and Ng Wing Lun meet in China Masters final"
+    },
     {
       "key": "taxi-overcharge-peak-arrest-sep6-2026",
       "id": "2026-09-06-taxi-overcharge-peak-arrest",
