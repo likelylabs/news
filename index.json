@@ -1,8 +1,51 @@
 {
-  "generated_at": "2026-09-06T11:13:21+08:00",
+  "generated_at": "2026-09-06T13:16:33+08:00",
   "live_window_hours": 72,
   "count": 68,
   "articles": [
+    {
+      "id": "2026-09-06-lee-five-year-plan-policy-address",
+      "published_at": "2026-09-06T13:22:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "government",
+        "policy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-06/2026-09-06-lee-five-year-plan-policy-address.json",
+      "en": {
+        "headline": "Lee says five-year plan will lift livelihoods through long-term strategy",
+        "dek": "Chief Executive John Lee posted on social media that the first Hong Kong five-year plan and the Policy Address will both be issued on 16 September, with the plan setting macro strategy and the address delivering…"
+      },
+      "zh": {
+        "headline": "李家超：五年規劃以長策提升民生福祉 施政報告推具體措施",
+        "dek": "行政長官李家超今日在社交平台表示，香港首個五年規劃將於9月16日與施政報告同日公布，規劃以長遠策略提升民生，施政報告則每年推出房屋、民生及醫療等具體措施。"
+      }
+    },
+    {
+      "id": "2026-09-06-yuk-kwai-shan-hiker-collapse",
+      "published_at": "2026-09-06T13:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "rescue",
+        "hiking",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-06/2026-09-06-yuk-kwai-shan-hiker-collapse.json",
+      "en": {
+        "headline": "Elderly hiker collapses on Ap Lei Chau hill, airlifted to hospital",
+        "dek": "A man aged about 70 was found unconscious with a head injury while hiking alone on Yuk Kwai Shan on Sunday morning; Government Flying Service helicopter lifted him to Pamela Youde Nethersole Eastern Hospital."
+      },
+      "zh": {
+        "headline": "鴨脷洲玉桂山老翁行山昏迷 直升機吊起送院",
+        "dek": "一名約70歲男子今日上午獨自行山期間暈倒頭部受傷，消防人員上山後由政府飛行服務隊直升機吊起送往東區醫院，抵院時需進行心肺復甦。"
+      }
+    },
     {
       "id": "2026-09-06-cityu-ev-battery-reuse-fund",
       "published_at": "2026-09-06T11:11:00+08:00",
@@ -1430,51 +1473,6 @@
       "zh": {
         "headline": "簡樸房首半年收逾7萬個分間單位登記申請",
         "dek": "房屋局局長何永賢表示，截至8月31日共收到涉及逾7萬個分間單位、約2萬個住宅單位的登記申請，佔全港估計11萬個分間單位逾六成。"
-      }
-    },
-    {
-      "id": "2026-09-03-national-day-fireworks-2026",
-      "published_at": "2026-09-03T13:16:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "culture",
-        "events",
-        "fireworks",
-        "national-day"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-03/2026-09-03-national-day-fireworks-2026.json",
-      "en": {
-        "headline": "National Day fireworks set for Victoria Harbour on 1 October",
-        "dek": "A 23-minute display launching 31,888 shells will mark the 77th anniversary of the founding of the People’s Republic of China under the theme Eternal Radiance."
-      },
-      "zh": {
-        "headline": "國慶煙花匯演10月1日維港上演",
-        "dek": "約23分鐘匯演將燃放31,888枚煙花，主題「永明煙花 綻放中華」，慶祝中華人民共和國成立77周年。"
-      }
-    },
-    {
-      "id": "2026-09-03-t1-saudel-thursday-afternoon",
-      "published_at": "2026-09-03T13:15:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "tropical-cyclone",
-        "saudel",
-        "observatory",
-        "hko"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-03/2026-09-03-t1-saudel-thursday-afternoon.json",
-      "en": {
-        "headline": "Saudel moves inland over eastern Guangdong; Signal No. 1 remains",
-        "dek": "At 1pm Tropical Storm Saudel was about 330 km northeast of Hong Kong and is forecast to move west across inland areas while weakening gradually."
-      },
-      "zh": {
-        "headline": "沙德爾移入廣東東部內陸 一號戒備信號維持",
-        "dek": "下午1時熱帶風暴沙德爾位於本港東北約330公里，預料向西橫過廣東東部內陸並逐漸減弱。"
       }
     }
   ]
