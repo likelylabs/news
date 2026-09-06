@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-06-csdi-spatial-data-platform",
+  "published_at": "2026-09-06T15:28:00+08:00",
+  "category": "technology",
+  "tags": ["technology", "government", "innovation"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "csdi-spatial-data-platform-update-sep2026",
+  "en": {
+    "headline": "Development Bureau highlights spatial data platform with over 1,100 datasets",
+    "dek": "Secretary Ning Hoi-yan said the Common Spatial Data Infrastructure portal now draws data from more than 70 departments and supports applications ranging from walkability tools to hiking safety apps.",
+    "body": [
+      "The Development Bureau on Sunday highlighted progress on the Common Spatial Data Infrastructure, which now offers more than 1,100 spatial datasets from over 70 government departments and organisations for free public use.",
+      "In a blog post, Secretary for Development Ning Hoi-yan said the datasets cover planning, lands, buildings, engineering, population and transport. One recent application is the “Walk Hong Kong” web tool developed by the Lands Department’s Survey and Mapping Office with the Hong Kong Polytechnic University. Users can plot shortest, barrier-free or flatter walking routes and search nearby facilities within a 15-minute radius.",
+      "A local start-up has also used the data to build the WayMe hiking app, which converts open spatial information into comfort scores, facility alerts and geofenced safety warnings for walkers who stray off route.",
+      "The Spatial Data Office is testing an artificial-intelligence assistant that can query the datasets conversationally and plans to release a Model Context Protocol server next year so users can access the information directly through common AI platforms."
+    ]
+  },
+  "zh": {
+    "headline": "發展局指空間數據共享平台已匯聚逾1100個數據集",
+    "dek": "局長甯漢豪表示，平台涵蓋規劃、地政、運輸等數據，已支援步行路線工具及遠足安全應用程式。",
+    "body": [
+      "發展局周日透過局長網誌介紹空間數據共享平台（CSDI）的最新進展。平台現時提供超過1100個來自70多個政府部門及機構的空間數據集，供公眾免費使用。",
+      "甯漢豪表示，數據涵蓋規劃、地政、屋宇、工程、人口及運輸等範疇。地政總署測繪處聯同香港理工大學早前推出「步行香港」網頁工具，可分析最短、無障礙或較平坦的步行路線，並搜尋15分鐘生活圈內的周邊設施。",
+      "本地初創企業亦利用有關數據研發「WayMe」遠足應用程式，將開放數據轉化為舒適度評分、沿途設施提示，並透過地理圍欄技術向偏離路線的使用者發出即時安全警報。",
+      "空間數據辦事處正試驗以人工智能助手對話方式查詢數據，並計劃明年開發MCP伺服器，方便用戶在常用AI平台直接搜尋CSDI資料。"
+    ]
+  }
+}

@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-06T13:16:33+08:00",
+  "updated_at": "2026-09-06T15:28:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "workweek-weather-outlook-sep7-11",
+      "id": "2026-09-06-workweek-weather-outlook",
+      "first_seen": "2026-09-06T15:25:00+08:00",
+      "headline_en": "Work-week outlook: sunny periods and isolated showers, hotter midweek"
+    },
+    {
+      "key": "cycling-fatalities-h1-2026",
+      "id": "2026-09-06-cycling-fatalities-h1",
+      "first_seen": "2026-09-06T15:26:00+08:00",
+      "headline_en": "Fatal cycling accidents more than double in first half of 2026"
+    },
+    {
+      "key": "ka-ying-rising-chief-executive-cup-2026",
+      "id": "2026-09-06-ka-ying-rising-ce-cup-win",
+      "first_seen": "2026-09-06T15:27:00+08:00",
+      "headline_en": "Ka Ying Rising extends winning streak to 21 in Chief Executive’s Cup"
+    },
+    {
+      "key": "csdi-spatial-data-platform-update-sep2026",
+      "id": "2026-09-06-csdi-spatial-data-platform",
+      "first_seen": "2026-09-06T15:28:00+08:00",
+      "headline_en": "Development Bureau highlights spatial data platform with over 1,100 datasets"
+    },
     {
       "key": "yuk-kwai-shan-hiker-collapse-sep6-2026",
       "id": "2026-09-06-yuk-kwai-shan-hiker-collapse",
