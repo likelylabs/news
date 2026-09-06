@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-09-06T21:08:05+08:00",
+  "generated_at": "2026-09-06T23:08:21+08:00",
   "live_window_hours": 72,
-  "count": 73,
+  "count": 74,
   "articles": [
+    {
+      "id": "2026-09-06-lam-tin-salt-water-pipe",
+      "published_at": "2026-09-06T23:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-06/2026-09-06-lam-tin-salt-water-pipe.json",
+      "en": {
+        "headline": "Salt-water pipe leaks near Kai Tin Shopping Centre in Lam Tin",
+        "dek": "A 200-millimetre salt-water main on Kai Tin Road caused muddy water to flow onto roads and through the mall; the Water Supplies Department shut the valve and said flushing-water supply was unaffected."
+      },
+      "zh": {
+        "headline": "藍田啟田商場附近鹹水管滲漏 沖廁水供應不受影響",
+        "dek": "直徑200毫米鹹水供水管傍晚滲漏，黃泥水沿斜路湧出；水務署關掣後停止湧水，經調度後用戶沖廁水供應正常。"
+      }
+    },
+    {
+      "id": "2026-09-06-afcd-dog-leash-enforcement",
+      "published_at": "2026-09-06T23:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "police",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-06/2026-09-06-afcd-dog-leash-enforcement.json",
+      "en": {
+        "headline": "AFCD finds three cases of large dogs without proper leashes in special operation",
+        "dek": "The three-day enforcement action across dog-gathering spots ended on Sunday; the department will prosecute the keepers under the Dangerous Dogs Regulation."
+      },
+      "zh": {
+        "headline": "漁護署特別執法發現三宗大型狗隻未牽繩個案將檢控",
+        "dek": "三日巡查於公眾地方狗隻聚集點進行，署方將跟進檢控涉事畜養人，提醒大型狗隻須用不多於兩米狗帶牽引。"
+      }
+    },
+    {
+      "id": "2026-09-06-po-pin-chau-booking-noshow",
+      "published_at": "2026-09-06T23:09:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "hiking",
+        "sai-kung",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-06/2026-09-06-po-pin-chau-booking-noshow.json",
+      "en": {
+        "headline": "AFCD to review Po Pin Chau trail booking after high no-show rate",
+        "dek": "Only about 1,560 registered and walk-in visitors arrived over the first two trial days despite more than 3,200 bookings; the department will assess the system after the National Day golden week."
+      },
+      "zh": {
+        "headline": "破邊洲預約制首兩日大量No Show 漁護署將全面檢討",
+        "dek": "首兩個試驗日共有逾三千二百人預約，實際到場約一千五百六十人；署方表示國慶黃金周後會檢視成效。"
+      }
+    },
+    {
+      "id": "2026-09-06-yuk-kwai-shan-hiker-death",
+      "published_at": "2026-09-06T23:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "rescue",
+        "hiking",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-06/2026-09-06-yuk-kwai-shan-hiker-death.json",
+      "en": {
+        "headline": "72-year-old hiker dies after collapse on Ap Lei Chau’s Yuk Kwai Shan",
+        "dek": "The man, surnamed Kwok, was found unconscious with head and leg injuries while hiking alone on Sunday morning and was airlifted to hospital, where he was certified dead."
+      },
+      "zh": {
+        "headline": "鴨脷洲玉桂山72歲行山漢送院後不治",
+        "dek": "姓郭老翁今早獨自行山期間暈倒，頭腳擦傷，直升機吊起送東區醫院後證實死亡，死因有待驗屍確定。"
+      }
+    },
     {
       "id": "2026-09-06-labour-heatstroke-occupational",
       "published_at": "2026-09-06T21:07:00+08:00",
@@ -1512,74 +1597,6 @@
       "zh": {
         "headline": "沙德爾減弱為低壓區 所有熱帶氣旋警告信號取消",
         "dek": "天文台於凌晨12時10分取消所有熱帶氣旋警告信號，熱帶低氣壓沙德爾已在廣東內陸減弱為低壓區。"
-      }
-    },
-    {
-      "id": "2026-09-03-lifestyle-chun-on-pawn-community",
-      "published_at": "2026-09-03T21:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "community",
-        "heritage",
-        "wan-chai",
-        "culture"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-03/2026-09-03-lifestyle-chun-on-pawn-community.json",
-      "en": {
-        "headline": "Century-old Chun On Pawn Shop becomes community pop-up",
-        "dek": "The former pawn shop at 91 Wan Chai Road now hosts exhibitions, a café and free community programmes until mid-December under Project House @ Chun On Pawn."
-      },
-      "zh": {
-        "headline": "百年振安大押變社區共享空間 開放至12月",
-        "dek": "灣仔道91號前振安大押現以「壹當」名義營運展覽、咖啡及免費社區活動，開放至12月19日。"
-      }
-    },
-    {
-      "id": "2026-09-03-wang-chi-house-asp-75pc",
-      "published_at": "2026-09-03T21:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "community",
-        "government",
-        "tai-po"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-03/2026-09-03-wang-chi-house-asp-75pc.json",
-      "en": {
-        "headline": "Over 75% of Wang Chi House owners sign sale agreements",
-        "dek": "The Housing Bureau said 188 households, or about 75.8 per cent of the undamaged block at Wang Fuk Court, had signed Agreements for Sale and Purchase as of Wednesday."
-      },
-      "zh": {
-        "headline": "宏志閣逾七成五業主簽買賣協議 政府繼續收購",
-        "dek": "房屋局表示，截至周三共188戶、約75.8%宏志閣業主已簽署《買賣協議》，政府確認繼續推進該座業權收購。"
-      }
-    },
-    {
-      "id": "2026-09-03-t1-saudel-thursday-evening",
-      "published_at": "2026-09-03T21:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "tropical-cyclone",
-        "saudel",
-        "observatory",
-        "hko"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-03/2026-09-03-t1-saudel-thursday-evening.json",
-      "en": {
-        "headline": "Saudel weakens over Guangdong inland; Signal No. 1 stays",
-        "dek": "At 8pm Tropical Depression Saudel was about 280 km northeast of Hong Kong and is forecast to move west-southwest across eastern Guangdong while continuing to weaken."
-      },
-      "zh": {
-        "headline": "沙德爾於廣東內陸減弱 一號戒備信號維持",
-        "dek": "下午8時熱帶低氣壓沙德爾位於本港東北約280公里，預料向西南偏西橫過廣東東部內陸並繼續減弱。"
       }
     }
   ]
