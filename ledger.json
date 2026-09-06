@@ -1,1 +1,126 @@
-{"updated_at": "2026-09-06T21:08:00+08:00", "retention_days": 5, "covered": [{"key": "fake-flag-day-scam-hkscda-sep2026", "id": "2026-09-06-fake-flag-day-scam-arrest", "first_seen": "2026-09-06T21:05:00+08:00", "headline_en": "Police arrest 22-year-old over fake flag-day scam for animal charity"}, {"key": "airport-t2-display-screens-safe-sep6", "id": "2026-09-06-airport-t2-screens-safe", "first_seen": "2026-09-06T21:06:00+08:00", "headline_en": "Airport clears Terminal 2 overhead screens after safety checks"}, {"key": "labour-heatstroke-occupational-disease-sep2026", "id": "2026-09-06-labour-heatstroke-occupational", "first_seen": "2026-09-06T21:07:00+08:00", "headline_en": "Labour chief open to classifying heatstroke as occupational disease"}, {"key": "workweek-weather-outlook-sep7-11", "id": "2026-09-06-workweek-weather-outlook", "first_seen": "2026-09-06T15:25:00+08:00", "headline_en": "Work-week outlook: sunny periods and isolated showers, hotter midweek"}, {"key": "cycling-fatalities-h1-2026", "id": "2026-09-06-cycling-fatalities-h1", "first_seen": "2026-09-06T15:26:00+08:00", "headline_en": "Fatal cycling accidents more than double in first half of 2026"}, {"key": "ka-ying-rising-chief-executive-cup-2026", "id": "2026-09-06-ka-ying-rising-ce-cup-win", "first_seen": "2026-09-06T15:27:00+08:00", "headline_en": "Ka Ying Rising extends winning streak to 21 in Chief Executive’s Cup"}, {"key": "csdi-spatial-data-platform-update-sep2026", "id": "2026-09-06-csdi-spatial-data-platform", "first_seen": "2026-09-06T15:28:00+08:00", "headline_en": "Development Bureau highlights spatial data platform with over 1,100 datasets"}, {"key": "yuk-kwai-shan-hiker-collapse-sep6-2026", "id": "2026-09-06-yuk-kwai-shan-hiker-collapse", "first_seen": "2026-09-06T13:20:00+08:00", "headline_en": "Elderly hiker collapses on Ap Lei Chau hill, airlifted to hospital"}, {"key": "lee-five-year-plan-policy-address-sep6-2026", "id": "2026-09-06-lee-five-year-plan-policy-address", "first_seen": "2026-09-06T13:22:00+08:00", "headline_en": "Lee says five-year plan will lift livelihoods through long-term strategy"}, {"key": "hsr-signal-fault-sep6-2026", "id": "2026-09-06-hsr-signal-fault-delays", "first_seen": "2026-09-06T11:10:00+08:00", "headline_en": "High-speed rail delayed after morning signalling fault"}, {"key": "cityu-ev-battery-reuse-lcgrf-2026", "id": "2026-09-06-cityu-ev-battery-reuse-fund", "first_seen": "2026-09-06T11:11:00+08:00", "headline_en": "CityU team uses green-research grant to reuse retired EV batteries"}, {"key": "lifestyle-hokkien-house-central-sep2026", "id": "2026-09-06-lifestyle-hokkien-house-central", "first_seen": "2026-09-06T09:16:00+08:00", "headline_en": "Fujian chef Levi You opens Hokkien House in Central"}, {"key": "lifestyle-sha-tin-season-opening-2026-27", "id": "2026-09-06-lifestyle-sha-tin-season-opening", "first_seen": "2026-09-06T09:15:00+08:00", "headline_en": "Sha Tin opens the 2026/27 racing season this afternoon"}, {"key": "aberdeen-tunnel-scooter-crash-sep6-2026", "id": "2026-09-06-aberdeen-tunnel-scooter-crash", "first_seen": "2026-09-06T09:14:00+08:00", "headline_en": "Motorcyclist left unconscious after crash at Aberdeen Tunnel exit"}, {"key": "lifestyle-gruffalo-hkapa-sep2026", "id": "2026-09-06-lifestyle-gruffalo-hkapa", "first_seen": "2026-09-06T07:20:00+08:00", "headline_en": "The Gruffalo plays two more shows at APA today"}, {"key": "hk-youth-squash-worlds-2026", "id": "2026-09-06-squash-youth-worlds-new-york", "first_seen": "2026-09-06T07:19:00+08:00", "headline_en": "Hong Kong youth squash team to make world championships debut"}, {"key": "china-masters-hk-mens-singles-final-2026", "id": "2026-09-06-lee-ng-china-masters-final", "first_seen": "2026-09-06T07:18:00+08:00", "headline_en": "Lee Cheuk Yiu and Ng Wing Lun meet in China Masters final"}, {"key": "taxi-overcharge-peak-arrest-sep6-2026", "id": "2026-09-06-taxi-overcharge-peak-arrest", "first_seen": "2026-09-06T03:15:00+08:00", "headline_en": "Police arrest taxi driver for demanding five times the fare to The Peak"}, {"key": "lifestyle-kau-kee-fish-balls-retail", "id": "2026-09-06-lifestyle-kau-kee-fish-balls", "first_seen": "2026-09-06T03:16:00+08:00", "headline_en": "Kau Kee opens first retail shop after 66 years supplying fish balls to eateries"}, {"key": "lifestyle-yu-lan-cultural-festival-2026", "id": "2026-09-06-lifestyle-yu-lan-cultural-festival-final", "first_seen": "2026-09-06T01:10:00+08:00", "headline_en": "Yu Lan Cultural Festival ends today at Victoria Park"}]}
+{
+  "updated_at": "2026-09-06T21:06:07+08:00",
+  "retention_days": 5,
+  "covered": [
+    {
+      "key": "fake-flag-day-scam-hkscda-sep2026",
+      "id": "2026-09-06-fake-flag-day-scam-arrest",
+      "first_seen": "2026-09-06T21:05:00+08:00",
+      "headline_en": "Police arrest 22-year-old over fake flag-day scam for animal charity"
+    },
+    {
+      "key": "airport-t2-display-screens-safe-sep6",
+      "id": "2026-09-06-airport-t2-screens-safe",
+      "first_seen": "2026-09-06T21:06:00+08:00",
+      "headline_en": "Airport clears Terminal 2 overhead screens after safety checks"
+    },
+    {
+      "key": "labour-heatstroke-occupational-disease-sep2026",
+      "id": "2026-09-06-labour-heatstroke-occupational",
+      "first_seen": "2026-09-06T21:07:00+08:00",
+      "headline_en": "Labour chief open to classifying heatstroke as occupational disease"
+    },
+    {
+      "key": "workweek-weather-outlook-sep7-11",
+      "id": "2026-09-06-workweek-weather-outlook",
+      "first_seen": "2026-09-06T15:25:00+08:00",
+      "headline_en": "Work-week outlook: sunny periods and isolated showers, hotter midweek"
+    },
+    {
+      "key": "cycling-fatalities-h1-2026",
+      "id": "2026-09-06-cycling-fatalities-h1",
+      "first_seen": "2026-09-06T15:26:00+08:00",
+      "headline_en": "Fatal cycling accidents more than double in first half of 2026"
+    },
+    {
+      "key": "ka-ying-rising-chief-executive-cup-2026",
+      "id": "2026-09-06-ka-ying-rising-ce-cup-win",
+      "first_seen": "2026-09-06T15:27:00+08:00",
+      "headline_en": "Ka Ying Rising extends winning streak to 21 in Chief Executive’s Cup"
+    },
+    {
+      "key": "csdi-spatial-data-platform-update-sep2026",
+      "id": "2026-09-06-csdi-spatial-data-platform",
+      "first_seen": "2026-09-06T15:28:00+08:00",
+      "headline_en": "Development Bureau highlights spatial data platform with over 1,100 datasets"
+    },
+    {
+      "key": "yuk-kwai-shan-hiker-collapse-sep6-2026",
+      "id": "2026-09-06-yuk-kwai-shan-hiker-collapse",
+      "first_seen": "2026-09-06T13:20:00+08:00",
+      "headline_en": "Elderly hiker collapses on Ap Lei Chau hill, airlifted to hospital"
+    },
+    {
+      "key": "lee-five-year-plan-policy-address-sep6-2026",
+      "id": "2026-09-06-lee-five-year-plan-policy-address",
+      "first_seen": "2026-09-06T13:22:00+08:00",
+      "headline_en": "Lee says five-year plan will lift livelihoods through long-term strategy"
+    },
+    {
+      "key": "hsr-signal-fault-sep6-2026",
+      "id": "2026-09-06-hsr-signal-fault-delays",
+      "first_seen": "2026-09-06T11:10:00+08:00",
+      "headline_en": "High-speed rail delayed after morning signalling fault"
+    },
+    {
+      "key": "cityu-ev-battery-reuse-lcgrf-2026",
+      "id": "2026-09-06-cityu-ev-battery-reuse-fund",
+      "first_seen": "2026-09-06T11:11:00+08:00",
+      "headline_en": "CityU team uses green-research grant to reuse retired EV batteries"
+    },
+    {
+      "key": "lifestyle-hokkien-house-central-sep2026",
+      "id": "2026-09-06-lifestyle-hokkien-house-central",
+      "first_seen": "2026-09-06T09:16:00+08:00",
+      "headline_en": "Fujian chef Levi You opens Hokkien House in Central"
+    },
+    {
+      "key": "lifestyle-sha-tin-season-opening-2026-27",
+      "id": "2026-09-06-lifestyle-sha-tin-season-opening",
+      "first_seen": "2026-09-06T09:15:00+08:00",
+      "headline_en": "Sha Tin opens the 2026/27 racing season this afternoon"
+    },
+    {
+      "key": "aberdeen-tunnel-scooter-crash-sep6-2026",
+      "id": "2026-09-06-aberdeen-tunnel-scooter-crash",
+      "first_seen": "2026-09-06T09:14:00+08:00",
+      "headline_en": "Motorcyclist left unconscious after crash at Aberdeen Tunnel exit"
+    },
+    {
+      "key": "lifestyle-gruffalo-hkapa-sep2026",
+      "id": "2026-09-06-lifestyle-gruffalo-hkapa",
+      "first_seen": "2026-09-06T07:20:00+08:00",
+      "headline_en": "The Gruffalo plays two more shows at APA today"
+    },
+    {
+      "key": "hk-youth-squash-worlds-2026",
+      "id": "2026-09-06-squash-youth-worlds-new-york",
+      "first_seen": "2026-09-06T07:19:00+08:00",
+      "headline_en": "Hong Kong youth squash team to make world championships debut"
+    },
+    {
+      "key": "china-masters-hk-mens-singles-final-2026",
+      "id": "2026-09-06-lee-ng-china-masters-final",
+      "first_seen": "2026-09-06T07:18:00+08:00",
+      "headline_en": "Lee Cheuk Yiu and Ng Wing Lun meet in China Masters final"
+    },
+    {
+      "key": "taxi-overcharge-peak-arrest-sep6-2026",
+      "id": "2026-09-06-taxi-overcharge-peak-arrest",
+      "first_seen": "2026-09-06T03:15:00+08:00",
+      "headline_en": "Police arrest taxi driver for demanding five times the fare to The Peak"
+    },
+    {
+      "key": "lifestyle-kau-kee-fish-balls-retail",
+      "id": "2026-09-06-lifestyle-kau-kee-fish-balls",
+      "first_seen": "2026-09-06T03:16:00+08:00",
+      "headline_en": "Kau Kee opens first retail shop after 66 years supplying fish balls to eateries"
+    },
+    {
+      "key": "lifestyle-yu-lan-cultural-festival-2026",
+      "id": "2026-09-06-lifestyle-yu-lan-cultural-festival-final",
+      "first_seen": "2026-09-06T01:10:00+08:00",
+      "headline_en": "Yu Lan Cultural Festival ends today at Victoria Park"
+    }
+  ]
+}
