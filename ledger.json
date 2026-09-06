@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-06T09:17:20+08:00",
+  "updated_at": "2026-09-06T09:16:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-hokkien-house-central-sep2026",
+      "id": "2026-09-06-lifestyle-hokkien-house-central",
+      "first_seen": "2026-09-06T09:16:00+08:00",
+      "headline_en": "Fujian chef Levi You opens Hokkien House in Central"
+    },
+    {
+      "key": "lifestyle-sha-tin-season-opening-2026-27",
+      "id": "2026-09-06-lifestyle-sha-tin-season-opening",
+      "first_seen": "2026-09-06T09:15:00+08:00",
+      "headline_en": "Sha Tin opens the 2026/27 racing season this afternoon"
+    },
+    {
+      "key": "aberdeen-tunnel-scooter-crash-sep6-2026",
+      "id": "2026-09-06-aberdeen-tunnel-scooter-crash",
+      "first_seen": "2026-09-06T09:14:00+08:00",
+      "headline_en": "Motorcyclist left unconscious after crash at Aberdeen Tunnel exit"
+    },
     {
       "key": "lifestyle-gruffalo-hkapa-sep2026",
       "id": "2026-09-06-lifestyle-gruffalo-hkapa",
