@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-06T23:08:21+08:00",
+  "updated_at": "2026-09-06T23:12:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "yuk-kwai-shan-hiker-death-sep6-2026",
+      "id": "2026-09-06-yuk-kwai-shan-hiker-death",
+      "first_seen": "2026-09-06T23:08:00+08:00",
+      "headline_en": "72-year-old hiker dies after collapse on Ap Lei Chau’s Yuk Kwai Shan"
+    },
+    {
+      "key": "po-pin-chau-booking-noshow-review-sep2026",
+      "id": "2026-09-06-po-pin-chau-booking-noshow",
+      "first_seen": "2026-09-06T23:09:00+08:00",
+      "headline_en": "AFCD to review Po Pin Chau trail booking after high no-show rate"
+    },
+    {
+      "key": "afcd-dog-leash-enforcement-sep2026",
+      "id": "2026-09-06-afcd-dog-leash-enforcement",
+      "first_seen": "2026-09-06T23:10:00+08:00",
+      "headline_en": "AFCD finds three cases of large dogs without proper leashes in special operation"
+    },
+    {
+      "key": "lam-tin-kai-tin-salt-water-pipe-sep6",
+      "id": "2026-09-06-lam-tin-salt-water-pipe",
+      "first_seen": "2026-09-06T23:11:00+08:00",
+      "headline_en": "Salt-water pipe leaks near Kai Tin Shopping Centre in Lam Tin"
+    },
     {
       "key": "fake-flag-day-scam-hkscda-sep2026",
       "id": "2026-09-06-fake-flag-day-scam-arrest",
