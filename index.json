@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-06T09:18:34+08:00",
+  "generated_at": "2026-09-06T11:13:21+08:00",
   "live_window_hours": 72,
-  "count": 69,
+  "count": 68,
   "articles": [
+    {
+      "id": "2026-09-06-cityu-ev-battery-reuse-fund",
+      "published_at": "2026-09-06T11:11:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "innovation",
+        "university",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-06/2026-09-06-cityu-ev-battery-reuse-fund.json",
+      "en": {
+        "headline": "CityU team uses green-research grant to reuse retired EV batteries",
+        "dek": "Professor Chung Shu-hung's group received HK$6.7 million from the Low Carbon Green Research Fund to develop a smart power conditioner for second-life electric-vehicle batteries."
+      },
+      "zh": {
+        "headline": "城大獲綠色科研基金研退役電動車電池再利用",
+        "dek": "電機工程學系鍾樹鴻教授團隊獲環境及生態局低碳綠色科研基金撥款六百七十萬元，研發智能功率調節器，讓退役電動車電池作一般供電。"
+      }
+    },
+    {
+      "id": "2026-09-06-hsr-signal-fault-delays",
+      "published_at": "2026-09-06T11:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "mtr",
+        "rail",
+        "traffic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-06/2026-09-06-hsr-signal-fault-delays.json",
+      "en": {
+        "headline": "High-speed rail delayed after morning signalling fault",
+        "dek": "The Transport Department said MTR reported a signalling fault shortly after 8am; at least 14 trains from West Kowloon were delayed before the operator said the fault had been cleared."
+      },
+      "zh": {
+        "headline": "高鐵今晨信號故障 西九龍多班列車延誤",
+        "dek": "運輸署早上約八時二十七分接獲港鐵通知，高鐵因信號故障延誤；12306顯示至少十四班由西九龍開出的列車受影響，其後港鐵指故障已處理。"
+      }
+    },
     {
       "id": "2026-09-06-lifestyle-hokkien-house-central",
       "published_at": "2026-09-06T09:16:00+08:00",
@@ -1431,68 +1475,6 @@
       "zh": {
         "headline": "沙德爾移入廣東東部內陸 一號戒備信號維持",
         "dek": "下午1時熱帶風暴沙德爾位於本港東北約330公里，預料向西橫過廣東東部內陸並逐漸減弱。"
-      }
-    },
-    {
-      "id": "2026-09-03-lifestyle-future-threads-fashion-walk",
-      "published_at": "2026-09-03T11:07:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events",
-        "fashion"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-03/2026-09-03-lifestyle-future-threads-fashion-walk.json",
-      "en": {
-        "headline": "Italy-Hong Kong menswear show opens today at Fashion Walk",
-        "dek": "Future Threads gathers ten emerging designers from Hong Kong and Italy at a free Causeway Bay exhibition running through 13 September."
-      },
-      "zh": {
-        "headline": "意港男裝展今起銅鑼灣Fashion Walk免費開放",
-        "dek": "香港設計中心聯同意大利國家時裝商會舉辦的「共織新意」今日至9月13日在銅鑼灣展出十個新銳男裝品牌。"
-      }
-    },
-    {
-      "id": "2026-09-03-august-pmi-49-5",
-      "published_at": "2026-09-03T11:06:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-03/2026-09-03-august-pmi-49-5.json",
-      "en": {
-        "headline": "Hong Kong PMI slips to 49.5 in August after three-month rise",
-        "dek": "The S&P Global Hong Kong SAR PMI fell below the 50 mark, pointing to a renewed contraction in private-sector conditions after July's reading of 51.0."
-      },
-      "zh": {
-        "headline": "8月香港PMI回落至49.5 連升三個月後再收縮",
-        "dek": "標普全球香港特區採購經理指數由7月的51.0跌至49.5，顯示私營部門營商環境在連續三個月擴張後再度轉差。"
-      }
-    },
-    {
-      "id": "2026-09-03-war-victory-commemoration",
-      "published_at": "2026-09-03T11:05:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "government",
-        "ceremony"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-03/2026-09-03-war-victory-commemoration.json",
-      "en": {
-        "headline": "Lee attends City Hall ceremony marking victory over Japan",
-        "dek": "The official commemoration of the 81st anniversary of victory in the War of Resistance Against Japanese Aggression was held at 8am at the Hong Kong City Hall Memorial Garden."
-      },
-      "zh": {
-        "headline": "抗戰勝利81周年 李家超出席大會堂紀念儀式",
-        "dek": "特區政府今早8時在香港大會堂紀念花園舉行官方儀式，紀念中國人民抗日戰爭暨世界反法西斯戰爭勝利81周年。"
       }
     }
   ]
