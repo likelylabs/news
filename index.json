@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-09-06T07:13:35+08:00",
+  "generated_at": "2026-09-06T09:17:20+08:00",
   "live_window_hours": 72,
-  "count": 70,
+  "count": 69,
   "articles": [
+    {
+      "id": "2026-09-06-lifestyle-hokkien-house-central",
+      "published_at": "2026-09-06T09:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "food",
+        "central"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-06/2026-09-06-lifestyle-hokkien-house-central.json",
+      "en": {
+        "headline": "Fujian chef Levi You opens Hokkien House in Central",
+        "dek": "The Zhangzhou-born chef-patron, winner of the inaugural Michelin Guide Fujian Young Chef Award, began service on Friday at H Queen's on Queen's Road Central."
+      },
+      "zh": {
+        "headline": "福建年輕廚師游振龍中環開「福上」",
+        "dek": "漳州出生的主廚兼東主上周五在皇后大道中H Queen's二十一樓開業，他是首屆《米芝蓮指南．福建》年輕廚師獎得主。"
+      }
+    },
+    {
+      "id": "2026-09-06-lifestyle-sha-tin-season-opening",
+      "published_at": "2026-09-06T09:15:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "lifestyle",
+        "sport",
+        "sha-tin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-06/2026-09-06-lifestyle-sha-tin-season-opening.json",
+      "en": {
+        "headline": "Sha Tin opens the 2026/27 racing season this afternoon",
+        "dek": "The Jockey Club starts the new season at Sha Tin from 11.15am, with the first of 10 races at 12.30pm; Horse of the Year Ka Ying Rising runs in the Chief Executive's Cup."
+      },
+      "zh": {
+        "headline": "2026/27馬季今日沙田開鑼 嘉應高昇出戰特首盃",
+        "dek": "沙田馬場上午十一時十五分展開開鑼活動，首場下午十二時三十分開跑，共十場；上季馬王嘉應高昇出戰第三場香港特區行政長官盃。"
+      }
+    },
+    {
+      "id": "2026-09-06-aberdeen-tunnel-scooter-crash",
+      "published_at": "2026-09-06T09:14:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "traffic",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-06/2026-09-06-aberdeen-tunnel-scooter-crash.json",
+      "en": {
+        "headline": "Motorcyclist left unconscious after crash at Aberdeen Tunnel exit",
+        "dek": "A man aged about 30 was taken to Queen Mary Hospital after his scooter hit a crash barrier near the tunnel bus interchange early on Sunday; police are investigating."
+      },
+      "zh": {
+        "headline": "香港仔隧道出口綿羊仔撞欄 約30歲鐵騎士昏迷送院",
+        "dek": "今晨約兩時三十五分，一輛綿羊仔駞出香港仔隧道後撞向風琴式防撞欄，鐵騎士昏迷送瑪麗醫院，警方調查原因。"
+      }
+    },
     {
       "id": "2026-09-06-lifestyle-gruffalo-hkapa",
       "published_at": "2026-09-06T07:20:00+08:00",
@@ -1429,100 +1493,6 @@
       "zh": {
         "headline": "抗戰勝利81周年 李家超出席大會堂紀念儀式",
         "dek": "特區政府今早8時在香港大會堂紀念花園舉行官方儀式，紀念中國人民抗日戰爭暨世界反法西斯戰爭勝利81周年。"
-      }
-    },
-    {
-      "id": "2026-09-03-lifestyle-cafe-landmark-reopens",
-      "published_at": "2026-09-03T09:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "restaurant",
-        "food",
-        "central",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-03/2026-09-03-lifestyle-cafe-landmark-reopens.json",
-      "en": {
-        "headline": "Cafe Landmark set to reopen Friday at Landmark Atrium",
-        "dek": "The first-floor balcony restaurant in Central, closed since early July for renovation, returns on 4 September after more than two decades on the atrium."
-      },
-      "zh": {
-        "headline": "置地廣場Cafe Landmark周五重開",
-        "dek": "中環置地廣場中庭一樓露台餐廳総初因翻新停業，營運商美心集團早前確認保留原名，定於9月4日重新開業。"
-      }
-    },
-    {
-      "id": "2026-09-03-mtr-tuen-mun-a16-phase2-bids",
-      "published_at": "2026-09-03T09:10:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "housing",
-        "transport",
-        "economy",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-03/2026-09-03-mtr-tuen-mun-a16-phase2-bids.json",
-      "en": {
-        "headline": "MTR receives four bids for Tuen Mun Area 16 Phase 2",
-        "dek": "Tendering closed on Wednesday for the large railway-topside scheme beside the future Tuen Mun South Extension station, with results to be announced later."
-      },
-      "zh": {
-        "headline": "港鐵屯門第16區站第二期收四份標書",
-        "dek": "毗鄰興建中屯門南延絲第16區站的大型上蓋項目周三截標，港鐵稱稍後公布結果，市場估計項目可提供約5,510伙。"
-      }
-    },
-    {
-      "id": "2026-09-03-dh-unregistered-injections-arrests",
-      "published_at": "2026-09-03T09:09:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "department-of-health",
-        "dh",
-        "police",
-        "vaccines",
-        "enforcement"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-03/2026-09-03-dh-unregistered-injections-arrests.json",
-      "en": {
-        "headline": "DH and police arrest two after seizing unregistered injections",
-        "dek": "Health officials said more than 50 suspected unregistered injections were taken from over 13 premises in a joint operation tied to advertised multi-cancer WT1 shots."
-      },
-      "zh": {
-        "headline": "衞生署聯同警方拘兩人 檢逾50支未註冊針劑",
-        "dek": "衞生署表示，就有醫療中心宣傳可預防多種癌症的WT1針劑，聯同警方搜查逾13個處所，檢獲50多支懸疑未經註冊注射劑，兩人被捕。"
-      }
-    },
-    {
-      "id": "2026-09-03-t1-saudel-thursday-8am",
-      "published_at": "2026-09-03T09:08:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "tropical-cyclone",
-        "saudel",
-        "observatory",
-        "hko",
-        "forecast"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-03/2026-09-03-t1-saudel-thursday-8am.json",
-      "en": {
-        "headline": "Saudel makes landfall in Fujian; Signal No. 1 stays today",
-        "dek": "The Observatory said Tropical Storm Saudel had made landfall over Zhangzhou and at 8am was about 370 kilometres east-northeast of Hong Kong, with Signal No. 1 remaining in force."
-      },
-      "zh": {
-        "headline": "沙德爾登陸漳州 一號戒備信號今日維持",
-        "dek": "天文台早上7時45分公布，熱帶風暴沙德爾已登陸福建漳州，上午8時位於本港東北偏東約370公里，一號戒備信號繼續生效。"
       }
     }
   ]
