@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T23:10:56+08:00",
+  "generated_at": "2026-09-07T06:11:52+08:00",
   "live_window_hours": 72,
-  "count": 74,
+  "count": 69,
   "articles": [
     {
       "id": "2026-09-06-lam-tin-salt-water-pipe",
@@ -1487,116 +1487,6 @@
       "zh": {
         "headline": "領航星號取消今年剩下香港航次 調往東南亞",
         "dek": "麗星郵輪因區域部署變動，取消領航星號原定9月30日至11月15日由尖沙嘴海運碼頭出發的17個航次，改由新加坡及馬來西亞出發。"
-      }
-    },
-    {
-      "id": "2026-09-04-lifestyle-silence-wang-kai-tak",
-      "published_at": "2026-09-04T03:16:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events",
-        "music",
-        "kai-tak"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-lifestyle-silence-wang-kai-tak.json",
-      "en": {
-        "headline": "Silence Wang opens three-night Kai Tak Stadium residency tonight",
-        "dek": "Mainland singer-songwriter Wang Sulong begins his Age of Romance world tour Hong Kong stop with the first of three shows at the new stadium, featuring a large-scale stage production."
-      },
-      "zh": {
-        "headline": "汪蘇瀧今晚啟德體育場展開三場演唱會",
-        "dek": "內地歌手汪蘇瀧「明日世界」世界巡迴演唱會香港站今晚起一連三晚於啟德體育場舉行，舞台製作包括巨型機械人及大型升降螢幕。"
-      }
-    },
-    {
-      "id": "2026-09-04-cnbc-closes-hk-office",
-      "published_at": "2026-09-04T03:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "media",
-        "technology"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-cnbc-closes-hk-office.json",
-      "en": {
-        "headline": "CNBC to close Hong Kong office and drop several shows",
-        "dek": "The business channel is shutting its Hong Kong operations as part of a programming overhaul, with coverage of the city and region to continue from other Asian bureaux."
-      },
-      "zh": {
-        "headline": "CNBC關閉香港辦事處 停播多個直播節目",
-        "dek": "財經頻道確認關閉香港辦公室並調整節目，香港及地區報道將繼續由其他亞洲分社負責。"
-      }
-    },
-    {
-      "id": "2026-09-04-moonshot-ai-hk-ipo",
-      "published_at": "2026-09-04T00:40:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "technology",
-        "ipo",
-        "ai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-moonshot-ai-hk-ipo.json",
-      "en": {
-        "headline": "Moonshot AI files confidentially for Hong Kong IPO",
-        "dek": "The Beijing developer of the Kimi large language model has submitted a confidential listing application and is said to be targeting about US$3 billion in proceeds."
-      },
-      "zh": {
-        "headline": "月之暗面Moonshot秘密遞表申請香港上市",
-        "dek": "開發Kimi大語言模型的北京初創據報已向港交所提交保密申請，目標集資約30億美元。"
-      }
-    },
-    {
-      "id": "2026-09-04-pol-leung-kuk-contest-cancelled",
-      "published_at": "2026-09-04T00:39:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "education",
-        "charity"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-pol-leung-kuk-contest-cancelled.json",
-      "en": {
-        "headline": "Po Leung Kuk scraps student eco-bag contest after outcry",
-        "dek": "The charity cancelled its “From Martial Love to Love” design competition for primary pupils after public criticism that the theme risked normalising domestic violence."
-      },
-      "zh": {
-        "headline": "保良局取消「從武愛到有愛」環保袋比賽",
-        "dek": "活動宣傳以「七大家暴武器」為題引發網民批評美化家暴，保良局周四宣布取消比賽並刪除相關帖文。"
-      }
-    },
-    {
-      "id": "2026-09-04-t1-saudel-cancelled",
-      "published_at": "2026-09-04T00:38:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "tropical-cyclone",
-        "saudel",
-        "observatory",
-        "hko"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-t1-saudel-cancelled.json",
-      "en": {
-        "headline": "All tropical cyclone signals cancelled as Saudel weakens",
-        "dek": "The Hong Kong Observatory cancelled every tropical cyclone warning signal at 12.10am after Tropical Depression Saudel weakened into a low-pressure area over inland Guangdong."
-      },
-      "zh": {
-        "headline": "沙德爾減弱為低壓區 所有熱帶氣旋警告信號取消",
-        "dek": "天文台於凌晨12時10分取消所有熱帶氣旋警告信號，熱帶低氣壓沙德爾已在廣東內陸減弱為低壓區。"
       }
     }
   ]
