@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-06T09:18:34+08:00",
+  "updated_at": "2026-09-06T11:12:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "hsr-signal-fault-sep6-2026",
+      "id": "2026-09-06-hsr-signal-fault-delays",
+      "first_seen": "2026-09-06T11:10:00+08:00",
+      "headline_en": "High-speed rail delayed after morning signalling fault"
+    },
+    {
+      "key": "cityu-ev-battery-reuse-lcgrf-2026",
+      "id": "2026-09-06-cityu-ev-battery-reuse-fund",
+      "first_seen": "2026-09-06T11:11:00+08:00",
+      "headline_en": "CityU team uses green-research grant to reuse retired EV batteries"
+    },
     {
       "key": "lifestyle-hokkien-house-central-sep2026",
       "id": "2026-09-06-lifestyle-hokkien-house-central",
