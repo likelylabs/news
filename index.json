@@ -1,8 +1,138 @@
 {
-  "generated_at": "2026-09-07T06:11:52+08:00",
+  "generated_at": "2026-09-07T07:11:03+08:00",
   "live_window_hours": 72,
-  "count": 69,
+  "count": 75,
   "articles": [
+    {
+      "id": "2026-09-07-lifestyle-cats-final-week",
+      "published_at": "2026-09-07T07:17:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-07/2026-09-07-lifestyle-cats-final-week.json",
+      "en": {
+        "headline": "Cats plays its last added week at Xiqu Centre through Sunday",
+        "dek": "West Kowloon’s Grand Theatre hosts final extra performances of the Andrew Lloyd Webber musical from Tuesday to 13 September, after the Hong Kong run was extended twice."
+      },
+      "zh": {
+        "headline": "音樂劇《貓》戲曲中心終極加場 演至周日",
+        "dek": "西九文化區戲曲中心大劇院由周二起至9月13日加開《貓》最後一輪場次，香港站已兩度延長，周一休演。"
+      }
+    },
+    {
+      "id": "2026-09-07-lifestyle-green-week-opens",
+      "published_at": "2026-09-07T07:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "events",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-07/2026-09-07-lifestyle-green-week-opens.json",
+      "en": {
+        "headline": "Hong Kong Green Week opens today with five days of sustainability forums",
+        "dek": "The third edition of the HKMA-coordinated programme runs from 7 to 11 September under the theme Future-proofing Sustainable Growth, starting with a full-day green-finance forum in Wan Chai."
+      },
+      "zh": {
+        "headline": "第三屆香港綠色周今日展開 一連五日討論可持續發展",
+        "dek": "由金管局統籌的香港綠色周今日至周五舉行，主題為「賦能未來・共築可持續發展」，周一主場是灣仔的綠色金融論壇。"
+      }
+    },
+    {
+      "id": "2026-09-07-jakarta-flights-volcano",
+      "published_at": "2026-09-07T07:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "airport",
+        "aviation",
+        "travel"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-07/2026-09-07-jakarta-flights-volcano.json",
+      "en": {
+        "headline": "Seven Hong Kong–Jakarta flights cancelled after Indonesian volcano eruption",
+        "dek": "The Airport Authority said at least seven services between the two cities were cancelled by Sunday afternoon after ash from Anak Krakatau closed Jakarta’s main airport."
+      },
+      "zh": {
+        "headline": "印尼火山噴發 至少七班香港雅加達航班取消",
+        "dek": "機管局表示，截至周日下午三時，往來香港與雅加達最少七班航班因喀拉喀托之子火山噴發取消，國泰及印尼鷹航亦取消周日及周一部分班次。"
+      }
+    },
+    {
+      "id": "2026-09-07-belt-road-summit-preview",
+      "published_at": "2026-09-07T07:14:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "economy",
+        "trade",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-07/2026-09-07-belt-road-summit-preview.json",
+      "en": {
+        "headline": "Belt and Road Summit opens Wednesday with new Go Global chapter",
+        "dek": "Financial Secretary Paul Chan said the two-day Wan Chai gathering will add a session to help mainland firms expand overseas, as Hong Kong hosts the 11th edition of the event."
+      },
+      "zh": {
+        "headline": "一帶一路高峰論壇周三開幕 首設「走出去」環節",
+        "dek": "財政司司長陳茂波周日在網誌表示，第十一屆一帶一路高峰論壇本周三至四在灣仔會展舉行，首次增設協助內地企業出海的專題環節。"
+      }
+    },
+    {
+      "id": "2026-09-07-happy-valley-boy-collapse",
+      "published_at": "2026-09-07T07:13:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "health",
+        "hospital"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-07/2026-09-07-happy-valley-boy-collapse.json",
+      "en": {
+        "headline": "10-year-old boy dies after collapsing at home in Happy Valley",
+        "dek": "Police were called to a Happy Valley flat on Sunday evening after a child was found unconscious; he was certified dead at Ruttonjee Hospital and the cause of death is pending autopsy."
+      },
+      "zh": {
+        "headline": "跑馬地10歲男童家中暈倒 送院後不治",
+        "dek": "警方周日傍晚接報，跑馬地黃泥涌道一個單位有男童懷疑暈倒，男童昏迷送往律敦治醫院後證實死亡，死因有待驗屍確定。"
+      }
+    },
+    {
+      "id": "2026-09-07-kmb-sai-kung-cyclists",
+      "published_at": "2026-09-07T07:12:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "traffic",
+        "sai-kung",
+        "safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-07/2026-09-07-kmb-sai-kung-cyclists.json",
+      "en": {
+        "headline": "KMB suspends driver after staff car hits two cyclists in Sai Kung",
+        "dek": "A Kowloon Motor Bus field car crossed the line on Tai Mong Tsai Road on Sunday morning, injuring two men on bicycles; police classed the case as a traffic accident with injury."
+      },
+      "zh": {
+        "headline": "西貢九巴外勤車撞兩單車 司機被暫停駕駛職務",
+        "dek": "九巴一輛外勤私家車周日早上在大網仔路越線，撞傷兩名騎單車男子；警方列交通意外有人受傷，九巴稱已暫停涉事司機駕駛職務。"
+      }
+    },
     {
       "id": "2026-09-06-lam-tin-salt-water-pipe",
       "published_at": "2026-09-06T23:11:00+08:00",
