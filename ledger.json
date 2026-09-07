@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T21:31:37+08:00",
+  "updated_at": "2026-09-07T23:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -49,6 +49,18 @@
       "id": "2026-09-07-hkstp-co-create-summit",
       "first_seen": "2026-09-07T21:34:00+08:00",
       "headline_en": "Science Park launches first co-create co-invest summit and fund investments"
+    },
+    {
+      "key": "customs-airport-drugs-sep6-2026",
+      "id": "2026-09-07-customs-airport-drugs-sep6",
+      "first_seen": "2026-09-07T23:10:00+08:00",
+      "headline_en": "Customs seizes 23.5kg of drugs from two passengers at airport"
+    },
+    {
+      "key": "kwai-chung-hua-jie-ice-room-mouse-2026",
+      "id": "2026-09-07-kwai-chung-ice-room-mouse",
+      "first_seen": "2026-09-07T23:11:00+08:00",
+      "headline_en": "FEHD prosecutes Kwai Chung café over hygiene after live mouse in takeaway"
     }
   ]
 }
