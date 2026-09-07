@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T23:09:12+08:00",
+  "updated_at": "2026-09-08T01:13:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -61,6 +61,24 @@
       "id": "2026-09-07-kwai-chung-ice-room-mouse",
       "first_seen": "2026-09-07T23:11:00+08:00",
       "headline_en": "FEHD prosecutes Kwai Chung café over hygiene after live mouse in takeaway"
+    },
+    {
+      "key": "customs-lo-wu-crickets-cockroaches-sep2026",
+      "id": "2026-09-08-customs-lo-wu-insects",
+      "first_seen": "2026-09-08T01:10:00+08:00",
+      "headline_en": "Customs seizes 200 live crickets and 13kg of cockroaches at Lo Wu"
+    },
+    {
+      "key": "wang-fuk-fire-contractors-hearing-postponed-sep2026",
+      "id": "2026-09-08-wang-fuk-contractors-hearing-postponed",
+      "first_seen": "2026-09-08T01:11:00+08:00",
+      "headline_en": "Disciplinary hearings for Wang Fuk Court fire contractors postponed"
+    },
+    {
+      "key": "lifestyle-cavalluna-kai-tak-sep2026",
+      "id": "2026-09-08-lifestyle-cavalluna-kai-tak",
+      "first_seen": "2026-09-08T01:12:00+08:00",
+      "headline_en": "Cavalluna equestrian show opens tonight at Kai Tak Arena"
     }
   ]
 }
