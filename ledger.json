@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T06:55:28+08:00",
+  "updated_at": "2026-09-08T07:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -79,6 +79,36 @@
       "id": "2026-09-08-lifestyle-cavalluna-kai-tak",
       "first_seen": "2026-09-08T01:12:00+08:00",
       "headline_en": "Cavalluna equestrian show opens tonight at Kai Tak Arena"
+    },
+    {
+      "key": "hzmb-smart-pass-dec2026",
+      "id": "2026-09-08-hzmb-smart-pass-dec",
+      "first_seen": "2026-09-08T07:06:00+08:00",
+      "headline_en": "Reports: HZMB Hong Kong Port to trial in-car clearance in December"
+    },
+    {
+      "key": "yau-ma-tei-mercedes-reckless-driving-sep7",
+      "id": "2026-09-08-yau-ma-tei-reckless-driving",
+      "first_seen": "2026-09-08T07:07:00+08:00",
+      "headline_en": "Police seek two men after Yau Ma Tei car hits three vehicles"
+    },
+    {
+      "key": "crhk-am864-ca-fine-2026",
+      "id": "2026-09-08-crhk-am864-ca-fine",
+      "first_seen": "2026-09-08T07:08:00+08:00",
+      "headline_en": "Communications Authority fines Commercial Radio HK$120,000"
+    },
+    {
+      "key": "hkma-taxonomy-phase-2b-consultation",
+      "id": "2026-09-08-hkma-taxonomy-2b",
+      "first_seen": "2026-09-08T07:09:00+08:00",
+      "headline_en": "HKMA consults on next phase of sustainable finance taxonomy"
+    },
+    {
+      "key": "lifestyle-ultraman-incubase-closes",
+      "id": "2026-09-08-lifestyle-ultraman-incubase",
+      "first_seen": "2026-09-08T07:10:00+08:00",
+      "headline_en": "Ultraman 60th-anniversary exhibition in Mong Kok ends Sunday"
     }
   ]
 }
