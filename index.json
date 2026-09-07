@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-07T09:11:39+08:00",
+  "generated_at": "2026-09-07T13:06:00+08:00",
   "live_window_hours": 72,
-  "count": 76,
+  "count": 73,
   "articles": [
+    {
+      "id": "2026-09-07-galaxy-robot-stores",
+      "published_at": "2026-09-07T13:07:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "business",
+        "innovation",
+        "retail"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-07/2026-09-07-galaxy-robot-stores.json",
+      "en": {
+        "headline": "Beijing robotics firm plans dozens more autonomous retail stores in Hong Kong",
+        "dek": "Galaxy Universal, which already operates fully autonomous shops in Kai Tak, Hung Hom and Wan Chai, aims to expand into tourist areas including theme parks."
+      },
+      "zh": {
+        "headline": "銀河通用擬在港增設數十家全自主機器人零售店",
+        "dek": "公司已在啟德、紅磡及灣仔開業，計劃拓展至人流密集區及主題樂園，並增加產品種類。"
+      }
+    },
+    {
+      "id": "2026-09-07-tse-beijing-apec-energy",
+      "published_at": "2026-09-07T13:06:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "government",
+        "environment",
+        "energy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-07/2026-09-07-tse-beijing-apec-energy.json",
+      "en": {
+        "headline": "Environment secretary heads to Beijing for APEC energy ministers’ meeting",
+        "dek": "Tse Chin-wan will also meet officials from the Ministry of Ecology and Environment and the National Energy Administration during the five-day visit."
+      },
+      "zh": {
+        "headline": "謝展寰赴京出席APEC能源部長會議",
+        "dek": "環境及生態局局長今午啓程，期間將與生態環境部及國家能源局官員會面，周五返港。"
+      }
+    },
+    {
+      "id": "2026-09-07-didi-av-tseung-kwan-o",
+      "published_at": "2026-09-07T13:05:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "transport",
+        "autonomous",
+        "innovation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-07/2026-09-07-didi-av-tseung-kwan-o.json",
+      "en": {
+        "headline": "Didi plans autonomous vehicle tests in Tseung Kwan O this year",
+        "dek": "A government adviser said the mainland ride-hailing firm will apply for a pilot licence, with initial trials likely starting in the industrial estate."
+      },
+      "zh": {
+        "headline": "滴滴擬今年申請將軍澳無人駕駛測試牌照",
+        "dek": "運輸署工作組成員表示，內地網約車巨頭擬申請自動車先導牌照，初步測試或先於工業邨展開。"
+      }
+    },
     {
       "id": "2026-09-07-lifestyle-wears-hk",
       "published_at": "2026-09-07T09:10:00+08:00",
@@ -1512,138 +1578,6 @@
       "zh": {
         "headline": "國泰取消往返迪拜及利雅得航班至11月底",
         "dek": "國泰航空表示，因應中東最新事態發展，往返迪拜及利雅得的客運航班將取消至2026年11月30日，受影響旅客可免費改期、改道或退款。"
-      }
-    },
-    {
-      "id": "2026-09-04-lifestyle-ned-ecology-exhibition",
-      "published_at": "2026-09-04T11:20:00+08:00",
-      "updated_at": "2026-09-04T11:28:00+08:00",
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "exhibition",
-        "events",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-lifestyle-ned-ecology-exhibition.json",
-      "en": {
-        "headline": "National Ecology Day exhibition runs through Sunday in Kwun Tong",
-        "dek": "The Countryside Conservation Office’s free show at the East Kowloon Cultural Centre, combining Mirs Bay photography, village stories and live countryside music, is scheduled to close on 6 September."
-      },
-      "zh": {
-        "headline": "全國生態日專題展觀塘續開至周日",
-        "dek": "鄉郊保育辦事處在東九文化中心「隅」舉辦的免費展覽結合印洲塘影像、鄉村故事及鄉郊音樂，展期至九月六日。"
-      }
-    },
-    {
-      "id": "2026-09-04-william-wong-four-charges",
-      "published_at": "2026-09-04T11:19:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "courts",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-william-wong-four-charges.json",
-      "en": {
-        "headline": "Ex-lawmaker Wong Kam-fai faces four driving charges next week",
-        "dek": "Police have charged former legislator Wong Kam-fai with drink-driving and related offences over a June collision at the CUHK campus; he appears at Sha Tin Magistrates’ Courts on 9 September."
-      },
-      "zh": {
-        "headline": "前議員黃錦輝被控酒駕等四罪 下周三提堂",
-        "dek": "警方已就六月中大校園交通意外向立法會前議員黃錦輝落案起訴酒後駕駛等四項控罪，案件下周三在沙田裁判法院提堂。"
-      }
-    },
-    {
-      "id": "2026-09-04-weekend-weather-outlook",
-      "published_at": "2026-09-04T11:18:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "observatory",
-        "hko",
-        "weekend"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-weekend-weather-outlook.json",
-      "en": {
-        "headline": "Weekend outlook: cloudy with showers after Saudel fades",
-        "dek": "The Hong Kong Observatory expects mainly cloudy skies with isolated showers and sunny intervals on Saturday and Sunday, with highs around 31 degrees after tropical cyclone signals were cancelled overnight."
-      },
-      "zh": {
-        "headline": "周末展望：沙德爾消散後多雲有驟雨",
-        "dek": "天文台預料周六及周日大致多雲，有一兩陣驟雨，日間間中有陽光，最高氣溫約31度；本港已於凌晨取消所有熱帶氣旋警告信號。"
-      }
-    },
-    {
-      "id": "2026-09-04-festival-of-connoisseurs-nov",
-      "published_at": "2026-09-04T09:18:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "tourism",
-        "events",
-        "trade"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-festival-of-connoisseurs-nov.json",
-      "en": {
-        "headline": "Luxury Festival of Connoisseurs slated for November debut",
-        "dek": "Informa Markets and the Hong Kong Tourism Board plan the first Festival of Connoisseurs this November, with a larger edition scheduled for 2027."
-      },
-      "zh": {
-        "headline": "鑑賞家盛典擬11月首辦",
-        "dek": "Informa Markets與旅發局計劃今年11月在港首辦「鑑賞家盛典」，2027年再擴大規模。"
-      }
-    },
-    {
-      "id": "2026-09-04-lifestyle-chiikawa-artiverse-closes",
-      "published_at": "2026-09-04T09:17:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "exhibition",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-lifestyle-chiikawa-artiverse-closes.json",
-      "en": {
-        "headline": "Chiikawa Artiverse at K11 Musea runs through Sunday",
-        "dek": "The character exhibition at K11 Musea and the Tsim Sha Tsui harbourfront, including an outdoor carousel installation, is scheduled to end on 6 September."
-      },
-      "zh": {
-        "headline": "吉伊卡哇藝術宇宙特展周日完結",
-        "dek": "K11 Musea及尖沙咀海濰的吉伊卡哇特展連戶外迴旋木馬裝置，據場地及旅發局資料將於9月6日結束。"
-      }
-    },
-    {
-      "id": "2026-09-04-nias-three-projects",
-      "published_at": "2026-09-04T09:16:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "innovation",
-        "business",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-nias-three-projects.json",
-      "en": {
-        "headline": "ITC backs three smart-factory projects under acceleration scheme",
-        "dek": "The Innovation and Technology Commission said a vetting committee had supported in principle three applications covering health products, semiconductor memory and construction prefabrication."
-      },
-      "zh": {
-        "headline": "創科署原則支持三宗新型工業加速計劃申請",
-        "dek": "創新科技署表示，評審委員會原則上支持三宗申請，涵蓋保健品、半導體記憶體及建造預製加工設施。"
       }
     }
   ]
