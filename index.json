@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-09-07T23:09:12+08:00",
+  "generated_at": "2026-09-08T01:07:06+08:00",
   "live_window_hours": 72,
-  "count": 73,
+  "count": 72,
   "articles": [
+    {
+      "id": "2026-09-08-lifestyle-cavalluna-kai-tak",
+      "published_at": "2026-09-08T01:12:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events",
+        "performance",
+        "family"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-08/2026-09-08-lifestyle-cavalluna-kai-tak.json",
+      "en": {
+        "headline": "Cavalluna equestrian show opens tonight at Kai Tak Arena",
+        "dek": "Europe’s large-scale horse theatre production makes its Asian debut with eight performances through 13 September, presented with the Hong Kong Jockey Club."
+      },
+      "zh": {
+        "headline": "歐洲馬術劇場Cavalluna今晚啟德首演",
+        "dek": "大型馬術劇場《Cavalluna – 通往異世界之門》今晚起在啟德體藝館上演，一連五天共八場，為其亞洲首演。"
+      }
+    },
+    {
+      "id": "2026-09-08-wang-fuk-contractors-hearing-postponed",
+      "published_at": "2026-09-08T01:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "fire",
+        "government",
+        "court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-08/2026-09-08-wang-fuk-contractors-hearing-postponed.json",
+      "en": {
+        "headline": "Disciplinary hearings for Wang Fuk Court fire contractors postponed",
+        "dek": "The Fire Services Department said the Registered Fire Service Installation Contractors Disciplinary Board has deferred the hearings against two companies linked to the Tai Po blaze."
+      },
+      "zh": {
+        "headline": "宏福苑兩消防承辦商紀律聆訊押後至另行通知",
+        "dek": "消防處公布，原定周五就宏福苑大火兩間涉事消防裝置承辦商進行的紀律聆訊已獲委員會接納押後。"
+      }
+    },
+    {
+      "id": "2026-09-08-customs-lo-wu-insects",
+      "published_at": "2026-09-08T01:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "customs",
+        "border",
+        "animals"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-08/2026-09-08-customs-lo-wu-insects.json",
+      "en": {
+        "headline": "Customs seizes 200 live crickets and 13kg of cockroaches at Lo Wu",
+        "dek": "Two travellers were arrested after officers found the insects, commonly used as pet feed, in their baggage at the border checkpoint over the weekend."
+      },
+      "zh": {
+        "headline": "海關羅湖檢200隻活蟋蟀及13公斤蟑螂 拘兩旅客",
+        "dek": "海關周末在羅湖管制站截獲兩名旅客，行李內分別藏有活體蟋蟀及杜比亞蟑螂，估計市值共約5,900元，兩人已被捕。"
+      }
+    },
     {
       "id": "2026-09-07-kwai-chung-ice-room-mouse",
       "published_at": "2026-09-07T23:11:00+08:00",
@@ -1491,94 +1558,6 @@
       "zh": {
         "headline": "百佳「鬼工」詐騙案五人認罪 涉款逾320萬",
         "dek": "廉署指前超市及承辦商職員用相同打卡機偽造13名從未上班工人的出勤紀錄，騙取工資逾320萬元；案件押後至明年3月判刑。"
-      }
-    },
-    {
-      "id": "2026-09-04-hkma-contactless-binding-scams",
-      "published_at": "2026-09-04T23:23:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "scams",
-        "banking",
-        "hkma"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-hkma-contactless-binding-scams.json",
-      "en": {
-        "headline": "HKMA flags about 400 cases of unauthorised contactless payment-card binding",
-        "dek": "Fraudsters use phishing messages, fake sites or calls to obtain card details and PINs, then coax victims into approving binding requests so they can make unauthorised transactions."
-      },
-      "zh": {
-        "headline": "金管局：近期約400宗支付卡被綁定非接觸式流動支付騙案",
-        "dek": "騙徒以釣魚訊息、假網站或電話誘騙取得卡資料及密碼，再誘使受害人批准綁定以便進行未經授權交易。"
-      }
-    },
-    {
-      "id": "2026-09-04-heal-fertility-embryo-investigation",
-      "published_at": "2026-09-04T23:22:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "medical",
-        "fertility",
-        "regulation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-heal-fertility-embryo-investigation.json",
-      "en": {
-        "headline": "Council finds intentional unlawful conduct may have caused Heal Fertility embryo mix-up",
-        "dek": "No embryos were mixed or wrongly implanted; the clinic lacked sufficient protective measures and failed to report the serious event on time, the regulator said."
-      },
-      "zh": {
-        "headline": "希愈胚胎樣本錯配 管理局指或涉個人蓄意不法行為",
-        "dek": "確認無胚胎混淆或錯誤植入；中心防護措施不足且未按時呈報，管理局已要求改善並繼續支援警方調查。"
-      }
-    },
-    {
-      "id": "2026-09-04-pmh-drug-delivery-arrests",
-      "published_at": "2026-09-04T23:21:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "drugs",
-        "police",
-        "hospital"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-pmh-drug-delivery-arrests.json",
-      "en": {
-        "headline": "Four arrested over alleged drug deliveries to Princess Margaret Hospital wards",
-        "dek": "Police say two men delivered narcotics to inpatients after staff found two female patients with suspected dangerous drugs; about HK$20,000 worth of ketamine, heroin and cocaine seized."
-      },
-      "zh": {
-        "headline": "瑪嘉烈醫院病房涉運毒 警拘四男女",
-        "dek": "院方發現兩名女病人藏有懷疑危險藥物，警方揭有人運送毒品入病房，檢獲市值約2萬元氯胺酮、海洛英及可卡因。"
-      }
-    },
-    {
-      "id": "2026-09-04-mtr-tung-chung-track-diversion-phase1",
-      "published_at": "2026-09-04T23:20:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "tung-chung",
-        "rail",
-        "infrastructure"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-mtr-tung-chung-track-diversion-phase1.json",
-      "en": {
-        "headline": "MTR completes first phase of Tung Chung Line track diversion",
-        "dek": "From 13 September, trains leaving Tung Chung for Hong Kong will run on the new section linking to the future Tung Chung East station; journey times and frequencies remain unchanged."
-      },
-      "zh": {
-        "headline": "港鐵東涌綫延線路軌改道首階段完成",
-        "dek": "9月13日起由東涌開出往香港方向列車將改行新路段，接駁未來東涌東站；行車時間及班次維持不變。"
       }
     }
   ]
