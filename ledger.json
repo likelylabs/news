@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T15:19:26+08:00",
+  "updated_at": "2026-09-07T21:35:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -31,6 +31,24 @@
       "id": "2026-09-07-tia-travel-licences-revoked",
       "first_seen": "2026-09-07T15:21:00+08:00",
       "headline_en": "Two travel agencies and guide lose licences over coerced shopping"
+    },
+    {
+      "key": "hkma-foreign-reserves-aug-2026",
+      "id": "2026-09-07-hkma-foreign-reserves-aug",
+      "first_seen": "2026-09-07T21:32:00+08:00",
+      "headline_en": "Hong Kong foreign reserves stand at US$442.9 billion at end-August"
+    },
+    {
+      "key": "airport-3rs-carol-engineering-bribery-plea",
+      "id": "2026-09-07-airport-3rs-bribery-plea",
+      "first_seen": "2026-09-07T21:33:00+08:00",
+      "headline_en": "Subcontractor owner admits bribery over airport third-runway contracts"
+    },
+    {
+      "key": "hkstp-co-create-co-invest-summit-2026",
+      "id": "2026-09-07-hkstp-co-create-summit",
+      "first_seen": "2026-09-07T21:34:00+08:00",
+      "headline_en": "Science Park launches first co-create co-invest summit and fund investments"
     }
   ]
 }
