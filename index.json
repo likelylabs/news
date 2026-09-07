@@ -1,8 +1,119 @@
 {
-  "generated_at": "2026-09-07T07:12:22+08:00",
+  "generated_at": "2026-09-07T09:10:06+08:00",
   "live_window_hours": 72,
-  "count": 74,
+  "count": 76,
   "articles": [
+    {
+      "id": "2026-09-07-lifestyle-wears-hk",
+      "published_at": "2026-09-07T09:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events",
+        "fashion",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-07/2026-09-07-lifestyle-wears-hk.json",
+      "en": {
+        "headline": "Wear’s HK designer pop-ups run through 14 September",
+        "dek": "Twenty Hong Kong fashion labels are showing at six malls and the airport until 14 September, part of the government-backed Hong Kong Fashion Fest."
+      },
+      "zh": {
+        "headline": "時裝薇Wear’s HK快閃店開至本月十四日",
+        "dek": "第三屆香港時裝薇的全城快閃店「Wear’s HK」在六個商場及機場展出20個本地時裝品牌，活動持續至9月14日。"
+      }
+    },
+    {
+      "id": "2026-09-07-lifestyle-tiangong-letters",
+      "published_at": "2026-09-07T09:09:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "education",
+        "schools",
+        "space",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-07/2026-09-07-lifestyle-tiangong-letters.json",
+      "en": {
+        "headline": "Student letters to astronaut Lai Ka-ying close tonight",
+        "dek": "The Education Bureau’s call for letters to Hong Kong payload specialist Lai Ka-ying ends at 11.59pm today, with selected pieces due to be sent to the Tiangong station later this month."
+      },
+      "zh": {
+        "headline": "給黎家盈家書今晚截止 精選作品料月中送上天宮",
+        "dek": "教育局「星河有信‧港夢飛天」家書徵集今日晚上11時59分截止，邀請中小學及大專生致函首位港籍載荷專家黎家盈，精選作品預計本月中呈送天宮空間站。"
+      }
+    },
+    {
+      "id": "2026-09-07-lrt-siu-hong-tracks",
+      "published_at": "2026-09-07T09:08:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "mtr",
+        "rail",
+        "safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-07/2026-09-07-lrt-siu-hong-tracks.json",
+      "en": {
+        "headline": "MTR reports two women on Light Rail tracks at Siu Hong",
+        "dek": "The operator said two women entered the spare platform tracks at Siu Hong Light Rail stop on Friday afternoon and that it has reported the incident to police."
+      },
+      "zh": {
+        "headline": "兩女擅進兆康站輕鐵路軌 港鐵已報警",
+        "dek": "港鐵表示，周五下午有兩名女子擅自進入輕鐵兆康站備用月台路軌範圍，公司已就事件報警，提醒乘客切勿走進路軌。"
+      }
+    },
+    {
+      "id": "2026-09-07-tai-tam-drink-driving",
+      "published_at": "2026-09-07T09:07:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "traffic",
+        "police",
+        "safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-07/2026-09-07-tai-tam-drink-driving.json",
+      "en": {
+        "headline": "British driver arrested after Tai Tam Road crash",
+        "dek": "A 47-year-old man was arrested for drink-driving on Sunday night after his private car struck roadside railings on Tai Tam Road in Stanley."
+      },
+      "zh": {
+        "headline": "大潭道私家車撞欄 英籍司機涉酒駕被捕",
+        "dek": "一輛私家車周日晚上在赤柱大潭道失控撞向路邊欄杆，47歲英籍男司機眼部受傷，酒精呼氣測試不合格後涉嫌酒後駕駛被捕。"
+      }
+    },
+    {
+      "id": "2026-09-07-customs-airport-cannabis",
+      "published_at": "2026-09-07T09:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "airport",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-07/2026-09-07-customs-airport-cannabis.json",
+      "en": {
+        "headline": "Airport cannabis case reaches court after 6kg seizure",
+        "dek": "A 38-year-old mainland passenger arrested at Hong Kong International Airport on Saturday is due at West Kowloon Magistrates’ Courts today on drug-trafficking and poison charges."
+      },
+      "zh": {
+        "headline": "機場檢六公斤懷疑大麻花 內地男今日提堂",
+        "dek": "海關周六在香港國際機場拘捕一名38歲內地男旅客，檢獲約六公斤懷疑大麻花及懷疑第一部毒藥產品，案件今日在西九龍裁判法院提堂。"
+      }
+    },
     {
       "id": "2026-09-07-lifestyle-cats-final-week",
       "published_at": "2026-09-07T07:17:00+08:00",
@@ -1533,70 +1644,6 @@
       "zh": {
         "headline": "創科署原則支持三宗新型工業加速計劃申請",
         "dek": "創新科技署表示，評審委員會原則上支持三宗申請，涵蓋保健品、半導體記憶體及建造預製加工設施。"
-      }
-    },
-    {
-      "id": "2026-09-04-lifestyle-centrestage-final-days",
-      "published_at": "2026-09-04T07:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events",
-        "fashion"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-lifestyle-centrestage-final-days.json",
-      "en": {
-        "headline": "CENTRESTAGE runs through Saturday at the convention centre",
-        "dek": "The 11th edition of the HKTDC fashion fair is open free to adults who pre-register, with about 270 brands from 24 countries and regions on show until 5 September."
-      },
-      "zh": {
-        "headline": "香港國際時尚匯展今明兩日繼續 週六閉幕",
-        "dek": "貿發局主辦的第11屆CENTRESTAGE於會展舉行至9月5日，約370個來自24個國家及地區品牌參展，18歲或以上事先登記可免費入場。"
-      }
-    },
-    {
-      "id": "2026-09-04-lifestyle-hklgff-opens",
-      "published_at": "2026-09-04T07:14:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events",
-        "film"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-lifestyle-hklgff-opens.json",
-      "en": {
-        "headline": "37th Hong Kong Lesbian and Gay Film Festival opens today",
-        "dek": "Asia’s longest-running LGBTQ+ film festival runs until 20 September with 37 features and 38 shorts, grouped by mood rather than genre, at three Broadway Circuit cinemas."
-      },
-      "zh": {
-        "headline": "第37屆香港同志影展今日開幕 放映至20日",
-        "dek": "亞洲歷史最惠久的LGBTQ+影展今年帶來37部長片及38部短片，按心情分類，在百老匯三間戲院放映至9月20日。"
-      }
-    },
-    {
-      "id": "2026-09-04-sfc-private-market-funds-circular",
-      "published_at": "2026-09-04T07:13:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-sfc-private-market-funds-circular.json",
-      "en": {
-        "headline": "SFC tightens disclosure for funds holding private-market assets",
-        "dek": "A circular dated 3 September requires authorised funds with private credit or private equity exposure to spell out how much they hold, how they hold it, and the risks, and may treat heavy exposure as a complex product."
-      },
-      "zh": {
-        "headline": "證監會要求認可基金加強私募市場投資披露",
-        "dek": "證監會周四發出通函，要求投資私募信貸或私募股權的認可基金說明暴露程度、途徑及風險；私募市場資產達淨值五成或以上可被視為複雜產品。"
       }
     }
   ]
