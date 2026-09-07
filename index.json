@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-07T15:19:26+08:00",
+  "generated_at": "2026-09-07T21:31:37+08:00",
   "live_window_hours": 72,
-  "count": 74,
+  "count": 75,
   "articles": [
+    {
+      "id": "2026-09-07-hkstp-co-create-summit",
+      "published_at": "2026-09-07T21:34:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "business",
+        "innovation",
+        "startups"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-07/2026-09-07-hkstp-co-create-summit.json",
+      "en": {
+        "headline": "Science Park launches first co-create co-invest summit and fund investments",
+        "dek": "Hong Kong Science and Technology Parks Corporation opened a six-day event linking founders, investors and industry, and announced the first investments from its HK$500 million co-acceleration fund."
+      },
+      "zh": {
+        "headline": "科技園首辦共創共投峰會 公布5億元基金首批投資",
+        "dek": "香港科技園公司一連六日舉辦共創共投產業加速峰會，並公布共同企業加速基金首批四個投資項目，涵蓋氫能、物聯網及人工智能機械人等。"
+      }
+    },
+    {
+      "id": "2026-09-07-airport-3rs-bribery-plea",
+      "published_at": "2026-09-07T21:33:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "airport",
+        "icac",
+        "court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-07/2026-09-07-airport-3rs-bribery-plea.json",
+      "en": {
+        "headline": "Subcontractor owner admits bribery over airport third-runway contracts",
+        "dek": "The proprietor of Carol Engineering pleaded guilty to five charges involving more than HK$5 million while a former Airport Authority general manager denied a related conspiracy charge and went on trial."
+      },
+      "zh": {
+        "headline": "機場三跑分判商東主認串謀行賄 涉逾500萬元",
+        "dek": "卡樂工程東主吳啟安承認五項行賄罪，涉款逾500萬元；機管局前總經理殷國強否認控罪受審，案件押後至周二。"
+      }
+    },
+    {
+      "id": "2026-09-07-hkma-foreign-reserves-aug",
+      "published_at": "2026-09-07T21:32:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "economy",
+        "hkma",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-07/2026-09-07-hkma-foreign-reserves-aug.json",
+      "en": {
+        "headline": "Hong Kong foreign reserves stand at US$442.9 billion at end-August",
+        "dek": "The Hong Kong Monetary Authority said official foreign currency reserve assets fell from US$447.9 billion at the end of July, remaining equivalent to more than five times the currency in circulation."
+      },
+      "zh": {
+        "headline": "八月底外匯儲備資產4429億美元",
+        "dek": "金管局公布，香港於八月底官方外匯儲備資產為4429億美元，較七月底的4479億美元回落，仍相當於流通貨幣五倍多。"
+      }
+    },
     {
       "id": "2026-09-07-tia-travel-licences-revoked",
       "published_at": "2026-09-07T15:21:00+08:00",
@@ -1555,49 +1621,6 @@
       "zh": {
         "headline": "香港迪士尼樂園酒店10月12日起暫時關閉翻新",
         "dek": "開業以來的維多利亞式酒店將進行全面升級，增加迪士尼電影主題房間；另外兩間度假酒店維持開放。"
-      }
-    },
-    {
-      "id": "2026-09-04-cityu-ocamp-discipline",
-      "published_at": "2026-09-04T15:21:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "university",
-        "discipline"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-cityu-ocamp-discipline.json",
-      "en": {
-        "headline": "CityU says students in orientation-camp incident admitted fault; discipline imposed",
-        "dek": "City University of Hong Kong said students involved in an orientation-camp incident have admitted their mistakes and that its disciplinary committee has imposed penalties; the organising society has been dissolved."
-      },
-      "zh": {
-        "headline": "城大：迎新營涉事學生已承認過失 紀律委員會已作出處分",
-        "dek": "城大表示，涉及迎新營事件的學生已承認過失，紀律委員會已作出紀律處分；主辦幹事會已被學生會解散。"
-      }
-    },
-    {
-      "id": "2026-09-04-ive-tsing-yi-store-fire",
-      "published_at": "2026-09-04T15:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "education",
-        "tsing-yi",
-        "emergency"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-ive-tsing-yi-store-fire.json",
-      "en": {
-        "headline": "Fire at IVE Tsing Yi campus store room; 400 evacuate, none hurt",
-        "dek": "A store room on the ground floor of the Hong Kong Institute of Vocational Education’s Tsing Yi campus caught fire on Friday morning; firefighters extinguished it quickly and about 400 staff and students left the…"
-      },
-      "zh": {
-        "headline": "青衣IVE雜物房起火 約400師生自行疏散無人傷",
-        "dek": "香港專業教育學院青衣分校今早地下雜物房起火，消防迅速救熄，約400名師生自行疏散，無人受傷，起火原因相信無可疑。"
       }
     }
   ]
