@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-07T21:31:37+08:00",
+  "generated_at": "2026-09-07T23:09:12+08:00",
   "live_window_hours": 72,
-  "count": 75,
+  "count": 73,
   "articles": [
+    {
+      "id": "2026-09-07-kwai-chung-ice-room-mouse",
+      "published_at": "2026-09-07T23:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "food",
+        "hygiene",
+        "fehd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-07/2026-09-07-kwai-chung-ice-room-mouse.json",
+      "en": {
+        "headline": "FEHD prosecutes Kwai Chung café over hygiene after live mouse in takeaway",
+        "dek": "The Food and Environmental Hygiene Department inspected a factory canteen in Kwai Chung after a customer reported a live young mouse in a takeaway order and found hygiene shortcomings, leading to an immediate…"
+      },
+      "zh": {
+        "headline": "葵涌冰室外賣現活鼠 食環署指衞生欠佳已檢控",
+        "dek": "食環署接獲投訴指市民在葵涌一間食肆購買的外賣發現懷疑幼鼠後即時巡查，發現部分地方衞生欠佳，已向經營者提出檢控並要求即時改善。"
+      }
+    },
+    {
+      "id": "2026-09-07-customs-airport-drugs-sep6",
+      "published_at": "2026-09-07T23:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "airport",
+        "customs",
+        "drugs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-07/2026-09-07-customs-airport-drugs-sep6.json",
+      "en": {
+        "headline": "Customs seizes 23.5kg of drugs from two passengers at airport",
+        "dek": "Hong Kong Customs arrested a Japanese man and a British man after finding suspected cocaine and ketamine worth about HK$11 million in their baggage on Sunday; both face court on Tuesday."
+      },
+      "zh": {
+        "headline": "海關機場破兩宗販毒案 檢約23.5公斤毒品拘兩男",
+        "dek": "海關周日在香港國際機場檢獲約7.5公斤懷疑可卡因及約16公斤懷疑氯胺酮等，市值約1,100萬元，拘捕一名日本籍及一名英國籍男子，兩人周二提堂。"
+      }
+    },
     {
       "id": "2026-09-07-hkstp-co-create-summit",
       "published_at": "2026-09-07T21:34:00+08:00",
@@ -1535,92 +1579,6 @@
       "zh": {
         "headline": "港鐵東涌綫延線路軌改道首階段完成",
         "dek": "9月13日起由東涌開出往香港方向列車將改行新路段，接駁未來東涌東站；行車時間及班次維持不變。"
-      }
-    },
-    {
-      "id": "2026-09-04-chp-severe-paediatric-flu",
-      "published_at": "2026-09-04T21:43:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "influenza",
-        "chp"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-chp-severe-paediatric-flu.json",
-      "en": {
-        "headline": "CHP records severe paediatric influenza A case; girl in serious condition",
-        "dek": "A 14-year-old girl with underlying illnesses developed severe pneumonia and septic shock; the centre urges early vaccination when the seasonal programme begins on 17 September."
-      },
-      "zh": {
-        "headline": "衛生防護中心錄得一宗嚴重兒童甲型流感個案",
-        "dek": "一名14歲有長期病患的女童出現嚴重肺炎及敗血性休克；中心呼籲9月17日季節性流感疫苗接種計劃展開後盡早接種。"
-      }
-    },
-    {
-      "id": "2026-09-04-cfs-french-cheese-listeria",
-      "published_at": "2026-09-04T21:42:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "food-safety",
-        "cfs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-cfs-french-cheese-listeria.json",
-      "en": {
-        "headline": "CFS urges public not to eat three French cheese batches over Listeria risk",
-        "dek": "Three batches of Brie-style cheese from the Paturages Comtois brand are under recall after a European alert; importers have stopped sales and begun recalls."
-      },
-      "zh": {
-        "headline": "食安中心籲勿食用三批次法國芝士 疑受李斯特菌污染",
-        "dek": "三款Paturages Comtois品牌布里芝士因歐盟警報被回收，入口商已停售並展開回收。"
-      }
-    },
-    {
-      "id": "2026-09-04-silver-bonds-record-subscription",
-      "published_at": "2026-09-04T21:41:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "economy",
-        "bonds",
-        "hkma"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-silver-bonds-record-subscription.json",
-      "en": {
-        "headline": "Silver Bonds draw record 478,000 applications worth nearly HK$120 billion",
-        "dek": "The latest three-year issue with a 4.25 per cent guaranteed floor attracted strong demand from eligible residents aged 60 and above; final issuance is expected to reach the HK$55 billion ceiling."
-      },
-      "zh": {
-        "headline": "銀債認購創紀錄 47.8萬人申請近1200億元",
-        "dek": "最新一批三年期銀債保底息4.25厘，合資格60歲或以上市民反應踴躍；預計最終發行額將達上限550億元。"
-      }
-    },
-    {
-      "id": "2026-09-04-disneyland-hotel-renovation",
-      "published_at": "2026-09-04T21:40:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tourism",
-        "disneyland",
-        "hotel",
-        "renovation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-04/2026-09-04-disneyland-hotel-renovation.json",
-      "en": {
-        "headline": "Hong Kong Disneyland Hotel to close from 12 October for major renovation",
-        "dek": "The Victorian-style hotel, open since 2005, will undergo comprehensive upgrades including more Disney movie-themed rooms; the other two resort hotels remain open."
-      },
-      "zh": {
-        "headline": "香港迪士尼樂園酒店10月12日起暫時關閉翻新",
-        "dek": "開業以來的維多利亞式酒店將進行全面升級，增加迪士尼電影主題房間；另外兩間度假酒店維持開放。"
       }
     }
   ]
