@@ -1,0 +1,27 @@
+{
+  "id": "2026-09-07-thunderstorm-warning-afternoon",
+  "published_at": "2026-09-07T15:20:00+08:00",
+  "category": "weather",
+  "tags": ["weather", "thunderstorm", "hko"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "thunderstorm-warning-sep7-afternoon",
+  "en": {
+    "headline": "Thunderstorm Warning in force until mid-afternoon",
+    "dek": "The Hong Kong Observatory issued the Thunderstorm Warning at 12.55pm, later extended, with isolated thunderstorms expected over the territory.",
+    "body": [
+      "The Hong Kong Observatory issued a Thunderstorm Warning at 12.55pm on Monday and subsequently extended its validity to 4.15pm, warning of isolated thunderstorms over Hong Kong.",
+      "The Observatory said the public should take precautions if outdoors, seek shelter in a safe place, stay away from water and avoid high ground or conductive objects such as trees and poles.",
+      "Local temperatures in the early afternoon ranged from the high 20s to low 30s Celsius under mainly cloudy skies with intermittent sunshine and scattered showers. A hot weather special advisory remained in effect."
+    ]
+  },
+  "zh": {
+    "headline": "雷暴警告生效至下午中段",
+    "dek": "天文台下午12時55分發出雷暴警告，其後延長有效時間至下午4時15分，預料本港有局部地區雷暴。",
+    "body": [
+      "香港天文台於星期一中午12時55分發出雷暴警告，其後將有效時間延長至下午4時15分，預料香港有局部地區雷暴。",
+      "天文台提醒市民，如身處室外，請到安全地方躲避；離開水面，切勿進行戶外水上活動；切勿站立於高地或接近導電物體、樹木或桅杆。",
+      "下午初段本港氣溫介乎二十多度至三十度初，大致多雲，間中有陽光及幾陣驟雨。炎熱天氣特別提示仍然生效。"
+    ]
+  }
+}

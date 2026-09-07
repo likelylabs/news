@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T13:07:00+08:00",
+  "updated_at": "2026-09-07T15:22:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -19,6 +19,18 @@
       "id": "2026-09-07-galaxy-robot-stores",
       "first_seen": "2026-09-07T13:07:00+08:00",
       "headline_en": "Beijing robotics firm plans dozens more autonomous retail stores in Hong Kong"
+    },
+    {
+      "key": "thunderstorm-warning-sep7-afternoon",
+      "id": "2026-09-07-thunderstorm-warning-afternoon",
+      "first_seen": "2026-09-07T15:20:00+08:00",
+      "headline_en": "Thunderstorm Warning in force until mid-afternoon"
+    },
+    {
+      "key": "tia-go-go-ming-grandee-licences-revoked",
+      "id": "2026-09-07-tia-travel-licences-revoked",
+      "first_seen": "2026-09-07T15:21:00+08:00",
+      "headline_en": "Two travel agencies and guide lose licences over coerced shopping"
     }
   ]
 }
