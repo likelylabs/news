@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-08T06:55:28+08:00",
+  "generated_at": "2026-09-08T07:09:04+08:00",
   "live_window_hours": 72,
-  "count": 67,
+  "count": 68,
   "articles": [
+    {
+      "id": "2026-09-08-hzmb-smart-pass-dec",
+      "published_at": "2026-09-08T07:06:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "government",
+        "technology",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-08/2026-09-08-hzmb-smart-pass-dec.json",
+      "en": {
+        "headline": "Reports: HZMB Hong Kong Port to trial in-car clearance in December",
+        "dek": "Immigration is preparing a “Smart Passage” pilot so registered private-car drivers and passengers can clear the border without leaving their seats or showing documents, several newspapers reported."
+      },
+      "zh": {
+        "headline": "據報港珠澳口岸12月試行車上智通行",
+        "dek": "多份報章報道，入境處擬於12月在港珠澳大橋香港口岸推出「智通行」先導計劃，合資格跨境私家車司機及乘客毋須下車或出示證件即可過關。"
+      }
+    },
     {
       "id": "2026-09-08-lifestyle-cavalluna-kai-tak",
       "published_at": "2026-09-08T01:12:00+08:00",
