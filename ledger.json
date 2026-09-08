@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:11:30+08:00",
+  "updated_at": "2026-09-08T11:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -139,6 +139,24 @@
       "id": "2026-09-08-lifestyle-charles-ng-saxophone",
       "first_seen": "2026-09-08T09:22:00+08:00",
       "headline_en": "LCSD books Charles Ng saxophone recital at City Hall in October"
+    },
+    {
+      "key": "longsys-h-share-debut-sep8-2026",
+      "id": "2026-09-08-longsys-h-share-debut",
+      "first_seen": "2026-09-08T11:10:00+08:00",
+      "headline_en": "Longsys H shares open at issue price on Hong Kong debut"
+    },
+    {
+      "key": "wxv-challenger-m-mark-sep2026",
+      "id": "2026-09-08-wxv-challenger-m-mark",
+      "first_seen": "2026-09-08T11:11:00+08:00",
+      "headline_en": "Women’s rugby series at Kai Tak awarded M Mark status"
+    },
+    {
+      "key": "lifestyle-mid-autumn-lantern-carnival-2026",
+      "id": "2026-09-08-lifestyle-mid-autumn-lanterns",
+      "first_seen": "2026-09-08T11:12:00+08:00",
+      "headline_en": "LCSD Mid-Autumn lanterns light Victoria Park from 17 September"
     }
   ]
 }
