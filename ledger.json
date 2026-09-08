@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T09:21:43+08:00",
+  "updated_at": "2026-09-08T09:22:30+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -109,6 +109,36 @@
       "id": "2026-09-08-lifestyle-ultraman-incubase",
       "first_seen": "2026-09-08T07:10:00+08:00",
       "headline_en": "Ultraman 60th-anniversary exhibition in Mong Kok ends Sunday"
+    },
+    {
+      "key": "very-hot-weather-warning-sep8-morning",
+      "id": "2026-09-08-very-hot-weather-warning-morning",
+      "first_seen": "2026-09-08T09:18:00+08:00",
+      "headline_en": "Observatory issues Very Hot Weather Warning on Tuesday morning"
+    },
+    {
+      "key": "hzmb-fresh-produce-24h-oct1-2026",
+      "id": "2026-09-08-hzmb-fresh-food-24h-oct1",
+      "first_seen": "2026-09-08T09:19:00+08:00",
+      "headline_en": "HZMB fresh-food clearance to run 24 hours from 1 October"
+    },
+    {
+      "key": "legionnaires-chp-emsd-sep7-2026",
+      "id": "2026-09-08-legionnaires-chp-emsd-update",
+      "first_seen": "2026-09-08T09:20:00+08:00",
+      "headline_en": "CHP records three new Legionnaires’ cases; EMSD flags three towers"
+    },
+    {
+      "key": "hkjc-hoops-connect-launch-sep2026",
+      "id": "2026-09-08-hkjc-hoops-connect-launch",
+      "first_seen": "2026-09-08T09:21:00+08:00",
+      "headline_en": "Jockey Club launches HK$134 million community basketball scheme"
+    },
+    {
+      "key": "lifestyle-charles-ng-saxophone-oct8",
+      "id": "2026-09-08-lifestyle-charles-ng-saxophone",
+      "first_seen": "2026-09-08T09:22:00+08:00",
+      "headline_en": "LCSD books Charles Ng saxophone recital at City Hall in October"
     }
   ]
 }
