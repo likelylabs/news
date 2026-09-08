@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-09-08T09:22:16+08:00",
+  "generated_at": "2026-09-08T11:11:30+08:00",
   "live_window_hours": 72,
   "count": 70,
   "articles": [
+    {
+      "id": "2026-09-08-lifestyle-mid-autumn-lanterns",
+      "published_at": "2026-09-08T11:12:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-08/2026-09-08-lifestyle-mid-autumn-lanterns.json",
+      "en": {
+        "headline": "LCSD Mid-Autumn lanterns light Victoria Park from 17 September",
+        "dek": "The carnival at Victoria Park runs to 27 September, with a separate lighting display at the Cultural Centre piazza until 11 October; both are free after dusk."
+      },
+      "zh": {
+        "headline": "康文署中秋絲燈會9月17日起亮燈維園",
+        "dek": "維多利亞公園絲燈會舉行至9月27日，文化中心露天廣場光影裝置展至10月11日，黃昏後免費參觀。"
+      }
+    },
+    {
+      "id": "2026-09-08-wxv-challenger-m-mark",
+      "published_at": "2026-09-08T11:11:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "events",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-08/2026-09-08-wxv-challenger-m-mark.json",
+      "en": {
+        "headline": "Women’s rugby series at Kai Tak awarded M Mark status",
+        "dek": "The Major Sports Events Committee recognised the WXV Global Series Challenger, which opens on Sunday with three matches at the Kai Tak Youth Sports Ground."
+      },
+      "zh": {
+        "headline": "女子欖球挑戰賽獲M品牌 周日啟德揭幕",
+        "dek": "大型體育活動事務委員會向WXV全球系列挑戰賽頒授M品牌認可，周日起一連三個比賽日在啟德青年運動場上演。"
+      }
+    },
+    {
+      "id": "2026-09-08-longsys-h-share-debut",
+      "published_at": "2026-09-08T11:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-08/2026-09-08-longsys-h-share-debut.json",
+      "en": {
+        "headline": "Longsys H shares open at issue price on Hong Kong debut",
+        "dek": "Shenzhen memory-chip maker Jiangbolong listed as 09976 at HK$236 a share after a public offer about 40 times subscribed, and opened flat before slipping a little."
+      },
+      "zh": {
+        "headline": "江波龍港股掛牌平開報236元",
+        "dek": "深圳存儲器廠商江波龍今日以09976代號在港上市，發售價每股236元，公開發售約超購40倍，開市報發行價後輕微低水。"
+      }
+    },
     {
       "id": "2026-09-08-lifestyle-charles-ng-saxophone",
       "published_at": "2026-09-08T09:22:00+08:00",
@@ -1446,70 +1509,6 @@
       "zh": {
         "headline": "機場T2離港大堂顯示屏鋼纜故障半天吊 無人受傷",
         "dek": "今早約8時半，二號客運大樓離港層一塊懸掛電子顯示屏出現故障，防墮系統即時發揮作用，無人受傷，機管局將深入調查。"
-      }
-    },
-    {
-      "id": "2026-09-05-choi-school-year-enrolment",
-      "published_at": "2026-09-05T11:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "schools",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-05/2026-09-05-choi-school-year-enrolment.json",
-      "en": {
-        "headline": "Choi says new school year is running smoothly as enrolment decline persists",
-        "dek": "The education chief said falling school-age population is a structural problem that must be faced, and that measures used to keep school numbers have been exhausted."
-      },
-      "zh": {
-        "headline": "蔡若蓮：新學年運作暢順 學齡人口下降須面對",
-        "dek": "教育局局長指出生率下跌屬結構問題，保存學校數目的措施已用盡，期望辦學團體及早規劃合併或停辦。"
-      }
-    },
-    {
-      "id": "2026-09-05-immd-overseas-help-3000",
-      "published_at": "2026-09-05T11:09:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "immigration",
-        "community",
-        "travel"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-05/2026-09-05-immd-overseas-help-3000.json",
-      "en": {
-        "headline": "Help unit for residents abroad logs over 3,000 cases in eight months",
-        "dek": "The Immigration Department said requests rose about 35 per cent from a year earlier, driven mainly by the Middle East conflict early this year; about half of the remaining cases involved lost travel documents."
-      },
-      "zh": {
-        "headline": "協助在外港人小組首8個月接逾3000宗求助",
-        "dek": "入境處處長郭俊峯表示數字較去年同期升約三成半，主要與年初中東衝突有關；其餘個案約一半涉及遺失旅行證件。"
-      }
-    },
-    {
-      "id": "2026-09-05-huanggang-port-early-opening",
-      "published_at": "2026-09-05T11:08:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "immigration",
-        "huanggang",
-        "border"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-05/2026-09-05-huanggang-port-early-opening.json",
-      "en": {
-        "headline": "Huanggang port to open as soon as Hong Kong and Shenzhen confirm smooth operations",
-        "dek": "Immigration chief Benson Kwok said no date is fixed yet, but both sides want to open the rebuilt checkpoint as soon as operations are confirmed smooth, including before National Day if conditions allow."
-      },
-      "zh": {
-        "headline": "郭俊峯：皇崗口岸待港深確認暢順後盡早開通",
-        "dek": "入境處處長表示未敲定開通日期，但若運作暢順會盡早啟用，不排除趕及國慶黃金周前；初期料每日可處理約20萬人次。"
       }
     }
   ]
