@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-09-09T06:49:55+08:00",
+  "generated_at": "2026-09-09T07:06:11+08:00",
   "live_window_hours": 72,
-  "count": 74,
+  "count": 77,
   "articles": [
+    {
+      "id": "2026-09-09-lifestyle-cats-xiqu-finale",
+      "published_at": "2026-09-09T07:22:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "music",
+        "events",
+        "west-kowloon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-lifestyle-cats-xiqu-finale.json",
+      "en": {
+        "headline": "Cats extra shows at Xiqu Centre run through Sunday",
+        "dek": "Andrew Lloyd Webber’s musical ends its Hong Kong engagement on 13 September after added performances at the West Kowloon Grand Theatre."
+      },
+      "zh": {
+        "headline": "音樂劇《貓》西九戲曲中心加場演至周日",
+        "dek": "安德魯勞伊韓伯原版製作於西九戲曲中心大劇院的香港站，終極加場至9月13日結束。"
+      }
+    },
+    {
+      "id": "2026-09-09-dse-2027-registration",
+      "published_at": "2026-09-09T07:21:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "education",
+        "students",
+        "gba"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-dse-2027-registration.json",
+      "en": {
+        "headline": "2027 DSE registration opens Friday; GBA centres extended three years",
+        "dek": "The HKEAA will take entries from 11 September to 7 October and is studying an increase in mainland participating schools from four to 12."
+      },
+      "zh": {
+        "headline": "2027文憑試周五起報名 內地試場續試行三年",
+        "dek": "考評局公布9月11日至10月7日接受報名，並探討將大灣區內地與考學校由4所增至12所。"
+      }
+    },
+    {
+      "id": "2026-09-09-hktdc-asean-shopping-festival",
+      "published_at": "2026-09-09T07:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "trade",
+        "government",
+        "sme"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-hktdc-asean-shopping-festival.json",
+      "en": {
+        "headline": "HKTDC takes Hong Kong Shopping Festival to Singapore and Malaysia",
+        "dek": "After the mainland edition drew 115 million views, the first ASEAN edition runs from 21 to 27 September on Shopee and Lazada with about 100 Hong Kong brands."
+      },
+      "zh": {
+        "headline": "香港好物節首次登陸星馬電商 9月21日起舉行",
+        "dek": "內地站總瀏覽人次逾1.15億後，貿發局將於9月21至27日在新加坡及馬來西亞Shopee、Lazada推出東盟站，約100個港商品牌參與。"
+      }
+    },
     {
       "id": "2026-09-09-belt-road-summit-opens",
       "published_at": "2026-09-09T03:12:00+08:00",
