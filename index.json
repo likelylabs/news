@@ -1,8 +1,116 @@
 {
-  "generated_at": "2026-09-08T07:11:44+08:00",
+  "generated_at": "2026-09-08T09:21:43+08:00",
   "live_window_hours": 72,
-  "count": 72,
+  "count": 70,
   "articles": [
+    {
+      "id": "2026-09-08-lifestyle-charles-ng-saxophone",
+      "published_at": "2026-09-08T09:22:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events",
+        "music"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-08/2026-09-08-lifestyle-charles-ng-saxophone.json",
+      "en": {
+        "headline": "LCSD books Charles Ng saxophone recital at City Hall in October",
+        "dek": "Tickets at $220 went on sale for the 8 October concert in the Hong Kong Artists series, which includes two Asian premieres and a new work with composer Charles Kwong."
+      },
+      "zh": {
+        "headline": "康文署十月大會堂呈獻吳漢紳色士風演奏會",
+        "dek": "「香港藝術家」系列演奏會定於10月8日晚上8晈在香港大會堂劇院舉行，票價220元已於城市售票網開售，節目包括兩首亞洲首演及一首世界首演。"
+      }
+    },
+    {
+      "id": "2026-09-08-hkjc-hoops-connect-launch",
+      "published_at": "2026-09-08T09:21:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "youth",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-08/2026-09-08-hkjc-hoops-connect-launch.json",
+      "en": {
+        "headline": "Jockey Club launches HK$134 million community basketball scheme",
+        "dek": "A five-year programme unveiled on Monday will offer nine-month training in all 18 districts for children aged six to 16, with former NBA player Yao Ming among the guests at the kick-off."
+      },
+      "zh": {
+        "headline": "馬會撥逾1.34億推五年社區籃球計劃",
+        "dek": "賽馬會「傳承接力」社區籃球計劃周一啟動，將於18區為6至16歲兒童及青年提供每年九個月訓練，前NBA球星姚明出席典禮。"
+      }
+    },
+    {
+      "id": "2026-09-08-legionnaires-chp-emsd-update",
+      "published_at": "2026-09-08T09:20:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "government",
+        "hygiene"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-08/2026-09-08-legionnaires-chp-emsd-update.json",
+      "en": {
+        "headline": "CHP records three new Legionnaires’ cases; EMSD flags three towers",
+        "dek": "Health officials reported three community-acquired infections in a week to 5 September, while the Electrical and Mechanical Services Department found three cooling-tower samples above its action level in August."
+      },
+      "zh": {
+        "headline": "衞生防護中心一周錄三宗軍團菌病 機電署三冷卻塔超標",
+        "dek": "衞生防護中心公布8月30日至9月5日錄得三宗社區感染軍團菌病；機電工程署八月例行抽檢發現三個冷卻塔水樣本達行動水平。"
+      }
+    },
+    {
+      "id": "2026-09-08-hzmb-fresh-food-24h-oct1",
+      "published_at": "2026-09-08T09:19:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "government",
+        "food",
+        "border"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-08/2026-09-08-hzmb-fresh-food-24h-oct1.json",
+      "en": {
+        "headline": "HZMB fresh-food clearance to run 24 hours from 1 October",
+        "dek": "The Centre for Food Safety will extend operating hours for designated Mainland produce arriving via the bridge from the present 16-hour window, after talks with Mainland authorities and the trade."
+      },
+      "zh": {
+        "headline": "港珠澳大橋鮮活食品10月1日起全日通關",
+        "dek": "食安中心公布，經港珠澳大橋進口指定內地鮮活食品的通關時間由10月1日零晈起由每日16小時延長至全日24小時。"
+      }
+    },
+    {
+      "id": "2026-09-08-very-hot-weather-warning-morning",
+      "published_at": "2026-09-08T09:18:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "heat",
+        "observatory",
+        "health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-08/2026-09-08-very-hot-weather-warning-morning.json",
+      "en": {
+        "headline": "Observatory issues Very Hot Weather Warning on Tuesday morning",
+        "dek": "The warning was issued at 6.45am as the city heads for a mainly sunny and very hot day, with urban highs of about 33 degrees and isolated afternoon showers."
+      },
+      "zh": {
+        "headline": "天文台今早發出酷熱天氣警告",
+        "dek": "天文台上午6晈45分發出酷熱天氣警告，預料今日大致天晴，日間酷熱，市區最高氣溫約33度，下午局部地區有驟雨。"
+      }
+    },
     {
       "id": "2026-09-08-lifestyle-ultraman-incubase",
       "published_at": "2026-09-08T07:10:00+08:00",
@@ -1402,158 +1510,6 @@
       "zh": {
         "headline": "郭俊峯：皇崗口岸待港深確認暢順後盡早開通",
         "dek": "入境處處長表示未敲定開通日期，但若運作暢順會盡早啟用，不排除趕及國慶黃金周前；初期料每日可處理約20萬人次。"
-      }
-    },
-    {
-      "id": "2026-09-05-lifestyle-cheng-pei-pei-matinee",
-      "published_at": "2026-09-05T09:20:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "film",
-        "lcsd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-05/2026-09-05-lifestyle-cheng-pei-pei-matinee.json",
-      "en": {
-        "headline": "Film Archive opens ticket sales for Cheng Pei-pei matinee series",
-        "dek": "Ten films spanning romance, wuxia, kung fu and comedy screen at Sai Wan Ho from 2 October to 4 December; tickets are $40 from today on URBTIX."
-      },
-      "zh": {
-        "headline": "電影資料館鄭佩佩回顧今起售票 十部作品10月起映",
-        "dek": "「俠影翩躊──懷念鄭佩佩」由10月2日至12月4日在西灣河資料館放映，門票40元，今日起於城市售票網發售。"
-      }
-    },
-    {
-      "id": "2026-09-05-lifestyle-po-pin-chau-booking",
-      "published_at": "2026-09-05T09:19:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "community",
-        "sai-kung",
-        "hiking"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-05/2026-09-05-lifestyle-po-pin-chau-booking.json",
-      "en": {
-        "headline": "Po Pin Chau trail booking trial starts this weekend",
-        "dek": "Visitors heading to the High Island Geo-Trail section at Sai Kung East Dam between 9am and 5pm today and Sunday need a free, named reservation under a 2,000-person daily cap."
-      },
-      "zh": {
-        "headline": "破邊洲段預約制今起試行 每日名額二千",
-        "dek": "西貢萬宜東壩地質步道破邊洲段今明兩日上午九時至下午五時須免費實名預約，每兩小時一段、每日合共二千人。"
-      }
-    },
-    {
-      "id": "2026-09-05-sweeteners-consultation",
-      "published_at": "2026-09-05T09:18:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "food-safety",
-        "cfs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-05/2026-09-05-sweeteners-consultation.json",
-      "en": {
-        "headline": "Government opens three-month consultation on food sweetener rules",
-        "dek": "Proposed changes would bring sugar alcohols under the law, expand the permitted list from 10 to 21 additives and set maximum levels for specific food pairings."
-      },
-      "zh": {
-        "headline": "政府就食物甜味劑規例展開三個月公眾諮詢",
-        "dek": "建議將多美醇納入規管、准用名單由10種增至21種，並按食物與甜味劑組合訂最高含量，完成立法後擬設18個月過渡期。"
-      }
-    },
-    {
-      "id": "2026-09-05-lifestyle-cavalluna-kai-tak",
-      "published_at": "2026-09-05T07:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events",
-        "kai-tak"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-05/2026-09-05-lifestyle-cavalluna-kai-tak.json",
-      "en": {
-        "headline": "Cavalluna horses settle in at Kai Tak ahead of Tuesday opening",
-        "dek": "Fifty-four European horses arrived this week for eight performances of the equestrian theatre show at Kai Tak Arena from 8 to 13 September."
-      },
-      "zh": {
-        "headline": "歐洲馬術劇場名駒抵港 啟德體藝館週二首演",
-        "dek": "54匹歐洲馬匹本周運抵啟德體育園，《CAVALLUNA 穿梭異境》將於9月8日至13日上演八場。"
-      }
-    },
-    {
-      "id": "2026-09-05-qmh-lifts-devb-review",
-      "published_at": "2026-09-05T07:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "health",
-        "hospital",
-        "infrastructure"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-05/2026-09-05-qmh-lifts-devb-review.json",
-      "en": {
-        "headline": "Development Bureau orders review of Queen Mary Hospital lift works",
-        "dek": "ArchSD and EMSD must report on how they accepted and supervised the new Clinical Block lifts; follow-up repairs are due by the end of the year."
-      },
-      "zh": {
-        "headline": "發展局要求兩署檢視瑪麗醫院新大樓升降機監管",
-        "dek": "建築署及機電署須就驗收及監管工作提交報告；善後工程料於今年第四季完成。"
-      }
-    },
-    {
-      "id": "2026-09-05-slovenia-tax-pact",
-      "published_at": "2026-09-05T07:13:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "economy",
-        "tax"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-05/2026-09-05-slovenia-tax-pact.json",
-      "en": {
-        "headline": "Hong Kong signs 60th tax pact, this time with Slovenia",
-        "dek": "The comprehensive double-tax agreement is the fifth concluded this year; it still needs ratification before the new withholding rates take effect."
-      },
-      "zh": {
-        "headline": "香港與斯洛文尼亞簽署第60份全面性稅務協定",
-        "dek": "這是本屆政府第15份、今年第五份全面性避免雙重課稅協定，須待雙方完成批准程序後生效。"
-      }
-    },
-    {
-      "id": "2026-09-05-rumsey-street-carpark-interpol",
-      "published_at": "2026-09-05T07:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "interpol",
-        "sheung-wan",
-        "parking",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-05/2026-09-05-rumsey-street-carpark-interpol.json",
-      "en": {
-        "headline": "Rumsey Street car park floors to close for Interpol assembly",
-        "dek": "Police will take over the seventh and eighth floors of the Sheung Wan public car park from 1 November as a traffic command centre for the 94th Interpol General Assembly."
-      },
-      "zh": {
-        "headline": "林士街停車場兩層將關閉 供國際刑警大會調度車輛",
-        "dek": "警方將於11月1日起徵用上環林士街多層停車場7樓及8樓作交通指揮中心，大會後12月12日重開。"
       }
     }
   ]
