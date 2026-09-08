@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:12:08+08:00",
+  "updated_at": "2026-09-08T13:17:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -157,6 +157,24 @@
       "id": "2026-09-08-lifestyle-mid-autumn-lanterns",
       "first_seen": "2026-09-08T11:12:00+08:00",
       "headline_en": "LCSD Mid-Autumn lanterns light Victoria Park from 17 September"
+    },
+    {
+      "key": "police-hq-shredder-fire-sep8",
+      "id": "2026-09-08-police-hq-shredder-fire",
+      "first_seen": "2026-09-08T13:15:00+08:00",
+      "headline_en": "Female officer burned after paper shredder fire at Wan Chai police HQ"
+    },
+    {
+      "key": "queen-mary-lifts-ning-sep8",
+      "id": "2026-09-08-queen-mary-lifts-ning-update",
+      "first_seen": "2026-09-08T13:16:00+08:00",
+      "headline_en": "Development chief says Queen Mary lift shafts have dimensional deviations"
+    },
+    {
+      "key": "lifestyle-flockfest-pmq-sep2026",
+      "id": "2026-09-08-lifestyle-flockfest-pmq",
+      "first_seen": "2026-09-08T13:17:00+08:00",
+      "headline_en": "Black Kite’s Flockfest brings craft beer and indie music to PMQ this weekend"
     }
   ]
 }
