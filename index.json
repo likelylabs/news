@@ -1,8 +1,51 @@
 {
-  "generated_at": "2026-09-09T01:16:41+08:00",
+  "generated_at": "2026-09-09T03:09:04+08:00",
   "live_window_hours": 72,
-  "count": 74,
+  "count": 76,
   "articles": [
+    {
+      "id": "2026-09-09-belt-road-summit-opens",
+      "published_at": "2026-09-09T03:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "government",
+        "trade",
+        "belt-and-road"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-belt-road-summit-opens.json",
+      "en": {
+        "headline": "11th Belt and Road Summit opens in Hong Kong today",
+        "dek": "Chief Executive John Lee said the two-day forum, themed on high-quality development, will continue to leverage the city’s advantages under “one country, two systems” to support the initiative."
+      },
+      "zh": {
+        "headline": "第十一屆一帶一路高峰論壇今開幕",
+        "dek": "行政長官李家超表示，論壇以「推動高質量發展 共啟新征程」為主題，香港將繼續發揮「一國兩制」優勢助力倡議。"
+      }
+    },
+    {
+      "id": "2026-09-09-tung-chee-hwa-dies",
+      "published_at": "2026-09-09T03:10:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "government",
+        "chief-executive"
+      ],
+      "breaking": true,
+      "path": "articles/2026-09-09/2026-09-09-tung-chee-hwa-dies.json",
+      "en": {
+        "headline": "Hong Kong’s first chief executive Tung Chee-hwa dies aged 89",
+        "dek": "The former shipping tycoon and CPPCC vice-chairman passed away peacefully on Tuesday evening surrounded by family, his office said in a statement issued early Wednesday."
+      },
+      "zh": {
+        "headline": "香港首任行政長官董建華離世 享年89歲",
+        "dek": "董建華辦公室凌晨發聲明，指前全國政協副主席、首任行政長官於周二晚安詳辭世，摯親隨侍。"
+      }
+    },
     {
       "id": "2026-09-09-customs-summer-drug-operation",
       "published_at": "2026-09-09T01:16:00+08:00",
