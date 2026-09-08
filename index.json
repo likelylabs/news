@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-08T13:16:39+08:00",
+  "generated_at": "2026-09-08T15:05:43+08:00",
   "live_window_hours": 72,
-  "count": 73,
+  "count": 75,
   "articles": [
+    {
+      "id": "2026-09-08-non-etp-sales-2025-record",
+      "published_at": "2026-09-08T15:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "finance",
+        "sfc",
+        "hkma",
+        "investment"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-08/2026-09-08-non-etp-sales-2025-record.json",
+      "en": {
+        "headline": "Hong Kong non-exchange-traded product sales hit record HK$9.9 trillion in 2025",
+        "dek": "A joint SFC-HKMA survey showed a 63 per cent rise driven by strong demand for fixed-income, currency and commodity products and record market participation."
+      },
+      "zh": {
+        "headline": "去年非交易所買賣投資產品銷售創9.9萬億元新高",
+        "dek": "證監會與金管局聯合調查顯示按年急升63%，受惠於固定收益、貨幣及商品產品需求強勁及市場參與度破紀錄。"
+      }
+    },
+    {
+      "id": "2026-09-08-hk-un-jpo-16-officers",
+      "published_at": "2026-09-08T15:05:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "government",
+        "civil-service",
+        "united-nations",
+        "youth"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-08/2026-09-08-hk-un-jpo-16-officers.json",
+      "en": {
+        "headline": "Record 16 young Hong Kong officers recommended for UN Junior Professional posts",
+        "dek": "The third batch, drawn from 12 government departments and bureaux, will begin two-year assignments this month at UN headquarters and offices in Geneva, Vienna and Nairobi."
+      },
+      "zh": {
+        "headline": "歷來最多16名青年公務員獲推薦赴聯合國任職",
+        "dek": "第三批人員來自12個政府部門及政策局，本月起陸續啓程，於聯合國總部及日內瓦、維也納、內羅畢辦事處擔任兩年職位。"
+      }
+    },
     {
       "id": "2026-09-08-lifestyle-flockfest-pmq",
       "published_at": "2026-09-08T13:17:00+08:00",
