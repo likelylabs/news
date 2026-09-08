@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T01:16:41+08:00",
+  "updated_at": "2026-09-09T03:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -241,6 +241,18 @@
       "id": "2026-09-09-customs-summer-drug-operation",
       "first_seen": "2026-09-09T01:16:00+08:00",
       "headline_en": "Customs seizes 6.1 tonnes of drugs worth HK$1.4 billion in summer airport operation"
+    },
+    {
+      "key": "tung-chee-hwa-dies-sep8-2026",
+      "id": "2026-09-09-tung-chee-hwa-dies",
+      "first_seen": "2026-09-09T03:10:00+08:00",
+      "headline_en": "Hong Kong’s first chief executive Tung Chee-hwa dies aged 89"
+    },
+    {
+      "key": "belt-road-summit-opens-sep9-2026",
+      "id": "2026-09-09-belt-road-summit-opens",
+      "first_seen": "2026-09-09T03:12:00+08:00",
+      "headline_en": "11th Belt and Road Summit opens in Hong Kong today"
     }
   ]
 }
