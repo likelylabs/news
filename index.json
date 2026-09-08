@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-09-08T23:41:05+08:00",
+  "generated_at": "2026-09-09T01:16:41+08:00",
   "live_window_hours": 72,
-  "count": 72,
+  "count": 74,
   "articles": [
+    {
+      "id": "2026-09-09-customs-summer-drug-operation",
+      "published_at": "2026-09-09T01:16:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "customs",
+        "drugs",
+        "airport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-customs-summer-drug-operation.json",
+      "en": {
+        "headline": "Customs seizes 6.1 tonnes of drugs worth HK$1.4 billion in summer airport operation",
+        "dek": "A four-month joint campaign with mainland and overseas agencies detected 424 cases and arrested 150 people, many of them young adults recruited during the holiday peak."
+      },
+      "zh": {
+        "headline": "海關暑期機場緝毒行動檢6.1噸毒品值14億元拘150人",
+        "dek": "與內地及海外21個執法機構聯合行動四個月，破424案，約七成被捕者為18至40歲青年。"
+      }
+    },
+    {
+      "id": "2026-09-09-lifestyle-leslie-cheung-70th",
+      "published_at": "2026-09-09T01:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "exhibition",
+        "heritage",
+        "music"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-lifestyle-leslie-cheung-70th.json",
+      "en": {
+        "headline": "Heritage Museum opens Leslie Cheung 70th-birthday exhibition today",
+        "dek": "More than 300 artefacts, including rarely seen stage costumes and a recreated room from the late star’s home, go on free display in Sha Tin until May 2027."
+      },
+      "zh": {
+        "headline": "文化博物館張國榮70誕辰展今日開幕",
+        "dek": "逾300件展品包括罕見舞台服裝及故居場景重現，即日起至2027年5月10日於沙田免費開放。"
+      }
+    },
+    {
+      "id": "2026-09-09-tiangong-classroom-hk-macau",
+      "published_at": "2026-09-09T01:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "education",
+        "space",
+        "youth",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-tiangong-classroom-hk-macau.json",
+      "en": {
+        "headline": "Hong Kong astronaut leads Tiangong Class for HK and Macau students today",
+        "dek": "Lai Ka-ying and her Shenzhou-23 crewmates will deliver a live space lecture from the Tiangong station starting at 9.50am, with schools encouraged to watch the broadcast."
+      },
+      "zh": {
+        "headline": "天宮課堂港澳專場今早舉行 黎家盈與學生天地對話",
+        "dek": "神舟二十三號乘組包括港產航天員黎家盈，將於上午9時50分起為港澳學生進行太空授課及科學實驗示範，教育局鼓勵學校安排師生收看直播。"
+      }
+    },
     {
       "id": "2026-09-08-uber-licence-application",
       "published_at": "2026-09-08T23:42:00+08:00",
@@ -1531,29 +1599,6 @@
       "zh": {
         "headline": "警放蛇拘索五倍車資的士司機 中環往山頂收350元",
         "dek": "喬裝乘客由山頂纜車中環總站往山頂，合理車資約66元，司機索價350元；69歲男子涉四罪被捕。"
-      }
-    },
-    {
-      "id": "2026-09-06-lifestyle-yu-lan-cultural-festival-final",
-      "published_at": "2026-09-06T01:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "festival",
-        "heritage",
-        "victoria-park"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-06/2026-09-06-lifestyle-yu-lan-cultural-festival-final.json",
-      "en": {
-        "headline": "Yu Lan Cultural Festival ends today at Victoria Park",
-        "dek": "The three-day event marking the Hungry Ghost Festival closes Sunday with competitions, workshops, an immersive theatre piece and Chiu Chow food stalls; admission is free."
-      },
-      "zh": {
-        "headline": "盂蘭文化節今日維園煞科 搶孤及互動劇場繼續",
-        "dek": "一連三日的盂蘭文化節今日於銅鑼灣維多利亞公園一號球場舉行最後一天，設搶孤競賽、工作坊、實境劇場及潮汕美食攤位，免費入場。"
       }
     }
   ]
