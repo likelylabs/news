@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T13:16:39+08:00",
+  "updated_at": "2026-09-08T15:06:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -175,6 +175,18 @@
       "id": "2026-09-08-lifestyle-flockfest-pmq",
       "first_seen": "2026-09-08T13:17:00+08:00",
       "headline_en": "Black Kite’s Flockfest brings craft beer and indie music to PMQ this weekend"
+    },
+    {
+      "key": "hk-un-jpo-third-batch-2026",
+      "id": "2026-09-08-hk-un-jpo-16-officers",
+      "first_seen": "2026-09-08T15:05:00+08:00",
+      "headline_en": "Record 16 young Hong Kong officers recommended for UN Junior Professional posts"
+    },
+    {
+      "key": "non-etp-sales-2025-record",
+      "id": "2026-09-08-non-etp-sales-2025-record",
+      "first_seen": "2026-09-08T15:06:00+08:00",
+      "headline_en": "Hong Kong non-exchange-traded product sales hit record HK$9.9 trillion in 2025"
     }
   ]
 }
