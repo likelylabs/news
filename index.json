@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-08T11:12:08+08:00",
+  "generated_at": "2026-09-08T13:16:39+08:00",
   "live_window_hours": 72,
-  "count": 70,
+  "count": 73,
   "articles": [
+    {
+      "id": "2026-09-08-lifestyle-flockfest-pmq",
+      "published_at": "2026-09-08T13:17:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "food",
+        "events",
+        "music"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-08/2026-09-08-lifestyle-flockfest-pmq.json",
+      "en": {
+        "headline": "Black Kite’s Flockfest brings craft beer and indie music to PMQ this weekend",
+        "dek": "The three-day free-entry festival from 11 to 13 September features eight Hong Kong and Japanese breweries, more than 50 beers, local food and live sets by 15 indie acts."
+      },
+      "zh": {
+        "headline": "黑鳶Flockfest周末PMQ舉行 精釀啤酒與本地獨立音樂",
+        "dek": "9月11至13日於中環元創方免費入場，匯聚港日八間酒廠逾50款啤酒、本地美食及15組獨立音樂單位。"
+      }
+    },
+    {
+      "id": "2026-09-08-queen-mary-lifts-ning-update",
+      "published_at": "2026-09-08T13:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "health",
+        "government",
+        "hospital"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-08/2026-09-08-queen-mary-lifts-ning-update.json",
+      "en": {
+        "headline": "Development chief says Queen Mary lift shafts have dimensional deviations",
+        "dek": "Secretary Ning Hoi-tak said installation workmanship, damaged components and shaft wall size errors are being fixed, with rectification expected in the fourth quarter and costs borne by the contractors."
+      },
+      "zh": {
+        "headline": "甯漢豪：瑪麗醫院𨋢槽外牆尺寸有偏差 料第四季完成執修",
+        "dek": "發展局局長表示升降機問題涉及安裝工藝、部件破損及井道外牆尺寸偏差，當局有信心今年第四季完成執修，費用由承建商支付。"
+      }
+    },
+    {
+      "id": "2026-09-08-police-hq-shredder-fire",
+      "published_at": "2026-09-08T13:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "accident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-08/2026-09-08-police-hq-shredder-fire.json",
+      "en": {
+        "headline": "Female officer burned after paper shredder fire at Wan Chai police HQ",
+        "dek": "A shredder ignited inside an office in the West Wing of Police Headquarters shortly before 11am; the officer was taken conscious to Ruttonjee Hospital with facial and arm burns."
+      },
+      "zh": {
+        "headline": "灣仔警總碎紙機起火 女警面及手燒傷送院",
+        "dek": "今早近11時警察總部西翼辦公室碎紙機起火，一名女警面部及雙手前臂燒傷，清醒送往律敦治醫院。"
+      }
+    },
     {
       "id": "2026-09-08-lifestyle-mid-autumn-lanterns",
       "published_at": "2026-09-08T11:12:00+08:00",
