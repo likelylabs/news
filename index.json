@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-09-08T15:05:43+08:00",
+  "generated_at": "2026-09-08T21:09:39+08:00",
   "live_window_hours": 72,
-  "count": 75,
+  "count": 72,
   "articles": [
+    {
+      "id": "2026-09-08-shenzhen-hk-guangzhou-innovation-top",
+      "published_at": "2026-09-08T21:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "technology",
+        "government",
+        "innovation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-08/2026-09-08-shenzhen-hk-guangzhou-innovation-top.json",
+      "en": {
+        "headline": "Shenzhen-Hong Kong-Guangzhou cluster retains top global innovation ranking",
+        "dek": "The World Intellectual Property Organization’s 2026 Global Innovation Index again places the cluster first, citing patent filings, scientific publications and venture-capital deals; the Hong Kong government welcomed…"
+      },
+      "zh": {
+        "headline": "深圳—香港—廣州創新集群連續第二年全球排名第一",
+        "dek": "世界知識產權組織《2026年全球創新指數》再次將該集群列為全球首強，指標包括專利、科學論文及風險投資；特區政府表示歡迎。"
+      }
+    },
+    {
+      "id": "2026-09-08-icac-alipayhk-conflict",
+      "published_at": "2026-09-08T21:11:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "icac",
+        "business"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-08/2026-09-08-icac-alipayhk-conflict.json",
+      "en": {
+        "headline": "ICAC charges four over alleged conflict of interest at AlipayHK operator",
+        "dek": "Two former employees of the Ant Group subsidiary and their spouses are accused of concealing interests and securing an app-development contract for a company they controlled; they face conspiracy-to-defraud charges on…"
+      },
+      "zh": {
+        "headline": "廉署起訴AlipayHK兩前僱員及配偶涉隱瞞利益衝突",
+        "dek": "兩名前僱員被指出資經營應用程式開發商並安排配偶任董事，誘使公司將「醫健約」小程式合約外判予該公司；四人被控串謀詐騙，周四提堂。"
+      }
+    },
+    {
+      "id": "2026-09-08-mtr-tst-fare-evasion",
+      "published_at": "2026-09-08T21:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "transport",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-08/2026-09-08-mtr-tst-fare-evasion.json",
+      "en": {
+        "headline": "MTR reports mass fare evasion at Tsim Sha Tsui station to police",
+        "dek": "A viral video showed groups of people tailgating through exit gates after a single card tap on 23 August; the operator said it has stepped up patrols and will pursue prosecutions where appropriate."
+      },
+      "zh": {
+        "headline": "港鐵尖沙咀站集體逃票報警 片段顯示一次拍卡多人出閘",
+        "dek": "網上片段顯示8月23日晚有人拍一次卡後多人尾隨出閘，最多一次達7人；港鐵已報警並加強巡查，強調逃票可被檢控。"
+      }
+    },
     {
       "id": "2026-09-08-non-etp-sales-2025-record",
       "published_at": "2026-09-08T15:06:00+08:00",
@@ -1490,135 +1554,6 @@
       "zh": {
         "headline": "衞生防護中心錄得一宗猴痘確診 26歲男情況穩定",
         "dek": "患者潛伏期內在港以外與一名男子有兩次高風險接觸；自2022年起累計100宗個案，全部為男性。"
-      }
-    },
-    {
-      "id": "2026-09-05-housing-society-surplus",
-      "published_at": "2026-09-05T21:09:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "housing",
-        "economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-05/2026-09-05-housing-society-surplus.json",
-      "en": {
-        "headline": "Housing Society posts HK$1.338 billion surplus for third consecutive year",
-        "dek": "Net assets reached HK$49.9 billion at end-March; more than 15,000 units expected to be completed over the next five financial years."
-      },
-      "zh": {
-        "headline": "房協二零二五至二六年度盈餘十三點三八億 連續三年錄得盈餘",
-        "dek": "截至三月底淨資產四百九十九億元，未來五個財政年度預計落成逾一萬五千個單位。"
-      }
-    },
-    {
-      "id": "2026-09-05-eaton-astor-food-poisoning",
-      "published_at": "2026-09-05T21:08:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "food-safety",
-        "chp",
-        "restaurant"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-05/2026-09-05-eaton-astor-food-poisoning.json",
-      "en": {
-        "headline": "Fourteen fall ill after buffet at Eaton HK restaurant; premises closed for cleaning",
-        "dek": "CHP links five clusters to The Astor at Eaton Hong Kong in Yau Ma Tei; all affected diners are stable and none required hospital admission."
-      },
-      "zh": {
-        "headline": "逸東酒店The Astor食物中毒群組增至十四人 食肆暫時停業",
-        "dek": "衞生防護中心指五個群組有流行病學關連，受影響人士情況穩定，無人需入院。"
-      }
-    },
-    {
-      "id": "2026-09-05-unregistered-vaccine-raids",
-      "published_at": "2026-09-05T21:07:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "vaccines",
-        "dh",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-05/2026-09-05-unregistered-vaccine-raids.json",
-      "en": {
-        "headline": "Three arrested, 1,600 unregistered vials seized in vaccine-related raids",
-        "dek": "Health Secretary Lo Chung-mau said none of the seized items were the touted WT1 cancer-prevention product; no reports of anyone receiving the injection locally."
-      },
-      "zh": {
-        "headline": "無牌針劑搜查拘三人 檢獲一千六百劑未經註冊製品",
-        "dek": "醫務衞生局局長盧寵茂表示檢獲物品並非聲稱的WT1防癌疫苗，暫無發現有人在港注射。"
-      }
-    },
-    {
-      "id": "2026-09-05-chp-three-severe-paediatric-flu",
-      "published_at": "2026-09-05T21:06:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "influenza",
-        "chp",
-        "children"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-05/2026-09-05-chp-three-severe-paediatric-flu.json",
-      "en": {
-        "headline": "CHP records three more severe paediatric flu cases; one girl critical",
-        "dek": "A six-year-old girl is in critical condition with influenza A complicated by encephalopathy; a three-year-old girl and 15-year-old boy are in serious condition."
-      },
-      "zh": {
-        "headline": "衞生防護中心再錄三宗兒童流感嚴重個案 一女童危殆",
-        "dek": "六歲女童甲型流感併發腦病變情況危殆，三歲女童及十五歲男童情況嚴重，三人過往均健康良好。"
-      }
-    },
-    {
-      "id": "2026-09-05-lee-five-year-plan-drivers",
-      "published_at": "2026-09-05T15:13:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "economy",
-        "five-year-plan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-05/2026-09-05-lee-five-year-plan-drivers.json",
-      "en": {
-        "headline": "Lee names finance, technology and education as key growth drivers ahead of five-year plan",
-        "dek": "Chief Executive John Lee said the city’s first five-year plan would set broad strategies aligning with the national 15th five-year plan, while the Policy Address would focus on concrete measures."
-      },
-      "zh": {
-        "headline": "李家超：金融、創科、教育為五年規劃三大新增長動力",
-        "dek": "行政長官在社交平台表示，首份五年規劃將訂立宏觀策略並對接國家「十五五」，施政報告則聚焦具體措施，兩者一脈相承。"
-      }
-    },
-    {
-      "id": "2026-09-05-airport-t2-display-fault",
-      "published_at": "2026-09-05T15:12:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "airport",
-        "hkia"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-05/2026-09-05-airport-t2-display-fault.json",
-      "en": {
-        "headline": "Overhead display left dangling at airport Terminal 2 after cable fault",
-        "dek": "A suspended electronic screen at the newly reopened Terminal 2 dropped several metres on Saturday morning but was caught by its fall-arrest system; no one was hurt."
-      },
-      "zh": {
-        "headline": "機場T2離港大堂顯示屏鋼纜故障半天吊 無人受傷",
-        "dek": "今早約8時半，二號客運大樓離港層一塊懸掛電子顯示屏出現故障，防墮系統即時發揮作用，無人受傷，機管局將深入調查。"
       }
     }
   ]
