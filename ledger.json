@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T21:09:39+08:00",
+  "updated_at": "2026-09-08T23:42:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -205,6 +205,24 @@
       "id": "2026-09-08-shenzhen-hk-guangzhou-innovation-top",
       "first_seen": "2026-09-08T21:12:00+08:00",
       "headline_en": "Shenzhen-Hong Kong-Guangzhou cluster retains top global innovation ranking"
+    },
+    {
+      "key": "pisa-2025-hong-kong-results",
+      "id": "2026-09-08-pisa-2025-results",
+      "first_seen": "2026-09-08T23:40:00+08:00",
+      "headline_en": "Hong Kong students slip in PISA rankings but stay above global average"
+    },
+    {
+      "key": "customs-kwai-chung-illicit-cigarettes-sep8",
+      "id": "2026-09-08-customs-kwai-chung-cigarettes",
+      "first_seen": "2026-09-08T23:41:00+08:00",
+      "headline_en": "Customs seizes HK$10.85 million illicit cigarettes in Kwai Chung raid"
+    },
+    {
+      "key": "uber-licence-application-oct2026",
+      "id": "2026-09-08-uber-licence-application",
+      "first_seen": "2026-09-08T23:42:00+08:00",
+      "headline_en": "Uber plans Hong Kong ride-hailing licence application by end of October"
     }
   ]
 }
