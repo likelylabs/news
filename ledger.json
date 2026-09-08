@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T15:05:43+08:00",
+  "updated_at": "2026-09-08T21:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -187,6 +187,24 @@
       "id": "2026-09-08-non-etp-sales-2025-record",
       "first_seen": "2026-09-08T15:06:00+08:00",
       "headline_en": "Hong Kong non-exchange-traded product sales hit record HK$9.9 trillion in 2025"
+    },
+    {
+      "key": "mtr-tst-fare-evasion-aug23-2026",
+      "id": "2026-09-08-mtr-tst-fare-evasion",
+      "first_seen": "2026-09-08T21:10:00+08:00",
+      "headline_en": "MTR reports mass fare evasion at Tsim Sha Tsui station to police"
+    },
+    {
+      "key": "icac-alipayhk-conflict-charges-sep2026",
+      "id": "2026-09-08-icac-alipayhk-conflict",
+      "first_seen": "2026-09-08T21:11:00+08:00",
+      "headline_en": "ICAC charges four over alleged conflict of interest at AlipayHK operator"
+    },
+    {
+      "key": "wipo-gii-shenzhen-hk-guangzhou-2026",
+      "id": "2026-09-08-shenzhen-hk-guangzhou-innovation-top",
+      "first_seen": "2026-09-08T21:12:00+08:00",
+      "headline_en": "Shenzhen-Hong Kong-Guangzhou cluster retains top global innovation ranking"
     }
   ]
 }
