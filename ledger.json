@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T22:06:12+08:00",
+  "updated_at": "2026-09-10T00:05:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -19,6 +19,12 @@
       "id": "2026-09-09-customs-speedboat-cigarettes-sep8",
       "first_seen": "2026-09-09T21:56:00+08:00",
       "headline_en": "Customs seizes 5 million illicit cigarettes from high-powered speedboat"
+    },
+    {
+      "key": "tia-unlicensed-tour-guides-sep7-8-2026",
+      "id": "2026-09-09-tia-unlicensed-tour-guides-sai-kung",
+      "first_seen": "2026-09-10T00:05:00+08:00",
+      "headline_en": "Two mainland visitors arrested as unlicensed tour guides in Sai Kung and Central"
     }
   ]
 }
