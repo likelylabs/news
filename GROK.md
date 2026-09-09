@@ -29,11 +29,24 @@ doubt, leave it out.
 ## 0. Know what time it is in Hong Kong
 
 **Every run, before you write anything, establish the current Hong Kong
-time.** Use HKT (UTC+8): calendar date, day of week, and clock time. The
-scheduler that launches you may be in another timezone (e.g. Pacific); do
-not treat the scheduler's clock as local. Your `published_at` stamps, your
+time.** Use HKT (UTC+8): calendar date, day of week, and clock time.
+Establish it **independently** — from a live search, a dated page you just
+fetched, or an explicit UTC→HKT conversion. The scheduler that launches you
+may be in another timezone (e.g. Pacific); never read the current time off
+the scheduler's clock, off your automation's name (a job called "2am" tells
+you nothing about the hour in Hong Kong), or off the timestamps of earlier
+runs. Your `published_at` stamps, your
 sense of "morning / lunchtime / afternoon / evening", and the weather
 outlook cadence in §1a all depend on **Hong Kong time**.
+
+**Then check where you landed.** The nine daily runs are meant to arrive at
+07:00, 09:00, 11:00, 13:00, 15:00, 17:00, 19:00, 21:00 and 23:00 HKT. If your
+actual HKT time is more than 45 minutes from *every* one of those, this
+automation's schedule is misconfigured — almost always a scheduler set to the
+wrong timezone, which shifts a run by whole hours and never raises an error.
+Publish the run normally and flag it in your output (§2, step 13). Never try
+to compensate by moving `published_at`, by skipping the run, or by writing as
+though it were the intended hour.
 
 ### Pre-flight checklist (mandatory gate)
 
@@ -57,8 +70,13 @@ D. Public-holiday shift: if a long weekend or holiday is shifting the
    break, adjust the hinge day and cover the real span.
 E. Lifestyle count for today: how many `lifestyle-` keys already exist in
    the ledger for the current HKT calendar day? (Cap is 5.)
+F. Landing check: is your HKT clock time within 45 minutes of one of the
+   nine intended slots? If not, record the drift for the run report.
+G. Gap check: how long since the newest `published_at` in `index.json`?
+   About 2 hours is healthy. More than that means runs were missed and this
+   run has ground to make up (§2, step 3).
 
-Only after A–E are answered and any required outlook has been written (or
+Only after A–G are answered and any required outlook has been written (or
 confirmed present) may you move to ledger/index reading and news search.
 
 ---
@@ -305,32 +323,56 @@ translation reads worst, so write it natively for a Hong Kong reader.
      decision, a material forecast change for a weather outlook). Then give
      it a NEW `id`/slug and a `story_key` that names the development, and
      lead with what's new — don't restate the old article.
-3. **Find the latest HK news** (and check weather: notable conditions +
+3. **Gap check — how much ground do you have to make up?** Subtract the
+   newest `published_at` in `index.json` from the current HKT time. On a
+   healthy day that gap is about **2 hours**, because a run lands every two
+   hours. Never assume it is.
+   - **Under 3h** — normal run. Budget: up to 5 net-new news stories.
+   - **3–6h** — at least one run was missed. Search the **whole** gap, not
+     just the last couple of hours. Budget: up to 7.
+   - **Over 6h** — the desk has been dark. Search the whole gap and sweep
+     deliberately for whatever broke while nothing was publishing: HKO
+     warnings raised or cancelled, deaths, serious accidents, arrests and
+     charges, major official decisions, transport disruption, large market
+     moves. Budget: up to 10.
+   - A story that is hours old is **still new to the reader** if it never got
+     published. After an outage, cover it — do not discard it as stale.
+   - **Never backdate.** `published_at` is always the real current time to the
+     minute. When the event happened belongs in the body text ("the Observatory
+     raised the signal at 14:20 on Tuesday"), never in the timestamp.
+   - Report any gap over 3h in the run report (step 13).
+4. **Find the latest HK news** (and check weather: notable conditions +
    standing outlooks if due). Use live web / X search. Prefer primary and
    established sources (government departments and the Observatory, the
    police and courts, official company statements, and reputable Hong Kong
    newsrooms). Note *who* is reporting each fact.
-4. **Then go looking for city life (§1b)** — what's on, what's opening,
+5. **Then go looking for city life (§1b)** — what's on, what's opening,
    what's closing, what's worth a Hong Kong weekend, or any current light /
    quirky / whimsical moment. Check the city-life press listed in §1b and
    verify the details against the venue's or organiser's own announcement.
    Up to 2 pieces this run, within the daily cap of 5. On quiet news runs,
    at least one is required.
-5. **Verify before you write (see §3).** Drop anything you can't stand
+6. **Verify before you write (see §3).** Drop anything you can't stand
    behind.
-6. **Assign each story a `story_key`** — a short lowercase slug naming the
+7. **Assign each story a `story_key`** — a short lowercase slug naming the
    *event itself*, not your headline wording (e.g. `typhoon-signal-8-jul27`,
    not `city-braces-for-storm`). Re-check it against the ledger; skip if
    present.
-7. **Write each article** to `articles/<YYYY-MM-DD>/<id>.json`, matching
+8. **Write each article** to `articles/<YYYY-MM-DD>/<id>.json`, matching
    `schema/article.schema.json` exactly. See `schema/example-article.json`
    for the shape. `id` = `<YYYY-MM-DD>-<slug>`; `published_at` = the **real
    current time to the minute** in `+08:00` (not a rounded placeholder like
    `12:00:00`); `ai_generated: true`.
-8. **Append each published story to `ledger.json`** under `covered`, as
+9. **Append each published story to `ledger.json`** under `covered`, as
    `{ "key": "<story_key>", "id": "<id>", "first_seen": "<now +08:00>",
    "headline_en": "<en.headline>" }`.
-9. **Never touch `index.json`.** You do **not** build the index. Once you
+   **First, reconcile.** Check that every article file already on `main` for
+   today and yesterday has a matching ledger entry. A run that died between
+   writing its articles and updating the ledger left stories that dedup cannot
+   see, and they will be re-reported as new. Add any missing entries in this
+   run's commit, using each article's own `published_at` as `first_seen`. A
+   commit that only repairs the ledger is worth making on its own.
+10. **Never touch `index.json`.** You do **not** build the index. Once you
    commit your article files and the ledger update, the repository's GitHub
    Action validates every article against the schema, trims the ledger, and
    regenerates `index.json` automatically. Your only job is to make sure each
@@ -338,11 +380,11 @@ translation reads worst, so write it natively for a Hong Kong reader.
    before you commit. (If — and only if — your run environment can execute
    code, you may self-check by running `python3 tools/build_index.py`, which
    prints exactly what's wrong; but the Action is the source of truth.)
-10. **Re-verify the Pre-flight checklist.** If any required item is still
+11. **Re-verify the Pre-flight checklist.** If any required item is still
     missing, write and include it before the final commit. If the run would
     otherwise publish nothing, find and publish at least one current
     lifestyle / light / whimsical piece before finishing.
-11. **Commit the whole run at once — ONE commit, ONE push.** Every article
+12. **Commit the whole run at once — ONE commit, ONE push.** Every article
     file you wrote this run *plus* the `ledger.json` update go in a **single
     commit**, pushed **once**, at the very end. Do not commit article by
     article, do not push after each file, and do not push the ledger
@@ -351,6 +393,25 @@ translation reads worst, so write it natively for a Hong Kong reader.
     recovers, but a one-push run is cheaper, and it never leaves an article on
     `main` whose ledger entry hasn't landed yet.) See TIDINESS.md for the
     message convention.
+13. **Verify the push, then report.** Re-read `main` and confirm your commit
+    is actually there and carries every article file you wrote plus the ledger
+    update — a push that reports success while leaving files behind is exactly
+    how a run's work disappears silently. If anything is missing, push **one**
+    corrective commit containing only what is missing; never rewrite or
+    re-push what already landed. Then end the run with a short status block,
+    **even if you published nothing**:
+
+    ```
+    HKT landing: <HH:MM> | nearest slot: <HH:MM> | drift: <none | Nh Mm>
+    Gap since last published article: <Nh Mm>
+    Published: <N> news, <N> lifestyle, <N> weather
+    Ledger entries repaired: <N>
+    Push verified on main: <yes / no>
+    Anomalies: <schedule drift, long gap, connector or write errors, or none>
+    ```
+
+    A silent run is indistinguishable from a crashed one, and that is how an
+    outage goes unnoticed for hours.
 
 **COMPLETION RULE (non-negotiable):**
 - Do not end your turn until you have successfully pushed one commit that
@@ -369,6 +430,10 @@ translation reads worst, so write it natively for a Hong Kong reader.
   a required outlook).
 - If you have written article files locally, you must push them in the same
   turn.
+- The push is not the end of the run. You are done only once you have
+  **verified the commit landed on `main`** with every file it should carry,
+  and emitted the run report (step 13). An unverified push and an unreported
+  run are both incomplete.
 
 Full file-hygiene rules live in **TIDINESS.md** — follow it.
 
