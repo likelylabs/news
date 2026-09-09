@@ -430,6 +430,22 @@ translation reads worst, so write it natively for a Hong Kong reader.
   a required outlook).
 - If you have written article files locally, you must push them in the same
   turn.
+- **Your workspace does not survive the run.** Anything written but not
+  pushed is destroyed the moment you stop. No later run inherits it and
+  nobody is told it existed — there is no "it'll get picked up next time".
+- **Write as you verify.** Write each article to its file as soon as it
+  clears §3, rather than researching everything and writing at the end. A
+  run that gets cut short then still has finished files to push.
+- **Running short? Cut scope, never the ending.** If you are low on time,
+  context or tool calls, stop researching immediately and finish what you
+  already hold. One verified story — written, ledgered, committed and
+  pushed — is a **successful run**. Five researched and none pushed is a
+  total loss. Always trade breadth for a completed push.
+- **A partial run that landed beats a whole run that vanished.** One commit
+  per run is the target (step 12), but if you genuinely cannot finish, push
+  the articles you have written together with their ledger entries rather
+  than ending the turn holding unpushed work. The index rebuild tolerates an
+  extra push; it cannot recover work that was never pushed.
 - The push is not the end of the run. You are done only once you have
   **verified the commit landed on `main`** with every file it should carry,
   and emitted the run report (step 13). An unverified push and an unreported
