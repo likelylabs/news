@@ -1,8 +1,117 @@
 {
-  "generated_at": "2026-09-09T07:07:02+08:00",
+  "generated_at": "2026-09-09T09:15:54+08:00",
   "live_window_hours": 72,
   "count": 77,
   "articles": [
+    {
+      "id": "2026-09-09-lifestyle-tai-kwun-better-together",
+      "published_at": "2026-09-09T09:16:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events",
+        "exhibition"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-lifestyle-tai-kwun-better-together.json",
+      "en": {
+        "headline": "Tai Kwun Hong Kong movie exhibition runs into early October",
+        "dek": "Better Together – Partnering Up for Hong Kong Movies is on at the Duplex Studio in Central through 4 October, with replica sets and interviews from film crews."
+      },
+      "zh": {
+        "headline": "大館港產片「拍住上」展覽展至10月4日",
+        "dek": "大館夏季展覽「拍住上—光影裡並肩馳馳的我們」在中環01座複式展室舉行至10月4日，重現經典對手戲場景及道具複製品。"
+      }
+    },
+    {
+      "id": "2026-09-09-sun-childcare-places-0-to-2",
+      "published_at": "2026-09-09T09:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "government",
+        "family",
+        "education"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-sun-childcare-places-0-to-2.json",
+      "en": {
+        "headline": "Labour chief says new childcare places will target infants under two",
+        "dek": "Chris Sun said subsidised standalone child care centre places should nearly double by the end of 2029, with extra capacity aimed at the 0-to-2 age group."
+      },
+      "zh": {
+        "headline": "孫玉菴：新增幼兒中心名額將集中0至2歲",
+        "dek": "勞福局長表示，資助獨立幼兒中心名額料於2029年底前增加約1,500個、接近翻倍，新增資源會盡量投放在0至2歲嬰幼兒。"
+      }
+    },
+    {
+      "id": "2026-09-09-chp-paediatric-influenza-h1",
+      "published_at": "2026-09-09T09:14:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "education",
+        "students",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-chp-paediatric-influenza-h1.json",
+      "en": {
+        "headline": "CHP records severe paediatric flu case as vaccination drive nears",
+        "dek": "A five-year-old boy with long-term illness is stable in paediatric intensive care with influenza A (H1) complicated by severe pneumonia, the Centre for Health Protection said."
+      },
+      "zh": {
+        "headline": "再錄兒童嚴重流感個案 疫苗計劃下週展開",
+        "dek": "衞生防護中心公布，一名有長期病患的五歲男童確診甲型H1流感併發嚴重肺炎，現於兒童深切治療部留醫，情況穩定。"
+      }
+    },
+    {
+      "id": "2026-09-09-lok-ma-chau-etomidate-lab",
+      "published_at": "2026-09-09T09:13:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "drugs",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-lok-ma-chau-etomidate-lab.json",
+      "en": {
+        "headline": "Police raid village-house etomidate workshop in Lok Ma Chau",
+        "dek": "Border District officers say they seized 5,960 suspected liquid etomidate cartridges worth more than HK$1.5 million and arrested a 40-year-old man."
+      },
+      "zh": {
+        "headline": "警搗落馬洲村屋依托咪酯工場 檢近六千煙彈",
+        "dek": "邊界警區周一晚搜查落馬洲料壘村分租單位，檢獲5,960粒懷疑液態依托咪酯煙彈，市值逾150萬元，並拘捕一名40歲男子。"
+      }
+    },
+    {
+      "id": "2026-09-09-fanling-pak-wo-road-fatal-crash",
+      "published_at": "2026-09-09T09:12:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic",
+        "police",
+        "safety",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-fanling-pak-wo-road-fatal-crash.json",
+      "en": {
+        "headline": "Driver dies after private car hits central divider in Fanling",
+        "dek": "A man in his 50s was trapped after a car left the carriageway on Pak Wo Road on Tuesday night; police later found suspected drug-taking equipment in the vehicle."
+      },
+      "zh": {
+        "headline": "粉嶺百和路私家車撞壘 司機送院不治",
+        "dek": "周二晚一輛私家車在粉嶺百和路近蓬瀛仙館失控撞向路中石壘，50多歲司機被困送院後不治；警方其後在車內檢獲懷疑吸毒工具。"
+      }
+    },
     {
       "id": "2026-09-09-lifestyle-cats-xiqu-finale",
       "published_at": "2026-09-09T07:22:00+08:00",
@@ -1563,108 +1672,6 @@
       "zh": {
         "headline": "福建年輕廚師游振龍中環開「福上」",
         "dek": "漳州出生的主廚兼東主上周五在皇后大道中H Queen's二十一樓開業，他是首屆《米芝蓮指南．福建》年輕廚師獎得主。"
-      }
-    },
-    {
-      "id": "2026-09-06-lifestyle-sha-tin-season-opening",
-      "published_at": "2026-09-06T09:15:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "lifestyle",
-        "sport",
-        "sha-tin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-06/2026-09-06-lifestyle-sha-tin-season-opening.json",
-      "en": {
-        "headline": "Sha Tin opens the 2026/27 racing season this afternoon",
-        "dek": "The Jockey Club starts the new season at Sha Tin from 11.15am, with the first of 10 races at 12.30pm; Horse of the Year Ka Ying Rising runs in the Chief Executive's Cup."
-      },
-      "zh": {
-        "headline": "2026/27馬季今日沙田開鑼 嘉應高昇出戰特首盃",
-        "dek": "沙田馬場上午十一時十五分展開開鑼活動，首場下午十二時三十分開跑，共十場；上季馬王嘉應高昇出戰第三場香港特區行政長官盃。"
-      }
-    },
-    {
-      "id": "2026-09-06-aberdeen-tunnel-scooter-crash",
-      "published_at": "2026-09-06T09:14:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "traffic",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-06/2026-09-06-aberdeen-tunnel-scooter-crash.json",
-      "en": {
-        "headline": "Motorcyclist left unconscious after crash at Aberdeen Tunnel exit",
-        "dek": "A man aged about 30 was taken to Queen Mary Hospital after his scooter hit a crash barrier near the tunnel bus interchange early on Sunday; police are investigating."
-      },
-      "zh": {
-        "headline": "香港仔隧道出口綿羊仔撞欄 約30歲鐵騎士昏迷送院",
-        "dek": "今晨約兩時三十五分，一輛綿羊仔駞出香港仔隧道後撞向風琴式防撞欄，鐵騎士昏迷送瑪麗醫院，警方調查原因。"
-      }
-    },
-    {
-      "id": "2026-09-06-lifestyle-gruffalo-hkapa",
-      "published_at": "2026-09-06T07:20:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-06/2026-09-06-lifestyle-gruffalo-hkapa.json",
-      "en": {
-        "headline": "The Gruffalo plays two more shows at APA today",
-        "dek": "Tall Stories' hour-long English musical of the Julia Donaldson picture book continues at the Wan Chai campus this afternoon, with a second weekend next week."
-      },
-      "zh": {
-        "headline": "《咕噜牛》今日在演藝學院尚有兩場",
-        "dek": "根據朱莉娅唐納森繪本改編的英語音樂劇今早十一時及下午二時在灣仔演藝學院上演，下周末十一至十三日還有第二輪場次。"
-      }
-    },
-    {
-      "id": "2026-09-06-squash-youth-worlds-new-york",
-      "published_at": "2026-09-06T07:19:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-06/2026-09-06-squash-youth-worlds-new-york.json",
-      "en": {
-        "headline": "Hong Kong youth squash team to make world championships debut",
-        "dek": "Nineteen players will leave for New York next week after a send-off attended by Financial Secretary Paul Chan, the first time the city fields a youth squash side at the worlds."
-      },
-      "zh": {
-        "headline": "港青年牆球隊下周首征紐約世錦賽",
-        "dek": "財政司司長陳茂波昨日出席誓師大會，約三十名隊員之中十九人將啟程出賽，是香港首次派出青年牆球代表隊出戰世錦賽。"
-      }
-    },
-    {
-      "id": "2026-09-06-lee-ng-china-masters-final",
-      "published_at": "2026-09-06T07:18:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "badminton"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-06/2026-09-06-lee-ng-china-masters-final.json",
-      "en": {
-        "headline": "Lee Cheuk Yiu and Ng Wing Lun meet in China Masters final",
-        "dek": "The two Hong Kong shuttlers will contest the Super 750 men's singles title in Shenzhen this afternoon after both upset higher-ranked opponents on Saturday."
-      },
-      "zh": {
-        "headline": "李卓耀吳英倫會師中國大師賽男單決賽",
-        "dek": "兩名港將周六先後爆冷擊敗更高排名對手，今日下午在深圳爭奪超級750男單冠軍，亦是港隊首次包辦此級別單打決賽席位。"
       }
     }
   ]
