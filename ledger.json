@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T00:04:45+08:00",
+  "updated_at": "2026-09-10T01:28:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -25,6 +25,24 @@
       "id": "2026-09-09-tia-unlicensed-tour-guides-sai-kung",
       "first_seen": "2026-09-10T00:05:00+08:00",
       "headline_en": "Two mainland visitors arrested as unlicensed tour guides in Sai Kung and Central"
+    },
+    {
+      "key": "medical-council-rejects-complaint-timeframes-sep9",
+      "id": "2026-09-10-medical-council-rejects-timeframes",
+      "first_seen": "2026-09-10T01:25:00+08:00",
+      "headline_en": "Medical Council rejects target time frames for handling complaints"
+    },
+    {
+      "key": "tiangong-class-hk-macao-sep9-2026",
+      "id": "2026-09-10-tiangong-class-lai-ka-ying",
+      "first_seen": "2026-09-10T01:26:00+08:00",
+      "headline_en": "Hong Kong’s first astronaut leads live Tiangong Class for students"
+    },
+    {
+      "key": "lifestyle-flockfest-pmq-sep11-13-2026",
+      "id": "2026-09-10-lifestyle-flockfest-pmq",
+      "first_seen": "2026-09-10T01:27:00+08:00",
+      "headline_en": "FLOCKFEST craft beer and music festival opens at PMQ this weekend"
     }
   ]
 }
