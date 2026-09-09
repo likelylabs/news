@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-09-10T00:04:45+08:00",
+  "generated_at": "2026-09-10T01:24:58+08:00",
   "live_window_hours": 72,
-  "count": 76,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-09-10-lifestyle-flockfest-pmq",
+      "published_at": "2026-09-10T01:27:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events",
+        "food"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-lifestyle-flockfest-pmq.json",
+      "en": {
+        "headline": "FLOCKFEST craft beer and music festival opens at PMQ this weekend",
+        "dek": "Black Kite Brewery hosts eight Hong Kong and Japanese breweries, indie live sets and local food at the Central courtyard from Friday to Sunday, with free admission."
+      },
+      "zh": {
+        "headline": "FLOCKFEST精釀啤酒音樂節本周末PMQ舉行",
+        "dek": "黑鳶啤酒於中環元創方廣場舉辦為期三天的精釀啤酒與獨立音樂節，匯聚港日八間酒廠，免費入場。"
+      }
+    },
+    {
+      "id": "2026-09-10-tiangong-class-lai-ka-ying",
+      "published_at": "2026-09-10T01:26:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "education",
+        "space",
+        "technology"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-tiangong-class-lai-ka-ying.json",
+      "en": {
+        "headline": "Hong Kong’s first astronaut leads live Tiangong Class for students",
+        "dek": "Lai Ka-ying and her Shenzhou-23 crewmates delivered a 90-minute science lesson from the space station to pupils at her alma mater and campuses across Hong Kong and Macao."
+      },
+      "zh": {
+        "headline": "港產航天員黎家盈主持天宮課堂",
+        "dek": "黎家盈聯同神舟二十三號乘組周三上午從空間站為港澳學生進行90分鐘直播授課，主場設於其母校荃灣公立何傳耀紀念中學。"
+      }
+    },
+    {
+      "id": "2026-09-10-medical-council-rejects-timeframes",
+      "published_at": "2026-09-10T01:25:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "government",
+        "doctors"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-medical-council-rejects-timeframes.json",
+      "en": {
+        "headline": "Medical Council rejects target time frames for handling complaints",
+        "dek": "The watchdog told Legco a statutory requirement for milestones is unnecessary and can be handled administratively, as it responded to a government reform bill."
+      },
+      "zh": {
+        "headline": "醫委會反對投訴處理設法定時限",
+        "dek": "醫委會書面回應立法會指無需在法例訂明各步驟目標時限，可按現行行政方式處理，並就政府改革草案提出意見。"
+      }
+    },
     {
       "id": "2026-09-09-tia-unlicensed-tour-guides-sai-kung",
       "published_at": "2026-09-10T00:05:00+08:00",
