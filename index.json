@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-10T01:24:58+08:00",
+  "generated_at": "2026-09-10T03:16:54+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-09-10-lifestyle-stanley-whitney-gagosian",
+      "published_at": "2026-09-10T03:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "exhibition",
+        "art"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-lifestyle-stanley-whitney-gagosian.json",
+      "en": {
+        "headline": "Stanley Whitney’s first Asia solo opens at Gagosian Hong Kong",
+        "dek": "The American abstract painter’s exhibition Isn’t Love the Strangest Thing, featuring new and recent grid paintings, runs from 10 September to 7 November at the Pedder Building gallery."
+      },
+      "zh": {
+        "headline": "Stanley Whitney亞洲首個個展於高古軒香港開幕",
+        "dek": "美國抽象畫家Stanley Whitney的《愛難道不是奇妙無比》展出新作及近作，9月10日至11月7日於中環畢打行高古軒舉行。"
+      }
+    },
     {
       "id": "2026-09-10-lifestyle-flockfest-pmq",
       "published_at": "2026-09-10T01:27:00+08:00",
