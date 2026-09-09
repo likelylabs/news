@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-09-09T11:11:32+08:00",
+  "generated_at": "2026-09-09T19:48:13+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 76,
   "articles": [
+    {
+      "id": "2026-09-09-sun-childcare-northern-metropolis",
+      "published_at": "2026-09-09T19:51:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "government",
+        "family"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-sun-childcare-northern-metropolis.json",
+      "en": {
+        "headline": "Sun says government will help firms run childcare in Northern Metropolis",
+        "dek": "Labour chief Chris Sun told RTHK workplace centres there could follow the airport preschool model, as the city looks for more places for children under two."
+      },
+      "zh": {
+        "headline": "孫玉菡：政府支援企業在北部都會區開設託兒",
+        "dek": "勞福局長接受港台訪問時表示，北部都會區託兒可參考機場員工幼兒中心模式，並重申會增加兩歲以下名額。"
+      }
+    },
+    {
+      "id": "2026-09-09-sohar-international-hk-office",
+      "published_at": "2026-09-09T19:50:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "banking",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-sohar-international-hk-office.json",
+      "en": {
+        "headline": "Oman’s Sohar International to open Hong Kong office this week",
+        "dek": "Sources say the Omani lender will open a representative office at Cheung Kong Center II in Central, its first presence outside the Middle East."
+      },
+      "zh": {
+        "headline": "阿曼Sohar銀行本周擬在中環開設代表處",
+        "dek": "消息指阿曼第二大銀行將於長江集團中心二期開設代表處，是該行首次在中東以外設點，開幕儀式料周四舉行。"
+      }
+    },
     {
       "id": "2026-09-09-lifestyle-wears-hk-popups",
       "published_at": "2026-09-09T11:09:00+08:00",
@@ -1604,134 +1646,6 @@
       "zh": {
         "headline": "警拘22歲男子涉假冒貓狗協會賣旗詐騙",
         "dek": "香港拯救貓狗協會合法賣旗日，有人在旺角用假旗袋混入真義工隊募捐，警方截獲14名受僱臨時工後，今日拘捕一名本地男子。"
-      }
-    },
-    {
-      "id": "2026-09-06-csdi-spatial-data-platform",
-      "published_at": "2026-09-06T15:28:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "government",
-        "innovation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-06/2026-09-06-csdi-spatial-data-platform.json",
-      "en": {
-        "headline": "Development Bureau highlights spatial data platform with over 1,100 datasets",
-        "dek": "Secretary Ning Hoi-yan said the Common Spatial Data Infrastructure portal now draws data from more than 70 departments and supports applications ranging from walkability tools to hiking safety apps."
-      },
-      "zh": {
-        "headline": "發展局指空間數據共享平台已匯聚逾1100個數據集",
-        "dek": "局長甯漢豪表示，平台涵蓋規劃、地政、運輸等數據，已支援步行路線工具及遠足安全應用程式。"
-      }
-    },
-    {
-      "id": "2026-09-06-ka-ying-rising-ce-cup-win",
-      "published_at": "2026-09-06T15:27:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "racing",
-        "sha-tin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-06/2026-09-06-ka-ying-rising-ce-cup-win.json",
-      "en": {
-        "headline": "Ka Ying Rising extends winning streak to 21 in Chief Executive’s Cup",
-        "dek": "The world’s top sprinter won the Group Three feature at Sha Tin by nearly eight lengths, lowering the track record on the opening day of the new season."
-      },
-      "zh": {
-        "headline": "嘉應高昇首席行政長官盃連勝第21場",
-        "dek": "世界頂級短途馬周日在沙田開鑼日以近八個馬位勝出三級賽，並打破場地紀錄。"
-      }
-    },
-    {
-      "id": "2026-09-06-cycling-fatalities-h1",
-      "published_at": "2026-09-06T15:26:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "traffic",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-06/2026-09-06-cycling-fatalities-h1.json",
-      "en": {
-        "headline": "Fatal cycling accidents more than double in first half of 2026",
-        "dek": "Police recorded nine cycling deaths in the first six months, a 125 per cent rise, and attributed the increase to riders ignoring signals and other risky behaviour."
-      },
-      "zh": {
-        "headline": "今年上半年致命單車意外急增逾倍 九人死亡",
-        "dek": "警方指首六個月錄得九宗致命單車意外，按年升125%，認為與騎車人士漠視交通燈號及危險行為有關。"
-      }
-    },
-    {
-      "id": "2026-09-06-workweek-weather-outlook",
-      "published_at": "2026-09-06T15:25:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "forecast",
-        "observatory"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-06/2026-09-06-workweek-weather-outlook.json",
-      "en": {
-        "headline": "Work-week outlook: sunny periods and isolated showers, hotter midweek",
-        "dek": "The Observatory expects mainly fine weather with sunny intervals early in the week before the northeast monsoon strengthens later, bringing cooler nights and a chance of showers."
-      },
-      "zh": {
-        "headline": "下周天氣展望：初段有陽光 中後期東北季候風增強",
-        "dek": "天文台預期下周初大致天晴間中有驟雨，其後東北季候風影響，風勢增強，氣溫稍降，周末或轉為較不穩定。"
-      }
-    },
-    {
-      "id": "2026-09-06-lee-five-year-plan-policy-address",
-      "published_at": "2026-09-06T13:22:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "government",
-        "policy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-06/2026-09-06-lee-five-year-plan-policy-address.json",
-      "en": {
-        "headline": "Lee says five-year plan will lift livelihoods through long-term strategy",
-        "dek": "Chief Executive John Lee posted on social media that the first Hong Kong five-year plan and the Policy Address will both be issued on 16 September, with the plan setting macro strategy and the address delivering…"
-      },
-      "zh": {
-        "headline": "李家超：五年規劃以長策提升民生福祉 施政報告推具體措施",
-        "dek": "行政長官李家超今日在社交平台表示，香港首個五年規劃將於9月16日與施政報告同日公布，規劃以長遠策略提升民生，施政報告則每年推出房屋、民生及醫療等具體措施。"
-      }
-    },
-    {
-      "id": "2026-09-06-yuk-kwai-shan-hiker-collapse",
-      "published_at": "2026-09-06T13:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "rescue",
-        "hiking",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-06/2026-09-06-yuk-kwai-shan-hiker-collapse.json",
-      "en": {
-        "headline": "Elderly hiker collapses on Ap Lei Chau hill, airlifted to hospital",
-        "dek": "A man aged about 70 was found unconscious with a head injury while hiking alone on Yuk Kwai Shan on Sunday morning; Government Flying Service helicopter lifted him to Pamela Youde Nethersole Eastern Hospital."
-      },
-      "zh": {
-        "headline": "鴨脷洲玉桂山老翁行山昏迷 直升機吊起送院",
-        "dek": "一名約70歲男子今日上午獨自行山期間暈倒頭部受傷，消防人員上山後由政府飛行服務隊直升機吊起送往東區醫院，抵院時需進行心肺復甦。"
       }
     }
   ]
