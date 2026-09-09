@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-09T11:09:25+08:00",
+  "generated_at": "2026-09-09T11:11:32+08:00",
   "live_window_hours": 72,
-  "count": 82,
+  "count": 80,
   "articles": [
     {
       "id": "2026-09-09-lifestyle-wears-hk-popups",
@@ -1732,50 +1732,6 @@
       "zh": {
         "headline": "鴨脷洲玉桂山老翁行山昏迷 直升機吊起送院",
         "dek": "一名約70歲男子今日上午獨自行山期間暈倒頭部受傷，消防人員上山後由政府飛行服務隊直升機吊起送往東區醫院，抵院時需進行心肺復甦。"
-      }
-    },
-    {
-      "id": "2026-09-06-cityu-ev-battery-reuse-fund",
-      "published_at": "2026-09-06T11:11:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "innovation",
-        "university",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-06/2026-09-06-cityu-ev-battery-reuse-fund.json",
-      "en": {
-        "headline": "CityU team uses green-research grant to reuse retired EV batteries",
-        "dek": "Professor Chung Shu-hung's group received HK$6.7 million from the Low Carbon Green Research Fund to develop a smart power conditioner for second-life electric-vehicle batteries."
-      },
-      "zh": {
-        "headline": "城大獲綠色科研基金研退役電動車電池再利用",
-        "dek": "電機工程學系鍾樹鴻教授團隊獲環境及生態局低碳綠色科研基金撥款六百七十萬元，研發智能功率調節器，讓退役電動車電池作一般供電。"
-      }
-    },
-    {
-      "id": "2026-09-06-hsr-signal-fault-delays",
-      "published_at": "2026-09-06T11:10:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "mtr",
-        "rail",
-        "traffic"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-06/2026-09-06-hsr-signal-fault-delays.json",
-      "en": {
-        "headline": "High-speed rail delayed after morning signalling fault",
-        "dek": "The Transport Department said MTR reported a signalling fault shortly after 8am; at least 14 trains from West Kowloon were delayed before the operator said the fault had been cleared."
-      },
-      "zh": {
-        "headline": "高鐵今晨信號故障 西九龍多班列車延誤",
-        "dek": "運輸署早上約八時二十七分接獲港鐵通知，高鐵因信號故障延誤；12306顯示至少十四班由西九龍開出的列車受影響，其後港鐵指故障已處理。"
       }
     }
   ]
