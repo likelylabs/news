@@ -1,8 +1,112 @@
 {
-  "generated_at": "2026-09-10T06:39:42+08:00",
+  "generated_at": "2026-09-10T07:10:45+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-09-10-lifestyle-peking-opera-cultural-centre",
+      "published_at": "2026-09-10T07:11:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-lifestyle-peking-opera-cultural-centre.json",
+      "en": {
+        "headline": "Peking opera series opens Friday at the Cultural Centre",
+        "dek": "The China Peking Opera Art Foundation brings three nights to the Grand Theatre from 11 to 13 September, with a Jockey Club sponsorship."
+      },
+      "zh": {
+        "headline": "香江國粹情周五起文化中心連演三晚",
+        "dek": "中國京劇藝術基金會香港行9月11日至13日在文化中心大劇院上演，由香港賽馬會獨家贊助，張建國領衔。"
+      }
+    },
+    {
+      "id": "2026-09-10-thunderstorm-warning-overnight",
+      "published_at": "2026-09-10T07:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-thunderstorm-warning-overnight.json",
+      "en": {
+        "headline": "Observatory cancels overnight thunderstorm warning before dawn",
+        "dek": "The alert was lifted at 4.45am after isolated storms over the New Territories; Thursday is forecast to be dry with sunny periods and a high near 32C."
+      },
+      "zh": {
+        "headline": "天文台清晨取消通宵雷暴警告",
+        "dek": "警告於上午4時45分取消，新界北部清晨錄得超過20毫米雨量；周四日間大致乾燥，最高氣溫約32度。"
+      }
+    },
+    {
+      "id": "2026-09-10-za-bank-lee-garden-eight-hq",
+      "published_at": "2026-09-10T07:09:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "banking",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-za-bank-lee-garden-eight-hq.json",
+      "en": {
+        "headline": "ZA Bank to take new Causeway Bay headquarters at Lee Garden Eight",
+        "dek": "The virtual bank will occupy about 45,000 square feet across four floors of Tower 3, with a move planned in 2027, Hysan and the lender said."
+      },
+      "zh": {
+        "headline": "眾安銀行承租利園八期四層作新總部",
+        "dek": "虛擬銀行ZA Bank將租用銅鑼灣利園八期3座約4.5萬平方呎寫字樓，料2027年啟用，遷離數碼港。"
+      }
+    },
+    {
+      "id": "2026-09-10-customs-kwai-chung-kwu-tung-tobacco",
+      "published_at": "2026-09-10T07:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "customs",
+        "smuggling"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-customs-kwai-chung-kwu-tung-tobacco.json",
+      "en": {
+        "headline": "Customs seizes HK$102 million of illicit tobacco in Kwai Chung and Kwu Tung",
+        "dek": "Officers raided an export staging point and two packaging stores on Tuesday and arrested a local lorry driver, Customs said on Wednesday."
+      },
+      "zh": {
+        "headline": "海關葵涌古洞搗三私煙點檢逾億元貨",
+        "dek": "海關周二在葵涌物流倉及古洞兩個鐵皮場檢獲約1,280萬支未完稅香煙及6,300公斤煙草，市值約1.02億元，拘捕一名本地貨車司機。"
+      }
+    },
+    {
+      "id": "2026-09-10-labour-dept-wang-fuk-osh-charges",
+      "published_at": "2026-09-10T07:07:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "courts",
+        "housing",
+        "safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-labour-dept-wang-fuk-osh-charges.json",
+      "en": {
+        "headline": "Labour Department files 25 charges over Wang Fuk Court worker deaths",
+        "dek": "Prosecutions under the Factories and Industrial Undertakings Ordinance target duty holders over the November fire that killed five contractor staff at the Tai Po estate."
+      },
+      "zh": {
+        "headline": "勞工處就宏福苑五名工友遇難提25項檢控",
+        "dek": "勞工處經徵詢律政司後，根據《工廠及工業經營條例》向承建商、工程顧問及個別人士提出公訴，涉去年11月大埔宏福苑維修地盤火警。"
+      }
+    },
     {
       "id": "2026-09-10-lifestyle-stanley-whitney-gagosian",
       "published_at": "2026-09-10T03:20:00+08:00",
