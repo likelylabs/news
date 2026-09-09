@@ -1,8 +1,134 @@
 {
-  "generated_at": "2026-09-09T09:16:54+08:00",
+  "generated_at": "2026-09-09T11:09:25+08:00",
   "live_window_hours": 72,
-  "count": 76,
+  "count": 82,
   "articles": [
+    {
+      "id": "2026-09-09-lifestyle-wears-hk-popups",
+      "published_at": "2026-09-09T11:09:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-lifestyle-wears-hk-popups.json",
+      "en": {
+        "headline": "Wear's HK designer pop-ups run at six sites through mid-September",
+        "dek": "Twenty Hong Kong labels are in temporary shops at Harbour City, ifc mall, Pacific Place, Hysan Place, Festival Walk and the airport until 14 September."
+      },
+      "zh": {
+        "headline": "「Wear's HK」六區時裝快閃店開至9月14日",
+        "dek": "香港時裝薇項目於海港城、ifc、太古廣場、希慎、又一城及機場設20個本地設計師快閃點，部分點只開至本周末。"
+      }
+    },
+    {
+      "id": "2026-09-09-lifestyle-mplus-herzog-de-meuron",
+      "published_at": "2026-09-09T11:08:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "exhibition",
+        "west-kowloon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-lifestyle-mplus-herzog-de-meuron.json",
+      "en": {
+        "headline": "M+ opens Herzog & de Meuron architecture display on Saturday",
+        "dek": "Models, drawings and material samples from the Swiss firm that designed M+ and Tai Kwun go on view in the Focus Gallery from 12 September to 10 January."
+      },
+      "zh": {
+        "headline": "M+周六起展出Herzog & de Meuron建築捐贈",
+        "dek": "設計M+及大館的瑞士事務所向博物館第二期捐贈的模型、繪圖及物料樣本，9月12日至明年1月10日於二樓焦點空間展出。"
+      }
+    },
+    {
+      "id": "2026-09-09-kwu-tung-illegal-petrol",
+      "published_at": "2026-09-09T11:07:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-kwu-tung-illegal-petrol.json",
+      "en": {
+        "headline": "Fire Services seize 7,984 litres of diesel at Kwu Tung site",
+        "dek": "A task force targeting illegal refuelling found an unlicensed filling point on Kwu Tung Road on Monday and will prosecute two men under fire-hazard and dangerous-goods laws."
+      },
+      "zh": {
+        "headline": "消防古洞路搗非法油站 檢近8,000公升柴油",
+        "dek": "消防處打擊非法燃油轉注特遣隊周一在古洞路發現非法加油站，檢獲7,984公升柴油，市值約29.2萬元，兩名男子將被檢控。"
+      }
+    },
+    {
+      "id": "2026-09-09-elderly-meal-vouchers-sixth",
+      "published_at": "2026-09-09T11:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "government",
+        "family"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-elderly-meal-vouchers-sixth.json",
+      "en": {
+        "headline": "Sixth round of HK$18 elderly tea vouchers starts 16 September",
+        "dek": "Chief Secretary Eric Chan said more than 200 elderly centres will issue eight-voucher packs to about 70,000 older people, redeemable from 1 October at eight restaurant groups."
+      },
+      "zh": {
+        "headline": "第六輪長者18元下午茶券下周三起派發",
+        "dek": "政務司司長陳國基表示，全港逾200間長者中心將向約7萬名長者派發每套8張餐券，10月1日至11月30日可到8間飲食集團以18元用指定下午茶。"
+      }
+    },
+    {
+      "id": "2026-09-09-youdi-robotics-debut",
+      "published_at": "2026-09-09T11:05:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "technology"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-youdi-robotics-debut.json",
+      "en": {
+        "headline": "Youdi Robotics jumps more than 140 percent on Hong Kong debut",
+        "dek": "The Wuxi-based commercial service-robot maker opened at HK$35 against an issue price of HK$14.45 after its public offer was about 140 times subscribed."
+      },
+      "zh": {
+        "headline": "優地機械人港股上市高開逾1.4倍",
+        "dek": "無錫商用服務機械人公司優地機械人（03231）周三掛牌，開市報35港元，較招股價14.45港元升約142%，公開發售超購約140倍。"
+      }
+    },
+    {
+      "id": "2026-09-09-customs-airport-three-passenger-drugs",
+      "published_at": "2026-09-09T11:04:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "customs",
+        "drugs",
+        "airport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-customs-airport-three-passenger-drugs.json",
+      "en": {
+        "headline": "Customs seizes HK$13 million of drugs from three airport passengers",
+        "dek": "Officers at Hong Kong International Airport arrested three incoming travellers on Tuesday and seized about 25kg of suspected ketamine and 13kg of suspected cannabis buds."
+      },
+      "zh": {
+        "headline": "海關機場破三宗旅客販毒案 檢1300萬元K仔及大麻",
+        "dek": "海關周二在香港國際機場先後截獲三名入境旅客，檢獲約25公斤懸疑氯胺酮及13公斤懸疑大麻花，市值約1,300萬元。"
+      }
+    },
     {
       "id": "2026-09-09-lifestyle-tai-kwun-better-together",
       "published_at": "2026-09-09T09:16:00+08:00",
