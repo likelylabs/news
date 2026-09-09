@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T19:50:23+08:00",
+  "updated_at": "2026-09-09T19:58:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -349,6 +349,30 @@
       "id": "2026-09-09-sun-childcare-northern-metropolis",
       "first_seen": "2026-09-09T19:51:00+08:00",
       "headline_en": "Sun says government will help firms run childcare in Northern Metropolis"
+    },
+    {
+      "key": "symphony-of-lights-paused-sep9-2026",
+      "id": "2026-09-09-symphony-of-lights-paused",
+      "first_seen": "2026-09-09T19:55:00+08:00",
+      "headline_en": "Symphony of Lights paused from Wednesday until further notice"
+    },
+    {
+      "key": "customs-counterfeit-temple-street-tung-choi-sep2026",
+      "id": "2026-09-09-customs-counterfeit-yau-ma-tei-mong-kok",
+      "first_seen": "2026-09-09T19:56:00+08:00",
+      "headline_en": "Customs seizes HK$1 million counterfeit goods before Golden Week"
+    },
+    {
+      "key": "chp-mpox-two-cases-sep9-2026",
+      "id": "2026-09-09-chp-two-mpox-cases",
+      "first_seen": "2026-09-09T19:57:00+08:00",
+      "headline_en": "CHP records two mpox cases; both men had high-risk contact"
+    },
+    {
+      "key": "william-wong-sha-tin-court-sep9-2026",
+      "id": "2026-09-09-william-wong-drink-drive-court",
+      "first_seen": "2026-09-09T19:58:00+08:00",
+      "headline_en": "Ex-lawmaker William Wong bailed on four traffic charges"
     }
   ]
 }
