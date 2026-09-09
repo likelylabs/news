@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T11:11:32+08:00",
+  "updated_at": "2026-09-09T19:51:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -337,6 +337,18 @@
       "id": "2026-09-09-lifestyle-wears-hk-popups",
       "first_seen": "2026-09-09T11:09:00+08:00",
       "headline_en": "Wear's HK designer pop-ups run at six sites through mid-September"
+    },
+    {
+      "key": "sohar-international-representative-office-hk-2026",
+      "id": "2026-09-09-sohar-international-hk-office",
+      "first_seen": "2026-09-09T19:50:00+08:00",
+      "headline_en": "Oman’s Sohar International to open Hong Kong office this week"
+    },
+    {
+      "key": "sun-childcare-northern-metropolis-firms-2026",
+      "id": "2026-09-09-sun-childcare-northern-metropolis",
+      "first_seen": "2026-09-09T19:51:00+08:00",
+      "headline_en": "Sun says government will help firms run childcare in Northern Metropolis"
     }
   ]
 }
