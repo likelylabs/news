@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T01:24:58+08:00",
+  "updated_at": "2026-09-10T03:20:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -43,6 +43,12 @@
       "id": "2026-09-10-lifestyle-flockfest-pmq",
       "first_seen": "2026-09-10T01:27:00+08:00",
       "headline_en": "FLOCKFEST craft beer and music festival opens at PMQ this weekend"
+    },
+    {
+      "key": "lifestyle-stanley-whitney-gagosian-sep10",
+      "id": "2026-09-10-lifestyle-stanley-whitney-gagosian",
+      "first_seen": "2026-09-10T03:20:00+08:00",
+      "headline_en": "Stanley Whitney’s first Asia solo opens at Gagosian Hong Kong"
     }
   ]
 }
