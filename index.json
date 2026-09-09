@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-09-09T22:06:12+08:00",
+  "generated_at": "2026-09-10T00:04:45+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 76,
   "articles": [
+    {
+      "id": "2026-09-09-tia-unlicensed-tour-guides-sai-kung",
+      "published_at": "2026-09-10T00:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "tourism",
+        "immigration"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-tia-unlicensed-tour-guides-sai-kung.json",
+      "en": {
+        "headline": "Two mainland visitors arrested as unlicensed tour guides in Sai Kung and Central",
+        "dek": "A man and a woman, both 31, were detained in a joint Immigration Department and Travel Industry Authority operation targeting illegal guiding services ahead of Golden Week."
+      },
+      "zh": {
+        "headline": "旅監局聯同入境處拘兩名內地無牌導遊",
+        "dek": "一男一女均31歲，分別在西貢東壩及中環被捕，涉嫌違反逗留條件提供導遊服務，國慶黃金周前加強執法。"
+      }
+    },
     {
       "id": "2026-09-09-customs-speedboat-cigarettes-sep8",
       "published_at": "2026-09-09T21:56:00+08:00",
@@ -1625,91 +1646,6 @@
       "zh": {
         "headline": "西貢九巴外勤車撞兩單車 司機被暫停駕駛職務",
         "dek": "九巴一輛外勤私家車周日早上在大網仔路越線，撞傷兩名騎單車男子；警方列交通意外有人受傷，九巴稱已暫停涉事司機駕駛職務。"
-      }
-    },
-    {
-      "id": "2026-09-06-lam-tin-salt-water-pipe",
-      "published_at": "2026-09-06T23:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-06/2026-09-06-lam-tin-salt-water-pipe.json",
-      "en": {
-        "headline": "Salt-water pipe leaks near Kai Tin Shopping Centre in Lam Tin",
-        "dek": "A 200-millimetre salt-water main on Kai Tin Road caused muddy water to flow onto roads and through the mall; the Water Supplies Department shut the valve and said flushing-water supply was unaffected."
-      },
-      "zh": {
-        "headline": "藍田啟田商場附近鹹水管滲漏 沖廁水供應不受影響",
-        "dek": "直徑200毫米鹹水供水管傍晚滲漏，黃泥水沿斜路湧出；水務署關掣後停止湧水，經調度後用戶沖廁水供應正常。"
-      }
-    },
-    {
-      "id": "2026-09-06-afcd-dog-leash-enforcement",
-      "published_at": "2026-09-06T23:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "police",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-06/2026-09-06-afcd-dog-leash-enforcement.json",
-      "en": {
-        "headline": "AFCD finds three cases of large dogs without proper leashes in special operation",
-        "dek": "The three-day enforcement action across dog-gathering spots ended on Sunday; the department will prosecute the keepers under the Dangerous Dogs Regulation."
-      },
-      "zh": {
-        "headline": "漁護署特別執法發現三宗大型狗隻未牽繩個案將檢控",
-        "dek": "三日巡查於公眾地方狗隻聚集點進行，署方將跟進檢控涉事畜養人，提醒大型狗隻須用不多於兩米狗帶牽引。"
-      }
-    },
-    {
-      "id": "2026-09-06-po-pin-chau-booking-noshow",
-      "published_at": "2026-09-06T23:09:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "hiking",
-        "sai-kung",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-06/2026-09-06-po-pin-chau-booking-noshow.json",
-      "en": {
-        "headline": "AFCD to review Po Pin Chau trail booking after high no-show rate",
-        "dek": "Only about 1,560 registered and walk-in visitors arrived over the first two trial days despite more than 3,200 bookings; the department will assess the system after the National Day golden week."
-      },
-      "zh": {
-        "headline": "破邊洲預約制首兩日大量No Show 漁護署將全面檢討",
-        "dek": "首兩個試驗日共有逾三千二百人預約，實際到場約一千五百六十人；署方表示國慶黃金周後會檢視成效。"
-      }
-    },
-    {
-      "id": "2026-09-06-yuk-kwai-shan-hiker-death",
-      "published_at": "2026-09-06T23:08:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "rescue",
-        "hiking",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-06/2026-09-06-yuk-kwai-shan-hiker-death.json",
-      "en": {
-        "headline": "72-year-old hiker dies after collapse on Ap Lei Chau’s Yuk Kwai Shan",
-        "dek": "The man, surnamed Kwok, was found unconscious with head and leg injuries while hiking alone on Sunday morning and was airlifted to hospital, where he was certified dead."
-      },
-      "zh": {
-        "headline": "鴨脷洲玉桂山72歲行山漢送院後不治",
-        "dek": "姓郭老翁今早獨自行山期間暈倒，頭腳擦傷，直升機吊起送東區醫院後證實死亡，死因有待驗屍確定。"
       }
     }
   ]
