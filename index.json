@@ -1,8 +1,92 @@
 {
-  "generated_at": "2026-09-09T19:48:13+08:00",
+  "generated_at": "2026-09-09T19:50:24+08:00",
   "live_window_hours": 72,
-  "count": 76,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-09-09-william-wong-drink-drive-court",
+      "published_at": "2026-09-09T19:58:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "courts",
+        "politics"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-william-wong-drink-drive-court.json",
+      "en": {
+        "headline": "Ex-lawmaker William Wong bailed on four traffic charges",
+        "dek": "The former legislator made a first appearance at Sha Tin Court over an alleged drink-driving crash at CUHK and must return on 11 November."
+      },
+      "zh": {
+        "headline": "前議員黃錦輝酒駕四罪提堂 准保釋至11月",
+        "dek": "黃錦輝周三在沙田裁判法院首次應訊，暫毋須答辯，以5,000元現金保釋，下一次聆訊定於11月11日。"
+      }
+    },
+    {
+      "id": "2026-09-09-chp-two-mpox-cases",
+      "published_at": "2026-09-09T19:57:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-chp-two-mpox-cases.json",
+      "en": {
+        "headline": "CHP records two mpox cases; both men had high-risk contact",
+        "dek": "A 32-year-old and a 28-year-old are stable in isolation. Officials said there is no known link between the cases or to earlier local infections."
+      },
+      "zh": {
+        "headline": "衞生防護中心公布兩宗猴痘確診 情況穩定",
+        "dek": "32歲及28歲男子已入院隔離，暫時未發現兩案之間或與早前本地個案有流行病學關連。"
+      }
+    },
+    {
+      "id": "2026-09-09-customs-counterfeit-yau-ma-tei-mong-kok",
+      "published_at": "2026-09-09T19:56:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "customs",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-customs-counterfeit-yau-ma-tei-mong-kok.json",
+      "en": {
+        "headline": "Customs seizes HK$1 million counterfeit goods before Golden Week",
+        "dek": "Officers searched 17 fixed hawker stalls in Yau Ma Tei and Mong Kok and arrested seven stall operators after finding about 3,100 suspected fake items."
+      },
+      "zh": {
+        "headline": "黃金周前海關油旺檢百萬元冒牌貨拘7人",
+        "dek": "海關在油麻地廟街及旺角通菜街搜查17個固定小販檔，檢約3,100件懷疑冒牌物品，拘捕7名檔主。"
+      }
+    },
+    {
+      "id": "2026-09-09-symphony-of-lights-paused",
+      "published_at": "2026-09-09T19:55:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "tourism",
+        "events",
+        "culture"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-09/2026-09-09-symphony-of-lights-paused.json",
+      "en": {
+        "headline": "Symphony of Lights paused from Wednesday until further notice",
+        "dek": "The Tourism Commission said the nightly Victoria Harbour light-and-music show is suspended from 9 September, with no restart date given."
+      },
+      "zh": {
+        "headline": "幻彩詠香江即日起暫停直至另行通知",
+        "dek": "旅遊事務署公布，維港兩岸燈光音樂匯演由9月9日起暫停，未交代恢復日期。"
+      }
+    },
     {
       "id": "2026-09-09-sun-childcare-northern-metropolis",
       "published_at": "2026-09-09T19:51:00+08:00",
