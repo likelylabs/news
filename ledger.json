@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-09-11T06:41:30+08:00",
+  "updated_at": "2026-09-11T07:12:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-mplus-herzog-de-meuron-in-focus",
+      "id": "2026-09-11-lifestyle-mplus-herzog-de-meuron",
+      "first_seen": "2026-09-11T07:12:00+08:00",
+      "headline_en": "M+ opens Herzog & de Meuron show for museum’s fifth anniversary"
+    },
+    {
+      "key": "civil-service-graduate-recruitment-2026-27",
+      "id": "2026-09-11-civil-service-graduate-recruitment",
+      "first_seen": "2026-09-11T07:11:00+08:00",
+      "headline_en": "Government opens 179 graduate-grade civil service posts on Saturday"
+    },
+    {
+      "key": "wong-tai-sin-hospital-influenza-cluster-sep10",
+      "id": "2026-09-11-wong-tai-sin-hospital-flu-cluster",
+      "first_seen": "2026-09-11T07:10:00+08:00",
+      "headline_en": "Eight patients and two staff test positive for influenza A at Wong Tai Sin Hospital"
+    },
+    {
+      "key": "lam-hang-chi-death-sep2026",
+      "id": "2026-09-11-lam-hang-chi-death",
+      "first_seen": "2026-09-11T07:09:00+08:00",
+      "headline_en": "Hong Kong Economic Journal founder Lam Hang-chi dies at 86"
+    },
+    {
+      "key": "kowloon-station-taxi-works-vehicle-crash-sep11",
+      "id": "2026-09-11-kowloon-station-taxi-crash",
+      "first_seen": "2026-09-11T07:08:00+08:00",
+      "headline_en": "Taxi driver trapped after hitting works vehicle near Kowloon Station"
+    },
     {
       "key": "to-kwa-wan-stolen-car-drugs-sep10",
       "id": "2026-09-11-to-kwa-wan-stolen-car-drugs",
