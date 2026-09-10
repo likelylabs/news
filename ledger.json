@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-09-11T01:06:01+08:00",
+  "updated_at": "2026-09-11T03:15:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "to-kwa-wan-stolen-car-drugs-sep10",
+      "id": "2026-09-11-to-kwa-wan-stolen-car-drugs",
+      "first_seen": "2026-09-11T03:15:00+08:00",
+      "headline_en": "Police arrest 38-year-old man after finding drugs in reported stolen car in To Kwa Wan"
+    },
     {
       "key": "chai-wan-mtr-depot-graffiti-arrests-sep10",
       "id": "2026-09-11-chai-wan-mtr-graffiti-arrests",
