@@ -1,8 +1,113 @@
 {
-  "generated_at": "2026-09-11T06:41:30+08:00",
+  "generated_at": "2026-09-11T07:08:31+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-09-11-lifestyle-mplus-herzog-de-meuron",
+      "published_at": "2026-09-11T07:12:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "arts",
+        "exhibition",
+        "west-kowloon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-lifestyle-mplus-herzog-de-meuron.json",
+      "en": {
+        "headline": "M+ opens Herzog & de Meuron show for museum’s fifth anniversary",
+        "dek": "Models, drawings and material samples from the Swiss firm that designed the West Kowloon building go on view in the Focus Gallery from Saturday until 10 January."
+      },
+      "zh": {
+        "headline": "M+五周年展出Herzog & de Meuron中國項目捐贈",
+        "dek": "由設計西九大樓的瑞士事務所捐出的模型、繪圖及物料樣本，周六起於二樓焦點空間展出至明年1月10日。"
+      }
+    },
+    {
+      "id": "2026-09-11-civil-service-graduate-recruitment",
+      "published_at": "2026-09-11T07:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-civil-service-graduate-recruitment.json",
+      "en": {
+        "headline": "Government opens 179 graduate-grade civil service posts on Saturday",
+        "dek": "Applications for Administrative Officer, Executive Officer II and four other degree grades run online until 11.59pm on 2 October, with a joint exam on 5 December."
+      },
+      "zh": {
+        "headline": "六個學位職系周六起聯招 合共179個空缺",
+        "dek": "政務主任、二級行政主任等職位周六起接受網上申請，截止10月2日晚上11時59分，聯合招聘考試定於12月5日舉行。"
+      }
+    },
+    {
+      "id": "2026-09-11-wong-tai-sin-hospital-flu-cluster",
+      "published_at": "2026-09-11T07:10:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "influenza",
+        "hospital"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-wong-tai-sin-hospital-flu-cluster.json",
+      "en": {
+        "headline": "Eight patients and two staff test positive for influenza A at Wong Tai Sin Hospital",
+        "dek": "The Hospital Authority said the cluster spans a chest ward and an infirmary ward; the patients are in isolation and stable, and the two staff members are on leave."
+      },
+      "zh": {
+        "headline": "黃大仙醫院兩病房爆甲流群組 8病人2職員確診",
+        "dek": "醫管局指胸肺科及療養病房共十人對甲型流感呈陽性，病人隔離治療情況穩定，兩名職員正休假。"
+      }
+    },
+    {
+      "id": "2026-09-11-lam-hang-chi-death",
+      "published_at": "2026-09-11T07:09:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "media"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-lam-hang-chi-death.json",
+      "en": {
+        "headline": "Hong Kong Economic Journal founder Lam Hang-chi dies at 86",
+        "dek": "The newspaper said Lam Shan-muk, who wrote under the pen name Lam Hang-chi, died on 6 September; Richard Li called him a respected figure in the city’s press."
+      },
+      "zh": {
+        "headline": "《信報》創辦人林行止逝世 享年86歲",
+        "dek": "報社周四公布，原名林山木的林行止於9月6日在家人陪同下離世；電訊盈科主席李澤楷發聲明致哀。"
+      }
+    },
+    {
+      "id": "2026-09-11-kowloon-station-taxi-crash",
+      "published_at": "2026-09-11T07:08:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "traffic",
+        "kowloon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-kowloon-station-taxi-crash.json",
+      "en": {
+        "headline": "Taxi driver trapped after hitting works vehicle near Kowloon Station",
+        "dek": "An empty taxi struck the rear of a parked cherry-picker on Austin Road West shortly after midnight; the 60-year-old driver was freed with minor injuries and sent to hospital."
+      },
+      "zh": {
+        "headline": "九龍站圓方對開的士撞工程車 60歲司機一度被困",
+        "dek": "空載的士周五凌晨在雅翔道天橋撞向停泊工程車車尾，的士車頭嚴重損毀，司機清醒送廣華醫院，工程車司機及工人無羞。"
+      }
+    },
     {
       "id": "2026-09-11-to-kwa-wan-stolen-car-drugs",
       "published_at": "2026-09-11T03:15:00+08:00",
@@ -1780,69 +1885,6 @@
       "zh": {
         "headline": "金管局就可持續金融分類目錄第2B階段諮詢",
         "dek": "金管局公布第2B階段原型，將綠色及轉型經濟活動由25項增至39項，並加入海岸及防洪適應措施，公眾可於10月7日前提交意見。"
-      }
-    },
-    {
-      "id": "2026-09-08-crhk-am864-ca-fine",
-      "published_at": "2026-09-08T07:08:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-08/2026-09-08-crhk-am864-ca-fine.json",
-      "en": {
-        "headline": "Communications Authority fines Commercial Radio HK$120,000",
-        "dek": "The watchdog said the AM864 English channel missed required hourly news and weather bulletins at set hours from May 2022 to April 2026 and filed inaccurate compliance records."
-      },
-      "zh": {
-        "headline": "商台英語頻道漏播新聞天氣 通訊局罰12萬",
-        "dek": "通訊事務管理局裁定，商業電台AM864台由2022年5月至今年4月在指定時段未有每小時播放新聞及天氣報道，並曾提交不準確合規紀錄。"
-      }
-    },
-    {
-      "id": "2026-09-08-yau-ma-tei-reckless-driving",
-      "published_at": "2026-09-08T07:07:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-08/2026-09-08-yau-ma-tei-reckless-driving.json",
-      "en": {
-        "headline": "Police seek two men after Yau Ma Tei car hits three vehicles",
-        "dek": "A private car fled a restricted-zone stop on Nathan Road on Monday afternoon, striking two cars and a taxi; an officer was hurt trying to smash a window and the vehicle was later found abandoned in Hung Hom."
-      },
-      "zh": {
-        "headline": "油麻地私家車拒查連撞三車 警追緙兩男",
-        "dek": "一輛私家車周一傍晚在彌敦道限制區落客遇查後逃走，先後撞及兩輛私家車及一輛的士，一名警員扑窗時受傷，車輛其後在紅磡被發現，車內無人。"
-      }
-    },
-    {
-      "id": "2026-09-08-hzmb-smart-pass-dec",
-      "published_at": "2026-09-08T07:06:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "government",
-        "technology",
-        "tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-08/2026-09-08-hzmb-smart-pass-dec.json",
-      "en": {
-        "headline": "Reports: HZMB Hong Kong Port to trial in-car clearance in December",
-        "dek": "Immigration is preparing a Smart Passage pilot so registered private-car drivers and passengers can clear the border without leaving their seats or showing documents, several newspapers reported."
-      },
-      "zh": {
-        "headline": "據報港珠澳口岸12月試行車上智通行",
-        "dek": "多份報章報道，入境處擬於12月在港珠澳大橋香港口岸推出「智通行」先導計劃，合資格跨境私家車司機及乘客毋須下車或出示證件即可過關。"
       }
     }
   ]
