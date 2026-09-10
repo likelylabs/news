@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-11T01:06:02+08:00",
+  "generated_at": "2026-09-11T03:08:20+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-09-11-to-kwa-wan-stolen-car-drugs",
+      "published_at": "2026-09-11T03:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "drugs",
+        "to-kwa-wan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-to-kwa-wan-stolen-car-drugs.json",
+      "en": {
+        "headline": "Police arrest 38-year-old man after finding drugs in reported stolen car in To Kwa Wan",
+        "dek": "Officers discovered a previously reported missing private car on Chekiang Street on Thursday evening; a man who approached the vehicle was detained after officers found suspected cocaine inside."
+      },
+      "zh": {
+        "headline": "土瓜灣浙江街發現報失私家車 警檢懷疑可卡因拘38歲男",
+        "dek": "警員周四傍晚在浙江街發現一輛早前報失的私家車，其後一名男子走近車輛，被截查後未能出示身份證，車內檢獲約0.91克懷疑可卡因。"
+      }
+    },
     {
       "id": "2026-09-11-lifestyle-lecole-magic-hour-coral",
       "published_at": "2026-09-11T01:06:00+08:00",
@@ -1821,73 +1843,6 @@
       "zh": {
         "headline": "據報港珠澳口岸12月試行車上智通行",
         "dek": "多份報章報道，入境處擬於12月在港珠澳大橋香港口岸推出「智通行」先導計劃，合資格跨境私家車司機及乘客毋須下車或出示證件即可過關。"
-      }
-    },
-    {
-      "id": "2026-09-08-lifestyle-cavalluna-kai-tak",
-      "published_at": "2026-09-08T01:12:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events",
-        "performance",
-        "family"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-08/2026-09-08-lifestyle-cavalluna-kai-tak.json",
-      "en": {
-        "headline": "Cavalluna equestrian show opens tonight at Kai Tak Arena",
-        "dek": "Europe’s large-scale horse theatre production makes its Asian debut with eight performances through 13 September, presented with the Hong Kong Jockey Club."
-      },
-      "zh": {
-        "headline": "歐洲馬術劇場Cavalluna今晚啟德首演",
-        "dek": "大型馬術劇場《Cavalluna – 通往異世界之門》今晚起在啟德體藝館上演，一連五天共八場，為其亞洲首演。"
-      }
-    },
-    {
-      "id": "2026-09-08-wang-fuk-contractors-hearing-postponed",
-      "published_at": "2026-09-08T01:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "fire",
-        "government",
-        "court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-08/2026-09-08-wang-fuk-contractors-hearing-postponed.json",
-      "en": {
-        "headline": "Disciplinary hearings for Wang Fuk Court fire contractors postponed",
-        "dek": "The Fire Services Department said the Registered Fire Service Installation Contractors Disciplinary Board has deferred the hearings against two companies linked to the Tai Po blaze."
-      },
-      "zh": {
-        "headline": "宏福苑兩消防承辦商紀律聆訊押後至另行通知",
-        "dek": "消防處公布，原定周五就宏福苑大火兩間涉事消防裝置承辦商進行的紀律聆訊已獲委員會接納押後。"
-      }
-    },
-    {
-      "id": "2026-09-08-customs-lo-wu-insects",
-      "published_at": "2026-09-08T01:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "customs",
-        "border",
-        "animals"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-08/2026-09-08-customs-lo-wu-insects.json",
-      "en": {
-        "headline": "Customs seizes 200 live crickets and 13kg of cockroaches at Lo Wu",
-        "dek": "Two travellers were arrested after officers found the insects, commonly used as pet feed, in their baggage at the border checkpoint over the weekend."
-      },
-      "zh": {
-        "headline": "海關羅湖檢200隻活蟋蟀及13公斤蟑螂 拘兩旅客",
-        "dek": "海關周末在羅湖管制站截獲兩名旅客，行李內分別藏有活體蟋蟀及杜比亞蟑螂，估計市值共約5,900元，兩人已被捕。"
       }
     }
   ]
