@@ -1,8 +1,116 @@
 {
-  "generated_at": "2026-09-10T21:28:25+08:00",
+  "generated_at": "2026-09-10T23:10:18+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-09-10-lifestyle-rethink-hk-2026",
+      "published_at": "2026-09-10T23:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "events",
+        "sustainability"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-lifestyle-rethink-hk-2026.json",
+      "en": {
+        "headline": "ReThink HK sustainability conference opens at Convention Centre",
+        "dek": "The two-day event at Hall 1 of the Hong Kong Convention and Exhibition Centre brings together business, government and NGO leaders on climate action and sustainable solutions through Friday."
+      },
+      "zh": {
+        "headline": "ReThink HK可持續發展博覽會於會展開幕",
+        "dek": "為期兩日的亞洲氣候行動與可持續商業活動在灣仔會展1號館舉行，匯聚商界、政府及非政府機構代表至周五。"
+      }
+    },
+    {
+      "id": "2026-09-10-mtr-tour-guide-fare-evasion",
+      "published_at": "2026-09-10T23:11:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "mtr",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-mtr-tour-guide-fare-evasion.json",
+      "en": {
+        "headline": "MTR says police have identified tour guide in Tsim Sha Tsui fare-evasion case",
+        "dek": "The rail operator is working with police and the Travel Industry Authority after footage showed more than 30 people exiting without tapping cards behind a guide on 23 August."
+      },
+      "zh": {
+        "headline": "港鐵：警方已鎖定尖沙咀逃票事件導遊身份",
+        "dek": "8月23日晚上有旅行團懷疑不正當出閘，估計逾30人未付正確車資，港鐵正與警方及旅監局蒐證跟進。"
+      }
+    },
+    {
+      "id": "2026-09-10-shkp-annual-results",
+      "published_at": "2026-09-10T23:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "property",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-shkp-annual-results.json",
+      "en": {
+        "headline": "Sun Hung Kai Properties underlying profit rises 4.6 percent to HK$22.85 billion",
+        "dek": "Hong Kong’s largest developer reported stronger residential sales and a final dividend of HK$2.93, lifting the full-year payout as the local property market continued its recovery."
+      },
+      "zh": {
+        "headline": "新鴻基地產基礎溢利升4.6%至228.5億元",
+        "dek": "本港最大發展商全年合約銷售約381億元，末期息2.93元，全年派息3.91元，物業市場持續復甦。"
+      }
+    },
+    {
+      "id": "2026-09-10-wsj-publisher-union-conviction",
+      "published_at": "2026-09-10T23:09:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "courts",
+        "media",
+        "labour"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-wsj-publisher-union-conviction.json",
+      "en": {
+        "headline": "Wall Street Journal publisher convicted of deterring reporter from union role",
+        "dek": "Eastern Magistrates’ Courts found Dow Jones guilty of preventing Selina Cheng from standing for Hong Kong Journalists Association chairmanship but cleared it of unlawful dismissal over the union activity."
+      },
+      "zh": {
+        "headline": "華爾街日報出版商阻記者競逐記協主席 被裁定有罪",
+        "dek": "東區裁判法院裁定道瓊斯出版公司故意阻止前記者鄭嘉如行使工會權利，但裁定解僱指控不成立。"
+      }
+    },
+    {
+      "id": "2026-09-10-mong-kok-drug-chase-arrests",
+      "published_at": "2026-09-10T23:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "drugs",
+        "mong-kok"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-mong-kok-drug-chase-arrests.json",
+      "en": {
+        "headline": "Three arrested after Mong Kok car chase linked to alleged drug deal",
+        "dek": "Police detained a 29-year-old disqualified driver, his girlfriend and a passenger after a private car fled officers, struck vehicles and left an officer injured on Monday; the trio face drug and traffic charges."
+      },
+      "zh": {
+        "headline": "旺角私家車逃避截查連撞多車 警拘兩男一女涉販毒",
+        "dek": "警方拘捕29歲停牌司機、其19歲女友及46歲男乘客，指周一旺角懷疑進行毒品交易時逃避截查，撞傷一名警員並損毀多車。"
+      }
+    },
     {
       "id": "2026-09-10-wong-tai-sin-water-interruption",
       "published_at": "2026-09-10T21:28:00+08:00",
@@ -1736,94 +1844,6 @@
       "zh": {
         "headline": "葵涌冰室外賣現活鼠 食環署指衞生欠佳已檢控",
         "dek": "食環署接獲投訴指市民在葵涌一間食肆購買的外賣發現懷疑幼鼠後即時巡查，發現部分地方衞生欠佳，已向經營者提出檢控並要求即時改善。"
-      }
-    },
-    {
-      "id": "2026-09-07-customs-airport-drugs-sep6",
-      "published_at": "2026-09-07T23:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "airport",
-        "customs",
-        "drugs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-07/2026-09-07-customs-airport-drugs-sep6.json",
-      "en": {
-        "headline": "Customs seizes 23.5kg of drugs from two passengers at airport",
-        "dek": "Hong Kong Customs arrested a Japanese man and a British man after finding suspected cocaine and ketamine worth about HK$11 million in their baggage on Sunday; both face court on Tuesday."
-      },
-      "zh": {
-        "headline": "海關機場破兩宗販毒案 檢約23.5公斤毒品拘兩男",
-        "dek": "海關周日在香港國際機場檢獲約7.5公斤懷疑可卡因及約16公斤懷疑氯胺酮等，市值約1,100萬元，拘捕一名日本籍及一名英國籍男子，兩人周二提堂。"
-      }
-    },
-    {
-      "id": "2026-09-07-hkstp-co-create-summit",
-      "published_at": "2026-09-07T21:34:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "business",
-        "innovation",
-        "startups"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-07/2026-09-07-hkstp-co-create-summit.json",
-      "en": {
-        "headline": "Science Park launches first co-create co-invest summit and fund investments",
-        "dek": "Hong Kong Science and Technology Parks Corporation opened a six-day event linking founders, investors and industry, and announced the first investments from its HK$500 million co-acceleration fund."
-      },
-      "zh": {
-        "headline": "科技園首辦共創共投峰會 公布5億元基金首批投資",
-        "dek": "香港科技園公司一連六日舉辦共創共投產業加速峰會，並公布共同企業加速基金首批四個投資項目，涵蓋氫能、物聯網及人工智能機械人等。"
-      }
-    },
-    {
-      "id": "2026-09-07-airport-3rs-bribery-plea",
-      "published_at": "2026-09-07T21:33:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "airport",
-        "icac",
-        "court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-07/2026-09-07-airport-3rs-bribery-plea.json",
-      "en": {
-        "headline": "Subcontractor owner admits bribery over airport third-runway contracts",
-        "dek": "The proprietor of Carol Engineering pleaded guilty to five charges involving more than HK$5 million while a former Airport Authority general manager denied a related conspiracy charge and went on trial."
-      },
-      "zh": {
-        "headline": "機場三跑分判商東主認串謀行賄 涉逾500萬元",
-        "dek": "卡樂工程東主吳啟安承認五項行賄罪，涉款逾500萬元；機管局前總經理殷國強否認控罪受審，案件押後至周二。"
-      }
-    },
-    {
-      "id": "2026-09-07-hkma-foreign-reserves-aug",
-      "published_at": "2026-09-07T21:32:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "economy",
-        "hkma",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-07/2026-09-07-hkma-foreign-reserves-aug.json",
-      "en": {
-        "headline": "Hong Kong foreign reserves stand at US$442.9 billion at end-August",
-        "dek": "The Hong Kong Monetary Authority said official foreign currency reserve assets fell from US$447.9 billion at the end of July, remaining equivalent to more than five times the currency in circulation."
-      },
-      "zh": {
-        "headline": "八月底外匯儲備資產4429億美元",
-        "dek": "金管局公布，香港於八月底官方外匯儲備資產為4429億美元，較七月底的4479億美元回落，仍相當於流通貨幣五倍多。"
       }
     }
   ]
