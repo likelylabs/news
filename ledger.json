@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-09-10T13:09:59+08:00",
+  "updated_at": "2026-09-10T15:15:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "tobacco-plain-packaging-gazette-sep10",
+      "id": "2026-09-10-tobacco-plain-packaging-gazette",
+      "first_seen": "2026-09-10T15:15:00+08:00",
+      "headline_en": "Government to gazette plain packaging rules for traditional tobacco products"
+    },
     {
       "key": "mtr-cheung-sha-wan-passenger-death-sep10",
       "id": "2026-09-10-mtr-cheung-sha-wan-passenger-death",
