@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-09-10T15:10:28+08:00",
+  "generated_at": "2026-09-10T17:19:18+08:00",
   "live_window_hours": 72,
   "count": 81,
   "articles": [
+    {
+      "id": "2026-09-10-secession-sentencing-hong-kong-democratic-alliance",
+      "published_at": "2026-09-10T17:22:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "courts",
+        "national-security"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-secession-sentencing-hong-kong-democratic-alliance.json",
+      "en": {
+        "headline": "Two men jailed for up to 38 months over secession conspiracy",
+        "dek": "District Court sentenced a courier and a waiter who admitted conspiracy to commit secession after joining a Taiwan-based group advocating Hong Kong independence; the judge said their actions risked social stability."
+      },
+      "zh": {
+        "headline": "兩男認串謀分裂國家罪 分別判囚38個月及36個月",
+        "dek": "區域法院周四判處兩名承認參與「香港民主建國聯盟」的男子監禁，法官指行為不利社會安定及國家統一；同案另一被告早前已判囚42個月。"
+      }
+    },
+    {
+      "id": "2026-09-10-hku-suicide-rate-under15",
+      "published_at": "2026-09-10T17:20:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "education",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-hku-suicide-rate-under15.json",
+      "en": {
+        "headline": "HKU centre reports rise in under-15 suicides despite overall decline",
+        "dek": "On World Suicide Prevention Day the centre estimated 976 suicides in 2025, a rate of 13 per 100,000, while the under-15 rate climbed to a decade high; it also issued updated media guidelines covering social platforms."
+      },
+      "zh": {
+        "headline": "港大中心：整體自殺率微降 15歲以下個案顯著上升",
+        "dek": "世界防止自殺日港大賽馬會防止自殺研究中心公布2025年數據，估計976宗自殺死亡，整體率降至每10萬人13宗，但15歲以下比率升至近十年高位；中心同步更新涵蓋社交媒體的報道建議。"
+      }
+    },
     {
       "id": "2026-09-10-tobacco-plain-packaging-gazette",
       "published_at": "2026-09-10T15:15:00+08:00",
@@ -1697,48 +1739,6 @@
       "zh": {
         "headline": "八月底外匯儲備資產4429億美元",
         "dek": "金管局公布，香港於八月底官方外匯儲備資產為4429億美元，較七月底的4479億美元回落，仍相當於流通貨幣五倍多。"
-      }
-    },
-    {
-      "id": "2026-09-07-tia-travel-licences-revoked",
-      "published_at": "2026-09-07T15:21:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "tourism",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-07/2026-09-07-tia-travel-licences-revoked.json",
-      "en": {
-        "headline": "Two travel agencies and guide lose licences over coerced shopping",
-        "dek": "The Travel Industry Authority revoked the licences of Go Go Ming Travel Services, Grandee Travel Company and guide Sun Kwun-ying with immediate effect after finding failures to prevent coercion of mainland tour groups."
-      },
-      "zh": {
-        "headline": "兩旅行社及導遊涉威迫購物被撤銷牌照",
-        "dek": "旅遊業監管局即日起撤銷幗名旅遊、伯爵旅行社的旅行代理商牌照及導遊孫觀英的牌照，指未有防止內地旅行團被威迫購物。"
-      }
-    },
-    {
-      "id": "2026-09-07-thunderstorm-warning-afternoon",
-      "published_at": "2026-09-07T15:20:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "thunderstorm",
-        "hko"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-07/2026-09-07-thunderstorm-warning-afternoon.json",
-      "en": {
-        "headline": "Thunderstorm Warning in force until mid-afternoon",
-        "dek": "The Hong Kong Observatory issued the Thunderstorm Warning at 12.55pm, later extended, with isolated thunderstorms expected over the territory."
-      },
-      "zh": {
-        "headline": "雷暴警告生效至下午中段",
-        "dek": "天文台下午12時55分發出雷暴警告，其後延長有效時間至下午4時15分，預料本港有局部地區雷暴。"
       }
     }
   ]
