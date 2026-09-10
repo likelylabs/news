@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-09-10T07:11:36+08:00",
+  "generated_at": "2026-09-10T09:40:07+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 78,
   "articles": [
+    {
+      "id": "2026-09-10-lifestyle-cavalluna-kai-tak",
+      "published_at": "2026-09-10T09:53:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-lifestyle-cavalluna-kai-tak.json",
+      "en": {
+        "headline": "CAVALLUNA equestrian theatre continues at Kai Tak through Sunday",
+        "dek": "The European horse-and-theatre production, making its first Asian stop, has remaining performances at Kai Tak Arena from Thursday evening to 13 September."
+      },
+      "zh": {
+        "headline": "CAVALLUNA馬術劇場啟德續演至週日",
+        "dek": "歐洲馬術劇場《穿梭異境》亞洲首站在啟德體藝館上演，本周四晚至9月13日仍有場次，由香港賽馬會呈獻。"
+      }
+    },
+    {
+      "id": "2026-09-10-huanggang-customs-working-meeting",
+      "published_at": "2026-09-10T09:52:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "customs",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-huanggang-customs-working-meeting.json",
+      "en": {
+        "headline": "Hong Kong and Shenzhen customs meet on new Huanggang port operations",
+        "dek": "Acting Commissioner Woo Wai-kwan inspected joint one-stop vehicle lanes after talks with Huanggang Customs on passenger and cargo checks and emergency coordination."
+      },
+      "zh": {
+        "headline": "港深海關開會部署新皇崗口岸運作",
+        "dek": "署理關長胡偉軍周三與皇崗海關關長施宏圖開會，並視察聯合一站式車道測試，雙方未公布開通日期。"
+      }
+    },
+    {
+      "id": "2026-09-10-yau-tong-drivers-parking-brawl",
+      "published_at": "2026-09-10T09:51:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-yau-tong-drivers-parking-brawl.json",
+      "en": {
+        "headline": "Two drivers arrested after parking row turns violent in Yau Tong",
+        "dek": "A mixer-truck driver and a minibus driver were detained after a dispute near Sam Ka Tsuen Ferry Pier on Wednesday evening; one man was treated for a head injury."
+      },
+      "zh": {
+        "headline": "油塘泊車爭執兩司機被捕 一人頭部受傷",
+        "dek": "周三傍晚三家村碼頭對開因泊車起衝突，田螺車司機涉嫌以鐵通打傷小巴司機，兩人分別涉襲擊罪被捕。"
+      }
+    },
+    {
+      "id": "2026-09-10-kai-tak-light-housing-infant-death",
+      "published_at": "2026-09-10T09:50:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "housing",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-kai-tak-light-housing-infant-death.json",
+      "en": {
+        "headline": "One-year-old girl dies after being found unresponsive in Kai Tak flat",
+        "dek": "Police were called to a Light Public Housing unit on Olympic Avenue before dawn; the child was sent to Kwong Wah Hospital and later certified dead."
+      },
+      "zh": {
+        "headline": "啟德簡約公屋一歲女嬰昏迷送院不治",
+        "dek": "警方清晨接報世運道簡約公屋六座單位有女嬰昏迷，救護員送往廣華醫院搶救後證實不治，死因有待驗屍確定。"
+      }
+    },
     {
       "id": "2026-09-10-lifestyle-peking-opera-cultural-centre",
       "published_at": "2026-09-10T07:11:00+08:00",
@@ -1596,247 +1679,6 @@
       "zh": {
         "headline": "滴滴擬今年申請將軍澳無人駕駛測試牌照",
         "dek": "運輸署工作組成員表示，內地網約車巨頭擬申請自動車先導牌照，初步測試或先於工業邨展開。"
-      }
-    },
-    {
-      "id": "2026-09-07-lifestyle-wears-hk",
-      "published_at": "2026-09-07T09:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events",
-        "fashion",
-        "tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-07/2026-09-07-lifestyle-wears-hk.json",
-      "en": {
-        "headline": "Wear’s HK designer pop-ups run through 14 September",
-        "dek": "Twenty Hong Kong fashion labels are showing at six malls and the airport until 14 September, part of the government-backed Hong Kong Fashion Fest."
-      },
-      "zh": {
-        "headline": "時裝薇Wear’s HK快閃店開至本月十四日",
-        "dek": "第三屆香港時裝薇的全城快閃店「Wear’s HK」在六個商場及機場展出20個本地時裝品牌，活動持續至9月14日。"
-      }
-    },
-    {
-      "id": "2026-09-07-lifestyle-tiangong-letters",
-      "published_at": "2026-09-07T09:09:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "education",
-        "schools",
-        "space",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-07/2026-09-07-lifestyle-tiangong-letters.json",
-      "en": {
-        "headline": "Student letters to astronaut Lai Ka-ying close tonight",
-        "dek": "The Education Bureau’s call for letters to Hong Kong payload specialist Lai Ka-ying ends at 11.59pm today, with selected pieces due to be sent to the Tiangong station later this month."
-      },
-      "zh": {
-        "headline": "給黎家盈家書今晚截止 精選作品料月中送上天宮",
-        "dek": "教育局「星河有信‧港夢飛天」家書徵集今日晚上11時59分截止，邀請中小學及大專生致函首位港籍載荷專家黎家盈，精選作品預計本月中呈送天宮空間站。"
-      }
-    },
-    {
-      "id": "2026-09-07-lrt-siu-hong-tracks",
-      "published_at": "2026-09-07T09:08:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "mtr",
-        "rail",
-        "safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-07/2026-09-07-lrt-siu-hong-tracks.json",
-      "en": {
-        "headline": "MTR reports two women on Light Rail tracks at Siu Hong",
-        "dek": "The operator said two women entered the spare platform tracks at Siu Hong Light Rail stop on Friday afternoon and that it has reported the incident to police."
-      },
-      "zh": {
-        "headline": "兩女擅進兆康站輕鐵路軌 港鐵已報警",
-        "dek": "港鐵表示，周五下午有兩名女子擅自進入輕鐵兆康站備用月台路軌範圍，公司已就事件報警，提醒乘客切勿走進路軌。"
-      }
-    },
-    {
-      "id": "2026-09-07-tai-tam-drink-driving",
-      "published_at": "2026-09-07T09:07:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "traffic",
-        "police",
-        "safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-07/2026-09-07-tai-tam-drink-driving.json",
-      "en": {
-        "headline": "British driver arrested after Tai Tam Road crash",
-        "dek": "A 47-year-old man was arrested for drink-driving on Sunday night after his private car struck roadside railings on Tai Tam Road in Stanley."
-      },
-      "zh": {
-        "headline": "大潭道私家車撞欄 英籍司機涉酒駕被捕",
-        "dek": "一輛私家車周日晚上在赤柱大潭道失控撞向路邊欄杆，47歲英籍男司機眼部受傷，酒精呼氣測試不合格後涉嫌酒後駕駛被捕。"
-      }
-    },
-    {
-      "id": "2026-09-07-customs-airport-cannabis",
-      "published_at": "2026-09-07T09:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "airport",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-07/2026-09-07-customs-airport-cannabis.json",
-      "en": {
-        "headline": "Airport cannabis case reaches court after 6kg seizure",
-        "dek": "A 38-year-old mainland passenger arrested at Hong Kong International Airport on Saturday is due at West Kowloon Magistrates’ Courts today on drug-trafficking and poison charges."
-      },
-      "zh": {
-        "headline": "機場檢六公斤懷疑大麻花 內地男今日提堂",
-        "dek": "海關周六在香港國際機場拘捕一名38歲內地男旅客，檢獲約六公斤懷疑大麻花及懷疑第一部毒藥產品，案件今日在西九龍裁判法院提堂。"
-      }
-    },
-    {
-      "id": "2026-09-07-lifestyle-cats-final-week",
-      "published_at": "2026-09-07T07:17:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-07/2026-09-07-lifestyle-cats-final-week.json",
-      "en": {
-        "headline": "Cats plays its last added week at Xiqu Centre through Sunday",
-        "dek": "West Kowloon’s Grand Theatre hosts final extra performances of the Andrew Lloyd Webber musical from Tuesday to 13 September, after the Hong Kong run was extended twice."
-      },
-      "zh": {
-        "headline": "音樂劇《貓》戲曲中心終極加場 演至周日",
-        "dek": "西九文化區戲曲中心大劇院由周二起至9月13日加開《貓》最後一輪場次，香港站已兩度延長，周一休演。"
-      }
-    },
-    {
-      "id": "2026-09-07-lifestyle-green-week-opens",
-      "published_at": "2026-09-07T07:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "community",
-        "events",
-        "economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-07/2026-09-07-lifestyle-green-week-opens.json",
-      "en": {
-        "headline": "Hong Kong Green Week opens today with five days of sustainability forums",
-        "dek": "The third edition of the HKMA-coordinated programme runs from 7 to 11 September under the theme Future-proofing Sustainable Growth, starting with a full-day green-finance forum in Wan Chai."
-      },
-      "zh": {
-        "headline": "第三屆香港綠色周今日展開 一連五日討論可持續發展",
-        "dek": "由金管局統籌的香港綠色周今日至周五舉行，主題為「賦能未來・共築可持續發展」，周一主場是灣仔的綠色金融論壇。"
-      }
-    },
-    {
-      "id": "2026-09-07-jakarta-flights-volcano",
-      "published_at": "2026-09-07T07:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "airport",
-        "aviation",
-        "travel"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-07/2026-09-07-jakarta-flights-volcano.json",
-      "en": {
-        "headline": "Seven Hong Kong–Jakarta flights cancelled after Indonesian volcano eruption",
-        "dek": "The Airport Authority said at least seven services between the two cities were cancelled by Sunday afternoon after ash from Anak Krakatau closed Jakarta’s main airport."
-      },
-      "zh": {
-        "headline": "印尼火山噴發 至少七班香港雅加達航班取消",
-        "dek": "機管局表示，截至周日下午三時，往來香港與雅加達最少七班航班因喀拉喀托之子火山噴發取消，國泰及印尼鷹航亦取消周日及周一部分班次。"
-      }
-    },
-    {
-      "id": "2026-09-07-belt-road-summit-preview",
-      "published_at": "2026-09-07T07:14:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "economy",
-        "trade",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-07/2026-09-07-belt-road-summit-preview.json",
-      "en": {
-        "headline": "Belt and Road Summit opens Wednesday with new Go Global chapter",
-        "dek": "Financial Secretary Paul Chan said the two-day Wan Chai gathering will add a session to help mainland firms expand overseas, as Hong Kong hosts the 11th edition of the event."
-      },
-      "zh": {
-        "headline": "一帶一路高峰論壇周三開幕 首設「走出去」環節",
-        "dek": "財政司司長陳茂波周日在網誌表示，第十一屆一帶一路高峰論壇本周三至四在灣仔會展舉行，首次增設協助內地企業出海的專題環節。"
-      }
-    },
-    {
-      "id": "2026-09-07-happy-valley-boy-collapse",
-      "published_at": "2026-09-07T07:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "health",
-        "hospital"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-07/2026-09-07-happy-valley-boy-collapse.json",
-      "en": {
-        "headline": "10-year-old boy dies after collapsing at home in Happy Valley",
-        "dek": "Police were called to a Happy Valley flat on Sunday evening after a child was found unconscious; he was certified dead at Ruttonjee Hospital and the cause of death is pending autopsy."
-      },
-      "zh": {
-        "headline": "跑馬地10歲男童家中暈倒 送院後不治",
-        "dek": "警方周日傍晚接報，跑馬地黃泥涌道一個單位有男童懷疑暈倒，男童昏迷送往律敦治醫院後證實死亡，死因有待驗屍確定。"
-      }
-    },
-    {
-      "id": "2026-09-07-kmb-sai-kung-cyclists",
-      "published_at": "2026-09-07T07:12:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "traffic",
-        "sai-kung",
-        "safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-07/2026-09-07-kmb-sai-kung-cyclists.json",
-      "en": {
-        "headline": "KMB suspends driver after staff car hits two cyclists in Sai Kung",
-        "dek": "A Kowloon Motor Bus field car crossed the line on Tai Mong Tsai Road on Sunday morning, injuring two men on bicycles; police classed the case as a traffic accident with injury."
-      },
-      "zh": {
-        "headline": "西貢九巴外勤車撞兩單車 司機被暫停駕駛職務",
-        "dek": "九巴一輛外勤私家車周日早上在大網仔路越線，撞傷兩名騎單車男子；警方列交通意外有人受傷，九巴稱已暫停涉事司機駕駛職務。"
       }
     }
   ]
