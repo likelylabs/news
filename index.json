@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-09-10T17:19:18+08:00",
+  "generated_at": "2026-09-10T21:28:25+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-09-10-wong-tai-sin-water-interruption",
+      "published_at": "2026-09-10T21:28:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "water-supply",
+        "wong-tai-sin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-wong-tai-sin-water-interruption.json",
+      "en": {
+        "headline": "Water supply cut overnight for seven Wong Tai Sin estates after pipe damage",
+        "dek": "A 750 mm fresh-water main was accidentally damaged by a contractor at a Po Kong Village Road works site; the Water Supplies Department aims to restore supply by 7am Friday after emergency repairs from 11pm."
+      },
+      "zh": {
+        "headline": "黃大仙蒲崗村道食水管受損 七屋苑今晚11時後停水搶修",
+        "dek": "直徑750毫米食水總管於行人路坑道工程地盤被電力承判商意外損壞，水務署安排今晚11時後停水緊急維修，爭取明早7時前恢復供水。"
+      }
+    },
+    {
+      "id": "2026-09-10-chp-two-severe-paediatric-flu",
+      "published_at": "2026-09-10T21:27:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "influenza",
+        "children"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-chp-two-severe-paediatric-flu.json",
+      "en": {
+        "headline": "CHP records two more severe paediatric flu cases; school outbreaks rise",
+        "dek": "An 11-year-old boy and a six-year-old boy remain in serious condition with influenza A complications; the centre said school outbreaks have climbed to 73 cases involving 398 people since the new term began."
+      },
+      "zh": {
+        "headline": "衞防中心錄兩宗兒童流感嚴重個案 學校爆發升至73宗",
+        "dek": "11歲及6歲男童分別因甲型流感併發敗血性休克及腦炎、嚴重肺炎留醫深切治療部，情況嚴重；中心指開學後學校流感樣疾病爆發已達73宗，涉及398人。"
+      }
+    },
+    {
+      "id": "2026-09-10-lee-jin-lei-shenzhen-meeting",
+      "published_at": "2026-09-10T21:26:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "government",
+        "guangdong",
+        "northern-metropolis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-lee-jin-lei-shenzhen-meeting.json",
+      "en": {
+        "headline": "John Lee meets Shenzhen Party chief Jin Lei; sides sign cooperation pacts",
+        "dek": "The Chief Executive and the Shenzhen Municipal Committee secretary discussed deeper collaboration and witnessed the signing of memoranda covering finance, innovation and technology, and supporting mainland firms going…"
+      },
+      "zh": {
+        "headline": "李家超晤深圳市委書記靳磊 見證簽署多份合作備忘錄",
+        "dek": "行政長官與深圳市委書記在禮賓府會面，就深化港深合作交換意見，並共同見證涵蓋金融、創科及服務企業出海等範疇的合作備忘錄和協議簽署。"
+      }
+    },
+    {
+      "id": "2026-09-10-tung-chee-hwa-state-funeral",
+      "published_at": "2026-09-10T21:25:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "government",
+        "tung-chee-hwa"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-tung-chee-hwa-state-funeral.json",
+      "en": {
+        "headline": "Hong Kong coordinating state funeral for late first chief executive Tung Chee-hwa",
+        "dek": "Authorities are preparing arrangements to honour Tung as a deputy national-level leader for his contributions to the one country, two systems framework, the government said it would announce details in due course."
+      },
+      "zh": {
+        "headline": "當局正協調董建華國葬安排 稍後公布詳情",
+        "dek": "消息指特區政府正為已故首任行政長官董建華籌備國葬，以肯定其作為副國級領導人及對一國兩制的貢獻；政府表示稍後公布安排。"
+      }
+    },
     {
       "id": "2026-09-10-secession-sentencing-hong-kong-democratic-alliance",
       "published_at": "2026-09-10T17:22:00+08:00",
