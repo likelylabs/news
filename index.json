@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-09-10T13:09:59+08:00",
+  "generated_at": "2026-09-10T15:10:28+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-09-10-tobacco-plain-packaging-gazette",
+      "published_at": "2026-09-10T15:15:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "government",
+        "tobacco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-tobacco-plain-packaging-gazette.json",
+      "en": {
+        "headline": "Government to gazette plain packaging rules for traditional tobacco products",
+        "dek": "Subsidiary legislation will be published on Friday and take effect on 1 March 2027, with a nine-month transition period ending on 1 December 2027; duty-paid cigarette labels will also be introduced."
+      },
+      "zh": {
+        "headline": "傳統吸煙產品統一包裝規定明日刊憲 明年3月生效",
+        "dek": "附屬法例周五刊憲，明年3月1日生效，設9個月過渡期至12月1日全面實施；同步引入完稅煙標籤，違規最高罰款5萬元。"
+      }
+    },
     {
       "id": "2026-09-10-cloudbreak-pharma-sfc-suspension",
       "published_at": "2026-09-10T13:12:00+08:00",
