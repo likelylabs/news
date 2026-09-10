@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-10T09:40:07+08:00",
+  "updated_at": "2026-09-10T09:53:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-cavalluna-kai-tak-sep8-13",
+      "id": "2026-09-10-lifestyle-cavalluna-kai-tak",
+      "first_seen": "2026-09-10T09:53:00+08:00",
+      "headline_en": "CAVALLUNA equestrian theatre continues at Kai Tak through Sunday"
+    },
+    {
+      "key": "huanggang-customs-working-meeting-sep9",
+      "id": "2026-09-10-huanggang-customs-working-meeting",
+      "first_seen": "2026-09-10T09:52:00+08:00",
+      "headline_en": "Hong Kong and Shenzhen customs meet on new Huanggang port operations"
+    },
+    {
+      "key": "yau-tong-shung-shun-street-driver-brawl-sep9",
+      "id": "2026-09-10-yau-tong-drivers-parking-brawl",
+      "first_seen": "2026-09-10T09:51:00+08:00",
+      "headline_en": "Two drivers arrested after parking row turns violent in Yau Tong"
+    },
+    {
+      "key": "kai-tak-olympic-ave-infant-death-sep10",
+      "id": "2026-09-10-kai-tak-light-housing-infant-death",
+      "first_seen": "2026-09-10T09:50:00+08:00",
+      "headline_en": "One-year-old girl dies after being found unresponsive in Kai Tak flat"
+    },
     {
       "key": "william-wong-sha-tin-court-sep9-2026",
       "id": "2026-09-09-william-wong-drink-drive-court",
