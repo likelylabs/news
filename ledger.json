@@ -1,1 +1,78 @@
-{"updated_at": "2026-09-11T01:06:00+08:00", "retention_days": 5, "covered": [{"key": "chai-wan-mtr-depot-graffiti-arrests-sep10", "id": "2026-09-11-chai-wan-mtr-graffiti-arrests", "first_seen": "2026-09-11T01:04:00+08:00", "headline_en": "Two foreign tourists arrested at airport after Chai Wan MTR depot graffiti"}, {"key": "icac-geoffrey-tong-asset-declaration-sep10", "id": "2026-09-11-icac-ex-hkex-vp-asset-declaration", "first_seen": "2026-09-11T01:05:00+08:00", "headline_en": "ICAC charges former HKEX vice-president over asset declaration failure"}, {"key": "lifestyle-lecole-magic-hour-coral-sep11", "id": "2026-09-11-lifestyle-lecole-magic-hour-coral", "first_seen": "2026-09-11T01:06:00+08:00", "headline_en": "Composer Olivier Cong presents coral soundscape at L’ÉCOLE tonight"}, {"key": "mong-kok-drug-chase-arrests-sep10", "id": "2026-09-10-mong-kok-drug-chase-arrests", "first_seen": "2026-09-10T23:08:00+08:00", "headline_en": "Three arrested after Mong Kok car chase linked to alleged drug deal"}, {"key": "wsj-publisher-union-conviction-sep10", "id": "2026-09-10-wsj-publisher-union-conviction", "first_seen": "2026-09-10T23:09:00+08:00", "headline_en": "Wall Street Journal publisher convicted of deterring reporter from union role"}, {"key": "shkp-annual-results-2026", "id": "2026-09-10-shkp-annual-results", "first_seen": "2026-09-10T23:10:00+08:00", "headline_en": "Sun Hung Kai Properties underlying profit rises 4.6 percent to HK$22.85 billion"}, {"key": "mtr-tour-guide-fare-evasion-sep10", "id": "2026-09-10-mtr-tour-guide-fare-evasion", "first_seen": "2026-09-10T23:11:00+08:00", "headline_en": "MTR says police have identified tour guide in Tsim Sha Tsui fare-evasion case"}, {"key": "lifestyle-rethink-hk-2026", "id": "2026-09-10-lifestyle-rethink-hk-2026", "first_seen": "2026-09-10T23:12:00+08:00", "headline_en": "ReThink HK sustainability conference opens at Convention Centre"}, {"key": "tung-chee-hwa-state-funeral-sep10", "id": "2026-09-10-tung-chee-hwa-state-funeral", "first_seen": "2026-09-10T21:25:00+08:00", "headline_en": "Hong Kong coordinating state funeral for late first chief executive Tung Chee-hwa"}, {"key": "lee-jin-lei-meeting-sep10", "id": "2026-09-10-lee-jin-lei-shenzhen-meeting", "first_seen": "2026-09-10T21:26:00+08:00", "headline_en": "John Lee meets Shenzhen Party chief Jin Lei; sides sign cooperation pacts"}, {"key": "chp-two-severe-paediatric-flu-sep10", "id": "2026-09-10-chp-two-severe-paediatric-flu", "first_seen": "2026-09-10T21:27:00+08:00", "headline_en": "CHP records two more severe paediatric flu cases; school outbreaks rise"}, {"key": "wong-tai-sin-water-interruption-sep10", "id": "2026-09-10-wong-tai-sin-water-interruption", "first_seen": "2026-09-10T21:28:00+08:00", "headline_en": "Water supply cut overnight for seven Wong Tai Sin estates after pipe damage"}]}
+{
+  "updated_at": "2026-09-11T01:06:01+08:00",
+  "retention_days": 5,
+  "covered": [
+    {
+      "key": "chai-wan-mtr-depot-graffiti-arrests-sep10",
+      "id": "2026-09-11-chai-wan-mtr-graffiti-arrests",
+      "first_seen": "2026-09-11T01:04:00+08:00",
+      "headline_en": "Two foreign tourists arrested at airport after Chai Wan MTR depot graffiti"
+    },
+    {
+      "key": "icac-geoffrey-tong-asset-declaration-sep10",
+      "id": "2026-09-11-icac-ex-hkex-vp-asset-declaration",
+      "first_seen": "2026-09-11T01:05:00+08:00",
+      "headline_en": "ICAC charges former HKEX vice-president over asset declaration failure"
+    },
+    {
+      "key": "lifestyle-lecole-magic-hour-coral-sep11",
+      "id": "2026-09-11-lifestyle-lecole-magic-hour-coral",
+      "first_seen": "2026-09-11T01:06:00+08:00",
+      "headline_en": "Composer Olivier Cong presents coral soundscape at L’ÉCOLE tonight"
+    },
+    {
+      "key": "mong-kok-drug-chase-arrests-sep10",
+      "id": "2026-09-10-mong-kok-drug-chase-arrests",
+      "first_seen": "2026-09-10T23:08:00+08:00",
+      "headline_en": "Three arrested after Mong Kok car chase linked to alleged drug deal"
+    },
+    {
+      "key": "wsj-publisher-union-conviction-sep10",
+      "id": "2026-09-10-wsj-publisher-union-conviction",
+      "first_seen": "2026-09-10T23:09:00+08:00",
+      "headline_en": "Wall Street Journal publisher convicted of deterring reporter from union role"
+    },
+    {
+      "key": "shkp-annual-results-2026",
+      "id": "2026-09-10-shkp-annual-results",
+      "first_seen": "2026-09-10T23:10:00+08:00",
+      "headline_en": "Sun Hung Kai Properties underlying profit rises 4.6 percent to HK$22.85 billion"
+    },
+    {
+      "key": "mtr-tour-guide-fare-evasion-sep10",
+      "id": "2026-09-10-mtr-tour-guide-fare-evasion",
+      "first_seen": "2026-09-10T23:11:00+08:00",
+      "headline_en": "MTR says police have identified tour guide in Tsim Sha Tsui fare-evasion case"
+    },
+    {
+      "key": "lifestyle-rethink-hk-2026",
+      "id": "2026-09-10-lifestyle-rethink-hk-2026",
+      "first_seen": "2026-09-10T23:12:00+08:00",
+      "headline_en": "ReThink HK sustainability conference opens at Convention Centre"
+    },
+    {
+      "key": "tung-chee-hwa-state-funeral-sep10",
+      "id": "2026-09-10-tung-chee-hwa-state-funeral",
+      "first_seen": "2026-09-10T21:25:00+08:00",
+      "headline_en": "Hong Kong coordinating state funeral for late first chief executive Tung Chee-hwa"
+    },
+    {
+      "key": "lee-jin-lei-meeting-sep10",
+      "id": "2026-09-10-lee-jin-lei-shenzhen-meeting",
+      "first_seen": "2026-09-10T21:26:00+08:00",
+      "headline_en": "John Lee meets Shenzhen Party chief Jin Lei; sides sign cooperation pacts"
+    },
+    {
+      "key": "chp-two-severe-paediatric-flu-sep10",
+      "id": "2026-09-10-chp-two-severe-paediatric-flu",
+      "first_seen": "2026-09-10T21:27:00+08:00",
+      "headline_en": "CHP records two more severe paediatric flu cases; school outbreaks rise"
+    },
+    {
+      "key": "wong-tai-sin-water-interruption-sep10",
+      "id": "2026-09-10-wong-tai-sin-water-interruption",
+      "first_seen": "2026-09-10T21:28:00+08:00",
+      "headline_en": "Water supply cut overnight for seven Wong Tai Sin estates after pipe damage"
+    }
+  ]
+}
