@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-10T11:12:07+08:00",
+  "updated_at": "2026-09-10T11:28:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-mid-autumn-lantern-carnival-2026",
+      "id": "2026-09-10-lifestyle-mid-autumn-lantern-carnival",
+      "first_seen": "2026-09-10T11:26:00+08:00",
+      "headline_en": "Mid-Autumn lantern carnival returns to Victoria Park on 17 September"
+    },
+    {
+      "key": "uzbekistan-gold-mou-sep9",
+      "id": "2026-09-10-uzbekistan-gold-market-mou",
+      "first_seen": "2026-09-10T11:25:00+08:00",
+      "headline_en": "Hong Kong and Uzbekistan sign gold market cooperation pact"
+    },
+    {
+      "key": "hang-seng-below-25000-sep10",
+      "id": "2026-09-10-hang-seng-below-25000",
+      "first_seen": "2026-09-10T11:24:00+08:00",
+      "headline_en": "Hang Seng slips below 25,000 in morning trade"
+    },
     {
       "key": "lifestyle-cavalluna-kai-tak-sep8-13",
       "id": "2026-09-10-lifestyle-cavalluna-kai-tak",
