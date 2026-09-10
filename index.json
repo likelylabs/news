@@ -1,8 +1,51 @@
 {
-  "generated_at": "2026-09-10T11:13:32+08:00",
+  "generated_at": "2026-09-10T13:09:59+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-09-10-cloudbreak-pharma-sfc-suspension",
+      "published_at": "2026-09-10T13:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "finance",
+        "sfc",
+        "stock"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-cloudbreak-pharma-sfc-suspension.json",
+      "en": {
+        "headline": "SFC orders suspension of Cloudbreak Pharma shares",
+        "dek": "Trading in the clinical-stage ophthalmology biotech was halted from 9am under Securities and Futures Ordinance rules; the stock had fallen about 88 per cent since its July 2025 listing."
+      },
+      "zh": {
+        "headline": "證監會指令撥康視雲停牌",
+        "dek": "臨床階段眼科生物科技公司撥康視雲（02592）今早9時起按證監會指令停止買賣，股價自去年7月上市以來已累挫約88%。"
+      }
+    },
+    {
+      "id": "2026-09-10-mtr-cheung-sha-wan-passenger-death",
+      "published_at": "2026-09-10T13:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "tsuen-wan-line",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-mtr-cheung-sha-wan-passenger-death.json",
+      "en": {
+        "headline": "Man dies after collapsing on Tsuen Wan Line train at Cheung Sha Wan",
+        "dek": "A man in his 60s was found unresponsive on a morning train; service on the line was briefly delayed and platforms became crowded before normal operations resumed."
+      },
+      "zh": {
+        "headline": "港鐵長沙灣站列車男乘客昏迷送院不治",
+        "dek": "一名六旬男子今早在荃灣綫車廂內暈倒，送院後不治；荃灣綫服務一度受阻，多個車站月台擠迫，荃灣站曾關閉。"
+      }
+    },
     {
       "id": "2026-09-10-lifestyle-mid-autumn-lantern-carnival",
       "published_at": "2026-09-10T11:26:00+08:00",
@@ -1675,72 +1718,6 @@
       "zh": {
         "headline": "雷暴警告生效至下午中段",
         "dek": "天文台下午12時55分發出雷暴警告，其後延長有效時間至下午4時15分，預料本港有局部地區雷暴。"
-      }
-    },
-    {
-      "id": "2026-09-07-galaxy-robot-stores",
-      "published_at": "2026-09-07T13:07:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "business",
-        "innovation",
-        "retail"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-07/2026-09-07-galaxy-robot-stores.json",
-      "en": {
-        "headline": "Beijing robotics firm plans dozens more autonomous retail stores in Hong Kong",
-        "dek": "Galaxy Universal, which already operates fully autonomous shops in Kai Tak, Hung Hom and Wan Chai, aims to expand into tourist areas including theme parks."
-      },
-      "zh": {
-        "headline": "銀河通用擬在港增設數十家全自主機器人零售店",
-        "dek": "公司已在啟德、紅磡及灣仔開業，計劃拓展至人流密集區及主題樂園，並增加產品種類。"
-      }
-    },
-    {
-      "id": "2026-09-07-tse-beijing-apec-energy",
-      "published_at": "2026-09-07T13:06:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "government",
-        "environment",
-        "energy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-07/2026-09-07-tse-beijing-apec-energy.json",
-      "en": {
-        "headline": "Environment secretary heads to Beijing for APEC energy ministers’ meeting",
-        "dek": "Tse Chin-wan will also meet officials from the Ministry of Ecology and Environment and the National Energy Administration during the five-day visit."
-      },
-      "zh": {
-        "headline": "謝展寰赴京出席APEC能源部長會議",
-        "dek": "環境及生態局局長今午啓程，期間將與生態環境部及國家能源局官員會面，周五返港。"
-      }
-    },
-    {
-      "id": "2026-09-07-didi-av-tseung-kwan-o",
-      "published_at": "2026-09-07T13:05:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "transport",
-        "autonomous",
-        "innovation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-07/2026-09-07-didi-av-tseung-kwan-o.json",
-      "en": {
-        "headline": "Didi plans autonomous vehicle tests in Tseung Kwan O this year",
-        "dek": "A government adviser said the mainland ride-hailing firm will apply for a pilot licence, with initial trials likely starting in the industrial estate."
-      },
-      "zh": {
-        "headline": "滴滴擬今年申請將軍澳無人駕駛測試牌照",
-        "dek": "運輸署工作組成員表示，內地網約車巨頭擬申請自動車先導牌照，初步測試或先於工業邨展開。"
       }
     }
   ]
