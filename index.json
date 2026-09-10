@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-09-10T09:41:57+08:00",
+  "generated_at": "2026-09-10T11:12:07+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-09-10-lifestyle-mid-autumn-lantern-carnival",
+      "published_at": "2026-09-10T11:26:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-lifestyle-mid-autumn-lantern-carnival.json",
+      "en": {
+        "headline": "Mid-Autumn lantern carnival returns to Victoria Park on 17 September",
+        "dek": "LCSD’s Bing-wu lantern carnival runs free of charge from 17 to 27 September, alongside the Tourism Board’s first international lantern showcase at the same park."
+      },
+      "zh": {
+        "headline": "丙午年中秋綵燈會下週四維園亮燈",
+        "dek": "康文署綵燈會9月17日至27日於維園免費開放，旅發局同期首辦國際中秋綵燈匯，文化中心露天廣場另設光影裝置至10月11日。"
+      }
+    },
+    {
+      "id": "2026-09-10-uzbekistan-gold-market-mou",
+      "published_at": "2026-09-10T11:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "finance",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-uzbekistan-gold-market-mou.json",
+      "en": {
+        "headline": "Hong Kong and Uzbekistan sign gold market cooperation pact",
+        "dek": "Christopher Hui exchanged an MOU with Uzbekistan’s central bank at the Belt and Road Summit; the two sides were due to meet again on Thursday."
+      },
+      "zh": {
+        "headline": "港與烏茲別克簽備忘錄加強黃金市場合作",
+        "dek": "許正宇周三在一帶一路高峰論壇與烏茲別克央行副主席交換諒解備忘錄，財庫局周四續開雙邊會議。"
+      }
+    },
+    {
+      "id": "2026-09-10-hang-seng-below-25000",
+      "published_at": "2026-09-10T11:24:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-10/2026-09-10-hang-seng-below-25000.json",
+      "en": {
+        "headline": "Hang Seng slips below 25,000 in morning trade",
+        "dek": "The benchmark opened at 24,985, down 289 points or 1.15 per cent, the first break of that level in nearly six weeks, RTHK reported."
+      },
+      "zh": {
+        "headline": "恒指早市失守二萬五千關 近一個半月首見",
+        "dek": "恒生指數競價時段報24,985點，跌289點或1.15%，港台報道這是近一個半月首次跌穿25,000點。"
+      }
+    },
     {
       "id": "2026-09-10-lifestyle-cavalluna-kai-tak",
       "published_at": "2026-09-10T09:53:00+08:00",
