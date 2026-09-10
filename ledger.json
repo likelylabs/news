@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-09-10T23:10:18+08:00",
+  "updated_at": "2026-09-10T23:13:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "mong-kok-drug-chase-arrests-sep10",
+      "id": "2026-09-10-mong-kok-drug-chase-arrests",
+      "first_seen": "2026-09-10T23:08:00+08:00",
+      "headline_en": "Three arrested after Mong Kok car chase linked to alleged drug deal"
+    },
+    {
+      "key": "wsj-publisher-union-conviction-sep10",
+      "id": "2026-09-10-wsj-publisher-union-conviction",
+      "first_seen": "2026-09-10T23:09:00+08:00",
+      "headline_en": "Wall Street Journal publisher convicted of deterring reporter from union role"
+    },
+    {
+      "key": "shkp-annual-results-2026",
+      "id": "2026-09-10-shkp-annual-results",
+      "first_seen": "2026-09-10T23:10:00+08:00",
+      "headline_en": "Sun Hung Kai Properties underlying profit rises 4.6 percent to HK$22.85 billion"
+    },
+    {
+      "key": "mtr-tour-guide-fare-evasion-sep10",
+      "id": "2026-09-10-mtr-tour-guide-fare-evasion",
+      "first_seen": "2026-09-10T23:11:00+08:00",
+      "headline_en": "MTR says police have identified tour guide in Tsim Sha Tsui fare-evasion case"
+    },
+    {
+      "key": "lifestyle-rethink-hk-2026",
+      "id": "2026-09-10-lifestyle-rethink-hk-2026",
+      "first_seen": "2026-09-10T23:12:00+08:00",
+      "headline_en": "ReThink HK sustainability conference opens at Convention Centre"
+    },
     {
       "key": "tung-chee-hwa-state-funeral-sep10",
       "id": "2026-09-10-tung-chee-hwa-state-funeral",
