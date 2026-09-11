@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-09-12T06:41:39+08:00",
+  "generated_at": "2026-09-12T07:12:41+08:00",
   "live_window_hours": 72,
-  "count": 96,
+  "count": 100,
   "articles": [
+    {
+      "id": "2026-09-12-lifestyle-leslie-cheung-70-concert",
+      "published_at": "2026-09-12T07:23:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "concert",
+        "west-kowloon",
+        "leslie-cheung"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-lifestyle-leslie-cheung-70-concert.json",
+      "en": {
+        "headline": "Sold-out Leslie Cheung 70th-birthday concert plays West Kowloon tonight",
+        "dek": "The outdoor show at the AXA Bamboo Theatre starts at 7.15pm, with a 1,956-drone display timed for 9.12pm."
+      },
+      "zh": {
+        "headline": "張國榮70誕辰音樂會今晚西九舉行 門票售置",
+        "dek": "《繼續寵愛·張國榮70誕辰·音樂會》今晚7時15分於安盛竹翠公園開場，主辦方安排1,956部無人機於9時12分升空。"
+      }
+    },
+    {
+      "id": "2026-09-12-belt-and-road-summit-close",
+      "published_at": "2026-09-12T07:22:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "government",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-belt-and-road-summit-close.json",
+      "en": {
+        "headline": "Belt and Road Summit closes with record 60-plus MOUs",
+        "dek": "The two-day government-organised event drew more than 6,200 participants from over 70 countries and regions and deals valued above US$3.1 billion."
+      },
+      "zh": {
+        "headline": "一帶一路高峰論壇閉幕 簽署逾60份合作備忘錄創新高",
+        "dek": "為期兩日的論壇吸引來自70多個國家及地區逾6,200名政商代表，連同會前及會期成交，涉及金額逾31億美元。"
+      }
+    },
+    {
+      "id": "2026-09-12-simon-lui-death",
+      "published_at": "2026-09-12T07:21:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "culture",
+        "film"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-simon-lui-death.json",
+      "en": {
+        "headline": "Hong Kong actor Simon Lui, known as King of Ghosts, dies at 62",
+        "dek": "Fellow actor Frankie Ng said Lui’s wife confirmed he died of gastric cancer in a Guangzhou hospital on 7 September."
+      },
+      "zh": {
+        "headline": "「鬼王」雷宇揚胃癌病逝廣州 享年62歲",
+        "dek": "演員吳志雄周五轉述，雷宇揚妻子馬莉證實他於9月7日在廣州醫院逝世，家屬希望低調處理。"
+      }
+    },
+    {
+      "id": "2026-09-12-sai-kung-stray-friends-enforcement-deferral",
+      "published_at": "2026-09-12T07:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "sai-kung",
+        "animals",
+        "planning",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-sai-kung-stray-friends-enforcement-deferral.json",
+      "en": {
+        "headline": "Planning Department delays Sai Kung dog shelter shutdown by three months",
+        "dek": "Enforcement against an unauthorised animal boarding use at Ho Chung is suspended until 12 December after the operator lodged a planning application."
+      },
+      "zh": {
+        "headline": "規劃署暫緩西貢狗舍執法 中止期限延至12月12日",
+        "dek": "西貢蠅涌大藍湖路狗舍被指在自然保育區作動物寄養屬違例發展，署方因應規劃申請將強制執行通知書期限延長三個月。"
+      }
+    },
     {
       "id": "2026-09-12-lifestyle-tko-dopamine-dessert-festival",
       "published_at": "2026-09-12T03:12:00+08:00",
