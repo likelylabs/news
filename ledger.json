@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-11T19:20:32+08:00",
+  "updated_at": "2026-09-11T21:15:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "ho-man-tin-private-car-pedestrian-crash-sep11",
+      "id": "2026-09-11-ho-man-tin-private-car-pedestrian-crash",
+      "first_seen": "2026-09-11T21:10:00+08:00",
+      "headline_en": "Private car mounts pavement in Ho Man Tin; three pedestrians hurt"
+    },
+    {
+      "key": "fehd-mark-six-theft-probe-sep11",
+      "id": "2026-09-11-fehd-mark-six-theft-probe",
+      "first_seen": "2026-09-11T21:12:00+08:00",
+      "headline_en": "Police investigate alleged Mark Six prize dispute among FEHD staff"
+    },
+    {
+      "key": "lifestyle-hong-kong-park-mid-autumn-moon-2026",
+      "id": "2026-09-11-lifestyle-hong-kong-park-mid-autumn-moon",
+      "first_seen": "2026-09-11T21:14:00+08:00",
+      "headline_en": "Hong Kong Park lights up with giant moon for Mid-Autumn"
+    },
     {
       "key": "ping-shan-school-bus-cyclist-crash-sep11",
       "id": "2026-09-11-ping-shan-school-bus-cyclist-crash",
