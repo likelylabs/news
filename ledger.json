@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-11T13:16:16+08:00",
+  "updated_at": "2026-09-11T15:10:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "chai-wan-elderly-van-crash-sep11",
+      "id": "2026-09-11-chai-wan-elderly-van-crash",
+      "first_seen": "2026-09-11T15:05:00+08:00",
+      "headline_en": "Driver arrested after light goods vehicle hits 92-year-old woman in Chai Wan"
+    },
+    {
+      "key": "yuen-long-water-main-burst-sep11",
+      "id": "2026-09-11-yuen-long-water-main-burst",
+      "first_seen": "2026-09-11T15:06:00+08:00",
+      "headline_en": "Water main bursts near Tai Tong Road Light Rail stop in Yuen Long"
+    },
+    {
+      "key": "sc-marathon-2027-public-registration",
+      "id": "2026-09-11-sc-marathon-2027-registration",
+      "first_seen": "2026-09-11T15:07:00+08:00",
+      "headline_en": "Standard Chartered Hong Kong Marathon 2027 public ballot opens"
+    },
+    {
+      "key": "meta-ai-hong-kong-launch-sep11",
+      "id": "2026-09-11-meta-ai-hong-kong-launch",
+      "first_seen": "2026-09-11T15:08:00+08:00",
+      "headline_en": "Meta AI rolls out in Hong Kong with Cantonese support"
+    },
     {
       "key": "weekend-weather-outlook-sep11",
       "id": "2026-09-11-weekend-weather-outlook",
