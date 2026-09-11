@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-11T23:12:34+08:00",
+  "updated_at": "2026-09-12T01:24:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "fehd-mark-six-theft-arrest-sep11",
+      "id": "2026-09-12-fehd-mark-six-theft-arrest",
+      "first_seen": "2026-09-12T01:20:00+08:00",
+      "headline_en": "Police arrest 36-year-old over disputed Mark Six jackpot among FEHD staff"
+    },
+    {
+      "key": "customs-cannabis-airport-sep11",
+      "id": "2026-09-12-customs-cannabis-airport-sep11",
+      "first_seen": "2026-09-12T01:22:00+08:00",
+      "headline_en": "Customs seizes 7.5 kg cannabis buds at airport; Mainland woman arrested"
+    },
+    {
+      "key": "lifestyle-hkdi-leslie-cheung-exhibition-2026",
+      "id": "2026-09-12-lifestyle-hkdi-leslie-cheung-exhibition",
+      "first_seen": "2026-09-12T01:24:00+08:00",
+      "headline_en": "HKDI opens Leslie Cheung memorial exhibition with rarely seen photographs"
+    },
     {
       "key": "ma-tso-lung-iron-tubes-accident-sep11",
       "id": "2026-09-11-ma-tso-lung-iron-tubes-accident",
