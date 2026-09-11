@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-09-11T13:16:16+08:00",
+  "generated_at": "2026-09-11T15:07:28+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-09-11-meta-ai-hong-kong-launch",
+      "published_at": "2026-09-11T15:08:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "ai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-meta-ai-hong-kong-launch.json",
+      "en": {
+        "headline": "Meta AI rolls out in Hong Kong with Cantonese support",
+        "dek": "The chatbot is available via its dedicated app and website from Friday, with integration into Facebook, Instagram, Threads and WhatsApp to follow."
+      },
+      "zh": {
+        "headline": "Meta AI正式登陸香港 支援廣東話及本地文化",
+        "dek": "今日起可透過專屬應用及網站使用，稍後將陸續加入Facebook、Instagram、Threads及WhatsApp。"
+      }
+    },
+    {
+      "id": "2026-09-11-sc-marathon-2027-registration",
+      "published_at": "2026-09-11T15:07:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "community",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-sc-marathon-2027-registration.json",
+      "en": {
+        "headline": "Standard Chartered Hong Kong Marathon 2027 public ballot opens",
+        "dek": "Public registration for the January 17 race began at 2pm on Friday, with total main-event places raised to a record 78,000."
+      },
+      "zh": {
+        "headline": "渣打香港馬拉松2027公眾抽籤報名今午開始",
+        "dek": "主賽事總名額增至歷來最高的78,000個，公眾報名今日下午2時起至9月20日晚上7時截止。"
+      }
+    },
+    {
+      "id": "2026-09-11-yuen-long-water-main-burst",
+      "published_at": "2026-09-11T15:06:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "traffic",
+        "water",
+        "yuen-long"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-yuen-long-water-main-burst.json",
+      "en": {
+        "headline": "Water main bursts near Tai Tong Road Light Rail stop in Yuen Long",
+        "dek": "Muddy water flooded part of Castle Peak Road and a pavement on Friday morning, prompting temporary lane closures while the Water Supplies Department carried out emergency repairs."
+      },
+      "zh": {
+        "headline": "元朗青山公路近大棠路輕鐵站水管爆裂 部分行車線封閉",
+        "dek": "今早約7時許大量黃泥水湧出行人路及馬路，水務署關掣搶修，運輸署封閉往錦田方向部分行車線。"
+      }
+    },
+    {
+      "id": "2026-09-11-chai-wan-elderly-van-crash",
+      "published_at": "2026-09-11T15:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "transport",
+        "traffic",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-chai-wan-elderly-van-crash.json",
+      "en": {
+        "headline": "Driver arrested after light goods vehicle hits 92-year-old woman in Chai Wan",
+        "dek": "Police charged a 35-year-old man with dangerous driving causing grievous bodily harm after the vehicle struck a pedestrian near Fung Wah Estate on Friday morning."
+      },
+      "zh": {
+        "headline": "柴灣客貨車撞倒92歲老婦 司機涉危駕致他人身體嚴重受傷被捕",
+        "dek": "警方指今早11時許峰霞道近翡翠道交界發生意外，35歲本地男司機涉嫌危險駕駛引致他人身體嚴重受傷被捕。"
+      }
+    },
     {
       "id": "2026-09-11-yuen-kee-food-ipo-hearing",
       "published_at": "2026-09-11T13:20:00+08:00",
@@ -1833,73 +1918,6 @@
       "zh": {
         "headline": "港鐵尖沙咀站集體逃票報警 片段顯示一次拍卡多人出閘",
         "dek": "網上片段顯示8月23日晚有人拍一次卡後多人尾隨出閘，最多一次達7人；港鐵已報警並加強巡查，強調逃票可被檢控。"
-      }
-    },
-    {
-      "id": "2026-09-08-non-etp-sales-2025-record",
-      "published_at": "2026-09-08T15:06:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "finance",
-        "sfc",
-        "hkma",
-        "investment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-08/2026-09-08-non-etp-sales-2025-record.json",
-      "en": {
-        "headline": "Hong Kong non-exchange-traded product sales hit record HK$9.9 trillion in 2025",
-        "dek": "A joint SFC-HKMA survey showed a 63 per cent rise driven by strong demand for fixed-income, currency and commodity products and record market participation."
-      },
-      "zh": {
-        "headline": "去年非交易所買賣投資產品銷售創9.9萬億元新高",
-        "dek": "證監會與金管局聯合調查顯示按年急升63%，受惠於固定收益、貨幣及商品產品需求強勁及市場參與度破紀錄。"
-      }
-    },
-    {
-      "id": "2026-09-08-hk-un-jpo-16-officers",
-      "published_at": "2026-09-08T15:05:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "government",
-        "civil-service",
-        "united-nations",
-        "youth"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-08/2026-09-08-hk-un-jpo-16-officers.json",
-      "en": {
-        "headline": "Record 16 young Hong Kong officers recommended for UN Junior Professional posts",
-        "dek": "The third batch, drawn from 12 government departments and bureaux, will begin two-year assignments this month at UN headquarters and offices in Geneva, Vienna and Nairobi."
-      },
-      "zh": {
-        "headline": "歷來最多16名青年公務員獲推薦赴聯合國任職",
-        "dek": "第三批人員來自12個政府部門及政策局，本月起陸續啓程，於聯合國總部及日內瓦、維也納、內羅畢辦事處擔任兩年職位。"
-      }
-    },
-    {
-      "id": "2026-09-08-lifestyle-flockfest-pmq",
-      "published_at": "2026-09-08T13:17:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "community",
-        "food",
-        "events",
-        "music"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-08/2026-09-08-lifestyle-flockfest-pmq.json",
-      "en": {
-        "headline": "Black Kite’s Flockfest brings craft beer and indie music to PMQ this weekend",
-        "dek": "The three-day free-entry festival from 11 to 13 September features eight Hong Kong and Japanese breweries, more than 50 beers, local food and live sets by 15 indie acts."
-      },
-      "zh": {
-        "headline": "黑鳶Flockfest周末PMQ舉行 精釀啤酒與本地獨立音樂",
-        "dek": "9月11至13日於中環元創方免費入場，匯聚港日八間酒廠逾50款啤酒、本地美食及15組獨立音樂單位。"
       }
     }
   ]
