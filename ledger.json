@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-09-11T09:09:01+08:00",
+  "updated_at": "2026-09-11T09:20:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-cavalluna-kai-tak-2026",
+      "id": "2026-09-11-lifestyle-cavalluna-kai-tak",
+      "first_seen": "2026-09-11T09:20:00+08:00",
+      "headline_en": "CAVALLUNA plays its last Hong Kong dates this weekend at Kai Tak"
+    },
+    {
+      "key": "lifestyle-flockfest-pmq-2026",
+      "id": "2026-09-11-lifestyle-flockfest-pmq",
+      "first_seen": "2026-09-11T09:19:00+08:00",
+      "headline_en": "Black Kite stages three-day craft beer festival at PMQ from tonight"
+    },
+    {
+      "key": "midland-home-price-forecast-2026",
+      "id": "2026-09-11-midland-home-price-forecast",
+      "first_seen": "2026-09-11T09:18:00+08:00",
+      "headline_en": "Midland forecasts 15 percent rise in Hong Kong home prices this year"
+    },
+    {
+      "key": "sfc-cloudbreak-pharma-ipo-suspension",
+      "id": "2026-09-11-sfc-cloudbreak-ipo-suspension",
+      "first_seen": "2026-09-11T09:17:00+08:00",
+      "headline_en": "SFC suspends Cloudbreak Pharma shares over suspected IPO rigging"
+    },
+    {
+      "key": "tuen-mun-road-seven-vehicle-crash-sep11",
+      "id": "2026-09-11-tuen-mun-road-seven-vehicle-crash",
+      "first_seen": "2026-09-11T09:16:00+08:00",
+      "headline_en": "Seven vehicles collide on Tuen Mun Road near Hong King Garden"
+    },
     {
       "key": "lifestyle-mplus-herzog-de-meuron-in-focus",
       "id": "2026-09-11-lifestyle-mplus-herzog-de-meuron",
