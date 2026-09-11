@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-09-11T19:20:32+08:00",
+  "generated_at": "2026-09-11T21:06:59+08:00",
   "live_window_hours": 72,
-  "count": 96,
+  "count": 99,
   "articles": [
+    {
+      "id": "2026-09-11-lifestyle-hong-kong-park-mid-autumn-moon",
+      "published_at": "2026-09-11T21:14:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events",
+        "mid-autumn"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-lifestyle-hong-kong-park-mid-autumn-moon.json",
+      "en": {
+        "headline": "Hong Kong Park lights up with giant moon for Mid-Autumn",
+        "dek": "A large illuminated moon installation with hanging planets and star lights is now on display in the Central park each evening, free to visit."
+      },
+      "zh": {
+        "headline": "香港公園中秋巨型月亮裝置亮燈",
+        "dek": "中環香港公園現設太空主題中秋裝置，巨型月亮配吊掛行星及星光，每晚約6時起亮燈，免費入場。"
+      }
+    },
+    {
+      "id": "2026-09-11-fehd-mark-six-theft-probe",
+      "published_at": "2026-09-11T21:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "fehd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-fehd-mark-six-theft-probe.json",
+      "en": {
+        "headline": "Police investigate alleged Mark Six prize dispute among FEHD staff",
+        "dek": "A 36-year-old health inspector is wanted after colleagues reported that a shared winning ticket from last Saturday’s jackpot was not divided as agreed."
+      },
+      "zh": {
+        "headline": "食環署職員夾份中六合彩 衛生督察疑拒平分被通緝",
+        "dek": "據報15名活化街市組人員合資中半注頭獎逾三千萬元，負責買票的36歲衛生督察疑拒平分後失蹤，警方列盜竊通緝。"
+      }
+    },
+    {
+      "id": "2026-09-11-ho-man-tin-private-car-pedestrian-crash",
+      "published_at": "2026-09-11T21:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "traffic",
+        "police",
+        "ho-man-tin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-ho-man-tin-private-car-pedestrian-crash.json",
+      "en": {
+        "headline": "Private car mounts pavement in Ho Man Tin; three pedestrians hurt",
+        "dek": "A probationary-licence private car left Chung Hau Street near Carmel Secondary School on Friday afternoon, striking three pedestrians who were taken to Queen Elizabeth Hospital."
+      },
+      "zh": {
+        "headline": "何文田私家車剷上行人路 三途人受傷送院",
+        "dek": "周五下午近6時，一輛掛P牌私家車在忠孝街近迦密中學失控上行人路，撞傷一男兩女，全部清醒送伊利沙伯醫院。"
+      }
+    },
     {
       "id": "2026-09-11-lifestyle-victoria-park-mid-autumn-lantern",
       "published_at": "2026-09-11T19:27:00+08:00",
