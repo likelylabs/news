@@ -1,8 +1,113 @@
 {
-  "generated_at": "2026-09-11T07:08:31+08:00",
+  "generated_at": "2026-09-11T09:09:01+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-09-11-lifestyle-cavalluna-kai-tak",
+      "published_at": "2026-09-11T09:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-lifestyle-cavalluna-kai-tak.json",
+      "en": {
+        "headline": "CAVALLUNA plays its last Hong Kong dates this weekend at Kai Tak",
+        "dek": "The European equestrian theatre production, making its Asian debut, has remaining performances through Sunday at Kai Tak Arena, with tickets from HK$395."
+      },
+      "zh": {
+        "headline": "歐洲馬術劇場CAVALLUNA本周末在啟德上演最後場次",
+        "dek": "亞洲首站餘下場次今晚至周日在啟德體藝館舉行，普通票由395元起，由香港賽馬會呈獻。"
+      }
+    },
+    {
+      "id": "2026-09-11-lifestyle-flockfest-pmq",
+      "published_at": "2026-09-11T09:19:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "events",
+        "food"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-lifestyle-flockfest-pmq.json",
+      "en": {
+        "headline": "Black Kite stages three-day craft beer festival at PMQ from tonight",
+        "dek": "FLOCKFEST runs in the Central courtyard through Sunday with eight Hong Kong and Japanese breweries, local food stalls and indie sets; admission is free."
+      },
+      "zh": {
+        "headline": "黑鴛今晚起在元創方辦三日精釀啤酒節",
+        "dek": "FLOCKFEST今晚至周日在中環PMQ地面廣場舉行，八間港日酒廠、本地小食及獨立音樂演出，免費入場。"
+      }
+    },
+    {
+      "id": "2026-09-11-midland-home-price-forecast",
+      "published_at": "2026-09-11T09:18:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "property"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-midland-home-price-forecast.json",
+      "en": {
+        "headline": "Midland forecasts 15 percent rise in Hong Kong home prices this year",
+        "dek": "The agency said first-hand deals rebounded in August and expects primary transactions to jump 50 percent in the final quarter as buyers return."
+      },
+      "zh": {
+        "headline": "美聯料今年樓價升15% 仍低於2021年高位一成六",
+        "dek": "代理周四簡報指8月一手成交回升至1,100宗，預期第四季一手成交按季升五成，二手升一成。"
+      }
+    },
+    {
+      "id": "2026-09-11-sfc-cloudbreak-ipo-suspension",
+      "published_at": "2026-09-11T09:17:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "finance",
+        "markets"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-sfc-cloudbreak-ipo-suspension.json",
+      "en": {
+        "headline": "SFC suspends Cloudbreak Pharma shares over suspected IPO rigging",
+        "dek": "The regulator directed the exchange to halt trading from 9am on Thursday, saying it has serious concerns the 2025 listing may have created an artificial impression of demand."
+      },
+      "zh": {
+        "headline": "證監會勒令撥康視雲停牌 指IPO或涉人為操縱需求",
+        "dek": "證監會周四上午9時起指示聯交所暫停02592股份買賣，指對去年上市或被操縱以營造需求假象表示嚴重關注。"
+      }
+    },
+    {
+      "id": "2026-09-11-tuen-mun-road-seven-vehicle-crash",
+      "published_at": "2026-09-11T09:16:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "traffic",
+        "tuen-mun"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-tuen-mun-road-seven-vehicle-crash.json",
+      "en": {
+        "headline": "Seven vehicles collide on Tuen Mun Road near Hong King Garden",
+        "dek": "Police were called at 7.21am to the Kowloon-bound carriageway; three drivers were sent to hospital and the Transport Department closed some lanes."
+      },
+      "zh": {
+        "headline": "屯門公路近豪景花園7車相撞 3司機送院",
+        "dek": "警方早上7時21分接報往九龍方向近豪景花園發生連環相撞，運輸署封閉部分行車線，上址交通繁忙。"
+      }
+    },
     {
       "id": "2026-09-11-lifestyle-mplus-herzog-de-meuron",
       "published_at": "2026-09-11T07:12:00+08:00",
@@ -1841,50 +1946,6 @@
       "zh": {
         "headline": "天文台今早發出酷熱天氣警告",
         "dek": "天文台上午6晈45分發出酷熱天氣警告，預料今日大致天晴，日間酷熱，市區最高氣溫約33度，下午局部地區有驟雨。"
-      }
-    },
-    {
-      "id": "2026-09-08-lifestyle-ultraman-incubase",
-      "published_at": "2026-09-08T07:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events",
-        "family"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-08/2026-09-08-lifestyle-ultraman-incubase.json",
-      "en": {
-        "headline": "Ultraman 60th-anniversary exhibition in Mong Kok ends Sunday",
-        "dek": "The Ultra Heroes Exhibition 2026 at INCUBASE Arena in Chong Hing Square closes on 13 September after a summer run of costumes, props and reconstructed Six Ultra Brothers scenes."
-      },
-      "zh": {
-        "headline": "旺角超人英雄展本周日結束",
-        "dek": "慶祝超人系列60周年的《超人英雄展2026》在旺角創興廣場INCUBASE Arena展出至9月13日，展出拍攝用皮套、道具及昭和超人六兄弟場景。"
-      }
-    },
-    {
-      "id": "2026-09-08-hkma-taxonomy-2b",
-      "published_at": "2026-09-08T07:09:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "finance",
-        "hkma",
-        "environment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-08/2026-09-08-hkma-taxonomy-2b.json",
-      "en": {
-        "headline": "HKMA consults on next phase of sustainable finance taxonomy",
-        "dek": "The Monetary Authority's Phase 2B prototype expands the list of defined green and transition activities from 25 to 39 and adds shoreline and flood measures, with comments due by 7 October."
-      },
-      "zh": {
-        "headline": "金管局就可持續金融分類目錄第2B階段諮詢",
-        "dek": "金管局公布第2B階段原型，將綠色及轉型經濟活動由25項增至39項，並加入海岸及防洪適應措施，公眾可於10月7日前提交意見。"
       }
     }
   ]
