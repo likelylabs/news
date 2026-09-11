@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-09-11T15:07:28+08:00",
+  "generated_at": "2026-09-11T17:18:35+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 93,
   "articles": [
+    {
+      "id": "2026-09-11-dental-internship-graduates",
+      "published_at": "2026-09-11T17:22:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "government",
+        "education"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-dental-internship-graduates.json",
+      "en": {
+        "headline": "First cohort of dental interns completes year; 46 join Department of Health",
+        "dek": "Of 74 local graduates who finished the mandatory 12-month programme, about 62 percent will take up posts in the public dental service, the Department of Health said."
+      },
+      "zh": {
+        "headline": "首屆牙科實習計劃74人完成 46人加入衞生署",
+        "dek": "約六成二畢業生選擇加入公營牙科服務，新一屆78名應屆生已於本月展開實習。"
+      }
+    },
+    {
+      "id": "2026-09-11-hang-seng-fifth-day-close",
+      "published_at": "2026-09-11T17:21:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "markets",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-hang-seng-fifth-day-close.json",
+      "en": {
+        "headline": "Hang Seng closes down 148 points, extending five-day slide",
+        "dek": "The benchmark finished at 24,805 on Friday on turnover of HK$228.43 billion, taking the weekly loss to about 3.3 percent amid rate concerns and thinner volumes."
+      },
+      "zh": {
+        "headline": "恒指收報24805點跌148點 連跌五日全周累跌約3.3%",
+        "dek": "周五成交228.43億元，科技指數及國企指數同步偏軟，內地滬指跌逾1%。"
+      }
+    },
+    {
+      "id": "2026-09-11-sham-shui-po-scaffolding-fatality",
+      "published_at": "2026-09-11T17:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "industrial",
+        "safety",
+        "sham-shui-po"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-sham-shui-po-scaffolding-fatality.json",
+      "en": {
+        "headline": "Scaffolding worker dies after falling with dog-arm boom in Sham Shui Po",
+        "dek": "A man in his 50s fell from rooftop scaffolding at Yu Chau Street on Friday morning and was certified dead at Caritas Medical Centre; the Labour Department is investigating."
+      },
+      "zh": {
+        "headline": "深水埗搭棚工連狗臂架墮下身亡 勞工處調查",
+        "dek": "一名約50歲男工今早在汝州街唐樓天台棚架工作時連同狗臂架墮下，送明愛醫院後不治，勞工處正調查事故原因。"
+      }
+    },
     {
       "id": "2026-09-11-meta-ai-hong-kong-launch",
       "published_at": "2026-09-11T15:08:00+08:00",
