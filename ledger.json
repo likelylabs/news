@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-11T15:07:28+08:00",
+  "updated_at": "2026-09-11T17:22:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "sham-shui-po-scaffolding-fatality-sep11",
+      "id": "2026-09-11-sham-shui-po-scaffolding-fatality",
+      "first_seen": "2026-09-11T17:20:00+08:00",
+      "headline_en": "Scaffolding worker dies after falling with dog-arm boom in Sham Shui Po"
+    },
+    {
+      "key": "hang-seng-fifth-day-close-sep11",
+      "id": "2026-09-11-hang-seng-fifth-day-close",
+      "first_seen": "2026-09-11T17:21:00+08:00",
+      "headline_en": "Hang Seng closes down 148 points, extending five-day slide"
+    },
+    {
+      "key": "dental-internship-graduates-2026",
+      "id": "2026-09-11-dental-internship-graduates",
+      "first_seen": "2026-09-11T17:22:00+08:00",
+      "headline_en": "First cohort of dental interns completes year; 46 join Department of Health"
+    },
     {
       "key": "chai-wan-elderly-van-crash-sep11",
       "id": "2026-09-11-chai-wan-elderly-van-crash",
