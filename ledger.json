@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-11T17:18:35+08:00",
+  "updated_at": "2026-09-11T19:28:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "ping-shan-school-bus-cyclist-crash-sep11",
+      "id": "2026-09-11-ping-shan-school-bus-cyclist-crash",
+      "first_seen": "2026-09-11T19:25:00+08:00",
+      "headline_en": "School bus hits cyclist in Ping Shan; woman in 40s hospitalised"
+    },
+    {
+      "key": "dengue-imported-cases-sep11",
+      "id": "2026-09-11-dengue-imported-cases-sep11",
+      "first_seen": "2026-09-11T19:26:00+08:00",
+      "headline_en": "Three more imported dengue cases recorded; yearly total reaches 31"
+    },
+    {
+      "key": "lifestyle-victoria-park-mid-autumn-lantern-2026",
+      "id": "2026-09-11-lifestyle-victoria-park-mid-autumn-lantern",
+      "first_seen": "2026-09-11T19:27:00+08:00",
+      "headline_en": "Victoria Park Mid-Autumn Lantern Carnival opens next Thursday"
+    },
     {
       "key": "sham-shui-po-scaffolding-fatality-sep11",
       "id": "2026-09-11-sham-shui-po-scaffolding-fatality",
