@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-12T01:20:02+08:00",
+  "generated_at": "2026-09-12T03:07:18+08:00",
   "live_window_hours": 72,
-  "count": 96,
+  "count": 98,
   "articles": [
+    {
+      "id": "2026-09-12-lifestyle-tko-dopamine-dessert-festival",
+      "published_at": "2026-09-12T03:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "tseung-kwan-o",
+        "festival",
+        "mid-autumn"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-lifestyle-tko-dopamine-dessert-festival.json",
+      "en": {
+        "headline": "Tseung Kwan O Park Central hosts Dopamine Dessert Festival this weekend",
+        "dek": "More than 20 popular local dessert shops gather at the mall on 12 and 13 September offering cheesecakes, mochi, cinnamon rolls and other sweets ahead of Mid-Autumn."
+      },
+      "zh": {
+        "headline": "將軍澳中心本周末辦多巴胺甜品節 逾20店齊集",
+        "dek": "9月12至13日於將軍澳中心舉行，雲集手工巴斯克芝士蛋糕、豆腐麻糬、肉桂捲等人氣甜品，為中秋預熱。"
+      }
+    },
+    {
+      "id": "2026-09-12-ma-on-shan-heng-on-couple-death",
+      "published_at": "2026-09-12T03:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "ma-on-shan",
+        "death"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-ma-on-shan-heng-on-couple-death.json",
+      "en": {
+        "headline": "Elderly couple found dead in Ma On Shan flat; police treat case as non-suspicious",
+        "dek": "Firefighters forced entry to a unit at Heng On Estate after neighbours reported a foul smell; the pair, both in their 70s, are believed to have had underlying health conditions."
+      },
+      "zh": {
+        "headline": "馬鞍山恆安邨揭雙屍案 七旬夫婦倒斃單位 警指無可疑",
+        "dek": "鄰居發現單位傳出異味報警，消防破門發現一對約70多歲夫婦遺體，初步相信無刑事成分，死因有待驗屍確定。"
+      }
+    },
     {
       "id": "2026-09-12-lifestyle-hkdi-leslie-cheung-exhibition",
       "published_at": "2026-09-12T01:24:00+08:00",
