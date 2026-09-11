@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-11T11:17:09+08:00",
+  "updated_at": "2026-09-11T13:20:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "weekend-weather-outlook-sep11",
+      "id": "2026-09-11-weekend-weather-outlook",
+      "first_seen": "2026-09-11T13:18:00+08:00",
+      "headline_en": "Weekend brings stronger winds, showers and thunderstorms"
+    },
+    {
+      "key": "tsuen-wan-lorry-dangerous-driving-sep10",
+      "id": "2026-09-11-tsuen-wan-lorry-dangerous-driving",
+      "first_seen": "2026-09-11T13:19:00+08:00",
+      "headline_en": "Driver charged after lorry nearly hits three schoolgirls in Tsuen Wan"
+    },
+    {
+      "key": "yuen-kee-food-ipo-hearing-sep11",
+      "id": "2026-09-11-yuen-kee-food-ipo-hearing",
+      "first_seen": "2026-09-11T13:20:00+08:00",
+      "headline_en": "Yuen Kee Food clears HKEX hearing, eyes October listing"
+    },
     {
       "key": "lifestyle-lee-tung-mid-autumn-2026",
       "id": "2026-09-11-lifestyle-lee-tung-mid-autumn",
