@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-09-11T11:15:07+08:00",
+  "generated_at": "2026-09-11T11:16:25+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-09-11-lifestyle-lee-tung-mid-autumn",
+      "published_at": "2026-09-11T11:30:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-lifestyle-lee-tung-mid-autumn.json",
+      "en": {
+        "headline": "Lee Tung Street lantern walk adds weekend Mid-Autumn markets",
+        "dek": "More than 800 lanterns are already up on the 200-metre Wan Chai stretch; themed stalls run on Saturday and Sunday this weekend and the next."
+      },
+      "zh": {
+        "headline": "利東街中秋燈籠展加開周末市集",
+        "dek": "灣仔利東街200米林蔭道掛出逾800盎燈籠至10月19日，本周末及下周末設中秋主題攤檔，中秋夜有LED火龍表演。"
+      }
+    },
+    {
+      "id": "2026-09-11-kennedy-town-seawall-grade2",
+      "published_at": "2026-09-11T11:29:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-kennedy-town-seawall-grade2.json",
+      "en": {
+        "headline": "Kennedy Town New Praya seawall proposed as Grade 2 historic structure",
+        "dek": "The Antiquities Advisory Board endorsed the grading for the 19th-century granite wall as the government plans a new waterfront boardwalk."
+      },
+      "zh": {
+        "headline": "堅彌地城新海旁海堤擬列二級歷史建築",
+        "dek": "古諮會通過擬議評級，海濱事務委員會主席何文堯稱新板道會離開海堤，方便從不同距離觀看。"
+      }
+    },
+    {
+      "id": "2026-09-11-hang-seng-fifth-day-drop",
+      "published_at": "2026-09-11T11:28:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "markets",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-hang-seng-fifth-day-drop.json",
+      "en": {
+        "headline": "Hang Seng extends losing streak into a fifth session",
+        "dek": "The benchmark was down about 319 points, or 1.3 percent, in late morning trade, with technology and property shares leading the retreat."
+      },
+      "zh": {
+        "headline": "恒指連跌第五日 午前跌約319點",
+        "dek": "恒生指數周五上午10時34分報24,635點，跌318點或1.28%，科技股及地產分類指數較弱。"
+      }
+    },
     {
       "id": "2026-09-11-tobacco-plain-packaging-gazette",
       "published_at": "2026-09-11T11:27:00+08:00",
