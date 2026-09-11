@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-09-11T17:18:35+08:00",
+  "generated_at": "2026-09-11T19:20:32+08:00",
   "live_window_hours": 72,
-  "count": 93,
+  "count": 96,
   "articles": [
+    {
+      "id": "2026-09-11-lifestyle-victoria-park-mid-autumn-lantern",
+      "published_at": "2026-09-11T19:27:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events",
+        "mid-autumn"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-lifestyle-victoria-park-mid-autumn-lantern.json",
+      "en": {
+        "headline": "Victoria Park Mid-Autumn Lantern Carnival opens next Thursday",
+        "dek": "The Leisure and Cultural Services Department display runs from 17 to 27 September, with lighting from 6.30pm to 11pm and an extended midnight close on Mid-Autumn night."
+      },
+      "zh": {
+        "headline": "維園中秋綵燈會下周四起開放",
+        "dek": "康文署綵燈會於9月17至27日舉行，每晚6時半至11時亮燈，中秋夜延長至午夜，免費入場。"
+      }
+    },
+    {
+      "id": "2026-09-11-dengue-imported-cases-sep11",
+      "published_at": "2026-09-11T19:26:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "dengue",
+        "chp"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-dengue-imported-cases-sep11.json",
+      "en": {
+        "headline": "Three more imported dengue cases recorded; yearly total reaches 31",
+        "dek": "The Centre for Health Protection said two of the latest patients had travelled to the Philippines and one to the Chinese Mainland and Vietnam during the incubation period."
+      },
+      "zh": {
+        "headline": "新增3宗外地傳入登革熱 今年累計31宗",
+        "dek": "衞生防護中心公布，9月4日至10日錄得3宗輸入個案，兩名病人潛伏期內到過菲律賓，另一人到過內地及越南。"
+      }
+    },
+    {
+      "id": "2026-09-11-ping-shan-school-bus-cyclist-crash",
+      "published_at": "2026-09-11T19:25:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "traffic",
+        "yuen-long",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-ping-shan-school-bus-cyclist-crash.json",
+      "en": {
+        "headline": "School bus hits cyclist in Ping Shan; woman in 40s hospitalised",
+        "dek": "A female cyclist was knocked unconscious after being struck by a school bus turning into Ping Kwai Road on Friday afternoon and was taken to Tuen Mun Hospital."
+      },
+      "zh": {
+        "headline": "屏山屏葵路校巴撞單車 女騎手一度昏迷送院",
+        "dek": "周五下午約4時50分，一輛校巴由青山公路轉入屏葵路時撞倒一名騎單車過路的40多歲女子，傷者一度昏迷，送屯門醫院治理。"
+      }
+    },
     {
       "id": "2026-09-11-dental-internship-graduates",
       "published_at": "2026-09-11T17:22:00+08:00",
