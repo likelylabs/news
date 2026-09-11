@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-11T23:10:10+08:00",
+  "updated_at": "2026-09-11T23:18:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "ma-tso-lung-iron-tubes-accident-sep11",
+      "id": "2026-09-11-ma-tso-lung-iron-tubes-accident",
+      "first_seen": "2026-09-11T23:12:00+08:00",
+      "headline_en": "Two workers injured as 800kg iron tubes roll down slope in Ma Tso Lung"
+    },
+    {
+      "key": "silver-bond-allotment-sep11",
+      "id": "2026-09-11-silver-bond-allotment-sep11",
+      "first_seen": "2026-09-11T23:14:00+08:00",
+      "headline_en": "Silver Bond allotment hits records; up to 13 lots per investor"
+    },
+    {
+      "key": "equestrian-asian-games-squad-2026",
+      "id": "2026-09-11-equestrian-asian-games-squad",
+      "first_seen": "2026-09-11T23:16:00+08:00",
+      "headline_en": "Hong Kong names 11-strong equestrian squad for Asian Games"
+    },
     {
       "key": "ho-man-tin-private-car-pedestrian-crash-sep11",
       "id": "2026-09-11-ho-man-tin-private-car-pedestrian-crash",
