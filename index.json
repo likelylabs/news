@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-09-11T21:06:59+08:00",
+  "generated_at": "2026-09-11T23:10:10+08:00",
   "live_window_hours": 72,
   "count": 99,
   "articles": [
+    {
+      "id": "2026-09-11-equestrian-asian-games-squad",
+      "published_at": "2026-09-11T23:16:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-games",
+        "equestrian"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-equestrian-asian-games-squad.json",
+      "en": {
+        "headline": "Hong Kong names 11-strong equestrian squad for Asian Games",
+        "dek": "The team will compete in dressage, eventing and jumping at the Tokyo venue, mixing experienced riders with three debutants."
+      },
+      "zh": {
+        "headline": "港隊公布亞運馬術11人名單 涵蓋三項賽事",
+        "dek": "香港中國馬術總會公布亞運馬術代表隊，將於東京場地出戰盛裝舞步、三日賽及場地障礙賽。"
+      }
+    },
+    {
+      "id": "2026-09-11-silver-bond-allotment-sep11",
+      "published_at": "2026-09-11T23:14:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "finance",
+        "government",
+        "bonds"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-silver-bond-allotment-sep11.json",
+      "en": {
+        "headline": "Silver Bond allotment hits records; up to 13 lots per investor",
+        "dek": "The government received 476,703 applications totalling HK$119.3 billion for the 11th batch, and raised the final issuance to HK$55 billion."
+      },
+      "zh": {
+        "headline": "第11批銀債配發結果出爐 最多可獲13手",
+        "dek": "政府公布認購申請476,703份、總額1,193億元均創紀錄，最終發行額加至550億元。"
+      }
+    },
+    {
+      "id": "2026-09-11-ma-tso-lung-iron-tubes-accident",
+      "published_at": "2026-09-11T23:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "industrial",
+        "safety",
+        "labour",
+        "lok-ma-chau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-ma-tso-lung-iron-tubes-accident.json",
+      "en": {
+        "headline": "Two workers injured as 800kg iron tubes roll down slope in Ma Tso Lung",
+        "dek": "A female and a male worker were struck by a bundle of iron tubes during site investigation works near Lok Ma Chau on Friday afternoon and airlifted to hospital."
+      },
+      "zh": {
+        "headline": "落馬洲馬草壟斜坡鐵通滾落 兩工人受傷直升機送院",
+        "dek": "周五下午近馬草壟勘探工地，一紥約800公斤鐵通滾落斜坡擊傷兩名工人，傷者清醒由直升機送往東區醫院。"
+      }
+    },
     {
       "id": "2026-09-11-lifestyle-hong-kong-park-mid-autumn-moon",
       "published_at": "2026-09-11T21:14:00+08:00",
@@ -2048,70 +2113,6 @@
       "zh": {
         "headline": "PISA港生數學科學閱讀排名齊跌 仍高於國際平均",
         "dek": "科學首次跌出全球前十，數碼學習領域排名第六；教育局指三個核心範疇得分仍高於經合組織平均，將檢視結果。"
-      }
-    },
-    {
-      "id": "2026-09-08-shenzhen-hk-guangzhou-innovation-top",
-      "published_at": "2026-09-08T21:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "technology",
-        "government",
-        "innovation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-08/2026-09-08-shenzhen-hk-guangzhou-innovation-top.json",
-      "en": {
-        "headline": "Shenzhen-Hong Kong-Guangzhou cluster retains top global innovation ranking",
-        "dek": "The World Intellectual Property Organization’s 2026 Global Innovation Index again places the cluster first, citing patent filings, scientific publications and venture-capital deals; the Hong Kong government welcomed…"
-      },
-      "zh": {
-        "headline": "深圳—香港—廣州創新集群連續第二年全球排名第一",
-        "dek": "世界知識產權組織《2026年全球創新指數》再次將該集群列為全球首強，指標包括專利、科學論文及風險投資；特區政府表示歡迎。"
-      }
-    },
-    {
-      "id": "2026-09-08-icac-alipayhk-conflict",
-      "published_at": "2026-09-08T21:11:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "icac",
-        "business"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-08/2026-09-08-icac-alipayhk-conflict.json",
-      "en": {
-        "headline": "ICAC charges four over alleged conflict of interest at AlipayHK operator",
-        "dek": "Two former employees of the Ant Group subsidiary and their spouses are accused of concealing interests and securing an app-development contract for a company they controlled; they face conspiracy-to-defraud charges on…"
-      },
-      "zh": {
-        "headline": "廉署起訴AlipayHK兩前僱員及配偶涉隱瞞利益衝突",
-        "dek": "兩名前僱員被指出資經營應用程式開發商並安排配偶任董事，誘使公司將「醫健約」小程式合約外判予該公司；四人被控串謀詐騙，周四提堂。"
-      }
-    },
-    {
-      "id": "2026-09-08-mtr-tst-fare-evasion",
-      "published_at": "2026-09-08T21:10:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "transport",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-08/2026-09-08-mtr-tst-fare-evasion.json",
-      "en": {
-        "headline": "MTR reports mass fare evasion at Tsim Sha Tsui station to police",
-        "dek": "A viral video showed groups of people tailgating through exit gates after a single card tap on 23 August; the operator said it has stepped up patrols and will pursue prosecutions where appropriate."
-      },
-      "zh": {
-        "headline": "港鐵尖沙咀站集體逃票報警 片段顯示一次拍卡多人出閘",
-        "dek": "網上片段顯示8月23日晚有人拍一次卡後多人尾隨出閘，最多一次達7人；港鐵已報警並加強巡查，強調逃票可被檢控。"
       }
     }
   ]
