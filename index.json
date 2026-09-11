@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-09-11T11:17:09+08:00",
+  "generated_at": "2026-09-11T13:16:16+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-09-11-yuen-kee-food-ipo-hearing",
+      "published_at": "2026-09-11T13:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "ipo",
+        "markets",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-yuen-kee-food-ipo-hearing.json",
+      "en": {
+        "headline": "Yuen Kee Food clears HKEX hearing, eyes October listing",
+        "dek": "The dumpling-chain operator is preparing to raise between HK$300 million and HK$400 million, according to people familiar with the matter, after completing three funding rounds."
+      },
+      "zh": {
+        "headline": "袁記雲餃通過港交所聆訊 擬10月上市集資3至4億",
+        "dek": "知情人士指，餃子連鎖品牌母公司已通過上市聆訊，擬於10月展開招股，集資額視乎估值及需求而定。"
+      }
+    },
+    {
+      "id": "2026-09-11-tsuen-wan-lorry-dangerous-driving",
+      "published_at": "2026-09-11T13:19:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "transport",
+        "traffic",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-tsuen-wan-lorry-dangerous-driving.json",
+      "en": {
+        "headline": "Driver charged after lorry nearly hits three schoolgirls in Tsuen Wan",
+        "dek": "Police arrested a 43-year-old man within hours of a dashcam video showing a medium goods vehicle apparently running a red light at a pedestrian crossing on Kwok Shui Road."
+      },
+      "zh": {
+        "headline": "荃灣貨車衝燈險撞三女學生 43歲司機涉危駕被捕",
+        "dek": "警方留意到網上短片後迅速調查，昨晚拘捕一名43歲本地男司機，控以一項危險駕駛罪，9月25日在沙田裁判法院提堂。"
+      }
+    },
+    {
+      "id": "2026-09-11-weekend-weather-outlook",
+      "published_at": "2026-09-11T13:18:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "forecast",
+        "weekend"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-11/2026-09-11-weekend-weather-outlook.json",
+      "en": {
+        "headline": "Weekend brings stronger winds, showers and thunderstorms",
+        "dek": "The Observatory expects a broader low-pressure area over the South China Sea to combine with the northeast monsoon, producing windier conditions and more showers from Saturday afternoon into Sunday."
+      },
+      "zh": {
+        "headline": "周末風勢較大 部分地區有驟雨及雷暴",
+        "dek": "天文台預料南海中部低壓區與東北季候風共同影響，周六下午起至周日廣東沿岸風勢較大，間中有驟雨及狂風雷暴，並有湧浪。"
+      }
+    },
     {
       "id": "2026-09-11-lifestyle-lee-tung-mid-autumn",
       "published_at": "2026-09-11T11:30:00+08:00",
@@ -1835,49 +1900,6 @@
       "zh": {
         "headline": "黑鳶Flockfest周末PMQ舉行 精釀啤酒與本地獨立音樂",
         "dek": "9月11至13日於中環元創方免費入場，匯聚港日八間酒廠逾50款啤酒、本地美食及15組獨立音樂單位。"
-      }
-    },
-    {
-      "id": "2026-09-08-queen-mary-lifts-ning-update",
-      "published_at": "2026-09-08T13:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "health",
-        "government",
-        "hospital"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-08/2026-09-08-queen-mary-lifts-ning-update.json",
-      "en": {
-        "headline": "Development chief says Queen Mary lift shafts have dimensional deviations",
-        "dek": "Secretary Ning Hoi-tak said installation workmanship, damaged components and shaft wall size errors are being fixed, with rectification expected in the fourth quarter and costs borne by the contractors."
-      },
-      "zh": {
-        "headline": "甯漢豪：瑪麗醫院𨋢槽外牆尺寸有偏差 料第四季完成執修",
-        "dek": "發展局局長表示升降機問題涉及安裝工藝、部件破損及井道外牆尺寸偏差，當局有信心今年第四季完成執修，費用由承建商支付。"
-      }
-    },
-    {
-      "id": "2026-09-08-police-hq-shredder-fire",
-      "published_at": "2026-09-08T13:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "accident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-08/2026-09-08-police-hq-shredder-fire.json",
-      "en": {
-        "headline": "Female officer burned after paper shredder fire at Wan Chai police HQ",
-        "dek": "A shredder ignited inside an office in the West Wing of Police Headquarters shortly before 11am; the officer was taken conscious to Ruttonjee Hospital with facial and arm burns."
-      },
-      "zh": {
-        "headline": "灣仔警總碎紙機起火 女警面及手燒傷送院",
-        "dek": "今早近11時警察總部西翼辦公室碎紙機起火，一名女警面部及雙手前臂燒傷，清醒送往律敦治醫院。"
       }
     }
   ]
