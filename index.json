@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-11T23:12:34+08:00",
+  "generated_at": "2026-09-12T01:20:02+08:00",
   "live_window_hours": 72,
-  "count": 99,
+  "count": 96,
   "articles": [
+    {
+      "id": "2026-09-12-lifestyle-hkdi-leslie-cheung-exhibition",
+      "published_at": "2026-09-12T01:24:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "exhibition",
+        "leslie-cheung"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-lifestyle-hkdi-leslie-cheung-exhibition.json",
+      "en": {
+        "headline": "HKDI opens Leslie Cheung memorial exhibition with rarely seen photographs",
+        "dek": "The free show at Hong Kong Design Institute runs until 15 November and features previously unpublished images from the 1980s and 1990s by local and Korean photographers."
+      },
+      "zh": {
+        "headline": "知專辦張國榮紀念展 首度公開八九十年代珍藏照片",
+        "dek": "「風華70・設計共鳴 哥哥紀念展」即日至11月15日於將軍澳香港知專設計學院免費開放，展出本地及韓國攝影師珍藏影像。"
+      }
+    },
+    {
+      "id": "2026-09-12-customs-cannabis-airport-sep11",
+      "published_at": "2026-09-12T01:22:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "customs",
+        "drugs",
+        "airport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-customs-cannabis-airport-sep11.json",
+      "en": {
+        "headline": "Customs seizes 7.5 kg cannabis buds at airport; Mainland woman arrested",
+        "dek": "Officers found the suspected drugs, valued at about HK$1.5 million, inside the check-in baggage of a 31-year-old passenger who arrived from Bangkok via Taiwan on Friday."
+      },
+      "zh": {
+        "headline": "海關機場檢7.5公斤大麻花拘內地女子 市值約150萬元",
+        "dek": "一名31歲內地女旅客周五從曼谷經台灣抵港，寄艙行李藏懷疑大麻花被檢獲，她隨即被捕。"
+      }
+    },
+    {
+      "id": "2026-09-12-fehd-mark-six-theft-arrest",
+      "published_at": "2026-09-12T01:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "fehd",
+        "mark-six"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-fehd-mark-six-theft-arrest.json",
+      "en": {
+        "headline": "Police arrest 36-year-old over disputed Mark Six jackpot among FEHD staff",
+        "dek": "A health inspector is detained on suspicion of theft after colleagues alleged he refused to share a half first-division prize of more than HK$30 million from last Saturday’s draw."
+      },
+      "zh": {
+        "headline": "食環署職員夾份中六合彩逾三千萬 警拘36歲男子涉盜竊",
+        "dek": "據報15名街市活化組人員合資中半注頭獎，負責買票的衞生督察疑拒平分後被拘捕，現正扣留調查。"
+      }
+    },
     {
       "id": "2026-09-11-equestrian-asian-games-squad",
       "published_at": "2026-09-11T23:16:00+08:00",
@@ -1981,138 +2047,6 @@
       "zh": {
         "headline": "香港首任行政長官董建華離世 享年89歲",
         "dek": "董建華辦公室凌晨發聲明，指前全國政協副主席、首任行政長官於周二晚安詳辭世，摯親隨侍。"
-      }
-    },
-    {
-      "id": "2026-09-09-customs-summer-drug-operation",
-      "published_at": "2026-09-09T01:16:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "customs",
-        "drugs",
-        "airport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-customs-summer-drug-operation.json",
-      "en": {
-        "headline": "Customs seizes 6.1 tonnes of drugs worth HK$1.4 billion in summer airport operation",
-        "dek": "A four-month joint campaign with mainland and overseas agencies detected 424 cases and arrested 150 people, many of them young adults recruited during the holiday peak."
-      },
-      "zh": {
-        "headline": "海關暑期機場緝毒行動檢6.1噸毒品值14億元拘150人",
-        "dek": "與內地及海外21個執法機構聯合行動四個月，破424案，約七成被捕者為18至40歲青年。"
-      }
-    },
-    {
-      "id": "2026-09-09-lifestyle-leslie-cheung-70th",
-      "published_at": "2026-09-09T01:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "exhibition",
-        "heritage",
-        "music"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-lifestyle-leslie-cheung-70th.json",
-      "en": {
-        "headline": "Heritage Museum opens Leslie Cheung 70th-birthday exhibition today",
-        "dek": "More than 300 artefacts, including rarely seen stage costumes and a recreated room from the late star’s home, go on free display in Sha Tin until May 2027."
-      },
-      "zh": {
-        "headline": "文化博物館張國榮70誕辰展今日開幕",
-        "dek": "逾300件展品包括罕見舞台服裝及故居場景重現，即日起至2027年5月10日於沙田免費開放。"
-      }
-    },
-    {
-      "id": "2026-09-09-tiangong-classroom-hk-macau",
-      "published_at": "2026-09-09T01:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "education",
-        "space",
-        "youth",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-tiangong-classroom-hk-macau.json",
-      "en": {
-        "headline": "Hong Kong astronaut leads Tiangong Class for HK and Macau students today",
-        "dek": "Lai Ka-ying and her Shenzhou-23 crewmates will deliver a live space lecture from the Tiangong station starting at 9.50am, with schools encouraged to watch the broadcast."
-      },
-      "zh": {
-        "headline": "天宮課堂港澳專場今早舉行 黎家盈與學生天地對話",
-        "dek": "神舟二十三號乘組包括港產航天員黎家盈，將於上午9時50分起為港澳學生進行太空授課及科學實驗示範，教育局鼓勵學校安排師生收看直播。"
-      }
-    },
-    {
-      "id": "2026-09-08-uber-licence-application",
-      "published_at": "2026-09-08T23:42:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "business",
-        "ride-hailing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-08/2026-09-08-uber-licence-application.json",
-      "en": {
-        "headline": "Uber plans Hong Kong ride-hailing licence application by end of October",
-        "dek": "The platform’s local general manager said preparation is on track under the new regulatory regime, while Hong Kong users continue to drive strong demand for its Macau service."
-      },
-      "zh": {
-        "headline": "Uber料十月底前申請本港網約車牌照",
-        "dek": "本地總經理表示正按新規管要求籌備，進度理想；同時指香港乘客仍是其澳門服務的最大用戶群。"
-      }
-    },
-    {
-      "id": "2026-09-08-customs-kwai-chung-cigarettes",
-      "published_at": "2026-09-08T23:41:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "customs",
-        "illicit-cigarettes"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-08/2026-09-08-customs-kwai-chung-cigarettes.json",
-      "en": {
-        "headline": "Customs seizes HK$10.85 million illicit cigarettes in Kwai Chung raid",
-        "dek": "Officers found about 2.41 million sticks in an industrial-building unit and arrested three men aged 32 to 36 who are now on bail pending further inquiries."
-      },
-      "zh": {
-        "headline": "海關葵涌工廈破私煙倉 檢1085萬元貨拘3男",
-        "dek": "關員在工業大廈單位檢獲約241萬支懷疑私煙，市值約1085萬元，應課稅值約798萬元；三名32至36歲男子被捕，已保釋候查。"
-      }
-    },
-    {
-      "id": "2026-09-08-pisa-2025-results",
-      "published_at": "2026-09-08T23:40:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "education",
-        "students",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-08/2026-09-08-pisa-2025-results.json",
-      "en": {
-        "headline": "Hong Kong students slip in PISA rankings but stay above global average",
-        "dek": "Science falls out of the top 10 for the first time while digital-learning scores rank sixth; Education Bureau notes scores remain above OECD means and will review the findings."
-      },
-      "zh": {
-        "headline": "PISA港生數學科學閱讀排名齊跌 仍高於國際平均",
-        "dek": "科學首次跌出全球前十，數碼學習領域排名第六；教育局指三個核心範疇得分仍高於經合組織平均，將檢視結果。"
       }
     }
   ]
