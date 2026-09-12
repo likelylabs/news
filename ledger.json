@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-12T19:16:45+08:00",
+  "updated_at": "2026-09-12T21:13:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "causeway-bay-tram-collision-sep12",
+      "id": "2026-09-12-causeway-bay-tram-collision",
+      "first_seen": "2026-09-12T21:10:00+08:00",
+      "headline_en": "Man injured after being hit by tram in Causeway Bay"
+    },
+    {
+      "key": "sau-mau-ping-couple-arrest-sep12",
+      "id": "2026-09-12-sau-mau-ping-couple-arrest",
+      "first_seen": "2026-09-12T21:11:00+08:00",
+      "headline_en": "Couple arrested after money dispute turns physical in Sau Mau Ping"
+    },
+    {
+      "key": "shue-yan-new-college-sep12",
+      "id": "2026-09-12-shue-yan-new-college",
+      "first_seen": "2026-09-12T21:12:00+08:00",
+      "headline_en": "Hong Kong Shue Yan University opens new college of communication and creative industries"
+    },
     {
       "key": "tung-chung-area-42-concrete-sep12",
       "id": "2026-09-12-tung-chung-area-42-concrete",
