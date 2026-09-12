@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-13T07:17:52+08:00",
+  "generated_at": "2026-09-13T07:18:57+08:00",
   "live_window_hours": 72,
-  "count": 99,
+  "count": 101,
   "articles": [
+    {
+      "id": "2026-09-13-lifestyle-handmade-db-market",
+      "published_at": "2026-09-13T07:18:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "lantau",
+        "market"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-lifestyle-handmade-db-market.json",
+      "en": {
+        "headline": "Handmade Hong Kong market closes Sunday at Discovery Bay",
+        "dek": "The two-day weekend stall at DB Plaza, with about 80 local makers, runs until 6pm today after opening at 11am on Saturday."
+      },
+      "zh": {
+        "headline": "Handmade Hong Kong周末市集週日於愉景灣收官",
+        "dek": "9月愉景灣周末市集在DB Plaza舉行，約80個本地手作攤位，周六已開檔，今日開至下午6時。"
+      }
+    },
+    {
+      "id": "2026-09-13-lifestyle-leslie-heritage-museum",
+      "published_at": "2026-09-13T07:17:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "exhibition",
+        "sha-tin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-lifestyle-leslie-heritage-museum.json",
+      "en": {
+        "headline": "Leslie Cheung exhibition adds free film screenings in Sha Tin",
+        "dek": "Hong Kong Heritage Museum’s 70th-birthday show, already open with more than 300 objects, began a free film series on Saturday that runs into next April."
+      },
+      "zh": {
+        "headline": "文化博物館張國榮紀念展加推免費電影放映",
+        "dek": "康文署香港文化博物館「繼續寵愛・張國榮70誕辰・紀念展」展出逾300件展品，周六起在館內劇院免費放映六部電影，至明年4月。"
+      }
+    },
     {
       "id": "2026-09-13-iphone-18-card-alerts",
       "published_at": "2026-09-13T07:16:00+08:00",
