@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-09-12T11:10:06+08:00",
+  "generated_at": "2026-09-12T13:10:24+08:00",
   "live_window_hours": 72,
-  "count": 93,
+  "count": 96,
   "articles": [
+    {
+      "id": "2026-09-12-tin-shui-wai-mcdonalds-scuffle",
+      "published_at": "2026-09-12T13:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "tin-shui-wai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-tin-shui-wai-mcdonalds-scuffle.json",
+      "en": {
+        "headline": "Man restrained after harassing elderly diner and assaulting staff at Tin Shui Wai…",
+        "dek": "Police classified the Friday evening incident as discovery of a person with suspected mental disorder; no one was seriously hurt."
+      },
+      "zh": {
+        "headline": "天水圍麥當勞男子滋擾老婦襲職員 市民合力制服",
+        "dek": "39歲鄧姓男子周五晚被制服後送院檢查，案件列發現懷疑精神紊亂人士。"
+      }
+    },
+    {
+      "id": "2026-09-12-flu-activity-high",
+      "published_at": "2026-09-12T13:11:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "influenza",
+        "vaccination"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-flu-activity-high.json",
+      "en": {
+        "headline": "Influenza remains high; eight in ten cases are H1, director says",
+        "dek": "Laboratory positive rate reached 13 per cent last week and hospital admission rates stay above baseline, according to the Director of Health."
+      },
+      "zh": {
+        "headline": "流感仍處高位 八成屬甲型H1 林文健籲盡快接種",
+        "dek": "上周化驗室陽性比率達13%，入院率高於基線，兒童嚴重個案累計19宗。"
+      }
+    },
+    {
+      "id": "2026-09-12-clear-water-bay-drowning",
+      "published_at": "2026-09-12T13:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "sai-kung",
+        "drowning"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-clear-water-bay-drowning.json",
+      "en": {
+        "headline": "82-year-old woman dies after drowning at Clear Water Bay Second Beach",
+        "dek": "Lifeguards rescued the swimmer about 5 metres offshore on Saturday morning; she was pronounced dead at Tseung Kwan O Hospital."
+      },
+      "zh": {
+        "headline": "清水灣二灘八旬女泳客遇溺不治",
+        "dek": "周六早上救生員在離岸約5米處救起昏迷泳客，送將軍澳醫院後證實死亡。"
+      }
+    },
     {
       "id": "2026-09-12-lifestyle-peking-opera-cultural-centre",
       "published_at": "2026-09-12T10:31:00+08:00",
