@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-12T21:09:00+08:00",
+  "updated_at": "2026-09-12T23:12:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "sha-tin-lui-ming-choi-food-poisoning-sep12",
+      "id": "2026-09-12-sha-tin-school-food-poisoning",
+      "first_seen": "2026-09-12T23:10:00+08:00",
+      "headline_en": "39 fall ill after school lunch in Sha Tin; supplier ordered to suspend"
+    },
+    {
+      "key": "ma-on-shan-ngong-ping-paraglider-tree-sep12",
+      "id": "2026-09-12-ma-on-shan-paraglider-rescue",
+      "first_seen": "2026-09-12T23:11:00+08:00",
+      "headline_en": "Woman rescued after paraglider catches in tree at Ma On Shan"
+    },
+    {
+      "key": "asd-queen-mary-lift-manager-resignation-sep12",
+      "id": "2026-09-12-asd-manager-resignation",
+      "first_seen": "2026-09-12T23:12:00+08:00",
+      "headline_en": "Architectural Services Department says former manager left on personal grounds"
+    },
     {
       "key": "causeway-bay-tram-collision-sep12",
       "id": "2026-09-12-causeway-bay-tram-collision",
