@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-12T11:07:16+08:00",
+  "updated_at": "2026-09-12T11:10:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "fehd-mark-six-theft-bail-sep12",
+      "id": "2026-09-12-fehd-mark-six-theft-bail",
+      "first_seen": "2026-09-12T10:28:00+08:00",
+      "headline_en": "Man arrested over FEHD Mark Six dispute released on bail"
+    },
+    {
+      "key": "police-college-passing-out-sep12",
+      "id": "2026-09-12-police-college-passing-out",
+      "first_seen": "2026-09-12T10:29:00+08:00",
+      "headline_en": "Police College passing-out parade graduates 127 officers"
+    },
+    {
+      "key": "nt-south-ragingstorm-sep12",
+      "id": "2026-09-12-nt-south-ragingstorm-arrests",
+      "first_seen": "2026-09-12T10:30:00+08:00",
+      "headline_en": "Police arrest 51 in New Territories South anti-crime sweep"
+    },
+    {
+      "key": "lifestyle-peking-opera-cultural-centre-2026",
+      "id": "2026-09-12-lifestyle-peking-opera-cultural-centre",
+      "first_seen": "2026-09-12T10:31:00+08:00",
+      "headline_en": "Peking opera series continues at Cultural Centre this weekend"
+    },
     {
       "key": "beauty-fitness-cooling-off-yau-sep12",
       "id": "2026-09-12-beauty-fitness-cooling-off",
