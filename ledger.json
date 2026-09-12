@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-12T15:22:31+08:00",
+  "updated_at": "2026-09-12T17:22:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "very-hot-weather-warning-sep12-afternoon",
+      "id": "2026-09-12-very-hot-weather-warning",
+      "first_seen": "2026-09-12T17:20:00+08:00",
+      "headline_en": "Observatory issues Very Hot Weather Warning as temperatures climb"
+    },
+    {
+      "key": "lifestyle-mplus-herzog-de-meuron-in-focus",
+      "id": "2026-09-12-lifestyle-mplus-herzog-de-meuron",
+      "first_seen": "2026-09-12T17:21:00+08:00",
+      "headline_en": "M+ opens Herzog & de Meuron: In Focus for fifth anniversary"
+    },
     {
       "key": "lamma-power-station-body-sep12",
       "id": "2026-09-12-lamma-power-station-body",

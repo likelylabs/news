@@ -1,0 +1,27 @@
+{
+  "id": "2026-09-12-very-hot-weather-warning",
+  "published_at": "2026-09-12T17:20:00+08:00",
+  "category": "weather",
+  "tags": ["weather", "hko", "heat"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "very-hot-weather-warning-sep12-afternoon",
+  "en": {
+    "headline": "Observatory issues Very Hot Weather Warning as temperatures climb",
+    "dek": "The warning was raised at 3.35pm on Saturday; the public is advised to take precautions against heat stroke while sunny periods continue before later showers.",
+    "body": [
+      "The Hong Kong Observatory issued the Very Hot Weather Warning at 3.35pm on Saturday, warning that very hot weather was expected across the territory.",
+      "The Observatory said temperatures had risen under sunny periods in the afternoon, with readings reaching the low 30s in many places. Elderly people, pregnant women, infants and those with chronic illnesses are particularly vulnerable to heat stroke.",
+      "Members of the public are advised to drink plenty of water, avoid prolonged outdoor activities during the hottest hours, and seek shade or air-conditioned spaces if feeling unwell. The warning remains in force while the Observatory continues to monitor conditions ahead of expected showers and thunderstorms later."
+    ]
+  },
+  "zh": {
+    "headline": "天文台下午發出酷熱天氣警告",
+    "dek": "天文台周六下午3時35分發出酷熱天氣警告，提醒市民慎防中暑，日間仍有陽光，稍後轉多雲有驟雨雷暴。",
+    "body": [
+      "香港天文台於周六下午3時35分發出酷熱天氣警告，表示本港天氣酷熱，市民應慎防中暑。",
+      "天文台指出，長者、孕婦、嬰兒及小童，以及患有慢性病如心臟病或高血壓的人士較易中暑。當局建議市民多補充水分，避免在酷熱時段進行劇烈戶外活動，感到不適時應盡快到陰涼處休息。",
+      "警告生效期間，市民在戶外工作或活動時應採取適當防暑措施。天文台預計稍後驟雨逐漸增多及有雷暴，市民亦須留意天氣轉變。"
+    ]
+  }
+}
