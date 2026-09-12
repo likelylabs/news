@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-13T01:08:14+08:00",
+  "updated_at": "2026-09-13T01:22:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "mark-six-draw-machine-fault-sep12",
+      "id": "2026-09-13-mark-six-draw-machine-fault",
+      "first_seen": "2026-09-13T01:20:00+08:00",
+      "headline_en": "Mark Six draw pauses after machine fault; backup used, jackpot unclaimed"
+    },
+    {
+      "key": "strong-monsoon-signal-sep12-sunday-outlook",
+      "id": "2026-09-13-strong-monsoon-sunday-outlook",
+      "first_seen": "2026-09-13T01:21:00+08:00",
+      "headline_en": "Strong Monsoon Signal in force; windy with showers expected on Sunday"
+    },
     {
       "key": "sha-tin-lui-ming-choi-food-poisoning-sep12",
       "id": "2026-09-12-sha-tin-school-food-poisoning",
