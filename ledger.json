@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-12T19:15:19+08:00",
+  "updated_at": "2026-09-12T19:18:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "tung-chung-area-42-concrete-sep12",
+      "id": "2026-09-12-tung-chung-area-42-concrete",
+      "first_seen": "2026-09-12T19:15:00+08:00",
+      "headline_en": "Housing Authority reviews concrete quality at Tung Chung Area 42 public housing"
+    },
+    {
+      "key": "hung-hom-sightseeing-boat-sinking-sep12",
+      "id": "2026-09-12-hung-hom-boat-sinking",
+      "first_seen": "2026-09-12T19:16:00+08:00",
+      "headline_en": "Sightseeing boat sinks off Hung Hom new waterfront; no one trapped"
+    },
+    {
+      "key": "sheung-shui-swimming-pool-closed-sep12",
+      "id": "2026-09-12-sheung-shui-pool-closed",
+      "first_seen": "2026-09-12T19:17:00+08:00",
+      "headline_en": "Sheung Shui Swimming Pool temporarily closed after vomit found"
+    },
     {
       "key": "very-hot-weather-warning-sep12-afternoon",
       "id": "2026-09-12-very-hot-weather-warning",
