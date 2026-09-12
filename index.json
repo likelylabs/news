@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-09-12T19:15:07+08:00",
+  "generated_at": "2026-09-12T19:15:19+08:00",
   "live_window_hours": 72,
-  "count": 103,
+  "count": 104,
   "articles": [
+    {
+      "id": "2026-09-12-sheung-shui-pool-closed",
+      "published_at": "2026-09-12T19:17:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lcsd",
+        "swimming",
+        "north-district"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-sheung-shui-pool-closed.json",
+      "en": {
+        "headline": "Sheung Shui Swimming Pool temporarily closed after vomit found",
+        "dek": "The Leisure and Cultural Services Department closed the North District pool for cleaning and superchlorination; it is scheduled to reopen at 8.55pm."
+      },
+      "zh": {
+        "headline": "上水游泳池發現嘔吐物暫時關閉 今晚約9時重開",
+        "dek": "康文署因池內發現少量嘔吐物進行清潔及超氯化處理，北區上水游泳池暫閉，預計晚上8時55分重開。"
+      }
+    },
     {
       "id": "2026-09-12-hung-hom-boat-sinking",
       "published_at": "2026-09-12T19:16:00+08:00",
