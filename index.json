@@ -1,8 +1,92 @@
 {
-  "generated_at": "2026-09-12T09:27:49+08:00",
+  "generated_at": "2026-09-12T11:07:16+08:00",
   "live_window_hours": 72,
   "count": 95,
   "articles": [
+    {
+      "id": "2026-09-12-lifestyle-peking-opera-cultural-centre",
+      "published_at": "2026-09-12T10:31:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "theatre"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-lifestyle-peking-opera-cultural-centre.json",
+      "en": {
+        "headline": "Peking opera series continues at Cultural Centre this weekend",
+        "dek": "A youth staging of Sizhou Tanmu plays on Saturday, with a gala including Battle of Ma Chao scheduled on Sunday at the Grand Theatre."
+      },
+      "zh": {
+        "headline": "京劇系列本周末續在文化中心上演",
+        "dek": "「香江國粹情」周五揭幕，周六演青春版《四郎探母》，周日演唱會以武戲《戰馬超》開場。"
+      }
+    },
+    {
+      "id": "2026-09-12-nt-south-ragingstorm-arrests",
+      "published_at": "2026-09-12T10:30:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-nt-south-ragingstorm-arrests.json",
+      "en": {
+        "headline": "Police arrest 51 in New Territories South anti-crime sweep",
+        "dek": "Operation Ragingstorm over Friday and Saturday targeted bars, game centres and vehicles across Sha Tin, Kwai Tsing, Tsuen Wan, Lantau and the airport district."
+      },
+      "zh": {
+        "headline": "新界南「熾風」反罪惡行動拘51人",
+        "dek": "警方於9月11至12日在沙田、葺青、荃灣、大嶼山及機場一帶設路障並巡查酒吧機舖，涉嫌罪行包括危駕及賭博。"
+      }
+    },
+    {
+      "id": "2026-09-12-police-college-passing-out",
+      "published_at": "2026-09-12T10:29:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "community",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-police-college-passing-out.json",
+      "en": {
+        "headline": "Police College passing-out parade graduates 127 officers",
+        "dek": "Seventeen probationary inspectors and 110 constables completed training on Saturday, with Deputy Commissioner Kan Kai-yan taking the salute."
+      },
+      "zh": {
+        "headline": "警察學院結業會操 127名督察學警畢業",
+        "dek": "周六有17名見習督察及110名警員結業，由警務處副處長（國家安全）簡啟恩擔任檢閱官。"
+      }
+    },
+    {
+      "id": "2026-09-12-fehd-mark-six-theft-bail",
+      "published_at": "2026-09-12T10:28:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "fehd",
+        "mark-six"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-fehd-mark-six-theft-bail.json",
+      "en": {
+        "headline": "Man arrested over FEHD Mark Six dispute released on bail",
+        "dek": "Police said the 36-year-old detained on suspicion of theft after a prize-sharing row among colleagues must report back in mid-October."
+      },
+      "zh": {
+        "headline": "食環職員六合彩糾紛案男子獲准保釋",
+        "dek": "警方表示，周五因涉嫌盜竊被捕的36歲男子已獲准保釋候查，須於10月中旬向警方報到。"
+      }
+    },
     {
       "id": "2026-09-12-lifestyle-gruffalo-hkapa-final",
       "published_at": "2026-09-12T09:34:00+08:00",
@@ -1940,89 +2024,6 @@
       "zh": {
         "headline": "M+周六起展出Herzog & de Meuron建築捐贈",
         "dek": "設計M+及大館的瑞士事務所向博物館第二期捐贈的模型、繪圖及物料樣本，9月12日至明年1月10日於二樓焦點空間展出。"
-      }
-    },
-    {
-      "id": "2026-09-09-kwu-tung-illegal-petrol",
-      "published_at": "2026-09-09T11:07:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-kwu-tung-illegal-petrol.json",
-      "en": {
-        "headline": "Fire Services seize 7,984 litres of diesel at Kwu Tung site",
-        "dek": "A task force targeting illegal refuelling found an unlicensed filling point on Kwu Tung Road on Monday and will prosecute two men under fire-hazard and dangerous-goods laws."
-      },
-      "zh": {
-        "headline": "消防古洞路搗非法油站 檢近8,000公升柴油",
-        "dek": "消防處打擊非法燃油轉注特遣隊周一在古洞路發現非法加油站，檢獲7,984公升柴油，市值約29.2萬元，兩名男子將被檢控。"
-      }
-    },
-    {
-      "id": "2026-09-09-elderly-meal-vouchers-sixth",
-      "published_at": "2026-09-09T11:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "government",
-        "family"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-elderly-meal-vouchers-sixth.json",
-      "en": {
-        "headline": "Sixth round of HK$18 elderly tea vouchers starts 16 September",
-        "dek": "Chief Secretary Eric Chan said more than 200 elderly centres will issue eight-voucher packs to about 70,000 older people, redeemable from 1 October at eight restaurant groups."
-      },
-      "zh": {
-        "headline": "第六輪長者18元下午茶券下周三起派發",
-        "dek": "政務司司長陳國基表示，全港逾200間長者中心將向約7萬名長者派發每套8張餐券，10月1日至11月30日可到8間飲食集團以18元用指定下午茶。"
-      }
-    },
-    {
-      "id": "2026-09-09-youdi-robotics-debut",
-      "published_at": "2026-09-09T11:05:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "technology"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-youdi-robotics-debut.json",
-      "en": {
-        "headline": "Youdi Robotics jumps more than 140 percent on Hong Kong debut",
-        "dek": "The Wuxi-based commercial service-robot maker opened at HK$35 against an issue price of HK$14.45 after its public offer was about 140 times subscribed."
-      },
-      "zh": {
-        "headline": "優地機械人港股上市高開逾1.4倍",
-        "dek": "無錫商用服務機械人公司優地機械人（03231）周三掛牌，開市報35港元，較招股價14.45港元升約142%，公開發售超購約140倍。"
-      }
-    },
-    {
-      "id": "2026-09-09-customs-airport-three-passenger-drugs",
-      "published_at": "2026-09-09T11:04:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "customs",
-        "drugs",
-        "airport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-customs-airport-three-passenger-drugs.json",
-      "en": {
-        "headline": "Customs seizes HK$13 million of drugs from three airport passengers",
-        "dek": "Officers at Hong Kong International Airport arrested three incoming travellers on Tuesday and seized about 25kg of suspected ketamine and 13kg of suspected cannabis buds."
-      },
-      "zh": {
-        "headline": "海關機場破三宗旅客販毒案 檢1300萬元K仔及大麻",
-        "dek": "海關周二在香港國際機場先後截獲三名入境旅客，檢獲約25公斤懸疑氯胺酮及13公斤懸疑大麻花，市值約1,300萬元。"
       }
     }
   ]
