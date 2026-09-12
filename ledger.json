@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-13T01:09:15+08:00",
+  "updated_at": "2026-09-13T03:16:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-flockfest-pmq-final-day",
+      "id": "2026-09-13-lifestyle-flockfest-final",
+      "first_seen": "2026-09-13T03:15:00+08:00",
+      "headline_en": "FLOCKFEST craft beer and indie music festival ends Sunday at PMQ"
+    },
+    {
+      "key": "lifestyle-cats-musical-final-performances",
+      "id": "2026-09-13-lifestyle-cats-final",
+      "first_seen": "2026-09-13T03:16:00+08:00",
+      "headline_en": "Cats musical closes Hong Kong run with final shows at Xiqu Centre"
+    },
     {
       "key": "mark-six-draw-machine-fault-sep12",
       "id": "2026-09-13-mark-six-draw-machine-fault",
