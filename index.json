@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-09-12T19:14:50+08:00",
+  "generated_at": "2026-09-12T19:15:07+08:00",
   "live_window_hours": 72,
-  "count": 102,
+  "count": 103,
   "articles": [
+    {
+      "id": "2026-09-12-hung-hom-boat-sinking",
+      "published_at": "2026-09-12T19:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "hung-hom",
+        "marine",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-hung-hom-boat-sinking.json",
+      "en": {
+        "headline": "Sightseeing boat sinks off Hung Hom new waterfront; no one trapped",
+        "dek": "Firefighters and divers searched the vessel after a report of it taking on water around 2pm; the boat had been moored for more than a month."
+      },
+      "zh": {
+        "headline": "紅磡新海濱觀光船入水下沉 消防證實無人被困",
+        "dek": "下午近2時有途人報稱船隻入水，消防派出蛙人搜索後確認無人受傷或受困，船隻已停泊逾一個月。"
+      }
+    },
     {
       "id": "2026-09-12-tung-chung-area-42-concrete",
       "published_at": "2026-09-12T19:15:00+08:00",
