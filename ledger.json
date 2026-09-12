@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-12T13:11:21+08:00",
+  "updated_at": "2026-09-12T15:28:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lamma-power-station-body-sep12",
+      "id": "2026-09-12-lamma-power-station-body",
+      "first_seen": "2026-09-12T15:25:00+08:00",
+      "headline_en": "Body of 53-year-old woman found in waters off Lamma Power Station"
+    },
+    {
+      "key": "police-college-bachelor-degree-sep12",
+      "id": "2026-09-12-police-college-bachelor-degree",
+      "first_seen": "2026-09-12T15:26:00+08:00",
+      "headline_en": "Police College becomes first government department allowed to award bachelor degrees"
+    },
+    {
+      "key": "tung-chee-hwa-state-funeral-sep20",
+      "id": "2026-09-12-tung-chee-hwa-state-funeral",
+      "first_seen": "2026-09-12T15:27:00+08:00",
+      "headline_en": "State funeral for former chief executive Tung Chee-hwa set for 20 September"
+    },
     {
       "key": "clear-water-bay-second-beach-drowning-sep12",
       "id": "2026-09-12-clear-water-bay-drowning",
