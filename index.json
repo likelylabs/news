@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-12T21:09:01+08:00",
+  "generated_at": "2026-09-12T23:10:13+08:00",
   "live_window_hours": 72,
-  "count": 101,
+  "count": 102,
   "articles": [
+    {
+      "id": "2026-09-12-asd-manager-resignation",
+      "published_at": "2026-09-12T23:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "government",
+        "hospital",
+        "construction"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-asd-manager-resignation.json",
+      "en": {
+        "headline": "Architectural Services Department says former manager left on personal grounds",
+        "dek": "The department rejected reports that a chief project manager overseeing Queen Mary Hospital’s new clinical building lifts was asked to resign, saying she applied three months in advance and left in mid-August."
+      },
+      "zh": {
+        "headline": "建築署：前總工程策劃經理以個人理由請辭 與瑪麗升降機報道不符",
+        "dek": "建築署指有關瑪麗醫院新臨床大樓升降機工程的前總工程策劃經理被要求辭職的報道與事實不符，該人員已按機制提前三個月申請並於8月中離職。"
+      }
+    },
+    {
+      "id": "2026-09-12-ma-on-shan-paraglider-rescue",
+      "published_at": "2026-09-12T23:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "ma-on-shan",
+        "rescue",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-ma-on-shan-paraglider-rescue.json",
+      "en": {
+        "headline": "Woman rescued after paraglider catches in tree at Ma On Shan",
+        "dek": "A 38-year-old foreign woman was freed uninjured after her paraglider became snagged in a tree about 10 metres high near Ngong Ping on Saturday afternoon; the Government Flying Service assisted."
+      },
+      "zh": {
+        "headline": "馬鞍山昂平滑翔傘女子被困樹上 消防救出無恙",
+        "dek": "一名38歲外籍女子周六下午在馬鞍山昂平玩滑翔傘時被困約10米高大樹，消防及飛行服務隊到場救出，事主無受傷。"
+      }
+    },
+    {
+      "id": "2026-09-12-sha-tin-school-food-poisoning",
+      "published_at": "2026-09-12T23:10:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "food-poisoning",
+        "sha-tin",
+        "school"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-sha-tin-school-food-poisoning.json",
+      "en": {
+        "headline": "39 fall ill after school lunch in Sha Tin; supplier ordered to suspend",
+        "dek": "The Centre for Health Protection is investigating a suspected food-poisoning cluster at Baptist (Sha Tin Wai) Lui Ming Choi Primary School after pupils and staff ate soy-braised chicken drumsticks and penne on Wednesday."
+      },
+      "zh": {
+        "headline": "沙田小學39師生疑食物中毒 午膳供應商須暫停運作",
+        "dek": "衞生防護中心調查浸信會沙田圍呂明才小學懷疑食物中毒群組，37名學生及兩名職員進食供應商提供的滷水雞髀及長通粉後腹痛腹瀉。"
+      }
+    },
     {
       "id": "2026-09-12-shue-yan-new-college",
       "published_at": "2026-09-12T21:12:00+08:00",
@@ -2109,49 +2175,6 @@
       "zh": {
         "headline": "旅監局聯同入境處拘兩名內地無牌導遊",
         "dek": "一男一女均31歲，分別在西貢東壩及中環被捕，涉嫌違反逗留條件提供導遊服務，國慶黃金周前加強執法。"
-      }
-    },
-    {
-      "id": "2026-09-09-customs-speedboat-cigarettes-sep8",
-      "published_at": "2026-09-09T21:56:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "customs",
-        "smuggling"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-customs-speedboat-cigarettes-sep8.json",
-      "en": {
-        "headline": "Customs seizes 5 million illicit cigarettes from high-powered speedboat",
-        "dek": "A joint operation with mainland agencies intercepted a 16-metre boat fitted with six outboard engines off Chek Lap Kok; two mainland men were arrested."
-      },
-      "zh": {
-        "headline": "海關截高速走私快艇檢500萬支私煙拘兩人",
-        "dek": "聯同內地部門在赤鱲角西北水域截獲配備六副舷外引擎的16米快艇，市值約2,200萬元。"
-      }
-    },
-    {
-      "id": "2026-09-09-buildings-dept-wang-fuk-charges",
-      "published_at": "2026-09-09T21:55:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "courts",
-        "housing",
-        "safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-buildings-dept-wang-fuk-charges.json",
-      "en": {
-        "headline": "Buildings Department files 259 charges over Wang Fuk Court renovation works",
-        "dek": "Two companies and four individuals face summonses over alleged use of non-fire-retardant materials and failures to supervise repairs at the Tai Po estate where 168 died last November."
-      },
-      "zh": {
-        "headline": "屋宇署就宏福苑維修工程提259項檢控",
-        "dek": "兩公司及四人被控准許使用非阻燃物料及監督失當，涉去年11月大埔火災導致168人死亡的大維修工程。"
       }
     }
   ]
