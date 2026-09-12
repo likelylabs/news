@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-09-12T07:15:01+08:00",
+  "generated_at": "2026-09-12T09:25:43+08:00",
   "live_window_hours": 72,
-  "count": 100,
+  "count": 95,
   "articles": [
+    {
+      "id": "2026-09-12-lifestyle-gruffalo-hkapa-final",
+      "published_at": "2026-09-12T09:34:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "family",
+        "theatre"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-lifestyle-gruffalo-hkapa-final.json",
+      "en": {
+        "headline": "The Gruffalo plays its last Hong Kong dates this weekend",
+        "dek": "The 60-minute English-language stage show, based on the picture book, continues at the Hong Kong Academy for Performing Arts through Sunday."
+      },
+      "zh": {
+        "headline": "音樂劇《古飛樂》本周末演藝學院煞科",
+        "dek": "改編自繪本的一小時英語演出，周六及周日在灣仔香港演藝學院廖湯慧靈戲劇院尚有場次。"
+      }
+    },
+    {
+      "id": "2026-09-12-repulse-bay-burglary",
+      "published_at": "2026-09-12T09:33:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-repulse-bay-burglary.json",
+      "en": {
+        "headline": "Watches and cash taken in Repulse Bay Road burglary",
+        "dek": "A 25-year-old woman reported a bedroom window forced open on Friday night; police said three watches worth about HK$437,000 and about RMB20,000 were missing."
+      },
+      "zh": {
+        "headline": "淺水灣道單位遭爆竊 失約44萬元手錶及人民幣",
+        "dek": "25歲女子周五深夜報案，指睡房窗戶被撬、屋內有搜掠痕迹；警方初步點算失3隻手錶及約2萬元人民幣，暫未有人被捕。"
+      }
+    },
+    {
+      "id": "2026-09-12-beauty-fitness-cooling-off",
+      "published_at": "2026-09-12T09:32:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "government",
+        "consumer"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-beauty-fitness-cooling-off.json",
+      "en": {
+        "headline": "Beauty and fitness trades back seven-day cooling-off, Yau says",
+        "dek": "The commerce chief told RTHK the government hopes to put an amendment to the Trade Descriptions Ordinance before the Legislative Council in the first half of next year."
+      },
+      "zh": {
+        "headline": "丘應樺：美容健身業界支持7日冷靜期",
+        "dek": "商經局局長在港台《星期六問責》表示，完成研究後希望明年上半年把修訂《商品說明條例》的方案提交立法會。"
+      }
+    },
     {
       "id": "2026-09-12-lifestyle-leslie-cheung-70-concert",
       "published_at": "2026-09-12T07:23:00+08:00",
@@ -1960,182 +2023,6 @@
       "zh": {
         "headline": "海關機場破三宗旅客販毒案 檢1300萬元K仔及大麻",
         "dek": "海關周二在香港國際機場先後截獲三名入境旅客，檢獲約25公斤懸疑氯胺酮及13公斤懸疑大麻花，市值約1,300萬元。"
-      }
-    },
-    {
-      "id": "2026-09-09-lifestyle-tai-kwun-better-together",
-      "published_at": "2026-09-09T09:16:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events",
-        "exhibition"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-lifestyle-tai-kwun-better-together.json",
-      "en": {
-        "headline": "Tai Kwun Hong Kong movie exhibition runs into early October",
-        "dek": "Better Together – Partnering Up for Hong Kong Movies is on at the Duplex Studio in Central through 4 October, with replica sets and interviews from film crews."
-      },
-      "zh": {
-        "headline": "大館港產片「拍住上」展覽展至10月4日",
-        "dek": "大館夏季展覽「拍住上—光影裡並肩馳馳的我們」在中環01座複式展室舉行至10月4日，重現經典對手戲場景及道具複製品。"
-      }
-    },
-    {
-      "id": "2026-09-09-sun-childcare-places-0-to-2",
-      "published_at": "2026-09-09T09:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "government",
-        "family",
-        "education"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-sun-childcare-places-0-to-2.json",
-      "en": {
-        "headline": "Labour chief says new childcare places will target infants under two",
-        "dek": "Chris Sun said subsidised standalone child care centre places should nearly double by the end of 2029, with extra capacity aimed at the 0-to-2 age group."
-      },
-      "zh": {
-        "headline": "孫玉菴：新增幼兒中心名額將集中0至2歲",
-        "dek": "勞福局長表示，資助獨立幼兒中心名額料於2029年底前增加約1,500個、接近翻倍，新增資源會盡量投放在0至2歲嬰幼兒。"
-      }
-    },
-    {
-      "id": "2026-09-09-chp-paediatric-influenza-h1",
-      "published_at": "2026-09-09T09:14:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "education",
-        "students",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-chp-paediatric-influenza-h1.json",
-      "en": {
-        "headline": "CHP records severe paediatric flu case as vaccination drive nears",
-        "dek": "A five-year-old boy with long-term illness is stable in paediatric intensive care with influenza A (H1) complicated by severe pneumonia, the Centre for Health Protection said."
-      },
-      "zh": {
-        "headline": "再錄兒童嚴重流感個案 疫苗計劃下週展開",
-        "dek": "衞生防護中心公布，一名有長期病患的五歲男童確診甲型H1流感併發嚴重肺炎，現於兒童深切治療部留醫，情況穩定。"
-      }
-    },
-    {
-      "id": "2026-09-09-lok-ma-chau-etomidate-lab",
-      "published_at": "2026-09-09T09:13:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "drugs",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-lok-ma-chau-etomidate-lab.json",
-      "en": {
-        "headline": "Police raid village-house etomidate workshop in Lok Ma Chau",
-        "dek": "Border District officers say they seized 5,960 suspected liquid etomidate cartridges worth more than HK$1.5 million and arrested a 40-year-old man."
-      },
-      "zh": {
-        "headline": "警搗落馬洲村屋依托咪酯工場 檢近六千煙彈",
-        "dek": "邊界警區周一晚搜查落馬洲料壘村分租單位，檢獲5,960粒懷疑液態依托咪酯煙彈，市值逾150萬元，並拘捕一名40歲男子。"
-      }
-    },
-    {
-      "id": "2026-09-09-fanling-pak-wo-road-fatal-crash",
-      "published_at": "2026-09-09T09:12:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic",
-        "police",
-        "safety",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-fanling-pak-wo-road-fatal-crash.json",
-      "en": {
-        "headline": "Driver dies after private car hits central divider in Fanling",
-        "dek": "A man in his 50s was trapped after a car left the carriageway on Pak Wo Road on Tuesday night; police later found suspected drug-taking equipment in the vehicle."
-      },
-      "zh": {
-        "headline": "粉嶺百和路私家車撞壘 司機送院不治",
-        "dek": "周二晚一輛私家車在粉嶺百和路近蓬瀛仙館失控撞向路中石壘，50多歲司機被困送院後不治；警方其後在車內檢獲懷疑吸毒工具。"
-      }
-    },
-    {
-      "id": "2026-09-09-lifestyle-cats-xiqu-finale",
-      "published_at": "2026-09-09T07:22:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "music",
-        "events",
-        "west-kowloon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-lifestyle-cats-xiqu-finale.json",
-      "en": {
-        "headline": "Cats extra shows at Xiqu Centre run through Sunday",
-        "dek": "Andrew Lloyd Webber’s musical ends its Hong Kong engagement on 13 September after added performances at the West Kowloon Grand Theatre."
-      },
-      "zh": {
-        "headline": "音樂劇《貓》西九戲曲中心加場演至周日",
-        "dek": "安德魯勞伊韓伯原版製作於西九戲曲中心大劇院的香港站，終極加場至9月13日結束。"
-      }
-    },
-    {
-      "id": "2026-09-09-dse-2027-registration",
-      "published_at": "2026-09-09T07:21:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "education",
-        "students",
-        "gba"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-dse-2027-registration.json",
-      "en": {
-        "headline": "2027 DSE registration opens Friday; GBA centres extended three years",
-        "dek": "The HKEAA will take entries from 11 September to 7 October and is studying an increase in mainland participating schools from four to 12."
-      },
-      "zh": {
-        "headline": "2027文憑試周五起報名 內地試場續試行三年",
-        "dek": "考評局公布9月11日至10月7日接受報名，並探討將大灣區內地與考學校由4所增至12所。"
-      }
-    },
-    {
-      "id": "2026-09-09-hktdc-asean-shopping-festival",
-      "published_at": "2026-09-09T07:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "trade",
-        "government",
-        "sme"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-hktdc-asean-shopping-festival.json",
-      "en": {
-        "headline": "HKTDC takes Hong Kong Shopping Festival to Singapore and Malaysia",
-        "dek": "After the mainland edition drew 115 million views, the first ASEAN edition runs from 21 to 27 September on Shopee and Lazada with about 100 Hong Kong brands."
-      },
-      "zh": {
-        "headline": "香港好物節首次登陸星馬電商 9月21日起舉行",
-        "dek": "內地站總瀏覽人次逾1.15億後，貿發局將於9月21至27日在新加坡及馬來西亞Shopee、Lazada推出東盟站，約100個港商品牌參與。"
       }
     }
   ]
