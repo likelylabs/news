@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-09-12T19:16:45+08:00",
+  "generated_at": "2026-09-12T21:09:01+08:00",
   "live_window_hours": 72,
-  "count": 104,
+  "count": 101,
   "articles": [
+    {
+      "id": "2026-09-12-shue-yan-new-college",
+      "published_at": "2026-09-12T21:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "university",
+        "shue-yan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-shue-yan-new-college.json",
+      "en": {
+        "headline": "Hong Kong Shue Yan University opens new college of communication and creative industries",
+        "dek": "The private university marked its 55th anniversary on Saturday by announcing the establishment of its fourth faculty and the enrolment of nearly 2,500 new students this academic year."
+      },
+      "zh": {
+        "headline": "樹仁大學成立傳理資訊及創意產業學院 迎約2500新生",
+        "dek": "樹仁大學周六慶祝創校55周年，宣布獲批成立第四所學院，新學年錄取近2500名新生，非本地生佔近三成。"
+      }
+    },
+    {
+      "id": "2026-09-12-sau-mau-ping-couple-arrest",
+      "published_at": "2026-09-12T21:11:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "sau-mau-ping"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-sau-mau-ping-couple-arrest.json",
+      "en": {
+        "headline": "Couple arrested after money dispute turns physical in Sau Mau Ping",
+        "dek": "A 65-year-old man and his 55-year-old wife were arrested on Saturday morning after an argument over money in their On Tai Estate flat; the woman was treated for a headache."
+      },
+      "zh": {
+        "headline": "秀茂坪夫婦因金錢爭執動粗 先後被捕",
+        "dek": "周六早上，安泰邨一對夫婦因金錢問題爭執，丈夫襲擊妻子，妻子則持菜刀，兩人分別涉普通襲擊及藏有攻擊性武器被捕。"
+      }
+    },
+    {
+      "id": "2026-09-12-causeway-bay-tram-collision",
+      "published_at": "2026-09-12T21:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "tram",
+        "causeway-bay",
+        "traffic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-causeway-bay-tram-collision.json",
+      "en": {
+        "headline": "Man injured after being hit by tram in Causeway Bay",
+        "dek": "A man in his 30s suffered abrasions to his arms and legs after a tram struck him near a pedestrian crossing on Yee Wo Street on Saturday afternoon; he remained conscious."
+      },
+      "zh": {
+        "headline": "銅鑼灣電車撞傷過路男子 手腳擦傷清醒送院",
+        "dek": "周六下午近4時，一輛電車在怡和街撞倒一名約30多歲男子，傷者手腳擦傷，清醒被送往律敦治醫院。"
+      }
+    },
     {
       "id": "2026-09-12-sheung-shui-pool-closed",
       "published_at": "2026-09-12T19:17:00+08:00",
@@ -2089,132 +2152,6 @@
       "zh": {
         "headline": "屋宇署就宏福苑維修工程提259項檢控",
         "dek": "兩公司及四人被控准許使用非阻燃物料及監督失當，涉去年11月大埔火災導致168人死亡的大維修工程。"
-      }
-    },
-    {
-      "id": "2026-09-09-william-wong-drink-drive-court",
-      "published_at": "2026-09-09T19:58:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "courts",
-        "politics"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-william-wong-drink-drive-court.json",
-      "en": {
-        "headline": "Ex-lawmaker William Wong bailed on four traffic charges",
-        "dek": "The former legislator made a first appearance at Sha Tin Court over an alleged drink-driving crash at CUHK and must return on 11 November."
-      },
-      "zh": {
-        "headline": "前議員黃錦輝酒駕四罪提堂 准保釋至11月",
-        "dek": "黃錦輝周三在沙田裁判法院首次應訊，暫毋須答辯，以5,000元現金保釋，下一次聆訊定於11月11日。"
-      }
-    },
-    {
-      "id": "2026-09-09-chp-two-mpox-cases",
-      "published_at": "2026-09-09T19:57:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-chp-two-mpox-cases.json",
-      "en": {
-        "headline": "CHP records two mpox cases; both men had high-risk contact",
-        "dek": "A 32-year-old and a 28-year-old are stable in isolation. Officials said there is no known link between the cases or to earlier local infections."
-      },
-      "zh": {
-        "headline": "衞生防護中心公布兩宗猴痘確診 情況穩定",
-        "dek": "32歲及28歲男子已入院隔離，暫時未發現兩案之間或與早前本地個案有流行病學關連。"
-      }
-    },
-    {
-      "id": "2026-09-09-customs-counterfeit-yau-ma-tei-mong-kok",
-      "published_at": "2026-09-09T19:56:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "customs",
-        "tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-customs-counterfeit-yau-ma-tei-mong-kok.json",
-      "en": {
-        "headline": "Customs seizes HK$1 million counterfeit goods before Golden Week",
-        "dek": "Officers searched 17 fixed hawker stalls in Yau Ma Tei and Mong Kok and arrested seven stall operators after finding about 3,100 suspected fake items."
-      },
-      "zh": {
-        "headline": "黃金周前海關油旺檢百萬元冒牌貨拘7人",
-        "dek": "海關在油麻地廟街及旺角通菜街搜查17個固定小販檔，檢約3,100件懷疑冒牌物品，拘捕7名檔主。"
-      }
-    },
-    {
-      "id": "2026-09-09-symphony-of-lights-paused",
-      "published_at": "2026-09-09T19:55:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "tourism",
-        "events",
-        "culture"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-symphony-of-lights-paused.json",
-      "en": {
-        "headline": "Symphony of Lights paused from Wednesday until further notice",
-        "dek": "The Tourism Commission said the nightly Victoria Harbour light-and-music show is suspended from 9 September, with no restart date given."
-      },
-      "zh": {
-        "headline": "幻彩詠香江即日起暫停直至另行通知",
-        "dek": "旅遊事務署公布，維港兩岸燈光音樂匯演由9月9日起暫停，未交代恢復日期。"
-      }
-    },
-    {
-      "id": "2026-09-09-sun-childcare-northern-metropolis",
-      "published_at": "2026-09-09T19:51:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "government",
-        "family"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-sun-childcare-northern-metropolis.json",
-      "en": {
-        "headline": "Sun says government will help firms run childcare in Northern Metropolis",
-        "dek": "Labour chief Chris Sun told RTHK workplace centres there could follow the airport preschool model, as the city looks for more places for children under two."
-      },
-      "zh": {
-        "headline": "孫玉菡：政府支援企業在北部都會區開設託兒",
-        "dek": "勞福局長接受港台訪問時表示，北部都會區託兒可參考機場員工幼兒中心模式，並重申會增加兩歲以下名額。"
-      }
-    },
-    {
-      "id": "2026-09-09-sohar-international-hk-office",
-      "published_at": "2026-09-09T19:50:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "banking",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-sohar-international-hk-office.json",
-      "en": {
-        "headline": "Oman’s Sohar International to open Hong Kong office this week",
-        "dek": "Sources say the Omani lender will open a representative office at Cheung Kong Center II in Central, its first presence outside the Middle East."
-      },
-      "zh": {
-        "headline": "阿曼Sohar銀行本周擬在中環開設代表處",
-        "dek": "消息指阿曼第二大銀行將於長江集團中心二期開設代表處，是該行首次在中東以外設點，開幕儀式料周四舉行。"
       }
     }
   ]
