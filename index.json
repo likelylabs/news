@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-09-13T06:26:24+08:00",
+  "generated_at": "2026-09-13T07:17:52+08:00",
   "live_window_hours": 72,
-  "count": 101,
+  "count": 99,
   "articles": [
+    {
+      "id": "2026-09-13-iphone-18-card-alerts",
+      "published_at": "2026-09-13T07:16:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "business",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-iphone-18-card-alerts.json",
+      "en": {
+        "headline": "Card alerts surge as iPhone 18 Pro pre-orders open",
+        "dek": "After Apple opened online pre-orders at 8pm on Saturday, some Hong Kong cardholders said they received charge notices for new iPhones they had not bought."
+      },
+      "zh": {
+        "headline": "iPhone 18 Pro預購展開 部分市民收到未下單簽賬通知",
+        "dek": "蘋果周六晚上8時開放網上預購後，有香港持卡人表示收到與新機售價相符的信用卡通知，部分人稱自己並未成功下單。"
+      }
+    },
+    {
+      "id": "2026-09-13-hkust-student-scam",
+      "published_at": "2026-09-13T07:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "fraud",
+        "education"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-hkust-student-scam.json",
+      "en": {
+        "headline": "HKUST student reports losing HK$1.11 million in phone scam",
+        "dek": "A 19-year-old mainland student told police early Sunday that a caller posing as an Immigration officer demanded a deposit and claimed to be watching her by webcam."
+      },
+      "zh": {
+        "headline": "科大19歲內地生報稱遭假入境人員騙去111萬",
+        "dek": "女生週日凌晨在西貢大學道宿舍報案，指有人自稱入境處人員，訛稱她涉及洗黑錢案並索取保證金，又聲稱以網絡鏡頭監視匯款。"
+      }
+    },
+    {
+      "id": "2026-09-13-mong-kok-ebike-arrest",
+      "published_at": "2026-09-13T07:14:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "mong-kok",
+        "traffic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-mong-kok-ebike-arrest.json",
+      "en": {
+        "headline": "Police arrest e-bike rider after Mong Kok crash injures boy",
+        "dek": "A 35-year-old mainland man on a two-way permit was held on Saturday on six suspected traffic offences after an electric bicycle struck a 10-year-old and the rider left the scene."
+      },
+      "zh": {
+        "headline": "旺角電動單車撞傷男童後逃去 警拓35歲內地男子",
+        "dek": "警方周六下午在旺角拘捕一名持雙程證的35歲內地男子，涉嫌危險駕駛等六項交通罪行，案件源於周五電動單車撞傷10歲男童後不顧而去。"
+      }
+    },
     {
       "id": "2026-09-13-lifestyle-cats-final",
       "published_at": "2026-09-13T03:16:00+08:00",
@@ -2050,110 +2115,6 @@
       "zh": {
         "headline": "啟德簡約公屋一歲女嬰昏迷送院不治",
         "dek": "警方清晨接報世運道簡約公屋六座單位有女嬰昏迷，救護員送往廣華醫院搶救後證實不治，死因有待驗屍確定。"
-      }
-    },
-    {
-      "id": "2026-09-10-lifestyle-peking-opera-cultural-centre",
-      "published_at": "2026-09-10T07:11:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-lifestyle-peking-opera-cultural-centre.json",
-      "en": {
-        "headline": "Peking opera series opens Friday at the Cultural Centre",
-        "dek": "The China Peking Opera Art Foundation brings three nights to the Grand Theatre from 11 to 13 September, with a Jockey Club sponsorship."
-      },
-      "zh": {
-        "headline": "香江國粹情周五起文化中心連演三晚",
-        "dek": "中國京劇藝術基金會香港行9月11日至13日在文化中心大劇院上演，由香港賽馬會獨家贊助，張建國領衔。"
-      }
-    },
-    {
-      "id": "2026-09-10-thunderstorm-warning-overnight",
-      "published_at": "2026-09-10T07:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-thunderstorm-warning-overnight.json",
-      "en": {
-        "headline": "Observatory cancels overnight thunderstorm warning before dawn",
-        "dek": "The alert was lifted at 4.45am after isolated storms over the New Territories; Thursday is forecast to be dry with sunny periods and a high near 32C."
-      },
-      "zh": {
-        "headline": "天文台清晨取消通宵雷暴警告",
-        "dek": "警告於上午4時45分取消，新界北部清晨錄得超過20毫米雨量；周四日間大致乾燥，最高氣溫約32度。"
-      }
-    },
-    {
-      "id": "2026-09-10-za-bank-lee-garden-eight-hq",
-      "published_at": "2026-09-10T07:09:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "banking",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-za-bank-lee-garden-eight-hq.json",
-      "en": {
-        "headline": "ZA Bank to take new Causeway Bay headquarters at Lee Garden Eight",
-        "dek": "The virtual bank will occupy about 45,000 square feet across four floors of Tower 3, with a move planned in 2027, Hysan and the lender said."
-      },
-      "zh": {
-        "headline": "眾安銀行承租利園八期四層作新總部",
-        "dek": "虛擬銀行ZA Bank將租用銅鑼灣利園八期3座約4.5萬平方呎寫字樓，料2027年啟用，遷離數碼港。"
-      }
-    },
-    {
-      "id": "2026-09-10-customs-kwai-chung-kwu-tung-tobacco",
-      "published_at": "2026-09-10T07:08:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "customs",
-        "smuggling"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-customs-kwai-chung-kwu-tung-tobacco.json",
-      "en": {
-        "headline": "Customs seizes HK$102 million of illicit tobacco in Kwai Chung and Kwu Tung",
-        "dek": "Officers raided an export staging point and two packaging stores on Tuesday and arrested a local lorry driver, Customs said on Wednesday."
-      },
-      "zh": {
-        "headline": "海關葵涌古洞搗三私煙點檢逾億元貨",
-        "dek": "海關周二在葵涌物流倉及古洞兩個鐵皮場檢獲約1,280萬支未完稅香煙及6,300公斤煙草，市值約1.02億元，拘捕一名本地貨車司機。"
-      }
-    },
-    {
-      "id": "2026-09-10-labour-dept-wang-fuk-osh-charges",
-      "published_at": "2026-09-10T07:07:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "courts",
-        "housing",
-        "safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-labour-dept-wang-fuk-osh-charges.json",
-      "en": {
-        "headline": "Labour Department files 25 charges over Wang Fuk Court worker deaths",
-        "dek": "Prosecutions under the Factories and Industrial Undertakings Ordinance target duty holders over the November fire that killed five contractor staff at the Tai Po estate."
-      },
-      "zh": {
-        "headline": "勞工處就宏福苑五名工友遇難提25項檢控",
-        "dek": "勞工處經徵詢律政司後，根據《工廠及工業經營條例》向承建商、工程顧問及個別人士提出公訴，涉去年11月大埔宏福苑維修地盤火警。"
       }
     }
   ]
