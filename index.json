@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-09-12T13:11:21+08:00",
+  "generated_at": "2026-09-12T15:22:31+08:00",
   "live_window_hours": 72,
-  "count": 96,
+  "count": 99,
   "articles": [
+    {
+      "id": "2026-09-12-tung-chee-hwa-state-funeral",
+      "published_at": "2026-09-12T15:27:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "government",
+        "tung-chee-hwa"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-tung-chee-hwa-state-funeral.json",
+      "en": {
+        "headline": "State funeral for former chief executive Tung Chee-hwa set for 20 September",
+        "dek": "A source confirmed the date on Saturday; state leaders and central government officials are expected to join the funeral committee."
+      },
+      "zh": {
+        "headline": "前特首董建華國葬定於9月20日舉行",
+        "dek": "消息周六確認國葬日期，國家領導人和中央政府官員預期加入治喪委員會。"
+      }
+    },
+    {
+      "id": "2026-09-12-police-college-bachelor-degree",
+      "published_at": "2026-09-12T15:26:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "community",
+        "government",
+        "education"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-police-college-bachelor-degree.json",
+      "en": {
+        "headline": "Police College becomes first government department allowed to award bachelor degrees",
+        "dek": "Commissioner Chow Yat-ming said the free Security and Criminal Investigation (Honours) Bachelor of Policing programme is expected to launch by year-end for serving junior officers."
+      },
+      "zh": {
+        "headline": "警察學院成首個可頒授學士學位政府部門 年底推免費課程",
+        "dek": "警務處長周一鳴在結業會操後公布，學院上月獲評審局通知可頒授學士學位，免費「安保及刑事調查（榮譽）警務學士」課程預計年底推出。"
+      }
+    },
+    {
+      "id": "2026-09-12-lamma-power-station-body",
+      "published_at": "2026-09-12T15:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "lamma",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-lamma-power-station-body.json",
+      "en": {
+        "headline": "Body of 53-year-old woman found in waters off Lamma Power Station",
+        "dek": "Firefighters recovered the woman after a report of a floating figure around 10am on Saturday; police classified the case as found body."
+      },
+      "zh": {
+        "headline": "南丫島發電廠對開海面發現女屍 53歲內地女子不治",
+        "dek": "警方周六上午約10時接報有人形物體漂浮海面，消防到場救起女子後證實死亡，案件列發現屍體。"
+      }
+    },
     {
       "id": "2026-09-12-tin-shui-wai-mcdonalds-scuffle",
       "published_at": "2026-09-12T13:12:00+08:00",
