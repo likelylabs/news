@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-09-13T07:18:57+08:00",
+  "updated_at": "2026-09-13T07:18:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-handmade-hk-discovery-bay-sep2026",
+      "id": "2026-09-13-lifestyle-handmade-db-market",
+      "first_seen": "2026-09-13T07:18:00+08:00",
+      "headline_en": "Handmade Hong Kong market closes Sunday at Discovery Bay"
+    },
+    {
+      "key": "lifestyle-leslie-cheung-heritage-museum-exhibition",
+      "id": "2026-09-13-lifestyle-leslie-heritage-museum",
+      "first_seen": "2026-09-13T07:17:00+08:00",
+      "headline_en": "Leslie Cheung exhibition adds free film screenings in Sha Tin"
+    },
+    {
+      "key": "iphone-18-preorder-card-alerts-sep13",
+      "id": "2026-09-13-iphone-18-card-alerts",
+      "first_seen": "2026-09-13T07:16:00+08:00",
+      "headline_en": "Card alerts surge as iPhone 18 Pro pre-orders open"
+    },
+    {
+      "key": "hkust-student-impersonation-scam-sep13",
+      "id": "2026-09-13-hkust-student-scam",
+      "first_seen": "2026-09-13T07:15:00+08:00",
+      "headline_en": "HKUST student reports losing HK$1.11 million in phone scam"
+    },
+    {
+      "key": "mong-kok-ebike-hit-run-arrest-sep12",
+      "id": "2026-09-13-mong-kok-ebike-arrest",
+      "first_seen": "2026-09-13T07:14:00+08:00",
+      "headline_en": "Police arrest e-bike rider after Mong Kok crash injures boy"
+    },
     {
       "key": "lifestyle-flockfest-pmq-final-day",
       "id": "2026-09-13-lifestyle-flockfest-final",
