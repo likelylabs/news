@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-09-12T17:18:46+08:00",
+  "generated_at": "2026-09-12T19:14:50+08:00",
   "live_window_hours": 72,
-  "count": 101,
+  "count": 102,
   "articles": [
+    {
+      "id": "2026-09-12-tung-chung-area-42-concrete",
+      "published_at": "2026-09-12T19:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "tung-chung",
+        "housing-authority"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-12/2026-09-12-tung-chung-area-42-concrete.json",
+      "en": {
+        "headline": "Housing Authority reviews concrete quality at Tung Chung Area 42 public housing",
+        "dek": "Some structural components in Blocks 3, 4 and 5 require further testing after routine cube strength checks; the site is confirmed structurally safe."
+      },
+      "zh": {
+        "headline": "東涌42區公屋混凝土質量需進一步測試 房委會確認結構安全",
+        "dek": "第3、4及5座部分結構構件在恒常方塊強度測試中發現問題，房屋署已確認地盤整體結構安全，並要求承建商抽芯複檢。"
+      }
+    },
     {
       "id": "2026-09-12-lifestyle-mplus-herzog-de-meuron",
       "published_at": "2026-09-12T17:21:00+08:00",
