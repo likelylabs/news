@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-09-12T23:10:13+08:00",
+  "generated_at": "2026-09-13T01:08:14+08:00",
   "live_window_hours": 72,
-  "count": 102,
+  "count": 103,
   "articles": [
+    {
+      "id": "2026-09-13-strong-monsoon-sunday-outlook",
+      "published_at": "2026-09-13T01:21:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "monsoon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-strong-monsoon-sunday-outlook.json",
+      "en": {
+        "headline": "Strong Monsoon Signal in force; windy with showers expected on Sunday",
+        "dek": "The Hong Kong Observatory has the Strong Monsoon Signal in effect under the northeast monsoon, with stronger winds and heavier showers possible in places on Sunday."
+      },
+      "zh": {
+        "headline": "強烈季候風信號生效 周日風勢較大有驟雨",
+        "dek": "天文台在東北季候風影響下發出強烈季候風信號，周日吹偏東強風，部分地區雨勢較大，間中有雷暴。"
+      }
+    },
+    {
+      "id": "2026-09-13-mark-six-draw-machine-fault",
+      "published_at": "2026-09-13T01:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "mark-six",
+        "jockey-club"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-mark-six-draw-machine-fault.json",
+      "en": {
+        "headline": "Mark Six draw pauses after machine fault; backup used, jackpot unclaimed",
+        "dek": "Saturday night’s Draw 99 was interrupted when no ball dropped for the first number; the Hong Kong Jockey Club switched to a reserve drum and balls under independent monitoring."
+      },
+      "zh": {
+        "headline": "六合彩攪珠機故障 改用後備機及號碼球 800萬頭獎無人中",
+        "dek": "周六晚第99期六合彩攪珠時原機未能攪出第一個號碼，馬會即時改用同型號後備攪珠機及備用號碼球，在監場嘉賓監察下完成，頭獎無人中。"
+      }
+    },
     {
       "id": "2026-09-12-asd-manager-resignation",
       "published_at": "2026-09-12T23:12:00+08:00",
@@ -2154,27 +2196,6 @@
       "zh": {
         "headline": "醫委會反對投訴處理設法定時限",
         "dek": "醫委會書面回應立法會指無需在法例訂明各步驟目標時限，可按現行行政方式處理，並就政府改革草案提出意見。"
-      }
-    },
-    {
-      "id": "2026-09-09-tia-unlicensed-tour-guides-sai-kung",
-      "published_at": "2026-09-10T00:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "tourism",
-        "immigration"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-09/2026-09-09-tia-unlicensed-tour-guides-sai-kung.json",
-      "en": {
-        "headline": "Two mainland visitors arrested as unlicensed tour guides in Sai Kung and Central",
-        "dek": "A man and a woman, both 31, were detained in a joint Immigration Department and Travel Industry Authority operation targeting illegal guiding services ahead of Golden Week."
-      },
-      "zh": {
-        "headline": "旅監局聯同入境處拘兩名內地無牌導遊",
-        "dek": "一男一女均31歲，分別在西貢東壩及中環被捕，涉嫌違反逗留條件提供導遊服務，國慶黃金周前加強執法。"
       }
     }
   ]
