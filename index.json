@@ -1,8 +1,51 @@
 {
-  "generated_at": "2026-09-13T21:18:25+08:00",
+  "generated_at": "2026-09-13T23:17:46+08:00",
   "live_window_hours": 72,
-  "count": 108,
+  "count": 101,
   "articles": [
+    {
+      "id": "2026-09-13-tung-chee-hwa-state-funeral",
+      "published_at": "2026-09-13T23:19:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "government",
+        "tung-chee-hwa"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-tung-chee-hwa-state-funeral.json",
+      "en": {
+        "headline": "State funeral for Tung Chee-hwa scheduled for 20 September, sources say",
+        "dek": "Hong Kong’s first chief executive is expected to receive a state funeral with the national flag draped on the casket; a central government funeral committee is preparing the arrangements."
+      },
+      "zh": {
+        "headline": "消息：董建華國葬訂9月20日舉行",
+        "dek": "香港首任行政長官、全國政協前副主席董建華的國葬據悉訂於9月20日舉行，靈柩將覆蓋國旗，中央成立治喪委員會安排事宜。"
+      }
+    },
+    {
+      "id": "2026-09-13-customs-lok-ma-chau-live-cat",
+      "published_at": "2026-09-13T23:18:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "customs",
+        "animals",
+        "lok-ma-chau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-customs-lok-ma-chau-live-cat.json",
+      "en": {
+        "headline": "Customs seizes live cat valued at HK$25,000 at Lok Ma Chau; mainland man arrested",
+        "dek": "Officers intercepted a 61-year-old incoming passenger at the Spur Line Control Point on Sunday and found the animal in his personal luggage; the case was referred to the Agriculture, Fisheries and Conservation…"
+      },
+      "zh": {
+        "headline": "海關落馬洲檢活貓市值約2.5萬 61歲內地男客被捕",
+        "dek": "關員周日在支線管制站入境大堂截查一名61歲抵港內地男旅客，於其個人行李內發現一隻懷疑非法進口活貓，隨即拘捕，案件交漁護署跟進。"
+      }
+    },
     {
       "id": "2026-09-13-lifestyle-mid-autumn-lantern-carnival",
       "published_at": "2026-09-13T21:17:00+08:00",
@@ -2124,199 +2167,6 @@
       "zh": {
         "headline": "兩外籍男遊客闖柴灣港鐵車廠塗鴉 機場離境大堂被捕",
         "dek": "警方指兩人涉嫌剪爛圍牆防盜線潛入車廠，在停泊列車噴上約一米乘五米塗鴉後翻牆逃走，約六小時後在機場登機前落網。"
-      }
-    },
-    {
-      "id": "2026-09-10-lifestyle-rethink-hk-2026",
-      "published_at": "2026-09-10T23:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "community",
-        "events",
-        "sustainability"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-lifestyle-rethink-hk-2026.json",
-      "en": {
-        "headline": "ReThink HK sustainability conference opens at Convention Centre",
-        "dek": "The two-day event at Hall 1 of the Hong Kong Convention and Exhibition Centre brings together business, government and NGO leaders on climate action and sustainable solutions through Friday."
-      },
-      "zh": {
-        "headline": "ReThink HK可持續發展博覽會於會展開幕",
-        "dek": "為期兩日的亞洲氣候行動與可持續商業活動在灣仔會展1號館舉行，匯聚商界、政府及非政府機構代表至周五。"
-      }
-    },
-    {
-      "id": "2026-09-10-mtr-tour-guide-fare-evasion",
-      "published_at": "2026-09-10T23:11:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "mtr",
-        "tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-mtr-tour-guide-fare-evasion.json",
-      "en": {
-        "headline": "MTR says police have identified tour guide in Tsim Sha Tsui fare-evasion case",
-        "dek": "The rail operator is working with police and the Travel Industry Authority after footage showed more than 30 people exiting without tapping cards behind a guide on 23 August."
-      },
-      "zh": {
-        "headline": "港鐵：警方已鎖定尖沙咀逃票事件導遊身份",
-        "dek": "8月23日晚上有旅行團懷疑不正當出閘，估計逾30人未付正確車資，港鐵正與警方及旅監局蒐證跟進。"
-      }
-    },
-    {
-      "id": "2026-09-10-shkp-annual-results",
-      "published_at": "2026-09-10T23:10:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "property",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-shkp-annual-results.json",
-      "en": {
-        "headline": "Sun Hung Kai Properties underlying profit rises 4.6 percent to HK$22.85 billion",
-        "dek": "Hong Kong’s largest developer reported stronger residential sales and a final dividend of HK$2.93, lifting the full-year payout as the local property market continued its recovery."
-      },
-      "zh": {
-        "headline": "新鴻基地產基礎溢利升4.6%至228.5億元",
-        "dek": "本港最大發展商全年合約銷售約381億元，末期息2.93元，全年派息3.91元，物業市場持續復甦。"
-      }
-    },
-    {
-      "id": "2026-09-10-wsj-publisher-union-conviction",
-      "published_at": "2026-09-10T23:09:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "courts",
-        "media",
-        "labour"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-wsj-publisher-union-conviction.json",
-      "en": {
-        "headline": "Wall Street Journal publisher convicted of deterring reporter from union role",
-        "dek": "Eastern Magistrates’ Courts found Dow Jones guilty of preventing Selina Cheng from standing for Hong Kong Journalists Association chairmanship but cleared it of unlawful dismissal over the union activity."
-      },
-      "zh": {
-        "headline": "華爾街日報出版商阻記者競逐記協主席 被裁定有罪",
-        "dek": "東區裁判法院裁定道瓊斯出版公司故意阻止前記者鄭嘉如行使工會權利，但裁定解僱指控不成立。"
-      }
-    },
-    {
-      "id": "2026-09-10-mong-kok-drug-chase-arrests",
-      "published_at": "2026-09-10T23:08:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "drugs",
-        "mong-kok"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-mong-kok-drug-chase-arrests.json",
-      "en": {
-        "headline": "Three arrested after Mong Kok car chase linked to alleged drug deal",
-        "dek": "Police detained a 29-year-old disqualified driver, his girlfriend and a passenger after a private car fled officers, struck vehicles and left an officer injured on Monday; the trio face drug and traffic charges."
-      },
-      "zh": {
-        "headline": "旺角私家車逃避截查連撞多車 警拘兩男一女涉販毒",
-        "dek": "警方拘捕29歲停牌司機、其19歲女友及46歲男乘客，指周一旺角懷疑進行毒品交易時逃避截查，撞傷一名警員並損毀多車。"
-      }
-    },
-    {
-      "id": "2026-09-10-wong-tai-sin-water-interruption",
-      "published_at": "2026-09-10T21:28:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "water-supply",
-        "wong-tai-sin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-wong-tai-sin-water-interruption.json",
-      "en": {
-        "headline": "Water supply cut overnight for seven Wong Tai Sin estates after pipe damage",
-        "dek": "A 750 mm fresh-water main was accidentally damaged by a contractor at a Po Kong Village Road works site; the Water Supplies Department aims to restore supply by 7am Friday after emergency repairs from 11pm."
-      },
-      "zh": {
-        "headline": "黃大仙蒲崗村道食水管受損 七屋苑今晚11時後停水搶修",
-        "dek": "直徑750毫米食水總管於行人路坑道工程地盤被電力承判商意外損壞，水務署安排今晚11時後停水緊急維修，爭取明早7時前恢復供水。"
-      }
-    },
-    {
-      "id": "2026-09-10-chp-two-severe-paediatric-flu",
-      "published_at": "2026-09-10T21:27:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "influenza",
-        "children"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-chp-two-severe-paediatric-flu.json",
-      "en": {
-        "headline": "CHP records two more severe paediatric flu cases; school outbreaks rise",
-        "dek": "An 11-year-old boy and a six-year-old boy remain in serious condition with influenza A complications; the centre said school outbreaks have climbed to 73 cases involving 398 people since the new term began."
-      },
-      "zh": {
-        "headline": "衞防中心錄兩宗兒童流感嚴重個案 學校爆發升至73宗",
-        "dek": "11歲及6歲男童分別因甲型流感併發敗血性休克及腦炎、嚴重肺炎留醫深切治療部，情況嚴重；中心指開學後學校流感樣疾病爆發已達73宗，涉及398人。"
-      }
-    },
-    {
-      "id": "2026-09-10-lee-jin-lei-shenzhen-meeting",
-      "published_at": "2026-09-10T21:26:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "government",
-        "guangdong",
-        "northern-metropolis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-lee-jin-lei-shenzhen-meeting.json",
-      "en": {
-        "headline": "John Lee meets Shenzhen Party chief Jin Lei; sides sign cooperation pacts",
-        "dek": "The Chief Executive and the Shenzhen Municipal Committee secretary discussed deeper collaboration and witnessed the signing of memoranda covering finance, innovation and technology, and supporting mainland firms going…"
-      },
-      "zh": {
-        "headline": "李家超晤深圳市委書記靳磊 見證簽署多份合作備忘錄",
-        "dek": "行政長官與深圳市委書記在禮賓府會面，就深化港深合作交換意見，並共同見證涵蓋金融、創科及服務企業出海等範疇的合作備忘錄和協議簽署。"
-      }
-    },
-    {
-      "id": "2026-09-10-tung-chee-hwa-state-funeral",
-      "published_at": "2026-09-10T21:25:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "government",
-        "tung-chee-hwa"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-tung-chee-hwa-state-funeral.json",
-      "en": {
-        "headline": "Hong Kong coordinating state funeral for late first chief executive Tung Chee-hwa",
-        "dek": "Authorities are preparing arrangements to honour Tung as a deputy national-level leader for his contributions to the one country, two systems framework, the government said it would announce details in due course."
-      },
-      "zh": {
-        "headline": "當局正協調董建華國葬安排 稍後公布詳情",
-        "dek": "消息指特區政府正為已故首任行政長官董建華籌備國葬，以肯定其作為副國級領導人及對一國兩制的貢獻；政府表示稍後公布安排。"
       }
     }
   ]
