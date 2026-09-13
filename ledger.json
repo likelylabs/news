@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-13T09:26:29+08:00",
+  "updated_at": "2026-09-13T11:20:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "policy-address-five-year-plan-preview-sep16",
+      "id": "2026-09-13-policy-address-five-year-preview",
+      "first_seen": "2026-09-13T11:18:00+08:00",
+      "headline_en": "Lee to deliver five-year plan and Policy Address on Wednesday"
+    },
+    {
+      "key": "nt-north-drink-drive-arrests-sep12",
+      "id": "2026-09-13-nt-north-drink-drive",
+      "first_seen": "2026-09-13T11:19:00+08:00",
+      "headline_en": "Two men arrested for drink-driving in New Territories North"
+    },
+    {
+      "key": "edb-school-mental-health-staffing-sep12",
+      "id": "2026-09-13-edb-mental-health-staffing",
+      "first_seen": "2026-09-13T11:20:00+08:00",
+      "headline_en": "Education Bureau rejects claim it refused extra mental-health staff"
+    },
     {
       "key": "lifestyle-cavalluna-kai-tak-final",
       "id": "2026-09-13-lifestyle-cavalluna-final",
