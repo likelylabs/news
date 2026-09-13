@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-09-13T09:26:29+08:00",
+  "generated_at": "2026-09-13T11:12:51+08:00",
   "live_window_hours": 72,
-  "count": 104,
+  "count": 103,
   "articles": [
+    {
+      "id": "2026-09-13-edb-mental-health-staffing",
+      "published_at": "2026-09-13T11:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "health",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-edb-mental-health-staffing.json",
+      "en": {
+        "headline": "Education Bureau rejects claim it refused extra mental-health staff",
+        "dek": "The bureau said social-media posts that it had refused to send more on-site support were unfounded, and that extra resources would be added if needed."
+      },
+      "zh": {
+        "headline": "教育局：拒增派到校支援人手說法並無根據",
+        "dek": "教育局周六發文，指社交平台及家長群組流傳局方拒絕增派人手處理學童精神健康的說法全無事實根據，有需要時會增撥資源。"
+      }
+    },
+    {
+      "id": "2026-09-13-nt-north-drink-drive",
+      "published_at": "2026-09-13T11:19:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "traffic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-nt-north-drink-drive.json",
+      "en": {
+        "headline": "Two men arrested for drink-driving in New Territories North",
+        "dek": "Police said a two-day road operation in Tuen Mun and Sheung Shui found two local drivers who failed breath tests; both were released on bail."
+      },
+      "zh": {
+        "headline": "新界北打擊酒駕 屯門及上水兩男未能通過呼氣測試被捕",
+        "dek": "警方表示，11至12日在新界北展開代號「追捕者」行動，兩名本地男司機在屯門育康街及青山公路新墟段截查後涉嫌酒後駕駛，已准保釋。"
+      }
+    },
+    {
+      "id": "2026-09-13-policy-address-five-year-preview",
+      "published_at": "2026-09-13T11:18:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "government",
+        "education",
+        "northern-metropolis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-policy-address-five-year-preview.json",
+      "en": {
+        "headline": "Lee to deliver five-year plan and Policy Address on Wednesday",
+        "dek": "The chief executive said he and his team will wear THEi-designed ties, scarves and a blue ‘one-five’ badge when the documents are published on 16 September."
+      },
+      "zh": {
+        "headline": "李家超周三發表五年規劃及施政報告 團隊戴「一五」襟章",
+        "dek": "行政長官周日在社交平台表示，9月16日將同時公布香港首個五年規劃及任內第五份《施政報告》，並預告當日佩戴高科院校友設計的領呔、絲巾及藍色襟章。"
+      }
+    },
     {
       "id": "2026-09-13-lifestyle-cavalluna-final",
       "published_at": "2026-09-13T09:34:00+08:00",
@@ -2141,89 +2204,6 @@
       "zh": {
         "headline": "恒指早市失守二萬五千關 近一個半月首見",
         "dek": "恒生指數競價時段報24,985點，跌289點或1.15%，港台報道這是近一個半月首次跌穿25,000點。"
-      }
-    },
-    {
-      "id": "2026-09-10-lifestyle-cavalluna-kai-tak",
-      "published_at": "2026-09-10T09:53:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-lifestyle-cavalluna-kai-tak.json",
-      "en": {
-        "headline": "CAVALLUNA equestrian theatre continues at Kai Tak through Sunday",
-        "dek": "The European horse-and-theatre production, making its first Asian stop, has remaining performances at Kai Tak Arena from Thursday evening to 13 September."
-      },
-      "zh": {
-        "headline": "CAVALLUNA馬術劇場啟德續演至週日",
-        "dek": "歐洲馬術劇場《穿梭異境》亞洲首站在啟德體藝館上演，本周四晚至9月13日仍有場次，由香港賽馬會呈獻。"
-      }
-    },
-    {
-      "id": "2026-09-10-huanggang-customs-working-meeting",
-      "published_at": "2026-09-10T09:52:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "customs",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-huanggang-customs-working-meeting.json",
-      "en": {
-        "headline": "Hong Kong and Shenzhen customs meet on new Huanggang port operations",
-        "dek": "Acting Commissioner Woo Wai-kwan inspected joint one-stop vehicle lanes after talks with Huanggang Customs on passenger and cargo checks and emergency coordination."
-      },
-      "zh": {
-        "headline": "港深海關開會部署新皇崗口岸運作",
-        "dek": "署理關長胡偉軍周三與皇崗海關關長施宏圖開會，並視察聯合一站式車道測試，雙方未公布開通日期。"
-      }
-    },
-    {
-      "id": "2026-09-10-yau-tong-drivers-parking-brawl",
-      "published_at": "2026-09-10T09:51:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-yau-tong-drivers-parking-brawl.json",
-      "en": {
-        "headline": "Two drivers arrested after parking row turns violent in Yau Tong",
-        "dek": "A mixer-truck driver and a minibus driver were detained after a dispute near Sam Ka Tsuen Ferry Pier on Wednesday evening; one man was treated for a head injury."
-      },
-      "zh": {
-        "headline": "油塘泊車爭執兩司機被捕 一人頭部受傷",
-        "dek": "周三傍晚三家村碼頭對開因泊車起衝突，田螺車司機涉嫌以鐵通打傷小巴司機，兩人分別涉襲擊罪被捕。"
-      }
-    },
-    {
-      "id": "2026-09-10-kai-tak-light-housing-infant-death",
-      "published_at": "2026-09-10T09:50:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "housing",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-kai-tak-light-housing-infant-death.json",
-      "en": {
-        "headline": "One-year-old girl dies after being found unresponsive in Kai Tak flat",
-        "dek": "Police were called to a Light Public Housing unit on Olympic Avenue before dawn; the child was sent to Kwong Wah Hospital and later certified dead."
-      },
-      "zh": {
-        "headline": "啟德簡約公屋一歲女嬰昏迷送院不治",
-        "dek": "警方清晨接報世運道簡約公屋六座單位有女嬰昏迷，救護員送往廣華醫院搶救後證實不治，死因有待驗屍確定。"
       }
     }
   ]
