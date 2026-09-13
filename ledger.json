@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-13T21:18:25+08:00",
+  "updated_at": "2026-09-13T23:20:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "customs-lok-ma-chau-live-cat-sep13",
+      "id": "2026-09-13-customs-lok-ma-chau-live-cat",
+      "first_seen": "2026-09-13T23:18:00+08:00",
+      "headline_en": "Customs seizes live cat valued at HK$25,000 at Lok Ma Chau; mainland man arrested"
+    },
+    {
+      "key": "tung-chee-hwa-state-funeral-sep20",
+      "id": "2026-09-13-tung-chee-hwa-state-funeral",
+      "first_seen": "2026-09-13T23:19:00+08:00",
+      "headline_en": "State funeral for Tung Chee-hwa scheduled for 20 September, sources say"
+    },
     {
       "key": "iphone-18-fraud-police-700-reports-sep13",
       "id": "2026-09-13-iphone-fraud-700-reports",
