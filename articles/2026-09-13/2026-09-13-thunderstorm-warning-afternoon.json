@@ -1,0 +1,27 @@
+{
+  "id": "2026-09-13-thunderstorm-warning-afternoon",
+  "published_at": "2026-09-13T17:20:00+08:00",
+  "category": "weather",
+  "tags": ["weather", "hko", "thunderstorm"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "thunderstorm-warning-sep13-afternoon",
+  "en": {
+    "headline": "Observatory issues Thunderstorm Warning for southern waters and islands",
+    "dek": "The warning, effective from 4.27pm until 5.30pm, covers isolated squally thunderstorms and intense gusts of 70 km/h or above over southern waters and islands.",
+    "body": [
+      "The Hong Kong Observatory issued a Thunderstorm Warning at 4.27pm on Sunday, valid until 5.30pm. Isolated squally thunderstorms are expected over the southern waters and islands of Hong Kong.",
+      "Intense gusts reaching 70 kilometres per hour or above may affect those areas. The Observatory advised members of the public to seek safe shelter as soon as possible, stay away from the water surface, avoid outdoor swimming or water sports, and keep clear of high ground or conductive objects.",
+      "Drivers on highways or flyovers were urged to reduce speed and watch for flying or falling objects. A special weather tip was also issued at the same time noting the strong gusts. Earlier in the day the Strong Monsoon Signal had been cancelled in the early afternoon."
+    ]
+  },
+  "zh": {
+    "headline": "天文台發出雷暴警告 南部水域及島嶼有狂風雷暴",
+    "dek": "警告於下午4時27分發出，有效至5時30分，預料香港南部水域及島嶼有局部地區狂風雷暴，強陣風可達每小時70公里或以上。",
+    "body": [
+      "香港天文台於周日下午4時27分發出雷暴警告，有效時間至下午5時30分。預料香港南部水域及島嶼有局部地區狂風雷暴。",
+      "天文台表示，預料高達每小時70公里或以上的強陣風吹襲香港南部水域及島嶼。市民如身處室外，請儘快到安全地方躲避，離開水面，切勿在戶外游泳或進行其他戶外水上運動，亦切勿站立於高地或接近導電的物體、樹木或桅杆。",
+      "在高速公路或天橋上的駕車人士應減低車速，提防被飛散或墜落物件擊中。天文台同時發出特別天氣提示。較早前強烈季候風信號已於下午取消。"
+    ]
+  }
+}
