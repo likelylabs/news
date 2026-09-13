@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-09-14T06:30:03+08:00",
+  "generated_at": "2026-09-14T07:07:01+08:00",
   "live_window_hours": 72,
-  "count": 99,
+  "count": 103,
   "articles": [
+    {
+      "id": "2026-09-14-lifestyle-wears-hk-final-day",
+      "published_at": "2026-09-14T07:11:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "fashion",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-lifestyle-wears-hk-final-day.json",
+      "en": {
+        "headline": "Wear’s HK designer pop-ups close tonight after a two-week run",
+        "dek": "Four of the Clothing Industry Training Authority pop-ups for Hong Kong Fashion Fest remain open on 14 September at ifc mall, Harbour City, Pacific Place and the airport."
+      },
+      "zh": {
+        "headline": "「Wear’s HK」本地時裝快閃店今日結束",
+        "dek": "第三屆香港時裝薇快閃店項目周一踏入最後一天，國際金融中心商場、海港城、太古廣場及機場四個點仍按公布時間開放。"
+      }
+    },
+    {
+      "id": "2026-09-14-light-public-housing-tuen-mun",
+      "published_at": "2026-09-14T07:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "housing",
+        "tuen-mun"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-light-public-housing-tuen-mun.json",
+      "en": {
+        "headline": "Tuen Mun light public housing next to take in tenants, housing chief says",
+        "dek": "Secretary for Housing Winnie Ho said projects at Yan Po Road and Tsing Fat Street will be the next batch to open after four estates already began intake this year."
+      },
+      "zh": {
+        "headline": "何永賢：屯門兩簡約公屋項目將成下一批入伙",
+        "dek": "房屋局局長表示屯門欣寶路及青發街項目將相繼入伙，並稱今年是簡約公屋「豐收年」，已有四個項目開始交樓。"
+      }
+    },
+    {
+      "id": "2026-09-14-quarry-bay-mtr-powerbank-smoke",
+      "published_at": "2026-09-14T07:09:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "mtr",
+        "fire",
+        "island-line"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-quarry-bay-mtr-powerbank-smoke.json",
+      "en": {
+        "headline": "Power bank smokes on Island Line train near Quarry Bay; no injuries",
+        "dek": "A passenger’s portable charger began emitting smoke on a Kennedy Town-bound train after Tai Koo on Sunday night; firefighters found it already out and MTR service was not disrupted."
+      },
+      "zh": {
+        "headline": "港島絲列車充電器冒煙 鰌魚涌站處理無人傷",
+        "dek": "週日晚上往堅尼地城方向列車離開太古後，有乘客便攜式充電器冒煙；消防員到場時已無煙，港鐵服務未受影響。"
+      }
+    },
+    {
+      "id": "2026-09-14-workweek-weather-outlook",
+      "published_at": "2026-09-14T07:08:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "outlook",
+        "monsoon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-workweek-weather-outlook.json",
+      "en": {
+        "headline": "Northeast monsoon to keep Hong Kong hot this week as showers ease",
+        "dek": "The Observatory said a northeast monsoon will linger over southern China, with brief showers on Monday and Tuesday before generally fine, hot weather through the working week."
+      },
+      "zh": {
+        "headline": "東北季候風持續 本周日間炎熱中期轉晴",
+        "dek": "天文台表示東北季候風未來數日影響華南，周一周二早晚有驟雨，其後高空反氣旋覆蓋廣東，本周中期大致天晴炎熱。"
+      }
+    },
     {
       "id": "2026-09-14-lifestyle-herzog-de-meuron-m-plus-focus",
       "published_at": "2026-09-14T03:12:00+08:00",
