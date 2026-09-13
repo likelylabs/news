@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-09-13T07:19:40+08:00",
+  "generated_at": "2026-09-13T09:25:30+08:00",
   "live_window_hours": 72,
-  "count": 101,
+  "count": 104,
   "articles": [
+    {
+      "id": "2026-09-13-lifestyle-cavalluna-final",
+      "published_at": "2026-09-13T09:34:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "kai-tak",
+        "sport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-lifestyle-cavalluna-final.json",
+      "en": {
+        "headline": "Cavalluna horse show plays last two Hong Kong dates today",
+        "dek": "The European equestrian production ends its first Asian run at Kai Tak Arena with performances at 1pm and 6pm on Sunday."
+      },
+      "zh": {
+        "headline": "歐洲馬術匯演Cavalluna周日於啟德上演最後兩場",
+        "dek": "《CAVALLUNA月影神駒——穿梭異境》亞洲首演今日下午1時及6時在啟德體藝館大館作最後兩場。"
+      }
+    },
+    {
+      "id": "2026-09-13-hsitp-first-batch-bids",
+      "published_at": "2026-09-13T09:33:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "technology",
+        "northern-metropolis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-hsitp-first-batch-bids.json",
+      "en": {
+        "headline": "Five firms bid for first Loop park land, official says",
+        "dek": "The HSITP chairman said the first two land groups drew six bids, including chip, AI and quantum companies, with results expected around November."
+      },
+      "zh": {
+        "headline": "河套首批用地五企入標 包括晶片及人工智能",
+        "dek": "港深創科園主席蔡傑銘表示，首兩組地共接獲六份標書，評標會着重技術含金量，預料約11月公布。"
+      }
+    },
+    {
+      "id": "2026-09-13-hko-special-weather-tip-morning",
+      "published_at": "2026-09-13T09:32:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "monsoon",
+        "thunderstorm"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-hko-special-weather-tip-morning.json",
+      "en": {
+        "headline": "Observatory warns of heavier showers and squally thunderstorms",
+        "dek": "A special weather tip at 7.45am said a rain band south of Hong Kong was approaching, while the Strong Monsoon Signal remains in force."
+      },
+      "zh": {
+        "headline": "天文台：雷雨帶靠近 未來兩三小時局部雨勢較大",
+        "dek": "天文台周日早上7晈45分發特別天氣提示，本港以南雷雨帶逐漸靠近，強烈季候風信號仍然生效。"
+      }
+    },
     {
       "id": "2026-09-13-lifestyle-handmade-db-market",
       "published_at": "2026-09-13T07:18:00+08:00",
