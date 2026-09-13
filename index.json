@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-09-13T11:12:51+08:00",
+  "generated_at": "2026-09-13T13:10:53+08:00",
   "live_window_hours": 72,
-  "count": 103,
+  "count": 102,
   "articles": [
+    {
+      "id": "2026-09-13-workweek-weather-outlook",
+      "published_at": "2026-09-13T13:17:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "monsoon",
+        "outlook"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-workweek-weather-outlook.json",
+      "en": {
+        "headline": "Strong Monsoon Signal remains; showers easing into the new week",
+        "dek": "The Observatory expects the northeast monsoon to keep affecting southern China through the middle of the week, with showers mainly at first and gradual improvement later."
+      },
+      "zh": {
+        "headline": "強烈季候風信號仍然生效 新一週初段仍有驟雨",
+        "dek": "天文台表示東北季候風將繼續影響華南至本週中後期，初段仍有驟雨，其後天色逐漸好轉。"
+      }
+    },
+    {
+      "id": "2026-09-13-tai-po-fu-shan-street-fire",
+      "published_at": "2026-09-13T13:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "tai-po",
+        "emergency"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-tai-po-fu-shan-street-fire.json",
+      "en": {
+        "headline": "Shop fire in Tai Po Fu Shan Street sends thick smoke skyward; 50 evacuate",
+        "dek": "Firefighters extinguished a blaze at a ground-floor premises on Fu Shan Street on Sunday morning; about 50 people left the area and no injuries were reported."
+      },
+      "zh": {
+        "headline": "大埔富善街地舖起火濃煙沖天 約50人疏散無人傷",
+        "dek": "周日上午約10時大埔富善街一間地舖發生火警，消防開喉灌救約18分鐘救熄，約50名市民自行疏散，無人受傷。"
+      }
+    },
+    {
+      "id": "2026-09-13-mtr-tung-chung-east-track",
+      "published_at": "2026-09-13T13:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "tung-chung",
+        "railway"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-mtr-tung-chung-east-track.json",
+      "en": {
+        "headline": "MTR opens new Hong Kong-bound track for Tung Chung Line Extension",
+        "dek": "Trains from Tung Chung station began using the new section serving the future Tung Chung East station from the first departure on Sunday; service was smooth and journey times largely unchanged."
+      },
+      "zh": {
+        "headline": "港鐵東涌綫延綫往香港方向新路軌段今日啟用",
+        "dek": "接駁未來東涌東站的往香港方向新路軌段周日正式投入服務，由東涌站開出的列車改行新路段，班次不變，行車時間大致相若，服務暢順。"
+      }
+    },
     {
       "id": "2026-09-13-edb-mental-health-staffing",
       "published_at": "2026-09-13T11:20:00+08:00",
@@ -2121,89 +2185,6 @@
       "zh": {
         "headline": "證監會指令撥康視雲停牌",
         "dek": "臨床階段眼科生物科技公司撥康視雲（02592）今早9時起按證監會指令停止買賣，股價自去年7月上市以來已累挫約88%。"
-      }
-    },
-    {
-      "id": "2026-09-10-mtr-cheung-sha-wan-passenger-death",
-      "published_at": "2026-09-10T13:10:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "tsuen-wan-line",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-mtr-cheung-sha-wan-passenger-death.json",
-      "en": {
-        "headline": "Man dies after collapsing on Tsuen Wan Line train at Cheung Sha Wan",
-        "dek": "A man in his 60s was found unresponsive on a morning train; service on the line was briefly delayed and platforms became crowded before normal operations resumed."
-      },
-      "zh": {
-        "headline": "港鐵長沙灣站列車男乘客昏迷送院不治",
-        "dek": "一名六旬男子今早在荃灣綫車廂內暈倒，送院後不治；荃灣綫服務一度受阻，多個車站月台擠迫，荃灣站曾關閉。"
-      }
-    },
-    {
-      "id": "2026-09-10-lifestyle-mid-autumn-lantern-carnival",
-      "published_at": "2026-09-10T11:26:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-lifestyle-mid-autumn-lantern-carnival.json",
-      "en": {
-        "headline": "Mid-Autumn lantern carnival returns to Victoria Park on 17 September",
-        "dek": "LCSD’s Bing-wu lantern carnival runs free of charge from 17 to 27 September, alongside the Tourism Board’s first international lantern showcase at the same park."
-      },
-      "zh": {
-        "headline": "丙午年中秋綵燈會下週四維園亮燈",
-        "dek": "康文署綵燈會9月17日至27日於維園免費開放，旅發局同期首辦國際中秋綵燈匯，文化中心露天廣場另設光影裝置至10月11日。"
-      }
-    },
-    {
-      "id": "2026-09-10-uzbekistan-gold-market-mou",
-      "published_at": "2026-09-10T11:25:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "finance",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-uzbekistan-gold-market-mou.json",
-      "en": {
-        "headline": "Hong Kong and Uzbekistan sign gold market cooperation pact",
-        "dek": "Christopher Hui exchanged an MOU with Uzbekistan’s central bank at the Belt and Road Summit; the two sides were due to meet again on Thursday."
-      },
-      "zh": {
-        "headline": "港與烏茲別克簽備忘錄加強黃金市場合作",
-        "dek": "許正宇周三在一帶一路高峰論壇與烏茲別克央行副主席交換諒解備忘錄，財庫局周四續開雙邊會議。"
-      }
-    },
-    {
-      "id": "2026-09-10-hang-seng-below-25000",
-      "published_at": "2026-09-10T11:24:00+08:00",
-      "updated_at": "2026-09-10T11:28:00+08:00",
-      "category": "business",
-      "tags": [
-        "business",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-hang-seng-below-25000.json",
-      "en": {
-        "headline": "Hang Seng slips below 25,000 in morning trade",
-        "dek": "The benchmark opened at 24,985, down 289 points or 1.15 per cent, the first break of that level in nearly six weeks, RTHK reported."
-      },
-      "zh": {
-        "headline": "恒指早市失守二萬五千關 近一個半月首見",
-        "dek": "恒生指數競價時段報24,985點，跌289點或1.15%，港台報道這是近一個半月首次跌穿25,000點。"
       }
     }
   ]
