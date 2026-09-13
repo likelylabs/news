@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-09-13T13:10:53+08:00",
+  "generated_at": "2026-09-13T15:06:51+08:00",
   "live_window_hours": 72,
-  "count": 102,
+  "count": 103,
   "articles": [
+    {
+      "id": "2026-09-13-fsd-breathing-apparatus-upgrade",
+      "published_at": "2026-09-13T15:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "emergency",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-fsd-breathing-apparatus-upgrade.json",
+      "en": {
+        "headline": "Fire Services rolls out new breathing apparatus with 10-second cylinder swap",
+        "dek": "The department has equipped firefighters with faster connectors, an air-sharing system and clearer communications, and introduced reconfigurable training rooms at two stations."
+      },
+      "zh": {
+        "headline": "消防處全面更換新一代呼吸器 換氣樽最快10秒",
+        "dek": "新裝備設快速接頭、緊急共享空氣系統及小隊通話器，黃大仙及薄扶林消防局訓練場亦引入活動式間隔。"
+      }
+    },
+    {
+      "id": "2026-09-13-strong-monsoon-cancelled",
+      "published_at": "2026-09-13T15:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "monsoon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-strong-monsoon-cancelled.json",
+      "en": {
+        "headline": "Observatory cancels Strong Monsoon Signal at 1.45pm",
+        "dek": "The signal that had been in force since the early hours was lifted on Sunday afternoon as winds moderated; red flags remained at several beaches earlier in the day."
+      },
+      "zh": {
+        "headline": "天文台下午1時45分取消強烈季候風信號",
+        "dek": "信號於周日下午取消，日間大部分時間生效；稍早康文署因大浪在多個泳灘懸掛紅旗。"
+      }
+    },
     {
       "id": "2026-09-13-workweek-weather-outlook",
       "published_at": "2026-09-13T13:17:00+08:00",
@@ -2163,28 +2205,6 @@
       "zh": {
         "headline": "傳統吸煙產品統一包裝規定明日刊憲 明年3月生效",
         "dek": "附屬法例周五刊憲，明年3月1日生效，設9個月過渡期至12月1日全面實施；同步引入完稅煙標籤，違規最高罰款5萬元。"
-      }
-    },
-    {
-      "id": "2026-09-10-cloudbreak-pharma-sfc-suspension",
-      "published_at": "2026-09-10T13:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "finance",
-        "sfc",
-        "stock"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-10/2026-09-10-cloudbreak-pharma-sfc-suspension.json",
-      "en": {
-        "headline": "SFC orders suspension of Cloudbreak Pharma shares",
-        "dek": "Trading in the clinical-stage ophthalmology biotech was halted from 9am under Securities and Futures Ordinance rules; the stock had fallen about 88 per cent since its July 2025 listing."
-      },
-      "zh": {
-        "headline": "證監會指令撥康視雲停牌",
-        "dek": "臨床階段眼科生物科技公司撥康視雲（02592）今早9時起按證監會指令停止買賣，股價自去年7月上市以來已累挫約88%。"
       }
     }
   ]
