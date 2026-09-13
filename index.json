@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-13T23:17:46+08:00",
+  "generated_at": "2026-09-14T01:06:02+08:00",
   "live_window_hours": 72,
-  "count": 101,
+  "count": 99,
   "articles": [
+    {
+      "id": "2026-09-14-blacks-link-wartime-bullet",
+      "published_at": "2026-09-14T01:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "police",
+        "hiking",
+        "wartime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-blacks-link-wartime-bullet.json",
+      "en": {
+        "headline": "Hiker finds wartime bullet on Black’s Link; police seize it for testing",
+        "dek": "A walker discovered a single round while on the Hong Kong Island trail on Sunday, took it home to Happy Valley and called police; officers classified the case as ammunition found and sent the item for laboratory…"
+      },
+      "zh": {
+        "headline": "布力徑行山客發現戰時子彈 警方檢走化驗",
+        "dek": "行山人士周日在港島布力徑發現一枚子彈，帶回跑馬地箕璉坊住所後報警；警員接報檢取子彈作化驗，案件列彈藥發現。"
+      }
+    },
     {
       "id": "2026-09-13-tung-chee-hwa-state-funeral",
       "published_at": "2026-09-13T23:19:00+08:00",
@@ -2101,72 +2123,6 @@
       "zh": {
         "headline": "土瓜灣浙江街發現報失私家車 警檢懷疑可卡因拘38歲男",
         "dek": "警員周四傍晚在浙江街發現一輛早前報失的私家車，其後一名男子走近車輛，被截查後未能出示身份證，車內檢獲約0.91克懷疑可卡因。"
-      }
-    },
-    {
-      "id": "2026-09-11-lifestyle-lecole-magic-hour-coral",
-      "published_at": "2026-09-11T01:06:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "arts",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-lifestyle-lecole-magic-hour-coral.json",
-      "en": {
-        "headline": "Composer Olivier Cong presents coral soundscape at L’ÉCOLE tonight",
-        "dek": "The free Magic Hour event at the School of Jewelry Arts in K11 MUSEA runs from 6pm to 9pm as part of the ongoing Precious Coral exhibition, with registration required."
-      },
-      "zh": {
-        "headline": "江逸天今晚於L’ÉCOLE以珊瑚標本演繹聲景",
-        "dek": "K11 MUSEA珠寶藝術學院「日落雅聚」系列活動今晚6時至9時舉行，免費但須預先登記，配合《深珊瑚》展覽。"
-      }
-    },
-    {
-      "id": "2026-09-11-icac-ex-hkex-vp-asset-declaration",
-      "published_at": "2026-09-11T01:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "icac",
-        "courts",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-icac-ex-hkex-vp-asset-declaration.json",
-      "en": {
-        "headline": "ICAC charges former HKEX vice-president over asset declaration failure",
-        "dek": "Geoffrey Tong Po-hang, 39, faces one count of failing to comply with a Prevention of Bribery Ordinance notice; he is due to plead at Eastern Magistrates’ Courts on Friday."
-      },
-      "zh": {
-        "headline": "廉政公署起訴港交所前副總裁 涉未按要求申報資產",
-        "dek": "39歲湯寶衡被控一項不遵從《防止賄賂條例》通知書要求罪，周五於東區裁判法院答辯。"
-      }
-    },
-    {
-      "id": "2026-09-11-chai-wan-mtr-graffiti-arrests",
-      "published_at": "2026-09-11T01:04:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "mtr",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-chai-wan-mtr-graffiti-arrests.json",
-      "en": {
-        "headline": "Two foreign tourists arrested at airport after Chai Wan MTR depot graffiti",
-        "dek": "Police detained the pair, aged 30 and 34, in the departure hall about six hours after they allegedly cut security wiring, sprayed large murals on a stabled train and fled over a three-metre wall."
-      },
-      "zh": {
-        "headline": "兩外籍男遊客闖柴灣港鐵車廠塗鴉 機場離境大堂被捕",
-        "dek": "警方指兩人涉嫌剪爛圍牆防盜線潛入車廠，在停泊列車噴上約一米乘五米塗鴉後翻牆逃走，約六小時後在機場登機前落網。"
       }
     }
   ]
