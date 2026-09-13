@@ -1,0 +1,36 @@
+{
+  "updated_at": "2026-09-13T21:18:00+08:00",
+  "retention_days": 5,
+  "covered": [
+    {
+      "key": "iphone-18-fraud-police-700-reports-sep13",
+      "id": "2026-09-13-iphone-fraud-700-reports",
+      "first_seen": "2026-09-13T21:15:00+08:00",
+      "headline_en": "Police receive over 700 reports of unauthorised iPhone purchases worth HK$14.7m"
+    },
+    {
+      "key": "shenzhen-bay-nlb-bus-self-crash-sep13",
+      "id": "2026-09-13-shenzhen-bay-nlb-bus-crash",
+      "first_seen": "2026-09-13T21:16:00+08:00",
+      "headline_en": "New Lantao Bus collides with trees at Shenzhen Bay Port; no injuries"
+    },
+    {
+      "key": "lifestyle-hk-tourism-mid-autumn-lantern-carnival-2026",
+      "id": "2026-09-13-lifestyle-mid-autumn-lantern-carnival",
+      "first_seen": "2026-09-13T21:17:00+08:00",
+      "headline_en": "Tourism Board opens International Mid-Autumn Lantern Carnival at Victoria Park from 17 September"
+    },
+    {
+      "key": "customs-airport-cannabis-sep13",
+      "id": "2026-09-13-customs-airport-cannabis-seizures",
+      "first_seen": "2026-09-13T19:15:00+08:00",
+      "headline_en": "Customs seizes 9kg cannabis buds in two airport cases; two arrested"
+    },
+    {
+      "key": "yau-ma-tei-burglary-arrest-sep13",
+      "id": "2026-09-13-yau-ma-tei-burglary-arrest",
+      "first_seen": "2026-09-13T19:16:00+08:00",
+      "headline_en": "Man arrested after falling while fleeing Yau Ma Tei flat burglary"
+    }
+  ]
+}
