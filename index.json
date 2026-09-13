@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-09-13T19:11:06+08:00",
+  "generated_at": "2026-09-13T21:17:31+08:00",
   "live_window_hours": 72,
-  "count": 105,
+  "count": 108,
   "articles": [
+    {
+      "id": "2026-09-13-lifestyle-mid-autumn-lantern-carnival",
+      "published_at": "2026-09-13T21:17:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "mid-autumn",
+        "tourism",
+        "victoria-park"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-lifestyle-mid-autumn-lantern-carnival.json",
+      "en": {
+        "headline": "Tourism Board opens International Mid-Autumn Lantern Carnival at Victoria Park from 17…",
+        "dek": "The free event runs to 27 September with more than 3,000 lanterns from 20 places, Nanjing Qinhuai heritage pieces including an 8-metre banyan-tree installation, and a Hong Kong lantern courtyard."
+      },
+      "zh": {
+        "headline": "旅發局首辦國際中秋綵燈匯 9月17日起維園亮燈",
+        "dek": "活動免費開放至27日，設逾3000盞來自20個國家地區綵燈、南京秦淮非遺巨型燈組包括8米榕樹，以及香港綵燈庭。"
+      }
+    },
+    {
+      "id": "2026-09-13-shenzhen-bay-nlb-bus-crash",
+      "published_at": "2026-09-13T21:16:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "bus",
+        "shenzhen-bay",
+        "accident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-shenzhen-bay-nlb-bus-crash.json",
+      "en": {
+        "headline": "New Lantao Bus collides with trees at Shenzhen Bay Port; no injuries",
+        "dek": "A double-decker Volvo B8L left the roadway after dropping passengers on Sunday morning, damaging two trees and its upper windscreen; the driver was assisting police."
+      },
+      "zh": {
+        "headline": "深圳灣口岸新大嶼山巴士自炒撞樹 無人受傷",
+        "dek": "周日上午約11時一輛Volvo B8L雙層巴士落客後失控，剷上路中花槽撞毀兩棵樹及上層擋風玻璃，車長協助調查。"
+      }
+    },
+    {
+      "id": "2026-09-13-iphone-fraud-700-reports",
+      "published_at": "2026-09-13T21:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "fraud",
+        "technology",
+        "banking",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-13/2026-09-13-iphone-fraud-700-reports.json",
+      "en": {
+        "headline": "Police receive over 700 reports of unauthorised iPhone purchases worth HK$14.7m",
+        "dek": "Officers said electronic reports from Saturday to Sunday involved suspected credit-card theft for online smartphone buys, with the largest single case about HK$114,000; no arrests yet."
+      },
+      "zh": {
+        "headline": "警方接逾700宗疑盜用信用卡購智能電話報案 涉款約1470萬",
+        "dek": "電子報案中心周六至周日接獲超過700人報案，指信用卡疑被盜用於網上購買智能電話，最大一宗約11.4萬元，暫無人被捕。"
+      }
+    },
     {
       "id": "2026-09-13-yau-ma-tei-burglary-arrest",
       "published_at": "2026-09-13T19:16:00+08:00",
