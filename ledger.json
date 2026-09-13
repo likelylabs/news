@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-14T06:30:03+08:00",
+  "updated_at": "2026-09-14T07:12:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "workweek-weather-outlook-sep14",
+      "id": "2026-09-14-workweek-weather-outlook",
+      "first_seen": "2026-09-14T07:08:00+08:00",
+      "headline_en": "Northeast monsoon to keep Hong Kong hot this week as showers ease"
+    },
+    {
+      "key": "quarry-bay-mtr-powerbank-smoke-sep13",
+      "id": "2026-09-14-quarry-bay-mtr-powerbank-smoke",
+      "first_seen": "2026-09-14T07:09:00+08:00",
+      "headline_en": "Power bank smokes on Island Line train near Quarry Bay; no injuries"
+    },
+    {
+      "key": "light-public-housing-tuen-mun-harvest-sep13",
+      "id": "2026-09-14-light-public-housing-tuen-mun",
+      "first_seen": "2026-09-14T07:10:00+08:00",
+      "headline_en": "Tuen Mun light public housing next to take in tenants, housing chief says"
+    },
+    {
+      "key": "lifestyle-wears-hk-final-day",
+      "id": "2026-09-14-lifestyle-wears-hk-final-day",
+      "first_seen": "2026-09-14T07:11:00+08:00",
+      "headline_en": "Wear's HK designer pop-ups close tonight after a two-week run"
+    },
     {
       "key": "lifestyle-herzog-de-meuron-m-plus-focus",
       "id": "2026-09-14-lifestyle-herzog-de-meuron-m-plus-focus",
