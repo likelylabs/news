@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-13T13:10:53+08:00",
+  "updated_at": "2026-09-13T15:11:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "strong-monsoon-signal-cancelled-sep13",
+      "id": "2026-09-13-strong-monsoon-cancelled",
+      "first_seen": "2026-09-13T15:10:00+08:00",
+      "headline_en": "Observatory cancels Strong Monsoon Signal at 1.45pm"
+    },
+    {
+      "key": "fsd-breathing-apparatus-upgrade-2026",
+      "id": "2026-09-13-fsd-breathing-apparatus-upgrade",
+      "first_seen": "2026-09-13T15:11:00+08:00",
+      "headline_en": "Fire Services rolls out new breathing apparatus with 10-second cylinder swap"
+    },
     {
       "key": "mtr-tung-chung-east-track-open-sep13",
       "id": "2026-09-13-mtr-tung-chung-east-track",
