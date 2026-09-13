@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-09-14T01:06:02+08:00",
+  "generated_at": "2026-09-14T03:07:29+08:00",
   "live_window_hours": 72,
-  "count": 99,
+  "count": 100,
   "articles": [
+    {
+      "id": "2026-09-14-lifestyle-herzog-de-meuron-m-plus-focus",
+      "published_at": "2026-09-14T03:12:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "exhibition",
+        "m-plus",
+        "architecture"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-lifestyle-herzog-de-meuron-m-plus-focus.json",
+      "en": {
+        "headline": "M+ opens Herzog & de Meuron: In Focus for museum’s fifth anniversary",
+        "dek": "The exhibition in the Focus Gallery displays newly donated models, drawings and material samples from the Swiss firm that designed the M+ building, Tai Kwun and Beijing’s National Stadium, running from 12 September 2026."
+      },
+      "zh": {
+        "headline": "M+呈獻Herzog & de Meuron聚焦展 慶祝開幕五周年",
+        "dek": "焦點空間展出瑞士建築事務所新近捐贈的模型、繪圖及物料樣本，涵蓋M+大樓、大館及北京國家體育場等項目，2026年9月12日起開放。"
+      }
+    },
     {
       "id": "2026-09-14-blacks-link-wartime-bullet",
       "published_at": "2026-09-14T01:05:00+08:00",
