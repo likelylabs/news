@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-09-14T17:16:31+08:00",
+  "generated_at": "2026-09-14T19:03:41+08:00",
   "live_window_hours": 72,
   "count": 101,
   "articles": [
+    {
+      "id": "2026-09-14-gni-q2-2026",
+      "published_at": "2026-09-14T19:07:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-gni-q2-2026.json",
+      "en": {
+        "headline": "Hong Kong GNI rises 7.9 per cent to $966.1 billion in second quarter",
+        "dek": "Census and Statistics Department figures show net investment income inflows lifted residents’ total income above GDP growth of 6.9 per cent."
+      },
+      "zh": {
+        "headline": "本港第二季本地居民總收入升7.9%至9661億元",
+        "dek": "政府統計處公布，投資收益淨流入帶動GNI增幅高於同期GDP的6.9%增長。"
+      }
+    },
+    {
+      "id": "2026-09-14-sei-chun-hing-conviction",
+      "published_at": "2026-09-14T19:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "court",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-sei-chun-hing-conviction.json",
+      "en": {
+        "headline": "Yuen Long district councillor convicted of unlawful sex with underage girl",
+        "dek": "Sei Chun-hing was found guilty of having sexual intercourse with a 13-year-old in 2011 and remanded in custody; he was acquitted of an earlier indecent assault charge."
+      },
+      "zh": {
+        "headline": "元朗區議員施駿興與未成年女童非法性交罪成 還押候判",
+        "dek": "區域法院周一裁定施駿興一項與16歲以下女童非法性交罪成，即時還押；另一項非禮罪則不成立。"
+      }
+    },
+    {
+      "id": "2026-09-14-thunderstorm-warning-evening",
+      "published_at": "2026-09-14T19:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "thunderstorm"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-thunderstorm-warning-evening.json",
+      "en": {
+        "headline": "Observatory issues Thunderstorm Warning until 9pm",
+        "dek": "The warning was issued at 6:30pm as a thunderstorm area northeast of Hong Kong moved closer, with a few squally thunderstorms expected."
+      },
+      "zh": {
+        "headline": "天文台傍晚發出雷暴警告 有效至晚上9時",
+        "dek": "天文台下午6時30分發出雷暴警告，預料香港有幾陣狂風雷暴，有效時間至晚上9時正。"
+      }
+    },
     {
       "id": "2026-09-14-multicultural-job-fair",
       "published_at": "2026-09-14T17:19:00+08:00",
@@ -2087,70 +2149,6 @@
       "zh": {
         "headline": "屏山屏葵路校巴撞單車 女騎手一度昏迷送院",
         "dek": "周五下午約4時50分，一輛校巴由青山公路轉入屏葵路時撞倒一名騎單車過路的40多歲女子，傷者一度昏迷，送屯門醫院治理。"
-      }
-    },
-    {
-      "id": "2026-09-11-dental-internship-graduates",
-      "published_at": "2026-09-11T17:22:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "government",
-        "education"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-dental-internship-graduates.json",
-      "en": {
-        "headline": "First cohort of dental interns completes year; 46 join Department of Health",
-        "dek": "Of 74 local graduates who finished the mandatory 12-month programme, about 62 percent will take up posts in the public dental service, the Department of Health said."
-      },
-      "zh": {
-        "headline": "首屆牙科實習計劃74人完成 46人加入衞生署",
-        "dek": "約六成二畢業生選擇加入公營牙科服務，新一屆78名應屆生已於本月展開實習。"
-      }
-    },
-    {
-      "id": "2026-09-11-hang-seng-fifth-day-close",
-      "published_at": "2026-09-11T17:21:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "markets",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-hang-seng-fifth-day-close.json",
-      "en": {
-        "headline": "Hang Seng closes down 148 points, extending five-day slide",
-        "dek": "The benchmark finished at 24,805 on Friday on turnover of HK$228.43 billion, taking the weekly loss to about 3.3 percent amid rate concerns and thinner volumes."
-      },
-      "zh": {
-        "headline": "恒指收報24805點跌148點 連跌五日全周累跌約3.3%",
-        "dek": "周五成交228.43億元，科技指數及國企指數同步偏軟，內地滬指跌逾1%。"
-      }
-    },
-    {
-      "id": "2026-09-11-sham-shui-po-scaffolding-fatality",
-      "published_at": "2026-09-11T17:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "industrial",
-        "safety",
-        "sham-shui-po"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-sham-shui-po-scaffolding-fatality.json",
-      "en": {
-        "headline": "Scaffolding worker dies after falling with dog-arm boom in Sham Shui Po",
-        "dek": "A man in his 50s fell from rooftop scaffolding at Yu Chau Street on Friday morning and was certified dead at Caritas Medical Centre; the Labour Department is investigating."
-      },
-      "zh": {
-        "headline": "深水埗搭棚工連狗臂架墮下身亡 勞工處調查",
-        "dek": "一名約50歲男工今早在汝州街唐樓天台棚架工作時連同狗臂架墮下，送明愛醫院後不治，勞工處正調查事故原因。"
       }
     }
   ]
