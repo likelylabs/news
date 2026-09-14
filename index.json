@@ -1,8 +1,111 @@
 {
-  "generated_at": "2026-09-14T07:07:01+08:00",
+  "generated_at": "2026-09-14T09:29:06+08:00",
   "live_window_hours": 72,
-  "count": 103,
+  "count": 98,
   "articles": [
+    {
+      "id": "2026-09-14-lifestyle-anne-imhof-house-of-swans",
+      "published_at": "2026-09-14T09:36:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "exhibition",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-lifestyle-anne-imhof-house-of-swans.json",
+      "en": {
+        "headline": "Tai Kwun to open Anne Imhof’s first Asia solo on 25 September",
+        "dek": "House of Swans runs to 3 January 2027 at JC Contemporary, with Hong Kong Ballet performances in the galleries and tickets from HK$50."
+      },
+      "zh": {
+        "headline": "大館下月25日呈獻Anne Imhof亞洲首個大型個展",
+        "dek": "《House of Swans》由9月25日至明年1月3日在JC Contemporary展出，香港莎蕾舞團將於展場演出，門票50港元起。"
+      }
+    },
+    {
+      "id": "2026-09-14-fsd-new-breathing-apparatus",
+      "published_at": "2026-09-14T09:35:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "fire",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-fsd-new-breathing-apparatus.json",
+      "en": {
+        "headline": "Fire Services rolls out new breathing sets with 10-second cylinder change",
+        "dek": "The department said new quick couplings, a shared-air rescue link and mask radios are being issued force-wide this year."
+      },
+      "zh": {
+        "headline": "消防全面換新呼吸器 換氣樽可在10秒內完成",
+        "dek": "消防處今年全面更換新一代呼吸器，引入快速接頭、互連供氣及面罩通話裝置，並在訓練場加設活動間隔。"
+      }
+    },
+    {
+      "id": "2026-09-14-cuhk-pmos-offspring-study",
+      "published_at": "2026-09-14T09:34:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-cuhk-pmos-offspring-study.json",
+      "en": {
+        "headline": "CUHK study links PMOS in mothers to higher risks in children",
+        "dek": "Daughters of women with polyendocrine metabolic ovarian syndrome had 3.6 times the rate of menstrual disorders, researchers said."
+      },
+      "zh": {
+        "headline": "中大研究：PMOS患者子女內分泌代謝風險較高",
+        "dek": "中大醫學院研究指，多內分泌代謝性卵巢綜合症患者的女兒月經失調比率達對照組3.6倍，兒子高血壓及代謝綜合症風險亦較高。"
+      }
+    },
+    {
+      "id": "2026-09-14-zhipu-share-placement-convertible-bonds",
+      "published_at": "2026-09-14T09:33:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "finance",
+        "technology"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-zhipu-share-placement-convertible-bonds.json",
+      "en": {
+        "headline": "Zhipu plans HK$39.3 billion share placing and convertible bonds",
+        "dek": "The Hong Kong-listed AI firm said a discounted H-share placing and zero-coupon convertible bonds would raise about HK$39.3 billion net."
+      },
+      "zh": {
+        "headline": "智譜配股兼發可換股債 合共集資約393億元",
+        "dek": "港股上市人工智能公司智譜公布，折讓配售新H股及發行零息可換股債券，預期合共淨籌約392.7億港元。"
+      }
+    },
+    {
+      "id": "2026-09-14-hk-women-rugby-brazil-wxv",
+      "published_at": "2026-09-14T09:32:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "kai-tak"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-hk-women-rugby-brazil-wxv.json",
+      "en": {
+        "headline": "Hong Kong women beat Brazil 29-24 with last-play penalty try",
+        "dek": "Hong Kong China won their WXV Global Series Challenger opener at Kai Tak Youth Sports Ground after a penalty try in the final play."
+      },
+      "zh": {
+        "headline": "港隊女欖末陣罰球達陣 29比24挫巴西",
+        "dek": "中國香港女子十五人欖球隊周日在啟德青年運動場揭幕戰末陣獲判罰球達陣，29比24擊敗巴西。"
+      }
+    },
     {
       "id": "2026-09-14-lifestyle-wears-hk-final-day",
       "published_at": "2026-09-14T07:11:00+08:00",
@@ -2001,216 +2104,6 @@
       "zh": {
         "headline": "支聯會案鄒幸彤判囚7年3個月 李卓人7年",
         "dek": "西九龍法院周五就煼動顛覆國家政權罪判刑，何俊仁囚5年2個月，已解散的支聯會罰款150萬元，須三個月內繳清。"
-      }
-    },
-    {
-      "id": "2026-09-11-lifestyle-cavalluna-kai-tak",
-      "published_at": "2026-09-11T09:20:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-lifestyle-cavalluna-kai-tak.json",
-      "en": {
-        "headline": "CAVALLUNA plays its last Hong Kong dates this weekend at Kai Tak",
-        "dek": "The European equestrian theatre production, making its Asian debut, has remaining performances through Sunday at Kai Tak Arena, with tickets from HK$395."
-      },
-      "zh": {
-        "headline": "歐洲馬術劇場CAVALLUNA本周末在啟德上演最後場次",
-        "dek": "亞洲首站餘下場次今晚至周日在啟德體藝館舉行，普通票由395元起，由香港賽馬會呈獻。"
-      }
-    },
-    {
-      "id": "2026-09-11-lifestyle-flockfest-pmq",
-      "published_at": "2026-09-11T09:19:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "community",
-        "events",
-        "food"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-lifestyle-flockfest-pmq.json",
-      "en": {
-        "headline": "Black Kite stages three-day craft beer festival at PMQ from tonight",
-        "dek": "FLOCKFEST runs in the Central courtyard through Sunday with eight Hong Kong and Japanese breweries, local food stalls and indie sets; admission is free."
-      },
-      "zh": {
-        "headline": "黑鴛今晚起在元創方辦三日精釀啤酒節",
-        "dek": "FLOCKFEST今晚至周日在中環PMQ地面廣場舉行，八間港日酒廠、本地小食及獨立音樂演出，免費入場。"
-      }
-    },
-    {
-      "id": "2026-09-11-midland-home-price-forecast",
-      "published_at": "2026-09-11T09:18:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "property"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-midland-home-price-forecast.json",
-      "en": {
-        "headline": "Midland forecasts 15 percent rise in Hong Kong home prices this year",
-        "dek": "The agency said first-hand deals rebounded in August and expects primary transactions to jump 50 percent in the final quarter as buyers return."
-      },
-      "zh": {
-        "headline": "美聯料今年樓價升15% 仍低於2021年高位一成六",
-        "dek": "代理周四簡報指8月一手成交回升至1,100宗，預期第四季一手成交按季升五成，二手升一成。"
-      }
-    },
-    {
-      "id": "2026-09-11-sfc-cloudbreak-ipo-suspension",
-      "published_at": "2026-09-11T09:17:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "finance",
-        "markets"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-sfc-cloudbreak-ipo-suspension.json",
-      "en": {
-        "headline": "SFC suspends Cloudbreak Pharma shares over suspected IPO rigging",
-        "dek": "The regulator directed the exchange to halt trading from 9am on Thursday, saying it has serious concerns the 2025 listing may have created an artificial impression of demand."
-      },
-      "zh": {
-        "headline": "證監會勒令撥康視雲停牌 指IPO或涉人為操縱需求",
-        "dek": "證監會周四上午9時起指示聯交所暫停02592股份買賣，指對去年上市或被操縱以營造需求假象表示嚴重關注。"
-      }
-    },
-    {
-      "id": "2026-09-11-tuen-mun-road-seven-vehicle-crash",
-      "published_at": "2026-09-11T09:16:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "traffic",
-        "tuen-mun"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-tuen-mun-road-seven-vehicle-crash.json",
-      "en": {
-        "headline": "Seven vehicles collide on Tuen Mun Road near Hong King Garden",
-        "dek": "Police were called at 7.21am to the Kowloon-bound carriageway; three drivers were sent to hospital and the Transport Department closed some lanes."
-      },
-      "zh": {
-        "headline": "屯門公路近豪景花園7車相撞 3司機送院",
-        "dek": "警方早上7時21分接報往九龍方向近豪景花園發生連環相撞，運輸署封閉部分行車線，上址交通繁忙。"
-      }
-    },
-    {
-      "id": "2026-09-11-lifestyle-mplus-herzog-de-meuron",
-      "published_at": "2026-09-11T07:12:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "arts",
-        "exhibition",
-        "west-kowloon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-lifestyle-mplus-herzog-de-meuron.json",
-      "en": {
-        "headline": "M+ opens Herzog & de Meuron show for museum’s fifth anniversary",
-        "dek": "Models, drawings and material samples from the Swiss firm that designed the West Kowloon building go on view in the Focus Gallery from Saturday until 10 January."
-      },
-      "zh": {
-        "headline": "M+五周年展出Herzog & de Meuron中國項目捐贈",
-        "dek": "由設計西九大樓的瑞士事務所捐出的模型、繪圖及物料樣本，周六起於二樓焦點空間展出至明年1月10日。"
-      }
-    },
-    {
-      "id": "2026-09-11-civil-service-graduate-recruitment",
-      "published_at": "2026-09-11T07:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-civil-service-graduate-recruitment.json",
-      "en": {
-        "headline": "Government opens 179 graduate-grade civil service posts on Saturday",
-        "dek": "Applications for Administrative Officer, Executive Officer II and four other degree grades run online until 11.59pm on 2 October, with a joint exam on 5 December."
-      },
-      "zh": {
-        "headline": "六個學位職系周六起聯招 合共179個空缺",
-        "dek": "政務主任、二級行政主任等職位周六起接受網上申請，截止10月2日晚上11時59分，聯合招聘考試定於12月5日舉行。"
-      }
-    },
-    {
-      "id": "2026-09-11-wong-tai-sin-hospital-flu-cluster",
-      "published_at": "2026-09-11T07:10:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "influenza",
-        "hospital"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-wong-tai-sin-hospital-flu-cluster.json",
-      "en": {
-        "headline": "Eight patients and two staff test positive for influenza A at Wong Tai Sin Hospital",
-        "dek": "The Hospital Authority said the cluster spans a chest ward and an infirmary ward; the patients are in isolation and stable, and the two staff members are on leave."
-      },
-      "zh": {
-        "headline": "黃大仙醫院兩病房爆甲流群組 8病人2職員確診",
-        "dek": "醫管局指胸肺科及療養病房共十人對甲型流感呈陽性，病人隔離治療情況穩定，兩名職員正休假。"
-      }
-    },
-    {
-      "id": "2026-09-11-lam-hang-chi-death",
-      "published_at": "2026-09-11T07:09:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "media"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-lam-hang-chi-death.json",
-      "en": {
-        "headline": "Hong Kong Economic Journal founder Lam Hang-chi dies at 86",
-        "dek": "The newspaper said Lam Shan-muk, who wrote under the pen name Lam Hang-chi, died on 6 September; Richard Li called him a respected figure in the city’s press."
-      },
-      "zh": {
-        "headline": "《信報》創辦人林行止逝世 享年86歲",
-        "dek": "報社周四公布，原名林山木的林行止於9月6日在家人陪同下離世；電訊盈科主席李澤楷發聲明致哀。"
-      }
-    },
-    {
-      "id": "2026-09-11-kowloon-station-taxi-crash",
-      "published_at": "2026-09-11T07:08:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "traffic",
-        "kowloon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-kowloon-station-taxi-crash.json",
-      "en": {
-        "headline": "Taxi driver trapped after hitting works vehicle near Kowloon Station",
-        "dek": "An empty taxi struck the rear of a parked cherry-picker on Austin Road West shortly after midnight; the 60-year-old driver was freed with minor injuries and sent to hospital."
-      },
-      "zh": {
-        "headline": "九龍站圓方對開的士撞工程車 60歲司機一度被困",
-        "dek": "空載的士周五凌晨在雅翔道天橋撞向停泊工程車車尾，的士車頭嚴重損毀，司機清醒送廣華醫院，工程車司機及工人無羞。"
       }
     }
   ]
