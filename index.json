@@ -1,8 +1,69 @@
 {
-  "generated_at": "2026-09-15T07:06:36+08:00",
+  "generated_at": "2026-09-15T07:08:13+08:00",
   "live_window_hours": 72,
-  "count": 98,
+  "count": 101,
   "articles": [
+    {
+      "id": "2026-09-15-lifestyle-yuen-long-lantern-street",
+      "published_at": "2026-09-15T07:09:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "culture"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-lifestyle-yuen-long-lantern-street.json",
+      "en": {
+        "headline": "Yuen Long market lane hangs handmade lanterns ahead of Mid-Autumn",
+        "dek": "The incense shop Koon Heung Hong again lines a passage inside Tai Kiu Market with hand-tied lanterns in the weeks before the festival on 25 September."
+      },
+      "zh": {
+        "headline": "中秋將至 元朗大橋街市再掛手紮燈籠",
+        "dek": "大橋街市內香燭店冠香行按年在巷內掛起手紮燈籠，中秋正日為9月25日，翌日為公眾假期。"
+      }
+    },
+    {
+      "id": "2026-09-15-chuk-yuen-south-drugs",
+      "published_at": "2026-09-15T07:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-chuk-yuen-south-drugs.json",
+      "en": {
+        "headline": "Man, 66, arrested over HK$210,000 of drugs at Chuk Yuen South",
+        "dek": "Police seized suspected cocaine and ice from a man and a flat at Sau Yuen House; he is due in Kowloon City Magistrates' Courts on Wednesday."
+      },
+      "zh": {
+        "headline": "竹園南部檢值21萬毒品 66歲男子涉販毒被捕",
+        "dek": "秀茂坪警區人員周一晚在秀園樓外及單位內檢獲懸疑可卡因及冰毒，案件周三早上在九龍城裁判法院提堂。"
+      }
+    },
+    {
+      "id": "2026-09-15-mong-kok-fairlaw-dens",
+      "published_at": "2026-09-15T07:07:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-mong-kok-fairlaw-dens.json",
+      "en": {
+        "headline": "Two men arrested in Mong Kok anti-drug operations",
+        "dek": "Police say a commercial unit on Dundas Street was used as a drug den and a street stop later yielded suspected drugs worth about HK$13,000."
+      },
+      "zh": {
+        "headline": "旺角商廈單位涉毒窟 警拘兩男檢1.3萬元毒品",
+        "dek": "旺角反三合會行動組周一展開「明法」行動，在登打士街商廈拘捕39歲男子；同日在街上截查再拘51歲男子。"
+      }
+    },
     {
       "id": "2026-09-15-lung-hang-crash-drugs",
       "published_at": "2026-09-15T07:06:00+08:00",
