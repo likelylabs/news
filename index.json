@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-09-14T19:03:41+08:00",
+  "generated_at": "2026-09-14T21:32:07+08:00",
   "live_window_hours": 72,
-  "count": 101,
+  "count": 99,
   "articles": [
+    {
+      "id": "2026-09-14-lifestyle-westk-picnic-fest",
+      "published_at": "2026-09-14T21:31:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-lifestyle-westk-picnic-fest.json",
+      "en": {
+        "headline": "West Kowloon Picnic Fest opens on Art Park lawn from 18 September",
+        "dek": "The new autumn series runs on selected weekends and public holidays until 11 October, with food stalls, workshops, live music and a bike-and-picnic pass."
+      },
+      "zh": {
+        "headline": "西九野餐節9月18日起於藝術公園海濱草坪舉行",
+        "dek": "活動逢周末及公眾假期至10月11日，設美食市集、工作坊、現場表演及單車野餐套票。"
+      }
+    },
+    {
+      "id": "2026-09-14-1991-sham-shui-po-defendant-dies",
+      "published_at": "2026-09-14T21:30:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-1991-sham-shui-po-defendant-dies.json",
+      "en": {
+        "headline": "Remand prisoner in 1991 Sham Shui Po murder case dies after collapsing in court cells",
+        "dek": "The 62-year-old man, who had late-stage lung cancer, was found unconscious during a High Court hearing and later certified dead in hospital; a death inquest will follow."
+      },
+      "zh": {
+        "headline": "1991年深水埗劫殺案被告羈留室昏迷送院不治",
+        "dek": "62歲患肺癌還押男犯周一在高等法院應訊期間昏倒，下午證實死亡，死因庭將研訊。"
+      }
+    },
+    {
+      "id": "2026-09-14-monkeypox-case-31yo",
+      "published_at": "2026-09-14T21:29:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "mpox"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-monkeypox-case-31yo.json",
+      "en": {
+        "headline": "31-year-old man confirmed with mpox after high-risk contacts in Hong Kong and abroad",
+        "dek": "The patient is stable in isolation at Princess Margaret Hospital; the Centre for Health Protection is tracing contacts and has recorded 20 cases so far this year."
+      },
+      "zh": {
+        "headline": "31歲男子確診猴痘 潛伏期內外地及本港有高風險接觸",
+        "dek": "患者情況穩定，在瑪嘉烈醫院隔離治療；今年累計20宗個案，防護中心正追蹤接觸者。"
+      }
+    },
+    {
+      "id": "2026-09-14-iphone-fraud-reports-1209",
+      "published_at": "2026-09-14T21:28:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-iphone-fraud-reports-1209.json",
+      "en": {
+        "headline": "Police receive 1,209 reports of unauthorised iPhone pre-orders worth HK$25 million",
+        "dek": "The figure has risen from more than 700 reports and HK$14.7 million disclosed a day earlier; orders have not been shipped and banks and Apple are cancelling transactions."
+      },
+      "zh": {
+        "headline": "警方接獲1209人報案疑盜卡預購iPhone 涉款約2500萬元",
+        "dek": "數字由前晚逾700宗、1470萬元上升；涉案訂單尚未出貨，警方已交銀行及蘋果公司取消交易。"
+      }
+    },
     {
       "id": "2026-09-14-gni-q2-2026",
       "published_at": "2026-09-14T19:07:00+08:00",
@@ -2019,136 +2101,6 @@
       "zh": {
         "headline": "落馬洲馬草壟斜坡鐵通滾落 兩工人受傷直升機送院",
         "dek": "周五下午近馬草壟勘探工地，一紥約800公斤鐵通滾落斜坡擊傷兩名工人，傷者清醒由直升機送往東區醫院。"
-      }
-    },
-    {
-      "id": "2026-09-11-lifestyle-hong-kong-park-mid-autumn-moon",
-      "published_at": "2026-09-11T21:14:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events",
-        "mid-autumn"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-lifestyle-hong-kong-park-mid-autumn-moon.json",
-      "en": {
-        "headline": "Hong Kong Park lights up with giant moon for Mid-Autumn",
-        "dek": "A large illuminated moon installation with hanging planets and star lights is now on display in the Central park each evening, free to visit."
-      },
-      "zh": {
-        "headline": "香港公園中秋巨型月亮裝置亮燈",
-        "dek": "中環香港公園現設太空主題中秋裝置，巨型月亮配吊掛行星及星光，每晚約6時起亮燈，免費入場。"
-      }
-    },
-    {
-      "id": "2026-09-11-fehd-mark-six-theft-probe",
-      "published_at": "2026-09-11T21:12:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "fehd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-fehd-mark-six-theft-probe.json",
-      "en": {
-        "headline": "Police investigate alleged Mark Six prize dispute among FEHD staff",
-        "dek": "A 36-year-old health inspector is wanted after colleagues reported that a shared winning ticket from last Saturday’s jackpot was not divided as agreed."
-      },
-      "zh": {
-        "headline": "食環署職員夾份中六合彩 衛生督察疑拒平分被通緝",
-        "dek": "據報15名活化街市組人員合資中半注頭獎逾三千萬元，負責買票的36歲衛生督察疑拒平分後失蹤，警方列盜竊通緝。"
-      }
-    },
-    {
-      "id": "2026-09-11-ho-man-tin-private-car-pedestrian-crash",
-      "published_at": "2026-09-11T21:10:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "traffic",
-        "police",
-        "ho-man-tin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-ho-man-tin-private-car-pedestrian-crash.json",
-      "en": {
-        "headline": "Private car mounts pavement in Ho Man Tin; three pedestrians hurt",
-        "dek": "A probationary-licence private car left Chung Hau Street near Carmel Secondary School on Friday afternoon, striking three pedestrians who were taken to Queen Elizabeth Hospital."
-      },
-      "zh": {
-        "headline": "何文田私家車剷上行人路 三途人受傷送院",
-        "dek": "周五下午近6時，一輛掛P牌私家車在忠孝街近迦密中學失控上行人路，撞傷一男兩女，全部清醒送伊利沙伯醫院。"
-      }
-    },
-    {
-      "id": "2026-09-11-lifestyle-victoria-park-mid-autumn-lantern",
-      "published_at": "2026-09-11T19:27:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events",
-        "mid-autumn"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-lifestyle-victoria-park-mid-autumn-lantern.json",
-      "en": {
-        "headline": "Victoria Park Mid-Autumn Lantern Carnival opens next Thursday",
-        "dek": "The Leisure and Cultural Services Department display runs from 17 to 27 September, with lighting from 6.30pm to 11pm and an extended midnight close on Mid-Autumn night."
-      },
-      "zh": {
-        "headline": "維園中秋綵燈會下周四起開放",
-        "dek": "康文署綵燈會於9月17至27日舉行，每晚6時半至11時亮燈，中秋夜延長至午夜，免費入場。"
-      }
-    },
-    {
-      "id": "2026-09-11-dengue-imported-cases-sep11",
-      "published_at": "2026-09-11T19:26:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "dengue",
-        "chp"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-dengue-imported-cases-sep11.json",
-      "en": {
-        "headline": "Three more imported dengue cases recorded; yearly total reaches 31",
-        "dek": "The Centre for Health Protection said two of the latest patients had travelled to the Philippines and one to the Chinese Mainland and Vietnam during the incubation period."
-      },
-      "zh": {
-        "headline": "新增3宗外地傳入登革熱 今年累計31宗",
-        "dek": "衞生防護中心公布，9月4日至10日錄得3宗輸入個案，兩名病人潛伏期內到過菲律賓，另一人到過內地及越南。"
-      }
-    },
-    {
-      "id": "2026-09-11-ping-shan-school-bus-cyclist-crash",
-      "published_at": "2026-09-11T19:25:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "traffic",
-        "yuen-long",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-ping-shan-school-bus-cyclist-crash.json",
-      "en": {
-        "headline": "School bus hits cyclist in Ping Shan; woman in 40s hospitalised",
-        "dek": "A female cyclist was knocked unconscious after being struck by a school bus turning into Ping Kwai Road on Friday afternoon and was taken to Tuen Mun Hospital."
-      },
-      "zh": {
-        "headline": "屏山屏葵路校巴撞單車 女騎手一度昏迷送院",
-        "dek": "周五下午約4時50分，一輛校巴由青山公路轉入屏葵路時撞倒一名騎單車過路的40多歲女子，傷者一度昏迷，送屯門醫院治理。"
       }
     }
   ]
