@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-14T19:03:41+08:00",
+  "updated_at": "2026-09-14T21:32:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "iphone-fraud-reports-update-sep14",
+      "id": "2026-09-14-iphone-fraud-reports-1209",
+      "first_seen": "2026-09-14T21:28:00+08:00",
+      "headline_en": "Police receive 1,209 reports of unauthorised iPhone pre-orders worth HK$25 million"
+    },
+    {
+      "key": "monkeypox-case-31yo-sep14",
+      "id": "2026-09-14-monkeypox-case-31yo",
+      "first_seen": "2026-09-14T21:29:00+08:00",
+      "headline_en": "31-year-old man confirmed with mpox after high-risk contacts in Hong Kong and abroad"
+    },
+    {
+      "key": "1991-sham-shui-po-defendant-dies-sep14",
+      "id": "2026-09-14-1991-sham-shui-po-defendant-dies",
+      "first_seen": "2026-09-14T21:30:00+08:00",
+      "headline_en": "Remand prisoner in 1991 Sham Shui Po murder case dies after collapsing in court cells"
+    },
+    {
+      "key": "lifestyle-westk-picnic-fest-2026",
+      "id": "2026-09-14-lifestyle-westk-picnic-fest",
+      "first_seen": "2026-09-14T21:31:00+08:00",
+      "headline_en": "West Kowloon Picnic Fest opens on Art Park lawn from 18 September"
+    },
     {
       "key": "thunderstorm-warning-sep14-evening",
       "id": "2026-09-14-thunderstorm-warning-evening",
