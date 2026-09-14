@@ -1,0 +1,27 @@
+{
+  "id": "2026-09-14-thunderstorm-warning-evening",
+  "published_at": "2026-09-14T19:05:00+08:00",
+  "category": "weather",
+  "tags": ["weather", "hko", "thunderstorm"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "thunderstorm-warning-sep14-evening",
+  "en": {
+    "headline": "Observatory issues Thunderstorm Warning until 9pm",
+    "dek": "The warning was issued at 6:30pm as a thunderstorm area northeast of Hong Kong moved closer, with a few squally thunderstorms expected.",
+    "body": [
+      "The Hong Kong Observatory issued a Thunderstorm Warning at 6:30pm on Monday, valid until 9pm, after earlier special weather tips noted a rain area approaching from the northeast.",
+      "The Observatory said a few squally thunderstorms were expected over Hong Kong. Members of the public were advised to seek shelter if outdoors, leave the water and avoid high ground or conductive objects.",
+      "Temperatures at 6pm stood at about 28 degrees with relative humidity around 83 per cent. Earlier Thunderstorm Warnings issued in the morning had been cancelled after extensions into the early afternoon."
+    ]
+  },
+  "zh": {
+    "headline": "天文台傍晚發出雷暴警告 有效至晚上9時",
+    "dek": "天文台下午6時30分發出雷暴警告，預料香港有幾陣狂風雷暴，有效時間至晚上9時正。",
+    "body": [
+      "天文台周一傍晚6時30分發出雷暴警告，有效時間至晚上9時，早前特別天氣提示指本港東北面雷雨區正逐漸靠近。",
+      "天文台表示，預料香港有幾陣狂風雷暴。市民如身處室外應到安全地方躲避，離開水面，切勿站立於高地或接近導電物體。",
+      "下午6時天文台錄得氣溫約28度，相對濕度約83%。早上發出的雷暴警告經延長至下午後已取消。"
+    ]
+  }
+}

@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-14T17:16:31+08:00",
+  "updated_at": "2026-09-14T19:08:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "thunderstorm-warning-sep14-evening",
+      "id": "2026-09-14-thunderstorm-warning-evening",
+      "first_seen": "2026-09-14T19:05:00+08:00",
+      "headline_en": "Observatory issues Thunderstorm Warning until 9pm"
+    },
+    {
+      "key": "sei-chun-hing-unlawful-sex-conviction-sep14",
+      "id": "2026-09-14-sei-chun-hing-conviction",
+      "first_seen": "2026-09-14T19:06:00+08:00",
+      "headline_en": "Yuen Long district councillor convicted of unlawful sex with underage girl"
+    },
+    {
+      "key": "gni-q2-2026-sep14",
+      "id": "2026-09-14-gni-q2-2026",
+      "first_seen": "2026-09-14T19:07:00+08:00",
+      "headline_en": "Hong Kong GNI rises 7.9 per cent to $966.1 billion in second quarter"
+    },
     {
       "key": "lei-tung-two-men-dead-sep14",
       "id": "2026-09-14-lei-tung-two-men-dead",
