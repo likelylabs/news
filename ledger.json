@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-09-14T13:09:26+08:00",
+  "updated_at": "2026-09-14T17:19:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lei-tung-two-men-dead-sep14",
+      "id": "2026-09-14-lei-tung-two-men-dead",
+      "first_seen": "2026-09-14T17:15:00+08:00",
+      "headline_en": "Two men found dead in Lei Tung Estate flat after odour report"
+    },
+    {
+      "key": "flu-high-medical-association-sep14",
+      "id": "2026-09-14-flu-high-vaccination-urge",
+      "first_seen": "2026-09-14T17:16:00+08:00",
+      "headline_en": "Medical Association says flu activity remains high, urges early vaccination"
+    },
+    {
+      "key": "consumer-council-bogo-supermarket-sep14",
+      "id": "2026-09-14-consumer-council-bogo-survey",
+      "first_seen": "2026-09-14T17:17:00+08:00",
+      "headline_en": "Consumer Council finds some supermarket multi-buy deals offer little or no saving"
+    },
+    {
+      "key": "stephen-curry-tuen-mun-visit-sep14",
+      "id": "2026-09-14-stephen-curry-tuen-mun-school",
+      "first_seen": "2026-09-14T17:18:00+08:00",
+      "headline_en": "Stephen Curry visits Tuen Mun school on first Hong Kong trip in a decade"
+    },
+    {
+      "key": "multicultural-job-fair-sep16-17",
+      "id": "2026-09-14-multicultural-job-fair",
+      "first_seen": "2026-09-14T17:19:00+08:00",
+      "headline_en": "Labour Department job fair offers over 2,200 vacancies for ethnic minorities"
+    },
     {
       "key": "thunderstorm-warning-sep14-extended",
       "id": "2026-09-14-thunderstorm-warning-extended",
