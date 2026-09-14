@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-14T21:32:06+08:00",
+  "updated_at": "2026-09-14T23:17:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "severe-flu-17yo-sep14",
+      "id": "2026-09-14-severe-flu-17yo",
+      "first_seen": "2026-09-14T23:15:00+08:00",
+      "headline_en": "17-year-old boy in intensive care with influenza A and septic shock"
+    },
+    {
+      "key": "school-admission-scam-arrest-sep14",
+      "id": "2026-09-14-school-admission-scam-arrest",
+      "first_seen": "2026-09-14T23:16:00+08:00",
+      "headline_en": "Man arrested over alleged HK$2.84 million school placement scam"
+    },
     {
       "key": "iphone-fraud-reports-update-sep14",
       "id": "2026-09-14-iphone-fraud-reports-1209",
