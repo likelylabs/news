@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-09-14T11:08:30+08:00",
+  "generated_at": "2026-09-14T13:09:26+08:00",
   "live_window_hours": 72,
-  "count": 104,
+  "count": 103,
   "articles": [
+    {
+      "id": "2026-09-14-deloitte-retail-sales-forecast",
+      "published_at": "2026-09-14T13:09:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "retail"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-deloitte-retail-sales-forecast.json",
+      "en": {
+        "headline": "Deloitte lifts Hong Kong 2026 retail sales forecast to HK$412 billion",
+        "dek": "The firm now expects full-year growth of 8.4 per cent after a stronger-than-expected first half driven by high-value goods and visitor spending."
+      },
+      "zh": {
+        "headline": "德勤上調本港今年零售銷售預測至4120億元",
+        "dek": "上半年銷售約2030億元按年升9.7%，德勤料全年增長8.4%，高價值貨品及旅客消費帶動。"
+      }
+    },
+    {
+      "id": "2026-09-14-consumer-council-sanitary-pads",
+      "published_at": "2026-09-14T13:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "consumer"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-consumer-council-sanitary-pads.json",
+      "en": {
+        "headline": "Consumer Council finds wide variation in sanitary pad absorbency",
+        "dek": "One of 36 winged pads tested took 73 seconds to absorb simulated fluid, exceeding the mainland recommended standard of 60 seconds; five samples had moisture content above 10 per cent."
+      },
+      "zh": {
+        "headline": "消委會測試衞生巾吸收速度參差 一款超國家標準",
+        "dek": "36款有翼衞生巾樣本中，16款10秒內吸完試液，一款需73秒超出內地標準不多於60秒；5款水分含量高於10%。"
+      }
+    },
+    {
+      "id": "2026-09-14-sau-mau-ping-taxi-pedestrian",
+      "published_at": "2026-09-14T13:07:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "accident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-sau-mau-ping-taxi-pedestrian.json",
+      "en": {
+        "headline": "Pedestrian hit by taxi in Sau Mau Ping, semi-conscious in hospital",
+        "dek": "A man was struck near Po Tat Estate on Po Lam Road at about 9:51am and was taken to Queen Elizabeth Hospital; police are investigating whether a red light was involved."
+      },
+      "zh": {
+        "headline": "秀茂坪男途人捱的士撞 半昏迷送院",
+        "dek": "周一上午約9時51分，一名男子在寶琳路寶達邨對開過馬路時被的士撞倒，頭傷半昏迷送伊利沙伯醫院，警方調查是否有人衝燈。"
+      }
+    },
+    {
+      "id": "2026-09-14-thunderstorm-warning-extended",
+      "published_at": "2026-09-14T13:06:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-thunderstorm-warning-extended.json",
+      "en": {
+        "headline": "Thunderstorm Warning extended until 1:45pm",
+        "dek": "The Observatory prolonged the warning issued at 9:50am as isolated thunderstorms continued to affect Hong Kong, with heavier rain possible in some areas."
+      },
+      "zh": {
+        "headline": "雷暴警告延長至下午1時45分",
+        "dek": "天文台上午9時50分發出的雷暴警告延長至下午1時45分，預料香港有局部地區雷暴，部分地區雨勢較大。"
+      }
+    },
     {
       "id": "2026-09-14-lifestyle-ankoma-causeway-bay",
       "published_at": "2026-09-14T11:13:00+08:00",
@@ -2121,109 +2201,6 @@
       "zh": {
         "headline": "周末風勢較大 部分地區有驟雨及雷暴",
         "dek": "天文台預料南海中部低壓區與東北季候風共同影響，周六下午起至周日廣東沿岸風勢較大，間中有驟雨及狂風雷暴，並有湧浪。"
-      }
-    },
-    {
-      "id": "2026-09-11-lifestyle-lee-tung-mid-autumn",
-      "published_at": "2026-09-11T11:30:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-lifestyle-lee-tung-mid-autumn.json",
-      "en": {
-        "headline": "Lee Tung Street lantern walk adds weekend Mid-Autumn markets",
-        "dek": "More than 800 lanterns are already up on the 200-metre Wan Chai stretch; themed stalls run on Saturday and Sunday this weekend and the next."
-      },
-      "zh": {
-        "headline": "利東街中秋燈籠展加開周末市集",
-        "dek": "灣仔利東街200米林蔭道掛出逾800盎燈籠至10月19日，本周末及下周末設中秋主題攤檔，中秋夜有LED火龍表演。"
-      }
-    },
-    {
-      "id": "2026-09-11-kennedy-town-seawall-grade2",
-      "published_at": "2026-09-11T11:29:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-kennedy-town-seawall-grade2.json",
-      "en": {
-        "headline": "Kennedy Town New Praya seawall proposed as Grade 2 historic structure",
-        "dek": "The Antiquities Advisory Board endorsed the grading for the 19th-century granite wall as the government plans a new waterfront boardwalk."
-      },
-      "zh": {
-        "headline": "堅彌地城新海旁海堤擬列二級歷史建築",
-        "dek": "古諮會通過擬議評級，海濱事務委員會主席何文堯稱新板道會離開海堤，方便從不同距離觀看。"
-      }
-    },
-    {
-      "id": "2026-09-11-hang-seng-fifth-day-drop",
-      "published_at": "2026-09-11T11:28:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "markets",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-hang-seng-fifth-day-drop.json",
-      "en": {
-        "headline": "Hang Seng extends losing streak into a fifth session",
-        "dek": "The benchmark was down about 319 points, or 1.3 percent, in late morning trade, with technology and property shares leading the retreat."
-      },
-      "zh": {
-        "headline": "恒指連跌第五日 午前跌約319點",
-        "dek": "恒生指數周五上午10時34分報24,635點，跌318點或1.28%，科技股及地產分類指數較弱。"
-      }
-    },
-    {
-      "id": "2026-09-11-tobacco-plain-packaging-gazette",
-      "published_at": "2026-09-11T11:27:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-tobacco-plain-packaging-gazette.json",
-      "en": {
-        "headline": "Plain cigarette packs gazetted, in force from March 2027",
-        "dek": "Standard brown packaging, new graphic warnings and digital duty stamps will apply after a nine-month transition, the Tobacco and Alcohol Control Office said."
-      },
-      "zh": {
-        "headline": "統一煙包設計今日刊憲 明年3月起分階段實施",
-        "dek": "傳統煙包須改暗吮色及指定字體，取消焦油尼古丁標示，並更新圖像忠告及加貼完稅防偽標籤，12月全面實施。"
-      }
-    },
-    {
-      "id": "2026-09-11-alliance-incitement-sentencing",
-      "published_at": "2026-09-11T11:26:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "courts",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-alliance-incitement-sentencing.json",
-      "en": {
-        "headline": "Alliance leaders jailed for up to seven years three months",
-        "dek": "A designated national security court sitting at West Kowloon sentenced Chow Hang-tung, Lee Cheuk-yan and Albert Ho on Friday and fined the dissolved group HK$1.5 million."
-      },
-      "zh": {
-        "headline": "支聯會案鄒幸彤判囚7年3個月 李卓人7年",
-        "dek": "西九龍法院周五就煼動顛覆國家政權罪判刑，何俊仁囚5年2個月，已解散的支聯會罰款150萬元，須三個月內繳清。"
       }
     }
   ]
