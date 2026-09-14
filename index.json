@@ -1,8 +1,128 @@
 {
-  "generated_at": "2026-09-14T09:29:37+08:00",
+  "generated_at": "2026-09-14T11:07:56+08:00",
   "live_window_hours": 72,
-  "count": 98,
+  "count": 104,
   "articles": [
+    {
+      "id": "2026-09-14-lifestyle-ankoma-causeway-bay",
+      "published_at": "2026-09-14T11:13:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "culture"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-lifestyle-ankoma-causeway-bay.json",
+      "en": {
+        "headline": "Ankôma opens Causeway Bay dining room after leaving TST",
+        "dek": "Chef Frankie Wong’s French-Japanese restaurant has moved to Cubus on Hoi Ping Road, with a mid-September tasting menu and seats from 6:30pm."
+      },
+      "zh": {
+        "headline": "Ankôma遷入銅鑼灣CUBUS 中九月推新嚐味餐單",
+        "dek": "主廚黃師傅的法日餐廳結束尖沙嘴主廚餐桌後，新址設於開平道1號CUBUS 16樓，晚上6時半起供應晚餐。"
+      }
+    },
+    {
+      "id": "2026-09-14-tai-po-hospital-music-dementia",
+      "published_at": "2026-09-14T11:12:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-tai-po-hospital-music-dementia.json",
+      "en": {
+        "headline": "Tai Po Hospital playlists cut agitation for dementia patients",
+        "dek": "A year-long ward programme found 17 of 72 patients needed less on-demand medication after nurses played familiar songs."
+      },
+      "zh": {
+        "headline": "大埔醫院為認知障礙患者播舊歌 17人可減用藥",
+        "dek": "內科及老人科「樂在『耆』中」計劃一年惠及72名住院患者，院方稱逾六成躁動評分下降，17人可減少必要時用藥。"
+      }
+    },
+    {
+      "id": "2026-09-14-mong-kok-ebike-hit-run-court",
+      "published_at": "2026-09-14T11:11:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-mong-kok-ebike-hit-run-court.json",
+      "en": {
+        "headline": "Man faces six charges after e-bike hits boy in Mong Kok",
+        "dek": "Police said a 35-year-old was due to appear in Kowloon City Magistrates’ Courts on Monday over a Friday collision that injured a 10-year-old."
+      },
+      "zh": {
+        "headline": "旺角電動單車撞傷男童逃逸 男子涉6罪提堂",
+        "dek": "警方表示，一名35歲男子周一在九龍城裁判法院提堂，案件源於上周五旺角一輛電動單車撞傷10歲男童後不顧而去。"
+      }
+    },
+    {
+      "id": "2026-09-14-princess-road-car-overturn",
+      "published_at": "2026-09-14T11:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-princess-road-car-overturn.json",
+      "en": {
+        "headline": "Private car flips on Princess Road near PolyU; driver slightly hurt",
+        "dek": "The Transport Department closed all Kowloon Tong-bound lanes near Hong Kong Polytechnic University after the Monday morning crash."
+      },
+      "zh": {
+        "headline": "公主道近理大私家車撞欄翻轉 往九龍塘全線封閉",
+        "dek": "周一早上約8時20分，一輛私家車在紅磡公主道近香港理工大學失控撞欄翻轉，男司機輕傷自行爬出，運輸署封閉往九龍塘方向全線。"
+      }
+    },
+    {
+      "id": "2026-09-14-lee-five-year-plan-essay",
+      "published_at": "2026-09-14T11:09:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-lee-five-year-plan-essay.json",
+      "en": {
+        "headline": "Lee says five-year plan will keep Hong Kong’s capitalist system",
+        "dek": "In a newspaper essay ahead of Wednesday’s Policy Address, the chief executive said the city’s first five-year plan would not change its legal or economic system."
+      },
+      "zh": {
+        "headline": "李家超：五年規劃堅持香港法治及資本主義制度",
+        "dek": "行政長官周一在報章撰文，指本周三公布的香港首個五年規劃會堅持法治、資本主義制度及「一國兩制」不變形、不走樣。"
+      }
+    },
+    {
+      "id": "2026-09-14-thunderstorm-warning-morning",
+      "published_at": "2026-09-14T11:08:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-thunderstorm-warning-morning.json",
+      "en": {
+        "headline": "Observatory issues Thunderstorm Warning until 11:45am",
+        "dek": "Isolated thunderstorms were expected over New Territories East, Hong Kong Island and Kowloon after the warning was issued at 9:50am on Monday."
+      },
+      "zh": {
+        "headline": "天文台發出雷暴警告 有效至上午11時45分",
+        "dek": "天文台周一上午9時50分發出雷暴警告，預料新界東部、香港島及九龍有局部地區雷暴，警告有效至上午11時45分。"
+      }
+    },
     {
       "id": "2026-09-14-lifestyle-anne-imhof-house-of-swans",
       "published_at": "2026-09-14T09:36:00+08:00",
