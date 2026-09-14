@@ -1,8 +1,108 @@
 {
-  "generated_at": "2026-09-14T13:09:26+08:00",
+  "generated_at": "2026-09-14T17:16:31+08:00",
   "live_window_hours": 72,
-  "count": 103,
+  "count": 101,
   "articles": [
+    {
+      "id": "2026-09-14-multicultural-job-fair",
+      "published_at": "2026-09-14T17:19:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "employment"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-multicultural-job-fair.json",
+      "en": {
+        "headline": "Labour Department job fair offers over 2,200 vacancies for ethnic minorities",
+        "dek": "The two-day event at MacPherson Stadium in Mong Kok on 16 and 17 September is free and includes on-the-spot interviews for a wide range of roles."
+      },
+      "zh": {
+        "headline": "勞工處招聘會提供逾二千二百職位 便利少數族裔求職",
+        "dek": "周三及周四於旺角麥花臣場館舉行，約五十間機構參與，大部分為全職，月薪介乎1.2萬至2.4萬元，入場免費。"
+      }
+    },
+    {
+      "id": "2026-09-14-stephen-curry-tuen-mun-school",
+      "published_at": "2026-09-14T17:18:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-stephen-curry-tuen-mun-school.json",
+      "en": {
+        "headline": "Stephen Curry visits Tuen Mun school on first Hong Kong trip in a decade",
+        "dek": "The four-time NBA champion spoke with students at Shun Tak Fraternal Association Leung Kau Kui College and later appeared at a Li-Ning store in Tsim Sha Tsui."
+      },
+      "zh": {
+        "headline": "Stephen Curry十年後再訪港 到屯門中學與學生交流",
+        "dek": "四屆NBA總冠軍周一到訪順德聯誼總會梁銶琚中學，其後在尖沙嘴李寧專門店亮相，吸引大批球迷。"
+      }
+    },
+    {
+      "id": "2026-09-14-consumer-council-bogo-survey",
+      "published_at": "2026-09-14T17:17:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "consumer"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-consumer-council-bogo-survey.json",
+      "en": {
+        "headline": "Consumer Council finds some supermarket multi-buy deals offer little or no saving",
+        "dek": "A survey of 222 products at AEON, ParknShop and Wellcome showed that single-item prices during some ‘buy one get one free’ promotions were higher than in non-promotional periods."
+      },
+      "zh": {
+        "headline": "消委會：超市買一送一未必抵 部分實際無折扣",
+        "dek": "調查AEON、百佳及惠康222件貨品，發現部分多買優惠期間單件售價高於非促銷時段，實際折扣遠低於五折。"
+      }
+    },
+    {
+      "id": "2026-09-14-flu-high-vaccination-urge",
+      "published_at": "2026-09-14T17:16:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "flu"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-flu-high-vaccination-urge.json",
+      "en": {
+        "headline": "Medical Association says flu activity remains high, urges early vaccination",
+        "dek": "Hong Kong has been in the influenza season since late June; the 2026-27 vaccination programme starts on Thursday and the association advises people to get the shot ahead of any further rise."
+      },
+      "zh": {
+        "headline": "醫學會：流感活躍度仍高 籲盡早接種疫苗",
+        "dek": "本港自6月底進入流感季節，活躍程度維持高水平，2026至27年度接種計劃周四展開，醫學會呼籲市民盡早打針。"
+      }
+    },
+    {
+      "id": "2026-09-14-lei-tung-two-men-dead",
+      "published_at": "2026-09-14T17:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-lei-tung-two-men-dead.json",
+      "en": {
+        "headline": "Two men found dead in Lei Tung Estate flat after odour report",
+        "dek": "Security staff at Tung Yip House alerted police around 2:30pm; firefighters forced entry and paramedics confirmed both deaths at the scene."
+      },
+      "zh": {
+        "headline": "鴨脷洲利東邨單位傳異味 破門揭兩男倒斃",
+        "dek": "東業樓保安下午約2時半報案，消防破門入屋發現兩名男子倒斃，救護員證實死亡，警方封鎖現場調查。"
+      }
+    },
     {
       "id": "2026-09-14-deloitte-retail-sales-forecast",
       "published_at": "2026-09-14T13:09:00+08:00",
@@ -2051,156 +2151,6 @@
       "zh": {
         "headline": "深水埗搭棚工連狗臂架墮下身亡 勞工處調查",
         "dek": "一名約50歲男工今早在汝州街唐樓天台棚架工作時連同狗臂架墮下，送明愛醫院後不治，勞工處正調查事故原因。"
-      }
-    },
-    {
-      "id": "2026-09-11-meta-ai-hong-kong-launch",
-      "published_at": "2026-09-11T15:08:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "ai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-meta-ai-hong-kong-launch.json",
-      "en": {
-        "headline": "Meta AI rolls out in Hong Kong with Cantonese support",
-        "dek": "The chatbot is available via its dedicated app and website from Friday, with integration into Facebook, Instagram, Threads and WhatsApp to follow."
-      },
-      "zh": {
-        "headline": "Meta AI正式登陸香港 支援廣東話及本地文化",
-        "dek": "今日起可透過專屬應用及網站使用，稍後將陸續加入Facebook、Instagram、Threads及WhatsApp。"
-      }
-    },
-    {
-      "id": "2026-09-11-sc-marathon-2027-registration",
-      "published_at": "2026-09-11T15:07:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "community",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-sc-marathon-2027-registration.json",
-      "en": {
-        "headline": "Standard Chartered Hong Kong Marathon 2027 public ballot opens",
-        "dek": "Public registration for the January 17 race began at 2pm on Friday, with total main-event places raised to a record 78,000."
-      },
-      "zh": {
-        "headline": "渣打香港馬拉松2027公眾抽籤報名今午開始",
-        "dek": "主賽事總名額增至歷來最高的78,000個，公眾報名今日下午2時起至9月20日晚上7時截止。"
-      }
-    },
-    {
-      "id": "2026-09-11-yuen-long-water-main-burst",
-      "published_at": "2026-09-11T15:06:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "traffic",
-        "water",
-        "yuen-long"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-yuen-long-water-main-burst.json",
-      "en": {
-        "headline": "Water main bursts near Tai Tong Road Light Rail stop in Yuen Long",
-        "dek": "Muddy water flooded part of Castle Peak Road and a pavement on Friday morning, prompting temporary lane closures while the Water Supplies Department carried out emergency repairs."
-      },
-      "zh": {
-        "headline": "元朗青山公路近大棠路輕鐵站水管爆裂 部分行車線封閉",
-        "dek": "今早約7時許大量黃泥水湧出行人路及馬路，水務署關掣搶修，運輸署封閉往錦田方向部分行車線。"
-      }
-    },
-    {
-      "id": "2026-09-11-chai-wan-elderly-van-crash",
-      "published_at": "2026-09-11T15:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "transport",
-        "traffic",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-chai-wan-elderly-van-crash.json",
-      "en": {
-        "headline": "Driver arrested after light goods vehicle hits 92-year-old woman in Chai Wan",
-        "dek": "Police charged a 35-year-old man with dangerous driving causing grievous bodily harm after the vehicle struck a pedestrian near Fung Wah Estate on Friday morning."
-      },
-      "zh": {
-        "headline": "柴灣客貨車撞倒92歲老婦 司機涉危駕致他人身體嚴重受傷被捕",
-        "dek": "警方指今早11時許峰霞道近翡翠道交界發生意外，35歲本地男司機涉嫌危險駕駛引致他人身體嚴重受傷被捕。"
-      }
-    },
-    {
-      "id": "2026-09-11-yuen-kee-food-ipo-hearing",
-      "published_at": "2026-09-11T13:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "ipo",
-        "markets",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-yuen-kee-food-ipo-hearing.json",
-      "en": {
-        "headline": "Yuen Kee Food clears HKEX hearing, eyes October listing",
-        "dek": "The dumpling-chain operator is preparing to raise between HK$300 million and HK$400 million, according to people familiar with the matter, after completing three funding rounds."
-      },
-      "zh": {
-        "headline": "袁記雲餃通過港交所聆訊 擬10月上市集資3至4億",
-        "dek": "知情人士指，餃子連鎖品牌母公司已通過上市聆訊，擬於10月展開招股，集資額視乎估值及需求而定。"
-      }
-    },
-    {
-      "id": "2026-09-11-tsuen-wan-lorry-dangerous-driving",
-      "published_at": "2026-09-11T13:19:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "transport",
-        "traffic",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-tsuen-wan-lorry-dangerous-driving.json",
-      "en": {
-        "headline": "Driver charged after lorry nearly hits three schoolgirls in Tsuen Wan",
-        "dek": "Police arrested a 43-year-old man within hours of a dashcam video showing a medium goods vehicle apparently running a red light at a pedestrian crossing on Kwok Shui Road."
-      },
-      "zh": {
-        "headline": "荃灣貨車衝燈險撞三女學生 43歲司機涉危駕被捕",
-        "dek": "警方留意到網上短片後迅速調查，昨晚拘捕一名43歲本地男司機，控以一項危險駕駛罪，9月25日在沙田裁判法院提堂。"
-      }
-    },
-    {
-      "id": "2026-09-11-weekend-weather-outlook",
-      "published_at": "2026-09-11T13:18:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "forecast",
-        "weekend"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-weekend-weather-outlook.json",
-      "en": {
-        "headline": "Weekend brings stronger winds, showers and thunderstorms",
-        "dek": "The Observatory expects a broader low-pressure area over the South China Sea to combine with the northeast monsoon, producing windier conditions and more showers from Saturday afternoon into Sunday."
-      },
-      "zh": {
-        "headline": "周末風勢較大 部分地區有驟雨及雷暴",
-        "dek": "天文台預料南海中部低壓區與東北季候風共同影響，周六下午起至周日廣東沿岸風勢較大，間中有驟雨及狂風雷暴，並有湧浪。"
       }
     }
   ]
