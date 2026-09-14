@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-09-15T01:06:33+08:00",
+  "generated_at": "2026-09-15T07:06:36+08:00",
   "live_window_hours": 72,
-  "count": 101,
+  "count": 98,
   "articles": [
+    {
+      "id": "2026-09-15-lung-hang-crash-drugs",
+      "published_at": "2026-09-15T07:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-lung-hang-crash-drugs.json",
+      "en": {
+        "headline": "Sha Tin driver arrested after crash and false robbery report",
+        "dek": "Police say a 37-year-old man crashed into a barrier at Lung Hang Estate, fled, then claimed he had been robbed; officers found suspected drugs in the car."
+      },
+      "zh": {
+        "headline": "沙田隆亨部私家車撞閘 司機報假劫案兼藏毒被捕",
+        "dek": "警方指37歲男子在榮心樓外撞欄後逃走，其後報稱遭3人行劫，調查後認為與事實不符，並在車內檢獲懸疑毒品。"
+      }
+    },
+    {
+      "id": "2026-09-15-thunderstorm-warning-morning",
+      "published_at": "2026-09-15T07:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "thunderstorm"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-thunderstorm-warning-morning.json",
+      "en": {
+        "headline": "Observatory issues Thunderstorm Warning until 7.30am",
+        "dek": "The warning was issued at 4.42am after overnight thunderstorms; isolated storms are still expected at first before a hot, partly sunny day."
+      },
+      "zh": {
+        "headline": "天文台清晨再發雷暴警告 有效至上午7時30分",
+        "dek": "天文台周二上午4時42分發出雷暴警告，有效至7時30分，預料本港初時仍有局部地區雷暴。"
+      }
+    },
     {
       "id": "2026-09-15-thunderstorm-warning-overnight",
       "published_at": "2026-09-15T01:12:00+08:00",
@@ -2029,117 +2070,6 @@
       "zh": {
         "headline": "規劃署暫緩西貢狗舍執法 中止期限延至12月12日",
         "dek": "西貢蠅涌大藍湖路狗舍被指在自然保育區作動物寄養屬違例發展，署方因應規劃申請將強制執行通知書期限延長三個月。"
-      }
-    },
-    {
-      "id": "2026-09-12-lifestyle-tko-dopamine-dessert-festival",
-      "published_at": "2026-09-12T03:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "tseung-kwan-o",
-        "festival",
-        "mid-autumn"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-lifestyle-tko-dopamine-dessert-festival.json",
-      "en": {
-        "headline": "Tseung Kwan O Park Central hosts Dopamine Dessert Festival this weekend",
-        "dek": "More than 20 popular local dessert shops gather at the mall on 12 and 13 September offering cheesecakes, mochi, cinnamon rolls and other sweets ahead of Mid-Autumn."
-      },
-      "zh": {
-        "headline": "將軍澳中心本周末辦多巴胺甜品節 逾20店齊集",
-        "dek": "9月12至13日於將軍澳中心舉行，雲集手工巴斯克芝士蛋糕、豆腐麻糬、肉桂捲等人氣甜品，為中秋預熱。"
-      }
-    },
-    {
-      "id": "2026-09-12-ma-on-shan-heng-on-couple-death",
-      "published_at": "2026-09-12T03:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "ma-on-shan",
-        "death"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-ma-on-shan-heng-on-couple-death.json",
-      "en": {
-        "headline": "Elderly couple found dead in Ma On Shan flat; police treat case as non-suspicious",
-        "dek": "Firefighters forced entry to a unit at Heng On Estate after neighbours reported a foul smell; the pair, both in their 70s, are believed to have had underlying health conditions."
-      },
-      "zh": {
-        "headline": "馬鞍山恆安邨揭雙屍案 七旬夫婦倒斃單位 警指無可疑",
-        "dek": "鄰居發現單位傳出異味報警，消防破門發現一對約70多歲夫婦遺體，初步相信無刑事成分，死因有待驗屍確定。"
-      }
-    },
-    {
-      "id": "2026-09-12-lifestyle-hkdi-leslie-cheung-exhibition",
-      "published_at": "2026-09-12T01:24:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "exhibition",
-        "leslie-cheung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-lifestyle-hkdi-leslie-cheung-exhibition.json",
-      "en": {
-        "headline": "HKDI opens Leslie Cheung memorial exhibition with rarely seen photographs",
-        "dek": "The free show at Hong Kong Design Institute runs until 15 November and features previously unpublished images from the 1980s and 1990s by local and Korean photographers."
-      },
-      "zh": {
-        "headline": "知專辦張國榮紀念展 首度公開八九十年代珍藏照片",
-        "dek": "「風華70・設計共鳴 哥哥紀念展」即日至11月15日於將軍澳香港知專設計學院免費開放，展出本地及韓國攝影師珍藏影像。"
-      }
-    },
-    {
-      "id": "2026-09-12-customs-cannabis-airport-sep11",
-      "published_at": "2026-09-12T01:22:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "customs",
-        "drugs",
-        "airport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-customs-cannabis-airport-sep11.json",
-      "en": {
-        "headline": "Customs seizes 7.5 kg cannabis buds at airport; Mainland woman arrested",
-        "dek": "Officers found the suspected drugs, valued at about HK$1.5 million, inside the check-in baggage of a 31-year-old passenger who arrived from Bangkok via Taiwan on Friday."
-      },
-      "zh": {
-        "headline": "海關機場檢7.5公斤大麻花拘內地女子 市值約150萬元",
-        "dek": "一名31歲內地女旅客周五從曼谷經台灣抵港，寄艙行李藏懷疑大麻花被檢獲，她隨即被捕。"
-      }
-    },
-    {
-      "id": "2026-09-12-fehd-mark-six-theft-arrest",
-      "published_at": "2026-09-12T01:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "fehd",
-        "mark-six"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-fehd-mark-six-theft-arrest.json",
-      "en": {
-        "headline": "Police arrest 36-year-old over disputed Mark Six jackpot among FEHD staff",
-        "dek": "A health inspector is detained on suspicion of theft after colleagues alleged he refused to share a half first-division prize of more than HK$30 million from last Saturday’s draw."
-      },
-      "zh": {
-        "headline": "食環署職員夾份中六合彩逾三千萬 警拘36歲男子涉盜竊",
-        "dek": "據報15名街市活化組人員合資中半注頭獎，負責買票的衞生督察疑拒平分後被拘捕，現正扣留調查。"
       }
     }
   ]
