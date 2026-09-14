@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-09-14T21:32:07+08:00",
+  "generated_at": "2026-09-14T23:17:34+08:00",
   "live_window_hours": 72,
-  "count": 99,
+  "count": 98,
   "articles": [
+    {
+      "id": "2026-09-14-school-admission-scam-arrest",
+      "published_at": "2026-09-14T23:16:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-school-admission-scam-arrest.json",
+      "en": {
+        "headline": "Man arrested over alleged HK$2.84 million school placement scam",
+        "dek": "Police say a 51-year-old businessman claimed he could secure places at a North Point secondary school and later university entry for dozens of students."
+      },
+      "zh": {
+        "headline": "訛稱提供學額保送大學 男子涉騙284萬元機場被捕",
+        "dek": "警方指51歲商人聲稱可提供蘇浙公學學額及保證入讀港澳大學，收受內地升學顧問約284萬元。"
+      }
+    },
+    {
+      "id": "2026-09-14-severe-flu-17yo",
+      "published_at": "2026-09-14T23:15:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "flu"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-14/2026-09-14-severe-flu-17yo.json",
+      "en": {
+        "headline": "17-year-old boy in intensive care with influenza A and septic shock",
+        "dek": "The Centre for Health Protection recorded a severe paediatric case; the patient is stable after treatment and the centre urges vaccination as the new programme starts on Thursday."
+      },
+      "zh": {
+        "headline": "17歲少年甲型流感併發敗血性休克 深切治療部留醫",
+        "dek": "衞生防護中心錄得一宗兒童嚴重流感個案，患者情況已轉趨穩定；中心呼籲周四起盡快接種季節性流感疫苗。"
+      }
+    },
     {
       "id": "2026-09-14-lifestyle-westk-picnic-fest",
       "published_at": "2026-09-14T21:31:00+08:00",
@@ -2036,71 +2077,6 @@
       "zh": {
         "headline": "食環署職員夾份中六合彩逾三千萬 警拘36歲男子涉盜竊",
         "dek": "據報15名街市活化組人員合資中半注頭獎，負責買票的衞生督察疑拒平分後被拘捕，現正扣留調查。"
-      }
-    },
-    {
-      "id": "2026-09-11-equestrian-asian-games-squad",
-      "published_at": "2026-09-11T23:16:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-games",
-        "equestrian"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-equestrian-asian-games-squad.json",
-      "en": {
-        "headline": "Hong Kong names 11-strong equestrian squad for Asian Games",
-        "dek": "The team will compete in dressage, eventing and jumping at the Tokyo venue, mixing experienced riders with three debutants."
-      },
-      "zh": {
-        "headline": "港隊公布亞運馬術11人名單 涵蓋三項賽事",
-        "dek": "香港中國馬術總會公布亞運馬術代表隊，將於東京場地出戰盛裝舞步、三日賽及場地障礙賽。"
-      }
-    },
-    {
-      "id": "2026-09-11-silver-bond-allotment-sep11",
-      "published_at": "2026-09-11T23:14:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "finance",
-        "government",
-        "bonds"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-silver-bond-allotment-sep11.json",
-      "en": {
-        "headline": "Silver Bond allotment hits records; up to 13 lots per investor",
-        "dek": "The government received 476,703 applications totalling HK$119.3 billion for the 11th batch, and raised the final issuance to HK$55 billion."
-      },
-      "zh": {
-        "headline": "第11批銀債配發結果出爐 最多可獲13手",
-        "dek": "政府公布認購申請476,703份、總額1,193億元均創紀錄，最終發行額加至550億元。"
-      }
-    },
-    {
-      "id": "2026-09-11-ma-tso-lung-iron-tubes-accident",
-      "published_at": "2026-09-11T23:12:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "industrial",
-        "safety",
-        "labour",
-        "lok-ma-chau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-11/2026-09-11-ma-tso-lung-iron-tubes-accident.json",
-      "en": {
-        "headline": "Two workers injured as 800kg iron tubes roll down slope in Ma Tso Lung",
-        "dek": "A female and a male worker were struck by a bundle of iron tubes during site investigation works near Lok Ma Chau on Friday afternoon and airlifted to hospital."
-      },
-      "zh": {
-        "headline": "落馬洲馬草壟斜坡鐵通滾落 兩工人受傷直升機送院",
-        "dek": "周五下午近馬草壟勘探工地，一紥約800公斤鐵通滾落斜坡擊傷兩名工人，傷者清醒由直升機送往東區醫院。"
       }
     }
   ]
