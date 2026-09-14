@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-14T23:17:34+08:00",
+  "updated_at": "2026-09-15T01:12:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "wong-tai-sin-flu-cluster-update-sep14",
+      "id": "2026-09-15-wong-tai-sin-flu-cluster-update",
+      "first_seen": "2026-09-15T01:10:00+08:00",
+      "headline_en": "Wong Tai Sin Hospital flu cluster grows by 14 cases; three elderly men die"
+    },
+    {
+      "key": "pwh-redevelopment-site-fire-sep14",
+      "id": "2026-09-15-pwh-site-fire",
+      "first_seen": "2026-09-15T01:11:00+08:00",
+      "headline_en": "Smoke from container office at Prince of Wales Hospital redevelopment site; no injuries"
+    },
+    {
+      "key": "thunderstorm-warning-sep14-overnight",
+      "id": "2026-09-15-thunderstorm-warning-overnight",
+      "first_seen": "2026-09-15T01:12:00+08:00",
+      "headline_en": "Thunderstorm Warning extended until midnight Tuesday"
+    },
     {
       "key": "severe-flu-17yo-sep14",
       "id": "2026-09-14-severe-flu-17yo",
