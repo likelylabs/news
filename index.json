@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-09-14T23:17:34+08:00",
+  "generated_at": "2026-09-15T01:06:33+08:00",
   "live_window_hours": 72,
-  "count": 98,
+  "count": 101,
   "articles": [
+    {
+      "id": "2026-09-15-thunderstorm-warning-overnight",
+      "published_at": "2026-09-15T01:12:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "thunderstorm"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-thunderstorm-warning-overnight.json",
+      "en": {
+        "headline": "Thunderstorm Warning extended until midnight Tuesday",
+        "dek": "The Observatory prolonged the warning first issued at 6.30pm Monday, saying isolated thunderstorms are still expected over Hong Kong."
+      },
+      "zh": {
+        "headline": "雷暴警告延長至周二午夜",
+        "dek": "天文台周一傍晚6時30分發出的雷暴警告延長有效至周二午夜12時，預料本港仍有局部地區雷暴。"
+      }
+    },
+    {
+      "id": "2026-09-15-pwh-site-fire",
+      "published_at": "2026-09-15T01:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "fire",
+        "hospital"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-pwh-site-fire.json",
+      "en": {
+        "headline": "Smoke from container office at Prince of Wales Hospital redevelopment site; no injuries",
+        "dek": "Firefighters raised the alarm to No. 2 after thick smoke was reported from a worksite container office in Sha Tin around 9.47pm; the blaze was under control within half an hour."
+      },
+      "zh": {
+        "headline": "威爾斯親王醫院重建地盤貨櫃辦公室冒濃煙 無人受傷",
+        "dek": "周一晚約9時47分沙田威院重建地盤有濃煙冒出，消防由一級改列二級火警，出動煙帽隊開喉灌救，約半小時後停止動員，初步無人受傷。"
+      }
+    },
+    {
+      "id": "2026-09-15-wong-tai-sin-flu-cluster-update",
+      "published_at": "2026-09-15T01:10:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "flu",
+        "hospital"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-wong-tai-sin-flu-cluster-update.json",
+      "en": {
+        "headline": "Wong Tai Sin Hospital flu cluster grows by 14 cases; three elderly men die",
+        "dek": "Hospital Authority says six more male patients in the chest ward, seven female patients in the convalescent ward and one staff member tested positive for influenza A; three men aged 81 to 95 with serious underlying…"
+      },
+      "zh": {
+        "headline": "黃大仙醫院甲流群組再增14人 3名有嚴重疾病男病人離世",
+        "dek": "醫管局指胸肺科病房再有6名男病人、療養病房7名女病人及1名職員確診甲型流感，其中3名81至95歲男病人因嚴重自身疾病離世，其餘情況穩定。"
+      }
+    },
     {
       "id": "2026-09-14-school-admission-scam-arrest",
       "published_at": "2026-09-14T23:16:00+08:00",
