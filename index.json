@@ -1,8 +1,107 @@
 {
-  "generated_at": "2026-09-15T09:09:53+08:00",
+  "generated_at": "2026-09-15T11:15:17+08:00",
   "live_window_hours": 72,
-  "count": 101,
+  "count": 99,
   "articles": [
+    {
+      "id": "2026-09-15-lifestyle-yuen-long-dunhuang-murals",
+      "published_at": "2026-09-15T11:16:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-lifestyle-yuen-long-dunhuang-murals.json",
+      "en": {
+        "headline": "Dunhuang mural panels open at Yuen Long Theatre from today",
+        "dek": "A free LCSD touring display of Sui and Tang scenes copied from cave murals runs at the theatre until 29 September before moving to Central Library."
+      },
+      "zh": {
+        "headline": "敦煌石窟壁畫巡展今起在元朗劇院展出至月底",
+        "dek": "康文署與弘揚中華文化辦公室、敦煌研究院合辦的免費巡迴展覽，以圖板重現隋唐生活場景，其後轉往中央圖書館。"
+      }
+    },
+    {
+      "id": "2026-09-15-shau-kei-wan-indecent-assault",
+      "published_at": "2026-09-15T11:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-shau-kei-wan-indecent-assault.json",
+      "en": {
+        "headline": "Man, 29, arrested after alleged street assault in Shau Kei Wan",
+        "dek": "Police say a woman reported being grabbed around the neck and indecently assaulted in Nam On Lane just after 1am; she did not need hospital treatment."
+      },
+      "zh": {
+        "headline": "箏箕灣南安里女子報稱遭箍頸非禮 警拘29歲男子",
+        "dek": "警方指凌晨1時05分接獲34歲女子報案，指在南安里被男子箍頸後懷疑被觸碰胸部，事主毋須送院。"
+      }
+    },
+    {
+      "id": "2026-09-15-national-day-golden-week-prep",
+      "published_at": "2026-09-15T11:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-national-day-golden-week-prep.json",
+      "en": {
+        "headline": "Lee says government will crack down on forced shopping in Golden Week",
+        "dek": "Cross-department meetings, a Security Bureau incident centre and extra staff at popular sites are planned for the National Day holiday rush."
+      },
+      "zh": {
+        "headline": "李家超：國慶黃金周嚴打強迫購物 跨部門統籌口岸及景點",
+        "dek": "特首指政務司司長及文體旅局將開跨部門會議，保安局黃金周會啟動緊急事故監察及支援中心，旅發局亦設網上專頁。"
+      }
+    },
+    {
+      "id": "2026-09-15-five-year-plan-covers",
+      "published_at": "2026-09-15T11:13:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-five-year-plan-covers.json",
+      "en": {
+        "headline": "Lee shows blue Five-Year Plan cover ahead of Wednesday release",
+        "dek": "Hong Kong's first Five-Year Plan and the 2026 Policy Address will be issued together on 16 September, with a two-volume summary prepared for the public."
+      },
+      "zh": {
+        "headline": "李家超展示五年規劃藍色封面 施政報告周三一併發表",
+        "dek": "特首指《香港第一個五年規劃》封面用藍色，代表開放、進步和穩重；施政報告沿用綠色，兩份文件全文合共約十萬字。"
+      }
+    },
+    {
+      "id": "2026-09-15-queen-mary-hospital-lifts-lee",
+      "published_at": "2026-09-15T11:12:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "hospital"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-queen-mary-hospital-lifts-lee.json",
+      "en": {
+        "headline": "Lee orders one-month probe into Queen Mary Hospital lift faults",
+        "dek": "The chief executive said contractors, subcontractors and, if involved, government staff would be held to account after lifts in the new clinical block failed to work properly."
+      },
+      "zh": {
+        "headline": "李家超下令一個月內查清瑪麗醫院新樓升降機問題",
+        "dek": "特首出席行政會議前表示，必須盡快糾正新臨床大樓升降機未能有效運作的問題，並追究承建商、分判商及如涉及的政府人員責任。"
+      }
+    },
     {
       "id": "2026-09-15-lifestyle-cultural-centre-mid-autumn-lights",
       "published_at": "2026-09-15T09:19:00+08:00",
@@ -1980,153 +2079,6 @@
       "zh": {
         "headline": "清水灣二灘八旬女泳客遇溺不治",
         "dek": "周六早上救生員在離岸約5米處救起昏迷泳客，送將軍澳醫院後證實死亡。"
-      }
-    },
-    {
-      "id": "2026-09-12-lifestyle-peking-opera-cultural-centre",
-      "published_at": "2026-09-12T10:31:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "theatre"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-lifestyle-peking-opera-cultural-centre.json",
-      "en": {
-        "headline": "Peking opera series continues at Cultural Centre this weekend",
-        "dek": "A youth staging of Sizhou Tanmu plays on Saturday, with a gala including Battle of Ma Chao scheduled on Sunday at the Grand Theatre."
-      },
-      "zh": {
-        "headline": "京劇系列本周末續在文化中心上演",
-        "dek": "「香江國粹情」周五揭幕，周六演青春版《四郎探母》，周日演唱會以武戲《戰馬超》開場。"
-      }
-    },
-    {
-      "id": "2026-09-12-nt-south-ragingstorm-arrests",
-      "published_at": "2026-09-12T10:30:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-nt-south-ragingstorm-arrests.json",
-      "en": {
-        "headline": "Police arrest 51 in New Territories South anti-crime sweep",
-        "dek": "Operation Ragingstorm over Friday and Saturday targeted bars, game centres and vehicles across Sha Tin, Kwai Tsing, Tsuen Wan, Lantau and the airport district."
-      },
-      "zh": {
-        "headline": "新界南「熾風」反罪惡行動拘51人",
-        "dek": "警方於9月11至12日在沙田、葺青、荃灣、大嶼山及機場一帶設路障並巡查酒吧機舖，涉嫌罪行包括危駕及賭博。"
-      }
-    },
-    {
-      "id": "2026-09-12-police-college-passing-out",
-      "published_at": "2026-09-12T10:29:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "community",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-police-college-passing-out.json",
-      "en": {
-        "headline": "Police College passing-out parade graduates 127 officers",
-        "dek": "Seventeen probationary inspectors and 110 constables completed training on Saturday, with Deputy Commissioner Kan Kai-yan taking the salute."
-      },
-      "zh": {
-        "headline": "警察學院結業會操 127名督察學警畢業",
-        "dek": "周六有17名見習督察及110名警員結業，由警務處副處長（國家安全）簡啟恩擔任檢閱官。"
-      }
-    },
-    {
-      "id": "2026-09-12-fehd-mark-six-theft-bail",
-      "published_at": "2026-09-12T10:28:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "fehd",
-        "mark-six"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-fehd-mark-six-theft-bail.json",
-      "en": {
-        "headline": "Man arrested over FEHD Mark Six dispute released on bail",
-        "dek": "Police said the 36-year-old detained on suspicion of theft after a prize-sharing row among colleagues must report back in mid-October."
-      },
-      "zh": {
-        "headline": "食環職員六合彩糾紛案男子獲准保釋",
-        "dek": "警方表示，周五因涉嫌盜竊被捕的36歲男子已獲准保釋候查，須於10月中旬向警方報到。"
-      }
-    },
-    {
-      "id": "2026-09-12-lifestyle-gruffalo-hkapa-final",
-      "published_at": "2026-09-12T09:34:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "family",
-        "theatre"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-lifestyle-gruffalo-hkapa-final.json",
-      "en": {
-        "headline": "The Gruffalo plays its last Hong Kong dates this weekend",
-        "dek": "The 60-minute English-language stage show, based on the picture book, continues at the Hong Kong Academy for Performing Arts through Sunday."
-      },
-      "zh": {
-        "headline": "音樂劇《古飛樂》本周末演藝學院煞科",
-        "dek": "改編自繪本的一小時英語演出，周六及周日在灣仔香港演藝學院廖湯慧靈戲劇院尚有場次。"
-      }
-    },
-    {
-      "id": "2026-09-12-repulse-bay-burglary",
-      "published_at": "2026-09-12T09:33:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-repulse-bay-burglary.json",
-      "en": {
-        "headline": "Watches and cash taken in Repulse Bay Road burglary",
-        "dek": "A 25-year-old woman reported a bedroom window forced open on Friday night; police said three watches worth about HK$437,000 and about RMB20,000 were missing."
-      },
-      "zh": {
-        "headline": "淺水灣道單位遭爆竊 失約44萬元手錶及人民幣",
-        "dek": "25歲女子周五深夜報案，指睡房窗戶被撬、屋內有搜掠痕迹；警方初步點算失3隻手錶及約2萬元人民幣，暫未有人被捕。"
-      }
-    },
-    {
-      "id": "2026-09-12-beauty-fitness-cooling-off",
-      "published_at": "2026-09-12T09:32:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "government",
-        "consumer"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-beauty-fitness-cooling-off.json",
-      "en": {
-        "headline": "Beauty and fitness trades back seven-day cooling-off, Yau says",
-        "dek": "The commerce chief told RTHK the government hopes to put an amendment to the Trade Descriptions Ordinance before the Legislative Council in the first half of next year."
-      },
-      "zh": {
-        "headline": "丘應樺：美容健身業界支持7日冷靜期",
-        "dek": "商經局局長在港台《星期六問責》表示，完成研究後希望明年上半年把修訂《商品說明條例》的方案提交立法會。"
       }
     }
   ]
