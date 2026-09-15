@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-15T15:16:26+08:00",
+  "updated_at": "2026-09-15T16:32:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "kwun-tong-road-salt-water-burst-sep15",
+      "id": "2026-09-15-kwun-tong-road-salt-water-burst",
+      "first_seen": "2026-09-15T16:30:00+08:00",
+      "headline_en": "Salt-water main bursts on Kwun Tong Road, slow lane closed for repair"
+    },
+    {
+      "key": "manpowergroup-q4-employment-outlook-2026",
+      "id": "2026-09-15-manpowergroup-q4-hiring-outlook",
+      "first_seen": "2026-09-15T16:32:00+08:00",
+      "headline_en": "Employers’ hiring outlook rebounds to +14pc for fourth quarter"
+    },
     {
       "key": "lei-tung-brothers-bodies-sep14",
       "id": "2026-09-15-lei-tung-brothers-bodies",
