@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-15T17:17:41+08:00",
+  "updated_at": "2026-09-15T19:20:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "mpox-case-sep15-2026",
+      "id": "2026-09-15-mpox-case-sep15",
+      "first_seen": "2026-09-15T19:18:00+08:00",
+      "headline_en": "CHP investigates new Mpox case involving 27-year-old man"
+    },
+    {
+      "key": "drug-abuse-stats-h1-2026",
+      "id": "2026-09-15-drug-abuse-h1-2026",
+      "first_seen": "2026-09-15T19:19:00+08:00",
+      "headline_en": "Reported drug abusers fall 9pc in first half of 2026"
+    },
+    {
+      "key": "lcsd-asian-games-focal-sites-2026",
+      "id": "2026-09-15-lcsd-asian-games-focal-sites",
+      "first_seen": "2026-09-15T19:20:00+08:00",
+      "headline_en": "LCSD sets up Asian Games focal sites across 18 districts"
+    },
     {
       "key": "kwun-tong-road-salt-water-burst-sep15",
       "id": "2026-09-15-kwun-tong-road-salt-water-burst",
