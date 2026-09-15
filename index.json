@@ -1,8 +1,108 @@
 {
-  "generated_at": "2026-09-16T07:00:06+08:00",
+  "generated_at": "2026-09-16T07:24:47+08:00",
   "live_window_hours": 72,
   "count": 96,
   "articles": [
+    {
+      "id": "2026-09-16-lifestyle-mplus-herzog-de-meuron",
+      "published_at": "2026-09-16T07:26:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "museum"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-lifestyle-mplus-herzog-de-meuron.json",
+      "en": {
+        "headline": "M+ opens Herzog & de Meuron focus display of China projects",
+        "dek": "Models, drawings and material samples from the Swiss firm that designed the museum, including Tai Kwun and Beijing’s National Stadium, are on view in the Focus Gallery from 12 September."
+      },
+      "zh": {
+        "headline": "M+展出赫爾佐格與德梅隆中國項目模型及圖則",
+        "dek": "設計本館的瑞士事務所損贈模型、繪圖及物料樣本，包括大館及北京國家體育場，9月12日起於焦點空間展出。"
+      }
+    },
+    {
+      "id": "2026-09-16-ipcc-police-complaints-jan-aug",
+      "published_at": "2026-09-16T07:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-ipcc-police-complaints-jan-aug.json",
+      "en": {
+        "headline": "Reportable police complaints fall 5pc, but assault claims rise",
+        "dek": "IPCC figures for the first eight months show 1,353 reportable complaints, while serious allegations rose 44 per cent to 95, including 90 of assault."
+      },
+      "zh": {
+        "headline": "首八個月須匯報投訴警隊個案跌5% 毀打指控升67%",
+        "dek": "監警會公布1,353宗須匯報投訴，較去年同期少；性質嚴重指控95項，其中毀打90項，多數源自拘捕行動。"
+      }
+    },
+    {
+      "id": "2026-09-16-clear-water-bay-motorcycle-crash",
+      "published_at": "2026-09-16T07:24:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-clear-water-bay-motorcycle-crash.json",
+      "en": {
+        "headline": "Motorcyclist, 21, dies after crash on Tai Au Mun Road",
+        "dek": "The rider lost control on a left bend near Clear Water Bay First Beach just after midnight and struck a stone barrier; he was certified dead at Tseung Kwan O Hospital."
+      },
+      "zh": {
+        "headline": "清水灣大坳門路電單車撞石壘 21歲鐵騎士不治",
+        "dek": "凌晨近1時電單車在清水灣第一灣對開左彎失控，騎士昏迷送將軍澳醫院後不治，警方正調查起因。"
+      }
+    },
+    {
+      "id": "2026-09-16-tko-desalination-firefighters-hurt",
+      "published_at": "2026-09-16T07:23:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-tko-desalination-firefighters-hurt.json",
+      "en": {
+        "headline": "Three firefighters hurt after pump part flies off at Tseung Kwan O plant",
+        "dek": "A component detached while crews were cooling an overheated pump that had sent up steam at the desalination plant on Tuesday night; all three remained conscious."
+      },
+      "zh": {
+        "headline": "將軍澳化淡廠水泵機件飛脫 三名消防員受傷送院",
+        "dek": "周二晚環保大道海水化淡廠水泵過熱冒蒸汽，消防開喉降溫期間機件飛脫，三人清醒送院。"
+      }
+    },
+    {
+      "id": "2026-09-16-tung-chee-hwa-funeral-arrangements",
+      "published_at": "2026-09-16T07:22:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-tung-chee-hwa-funeral-arrangements.json",
+      "en": {
+        "headline": "Tung Chee-hwa state funeral set for North Point this weekend",
+        "dek": "A vigil will be held on Saturday afternoon at the Hong Kong Funeral Home, with a public memorial and procession on Sunday morning, under an 87-member funeral committee."
+      },
+      "zh": {
+        "headline": "董建華國葬周末在北角舉行 周六設靈周日公祭",
+        "dek": "設靈周六下午在香港殮儀館福海堂，周日早上公祭及出殮；治喪委員會由全國政協第一副主席石泰峰擔任主任。"
+      }
+    },
     {
       "id": "2026-09-15-lifestyle-kai-tak-asian-games-lights",
       "published_at": "2026-09-15T23:16:00+08:00",
@@ -1902,115 +2002,6 @@
       "zh": {
         "headline": "天文台：雷雨帶靠近 未來兩三小時局部雨勢較大",
         "dek": "天文台周日早上7晈45分發特別天氣提示，本港以南雷雨帶逐漸靠近，強烈季候風信號仍然生效。"
-      }
-    },
-    {
-      "id": "2026-09-13-lifestyle-handmade-db-market",
-      "published_at": "2026-09-13T07:18:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "community",
-        "lantau",
-        "market"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-lifestyle-handmade-db-market.json",
-      "en": {
-        "headline": "Handmade Hong Kong market closes Sunday at Discovery Bay",
-        "dek": "The two-day weekend stall at DB Plaza, with about 80 local makers, runs until 6pm today after opening at 11am on Saturday."
-      },
-      "zh": {
-        "headline": "Handmade Hong Kong周末市集週日於愉景灣收官",
-        "dek": "9月愉景灣周末市集在DB Plaza舉行，約80個本地手作攤位，周六已開檔，今日開至下午6時。"
-      }
-    },
-    {
-      "id": "2026-09-13-lifestyle-leslie-heritage-museum",
-      "published_at": "2026-09-13T07:17:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "exhibition",
-        "sha-tin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-lifestyle-leslie-heritage-museum.json",
-      "en": {
-        "headline": "Leslie Cheung exhibition adds free film screenings in Sha Tin",
-        "dek": "Hong Kong Heritage Museum’s 70th-birthday show, already open with more than 300 objects, began a free film series on Saturday that runs into next April."
-      },
-      "zh": {
-        "headline": "文化博物館張國榮紀念展加推免費電影放映",
-        "dek": "康文署香港文化博物館「繼續寵愛・張國榮70誕辰・紀念展」展出逾300件展品，周六起在館內劇院免費放映六部電影，至明年4月。"
-      }
-    },
-    {
-      "id": "2026-09-13-iphone-18-card-alerts",
-      "published_at": "2026-09-13T07:16:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "business",
-        "fraud"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-iphone-18-card-alerts.json",
-      "en": {
-        "headline": "Card alerts surge as iPhone 18 Pro pre-orders open",
-        "dek": "After Apple opened online pre-orders at 8pm on Saturday, some Hong Kong cardholders said they received charge notices for new iPhones they had not bought."
-      },
-      "zh": {
-        "headline": "iPhone 18 Pro預購展開 部分市民收到未下單簽賬通知",
-        "dek": "蘋果周六晚上8時開放網上預購後，有香港持卡人表示收到與新機售價相符的信用卡通知，部分人稱自己並未成功下單。"
-      }
-    },
-    {
-      "id": "2026-09-13-hkust-student-scam",
-      "published_at": "2026-09-13T07:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "fraud",
-        "education"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-hkust-student-scam.json",
-      "en": {
-        "headline": "HKUST student reports losing HK$1.11 million in phone scam",
-        "dek": "A 19-year-old mainland student told police early Sunday that a caller posing as an Immigration officer demanded a deposit and claimed to be watching her by webcam."
-      },
-      "zh": {
-        "headline": "科大19歲內地生報稱遭假入境人員騙去111萬",
-        "dek": "女生週日凌晨在西貢大學道宿舍報案，指有人自稱入境處人員，訛稱她涉及洗黑錢案並索取保證金，又聲稱以網絡鏡頭監視匯款。"
-      }
-    },
-    {
-      "id": "2026-09-13-mong-kok-ebike-arrest",
-      "published_at": "2026-09-13T07:14:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "mong-kok",
-        "traffic"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-mong-kok-ebike-arrest.json",
-      "en": {
-        "headline": "Police arrest e-bike rider after Mong Kok crash injures boy",
-        "dek": "A 35-year-old mainland man on a two-way permit was held on Saturday on six suspected traffic offences after an electric bicycle struck a 10-year-old and the rider left the scene."
-      },
-      "zh": {
-        "headline": "旺角電動單車撞傷男童後逃去 警拓35歲內地男子",
-        "dek": "警方周六下午在旺角拘捕一名持雙程證的35歲內地男子，涉嫌危險駕駛等六項交通罪行，案件源於周五電動單車撞傷10歲男童後不顧而去。"
       }
     }
   ]
