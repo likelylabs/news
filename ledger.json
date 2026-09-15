@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-09-16T07:24:47+08:00",
+  "updated_at": "2026-09-16T07:26:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-mplus-herzog-de-meuron-focus",
+      "id": "2026-09-16-lifestyle-mplus-herzog-de-meuron",
+      "first_seen": "2026-09-16T07:26:00+08:00",
+      "headline_en": "M+ opens Herzog & de Meuron focus display of China projects"
+    },
+    {
+      "key": "ipcc-complaints-first-eight-months-2026",
+      "id": "2026-09-16-ipcc-police-complaints-jan-aug",
+      "first_seen": "2026-09-16T07:25:00+08:00",
+      "headline_en": "Reportable police complaints fall 5pc, but assault claims rise"
+    },
+    {
+      "key": "clear-water-bay-motorcycle-fatal-sep16",
+      "id": "2026-09-16-clear-water-bay-motorcycle-crash",
+      "first_seen": "2026-09-16T07:24:00+08:00",
+      "headline_en": "Motorcyclist, 21, dies after crash on Tai Au Mun Road"
+    },
+    {
+      "key": "tko-desalination-plant-firefighters-injured-sep15",
+      "id": "2026-09-16-tko-desalination-firefighters-hurt",
+      "first_seen": "2026-09-16T07:23:00+08:00",
+      "headline_en": "Three firefighters hurt after pump part flies off at Tseung Kwan O plant"
+    },
+    {
+      "key": "tung-chee-hwa-state-funeral-sep19-20",
+      "id": "2026-09-16-tung-chee-hwa-funeral-arrangements",
+      "first_seen": "2026-09-16T07:22:00+08:00",
+      "headline_en": "Tung Chee-hwa state funeral set for North Point this weekend"
+    },
     {
       "key": "tsz-lok-estate-illegal-petrol-station-sep15",
       "id": "2026-09-15-tsz-lok-illegal-petrol",
