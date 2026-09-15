@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-15T21:15:27+08:00",
+  "generated_at": "2026-09-15T23:12:56+08:00",
   "live_window_hours": 72,
-  "count": 101,
+  "count": 100,
   "articles": [
+    {
+      "id": "2026-09-15-lifestyle-kai-tak-asian-games-lights",
+      "published_at": "2026-09-15T23:16:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "asian-games",
+        "kai-tak",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-lifestyle-kai-tak-asian-games-lights.json",
+      "en": {
+        "headline": "Kai Tak Sports Park main stadium launches Asian Games light show from tonight",
+        "dek": "A 30-minute dynamic display on the main stadium façade runs nightly from 8pm until 24 October, featuring cheer messages and visual motifs of Olympic sports including e-sports."
+      },
+      "zh": {
+        "headline": "啟德體育園主場館外牆今晚起上演亞運主題燈光展",
+        "dek": "每晚8時至8時半，展至10月24日，展示「全城上下撐港隊」訊息及乒乓球、單車、劍擊、足球、電競等動感畫面。"
+      }
+    },
+    {
+      "id": "2026-09-15-tsz-lok-illegal-petrol",
+      "published_at": "2026-09-15T23:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "fire-services",
+        "wong-tai-sin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-tsz-lok-illegal-petrol.json",
+      "en": {
+        "headline": "Fire Services seize 921 litres of petrol from illegal station in Tsz Lok Estate car park",
+        "dek": "A 34-year-old two-way permit holder was intercepted after officers found a seven-seater van leaking fuel and fitted with a tank and refuelling tools; enough petrol for about 20 private cars was recovered."
+      },
+      "zh": {
+        "headline": "消防搗破慈樂邨停車場非法加油站 檢921公升汽油截查雙程證男",
+        "dek": "一輛七人車漏油，車內發現油缸及入油工具，檢獲足以注滿約20輛私家車的汽油；34歲持雙程證男子涉嫌多項危險品及消防條例罪行。"
+      }
+    },
     {
       "id": "2026-09-15-lifestyle-laguna-park-urban-farm",
       "published_at": "2026-09-15T21:09:00+08:00",
@@ -2054,72 +2098,6 @@
       "zh": {
         "headline": "六合彩攪珠機故障 改用後備機及號碼球 800萬頭獎無人中",
         "dek": "周六晚第99期六合彩攪珠時原機未能攪出第一個號碼，馬會即時改用同型號後備攪珠機及備用號碼球，在監場嘉賓監察下完成，頭獎無人中。"
-      }
-    },
-    {
-      "id": "2026-09-12-asd-manager-resignation",
-      "published_at": "2026-09-12T23:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "government",
-        "hospital",
-        "construction"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-asd-manager-resignation.json",
-      "en": {
-        "headline": "Architectural Services Department says former manager left on personal grounds",
-        "dek": "The department rejected reports that a chief project manager overseeing Queen Mary Hospital’s new clinical building lifts was asked to resign, saying she applied three months in advance and left in mid-August."
-      },
-      "zh": {
-        "headline": "建築署：前總工程策劃經理以個人理由請辭 與瑪麗升降機報道不符",
-        "dek": "建築署指有關瑪麗醫院新臨床大樓升降機工程的前總工程策劃經理被要求辭職的報道與事實不符，該人員已按機制提前三個月申請並於8月中離職。"
-      }
-    },
-    {
-      "id": "2026-09-12-ma-on-shan-paraglider-rescue",
-      "published_at": "2026-09-12T23:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "ma-on-shan",
-        "rescue",
-        "fire-services"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-ma-on-shan-paraglider-rescue.json",
-      "en": {
-        "headline": "Woman rescued after paraglider catches in tree at Ma On Shan",
-        "dek": "A 38-year-old foreign woman was freed uninjured after her paraglider became snagged in a tree about 10 metres high near Ngong Ping on Saturday afternoon; the Government Flying Service assisted."
-      },
-      "zh": {
-        "headline": "馬鞍山昂平滑翔傘女子被困樹上 消防救出無恙",
-        "dek": "一名38歲外籍女子周六下午在馬鞍山昂平玩滑翔傘時被困約10米高大樹，消防及飛行服務隊到場救出，事主無受傷。"
-      }
-    },
-    {
-      "id": "2026-09-12-sha-tin-school-food-poisoning",
-      "published_at": "2026-09-12T23:10:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "food-poisoning",
-        "sha-tin",
-        "school"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-sha-tin-school-food-poisoning.json",
-      "en": {
-        "headline": "39 fall ill after school lunch in Sha Tin; supplier ordered to suspend",
-        "dek": "The Centre for Health Protection is investigating a suspected food-poisoning cluster at Baptist (Sha Tin Wai) Lui Ming Choi Primary School after pupils and staff ate soy-braised chicken drumsticks and penne on Wednesday."
-      },
-      "zh": {
-        "headline": "沙田小學39師生疑食物中毒 午膳供應商須暫停運作",
-        "dek": "衞生防護中心調查浸信會沙田圍呂明才小學懷疑食物中毒群組，37名學生及兩名職員進食供應商提供的滷水雞髀及長通粉後腹痛腹瀉。"
       }
     }
   ]
