@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-09-15T07:15:10+08:00",
+  "generated_at": "2026-09-15T09:07:35+08:00",
   "live_window_hours": 72,
   "count": 101,
   "articles": [
+    {
+      "id": "2026-09-15-lifestyle-cultural-centre-mid-autumn-lights",
+      "published_at": "2026-09-15T09:19:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "mid-autumn",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-lifestyle-cultural-centre-mid-autumn-lights.json",
+      "en": {
+        "headline": "Cultural Centre piazza to show Mid-Autumn lights from Thursday",
+        "dek": "The Leisure and Cultural Services Department will light a free Mid-Autumn installation at the Hong Kong Cultural Centre from 17 September to 11 October."
+      },
+      "zh": {
+        "headline": "文化中心露天廣場中秋光影裝置周四起亮燈",
+        "dek": "康文署社區節目辦事處將於9月17日至10月11日在香港文化中心露天廣場展出中秋光影裝置，免費入場。"
+      }
+    },
+    {
+      "id": "2026-09-15-flu-vaccination-programme-sep17",
+      "published_at": "2026-09-15T09:18:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "flu"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-flu-vaccination-programme-sep17.json",
+      "en": {
+        "headline": "Seasonal flu vaccination programme starts on Thursday",
+        "dek": "The Centre for Health Protection said the 2026/27 schemes open on 17 September, offering free or subsidised jabs while influenza activity remains high."
+      },
+      "zh": {
+        "headline": "季節性流感疫苗接種計劃周四展開",
+        "dek": "衞生防護中心表示，2026／27年度計劃將於9月17日展開，合資格人士可免費或獲資助接種，本港流感活躍程度仍處高水平。"
+      }
+    },
+    {
+      "id": "2026-09-15-shouson-hill-theft",
+      "published_at": "2026-09-15T09:17:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-shouson-hill-theft.json",
+      "en": {
+        "headline": "Police seek domestic helper after HK$206,000 Deep Water Bay theft",
+        "dek": "A resident reported two watches, a tablet and cash missing from a Shouson Hill Road flat on Monday afternoon; no arrest has been made."
+      },
+      "zh": {
+        "headline": "深水灣單位失約20.6萬元財物 警追緙外傭",
+        "dek": "壽山村道一個單位周一午后報失兩隻手錶、平板電腦及現金，案件列盜竊，暫未有人被捕。"
+      }
+    },
+    {
+      "id": "2026-09-15-thunderstorm-warning-extended",
+      "published_at": "2026-09-15T09:16:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "thunderstorm"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-thunderstorm-warning-extended.json",
+      "en": {
+        "headline": "Observatory extends Thunderstorm Warning until 9.30am",
+        "dek": "Isolated thunderstorms are expected over the New Territories after the warning issued at 4.42am was prolonged this morning."
+      },
+      "zh": {
+        "headline": "天文台將雷暴警告延長至上午9時30分",
+        "dek": "今早4時42分發出的雷暴警告已延長至上午9時30分，預料新界有局部地區雷暴。"
+      }
+    },
     {
       "id": "2026-09-15-lifestyle-yuen-long-lantern-street",
       "published_at": "2026-09-15T07:09:00+08:00",
@@ -2044,93 +2127,6 @@
       "zh": {
         "headline": "丘應樺：美容健身業界支持7日冷靜期",
         "dek": "商經局局長在港台《星期六問責》表示，完成研究後希望明年上半年把修訂《商品說明條例》的方案提交立法會。"
-      }
-    },
-    {
-      "id": "2026-09-12-lifestyle-leslie-cheung-70-concert",
-      "published_at": "2026-09-12T07:23:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "concert",
-        "west-kowloon",
-        "leslie-cheung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-lifestyle-leslie-cheung-70-concert.json",
-      "en": {
-        "headline": "Sold-out Leslie Cheung 70th-birthday concert plays West Kowloon tonight",
-        "dek": "The outdoor show at the AXA Bamboo Theatre starts at 7.15pm, with a 1,956-drone display timed for 9.12pm."
-      },
-      "zh": {
-        "headline": "張國榮70誕辰音樂會今晚西九舉行 門票售置",
-        "dek": "《繼續寵愛·張國榮70誕辰·音樂會》今晚7時15分於安盛竹翠公園開場，主辦方安排1,956部無人機於9時12分升空。"
-      }
-    },
-    {
-      "id": "2026-09-12-belt-and-road-summit-close",
-      "published_at": "2026-09-12T07:22:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "government",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-belt-and-road-summit-close.json",
-      "en": {
-        "headline": "Belt and Road Summit closes with record 60-plus MOUs",
-        "dek": "The two-day government-organised event drew more than 6,200 participants from over 70 countries and regions and deals valued above US$3.1 billion."
-      },
-      "zh": {
-        "headline": "一帶一路高峰論壇閉幕 簽署逾60份合作備忘錄創新高",
-        "dek": "為期兩日的論壇吸引來自70多個國家及地區逾6,200名政商代表，連同會前及會期成交，涉及金額逾31億美元。"
-      }
-    },
-    {
-      "id": "2026-09-12-simon-lui-death",
-      "published_at": "2026-09-12T07:21:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "culture",
-        "film"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-simon-lui-death.json",
-      "en": {
-        "headline": "Hong Kong actor Simon Lui, known as King of Ghosts, dies at 62",
-        "dek": "Fellow actor Frankie Ng said Lui’s wife confirmed he died of gastric cancer in a Guangzhou hospital on 7 September."
-      },
-      "zh": {
-        "headline": "「鬼王」雷宇揚胃癌病逝廣州 享年62歲",
-        "dek": "演員吳志雄周五轉述，雷宇揚妻子馬莉證實他於9月7日在廣州醫院逝世，家屬希望低調處理。"
-      }
-    },
-    {
-      "id": "2026-09-12-sai-kung-stray-friends-enforcement-deferral",
-      "published_at": "2026-09-12T07:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "sai-kung",
-        "animals",
-        "planning",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-sai-kung-stray-friends-enforcement-deferral.json",
-      "en": {
-        "headline": "Planning Department delays Sai Kung dog shelter shutdown by three months",
-        "dek": "Enforcement against an unauthorised animal boarding use at Ho Chung is suspended until 12 December after the operator lodged a planning application."
-      },
-      "zh": {
-        "headline": "規劃署暫緩西貢狗舍執法 中止期限延至12月12日",
-        "dek": "西貢蠅涌大藍湖路狗舍被指在自然保育區作動物寄養屬違例發展，署方因應規劃申請將強制執行通知書期限延長三個月。"
       }
     }
   ]
