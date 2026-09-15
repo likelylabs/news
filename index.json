@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-09-15T13:06:49+08:00",
+  "generated_at": "2026-09-15T15:16:26+08:00",
   "live_window_hours": 72,
   "count": 102,
   "articles": [
+    {
+      "id": "2026-09-15-airport-hotel-jewellery-theft",
+      "published_at": "2026-09-15T15:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-airport-hotel-jewellery-theft.json",
+      "en": {
+        "headline": "Police recover HK$1m jewellery stolen from airport hotel lobby",
+        "dek": "A Sri Lankan exhibitor reported the theft of gemstones while resting in a hotel near the airport on Sunday; officers arrested a 32-year-old man in Tsing Yi the same evening and recovered the items."
+      },
+      "zh": {
+        "headline": "機場酒店大堂失近百萬珠寶原石 警6小時拘人起回",
+        "dek": "斯里蘭卡參展商周日在機場附近酒店休息時失竊，機場警區翻查閉路電視後同日晚在青衣酒店拘捕32歲男子並起回全部原石。"
+      }
+    },
+    {
+      "id": "2026-09-15-lifestyle-victoria-park-lantern-carnival",
+      "published_at": "2026-09-15T15:22:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "mid-autumn",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-lifestyle-victoria-park-lantern-carnival.json",
+      "en": {
+        "headline": "Victoria Park Mid-Autumn Lantern Carnival opens Thursday",
+        "dek": "The free display organised by the Leisure and Cultural Services Department runs from 17 to 27 September, featuring Hong Kong-themed lanterns and a large banyan-tree installation by the Tourism Board."
+      },
+      "zh": {
+        "headline": "維園中秋綵燈會周四起舉行至27日",
+        "dek": "康文署主辦的免費綵燈展以香港特色為題，旅發局呈獻八米榕樹裝置「影光」，亮燈時間傍晚6時半至11時。"
+      }
+    },
+    {
+      "id": "2026-09-15-lei-tung-brothers-bodies",
+      "published_at": "2026-09-15T15:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "police",
+        "ap-lei-chau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-lei-tung-brothers-bodies.json",
+      "en": {
+        "headline": "Two brothers found dead in Lei Tung Estate flat; no foul play suspected",
+        "dek": "Police say the bodies of men aged 55 and 53 were discovered after a security guard reported a foul smell; post-mortems are pending and the case is treated as discovery of bodies."
+      },
+      "zh": {
+        "headline": "利東邨單位發現兩兄弟遺體 初步無疑點",
+        "dek": "東業樓保安周一報單位傳異味，警消破門發現55歲及53歲兄弟已死，案件列屍體發現，死因有待驗屍。"
+      }
+    },
     {
       "id": "2026-09-15-mtr-thank-you-day-oct24",
       "published_at": "2026-09-15T13:08:00+08:00",
@@ -2079,69 +2142,6 @@
       "zh": {
         "headline": "南丫島發電廠對開海面發現女屍 53歲內地女子不治",
         "dek": "警方周六上午約10時接報有人形物體漂浮海面，消防到場救起女子後證實死亡，案件列發現屍體。"
-      }
-    },
-    {
-      "id": "2026-09-12-tin-shui-wai-mcdonalds-scuffle",
-      "published_at": "2026-09-12T13:12:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "tin-shui-wai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-tin-shui-wai-mcdonalds-scuffle.json",
-      "en": {
-        "headline": "Man restrained after harassing elderly diner and assaulting staff at Tin Shui Wai…",
-        "dek": "Police classified the Friday evening incident as discovery of a person with suspected mental disorder; no one was seriously hurt."
-      },
-      "zh": {
-        "headline": "天水圍麥當勞男子滋擾老婦襲職員 市民合力制服",
-        "dek": "39歲鄧姓男子周五晚被制服後送院檢查，案件列發現懷疑精神紊亂人士。"
-      }
-    },
-    {
-      "id": "2026-09-12-flu-activity-high",
-      "published_at": "2026-09-12T13:11:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "influenza",
-        "vaccination"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-flu-activity-high.json",
-      "en": {
-        "headline": "Influenza remains high; eight in ten cases are H1, director says",
-        "dek": "Laboratory positive rate reached 13 per cent last week and hospital admission rates stay above baseline, according to the Director of Health."
-      },
-      "zh": {
-        "headline": "流感仍處高位 八成屬甲型H1 林文健籲盡快接種",
-        "dek": "上周化驗室陽性比率達13%，入院率高於基線，兒童嚴重個案累計19宗。"
-      }
-    },
-    {
-      "id": "2026-09-12-clear-water-bay-drowning",
-      "published_at": "2026-09-12T13:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "sai-kung",
-        "drowning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-clear-water-bay-drowning.json",
-      "en": {
-        "headline": "82-year-old woman dies after drowning at Clear Water Bay Second Beach",
-        "dek": "Lifeguards rescued the swimmer about 5 metres offshore on Saturday morning; she was pronounced dead at Tseung Kwan O Hospital."
-      },
-      "zh": {
-        "headline": "清水灣二灘八旬女泳客遇溺不治",
-        "dek": "周六早上救生員在離岸約5米處救起昏迷泳客，送將軍澳醫院後證實死亡。"
       }
     }
   ]
