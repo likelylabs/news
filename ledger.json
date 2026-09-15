@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T11:16:38+08:00",
+  "updated_at": "2026-09-15T11:17:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -31,6 +31,66 @@
       "id": "2026-09-15-queen-mary-hospital-lifts-lee",
       "first_seen": "2026-09-15T11:12:00+08:00",
       "headline_en": "Lee orders one-month probe into Queen Mary Hospital lift faults"
+    },
+    {
+      "key": "thunderstorm-warning-sep15-extended-0930",
+      "id": "2026-09-15-thunderstorm-warning-extended",
+      "first_seen": "2026-09-15T09:16:00+08:00",
+      "headline_en": "Observatory extends Thunderstorm Warning until 9.30am"
+    },
+    {
+      "key": "shouson-hill-domestic-helper-theft-sep14",
+      "id": "2026-09-15-shouson-hill-theft",
+      "first_seen": "2026-09-15T09:17:00+08:00",
+      "headline_en": "Police seek domestic helper after HK$206,000 Deep Water Bay theft"
+    },
+    {
+      "key": "siv-programme-2026-27-sep17",
+      "id": "2026-09-15-flu-vaccination-programme-sep17",
+      "first_seen": "2026-09-15T09:18:00+08:00",
+      "headline_en": "Seasonal flu vaccination programme starts on Thursday"
+    },
+    {
+      "key": "lifestyle-hkcc-mid-autumn-lighting-2026",
+      "id": "2026-09-15-lifestyle-cultural-centre-mid-autumn-lights",
+      "first_seen": "2026-09-15T09:19:00+08:00",
+      "headline_en": "Cultural Centre piazza to show Mid-Autumn lights from Thursday"
+    },
+    {
+      "key": "thunderstorm-warning-sep15-morning",
+      "id": "2026-09-15-thunderstorm-warning-morning",
+      "first_seen": "2026-09-15T07:05:00+08:00",
+      "headline_en": "Observatory issues Thunderstorm Warning until 7.30am"
+    },
+    {
+      "key": "lung-hang-estate-crash-drugs-sep14",
+      "id": "2026-09-15-lung-hang-crash-drugs",
+      "first_seen": "2026-09-15T07:06:00+08:00",
+      "headline_en": "Sha Tin driver arrested after crash and false robbery report"
+    },
+    {
+      "key": "mong-kok-fairlaw-dundas-den-sep14",
+      "id": "2026-09-15-mong-kok-fairlaw-dens",
+      "first_seen": "2026-09-15T07:07:00+08:00",
+      "headline_en": "Two men arrested in Mong Kok anti-drug operations"
+    },
+    {
+      "key": "chuk-yuen-south-sau-yuen-drugs-sep14",
+      "id": "2026-09-15-chuk-yuen-south-drugs",
+      "first_seen": "2026-09-15T07:08:00+08:00",
+      "headline_en": "Man, 66, arrested over HK$210,000 of drugs at Chuk Yuen South"
+    },
+    {
+      "key": "lifestyle-yuen-long-taikiu-lantern-street-2026",
+      "id": "2026-09-15-lifestyle-yuen-long-lantern-street",
+      "first_seen": "2026-09-15T07:09:00+08:00",
+      "headline_en": "Yuen Long market lane hangs handmade lanterns ahead of Mid-Autumn"
+    },
+    {
+      "key": "wong-tai-sin-flu-cluster-update-sep14",
+      "id": "2026-09-15-wong-tai-sin-flu-cluster-update",
+      "first_seen": "2026-09-15T01:10:00+08:00",
+      "headline_en": "Wong Tai Sin Hospital flu cluster grows by 14 cases; three elderly men die"
     }
   ]
 }
