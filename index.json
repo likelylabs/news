@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-09-15T11:17:49+08:00",
+  "generated_at": "2026-09-15T13:06:49+08:00",
   "live_window_hours": 72,
-  "count": 99,
+  "count": 102,
   "articles": [
+    {
+      "id": "2026-09-15-mtr-thank-you-day-oct24",
+      "published_at": "2026-09-15T13:08:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "transport",
+        "fare"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-mtr-thank-you-day-oct24.json",
+      "en": {
+        "headline": "MTR sets 24 October as Thank You Day with half-price rides",
+        "dek": "Octopus, JoyYou Card and QR-code journeys on heavy rail, Light Rail and selected MTR buses will be half-price, including Lo Wu and Lok Ma Chau cross-boundary trips."
+      },
+      "zh": {
+        "headline": "港鐵10月24日設感謝日 八達通乘車半價",
+        "dek": "當日使用八達通、樂悠咭或二維碼乘搭港鐵、輕鐵及指定巴士可享半價，包括羅湖及落馬洲過境車程。"
+      }
+    },
+    {
+      "id": "2026-09-15-wang-fuk-court-ballot",
+      "published_at": "2026-09-15T13:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "wang-fuk-court",
+        "tai-po"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-wang-fuk-court-ballot.json",
+      "en": {
+        "headline": "Wang Fuk Court owners’ special sales scheme balloting sets selection order",
+        "dek": "Computer random draw results for the first batch were released this morning; full results will be posted on the scheme website around 3pm."
+      },
+      "zh": {
+        "headline": "宏福苑特設銷售計劃攪珠 定出業主揀樓次序",
+        "dek": "上午進行電腦隨機排序，第一批頭十個申請編號尾數為25、28、75等，完整結果約下午3時上載網站。"
+      }
+    },
+    {
+      "id": "2026-09-15-august-visitor-arrivals-record",
+      "published_at": "2026-09-15T13:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "tourism",
+        "hktb",
+        "visitors"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-august-visitor-arrivals-record.json",
+      "en": {
+        "headline": "August visitor arrivals hit 5.46 million, post-pandemic monthly high",
+        "dek": "The Tourism Board said provisional figures rose 6 per cent year on year, lifting the first-eight-month total to about 36.67 million, up 11 per cent."
+      },
+      "zh": {
+        "headline": "8月訪港旅客546萬人次創疫後單月新高",
+        "dek": "旅發局公布初步數字按年升6%，首八個月累計約3,667萬人次，按年升11%。"
+      }
+    },
     {
       "id": "2026-09-15-lifestyle-yuen-long-dunhuang-murals",
       "published_at": "2026-09-15T11:16:00+08:00",
