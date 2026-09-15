@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-09-15T19:15:55+08:00",
+  "updated_at": "2026-09-15T21:10:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "cuhk-journalism-website-redirect-sep15",
+      "id": "2026-09-15-cuhk-journalism-site-redirect",
+      "first_seen": "2026-09-15T21:05:00+08:00",
+      "headline_en": "CUHK journalism school website redirected to gambling page; university suspends site"
+    },
+    {
+      "key": "chi-ma-wan-car-charcoal-deaths-sep15",
+      "id": "2026-09-15-chi-ma-wan-car-deaths",
+      "first_seen": "2026-09-15T21:06:00+08:00",
+      "headline_en": "Man and woman found dead in car near Chi Ma Wan Correctional Institution"
+    },
+    {
+      "key": "lifestyle-space-museum-wild-asia-dome-2026",
+      "id": "2026-09-15-lifestyle-space-museum-wild-asia",
+      "first_seen": "2026-09-15T21:07:00+08:00",
+      "headline_en": "Space Museum launches Wild Asia dome show from Wednesday"
+    },
+    {
+      "key": "darion-taxi-saic-gm-wuling-launch-sep15",
+      "id": "2026-09-15-darion-taxi-launch",
+      "first_seen": "2026-09-15T21:08:00+08:00",
+      "headline_en": "SAIC-GM-Wuling unveils six-seat Darion electric taxi for Hong Kong"
+    },
+    {
+      "key": "lifestyle-laguna-park-urban-farming-pilot-2026",
+      "id": "2026-09-15-lifestyle-laguna-park-urban-farm",
+      "first_seen": "2026-09-15T21:09:00+08:00",
+      "headline_en": "AFCD signs contract for urban farming pilot at Laguna Park in Kwun Tong"
+    },
     {
       "key": "mpox-case-sep15-2026",
       "id": "2026-09-15-mpox-case-sep15",

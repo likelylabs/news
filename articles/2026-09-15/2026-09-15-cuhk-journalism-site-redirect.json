@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-15-cuhk-journalism-site-redirect",
+  "published_at": "2026-09-15T21:05:00+08:00",
+  "category": "technology",
+  "tags": ["technology", "cybersecurity", "cuhk"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "cuhk-journalism-website-redirect-sep15",
+  "en": {
+    "headline": "CUHK journalism school website redirected to gambling page; university suspends site",
+    "dek": "Visitors to the School of Journalism and Communication site were sent to a newly registered domain; the university says no personal data leakage has been found so far.",
+    "body": [
+      "The Chinese University of Hong Kong said its School of Journalism and Communication website had been redirected to a gambling-related page and that the school had immediately suspended the site pending investigation.",
+      "University staff discovered the redirection on Tuesday morning. The domain used for the gambling page was registered on Monday afternoon and linked to Cloudflare shortly afterwards. Public scanning records indicate the redirect first appeared in the early hours of Tuesday.",
+      "In a statement the university said the school had reported the incident to the Information Technology Services Centre for security follow-up. Repairs and an investigation are under way. At this stage no evidence of personal sensitive data leakage has been found.",
+      "The Privacy Commissioner’s Office said it had received related enquiries or complaints and would contact the institutions concerned. The school’s site remained offline on Tuesday evening."
+    ]
+  },
+  "zh": {
+    "headline": "中大新傳學院網站被導向博彩頁 校方暫停網站調查",
+    "dek": "訪客瀏覽新聞與傳播學院網站時被重新導向至新註冊域名；校方表示暫未發現個人敏感資料外洩。",
+    "body": [
+      "香港中文大學表示，新聞與傳播學院網站遭重新導向至一個博彩相關網頁，學院已即時暫停網站運作並展開調查。",
+      "校方今早發現導向問題。涉事博彩網頁所用域名於周一午間註冊，其後迅速接入Cloudflare。公開掃描紀錄顯示，相關導向最早於周二凌晨出現。",
+      "大學回覆指，學院已將事件呈報資訊科技服務處跟進保安事宜，現正修復網站及調查，現階段未發現個人敏感資料外洩。",
+      "個人資料私隱專員公署表示已接獲相關查詢或投訴，將主動聯絡有關機構了解。截至周二晚，學院網站仍未能瀏覽。"
+    ]
+  }
+}
