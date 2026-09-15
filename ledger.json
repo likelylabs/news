@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-15T09:07:35+08:00",
+  "updated_at": "2026-09-15T09:20:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "thunderstorm-warning-sep15-extended-0930",
+      "id": "2026-09-15-thunderstorm-warning-extended",
+      "first_seen": "2026-09-15T09:16:00+08:00",
+      "headline_en": "Observatory extends Thunderstorm Warning until 9.30am"
+    },
+    {
+      "key": "shouson-hill-domestic-helper-theft-sep14",
+      "id": "2026-09-15-shouson-hill-theft",
+      "first_seen": "2026-09-15T09:17:00+08:00",
+      "headline_en": "Police seek domestic helper after HK$206,000 Deep Water Bay theft"
+    },
+    {
+      "key": "siv-programme-2026-27-sep17",
+      "id": "2026-09-15-flu-vaccination-programme-sep17",
+      "first_seen": "2026-09-15T09:18:00+08:00",
+      "headline_en": "Seasonal flu vaccination programme starts on Thursday"
+    },
+    {
+      "key": "lifestyle-hkcc-mid-autumn-lighting-2026",
+      "id": "2026-09-15-lifestyle-cultural-centre-mid-autumn-lights",
+      "first_seen": "2026-09-15T09:19:00+08:00",
+      "headline_en": "Cultural Centre piazza to show Mid-Autumn lights from Thursday"
+    },
     {
       "key": "thunderstorm-warning-sep15-morning",
       "id": "2026-09-15-thunderstorm-warning-morning",
