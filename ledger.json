@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-15T23:12:56+08:00",
+  "updated_at": "2026-09-15T23:18:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "tsz-lok-estate-illegal-petrol-station-sep15",
+      "id": "2026-09-15-tsz-lok-illegal-petrol",
+      "first_seen": "2026-09-15T23:15:00+08:00",
+      "headline_en": "Fire Services seize 921 litres of petrol from illegal station in Tsz Lok Estate car park"
+    },
+    {
+      "key": "lifestyle-kai-tak-asian-games-light-show-2026",
+      "id": "2026-09-15-lifestyle-kai-tak-asian-games-lights",
+      "first_seen": "2026-09-15T23:16:00+08:00",
+      "headline_en": "Kai Tak Sports Park main stadium launches Asian Games light show from tonight"
+    },
     {
       "key": "cuhk-journalism-website-redirect-sep15",
       "id": "2026-09-15-cuhk-journalism-site-redirect",
