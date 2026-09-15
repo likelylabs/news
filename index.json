@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-09-15T15:16:26+08:00",
+  "generated_at": "2026-09-15T17:17:41+08:00",
   "live_window_hours": 72,
-  "count": 102,
+  "count": 101,
   "articles": [
+    {
+      "id": "2026-09-15-manpowergroup-q4-hiring-outlook",
+      "published_at": "2026-09-15T16:32:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "employment",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-manpowergroup-q4-hiring-outlook.json",
+      "en": {
+        "headline": "Employers’ hiring outlook rebounds to +14pc for fourth quarter",
+        "dek": "ManpowerGroup’s latest survey of 603 Hong Kong employers shows net employment sentiment swung from minus 9 per cent last quarter to plus 14 per cent, with information technology the strongest sector."
+      },
+      "zh": {
+        "headline": "第四季就業展望指數回升至正14% 資訊業最樂觀",
+        "dek": "萬寶盛華調查603名僱主，季節性調整後就業展望指數由上季負9%升至正14%，三成計劃增聘，資訊科技業指數最高達27%。"
+      }
+    },
+    {
+      "id": "2026-09-15-kwun-tong-road-salt-water-burst",
+      "published_at": "2026-09-15T16:30:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "water-supplies",
+        "kwun-tong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-15/2026-09-15-kwun-tong-road-salt-water-burst.json",
+      "en": {
+        "headline": "Salt-water main bursts on Kwun Tong Road, slow lane closed for repair",
+        "dek": "A 150-millimetre salt-water pipe supplying flushing water to Yue Man Centre ruptured near Hip Wo Path about 1pm, sending a two-metre jet of water onto the pavement and one lane before crews shut the valve."
+      },
+      "zh": {
+        "headline": "觀塘道鹹水管爆裂噴兩米水柱 慢線一度封閉搶修",
+        "dek": "今日下午約1時觀塘道近馬蹄徑一段直徑150毫米鹹水供水管爆裂，水柱高近兩米，影響行人路及一條行車線；水務署關掣後已停止湧水，慢線其後重開。"
+      }
+    },
     {
       "id": "2026-09-15-airport-hotel-jewellery-theft",
       "published_at": "2026-09-15T15:25:00+08:00",
@@ -2078,70 +2120,6 @@
       "zh": {
         "headline": "天文台下午發出酷熱天氣警告",
         "dek": "天文台周六下午3時35分發出酷熱天氣警告，提醒市民慎防中暑，日間仍有陽光，稍後轉多雲有驟雨雷暴。"
-      }
-    },
-    {
-      "id": "2026-09-12-tung-chee-hwa-state-funeral",
-      "published_at": "2026-09-12T15:27:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "government",
-        "tung-chee-hwa"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-tung-chee-hwa-state-funeral.json",
-      "en": {
-        "headline": "State funeral for former chief executive Tung Chee-hwa set for 20 September",
-        "dek": "A source confirmed the date on Saturday; state leaders and central government officials are expected to join the funeral committee."
-      },
-      "zh": {
-        "headline": "前特首董建華國葬定於9月20日舉行",
-        "dek": "消息周六確認國葬日期，國家領導人和中央政府官員預期加入治喪委員會。"
-      }
-    },
-    {
-      "id": "2026-09-12-police-college-bachelor-degree",
-      "published_at": "2026-09-12T15:26:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "community",
-        "government",
-        "education"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-police-college-bachelor-degree.json",
-      "en": {
-        "headline": "Police College becomes first government department allowed to award bachelor degrees",
-        "dek": "Commissioner Chow Yat-ming said the free Security and Criminal Investigation (Honours) Bachelor of Policing programme is expected to launch by year-end for serving junior officers."
-      },
-      "zh": {
-        "headline": "警察學院成首個可頒授學士學位政府部門 年底推免費課程",
-        "dek": "警務處長周一鳴在結業會操後公布，學院上月獲評審局通知可頒授學士學位，免費「安保及刑事調查（榮譽）警務學士」課程預計年底推出。"
-      }
-    },
-    {
-      "id": "2026-09-12-lamma-power-station-body",
-      "published_at": "2026-09-12T15:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "lamma",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-12/2026-09-12-lamma-power-station-body.json",
-      "en": {
-        "headline": "Body of 53-year-old woman found in waters off Lamma Power Station",
-        "dek": "Firefighters recovered the woman after a report of a floating figure around 10am on Saturday; police classified the case as found body."
-      },
-      "zh": {
-        "headline": "南丫島發電廠對開海面發現女屍 53歲內地女子不治",
-        "dek": "警方周六上午約10時接報有人形物體漂浮海面，消防到場救起女子後證實死亡，案件列發現屍體。"
       }
     }
   ]
