@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-09-16T21:21:11+08:00",
+  "updated_at": "2026-09-16T23:05:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "mpox-two-cases-sep16",
+      "id": "2026-09-16-mpox-two-cases-sep16",
+      "first_seen": "2026-09-16T23:05:00+08:00",
+      "headline_en": "CHP investigates two new Mpox cases; annual total reaches 23"
+    },
     {
       "key": "building-maintenance-reforms-policy-address-sep16",
       "id": "2026-09-16-building-maintenance-reforms-sep16",
