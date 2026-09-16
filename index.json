@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-09-16T17:13:39+08:00",
+  "generated_at": "2026-09-16T19:08:54+08:00",
   "live_window_hours": 72,
-  "count": 99,
+  "count": 97,
   "articles": [
+    {
+      "id": "2026-09-16-hang-seng-close-sep16",
+      "published_at": "2026-09-16T19:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "finance",
+        "stocks"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-hang-seng-close-sep16.json",
+      "en": {
+        "headline": "Hang Seng closes up 46 points as chip and AI shares advance",
+        "dek": "The index ended at 24,713 after swinging lower earlier, with Lenovo rising more than 8 per cent and semiconductor names among the stronger performers."
+      },
+      "zh": {
+        "headline": "恒指收升46點 晶片及AI股造好",
+        "dek": "恒生指數收報24,713點，升46點或0.19%，早段曾跌近100點後回升，聯想升逾8%，為當日表現最佳藍籌。"
+      }
+    },
     {
       "id": "2026-09-16-1991-holdup-trial-ends",
       "published_at": "2026-09-16T17:20:00+08:00",
@@ -2000,70 +2021,6 @@
       "zh": {
         "headline": "海關機場連破兩宗行李藏毒案 檢9公斤大麻花拘兩人",
         "dek": "周六馬來西亞籍女子從曼谷抵港寄艙行李檢約8公斤懷疑大麻花；周日內地男子同樣從曼谷抵港檢約1公斤，合共市值約180萬元。"
-      }
-    },
-    {
-      "id": "2026-09-13-iphone-unauthorised-charges",
-      "published_at": "2026-09-13T17:22:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "fraud",
-        "technology",
-        "banking"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-iphone-unauthorised-charges.json",
-      "en": {
-        "headline": "Banks probe unauthorised iPhone pre-order charges on credit cards",
-        "dek": "HSBC, Hang Seng and Standard Chartered are investigating reports of unauthorised Apple Store transactions after iPhone 18 Pro pre-orders opened on Saturday evening."
-      },
-      "zh": {
-        "headline": "多銀行調查iPhone預購未授權信用卡交易",
-        "dek": "滙豐、恒生及渣打表示正調查iPhone 18 Pro預購開放後出現的未授權Apple交易報告。"
-      }
-    },
-    {
-      "id": "2026-09-13-youth-chapter-five-year-plan",
-      "published_at": "2026-09-13T17:21:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "government",
-        "youth",
-        "policy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-youth-chapter-five-year-plan.json",
-      "en": {
-        "headline": "Youth group urges dedicated chapter in five-year plan",
-        "dek": "The Hong Kong Federation of Youth Groups said a survey of more than 650 young people found over 60 percent see the blueprint as relevant to their development and called for a specific youth section."
-      },
-      "zh": {
-        "headline": "青年協會倡五年規劃設青年專章",
-        "dek": "香港青年協會轄下青年創研庫調查逾650名青年，逾六成認為五年規劃與個人發展相關，呼籲政府在規劃中設青年專章。"
-      }
-    },
-    {
-      "id": "2026-09-13-thunderstorm-warning-afternoon",
-      "published_at": "2026-09-13T17:20:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "thunderstorm"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-thunderstorm-warning-afternoon.json",
-      "en": {
-        "headline": "Observatory issues Thunderstorm Warning for southern waters and islands",
-        "dek": "The warning, effective from 4.27pm until 5.30pm, covers isolated squally thunderstorms and intense gusts of 70 km/h or above over southern waters and islands."
-      },
-      "zh": {
-        "headline": "天文台發出雷暴警告 南部水域及島嶼有狂風雷暴",
-        "dek": "警告於下午4時27分發出，有效至5時30分，預料香港南部水域及島嶼有局部地區狂風雷暴，強陣風可達每小時70公里或以上。"
       }
     }
   ]
