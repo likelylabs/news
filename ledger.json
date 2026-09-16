@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-16T11:19:54+08:00",
+  "updated_at": "2026-09-16T11:20:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-westk-picnic-fest-2026",
+      "id": "2026-09-16-lifestyle-westk-picnic-fest",
+      "first_seen": "2026-09-16T11:19:00+08:00",
+      "headline_en": "WestK Picnic Fest opens on the Art Park lawn from Friday"
+    },
+    {
+      "key": "five-year-plan-policy-address-delivery-sep16",
+      "id": "2026-09-16-five-year-plan-policy-address-legco",
+      "first_seen": "2026-09-16T11:18:00+08:00",
+      "headline_en": "Lee delivers Hong Kong’s first five-year plan and Policy Address"
+    },
+    {
+      "key": "tuen-mun-road-mercedes-lorry-crash-sep16",
+      "id": "2026-09-16-tuen-mun-road-crash-queues",
+      "first_seen": "2026-09-16T11:17:00+08:00",
+      "headline_en": "Tuen Mun Road crash snarls Kowloon-bound traffic at rush hour"
+    },
+    {
+      "key": "pmh-block-g-gas-report-sep16",
+      "id": "2026-09-16-pmh-block-g-gas-report",
+      "first_seen": "2026-09-16T11:16:00+08:00",
+      "headline_en": "Princess Margaret Hospital evacuates Block G after gas report"
+    },
     {
       "key": "lifestyle-after-taste-cheung-sha-wan-2026",
       "id": "2026-09-16-lifestyle-after-taste-exhibition",
