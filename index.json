@@ -1,8 +1,115 @@
 {
-  "generated_at": "2026-09-16T07:25:37+08:00",
+  "generated_at": "2026-09-16T09:22:20+08:00",
   "live_window_hours": 72,
-  "count": 96,
+  "count": 101,
   "articles": [
+    {
+      "id": "2026-09-16-lifestyle-after-taste-exhibition",
+      "published_at": "2026-09-16T09:22:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "exhibition",
+        "mid-autumn"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-lifestyle-after-taste-exhibition.json",
+      "en": {
+        "headline": "Cheung Sha Wan menu archive show runs until 27 September",
+        "dek": "After Taste, staged by studio artellex in an industrial building, displays historic menus, cookbooks and Mid-Autumn mooncake tins; entry is free by appointment."
+      },
+      "zh": {
+        "headline": "長沙灣《過去味來》展出百年餐牌 27日結束",
+        "dek": "攝影工作室artellex在長順街工業大廈展出舊菜單、食譜及中秋月餅罐模，免費入場須預約，中秋前可看最後數天。"
+      }
+    },
+    {
+      "id": "2026-09-16-lifestyle-little-bao-regent",
+      "published_at": "2026-09-16T09:21:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "food",
+        "tsim-sha-tsui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-lifestyle-little-bao-regent.json",
+      "en": {
+        "headline": "Little Bao chef May Chow to cook at Regent Lobby Lounge in October",
+        "dek": "The hotel says the month-long residency runs from 2 to 31 October at The Lobby Lounge on Salisbury Road, pairing bao and sharing plates with the harbour view."
+      },
+      "zh": {
+        "headline": "包點店Little Bao主廚周思薇月進駐香港麗晶酒店",
+        "dek": "酒店宣布10月2日至31日於大堂酒廊與行政總廚Calvin Choi合作，以包點及分享小食重塑本地街頭味道，面向維港。"
+      }
+    },
+    {
+      "id": "2026-09-16-man-sang-pump-dump-trial",
+      "published_at": "2026-09-16T09:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "business",
+        "courts"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-man-sang-pump-dump-trial.json",
+      "en": {
+        "headline": "Four face District Court trial over alleged Man Sang pump-and-dump",
+        "dek": "Prosecutors say a Telegram account calling itself Edan Master steered buyers into Man Sang Metal Packaging shares before a coordinated sell-off; all four defendants deny the charge."
+      },
+      "zh": {
+        "headline": "萬成金屬包裝唱高散貨案開審 四人否認控罪",
+        "dek": "控方指Telegram用戶「Edan師傅」誘使股民買入萬成股份，其後有組織帳戶同步拋售；四名被告否認意圖欺詐而串謀使用計劃罪。"
+      }
+    },
+    {
+      "id": "2026-09-16-so-kwun-wat-dog-report",
+      "published_at": "2026-09-16T09:19:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "police",
+        "tuen-mun"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-so-kwun-wat-dog-report.json",
+      "en": {
+        "headline": "Police find no evidence after Tuen Mun report of planned dog killing",
+        "dek": "Animal-welfare volunteers called officers after a resident said she overheard talk of slaughtering a red-collared dog in So Kwun Wat; a search of a village house found nothing."
+      },
+      "zh": {
+        "headline": "屯門掃管笏傳有人擬殺狗食用 警搜屋後無發現",
+        "dek": "動物團體接報指村內有人揚言宰殺戴紅頸帶狗隻，義工聞狗吤報案；警方進入村屋調查，未發現殺狗或食狗證據，列雜項處理。"
+      }
+    },
+    {
+      "id": "2026-09-16-yau-lai-etomidate-arrest",
+      "published_at": "2026-09-16T09:18:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "drugs",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-yau-lai-etomidate-arrest.json",
+      "en": {
+        "headline": "Girl, 17, arrested after mother reports suspected drug use in Yau Tong",
+        "dek": "Police seized three suspected etomidate vape pods at a Yau Lai Estate flat after a late-night call on Tuesday; the teenager was held for alleged possession of dangerous drugs."
+      },
+      "zh": {
+        "headline": "油塘油麗邨17歲少女涉藏依托咪酯煙彈被捕",
+        "dek": "母親周二深夜報案指女兒在家吸毒，警方在雅麗樓單位檢獲三粒懷疑依托咪酯煙彈，少女涉嫌管有危險藥物扣查。"
+      }
+    },
     {
       "id": "2026-09-16-lifestyle-mplus-herzog-de-meuron",
       "published_at": "2026-09-16T07:26:00+08:00",
