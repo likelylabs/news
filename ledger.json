@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-16T13:07:30+08:00",
+  "updated_at": "2026-09-16T15:16:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "gfci-hong-kong-asia-top-sep2026",
+      "id": "2026-09-16-gfci-asia-top-hub",
+      "first_seen": "2026-09-16T15:15:00+08:00",
+      "headline_en": "Hong Kong retains Asia’s top financial hub ranking for fourth straight year"
+    },
+    {
+      "key": "lifestyle-victoria-park-intl-lantern-2026",
+      "id": "2026-09-16-lifestyle-intl-lantern-spectacular",
+      "first_seen": "2026-09-16T15:16:00+08:00",
+      "headline_en": "International Lantern Spectacular opens at Victoria Park from Thursday"
+    },
     {
       "key": "man-ming-lane-drugs-raid-sep15",
       "id": "2026-09-16-man-ming-lane-drugs-raid",
