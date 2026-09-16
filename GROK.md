@@ -380,6 +380,14 @@ translation reads worst, so write it natively for a Hong Kong reader.
    before you commit. (If — and only if — your run environment can execute
    code, you may self-check by running `python3 tools/build_index.py`, which
    prints exactly what's wrong; but the Action is the source of truth.)
+   **Write Chinese as the literal characters, never as `\uXXXX` escapes** —
+   the same goes for any other non-ASCII text (「」, ℃, curly quotes, dashes).
+   `schema/example-article.json` shows the form. Hand-typed escapes are one
+   slip from broken: a single `\u20` typed where `20` was meant makes the
+   file invalid JSON, and **one invalid file blocks the index rebuild for
+   every article** — nothing new goes live, from this run or any later one,
+   until it is fixed. If you write the file with code, use
+   `ensure_ascii=False`.
 11. **Re-verify the Pre-flight checklist.** If any required item is still
     missing, write and include it before the final commit. If the run would
     otherwise publish nothing, find and publish at least one current
