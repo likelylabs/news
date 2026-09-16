@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-16T13:07:31+08:00",
+  "generated_at": "2026-09-16T15:08:34+08:00",
   "live_window_hours": 72,
-  "count": 101,
+  "count": 100,
   "articles": [
+    {
+      "id": "2026-09-16-lifestyle-intl-lantern-spectacular",
+      "published_at": "2026-09-16T15:16:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events",
+        "mid-autumn",
+        "victoria-park"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-lifestyle-intl-lantern-spectacular.json",
+      "en": {
+        "headline": "International Lantern Spectacular opens at Victoria Park from Thursday",
+        "dek": "The Hong Kong Tourism Board’s inaugural free event runs 17 to 27 September, featuring lanterns from 20 countries and giant Nanjing Qinhuai works including an eight-metre banyan installation."
+      },
+      "zh": {
+        "headline": "國際中秋綵燈匯周四起在維園亮燈",
+        "dek": "香港旅遊發展局首辦免費活動由9月17日至27日舉行，展出20個國家地區綵燈及南京秦淮巨型作品，包括八米高榕樹裝置。"
+      }
+    },
+    {
+      "id": "2026-09-16-gfci-asia-top-hub",
+      "published_at": "2026-09-16T15:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "finance",
+        "ranking"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-gfci-asia-top-hub.json",
+      "en": {
+        "headline": "Hong Kong retains Asia’s top financial hub ranking for fourth straight year",
+        "dek": "The city placed third globally in the latest Global Financial Centres Index, scoring 756 points, one behind London and one ahead of Singapore."
+      },
+      "zh": {
+        "headline": "香港連續第四度蟬聯亞洲金融中心榜首",
+        "dek": "最新《全球金融中心指數》報告顯示，香港以756分位列全球第三，僅次於紐約及倫敦，並領先新加坡一分。"
+      }
+    },
     {
       "id": "2026-09-16-wang-fuk-will-power-wound-up",
       "published_at": "2026-09-16T13:07:00+08:00",
@@ -2042,70 +2086,6 @@
       "zh": {
         "headline": "天文台下午1時45分取消強烈季候風信號",
         "dek": "信號於周日下午取消，日間大部分時間生效；稍早康文署因大浪在多個泳灘懸掛紅旗。"
-      }
-    },
-    {
-      "id": "2026-09-13-workweek-weather-outlook",
-      "published_at": "2026-09-13T13:17:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "monsoon",
-        "outlook"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-workweek-weather-outlook.json",
-      "en": {
-        "headline": "Strong Monsoon Signal remains; showers easing into the new week",
-        "dek": "The Observatory expects the northeast monsoon to keep affecting southern China through the middle of the week, with showers mainly at first and gradual improvement later."
-      },
-      "zh": {
-        "headline": "強烈季候風信號仍然生效 新一週初段仍有驟雨",
-        "dek": "天文台表示東北季候風將繼續影響華南至本週中後期，初段仍有驟雨，其後天色逐漸好轉。"
-      }
-    },
-    {
-      "id": "2026-09-13-tai-po-fu-shan-street-fire",
-      "published_at": "2026-09-13T13:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "tai-po",
-        "emergency"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-tai-po-fu-shan-street-fire.json",
-      "en": {
-        "headline": "Shop fire in Tai Po Fu Shan Street sends thick smoke skyward; 50 evacuate",
-        "dek": "Firefighters extinguished a blaze at a ground-floor premises on Fu Shan Street on Sunday morning; about 50 people left the area and no injuries were reported."
-      },
-      "zh": {
-        "headline": "大埔富善街地舖起火濃煙沖天 約50人疏散無人傷",
-        "dek": "周日上午約10時大埔富善街一間地舖發生火警，消防開喉灌救約18分鐘救熄，約50名市民自行疏散，無人受傷。"
-      }
-    },
-    {
-      "id": "2026-09-13-mtr-tung-chung-east-track",
-      "published_at": "2026-09-13T13:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "tung-chung",
-        "railway"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-mtr-tung-chung-east-track.json",
-      "en": {
-        "headline": "MTR opens new Hong Kong-bound track for Tung Chung Line Extension",
-        "dek": "Trains from Tung Chung station began using the new section serving the future Tung Chung East station from the first departure on Sunday; service was smooth and journey times largely unchanged."
-      },
-      "zh": {
-        "headline": "港鐵東涌綫延綫往香港方向新路軌段今日啟用",
-        "dek": "接駁未來東涌東站的往香港方向新路軌段周日正式投入服務，由東涌站開出的列車改行新路段，班次不變，行車時間大致相若，服務暢順。"
       }
     }
   ]
