@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-09-16T15:08:34+08:00",
+  "generated_at": "2026-09-16T17:13:39+08:00",
   "live_window_hours": 72,
-  "count": 100,
+  "count": 99,
   "articles": [
+    {
+      "id": "2026-09-16-1991-holdup-trial-ends",
+      "published_at": "2026-09-16T17:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "courts"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-1991-holdup-trial-ends.json",
+      "en": {
+        "headline": "High Court ends 1991 hold-up trial after defendant dies of cancer",
+        "dek": "The jury was discharged on Wednesday after Wen Wenye, 62, died in custody earlier in the week while the special hearing into the Sham Shui Po shooting was under way."
+      },
+      "zh": {
+        "headline": "高等法院終止1991年深水埗劫殺案聆訊 被告病逝",
+        "dek": "被告文穩業（62歲）早前因肺癌致認知障礙被裁定不適合答辯，本周在扣押期間昏迷後不治，法官周三解散陪審團。"
+      }
+    },
     {
       "id": "2026-09-16-lifestyle-intl-lantern-spectacular",
       "published_at": "2026-09-16T15:16:00+08:00",
@@ -2044,48 +2064,6 @@
       "zh": {
         "headline": "天文台發出雷暴警告 南部水域及島嶼有狂風雷暴",
         "dek": "警告於下午4時27分發出，有效至5時30分，預料香港南部水域及島嶼有局部地區狂風雷暴，強陣風可達每小時70公里或以上。"
-      }
-    },
-    {
-      "id": "2026-09-13-fsd-breathing-apparatus-upgrade",
-      "published_at": "2026-09-13T15:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "emergency",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-fsd-breathing-apparatus-upgrade.json",
-      "en": {
-        "headline": "Fire Services rolls out new breathing apparatus with 10-second cylinder swap",
-        "dek": "The department has equipped firefighters with faster connectors, an air-sharing system and clearer communications, and introduced reconfigurable training rooms at two stations."
-      },
-      "zh": {
-        "headline": "消防處全面更換新一代呼吸器 換氣樽最快10秒",
-        "dek": "新裝備設快速接頭、緊急共享空氣系統及小隊通話器，黃大仙及薄扶林消防局訓練場亦引入活動式間隔。"
-      }
-    },
-    {
-      "id": "2026-09-13-strong-monsoon-cancelled",
-      "published_at": "2026-09-13T15:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "monsoon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-strong-monsoon-cancelled.json",
-      "en": {
-        "headline": "Observatory cancels Strong Monsoon Signal at 1.45pm",
-        "dek": "The signal that had been in force since the early hours was lifted on Sunday afternoon as winds moderated; red flags remained at several beaches earlier in the day."
-      },
-      "zh": {
-        "headline": "天文台下午1時45分取消強烈季候風信號",
-        "dek": "信號於周日下午取消，日間大部分時間生效；稍早康文署因大浪在多個泳灘懸掛紅旗。"
       }
     }
   ]
