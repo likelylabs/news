@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-09-16T09:23:07+08:00",
+  "generated_at": "2026-09-16T11:19:54+08:00",
   "live_window_hours": 72,
-  "count": 101,
+  "count": 100,
   "articles": [
+    {
+      "id": "2026-09-16-lifestyle-westk-picnic-fest",
+      "published_at": "2026-09-16T11:19:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "west-kowloon",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-lifestyle-westk-picnic-fest.json",
+      "en": {
+        "headline": "WestK Picnic Fest opens on the Art Park lawn from Friday",
+        "dek": "The West Kowloon Cultural District will run a harbourfront market, workshops and live music on selected dates from 18 September to 11 October, 2pm to 9pm."
+      },
+      "zh": {
+        "headline": "西九野餐節周五起在藝術公園海濰草坪舉行",
+        "dek": "西九文化區宣布活動於9月18日至10月11日周末及假期舉行，一般下午2時至晚上9時，設市集、工作坊及現場表演。"
+      }
+    },
+    {
+      "id": "2026-09-16-five-year-plan-policy-address-legco",
+      "published_at": "2026-09-16T11:18:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-five-year-plan-policy-address-legco.json",
+      "en": {
+        "headline": "Lee delivers Hong Kong’s first five-year plan and Policy Address",
+        "dek": "The chief executive began presenting both documents at the Legislative Council at 11am, after a two-month consultation that drew tens of thousands of submissions."
+      },
+      "zh": {
+        "headline": "李家超在立法會發表首份五年規劃及施政報告",
+        "dek": "行政長官今早11時在立法會宣讀《香港首個五年規劃》及2026年《施政報告》，兩份文件合共逾十萬字。"
+      }
+    },
+    {
+      "id": "2026-09-16-tuen-mun-road-crash-queues",
+      "published_at": "2026-09-16T11:17:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "tuen-mun"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-tuen-mun-road-crash-queues.json",
+      "en": {
+        "headline": "Tuen Mun Road crash snarls Kowloon-bound traffic at rush hour",
+        "dek": "A private car and a goods vehicle collided near the Tsing Tin Interchange about 8am; local reports said no one was injured and closed lanes reopened after 9am."
+      },
+      "zh": {
+        "headline": "屯門公路平治撼貨車 出九龍車龍一度延至元朗",
+        "dek": "今早約8時青田交匯處附近私家車與中型貨車相撞，運輸署指部分行車線曾封閉，報道指無人受傷，9時後逐步回復。"
+      }
+    },
+    {
+      "id": "2026-09-16-pmh-block-g-gas-report",
+      "published_at": "2026-09-16T11:16:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "hospital",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-pmh-block-g-gas-report.json",
+      "en": {
+        "headline": "Princess Margaret Hospital evacuates Block G after gas report",
+        "dek": "The Hospital Authority said floors 12 to 14 of the Kwai Chung hospital’s pathology block were cleared around 9am; emergency services were not affected."
+      },
+      "zh": {
+        "headline": "瑪嘉烈醫院G座接不明氣體報告 病理樓三層疏散",
+        "dek": "醫管局指今早約9時葵涌瑪嘉烈醫院G座12至14樓接報，屬病理部工作樓層，不涉病人服務，急症服務未受影響。"
+      }
+    },
     {
       "id": "2026-09-16-lifestyle-after-taste-exhibition",
       "published_at": "2026-09-16T09:22:00+08:00",
@@ -2002,113 +2084,6 @@
       "zh": {
         "headline": "教育局：拒增派到校支援人手說法並無根據",
         "dek": "教育局周六發文，指社交平台及家長群組流傳局方拒絕增派人手處理學童精神健康的說法全無事實根據，有需要時會增撥資源。"
-      }
-    },
-    {
-      "id": "2026-09-13-nt-north-drink-drive",
-      "published_at": "2026-09-13T11:19:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "traffic"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-nt-north-drink-drive.json",
-      "en": {
-        "headline": "Two men arrested for drink-driving in New Territories North",
-        "dek": "Police said a two-day road operation in Tuen Mun and Sheung Shui found two local drivers who failed breath tests; both were released on bail."
-      },
-      "zh": {
-        "headline": "新界北打擊酒駕 屯門及上水兩男未能通過呼氣測試被捕",
-        "dek": "警方表示，11至12日在新界北展開代號「追捕者」行動，兩名本地男司機在屯門育康街及青山公路新墟段截查後涉嫌酒後駕駛，已准保釋。"
-      }
-    },
-    {
-      "id": "2026-09-13-policy-address-five-year-preview",
-      "published_at": "2026-09-13T11:18:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "government",
-        "education",
-        "northern-metropolis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-policy-address-five-year-preview.json",
-      "en": {
-        "headline": "Lee to deliver five-year plan and Policy Address on Wednesday",
-        "dek": "The chief executive said he and his team will wear THEi-designed ties, scarves and a blue ‘one-five’ badge when the documents are published on 16 September."
-      },
-      "zh": {
-        "headline": "李家超周三發表五年規劃及施政報告 團隊戴「一五」襟章",
-        "dek": "行政長官周日在社交平台表示，9月16日將同時公布香港首個五年規劃及任內第五份《施政報告》，並預告當日佩戴高科院校友設計的領呔、絲巾及藍色襟章。"
-      }
-    },
-    {
-      "id": "2026-09-13-lifestyle-cavalluna-final",
-      "published_at": "2026-09-13T09:34:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "kai-tak",
-        "sport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-lifestyle-cavalluna-final.json",
-      "en": {
-        "headline": "Cavalluna horse show plays last two Hong Kong dates today",
-        "dek": "The European equestrian production ends its first Asian run at Kai Tak Arena with performances at 1pm and 6pm on Sunday."
-      },
-      "zh": {
-        "headline": "歐洲馬術匯演Cavalluna周日於啟德上演最後兩場",
-        "dek": "《CAVALLUNA月影神駒——穿梭異境》亞洲首演今日下午1時及6時在啟德體藝館大館作最後兩場。"
-      }
-    },
-    {
-      "id": "2026-09-13-hsitp-first-batch-bids",
-      "published_at": "2026-09-13T09:33:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "technology",
-        "northern-metropolis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-hsitp-first-batch-bids.json",
-      "en": {
-        "headline": "Five firms bid for first Loop park land, official says",
-        "dek": "The HSITP chairman said the first two land groups drew six bids, including chip, AI and quantum companies, with results expected around November."
-      },
-      "zh": {
-        "headline": "河套首批用地五企入標 包括晶片及人工智能",
-        "dek": "港深創科園主席蔡傑銘表示，首兩組地共接獲六份標書，評標會着重技術含金量，預料約11月公布。"
-      }
-    },
-    {
-      "id": "2026-09-13-hko-special-weather-tip-morning",
-      "published_at": "2026-09-13T09:32:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "monsoon",
-        "thunderstorm"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-hko-special-weather-tip-morning.json",
-      "en": {
-        "headline": "Observatory warns of heavier showers and squally thunderstorms",
-        "dek": "A special weather tip at 7.45am said a rain band south of Hong Kong was approaching, while the Strong Monsoon Signal remains in force."
-      },
-      "zh": {
-        "headline": "天文台：雷雨帶靠近 未來兩三小時局部雨勢較大",
-        "dek": "天文台周日早上7晈45分發特別天氣提示，本港以南雷雨帶逐漸靠近，強烈季候風信號仍然生效。"
       }
     }
   ]
