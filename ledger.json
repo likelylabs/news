@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-09-16T17:13:39+08:00",
+  "updated_at": "2026-09-16T19:10:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "hang-seng-close-sep16",
+      "id": "2026-09-16-hang-seng-close-sep16",
+      "first_seen": "2026-09-16T19:10:00+08:00",
+      "headline_en": "Hang Seng closes up 46 points as chip and AI shares advance"
+    },
     {
       "key": "1991-sham-shui-po-holdup-trial-ends",
       "id": "2026-09-16-1991-holdup-trial-ends",
