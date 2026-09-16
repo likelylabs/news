@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-09-17T01:18:57+08:00",
+  "updated_at": "2026-09-17T03:20:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-unionpay-free-tram-day-sep17",
+      "id": "2026-09-17-lifestyle-unionpay-free-tram-day",
+      "first_seen": "2026-09-17T03:20:00+08:00",
+      "headline_en": "Free unlimited tram rides on Hong Kong Island today"
+    },
     {
       "key": "heng-fa-chuen-murder-sep16",
       "id": "2026-09-17-heng-fa-chuen-murder",
