@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-16T11:20:46+08:00",
+  "updated_at": "2026-09-16T13:07:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "man-ming-lane-drugs-raid-sep15",
+      "id": "2026-09-16-man-ming-lane-drugs-raid",
+      "first_seen": "2026-09-16T13:06:00+08:00",
+      "headline_en": "Police seize HK$210,000 of drugs in Yau Ma Tei flat, arrest 11"
+    },
+    {
+      "key": "wang-fuk-will-power-wound-up-sep16",
+      "id": "2026-09-16-wang-fuk-will-power-wound-up",
+      "first_seen": "2026-09-16T13:07:00+08:00",
+      "headline_en": "High Court orders Wang Fuk Court renovation consultant into liquidation"
+    },
     {
       "key": "lifestyle-westk-picnic-fest-2026",
       "id": "2026-09-16-lifestyle-westk-picnic-fest",
