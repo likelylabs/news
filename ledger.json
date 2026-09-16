@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-09-16T09:22:20+08:00",
+  "updated_at": "2026-09-16T09:22:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-after-taste-cheung-sha-wan-2026",
+      "id": "2026-09-16-lifestyle-after-taste-exhibition",
+      "first_seen": "2026-09-16T09:22:00+08:00",
+      "headline_en": "Cheung Sha Wan menu archive show runs until 27 September"
+    },
+    {
+      "key": "lifestyle-little-bao-regent-oct2026",
+      "id": "2026-09-16-lifestyle-little-bao-regent",
+      "first_seen": "2026-09-16T09:21:00+08:00",
+      "headline_en": "Little Bao chef May Chow to cook at Regent Lobby Lounge in October"
+    },
+    {
+      "key": "man-sang-pump-dump-trial-sep15",
+      "id": "2026-09-16-man-sang-pump-dump-trial",
+      "first_seen": "2026-09-16T09:20:00+08:00",
+      "headline_en": "Four face District Court trial over alleged Man Sang pump-and-dump"
+    },
+    {
+      "key": "so-kwun-wat-suspected-dog-killing-sep15",
+      "id": "2026-09-16-so-kwun-wat-dog-report",
+      "first_seen": "2026-09-16T09:19:00+08:00",
+      "headline_en": "Police find no evidence after Tuen Mun report of planned dog killing"
+    },
+    {
+      "key": "yau-lai-etomidate-arrest-sep15",
+      "id": "2026-09-16-yau-lai-etomidate-arrest",
+      "first_seen": "2026-09-16T09:18:00+08:00",
+      "headline_en": "Girl, 17, arrested after mother reports suspected drug use in Yau Tong"
+    },
     {
       "key": "lifestyle-mplus-herzog-de-meuron-focus",
       "id": "2026-09-16-lifestyle-mplus-herzog-de-meuron",
