@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-09-16T19:08:54+08:00",
+  "generated_at": "2026-09-16T21:21:11+08:00",
   "live_window_hours": 72,
-  "count": 97,
+  "count": 95,
   "articles": [
+    {
+      "id": "2026-09-16-baby-bonus-second-child-sep16",
+      "published_at": "2026-09-16T21:22:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "family",
+        "politics"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-baby-bonus-second-child-sep16.json",
+      "en": {
+        "headline": "Second-child baby bonus rises to HK$30,000 under 11 fertility measures",
+        "dek": "The existing HK$20,000 newborn bonus is extended for three years, while tax allowance for second and subsequent children also increases, Chief Executive John Lee said."
+      },
+      "zh": {
+        "headline": "第二胎新生嬰兒獎勵金增至3萬元 生育措施共11項",
+        "dek": "行政長官宣布現有2萬元新生嬰兒獎勵金計劃延長三年，第二名及之後子女獎勵金提高至3萬元，相關免稅額亦上調。"
+      }
+    },
+    {
+      "id": "2026-09-16-foreign-carers-pilot-sep16",
+      "published_at": "2026-09-16T21:21:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "elderly",
+        "health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-foreign-carers-pilot-sep16.json",
+      "en": {
+        "headline": "Hong Kong to pilot foreign domestic carers for elderly care next year",
+        "dek": "The scheme, modelled on the existing foreign domestic helper regime, will admit carers with advanced training and experience to meet home-care needs of older residents."
+      },
+      "zh": {
+        "headline": "港府明年試行輸入外籍家居照顧員照顧長者",
+        "dek": "行政長官在施政報告中宣布，參照外傭制度試行輸入具備較高護老培訓及經驗的外籍家居照顧員，以滿足居家長者照顧需要。"
+      }
+    },
+    {
+      "id": "2026-09-16-building-maintenance-reforms-sep16",
+      "published_at": "2026-09-16T21:20:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "wang-fuk-court",
+        "building-safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-building-maintenance-reforms-sep16.json",
+      "en": {
+        "headline": "Lee pledges building maintenance reforms and bid-rigging study after Tai Po fire",
+        "dek": "The chief executive said a legal study on criminalising bid-rigging in major works would go to LegCo this year, alongside pre-qualified contractor lists and stronger oversight."
+      },
+      "zh": {
+        "headline": "李家超承諾改革樓宇維修制度 研圍標刑事化",
+        "dek": "行政長官在施政報告中表示，會就大維修圍標行為進行法律研究，今年內向立法會提交建議，並推出預審顧問承建商名單及招標評標服務。"
+      }
+    },
     {
       "id": "2026-09-16-hang-seng-close-sep16",
       "published_at": "2026-09-16T19:10:00+08:00",
@@ -1910,117 +1973,6 @@
       "zh": {
         "headline": "海關落馬洲檢活貓市值約2.5萬 61歲內地男客被捕",
         "dek": "關員周日在支線管制站入境大堂截查一名61歲抵港內地男旅客，於其個人行李內發現一隻懷疑非法進口活貓，隨即拘捕，案件交漁護署跟進。"
-      }
-    },
-    {
-      "id": "2026-09-13-lifestyle-mid-autumn-lantern-carnival",
-      "published_at": "2026-09-13T21:17:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "mid-autumn",
-        "tourism",
-        "victoria-park"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-lifestyle-mid-autumn-lantern-carnival.json",
-      "en": {
-        "headline": "Tourism Board opens International Mid-Autumn Lantern Carnival at Victoria Park from 17…",
-        "dek": "The free event runs to 27 September with more than 3,000 lanterns from 20 places, Nanjing Qinhuai heritage pieces including an 8-metre banyan-tree installation, and a Hong Kong lantern courtyard."
-      },
-      "zh": {
-        "headline": "旅發局首辦國際中秋綵燈匯 9月17日起維園亮燈",
-        "dek": "活動免費開放至27日，設逾3000盞來自20個國家地區綵燈、南京秦淮非遺巨型燈組包括8米榕樹，以及香港綵燈庭。"
-      }
-    },
-    {
-      "id": "2026-09-13-shenzhen-bay-nlb-bus-crash",
-      "published_at": "2026-09-13T21:16:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "bus",
-        "shenzhen-bay",
-        "accident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-shenzhen-bay-nlb-bus-crash.json",
-      "en": {
-        "headline": "New Lantao Bus collides with trees at Shenzhen Bay Port; no injuries",
-        "dek": "A double-decker Volvo B8L left the roadway after dropping passengers on Sunday morning, damaging two trees and its upper windscreen; the driver was assisting police."
-      },
-      "zh": {
-        "headline": "深圳灣口岸新大嶼山巴士自炒撞樹 無人受傷",
-        "dek": "周日上午約11時一輛Volvo B8L雙層巴士落客後失控，剷上路中花槽撞毀兩棵樹及上層擋風玻璃，車長協助調查。"
-      }
-    },
-    {
-      "id": "2026-09-13-iphone-fraud-700-reports",
-      "published_at": "2026-09-13T21:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "fraud",
-        "technology",
-        "banking",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-iphone-fraud-700-reports.json",
-      "en": {
-        "headline": "Police receive over 700 reports of unauthorised iPhone purchases worth HK$14.7m",
-        "dek": "Officers said electronic reports from Saturday to Sunday involved suspected credit-card theft for online smartphone buys, with the largest single case about HK$114,000; no arrests yet."
-      },
-      "zh": {
-        "headline": "警方接逾700宗疑盜用信用卡購智能電話報案 涉款約1470萬",
-        "dek": "電子報案中心周六至周日接獲超過700人報案，指信用卡疑被盜用於網上購買智能電話，最大一宗約11.4萬元，暫無人被捕。"
-      }
-    },
-    {
-      "id": "2026-09-13-yau-ma-tei-burglary-arrest",
-      "published_at": "2026-09-13T19:16:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "yau-ma-tei"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-yau-ma-tei-burglary-arrest.json",
-      "en": {
-        "headline": "Man arrested after falling while fleeing Yau Ma Tei flat burglary",
-        "dek": "Police say a 44-year-old Pakistani man was caught after climbing from a window of a Shanghai Street tenement unit and falling; he was taken to hospital with a waist injury."
-      },
-      "zh": {
-        "headline": "油麻地唐樓疑爆竊 巴裔男爬窗逃走墮地受傷被捕",
-        "dek": "警方下午約1時45分接報上海街唐樓單位大門疑被撬開，發現44歲巴基斯坦裔男子爬窗逃去時墮下腰傷，當場拘捕。"
-      }
-    },
-    {
-      "id": "2026-09-13-customs-airport-cannabis-seizures",
-      "published_at": "2026-09-13T19:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "customs",
-        "drugs",
-        "airport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-customs-airport-cannabis-seizures.json",
-      "en": {
-        "headline": "Customs seizes 9kg cannabis buds in two airport cases; two arrested",
-        "dek": "Officers found about 8kg in a Malaysian woman’s baggage from Bangkok on Saturday and 1kg in a Mainland man’s baggage from Bangkok on Sunday, with a combined estimated value of HK$1.8 million."
-      },
-      "zh": {
-        "headline": "海關機場連破兩宗行李藏毒案 檢9公斤大麻花拘兩人",
-        "dek": "周六馬來西亞籍女子從曼谷抵港寄艙行李檢約8公斤懷疑大麻花；周日內地男子同樣從曼谷抵港檢約1公斤，合共市值約180萬元。"
       }
     }
   ]
