@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-09-16T23:04:56+08:00",
+  "generated_at": "2026-09-17T01:18:57+08:00",
   "live_window_hours": 72,
-  "count": 96,
+  "count": 95,
   "articles": [
+    {
+      "id": "2026-09-17-pc-chu-chun-kwok-death",
+      "published_at": "2026-09-17T01:21:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-pc-chu-chun-kwok-death.json",
+      "en": {
+        "headline": "Police constable left vegetative after 2005 knife attack dies after 21 years",
+        "dek": "Chu Chun-kwok, who was paralysed from the neck down after being slashed while on duty in Cheung Sha Wan, died at Kwong Wah Hospital on Wednesday aged 52."
+      },
+      "zh": {
+        "headline": "2005年執勤遇刺成植物人警員朱振國離世",
+        "dek": "前警員朱振國2005年在深水埗執勤時遭刀割頸動脈，其後成為植物人21年，周三於廣華醫院離世，終年52歲。"
+      }
+    },
+    {
+      "id": "2026-09-17-heng-fa-chuen-murder",
+      "published_at": "2026-09-17T01:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "chai-wan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-heng-fa-chuen-murder.json",
+      "en": {
+        "headline": "Police arrest husband after woman found dead with knife wounds in Heng Fa Chuen",
+        "dek": "A 53-year-old woman was discovered with neck wounds in a flat in Block 2 of the Chai Wan estate late on Wednesday; her 52-year-old husband was arrested on suspicion of murder."
+      },
+      "zh": {
+        "headline": "杏花邨女子頸部刀傷倒斃 丈夫涉謀殺被捕",
+        "dek": "周三晚柴灣杏花邨第二座單位內一名53歲女子頸部受傷倒斃，警方拘捕其52歲丈夫，案件列作謀殺，由東區重案組調查。"
+      }
+    },
     {
       "id": "2026-09-16-mpox-two-cases-sep16",
       "published_at": "2026-09-16T23:05:00+08:00",
@@ -1929,71 +1970,6 @@
       "zh": {
         "headline": "M+呈獻Herzog & de Meuron聚焦展 慶祝開幕五周年",
         "dek": "焦點空間展出瑞士建築事務所新近捐贈的模型、繪圖及物料樣本，涵蓋M+大樓、大館及北京國家體育場等項目，2026年9月12日起開放。"
-      }
-    },
-    {
-      "id": "2026-09-14-blacks-link-wartime-bullet",
-      "published_at": "2026-09-14T01:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "police",
-        "hiking",
-        "wartime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-14/2026-09-14-blacks-link-wartime-bullet.json",
-      "en": {
-        "headline": "Hiker finds wartime bullet on Black’s Link; police seize it for testing",
-        "dek": "A walker discovered a single round while on the Hong Kong Island trail on Sunday, took it home to Happy Valley and called police; officers classified the case as ammunition found and sent the item for laboratory…"
-      },
-      "zh": {
-        "headline": "布力徑行山客發現戰時子彈 警方檢走化驗",
-        "dek": "行山人士周日在港島布力徑發現一枚子彈，帶回跑馬地箕璉坊住所後報警；警員接報檢取子彈作化驗，案件列彈藥發現。"
-      }
-    },
-    {
-      "id": "2026-09-13-tung-chee-hwa-state-funeral",
-      "published_at": "2026-09-13T23:19:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "government",
-        "tung-chee-hwa"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-tung-chee-hwa-state-funeral.json",
-      "en": {
-        "headline": "State funeral for Tung Chee-hwa scheduled for 20 September, sources say",
-        "dek": "Hong Kong’s first chief executive is expected to receive a state funeral with the national flag draped on the casket; a central government funeral committee is preparing the arrangements."
-      },
-      "zh": {
-        "headline": "消息：董建華國葬訂9月20日舉行",
-        "dek": "香港首任行政長官、全國政協前副主席董建華的國葬據悉訂於9月20日舉行，靈柩將覆蓋國旗，中央成立治喪委員會安排事宜。"
-      }
-    },
-    {
-      "id": "2026-09-13-customs-lok-ma-chau-live-cat",
-      "published_at": "2026-09-13T23:18:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "customs",
-        "animals",
-        "lok-ma-chau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-13/2026-09-13-customs-lok-ma-chau-live-cat.json",
-      "en": {
-        "headline": "Customs seizes live cat valued at HK$25,000 at Lok Ma Chau; mainland man arrested",
-        "dek": "Officers intercepted a 61-year-old incoming passenger at the Spur Line Control Point on Sunday and found the animal in his personal luggage; the case was referred to the Agriculture, Fisheries and Conservation…"
-      },
-      "zh": {
-        "headline": "海關落馬洲檢活貓市值約2.5萬 61歲內地男客被捕",
-        "dek": "關員周日在支線管制站入境大堂截查一名61歲抵港內地男旅客，於其個人行李內發現一隻懷疑非法進口活貓，隨即拘捕，案件交漁護署跟進。"
       }
     }
   ]
