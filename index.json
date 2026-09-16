@@ -1,8 +1,51 @@
 {
-  "generated_at": "2026-09-16T11:20:46+08:00",
+  "generated_at": "2026-09-16T13:07:31+08:00",
   "live_window_hours": 72,
-  "count": 99,
+  "count": 101,
   "articles": [
+    {
+      "id": "2026-09-16-wang-fuk-will-power-wound-up",
+      "published_at": "2026-09-16T13:07:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "courts",
+        "wang-fuk-court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-wang-fuk-will-power-wound-up.json",
+      "en": {
+        "headline": "High Court orders Wang Fuk Court renovation consultant into liquidation",
+        "dek": "Will Power Architects Company Limited, the firm that advised the Tai Po estate’s major renovation before the November 2025 fire, failed to appear on a creditor’s petition and was wound up today."
+      },
+      "zh": {
+        "headline": "宏福苑維修顧問鴻毅被頒令清盤",
+        "dek": "擔任大埔宏福苑強制驗樓工程顧問的鴻毅建築師有限公司，今日在高等法院因債權人呈請而被頒令清盤，公司無人應訊。"
+      }
+    },
+    {
+      "id": "2026-09-16-man-ming-lane-drugs-raid",
+      "published_at": "2026-09-16T13:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "drugs",
+        "police",
+        "yau-ma-tei"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-16/2026-09-16-man-ming-lane-drugs-raid.json",
+      "en": {
+        "headline": "Police seize HK$210,000 of drugs in Yau Ma Tei flat, arrest 11",
+        "dek": "Yau Tsim officers raided a Man Ming Lane unit on Tuesday, recovering suspected methamphetamine, heroin, cocaine and midazolam tablets; a 56-year-old woman was held for operating a drug den."
+      },
+      "zh": {
+        "headline": "油麻地文明里毒窟檢值21萬毒品 拘11人",
+        "dek": "油尖警方周二突擊搜查文明里單位，檢獲懷疑冰毒、海洛英、可卡因及藍精靈，56歲女子涉經營毒窟及販運被捕。"
+      }
+    },
     {
       "id": "2026-09-16-lifestyle-westk-picnic-fest",
       "published_at": "2026-09-16T11:19:00+08:00",
