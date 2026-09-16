@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-17T01:18:57+08:00",
+  "generated_at": "2026-09-17T03:18:11+08:00",
   "live_window_hours": 72,
   "count": 95,
   "articles": [
+    {
+      "id": "2026-09-17-lifestyle-unionpay-free-tram-day",
+      "published_at": "2026-09-17T03:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "transport",
+        "tram"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-lifestyle-unionpay-free-tram-day.json",
+      "en": {
+        "headline": "Free unlimited tram rides on Hong Kong Island today",
+        "dek": "UnionPay International is offering unlimited free travel on all Hong Kong Tramways services on Thursday as part of a promotion tied to its lucky draw campaign."
+      },
+      "zh": {
+        "headline": "今日港島電車全日免費任坐",
+        "dek": "銀聯國際周四舉辦電車免費乘車日，市民及旅客可無限次免費乘搭港島電車，活動同時為其抽獎盛典揭幕。"
+      }
+    },
     {
       "id": "2026-09-17-pc-chu-chun-kwok-death",
       "published_at": "2026-09-17T01:21:00+08:00",
@@ -1947,29 +1969,6 @@
       "zh": {
         "headline": "東北季候風持續 本周日間炎熱中期轉晴",
         "dek": "天文台表示東北季候風未來數日影響華南，周一周二早晚有驟雨，其後高空反氣旋覆蓋廣東，本周中期大致天晴炎熱。"
-      }
-    },
-    {
-      "id": "2026-09-14-lifestyle-herzog-de-meuron-m-plus-focus",
-      "published_at": "2026-09-14T03:12:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "exhibition",
-        "m-plus",
-        "architecture"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-14/2026-09-14-lifestyle-herzog-de-meuron-m-plus-focus.json",
-      "en": {
-        "headline": "M+ opens Herzog & de Meuron: In Focus for museum’s fifth anniversary",
-        "dek": "The exhibition in the Focus Gallery displays newly donated models, drawings and material samples from the Swiss firm that designed the M+ building, Tai Kwun and Beijing’s National Stadium, running from 12 September 2026."
-      },
-      "zh": {
-        "headline": "M+呈獻Herzog & de Meuron聚焦展 慶祝開幕五周年",
-        "dek": "焦點空間展出瑞士建築事務所新近捐贈的模型、繪圖及物料樣本，涵蓋M+大樓、大館及北京國家體育場等項目，2026年9月12日起開放。"
       }
     }
   ]
