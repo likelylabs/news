@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-09-18T03:18:50+08:00",
+  "generated_at": "2026-09-18T03:21:30+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-09-18-tung-chee-hwa-funeral-traffic",
+      "published_at": "2026-09-18T03:25:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "north-point",
+        "funeral",
+        "tung-chee-hwa",
+        "traffic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-tung-chee-hwa-funeral-traffic.json",
+      "en": {
+        "headline": "Temporary traffic curbs in North Point for Tung Chee-hwa funeral rites",
+        "dek": "The Transport Department will ban right turns from Java Road into King’s Road westbound on Sunday morning and close selected roadside parking spaces in Quarry Bay over the weekend."
+      },
+      "zh": {
+        "headline": "董建華喪禮北角臨時交通管制 周日上午禁渣華道右轉英皇道",
+        "dek": "運輸署公布，周日上午9時至11時禁止所有車輛由渣華道右轉入英皇道西行，周末期間鰂魚涌多個路旁泊位亦會臨時封閉。"
+      }
+    },
     {
       "id": "2026-09-18-sex-offence-bill-persistent-child-abuse",
       "published_at": "2026-09-18T03:21:00+08:00",
