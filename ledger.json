@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-17T15:07:47+08:00",
+  "updated_at": "2026-09-17T17:18:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "hung-shui-kiu-university-town-sites-sep17",
+      "id": "2026-09-17-hung-shui-kiu-uni-town-sites",
+      "first_seen": "2026-09-17T17:15:00+08:00",
+      "headline_en": "Government opens 26 hectares at Hung Shui Kiu for university campuses"
+    },
+    {
+      "key": "yuen-long-tesla-fatal-sentence-sep17",
+      "id": "2026-09-17-yuen-long-tesla-driver-jailed",
+      "first_seen": "2026-09-17T17:16:00+08:00",
+      "headline_en": "Tesla driver jailed 22 months for fatal amber-light crash in Yuen Long"
+    },
+    {
+      "key": "hang-seng-close-sep17",
+      "id": "2026-09-17-hang-seng-close",
+      "first_seen": "2026-09-17T17:17:00+08:00",
+      "headline_en": "Hang Seng closes down about 159 points after Fed and HKMA rate rises"
+    },
     {
       "key": "lau-fau-shan-warehouse-fire-sep17",
       "id": "2026-09-17-lau-fau-shan-warehouse-fire",
@@ -426,7 +444,7 @@
       "key": "thunderstorm-warning-sep15-morning",
       "id": "2026-09-15-thunderstorm-warning-morning",
       "first_seen": "2026-09-15T07:05:00+08:00",
-      "headline_en": "Observatory issues Thunderstorm Warning until 7.30am"
+      "headline_en": "Observatory issues Thunderstorm Warning in the morning"
     }
   ]
 }
