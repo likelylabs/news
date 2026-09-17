@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-09-17T15:07:47+08:00",
+  "generated_at": "2026-09-17T17:14:34+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 95,
   "articles": [
+    {
+      "id": "2026-09-17-hang-seng-close",
+      "published_at": "2026-09-17T17:17:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "markets",
+        "hang-seng",
+        "interest-rates"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-hang-seng-close.json",
+      "en": {
+        "headline": "Hang Seng closes down about 159 points after Fed and HKMA rate rises",
+        "dek": "The benchmark index finished Thursday at 24,554.50, off 0.64 per cent, as investors digested the first US rate increase since 2023 and the matching Base Rate lift."
+      },
+      "zh": {
+        "headline": "恒指收市跌約159點 市場消化美息及基本利率上調",
+        "dek": "恒生指數周四收報24,554.50點，跌159.28點或0.64%，投資者消化聯儲局加息及金管局同步上調基本利率至4.25厘。"
+      }
+    },
+    {
+      "id": "2026-09-17-yuen-long-tesla-driver-jailed",
+      "published_at": "2026-09-17T17:16:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "court",
+        "yuen-long",
+        "traffic",
+        "dangerous-driving"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-yuen-long-tesla-driver-jailed.json",
+      "en": {
+        "headline": "Tesla driver jailed 22 months for fatal amber-light crash in Yuen Long",
+        "dek": "District Court sentences Ernest Au Yeung to 22 months and five years’ disqualification after he accelerated through an amber light and killed a 19-year-old pedestrian in 2024."
+      },
+      "zh": {
+        "headline": "元朗衝黃燈撞斃少女 Tesla司機判囚22個月停牌5年",
+        "dek": "區域法院周四判處承認危險駕駛引致他人死亡的歐陽劭匡監禁22個月及停牌5年，指其駕駛態度極之危險。"
+      }
+    },
+    {
+      "id": "2026-09-17-hung-shui-kiu-uni-town-sites",
+      "published_at": "2026-09-17T17:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "northern-metropolis",
+        "education",
+        "hung-shui-kiu",
+        "policy-address",
+        "university-town"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-hung-shui-kiu-uni-town-sites.json",
+      "en": {
+        "headline": "Government opens 26 hectares at Hung Shui Kiu for university campuses",
+        "dek": "Three plots in the Northern Metropolis university town are open for post-secondary institutions to apply until 31 December, with results expected early next year."
+      },
+      "zh": {
+        "headline": "政府推出洪水橋大學城三幅用地 院校申請年底截止",
+        "dek": "北都洪水橋大學城共約26公頃校園區用地今日開放申請，合資格專上院校可至12月31日遞交建議，預計明年初公布進駐院校。"
+      }
+    },
     {
       "id": "2026-09-17-lau-fau-shan-warehouse-fire",
       "published_at": "2026-09-17T15:06:00+08:00",
