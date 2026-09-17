@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-17T11:18:59+08:00",
+  "generated_at": "2026-09-17T11:20:21+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 93,
   "articles": [
+    {
+      "id": "2026-09-17-hang-seng-fed-hike-morning",
+      "published_at": "2026-09-17T11:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "markets",
+        "hang-seng",
+        "interest-rates"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-hang-seng-fed-hike-morning.json",
+      "en": {
+        "headline": "Hang Seng falls about 240 points after Federal Reserve hike",
+        "dek": "Hong Kong stocks opened lower on Thursday as investors digested the first US rate increase since 2023 and the HKMA’s matching lift in the Base Rate."
+      },
+      "zh": {
+        "headline": "聯儲局加息後恒指早市下跌約240點",
+        "dek": "港股周四早段低開，投資者消化美國三年來首次加息，以及金管局同步上調基本利率。"
+      }
+    },
+    {
+      "id": "2026-09-17-lee-tps-radio-remarks",
+      "published_at": "2026-09-17T11:19:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "housing",
+        "john-lee",
+        "public-housing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-lee-tps-radio-remarks.json",
+      "en": {
+        "headline": "Lee says Tenant Purchase Scheme still has problems to study",
+        "dek": "On a radio phone-in, the Chief Executive said about 15 per cent of flats in the 39 estates remain unsold and asked the Housing Bureau to keep examining the plan."
+      },
+      "zh": {
+        "headline": "李家超：租置計劃仍有問題 房屋局繼續研究",
+        "dek": "特首在電台節目表示，39個租置屋邨仍有約一成半單位未售出，已要求房屋局研究如何處理，包括未賣出單位。"
+      }
+    },
     {
       "id": "2026-09-17-lifestyle-kino26-german-film",
       "published_at": "2026-09-17T11:19:00+08:00",
@@ -48,6 +92,28 @@
       }
     },
     {
+      "id": "2026-09-17-sau-mau-ping-missing-girl",
+      "published_at": "2026-09-17T11:18:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "sau-mau-ping",
+        "missing-person",
+        "kwun-tong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-sau-mau-ping-missing-girl.json",
+      "en": {
+        "headline": "Police seek public help to find girl missing from Sau Mau Ping",
+        "dek": "Officers appealed on Thursday for information on a 14-year-old who left an On Tai Estate flat on Saturday afternoon and has not been seen since."
+      },
+      "zh": {
+        "headline": "警方籲市民提供秀茂坪失蹤女童消息",
+        "dek": "一名14歲女童上周六下午離開安泰邨住所後失蹤，家人周一報案，警方周四公開呼籲市民提供線索。"
+      }
+    },
+    {
       "id": "2026-09-17-hang-seng-morning-drop",
       "published_at": "2026-09-17T11:17:00+08:00",
       "updated_at": null,
@@ -67,28 +133,6 @@
       "zh": {
         "headline": "恒指早段跌約240點 市場消化美息上調",
         "dek": "周四上午近10時35分，恒生指數報24,473點，較周三收市跌近1%，投資者消化美國三年來首次加息。"
-      }
-    },
-    {
-      "id": "2026-09-17-sau-mau-ping-missing-girl",
-      "published_at": "2026-09-17T11:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "sau-mau-ping",
-        "missing-person",
-        "on-tai-estate"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-17/2026-09-17-sau-mau-ping-missing-girl.json",
-      "en": {
-        "headline": "Police seek public help to find missing girl from Sau Mau Ping",
-        "dek": "A 14-year-old left On Tai Estate on Saturday afternoon and has not been seen since; her family reported her missing on Monday, police said."
-      },
-      "zh": {
-        "headline": "警方尋找秀茂坪失蹤女童 家人周一報案",
-        "dek": "警方周四呼籲市民提供消息，一名14歲女童上周六下午離開安泰邸住所後失蹤，家人於周一報案。"
       }
     },
     {
