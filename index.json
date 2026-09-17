@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-09-17T07:25:41+08:00",
+  "generated_at": "2026-09-17T09:14:46+08:00",
   "live_window_hours": 72,
-  "count": 95,
+  "count": 98,
   "articles": [
+    {
+      "id": "2026-09-17-lifestyle-lee-tung-lanterns",
+      "published_at": "2026-09-17T09:24:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "events",
+        "mid-autumn",
+        "wan-chai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-lifestyle-lee-tung-lanterns.json",
+      "en": {
+        "headline": "Lee Tung Avenue hangs more than 800 Mid-Autumn lanterns",
+        "dek": "The Wan Chai pedestrian street’s display runs until 19 October, with lights from 5pm and an 18-metre LED fire dragon parade on 25 September."
+      },
+      "zh": {
+        "headline": "灣仔利東街懸掛逾800盎中秋燈籠至10月",
+        "dek": "「彩燈‧迎月」沿200米林藮大道展出至10月19日，下午8時亮燈；9月25日將有18米LED火龍巡遊。"
+      }
+    },
+    {
+      "id": "2026-09-17-kitchee-gangwon-acl-two",
+      "published_at": "2026-09-17T09:23:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "football",
+        "kitchee",
+        "mong-kok"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-kitchee-gangwon-acl-two.json",
+      "en": {
+        "headline": "Kitchee open AFC Champions League Two campaign at Mong Kok",
+        "dek": "The Hong Kong champions host South Korea’s Gangwon FC at 8.15pm in Group H, with Kuching City and Phnom Penh Crown the other sides in the pool."
+      },
+      "zh": {
+        "headline": "傑志亞冠二級聯賽首戰今晚旺角迎戰江原FC",
+        "dek": "港超冠軍晚上8時15分在旺角大球場揭開H組戰幕，同組還有古晉城及金邊皇冠。"
+      }
+    },
+    {
+      "id": "2026-09-17-hkma-base-rate-hike",
+      "published_at": "2026-09-17T09:22:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "finance",
+        "hkma",
+        "interest-rates"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-hkma-base-rate-hike.json",
+      "en": {
+        "headline": "HKMA lifts base rate to 4.25pc, first rise since 2023",
+        "dek": "The monetary authority followed the US Federal Reserve’s quarter-point increase, setting the Discount Window benchmark under the linked exchange rate formula."
+      },
+      "zh": {
+        "headline": "金管局將基本利率調高至4.25厘 2023年以來首次上調",
+        "dek": "跟隨美國聯儲局加息四分一厘，金管局按聯繫匯率預設公式即時將貼現窗基準定於4.25厘。"
+      }
+    },
     {
       "id": "2026-09-17-lifestyle-sik-sik-yuen-lantern",
       "published_at": "2026-09-17T07:21:00+08:00",
