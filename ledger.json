@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T19:28:39+08:00",
+  "updated_at": "2026-09-17T21:18:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -13,6 +13,24 @@
       "id": "2026-09-17-local-chikungunya-tai-kok-tsui",
       "first_seen": "2026-09-17T19:29:00+08:00",
       "headline_en": "First local chikungunya case of 2026 confirmed in Tai Kok Tsui"
+    },
+    {
+      "key": "industrial-accident-imperial-cullinan-tai-kok-tsui-sep17",
+      "id": "2026-09-17-industrial-accident-imperial-cullinan",
+      "first_seen": "2026-09-17T21:15:00+08:00",
+      "headline_en": "Worker falls three metres from water tank at Tai Kok Tsui estate"
+    },
+    {
+      "key": "mtr-mid-autumn-service-extension-2026",
+      "id": "2026-09-17-mtr-mid-autumn-service",
+      "first_seen": "2026-09-17T21:16:00+08:00",
+      "headline_en": "MTR to extend services about 1.5 hours over Mid-Autumn Festival"
+    },
+    {
+      "key": "asian-games-flag-bearers-yang-sham-2026",
+      "id": "2026-09-17-asian-games-flag-bearers",
+      "first_seen": "2026-09-17T21:17:00+08:00",
+      "headline_en": "Basketballer Yang and wushu athlete Sham named Asian Games flag bearers"
     }
   ]
 }
