@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T23:06:17+08:00",
+  "updated_at": "2026-09-18T03:21:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -49,6 +49,18 @@
       "id": "2026-09-17-lifestyle-victoria-park-lantern-carnival",
       "first_seen": "2026-09-17T23:06:00+08:00",
       "headline_en": "Victoria Park Mid-Autumn lantern carnival opens with international displays"
+    },
+    {
+      "key": "legco-condemns-us-jimmy-lai-sep18",
+      "id": "2026-09-18-legco-condemns-us-jimmy-lai",
+      "first_seen": "2026-09-18T03:20:00+08:00",
+      "headline_en": "LegCo strongly condemns US politicians over Jimmy Lai case remarks"
+    },
+    {
+      "key": "sex-offence-bill-persistent-child-abuse-cyberflashing",
+      "id": "2026-09-18-sex-offence-bill-persistent-child-abuse",
+      "first_seen": "2026-09-18T03:21:00+08:00",
+      "headline_en": "Persistent child sexual abuse offence and cyberflashing to be criminalised"
     }
   ]
 }
