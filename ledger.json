@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T03:18:50+08:00",
+  "updated_at": "2026-09-18T03:25:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -61,6 +61,12 @@
       "id": "2026-09-18-sex-offence-bill-persistent-child-abuse",
       "first_seen": "2026-09-18T03:21:00+08:00",
       "headline_en": "Persistent child sexual abuse offence and cyberflashing to be criminalised"
+    },
+    {
+      "key": "tung-chee-hwa-funeral-north-point-traffic-sep20",
+      "id": "2026-09-18-tung-chee-hwa-funeral-traffic",
+      "first_seen": "2026-09-18T03:25:00+08:00",
+      "headline_en": "Temporary traffic curbs in North Point for Tung Chee-hwa funeral rites"
     }
   ]
 }
