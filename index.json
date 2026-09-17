@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-09-17T11:22:16+08:00",
+  "generated_at": "2026-09-17T13:12:42+08:00",
   "live_window_hours": 72,
-  "count": 93,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-09-17-ck-center-ii-nearly-full",
+      "published_at": "2026-09-17T13:13:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "property",
+        "central",
+        "office",
+        "cheung-kong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-ck-center-ii-nearly-full.json",
+      "en": {
+        "headline": "Cheung Kong Center II nearly fully leased after SIG takes three floors",
+        "dek": "CK Hutchison said the 41-storey Central tower’s leasable space is almost fully taken, with US quant firm Susquehanna International Group signing for about 52,000 square feet."
+      },
+      "zh": {
+        "headline": "長江集團中心二期可租樓面接近全租 SIG租用三層",
+        "dek": "長實表示中環長江集團中心二期可出租樓面已接近全部租出，美國量化交易公司Susquehanna International Group簽約租用約5.2萬平方呎。"
+      }
+    },
+    {
+      "id": "2026-09-17-banks-prime-rates-hold",
+      "published_at": "2026-09-17T13:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "banks",
+        "interest-rates",
+        "hsbc",
+        "prime-rate"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-banks-prime-rates-hold.json",
+      "en": {
+        "headline": "Major banks hold Hong Kong prime rates after HKMA base-rate rise",
+        "dek": "HSBC, Bank of China (Hong Kong) and Standard Chartered left their best lending rates unchanged on Thursday despite the monetary authority lifting the Base Rate to 4.25 per cent."
+      },
+      "zh": {
+        "headline": "主要銀行維持港元最優惠利率不變",
+        "dek": "金管局將基本利率上調至4.25厘後，匯豐、中銀香港及渣打均宣布維持港元最優惠利率不變。"
+      }
+    },
     {
       "id": "2026-09-17-hang-seng-fed-hike-morning",
       "published_at": "2026-09-17T11:20:00+08:00",
@@ -1865,86 +1911,6 @@
       "zh": {
         "headline": "鴨脷洲利東邨單位傳異味 破門揭兩男倒斃",
         "dek": "東業樓保安下午約2時半報案，消防破門入屋發現兩名男子倒斃，救護員證實死亡，警方封鎖現場調查。"
-      }
-    },
-    {
-      "id": "2026-09-14-deloitte-retail-sales-forecast",
-      "published_at": "2026-09-14T13:09:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "retail"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-14/2026-09-14-deloitte-retail-sales-forecast.json",
-      "en": {
-        "headline": "Deloitte lifts Hong Kong 2026 retail sales forecast to HK$412 billion",
-        "dek": "The firm now expects full-year growth of 8.4 per cent after a stronger-than-expected first half driven by high-value goods and visitor spending."
-      },
-      "zh": {
-        "headline": "德勤上調本港今年零售銷售預測至4120億元",
-        "dek": "上半年銷售約2030億元按年升9.7%，德勤料全年增長8.4%，高價值貨品及旅客消費帶動。"
-      }
-    },
-    {
-      "id": "2026-09-14-consumer-council-sanitary-pads",
-      "published_at": "2026-09-14T13:08:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "consumer"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-14/2026-09-14-consumer-council-sanitary-pads.json",
-      "en": {
-        "headline": "Consumer Council finds wide variation in sanitary pad absorbency",
-        "dek": "One of 36 winged pads tested took 73 seconds to absorb simulated fluid, exceeding the mainland recommended standard of 60 seconds; five samples had moisture content above 10 per cent."
-      },
-      "zh": {
-        "headline": "消委會測試衞生巾吸收速度參差 一款超國家標準",
-        "dek": "36款有翼衞生巾樣本中，16款10秒內吸完試液，一款需73秒超出內地標準不多於60秒；5款水分含量高於10%。"
-      }
-    },
-    {
-      "id": "2026-09-14-sau-mau-ping-taxi-pedestrian",
-      "published_at": "2026-09-14T13:07:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "accident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-14/2026-09-14-sau-mau-ping-taxi-pedestrian.json",
-      "en": {
-        "headline": "Pedestrian hit by taxi in Sau Mau Ping, semi-conscious in hospital",
-        "dek": "A man was struck near Po Tat Estate on Po Lam Road at about 9:51am and was taken to Queen Elizabeth Hospital; police are investigating whether a red light was involved."
-      },
-      "zh": {
-        "headline": "秀茂坪男途人捱的士撞 半昏迷送院",
-        "dek": "周一上午約9時51分，一名男子在寶琳路寶達邨對開過馬路時被的士撞倒，頭傷半昏迷送伊利沙伯醫院，警方調查是否有人衝燈。"
-      }
-    },
-    {
-      "id": "2026-09-14-thunderstorm-warning-extended",
-      "published_at": "2026-09-14T13:06:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-14/2026-09-14-thunderstorm-warning-extended.json",
-      "en": {
-        "headline": "Thunderstorm Warning extended until 1:45pm",
-        "dek": "The Observatory prolonged the warning issued at 9:50am as isolated thunderstorms continued to affect Hong Kong, with heavier rain possible in some areas."
-      },
-      "zh": {
-        "headline": "雷暴警告延長至下午1時45分",
-        "dek": "天文台上午9時50分發出的雷暴警告延長至下午1時45分，預料香港有局部地區雷暴，部分地區雨勢較大。"
       }
     }
   ]
