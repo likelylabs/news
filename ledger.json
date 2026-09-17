@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T07:15:23+08:00",
+  "updated_at": "2026-09-18T07:17:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -67,6 +67,42 @@
       "id": "2026-09-18-tung-chee-hwa-funeral-traffic",
       "first_seen": "2026-09-18T03:25:00+08:00",
       "headline_en": "Temporary traffic curbs in North Point for Tung Chee-hwa funeral rites"
+    },
+    {
+      "key": "labour-shortage-projection-2028-130000",
+      "id": "2026-09-18-labour-shortage-2028-130000",
+      "first_seen": "2026-09-18T07:12:00+08:00",
+      "headline_en": "Hong Kong labour shortfall cut to 130,000 by 2028, Sun says"
+    },
+    {
+      "key": "kai-tak-muk-lai-street-site-fire-sep17",
+      "id": "2026-09-18-kai-tak-site-fire",
+      "first_seen": "2026-09-18T07:13:00+08:00",
+      "headline_en": "Fire put out at Kai Tak public housing site, no injuries"
+    },
+    {
+      "key": "hung-hom-kwun-tong-restaurants-red-paint-arrests-sep17",
+      "id": "2026-09-18-restaurants-red-paint-arrests",
+      "first_seen": "2026-09-18T07:14:00+08:00",
+      "headline_en": "Two men arrested over red-paint attacks on two restaurants"
+    },
+    {
+      "key": "tung-chee-hwa-condolence-points-sep18-20",
+      "id": "2026-09-18-tung-condolence-points",
+      "first_seen": "2026-09-18T07:15:00+08:00",
+      "headline_en": "Three public condolence points open today for Tung Chee-hwa"
+    },
+    {
+      "key": "seasonal-flu-vaccine-2026-27-programme-starts",
+      "id": "2026-09-18-flu-vaccine-programme-starts",
+      "first_seen": "2026-09-18T07:16:00+08:00",
+      "headline_en": "Seasonal flu vaccination programme now under way"
+    },
+    {
+      "key": "lifestyle-cultural-centre-mid-autumn-lights-2026",
+      "id": "2026-09-18-lifestyle-cultural-centre-lanterns",
+      "first_seen": "2026-09-18T07:17:00+08:00",
+      "headline_en": "Tsim Sha Tsui Cultural Centre piazza lights up for Mid-Autumn"
     }
   ]
 }
