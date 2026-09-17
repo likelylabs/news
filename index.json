@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-09-17T21:19:25+08:00",
+  "generated_at": "2026-09-17T23:06:17+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-09-17-lifestyle-victoria-park-lantern-carnival",
+      "published_at": "2026-09-17T23:06:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "victoria-park",
+        "lantern",
+        "culture"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-lifestyle-victoria-park-lantern-carnival.json",
+      "en": {
+        "headline": "Victoria Park Mid-Autumn lantern carnival opens with international displays",
+        "dek": "The LCSD carnival and the Tourism Board’s first International Lantern Spectacular run from 17 to 27 September, featuring thousands of lanterns including an eight-metre banyan installation."
+      },
+      "zh": {
+        "headline": "維園中秋綵燈會開幕 首辦國際綵燈匯展出逾三千盞燈",
+        "dek": "康文署綵燈會及旅發局國際中秋綵燈匯由9月17日至27日舉行，亮點包括八米高榕樹綵燈及港式美食造型燈飾。"
+      }
+    },
+    {
+      "id": "2026-09-17-999-multimedia-upgrade-2028",
+      "published_at": "2026-09-17T23:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "emergency",
+        "999",
+        "technology",
+        "security"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-999-multimedia-upgrade-2028.json",
+      "en": {
+        "headline": "999 callers to send real-time audio and video from 2028, Tang says",
+        "dek": "Security minister Chris Tang outlined three new functions for the emergency hotline, including instant multimedia transfer to Fire Services and call prioritisation in major incidents."
+      },
+      "zh": {
+        "headline": "鄧炳強：999熱線2028年增實時傳影音功能",
+        "dek": "保安局局長表示將新增三項功能，包括市民用通訊軟件即時傳送聲影畫、資料即時轉交消防，以及繁忙時優先處理危急個案。"
+      }
+    },
+    {
+      "id": "2026-09-17-police-officer-chu-dies",
+      "published_at": "2026-09-17T23:04:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "bravery",
+        "cheung-sha-wan",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-police-officer-chu-dies.json",
+      "en": {
+        "headline": "Police officer left paralysed in 2005 knife attack dies after 21 years",
+        "dek": "Constable Chu Chun-kwok, awarded the Medal for Bravery (Gold) for chasing an armed attacker despite a severed artery, died on Wednesday at the age of 52."
+      },
+      "zh": {
+        "headline": "2005年執勤被斬頸癱瘓21年 警員朱振國離世",
+        "dek": "朱振國周三於廣華醫院逝世，終年52歲。他曾獲頒金英勇勳章，表揚在頸動脈被割斷下仍追截持刀兇徒。"
+      }
+    },
     {
       "id": "2026-09-17-asian-games-flag-bearers",
       "published_at": "2026-09-17T21:17:00+08:00",
@@ -1869,88 +1937,6 @@
       "zh": {
         "headline": "17歲少年甲型流感併發敗血性休克 深切治療部留醫",
         "dek": "衞生防護中心錄得一宗兒童嚴重流感個案，患者情況已轉趨穩定；中心呼籲周四起盡快接種季節性流感疫苗。"
-      }
-    },
-    {
-      "id": "2026-09-14-lifestyle-westk-picnic-fest",
-      "published_at": "2026-09-14T21:31:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-14/2026-09-14-lifestyle-westk-picnic-fest.json",
-      "en": {
-        "headline": "West Kowloon Picnic Fest opens on Art Park lawn from 18 September",
-        "dek": "The new autumn series runs on selected weekends and public holidays until 11 October, with food stalls, workshops, live music and a bike-and-picnic pass."
-      },
-      "zh": {
-        "headline": "西九野餐節9月18日起於藝術公園海濱草坪舉行",
-        "dek": "活動逢周末及公眾假期至10月11日，設美食市集、工作坊、現場表演及單車野餐套票。"
-      }
-    },
-    {
-      "id": "2026-09-14-1991-sham-shui-po-defendant-dies",
-      "published_at": "2026-09-14T21:30:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-14/2026-09-14-1991-sham-shui-po-defendant-dies.json",
-      "en": {
-        "headline": "Remand prisoner in 1991 Sham Shui Po murder case dies after collapsing in court cells",
-        "dek": "The 62-year-old man, who had late-stage lung cancer, was found unconscious during a High Court hearing and later certified dead in hospital; a death inquest will follow."
-      },
-      "zh": {
-        "headline": "1991年深水埗劫殺案被告羈留室昏迷送院不治",
-        "dek": "62歲患肺癌還押男犯周一在高等法院應訊期間昏倒，下午證實死亡，死因庭將研訊。"
-      }
-    },
-    {
-      "id": "2026-09-14-monkeypox-case-31yo",
-      "published_at": "2026-09-14T21:29:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "mpox"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-14/2026-09-14-monkeypox-case-31yo.json",
-      "en": {
-        "headline": "31-year-old man confirmed with mpox after high-risk contacts in Hong Kong and abroad",
-        "dek": "The patient is stable in isolation at Princess Margaret Hospital; the Centre for Health Protection is tracing contacts and has recorded 20 cases so far this year."
-      },
-      "zh": {
-        "headline": "31歲男子確診猴痘 潛伏期內外地及本港有高風險接觸",
-        "dek": "患者情況穩定，在瑪嘉烈醫院隔離治療；今年累計20宗個案，防護中心正追蹤接觸者。"
-      }
-    },
-    {
-      "id": "2026-09-14-iphone-fraud-reports-1209",
-      "published_at": "2026-09-14T21:28:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "fraud"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-14/2026-09-14-iphone-fraud-reports-1209.json",
-      "en": {
-        "headline": "Police receive 1,209 reports of unauthorised iPhone pre-orders worth HK$25 million",
-        "dek": "The figure has risen from more than 700 reports and HK$14.7 million disclosed a day earlier; orders have not been shipped and banks and Apple are cancelling transactions."
-      },
-      "zh": {
-        "headline": "警方接獲1209人報案疑盜卡預購iPhone 涉款約2500萬元",
-        "dek": "數字由前晚逾700宗、1470萬元上升；涉案訂單尚未出貨，警方已交銀行及蘋果公司取消交易。"
       }
     }
   ]
