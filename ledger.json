@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-09-17T13:12:42+08:00",
+  "updated_at": "2026-09-17T15:06:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lau-fau-shan-warehouse-fire-sep17",
+      "id": "2026-09-17-lau-fau-shan-warehouse-fire",
+      "first_seen": "2026-09-17T15:06:00+08:00",
+      "headline_en": "Three-alarm fire breaks out at Lau Fau Shan wood warehouse"
+    },
     {
       "key": "banks-prime-rates-hold-sep17",
       "id": "2026-09-17-banks-prime-rates-hold",
@@ -421,24 +427,6 @@
       "id": "2026-09-15-thunderstorm-warning-morning",
       "first_seen": "2026-09-15T07:05:00+08:00",
       "headline_en": "Observatory issues Thunderstorm Warning until 7.30am"
-    },
-    {
-      "key": "lung-hang-estate-crash-drugs-sep14",
-      "id": "2026-09-15-lung-hang-crash-drugs",
-      "first_seen": "2026-09-15T07:06:00+08:00",
-      "headline_en": "Sha Tin driver arrested after crash and false robbery report"
-    },
-    {
-      "key": "mong-kok-fairlaw-dundas-den-sep14",
-      "id": "2026-09-15-mong-kok-fairlaw-dens",
-      "first_seen": "2026-09-15T07:07:00+08:00",
-      "headline_en": "Two men arrested in Mong Kok anti-drug operations"
-    },
-    {
-      "key": "chuk-yuen-south-sau-yuen-drugs-sep14",
-      "id": "2026-09-15-chuk-yuen-south-drugs",
-      "first_seen": "2026-09-15T07:08:00+08:00",
-      "headline_en": "Police seize drugs in Chuk Yuen South Estate raid"
     }
   ]
 }
