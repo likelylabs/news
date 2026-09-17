@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-09-18T06:57:23+08:00",
+  "generated_at": "2026-09-18T07:15:23+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-09-18-restaurants-red-paint-arrests",
+      "published_at": "2026-09-18T07:14:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "kwun-tong",
+        "hung-hom",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-restaurants-red-paint-arrests.json",
+      "en": {
+        "headline": "Two men arrested over red-paint attacks on two restaurants",
+        "dek": "Police said the men, aged 33 and 49, were detained on suspicion of criminal damage after paint was thrown at two outlets of the same dining group."
+      },
+      "zh": {
+        "headline": "觀塘紅磬兩酒樓遭淋紅油 警拘兩男涉刑毀",
+        "dek": "西九龍總區反三合會行動組周四在油麻地及旺角拘捕33歲及49歲男子，涉嫌早前向同一集團兩間酒樓淋澔紅油。"
+      }
+    },
+    {
+      "id": "2026-09-18-kai-tak-site-fire",
+      "published_at": "2026-09-18T07:13:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "kai-tak",
+        "fire",
+        "housing",
+        "construction"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-kai-tak-site-fire.json",
+      "en": {
+        "headline": "Fire put out at Kai Tak public housing site, no injuries",
+        "dek": "Firefighters extinguished a blaze on a lower floor of a Home Ownership Scheme site on Muk Lai Street on Thursday evening after multiple reports of flames and smoke."
+      },
+      "zh": {
+        "headline": "啟德沐禮街公屋地盤起火 消防救熄無人傷",
+        "dek": "周四晚上約8時48分，啟德一個興建中的居屋地盤低層單位起火，消防開喉灌救後救熄，無人受傷，毋須疏散。"
+      }
+    },
+    {
+      "id": "2026-09-18-labour-shortage-2028-130000",
+      "published_at": "2026-09-18T07:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "labour",
+        "employment",
+        "policy-address",
+        "talent",
+        "youth"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-labour-shortage-2028-130000.json",
+      "en": {
+        "headline": "Hong Kong labour shortfall cut to 130,000 by 2028, Sun says",
+        "dek": "The labour chief said a mid-term manpower update points to a smaller gap than the 180,000 projected two years ago, citing talent schemes and rapid AI adoption."
+      },
+      "zh": {
+        "headline": "孫玉菏：2028年人力短缺收窄至約13萬人",
+        "dek": "勞福局局長表示，中期人力推算顯示缺口較兩年前估計的18萬人減少5萬，歸因於人才政策及人工智能發展。"
+      }
+    },
     {
       "id": "2026-09-18-tung-chee-hwa-funeral-traffic",
       "published_at": "2026-09-18T03:25:00+08:00",
@@ -1799,108 +1866,6 @@
       "zh": {
         "headline": "天文台將雷暴警告延長至上午9時30分",
         "dek": "今早4時42分發出的雷暴警告已延長至上午9時30分，預料新界有局部地區雷暴。"
-      }
-    },
-    {
-      "id": "2026-09-15-lifestyle-yuen-long-lantern-street",
-      "published_at": "2026-09-15T07:09:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "community",
-        "culture"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-lifestyle-yuen-long-lantern-street.json",
-      "en": {
-        "headline": "Yuen Long market lane hangs handmade lanterns ahead of Mid-Autumn",
-        "dek": "The incense shop Koon Heung Hong again lines a passage inside Tai Kiu Market with hand-tied lanterns in the weeks before the festival on 25 September."
-      },
-      "zh": {
-        "headline": "中秋將至 元朗大橋街市再掛手紮燈籠",
-        "dek": "大橋街市內香燭店冠香行按年在巷內掛起手紮燈籠，中秋正日為9月25日，翌日為公眾假期。"
-      }
-    },
-    {
-      "id": "2026-09-15-chuk-yuen-south-drugs",
-      "published_at": "2026-09-15T07:08:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-chuk-yuen-south-drugs.json",
-      "en": {
-        "headline": "Man, 66, arrested over HK$210,000 of drugs at Chuk Yuen South",
-        "dek": "Police seized suspected cocaine and ice from a man and a flat at Sau Yuen House; he is due in Kowloon City Magistrates' Courts on Wednesday."
-      },
-      "zh": {
-        "headline": "竹園南部檢值21萬毒品 66歲男子涉販毒被捕",
-        "dek": "秀茂坪警區人員周一晚在秀園樓外及單位內檢獲懸疑可卡因及冰毒，案件周三早上在九龍城裁判法院提堂。"
-      }
-    },
-    {
-      "id": "2026-09-15-mong-kok-fairlaw-dens",
-      "published_at": "2026-09-15T07:07:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-mong-kok-fairlaw-dens.json",
-      "en": {
-        "headline": "Two men arrested in Mong Kok anti-drug operations",
-        "dek": "Police say a commercial unit on Dundas Street was used as a drug den and a street stop later yielded suspected drugs worth about HK$13,000."
-      },
-      "zh": {
-        "headline": "旺角商廈單位涉毒窟 警拘兩男檢1.3萬元毒品",
-        "dek": "旺角反三合會行動組周一展開「明法」行動，在登打士街商廈拘捕39歲男子；同日在街上截查再拘51歲男子。"
-      }
-    },
-    {
-      "id": "2026-09-15-lung-hang-crash-drugs",
-      "published_at": "2026-09-15T07:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-lung-hang-crash-drugs.json",
-      "en": {
-        "headline": "Sha Tin driver arrested after crash and false robbery report",
-        "dek": "Police say a 37-year-old man crashed into a barrier at Lung Hang Estate, fled, then claimed he had been robbed; officers found suspected drugs in the car."
-      },
-      "zh": {
-        "headline": "沙田隆亨部私家車撞閘 司機報假劫案兼藏毒被捕",
-        "dek": "警方指37歲男子在榮心樓外撞欄後逃走，其後報稱遭3人行劫，調查後認為與事實不符，並在車內檢獲懸疑毒品。"
-      }
-    },
-    {
-      "id": "2026-09-15-thunderstorm-warning-morning",
-      "published_at": "2026-09-15T07:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "thunderstorm"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-thunderstorm-warning-morning.json",
-      "en": {
-        "headline": "Observatory issues Thunderstorm Warning until 7.30am",
-        "dek": "The warning was issued at 4.42am after overnight thunderstorms; isolated storms are still expected at first before a hot, partly sunny day."
-      },
-      "zh": {
-        "headline": "天文台清晨再發雷暴警告 有效至上午7時30分",
-        "dek": "天文台周二上午4時42分發出雷暴警告，有效至7時30分，預料本港初時仍有局部地區雷暴。"
       }
     }
   ]
