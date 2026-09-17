@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-09-17T19:28:39+08:00",
+  "generated_at": "2026-09-17T21:19:25+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-09-17-asian-games-flag-bearers",
+      "published_at": "2026-09-17T21:17:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-games",
+        "flag-bearer",
+        "basketball",
+        "wushu"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-asian-games-flag-bearers.json",
+      "en": {
+        "headline": "Basketballer Yang and wushu athlete Sham named Asian Games flag bearers",
+        "dek": "Ivan Yang and Lydia Sham will lead the Hong Kong, China contingent into the opening ceremony in Nagoya on Saturday, the Sports Federation and Olympic Committee announced."
+      },
+      "zh": {
+        "headline": "亞運持旗手公布 楊博文沈曉榆領軍開幕",
+        "dek": "籃球員楊博文及武術運動員沈曉榆獲選為香港代表團亞運開幕禮持旗手，體育總會周四在名古屋歡迎禮上宣布。"
+      }
+    },
+    {
+      "id": "2026-09-17-mtr-mid-autumn-service",
+      "published_at": "2026-09-17T21:16:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "mid-autumn",
+        "transport",
+        "light-rail"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-mtr-mid-autumn-service.json",
+      "en": {
+        "headline": "MTR to extend services about 1.5 hours over Mid-Autumn Festival",
+        "dek": "Local lines and Light Rail will run later on 25 September, with denser frequencies from mid-afternoon, while East Rail Line strengthens weekend services and high-speed rail adds trains."
+      },
+      "zh": {
+        "headline": "港鐵中秋延長服務約1.5小時 多綫加密班次",
+        "dek": "中秋節當日本地綫及輕鐵延長至凌晨一至二時許收車，下午三時起逐步加密至約兩分鐘一班，東鐵綫周末亦加強服務。"
+      }
+    },
+    {
+      "id": "2026-09-17-industrial-accident-imperial-cullinan",
+      "published_at": "2026-09-17T21:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "industrial-accident",
+        "tai-kok-tsui",
+        "safety",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-industrial-accident-imperial-cullinan.json",
+      "en": {
+        "headline": "Worker falls three metres from water tank at Tai Kok Tsui estate",
+        "dek": "A 60-year-old man was found unconscious after an apparent fall during maintenance work at Imperial Cullinan on Hoi Fai Road; police are treating it as an industrial accident."
+      },
+      "zh": {
+        "headline": "大角咀帝匯豪庭維修工人墮水箱三米昏迷",
+        "dek": "60歲男工人周四傍晚在海輝道私人屋苑進行維修時疑由約三米高水箱墮下，昏迷送院，警方列工業意外調查。"
+      }
+    },
     {
       "id": "2026-09-17-local-chikungunya-tai-kok-tsui",
       "published_at": "2026-09-17T19:29:00+08:00",
