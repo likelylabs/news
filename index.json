@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-17T13:12:42+08:00",
+  "generated_at": "2026-09-17T15:07:47+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-09-17-lau-fau-shan-warehouse-fire",
+      "published_at": "2026-09-17T15:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "lau-fau-shan",
+        "yuen-long",
+        "warehouse"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-lau-fau-shan-warehouse-fire.json",
+      "en": {
+        "headline": "Three-alarm fire breaks out at Lau Fau Shan wood warehouse",
+        "dek": "Fire Services upgraded the blaze at a Kai Pak Ling Road warehouse storing timber shortly after 1.15pm; 28 people were evacuated and no injuries were reported."
+      },
+      "zh": {
+        "headline": "流浮山木材貨倉三級火 28人疏散無人傷",
+        "dek": "消防下午約1時15分接報雞伯嶺路鳳降村貨倉起火，1時29分升為三級，現場存放木材，需遠距離拖喉灌救。"
+      }
+    },
     {
       "id": "2026-09-17-ck-center-ii-nearly-full",
       "published_at": "2026-09-17T13:13:00+08:00",
