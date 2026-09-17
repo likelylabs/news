@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-17T17:14:34+08:00",
+  "generated_at": "2026-09-17T19:27:40+08:00",
   "live_window_hours": 72,
-  "count": 95,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-09-17-local-chikungunya-tai-kok-tsui",
+      "published_at": "2026-09-17T19:29:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "chikungunya",
+        "mosquito",
+        "tai-kok-tsui",
+        "chp"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-local-chikungunya-tai-kok-tsui.json",
+      "en": {
+        "headline": "First local chikungunya case of 2026 confirmed in Tai Kok Tsui",
+        "dek": "A 55-year-old woman living on Li Tak Street has tested positive; she had no recent travel history and is in stable condition in a mosquito-free ward."
+      },
+      "zh": {
+        "headline": "本港今年首宗基孔肯雅熱本地個案 患者居大角咀利得街",
+        "dek": "55歲女子無外遊紀錄，目前情況穩定，正於伊利沙伯醫院無蚊環境下接受治療。"
+      }
+    },
+    {
+      "id": "2026-09-17-unemployment-rate-jun-aug",
+      "published_at": "2026-09-17T19:28:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "employment",
+        "labour",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-17/2026-09-17-unemployment-rate-jun-aug.json",
+      "en": {
+        "headline": "Jobless rate rises to 3.8pc in June-August period",
+        "dek": "Seasonally adjusted unemployment edged up 0.1 percentage point from the previous three months, while underemployment climbed to 1.9 per cent, Census and Statistics Department figures show."
+      },
+      "zh": {
+        "headline": "六月至八月失業率升至3.8% 就業不足率1.9%",
+        "dek": "經季節性調整失業率較前三個月上升0.1個百分點，就業不足率亦升至1.9%，統計處公布最新勞動人口數字。"
+      }
+    },
     {
       "id": "2026-09-17-hang-seng-close",
       "published_at": "2026-09-17T17:17:00+08:00",
@@ -1839,168 +1884,6 @@
       "zh": {
         "headline": "警方接獲1209人報案疑盜卡預購iPhone 涉款約2500萬元",
         "dek": "數字由前晚逾700宗、1470萬元上升；涉案訂單尚未出貨，警方已交銀行及蘋果公司取消交易。"
-      }
-    },
-    {
-      "id": "2026-09-14-gni-q2-2026",
-      "published_at": "2026-09-14T19:07:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-14/2026-09-14-gni-q2-2026.json",
-      "en": {
-        "headline": "Hong Kong GNI rises 7.9 per cent to $966.1 billion in second quarter",
-        "dek": "Census and Statistics Department figures show net investment income inflows lifted residents’ total income above GDP growth of 6.9 per cent."
-      },
-      "zh": {
-        "headline": "本港第二季本地居民總收入升7.9%至9661億元",
-        "dek": "政府統計處公布，投資收益淨流入帶動GNI增幅高於同期GDP的6.9%增長。"
-      }
-    },
-    {
-      "id": "2026-09-14-sei-chun-hing-conviction",
-      "published_at": "2026-09-14T19:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "court",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-14/2026-09-14-sei-chun-hing-conviction.json",
-      "en": {
-        "headline": "Yuen Long district councillor convicted of unlawful sex with underage girl",
-        "dek": "Sei Chun-hing was found guilty of having sexual intercourse with a 13-year-old in 2011 and remanded in custody; he was acquitted of an earlier indecent assault charge."
-      },
-      "zh": {
-        "headline": "元朗區議員施駿興與未成年女童非法性交罪成 還押候判",
-        "dek": "區域法院周一裁定施駿興一項與16歲以下女童非法性交罪成，即時還押；另一項非禮罪則不成立。"
-      }
-    },
-    {
-      "id": "2026-09-14-thunderstorm-warning-evening",
-      "published_at": "2026-09-14T19:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "thunderstorm"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-14/2026-09-14-thunderstorm-warning-evening.json",
-      "en": {
-        "headline": "Observatory issues Thunderstorm Warning until 9pm",
-        "dek": "The warning was issued at 6:30pm as a thunderstorm area northeast of Hong Kong moved closer, with a few squally thunderstorms expected."
-      },
-      "zh": {
-        "headline": "天文台傍晚發出雷暴警告 有效至晚上9時",
-        "dek": "天文台下午6時30分發出雷暴警告，預料香港有幾陣狂風雷暴，有效時間至晚上9時正。"
-      }
-    },
-    {
-      "id": "2026-09-14-multicultural-job-fair",
-      "published_at": "2026-09-14T17:19:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "employment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-14/2026-09-14-multicultural-job-fair.json",
-      "en": {
-        "headline": "Labour Department job fair offers over 2,200 vacancies for ethnic minorities",
-        "dek": "The two-day event at MacPherson Stadium in Mong Kok on 16 and 17 September is free and includes on-the-spot interviews for a wide range of roles."
-      },
-      "zh": {
-        "headline": "勞工處招聘會提供逾二千二百職位 便利少數族裔求職",
-        "dek": "周三及周四於旺角麥花臣場館舉行，約五十間機構參與，大部分為全職，月薪介乎1.2萬至2.4萬元，入場免費。"
-      }
-    },
-    {
-      "id": "2026-09-14-stephen-curry-tuen-mun-school",
-      "published_at": "2026-09-14T17:18:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-14/2026-09-14-stephen-curry-tuen-mun-school.json",
-      "en": {
-        "headline": "Stephen Curry visits Tuen Mun school on first Hong Kong trip in a decade",
-        "dek": "The four-time NBA champion spoke with students at Shun Tak Fraternal Association Leung Kau Kui College and later appeared at a Li-Ning store in Tsim Sha Tsui."
-      },
-      "zh": {
-        "headline": "Stephen Curry十年後再訪港 到屯門中學與學生交流",
-        "dek": "四屆NBA總冠軍周一到訪順德聯誼總會梁銶琚中學，其後在尖沙嘴李寧專門店亮相，吸引大批球迷。"
-      }
-    },
-    {
-      "id": "2026-09-14-consumer-council-bogo-survey",
-      "published_at": "2026-09-14T17:17:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "consumer"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-14/2026-09-14-consumer-council-bogo-survey.json",
-      "en": {
-        "headline": "Consumer Council finds some supermarket multi-buy deals offer little or no saving",
-        "dek": "A survey of 222 products at AEON, ParknShop and Wellcome showed that single-item prices during some ‘buy one get one free’ promotions were higher than in non-promotional periods."
-      },
-      "zh": {
-        "headline": "消委會：超市買一送一未必抵 部分實際無折扣",
-        "dek": "調查AEON、百佳及惠康222件貨品，發現部分多買優惠期間單件售價高於非促銷時段，實際折扣遠低於五折。"
-      }
-    },
-    {
-      "id": "2026-09-14-flu-high-vaccination-urge",
-      "published_at": "2026-09-14T17:16:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "flu"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-14/2026-09-14-flu-high-vaccination-urge.json",
-      "en": {
-        "headline": "Medical Association says flu activity remains high, urges early vaccination",
-        "dek": "Hong Kong has been in the influenza season since late June; the 2026-27 vaccination programme starts on Thursday and the association advises people to get the shot ahead of any further rise."
-      },
-      "zh": {
-        "headline": "醫學會：流感活躍度仍高 籲盡早接種疫苗",
-        "dek": "本港自6月底進入流感季節，活躍程度維持高水平，2026至27年度接種計劃周四展開，醫學會呼籲市民盡早打針。"
-      }
-    },
-    {
-      "id": "2026-09-14-lei-tung-two-men-dead",
-      "published_at": "2026-09-14T17:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-14/2026-09-14-lei-tung-two-men-dead.json",
-      "en": {
-        "headline": "Two men found dead in Lei Tung Estate flat after odour report",
-        "dek": "Security staff at Tung Yip House alerted police around 2:30pm; firefighters forced entry and paramedics confirmed both deaths at the scene."
-      },
-      "zh": {
-        "headline": "鴨脷洲利東邨單位傳異味 破門揭兩男倒斃",
-        "dek": "東業樓保安下午約2時半報案，消防破門入屋發現兩名男子倒斃，救護員證實死亡，警方封鎖現場調查。"
       }
     }
   ]
