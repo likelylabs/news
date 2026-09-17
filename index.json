@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-17T23:06:17+08:00",
+  "generated_at": "2026-09-18T03:18:50+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-09-18-sex-offence-bill-persistent-child-abuse",
+      "published_at": "2026-09-18T03:21:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "crime",
+        "legislation",
+        "child-protection",
+        "security"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-sex-offence-bill-persistent-child-abuse.json",
+      "en": {
+        "headline": "Persistent child sexual abuse offence and cyberflashing to be criminalised",
+        "dek": "The Security Bureau said it would include a new continuous child sexual abuse offence in the sex offences amendment bill after public consultation, and would criminalise sending genital images without consent."
+      },
+      "zh": {
+        "headline": "性罪行修例擬納入持續性侵犯兒童罪 網絡露體刑事化",
+        "dek": "保安局表示經公眾諮詢後採納建議，將「持續性侵犯兒童」罪行納入修訂草案，並將未經同意以數碼方式發送生殖器官影像的行為刑事化。"
+      }
+    },
+    {
+      "id": "2026-09-18-legco-condemns-us-jimmy-lai",
+      "published_at": "2026-09-18T03:20:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "legco",
+        "jimmy-lai",
+        "national-security"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-legco-condemns-us-jimmy-lai.json",
+      "en": {
+        "headline": "LegCo strongly condemns US politicians over Jimmy Lai case remarks",
+        "dek": "The Legislative Council spokesperson said the council fully supports the government in enforcing the law and rejected what it called false and smearing comments from the Congressional-Executive Commission on China."
+      },
+      "zh": {
+        "headline": "立法會嚴厲譴責美國政客就黎智英案發表失實抹黑言論",
+        "dek": "立法會發言人表示全力支持特區政府依法執法，並強烈反對美國「國會及行政當局中國委員會」政客藉聽證會發表失實言論及揚言制裁。"
+      }
+    },
     {
       "id": "2026-09-17-lifestyle-victoria-park-lantern-carnival",
       "published_at": "2026-09-17T23:06:00+08:00",
@@ -1833,110 +1878,6 @@
       "zh": {
         "headline": "天文台清晨再發雷暴警告 有效至上午7時30分",
         "dek": "天文台周二上午4時42分發出雷暴警告，有效至7時30分，預料本港初時仍有局部地區雷暴。"
-      }
-    },
-    {
-      "id": "2026-09-15-thunderstorm-warning-overnight",
-      "published_at": "2026-09-15T01:12:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "thunderstorm"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-thunderstorm-warning-overnight.json",
-      "en": {
-        "headline": "Thunderstorm Warning extended until midnight Tuesday",
-        "dek": "The Observatory prolonged the warning first issued at 6.30pm Monday, saying isolated thunderstorms are still expected over Hong Kong."
-      },
-      "zh": {
-        "headline": "雷暴警告延長至周二午夜",
-        "dek": "天文台周一傍晚6時30分發出的雷暴警告延長有效至周二午夜12時，預料本港仍有局部地區雷暴。"
-      }
-    },
-    {
-      "id": "2026-09-15-pwh-site-fire",
-      "published_at": "2026-09-15T01:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "fire",
-        "hospital"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-pwh-site-fire.json",
-      "en": {
-        "headline": "Smoke from container office at Prince of Wales Hospital redevelopment site; no injuries",
-        "dek": "Firefighters raised the alarm to No. 2 after thick smoke was reported from a worksite container office in Sha Tin around 9.47pm; the blaze was under control within half an hour."
-      },
-      "zh": {
-        "headline": "威爾斯親王醫院重建地盤貨櫃辦公室冒濃煙 無人受傷",
-        "dek": "周一晚約9時47分沙田威院重建地盤有濃煙冒出，消防由一級改列二級火警，出動煙帽隊開喉灌救，約半小時後停止動員，初步無人受傷。"
-      }
-    },
-    {
-      "id": "2026-09-15-wong-tai-sin-flu-cluster-update",
-      "published_at": "2026-09-15T01:10:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "flu",
-        "hospital"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-wong-tai-sin-flu-cluster-update.json",
-      "en": {
-        "headline": "Wong Tai Sin Hospital flu cluster grows by 14 cases; three elderly men die",
-        "dek": "Hospital Authority says six more male patients in the chest ward, seven female patients in the convalescent ward and one staff member tested positive for influenza A; three men aged 81 to 95 with serious underlying…"
-      },
-      "zh": {
-        "headline": "黃大仙醫院甲流群組再增14人 3名有嚴重疾病男病人離世",
-        "dek": "醫管局指胸肺科病房再有6名男病人、療養病房7名女病人及1名職員確診甲型流感，其中3名81至95歲男病人因嚴重自身疾病離世，其餘情況穩定。"
-      }
-    },
-    {
-      "id": "2026-09-14-school-admission-scam-arrest",
-      "published_at": "2026-09-14T23:16:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "fraud"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-14/2026-09-14-school-admission-scam-arrest.json",
-      "en": {
-        "headline": "Man arrested over alleged HK$2.84 million school placement scam",
-        "dek": "Police say a 51-year-old businessman claimed he could secure places at a North Point secondary school and later university entry for dozens of students."
-      },
-      "zh": {
-        "headline": "訛稱提供學額保送大學 男子涉騙284萬元機場被捕",
-        "dek": "警方指51歲商人聲稱可提供蘇浙公學學額及保證入讀港澳大學，收受內地升學顧問約284萬元。"
-      }
-    },
-    {
-      "id": "2026-09-14-severe-flu-17yo",
-      "published_at": "2026-09-14T23:15:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "flu"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-14/2026-09-14-severe-flu-17yo.json",
-      "en": {
-        "headline": "17-year-old boy in intensive care with influenza A and septic shock",
-        "dek": "The Centre for Health Protection recorded a severe paediatric case; the patient is stable after treatment and the centre urges vaccination as the new programme starts on Thursday."
-      },
-      "zh": {
-        "headline": "17歲少年甲型流感併發敗血性休克 深切治療部留醫",
-        "dek": "衞生防護中心錄得一宗兒童嚴重流感個案，患者情況已轉趨穩定；中心呼籲周四起盡快接種季節性流感疫苗。"
       }
     }
   ]
