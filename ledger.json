@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T07:23:47+08:00",
+  "updated_at": "2026-09-19T07:35:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -259,6 +259,30 @@
       "id": "2026-09-19-lifestyle-rooftop-moonlit-market",
       "first_seen": "2026-09-19T01:16:00+08:00",
       "headline_en": "Rooftop Moonlit Market opens in Lai Chi Kok for Mid-Autumn weekend"
+    },
+    {
+      "key": "foreign-domestic-carers-pilot-pay-sep18",
+      "id": "2026-09-19-foreign-domestic-carers-pilot",
+      "first_seen": "2026-09-19T07:28:00+08:00",
+      "headline_en": "Foreign elderly carers to earn 10-20pc more than helpers"
+    },
+    {
+      "key": "paul-lam-ai-misuse-laws-sep18",
+      "id": "2026-09-19-paul-lam-ai-misuse-laws",
+      "first_seen": "2026-09-19T07:29:00+08:00",
+      "headline_en": "Lam says existing laws already cover AI-aided crime"
+    },
+    {
+      "key": "yuen-long-fung-nin-road-slashing-sep18",
+      "id": "2026-09-19-yuen-long-fung-nin-wounding",
+      "first_seen": "2026-09-19T07:30:00+08:00",
+      "headline_en": "Woman wounded in Yuen Long street attack, suspect still at large"
+    },
+    {
+      "key": "tung-chee-hwa-vigil-sep19",
+      "id": "2026-09-19-tung-chee-hwa-vigil",
+      "first_seen": "2026-09-19T07:31:00+08:00",
+      "headline_en": "Vigil for Tung Chee-hwa begins this afternoon in North Point"
     }
   ]
 }
