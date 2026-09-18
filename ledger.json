@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T11:14:00+08:00",
+  "updated_at": "2026-09-18T13:25:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -163,6 +163,18 @@
       "id": "2026-09-18-lifestyle-tai-hang-fire-dragon",
       "first_seen": "2026-09-18T11:12:00+08:00",
       "headline_en": "Tai Hang Fire Dragon Dance set for three nights from 24 September"
+    },
+    {
+      "key": "weekend-weather-outlook-sep19-20",
+      "id": "2026-09-18-weekend-weather-outlook-sep19-20",
+      "first_seen": "2026-09-18T13:20:00+08:00",
+      "headline_en": "Fine and hot weekend expected as anticyclone holds"
+    },
+    {
+      "key": "northern-link-spur-line-authorised-sep18",
+      "id": "2026-09-18-northern-link-spur-authorised",
+      "first_seen": "2026-09-18T13:22:00+08:00",
+      "headline_en": "Northern Link Spur Line Hong Kong section authorised for construction"
     }
   ]
 }
