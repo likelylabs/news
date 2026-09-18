@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-18T21:15:16+08:00",
+  "generated_at": "2026-09-18T23:19:53+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-09-18-mpox-two-new-cases",
+      "published_at": "2026-09-18T23:20:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "mpox",
+        "chp",
+        "department-of-health",
+        "vaccination"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-mpox-two-new-cases.json",
+      "en": {
+        "headline": "Two more mpox cases confirmed, CHP urges high-risk groups to vaccinate",
+        "dek": "A 28-year-old and a 26-year-old man are in isolation after high-risk sexual contacts in Hong Kong; 16 cases have been recorded since August."
+      },
+      "zh": {
+        "headline": "再增兩宗猴痘確診 防護中心籲高風險群組接種疫苗",
+        "dek": "28歲及26歲男子分別因高風險性行為感染，現於醫院隔離治療；八月至今累計16宗新個案。"
+      }
+    },
+    {
+      "id": "2026-09-18-tai-po-pedestrian-dies",
+      "published_at": "2026-09-18T23:19:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "traffic",
+        "tai-po",
+        "accident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-tai-po-pedestrian-dies.json",
+      "en": {
+        "headline": "72-year-old pedestrian dies after Tai Po light goods vehicle collision",
+        "dek": "The woman, knocked down at a crossing on On Tai Road, was pronounced dead at Prince of Wales Hospital; the 68-year-old driver remains under arrest for dangerous driving."
+      },
+      "zh": {
+        "headline": "大埔輕型貨車撞72歲女途人 送院後不治",
+        "dek": "事主於安泰路行人過路處被撞倒，頭部重傷昏迷，傍晚於威爾斯親王醫院不治；68歲男司機涉危險駕駛被捕。"
+      }
+    },
+    {
+      "id": "2026-09-18-pwh-wrong-meal-patient-dies",
+      "published_at": "2026-09-18T23:18:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "hospital",
+        "hospital-authority",
+        "patient-safety",
+        "prince-of-wales"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-pwh-wrong-meal-patient-dies.json",
+      "en": {
+        "headline": "Prince of Wales patient dies after being given normal meal instead of pureed food",
+        "dek": "A 54-year-old man with swallowing difficulties choked and suffered cardiac arrest after staff served a normal dinner; the hospital has apologised and stood down two staff."
+      },
+      "zh": {
+        "headline": "威院病人需糊餐卻獲正常餐 哽喉後不治",
+        "dek": "54歲認知障礙男病人入院後被餵正常晚餐，出現哽喉及心臟停頓，同日深夜離世；院方已向家屬致歉，兩名涉事員工暫時調離崗位。"
+      }
+    },
     {
       "id": "2026-09-18-qeh-kai-tak-relocation-seamless",
       "published_at": "2026-09-18T21:17:00+08:00",
@@ -1859,50 +1925,6 @@
       "zh": {
         "headline": "董建華國葬周末在北角舉行 周六設靈周日公祭",
         "dek": "設靈周六下午在香港殮儀館福海堂，周日早上公祭及出殮；治喪委員會由全國政協第一副主席石泰峰擔任主任。"
-      }
-    },
-    {
-      "id": "2026-09-15-lifestyle-kai-tak-asian-games-lights",
-      "published_at": "2026-09-15T23:16:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "asian-games",
-        "kai-tak",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-lifestyle-kai-tak-asian-games-lights.json",
-      "en": {
-        "headline": "Kai Tak Sports Park main stadium launches Asian Games light show from tonight",
-        "dek": "A 30-minute dynamic display on the main stadium façade runs nightly from 8pm until 24 October, featuring cheer messages and visual motifs of Olympic sports including e-sports."
-      },
-      "zh": {
-        "headline": "啟德體育園主場館外牆今晚起上演亞運主題燈光展",
-        "dek": "每晚8時至8時半，展至10月24日，展示「全城上下撐港隊」訊息及乒乓球、單車、劍擊、足球、電競等動感畫面。"
-      }
-    },
-    {
-      "id": "2026-09-15-tsz-lok-illegal-petrol",
-      "published_at": "2026-09-15T23:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "fire-services",
-        "wong-tai-sin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-tsz-lok-illegal-petrol.json",
-      "en": {
-        "headline": "Fire Services seize 921 litres of petrol from illegal station in Tsz Lok Estate car park",
-        "dek": "A 34-year-old two-way permit holder was intercepted after officers found a seven-seater van leaking fuel and fitted with a tank and refuelling tools; enough petrol for about 20 private cars was recovered."
-      },
-      "zh": {
-        "headline": "消防搗破慈樂邨停車場非法加油站 檢921公升汽油截查雙程證男",
-        "dek": "一輛七人車漏油，車內發現油缸及入油工具，檢獲足以注滿約20輛私家車的汽油；34歲持雙程證男子涉嫌多項危險品及消防條例罪行。"
       }
     }
   ]
