@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T23:19:53+08:00",
+  "updated_at": "2026-09-19T01:16:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -253,6 +253,12 @@
       "id": "2026-09-18-mpox-two-new-cases",
       "first_seen": "2026-09-18T23:20:00+08:00",
       "headline_en": "Two more mpox cases confirmed, CHP urges high-risk groups to vaccinate"
+    },
+    {
+      "key": "lifestyle-rooftop-moonlit-market-lai-chi-kok-sep19",
+      "id": "2026-09-19-lifestyle-rooftop-moonlit-market",
+      "first_seen": "2026-09-19T01:16:00+08:00",
+      "headline_en": "Rooftop Moonlit Market opens in Lai Chi Kok for Mid-Autumn weekend"
     }
   ]
 }
