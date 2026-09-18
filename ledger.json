@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T17:06:39+08:00",
+  "updated_at": "2026-09-18T19:26:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -205,6 +205,18 @@
       "id": "2026-09-18-lifestyle-runway-51-barminski",
       "first_seen": "2026-09-18T16:35:00+08:00",
       "headline_en": "Cardboard airport exhibition Runway 51 closes this weekend"
+    },
+    {
+      "key": "gummow-npj-dies-sep2026",
+      "id": "2026-09-18-gummow-npj-dies",
+      "first_seen": "2026-09-18T19:25:00+08:00",
+      "headline_en": "Australian CFA non-permanent judge William Gummow dies aged 83"
+    },
+    {
+      "key": "lifestyle-west-kowloon-picnic-fest-2026",
+      "id": "2026-09-18-lifestyle-west-kowloon-picnic-fest",
+      "first_seen": "2026-09-18T19:26:00+08:00",
+      "headline_en": "West Kowloon Picnic Fest opens for four weekends by the harbour"
     }
   ]
 }
