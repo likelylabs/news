@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-18T17:06:39+08:00",
+  "generated_at": "2026-09-18T19:25:20+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-09-18-lifestyle-west-kowloon-picnic-fest",
+      "published_at": "2026-09-18T19:26:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "west-kowloon",
+        "picnic",
+        "art-park",
+        "mid-autumn"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-lifestyle-west-kowloon-picnic-fest.json",
+      "en": {
+        "headline": "West Kowloon Picnic Fest opens for four weekends by the harbour",
+        "dek": "The first edition runs from today until 11 October on the Art Park waterfront lawn, with food market stalls, live music, workshops and picnic gear rental."
+      },
+      "zh": {
+        "headline": "西九首辦野餐節 一連四個周末及假期舉行",
+        "dek": "西九文化區藝術公園海濱東草坪由今日起至10月11日舉行野餐節，設美食市集、音樂表演、工作坊及野餐用品租借。"
+      }
+    },
+    {
+      "id": "2026-09-18-gummow-npj-dies",
+      "published_at": "2026-09-18T19:25:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "courts",
+        "judiciary",
+        "cfa",
+        "australia"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-gummow-npj-dies.json",
+      "en": {
+        "headline": "Australian CFA non-permanent judge William Gummow dies aged 83",
+        "dek": "The Hong Kong Judiciary and legal bodies expressed deep sadness at the passing of the former High Court of Australia justice who sat on the Court of Final Appeal since 2013."
+      },
+      "zh": {
+        "headline": "終院非常任法官甘慕賢逝世 享年83歲",
+        "dek": "司法機構及法律界對澳洲籍終審法院非常任法官甘慕賢辭世深表哀悼，他自2013年起出任終院非常任法官。"
+      }
+    },
     {
       "id": "2026-09-18-lifestyle-runway-51-barminski",
       "published_at": "2026-09-18T16:35:00+08:00",
@@ -1899,69 +1944,6 @@
       "zh": {
         "headline": "中大新傳學院網站被導向博彩頁 校方暫停網站調查",
         "dek": "訪客瀏覽新聞與傳播學院網站時被重新導向至新註冊域名；校方表示暫未發現個人敏感資料外洩。"
-      }
-    },
-    {
-      "id": "2026-09-15-lcsd-asian-games-focal-sites",
-      "published_at": "2026-09-15T19:20:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-games",
-        "lcsd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-lcsd-asian-games-focal-sites.json",
-      "en": {
-        "headline": "LCSD sets up Asian Games focal sites across 18 districts",
-        "dek": "Sports centres will broadcast live coverage from 19 September to 4 October so the public can watch and cheer for national and Hong Kong athletes."
-      },
-      "zh": {
-        "headline": "康文署18區設亞運觀賞站 鼓勵市民為運動員打氣",
-        "dek": "指定體育館將於9月19日至10月4日直播亞運會賽事，公眾可到場觀看並為國家及香港運動員加油。"
-      }
-    },
-    {
-      "id": "2026-09-15-drug-abuse-h1-2026",
-      "published_at": "2026-09-15T19:19:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "drugs",
-        "security"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-drug-abuse-h1-2026.json",
-      "en": {
-        "headline": "Reported drug abusers fall 9pc in first half of 2026",
-        "dek": "Central Registry figures show 2,688 reported abusers, down from 2,955 a year earlier; youth under 21 also declined while etomidate remains the main drug among young people."
-      },
-      "zh": {
-        "headline": "上半年被呈報吸毒人數跌9% 青少年組別亦下降",
-        "dek": "檔案室數字顯示上半年2,688人被呈報，按年減少，21歲以下由458人降至404人，依托咪酯仍是青少年最常吸食毒品。"
-      }
-    },
-    {
-      "id": "2026-09-15-mpox-case-sep15",
-      "published_at": "2026-09-15T19:18:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "mpox",
-        "chp"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-mpox-case-sep15.json",
-      "en": {
-        "headline": "CHP investigates new Mpox case involving 27-year-old man",
-        "dek": "The patient developed genital rash and fever; he is stable in isolation at Queen Elizabeth Hospital after high-risk contact with two male strangers in Hong Kong."
-      },
-      "zh": {
-        "headline": "衞生防護中心調查新一宗猴痘個案 27歲男患者情況穩定",
-        "dek": "患者生殖器官起疹發燒，潛伏期內曾與兩名陌生男子有高風險接觸，現於伊利沙伯醫院隔離治療。"
       }
     }
   ]
