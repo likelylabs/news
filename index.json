@@ -1,8 +1,94 @@
 {
-  "generated_at": "2026-09-19T06:42:32+08:00",
+  "generated_at": "2026-09-19T07:23:47+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-09-19-tung-chee-hwa-vigil",
+      "published_at": "2026-09-19T07:31:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tung-chee-hwa",
+        "north-point",
+        "funeral"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-tung-chee-hwa-vigil.json",
+      "en": {
+        "headline": "Vigil for Tung Chee-hwa begins this afternoon in North Point",
+        "dek": "A wake runs from 3pm at Hong Kong Funeral Home, with a memorial service and cortege scheduled for Sunday morning."
+      },
+      "zh": {
+        "headline": "董建華設靈今日北角舉行",
+        "dek": "香港殮儀館福海堂下午3時起設靈，週日上午舉行公祭及出殮。"
+      }
+    },
+    {
+      "id": "2026-09-19-yuen-long-fung-nin-wounding",
+      "published_at": "2026-09-19T07:30:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "yuen-long",
+        "wounding"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-yuen-long-fung-nin-wounding.json",
+      "en": {
+        "headline": "Woman wounded in Yuen Long street attack, suspect still at large",
+        "dek": "Police classified the Friday night incident on Fung Nin Road as wounding and are seeking a man aged about 20 to 30."
+      },
+      "zh": {
+        "headline": "元朗豐年路女子遇襲受傷 疑犯在逃",
+        "dek": "警方將周五晚案件列作傷人，正追緙一名約20至30歲男子。"
+      }
+    },
+    {
+      "id": "2026-09-19-paul-lam-ai-misuse-laws",
+      "published_at": "2026-09-19T07:29:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "ai",
+        "justice",
+        "legislation",
+        "deepfake"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-paul-lam-ai-misuse-laws.json",
+      "en": {
+        "headline": "Lam says existing laws already cover AI-aided crime",
+        "dek": "The secretary for justice said dedicated AI statutes may follow if needed, as the Law Reform Commission studies deepfake pornography and scams."
+      },
+      "zh": {
+        "headline": "林定國：現行法例已可處理利用AI犯罪",
+        "dek": "律政司司長表示，即使尚未有專門規管人工智能的法例，亦不代表出現真空；法律改革委員會正研究深偽色情及騙案。"
+      }
+    },
+    {
+      "id": "2026-09-19-foreign-domestic-carers-pilot",
+      "published_at": "2026-09-19T07:28:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "labour",
+        "elderly",
+        "foreign-domestic-helpers",
+        "policy-address"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-foreign-domestic-carers-pilot.json",
+      "en": {
+        "headline": "Foreign elderly carers to earn 10-20pc more than helpers",
+        "dek": "Chris Sun said a pilot next year would admit trained overseas carers with at least three years' elderly-care experience, modelled on the domestic helper regime."
+      },
+      "zh": {
+        "headline": "外籍家居照顧員擬較外傭薪高一至兩成",
+        "dek": "孫玉蕾表示，明年試行輸入具認可護老培訓及至少三年經驗的外籍家居照顧員，制度參照現有外傭安排。"
+      }
+    },
     {
       "id": "2026-09-19-lifestyle-rooftop-moonlit-market",
       "published_at": "2026-09-19T01:16:00+08:00",
@@ -1908,46 +1994,6 @@
       "zh": {
         "headline": "清水灣大坳門路電單車撞石壘 21歲鐵騎士不治",
         "dek": "凌晨近1時電單車在清水灣第一灣對開左彎失控，騎士昏迷送將軍澳醫院後不治，警方正調查起因。"
-      }
-    },
-    {
-      "id": "2026-09-16-tko-desalination-firefighters-hurt",
-      "published_at": "2026-09-16T07:23:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "fire-services"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-tko-desalination-firefighters-hurt.json",
-      "en": {
-        "headline": "Three firefighters hurt after pump part flies off at Tseung Kwan O plant",
-        "dek": "A component detached while crews were cooling an overheated pump that had sent up steam at the desalination plant on Tuesday night; all three remained conscious."
-      },
-      "zh": {
-        "headline": "將軍澳化淡廠水泵機件飛脫 三名消防員受傷送院",
-        "dek": "周二晚環保大道海水化淡廠水泵過熱冒蒸汽，消防開喉降溫期間機件飛脫，三人清醒送院。"
-      }
-    },
-    {
-      "id": "2026-09-16-tung-chee-hwa-funeral-arrangements",
-      "published_at": "2026-09-16T07:22:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-tung-chee-hwa-funeral-arrangements.json",
-      "en": {
-        "headline": "Tung Chee-hwa state funeral set for North Point this weekend",
-        "dek": "A vigil will be held on Saturday afternoon at the Hong Kong Funeral Home, with a public memorial and procession on Sunday morning, under an 87-member funeral committee."
-      },
-      "zh": {
-        "headline": "董建華國葬周末在北角舉行 周六設靈周日公祭",
-        "dek": "設靈周六下午在香港殮儀館福海堂，周日早上公祭及出殮；治喪委員會由全國政協第一副主席石泰峰擔任主任。"
       }
     }
   ]
