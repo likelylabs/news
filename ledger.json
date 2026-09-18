@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T21:15:16+08:00",
+  "updated_at": "2026-09-18T23:20:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -235,6 +235,24 @@
       "id": "2026-09-18-qeh-kai-tak-relocation-seamless",
       "first_seen": "2026-09-18T21:17:00+08:00",
       "headline_en": "QEH relocation to Kai Tak Hospital will be seamless, health minister says"
+    },
+    {
+      "key": "pwh-wrong-meal-choking-death-sep16",
+      "id": "2026-09-18-pwh-wrong-meal-patient-dies",
+      "first_seen": "2026-09-18T23:18:00+08:00",
+      "headline_en": "Prince of Wales patient dies after being given normal meal instead of pureed food"
+    },
+    {
+      "key": "tai-po-on-tai-road-pedestrian-death-sep18",
+      "id": "2026-09-18-tai-po-pedestrian-dies",
+      "first_seen": "2026-09-18T23:19:00+08:00",
+      "headline_en": "72-year-old pedestrian dies after Tai Po light goods vehicle collision"
+    },
+    {
+      "key": "mpox-two-cases-sep18-2026",
+      "id": "2026-09-18-mpox-two-new-cases",
+      "first_seen": "2026-09-18T23:20:00+08:00",
+      "headline_en": "Two more mpox cases confirmed, CHP urges high-risk groups to vaccinate"
     }
   ]
 }
