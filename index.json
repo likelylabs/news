@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-09-18T15:16:12+08:00",
+  "generated_at": "2026-09-18T17:06:39+08:00",
   "live_window_hours": 72,
-  "count": 94,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-09-18-lifestyle-runway-51-barminski",
+      "published_at": "2026-09-18T16:35:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "art",
+        "central",
+        "gallery"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-lifestyle-runway-51-barminski.json",
+      "en": {
+        "headline": "Cardboard airport exhibition Runway 51 closes this weekend",
+        "dek": "American artist Barminski’s full-scale cardboard airport installation at JPS Gallery in Central ends on 19 September, inviting visitors into a playful alien-transit fantasy."
+      },
+      "zh": {
+        "headline": "紙板機場裝置展「Runway 51」本周末結束",
+        "dek": "美國藝術家 Barminski 於中環 JPS Gallery 打造的全尺寸紙板機場裝置將於9月19日閉幕，讓觀眾走進一個充滿外星過境幻想的空間。"
+      }
+    },
     {
       "id": "2026-09-18-lee-talent-schemes-gdp",
       "published_at": "2026-09-18T15:19:00+08:00",
@@ -1939,111 +1962,6 @@
       "zh": {
         "headline": "衞生防護中心調查新一宗猴痘個案 27歲男患者情況穩定",
         "dek": "患者生殖器官起疹發燒，潛伏期內曾與兩名陌生男子有高風險接觸，現於伊利沙伯醫院隔離治療。"
-      }
-    },
-    {
-      "id": "2026-09-15-manpowergroup-q4-hiring-outlook",
-      "published_at": "2026-09-15T16:32:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "employment",
-        "economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-manpowergroup-q4-hiring-outlook.json",
-      "en": {
-        "headline": "Employers’ hiring outlook rebounds to +14pc for fourth quarter",
-        "dek": "ManpowerGroup’s latest survey of 603 Hong Kong employers shows net employment sentiment swung from minus 9 per cent last quarter to plus 14 per cent, with information technology the strongest sector."
-      },
-      "zh": {
-        "headline": "第四季就業展望指數回升至正14% 資訊業最樂觀",
-        "dek": "萬寶盛華調查603名僱主，季節性調整後就業展望指數由上季負9%升至正14%，三成計劃增聘，資訊科技業指數最高達27%。"
-      }
-    },
-    {
-      "id": "2026-09-15-kwun-tong-road-salt-water-burst",
-      "published_at": "2026-09-15T16:30:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "water-supplies",
-        "kwun-tong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-kwun-tong-road-salt-water-burst.json",
-      "en": {
-        "headline": "Salt-water main bursts on Kwun Tong Road, slow lane closed for repair",
-        "dek": "A 150-millimetre salt-water pipe supplying flushing water to Yue Man Centre ruptured near Hip Wo Path about 1pm, sending a two-metre jet of water onto the pavement and one lane before crews shut the valve."
-      },
-      "zh": {
-        "headline": "觀塘道鹹水管爆裂噴兩米水柱 慢線一度封閉搶修",
-        "dek": "今日下午約1時觀塘道近馬蹄徑一段直徑150毫米鹹水供水管爆裂，水柱高近兩米，影響行人路及一條行車線；水務署關掣後已停止湧水，慢線其後重開。"
-      }
-    },
-    {
-      "id": "2026-09-15-airport-hotel-jewellery-theft",
-      "published_at": "2026-09-15T15:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-airport-hotel-jewellery-theft.json",
-      "en": {
-        "headline": "Police recover HK$1m jewellery stolen from airport hotel lobby",
-        "dek": "A Sri Lankan exhibitor reported the theft of gemstones while resting in a hotel near the airport on Sunday; officers arrested a 32-year-old man in Tsing Yi the same evening and recovered the items."
-      },
-      "zh": {
-        "headline": "機場酒店大堂失近百萬珠寶原石 警6小時拘人起回",
-        "dek": "斯里蘭卡參展商周日在機場附近酒店休息時失竊，機場警區翻查閉路電視後同日晚在青衣酒店拘捕32歲男子並起回全部原石。"
-      }
-    },
-    {
-      "id": "2026-09-15-lifestyle-victoria-park-lantern-carnival",
-      "published_at": "2026-09-15T15:22:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "mid-autumn",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-lifestyle-victoria-park-lantern-carnival.json",
-      "en": {
-        "headline": "Victoria Park Mid-Autumn Lantern Carnival opens Thursday",
-        "dek": "The free display organised by the Leisure and Cultural Services Department runs from 17 to 27 September, featuring Hong Kong-themed lanterns and a large banyan-tree installation by the Tourism Board."
-      },
-      "zh": {
-        "headline": "維園中秋綵燈會周四起舉行至27日",
-        "dek": "康文署主辦的免費綵燈展以香港特色為題，旅發局呈獻八米榕樹裝置「影光」，亮燈時間傍晚6時半至11時。"
-      }
-    },
-    {
-      "id": "2026-09-15-lei-tung-brothers-bodies",
-      "published_at": "2026-09-15T15:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "police",
-        "ap-lei-chau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-lei-tung-brothers-bodies.json",
-      "en": {
-        "headline": "Two brothers found dead in Lei Tung Estate flat; no foul play suspected",
-        "dek": "Police say the bodies of men aged 55 and 53 were discovered after a security guard reported a foul smell; post-mortems are pending and the case is treated as discovery of bodies."
-      },
-      "zh": {
-        "headline": "利東邨單位發現兩兄弟遺體 初步無疑點",
-        "dek": "東業樓保安周一報單位傳異味，警消破門發現55歲及53歲兄弟已死，案件列屍體發現，死因有待驗屍。"
       }
     }
   ]
