@@ -1,8 +1,119 @@
 {
-  "generated_at": "2026-09-18T09:17:24+08:00",
+  "generated_at": "2026-09-18T11:14:00+08:00",
   "live_window_hours": 72,
   "count": 93,
   "articles": [
+    {
+      "id": "2026-09-18-lifestyle-tai-hang-fire-dragon",
+      "published_at": "2026-09-18T11:12:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "tai-hang",
+        "causeway-bay",
+        "heritage"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-lifestyle-tai-hang-fire-dragon.json",
+      "en": {
+        "headline": "Tai Hang Fire Dragon Dance set for three nights from 24 September",
+        "dek": "The incense-lit procession through Causeway Bay streets runs from the eve of Mid-Autumn to the following Saturday, with the main night reaching Victoria Park."
+      },
+      "zh": {
+        "headline": "大坑舞火龍下周四起一連三晚巡遊",
+        "dek": "中秋迎月至追月夜於銅鑼灣大坑舉行，正日路線延伸至維園綵燈會，免費入場。"
+      }
+    },
+    {
+      "id": "2026-09-18-graduate-employment-launch",
+      "published_at": "2026-09-18T11:11:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "youth",
+        "employment",
+        "labour",
+        "ai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-graduate-employment-launch.json",
+      "en": {
+        "headline": "Sun details 10,000 extra jobs under graduate launch scheme",
+        "dek": "The labour secretary said firms would create posts on top of existing headcount, with the government covering one-third of pay up to HK$6,000 a month."
+      },
+      "zh": {
+        "headline": "孫玉菏詳述畢業生就業啟航計劃一萬個額外職位",
+        "dek": "勞福局局長表示企業須在現有編制以外開設職位，政府資助三分一薪金，每月上限6,000元。"
+      }
+    },
+    {
+      "id": "2026-09-18-linn-northern-metropolis-bill",
+      "published_at": "2026-09-18T11:10:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "northern-metropolis",
+        "land",
+        "development",
+        "legislation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-linn-northern-metropolis-bill.json",
+      "en": {
+        "headline": "Linn says Northern Metropolis bill would speed land production",
+        "dek": "The development secretary said passing the ordinance would give officials more room to create ready land faster, with a 900-hectare target by 2030."
+      },
+      "zh": {
+        "headline": "甯漢豪：北都條例草案通過後造地可更快更多",
+        "dek": "發展局局長在電台表示，條例有助拆牆鬆綁，五年規劃訂下2030年北都產出900公頃熟地的約束性指標。"
+      }
+    },
+    {
+      "id": "2026-09-18-lee-rmb-contracts-radio",
+      "published_at": "2026-09-18T11:09:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "rmb",
+        "finance",
+        "policy-address",
+        "talent"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-lee-rmb-contracts-radio.json",
+      "en": {
+        "headline": "Lee says government will study paying some mainland deals in yuan",
+        "dek": "On radio, the chief executive said Hong Kong already handles most offshore yuan trades and should push the currency further into bonds, contracts and training fees."
+      },
+      "zh": {
+        "headline": "李家超：研究與內地部分合約或交易用人民幣",
+        "dek": "特首在電台表示，香港已處理大部分離岸人民幣交易，下一步可把人民幣用到債券、合約及培訓開支。"
+      }
+    },
+    {
+      "id": "2026-09-18-huanggang-port-oct12-target",
+      "published_at": "2026-09-18T11:08:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "huanggang",
+        "border",
+        "shenzhen",
+        "immigration"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-huanggang-port-oct12-target.json",
+      "en": {
+        "headline": "Reports say rebuilt Huanggang Port may open on 12 October",
+        "dek": "Local reports said Hong Kong and Shenzhen are aiming for a Monday launch after Golden Week, though officials have not named an official date."
+      },
+      "zh": {
+        "headline": "傳重建皇崗口岸擬10月12日啟用",
+        "dek": "本地報道引述消息指港深雙方瞄準國慶黃金周後的周一開通，但官方尚未公布確實日期。"
+      }
+    },
     {
       "id": "2026-09-18-lifestyle-kai-tak-asian-games-lights",
       "published_at": "2026-09-18T09:26:00+08:00",
@@ -1903,106 +2014,6 @@
       "zh": {
         "headline": "箏箕灣南安里女子報稱遭箍頸非禮 警拘29歲男子",
         "dek": "警方指凌晨1時05分接獲34歲女子報案，指在南安里被男子箍頸後懷疑被觸碰胸部，事主毋須送院。"
-      }
-    },
-    {
-      "id": "2026-09-15-national-day-golden-week-prep",
-      "published_at": "2026-09-15T11:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-national-day-golden-week-prep.json",
-      "en": {
-        "headline": "Lee says government will crack down on forced shopping in Golden Week",
-        "dek": "Cross-department meetings, a Security Bureau incident centre and extra staff at popular sites are planned for the National Day holiday rush."
-      },
-      "zh": {
-        "headline": "李家超：國慶黃金周嚴打強迫購物 跨部門統籌口岸及景點",
-        "dek": "特首指政務司司長及文體旅局將開跨部門會議，保安局黃金周會啟動緊急事故監察及支援中心，旅發局亦設網上專頁。"
-      }
-    },
-    {
-      "id": "2026-09-15-five-year-plan-covers",
-      "published_at": "2026-09-15T11:13:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-five-year-plan-covers.json",
-      "en": {
-        "headline": "Lee shows blue Five-Year Plan cover ahead of Wednesday release",
-        "dek": "Hong Kong's first Five-Year Plan and the 2026 Policy Address will be issued together on 16 September, with a two-volume summary prepared for the public."
-      },
-      "zh": {
-        "headline": "李家超展示五年規劃藍色封面 施政報告周三一併發表",
-        "dek": "特首指《香港第一個五年規劃》封面用藍色，代表開放、進步和穩重；施政報告沿用綠色，兩份文件全文合共約十萬字。"
-      }
-    },
-    {
-      "id": "2026-09-15-queen-mary-hospital-lifts-lee",
-      "published_at": "2026-09-15T11:12:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "hospital"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-queen-mary-hospital-lifts-lee.json",
-      "en": {
-        "headline": "Lee orders one-month probe into Queen Mary Hospital lift faults",
-        "dek": "The chief executive said contractors, subcontractors and, if involved, government staff would be held to account after lifts in the new clinical block failed to work properly."
-      },
-      "zh": {
-        "headline": "李家超下令一個月內查清瑪麗醫院新樓升降機問題",
-        "dek": "特首出席行政會議前表示，必須盡快糾正新臨床大樓升降機未能有效運作的問題，並追究承建商、分判商及如涉及的政府人員責任。"
-      }
-    },
-    {
-      "id": "2026-09-15-lifestyle-cultural-centre-mid-autumn-lights",
-      "published_at": "2026-09-15T09:19:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "mid-autumn",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-lifestyle-cultural-centre-mid-autumn-lights.json",
-      "en": {
-        "headline": "Cultural Centre piazza to show Mid-Autumn lights from Thursday",
-        "dek": "The Leisure and Cultural Services Department will light a free Mid-Autumn installation at the Hong Kong Cultural Centre from 17 September to 11 October."
-      },
-      "zh": {
-        "headline": "文化中心露天廣場中秋光影裝置周四起亮燈",
-        "dek": "康文署社區節目辦事處將於9月17日至10月11日在香港文化中心露天廣場展出中秋光影裝置，免費入場。"
-      }
-    },
-    {
-      "id": "2026-09-15-flu-vaccination-programme-sep17",
-      "published_at": "2026-09-15T09:18:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "flu"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-flu-vaccination-programme-sep17.json",
-      "en": {
-        "headline": "Seasonal flu vaccination programme starts on Thursday",
-        "dek": "The Centre for Health Protection said the 2026/27 schemes open on 17 September, offering free or subsidised jabs while influenza activity remains high."
-      },
-      "zh": {
-        "headline": "季節性流感疫苗接種計劃周四展開",
-        "dek": "衞生防護中心表示，2026／27年度計劃將於9月17日展開，合資格人士可免費或獲資助接種，本港流感活躍程度仍處高水平。"
       }
     }
   ]
