@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-09-18T13:13:46+08:00",
+  "generated_at": "2026-09-18T15:16:12+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 94,
   "articles": [
+    {
+      "id": "2026-09-18-lee-talent-schemes-gdp",
+      "published_at": "2026-09-18T15:19:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "talent",
+        "gdp",
+        "policy-address",
+        "john-lee"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-lee-talent-schemes-gdp.json",
+      "en": {
+        "headline": "Talent schemes could add 1.2pc to GDP yearly, Lee says",
+        "dek": "The chief executive told a radio programme that more than 300,000 people had arrived under various admission measures, with over half of those reaching the three-year mark willing to stay."
+      },
+      "zh": {
+        "headline": "李家超：人才計劃每年或為本地生產總值貢獻1.2%",
+        "dek": "特首在電台表示，各項人才措施已吸引逾30萬人來港，約兩成來自海外，過半滿三年者有意留港。"
+      }
+    },
+    {
+      "id": "2026-09-18-beach-red-flags-big-waves",
+      "published_at": "2026-09-18T15:18:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "beach",
+        "lcsd",
+        "safety",
+        "waves"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-beach-red-flags-big-waves.json",
+      "en": {
+        "headline": "Red flags raised at five beaches over big waves",
+        "dek": "The Leisure and Cultural Services Department advised swimmers to stay out of the water at Stanley Main, Shek O, Big Wave Bay, Silverstrand and Clear Water Bay Second beaches."
+      },
+      "zh": {
+        "headline": "因大浪 五個泳灘懸掛紅旗",
+        "dek": "康文署宣布港島南區及西貢共五個泳灘因大浪懸掛紅旗，提醒市民勿在該處游泳。"
+      }
+    },
+    {
+      "id": "2026-09-18-heng-fa-chuen-murder-charge",
+      "published_at": "2026-09-18T15:17:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "murder",
+        "chai-wan",
+        "heng-fa-chuen"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-heng-fa-chuen-murder-charge.json",
+      "en": {
+        "headline": "Man charged with murder over Heng Fa Chuen knife killing",
+        "dek": "A 51-year-old man who surrendered after his 53-year-old wife was found dead with multiple stab wounds has been formally charged and appeared in court."
+      },
+      "zh": {
+        "headline": "杏花邨殺妻案 51歲男被控謀殺還押",
+        "dek": "涉案男子周三晚到警署自首，承認以廚刀襲擊妻子，女事主倒斃單位內，今日被正式控以謀殺罪。"
+      }
+    },
+    {
+      "id": "2026-09-18-tai-po-etomidate-replica-guns",
+      "published_at": "2026-09-18T15:16:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "drugs",
+        "etomidate",
+        "tai-po",
+        "firearms"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-tai-po-etomidate-replica-guns.json",
+      "en": {
+        "headline": "Police seize HK$3.6m etomidate and 10 replica guns in Tai Po",
+        "dek": "A 26-year-old British national and two local men were arrested after officers found powders, vape pods and imitation firearms in a village house and car park."
+      },
+      "zh": {
+        "headline": "大埔破毒品倉檢360萬元依托咪酯及10支仿製氣槍 3男被捕",
+        "dek": "深水埗警區人員周四晚在大埔截查一名英籍男子，其後在村屋搜出大量依托咪酯、煙彈、製毒工具及仿製氣槍。"
+      }
+    },
     {
       "id": "2026-09-18-northern-link-spur-authorised",
       "published_at": "2026-09-18T13:22:00+08:00",
