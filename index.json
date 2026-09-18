@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-18T11:14:00+08:00",
+  "generated_at": "2026-09-18T13:13:46+08:00",
   "live_window_hours": 72,
-  "count": 93,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-09-18-northern-link-spur-authorised",
+      "published_at": "2026-09-18T13:22:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "northern-link",
+        "northern-metropolis",
+        "rail",
+        "huanggang",
+        "mtr"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-northern-link-spur-authorised.json",
+      "en": {
+        "headline": "Northern Link Spur Line Hong Kong section authorised for construction",
+        "dek": "Transport secretary Chan May-po said the railway scheme had completed statutory procedures and works could start at any time, targeting simultaneous opening with the main line by 2034."
+      },
+      "zh": {
+        "headline": "北環線支線香港段鐵路方案獲授權進行",
+        "dek": "運輸及物流局局長陳美寶表示，法定程序已完成，工程可隨時起動，目標與主線於2034年或之前同步開通。"
+      }
+    },
+    {
+      "id": "2026-09-18-weekend-weather-outlook-sep19-20",
+      "published_at": "2026-09-18T13:20:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "weekend",
+        "forecast",
+        "hko"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-weekend-weather-outlook-sep19-20.json",
+      "en": {
+        "headline": "Fine and hot weekend expected as anticyclone holds",
+        "dek": "The Hong Kong Observatory forecasts mainly fine and dry conditions with daytime temperatures reaching 32 to 33 degrees over Saturday and Sunday."
+      },
+      "zh": {
+        "headline": "周末天晴酷熱 最高氣溫33度",
+        "dek": "天文台預料高空反氣旋持續影響，周六至周日大致天晴乾燥，日間酷熱，氣溫介乎27至33度。"
+      }
+    },
     {
       "id": "2026-09-18-lifestyle-tai-hang-fire-dragon",
       "published_at": "2026-09-18T11:12:00+08:00",
@@ -1910,110 +1955,6 @@
       "zh": {
         "headline": "利東邨單位發現兩兄弟遺體 初步無疑點",
         "dek": "東業樓保安周一報單位傳異味，警消破門發現55歲及53歲兄弟已死，案件列屍體發現，死因有待驗屍。"
-      }
-    },
-    {
-      "id": "2026-09-15-mtr-thank-you-day-oct24",
-      "published_at": "2026-09-15T13:08:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "transport",
-        "fare"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-mtr-thank-you-day-oct24.json",
-      "en": {
-        "headline": "MTR sets 24 October as Thank You Day with half-price rides",
-        "dek": "Octopus, JoyYou Card and QR-code journeys on heavy rail, Light Rail and selected MTR buses will be half-price, including Lo Wu and Lok Ma Chau cross-boundary trips."
-      },
-      "zh": {
-        "headline": "港鐵10月24日設感謝日 八達通乘車半價",
-        "dek": "當日使用八達通、樂悠咭或二維碼乘搭港鐵、輕鐵及指定巴士可享半價，包括羅湖及落馬洲過境車程。"
-      }
-    },
-    {
-      "id": "2026-09-15-wang-fuk-court-ballot",
-      "published_at": "2026-09-15T13:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "wang-fuk-court",
-        "tai-po"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-wang-fuk-court-ballot.json",
-      "en": {
-        "headline": "Wang Fuk Court owners’ special sales scheme balloting sets selection order",
-        "dek": "Computer random draw results for the first batch were released this morning; full results will be posted on the scheme website around 3pm."
-      },
-      "zh": {
-        "headline": "宏福苑特設銷售計劃攪珠 定出業主揀樓次序",
-        "dek": "上午進行電腦隨機排序，第一批頭十個申請編號尾數為25、28、75等，完整結果約下午3時上載網站。"
-      }
-    },
-    {
-      "id": "2026-09-15-august-visitor-arrivals-record",
-      "published_at": "2026-09-15T13:06:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "tourism",
-        "hktb",
-        "visitors"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-august-visitor-arrivals-record.json",
-      "en": {
-        "headline": "August visitor arrivals hit 5.46 million, post-pandemic monthly high",
-        "dek": "The Tourism Board said provisional figures rose 6 per cent year on year, lifting the first-eight-month total to about 36.67 million, up 11 per cent."
-      },
-      "zh": {
-        "headline": "8月訪港旅客546萬人次創疫後單月新高",
-        "dek": "旅發局公布初步數字按年升6%，首八個月累計約3,667萬人次，按年升11%。"
-      }
-    },
-    {
-      "id": "2026-09-15-lifestyle-yuen-long-dunhuang-murals",
-      "published_at": "2026-09-15T11:16:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-lifestyle-yuen-long-dunhuang-murals.json",
-      "en": {
-        "headline": "Dunhuang mural panels open at Yuen Long Theatre from today",
-        "dek": "A free LCSD touring display of Sui and Tang scenes copied from cave murals runs at the theatre until 29 September before moving to Central Library."
-      },
-      "zh": {
-        "headline": "敦煌石窟壁畫巡展今起在元朗劇院展出至月底",
-        "dek": "康文署與弘揚中華文化辦公室、敦煌研究院合辦的免費巡迴展覽，以圖板重現隋唐生活場景，其後轉往中央圖書館。"
-      }
-    },
-    {
-      "id": "2026-09-15-shau-kei-wan-indecent-assault",
-      "published_at": "2026-09-15T11:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-shau-kei-wan-indecent-assault.json",
-      "en": {
-        "headline": "Man, 29, arrested after alleged street assault in Shau Kei Wan",
-        "dek": "Police say a woman reported being grabbed around the neck and indecently assaulted in Nam On Lane just after 1am; she did not need hospital treatment."
-      },
-      "zh": {
-        "headline": "箏箕灣南安里女子報稱遭箍頸非禮 警拘29歲男子",
-        "dek": "警方指凌晨1時05分接獲34歲女子報案，指在南安里被男子箍頸後懷疑被觸碰胸部，事主毋須送院。"
       }
     }
   ]
