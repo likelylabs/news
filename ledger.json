@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T19:25:20+08:00",
+  "updated_at": "2026-09-18T21:17:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -217,6 +217,24 @@
       "id": "2026-09-18-lifestyle-west-kowloon-picnic-fest",
       "first_seen": "2026-09-18T19:26:00+08:00",
       "headline_en": "West Kowloon Picnic Fest opens for four weekends by the harbour"
+    },
+    {
+      "key": "immigration-anti-illegal-workers-sep11-17-2026",
+      "id": "2026-09-18-immigration-anti-illegal-workers-35",
+      "first_seen": "2026-09-18T21:15:00+08:00",
+      "headline_en": "Immigration and departments arrest 35 in week-long anti-illegal worker operations"
+    },
+    {
+      "key": "tai-po-on-tai-road-pedestrian-collision-sep18",
+      "id": "2026-09-18-tai-po-pedestrian-collision",
+      "first_seen": "2026-09-18T21:16:00+08:00",
+      "headline_en": "Driver arrested after light goods vehicle hits 72-year-old pedestrian in Tai Po"
+    },
+    {
+      "key": "qeh-kai-tak-hospital-relocation-phased-2026",
+      "id": "2026-09-18-qeh-kai-tak-relocation-seamless",
+      "first_seen": "2026-09-18T21:17:00+08:00",
+      "headline_en": "QEH relocation to Kai Tak Hospital will be seamless, health minister says"
     }
   ]
 }
