@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-18T19:25:20+08:00",
+  "generated_at": "2026-09-18T21:15:16+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-09-18-qeh-kai-tak-relocation-seamless",
+      "published_at": "2026-09-18T21:17:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "hospital",
+        "kai-tak",
+        "qeh",
+        "hospital-authority"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-qeh-kai-tak-relocation-seamless.json",
+      "en": {
+        "headline": "QEH relocation to Kai Tak Hospital will be seamless, health minister says",
+        "dek": "Kai Tak Hospital begins services in two phases from next month, gradually absorbing clinical services from Queen Elizabeth Hospital while the King’s Park site becomes an ambulatory care centre."
+      },
+      "zh": {
+        "headline": "盧寵茂：威院遷往啟德醫院將無縫過渡",
+        "dek": "啟德醫院下月起分兩階段投入服務，逐步接收伊利沙伯醫院臨床服務；京士柏舊址將重建為首間綜合日間醫院。"
+      }
+    },
+    {
+      "id": "2026-09-18-tai-po-pedestrian-collision",
+      "published_at": "2026-09-18T21:16:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "traffic",
+        "tai-po",
+        "accident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-tai-po-pedestrian-collision.json",
+      "en": {
+        "headline": "Driver arrested after light goods vehicle hits 72-year-old pedestrian in Tai Po",
+        "dek": "The woman was knocked down at a pedestrian crossing on On Tai Road and remains unconscious in hospital; the 68-year-old driver faces a dangerous driving charge."
+      },
+      "zh": {
+        "headline": "大埔輕型貨車撞傷72歲女途人 司機涉危險駕駛被捕",
+        "dek": "事主於安泰路行人過路處被撞倒，頭部受傷昏迷送院；68歲男司機通過酒精測試後，因涉嫌危險駕駛引致他人身體受嚴重傷害被捕。"
+      }
+    },
+    {
+      "id": "2026-09-18-immigration-anti-illegal-workers-35",
+      "published_at": "2026-09-18T21:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "immigration",
+        "illegal-workers",
+        "police",
+        "labour"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-18/2026-09-18-immigration-anti-illegal-workers-35.json",
+      "en": {
+        "headline": "Immigration and departments arrest 35 in week-long anti-illegal worker operations",
+        "dek": "Officers searched restaurants, retail shops and renovation sites across the city from 11 to 17 September, detaining suspected illegal workers, employers and overstayers."
+      },
+      "zh": {
+        "headline": "入境處聯同多部門反黑工一周拘35人",
+        "dek": "入境處聯同食環署、康文署、勞工處及警方於9月11日至17日在全港多區搜查食肆、零售店及裝修單位，拘捕懷疑非法勞工、僱主及逾期逗留人士。"
+      }
+    },
     {
       "id": "2026-09-18-lifestyle-west-kowloon-picnic-fest",
       "published_at": "2026-09-18T19:26:00+08:00",
@@ -1837,113 +1903,6 @@
       "zh": {
         "headline": "消防搗破慈樂邨停車場非法加油站 檢921公升汽油截查雙程證男",
         "dek": "一輛七人車漏油，車內發現油缸及入油工具，檢獲足以注滿約20輛私家車的汽油；34歲持雙程證男子涉嫌多項危險品及消防條例罪行。"
-      }
-    },
-    {
-      "id": "2026-09-15-lifestyle-laguna-park-urban-farm",
-      "published_at": "2026-09-15T21:09:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "community",
-        "agriculture",
-        "kwun-tong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-lifestyle-laguna-park-urban-farm.json",
-      "en": {
-        "headline": "AFCD signs contract for urban farming pilot at Laguna Park in Kwun Tong",
-        "dek": "A 500-square-metre indoor hydroponic farm is scheduled to open in 2027, offering local produce and public farming activities."
-      },
-      "zh": {
-        "headline": "漁護署與青協簽約 觀塘麗港公園設都市農耕先導項目",
-        "dek": "約500平方米室內水耕農場預計2027年運作，提供本地蔬菜及公眾體驗活動。"
-      }
-    },
-    {
-      "id": "2026-09-15-darion-taxi-launch",
-      "published_at": "2026-09-15T21:08:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "transport",
-        "electric-vehicles"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-darion-taxi-launch.json",
-      "en": {
-        "headline": "SAIC-GM-Wuling unveils six-seat Darion electric taxi for Hong Kong",
-        "dek": "The model offers a claimed 540 km range and is priced around HK$300,000; first deliveries are expected next month."
-      },
-      "zh": {
-        "headline": "上汽通用五菱推出六座Darion純電的士 售約30萬元",
-        "dek": "官方續航540公里，即日起接受預訂，首批預計10月交付。"
-      }
-    },
-    {
-      "id": "2026-09-15-lifestyle-space-museum-wild-asia",
-      "published_at": "2026-09-15T21:07:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "museum",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-lifestyle-space-museum-wild-asia.json",
-      "en": {
-        "headline": "Space Museum launches Wild Asia dome show from Wednesday",
-        "dek": "The 43-minute presentation runs until June 2027 and follows wildlife surviving in the Himalayas, Gobi Desert and Pacific depths."
-      },
-      "zh": {
-        "headline": "太空館周三起放映球幕電影《極境亞洲之生命奇跡》",
-        "dek": "43分鐘影片展至2027年6月，帶領觀眾認識喜馬拉雅、戈壁及深海中的野生動物求生故事。"
-      }
-    },
-    {
-      "id": "2026-09-15-chi-ma-wan-car-deaths",
-      "published_at": "2026-09-15T21:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "police",
-        "lantau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-chi-ma-wan-car-deaths.json",
-      "en": {
-        "headline": "Man and woman found dead in car near Chi Ma Wan Correctional Institution",
-        "dek": "Police say traces consistent with charcoal burning were found inside the vehicle on a slope opposite the institution; the pair are understood to have been a couple."
-      },
-      "zh": {
-        "headline": "芝麻灣懲教所對開斜坡發現男女車內遺體",
-        "dek": "警方在車內發現燒過的炭及金屬盆，兩人據悉為情侶；死因有待調查。"
-      }
-    },
-    {
-      "id": "2026-09-15-cuhk-journalism-site-redirect",
-      "published_at": "2026-09-15T21:05:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "cybersecurity",
-        "cuhk"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-15/2026-09-15-cuhk-journalism-site-redirect.json",
-      "en": {
-        "headline": "CUHK journalism school website redirected to gambling page; university suspends site",
-        "dek": "Visitors to the School of Journalism and Communication site were sent to a newly registered domain; the university says no personal data leakage has been found so far."
-      },
-      "zh": {
-        "headline": "中大新傳學院網站被導向博彩頁 校方暫停網站調查",
-        "dek": "訪客瀏覽新聞與傳播學院網站時被重新導向至新註冊域名；校方表示暫未發現個人敏感資料外洩。"
       }
     }
   ]
