@@ -1,8 +1,114 @@
 {
-  "generated_at": "2026-09-20T06:22:25+08:00",
+  "generated_at": "2026-09-20T07:08:54+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-09-20-gba-legal-exam-held",
+      "published_at": "2026-09-20T07:30:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "justice",
+        "greater-bay-area",
+        "legal"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-20/2026-09-20-gba-legal-exam-held.json",
+      "en": {
+        "headline": "Greater Bay Area legal exam held as Lam urges more lawyers to sit it",
+        "dek": "The sixth sitting took place in Shenzhen and Zhuhai on Saturday; the secretary for justice said an amended Mainland lawyers law supports regularising the scheme."
+      },
+      "zh": {
+        "headline": "大灣區律師執業考試舉行 林定國籲更多港律師報考",
+        "dek": "第六屆考試周六在深圳及珠海舉行；律政司司長指內地修訂後的律師法為制度恆常化提供法律基礎。"
+      }
+    },
+    {
+      "id": "2026-09-20-lifestyle-blue-house-lanterns",
+      "published_at": "2026-09-20T07:29:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "wan-chai",
+        "lanterns"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-20/2026-09-20-lifestyle-blue-house-lanterns.json",
+      "en": {
+        "headline": "Wan Chai Blue House hangs 700 hand-painted Mid-Autumn lanterns",
+        "dek": "The cluster on Stone Nullah Lane lights up from 6pm to 9.30pm until 14 October, stretching into nearby side streets."
+      },
+      "zh": {
+        "headline": "灣仔藍屋掛出700盎手繪中秋花燈",
+        "dek": "石水渠街建築群花燈展期至10月14日，每晚6時至9時半亮燈，並延伸至附近橫街。"
+      }
+    },
+    {
+      "id": "2026-09-20-cathay-skytrax-third",
+      "published_at": "2026-09-20T07:28:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "cathay-pacific",
+        "aviation",
+        "skytrax"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-20/2026-09-20-cathay-skytrax-third.json",
+      "en": {
+        "headline": "Cathay retains world's third-best airline title in Skytrax awards",
+        "dek": "The Hong Kong carrier also took world's best cabin crew and best first-class lounge, as Singapore Airlines reclaimed first place."
+      },
+      "zh": {
+        "headline": "國泰連續第二年獲Skytrax全球第三佳航空公司",
+        "dek": "國泰同時奪得全球最佳空中服務員及全球最佳頭等貴賓室；新加坡航空重奪總榜第一。"
+      }
+    },
+    {
+      "id": "2026-09-20-cape-collinson-traffic-clarified",
+      "published_at": "2026-09-20T07:27:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "chai-wan",
+        "crematorium",
+        "traffic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-20/2026-09-20-cape-collinson-traffic-clarified.json",
+      "en": {
+        "headline": "No special road closures near Cape Collinson today, government says",
+        "dek": "A spokesman dismissed online claims that hearses and coaches would be barred from the Chai Wan crematorium area on Sunday morning."
+      },
+      "zh": {
+        "headline": "政府澄清哥連臣角今日沒有特別封路",
+        "dek": "發言人否認網傳周日早上禁止靈車及旅遊巴士進入柴灣火葬場一帶的說法。"
+      }
+    },
+    {
+      "id": "2026-09-20-yellow-fire-danger-warning",
+      "published_at": "2026-09-20T07:26:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "fire-danger",
+        "observatory",
+        "hiking"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-20/2026-09-20-yellow-fire-danger-warning.json",
+      "en": {
+        "headline": "Yellow fire danger warning issued again on a dry, hot Sunday",
+        "dek": "The Observatory said the fire risk is high after issuing the warning at 6am, as an anticyclone keeps southern China mainly fine."
+      },
+      "zh": {
+        "headline": "天文台再發黃色火災危險警告 周日乾燥酷熱",
+        "dek": "天文台今早6時發出黃色火災危險警告，指火警風險頗高；高空反氣旋令華南大致天晴。"
+      }
+    },
     {
       "id": "2026-09-20-tung-chee-hwa-state-funeral-day",
       "published_at": "2026-09-20T01:20:00+08:00",
