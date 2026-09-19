@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-19T17:19:41+08:00",
+  "generated_at": "2026-09-19T19:13:36+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-09-19-asian-games-focal-sites-launch",
+      "published_at": "2026-09-19T19:14:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "lcsd",
+        "sport",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-asian-games-focal-sites-launch.json",
+      "en": {
+        "headline": "LCSD launches Asian Games focal sites across 18 districts",
+        "dek": "Public viewing hubs at designated sports centres open from 5pm today until 4 October, with a launch ceremony held at Hong Kong Park Sports Centre."
+      },
+      "zh": {
+        "headline": "康文署全港18區啟動活力亞運觀賞站",
+        "dek": "指定體育館今日下午5時起開放至10月4日，香港公園體育館舉行啟動禮及全民動起來運動日。"
+      }
+    },
+    {
+      "id": "2026-09-19-good-hope-school-cantonese-apology",
+      "published_at": "2026-09-19T19:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "good-hope-school",
+        "cantonese",
+        "language"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-good-hope-school-cantonese-apology.json",
+      "en": {
+        "headline": "Good Hope School principal apologises over Cantonese ban wording in graduation video…",
+        "dek": "Dr Gary Harfitt said an unedited internal slide containing the phrase “Cantonese is STRICTLY FORBIDDEN” was sent in error and does not reflect school policy."
+      },
+      "zh": {
+        "headline": "德望學校校長就畢業影片「禁用粵語」指引致歉",
+        "dek": "校長Harfitt指未修訂簡報誤發予中六生，強調內容不符校方政策，校方從未禁止使用粵語。"
+      }
+    },
+    {
+      "id": "2026-09-19-mpox-new-case-sep19",
+      "published_at": "2026-09-19T19:10:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "mpox",
+        "chp",
+        "vaccination",
+        "health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-mpox-new-case-sep19.json",
+      "en": {
+        "headline": "CHP confirms another mpox case as yearly total reaches 26",
+        "dek": "A 25-year-old man is in stable condition after testing positive; health authorities again urge high-risk groups to get vaccinated amid a rise since August."
+      },
+      "zh": {
+        "headline": "衞生防護中心再確診一宗猴痘個案 本年累計26宗",
+        "dek": "25歲男子情況穩定，當局再呼籲高風險群組接種疫苗；八月以來新增17宗個案。"
+      }
+    },
     {
       "id": "2026-09-19-guangdong-yacht-southbound",
       "published_at": "2026-09-19T17:19:00+08:00",
@@ -1887,47 +1953,6 @@
       "zh": {
         "headline": "李家超承諾改革樓宇維修制度 研圍標刑事化",
         "dek": "行政長官在施政報告中表示，會就大維修圍標行為進行法律研究，今年內向立法會提交建議，並推出預審顧問承建商名單及招標評標服務。"
-      }
-    },
-    {
-      "id": "2026-09-16-hang-seng-close-sep16",
-      "published_at": "2026-09-16T19:10:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "finance",
-        "stocks"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-hang-seng-close-sep16.json",
-      "en": {
-        "headline": "Hang Seng closes up 46 points as chip and AI shares advance",
-        "dek": "The index ended at 24,713 after swinging lower earlier, with Lenovo rising more than 8 per cent and semiconductor names among the stronger performers."
-      },
-      "zh": {
-        "headline": "恒指收升46點 晶片及AI股造好",
-        "dek": "恒生指數收報24,713點，升46點或0.19%，早段曾跌近100點後回升，聯想升逾8%，為當日表現最佳藍籌。"
-      }
-    },
-    {
-      "id": "2026-09-16-1991-holdup-trial-ends",
-      "published_at": "2026-09-16T17:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "courts"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-1991-holdup-trial-ends.json",
-      "en": {
-        "headline": "High Court ends 1991 hold-up trial after defendant dies of cancer",
-        "dek": "The jury was discharged on Wednesday after Wen Wenye, 62, died in custody earlier in the week while the special hearing into the Sham Shui Po shooting was under way."
-      },
-      "zh": {
-        "headline": "高等法院終止1991年深水埗劫殺案聆訊 被告病逝",
-        "dek": "被告文穩業（62歲）早前因肺癌致認知障礙被裁定不適合答辯，本周在扣押期間昏迷後不治，法官周三解散陪審團。"
       }
     }
   ]
