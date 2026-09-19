@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T09:23:11+08:00",
+  "updated_at": "2026-09-19T09:35:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -283,6 +283,30 @@
       "id": "2026-09-19-tung-chee-hwa-vigil",
       "first_seen": "2026-09-19T07:31:00+08:00",
       "headline_en": "Vigil for Tung Chee-hwa begins this afternoon in North Point"
+    },
+    {
+      "key": "lee-subdivided-flats-saturday-accountability-sep19",
+      "id": "2026-09-19-lee-subdivided-flats-no-high-handed",
+      "first_seen": "2026-09-19T09:32:00+08:00",
+      "headline_en": "Lee says crackdown on poor subdivided flats will not leave tenants homeless"
+    },
+    {
+      "key": "lee-five-year-plan-indicators-sep19",
+      "id": "2026-09-19-lee-five-year-plan-105-indicators",
+      "first_seen": "2026-09-19T09:33:00+08:00",
+      "headline_en": "Lee says five-year plan has 105 indicators drawn from mainland practice"
+    },
+    {
+      "key": "yellow-fire-danger-warning-sep19",
+      "id": "2026-09-19-yellow-fire-danger-warning",
+      "first_seen": "2026-09-19T09:34:00+08:00",
+      "headline_en": "Yellow fire danger warning in force as weekend stays dry and hot"
+    },
+    {
+      "key": "lifestyle-victoria-park-led-dragon-sep19-20",
+      "id": "2026-09-19-lifestyle-victoria-park-led-dragon",
+      "first_seen": "2026-09-19T09:35:00+08:00",
+      "headline_en": "Small LED fire dragon performs at Victoria Park this weekend"
     }
   ]
 }
