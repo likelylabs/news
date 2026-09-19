@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T07:08:54+08:00",
+  "updated_at": "2026-09-20T07:30:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -115,6 +115,84 @@
       "id": "2026-09-20-tung-chee-hwa-state-funeral-day",
       "first_seen": "2026-09-20T01:20:00+08:00",
       "headline_en": "State funeral for Tung Chee-hwa proceeds today after Saturday vigil"
+    },
+    {
+      "key": "foreign-domestic-carers-pilot-pay-sep18",
+      "id": "2026-09-19-foreign-domestic-carers-pilot",
+      "first_seen": "2026-09-19T07:28:00+08:00",
+      "headline_en": "Foreign elderly carers to earn 10-20pc more than helpers"
+    },
+    {
+      "key": "lifestyle-rooftop-moonlit-market-lai-chi-kok-sep19",
+      "id": "2026-09-19-lifestyle-rooftop-moonlit-market",
+      "first_seen": "2026-09-19T01:16:00+08:00",
+      "headline_en": "Rooftop Moonlit Market opens in Lai Chi Kok for Mid-Autumn weekend"
+    },
+    {
+      "key": "tung-chee-hwa-vigil-sep19",
+      "id": "2026-09-19-tung-chee-hwa-vigil",
+      "first_seen": "2026-09-19T07:31:00+08:00",
+      "headline_en": "Vigil for Tung Chee-hwa begins this afternoon in North Point"
+    },
+    {
+      "key": "yuen-long-fung-nin-road-slashing-sep18",
+      "id": "2026-09-19-yuen-long-fung-nin-wounding",
+      "first_seen": "2026-09-19T07:30:00+08:00",
+      "headline_en": "Woman wounded in Yuen Long street attack, suspect still at large"
+    },
+    {
+      "key": "yellow-fire-danger-warning-sep19",
+      "id": "2026-09-19-yellow-fire-danger-warning",
+      "first_seen": "2026-09-19T09:34:00+08:00",
+      "headline_en": "Yellow fire danger warning in force as weekend stays dry and hot"
+    },
+    {
+      "key": "lee-five-year-plan-indicators-sep19",
+      "id": "2026-09-19-lee-five-year-plan-105-indicators",
+      "first_seen": "2026-09-19T09:33:00+08:00",
+      "headline_en": "Lee says five-year plan has 105 indicators drawn from mainland practice"
+    },
+    {
+      "key": "lee-subdivided-flats-saturday-accountability-sep19",
+      "id": "2026-09-19-lee-subdivided-flats-no-high-handed",
+      "first_seen": "2026-09-19T09:32:00+08:00",
+      "headline_en": "Lee says crackdown on poor subdivided flats will not leave tenants homeless"
+    },
+    {
+      "key": "paul-lam-ai-misuse-laws-sep18",
+      "id": "2026-09-19-paul-lam-ai-misuse-laws",
+      "first_seen": "2026-09-19T07:29:00+08:00",
+      "headline_en": "Lam says existing laws already cover AI-aided crime"
+    },
+    {
+      "key": "yellow-fire-danger-warning-sep20",
+      "id": "2026-09-20-yellow-fire-danger-warning",
+      "first_seen": "2026-09-20T07:26:00+08:00",
+      "headline_en": "Yellow fire danger warning issued again on a dry, hot Sunday"
+    },
+    {
+      "key": "cape-collinson-no-special-traffic-sep20",
+      "id": "2026-09-20-cape-collinson-traffic-clarified",
+      "first_seen": "2026-09-20T07:27:00+08:00",
+      "headline_en": "No special road closures near Cape Collinson today, government says"
+    },
+    {
+      "key": "cathay-skytrax-third-2026",
+      "id": "2026-09-20-cathay-skytrax-third",
+      "first_seen": "2026-09-20T07:28:00+08:00",
+      "headline_en": "Cathay retains world's third-best airline title in Skytrax awards"
+    },
+    {
+      "key": "lifestyle-wan-chai-blue-house-lanterns-2026",
+      "id": "2026-09-20-lifestyle-blue-house-lanterns",
+      "first_seen": "2026-09-20T07:29:00+08:00",
+      "headline_en": "Wan Chai Blue House hangs 700 hand-painted Mid-Autumn lanterns"
+    },
+    {
+      "key": "gba-legal-exam-sep19",
+      "id": "2026-09-20-gba-legal-exam-held",
+      "first_seen": "2026-09-20T07:30:00+08:00",
+      "headline_en": "Greater Bay Area legal exam held as Lam urges more lawyers to sit it"
     }
   ]
 }
