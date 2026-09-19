@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-09-19T11:14:54+08:00",
+  "generated_at": "2026-09-19T17:18:04+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-09-19-guangdong-yacht-southbound",
+      "published_at": "2026-09-19T17:19:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "yacht",
+        "greater-bay-area",
+        "marine",
+        "mable-chan",
+        "cross-border"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-guangdong-yacht-southbound.json",
+      "en": {
+        "headline": "Guangdong yachts expected to sail in Hong Kong waters from October",
+        "dek": "Transport chief Mable Chan said the southbound scheme is close to launch after the Marine Department prepares to sign arrangements with Guangdong authorities."
+      },
+      "zh": {
+        "headline": "粵艇南下最快10月實施 陳美寶：詳情稍後公布",
+        "dek": "海事處將與廣東海事局簽署工作安排，配合五年規劃發展遊艇經濟及跨境休閒消費。"
+      }
+    },
+    {
+      "id": "2026-09-19-ma-on-shan-drink-drive",
+      "published_at": "2026-09-19T17:18:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "traffic",
+        "drink-driving",
+        "ma-on-shan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-ma-on-shan-drink-drive.json",
+      "en": {
+        "headline": "Driver arrested for drink-driving after crashing into Ma On Shan railing",
+        "dek": "A 33-year-old man failed a breath test after his private car struck a roadside barrier near a police station on Saturday morning."
+      },
+      "zh": {
+        "headline": "馬鞍山私家車撞欄 33歲司機涉醉駕被捕",
+        "dek": "車輛於早上失控撞毀約1.5米欄杆，司機未能通過酒精呼氣測試，現正被扣留調查。"
+      }
+    },
+    {
+      "id": "2026-09-19-very-hot-weather-warning",
+      "published_at": "2026-09-19T17:17:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "observatory",
+        "heat",
+        "very-hot-weather",
+        "weekend"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-very-hot-weather-warning.json",
+      "en": {
+        "headline": "Very Hot Weather Warning issued as temperatures climb past 33C",
+        "dek": "The Observatory raised the warning at 1pm, urging the public to watch for heat stroke while the Yellow Fire Danger Warning remains in force."
+      },
+      "zh": {
+        "headline": "天文台發出酷熱天氣警告 多區氣溫逾33度",
+        "dek": "警告於下午1時發出，黃色火災危險警告仍生效；市民應多補充水分，慎防中暑。"
+      }
+    },
+    {
+      "id": "2026-09-19-fanling-meth-lab",
+      "published_at": "2026-09-19T17:16:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "drugs",
+        "methamphetamine",
+        "fanling",
+        "manufacturing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-fanling-meth-lab.json",
+      "en": {
+        "headline": "Police smash Fanling meth lab, seize drugs worth HK$23m",
+        "dek": "Three people were arrested after officers found solid and liquid methamphetamine plus active manufacturing equipment in a tin-sheet structure in Chi Tong Tsuen."
+      },
+      "zh": {
+        "headline": "警方搗粉嶺鐵皮屋製毒工場 檢值2300萬冰毒拘三人",
+        "dek": "單位內製毒設備仍在運作，另檢大量化學品；三名被捕人據稱受金錢利誘加入，周一提堂。"
+      }
+    },
+    {
+      "id": "2026-09-19-customs-cannabis-535kg",
+      "published_at": "2026-09-19T17:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "drugs",
+        "cannabis",
+        "trafficking",
+        "mong-kok"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-customs-cannabis-535kg.json",
+      "en": {
+        "headline": "Customs seizes 535kg cannabis worth HK$125m in largest sea haul",
+        "dek": "Three men were arrested in Mong Kok after officers found the drugs hidden in insulated boxes from a Thailand-bound container following a 16-day surveillance operation."
+      },
+      "zh": {
+        "headline": "海關破歷來最大宗海路大麻花案 檢535公斤值1.25億拘三人",
+        "dek": "貨櫃由泰國抵港，部分保溫箱藏有定位器；經16日監控後於旺角唐樓拘三男，其中越南籍男子將被起訴。"
+      }
+    },
     {
       "id": "2026-09-19-lifestyle-jtia-open-day-lanterns",
       "published_at": "2026-09-19T11:14:00+08:00",
@@ -1815,175 +1928,6 @@
       "zh": {
         "headline": "高等法院終止1991年深水埗劫殺案聆訊 被告病逝",
         "dek": "被告文穩業（62歲）早前因肺癌致認知障礙被裁定不適合答辯，本周在扣押期間昏迷後不治，法官周三解散陪審團。"
-      }
-    },
-    {
-      "id": "2026-09-16-lifestyle-intl-lantern-spectacular",
-      "published_at": "2026-09-16T15:16:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events",
-        "mid-autumn",
-        "victoria-park"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-lifestyle-intl-lantern-spectacular.json",
-      "en": {
-        "headline": "International Lantern Spectacular opens at Victoria Park from Thursday",
-        "dek": "The Hong Kong Tourism Board’s inaugural free event runs 17 to 27 September, featuring lanterns from 20 countries and giant Nanjing Qinhuai works including an eight-metre banyan installation."
-      },
-      "zh": {
-        "headline": "國際中秋綵燈匯周四起在維園亮燈",
-        "dek": "香港旅遊發展局首辦免費活動由9月17日至27日舉行，展出20個國家地區綵燈及南京秦淮巨型作品，包括八米高榕樹裝置。"
-      }
-    },
-    {
-      "id": "2026-09-16-gfci-asia-top-hub",
-      "published_at": "2026-09-16T15:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "finance",
-        "ranking"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-gfci-asia-top-hub.json",
-      "en": {
-        "headline": "Hong Kong retains Asia’s top financial hub ranking for fourth straight year",
-        "dek": "The city placed third globally in the latest Global Financial Centres Index, scoring 756 points, one behind London and one ahead of Singapore."
-      },
-      "zh": {
-        "headline": "香港連續第四度蟬聯亞洲金融中心榜首",
-        "dek": "最新《全球金融中心指數》報告顯示，香港以756分位列全球第三，僅次於紐約及倫敦，並領先新加坡一分。"
-      }
-    },
-    {
-      "id": "2026-09-16-wang-fuk-will-power-wound-up",
-      "published_at": "2026-09-16T13:07:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "courts",
-        "wang-fuk-court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-wang-fuk-will-power-wound-up.json",
-      "en": {
-        "headline": "High Court orders Wang Fuk Court renovation consultant into liquidation",
-        "dek": "Will Power Architects Company Limited, the firm that advised the Tai Po estate’s major renovation before the November 2025 fire, failed to appear on a creditor’s petition and was wound up today."
-      },
-      "zh": {
-        "headline": "宏福苑維修顧問鴻毅被頒令清盤",
-        "dek": "擔任大埔宏福苑強制驗樓工程顧問的鴻毅建築師有限公司，今日在高等法院因債權人呈請而被頒令清盤，公司無人應訊。"
-      }
-    },
-    {
-      "id": "2026-09-16-man-ming-lane-drugs-raid",
-      "published_at": "2026-09-16T13:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "drugs",
-        "police",
-        "yau-ma-tei"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-man-ming-lane-drugs-raid.json",
-      "en": {
-        "headline": "Police seize HK$210,000 of drugs in Yau Ma Tei flat, arrest 11",
-        "dek": "Yau Tsim officers raided a Man Ming Lane unit on Tuesday, recovering suspected methamphetamine, heroin, cocaine and midazolam tablets; a 56-year-old woman was held for operating a drug den."
-      },
-      "zh": {
-        "headline": "油麻地文明里毒窟檢值21萬毒品 拘11人",
-        "dek": "油尖警方周二突擊搜查文明里單位，檢獲懷疑冰毒、海洛英、可卡因及藍精靈，56歲女子涉經營毒窟及販運被捕。"
-      }
-    },
-    {
-      "id": "2026-09-16-lifestyle-westk-picnic-fest",
-      "published_at": "2026-09-16T11:19:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "community",
-        "west-kowloon",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-lifestyle-westk-picnic-fest.json",
-      "en": {
-        "headline": "WestK Picnic Fest opens on the Art Park lawn from Friday",
-        "dek": "The West Kowloon Cultural District will run a harbourfront market, workshops and live music on selected dates from 18 September to 11 October, 2pm to 9pm."
-      },
-      "zh": {
-        "headline": "西九野餐節周五起在藝術公園海濰草坪舉行",
-        "dek": "西九文化區宣布活動於9月18日至10月11日周末及假期舉行，一般下午2時至晚上9時，設市集、工作坊及現場表演。"
-      }
-    },
-    {
-      "id": "2026-09-16-five-year-plan-policy-address-legco",
-      "published_at": "2026-09-16T11:18:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-five-year-plan-policy-address-legco.json",
-      "en": {
-        "headline": "Lee delivers Hong Kong’s first five-year plan and Policy Address",
-        "dek": "The chief executive began presenting both documents at the Legislative Council at 11am, after a two-month consultation that drew tens of thousands of submissions."
-      },
-      "zh": {
-        "headline": "李家超在立法會發表首份五年規劃及施政報告",
-        "dek": "行政長官今早11時在立法會宣讀《香港首個五年規劃》及2026年《施政報告》，兩份文件合共逾十萬字。"
-      }
-    },
-    {
-      "id": "2026-09-16-tuen-mun-road-crash-queues",
-      "published_at": "2026-09-16T11:17:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "tuen-mun"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-tuen-mun-road-crash-queues.json",
-      "en": {
-        "headline": "Tuen Mun Road crash snarls Kowloon-bound traffic at rush hour",
-        "dek": "A private car and a goods vehicle collided near the Tsing Tin Interchange about 8am; local reports said no one was injured and closed lanes reopened after 9am."
-      },
-      "zh": {
-        "headline": "屯門公路平治撼貨車 出九龍車龍一度延至元朗",
-        "dek": "今早約8時青田交匯處附近私家車與中型貨車相撞，運輸署指部分行車線曾封閉，報道指無人受傷，9時後逐步回復。"
-      }
-    },
-    {
-      "id": "2026-09-16-pmh-block-g-gas-report",
-      "published_at": "2026-09-16T11:16:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "hospital",
-        "fire-services"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-pmh-block-g-gas-report.json",
-      "en": {
-        "headline": "Princess Margaret Hospital evacuates Block G after gas report",
-        "dek": "The Hospital Authority said floors 12 to 14 of the Kwai Chung hospital’s pathology block were cleared around 9am; emergency services were not affected."
-      },
-      "zh": {
-        "headline": "瑪嘉烈醫院G座接不明氣體報告 病理樓三層疏散",
-        "dek": "醫管局指今早約9時葵涌瑪嘉烈醫院G座12至14樓接報，屬病理部工作樓層，不涉病人服務，急症服務未受影響。"
       }
     }
   ]
