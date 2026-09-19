@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-09-19T09:24:11+08:00",
+  "generated_at": "2026-09-19T11:14:02+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-09-19-lifestyle-jtia-open-day-lanterns",
+      "published_at": "2026-09-19T11:14:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "mei-foo",
+        "heritage",
+        "family"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-lifestyle-jtia-open-day-lanterns.json",
+      "en": {
+        "headline": "Jao Tsung-I Academy opens for Mid-Autumn lantern weekend",
+        "dek": "The former Lai Chi Kok Hospital marks its 12th anniversary open days this weekend with hand-painted lanterns, a craft market and free heritage tours."
+      },
+      "zh": {
+        "headline": "饕館今起開放日迎中秋 花燈與市集同步",
+        "dek": "美孚饕宗頫文化館十二周年開放日今明兩日及25、26日舉行，有市民繪製花燈、手作市集及免費古跡導賞。"
+      }
+    },
+    {
+      "id": "2026-09-19-community-carer-canteens",
+      "published_at": "2026-09-19T11:13:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "elderly",
+        "carers",
+        "welfare",
+        "eric-chan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-community-carer-canteens.json",
+      "en": {
+        "headline": "Chan says carer canteens aim to spot people who need help",
+        "dek": "A three-month trial at a Shek Pai Wan youth centre served 250 people and issued 2,200 meal coupons, the chief secretary said on Saturday."
+      },
+      "zh": {
+        "headline": "陳國基：照顧者飯堂要識別需支援人士",
+        "dek": "政務司司長周六表示，香港仔石排灣青年中心試行三個月，250人使用服務，派出2,200張飯券。"
+      }
+    },
+    {
+      "id": "2026-09-19-kwun-tong-bypass-dangerous-driving",
+      "published_at": "2026-09-19T11:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "traffic",
+        "kwun-tong",
+        "dangerous-driving"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-kwun-tong-bypass-dangerous-driving.json",
+      "en": {
+        "headline": "Two arrested after 160km/h run on Kwun Tong Bypass",
+        "dek": "East Kowloon traffic police said one driver more than doubled the 80km/h limit and weaved between lanes during Operation Fei Shield on 17 and 18 September."
+      },
+      "zh": {
+        "headline": "觀塘繞道反危駕拘兩男 有車時速160公里",
+        "dek": "東九龍交通部指，17至18日「飛盾」行動中，一名司機在限速80公里路段車速達160公里或以上，並在行車線之間穿插。"
+      }
+    },
     {
       "id": "2026-09-19-lifestyle-victoria-park-led-dragon",
       "published_at": "2026-09-19T09:35:00+08:00",
