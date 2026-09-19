@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T11:14:02+08:00",
+  "updated_at": "2026-09-19T11:14:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -307,6 +307,24 @@
       "id": "2026-09-19-lifestyle-victoria-park-led-dragon",
       "first_seen": "2026-09-19T09:35:00+08:00",
       "headline_en": "Small LED fire dragon performs at Victoria Park this weekend"
+    },
+    {
+      "key": "kwun-tong-bypass-fei-shield-sep17-18",
+      "id": "2026-09-19-kwun-tong-bypass-dangerous-driving",
+      "first_seen": "2026-09-19T11:12:00+08:00",
+      "headline_en": "Two arrested after 160km/h run on Kwun Tong Bypass"
+    },
+    {
+      "key": "community-carer-canteens-chan-sep19",
+      "id": "2026-09-19-community-carer-canteens",
+      "first_seen": "2026-09-19T11:13:00+08:00",
+      "headline_en": "Chan says carer canteens aim to spot people who need help"
+    },
+    {
+      "key": "lifestyle-jtia-mid-autumn-open-day-2026",
+      "id": "2026-09-19-lifestyle-jtia-open-day-lanterns",
+      "first_seen": "2026-09-19T11:14:00+08:00",
+      "headline_en": "Jao Tsung-I Academy opens for Mid-Autumn lantern weekend"
     }
   ]
 }
