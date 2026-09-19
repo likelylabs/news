@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T23:29:51+08:00",
+  "updated_at": "2026-09-20T01:20:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -109,6 +109,12 @@
       "id": "2026-09-19-civil-servants-dismissed-five-years",
       "first_seen": "2026-09-19T23:31:00+08:00",
       "headline_en": "251 civil servants dismissed over five years for misconduct or crime"
+    },
+    {
+      "key": "tung-chee-hwa-state-funeral-sep20",
+      "id": "2026-09-20-tung-chee-hwa-state-funeral-day",
+      "first_seen": "2026-09-20T01:20:00+08:00",
+      "headline_en": "State funeral for Tung Chee-hwa proceeds today after Saturday vigil"
     }
   ]
 }
