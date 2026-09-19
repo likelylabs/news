@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-09-19T19:13:36+08:00",
+  "generated_at": "2026-09-19T21:28:44+08:00",
   "live_window_hours": 72,
   "count": 88,
   "articles": [
+    {
+      "id": "2026-09-19-lifestyle-kwun-tong-mid-autumn-carnival",
+      "published_at": "2026-09-19T21:27:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "kwun-tong",
+        "family",
+        "carnival"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-lifestyle-kwun-tong-mid-autumn-carnival.json",
+      "en": {
+        "headline": "Kwun Tong waterfront hosts Mid-Autumn carnival today",
+        "dek": "The Kwun Tong District Arts and Culture Promotion Association stages games, workshops, magic, dance and Sichuan opera face-changing at AquaBeat 01 on the harbourfront."
+      },
+      "zh": {
+        "headline": "觀塘海濱今日舉行中秋繽紛嘉年華",
+        "dek": "觀塘區文娛康樂促進會於AquaBeat 01舉辦提早慶祝中秋活動，設燈謎、手作、魔術、舞蹈及川劇變臉等節目。"
+      }
+    },
+    {
+      "id": "2026-09-19-customs-airport-cannabis-7kg",
+      "published_at": "2026-09-19T21:26:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "drugs",
+        "cannabis",
+        "airport",
+        "trafficking"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-customs-airport-cannabis-7kg.json",
+      "en": {
+        "headline": "Customs seizes 7kg cannabis at airport, arrests three mainland men",
+        "dek": "Two separate cases today involved passengers arriving from Bangkok with suspected cannabis buds hidden in snack packaging inside carry-on bags."
+      },
+      "zh": {
+        "headline": "海關機場檢約7公斤大麻花拘三名內地男子",
+        "dek": "今日兩宗個案，三名由曼谷抵港的內地男子在手提行李零食包裝內藏有懷疑大麻花，合共約7公斤，市值約140萬元。"
+      }
+    },
+    {
+      "id": "2026-09-19-customs-hzmb-silver-ingots",
+      "published_at": "2026-09-19T21:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "smuggling",
+        "hzmb",
+        "silver",
+        "border"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-customs-hzmb-silver-ingots.json",
+      "en": {
+        "headline": "Customs seizes 50kg silver ingots worth HK$1m at HZMB, driver charged",
+        "dek": "A 30-year-old man was arrested after officers found the suspected smuggled silver hidden in the lower boot of an outgoing private car on 18 September."
+      },
+      "zh": {
+        "headline": "海關港珠澳大橋截出境私家車 檢50公斤銀磚值百萬拘司機",
+        "dek": "海關前日在港珠澳大橋香港口岸截查一輛出境私家車，於車尾箱下層置物格發現約50公斤懷疑走私銀磚，市值約100萬元，30歲男司機已被控。"
+      }
+    },
     {
       "id": "2026-09-19-asian-games-focal-sites-launch",
       "published_at": "2026-09-19T19:14:00+08:00",
@@ -1890,69 +1959,6 @@
       "zh": {
         "headline": "衞生防護中心調查兩宗猴痘確診個案 本年累計23宗",
         "dek": "兩名分別48歲及30歲男子情況穩定，正接受隔離治療；兩人潛伏期內均曾在港與其他男子有高風險接觸。"
-      }
-    },
-    {
-      "id": "2026-09-16-baby-bonus-second-child-sep16",
-      "published_at": "2026-09-16T21:22:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "family",
-        "politics"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-baby-bonus-second-child-sep16.json",
-      "en": {
-        "headline": "Second-child baby bonus rises to HK$30,000 under 11 fertility measures",
-        "dek": "The existing HK$20,000 newborn bonus is extended for three years, while tax allowance for second and subsequent children also increases, Chief Executive John Lee said."
-      },
-      "zh": {
-        "headline": "第二胎新生嬰兒獎勵金增至3萬元 生育措施共11項",
-        "dek": "行政長官宣布現有2萬元新生嬰兒獎勵金計劃延長三年，第二名及之後子女獎勵金提高至3萬元，相關免稅額亦上調。"
-      }
-    },
-    {
-      "id": "2026-09-16-foreign-carers-pilot-sep16",
-      "published_at": "2026-09-16T21:21:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "elderly",
-        "health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-foreign-carers-pilot-sep16.json",
-      "en": {
-        "headline": "Hong Kong to pilot foreign domestic carers for elderly care next year",
-        "dek": "The scheme, modelled on the existing foreign domestic helper regime, will admit carers with advanced training and experience to meet home-care needs of older residents."
-      },
-      "zh": {
-        "headline": "港府明年試行輸入外籍家居照顧員照顧長者",
-        "dek": "行政長官在施政報告中宣布，參照外傭制度試行輸入具備較高護老培訓及經驗的外籍家居照顧員，以滿足居家長者照顧需要。"
-      }
-    },
-    {
-      "id": "2026-09-16-building-maintenance-reforms-sep16",
-      "published_at": "2026-09-16T21:20:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "wang-fuk-court",
-        "building-safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-building-maintenance-reforms-sep16.json",
-      "en": {
-        "headline": "Lee pledges building maintenance reforms and bid-rigging study after Tai Po fire",
-        "dek": "The chief executive said a legal study on criminalising bid-rigging in major works would go to LegCo this year, alongside pre-qualified contractor lists and stronger oversight."
-      },
-      "zh": {
-        "headline": "李家超承諾改革樓宇維修制度 研圍標刑事化",
-        "dek": "行政長官在施政報告中表示，會就大維修圍標行為進行法律研究，今年內向立法會提交建議，並推出預審顧問承建商名單及招標評標服務。"
       }
     }
   ]
