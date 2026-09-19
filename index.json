@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-09-19T07:24:46+08:00",
+  "generated_at": "2026-09-19T09:23:11+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-09-19-lifestyle-victoria-park-led-dragon",
+      "published_at": "2026-09-19T09:35:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "victoria-park",
+        "fire-dragon",
+        "family"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-lifestyle-victoria-park-led-dragon.json",
+      "en": {
+        "headline": "Small LED fire dragon performs at Victoria Park this weekend",
+        "dek": "A children’s LED dragon takes the soccer pitches at 7pm on Saturday and Sunday, as the Mid-Autumn creative market also opens in the park this evening."
+      },
+      "zh": {
+        "headline": "維園今明兩晚演小型LED火龍 中秋市集同日開檔",
+        "dek": "旅發局指今晚及週日晚上7時於維園五、六號足球場演小型LED火龍；康文署中秋創意市集今晚6時半起開放。"
+      }
+    },
+    {
+      "id": "2026-09-19-yellow-fire-danger-warning",
+      "published_at": "2026-09-19T09:34:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "fire-danger",
+        "observatory",
+        "hiking",
+        "weekend"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-yellow-fire-danger-warning.json",
+      "en": {
+        "headline": "Yellow fire danger warning in force as weekend stays dry and hot",
+        "dek": "The government said the fire risk is high today and urged hikers to stay alert, as the Observatory forecast sunny weather with urban highs around 32 degrees."
+      },
+      "zh": {
+        "headline": "天文台發出黃色火災危險警告 郊遊人士須小心",
+        "dek": "當局指今日火警風險高，呼籲市民小心防火；天文台預料天晴乾燥炎熱，市區最高約32度。"
+      }
+    },
+    {
+      "id": "2026-09-19-lee-five-year-plan-105-indicators",
+      "published_at": "2026-09-19T09:33:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "john-lee",
+        "five-year-plan",
+        "policy-address",
+        "governance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-lee-five-year-plan-105-indicators.json",
+      "en": {
+        "headline": "Lee says five-year plan has 105 indicators drawn from mainland practice",
+        "dek": "The chief executive told RTHK the targets were adapted to Hong Kong conditions and would be delivered through annual Policy Address goals, in a roughly three-to-one ratio."
+      },
+      "zh": {
+        "headline": "李家超：五年規劃105項指標參考內地經驗",
+        "dek": "特首在《星期六問責》表示，指標按香港實況制定，並透過每年施政報告落實，比例約為三比一。"
+      }
+    },
+    {
+      "id": "2026-09-19-lee-subdivided-flats-no-high-handed",
+      "published_at": "2026-09-19T09:32:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "subdivided-flats",
+        "john-lee",
+        "five-year-plan",
+        "basic-housing-units"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-19/2026-09-19-lee-subdivided-flats-no-high-handed.json",
+      "en": {
+        "headline": "Lee says crackdown on poor subdivided flats will not leave tenants homeless",
+        "dek": "On RTHK’s Saturday Accountability, the chief executive said the government would not use extreme or high-handed means and cited a 65 percent registration rate under the Basic Housing Unit regime."
+      },
+      "zh": {
+        "headline": "李家超：取締劣質劌房不會用高壓手段",
+        "dek": "特首在港台《星期六問責》表示，不會因取締劣質劌房而令住戶無瓦遮頭，簡樸房登記率現達65%。"
+      }
+    },
     {
       "id": "2026-09-19-tung-chee-hwa-vigil",
       "published_at": "2026-09-19T07:31:00+08:00",
@@ -1827,154 +1917,6 @@
       "zh": {
         "headline": "瑪嘉烈醫院G座接不明氣體報告 病理樓三層疏散",
         "dek": "醫管局指今早約9時葵涌瑪嘉烈醫院G座12至14樓接報，屬病理部工作樓層，不涉病人服務，急症服務未受影響。"
-      }
-    },
-    {
-      "id": "2026-09-16-lifestyle-after-taste-exhibition",
-      "published_at": "2026-09-16T09:22:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "exhibition",
-        "mid-autumn"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-lifestyle-after-taste-exhibition.json",
-      "en": {
-        "headline": "Cheung Sha Wan menu archive show runs until 27 September",
-        "dek": "After Taste, staged by studio artellex in an industrial building, displays historic menus, cookbooks and Mid-Autumn mooncake tins; entry is free by appointment."
-      },
-      "zh": {
-        "headline": "長沙灣《過去味來》展出百年餐牌 27日結束",
-        "dek": "攝影工作室artellex在長順街工業大廈展出舊菜單、食譜及中秋月餅罐模，免費入場須預約，中秋前可看最後數天。"
-      }
-    },
-    {
-      "id": "2026-09-16-lifestyle-little-bao-regent",
-      "published_at": "2026-09-16T09:21:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "community",
-        "food",
-        "tsim-sha-tsui"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-lifestyle-little-bao-regent.json",
-      "en": {
-        "headline": "Little Bao chef May Chow to cook at Regent Lobby Lounge in October",
-        "dek": "The hotel says the month-long residency runs from 2 to 31 October at The Lobby Lounge on Salisbury Road, pairing bao and sharing plates with the harbour view."
-      },
-      "zh": {
-        "headline": "包點店Little Bao主廚周思薇月進駐香港麗晶酒店",
-        "dek": "酒店宣布10月2日至31日於大堂酒廊與行政總廚Calvin Choi合作，以包點及分享小食重塑本地街頭味道，面向維港。"
-      }
-    },
-    {
-      "id": "2026-09-16-man-sang-pump-dump-trial",
-      "published_at": "2026-09-16T09:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "business",
-        "courts"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-man-sang-pump-dump-trial.json",
-      "en": {
-        "headline": "Four face District Court trial over alleged Man Sang pump-and-dump",
-        "dek": "Prosecutors say a Telegram account calling itself Edan Master steered buyers into Man Sang Metal Packaging shares before a coordinated sell-off; all four defendants deny the charge."
-      },
-      "zh": {
-        "headline": "萬成金屬包裝唱高散貨案開審 四人否認控罪",
-        "dek": "控方指Telegram用戶「Edan師傅」誘使股民買入萬成股份，其後有組織帳戶同步拋售；四名被告否認意圖欺詐而串謀使用計劃罪。"
-      }
-    },
-    {
-      "id": "2026-09-16-so-kwun-wat-dog-report",
-      "published_at": "2026-09-16T09:19:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "police",
-        "tuen-mun"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-so-kwun-wat-dog-report.json",
-      "en": {
-        "headline": "Police find no evidence after Tuen Mun report of planned dog killing",
-        "dek": "Animal-welfare volunteers called officers after a resident said she overheard talk of slaughtering a red-collared dog in So Kwun Wat; a search of a village house found nothing."
-      },
-      "zh": {
-        "headline": "屯門掃管笏傳有人擬殺狗食用 警搜屋後無發現",
-        "dek": "動物團體接報指村內有人揚言宰殺戴紅頸帶狗隻，義工聞狗吤報案；警方進入村屋調查，未發現殺狗或食狗證據，列雜項處理。"
-      }
-    },
-    {
-      "id": "2026-09-16-yau-lai-etomidate-arrest",
-      "published_at": "2026-09-16T09:18:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "drugs",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-yau-lai-etomidate-arrest.json",
-      "en": {
-        "headline": "Girl, 17, arrested after mother reports suspected drug use in Yau Tong",
-        "dek": "Police seized three suspected etomidate vape pods at a Yau Lai Estate flat after a late-night call on Tuesday; the teenager was held for alleged possession of dangerous drugs."
-      },
-      "zh": {
-        "headline": "油塘油麗邨17歲少女涉藏依托咪酯煙彈被捕",
-        "dek": "母親周二深夜報案指女兒在家吸毒，警方在雅麗樓單位檢獲三粒懷疑依托咪酯煙彈，少女涉嫌管有危險藥物扣查。"
-      }
-    },
-    {
-      "id": "2026-09-16-lifestyle-mplus-herzog-de-meuron",
-      "published_at": "2026-09-16T07:26:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "museum"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-lifestyle-mplus-herzog-de-meuron.json",
-      "en": {
-        "headline": "M+ opens Herzog & de Meuron focus display of China projects",
-        "dek": "Models, drawings and material samples from the Swiss firm that designed the museum, including Tai Kwun and Beijing’s National Stadium, are on view in the Focus Gallery from 12 September."
-      },
-      "zh": {
-        "headline": "M+展出赫爾佐格與德梅隆中國項目模型及圖則",
-        "dek": "設計本館的瑞士事務所損贈模型、繪圖及物料樣本，包括大館及北京國家體育場，9月12日起於焦點空間展出。"
-      }
-    },
-    {
-      "id": "2026-09-16-ipcc-police-complaints-jan-aug",
-      "published_at": "2026-09-16T07:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-16/2026-09-16-ipcc-police-complaints-jan-aug.json",
-      "en": {
-        "headline": "Reportable police complaints fall 5pc, but assault claims rise",
-        "dek": "IPCC figures for the first eight months show 1,353 reportable complaints, while serious allegations rose 44 per cent to 95, including 90 of assault."
-      },
-      "zh": {
-        "headline": "首八個月須匯報投訴警隊個案跌5% 毀打指控升67%",
-        "dek": "監警會公布1,353宗須匯報投訴，較去年同期少；性質嚴重指控95項，其中毀打90項，多數源自拘捕行動。"
       }
     }
   ]
