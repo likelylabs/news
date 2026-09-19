@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-19T23:29:51+08:00",
+  "generated_at": "2026-09-20T01:16:51+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-09-20-tung-chee-hwa-state-funeral-day",
+      "published_at": "2026-09-20T01:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tung-chee-hwa",
+        "state-funeral",
+        "mourning",
+        "north-point"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-20/2026-09-20-tung-chee-hwa-state-funeral-day.json",
+      "en": {
+        "headline": "State funeral for Tung Chee-hwa proceeds today after Saturday vigil",
+        "dek": "Public memorial and encoffining begin at 9am at Hong Kong Funeral Home in North Point, with condolence books open until noon at designated centres."
+      },
+      "zh": {
+        "headline": "董建華國葬今日舉行 公祭大殮上午九時開始",
+        "dek": "北角香港殯儀館福海堂今日上午九時舉行公祭大殮後出殯，市民可繼續在指定地點簽署弔唁冊至中午。"
+      }
+    },
     {
       "id": "2026-09-19-civil-servants-dismissed-five-years",
       "published_at": "2026-09-19T23:31:00+08:00",
