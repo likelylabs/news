@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-20-very-hot-weather-warning",
+  "published_at": "2026-09-20T09:21:00+08:00",
+  "category": "weather",
+  "tags": ["observatory", "heat", "very-hot-weather"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "very-hot-weather-warning-sep20",
+  "en": {
+    "headline": "Very Hot Weather Warning issued as Sunday peaks near 33C",
+    "dek": "The Observatory posted the warning at 7:30am, saying very hot weather is expected and urging people to watch for heat stroke.",
+    "body": [
+      "The Hong Kong Observatory issued a Very Hot Weather Warning at 7:30am on Sunday, saying very hot weather was expected across the territory and that the public should beware of heat stroke.",
+      "The Observatory forecast a mainly fine, dry and very hot day, with temperatures of about 28 to 33 degrees in urban areas and a couple of degrees higher in the New Territories. East to northeast winds of force 2 to 3 were expected, with the weather turning cloudier and isolated showers possible later. The air temperature at the Observatory was 28.1 degrees at 7:40am.",
+      "Elderly people, pregnant women, infants and children, those with chronic illnesses such as heart disease or high blood pressure, and people who are obese are more vulnerable to heat stroke, the Observatory said. It advised outdoor workers to follow Labour Department guidance, drink more water, avoid over-exertion, and rest in the shade if unwell. Outdoor activity is better scheduled for the morning or late afternoon.",
+      "A yellow fire danger warning, issued at 6am, remains in force, indicating a high fire risk. Hikers were reminded not to light fires outside designated barbecue sites."
+    ]
+  },
+  "zh": {
+    "headline": "天文台今早發出酷熱天氣警告 市區料高見33度",
+    "dek": "警告於上午7時30分發出，預料今日天氣酷熱，市民須慎防中暑；黃色火災危險警告仍然生效。",
+    "body": [
+      "香港天文台今日上午7時30分發出酷熱天氣警告，預料本港天氣酷熱，市民應慎防中暑。",
+      "天文台預料今日大致天晴，日間乾燥及酷熱，市區氣溫約28至33度，新界再高一兩度，吹東至東北風2至3級，稍後轉多雲，局部地區有驟雨。天文台總部早上7時40分氣溫為28.1度。",
+      "天文台指，長者、孕婦、嬰兒及小童、患心臘病或高血壓等慢性病的人士，以及過胖人士較易中暑。在高溫環境工作的人士應參照勞工處指引採取防暑措施；戶外活動宜多補充水分、避免過度勞累，如感不適應盡快到陰涼地方休息，並盡量安排在早上或下午較後時間進行。",
+      "早上6時發出的黃色火災危險警告仍然生效，表示火災危險性頗高。郊遊人士不要在指定燒烤場地以外生火。"
+    ]
+  }
+}
