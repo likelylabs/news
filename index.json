@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-09-20T13:24:35+08:00",
+  "generated_at": "2026-09-20T15:06:22+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-09-20-paul-chan-five-year-plan-certainty",
+      "published_at": "2026-09-20T15:07:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "five-year-plan",
+        "paul-chan",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-20/2026-09-20-paul-chan-five-year-plan-certainty.json",
+      "en": {
+        "headline": "Paul Chan says five-year plan gives firms longer-term investment certainty",
+        "dek": "The financial secretary wrote that the blueprint's targets and timelines help businesses align decisions with government goals amid a volatile external environment."
+      },
+      "zh": {
+        "headline": "陳茂波：五年規劃為企業提供更長遠投資確定性",
+        "dek": "財政司司長在周日網誌指，規劃的目標及時間表有助企業在外部環境波動下，與政府方向對齊投資決定。"
+      }
+    },
+    {
+      "id": "2026-09-20-grace-lau-asian-games-silver",
+      "published_at": "2026-09-20T15:06:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "karate",
+        "grace-lau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-20/2026-09-20-grace-lau-asian-games-silver.json",
+      "en": {
+        "headline": "Grace Lau wins Hong Kong's first Asian Games medal with karate silver",
+        "dek": "The world number one took silver in the women's individual kata final in Nagoya after a 0-5 defeat by Japan's Maho Ono, upgrading her previous two bronzes."
+      },
+      "zh": {
+        "headline": "劉慕裳空手道個人形奪銀 香港亞運首面獎牌",
+        "dek": "世界排名第一的劉慕裳在名古屋亞運會女子個人形決賽以0比5不敵日本選手小野真步，為香港帶來本屆亞運首面獎牌。"
+      }
+    },
+    {
+      "id": "2026-09-20-workweek-weather-outlook",
+      "published_at": "2026-09-20T15:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "observatory",
+        "forecast",
+        "workweek"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-20/2026-09-20-workweek-weather-outlook.json",
+      "en": {
+        "headline": "Work week set for mainly cloudy days with showers and milder heat",
+        "dek": "The Hong Kong Observatory expects a few showers and isolated thunderstorms early in the week, with temperatures generally between 27 and 31 degrees and sunny intervals at times."
+      },
+      "zh": {
+        "headline": "未來工作天大致多雲有驟雨 氣溫回落至27至31度",
+        "dek": "天文台預料本週初有幾陣驟雨及局部雷暴，日間短暫有陽光，氣溫普遍介乎27至31度，星期三起天色漸轉好。"
+      }
+    },
     {
       "id": "2026-09-20-census-fake-website-warning",
       "published_at": "2026-09-20T13:25:00+08:00",
@@ -1912,28 +1975,6 @@
       "zh": {
         "headline": "政府推出洪水橋大學城三幅用地 院校申請年底截止",
         "dek": "北都洪水橋大學城共約26公頃校園區用地今日開放申請，合資格專上院校可至12月31日遞交建議，預計明年初公布進駐院校。"
-      }
-    },
-    {
-      "id": "2026-09-17-lau-fau-shan-warehouse-fire",
-      "published_at": "2026-09-17T15:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "lau-fau-shan",
-        "yuen-long",
-        "warehouse"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-17/2026-09-17-lau-fau-shan-warehouse-fire.json",
-      "en": {
-        "headline": "Three-alarm fire breaks out at Lau Fau Shan wood warehouse",
-        "dek": "Fire Services upgraded the blaze at a Kai Pak Ling Road warehouse storing timber shortly after 1.15pm; 28 people were evacuated and no injuries were reported."
-      },
-      "zh": {
-        "headline": "流浮山木材貨倉三級火 28人疏散無人傷",
-        "dek": "消防下午約1時15分接報雞伯嶺路鳳降村貨倉起火，1時29分升為三級，現場存放木材，需遠距離拖喉灌救。"
       }
     }
   ]
