@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-21-thunderstorm-warning",
+  "published_at": "2026-09-21T07:24:00+08:00",
+  "category": "weather",
+  "tags": ["observatory", "thunderstorm", "new-territories"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "thunderstorm-warning-sep21",
+  "en": {
+    "headline": "Thunderstorm Warning issued for isolated New Territories storms",
+    "dek": "The Observatory posted the warning at 7:10am, valid until 9am, and forecast a mainly cloudy, hot day with a few showers.",
+    "body": [
+      "The Hong Kong Observatory issued a Thunderstorm Warning at 7:10am on Monday, saying isolated thunderstorms were expected over the New Territories. The warning is valid until 9am.",
+      "The Observatory's morning forecast called for a mainly cloudy day with a few showers and isolated thunderstorms, turning hot with sunny intervals. The maximum temperature was put at around 32 degrees, with light winds.",
+      "When thunderstorms approach, the Observatory advises people to take shelter inside a substantial building, stay away from open water and high ground, and avoid standing near trees, metal poles or other conductors. Outdoor swimming and other water sports should be suspended while the warning is in force.",
+      "The warning covers only a short window and does not replace later updates. The Observatory said it would issue further notices if storms persist or spread."
+    ]
+  },
+  "zh": {
+    "headline": "天文台發出雷暴警告 預料新界局部地區有雷暴",
+    "dek": "警告於上午7時10分發出，有效至上午9時；今日大致多雲，有幾陣驟雨，日間炎熱最高約32度。",
+    "body": [
+      "香港天文台今日上午7時10分發出雷暴警告，預料新界有局部地區雷暴，有效時間至上午9時。",
+      "天文台早上預報，今日大致多雲，有幾陣驟雨及局部地區雷暴，日間短暫時間有陽光及炎熱，最高氣溫約32度，吹微風。",
+      "雷暴期間，天文台呼籲市民到堅固建築物內躲避，遠離水面及高地，切勿靠近大樹、金屬柱或其他導體，亦應暫停戶外游泳及其他水上活動。",
+      "今次警告有效時間較短，若雷暴持續或範圍擴大，天文台會另行公布。"
+    ]
+  }
+}
