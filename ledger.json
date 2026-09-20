@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-20T15:07:15+08:00",
+  "updated_at": "2026-09-20T17:15:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "yuen-long-dog-attack-death-sep20",
+      "id": "2026-09-20-yuen-long-dog-attack-death",
+      "first_seen": "2026-09-20T17:12:00+08:00",
+      "headline_en": "Police say woman killed by dogs while cycling in Yuen Long"
+    },
+    {
+      "key": "abby-choi-murder-trial-start-sep21",
+      "id": "2026-09-20-abby-choi-trial-start",
+      "first_seen": "2026-09-20T17:13:00+08:00",
+      "headline_en": "Abby Choi murder trial to open at High Court this week"
+    },
+    {
+      "key": "lifestyle-midnight-cowboy-freespace-sep20",
+      "id": "2026-09-20-lifestyle-midnight-cowboy-westk",
+      "first_seen": "2026-09-20T17:14:00+08:00",
+      "headline_en": "Local trio Midnight Cowboy plays album live at West Kowloon tonight"
+    },
     {
       "key": "workweek-weather-outlook-sep21-25",
       "id": "2026-09-20-workweek-weather-outlook",
