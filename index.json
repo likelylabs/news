@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-09-20T21:42:14+08:00",
+  "generated_at": "2026-09-21T01:16:12+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-09-21-lifestyle-tai-hang-fire-dragon",
+      "published_at": "2026-09-21T01:17:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "tai-hang",
+        "fire-dragon",
+        "tradition"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-lifestyle-tai-hang-fire-dragon.json",
+      "en": {
+        "headline": "Tai Hang Fire Dragon Dance returns this week for Mid-Autumn",
+        "dek": "The 67-metre incense-lit dragon will parade through Tai Hang streets from 24 to 26 September, with live broadcasts and a gala night on the festival day itself."
+      },
+      "zh": {
+        "headline": "大坑舞火龍本周上演 中秋三晚巡遊",
+        "dek": "67米長香火龍將於9月24至26日在大坑街巷巡遊，中秋正日另有晚會及直播安排。"
+      }
+    },
+    {
+      "id": "2026-09-21-customs-infringing-jewellery-jgw",
+      "published_at": "2026-09-21T01:16:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "copyright",
+        "jewellery",
+        "exhibition",
+        "wan-chai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-customs-infringing-jewellery-jgw.json",
+      "en": {
+        "headline": "Customs seizes suspected infringing jewellery worth HK$160,000 at Wan Chai fair",
+        "dek": "Officers arrested a man and a woman after finding about 27 items at a booth of the Jewellery & Gem World Hong Kong September exhibition and a related company in Hung Hom."
+      },
+      "zh": {
+        "headline": "海關會展檢獲約16萬元懷疑侵權首飾 拘兩男女",
+        "dek": "關員於灣仔會展「九月香港珠寶首飾展覽會」攤位及紅磡相關公司檢獲約27件懷疑侵權首飾，包括耳環、手鐲及頸鏈。"
+      }
+    },
     {
       "id": "2026-09-20-customs-ketamine-airport",
       "published_at": "2026-09-20T21:42:00+08:00",
@@ -1859,74 +1905,6 @@
       "zh": {
         "headline": "立法會嚴厲譴責美國政客就黎智英案發表失實抹黑言論",
         "dek": "立法會發言人表示全力支持特區政府依法執法，並強烈反對美國「國會及行政當局中國委員會」政客藉聽證會發表失實言論及揚言制裁。"
-      }
-    },
-    {
-      "id": "2026-09-17-lifestyle-victoria-park-lantern-carnival",
-      "published_at": "2026-09-17T23:06:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "victoria-park",
-        "lantern",
-        "culture"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-17/2026-09-17-lifestyle-victoria-park-lantern-carnival.json",
-      "en": {
-        "headline": "Victoria Park Mid-Autumn lantern carnival opens with international displays",
-        "dek": "The LCSD carnival and the Tourism Board’s first International Lantern Spectacular run from 17 to 27 September, featuring thousands of lanterns including an eight-metre banyan installation."
-      },
-      "zh": {
-        "headline": "維園中秋綵燈會開幕 首辦國際綵燈匯展出逾三千盞燈",
-        "dek": "康文署綵燈會及旅發局國際中秋綵燈匯由9月17日至27日舉行，亮點包括八米高榕樹綵燈及港式美食造型燈飾。"
-      }
-    },
-    {
-      "id": "2026-09-17-999-multimedia-upgrade-2028",
-      "published_at": "2026-09-17T23:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "emergency",
-        "999",
-        "technology",
-        "security"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-17/2026-09-17-999-multimedia-upgrade-2028.json",
-      "en": {
-        "headline": "999 callers to send real-time audio and video from 2028, Tang says",
-        "dek": "Security minister Chris Tang outlined three new functions for the emergency hotline, including instant multimedia transfer to Fire Services and call prioritisation in major incidents."
-      },
-      "zh": {
-        "headline": "鄧炳強：999熱線2028年增實時傳影音功能",
-        "dek": "保安局局長表示將新增三項功能，包括市民用通訊軟件即時傳送聲影畫、資料即時轉交消防，以及繁忙時優先處理危急個案。"
-      }
-    },
-    {
-      "id": "2026-09-17-police-officer-chu-dies",
-      "published_at": "2026-09-17T23:04:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "bravery",
-        "cheung-sha-wan",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-17/2026-09-17-police-officer-chu-dies.json",
-      "en": {
-        "headline": "Police officer left paralysed in 2005 knife attack dies after 21 years",
-        "dek": "Constable Chu Chun-kwok, awarded the Medal for Bravery (Gold) for chasing an armed attacker despite a severed artery, died on Wednesday at the age of 52."
-      },
-      "zh": {
-        "headline": "2005年執勤被斬頸癱瘓21年 警員朱振國離世",
-        "dek": "朱振國周三於廣華醫院逝世，終年52歲。他曾獲頒金英勇勳章，表揚在頸動脈被割斷下仍追截持刀兇徒。"
       }
     }
   ]
