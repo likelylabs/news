@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-20T15:07:15+08:00",
+  "generated_at": "2026-09-20T17:13:18+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-09-20-lifestyle-midnight-cowboy-westk",
+      "published_at": "2026-09-20T17:14:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "music",
+        "west-kowloon",
+        "live-performance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-20/2026-09-20-lifestyle-midnight-cowboy-westk.json",
+      "en": {
+        "headline": "Local trio Midnight Cowboy plays album live at West Kowloon tonight",
+        "dek": "The indie band performs a full reading of its debut record See You Down The Road at The Box in Freespace, setting Hong Kong poet Yam Gong’s verse to rock."
+      },
+      "zh": {
+        "headline": "本地組合Midnight Cowboy今晚西九演譯首張專輯",
+        "dek": "三人組合於自由空間盒子演出首張專輯《See You Down The Road》全曲，將香港詩人飲江詩句配以搖滾及粵語口白。"
+      }
+    },
+    {
+      "id": "2026-09-20-abby-choi-trial-start",
+      "published_at": "2026-09-20T17:13:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "murder",
+        "abby-choi",
+        "high-court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-20/2026-09-20-abby-choi-trial-start.json",
+      "en": {
+        "headline": "Abby Choi murder trial to open at High Court this week",
+        "dek": "The ex-husband, father-in-law and brother-in-law of the late model face a joint murder charge; the first hearing is set for Monday with the case expected to last about 45 days."
+      },
+      "zh": {
+        "headline": "蔡天鳳案下週高院開審 前夫等三人被控謀殺",
+        "dek": "蔡天鳳前夫、前家翁及前大伯被控謀殺及阻止合法殮葬，周一先處理程序事宜，全案料審約45日。"
+      }
+    },
+    {
+      "id": "2026-09-20-yuen-long-dog-attack-death",
+      "published_at": "2026-09-20T17:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "yuen-long",
+        "police",
+        "dog-attack",
+        "animal"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-20/2026-09-20-yuen-long-dog-attack-death.json",
+      "en": {
+        "headline": "Police say woman killed by dogs while cycling in Yuen Long",
+        "dek": "A 27-year-old woman died after being chased and mauled by several dogs near Nam Sang Wai; officers are working with the Agriculture, Fisheries and Conservation Department to catch the animals."
+      },
+      "zh": {
+        "headline": "元朗女子踩單車疑遭野狗襲擊身亡 警聯同漁護署捉狗",
+        "dek": "27歲女子凌晨在壆圍南路倒卧不治，閉路電視顯示她曾被約三隻狗追趕，頭頸有致命咬傷，警方正與漁護署合作捕捉涉事犬隻。"
+      }
+    },
     {
       "id": "2026-09-20-paul-chan-five-year-plan-certainty",
       "published_at": "2026-09-20T15:07:00+08:00",
