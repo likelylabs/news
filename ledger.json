@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-21T01:16:12+08:00",
+  "updated_at": "2026-09-21T01:18:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "customs-infringing-jewellery-jgw-sep20",
+      "id": "2026-09-21-customs-infringing-jewellery-jgw",
+      "first_seen": "2026-09-21T01:16:00+08:00",
+      "headline_en": "Customs seizes suspected infringing jewellery worth HK$160,000 at Wan Chai fair"
+    },
+    {
+      "key": "lifestyle-tai-hang-fire-dragon-2026",
+      "id": "2026-09-21-lifestyle-tai-hang-fire-dragon",
+      "first_seen": "2026-09-21T01:17:00+08:00",
+      "headline_en": "Tai Hang Fire Dragon Dance returns this week for Mid-Autumn"
+    },
     {
       "key": "asean-investment-protocol-sep20",
       "id": "2026-09-20-asean-investment-protocol",
