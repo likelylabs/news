@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-21T06:34:59+08:00",
+  "generated_at": "2026-09-21T07:26:03+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-09-21-youth-flag-team-tiananmen",
+      "published_at": "2026-09-21T07:26:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "youth",
+        "beijing",
+        "flag-raising"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-youth-flag-team-tiananmen.json",
+      "en": {
+        "headline": "Hong Kong students watch Tiananmen flag-raising on Beijing visit",
+        "dek": "Education Secretary Choi Yuk-lin led a Hong Kong and Macao youth flag-team delegation of more than 1,300 people at the square on Sunday."
+      },
+      "zh": {
+        "headline": "蔡若蓮率港澳升旗隊訪京團在天安門觀升旗",
+        "dek": "訪京團超過1300名港澳師生周日在天安門廣場觀看升旗儀式，五日行程由18日至22日。"
+      }
+    },
+    {
+      "id": "2026-09-21-yuen-long-dogs-captured",
+      "published_at": "2026-09-21T07:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "yuen-long",
+        "police",
+        "afcd",
+        "animal",
+        "dog-attack"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-yuen-long-dogs-captured.json",
+      "en": {
+        "headline": "AFCD and police catch three dogs after Yuen Long cyclist death",
+        "dek": "Officers detained three adult mongrels overnight near Pok Wai South Road and will check for microchips as the inquiry continues."
+      },
+      "zh": {
+        "headline": "漁護署聯同警方元朗據獲三隻成年唐狗",
+        "dek": "行動於壩圍南路一帶通宵進行，狗隻送往動物管理中心觀察，署方會查晶片並跟進調查。"
+      }
+    },
+    {
+      "id": "2026-09-21-thunderstorm-warning",
+      "published_at": "2026-09-21T07:24:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "observatory",
+        "thunderstorm",
+        "new-territories"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-thunderstorm-warning.json",
+      "en": {
+        "headline": "Thunderstorm Warning issued for isolated New Territories storms",
+        "dek": "The Observatory posted the warning at 7:10am, valid until 9am, and forecast a mainly cloudy, hot day with a few showers."
+      },
+      "zh": {
+        "headline": "天文台發出雷暴警告 預料新界局部地區有雷暴",
+        "dek": "警告於上午7時10分發出，有效至上午9時；今日大致多雲，有幾陣驟雨，日間炎熱最高約32度。"
+      }
+    },
     {
       "id": "2026-09-21-lifestyle-autumn-home-expo",
       "published_at": "2026-09-21T03:06:00+08:00",
@@ -1725,141 +1791,6 @@
       "zh": {
         "headline": "荃灣工廈搜出45萬元毒品 23歲內地男涉販毒被捕",
         "dek": "荃灣警區特別職務隊週四晚上在沙咀道工廈單位檢獲氯胺酮、可卡因及依托咪酯煙彈，拘捕一名23歲內地男子。"
-      }
-    },
-    {
-      "id": "2026-09-18-lifestyle-cultural-centre-lanterns",
-      "published_at": "2026-09-18T07:17:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "tsim-sha-tsui",
-        "lantern",
-        "lcsd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-lifestyle-cultural-centre-lanterns.json",
-      "en": {
-        "headline": "Tsim Sha Tsui Cultural Centre piazza lights up for Mid-Autumn",
-        "dek": "A free night-time lantern installation on Salisbury Road is scheduled to glow from 6.30pm to 11pm until 11 October, running alongside the Victoria Park carnival."
-      },
-      "zh": {
-        "headline": "尖沙咀文化中心廣場中秋光影裝置亮燈",
-        "dek": "康文署及旅發局在梵士巴利道香港文化中心廣場設置免費綵燈裝置，9月17日至10月11日每晚6時30分至11時亮燈。"
-      }
-    },
-    {
-      "id": "2026-09-18-flu-vaccine-programme-starts",
-      "published_at": "2026-09-18T07:16:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "flu",
-        "vaccination",
-        "chp"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-flu-vaccine-programme-starts.json",
-      "en": {
-        "headline": "Seasonal flu vaccination programme now under way",
-        "dek": "The Centre for Health Protection said the 2026-27 scheme, covering school outreach, residential homes and subsidised private clinics, began on Thursday."
-      },
-      "zh": {
-        "headline": "2026／27年度流感疫苗接種計劃已展開",
-        "dek": "衞生防護中心表示，涵蓋學校外展、院舍注射及疫苗資助的計劃已於周四啟動，呼籲優先組別盡早接種。"
-      }
-    },
-    {
-      "id": "2026-09-18-tung-condolence-points",
-      "published_at": "2026-09-18T07:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tung-chee-hwa",
-        "funeral",
-        "causeway-bay",
-        "kai-tak",
-        "tsuen-wan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-tung-condolence-points.json",
-      "en": {
-        "headline": "Three public condolence points open today for Tung Chee-hwa",
-        "dek": "The Home Affairs Department is opening venues in Causeway Bay, Kai Tak and Tsuen Wan for residents to sign condolence books through Sunday noon."
-      },
-      "zh": {
-        "headline": "董建華公眾凱唧處今日開放 銅鑼灣啟德荃灣設點",
-        "dek": "民政事務總署在銅鑼灣摩頓台、啟德社區會堂及荃灣西樓角花園開設凱唧處，供市民簽署凱唧冊至周日中午。"
-      }
-    },
-    {
-      "id": "2026-09-18-restaurants-red-paint-arrests",
-      "published_at": "2026-09-18T07:14:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "kwun-tong",
-        "hung-hom",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-restaurants-red-paint-arrests.json",
-      "en": {
-        "headline": "Two men arrested over red-paint attacks on two restaurants",
-        "dek": "Police said the men, aged 33 and 49, were detained on suspicion of criminal damage after paint was thrown at two outlets of the same dining group."
-      },
-      "zh": {
-        "headline": "觀塘紅磬兩酒樓遭淋紅油 警拘兩男涉刑毀",
-        "dek": "西九龍總區反三合會行動組周四在油麻地及旺角拘捕33歲及49歲男子，涉嫌早前向同一集團兩間酒樓淋澔紅油。"
-      }
-    },
-    {
-      "id": "2026-09-18-kai-tak-site-fire",
-      "published_at": "2026-09-18T07:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "kai-tak",
-        "fire",
-        "housing",
-        "construction"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-kai-tak-site-fire.json",
-      "en": {
-        "headline": "Fire put out at Kai Tak public housing site, no injuries",
-        "dek": "Firefighters extinguished a blaze on a lower floor of a Home Ownership Scheme site on Muk Lai Street on Thursday evening after multiple reports of flames and smoke."
-      },
-      "zh": {
-        "headline": "啟德沐禮街公屋地盤起火 消防救熄無人傷",
-        "dek": "周四晚上約8時48分，啟德一個興建中的居屋地盤低層單位起火，消防開喉灌救後救熄，無人受傷，毋須疏散。"
-      }
-    },
-    {
-      "id": "2026-09-18-labour-shortage-2028-130000",
-      "published_at": "2026-09-18T07:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "labour",
-        "employment",
-        "policy-address",
-        "talent",
-        "youth"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-labour-shortage-2028-130000.json",
-      "en": {
-        "headline": "Hong Kong labour shortfall cut to 130,000 by 2028, Sun says",
-        "dek": "The labour chief said a mid-term manpower update points to a smaller gap than the 180,000 projected two years ago, citing talent schemes and rapid AI adoption."
-      },
-      "zh": {
-        "headline": "孫玉菏：2028年人力短缺收窄至約13萬人",
-        "dek": "勞福局局長表示，中期人力推算顯示缺口較兩年前估計的18萬人減少5萬，歸因於人才政策及人工智能發展。"
       }
     }
   ]
