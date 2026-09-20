@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-09-20T11:16:57+08:00",
+  "updated_at": "2026-09-20T13:25:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "census-fake-website-sep20",
+      "id": "2026-09-20-census-fake-website-warning",
+      "first_seen": "2026-09-20T13:25:00+08:00",
+      "headline_en": "Census office warns of fake population census website"
+    },
     {
       "key": "lifestyle-cultural-centre-moonlit-bunny",
       "id": "2026-09-20-lifestyle-cultural-centre-bunnies",
