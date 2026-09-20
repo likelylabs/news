@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-20T11:16:57+08:00",
+  "generated_at": "2026-09-20T13:24:35+08:00",
   "live_window_hours": 72,
-  "count": 94,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-09-20-census-fake-website-warning",
+      "published_at": "2026-09-20T13:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "census",
+        "scam",
+        "statistics-department",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-20/2026-09-20-census-fake-website-warning.json",
+      "en": {
+        "headline": "Census office warns of fake population census website",
+        "dek": "The Census and Statistics Department said a fraudulent site is circulating and has referred the matter to police; genuine contacts use only the 18 2026 hotline."
+      },
+      "zh": {
+        "headline": "統計處籲提防偽冒人口普查網站",
+        "dek": "政府統計處指有虛假網址及冒認電郵短訊流傳，已交警方跟進；正式聯絡只會顯示18 2026或發送人「#C&SD」。"
+      }
+    },
     {
       "id": "2026-09-20-lifestyle-cultural-centre-bunnies",
       "published_at": "2026-09-20T11:16:00+08:00",
@@ -1912,184 +1934,6 @@
       "zh": {
         "headline": "流浮山木材貨倉三級火 28人疏散無人傷",
         "dek": "消防下午約1時15分接報雞伯嶺路鳳降村貨倉起火，1時29分升為三級，現場存放木材，需遠距離拖喉灌救。"
-      }
-    },
-    {
-      "id": "2026-09-17-ck-center-ii-nearly-full",
-      "published_at": "2026-09-17T13:13:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "property",
-        "central",
-        "office",
-        "cheung-kong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-17/2026-09-17-ck-center-ii-nearly-full.json",
-      "en": {
-        "headline": "Cheung Kong Center II nearly fully leased after SIG takes three floors",
-        "dek": "CK Hutchison said the 41-storey Central tower’s leasable space is almost fully taken, with US quant firm Susquehanna International Group signing for about 52,000 square feet."
-      },
-      "zh": {
-        "headline": "長江集團中心二期可租樓面接近全租 SIG租用三層",
-        "dek": "長實表示中環長江集團中心二期可出租樓面已接近全部租出，美國量化交易公司Susquehanna International Group簽約租用約5.2萬平方呎。"
-      }
-    },
-    {
-      "id": "2026-09-17-banks-prime-rates-hold",
-      "published_at": "2026-09-17T13:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "banks",
-        "interest-rates",
-        "hsbc",
-        "prime-rate"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-17/2026-09-17-banks-prime-rates-hold.json",
-      "en": {
-        "headline": "Major banks hold Hong Kong prime rates after HKMA base-rate rise",
-        "dek": "HSBC, Bank of China (Hong Kong) and Standard Chartered left their best lending rates unchanged on Thursday despite the monetary authority lifting the Base Rate to 4.25 per cent."
-      },
-      "zh": {
-        "headline": "主要銀行維持港元最優惠利率不變",
-        "dek": "金管局將基本利率上調至4.25厘後，匯豐、中銀香港及渣打均宣布維持港元最優惠利率不變。"
-      }
-    },
-    {
-      "id": "2026-09-17-hang-seng-fed-hike-morning",
-      "published_at": "2026-09-17T11:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "markets",
-        "hang-seng",
-        "interest-rates"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-17/2026-09-17-hang-seng-fed-hike-morning.json",
-      "en": {
-        "headline": "Hang Seng falls about 240 points after Federal Reserve hike",
-        "dek": "Hong Kong stocks opened lower on Thursday as investors digested the first US rate increase since 2023 and the HKMA’s matching lift in the Base Rate."
-      },
-      "zh": {
-        "headline": "聯儲局加息後恒指早市下跌約240點",
-        "dek": "港股周四早段低開，投資者消化美國三年來首次加息，以及金管局同步上調基本利率。"
-      }
-    },
-    {
-      "id": "2026-09-17-lee-tps-radio-remarks",
-      "published_at": "2026-09-17T11:19:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "housing",
-        "john-lee",
-        "public-housing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-17/2026-09-17-lee-tps-radio-remarks.json",
-      "en": {
-        "headline": "Lee says Tenant Purchase Scheme still has problems to study",
-        "dek": "On a radio phone-in, the Chief Executive said about 15 per cent of flats in the 39 estates remain unsold and asked the Housing Bureau to keep examining the plan."
-      },
-      "zh": {
-        "headline": "李家超：租置計劃仍有問題 房屋局繼續研究",
-        "dek": "特首在電台節目表示，39個租置屋邨仍有約一成半單位未售出，已要求房屋局研究如何處理，包括未賣出單位。"
-      }
-    },
-    {
-      "id": "2026-09-17-lifestyle-kino26-german-film",
-      "published_at": "2026-09-17T11:19:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "film",
-        "sai-wan-ho",
-        "culture"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-17/2026-09-17-lifestyle-kino26-german-film.json",
-      "en": {
-        "headline": "German film festival KINO/26 opens tonight in Sai Wan Ho",
-        "dek": "The Goethe-Institut programme begins on 17 September with Fatih Akin’s Amrum at the Hong Kong Film Archive, and runs into early October at several cinemas."
-      },
-      "zh": {
-        "headline": "德國電影節KINO/26今晚西灣河揭幕",
-        "dek": "歌德學院主辦的影展由9月17日起舉行，開幕片為法提阿金的《小島無戰事》，晚上7時於香港電影資料館放映。"
-      }
-    },
-    {
-      "id": "2026-09-17-cheung-wah-water-restored",
-      "published_at": "2026-09-17T11:18:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fanling",
-        "water-supply",
-        "cheung-wah-estate",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-17/2026-09-17-cheung-wah-water-restored.json",
-      "en": {
-        "headline": "Cheung Wah Estate water supply restored after Fanling burst",
-        "dek": "Drinking and flushing water began returning to normal from about 1.30am, the Water Supplies Department said, while San Wan Road traffic controls remain for repairs."
-      },
-      "zh": {
-        "headline": "粉嶺祥華邸供水凌晨起回復 新運路仍封路搶修",
-        "dek": "水務署表示食水及沖廁水約凌晨1時半起陸續恢復正常，新運路因水管及路面下陷繼續實施交通管制。"
-      }
-    },
-    {
-      "id": "2026-09-17-sau-mau-ping-missing-girl",
-      "published_at": "2026-09-17T11:18:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "sau-mau-ping",
-        "missing-person",
-        "kwun-tong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-17/2026-09-17-sau-mau-ping-missing-girl.json",
-      "en": {
-        "headline": "Police seek public help to find girl missing from Sau Mau Ping",
-        "dek": "Officers appealed on Thursday for information on a 14-year-old who left an On Tai Estate flat on Saturday afternoon and has not been seen since."
-      },
-      "zh": {
-        "headline": "警方籲市民提供秀茂坪失蹤女童消息",
-        "dek": "一名14歲女童上周六下午離開安泰邨住所後失蹤，家人周一報案，警方周四公開呼籲市民提供線索。"
-      }
-    },
-    {
-      "id": "2026-09-17-hang-seng-morning-drop",
-      "published_at": "2026-09-17T11:17:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "stocks",
-        "finance",
-        "interest-rates"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-17/2026-09-17-hang-seng-morning-drop.json",
-      "en": {
-        "headline": "Hang Seng slips about 240 points after Federal Reserve hike",
-        "dek": "By mid-morning the index was near 24,473, down almost 1 per cent from Wednesday’s close, as investors weighed the first US rate rise since 2023."
-      },
-      "zh": {
-        "headline": "恒指早段跌約240點 市場消化美息上調",
-        "dek": "周四上午近10時35分，恒生指數報24,473點，較周三收市跌近1%，投資者消化美國三年來首次加息。"
       }
     }
   ]
