@@ -1,8 +1,51 @@
 {
-  "generated_at": "2026-09-20T07:09:30+08:00",
+  "generated_at": "2026-09-20T09:23:42+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-09-20-pig-trucks-overturn",
+      "published_at": "2026-09-20T09:22:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic-accident",
+        "police",
+        "fanling",
+        "yau-ma-tei"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-20/2026-09-20-pig-trucks-overturn.json",
+      "en": {
+        "headline": "Two pig-transport trucks overturn within four hours",
+        "dek": "A 55-year-old driver was slightly hurt on Fanling Highway before a second truck flipped at Nathan Road in Yau Ma Tei."
+      },
+      "zh": {
+        "headline": "四小時內兩運豬車翻側 粉嶺公路司機輕傷",
+        "dek": "粉嶺公路近康樂園一車翻側，55歲司機右手輕傷；其後油麻地彌敦道再有同類貨車撞欄翻側。"
+      }
+    },
+    {
+      "id": "2026-09-20-very-hot-weather-warning",
+      "published_at": "2026-09-20T09:21:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "observatory",
+        "heat",
+        "very-hot-weather"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-20/2026-09-20-very-hot-weather-warning.json",
+      "en": {
+        "headline": "Very Hot Weather Warning issued as Sunday peaks near 33C",
+        "dek": "The Observatory posted the warning at 7:30am, saying very hot weather is expected and urging people to watch for heat stroke."
+      },
+      "zh": {
+        "headline": "天文台今早發出酷熱天氣警告 市區料高見33度",
+        "dek": "警告於上午7時30分發出，預料今日天氣酷熱，市民須慎防中暑；黃色火災危險警告仍然生效。"
+      }
+    },
     {
       "id": "2026-09-20-gba-legal-exam-held",
       "published_at": "2026-09-20T07:30:00+08:00",
@@ -1917,137 +1960,6 @@
       "zh": {
         "headline": "灣仔利東街懸掛逾800盞中秋燈籠至10月",
         "dek": "「彩燈‧迎月」沿200米林蔭大道展出至10月19日，下午5時亮燈；9月25日將有18米LED火龍巡遊。"
-      }
-    },
-    {
-      "id": "2026-09-17-kitchee-gangwon-acl-two",
-      "published_at": "2026-09-17T09:23:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "football",
-        "kitchee",
-        "mong-kok"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-17/2026-09-17-kitchee-gangwon-acl-two.json",
-      "en": {
-        "headline": "Kitchee open AFC Champions League Two campaign at Mong Kok",
-        "dek": "The Hong Kong champions host South Korea’s Gangwon FC at 8.15pm in Group H, with Kuching City and Phnom Penh Crown the other sides in the pool."
-      },
-      "zh": {
-        "headline": "傑志亞冠二級聯賽首戰今晚旺角迎戰江原FC",
-        "dek": "港超冠軍晚上8時15分在旺角大球場揭開H組戰幕，同組還有古晉城及金邊皇冠。"
-      }
-    },
-    {
-      "id": "2026-09-17-hkma-base-rate-hike",
-      "published_at": "2026-09-17T09:22:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "finance",
-        "hkma",
-        "interest-rates"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-17/2026-09-17-hkma-base-rate-hike.json",
-      "en": {
-        "headline": "HKMA lifts base rate to 4.25pc, first rise since 2023",
-        "dek": "The monetary authority followed the US Federal Reserve’s quarter-point increase, setting the Discount Window benchmark under the linked exchange rate formula."
-      },
-      "zh": {
-        "headline": "金管局將基本利率調高至4.25厘 2023年以來首次上調",
-        "dek": "跟隨美國聯儲局加息四分一厘，金管局按聯繫匯率預設公式即時將貼現窗基準定於4.25厘。"
-      }
-    },
-    {
-      "id": "2026-09-17-lifestyle-sik-sik-yuen-lantern",
-      "published_at": "2026-09-17T07:21:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events",
-        "mid-autumn",
-        "wong-tai-sin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-17/2026-09-17-lifestyle-sik-sik-yuen-lantern.json",
-      "en": {
-        "headline": "Wong Tai Sin temple opens Mid-Autumn lantern evenings from today",
-        "dek": "Sik Sik Yuen's Pou Chai Heung Kong lantern programme runs from 17 September as part of the organisation's 105th anniversary and National Day events."
-      },
-      "zh": {
-        "headline": "嗇色園黃大仙祠中秋綵燈晚會今起舉行",
-        "dek": "「普濟香江中秋綵燈晚會」周四起在黃大仙祠展開，屬嗇色園105周年及國慶系列活動，展出花燈及105盎山羊造型紀慶燈。"
-      }
-    },
-    {
-      "id": "2026-09-17-customs-airport-cannabis-cocaine",
-      "published_at": "2026-09-17T07:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "drugs",
-        "customs",
-        "airport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-17/2026-09-17-customs-airport-cannabis-cocaine.json",
-      "en": {
-        "headline": "Customs seizes HK$1.45m of drugs from two airport passengers",
-        "dek": "Officers found suspected cannabis buds in a Bangkok arrival's carry-on bag and cocaine hidden in a Kuala Lumpur passenger's shoes; one man appears in court today."
-      },
-      "zh": {
-        "headline": "海關機場檢145萬元大麻花及可卡因 拘兩旅客",
-        "dek": "海關連續兩日在機場檢獲約3.5公斤懸疑大麻花及1公斤懸疑可卡因；藏毒於鞋內的男子今在西九龍裁判法院提堂。"
-      }
-    },
-    {
-      "id": "2026-09-17-fanling-cheung-wah-water-main",
-      "published_at": "2026-09-17T07:19:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "water-supply",
-        "fanling"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-17/2026-09-17-fanling-cheung-wah-water-main.json",
-      "en": {
-        "headline": "Fanling water main burst cuts supply at Cheung Wah Estate",
-        "dek": "A 200-millimetre fresh-water pipe near the estate entrance flooded San Wan Road on Wednesday night; the Water Supplies Department said service was restored from about 1.30am."
-      },
-      "zh": {
-        "headline": "粉嶺新運路食水管爆裂 祥華邸一度停水",
-        "dek": "周三晚祥華邸入口附近一條直徑200毫米食水管爆裂，黃泥水湧上路面；水務署稱食水及沖廁水今晨約1時半起陸續恢復。"
-      }
-    },
-    {
-      "id": "2026-09-17-tuen-mun-ship-cabin-death",
-      "published_at": "2026-09-17T07:18:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "tuen-mun",
-        "accident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-17/2026-09-17-tuen-mun-ship-cabin-death.json",
-      "en": {
-        "headline": "Crew member dies after being trapped in Tuen Mun ship crevice",
-        "dek": "A man of about 62 was freed unconscious after nearly two hours in a cabin gap off Ho Yeung Street and was certified dead at Tuen Mun Hospital."
-      },
-      "zh": {
-        "headline": "屯門船員墮船艙嬗隙被困近兩小時後不治",
-        "dek": "約62歲男子清晨在浩洋街對開船上跌入船艙狹縫，消防近兩小時後救出時已昏迷，其後於屯門醫院證實死亡。"
       }
     }
   ]
