@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-21T07:26:03+08:00",
+  "updated_at": "2026-09-21T07:27:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "thunderstorm-warning-sep21",
+      "id": "2026-09-21-thunderstorm-warning",
+      "first_seen": "2026-09-21T07:24:00+08:00",
+      "headline_en": "Thunderstorm Warning issued for isolated New Territories storms"
+    },
+    {
+      "key": "yuen-long-dogs-captured-sep21",
+      "id": "2026-09-21-yuen-long-dogs-captured",
+      "first_seen": "2026-09-21T07:25:00+08:00",
+      "headline_en": "AFCD and police catch three dogs after Yuen Long cyclist death"
+    },
+    {
+      "key": "youth-flag-team-tiananmen-sep20",
+      "id": "2026-09-21-youth-flag-team-tiananmen",
+      "first_seen": "2026-09-21T07:26:00+08:00",
+      "headline_en": "Hong Kong students watch Tiananmen flag-raising on Beijing visit"
+    },
     {
       "key": "lifestyle-autumn-home-expo-2026",
       "id": "2026-09-21-lifestyle-autumn-home-expo",
