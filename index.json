@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-09-20T09:23:42+08:00",
+  "generated_at": "2026-09-20T09:24:53+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-09-20-lifestyle-jccac-lanterns",
+      "published_at": "2026-09-20T09:25:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "shek-kip-mei",
+        "lanterns",
+        "jccac"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-20/2026-09-20-lifestyle-jccac-lanterns.json",
+      "en": {
+        "headline": "Shek Kip Mei art village hangs 100 hand-painted Mid-Autumn lanterns",
+        "dek": "JCCAC's courtyard display runs until 27 September, lighting up from 6pm, with lantern riddles and a retro photo set on the second-floor terrace."
+      },
+      "zh": {
+        "headline": "石硜尾藝術村掛起百盎手繪中秋燈籠",
+        "dek": "賽馬會創意藝術中心庭園展出至9月27日，每晚6時亮燈，並設燈謎及二樓懷舊酒吧佈景，免費參觀。"
+      }
+    },
+    {
+      "id": "2026-09-20-tang-huanggang-border-hours",
+      "published_at": "2026-09-20T09:24:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "huanggang",
+        "border",
+        "security-bureau",
+        "cross-boundary"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-20/2026-09-20-tang-huanggang-border-hours.json",
+      "en": {
+        "headline": "Tang says Huanggang systems still being tuned, border hours under talks",
+        "dek": "The security chief said computer and camera adjustments are under way at the rebuilt port, and Hong Kong is discussing longer land-crossing hours with the mainland."
+      },
+      "zh": {
+        "headline": "鄧炳強：新皇崗口岸仍在調校系統 正商延長陸路通關",
+        "dek": "保安局局長表示演練整體暢順，人面識別鏡頭及五合一車道仍須微調；陸路口岸延長服務時間正與內地商討。"
+      }
+    },
+    {
+      "id": "2026-09-20-tolo-highway-tyre-punctures",
+      "published_at": "2026-09-20T09:23:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic",
+        "police",
+        "tai-po",
+        "tolo-highway"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-20/2026-09-20-tolo-highway-tyre-punctures.json",
+      "en": {
+        "headline": "Metal debris on Tolo Highway punctures more than 10 cars",
+        "dek": "Police took reports from Saturday evening after drivers heading towards Sheung Shui hit objects near the Tai Po South exit. No one was hurt."
+      },
+      "zh": {
+        "headline": "吐露港公路疑有金屬物 十多車爆胎無人傷",
+        "dek": "周六晚約8時起，往上水方向近大埔南出口有多輛車輪胎被硬物刺穿，現場一度出現車龍。"
+      }
+    },
     {
       "id": "2026-09-20-pig-trucks-overturn",
       "published_at": "2026-09-20T09:22:00+08:00",
@@ -1937,29 +2004,6 @@
       "zh": {
         "headline": "恒指早段跌約240點 市場消化美息上調",
         "dek": "周四上午近10時35分，恒生指數報24,473點，較周三收市跌近1%，投資者消化美國三年來首次加息。"
-      }
-    },
-    {
-      "id": "2026-09-17-lifestyle-lee-tung-lanterns",
-      "published_at": "2026-09-17T09:24:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "events",
-        "mid-autumn",
-        "wan-chai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-17/2026-09-17-lifestyle-lee-tung-lanterns.json",
-      "en": {
-        "headline": "Lee Tung Avenue hangs more than 800 Mid-Autumn lanterns",
-        "dek": "The Wan Chai pedestrian street's display runs until 19 October, with lights from 5pm and an 18-metre LED fire dragon parade on 25 September."
-      },
-      "zh": {
-        "headline": "灣仔利東街懸掛逾800盞中秋燈籠至10月",
-        "dek": "「彩燈‧迎月」沿200米林蔭大道展出至10月19日，下午5時亮燈；9月25日將有18米LED火龍巡遊。"
       }
     }
   ]
