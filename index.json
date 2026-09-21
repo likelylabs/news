@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-21T11:18:19+08:00",
+  "generated_at": "2026-09-21T13:09:42+08:00",
   "live_window_hours": 72,
-  "count": 76,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-09-21-tang-cctv-dog-attack",
+      "published_at": "2026-09-21T13:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "yuen-long",
+        "police",
+        "security",
+        "dog-attack"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-tang-cctv-dog-attack.json",
+      "en": {
+        "headline": "Tang says extra CCTV at Yuen Long dog-attack site impractical",
+        "dek": "The Security Secretary said cameras deter thieves but not dogs, and the SmartView scheme targets higher-crime areas rather than low-risk rural roads."
+      },
+      "zh": {
+        "headline": "鄧炳強指元朗狗襲地點加裝閉路電視不切實際",
+        "dek": "保安局局長表示閉路電視可阻嚇小偷但對狗隻無效，智慧燈柱計劃主要針對罪案較高風險地區。"
+      }
+    },
+    {
+      "id": "2026-09-21-green-energy-corridor",
+      "published_at": "2026-09-21T13:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "shipping",
+        "green-energy",
+        "maritime",
+        "five-year-plan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-green-energy-corridor.json",
+      "en": {
+        "headline": "Hong Kong to name Green Energy Corridor mainland partner city in November",
+        "dek": "Transport Secretary Mable Chan said the government will announce the partner city at a maritime conference and aims to sign a cooperation agreement for stable green bunkering supply."
+      },
+      "zh": {
+        "headline": "陳美寶：11月公布綠色能源走廊內地合作城市",
+        "dek": "運輸及物流局局長表示，政府將於11月海運會議公布首個綠色能源走廊的內地合作城市，並期望簽署合作協議以確保綠色船燃穩定供應。"
+      }
+    },
+    {
+      "id": "2026-09-21-national-day-offers",
+      "published_at": "2026-09-21T13:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "national-day",
+        "transport",
+        "offers",
+        "mtr"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-national-day-offers.json",
+      "en": {
+        "headline": "Government and sectors unveil National Day free rides and half-price tickets",
+        "dek": "MTR will raffle 77,000 e-single journeys, trams and selected ferries will be free, cinemas half-price and many museums open free on 1 October for the 77th anniversary."
+      },
+      "zh": {
+        "headline": "政府和各界推國慶優惠 港鐵抽獎送7.7萬程 電車渡輪免費",
+        "dek": "10月1日國慶，港鐵抽獎送出7.7萬份電子單程車程，全線載客電車及部分渡輪免費，戲院半價，多間博物館及濕地公園免費開放。"
+      }
+    },
     {
       "id": "2026-09-21-transwarp-ipo-debut",
       "published_at": "2026-09-21T11:20:00+08:00",
