@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-09-21T15:24:13+08:00",
+  "generated_at": "2026-09-21T17:13:29+08:00",
   "live_window_hours": 72,
-  "count": 77,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-09-21-1823-optimisation-cheuk",
+      "published_at": "2026-09-21T17:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "1823",
+        "government-services",
+        "cheuk-wing-hing",
+        "policy-address"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-1823-optimisation-cheuk.json",
+      "en": {
+        "headline": "Cheuk says 1823 upgrades to take effect in first quarter of 2027",
+        "dek": "The Deputy Chief Secretary said artificial intelligence will analyse repeated complaints so problems can be tackled proactively without waiting for reports."
+      },
+      "zh": {
+        "headline": "卓永興：1823優化措施明年首季落實",
+        "dek": "政務司副司長表示將以人工智能分析重覆問題，冀做到無需投訴亦可主動處理。"
+      }
+    },
+    {
+      "id": "2026-09-21-taxi-ride-hailing-test-applicants",
+      "published_at": "2026-09-21T17:14:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "taxi",
+        "ride-hailing",
+        "transport-department",
+        "mable-chan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-taxi-ride-hailing-test-applicants.json",
+      "en": {
+        "headline": "Over 11,000 apply for taxi and ride-hailing driver test",
+        "dek": "Transport Secretary Mable Chan said the response exceeded expectations, with the Transport Department arranging tests within two months for applicants."
+      },
+      "zh": {
+        "headline": "的士及網約車綜合筆試逾1.1萬人報考",
+        "dek": "運輸及物流局局長陳美寶表示報考人數超符預期，運輸署會在最多兩個月內為申請人安排考試。"
+      }
+    },
+    {
+      "id": "2026-09-21-very-hot-weather-warning",
+      "published_at": "2026-09-21T17:12:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "observatory",
+        "very-hot-weather",
+        "heat"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-very-hot-weather-warning.json",
+      "en": {
+        "headline": "Very Hot Weather Warning issued as temperatures hit 33C",
+        "dek": "The Hong Kong Observatory posted the warning at 2:15pm, advising the public to guard against heat stroke amid afternoon temperatures around 33 degrees."
+      },
+      "zh": {
+        "headline": "天文台發出酷熱天氣警告 氣溫達33度",
+        "dek": "天文台於下午2時15分發出酷熱天氣警告，預料今日天氣酷熱，市民應慎防中暑。"
+      }
+    },
     {
       "id": "2026-09-21-lifestyle-chiikawa-airside",
       "published_at": "2026-09-21T15:31:00+08:00",
@@ -1676,29 +1741,6 @@
       "zh": {
         "headline": "終院非常任法官甘慕賢逝世 享年83歲",
         "dek": "司法機構及法律界對澳洲籍終審法院非常任法官甘慕賢辭世深表哀悼，他自2013年起出任終院非常任法官。"
-      }
-    },
-    {
-      "id": "2026-09-18-lifestyle-runway-51-barminski",
-      "published_at": "2026-09-18T16:35:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "art",
-        "central",
-        "gallery"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-lifestyle-runway-51-barminski.json",
-      "en": {
-        "headline": "Cardboard airport exhibition Runway 51 closes this weekend",
-        "dek": "American artist Barminski’s full-scale cardboard airport installation at JPS Gallery in Central ends on 19 September, inviting visitors into a playful alien-transit fantasy."
-      },
-      "zh": {
-        "headline": "紙板機場裝置展「Runway 51」本周末結束",
-        "dek": "美國藝術家 Barminski 於中環 JPS Gallery 打造的全尺寸紙板機場裝置將於9月19日閉幕，讓觀眾走進一個充滿外星過境幻想的空間。"
       }
     }
   ]
