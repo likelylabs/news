@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-09-21T17:13:29+08:00",
+  "generated_at": "2026-09-21T19:28:15+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-09-21-lifestyle-hk-ballet-dancehouse",
+      "published_at": "2026-09-21T19:28:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "ballet",
+        "west-kowloon",
+        "dance",
+        "performing-arts"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-lifestyle-hk-ballet-dancehouse.json",
+      "en": {
+        "headline": "Hong Kong Ballet to move to Dancehouse at West Kowloon in 2027",
+        "dek": "The company will leave the Cultural Centre after 16 years for the city's first dedicated dance venue, allowing more than 40 per cent more performance weeks."
+      },
+      "zh": {
+        "headline": "香港芭蕾舞團2027年遷入西九舞藝中心",
+        "dek": "舞團將結束在文化中心16年駐場，遷往全港首個專為舞蹈而設的場地，每年演出周數可增逾四成。"
+      }
+    },
+    {
+      "id": "2026-09-21-ma-on-shan-minibus-crash",
+      "published_at": "2026-09-21T19:27:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "accident",
+        "ma-on-shan",
+        "minibus",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-ma-on-shan-minibus-crash.json",
+      "en": {
+        "headline": "Minibus hits elderly couple at Ma On Shan terminus",
+        "dek": "The husband was left unconscious with a head injury and the driver was arrested on suspicion of dangerous driving causing grievous bodily harm."
+      },
+      "zh": {
+        "headline": "馬鞍山小巴撞傷年長夫婦 司機涉危險駕駛被捕",
+        "dek": "丈夫頭部受傷陷入昏迷，司機被控危險駕駛導致他人身體受嚴重傷害。"
+      }
+    },
+    {
+      "id": "2026-09-21-haughey-200m-freestyle-gold",
+      "published_at": "2026-09-21T19:26:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "swimming",
+        "siobhan-haughey",
+        "ian-ho"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-haughey-200m-freestyle-gold.json",
+      "en": {
+        "headline": "Siobhan Haughey defends Asian Games 200m freestyle title",
+        "dek": "The Hong Kong swimmer clocked 1:54.96 to retain gold in Nagoya, while Ian Ho took silver in the men's 50m freestyle."
+      },
+      "zh": {
+        "headline": "何詩蓓成功衛冕亞運200米自由泳金牌",
+        "dek": "港將以1分54秒96衛冕女子200米自由泳金牌，何甄陶則奪男子50米自由泳銀牌。"
+      }
+    },
     {
       "id": "2026-09-21-1823-optimisation-cheuk",
       "published_at": "2026-09-21T17:16:00+08:00",
@@ -1696,51 +1763,6 @@
       "zh": {
         "headline": "入境處聯同多部門反黑工一周拘35人",
         "dek": "入境處聯同食環署、康文署、勞工處及警方於9月11日至17日在全港多區搜查食肆、零售店及裝修單位，拘捕懷疑非法勞工、僱主及逾期逗留人士。"
-      }
-    },
-    {
-      "id": "2026-09-18-lifestyle-west-kowloon-picnic-fest",
-      "published_at": "2026-09-18T19:26:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "west-kowloon",
-        "picnic",
-        "art-park",
-        "mid-autumn"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-lifestyle-west-kowloon-picnic-fest.json",
-      "en": {
-        "headline": "West Kowloon Picnic Fest opens for four weekends by the harbour",
-        "dek": "The first edition runs from today until 11 October on the Art Park waterfront lawn, with food market stalls, live music, workshops and picnic gear rental."
-      },
-      "zh": {
-        "headline": "西九首辦野餐節 一連四個周末及假期舉行",
-        "dek": "西九文化區藝術公園海濱東草坪由今日起至10月11日舉行野餐節，設美食市集、音樂表演、工作坊及野餐用品租借。"
-      }
-    },
-    {
-      "id": "2026-09-18-gummow-npj-dies",
-      "published_at": "2026-09-18T19:25:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "courts",
-        "judiciary",
-        "cfa",
-        "australia"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-gummow-npj-dies.json",
-      "en": {
-        "headline": "Australian CFA non-permanent judge William Gummow dies aged 83",
-        "dek": "The Hong Kong Judiciary and legal bodies expressed deep sadness at the passing of the former High Court of Australia justice who sat on the Court of Final Appeal since 2013."
-      },
-      "zh": {
-        "headline": "終院非常任法官甘慕賢逝世 享年83歲",
-        "dek": "司法機構及法律界對澳洲籍終審法院非常任法官甘慕賢辭世深表哀悼，他自2013年起出任終院非常任法官。"
       }
     }
   ]
