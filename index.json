@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-09-22T03:23:32+08:00",
+  "generated_at": "2026-09-22T07:23:04+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 84,
   "articles": [
+    {
+      "id": "2026-09-22-lifestyle-victoria-park-lanterns",
+      "published_at": "2026-09-22T07:25:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "victoria-park",
+        "lcsd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-lifestyle-victoria-park-lanterns.json",
+      "en": {
+        "headline": "Victoria Park lanterns stay lit through Mid-Autumn week",
+        "dek": "The LCSD carnival and the Tourism Board's first International Lantern Spectacular run nightly until 27 September, with lighting extended to midnight on Friday."
+      },
+      "zh": {
+        "headline": "維園綵燈會亮燈至中秋 周五延至午夜",
+        "dek": "康文署中秋綵燈會及旅發局首屆國際綵燈匯演同步在維園舉行，展期至9月27日，中秋正日亮燈延長至午夜。"
+      }
+    },
+    {
+      "id": "2026-09-22-sssdp-places-2027-28",
+      "published_at": "2026-09-22T07:24:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "healthcare",
+        "sssdp"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-sssdp-places-2027-28.json",
+      "en": {
+        "headline": "SSSDP to fund 4,711 places next year, with fewer therapy seats",
+        "dek": "The Education Bureau will subsidise 70 fewer undergraduate places in 2027/28, including cuts of 20 first-year seats each in physiotherapy and occupational therapy."
+      },
+      "zh": {
+        "headline": "指定專業資助計劃下學年4711個學額 治療課程減少",
+        "dek": "教育局公布2027/28學年SSSDP學額較本學年少70個，聖方濟各大學物理治療及東華學院校職業治療一年級各減20個。"
+      }
+    },
+    {
+      "id": "2026-09-22-chp-imported-mpox",
+      "published_at": "2026-09-22T07:23:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "chp",
+        "mpox"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-chp-imported-mpox.json",
+      "en": {
+        "headline": "CHP investigates imported mpox case as yearly total hits 27",
+        "dek": "A 29-year-old man is in stable isolation after testing positive, with 18 of this year's cases recorded since August."
+      },
+      "zh": {
+        "headline": "衞生防護中心調查一宗輸入猴痘個案 本年累計27宗",
+        "dek": "一名29歲男子化驗呈陽性，現於瑪嘉烈醫院隔離，情況穩定；本年18宗個案自8月起錄得。"
+      }
+    },
+    {
+      "id": "2026-09-22-chp-tst-botulism",
+      "published_at": "2026-09-22T07:22:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "chp",
+        "tsim-sha-tsui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-chp-tst-botulism.json",
+      "en": {
+        "headline": "CHP investigates probable botulism after Tsim Sha Tsui injections",
+        "dek": "A 35-year-old woman is in stable condition after developing drooping eyelids, breathing difficulty and limb weakness following facial injections in a Middle Road flat."
+      },
+      "zh": {
+        "headline": "衞生防護中心調查尖沙嘴注射後疑肉毒中毒個案",
+        "dek": "一名35歲女子在中間道住宅單位接受面部注射後出現眼瞼下垂、呼吸困難及四肢無力，現時情況穩定。"
+      }
+    },
     {
       "id": "2026-09-22-good-hope-school-cantonese",
       "published_at": "2026-09-22T03:27:00+08:00",
