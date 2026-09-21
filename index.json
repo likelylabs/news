@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-09-21T07:28:23+08:00",
+  "generated_at": "2026-09-21T09:16:35+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-09-21-lifestyle-central-market-k-festival",
+      "published_at": "2026-09-21T09:17:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "central",
+        "food",
+        "festival"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-lifestyle-central-market-k-festival.json",
+      "en": {
+        "headline": "Korean Mid-Autumn festival week opens at Central Market",
+        "dek": "A seven-day free programme of K-food, beauty workshops and performances runs from today through 27 September, with a Full Moon Party on festival night."
+      },
+      "zh": {
+        "headline": "中環街市中秋韓風周今日開鑾",
+        "dek": "為期七天的免費韓食、美妝工作坊及表演由今日起至9月27日在中環街市舉行，中秋正日另有滿月派對。"
+      }
+    },
+    {
+      "id": "2026-09-21-solicitors-senior-counsel-bar",
+      "published_at": "2026-09-21T09:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "law",
+        "courts",
+        "legal-profession",
+        "bar-association",
+        "law-society"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-solicitors-senior-counsel-bar.json",
+      "en": {
+        "headline": "Bar calls solicitor senior-counsel proposal premature",
+        "dek": "The Law Society wants eligible solicitors to be able to take silk; the Bar Association says few solicitor advocates use higher court rights and the debate is academic."
+      },
+      "zh": {
+        "headline": "大律師公會指事務律師任資深大律師屬過早",
+        "dek": "律師會向立法會倡修例，讓合資格事務律師可獲委任資深大律師；大律師公會指訟辯律師較少行使出庭權，有關討論仍屬學術層面。"
+      }
+    },
     {
       "id": "2026-09-21-youth-flag-team-tiananmen",
       "published_at": "2026-09-21T07:26:00+08:00",
