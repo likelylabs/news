@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-09-21T09:17:54+08:00",
+  "generated_at": "2026-09-21T11:17:04+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 76,
   "articles": [
+    {
+      "id": "2026-09-21-transwarp-ipo-debut",
+      "published_at": "2026-09-21T11:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "ipo",
+        "stock-market",
+        "listing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-transwarp-ipo-debut.json",
+      "en": {
+        "headline": "Transwarp Technology opens flat at HK$49 on Hong Kong debut",
+        "dek": "The AI infrastructure software firm priced at the bottom of its range after the public offer was more than 70 times subscribed, raising about HK$686 million."
+      },
+      "zh": {
+        "headline": "星環科技首掛平開報49元",
+        "dek": "這家人工智能基礎設施軟件公司以招股價下限定價，公開發售超購逾70倍，集資約6.86億元。"
+      }
+    },
+    {
+      "id": "2026-09-21-triathlon-relay-bronze",
+      "published_at": "2026-09-21T11:19:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "triathlon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-triathlon-relay-bronze.json",
+      "en": {
+        "headline": "Hong Kong triathlon mixed relay takes Asian Games bronze",
+        "dek": "Cade Wright, Oscar Coggins, Bailee Brown and Robin Elg finished in 1 hour 27 minutes 25 seconds for a third straight Games medal in the event."
+      },
+      "zh": {
+        "headline": "港隊鐵人三項混合接力再奪亞運銅牌",
+        "dek": "韋祺、奧斯卡、彭詩雅及羅競賓以1小時27分25秒完成，連續三屆亞運在此項目登上頒獎台。"
+      }
+    },
+    {
+      "id": "2026-09-21-lydia-sham-wushu-gold",
+      "published_at": "2026-09-21T11:18:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "wushu",
+        "lydia-sham"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-lydia-sham-wushu-gold.json",
+      "en": {
+        "headline": "Lydia Sham wins Hong Kong's first Asian Games gold in wushu",
+        "dek": "The flag bearer scored 9.713 in the women's changquan final in Nagoya, 0.003 ahead of Macao's Sou Cho-man, as teammate Michelle Yeung finished fifth."
+      },
+      "zh": {
+        "headline": "沈曉榆女子長拳奪金 港隊亞運第一金",
+        "dek": "開幕禮持旗手沈曉榆在名古屋以9.713分奪得女子長拳金牌，僅高澳門選手0.003分，隊友楊子瑩排第五。"
+      }
+    },
     {
       "id": "2026-09-21-lifestyle-central-market-k-festival",
       "published_at": "2026-09-21T09:17:00+08:00",
@@ -1616,227 +1678,6 @@
       "zh": {
         "headline": "周末天晴酷熱 最高氣溫33度",
         "dek": "天文台預料高空反氣旋持續影響，周六至周日大致天晴乾燥，日間酷熱，氣溫介乎27至33度。"
-      }
-    },
-    {
-      "id": "2026-09-18-lifestyle-tai-hang-fire-dragon",
-      "published_at": "2026-09-18T11:12:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "tai-hang",
-        "causeway-bay",
-        "heritage"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-lifestyle-tai-hang-fire-dragon.json",
-      "en": {
-        "headline": "Tai Hang Fire Dragon Dance set for three nights from 24 September",
-        "dek": "The incense-lit procession through Causeway Bay streets runs from the eve of Mid-Autumn to the following Saturday, with the main night reaching Victoria Park."
-      },
-      "zh": {
-        "headline": "大坑舞火龍下周四起一連三晚巡遊",
-        "dek": "中秋迎月至追月夜於銅鑼灣大坑舉行，正日路線延伸至維園綵燈會，免費入場。"
-      }
-    },
-    {
-      "id": "2026-09-18-graduate-employment-launch",
-      "published_at": "2026-09-18T11:11:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "youth",
-        "employment",
-        "labour",
-        "ai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-graduate-employment-launch.json",
-      "en": {
-        "headline": "Sun details 10,000 extra jobs under graduate launch scheme",
-        "dek": "The labour secretary said firms would create posts on top of existing headcount, with the government covering one-third of pay up to HK$6,000 a month."
-      },
-      "zh": {
-        "headline": "孫玉菏詳述畢業生就業啟航計劃一萬個額外職位",
-        "dek": "勞福局局長表示企業須在現有編制以外開設職位，政府資助三分一薪金，每月上限6,000元。"
-      }
-    },
-    {
-      "id": "2026-09-18-linn-northern-metropolis-bill",
-      "published_at": "2026-09-18T11:10:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "northern-metropolis",
-        "land",
-        "development",
-        "legislation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-linn-northern-metropolis-bill.json",
-      "en": {
-        "headline": "Linn says Northern Metropolis bill would speed land production",
-        "dek": "The development secretary said passing the ordinance would give officials more room to create ready land faster, with a 900-hectare target by 2030."
-      },
-      "zh": {
-        "headline": "甯漢豪：北都條例草案通過後造地可更快更多",
-        "dek": "發展局局長在電台表示，條例有助拆牆鬆綁，五年規劃訂下2030年北都產出900公頃熟地的約束性指標。"
-      }
-    },
-    {
-      "id": "2026-09-18-lee-rmb-contracts-radio",
-      "published_at": "2026-09-18T11:09:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "rmb",
-        "finance",
-        "policy-address",
-        "talent"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-lee-rmb-contracts-radio.json",
-      "en": {
-        "headline": "Lee says government will study paying some mainland deals in yuan",
-        "dek": "On radio, the chief executive said Hong Kong already handles most offshore yuan trades and should push the currency further into bonds, contracts and training fees."
-      },
-      "zh": {
-        "headline": "李家超：研究與內地部分合約或交易用人民幣",
-        "dek": "特首在電台表示，香港已處理大部分離岸人民幣交易，下一步可把人民幣用到債券、合約及培訓開支。"
-      }
-    },
-    {
-      "id": "2026-09-18-huanggang-port-oct12-target",
-      "published_at": "2026-09-18T11:08:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "huanggang",
-        "border",
-        "shenzhen",
-        "immigration"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-huanggang-port-oct12-target.json",
-      "en": {
-        "headline": "Reports say rebuilt Huanggang Port may open on 12 October",
-        "dek": "Local reports said Hong Kong and Shenzhen are aiming for a Monday launch after Golden Week, though officials have not named an official date."
-      },
-      "zh": {
-        "headline": "傳重建皇崗口岸擬10月12日啟用",
-        "dek": "本地報道引述消息指港深雙方瞄準國慶黃金周後的周一開通，但官方尚未公布確實日期。"
-      }
-    },
-    {
-      "id": "2026-09-18-lifestyle-kai-tak-asian-games-lights",
-      "published_at": "2026-09-18T09:26:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "lifestyle",
-        "asian-games",
-        "kai-tak",
-        "sports-park"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-lifestyle-kai-tak-asian-games-lights.json",
-      "en": {
-        "headline": "Kai Tak stadium wall lights up nightly ahead of Asian Games",
-        "dek": "A 30-minute display on the main stadium facade runs at 8pm until 24 October, with free match screenings due to start when the Nagoya Games open on Saturday."
-      },
-      "zh": {
-        "headline": "啟德主場館外牆每晚上演亞運燈光展",
-        "dek": "燈光展每晚8時至8時30分播放至10月24日，名古屋亞運周六開幕後，零售館將免費直播指定賽事。"
-      }
-    },
-    {
-      "id": "2026-09-18-hsitp-100-startups-mentors",
-      "published_at": "2026-09-18T09:25:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "innovation",
-        "lok-ma-chau",
-        "startups",
-        "hsitp"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-hsitp-100-startups-mentors.json",
-      "en": {
-        "headline": "About 100 start-ups selected for Loop park mentorship",
-        "dek": "The operator of the Hong Kong-Shenzhen Innovation and Technology Park said chosen firms will be guided for five to eight years by tenants including AstraZeneca and Hithium."
-      },
-      "zh": {
-        "headline": "河套創科園篩選約100間初創 將獲五年至八年導師計劃",
-        "dek": "港深創新及科技園營運方表示，入園初創將由阿斯利康及海辰儲能等進駐企業提供導師支援。"
-      }
-    },
-    {
-      "id": "2026-09-18-kwun-tong-pier-man-dies",
-      "published_at": "2026-09-18T09:24:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "kwun-tong",
-        "rescue",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-kwun-tong-pier-man-dies.json",
-      "en": {
-        "headline": "Man, 45, dies after rescue off Kwun Tong public pier",
-        "dek": "Rescuers pulled an unconscious man from the water on Thursday night after a report that someone had fallen into the sea. He was later certified dead at hospital."
-      },
-      "zh": {
-        "headline": "觀塘公眾碼頭救起45歲男子 送院後不治",
-        "dek": "救援人員週四晚上在碼頭對開海面救起昏迷男子，送往聯合醫院後證實死亡，警方正調查事發經過。"
-      }
-    },
-    {
-      "id": "2026-09-18-lai-chi-kok-baccarat-den",
-      "published_at": "2026-09-18T09:23:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "gambling",
-        "mong-kok",
-        "lai-chi-kok"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-lai-chi-kok-baccarat-den.json",
-      "en": {
-        "headline": "Eight arrested as police raid baccarat den on Lai Chi Kok Road",
-        "dek": "Mong Kok officers seized a baccarat table, about HK$20,000 in cash and chips worth about HK$220,000 in an operation codenamed Fullboom."
-      },
-      "zh": {
-        "headline": "荔枝角道搗百家樂賭檔 8人被捕檢22萬簫碼",
-        "dek": "旺角警區特別職務隊行動代號「蓄勢」，在荔枝角道單位檢獲百家樂賭柯、約2萬元現金及面值約22萬元簫碼。"
-      }
-    },
-    {
-      "id": "2026-09-18-tsuen-wan-sha-tsui-drug-stash",
-      "published_at": "2026-09-18T09:22:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "drugs",
-        "tsuen-wan",
-        "ketamine",
-        "etomidate"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-tsuen-wan-sha-tsui-drug-stash.json",
-      "en": {
-        "headline": "Police seize HK$450,000 of drugs in Tsuen Wan industrial flat",
-        "dek": "A 23-year-old mainland man was arrested after officers found ketamine, cocaine and etomidate vape pods in a Sha Tsui Road unit used as a stash, police said."
-      },
-      "zh": {
-        "headline": "荃灣工廈搜出45萬元毒品 23歲內地男涉販毒被捕",
-        "dek": "荃灣警區特別職務隊週四晚上在沙咀道工廈單位檢獲氯胺酮、可卡因及依托咪酯煙彈，拘捕一名23歲內地男子。"
       }
     }
   ]
