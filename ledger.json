@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-21T23:53:03+08:00",
+  "updated_at": "2026-09-22T03:28:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "sai-kung-illicit-cigarettes-sep21",
+      "id": "2026-09-22-sai-kung-illicit-cigarettes",
+      "first_seen": "2026-09-22T03:25:00+08:00",
+      "headline_en": "Police and Customs seize 4 million illicit cigarettes in Sai Kung"
+    },
+    {
+      "key": "fehd-fdw-hawking-arrests-sep21",
+      "id": "2026-09-22-fehd-fdw-hawking-arrests",
+      "first_seen": "2026-09-22T03:26:00+08:00",
+      "headline_en": "FEHD arrests nine for unlicensed hawking at helper gathering spots"
+    },
+    {
+      "key": "good-hope-school-cantonese-guideline-sep21",
+      "id": "2026-09-22-good-hope-school-cantonese",
+      "first_seen": "2026-09-22T03:27:00+08:00",
+      "headline_en": "Good Hope School withdraws Cantonese ban guideline after backlash"
+    },
     {
       "key": "rcep-accession-working-group-hk-sep21",
       "id": "2026-09-21-rcep-accession-working-group",
