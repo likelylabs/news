@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-21T11:17:03+08:00",
+  "updated_at": "2026-09-21T11:22:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lydia-sham-changquan-gold-asian-games-2026",
+      "id": "2026-09-21-lydia-sham-wushu-gold",
+      "first_seen": "2026-09-21T11:18:00+08:00",
+      "headline_en": "Lydia Sham wins Hong Kong's first Asian Games gold in wushu"
+    },
+    {
+      "key": "hk-triathlon-mixed-relay-bronze-asian-games-2026",
+      "id": "2026-09-21-triathlon-relay-bronze",
+      "first_seen": "2026-09-21T11:19:00+08:00",
+      "headline_en": "Hong Kong triathlon mixed relay takes Asian Games bronze"
+    },
+    {
+      "key": "transwarp-6727-listing-sep21",
+      "id": "2026-09-21-transwarp-ipo-debut",
+      "first_seen": "2026-09-21T11:20:00+08:00",
+      "headline_en": "Transwarp Technology opens flat at HK$49 on Hong Kong debut"
+    },
     {
       "key": "solicitors-senior-counsel-proposal-sep21",
       "id": "2026-09-21-solicitors-senior-counsel-bar",
