@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-21T21:46:37+08:00",
+  "updated_at": "2026-09-21T23:52:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "rcep-accession-working-group-hk-sep21",
+      "id": "2026-09-21-rcep-accession-working-group",
+      "first_seen": "2026-09-21T23:50:00+08:00",
+      "headline_en": "RCEP sets up accession working group for Hong Kong"
+    },
+    {
+      "key": "yuen-long-dogs-microchipped-sep21",
+      "id": "2026-09-21-yuen-long-dogs-microchipped",
+      "first_seen": "2026-09-21T23:51:00+08:00",
+      "headline_en": "Two of three dogs in Yuen Long fatal attack case are microchipped"
+    },
     {
       "key": "hkex-listing-competitiveness-phase2-sep21",
       "id": "2026-09-21-hkex-listing-competitiveness-phase2",
@@ -54,7 +66,7 @@
       "key": "howard-hung-karate-bronze-asian-games-2026",
       "id": "2026-09-21-howard-hung-karate-bronze",
       "first_seen": "2026-09-21T15:25:00+08:00",
-      "headline_en": "Howard Hung takes men's kata bronze for Hong Kong at Asian Games"
+      "headline_en": "Howard Hung takes mens kata bronze for Hong Kong at Asian Games"
     },
     {
       "key": "customs-drug-seizures-h1-2026",
@@ -96,7 +108,7 @@
       "key": "lydia-sham-changquan-gold-asian-games-2026",
       "id": "2026-09-21-lydia-sham-wushu-gold",
       "first_seen": "2026-09-21T11:18:00+08:00",
-      "headline_en": "Lydia Sham wins Hong Kong's first Asian Games gold in wushu"
+      "headline_en": "Lydia Sham wins Hong Kongs first Asian Games gold in wushu"
     },
     {
       "key": "hk-triathlon-mixed-relay-bronze-asian-games-2026",
@@ -204,7 +216,7 @@
       "key": "grace-lau-karate-silver-asian-games-2026",
       "id": "2026-09-20-grace-lau-asian-games-silver",
       "first_seen": "2026-09-20T15:06:00+08:00",
-      "headline_en": "Grace Lau wins Hong Kong's first Asian Games medal with karate silver"
+      "headline_en": "Grace Lau wins Hong Kongs first Asian Games medal with karate silver"
     },
     {
       "key": "paul-chan-five-year-plan-certainty-sep20",
