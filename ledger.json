@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-21T19:28:15+08:00",
+  "updated_at": "2026-09-21T21:46:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "hkex-listing-competitiveness-phase2-sep21",
+      "id": "2026-09-21-hkex-listing-competitiveness-phase2",
+      "first_seen": "2026-09-21T21:45:00+08:00",
+      "headline_en": "HKEX proposes easier spin-offs and higher thresholds for major deals"
+    },
+    {
+      "key": "abby-choi-murder-trial-opens-sep21",
+      "id": "2026-09-21-abby-choi-murder-trial-opens",
+      "first_seen": "2026-09-21T21:46:00+08:00",
+      "headline_en": "Abby Choi murder trial opens at High Court"
+    },
     {
       "key": "haughey-200m-freestyle-gold-asian-games-2026",
       "id": "2026-09-21-haughey-200m-freestyle-gold",
