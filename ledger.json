@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-22T07:23:04+08:00",
+  "updated_at": "2026-09-22T07:26:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "chp-botulism-tst-sep21",
+      "id": "2026-09-22-chp-tst-botulism",
+      "first_seen": "2026-09-22T07:22:00+08:00",
+      "headline_en": "CHP investigates probable botulism after Tsim Sha Tsui injections"
+    },
+    {
+      "key": "chp-imported-mpox-sep21",
+      "id": "2026-09-22-chp-imported-mpox",
+      "first_seen": "2026-09-22T07:23:00+08:00",
+      "headline_en": "CHP investigates imported mpox case as yearly total hits 27"
+    },
+    {
+      "key": "sssdp-places-2027-28-sep21",
+      "id": "2026-09-22-sssdp-places-2027-28",
+      "first_seen": "2026-09-22T07:24:00+08:00",
+      "headline_en": "SSSDP to fund 4,711 places next year, with fewer therapy seats"
+    },
+    {
+      "key": "lifestyle-victoria-park-lantern-carnival-2026",
+      "id": "2026-09-22-lifestyle-victoria-park-lanterns",
+      "first_seen": "2026-09-22T07:25:00+08:00",
+      "headline_en": "Victoria Park lanterns stay lit through Mid-Autumn week"
+    },
     {
       "key": "sai-kung-illicit-cigarettes-sep21",
       "id": "2026-09-22-sai-kung-illicit-cigarettes",
