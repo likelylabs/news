@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-21T21:46:37+08:00",
+  "generated_at": "2026-09-21T23:53:03+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 78,
   "articles": [
+    {
+      "id": "2026-09-21-yuen-long-dogs-microchipped",
+      "published_at": "2026-09-21T23:51:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "yuen-long",
+        "dogs",
+        "afcd",
+        "animal"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-yuen-long-dogs-microchipped.json",
+      "en": {
+        "headline": "Two of three dogs in Yuen Long fatal attack case are microchipped",
+        "dek": "The AFCD said it is trying to contact the registered owners, who may face prosecution if evidence shows they failed in their responsibilities."
+      },
+      "zh": {
+        "headline": "元朗致命狗襲兩隻狗有晶片 漁護署嘗試聯絡飼主",
+        "dek": "漁護署表示正嘗試聯絡登記飼主，若有足夠證據顯示飼主未盡責任，或會提出檢控。"
+      }
+    },
+    {
+      "id": "2026-09-21-rcep-accession-working-group",
+      "published_at": "2026-09-21T23:50:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "rcep",
+        "trade",
+        "asean",
+        "commerce"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-rcep-accession-working-group.json",
+      "en": {
+        "headline": "RCEP sets up accession working group for Hong Kong",
+        "dek": "The regional trade pact approved an Accession Working Group on Monday, starting formal entry talks for Hong Kong along with Bangladesh, Chile and Sri Lanka."
+      },
+      "zh": {
+        "headline": "RCEP成立加入工作組 啟動香港加入程序",
+        "dek": "區域全面經濟夥伴關係協定周一通過成立加入工作組，正式展開包括香港在內多個申請經濟體的加入程序。"
+      }
+    },
     {
       "id": "2026-09-21-abby-choi-murder-trial-opens",
       "published_at": "2026-09-21T21:46:00+08:00",
@@ -1676,72 +1720,6 @@
       "zh": {
         "headline": "荔枝角天台月光市集周末登場 迎中秋",
         "dek": "The Hive荔枝角今日下午至晚上舉辦親子友善市集，有本地美食、手工藝、工作坊及嘉年華遊戲，入場免費但需預先登記。"
-      }
-    },
-    {
-      "id": "2026-09-18-mpox-two-new-cases",
-      "published_at": "2026-09-18T23:20:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "mpox",
-        "chp",
-        "department-of-health",
-        "vaccination"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-mpox-two-new-cases.json",
-      "en": {
-        "headline": "Two more mpox cases confirmed, CHP urges high-risk groups to vaccinate",
-        "dek": "A 28-year-old and a 26-year-old man are in isolation after high-risk sexual contacts in Hong Kong; 16 cases have been recorded since August."
-      },
-      "zh": {
-        "headline": "再增兩宗猴痘確診 防護中心籲高風險群組接種疫苗",
-        "dek": "28歲及26歲男子分別因高風險性行為感染，現於醫院隔離治療；八月至今累計16宗新個案。"
-      }
-    },
-    {
-      "id": "2026-09-18-tai-po-pedestrian-dies",
-      "published_at": "2026-09-18T23:19:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "traffic",
-        "tai-po",
-        "accident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-tai-po-pedestrian-dies.json",
-      "en": {
-        "headline": "72-year-old pedestrian dies after Tai Po light goods vehicle collision",
-        "dek": "The woman, knocked down at a crossing on On Tai Road, was pronounced dead at Prince of Wales Hospital; the 68-year-old driver remains under arrest for dangerous driving."
-      },
-      "zh": {
-        "headline": "大埔輕型貨車撞72歲女途人 送院後不治",
-        "dek": "事主於安泰路行人過路處被撞倒，頭部重傷昏迷，傍晚於威爾斯親王醫院不治；68歲男司機涉危險駕駛被捕。"
-      }
-    },
-    {
-      "id": "2026-09-18-pwh-wrong-meal-patient-dies",
-      "published_at": "2026-09-18T23:18:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "hospital",
-        "hospital-authority",
-        "patient-safety",
-        "prince-of-wales"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-pwh-wrong-meal-patient-dies.json",
-      "en": {
-        "headline": "Prince of Wales patient dies after being given normal meal instead of pureed food",
-        "dek": "A 54-year-old man with swallowing difficulties choked and suffered cardiac arrest after staff served a normal dinner; the hospital has apologised and stood down two staff."
-      },
-      "zh": {
-        "headline": "威院病人需糊餐卻獲正常餐 哽喉後不治",
-        "dek": "54歲認知障礙男病人入院後被餵正常晚餐，出現哽喉及心臟停頓，同日深夜離世；院方已向家屬致歉，兩名涉事員工暫時調離崗位。"
       }
     }
   ]
