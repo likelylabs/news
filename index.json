@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-21T19:28:15+08:00",
+  "generated_at": "2026-09-21T21:46:37+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-09-21-abby-choi-murder-trial-opens",
+      "published_at": "2026-09-21T21:46:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "abby-choi",
+        "murder-trial",
+        "high-court",
+        "tai-po"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-abby-choi-murder-trial-opens.json",
+      "en": {
+        "headline": "Abby Choi murder trial opens at High Court",
+        "dek": "The former husband, brother-in-law and father-in-law of the socialite face joint counts of murder and preventing lawful burial; proceedings began with preliminary legal argument."
+      },
+      "zh": {
+        "headline": "蔡天鳳謀殺案開審 三名前姻親受審",
+        "dek": "社交名媛蔡天鳳的前夫、前大伯及前家翁於高等法院開審，同被控謀殺及阻止合法埋葬屍體；今日先處理程序事宜。"
+      }
+    },
+    {
+      "id": "2026-09-21-hkex-listing-competitiveness-phase2",
+      "published_at": "2026-09-21T21:45:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hkex",
+        "listing-rules",
+        "spin-off",
+        "stock-market",
+        "consultation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-21/2026-09-21-hkex-listing-competitiveness-phase2.json",
+      "en": {
+        "headline": "HKEX proposes easier spin-offs and higher thresholds for major deals",
+        "dek": "The exchange seeks feedback on raising the major-transaction bar from 25 to 50 per cent and shortening the spin-off waiting period from three years to one."
+      },
+      "zh": {
+        "headline": "港交所建議放寬分拆及提高主要交易門檻",
+        "dek": "聯交所就第二階段上市機制競爭力檢討徵詢意見，建議主要交易門檻由25%提高至50%，分拆暫止期由三年縮短至一年。"
+      }
+    },
     {
       "id": "2026-09-21-lifestyle-hk-ballet-dancehouse",
       "published_at": "2026-09-21T19:28:00+08:00",
@@ -1697,72 +1742,6 @@
       "zh": {
         "headline": "威院病人需糊餐卻獲正常餐 哽喉後不治",
         "dek": "54歲認知障礙男病人入院後被餵正常晚餐，出現哽喉及心臟停頓，同日深夜離世；院方已向家屬致歉，兩名涉事員工暫時調離崗位。"
-      }
-    },
-    {
-      "id": "2026-09-18-qeh-kai-tak-relocation-seamless",
-      "published_at": "2026-09-18T21:17:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "hospital",
-        "kai-tak",
-        "qeh",
-        "hospital-authority"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-qeh-kai-tak-relocation-seamless.json",
-      "en": {
-        "headline": "QEH relocation to Kai Tak Hospital will be seamless, health minister says",
-        "dek": "Kai Tak Hospital begins services in two phases from next month, gradually absorbing clinical services from Queen Elizabeth Hospital while the King’s Park site becomes an ambulatory care centre."
-      },
-      "zh": {
-        "headline": "盧寵茂：威院遷往啟德醫院將無縫過渡",
-        "dek": "啟德醫院下月起分兩階段投入服務，逐步接收伊利沙伯醫院臨床服務；京士柏舊址將重建為首間綜合日間醫院。"
-      }
-    },
-    {
-      "id": "2026-09-18-tai-po-pedestrian-collision",
-      "published_at": "2026-09-18T21:16:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "traffic",
-        "tai-po",
-        "accident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-tai-po-pedestrian-collision.json",
-      "en": {
-        "headline": "Driver arrested after light goods vehicle hits 72-year-old pedestrian in Tai Po",
-        "dek": "The woman was knocked down at a pedestrian crossing on On Tai Road and remains unconscious in hospital; the 68-year-old driver faces a dangerous driving charge."
-      },
-      "zh": {
-        "headline": "大埔輕型貨車撞傷72歲女途人 司機涉危險駕駛被捕",
-        "dek": "事主於安泰路行人過路處被撞倒，頭部受傷昏迷送院；68歲男司機通過酒精測試後，因涉嫌危險駕駛引致他人身體受嚴重傷害被捕。"
-      }
-    },
-    {
-      "id": "2026-09-18-immigration-anti-illegal-workers-35",
-      "published_at": "2026-09-18T21:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "immigration",
-        "illegal-workers",
-        "police",
-        "labour"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-18/2026-09-18-immigration-anti-illegal-workers-35.json",
-      "en": {
-        "headline": "Immigration and departments arrest 35 in week-long anti-illegal worker operations",
-        "dek": "Officers searched restaurants, retail shops and renovation sites across the city from 11 to 17 September, detaining suspected illegal workers, employers and overstayers."
-      },
-      "zh": {
-        "headline": "入境處聯同多部門反黑工一周拘35人",
-        "dek": "入境處聯同食環署、康文署、勞工處及警方於9月11日至17日在全港多區搜查食肆、零售店及裝修單位，拘捕懷疑非法勞工、僱主及逾期逗留人士。"
       }
     }
   ]
