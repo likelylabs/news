@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-21T17:13:29+08:00",
+  "updated_at": "2026-09-21T19:28:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "haughey-200m-freestyle-gold-asian-games-2026",
+      "id": "2026-09-21-haughey-200m-freestyle-gold",
+      "first_seen": "2026-09-21T19:26:00+08:00",
+      "headline_en": "Siobhan Haughey defends Asian Games 200m freestyle title"
+    },
+    {
+      "key": "ma-on-shan-minibus-elderly-couple-crash-sep21",
+      "id": "2026-09-21-ma-on-shan-minibus-crash",
+      "first_seen": "2026-09-21T19:27:00+08:00",
+      "headline_en": "Minibus hits elderly couple at Ma On Shan terminus"
+    },
+    {
+      "key": "lifestyle-hk-ballet-dancehouse-westk-2027",
+      "id": "2026-09-21-lifestyle-hk-ballet-dancehouse",
+      "first_seen": "2026-09-21T19:28:00+08:00",
+      "headline_en": "Hong Kong Ballet to move to Dancehouse at West Kowloon in 2027"
+    },
     {
       "key": "very-hot-weather-warning-sep21",
       "id": "2026-09-21-very-hot-weather-warning",
