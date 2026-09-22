@@ -1,1 +1,342 @@
-PLACEHOLDER
+{
+  "updated_at": "2026-09-22T09:34:00+08:00",
+  "retention_days": 5,
+  "covered": [
+    {
+      "key": "lifestyle-light-rail-free-mid-autumn-2026",
+      "id": "2026-09-22-lifestyle-light-rail-free-mid-autumn",
+      "first_seen": "2026-09-22T09:32:00+08:00",
+      "headline_en": "Light Rail rides free all day on Mid-Autumn Festival"
+    },
+    {
+      "key": "lifestyle-blue-house-lanterns-2026",
+      "id": "2026-09-22-lifestyle-blue-house-lanterns",
+      "first_seen": "2026-09-22T09:33:00+08:00",
+      "headline_en": "Blue House lanterns stay up through Mid-Autumn week"
+    },
+    {
+      "key": "chp-botulism-tst-sep21",
+      "id": "2026-09-22-chp-tst-botulism",
+      "first_seen": "2026-09-22T07:22:00+08:00",
+      "headline_en": "CHP investigates probable botulism after Tsim Sha Tsui injections"
+    },
+    {
+      "key": "chp-imported-mpox-sep21",
+      "id": "2026-09-22-chp-imported-mpox",
+      "first_seen": "2026-09-22T07:23:00+08:00",
+      "headline_en": "CHP investigates imported mpox case as yearly total hits 27"
+    },
+    {
+      "key": "sssdp-places-2027-28-sep21",
+      "id": "2026-09-22-sssdp-places-2027-28",
+      "first_seen": "2026-09-22T07:24:00+08:00",
+      "headline_en": "SSSDP to fund 4,711 places next year, with fewer therapy seats"
+    },
+    {
+      "key": "lifestyle-victoria-park-lantern-carnival-2026",
+      "id": "2026-09-22-lifestyle-victoria-park-lanterns",
+      "first_seen": "2026-09-22T07:25:00+08:00",
+      "headline_en": "Victoria Park lanterns stay lit through Mid-Autumn week"
+    },
+    {
+      "key": "sai-kung-illicit-cigarettes-sep21",
+      "id": "2026-09-22-sai-kung-illicit-cigarettes",
+      "first_seen": "2026-09-22T03:25:00+08:00",
+      "headline_en": "Police and Customs seize 4 million illicit cigarettes in Sai Kung"
+    },
+    {
+      "key": "fehd-fdw-hawking-arrests-sep21",
+      "id": "2026-09-22-fehd-fdw-hawking-arrests",
+      "first_seen": "2026-09-22T03:26:00+08:00",
+      "headline_en": "FEHD arrests nine for unlicensed hawking at helper gathering spots"
+    },
+    {
+      "key": "good-hope-school-cantonese-guideline-sep21",
+      "id": "2026-09-22-good-hope-school-cantonese",
+      "first_seen": "2026-09-22T03:27:00+08:00",
+      "headline_en": "Good Hope School withdraws Cantonese ban guideline after backlash"
+    },
+    {
+      "key": "rcep-accession-working-group-hk-sep21",
+      "id": "2026-09-21-rcep-accession-working-group",
+      "first_seen": "2026-09-21T23:50:00+08:00",
+      "headline_en": "RCEP sets up accession working group for Hong Kong"
+    },
+    {
+      "key": "yuen-long-dogs-microchipped-sep21",
+      "id": "2026-09-21-yuen-long-dogs-microchipped",
+      "first_seen": "2026-09-21T23:51:00+08:00",
+      "headline_en": "Two of three dogs in Yuen Long fatal attack case are microchipped"
+    },
+    {
+      "key": "hkex-listing-competitiveness-phase2-sep21",
+      "id": "2026-09-21-hkex-listing-competitiveness-phase2",
+      "first_seen": "2026-09-21T21:45:00+08:00",
+      "headline_en": "HKEX proposes easier spin-offs and higher thresholds for major deals"
+    },
+    {
+      "key": "abby-choi-murder-trial-opens-sep21",
+      "id": "2026-09-21-abby-choi-murder-trial-opens",
+      "first_seen": "2026-09-21T21:46:00+08:00",
+      "headline_en": "Abby Choi murder trial opens at High Court"
+    },
+    {
+      "key": "haughey-200m-freestyle-gold-asian-games-2026",
+      "id": "2026-09-21-haughey-200m-freestyle-gold",
+      "first_seen": "2026-09-21T19:26:00+08:00",
+      "headline_en": "Siobhan Haughey defends Asian Games 200m freestyle title"
+    },
+    {
+      "key": "ma-on-shan-minibus-elderly-couple-crash-sep21",
+      "id": "2026-09-21-ma-on-shan-minibus-crash",
+      "first_seen": "2026-09-21T19:27:00+08:00",
+      "headline_en": "Minibus hits elderly couple at Ma On Shan terminus"
+    },
+    {
+      "key": "lifestyle-hk-ballet-dancehouse-westk-2027",
+      "id": "2026-09-21-lifestyle-hk-ballet-dancehouse",
+      "first_seen": "2026-09-21T19:28:00+08:00",
+      "headline_en": "Hong Kong Ballet to move to Dancehouse at West Kowloon in 2027"
+    },
+    {
+      "key": "very-hot-weather-warning-sep21",
+      "id": "2026-09-21-very-hot-weather-warning",
+      "first_seen": "2026-09-21T17:12:00+08:00",
+      "headline_en": "Very Hot Weather Warning issued as temperatures hit 33C"
+    },
+    {
+      "key": "taxi-ride-hailing-test-applicants-sep21",
+      "id": "2026-09-21-taxi-ride-hailing-test-applicants",
+      "first_seen": "2026-09-21T17:14:00+08:00",
+      "headline_en": "Over 11,000 apply for taxi and ride-hailing driver test"
+    },
+    {
+      "key": "1823-optimisation-cheuk-sep21",
+      "id": "2026-09-21-1823-optimisation-cheuk",
+      "first_seen": "2026-09-21T17:16:00+08:00",
+      "headline_en": "Cheuk says 1823 upgrades to take effect in first quarter of 2027"
+    },
+    {
+      "key": "howard-hung-karate-bronze-asian-games-2026",
+      "id": "2026-09-21-howard-hung-karate-bronze",
+      "first_seen": "2026-09-21T15:25:00+08:00",
+      "headline_en": "Howard Hung takes mens kata bronze for Hong Kong at Asian Games"
+    },
+    {
+      "key": "customs-drug-seizures-h1-2026",
+      "id": "2026-09-21-customs-drug-seizures-h1",
+      "first_seen": "2026-09-21T15:27:00+08:00",
+      "headline_en": "Customs drug seizures rise nearly 50 per cent in first half of 2026"
+    },
+    {
+      "key": "tse-stray-dog-management-review-sep21",
+      "id": "2026-09-21-tse-stray-dog-review",
+      "first_seen": "2026-09-21T15:29:00+08:00",
+      "headline_en": "Environment chief vows review of stray-dog management after Yuen Long death"
+    },
+    {
+      "key": "lifestyle-chiikawa-mid-autumn-airside-2026",
+      "id": "2026-09-21-lifestyle-chiikawa-airside",
+      "first_seen": "2026-09-21T15:31:00+08:00",
+      "headline_en": "Chiikawa Mid-Autumn lantern display opens today at AIRSIDE"
+    },
+    {
+      "key": "national-day-offers-oct1-2026",
+      "id": "2026-09-21-national-day-offers",
+      "first_seen": "2026-09-21T13:10:00+08:00",
+      "headline_en": "Government and sectors unveil National Day free rides and half-price tickets"
+    },
+    {
+      "key": "green-energy-corridor-partner-city-sep21",
+      "id": "2026-09-21-green-energy-corridor",
+      "first_seen": "2026-09-21T13:12:00+08:00",
+      "headline_en": "Hong Kong to name Green Energy Corridor mainland partner city in November"
+    },
+    {
+      "key": "yuen-long-dog-attack-tang-cctv-sep21",
+      "id": "2026-09-21-tang-cctv-dog-attack",
+      "first_seen": "2026-09-21T13:14:00+08:00",
+      "headline_en": "Tang says extra CCTV at Yuen Long dog-attack site impractical"
+    },
+    {
+      "key": "lydia-sham-changquan-gold-asian-games-2026",
+      "id": "2026-09-21-lydia-sham-wushu-gold",
+      "first_seen": "2026-09-21T11:18:00+08:00",
+      "headline_en": "Lydia Sham wins Hong Kongs first Asian Games gold in wushu"
+    },
+    {
+      "key": "hk-triathlon-mixed-relay-bronze-asian-games-2026",
+      "id": "2026-09-21-triathlon-relay-bronze",
+      "first_seen": "2026-09-21T11:19:00+08:00",
+      "headline_en": "Hong Kong triathlon mixed relay takes Asian Games bronze"
+    },
+    {
+      "key": "transwarp-6727-listing-sep21",
+      "id": "2026-09-21-transwarp-ipo-debut",
+      "first_seen": "2026-09-21T11:20:00+08:00",
+      "headline_en": "Transwarp Technology opens flat at HK$49 on Hong Kong debut"
+    },
+    {
+      "key": "solicitors-senior-counsel-proposal-sep21",
+      "id": "2026-09-21-solicitors-senior-counsel-bar",
+      "first_seen": "2026-09-21T09:16:00+08:00",
+      "headline_en": "Bar calls solicitor senior-counsel proposal premature"
+    },
+    {
+      "key": "lifestyle-central-market-k-festival-2026",
+      "id": "2026-09-21-lifestyle-central-market-k-festival",
+      "first_seen": "2026-09-21T09:17:00+08:00",
+      "headline_en": "Korean Mid-Autumn festival week opens at Central Market"
+    },
+    {
+      "key": "thunderstorm-warning-sep21",
+      "id": "2026-09-21-thunderstorm-warning",
+      "first_seen": "2026-09-21T07:24:00+08:00",
+      "headline_en": "Thunderstorm Warning issued for isolated New Territories storms"
+    },
+    {
+      "key": "yuen-long-dogs-captured-sep21",
+      "id": "2026-09-21-yuen-long-dogs-captured",
+      "first_seen": "2026-09-21T07:25:00+08:00",
+      "headline_en": "AFCD and police catch three dogs after Yuen Long cyclist death"
+    },
+    {
+      "key": "youth-flag-team-tiananmen-sep20",
+      "id": "2026-09-21-youth-flag-team-tiananmen",
+      "first_seen": "2026-09-21T07:26:00+08:00",
+      "headline_en": "Hong Kong students watch Tiananmen flag-raising on Beijing visit"
+    },
+    {
+      "key": "lifestyle-autumn-home-expo-2026",
+      "id": "2026-09-21-lifestyle-autumn-home-expo",
+      "first_seen": "2026-09-21T03:06:00+08:00",
+      "headline_en": "Autumn Home Expo opens at Convention Centre this Thursday"
+    },
+    {
+      "key": "lifestyle-tai-hang-fire-dragon-2026",
+      "id": "2026-09-21-lifestyle-tai-hang-fire-dragon",
+      "first_seen": "2026-09-21T01:17:00+08:00",
+      "headline_en": "Tai Hang Fire Dragon Dance returns this week for Mid-Autumn"
+    },
+    {
+      "key": "customs-infringing-jewellery-jgw-sep20",
+      "id": "2026-09-21-customs-infringing-jewellery-jgw",
+      "first_seen": "2026-09-21T01:16:00+08:00",
+      "headline_en": "Customs seizes suspected infringing jewellery worth HK$160,000 at Wan Chai fair"
+    },
+    {
+      "key": "asean-investment-protocol-sep20",
+      "id": "2026-09-20-asean-investment-protocol",
+      "first_seen": "2026-09-20T21:40:00+08:00",
+      "headline_en": "Hong Kong signs protocol giving firms equal treatment across ASEAN"
+    },
+    {
+      "key": "hk-women-4x100-freestyle-silver-asian-games",
+      "id": "2026-09-20-hk-women-4x100-freestyle-silver",
+      "first_seen": "2026-09-20T21:41:00+08:00",
+      "headline_en": "Hong Kong women take Asian Games silver in 4x100m freestyle relay"
+    },
+    {
+      "key": "customs-ketamine-13kg-airport-sep20",
+      "id": "2026-09-20-customs-ketamine-airport",
+      "first_seen": "2026-09-20T21:42:00+08:00",
+      "headline_en": "Customs seizes 13kg suspected ketamine at airport, Japanese man arrested"
+    },
+    {
+      "key": "yuen-long-dog-attack-death-sep20",
+      "id": "2026-09-20-yuen-long-dog-attack-death",
+      "first_seen": "2026-09-20T17:12:00+08:00",
+      "headline_en": "Police say woman killed by dogs while cycling in Yuen Long"
+    },
+    {
+      "key": "abby-choi-murder-trial-start-sep21",
+      "id": "2026-09-20-abby-choi-trial-start",
+      "first_seen": "2026-09-20T17:13:00+08:00",
+      "headline_en": "Abby Choi murder trial to open at High Court this week"
+    },
+    {
+      "key": "lifestyle-midnight-cowboy-freespace-sep20",
+      "id": "2026-09-20-lifestyle-midnight-cowboy-westk",
+      "first_seen": "2026-09-20T17:14:00+08:00",
+      "headline_en": "Local trio Midnight Cowboy plays album live at West Kowloon tonight"
+    },
+    {
+      "key": "workweek-weather-outlook-sep21-25",
+      "id": "2026-09-20-workweek-weather-outlook",
+      "first_seen": "2026-09-20T15:05:00+08:00",
+      "headline_en": "Work week set for mainly cloudy days with showers and milder heat"
+    },
+    {
+      "key": "grace-lau-karate-silver-asian-games-2026",
+      "id": "2026-09-20-grace-lau-asian-games-silver",
+      "first_seen": "2026-09-20T15:06:00+08:00",
+      "headline_en": "Grace Lau wins Hong Kongs first Asian Games medal with karate silver"
+    },
+    {
+      "key": "paul-chan-five-year-plan-certainty-sep20",
+      "id": "2026-09-20-paul-chan-five-year-plan-certainty",
+      "first_seen": "2026-09-20T15:07:00+08:00",
+      "headline_en": "Paul Chan says five-year plan gives firms longer-term investment certainty"
+    },
+    {
+      "key": "census-fake-website-sep20",
+      "id": "2026-09-20-census-fake-website-warning",
+      "first_seen": "2026-09-20T13:25:00+08:00",
+      "headline_en": "Census office warns of fake population census website"
+    },
+    {
+      "key": "lifestyle-cultural-centre-moonlit-bunny",
+      "id": "2026-09-20-lifestyle-cultural-centre-bunnies",
+      "first_seen": "2026-09-20T11:16:00+08:00",
+      "headline_en": "Moonlit Bunny Crew lights Cultural Centre piazza until October"
+    },
+    {
+      "key": "yuen-long-fung-nin-arrest-sep19",
+      "id": "2026-09-20-yuen-long-wounding-arrest",
+      "first_seen": "2026-09-20T11:15:00+08:00",
+      "headline_en": "Man, 30, arrested after Yuen Long street slashing"
+    },
+    {
+      "key": "pok-wai-south-road-cyclist-death-sep20",
+      "id": "2026-09-20-yuen-long-cyclist-death",
+      "first_seen": "2026-09-20T11:14:00+08:00",
+      "headline_en": "Woman found beside share bike in Yuen Long dies in hospital"
+    },
+    {
+      "key": "tung-chee-hwa-funeral-held-sep20",
+      "id": "2026-09-20-tung-state-funeral-held",
+      "first_seen": "2026-09-20T11:13:00+08:00",
+      "headline_en": "Flag-draped coffin leaves North Point after Tung state funeral"
+    },
+    {
+      "key": "very-hot-weather-warning-sep20",
+      "id": "2026-09-20-very-hot-weather-warning",
+      "first_seen": "2026-09-20T09:21:00+08:00",
+      "headline_en": "Very Hot Weather Warning issued as Sunday peaks near 33C"
+    },
+    {
+      "key": "pig-trucks-overturn-sep20",
+      "id": "2026-09-20-pig-trucks-overturn",
+      "first_seen": "2026-09-20T09:22:00+08:00",
+      "headline_en": "Two pig-transport trucks overturn within four hours"
+    },
+    {
+      "key": "tolo-highway-metal-punctures-sep19",
+      "id": "2026-09-20-tolo-highway-tyre-punctures",
+      "first_seen": "2026-09-20T09:23:00+08:00",
+      "headline_en": "Metal debris on Tolo Highway punctures more than 10 cars"
+    },
+    {
+      "key": "tang-huanggang-border-hours-sep20",
+      "id": "2026-09-20-tang-huanggang-border-hours",
+      "first_seen": "2026-09-20T09:24:00+08:00",
+      "headline_en": "Tang says Huanggang systems still being tuned, border hours under talks"
+    },
+    {
+      "key": "lifestyle-jccac-mid-autumn-lanterns-2026",
+      "id": "2026-09-20-lifestyle-jccac-lanterns",
+      "first_seen": "2026-09-20T09:25:00+08:00",
+      "headline_en": "Shek Kip Mei art village hangs 100 hand-painted Mid-Autumn lanterns"
+    }
+  ]
+}
