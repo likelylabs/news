@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-09-22T23:39:50+08:00",
+  "generated_at": "2026-09-23T03:04:19+08:00",
   "live_window_hours": 72,
   "count": 85,
   "articles": [
+    {
+      "id": "2026-09-23-lifestyle-asia-plus-festival-opening",
+      "published_at": "2026-09-23T03:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "festival",
+        "music",
+        "asia-plus",
+        "performing-arts"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-lifestyle-asia-plus-festival-opening.json",
+      "en": {
+        "headline": "Asia+ Festival opens with cross-border music fusion concert",
+        "dek": "The fourth edition begins tonight at the Hong Kong Cultural Centre with TRI-ART! ON, pairing local artists and bands from Mongolia, Korea and Thailand."
+      },
+      "zh": {
+        "headline": "亞藝無疆開幕音樂會今晚上演 港樂人聯同蒙韓泰樂隊跨界合作",
+        "dek": "第四屆亞藝無疆今晚於香港文化中心揭幕，開幕節目「三角演義」由本地音樂人聯同蒙古、韓國及泰國樂隊同台演出。"
+      }
+    },
     {
       "id": "2026-09-22-asiaworld-expo-ct-drill",
       "published_at": "2026-09-22T23:42:00+08:00",
@@ -1831,28 +1854,6 @@
       "zh": {
         "headline": "天文台再發黃色火災危險警告 周日乾燥酷熱",
         "dek": "天文台今早6時發出黃色火災危險警告，指火警風險頗高；高空反氣旋令華南大致天晴。"
-      }
-    },
-    {
-      "id": "2026-09-20-tung-chee-hwa-state-funeral-day",
-      "published_at": "2026-09-20T01:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tung-chee-hwa",
-        "state-funeral",
-        "mourning",
-        "north-point"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-tung-chee-hwa-state-funeral-day.json",
-      "en": {
-        "headline": "State funeral for Tung Chee-hwa proceeds today after Saturday vigil",
-        "dek": "Public memorial and encoffining begin at 9am at Hong Kong Funeral Home in North Point, with condolence books open until noon at designated centres."
-      },
-      "zh": {
-        "headline": "董建華國葬今日舉行 公祭大殮上午九時開始",
-        "dek": "北角香港殯儀館福海堂今日上午九時舉行公祭大殮後出殯，市民可繼續在指定地點簽署弔唁冊至中午。"
       }
     }
   ]
