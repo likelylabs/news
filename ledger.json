@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T23:39:50+08:00",
+  "updated_at": "2026-09-23T03:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -25,6 +25,12 @@
       "id": "2026-09-22-ryan-choi-foil-silver",
       "first_seen": "2026-09-22T21:40:00+08:00",
       "headline_en": "Ryan Choi takes Asian Games men's foil silver"
+    },
+    {
+      "key": "lifestyle-asia-plus-festival-2026-opening",
+      "id": "2026-09-23-lifestyle-asia-plus-festival-opening",
+      "first_seen": "2026-09-23T03:10:00+08:00",
+      "headline_en": "Asia+ Festival opens with cross-border music fusion concert"
     }
   ]
 }
