@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-09-22T17:12:21+08:00",
+  "generated_at": "2026-09-22T19:08:00+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-09-22-ryan-choi-foil-final",
+      "published_at": "2026-09-22T19:07:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "fencing",
+        "ryan-choi"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-ryan-choi-foil-final.json",
+      "en": {
+        "headline": "Ryan Choi reaches Asian Games men's foil final",
+        "dek": "The Hong Kong fencer advanced to the individual foil final in Tokoname, guaranteeing at least a silver medal after Cheung Ka-long exited early."
+      },
+      "zh": {
+        "headline": "蔡俊彥亞運男子花劍個人賽晉身決賽",
+        "dek": "港隊劍手蔡俊彥在常滑晉級男子個人花劍決賽，鎖定至少一面銀牌，張家朗早前止步32強。"
+      }
+    },
+    {
+      "id": "2026-09-22-haughey-100m-freestyle-gold",
+      "published_at": "2026-09-22T19:06:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "swimming",
+        "haughey"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-haughey-100m-freestyle-gold.json",
+      "en": {
+        "headline": "Siobhan Haughey wins Asian Games 100m freestyle gold",
+        "dek": "The Hong Kong swimmer clocked 52.45 seconds in Tokyo to take her second individual gold of the Games, less than 24 hours after defending the 200m freestyle title."
+      },
+      "zh": {
+        "headline": "何詩蓓亞運女子百米自由泳奪金",
+        "dek": "何詩蓓在東京以52秒45奪得女子100米自由泳金牌，距周一衛冕200米自由泳金牌不足24小時，今屆個人第二金。"
+      }
+    },
+    {
+      "id": "2026-09-22-hammer-hill-drinks-pinholes",
+      "published_at": "2026-09-22T19:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "wong-tai-sin",
+        "students",
+        "health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-hammer-hill-drinks-pinholes.json",
+      "en": {
+        "headline": "Twelve students ill after free drinks with suspected pinholes at sports meet",
+        "dek": "Police are investigating energy drinks handed out outside Hammer Hill Road Sports Ground during a school athletics meet after at least 12 pupils reported dizziness and stomach pain."
+      },
+      "zh": {
+        "headline": "斧山道運動場外派免費飲品疑有針孔 12學生不適",
+        "dek": "黃大仙斧山道運動場外有人派發能量飲品，部分包裝懷疑有針孔，至少12名學生飲後報稱頭暈及肚痛，警方正調查。"
+      }
+    },
     {
       "id": "2026-09-22-afcd-stray-dog-response",
       "published_at": "2026-09-22T17:17:00+08:00",
@@ -1797,119 +1861,6 @@
       "zh": {
         "headline": "衞生防護中心再確診一宗猴痘個案 本年累計26宗",
         "dek": "25歲男子情況穩定，當局再呼籲高風險群組接種疫苗；八月以來新增17宗個案。"
-      }
-    },
-    {
-      "id": "2026-09-19-guangdong-yacht-southbound",
-      "published_at": "2026-09-19T17:19:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "yacht",
-        "greater-bay-area",
-        "marine",
-        "mable-chan",
-        "cross-border"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-19/2026-09-19-guangdong-yacht-southbound.json",
-      "en": {
-        "headline": "Guangdong yachts expected to sail in Hong Kong waters from October",
-        "dek": "Transport chief Mable Chan said the southbound scheme is close to launch after the Marine Department prepares to sign arrangements with Guangdong authorities."
-      },
-      "zh": {
-        "headline": "粵艇南下最快10月實施 陳美寶：詳情稍後公布",
-        "dek": "海事處將與廣東海事局簽署工作安排，配合五年規劃發展遊艇經濟及跨境休閒消費。"
-      }
-    },
-    {
-      "id": "2026-09-19-ma-on-shan-drink-drive",
-      "published_at": "2026-09-19T17:18:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "traffic",
-        "drink-driving",
-        "ma-on-shan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-19/2026-09-19-ma-on-shan-drink-drive.json",
-      "en": {
-        "headline": "Driver arrested for drink-driving after crashing into Ma On Shan railing",
-        "dek": "A 33-year-old man failed a breath test after his private car struck a roadside barrier near a police station on Saturday morning."
-      },
-      "zh": {
-        "headline": "馬鞍山私家車撞欄 33歲司機涉醉駕被捕",
-        "dek": "車輛於早上失控撞毀約1.5米欄杆，司機未能通過酒精呼氣測試，現正被扣留調查。"
-      }
-    },
-    {
-      "id": "2026-09-19-very-hot-weather-warning",
-      "published_at": "2026-09-19T17:17:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "observatory",
-        "heat",
-        "very-hot-weather",
-        "weekend"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-19/2026-09-19-very-hot-weather-warning.json",
-      "en": {
-        "headline": "Very Hot Weather Warning issued as temperatures climb past 33C",
-        "dek": "The Observatory raised the warning at 1pm, urging the public to watch for heat stroke while the Yellow Fire Danger Warning remains in force."
-      },
-      "zh": {
-        "headline": "天文台發出酷熱天氣警告 多區氣溫逾33度",
-        "dek": "警告於下午1時發出，黃色火災危險警告仍生效；市民應多補充水分，慎防中暑。"
-      }
-    },
-    {
-      "id": "2026-09-19-fanling-meth-lab",
-      "published_at": "2026-09-19T17:16:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "drugs",
-        "methamphetamine",
-        "fanling",
-        "manufacturing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-19/2026-09-19-fanling-meth-lab.json",
-      "en": {
-        "headline": "Police smash Fanling meth lab, seize drugs worth HK$23m",
-        "dek": "Three people were arrested after officers found solid and liquid methamphetamine plus active manufacturing equipment in a tin-sheet structure in Chi Tong Tsuen."
-      },
-      "zh": {
-        "headline": "警方搗粉嶺鐵皮屋製毒工場 檢值2300萬冰毒拘三人",
-        "dek": "單位內製毒設備仍在運作，另檢大量化學品；三名被捕人據稱受金錢利誘加入，周一提堂。"
-      }
-    },
-    {
-      "id": "2026-09-19-customs-cannabis-535kg",
-      "published_at": "2026-09-19T17:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "drugs",
-        "cannabis",
-        "trafficking",
-        "mong-kok"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-19/2026-09-19-customs-cannabis-535kg.json",
-      "en": {
-        "headline": "Customs seizes 535kg cannabis worth HK$125m in largest sea haul",
-        "dek": "Three men were arrested in Mong Kok after officers found the drugs hidden in insulated boxes from a Thailand-bound container following a 16-day surveillance operation."
-      },
-      "zh": {
-        "headline": "海關破歷來最大宗海路大麻花案 檢535公斤值1.25億拘三人",
-        "dek": "貨櫃由泰國抵港，部分保溫箱藏有定位器；經16日監控後於旺角唐樓拘三男，其中越南籍男子將被起訴。"
       }
     }
   ]
