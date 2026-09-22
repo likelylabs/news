@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T07:06:33+08:00",
+  "updated_at": "2026-09-23T07:32:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -31,6 +31,30 @@
       "id": "2026-09-23-lifestyle-asia-plus-festival-opening",
       "first_seen": "2026-09-23T03:10:00+08:00",
       "headline_en": "Asia+ Festival opens with cross-border music fusion concert"
+    },
+    {
+      "key": "hksar-gov-eu-annual-report-sep23",
+      "id": "2026-09-23-gov-eu-annual-report",
+      "first_seen": "2026-09-23T07:28:00+08:00",
+      "headline_en": "Government rejects EU Commission annual report on Hong Kong"
+    },
+    {
+      "key": "mid-autumn-special-traffic-2026",
+      "id": "2026-09-23-mid-autumn-special-traffic",
+      "first_seen": "2026-09-23T07:29:00+08:00",
+      "headline_en": "Special traffic plans set for Mid-Autumn and fire dragon nights"
+    },
+    {
+      "key": "yuen-long-stray-dogs-third-sweep-sep22",
+      "id": "2026-09-23-yuen-long-stray-dogs-third-sweep",
+      "first_seen": "2026-09-23T07:30:00+08:00",
+      "headline_en": "Two more unattended dogs caught near Yuen Long attack site"
+    },
+    {
+      "key": "lifestyle-tai-hang-fire-dragon-2026",
+      "id": "2026-09-23-lifestyle-tai-hang-fire-dragon",
+      "first_seen": "2026-09-23T07:31:00+08:00",
+      "headline_en": "Tai Hang Fire Dragon Dance returns for three Mid-Autumn nights"
     }
   ]
 }
