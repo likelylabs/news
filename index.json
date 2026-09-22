@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-09-22T13:21:27+08:00",
+  "generated_at": "2026-09-22T15:33:14+08:00",
   "live_window_hours": 72,
-  "count": 82,
+  "count": 84,
   "articles": [
+    {
+      "id": "2026-09-22-plaza-hollywood-manslaughter-order",
+      "published_at": "2026-09-22T15:31:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "courts",
+        "diamond-hill",
+        "manslaughter"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-plaza-hollywood-manslaughter-order.json",
+      "en": {
+        "headline": "Indefinite hospital order for man who killed two women at Plaza Hollywood",
+        "dek": "Szeto Sing-kwong pleaded guilty to manslaughter by diminished responsibility after a 2023 stabbing attack; the High Court ordered him detained without limit of time."
+      },
+      "zh": {
+        "headline": "荷里活廣場斬人案被告認誤殺 被判無限期醫院令",
+        "dek": "司徒成光以減責神志失常承認兩項誤殺罪，高等法院法官杜麗冰判處無限期醫院令，形容案件為悲劇。"
+      }
+    },
+    {
+      "id": "2026-09-22-thunderstorm-warning-south",
+      "published_at": "2026-09-22T15:30:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "observatory",
+        "thunderstorm",
+        "hong-kong-island"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-thunderstorm-warning-south.json",
+      "en": {
+        "headline": "Thunderstorm Warning issued for southern waters and islands",
+        "dek": "The Observatory posted the warning at 2.03pm, later extended to 4pm, as isolated storms were expected over Hong Kong Island, Kowloon and nearby waters."
+      },
+      "zh": {
+        "headline": "天文台發出雷暴警告 預料南部水域及島嶼有局部雷暴",
+        "dek": "警告於下午2時03分發出，其後延長至下午4時；天文台預料香港島、九龍及附近水域有局部雷暴。"
+      }
+    },
     {
       "id": "2026-09-22-repulse-bay-burglary",
       "published_at": "2026-09-22T13:22:00+08:00",
