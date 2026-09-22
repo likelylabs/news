@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-22T21:43:14+08:00",
+  "generated_at": "2026-09-22T23:38:29+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-09-22-asiaworld-expo-ct-drill",
+      "published_at": "2026-09-22T23:42:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "counter-terrorism",
+        "asiaworld-expo",
+        "security"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-asiaworld-expo-ct-drill.json",
+      "en": {
+        "headline": "Over 300 join counter-terrorism drill at AsiaWorld-Expo",
+        "dek": "New Territories South police led a multi-agency exercise simulating security threats and attacks during a mock international sports conference later this year."
+      },
+      "zh": {
+        "headline": "亞博館逾300人參與跨部門反恐演習",
+        "dek": "新界南總區聯同港協暨奧委會、消防處等舉行「勇箭」演習，模擬年底國際體育會議期間遇恐襲，測試協調應變。"
+      }
+    },
+    {
+      "id": "2026-09-22-sei-chun-hing-committee",
+      "published_at": "2026-09-22T23:41:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "district-council",
+        "yuen-long",
+        "courts",
+        "home-affairs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-sei-chun-hing-committee.json",
+      "en": {
+        "headline": "Supervisory committee appointed to probe Yuen Long councillor conviction",
+        "dek": "Five-member panel will examine disciplinary action against Sei Chun-hing, who was convicted of unlawful sexual intercourse with a girl under 16 and faces sentencing in October."
+      },
+      "zh": {
+        "headline": "當局委任監察委員會調查元朗區議員定罪案",
+        "dek": "五人監察委員會將跟進施駿興與未滿16歲少女性交定罪案，考慮紀律處分，施已還押候10月判刑。"
+      }
+    },
+    {
+      "id": "2026-09-22-tung-chung-block2-concrete",
+      "published_at": "2026-09-22T23:40:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "tung-chung",
+        "housing-authority",
+        "concrete"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-tung-chung-block2-concrete.json",
+      "en": {
+        "headline": "Tung Chung Block 2 concrete samples fail contractual tests",
+        "dek": "Housing Authority orders suspension of pouring and core tests after individual samples from the public housing project in Area 42 fall short of requirements."
+      },
+      "zh": {
+        "headline": "東涌第2座公屋混凝土樣本未達合約要求",
+        "dek": "房委會指東涌42區公營房屋項目第2座個別混凝土樣本未達標，已即時指示承建商暫停相關位置澆灌並抽取芯樣化驗。"
+      }
+    },
     {
       "id": "2026-09-22-lifestyle-anita-mui-statue",
       "published_at": "2026-09-22T21:44:00+08:00",
@@ -1787,51 +1853,6 @@
       "zh": {
         "headline": "董建華國葬今日舉行 公祭大殮上午九時開始",
         "dek": "北角香港殯儀館福海堂今日上午九時舉行公祭大殮後出殯，市民可繼續在指定地點簽署弔唁冊至中午。"
-      }
-    },
-    {
-      "id": "2026-09-19-civil-servants-dismissed-five-years",
-      "published_at": "2026-09-19T23:31:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "civil-service",
-        "discipline",
-        "government",
-        "legco"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-19/2026-09-19-civil-servants-dismissed-five-years.json",
-      "en": {
-        "headline": "251 civil servants dismissed over five years for misconduct or crime",
-        "dek": "Civil Service Bureau figures show 48 dismissals in the latest financial year alone, while a streamlined process has led to five compulsory retirements for persistent underperformance."
-      },
-      "zh": {
-        "headline": "五年內251名公務員因不當行為或定罪被免職",
-        "dek": "公務員事務局向立法會提交的數字顯示，最近一個財政年度有48宗免職個案，簡化程序下已有五人因表現持續欠佳被勒令退休。"
-      }
-    },
-    {
-      "id": "2026-09-19-customs-airport-endangered-turtles",
-      "published_at": "2026-09-19T23:30:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "endangered-species",
-        "turtles",
-        "airport",
-        "smuggling"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-19/2026-09-19-customs-airport-endangered-turtles.json",
-      "en": {
-        "headline": "Customs seizes 10 endangered live turtles at airport from US parcel",
-        "dek": "Officers found the suspected scheduled species inside a carton declared as women's knitted tops; the case was referred to the Agriculture, Fisheries and Conservation Department."
-      },
-      "zh": {
-        "headline": "海關機場檢10隻懷疑瀕危活龜 來源美國包裹",
-        "dek": "關員在報稱載有女裝針織短袖上衣的紙箱內發現該批活龜，案件已交漁護署跟進。"
       }
     }
   ]
