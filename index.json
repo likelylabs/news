@@ -1,8 +1,114 @@
 {
-  "generated_at": "2026-09-22T19:09:33+08:00",
+  "generated_at": "2026-09-22T21:41:33+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 84,
   "articles": [
+    {
+      "id": "2026-09-22-lifestyle-anita-mui-statue",
+      "published_at": "2026-09-22T21:44:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "anita-mui",
+        "avenue-of-stars",
+        "tsim-sha-tsui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-lifestyle-anita-mui-statue.json",
+      "en": {
+        "headline": "Anita Mui statue returns to Avenue of Stars after restoration",
+        "dek": "The bronze figure of the late singer was re-unveiled on Tuesday following three weeks of conservation work on the Tsim Sha Tsui waterfront."
+      },
+      "zh": {
+        "headline": "梅艷芳星光大道銅像修復後重新揭幕",
+        "dek": "尖沙咀星光大道銅像完成約三星期修復工程後於周二重新亮相，歌迷及圈中好友出席揭幕。"
+      }
+    },
+    {
+      "id": "2026-09-22-manpower-projection-2028",
+      "published_at": "2026-09-22T21:43:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "labour",
+        "ai",
+        "manpower"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-manpower-projection-2028.json",
+      "en": {
+        "headline": "Manpower shortfall projected at 130,000 by 2028 as AI eases demand",
+        "dek": "Labour and Welfare Bureau mid-term update narrows earlier forecast of 180,000; clerical roles face surplus while construction, healthcare and tech remain tight."
+      },
+      "zh": {
+        "headline": "人力推算2028年短缺收窄至13萬人 AI致文書職位過剩",
+        "dek": "勞福局中期更新顯示整體缺口由上次推算18萬人收窄，建造、醫療及創科仍緊張，文書支援人員料過剩2.5萬至3萬人。"
+      }
+    },
+    {
+      "id": "2026-09-22-north-point-wwii-fuze",
+      "published_at": "2026-09-22T21:42:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "north-point",
+        "unexploded-ordnance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-north-point-wwii-fuze.json",
+      "en": {
+        "headline": "WWII British mortar fuze detonated on North Point hillside",
+        "dek": "Police Explosive Ordnance Disposal officers destroyed the device on the slope opposite Braemar Hill Mansions at 1.18pm; no injuries and no evacuation required."
+      },
+      "zh": {
+        "headline": "北角山邊發現二戰英式迫擊砲彈引信 警方即場引爆",
+        "dek": "爆炸品處理課人員下午1時18分在寶馬山道賽西湖大廈對開山邊安全引爆，無人受傷亦毋須疏散。"
+      }
+    },
+    {
+      "id": "2026-09-22-kelvin-kong-nsd-appointment",
+      "published_at": "2026-09-22T21:41:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "police",
+        "national-security",
+        "john-lee"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-kelvin-kong-nsd-appointment.json",
+      "en": {
+        "headline": "Kelvin Kong appointed head of police National Security Department",
+        "dek": "Chief Executive John Lee named the long-serving officer deputy commissioner for national security, succeeding Andrew Kan who began pre-retirement leave on Tuesday."
+      },
+      "zh": {
+        "headline": "江學禮獲任命為警務處維護國家安全部門負責人",
+        "dek": "行政長官李家超任命江學禮接替已開始預休的簡啟恩，任命即日生效，江學禮同日宣誓就任。"
+      }
+    },
+    {
+      "id": "2026-09-22-ryan-choi-foil-silver",
+      "published_at": "2026-09-22T21:40:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "fencing",
+        "ryan-choi"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-ryan-choi-foil-silver.json",
+      "en": {
+        "headline": "Ryan Choi takes Asian Games men's foil silver",
+        "dek": "The Hong Kong fencer fell 15-13 to Japan's Kazuki Iimura in the final at Tokoname, securing the city's first fencing medal of the Games after a late fightback."
+      },
+      "zh": {
+        "headline": "蔡俊彥亞運男子花劍摘銀 港隊今屆首面劍擊獎牌",
+        "dek": "蔡俊彥在常滑決賽以13比15不敵日本劍手飯村一輝，逆轉後仍差一步奪金，為港隊贏得今屆亞運首面劍擊獎牌。"
+      }
+    },
     {
       "id": "2026-09-22-ryan-choi-foil-final",
       "published_at": "2026-09-22T19:07:00+08:00",
@@ -1726,141 +1832,6 @@
       "zh": {
         "headline": "海關機場檢10隻懷疑瀕危活龜 來源美國包裹",
         "dek": "關員在報稱載有女裝針織短袖上衣的紙箱內發現該批活龜，案件已交漁護署跟進。"
-      }
-    },
-    {
-      "id": "2026-09-19-lifestyle-kwun-tong-mid-autumn-carnival",
-      "published_at": "2026-09-19T21:27:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "kwun-tong",
-        "family",
-        "carnival"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-19/2026-09-19-lifestyle-kwun-tong-mid-autumn-carnival.json",
-      "en": {
-        "headline": "Kwun Tong waterfront hosts Mid-Autumn carnival today",
-        "dek": "The Kwun Tong District Arts and Culture Promotion Association stages games, workshops, magic, dance and Sichuan opera face-changing at AquaBeat 01 on the harbourfront."
-      },
-      "zh": {
-        "headline": "觀塘海濱今日舉行中秋繽紛嘉年華",
-        "dek": "觀塘區文娛康樂促進會於AquaBeat 01舉辦提早慶祝中秋活動，設燈謎、手作、魔術、舞蹈及川劇變臉等節目。"
-      }
-    },
-    {
-      "id": "2026-09-19-customs-airport-cannabis-7kg",
-      "published_at": "2026-09-19T21:26:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "drugs",
-        "cannabis",
-        "airport",
-        "trafficking"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-19/2026-09-19-customs-airport-cannabis-7kg.json",
-      "en": {
-        "headline": "Customs seizes 7kg cannabis at airport, arrests three mainland men",
-        "dek": "Two separate cases today involved passengers arriving from Bangkok with suspected cannabis buds hidden in snack packaging inside carry-on bags."
-      },
-      "zh": {
-        "headline": "海關機場檢約7公斤大麻花拘三名內地男子",
-        "dek": "今日兩宗個案，三名由曼谷抵港的內地男子在手提行李零食包裝內藏有懷疑大麻花，合共約7公斤，市值約140萬元。"
-      }
-    },
-    {
-      "id": "2026-09-19-customs-hzmb-silver-ingots",
-      "published_at": "2026-09-19T21:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "smuggling",
-        "hzmb",
-        "silver",
-        "border"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-19/2026-09-19-customs-hzmb-silver-ingots.json",
-      "en": {
-        "headline": "Customs seizes 50kg silver ingots worth HK$1m at HZMB, driver charged",
-        "dek": "A 30-year-old man was arrested after officers found the suspected smuggled silver hidden in the lower boot of an outgoing private car on 18 September."
-      },
-      "zh": {
-        "headline": "海關港珠澳大橋截出境私家車 檢50公斤銀磚值百萬拘司機",
-        "dek": "海關前日在港珠澳大橋香港口岸截查一輛出境私家車，於車尾箱下層置物格發現約50公斤懷疑走私銀磚，市值約100萬元，30歲男司機已被控。"
-      }
-    },
-    {
-      "id": "2026-09-19-asian-games-focal-sites-launch",
-      "published_at": "2026-09-19T19:14:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "lcsd",
-        "sport",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-19/2026-09-19-asian-games-focal-sites-launch.json",
-      "en": {
-        "headline": "LCSD launches Asian Games focal sites across 18 districts",
-        "dek": "Public viewing hubs at designated sports centres open from 5pm today until 4 October, with a launch ceremony held at Hong Kong Park Sports Centre."
-      },
-      "zh": {
-        "headline": "康文署全港18區啟動活力亞運觀賞站",
-        "dek": "指定體育館今日下午5時起開放至10月4日，香港公園體育館舉行啟動禮及全民動起來運動日。"
-      }
-    },
-    {
-      "id": "2026-09-19-good-hope-school-cantonese-apology",
-      "published_at": "2026-09-19T19:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "good-hope-school",
-        "cantonese",
-        "language"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-19/2026-09-19-good-hope-school-cantonese-apology.json",
-      "en": {
-        "headline": "Good Hope School principal apologises over Cantonese ban wording in graduation video…",
-        "dek": "Dr Gary Harfitt said an unedited internal slide containing the phrase “Cantonese is STRICTLY FORBIDDEN” was sent in error and does not reflect school policy."
-      },
-      "zh": {
-        "headline": "德望學校校長就畢業影片「禁用粵語」指引致歉",
-        "dek": "校長Harfitt指未修訂簡報誤發予中六生，強調內容不符校方政策，校方從未禁止使用粵語。"
-      }
-    },
-    {
-      "id": "2026-09-19-mpox-new-case-sep19",
-      "published_at": "2026-09-19T19:10:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "mpox",
-        "chp",
-        "vaccination",
-        "health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-19/2026-09-19-mpox-new-case-sep19.json",
-      "en": {
-        "headline": "CHP confirms another mpox case as yearly total reaches 26",
-        "dek": "A 25-year-old man is in stable condition after testing positive; health authorities again urge high-risk groups to get vaccinated amid a rise since August."
-      },
-      "zh": {
-        "headline": "衞生防護中心再確診一宗猴痘個案 本年累計26宗",
-        "dek": "25歲男子情況穩定，當局再呼籲高風險群組接種疫苗；八月以來新增17宗個案。"
       }
     }
   ]
