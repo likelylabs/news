@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-22T11:20:19+08:00",
+  "updated_at": "2026-09-22T11:21:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "thunderstorm-warning-sep22",
+      "id": "2026-09-22-thunderstorm-warning",
+      "first_seen": "2026-09-22T11:18:00+08:00",
+      "headline_en": "Thunderstorm Warning issued for New Territories East"
+    },
+    {
+      "key": "haughey-li-100m-free-heats-sep22",
+      "id": "2026-09-22-haughey-li-100m-free-final",
+      "first_seen": "2026-09-22T11:19:00+08:00",
+      "headline_en": "Haughey and Li reach Asian Games 100m freestyle final"
+    },
+    {
+      "key": "ligent-09856-listing-sep22",
+      "id": "2026-09-22-ligent-ipo-debut",
+      "first_seen": "2026-09-22T11:20:00+08:00",
+      "headline_en": "Ligent Technologies opens 11 per cent above offer price"
+    },
+    {
+      "key": "lifestyle-wong-tai-sin-lanterns-2026",
+      "id": "2026-09-22-lifestyle-wong-tai-sin-lanterns",
+      "first_seen": "2026-09-22T11:21:00+08:00",
+      "headline_en": "Wong Tai Sin Temple keeps Mid-Autumn lanterns lit into October"
+    },
     {
       "key": "lifestyle-light-rail-free-mid-autumn-2026",
       "id": "2026-09-22-lifestyle-light-rail-free-mid-autumn",
