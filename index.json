@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-09-23T07:06:33+08:00",
+  "generated_at": "2026-09-23T07:11:49+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-09-23-lifestyle-tai-hang-fire-dragon",
+      "published_at": "2026-09-23T07:31:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "tai-hang",
+        "intangible-heritage",
+        "festival"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-lifestyle-tai-hang-fire-dragon.json",
+      "en": {
+        "headline": "Tai Hang Fire Dragon Dance returns for three Mid-Autumn nights",
+        "dek": "The national intangible cultural heritage parade runs from 24 to 26 September, with road closures in Tai Hang and a planned stop at Victoria Park on festival night."
+      },
+      "zh": {
+        "headline": "大坑舞火龍中秋一連三晚上演 區內實施封路",
+        "dek": "這項國家非遺將於9月24至26日舉行，大坑會封路改道，中秋正日火龍亦會前往維園綵燈會。"
+      }
+    },
+    {
+      "id": "2026-09-23-yuen-long-stray-dogs-third-sweep",
+      "published_at": "2026-09-23T07:30:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "yuen-long",
+        "afcd",
+        "police",
+        "animals",
+        "public-safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-yuen-long-stray-dogs-third-sweep.json",
+      "en": {
+        "headline": "Two more unattended dogs caught near Yuen Long attack site",
+        "dek": "AFCD and police took two further dogs in a Tuesday night sweep around Pok Wai, the third large search in two days after a cyclist died."
+      },
+      "zh": {
+        "headline": "元朗再捕兩隻無人看管唐狗 兩日內第三度行動",
+        "dek": "漁護署與警方周二晚在壤圍一帶再捕捉兩隻無人看管唐狗，屬單車女子死亡事件後兩日內第三次大型搜捕。"
+      }
+    },
+    {
+      "id": "2026-09-23-mid-autumn-special-traffic",
+      "published_at": "2026-09-23T07:29:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "mid-autumn",
+        "mtr",
+        "tai-hang",
+        "traffic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-mid-autumn-special-traffic.json",
+      "en": {
+        "headline": "Special traffic plans set for Mid-Autumn and fire dragon nights",
+        "dek": "The Transport Department said road closures and extra public transport will run from 24 to 26 September, including overnight MTR on festival night."
+      },
+      "zh": {
+        "headline": "中秋及大坑舞火龍期間實施特別交通安排",
+        "dek": "運輸署公布9月24至26日將有封路及加強公共交通服務，中秋夜大部分港鐵絲會通宵行駛。"
+      }
+    },
+    {
+      "id": "2026-09-23-gov-eu-annual-report",
+      "published_at": "2026-09-23T07:28:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "government",
+        "european-union",
+        "national-security",
+        "one-country-two-systems"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-gov-eu-annual-report.json",
+      "en": {
+        "headline": "Government rejects EU Commission annual report on Hong Kong",
+        "dek": "The HKSAR Government said it strongly disagreed with and opposed what it called inaccurate and biased remarks in a European Commission annual report issued with the EU High Representative."
+      },
+      "zh": {
+        "headline": "特區政府強烈不滿並反對歐盟委員會涉港年度報告",
+        "dek": "特區政府就歐盟委員會及歐盟外交與安全政策高級代表發表的年度報告表示強烈不滿和反對，指內容不實及偏頓。"
+      }
+    },
     {
       "id": "2026-09-23-lifestyle-asia-plus-festival-opening",
       "published_at": "2026-09-23T03:10:00+08:00",
