@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-22T11:21:37+08:00",
+  "updated_at": "2026-09-22T13:22:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "ta-kwu-ling-illicit-cigarettes-sep22",
+      "id": "2026-09-22-ta-kwu-ling-illicit-cigarettes",
+      "first_seen": "2026-09-22T13:20:00+08:00",
+      "headline_en": "Police seize 1.55 million illicit cigarettes in Ta Kwu Ling raid"
+    },
+    {
+      "key": "tsing-yi-lpg-tanker-overturn-sep22",
+      "id": "2026-09-22-tsing-yi-lpg-tanker-overturn",
+      "first_seen": "2026-09-22T13:21:00+08:00",
+      "headline_en": "LPG tanker overturns in Tsing Yi, two men injured"
+    },
+    {
+      "key": "repulse-bay-burglary-sep22",
+      "id": "2026-09-22-repulse-bay-burglary",
+      "first_seen": "2026-09-22T13:22:00+08:00",
+      "headline_en": "Jewellery and cash worth HK$610,000 stolen from Repulse Bay flat"
+    },
     {
       "key": "thunderstorm-warning-sep22",
       "id": "2026-09-22-thunderstorm-warning",
