@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-22T15:33:14+08:00",
+  "updated_at": "2026-09-22T17:18:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "chloe-leung-road-race-bronze-asian-games-2026",
+      "id": "2026-09-22-chloe-leung-road-race-bronze",
+      "first_seen": "2026-09-22T17:15:00+08:00",
+      "headline_en": "Chloe Leung takes Asian Games road race bronze for Hong Kong"
+    },
+    {
+      "key": "sha-tin-diagonal-crossing-on-ming-sep22",
+      "id": "2026-09-22-sha-tin-diagonal-crossing",
+      "first_seen": "2026-09-22T17:16:00+08:00",
+      "headline_en": "Diagonal pedestrian crossing opens near Shek Mun Station in Sha Tin"
+    },
+    {
+      "key": "afcd-stray-dog-response-sep22",
+      "id": "2026-09-22-afcd-stray-dog-response",
+      "first_seen": "2026-09-22T17:17:00+08:00",
+      "headline_en": "AFCD says every dog attack is one tragedy too many after Yuen Long death"
+    },
     {
       "key": "thunderstorm-warning-south-sep22",
       "id": "2026-09-22-thunderstorm-warning-south",
