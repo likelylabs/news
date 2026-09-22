@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-22-thunderstorm-warning",
+  "published_at": "2026-09-22T11:18:00+08:00",
+  "category": "weather",
+  "tags": ["observatory", "thunderstorm", "new-territories"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "thunderstorm-warning-sep22",
+  "en": {
+    "headline": "Thunderstorm Warning issued for New Territories East",
+    "dek": "The Observatory posted the warning at 11am, valid until 1pm, as isolated storms were expected over the eastern New Territories.",
+    "body": [
+      "The Hong Kong Observatory issued a Thunderstorm Warning at 11am on Tuesday, saying isolated thunderstorms were expected over New Territories East. The warning is to remain in force until 1pm.",
+      "In a bulletin issued at 11:02am, the Observatory recorded 30 degrees Celsius at its headquarters, with relative humidity at 72 per cent. The mean ultraviolet index at King's Park over the previous hour was 3, which it described as moderate. It also repeated a hot-weather health reminder, advising the public to stay alert and drink more water.",
+      "When thunderstorms approach, the Observatory advises people to take shelter inside a substantial building, stay away from open water and high ground, and avoid standing near trees, metal poles or other conductors. Outdoor swimming and other water sports should be suspended while the warning is in force.",
+      "The warning covers a two-hour window and does not replace later updates. The Observatory said it would issue further notices if storms persist or spread."
+    ]
+  },
+  "zh": {
+    "headline": "天文台發出雷暴警告 預料新界東有局部雷暴",
+    "dek": "警告於上午11時發出，有效至下午1時；天文台總部當時氣溫30度，並提醒市民注意熱天氣。",
+    "body": [
+      "香港天文台今日上午11時發出雷暴警告，預料新界東有局部地區雷暴，有效時間至下午1時。",
+      "天文台於上午11時02分發表天氣報告，總部氣溫30度，相對濕度72%。京士柏過去一小時平均紫外線指數為3，強度屬中等。天文台同時提醒，熱天氣可能影響健康，市民應提高警覺並多喝水。",
+      "雷暴期間，天文台呼籲市民到堅固建築物內躲避，遠離水面及高地，切勿靠近大樹、金屬柱或其他導體，亦應暫停戶外游泳及其他水上活動。",
+      "今次警告有效兩小時，若雷暴持續或範圍擴大，天文台會另行公布。"
+    ]
+  }
+}
