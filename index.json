@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-09-22T09:29:48+08:00",
+  "generated_at": "2026-09-22T11:20:19+08:00",
   "live_window_hours": 72,
-  "count": 82,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-09-22-lifestyle-wong-tai-sin-lanterns",
+      "published_at": "2026-09-22T11:21:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "wong-tai-sin",
+        "lanterns"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-lifestyle-wong-tai-sin-lanterns.json",
+      "en": {
+        "headline": "Wong Tai Sin Temple keeps Mid-Autumn lanterns lit into October",
+        "dek": "Sik Sik Yuen's free display at the temple and square runs from 17 September to 4 October, with later closing times through the festival week."
+      },
+      "zh": {
+        "headline": "黃大仙祠中秋綵燈展出至十月初",
+        "dek": "嗇色園在祠內及廟宇廣場免費展出花燈，活動由9月17日舉行至10月4日，中秋期間延長開放。"
+      }
+    },
+    {
+      "id": "2026-09-22-ligent-ipo-debut",
+      "published_at": "2026-09-22T11:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "ipo",
+        "stock-market",
+        "listing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-ligent-ipo-debut.json",
+      "en": {
+        "headline": "Ligent Technologies opens 11 per cent above offer price",
+        "dek": "The optical-module maker, listed as 09856, began trading at HK$36.60 against a HK$32.96 issue price after a 35-times subscribed public offer."
+      },
+      "zh": {
+        "headline": "納真科技首掛高開一成報36.6元",
+        "dek": "光模塊供應商股份代號09856，公開發售超購約35倍，開市較招股僳32.96元高出約11%。"
+      }
+    },
+    {
+      "id": "2026-09-22-haughey-li-100m-free-final",
+      "published_at": "2026-09-22T11:19:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "swimming",
+        "haughey"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-haughey-li-100m-free-final.json",
+      "en": {
+        "headline": "Haughey and Li reach Asian Games 100m freestyle final",
+        "dek": "Siobhan Haughey posted the fastest heat time of 53.60 seconds in Nagoya, with teammate Li Sum-yiu also advancing in seventh place."
+      },
+      "zh": {
+        "headline": "何詩蓓李芯瑤晉級亞運女子百自決賽",
+        "dek": "何詩蓓在名古屋以53秒60錄得初賽最快時間，隊友李芯瑤以總成績第七晉級。"
+      }
+    },
+    {
+      "id": "2026-09-22-thunderstorm-warning",
+      "published_at": "2026-09-22T11:18:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "observatory",
+        "thunderstorm",
+        "new-territories"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-thunderstorm-warning.json",
+      "en": {
+        "headline": "Thunderstorm Warning issued for New Territories East",
+        "dek": "The Observatory posted the warning at 11am, valid until 1pm, as isolated storms were expected over the eastern New Territories."
+      },
+      "zh": {
+        "headline": "天文台發出雷暴警告 預料新界東有局部雷暴",
+        "dek": "警告於上午11時發出，有效至下午1時；天文台總部當時氣溫30度，並提醒市民注意熱天氣。"
+      }
+    },
     {
       "id": "2026-09-22-lifestyle-blue-house-lanterns",
       "published_at": "2026-09-22T09:33:00+08:00",
@@ -1652,163 +1737,6 @@
       "zh": {
         "headline": "海關破歷來最大宗海路大麻花案 檢535公斤值1.25億拘三人",
         "dek": "貨櫃由泰國抵港，部分保溫箱藏有定位器；經16日監控後於旺角唐樓拘三男，其中越南籍男子將被起訴。"
-      }
-    },
-    {
-      "id": "2026-09-19-lifestyle-jtia-open-day-lanterns",
-      "published_at": "2026-09-19T11:14:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "mei-foo",
-        "heritage",
-        "family"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-19/2026-09-19-lifestyle-jtia-open-day-lanterns.json",
-      "en": {
-        "headline": "Jao Tsung-I Academy opens for Mid-Autumn lantern weekend",
-        "dek": "The former Lai Chi Kok Hospital marks its 12th anniversary open days this weekend with hand-painted lanterns, a craft market and free heritage tours."
-      },
-      "zh": {
-        "headline": "饕館今起開放日迎中秋 花燈與市集同步",
-        "dek": "美孚饕宗頫文化館十二周年開放日今明兩日及25、26日舉行，有市民繪製花燈、手作市集及免費古跡導賞。"
-      }
-    },
-    {
-      "id": "2026-09-19-community-carer-canteens",
-      "published_at": "2026-09-19T11:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "elderly",
-        "carers",
-        "welfare",
-        "eric-chan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-19/2026-09-19-community-carer-canteens.json",
-      "en": {
-        "headline": "Chan says carer canteens aim to spot people who need help",
-        "dek": "A three-month trial at a Shek Pai Wan youth centre served 250 people and issued 2,200 meal coupons, the chief secretary said on Saturday."
-      },
-      "zh": {
-        "headline": "陳國基：照顧者飯堂要識別需支援人士",
-        "dek": "政務司司長周六表示，香港仔石排灣青年中心試行三個月，250人使用服務，派出2,200張飯券。"
-      }
-    },
-    {
-      "id": "2026-09-19-kwun-tong-bypass-dangerous-driving",
-      "published_at": "2026-09-19T11:12:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "traffic",
-        "kwun-tong",
-        "dangerous-driving"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-19/2026-09-19-kwun-tong-bypass-dangerous-driving.json",
-      "en": {
-        "headline": "Two arrested after 160km/h run on Kwun Tong Bypass",
-        "dek": "East Kowloon traffic police said one driver more than doubled the 80km/h limit and weaved between lanes during Operation Fei Shield on 17 and 18 September."
-      },
-      "zh": {
-        "headline": "觀塘繞道反危駕拘兩男 有車時速160公里",
-        "dek": "東九龍交通部指，17至18日「飛盾」行動中，一名司機在限速80公里路段車速達160公里或以上，並在行車線之間穿插。"
-      }
-    },
-    {
-      "id": "2026-09-19-lifestyle-victoria-park-led-dragon",
-      "published_at": "2026-09-19T09:35:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "victoria-park",
-        "fire-dragon",
-        "family"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-19/2026-09-19-lifestyle-victoria-park-led-dragon.json",
-      "en": {
-        "headline": "Small LED fire dragon performs at Victoria Park this weekend",
-        "dek": "A children’s LED dragon takes the soccer pitches at 7pm on Saturday and Sunday, as the Mid-Autumn creative market also opens in the park this evening."
-      },
-      "zh": {
-        "headline": "維園今明兩晚演小型LED火龍 中秋市集同日開檔",
-        "dek": "旅發局指今晚及週日晚上7時於維園五、六號足球場演小型LED火龍；康文署中秋創意市集今晚6時半起開放。"
-      }
-    },
-    {
-      "id": "2026-09-19-yellow-fire-danger-warning",
-      "published_at": "2026-09-19T09:34:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "fire-danger",
-        "observatory",
-        "hiking",
-        "weekend"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-19/2026-09-19-yellow-fire-danger-warning.json",
-      "en": {
-        "headline": "Yellow fire danger warning in force as weekend stays dry and hot",
-        "dek": "The government said the fire risk is high today and urged hikers to stay alert, as the Observatory forecast sunny weather with urban highs around 32 degrees."
-      },
-      "zh": {
-        "headline": "天文台發出黃色火災危險警告 郊遊人士須小心",
-        "dek": "當局指今日火警風險高，呼籲市民小心防火；天文台預料天晴乾燥炎熱，市區最高約32度。"
-      }
-    },
-    {
-      "id": "2026-09-19-lee-five-year-plan-105-indicators",
-      "published_at": "2026-09-19T09:33:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "john-lee",
-        "five-year-plan",
-        "policy-address",
-        "governance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-19/2026-09-19-lee-five-year-plan-105-indicators.json",
-      "en": {
-        "headline": "Lee says five-year plan has 105 indicators drawn from mainland practice",
-        "dek": "The chief executive told RTHK the targets were adapted to Hong Kong conditions and would be delivered through annual Policy Address goals, in a roughly three-to-one ratio."
-      },
-      "zh": {
-        "headline": "李家超：五年規劃105項指標參考內地經驗",
-        "dek": "特首在《星期六問責》表示，指標按香港實況制定，並透過每年施政報告落實，比例約為三比一。"
-      }
-    },
-    {
-      "id": "2026-09-19-lee-subdivided-flats-no-high-handed",
-      "published_at": "2026-09-19T09:32:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "subdivided-flats",
-        "john-lee",
-        "five-year-plan",
-        "basic-housing-units"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-19/2026-09-19-lee-subdivided-flats-no-high-handed.json",
-      "en": {
-        "headline": "Lee says crackdown on poor subdivided flats will not leave tenants homeless",
-        "dek": "On RTHK’s Saturday Accountability, the chief executive said the government would not use extreme or high-handed means and cited a 65 percent registration rate under the Basic Housing Unit regime."
-      },
-      "zh": {
-        "headline": "李家超：取締劣質劌房不會用高壓手段",
-        "dek": "特首在港台《星期六問責》表示，不會因取締劣質劌房而令住戶無瓦遮頭，簡樸房登記率現達65%。"
       }
     }
   ]
