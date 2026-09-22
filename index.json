@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-09-22T15:33:14+08:00",
+  "generated_at": "2026-09-22T17:12:21+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-09-22-afcd-stray-dog-response",
+      "published_at": "2026-09-22T17:17:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "afcd",
+        "stray-dogs",
+        "yuen-long",
+        "animal-welfare"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-afcd-stray-dog-response.json",
+      "en": {
+        "headline": "AFCD says every dog attack is one tragedy too many after Yuen Long death",
+        "dek": "Assistant director Jackie Yip pledged to tackle stray dogs at source through registration, vaccination and desexing, as joint capture operations continue in the Pok Wai area."
+      },
+      "zh": {
+        "headline": "漁護署：每宗狗隻襲擊都是悲劇 將從源頭處理流浪狗",
+        "dek": "助理署長葉嘉明周二表示會透過強制登記、疫苗及絕育從源頭減少流浪狗，壆圍一帶聯合捕捉行動會持續。"
+      }
+    },
+    {
+      "id": "2026-09-22-sha-tin-diagonal-crossing",
+      "published_at": "2026-09-22T17:16:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "sha-tin",
+        "pedestrian",
+        "shek-mun"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-sha-tin-diagonal-crossing.json",
+      "en": {
+        "headline": "Diagonal pedestrian crossing opens near Shek Mun Station in Sha Tin",
+        "dek": "The Transport Department commissioned the junction of On Ming and On Muk streets on Tuesday, the latest of 15 planned sites expected to cut walking distance by about 30 per cent."
+      },
+      "zh": {
+        "headline": "沙田石門站對角行人過路處啟用 步行距離料減三成",
+        "dek": "運輸署周二啟用安明街與安睦街交界對角過路處，行人可一次過橫過路口，屬今年15個推展地點之一。"
+      }
+    },
+    {
+      "id": "2026-09-22-chloe-leung-road-race-bronze",
+      "published_at": "2026-09-22T17:15:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "cycling",
+        "chloe-leung"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-22/2026-09-22-chloe-leung-road-race-bronze.json",
+      "en": {
+        "headline": "Chloe Leung takes Asian Games road race bronze for Hong Kong",
+        "dek": "The cyclist finished third in the women’s individual road race in Nagoya, 41 seconds behind the leaders, after a fourth-place time-trial result two days earlier."
+      },
+      "zh": {
+        "headline": "梁穎儀亞運公路賽摘銅 港隊今屆首面單車獎牌",
+        "dek": "梁穎儀在名古屋女子個人公路賽以2小時50分46秒奪銅，落後冠亞軍41秒，兩日前計時賽排第四。"
+      }
+    },
     {
       "id": "2026-09-22-plaza-hollywood-manslaughter-order",
       "published_at": "2026-09-22T15:31:00+08:00",
