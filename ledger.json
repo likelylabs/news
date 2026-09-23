@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T09:08:07+08:00",
+  "updated_at": "2026-09-23T11:21:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -79,6 +79,42 @@
       "id": "2026-09-23-lifestyle-national-day-cinema",
       "first_seen": "2026-09-23T09:09:00+08:00",
       "headline_en": "Half-price National Day cinema tickets go on sale from 28 September"
+    },
+    {
+      "key": "tse-chin-wan-stray-dogs-review-sep23",
+      "id": "2026-09-23-tse-stray-dogs-review",
+      "first_seen": "2026-09-23T11:16:00+08:00",
+      "headline_en": "Minister to review stray-dog feeding rules and abandonment penalties"
+    },
+    {
+      "key": "hang-seng-below-25000-sep23",
+      "id": "2026-09-23-hang-seng-below-25000",
+      "first_seen": "2026-09-23T11:17:00+08:00",
+      "headline_en": "Hang Seng slips below 25,000 as financials weigh"
+    },
+    {
+      "key": "kam-tin-road-concrete-truck-collision-sep23",
+      "id": "2026-09-23-kam-tin-concrete-truck-collision",
+      "first_seen": "2026-09-23T11:18:00+08:00",
+      "headline_en": "Woman left unconscious after concrete mixer hits pedestrian in Kam Tin"
+    },
+    {
+      "key": "siobhan-haughey-100m-free-gold-ag2026",
+      "id": "2026-09-23-haughey-100m-free-gold",
+      "first_seen": "2026-09-23T11:19:00+08:00",
+      "headline_en": "Siobhan Haughey defends Asian Games 100m freestyle title"
+    },
+    {
+      "key": "algernon-yau-foreign-firms-confidence-sep23",
+      "id": "2026-09-23-yau-foreign-firms-confidence",
+      "first_seen": "2026-09-23T11:20:00+08:00",
+      "headline_en": "Foreign firms still backing Hong Kong, commerce chief says"
+    },
+    {
+      "key": "lifestyle-victoria-park-lantern-carnival-2026",
+      "id": "2026-09-23-lifestyle-victoria-park-lanterns",
+      "first_seen": "2026-09-23T11:21:00+08:00",
+      "headline_en": "Victoria Park lanterns stay lit through Mid-Autumn weekend"
     }
   ]
 }
