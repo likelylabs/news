@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-09-23T19:32:42+08:00",
+  "generated_at": "2026-09-24T00:26:47+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-09-24-lifestyle-victoria-park-lantern-extension",
+      "published_at": "2026-09-24T00:26:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "victoria-park",
+        "lantern",
+        "causeway-bay"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-lifestyle-victoria-park-lantern-extension.json",
+      "en": {
+        "headline": "Victoria Park Mid-Autumn lantern displays extended to 4 October",
+        "dek": "The Leisure and Cultural Services Department said strong visitor numbers prompted a one-week extension, with lighting hours also lengthened to midnight from 24 to 27 September."
+      },
+      "zh": {
+        "headline": "維園中秋綵燈會延至10月4日 24至27日亮燈至午夜",
+        "dek": "康文署指入場人數眾多、反應熱烈，決定將展期延長一星期，並於9月24至27日將亮燈時間延至午夜12時。"
+      }
+    },
     {
       "id": "2026-09-23-hkgai-hklearn-launch",
       "published_at": "2026-09-23T19:34:00+08:00",
@@ -1886,72 +1909,6 @@
       "zh": {
         "headline": "海關會展檢獲約16萬元懷疑侵權首飾 拘兩男女",
         "dek": "關員於灣仔會展「九月香港珠寶首飾展覽會」攤位及紅磡相關公司檢獲約27件懷疑侵權首飾，包括耳環、手鐲及頸鏈。"
-      }
-    },
-    {
-      "id": "2026-09-20-customs-ketamine-airport",
-      "published_at": "2026-09-20T21:42:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "airport",
-        "drugs",
-        "ketamine"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-customs-ketamine-airport.json",
-      "en": {
-        "headline": "Customs seizes 13kg suspected ketamine at airport, Japanese man arrested",
-        "dek": "Officers found the drugs, valued at about HK$4.7 million, in the checked luggage of a 22-year-old passenger arriving from Frankfurt on Sunday."
-      },
-      "zh": {
-        "headline": "海關機場檢獲13公斤疑似氯胺酮 拘22歲日本籍男子",
-        "dek": "周日一名由法蘭克福抵港乘客行李內發現市值約470萬元懷疑氯胺酮，男子已被捕。"
-      }
-    },
-    {
-      "id": "2026-09-20-hk-women-4x100-freestyle-silver",
-      "published_at": "2026-09-20T21:41:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "swimming",
-        "siobhan-haughey",
-        "relay"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-hk-women-4x100-freestyle-silver.json",
-      "en": {
-        "headline": "Hong Kong women take Asian Games silver in 4x100m freestyle relay",
-        "dek": "Siobhan Haughey and teammates clock a Hong Kong record 3:36.59 for the city’s second medal of the Nagoya Games, finishing behind China."
-      },
-      "zh": {
-        "headline": "港隊女子4x100米自由泳接力摘銀 亞運第二面獎牌",
-        "dek": "何詩蓓與隊友以3分36秒59刷新香港紀錄，僅次於中國隊，為港隊再添一銀。"
-      }
-    },
-    {
-      "id": "2026-09-20-asean-investment-protocol",
-      "published_at": "2026-09-20T21:40:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "asean",
-        "investment",
-        "trade",
-        "commerce"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-asean-investment-protocol.json",
-      "en": {
-        "headline": "Hong Kong signs protocol giving firms equal treatment across ASEAN",
-        "dek": "The First Protocol to the ASEAN-Hong Kong Investment Agreement activates national treatment and most-favoured-nation provisions for non-services sectors in the 10 member states."
-      },
-      "zh": {
-        "headline": "香港簽署東盟投資協定議定書 企業享國民及最惠待遇",
-        "dek": "《修訂香港與東盟投資協定的第一議定書》今日在馬尼拉簽署，啓動非服務業領域的國民待遇及最惠待遇條款。"
       }
     }
   ]
