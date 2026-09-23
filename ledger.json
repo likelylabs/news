@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T07:11:49+08:00",
+  "updated_at": "2026-09-23T09:09:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -55,6 +55,30 @@
       "id": "2026-09-23-lifestyle-tai-hang-fire-dragon",
       "first_seen": "2026-09-23T07:31:00+08:00",
       "headline_en": "Tai Hang Fire Dragon Dance returns for three Mid-Autumn nights"
+    },
+    {
+      "key": "thunderstorm-warning-sep23",
+      "id": "2026-09-23-thunderstorm-warning",
+      "first_seen": "2026-09-23T09:06:00+08:00",
+      "headline_en": "Thunderstorm warning in force until 10am for New Territories"
+    },
+    {
+      "key": "cuhk-terence-chong-new-asia-assembly-sep22",
+      "id": "2026-09-23-cuhk-terence-chong-assembly",
+      "first_seen": "2026-09-23T09:07:00+08:00",
+      "headline_en": "CUHK economist denies sexism after New Asia assembly remarks"
+    },
+    {
+      "key": "fifa-asean-cup-mmark-2026",
+      "id": "2026-09-23-fifa-asean-cup-mmark",
+      "first_seen": "2026-09-23T09:08:00+08:00",
+      "headline_en": "FIFA ASEAN Cup 2026 awarded M Mark status"
+    },
+    {
+      "key": "lifestyle-national-day-cinema-half-price-2026",
+      "id": "2026-09-23-lifestyle-national-day-cinema",
+      "first_seen": "2026-09-23T09:09:00+08:00",
+      "headline_en": "Half-price National Day cinema tickets go on sale from 28 September"
     }
   ]
 }
