@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-23T17:08:15+08:00",
+  "generated_at": "2026-09-23T19:32:42+08:00",
   "live_window_hours": 72,
   "count": 89,
   "articles": [
+    {
+      "id": "2026-09-23-hkgai-hklearn-launch",
+      "published_at": "2026-09-23T19:34:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "ai",
+        "education",
+        "hkust",
+        "hkgai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-hkgai-hklearn-launch.json",
+      "en": {
+        "headline": "HKGAI launches AI teaching assistant HKLearn at HKUST",
+        "dek": "The locally developed platform, powered by HKGAI V3, has drawn more than 3,000 student registrations and over 240,000 uploaded learning materials since going live."
+      },
+      "zh": {
+        "headline": "港產AI教學助理HKLearn上線 科大率先啟用",
+        "dek": "由HKGAI V3驅動的平台已吸引逾3,000名學生註冊，累計上載超過24萬份學習資料。"
+      }
+    },
+    {
+      "id": "2026-09-23-housing-supervisor-illegal-betting",
+      "published_at": "2026-09-23T19:33:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "icac",
+        "housing",
+        "gambling"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-housing-supervisor-illegal-betting.json",
+      "en": {
+        "headline": "Housing supervisor charged over HK$500,000 illegal online football bets",
+        "dek": "Cheung Tsz-sum, 29, a Housing Department works supervisor, appeared in Tuen Mun Magistrates’ Courts and was granted bail pending a further hearing on 18 November."
+      },
+      "zh": {
+        "headline": "房署監工涉非法外圍賭波約50萬元准保釋",
+        "dek": "29歲一級監工張子森被控向收受賭注者投注，今日在屯門裁判法院提訊，押後至11月18日再訊，獲准保釋。"
+      }
+    },
+    {
+      "id": "2026-09-23-natalie-kan-100m-fly-bronze",
+      "published_at": "2026-09-23T19:32:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "swimming",
+        "asian-games",
+        "natalie-kan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-natalie-kan-100m-fly-bronze.json",
+      "en": {
+        "headline": "Natalie Kan takes Asian Games 100m butterfly bronze and Hong Kong record",
+        "dek": "The 24-year-old finished third in 58.05 seconds in Tokyo, breaking Siobhan Haughey’s previous Hong Kong mark of 58.12 set in 2023."
+      },
+      "zh": {
+        "headline": "簡綽桐亞運100米蝶泳摘銅兼破港績",
+        "dek": "24歲港將周三在東京以58秒05奪銅，打破何詩蓓2023年所創58秒12的香港紀錄。"
+      }
+    },
     {
       "id": "2026-09-23-tuen-mun-stray-dogs-car-damage",
       "published_at": "2026-09-23T17:08:00+08:00",
@@ -1886,72 +1952,6 @@
       "zh": {
         "headline": "香港簽署東盟投資協定議定書 企業享國民及最惠待遇",
         "dek": "《修訂香港與東盟投資協定的第一議定書》今日在馬尼拉簽署，啓動非服務業領域的國民待遇及最惠待遇條款。"
-      }
-    },
-    {
-      "id": "2026-09-20-lifestyle-midnight-cowboy-westk",
-      "published_at": "2026-09-20T17:14:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "music",
-        "west-kowloon",
-        "live-performance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-lifestyle-midnight-cowboy-westk.json",
-      "en": {
-        "headline": "Local trio Midnight Cowboy plays album live at West Kowloon tonight",
-        "dek": "The indie band performs a full reading of its debut record See You Down The Road at The Box in Freespace, setting Hong Kong poet Yam Gong’s verse to rock."
-      },
-      "zh": {
-        "headline": "本地組合Midnight Cowboy今晚西九演譯首張專輯",
-        "dek": "三人組合於自由空間盒子演出首張專輯《See You Down The Road》全曲，將香港詩人飲江詩句配以搖滾及粵語口白。"
-      }
-    },
-    {
-      "id": "2026-09-20-abby-choi-trial-start",
-      "published_at": "2026-09-20T17:13:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "murder",
-        "abby-choi",
-        "high-court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-abby-choi-trial-start.json",
-      "en": {
-        "headline": "Abby Choi murder trial to open at High Court this week",
-        "dek": "The ex-husband, father-in-law and brother-in-law of the late model face a joint murder charge; the first hearing is set for Monday with the case expected to last about 45 days."
-      },
-      "zh": {
-        "headline": "蔡天鳳案下週高院開審 前夫等三人被控謀殺",
-        "dek": "蔡天鳳前夫、前家翁及前大伯被控謀殺及阻止合法殮葬，周一先處理程序事宜，全案料審約45日。"
-      }
-    },
-    {
-      "id": "2026-09-20-yuen-long-dog-attack-death",
-      "published_at": "2026-09-20T17:12:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "yuen-long",
-        "police",
-        "dog-attack",
-        "animal"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-yuen-long-dog-attack-death.json",
-      "en": {
-        "headline": "Police say woman killed by dogs while cycling in Yuen Long",
-        "dek": "A 27-year-old woman died after being chased and mauled by several dogs near Nam Sang Wai; officers are working with the Agriculture, Fisheries and Conservation Department to catch the animals."
-      },
-      "zh": {
-        "headline": "元朗女子踩單車疑遭野狗襲擊身亡 警聯同漁護署捉狗",
-        "dek": "27歲女子凌晨在壆圍南路倒卧不治，閉路電視顯示她曾被約三隻狗追趕，頭頸有致命咬傷，警方正與漁護署合作捕捉涉事犬隻。"
       }
     }
   ]
