@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T13:10:05+08:00",
+  "updated_at": "2026-09-23T15:28:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -127,6 +127,24 @@
       "id": "2026-09-23-zhao-coach-bond",
       "first_seen": "2026-09-23T13:16:00+08:00",
       "headline_en": "Coach accused of slapping boy, 8, given three-year good behaviour bond"
+    },
+    {
+      "key": "tin-shui-wai-school-bus-taxi-sep23",
+      "id": "2026-09-23-tin-shui-wai-school-bus-taxi",
+      "first_seen": "2026-09-23T15:25:00+08:00",
+      "headline_en": "Eight pupils sent to hospital after school bus hits taxi in Tin Shui Wai"
+    },
+    {
+      "key": "qmh-lift-engineer-sentence-sep23",
+      "id": "2026-09-23-qmh-lift-engineer-sentence",
+      "first_seen": "2026-09-23T15:26:00+08:00",
+      "headline_en": "Lift engineer given 160 hours community service over Queen Mary defects"
+    },
+    {
+      "key": "juvenile-arrests-h1-2026-sep23",
+      "id": "2026-09-23-juvenile-arrests-h1-2026",
+      "first_seen": "2026-09-23T15:27:00+08:00",
+      "headline_en": "Juvenile arrests up 20 percent in first half of 2026, police say"
     }
   ]
 }
