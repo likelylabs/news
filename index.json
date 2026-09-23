@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-23T11:17:51+08:00",
+  "generated_at": "2026-09-23T13:10:05+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-09-23-zhao-coach-bond",
+      "published_at": "2026-09-23T13:16:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "child-protection",
+        "cheung-chau",
+        "training-camp"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-zhao-coach-bond.json",
+      "en": {
+        "headline": "Coach accused of slapping boy, 8, given three-year good behaviour bond",
+        "dek": "Zhao Yiqun, 51, faced child abuse charges over an August 2024 incident at a Cheung Chau training camp; the Department of Justice dropped the prosecution after an agreement."
+      },
+      "zh": {
+        "headline": "教練涉掌摑8歲男童獲簽保守行為三年",
+        "dek": "趙藝群被控在長洲訓練營虐待兒童及襲擊，律政司在雙方達成協議後不繼續檢控，東區裁判法院周三判簽保守行為。"
+      }
+    },
+    {
+      "id": "2026-09-23-john-lee-flu-vaccine",
+      "published_at": "2026-09-23T13:15:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "flu",
+        "vaccine",
+        "government",
+        "john-lee",
+        "public-health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-john-lee-flu-vaccine.json",
+      "en": {
+        "headline": "John Lee leads officials in seasonal flu vaccine drive",
+        "dek": "The chief executive and 22 senior officials received the jab as the government rolled out four measures to boost uptake for the 2026/27 season."
+      },
+      "zh": {
+        "headline": "李家超率22名官員接種季節性流感疫苗",
+        "dek": "行政長官與司局長、常秘及署長級官員一同打針，政府推出四大優化措施鼓勵市民盡早接種。"
+      }
+    },
     {
       "id": "2026-09-23-lifestyle-victoria-park-lanterns",
       "published_at": "2026-09-23T11:21:00+08:00",
