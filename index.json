@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-09-23T07:11:49+08:00",
+  "generated_at": "2026-09-23T09:08:07+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-09-23-lifestyle-national-day-cinema",
+      "published_at": "2026-09-23T09:09:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "film",
+        "national-day",
+        "cinema"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-lifestyle-national-day-cinema.json",
+      "en": {
+        "headline": "Half-price National Day cinema tickets go on sale from 28 September",
+        "dek": "The Hong Kong Theatres Association said 52 commercial cinemas will halve prices for all 1 October screenings, with tickets released from noon on Monday."
+      },
+      "zh": {
+        "headline": "國慶全線商業戲院半價 門票下周一中午起發售",
+        "dek": "香港戲院商會公布，全港52間商業戲院10月1日所有場次半價，門票由9月28日中午起陸續開售，票房每人每次最多四張。"
+      }
+    },
+    {
+      "id": "2026-09-23-fifa-asean-cup-mmark",
+      "published_at": "2026-09-23T09:08:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "football",
+        "kai-tak",
+        "mong-kok"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-fifa-asean-cup-mmark.json",
+      "en": {
+        "headline": "FIFA ASEAN Cup 2026 awarded M Mark status",
+        "dek": "The Major Sports Events Committee endorsed the four-match tournament, which opens at Mong Kok Stadium on Thursday before moving to Kai Tak."
+      },
+      "zh": {
+        "headline": "FIFA東盟盃獲「M」品牌資格 周四旺角揭幕",
+        "dek": "大型體育活動委員會向2026年FIFA東盟盃頒發「M」品牌資格，周四先於旺角場開賽，其後轉戰啟德體育園。"
+      }
+    },
+    {
+      "id": "2026-09-23-cuhk-terence-chong-assembly",
+      "published_at": "2026-09-23T09:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "cuhk",
+        "new-asia-college"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-cuhk-terence-chong-assembly.json",
+      "en": {
+        "headline": "CUHK economist denies sexism after New Asia assembly remarks",
+        "dek": "Students complained after associate professor Terence Chong's college talk used slides on the 'cost-benefit' of women 'marrying money'; he said the language was everyday Cantonese and not discriminatory."
+      },
+      "zh": {
+        "headline": "新亞周會「釣金龜」言論惹投訴 莊太量否認歧視女性",
+        "dek": "中大經濟系副教授、新亞書院副院長莊太量周二晚會上以「伴侶經濟學」作題，學生指簡報及發言帶性別定型並向校方投訴；他否認歧視，稱屬日常廣東話。"
+      }
+    },
+    {
+      "id": "2026-09-23-thunderstorm-warning",
+      "published_at": "2026-09-23T09:06:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "thunderstorm",
+        "hko",
+        "new-territories"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-thunderstorm-warning.json",
+      "en": {
+        "headline": "Thunderstorm warning in force until 10am for New Territories",
+        "dek": "The Hong Kong Observatory issued the warning at 8.05am, saying isolated thunderstorms were expected over the New Territories this morning."
+      },
+      "zh": {
+        "headline": "天文台發出雷暴警告 有效至上午10時 預料新界有局部雷暴",
+        "dek": "天文台今早8時05分發出雷暴警告，有效至上午10時，預料新界有局部地區雷暴，呼籲市民採取預防措施。"
+      }
+    },
     {
       "id": "2026-09-23-lifestyle-tai-hang-fire-dragon",
       "published_at": "2026-09-23T07:31:00+08:00",
@@ -1839,112 +1926,6 @@
       "zh": {
         "headline": "天文台今早發出酷熱天氣警告 市區料高見33度",
         "dek": "警告於上午7時30分發出，預料今日天氣酷熱，市民須慎防中暑；黃色火災危險警告仍然生效。"
-      }
-    },
-    {
-      "id": "2026-09-20-gba-legal-exam-held",
-      "published_at": "2026-09-20T07:30:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "justice",
-        "greater-bay-area",
-        "legal"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-gba-legal-exam-held.json",
-      "en": {
-        "headline": "Greater Bay Area legal exam held as Lam urges more lawyers to sit it",
-        "dek": "The sixth sitting took place in Shenzhen and Zhuhai on Saturday; the secretary for justice said an amended Mainland lawyers law supports regularising the scheme."
-      },
-      "zh": {
-        "headline": "大灣區律師執業考試舉行 林定國籲更多港律師報考",
-        "dek": "第六屆考試周六在深圳及珠海舉行；律政司司長指內地修訂後的律師法為制度恆常化提供法律基礎。"
-      }
-    },
-    {
-      "id": "2026-09-20-lifestyle-blue-house-lanterns",
-      "published_at": "2026-09-20T07:29:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "wan-chai",
-        "lanterns"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-lifestyle-blue-house-lanterns.json",
-      "en": {
-        "headline": "Wan Chai Blue House hangs 700 hand-painted Mid-Autumn lanterns",
-        "dek": "The cluster on Stone Nullah Lane lights up from 6pm to 9.30pm until 14 October, stretching into nearby side streets."
-      },
-      "zh": {
-        "headline": "灣仔藍屋掛出700盎手繪中秋花燈",
-        "dek": "石水渠街建築群花燈展期至10月14日，每晚6時至9時半亮燈，並延伸至附近橫街。"
-      }
-    },
-    {
-      "id": "2026-09-20-cathay-skytrax-third",
-      "published_at": "2026-09-20T07:28:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "cathay-pacific",
-        "aviation",
-        "skytrax"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-cathay-skytrax-third.json",
-      "en": {
-        "headline": "Cathay retains world's third-best airline title in Skytrax awards",
-        "dek": "The Hong Kong carrier also took world's best cabin crew and best first-class lounge, as Singapore Airlines reclaimed first place."
-      },
-      "zh": {
-        "headline": "國泰連續第二年獲Skytrax全球第三佳航空公司",
-        "dek": "國泰同時奪得全球最佳空中服務員及全球最佳頭等貴賓室；新加坡航空重奪總榜第一。"
-      }
-    },
-    {
-      "id": "2026-09-20-cape-collinson-traffic-clarified",
-      "published_at": "2026-09-20T07:27:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "chai-wan",
-        "crematorium",
-        "traffic"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-cape-collinson-traffic-clarified.json",
-      "en": {
-        "headline": "No special road closures near Cape Collinson today, government says",
-        "dek": "A spokesman dismissed online claims that hearses and coaches would be barred from the Chai Wan crematorium area on Sunday morning."
-      },
-      "zh": {
-        "headline": "政府澄清哥連臣角今日沒有特別封路",
-        "dek": "發言人否認網傳周日早上禁止靈車及旅遊巴士進入柴灣火葬場一帶的說法。"
-      }
-    },
-    {
-      "id": "2026-09-20-yellow-fire-danger-warning",
-      "published_at": "2026-09-20T07:26:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "fire-danger",
-        "observatory",
-        "hiking"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-yellow-fire-danger-warning.json",
-      "en": {
-        "headline": "Yellow fire danger warning issued again on a dry, hot Sunday",
-        "dek": "The Observatory said the fire risk is high after issuing the warning at 6am, as an anticyclone keeps southern China mainly fine."
-      },
-      "zh": {
-        "headline": "天文台再發黃色火災危險警告 周日乾燥酷熱",
-        "dek": "天文台今早6時發出黃色火災危險警告，指火警風險頗高；高空反氣旋令華南大致天晴。"
       }
     }
   ]
