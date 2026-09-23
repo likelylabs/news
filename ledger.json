@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T15:25:10+08:00",
+  "updated_at": "2026-09-23T17:08:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -145,6 +145,24 @@
       "id": "2026-09-23-juvenile-arrests-h1-2026",
       "first_seen": "2026-09-23T15:27:00+08:00",
       "headline_en": "Juvenile arrests up 20 percent in first half of 2026, police say"
+    },
+    {
+      "key": "kam-tin-concrete-truck-fatal-sep23",
+      "id": "2026-09-23-kam-tin-concrete-truck-fatal",
+      "first_seen": "2026-09-23T17:06:00+08:00",
+      "headline_en": "Woman, 63, dies after concrete mixer hits pedestrian in Kam Tin"
+    },
+    {
+      "key": "tsang-yee-ting-karate-silver-ag2026",
+      "id": "2026-09-23-tsang-yee-ting-karate-silver",
+      "first_seen": "2026-09-23T17:07:00+08:00",
+      "headline_en": "Tsang Yee-ting takes Asian Games karate silver in -50kg kumite"
+    },
+    {
+      "key": "lifestyle-tuen-mun-stray-dogs-car-sep23",
+      "id": "2026-09-23-tuen-mun-stray-dogs-car-damage",
+      "first_seen": "2026-09-23T17:08:00+08:00",
+      "headline_en": "Four stray dogs tear bumper from parked car in Tuen Mun"
     }
   ]
 }
