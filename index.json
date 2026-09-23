@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-23T11:16:50+08:00",
+  "generated_at": "2026-09-23T11:17:51+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-09-23-lifestyle-victoria-park-lanterns",
+      "published_at": "2026-09-23T11:21:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "festival",
+        "victoria-park",
+        "causeway-bay"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-lifestyle-victoria-park-lanterns.json",
+      "en": {
+        "headline": "Victoria Park lanterns stay lit through Mid-Autumn weekend",
+        "dek": "The LCSD carnival and a first Tourism Board international display run nightly until 27 September, with lighting extended to midnight on Friday."
+      },
+      "zh": {
+        "headline": "維園綵燈會亮燈至中秋周末 正日延長至午夜",
+        "dek": "康文署綵燈會及旅發局首次國際綵燈匯每日傍晚6時半至11時開放，9月25日延長至午夜12時，免費入場。"
+      }
+    },
+    {
+      "id": "2026-09-23-yau-foreign-firms-confidence",
+      "published_at": "2026-09-23T11:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "trade",
+        "government",
+        "investment"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-yau-foreign-firms-confidence.json",
+      "en": {
+        "headline": "Foreign firms still backing Hong Kong, commerce chief says",
+        "dek": "Algernon Yau told RTHK that more than 10,070 companies with overseas headquarters now have a presence here, with the United States ranking second after the mainland."
+      },
+      "zh": {
+        "headline": "丘應樺：外商對香港營商環境有信心 在港設企逾萬家",
+        "dek": "商務及經濟發展局局長在港台節目表示，總部在外地而在港設立的公司已逾10070家，美國企業數目排第二。"
+      }
+    },
     {
       "id": "2026-09-23-haughey-100m-free-gold",
       "published_at": "2026-09-23T11:19:00+08:00",
