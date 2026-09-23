@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-09-23T11:15:28+08:00",
+  "generated_at": "2026-09-23T11:16:50+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-09-23-haughey-100m-free-gold",
+      "published_at": "2026-09-23T11:19:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "swimming",
+        "asian-games",
+        "haughey"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-haughey-100m-free-gold.json",
+      "en": {
+        "headline": "Siobhan Haughey defends Asian Games 100m freestyle title",
+        "dek": "The Hong Kong swimmer won in 52.45 seconds in Tokyo on Tuesday, her second individual gold of the Nagoya Games after the 200m freestyle."
+      },
+      "zh": {
+        "headline": "何詩蓓亞運100米自由泳封后 兩日內個人第二金",
+        "dek": "港隊「女飛魚」周二在東京水上運動中心以52秒45成功衛冕，繼周一200米自由泳後再奪金牌。"
+      }
+    },
+    {
+      "id": "2026-09-23-kam-tin-concrete-truck-collision",
+      "published_at": "2026-09-23T11:18:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "yuen-long",
+        "traffic",
+        "accident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-kam-tin-concrete-truck-collision.json",
+      "en": {
+        "headline": "Woman left unconscious after concrete mixer hits pedestrian in Kam Tin",
+        "dek": "Police said a heavy vehicle carrying concrete struck a woman on a crossing along Kam Tin Road near 8.30am; she was taken to Pok Oi Hospital."
+      },
+      "zh": {
+        "headline": "錦田公路混凝土車撞女途人 傷者昏迷送博愛醫院",
+        "dek": "今早約8時半，一輛運載混凝土的重型貨車在八鄉錦田公路近高埔村行人過路處撞到一名女子，司機在場助查。"
+      }
+    },
+    {
+      "id": "2026-09-23-hang-seng-below-25000",
+      "published_at": "2026-09-23T11:17:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hang-seng",
+        "markets",
+        "stocks"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-hang-seng-below-25000.json",
+      "en": {
+        "headline": "Hang Seng slips below 25,000 as financials weigh",
+        "dek": "The benchmark was down about 186 points, or 0.7 per cent, near 24,902 in late morning trade, after opening just above the 25,000 mark."
+      },
+      "zh": {
+        "headline": "恒指失守25000點 金融股拖累早段跌約186點",
+        "dek": "恒生指數公司上午10時52分數據顯示，恒指報24901點，跌186點或0.74%，早市高見25072、低見24836。"
+      }
+    },
     {
       "id": "2026-09-23-tse-stray-dogs-review",
       "published_at": "2026-09-23T11:16:00+08:00",
@@ -1753,28 +1817,6 @@
       "zh": {
         "headline": "統計處籲提防偽冒人口普查網站",
         "dek": "政府統計處指有虛假網址及冒認電郵短訊流傳，已交警方跟進；正式聯絡只會顯示18 2026或發送人「#C&SD」。"
-      }
-    },
-    {
-      "id": "2026-09-20-lifestyle-cultural-centre-bunnies",
-      "published_at": "2026-09-20T11:16:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "tsim-sha-tsui",
-        "lanterns"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-lifestyle-cultural-centre-bunnies.json",
-      "en": {
-        "headline": "Moonlit Bunny Crew lights Cultural Centre piazza until October",
-        "dek": "The LCSD Mid-Autumn installation by local studio STICKYLINE runs from 17 September to 11 October, switched on each evening from 6.30pm."
-      },
-      "zh": {
-        "headline": "文化中心露天廣場「月影兔攝隊」亮燈至十月",
-        "dek": "康文署社區節目辦事處指裝置由本地團隊STICKYLINE設計，9月17日至10月11日展出，每晚6時半亮燈。"
       }
     }
   ]
