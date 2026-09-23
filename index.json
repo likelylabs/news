@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-24T07:12:12+08:00",
+  "generated_at": "2026-09-24T07:13:20+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-09-24-lifestyle-pok-fu-lam-fire-dragon",
+      "published_at": "2026-09-24T07:16:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "pok-fu-lam",
+        "fire-dragon",
+        "heritage"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-lifestyle-pok-fu-lam-fire-dragon.json",
+      "en": {
+        "headline": "Pok Fu Lam fire dragon parade set for Mid-Autumn night",
+        "dek": "Villagers will carry a straw-and-bamboo dragon through Pok Fu Lam Village and Wah Fu on Friday evening, ending with the traditional return-to-the-sea rite at Waterfall Bay Park."
+      },
+      "zh": {
+        "headline": "薄扶林村中秋火龍周五夜巡遊至瀑布灣",
+        "dek": "薄扶林村火龍會周五傍晚6時半至午夜在村內、華富及瀑布灣公園舞火龍，最後舉行「龍歸滄海」，免費觀賞。"
+      }
+    },
+    {
+      "id": "2026-09-24-civil-service-family-leave",
+      "published_at": "2026-09-24T07:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "civil-service",
+        "labour",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-civil-service-family-leave.json",
+      "en": {
+        "headline": "Government leans toward 10 to 12 hours of civil service family leave",
+        "dek": "Secretary for the Civil Service Ingrid Yeung Ho Poi-yan said the planned hourly leave is meant for sudden family needs and that applications should be simple, with a final figure still to be set."
+      },
+      "zh": {
+        "headline": "公僕照顧家庭假傾向每年10至12小時",
+        "dek": "公務員事務局局長楊何蓓茵在立法會表示，假期旨在應付突發家事，申請程序擬從簡，確實時數仍未定案，預計明年推出。"
+      }
+    },
     {
       "id": "2026-09-24-tst-illegal-medical-botox-arrest",
       "published_at": "2026-09-24T07:14:00+08:00",
