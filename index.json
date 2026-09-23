@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-24T00:26:47+08:00",
+  "generated_at": "2026-09-24T01:36:35+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-09-24-tung-chung-concrete-samples-pass",
+      "published_at": "2026-09-24T01:42:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "tung-chung",
+        "public-housing",
+        "construction"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-tung-chung-concrete-samples-pass.json",
+      "en": {
+        "headline": "New batch of Tung Chung public housing concrete cores all meet strength standards",
+        "dek": "Housing Department said 36 further core samples from the affected blocks tested 26 to 83 percent above the required strength, bringing the verified share to 67 percent."
+      },
+      "zh": {
+        "headline": "東涌公屋新一批混凝土芯樣本全部達標",
+        "dek": "房屋署公布再有36個芯樣強度高出標準26%至83%，累計已測67%樣本合格，餘下結果預計周五出爐。"
+      }
+    },
+    {
+      "id": "2026-09-24-west-kowloon-signal-flares",
+      "published_at": "2026-09-24T01:41:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "west-kowloon",
+        "high-speed-rail",
+        "explosives"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-west-kowloon-signal-flares.json",
+      "en": {
+        "headline": "Mainland man arrested with five signal flares at West Kowloon station",
+        "dek": "A 49-year-old dual-permit holder was detained after security screening found the items in his luggage; he is being held on suspicion of manufacturing or possessing explosives."
+      },
+      "zh": {
+        "headline": "西九高鐵站內地男藏五枚信號彈被捕",
+        "dek": "49歲持雙程證男子下午安檢時被揭行李藏有懷疑信號彈，涉製造或管有炸藥被扣查。"
+      }
+    },
+    {
+      "id": "2026-09-24-sports-drinks-no-tampering",
+      "published_at": "2026-09-24T01:40:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "kwun-tong",
+        "students",
+        "food-safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-sports-drinks-no-tampering.json",
+      "en": {
+        "headline": "Police find no tampering in sports drinks after students fell ill",
+        "dek": "Tests showed no foreign or toxic substances in the free bottles handed out near a Kwun Tong school athletics meet; the reported pinholes were design features of the packaging."
+      },
+      "zh": {
+        "headline": "學生飲免費運動飲品不適 警方指無發現遭人破壞",
+        "dek": "東九龍總區刑事總部表示，化驗結果無異常物質，包裝上的「針孔」實為易撕線設計，冰水積聚後按壓會滲出。"
+      }
+    },
     {
       "id": "2026-09-24-lifestyle-victoria-park-lantern-extension",
       "published_at": "2026-09-24T00:26:00+08:00",
@@ -1863,52 +1929,6 @@
       "zh": {
         "headline": "秋季家居博覽周四會展開鑼 展出中俄元首用瓷",
         "dek": "9月24至27日於會展舉行，逾600家展商涵蓋建材、智能家居及室內設計，另有國宴瓷系列公開展出。"
-      }
-    },
-    {
-      "id": "2026-09-21-lifestyle-tai-hang-fire-dragon",
-      "published_at": "2026-09-21T01:17:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "tai-hang",
-        "fire-dragon",
-        "tradition"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-lifestyle-tai-hang-fire-dragon.json",
-      "en": {
-        "headline": "Tai Hang Fire Dragon Dance returns this week for Mid-Autumn",
-        "dek": "The 67-metre incense-lit dragon will parade through Tai Hang streets from 24 to 26 September, with live broadcasts and a gala night on the festival day itself."
-      },
-      "zh": {
-        "headline": "大坑舞火龍本周上演 中秋三晚巡遊",
-        "dek": "67米長香火龍將於9月24至26日在大坑街巷巡遊，中秋正日另有晚會及直播安排。"
-      }
-    },
-    {
-      "id": "2026-09-21-customs-infringing-jewellery-jgw",
-      "published_at": "2026-09-21T01:16:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "copyright",
-        "jewellery",
-        "exhibition",
-        "wan-chai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-customs-infringing-jewellery-jgw.json",
-      "en": {
-        "headline": "Customs seizes suspected infringing jewellery worth HK$160,000 at Wan Chai fair",
-        "dek": "Officers arrested a man and a woman after finding about 27 items at a booth of the Jewellery & Gem World Hong Kong September exhibition and a related company in Hung Hom."
-      },
-      "zh": {
-        "headline": "海關會展檢獲約16萬元懷疑侵權首飾 拘兩男女",
-        "dek": "關員於灣仔會展「九月香港珠寶首飾展覽會」攤位及紅磡相關公司檢獲約27件懷疑侵權首飾，包括耳環、手鐲及頸鏈。"
       }
     }
   ]
