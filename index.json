@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-09-23T09:08:07+08:00",
+  "generated_at": "2026-09-23T11:15:28+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-09-23-tse-stray-dogs-review",
+      "published_at": "2026-09-23T11:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "yuen-long",
+        "afcd",
+        "animals",
+        "government",
+        "public-safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-tse-stray-dogs-review.json",
+      "en": {
+        "headline": "Minister to review stray-dog feeding rules and abandonment penalties",
+        "dek": "Environment chief Tse Chin-wan told lawmakers three of five dogs caught after the Yuen Long fatality were microchipped, and said owners cannot simply abandon animals."
+      },
+      "zh": {
+        "headline": "謝展寰：將檢視饋飼流浪狗及執法 考慮加強棄養罰則",
+        "dek": "環境及生態局局長在立法會簡報會表示，元朗事件後捕獲五隻狗當中三隻有晶片，反映狗主不能隨便棄養，年底前回立法會交代修例。"
+      }
+    },
     {
       "id": "2026-09-23-lifestyle-national-day-cinema",
       "published_at": "2026-09-23T09:09:00+08:00",
@@ -1752,180 +1775,6 @@
       "zh": {
         "headline": "文化中心露天廣場「月影兔攝隊」亮燈至十月",
         "dek": "康文署社區節目辦事處指裝置由本地團隊STICKYLINE設計，9月17日至10月11日展出，每晚6時半亮燈。"
-      }
-    },
-    {
-      "id": "2026-09-20-yuen-long-wounding-arrest",
-      "published_at": "2026-09-20T11:15:00+08:00",
-      "updated_at": "2026-09-20T11:18:00+08:00",
-      "category": "crime",
-      "tags": [
-        "yuen-long",
-        "police",
-        "wounding"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-yuen-long-wounding-arrest.json",
-      "en": {
-        "headline": "Man, 30, arrested after Yuen Long street slashing",
-        "dek": "Police detained a local man in Sheung Shui on Saturday over Friday night's attack on a woman outside a school in Fung Nin Road."
-      },
-      "zh": {
-        "headline": "元朗豐年路斬人案 警在上水拘30歲男子",
-        "dek": "31歲女子周五晚在商會中學對開遭利器襲擊，左手臂受傷；男子涉嫌傷人，現正被扣留調查。"
-      }
-    },
-    {
-      "id": "2026-09-20-yuen-long-cyclist-death",
-      "published_at": "2026-09-20T11:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "yuen-long",
-        "police",
-        "traffic-accident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-yuen-long-cyclist-death.json",
-      "en": {
-        "headline": "Woman found beside share bike in Yuen Long dies in hospital",
-        "dek": "Police are investigating whether she crashed while riding alone or was involved in another incident after a passer-by raised the alarm just after midnight."
-      },
-      "zh": {
-        "headline": "元朗女子倒卧共享單車旁送院不治",
-        "dek": "途人凌晨在壩圍南路報案，警方調查事主是否獨自踩單車失控，抑或涉及其他事故。"
-      }
-    },
-    {
-      "id": "2026-09-20-tung-state-funeral-held",
-      "published_at": "2026-09-20T11:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tung-chee-hwa",
-        "state-funeral",
-        "north-point",
-        "mourning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-tung-state-funeral-held.json",
-      "en": {
-        "headline": "Flag-draped coffin leaves North Point after Tung state funeral",
-        "dek": "The public memorial began at 9am at Hong Kong Funeral Home; John Lee was among the pallbearers as the hearse departed at 10.13am."
-      },
-      "zh": {
-        "headline": "董建華國葬完成 國旗覆蓋靈柴離開北角",
-        "dek": "公祭大殓今早九時在北角香港殮儀館福海堂舉行，李家超等扶靈，靈車約十時十三分離開。"
-      }
-    },
-    {
-      "id": "2026-09-20-lifestyle-jccac-lanterns",
-      "published_at": "2026-09-20T09:25:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "shek-kip-mei",
-        "lanterns",
-        "jccac"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-lifestyle-jccac-lanterns.json",
-      "en": {
-        "headline": "Shek Kip Mei art village hangs 100 hand-painted Mid-Autumn lanterns",
-        "dek": "JCCAC's courtyard display runs until 27 September, lighting up from 6pm, with lantern riddles and a retro photo set on the second-floor terrace."
-      },
-      "zh": {
-        "headline": "石硜尾藝術村掛起百盎手繪中秋燈籠",
-        "dek": "賽馬會創意藝術中心庭園展出至9月27日，每晚6時亮燈，並設燈謎及二樓懷舊酒吧佈景，免費參觀。"
-      }
-    },
-    {
-      "id": "2026-09-20-tang-huanggang-border-hours",
-      "published_at": "2026-09-20T09:24:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "huanggang",
-        "border",
-        "security-bureau",
-        "cross-boundary"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-tang-huanggang-border-hours.json",
-      "en": {
-        "headline": "Tang says Huanggang systems still being tuned, border hours under talks",
-        "dek": "The security chief said computer and camera adjustments are under way at the rebuilt port, and Hong Kong is discussing longer land-crossing hours with the mainland."
-      },
-      "zh": {
-        "headline": "鄧炳強：新皇崗口岸仍在調校系統 正商延長陸路通關",
-        "dek": "保安局局長表示演練整體暢順，人面識別鏡頭及五合一車道仍須微調；陸路口岸延長服務時間正與內地商討。"
-      }
-    },
-    {
-      "id": "2026-09-20-tolo-highway-tyre-punctures",
-      "published_at": "2026-09-20T09:23:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic",
-        "police",
-        "tai-po",
-        "tolo-highway"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-tolo-highway-tyre-punctures.json",
-      "en": {
-        "headline": "Metal debris on Tolo Highway punctures more than 10 cars",
-        "dek": "Police took reports from Saturday evening after drivers heading towards Sheung Shui hit objects near the Tai Po South exit. No one was hurt."
-      },
-      "zh": {
-        "headline": "吐露港公路疑有金屬物 十多車爆胎無人傷",
-        "dek": "周六晚約8時起，往上水方向近大埔南出口有多輛車輪胎被硬物刺穿，現場一度出現車龍。"
-      }
-    },
-    {
-      "id": "2026-09-20-pig-trucks-overturn",
-      "published_at": "2026-09-20T09:22:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic-accident",
-        "police",
-        "fanling",
-        "yau-ma-tei"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-pig-trucks-overturn.json",
-      "en": {
-        "headline": "Two pig-transport trucks overturn within four hours",
-        "dek": "A 55-year-old driver was slightly hurt on Fanling Highway before a second truck flipped at Nathan Road in Yau Ma Tei."
-      },
-      "zh": {
-        "headline": "四小時內兩運豬車翻側 粉嶺公路司機輕傷",
-        "dek": "粉嶺公路近康樂園一車翻側，55歲司機右手輕傷；其後油麻地彌敦道再有同類貨車撞欄翻側。"
-      }
-    },
-    {
-      "id": "2026-09-20-very-hot-weather-warning",
-      "published_at": "2026-09-20T09:21:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "observatory",
-        "heat",
-        "very-hot-weather"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-very-hot-weather-warning.json",
-      "en": {
-        "headline": "Very Hot Weather Warning issued as Sunday peaks near 33C",
-        "dek": "The Observatory posted the warning at 7:30am, saying very hot weather is expected and urging people to watch for heat stroke."
-      },
-      "zh": {
-        "headline": "天文台今早發出酷熱天氣警告 市區料高見33度",
-        "dek": "警告於上午7時30分發出，預料今日天氣酷熱，市民須慎防中暑；黃色火災危險警告仍然生效。"
       }
     }
   ]
