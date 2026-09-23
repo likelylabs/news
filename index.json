@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-24T07:01:33+08:00",
+  "generated_at": "2026-09-24T07:12:12+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-09-24-tst-illegal-medical-botox-arrest",
+      "published_at": "2026-09-24T07:14:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "tsim-sha-tsui",
+        "health",
+        "court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-tst-illegal-medical-botox-arrest.json",
+      "en": {
+        "headline": "Man arrested after woman treated for suspected botulinum poisoning",
+        "dek": "A 41-year-old man was held in Tsim Sha Tsui on suspicion of practising medicine illegally and possessing Part I poisons after a 35-year-old woman fell ill following a facial injection."
+      },
+      "zh": {
+        "headline": "尖沙嘴女子注射肉毒後不適 41歲男涉非法行醫被捕",
+        "dek": "警方聯同衞生署在尖沙嘴拘捕一名譚姓男子，涉嫌非法行醫及管有第一部毒藥，檢獲五盒藥劑，已准保釋候查。"
+      }
+    },
+    {
+      "id": "2026-09-24-yuen-long-dog-activist-charged",
+      "published_at": "2026-09-24T07:13:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "yuen-long",
+        "stray-dogs",
+        "animals",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-yuen-long-dog-activist-charged.json",
+      "en": {
+        "headline": "Animal activist charged after microchipped dog seized in Yuen Long hunt",
+        "dek": "Kent Luk, founder of Paws Guardian Rescue Shelter, faces allegations of failing to control a dog and keeping an expired licence after an eight-dog sweep near a fatal suspected attack."
+      },
+      "zh": {
+        "headline": "元朗捕狗行動再獲三犬 動保義工被控疎於看管",
+        "dek": "漁護署聯同警方第四日行動後累計扣留八隻唐狗；毛守救援創辦人陸家捷稱其名下晶片登記犬被控沒有妥善管控及過期狗牌。"
+      }
+    },
+    {
+      "id": "2026-09-24-national-day-golden-week-visitors",
+      "published_at": "2026-09-24T07:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tourism",
+        "national-day",
+        "immigration",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-national-day-golden-week-visitors.json",
+      "en": {
+        "headline": "Hong Kong expects 1.29 million mainland visitors over National Day week",
+        "dek": "The Immigration Department forecasts more than a 5 percent rise in daily arrivals from 1 to 7 October, with 1,180 tour groups also expected, officials said after a coordination meeting."
+      },
+      "zh": {
+        "headline": "入境處料國慶黃金周約129萬內地旅客訪港",
+        "dek": "當局預計10月1日至7日每日平均訪港人次較去年同期升逾5%，另有約1180個旅行團入境，政務司司長已主持跨部門會議統籌接待。"
+      }
+    },
     {
       "id": "2026-09-24-tung-chung-concrete-samples-pass",
       "published_at": "2026-09-24T01:42:00+08:00",
