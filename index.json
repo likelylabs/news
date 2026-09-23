@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-09-23T13:10:05+08:00",
+  "generated_at": "2026-09-23T15:25:10+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-09-23-juvenile-arrests-h1-2026",
+      "published_at": "2026-09-23T15:27:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "youth",
+        "crime-prevention"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-juvenile-arrests-h1-2026.json",
+      "en": {
+        "headline": "Juvenile arrests up 20 percent in first half of 2026, police say",
+        "dek": "Commissioner Joe Chow reported 1,580 young people aged 10 to 20 arrested from January to June, with sharp rises in serious assault and criminal damage cases linked to debt collection."
+      },
+      "zh": {
+        "headline": "上半年青少年被捕人數升兩成 警推刊物助師長預防",
+        "dek": "警務處處長周一鳴表示，今年1至6月共拘捕1580名10至20歲青少年，較去年同期升約兩成，傷人及刑事毀壞案升幅顯著。"
+      }
+    },
+    {
+      "id": "2026-09-23-qmh-lift-engineer-sentence",
+      "published_at": "2026-09-23T15:26:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "queen-mary-hospital",
+        "lifts",
+        "safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-qmh-lift-engineer-sentence.json",
+      "en": {
+        "headline": "Lift engineer given 160 hours community service over Queen Mary defects",
+        "dek": "Law Wing-chai, 54, was sentenced at Eastern Court for improperly issuing safety certificates and submitting misleading documents after 24 lifts in the new clinical block were found defective."
+      },
+      "zh": {
+        "headline": "瑪麗醫院升降機工程師不當發安全證書 判社服160小時",
+        "dek": "羅永齊在東區裁判法院被裁定不當地發出安全證書及提交具誤導性文件罪成，判160小時社會服務令。新大樓28部升降機中有24部曾出現嚴重故障。"
+      }
+    },
+    {
+      "id": "2026-09-23-tin-shui-wai-school-bus-taxi",
+      "published_at": "2026-09-23T15:25:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "tin-shui-wai",
+        "traffic",
+        "school-bus",
+        "accident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-tin-shui-wai-school-bus-taxi.json",
+      "en": {
+        "headline": "Eight pupils sent to hospital after school bus hits taxi in Tin Shui Wai",
+        "dek": "A nanny van carrying Tin Shui Wai Government Primary School pupils collided with a taxi on Tin Shui Road near Tin Chak Estate; all injuries were reported as minor."
+      },
+      "zh": {
+        "headline": "天水圍校巴與的士相撞 八學童不適送院",
+        "dek": "天水圍官立小學保母車今早在天瑞路與的士輕微碰撞，八名學童其後表示不適，全部送往天水圍醫院檢查，傷勢輕微。"
+      }
+    },
     {
       "id": "2026-09-23-zhao-coach-bond",
       "published_at": "2026-09-23T13:16:00+08:00",
@@ -1821,91 +1886,6 @@
       "zh": {
         "headline": "元朗女子踩單車疑遭野狗襲擊身亡 警聯同漁護署捉狗",
         "dek": "27歲女子凌晨在壆圍南路倒卧不治，閉路電視顯示她曾被約三隻狗追趕，頭頸有致命咬傷，警方正與漁護署合作捕捉涉事犬隻。"
-      }
-    },
-    {
-      "id": "2026-09-20-paul-chan-five-year-plan-certainty",
-      "published_at": "2026-09-20T15:07:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "five-year-plan",
-        "paul-chan",
-        "economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-paul-chan-five-year-plan-certainty.json",
-      "en": {
-        "headline": "Paul Chan says five-year plan gives firms longer-term investment certainty",
-        "dek": "The financial secretary wrote that the blueprint's targets and timelines help businesses align decisions with government goals amid a volatile external environment."
-      },
-      "zh": {
-        "headline": "陳茂波：五年規劃為企業提供更長遠投資確定性",
-        "dek": "財政司司長在周日網誌指，規劃的目標及時間表有助企業在外部環境波動下，與政府方向對齊投資決定。"
-      }
-    },
-    {
-      "id": "2026-09-20-grace-lau-asian-games-silver",
-      "published_at": "2026-09-20T15:06:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "karate",
-        "grace-lau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-grace-lau-asian-games-silver.json",
-      "en": {
-        "headline": "Grace Lau wins Hong Kong's first Asian Games medal with karate silver",
-        "dek": "The world number one took silver in the women's individual kata final in Nagoya after a 0-5 defeat by Japan's Maho Ono, upgrading her previous two bronzes."
-      },
-      "zh": {
-        "headline": "劉慕裳空手道個人形奪銀 香港亞運首面獎牌",
-        "dek": "世界排名第一的劉慕裳在名古屋亞運會女子個人形決賽以0比5不敵日本選手小野真步，為香港帶來本屆亞運首面獎牌。"
-      }
-    },
-    {
-      "id": "2026-09-20-workweek-weather-outlook",
-      "published_at": "2026-09-20T15:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "observatory",
-        "forecast",
-        "workweek"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-workweek-weather-outlook.json",
-      "en": {
-        "headline": "Work week set for mainly cloudy days with showers and milder heat",
-        "dek": "The Hong Kong Observatory expects a few showers and isolated thunderstorms early in the week, with temperatures generally between 27 and 31 degrees and sunny intervals at times."
-      },
-      "zh": {
-        "headline": "未來工作天大致多雲有驟雨 氣溫回落至27至31度",
-        "dek": "天文台預料本週初有幾陣驟雨及局部雷暴，日間短暫有陽光，氣溫普遍介乎27至31度，星期三起天色漸轉好。"
-      }
-    },
-    {
-      "id": "2026-09-20-census-fake-website-warning",
-      "published_at": "2026-09-20T13:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "census",
-        "scam",
-        "statistics-department",
-        "fraud"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-20/2026-09-20-census-fake-website-warning.json",
-      "en": {
-        "headline": "Census office warns of fake population census website",
-        "dek": "The Census and Statistics Department said a fraudulent site is circulating and has referred the matter to police; genuine contacts use only the 18 2026 hotline."
-      },
-      "zh": {
-        "headline": "統計處籲提防偽冒人口普查網站",
-        "dek": "政府統計處指有虛假網址及冒認電郵短訊流傳，已交警方跟進；正式聯絡只會顯示18 2026或發送人「#C&SD」。"
       }
     }
   ]
