@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T00:26:47+08:00",
+  "updated_at": "2026-09-24T01:43:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -187,6 +187,24 @@
       "id": "2026-09-24-lifestyle-victoria-park-lantern-extension",
       "first_seen": "2026-09-24T00:26:00+08:00",
       "headline_en": "Victoria Park Mid-Autumn lantern displays extended to 4 October"
+    },
+    {
+      "key": "sports-drinks-no-tampering-sep23",
+      "id": "2026-09-24-sports-drinks-no-tampering",
+      "first_seen": "2026-09-24T01:40:00+08:00",
+      "headline_en": "Police find no tampering in sports drinks after students fell ill"
+    },
+    {
+      "key": "west-kowloon-signal-flares-sep23",
+      "id": "2026-09-24-west-kowloon-signal-flares",
+      "first_seen": "2026-09-24T01:41:00+08:00",
+      "headline_en": "Mainland man arrested with five signal flares at West Kowloon station"
+    },
+    {
+      "key": "tung-chung-concrete-samples-update-sep23",
+      "id": "2026-09-24-tung-chung-concrete-samples-pass",
+      "first_seen": "2026-09-24T01:42:00+08:00",
+      "headline_en": "New batch of Tung Chung public housing concrete cores all meet strength standards"
     }
   ]
 }
