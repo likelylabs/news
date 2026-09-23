@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T17:08:15+08:00",
+  "updated_at": "2026-09-23T19:34:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -163,6 +163,24 @@
       "id": "2026-09-23-tuen-mun-stray-dogs-car-damage",
       "first_seen": "2026-09-23T17:08:00+08:00",
       "headline_en": "Four stray dogs tear bumper from parked car in Tuen Mun"
+    },
+    {
+      "key": "natalie-kan-100m-fly-bronze-ag2026",
+      "id": "2026-09-23-natalie-kan-100m-fly-bronze",
+      "first_seen": "2026-09-23T19:32:00+08:00",
+      "headline_en": "Natalie Kan takes Asian Games 100m butterfly bronze and Hong Kong record"
+    },
+    {
+      "key": "housing-supervisor-illegal-betting-sep23",
+      "id": "2026-09-23-housing-supervisor-illegal-betting",
+      "first_seen": "2026-09-23T19:33:00+08:00",
+      "headline_en": "Housing supervisor charged over HK$500,000 illegal online football bets"
+    },
+    {
+      "key": "hkgai-hklearn-launch-sep23",
+      "id": "2026-09-23-hkgai-hklearn-launch",
+      "first_seen": "2026-09-23T19:34:00+08:00",
+      "headline_en": "HKGAI launches AI teaching assistant HKLearn at HKUST"
     }
   ]
 }

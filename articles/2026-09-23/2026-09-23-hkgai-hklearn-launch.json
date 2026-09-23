@@ -1,0 +1,27 @@
+{
+  "id": "2026-09-23-hkgai-hklearn-launch",
+  "published_at": "2026-09-23T19:34:00+08:00",
+  "category": "technology",
+  "tags": ["ai", "education", "hkust", "hkgai"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "hkgai-hklearn-launch-sep23",
+  "en": {
+    "headline": "HKGAI launches AI teaching assistant HKLearn at HKUST",
+    "dek": "The locally developed platform, powered by HKGAI V3, has drawn more than 3,000 student registrations and over 240,000 uploaded learning materials since going live.",
+    "body": [
+      "The Hong Kong Generative AI Research and Development Centre has launched HKLearn, an artificial-intelligence teaching and learning assistant driven by its HKGAI V3 large language model, with the Hong Kong University of Science and Technology as the first campus to deploy it under the name HKUST Teaching Agent.",
+      "The centre said more than 3,000 students had registered and had uploaded over 240,000 learning materials. The platform can connect to mainstream learning management systems such as Canvas, automatically syncing course outlines, lecture notes and readings once a student grants permission. It supports multimodal files including PDFs, Word documents, PowerPoint slides, images and audio-visual content.",
+      "Students can ask questions while reading materials and receive answers that cite and locate the relevant pages, aiming to improve traceability and reduce hallucination risk. The system can also generate quizzes, flashcards, mind maps, summaries and podcasts from uploaded content. Usage data is intended to help teachers understand learning patterns and refine course design."
+    ]
+  },
+  "zh": {
+    "headline": "港產AI教學助理HKLearn上線 科大率先啟用",
+    "dek": "由HKGAI V3驅動的平台已吸引逾3,000名學生註冊，累計上載超過24萬份學習資料。",
+    "body": [
+      "香港生成式人工智能研發中心推出由HKGAI V3大模型驅動的人工智能教學及學習助理「HKLearn」，香港科技大學成為首站，專屬版本名為「HKUST Teaching Agent」。",
+      "中心表示，平台推出以來已有逾3,000名學生註冊，累計上載超過24萬份學習資料。系統可與Canvas等主流學習管理系統對接，學生授權後自動同步課程大綱、講義及閱讀材料。平台支援PDF、Word、PPT、圖片及影音等多種格式。",
+      "學生可一邊閱讀教材一邊提問，系統會標註並定位至相應頁面，方便核對來源。平台亦可把教材轉化為測驗、記憶卡、思維導圖、摘要及播客等溫習工具。系統會記錄提問及使用情況，日後可向教師提供教學數據分析，協助優化課程。"
+    ]
+  }
+}
