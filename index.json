@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-23T15:25:10+08:00",
+  "generated_at": "2026-09-23T17:08:15+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-09-23-tuen-mun-stray-dogs-car-damage",
+      "published_at": "2026-09-23T17:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "tuen-mun",
+        "animals",
+        "stray-dogs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-tuen-mun-stray-dogs-car-damage.json",
+      "en": {
+        "headline": "Four stray dogs tear bumper from parked car in Tuen Mun",
+        "dek": "Video circulating online showed a yellow dog wrenching off part of a white private car's front bumper outside Fu Shing Street before officers arrived and the animals fled."
+      },
+      "zh": {
+        "headline": "屯門四流浪狗扯斷私家車車頭泵把",
+        "dek": "網上片段顯示黃狗用力拉扯白色私家車車頭泵把，另有狗隻擂上車頭；警方凌晨接報後列作流浪動物處理。"
+      }
+    },
+    {
+      "id": "2026-09-23-tsang-yee-ting-karate-silver",
+      "published_at": "2026-09-23T17:07:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "karate",
+        "asian-games",
+        "tsang-yee-ting"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-tsang-yee-ting-karate-silver.json",
+      "en": {
+        "headline": "Tsang Yee-ting takes Asian Games karate silver in -50kg kumite",
+        "dek": "The Hong Kong fighter finished runner-up to Malaysia's Shahmalarani Chandran after a scoreless final decided by judges at Toyohashi Gymnasium on Wednesday."
+      },
+      "zh": {
+        "headline": "曾綺婷亞運空手道女子組手50公斤級奪銀",
+        "dek": "港隊選手周三於豐橋市綜合體育館決賽0比0不敵馬來西亞對手，以裁判判定屈居亞軍，為港隊本屆亞運空手道第五面獎牌。"
+      }
+    },
+    {
+      "id": "2026-09-23-kam-tin-concrete-truck-fatal",
+      "published_at": "2026-09-23T17:06:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "yuen-long",
+        "traffic",
+        "accident",
+        "fatal"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-23/2026-09-23-kam-tin-concrete-truck-fatal.json",
+      "en": {
+        "headline": "Woman, 63, dies after concrete mixer hits pedestrian in Kam Tin",
+        "dek": "The victim, struck on Kam Tin Road near Ko Po Tsuen at about 8.30am, was taken first to Pok Oi Hospital and later to Tuen Mun Hospital, where she was certified dead in the early afternoon."
+      },
+      "zh": {
+        "headline": "錦田公路混凝土車撞斃六旬婦 下午不治",
+        "dek": "63歲女子今早約7時半在錦田公路近高埔村被運載混凝土重型貨車撞倒，先送博愛醫院再轉屯門醫院，下午約1時39分不治。"
+      }
+    },
     {
       "id": "2026-09-23-juvenile-arrests-h1-2026",
       "published_at": "2026-09-23T15:27:00+08:00",
