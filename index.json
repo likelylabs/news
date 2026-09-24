@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-09-24T17:13:45+08:00",
+  "generated_at": "2026-09-24T19:17:55+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 94,
   "articles": [
+    {
+      "id": "2026-09-24-august-exports-53pct",
+      "published_at": "2026-09-24T19:18:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "trade",
+        "exports",
+        "economy",
+        "ai",
+        "statistics"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-august-exports-53pct.json",
+      "en": {
+        "headline": "Hong Kong August exports rise 53 percent, second highest on record",
+        "dek": "The value of total exports reached HK$667.9 billion, driven by strong demand for AI-related electronic products, while imports climbed 60 percent."
+      },
+      "zh": {
+        "headline": "本港8月出口升53% 連升30個月 進口急升60%",
+        "dek": "整體出口貨值達6679億元，為有紀錄以來第二高，受人工智能相關電子產品需求帶動；進口升60%。"
+      }
+    },
+    {
+      "id": "2026-09-24-interpol-ct-exercise",
+      "published_at": "2026-09-24T19:17:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "security",
+        "interpol",
+        "counter-terrorism",
+        "exercise"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-interpol-ct-exercise.json",
+      "en": {
+        "headline": "Police hold major inter-departmental exercise for Interpol General Assembly",
+        "dek": "About 3,000 personnel took part in drills at the Convention and Exhibition Centre, Victoria Harbour and West Kowloon, including a simulated biochemical attack scenario."
+      },
+      "zh": {
+        "headline": "警務處聯同多部門反恐演習 為國際刑警大會作準備",
+        "dek": "約3000人參與在會展、維港及西九龍一帶的跨部門綜合演習，模擬疑似生化恐怖襲擊等情境。"
+      }
+    },
+    {
+      "id": "2026-09-24-fwd-ia-aml-fine",
+      "published_at": "2026-09-24T19:16:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "finance",
+        "insurance",
+        "aml",
+        "fwd",
+        "regulation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-fwd-ia-aml-fine.json",
+      "en": {
+        "headline": "Insurance Authority fines FWD Life HK$19.5 million over AML controls",
+        "dek": "The regulator found deficiencies in identifying third-party payers, handling potentially suspicious transactions, screening politically exposed persons and conducting customer due diligence."
+      },
+      "zh": {
+        "headline": "保監局罰富衛人壽1950萬元 涉打擊洗錢管控不足",
+        "dek": "保監局實地查察後發現公司在識別第三方付款人、處理可疑交易、篩查政治人物及客戶盡職審查方面存在不足。"
+      }
+    },
+    {
+      "id": "2026-09-24-fanling-golf-course-no-appeal",
+      "published_at": "2026-09-24T19:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "housing",
+        "fanling",
+        "environment",
+        "court",
+        "golf-course"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-fanling-golf-course-no-appeal.json",
+      "en": {
+        "headline": "Government will not appeal court ruling on Fanling golf course housing EIA",
+        "dek": "Authorities said they decided against further appeal after reviewing legal advice on the Court of Appeal judgment that upheld the quashing of environmental approval for 12,000 public flats."
+      },
+      "zh": {
+        "headline": "政府決定不就粉嶺高球場房屋環評判決再上訴",
+        "dek": "政府經考慮法律意見後決定不上訴，上訴庭早前維持原訟庭裁決，撤銷環保署對約1.2萬伙公營房屋項目環評報告的批准。"
+      }
+    },
     {
       "id": "2026-09-24-chinaamc-three-etfs",
       "published_at": "2026-09-24T17:22:00+08:00",
@@ -1977,50 +2069,6 @@
       "zh": {
         "headline": "何詩蓓成功衛冕亞運200米自由泳金牌",
         "dek": "港將以1分54秒96衛冕女子200米自由泳金牌，何甄陶則奪男子50米自由泳銀牌。"
-      }
-    },
-    {
-      "id": "2026-09-21-1823-optimisation-cheuk",
-      "published_at": "2026-09-21T17:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "1823",
-        "government-services",
-        "cheuk-wing-hing",
-        "policy-address"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-1823-optimisation-cheuk.json",
-      "en": {
-        "headline": "Cheuk says 1823 upgrades to take effect in first quarter of 2027",
-        "dek": "The Deputy Chief Secretary said artificial intelligence will analyse repeated complaints so problems can be tackled proactively without waiting for reports."
-      },
-      "zh": {
-        "headline": "卓永興：1823優化措施明年首季落實",
-        "dek": "政務司副司長表示將以人工智能分析重覆問題，冀做到無需投訴亦可主動處理。"
-      }
-    },
-    {
-      "id": "2026-09-21-taxi-ride-hailing-test-applicants",
-      "published_at": "2026-09-21T17:14:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "taxi",
-        "ride-hailing",
-        "transport-department",
-        "mable-chan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-taxi-ride-hailing-test-applicants.json",
-      "en": {
-        "headline": "Over 11,000 apply for taxi and ride-hailing driver test",
-        "dek": "Transport Secretary Mable Chan said the response exceeded expectations, with the Transport Department arranging tests within two months for applicants."
-      },
-      "zh": {
-        "headline": "的士及網約車綜合筆試逾1.1萬人報考",
-        "dek": "運輸及物流局局長陳美寶表示報考人數超符預期，運輸署會在最多兩個月內為申請人安排考試。"
       }
     }
   ]
