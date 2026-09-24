@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-24T13:19:23+08:00",
+  "generated_at": "2026-09-24T15:13:05+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 94,
   "articles": [
+    {
+      "id": "2026-09-24-lifestyle-heritage-tour-northern-metropolis",
+      "published_at": "2026-09-24T15:16:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "heritage",
+        "northern-metropolis",
+        "exhibition",
+        "guided-tour"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-lifestyle-heritage-tour-northern-metropolis.json",
+      "en": {
+        "headline": "2026 Heritage Tour focuses on Northern Metropolis historic buildings",
+        "dek": "The Antiquities and Monuments Office’s annual programme will run from October to December with free guided tours, a travelling exhibition and stamp-collecting activities centred on sites in the northern New Territories."
+      },
+      "zh": {
+        "headline": "2026古蹟周遊樂十月展開 聚焦北都歷史建築",
+        "dek": "發展局文物保育專員辦事處公布，本年度活動以「穿越北都」為主題，10月至12月舉行，提供免費導賞團、巡迴展覽及集印活動，介紹新界北部多座法定古蹟及已評級歷史建築。"
+      }
+    },
+    {
+      "id": "2026-09-24-tst-bar-body-disposal",
+      "published_at": "2026-09-24T15:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "tsim-sha-tsui",
+        "drugs",
+        "court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-tst-bar-body-disposal.json",
+      "en": {
+        "headline": "Bar staff charged after man found dead on Tsim Sha Tsui street",
+        "dek": "A 28-year-old staff member was arrested for illegally handling a corpse after police say he and a woman moved a 48-year-old man from a bar toilet and left him on a chair outside."
+      },
+      "zh": {
+        "headline": "尖沙咀酒吧男子倒斃街頭 職員涉非法搬移屍體被捕",
+        "dek": "警方凌晨接報發現48歲男子坐在河內道商廈外椅上已死，28歲酒吧職員承認與女子合力將人從廁所抬出，現被控非法搬移屍體，警方正追緝涉案女子。"
+      }
+    },
     {
       "id": "2026-09-24-deloitte-ipo-forecast-4800",
       "published_at": "2026-09-24T13:22:00+08:00",
