@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T09:19:54+08:00",
+  "updated_at": "2026-09-24T09:29:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -235,6 +235,30 @@
       "id": "2026-09-24-lifestyle-pok-fu-lam-fire-dragon",
       "first_seen": "2026-09-24T07:16:00+08:00",
       "headline_en": "Pok Fu Lam fire dragon parade set for Mid-Autumn night"
+    },
+    {
+      "key": "jll-greti-2026-hk-rank",
+      "id": "2026-09-24-jll-property-transparency-index",
+      "first_seen": "2026-09-24T09:26:00+08:00",
+      "headline_en": "Hong Kong ranks 14th in global property transparency index"
+    },
+    {
+      "key": "child-abuse-aca-briefing-sep23",
+      "id": "2026-09-24-child-abuse-cases-rise",
+      "first_seen": "2026-09-24T09:27:00+08:00",
+      "headline_en": "Child abuse cases up sharply since 2020, welfare group says"
+    },
+    {
+      "key": "sandy-ridge-data-hub-mid-2027",
+      "id": "2026-09-24-sandy-ridge-data-hub-2027",
+      "first_seen": "2026-09-24T09:28:00+08:00",
+      "headline_en": "Sandy Ridge data cluster set for phased opening in mid-2027"
+    },
+    {
+      "key": "lifestyle-po-pin-chau-mid-autumn-booked-2026",
+      "id": "2026-09-24-lifestyle-po-pin-chau-mid-autumn-booked",
+      "first_seen": "2026-09-24T09:29:00+08:00",
+      "headline_en": "Po Pin Chau Mid-Autumn booking slots already full"
     }
   ]
 }
