@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-09-24T09:20:57+08:00",
+  "generated_at": "2026-09-24T11:24:08+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-09-24-lifestyle-light-rail-mid-autumn-free",
+      "published_at": "2026-09-24T11:24:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "transport",
+        "light-rail",
+        "yuen-long"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-lifestyle-light-rail-mid-autumn-free.json",
+      "en": {
+        "headline": "Light Rail rides free all day on Mid-Autumn Festival",
+        "dek": "MTR said every Light Rail trip from first train to 11.59pm on Friday will carry no fare, covering Tuen Mun, Yuen Long and Tin Shui Wai."
+      },
+      "zh": {
+        "headline": "中秋正日輕鐵全日免費 屯元天任搭至深夜",
+        "dek": "港鐵公布周五9月25日由頭班車起至晚上11時59分，進出輕鐵站無需支付車費。"
+      }
+    },
+    {
+      "id": "2026-09-24-hui-rmb-government-spending",
+      "published_at": "2026-09-24T11:23:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "finance",
+        "rmb",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-hui-rmb-government-spending.json",
+      "en": {
+        "headline": "Hui says RMB government payments will not touch the peg",
+        "dek": "The financial services chief told RTHK that using renminbi for some official spending is a matching exercise, with the Hong Kong dollar remaining the core."
+      },
+      "zh": {
+        "headline": "許正宇：人民幣付政府開支與聯匯無關",
+        "dek": "財庫局長在電台節目表示，以人民幣支付部分開支是為收支場景匹配，佔比不會高，核心仍是港元。"
+      }
+    },
+    {
+      "id": "2026-09-24-rowing-double-silver-ag2026",
+      "published_at": "2026-09-24T11:22:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-games",
+        "rowing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-rowing-double-silver-ag2026.json",
+      "en": {
+        "headline": "Hong Kong rowers take two Asian Games silvers in an hour",
+        "dek": "Winnie Hung Wing-yan finished second in the lightweight single sculls, then Cheung Yuen-shan and Leung Ying-on won the lightweight double sculls."
+      },
+      "zh": {
+        "headline": "港隊賽艇一朝兩銀 洪詠甄與雙人艇組合齊上頒獎台",
+        "dek": "洪詠甄女子輕量級單人雙樞艇先摘銀，張菌珊與梁穎桉隨後在雙人雙樞艇後上再添一銀。"
+      }
+    },
+    {
+      "id": "2026-09-24-leung-yu-hong-sanda-silver",
+      "published_at": "2026-09-24T11:21:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-games",
+        "wushu",
+        "sanda"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-leung-yu-hong-sanda-silver.json",
+      "en": {
+        "headline": "Leung Yu-hong takes historic Asian Games sanda silver",
+        "dek": "The 21-year-old world champion lost the men's 60kg final to China's Tang Sishuo, giving Hong Kong its best Asian Games result in the discipline."
+      },
+      "zh": {
+        "headline": "梁宇航亞運散打60公斤級摘銀 港隊項目最佳",
+        "dek": "21歲世界冠軍周四決賽不敵國家隊唐思碩，寫下港隊亞運散打歷來最佳成績。"
+      }
+    },
     {
       "id": "2026-09-24-lifestyle-po-pin-chau-mid-autumn-booked",
       "published_at": "2026-09-24T09:29:00+08:00",
@@ -1931,68 +2019,6 @@
       "zh": {
         "headline": "政府和各界推國慶優惠 港鐵抽獎送7.7萬程 電車渡輪免費",
         "dek": "10月1日國慶，港鐵抽獎送出7.7萬份電子單程車程，全線載客電車及部分渡輪免費，戲院半價，多間博物館及濕地公園免費開放。"
-      }
-    },
-    {
-      "id": "2026-09-21-transwarp-ipo-debut",
-      "published_at": "2026-09-21T11:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "ipo",
-        "stock-market",
-        "listing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-transwarp-ipo-debut.json",
-      "en": {
-        "headline": "Transwarp Technology opens flat at HK$49 on Hong Kong debut",
-        "dek": "The AI infrastructure software firm priced at the bottom of its range after the public offer was more than 70 times subscribed, raising about HK$686 million."
-      },
-      "zh": {
-        "headline": "星環科技首掛平開報49元",
-        "dek": "這家人工智能基礎設施軟件公司以招股價下限定價，公開發售超購逾70倍，集資約6.86億元。"
-      }
-    },
-    {
-      "id": "2026-09-21-triathlon-relay-bronze",
-      "published_at": "2026-09-21T11:19:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "triathlon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-triathlon-relay-bronze.json",
-      "en": {
-        "headline": "Hong Kong triathlon mixed relay takes Asian Games bronze",
-        "dek": "Cade Wright, Oscar Coggins, Bailee Brown and Robin Elg finished in 1 hour 27 minutes 25 seconds for a third straight Games medal in the event."
-      },
-      "zh": {
-        "headline": "港隊鐵人三項混合接力再奪亞運銅牌",
-        "dek": "韋祺、奧斯卡、彭詩雅及羅競賓以1小時27分25秒完成，連續三屆亞運在此項目登上頒獎台。"
-      }
-    },
-    {
-      "id": "2026-09-21-lydia-sham-wushu-gold",
-      "published_at": "2026-09-21T11:18:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "wushu",
-        "lydia-sham"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-lydia-sham-wushu-gold.json",
-      "en": {
-        "headline": "Lydia Sham wins Hong Kong's first Asian Games gold in wushu",
-        "dek": "The flag bearer scored 9.713 in the women's changquan final in Nagoya, 0.003 ahead of Macao's Sou Cho-man, as teammate Michelle Yeung finished fifth."
-      },
-      "zh": {
-        "headline": "沈曉榆女子長拳奪金 港隊亞運第一金",
-        "dek": "開幕禮持旗手沈曉榆在名古屋以9.713分奪得女子長拳金牌，僅高澳門選手0.003分，隊友楊子瑩排第五。"
       }
     }
   ]
