@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-09-25T01:12:00+08:00",
+  "generated_at": "2026-09-25T03:04:15+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 93,
   "articles": [
+    {
+      "id": "2026-09-25-lifestyle-disgusting-food-museum-airside",
+      "published_at": "2026-09-25T03:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "food",
+        "kai-tak",
+        "airside"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-lifestyle-disgusting-food-museum-airside.json",
+      "en": {
+        "headline": "Disgusting Food Museum opens at AIRSIDE Kai Tak from 29 September",
+        "dek": "Sweden’s travelling exhibition of more than 80 polarising dishes from 35 countries arrives at GATE33 Gallery, complete with local scents, a tasting bar and a vomit bag for every visitor."
+      },
+      "zh": {
+        "headline": "嘔心食物博物館9月29日啟德AIRSIDE開幕",
+        "dek": "瑞典巡迴展覽匯集逾80款來自35個國家的爭議美食，於啟德AIRSIDE GATE33 Gallery舉行，設本地氣味裝置、試食吧，每位入場者獲贈嘔吐袋。"
+      }
+    },
     {
       "id": "2026-09-25-lifestyle-national-day-eateries-discounts",
       "published_at": "2026-09-25T01:12:00+08:00",
