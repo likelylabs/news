@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T13:19:23+08:00",
+  "updated_at": "2026-09-24T15:16:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -301,6 +301,18 @@
       "id": "2026-09-24-deloitte-ipo-forecast-4800",
       "first_seen": "2026-09-24T13:22:00+08:00",
       "headline_en": "Deloitte raises Hong Kong full-year IPO forecast to at least HK$480 billion"
+    },
+    {
+      "key": "tst-bar-body-disposal-sep24",
+      "id": "2026-09-24-tst-bar-body-disposal",
+      "first_seen": "2026-09-24T15:15:00+08:00",
+      "headline_en": "Bar staff charged after man found dead on Tsim Sha Tsui street"
+    },
+    {
+      "key": "lifestyle-heritage-tour-northern-metropolis-2026",
+      "id": "2026-09-24-lifestyle-heritage-tour-northern-metropolis",
+      "first_seen": "2026-09-24T15:16:00+08:00",
+      "headline_en": "2026 Heritage Tour focuses on Northern Metropolis historic buildings"
     }
   ]
 }
