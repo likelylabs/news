@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T11:24:08+08:00",
+  "updated_at": "2026-09-24T11:24:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -259,6 +259,30 @@
       "id": "2026-09-24-lifestyle-po-pin-chau-mid-autumn-booked",
       "first_seen": "2026-09-24T09:29:00+08:00",
       "headline_en": "Po Pin Chau Mid-Autumn booking slots already full"
+    },
+    {
+      "key": "leung-yu-hong-sanda-silver-ag2026",
+      "id": "2026-09-24-leung-yu-hong-sanda-silver",
+      "first_seen": "2026-09-24T11:21:00+08:00",
+      "headline_en": "Leung Yu-hong takes historic Asian Games sanda silver"
+    },
+    {
+      "key": "rowing-double-silver-ag2026",
+      "id": "2026-09-24-rowing-double-silver-ag2026",
+      "first_seen": "2026-09-24T11:22:00+08:00",
+      "headline_en": "Hong Kong rowers take two Asian Games silvers in an hour"
+    },
+    {
+      "key": "hui-rmb-government-spending-sep24",
+      "id": "2026-09-24-hui-rmb-government-spending",
+      "first_seen": "2026-09-24T11:23:00+08:00",
+      "headline_en": "Hui says RMB government payments will not touch the peg"
+    },
+    {
+      "key": "lifestyle-light-rail-mid-autumn-free-2026",
+      "id": "2026-09-24-lifestyle-light-rail-mid-autumn-free",
+      "first_seen": "2026-09-24T11:24:00+08:00",
+      "headline_en": "Light Rail rides free all day on Mid-Autumn Festival"
     }
   ]
 }
