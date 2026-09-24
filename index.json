@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-09-24T19:17:55+08:00",
+  "generated_at": "2026-09-24T21:15:42+08:00",
   "live_window_hours": 72,
   "count": 94,
   "articles": [
+    {
+      "id": "2026-09-24-customs-pharma-export-sentence",
+      "published_at": "2026-09-24T21:17:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "crime",
+        "pharmaceuticals",
+        "money-laundering",
+        "court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-customs-pharma-export-sentence.json",
+      "en": {
+        "headline": "Woman jailed 63 months for illegal pharmaceutical exports and money laundering",
+        "dek": "Customs seized about 1.6 million controlled tablets worth an estimated HK$55 million in 2021. The District Court also ordered confiscation of roughly HK$470,000 in frozen assets."
+      },
+      "zh": {
+        "headline": "女子非法出口受管制藥劑及洗黑錢判監63個月",
+        "dek": "海關2021年檢獲約160萬粒受管制藥劑製品，市值約5500萬元。區域法院另就約47萬元凍結資產作出充公申請。"
+      }
+    },
+    {
+      "id": "2026-09-24-mpox-cases-rise-chp-alert",
+      "published_at": "2026-09-24T21:16:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "mpox",
+        "health",
+        "chp",
+        "vaccination",
+        "public-health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-mpox-cases-rise-chp-alert.json",
+      "en": {
+        "headline": "Mpox cases rise sharply; CHP urges high-risk groups to stay alert",
+        "dek": "A new confirmed case involves a 36-year-old man in stable condition. Hong Kong has recorded 28 Mpox cases this year, 19 of them since August, mostly linked to high-risk sexual contact."
+      },
+      "zh": {
+        "headline": "猴痘個案近期大幅上升 當局籲高風險接觸者提高警覺",
+        "dek": "新增一宗36歲男子確診個案，情況穩定。本港今年累計28宗，當中19宗為8月以來新增，患者多曾進行高風險性行為。"
+      }
+    },
+    {
+      "id": "2026-09-24-epd-waste-paper-local-pulping",
+      "published_at": "2026-09-24T21:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "recycling",
+        "waste",
+        "environment",
+        "epd",
+        "circular-economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-epd-waste-paper-local-pulping.json",
+      "en": {
+        "headline": "Hong Kong waste paper to be fully pulped locally from 1 October",
+        "dek": "The Environmental Protection Department said the Tuen Mun EcoPark facility can now handle all local recovered paper, ending reliance on export and expanding accepted types to include mixed paper."
+      },
+      "zh": {
+        "headline": "回收廢紙下月起全面本地製漿 毋須再靠出口",
+        "dek": "環保署表示屯門環保園紙漿設施已提升處理量，10月1日起本港回收廢紙將全面本地製漿，並擴大至雜紙類別。"
+      }
+    },
     {
       "id": "2026-09-24-august-exports-53pct",
       "published_at": "2026-09-24T19:18:00+08:00",
@@ -2002,73 +2071,6 @@
       "zh": {
         "headline": "港交所建議放寬分拆及提高主要交易門檻",
         "dek": "聯交所就第二階段上市機制競爭力檢討徵詢意見，建議主要交易門檻由25%提高至50%，分拆暫止期由三年縮短至一年。"
-      }
-    },
-    {
-      "id": "2026-09-21-lifestyle-hk-ballet-dancehouse",
-      "published_at": "2026-09-21T19:28:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "ballet",
-        "west-kowloon",
-        "dance",
-        "performing-arts"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-lifestyle-hk-ballet-dancehouse.json",
-      "en": {
-        "headline": "Hong Kong Ballet to move to Dancehouse at West Kowloon in 2027",
-        "dek": "The company will leave the Cultural Centre after 16 years for the city's first dedicated dance venue, allowing more than 40 per cent more performance weeks."
-      },
-      "zh": {
-        "headline": "香港芭蕾舞團2027年遷入西九舞藝中心",
-        "dek": "舞團將結束在文化中心16年駐場，遷往全港首個專為舞蹈而設的場地，每年演出周數可增逾四成。"
-      }
-    },
-    {
-      "id": "2026-09-21-ma-on-shan-minibus-crash",
-      "published_at": "2026-09-21T19:27:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "accident",
-        "ma-on-shan",
-        "minibus",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-ma-on-shan-minibus-crash.json",
-      "en": {
-        "headline": "Minibus hits elderly couple at Ma On Shan terminus",
-        "dek": "The husband was left unconscious with a head injury and the driver was arrested on suspicion of dangerous driving causing grievous bodily harm."
-      },
-      "zh": {
-        "headline": "馬鞍山小巴撞傷年長夫婦 司機涉危險駕駛被捕",
-        "dek": "丈夫頭部受傷陷入昏迷，司機被控危險駕駛導致他人身體受嚴重傷害。"
-      }
-    },
-    {
-      "id": "2026-09-21-haughey-200m-freestyle-gold",
-      "published_at": "2026-09-21T19:26:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "swimming",
-        "siobhan-haughey",
-        "ian-ho"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-haughey-200m-freestyle-gold.json",
-      "en": {
-        "headline": "Siobhan Haughey defends Asian Games 200m freestyle title",
-        "dek": "The Hong Kong swimmer clocked 1:54.96 to retain gold in Nagoya, while Ian Ho took silver in the men's 50m freestyle."
-      },
-      "zh": {
-        "headline": "何詩蓓成功衛冕亞運200米自由泳金牌",
-        "dek": "港將以1分54秒96衛冕女子200米自由泳金牌，何甄陶則奪男子50米自由泳銀牌。"
       }
     }
   ]
