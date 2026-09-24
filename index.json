@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-24T15:13:05+08:00",
+  "generated_at": "2026-09-24T17:13:45+08:00",
   "live_window_hours": 72,
-  "count": 94,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-09-24-chinaamc-three-etfs",
+      "published_at": "2026-09-24T17:22:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "finance",
+        "etf",
+        "stock-market"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-chinaamc-three-etfs.json",
+      "en": {
+        "headline": "ChinaAMC launches three Hong Kong ETFs targeting dividends, growth and cross-market…",
+        "dek": "The funds, set to list on 30 September with HKD, RMB and USD counters, expand the firm’s range as investors seek more specialised products."
+      },
+      "zh": {
+        "headline": "華夏基金推三隻港股主題ETF 高息、增長及港美策略",
+        "dek": "三隻產品定於9月30日上市，設港元、人民幣及美元櫃台，反映投資者對特定策略需求上升。"
+      }
+    },
+    {
+      "id": "2026-09-24-fong-epee-bronze",
+      "published_at": "2026-09-24T17:20:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-games",
+        "fencing",
+        "epee"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-fong-epee-bronze.json",
+      "en": {
+        "headline": "Fong Kai-shen takes Asian Games men’s épée bronze",
+        "dek": "The Hong Kong fencer reached the semi-finals before losing 13-15 to a Kazakh opponent, securing the medal as the event has no bronze-medal bout."
+      },
+      "zh": {
+        "headline": "方凱申亞運男子重劍個人賽奪銅",
+        "dek": "港隊劍手方凱申晉身四強後不敵哈薩克對手，由於賽事不設銅牌賽，穩奪一面獎牌。"
+      }
+    },
+    {
+      "id": "2026-09-24-haughey-50m-free-silver",
+      "published_at": "2026-09-24T17:18:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-games",
+        "swimming",
+        "haughey"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-haughey-50m-free-silver.json",
+      "en": {
+        "headline": "Siobhan Haughey takes Asian Games 50m freestyle silver",
+        "dek": "The Hong Kong swimmer clocked 24.32 seconds for silver behind China’s Wu Qingfeng, who set a Games record, adding a third individual medal this campaign."
+      },
+      "zh": {
+        "headline": "何詩蓓亞運女子50米自由泳摘銀",
+        "dek": "港隊泳手何詩蓓以24秒32奪得銀牌，國家隊吳卿風以破亞運紀錄的23秒98奪金，這是她今屆亞運第三面個人獎牌。"
+      }
+    },
     {
       "id": "2026-09-24-lifestyle-heritage-tour-northern-metropolis",
       "published_at": "2026-09-24T15:16:00+08:00",
@@ -1955,116 +2021,6 @@
       "zh": {
         "headline": "的士及網約車綜合筆試逾1.1萬人報考",
         "dek": "運輸及物流局局長陳美寶表示報考人數超符預期，運輸署會在最多兩個月內為申請人安排考試。"
-      }
-    },
-    {
-      "id": "2026-09-21-very-hot-weather-warning",
-      "published_at": "2026-09-21T17:12:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "observatory",
-        "very-hot-weather",
-        "heat"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-very-hot-weather-warning.json",
-      "en": {
-        "headline": "Very Hot Weather Warning issued as temperatures hit 33C",
-        "dek": "The Hong Kong Observatory posted the warning at 2:15pm, advising the public to guard against heat stroke amid afternoon temperatures around 33 degrees."
-      },
-      "zh": {
-        "headline": "天文台發出酷熱天氣警告 氣溫達33度",
-        "dek": "天文台於下午2時15分發出酷熱天氣警告，預料今日天氣酷熱，市民應慎防中暑。"
-      }
-    },
-    {
-      "id": "2026-09-21-lifestyle-chiikawa-airside",
-      "published_at": "2026-09-21T15:31:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "chiikawa",
-        "kai-tak",
-        "lantern"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-lifestyle-chiikawa-airside.json",
-      "en": {
-        "headline": "Chiikawa Mid-Autumn lantern display opens today at AIRSIDE",
-        "dek": "The free pop-up turns popular characters into traditional lanterns and runs until 4 October, with a reconstructed carousel photo spot for fans."
-      },
-      "zh": {
-        "headline": "CHIIKAWA中秋燈會今日啟德AIRSIDE開鑼",
-        "dek": "人氣角色化身風琴紙、金魚及兔仔燈籠，免費展覽即日至10月4日舉行，並設迴旋木馬打卡位。"
-      }
-    },
-    {
-      "id": "2026-09-21-tse-stray-dog-review",
-      "published_at": "2026-09-21T15:29:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "yuen-long",
-        "dogs",
-        "afcd",
-        "environment",
-        "tse-chin-wan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-tse-stray-dog-review.json",
-      "en": {
-        "headline": "Environment chief vows review of stray-dog management after Yuen Long death",
-        "dek": "Tse Chin-wan said the government will examine the Dangerous Dogs Regulation and further reduce risks from strays, after three mongrels were caught near the attack site."
-      },
-      "zh": {
-        "headline": "謝展寰：檢視流浪狗管理及危險狗隻規例 元朗襲擊後再加強措施",
-        "dek": "環境及生態局局長謝展寰表示，政府將檢視流浪狗管理及《危險狗隻規例》，並加強狗主責任，元朗事件後已捕獲三隻唐狗作進一步觀察。"
-      }
-    },
-    {
-      "id": "2026-09-21-customs-drug-seizures-h1",
-      "published_at": "2026-09-21T15:27:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "drugs",
-        "airport",
-        "seizures"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-customs-drug-seizures-h1.json",
-      "en": {
-        "headline": "Customs drug seizures rise nearly 50 per cent in first half of 2026",
-        "dek": "Officers confiscated 5,704 kg of narcotics, with cannabis and ketamine making up about 60 per cent, and notable increases recorded on air and sea routes."
-      },
-      "zh": {
-        "headline": "海關上半年檢獲毒品量升近五成 大麻氯胺酮佔六成",
-        "dek": "海關今年上半年檢獲5,704公斤毒品，較去年同期升近五成，當中大麻及氯胺酮約佔六成，空運及海運路線檢獲量均明顯上升。"
-      }
-    },
-    {
-      "id": "2026-09-21-howard-hung-karate-bronze",
-      "published_at": "2026-09-21T15:25:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "karate",
-        "howard-hung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-howard-hung-karate-bronze.json",
-      "en": {
-        "headline": "Howard Hung takes men's kata bronze for Hong Kong at Asian Games",
-        "dek": "The karate athlete defeated Malaysia's Mohamad Henry after a semi-final loss, giving Hong Kong its second karate medal of the Games after Grace Lau's silver."
-      },
-      "zh": {
-        "headline": "洪浩威空手道男子個人型奪銅 港隊亞運第二面空手道獎牌",
-        "dek": "洪浩威於準決賽落敗後，在銅牌賽擊敗馬來西亞對手，為香港帶來本屆亞運第二面空手道獎牌，繼劉慕裳銀牌後再添一銅。"
       }
     }
   ]
