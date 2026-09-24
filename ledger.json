@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T11:25:00+08:00",
+  "updated_at": "2026-09-24T13:22:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -283,6 +283,24 @@
       "id": "2026-09-24-lifestyle-light-rail-mid-autumn-free",
       "first_seen": "2026-09-24T11:24:00+08:00",
       "headline_en": "Light Rail rides free all day on Mid-Autumn Festival"
+    },
+    {
+      "key": "hkma-indonesia-qr-mou-sep24",
+      "id": "2026-09-24-hkma-indonesia-qr-mou",
+      "first_seen": "2026-09-24T13:20:00+08:00",
+      "headline_en": "HKMA and Bank Indonesia sign MoU on QR code cross-border payments"
+    },
+    {
+      "key": "stv-scheme-expansion-sep24",
+      "id": "2026-09-24-stv-scheme-social-welfare",
+      "first_seen": "2026-09-24T13:21:00+08:00",
+      "headline_en": "Visitor facilitation schemes expanded to social welfare and Central Asia"
+    },
+    {
+      "key": "deloitte-ipo-forecast-sep24",
+      "id": "2026-09-24-deloitte-ipo-forecast-4800",
+      "first_seen": "2026-09-24T13:22:00+08:00",
+      "headline_en": "Deloitte raises Hong Kong full-year IPO forecast to at least HK$480 billion"
     }
   ]
 }
