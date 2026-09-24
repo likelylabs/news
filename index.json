@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-09-24T21:16:59+08:00",
+  "generated_at": "2026-09-25T01:12:00+08:00",
   "live_window_hours": 72,
-  "count": 94,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-09-25-lifestyle-national-day-eateries-discounts",
+      "published_at": "2026-09-25T01:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "national-day",
+        "dining",
+        "discounts"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-lifestyle-national-day-eateries-discounts.json",
+      "en": {
+        "headline": "More than 3,800 eateries offer discounts for National Day",
+        "dek": "Participating outlets include restaurants, hotels, food courts and market stalls, with deals of up to 30 per cent off and special set menus tied to the 77th anniversary."
+      },
+      "zh": {
+        "headline": "逾3800間食肆推國慶優惠 最高全單七折",
+        "dek": "參與商戶包括餐廳、酒店、美食廣場及街市檔攤，優惠涵蓋全單折扣及以77周年為主題的套餐，部分活動已於本周起展開。"
+      }
+    },
+    {
+      "id": "2026-09-25-afcd-eight-dogs-yuen-long",
+      "published_at": "2026-09-25T01:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "afcd",
+        "stray-dogs",
+        "yuen-long",
+        "animal-welfare",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-afcd-eight-dogs-yuen-long.json",
+      "en": {
+        "headline": "AFCD detains eight unattended dogs after Yuen Long joint operation",
+        "dek": "The five-day sweep with police followed a fatal dog attack last week. Three dogs were microchipped and one owner faces prosecution; a staff member was bitten but is stable."
+      },
+      "zh": {
+        "headline": "漁護署元朗聯合捕狗行動結束 共扣留八隻無人看管狗隻",
+        "dek": "行動為期五日，因應上周一名女子疑遭狗隻襲擊身亡而展開。三隻狗隻有晶片，一名畜養人被檢控；一名前線人員被咬傷，情況穩定。"
+      }
+    },
     {
       "id": "2026-09-24-customs-pharma-export-sentence",
       "published_at": "2026-09-24T21:17:00+08:00",
@@ -1982,95 +2028,6 @@
       "zh": {
         "headline": "水警海關西貢反走私檢400萬支私煙",
         "dek": "亞公灣及龍蝦灣兩宗行動檢獲市值約1800萬元懷疑私煙，四艘快艇逃往內地水域，兩輛涉案貨車被扣查。"
-      }
-    },
-    {
-      "id": "2026-09-21-yuen-long-dogs-microchipped",
-      "published_at": "2026-09-21T23:51:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "yuen-long",
-        "dogs",
-        "afcd",
-        "animal"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-yuen-long-dogs-microchipped.json",
-      "en": {
-        "headline": "Two of three dogs in Yuen Long fatal attack case are microchipped",
-        "dek": "The AFCD said it is trying to contact the registered owners, who may face prosecution if evidence shows they failed in their responsibilities."
-      },
-      "zh": {
-        "headline": "元朗致命狗襲兩隻狗有晶片 漁護署嘗試聯絡飼主",
-        "dek": "漁護署表示正嘗試聯絡登記飼主，若有足夠證據顯示飼主未盡責任，或會提出檢控。"
-      }
-    },
-    {
-      "id": "2026-09-21-rcep-accession-working-group",
-      "published_at": "2026-09-21T23:50:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "rcep",
-        "trade",
-        "asean",
-        "commerce"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-rcep-accession-working-group.json",
-      "en": {
-        "headline": "RCEP sets up accession working group for Hong Kong",
-        "dek": "The regional trade pact approved an Accession Working Group on Monday, starting formal entry talks for Hong Kong along with Bangladesh, Chile and Sri Lanka."
-      },
-      "zh": {
-        "headline": "RCEP成立加入工作組 啟動香港加入程序",
-        "dek": "區域全面經濟夥伴關係協定周一通過成立加入工作組，正式展開包括香港在內多個申請經濟體的加入程序。"
-      }
-    },
-    {
-      "id": "2026-09-21-abby-choi-murder-trial-opens",
-      "published_at": "2026-09-21T21:46:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "abby-choi",
-        "murder-trial",
-        "high-court",
-        "tai-po"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-abby-choi-murder-trial-opens.json",
-      "en": {
-        "headline": "Abby Choi murder trial opens at High Court",
-        "dek": "The former husband, brother-in-law and father-in-law of the socialite face joint counts of murder and preventing lawful burial; proceedings began with preliminary legal argument."
-      },
-      "zh": {
-        "headline": "蔡天鳳謀殺案開審 三名前姻親受審",
-        "dek": "社交名媛蔡天鳳的前夫、前大伯及前家翁於高等法院開審，同被控謀殺及阻止合法埋葬屍體；今日先處理程序事宜。"
-      }
-    },
-    {
-      "id": "2026-09-21-hkex-listing-competitiveness-phase2",
-      "published_at": "2026-09-21T21:45:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hkex",
-        "listing-rules",
-        "spin-off",
-        "stock-market",
-        "consultation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-hkex-listing-competitiveness-phase2.json",
-      "en": {
-        "headline": "HKEX proposes easier spin-offs and higher thresholds for major deals",
-        "dek": "The exchange seeks feedback on raising the major-transaction bar from 25 to 50 per cent and shortening the spin-off waiting period from three years to one."
-      },
-      "zh": {
-        "headline": "港交所建議放寬分拆及提高主要交易門檻",
-        "dek": "聯交所就第二階段上市機制競爭力檢討徵詢意見，建議主要交易門檻由25%提高至50%，分拆暫止期由三年縮短至一年。"
       }
     }
   ]
