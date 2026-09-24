@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T15:13:05+08:00",
+  "updated_at": "2026-09-24T17:25:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -313,6 +313,24 @@
       "id": "2026-09-24-lifestyle-heritage-tour-northern-metropolis",
       "first_seen": "2026-09-24T15:16:00+08:00",
       "headline_en": "2026 Heritage Tour focuses on Northern Metropolis historic buildings"
+    },
+    {
+      "key": "haughey-50m-free-silver-ag2026",
+      "id": "2026-09-24-haughey-50m-free-silver",
+      "first_seen": "2026-09-24T17:18:00+08:00",
+      "headline_en": "Siobhan Haughey takes Asian Games 50m freestyle silver"
+    },
+    {
+      "key": "fong-kai-shen-epee-bronze-ag2026",
+      "id": "2026-09-24-fong-epee-bronze",
+      "first_seen": "2026-09-24T17:20:00+08:00",
+      "headline_en": "Fong Kai-shen takes Asian Games men’s épée bronze"
+    },
+    {
+      "key": "chinaamc-three-etfs-sep24",
+      "id": "2026-09-24-chinaamc-three-etfs",
+      "first_seen": "2026-09-24T17:22:00+08:00",
+      "headline_en": "ChinaAMC launches three Hong Kong ETFs targeting dividends, growth and cross-market strategies"
     }
   ]
 }
