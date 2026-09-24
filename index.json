@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-09-24T07:14:16+08:00",
+  "generated_at": "2026-09-24T09:19:54+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-09-24-lifestyle-po-pin-chau-mid-autumn-booked",
+      "published_at": "2026-09-24T09:29:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "sai-kung",
+        "mid-autumn",
+        "hiking",
+        "geo-park"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-lifestyle-po-pin-chau-mid-autumn-booked.json",
+      "en": {
+        "headline": "Po Pin Chau Mid-Autumn booking slots already full",
+        "dek": "The Agriculture, Fisheries and Conservation Department's trial reservation for the High Island geo trail section is fully taken for 25 and 26 September, with some National Day week sessions also gone."
+      },
+      "zh": {
+        "headline": "破邊洲中秋預約已滿 國慶部分時段亦額滿",
+        "dek": "漁護署萬宜地質步道破邊洲段試行實名預約，9月25及26日名額已滿，每日上限2000人。"
+      }
+    },
+    {
+      "id": "2026-09-24-sandy-ridge-data-hub-2027",
+      "published_at": "2026-09-24T09:28:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "northern-metropolis",
+        "ai",
+        "clp"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-sandy-ridge-data-hub-2027.json",
+      "en": {
+        "headline": "Sandy Ridge data cluster set for phased opening in mid-2027",
+        "dek": "CLP Power and Range Intelligent Computing said the Northern Metropolis project would start earlier than the original 2029 target, with investment above HK$23.8 billion."
+      },
+      "zh": {
+        "headline": "沙嶺數據設施群料2027年中分期啟用",
+        "dek": "中電與潤澤科技舉行啟航典禮，項目較原定2029年提前，累計投入逾238億元，首期爭取明年中啟用。"
+      }
+    },
+    {
+      "id": "2026-09-24-child-abuse-cases-rise",
+      "published_at": "2026-09-24T09:27:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "children",
+        "health",
+        "welfare",
+        "ngo"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-child-abuse-cases-rise.json",
+      "en": {
+        "headline": "Child abuse cases up sharply since 2020, welfare group says",
+        "dek": "Against Child Abuse said suspected cases rose from 940 in 2020 to 1,354 in 2025, with sexual and physical abuse recorded at the same level for the first time."
+      },
+      "zh": {
+        "headline": "防止虐兒會：懸疑虐兒個案五年升至1354宗",
+        "dek": "機構引述社署數字，指2025年性侵犯與身體虐待同錄501宗，二十多年來首次持平，促檢視強制舉報成效。"
+      }
+    },
+    {
+      "id": "2026-09-24-jll-property-transparency-index",
+      "published_at": "2026-09-24T09:26:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "property",
+        "business",
+        "jll",
+        "investment"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-jll-property-transparency-index.json",
+      "en": {
+        "headline": "Hong Kong ranks 14th in global property transparency index",
+        "dek": "JLL's biennial survey placed the city third in Asia behind Japan and Singapore, with a composite score of 1.97 in the Transparent tier."
+      },
+      "zh": {
+        "headline": "仲量聯行：香港地產透明度全球第14 亞洲第三",
+        "dek": "2026年全球地產透明度指數顯示香港綜合評分1.97，維持「具透明度」級別，亞洲僅次於日本及新加坡。"
+      }
+    },
     {
       "id": "2026-09-24-lifestyle-pok-fu-lam-fire-dragon",
       "published_at": "2026-09-24T07:16:00+08:00",
@@ -1904,118 +1993,6 @@
       "zh": {
         "headline": "沈曉榆女子長拳奪金 港隊亞運第一金",
         "dek": "開幕禮持旗手沈曉榆在名古屋以9.713分奪得女子長拳金牌，僅高澳門選手0.003分，隊友楊子瑩排第五。"
-      }
-    },
-    {
-      "id": "2026-09-21-lifestyle-central-market-k-festival",
-      "published_at": "2026-09-21T09:17:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "central",
-        "food",
-        "festival"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-lifestyle-central-market-k-festival.json",
-      "en": {
-        "headline": "Korean Mid-Autumn festival week opens at Central Market",
-        "dek": "A seven-day free programme of K-food, beauty workshops and performances runs from today through 27 September, with a Full Moon Party on festival night."
-      },
-      "zh": {
-        "headline": "中環街市中秋韓風周今日開鑾",
-        "dek": "為期七天的免費韓食、美妝工作坊及表演由今日起至9月27日在中環街市舉行，中秋正日另有滿月派對。"
-      }
-    },
-    {
-      "id": "2026-09-21-solicitors-senior-counsel-bar",
-      "published_at": "2026-09-21T09:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "law",
-        "courts",
-        "legal-profession",
-        "bar-association",
-        "law-society"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-solicitors-senior-counsel-bar.json",
-      "en": {
-        "headline": "Bar calls solicitor senior-counsel proposal premature",
-        "dek": "The Law Society wants eligible solicitors to be able to take silk; the Bar Association says few solicitor advocates use higher court rights and the debate is academic."
-      },
-      "zh": {
-        "headline": "大律師公會指事務律師任資深大律師屬過早",
-        "dek": "律師會向立法會倡修例，讓合資格事務律師可獲委任資深大律師；大律師公會指訟辯律師較少行使出庭權，有關討論仍屬學術層面。"
-      }
-    },
-    {
-      "id": "2026-09-21-youth-flag-team-tiananmen",
-      "published_at": "2026-09-21T07:26:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "youth",
-        "beijing",
-        "flag-raising"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-youth-flag-team-tiananmen.json",
-      "en": {
-        "headline": "Hong Kong students watch Tiananmen flag-raising on Beijing visit",
-        "dek": "Education Secretary Choi Yuk-lin led a Hong Kong and Macao youth flag-team delegation of more than 1,300 people at the square on Sunday."
-      },
-      "zh": {
-        "headline": "蔡若蓮率港澳升旗隊訪京團在天安門觀升旗",
-        "dek": "訪京團超過1300名港澳師生周日在天安門廣場觀看升旗儀式，五日行程由18日至22日。"
-      }
-    },
-    {
-      "id": "2026-09-21-yuen-long-dogs-captured",
-      "published_at": "2026-09-21T07:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "yuen-long",
-        "police",
-        "afcd",
-        "animal",
-        "dog-attack"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-yuen-long-dogs-captured.json",
-      "en": {
-        "headline": "AFCD and police catch three dogs after Yuen Long cyclist death",
-        "dek": "Officers detained three adult mongrels overnight near Pok Wai South Road and will check for microchips as the inquiry continues."
-      },
-      "zh": {
-        "headline": "漁護署聯同警方元朗據獲三隻成年唐狗",
-        "dek": "行動於壩圍南路一帶通宵進行，狗隻送往動物管理中心觀察，署方會查晶片並跟進調查。"
-      }
-    },
-    {
-      "id": "2026-09-21-thunderstorm-warning",
-      "published_at": "2026-09-21T07:24:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "observatory",
-        "thunderstorm",
-        "new-territories"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-thunderstorm-warning.json",
-      "en": {
-        "headline": "Thunderstorm Warning issued for isolated New Territories storms",
-        "dek": "The Observatory posted the warning at 7:10am, valid until 9am, and forecast a mainly cloudy, hot day with a few showers."
-      },
-      "zh": {
-        "headline": "天文台發出雷暴警告 預料新界局部地區有雷暴",
-        "dek": "警告於上午7時10分發出，有效至上午9時；今日大致多雲，有幾陣驟雨，日間炎熱最高約32度。"
       }
     }
   ]
