@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-09-24T11:25:00+08:00",
+  "generated_at": "2026-09-24T13:19:23+08:00",
   "live_window_hours": 72,
   "count": 92,
   "articles": [
+    {
+      "id": "2026-09-24-deloitte-ipo-forecast-4800",
+      "published_at": "2026-09-24T13:22:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "ipo",
+        "stock-market",
+        "finance",
+        "deloitte"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-deloitte-ipo-forecast-4800.json",
+      "en": {
+        "headline": "Deloitte raises Hong Kong full-year IPO forecast to at least HK$480 billion",
+        "dek": "The firm expects about 160 listings and says the total could surpass the 2010 record of roughly HK$450 billion after a strong first three quarters."
+      },
+      "zh": {
+        "headline": "德勤上調全年港股新股融資預測至最少4800億元",
+        "dek": "德勤預計全年約有160隻新股上市，融資額有望突破2010年約4500億元的歷史紀錄。"
+      }
+    },
+    {
+      "id": "2026-09-24-stv-scheme-social-welfare",
+      "published_at": "2026-09-24T13:21:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "immigration",
+        "talent",
+        "government",
+        "social-welfare"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-stv-scheme-social-welfare.json",
+      "en": {
+        "headline": "Visitor facilitation schemes expanded to social welfare and Central Asia",
+        "dek": "From 1 October the short-term activities scheme will cover social welfare, while the invited persons scheme will extend beyond ASEAN to Central Asia and the Middle East."
+      },
+      "zh": {
+        "headline": "短期訪客計劃增社福界 特邀人士計劃擴至中亞中東",
+        "dek": "政府公布10月1日起擴展兩項入境便利計劃，短期訪客計劃新增社會福利界別，特邀人士計劃則由東盟延伸至中亞及中東國家。"
+      }
+    },
+    {
+      "id": "2026-09-24-hkma-indonesia-qr-mou",
+      "published_at": "2026-09-24T13:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "finance",
+        "hkma",
+        "payments",
+        "indonesia",
+        "fintech"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-24/2026-09-24-hkma-indonesia-qr-mou.json",
+      "en": {
+        "headline": "HKMA and Bank Indonesia sign MoU on QR code cross-border payments",
+        "dek": "The Hong Kong Monetary Authority and Bank Indonesia agreed to explore technical, operational and regulatory arrangements for interoperable QR payments between the two places."
+      },
+      "zh": {
+        "headline": "金管局與印尼央行簽備忘錄 加強二維碼跨境支付合作",
+        "dek": "香港金融管理局與印尼中央銀行今日簽署合作備忘錄，將就技術、營運及監管事宜展開對話，探討促進兩地二維碼跨境支付互聯互通。"
+      }
+    },
     {
       "id": "2026-09-24-lifestyle-light-rail-mid-autumn-free",
       "published_at": "2026-09-24T11:24:00+08:00",
@@ -1953,72 +2020,6 @@
       "zh": {
         "headline": "洪浩威空手道男子個人型奪銅 港隊亞運第二面空手道獎牌",
         "dek": "洪浩威於準決賽落敗後，在銅牌賽擊敗馬來西亞對手，為香港帶來本屆亞運第二面空手道獎牌，繼劉慕裳銀牌後再添一銅。"
-      }
-    },
-    {
-      "id": "2026-09-21-tang-cctv-dog-attack",
-      "published_at": "2026-09-21T13:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "yuen-long",
-        "police",
-        "security",
-        "dog-attack"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-tang-cctv-dog-attack.json",
-      "en": {
-        "headline": "Tang says extra CCTV at Yuen Long dog-attack site impractical",
-        "dek": "The Security Secretary said cameras deter thieves but not dogs, and the SmartView scheme targets higher-crime areas rather than low-risk rural roads."
-      },
-      "zh": {
-        "headline": "鄧炳強指元朗狗襲地點加裝閉路電視不切實際",
-        "dek": "保安局局長表示閉路電視可阻嚇小偷但對狗隻無效，智慧燈柱計劃主要針對罪案較高風險地區。"
-      }
-    },
-    {
-      "id": "2026-09-21-green-energy-corridor",
-      "published_at": "2026-09-21T13:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "shipping",
-        "green-energy",
-        "maritime",
-        "five-year-plan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-green-energy-corridor.json",
-      "en": {
-        "headline": "Hong Kong to name Green Energy Corridor mainland partner city in November",
-        "dek": "Transport Secretary Mable Chan said the government will announce the partner city at a maritime conference and aims to sign a cooperation agreement for stable green bunkering supply."
-      },
-      "zh": {
-        "headline": "陳美寶：11月公布綠色能源走廊內地合作城市",
-        "dek": "運輸及物流局局長表示，政府將於11月海運會議公布首個綠色能源走廊的內地合作城市，並期望簽署合作協議以確保綠色船燃穩定供應。"
-      }
-    },
-    {
-      "id": "2026-09-21-national-day-offers",
-      "published_at": "2026-09-21T13:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "national-day",
-        "transport",
-        "offers",
-        "mtr"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-21/2026-09-21-national-day-offers.json",
-      "en": {
-        "headline": "Government and sectors unveil National Day free rides and half-price tickets",
-        "dek": "MTR will raffle 77,000 e-single journeys, trams and selected ferries will be free, cinemas half-price and many museums open free on 1 October for the 77th anniversary."
-      },
-      "zh": {
-        "headline": "政府和各界推國慶優惠 港鐵抽獎送7.7萬程 電車渡輪免費",
-        "dek": "10月1日國慶，港鐵抽獎送出7.7萬份電子單程車程，全線載客電車及部分渡輪免費，戲院半價，多間博物館及濕地公園免費開放。"
       }
     }
   ]
