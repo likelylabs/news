@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-25T11:17:23+08:00",
+  "generated_at": "2026-09-25T11:22:21+08:00",
   "live_window_hours": 72,
-  "count": 94,
+  "count": 93,
   "articles": [
+    {
+      "id": "2026-09-25-womens-epee-team-qf",
+      "published_at": "2026-09-25T11:24:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-games",
+        "fencing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-womens-epee-team-qf.json",
+      "en": {
+        "headline": "Hong Kong women’s épée team reach Asian Games last eight",
+        "dek": "The team beat Thailand 45-27 in the last 16 in Nagoya on Friday and will next face Kazakhstan for a place in the semi-finals."
+      },
+      "zh": {
+        "headline": "港隊女重團體淘汰泰國 亞運闞八強",
+        "dek": "陳港冰、吳海諤、佘繕妁及朱嘉望周五在名古屋以45：27擊敗泰國，十六強過關後下一場對哈薩克。"
+      }
+    },
+    {
+      "id": "2026-09-25-hang-seng-drop-453",
+      "published_at": "2026-09-25T11:23:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hang-seng",
+        "markets",
+        "stocks",
+        "business"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-hang-seng-drop-453.json",
+      "en": {
+        "headline": "Hang Seng slides more than 450 points by late morning",
+        "dek": "The benchmark was down 1.83 percent at 24,308 at 11am, with the tech index also weaker, as US bond yields hit multi-year highs and mainland markets stayed shut for Mid-Autumn."
+      },
+      "zh": {
+        "headline": "恒指午前跌逾450點 科指跌近2.5%",
+        "dek": "恒生指數上午11時報24308點，跌453點或1.83%；美債息創多年高位，內地股市因中秋休市。"
+      }
+    },
+    {
+      "id": "2026-09-25-very-hot-weather-warning",
+      "published_at": "2026-09-25T11:22:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "heat",
+        "mid-autumn",
+        "health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-very-hot-weather-warning.json",
+      "en": {
+        "headline": "Very hot weather warning issued on Mid-Autumn Festival day",
+        "dek": "The Observatory raised the warning at 11am, with very hot conditions expected today, and advised the public to watch for heat stroke while the yellow fire danger warning remains in force."
+      },
+      "zh": {
+        "headline": "中秋正日天文台發出酷熱天氣警告",
+        "dek": "天文台上午11時發出酷熱天氣警告，預料今日天氣酷熱，呼籲提防中暑；黃色火災危險警告仍生效。"
+      }
+    },
     {
       "id": "2026-09-25-lifestyle-blue-house-lanterns",
       "published_at": "2026-09-25T11:14:00+08:00",
@@ -1995,91 +2061,6 @@
       "zh": {
         "headline": "警方打鼓嶺搗破私煙倉 檢155萬支私煙拘一人",
         "dek": "大埔警區反三合會組周一午後在坪輋一金屬倉庫搜出約155萬支未完稅香煙，市值約700萬元，一名33歲本地男子被捕。"
-      }
-    },
-    {
-      "id": "2026-09-22-lifestyle-wong-tai-sin-lanterns",
-      "published_at": "2026-09-22T11:21:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "wong-tai-sin",
-        "lanterns"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-lifestyle-wong-tai-sin-lanterns.json",
-      "en": {
-        "headline": "Wong Tai Sin Temple keeps Mid-Autumn lanterns lit into October",
-        "dek": "Sik Sik Yuen's free display at the temple and square runs from 17 September to 4 October, with later closing times through the festival week."
-      },
-      "zh": {
-        "headline": "黃大仙祠中秋綵燈展出至十月初",
-        "dek": "嗇色園在祠內及廟宇廣場免費展出花燈，活動由9月17日舉行至10月4日，中秋期間延長開放。"
-      }
-    },
-    {
-      "id": "2026-09-22-ligent-ipo-debut",
-      "published_at": "2026-09-22T11:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "ipo",
-        "stock-market",
-        "listing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-ligent-ipo-debut.json",
-      "en": {
-        "headline": "Ligent Technologies opens 11 per cent above offer price",
-        "dek": "The optical-module maker, listed as 09856, began trading at HK$36.60 against a HK$32.96 issue price after a 35-times subscribed public offer."
-      },
-      "zh": {
-        "headline": "納真科技首掛高開一成報36.6元",
-        "dek": "光模塊供應商股份代號09856，公開發售超購約35倍，開市較招股僳32.96元高出約11%。"
-      }
-    },
-    {
-      "id": "2026-09-22-haughey-li-100m-free-final",
-      "published_at": "2026-09-22T11:19:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "swimming",
-        "haughey"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-haughey-li-100m-free-final.json",
-      "en": {
-        "headline": "Haughey and Li reach Asian Games 100m freestyle final",
-        "dek": "Siobhan Haughey posted the fastest heat time of 53.60 seconds in Nagoya, with teammate Li Sum-yiu also advancing in seventh place."
-      },
-      "zh": {
-        "headline": "何詩蓓李芯瑤晉級亞運女子百自決賽",
-        "dek": "何詩蓓在名古屋以53秒60錄得初賽最快時間，隊友李芯瑤以總成績第七晉級。"
-      }
-    },
-    {
-      "id": "2026-09-22-thunderstorm-warning",
-      "published_at": "2026-09-22T11:18:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "observatory",
-        "thunderstorm",
-        "new-territories"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-thunderstorm-warning.json",
-      "en": {
-        "headline": "Thunderstorm Warning issued for New Territories East",
-        "dek": "The Observatory posted the warning at 11am, valid until 1pm, as isolated storms were expected over the eastern New Territories."
-      },
-      "zh": {
-        "headline": "天文台發出雷暴警告 預料新界東有局部雷暴",
-        "dek": "警告於上午11時發出，有效至下午1時；天文台總部當時氣溫30度，並提醒市民注意熱天氣。"
       }
     }
   ]
