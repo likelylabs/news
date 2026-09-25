@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T17:11:04+08:00",
+  "updated_at": "2026-09-25T21:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -157,6 +157,36 @@
       "id": "2026-09-25-uber-flytaxi-shutdown",
       "first_seen": "2026-09-25T17:12:00+08:00",
       "headline_en": "Uber to shut down FlyTaxi app by end of year"
+    },
+    {
+      "key": "lifestyle-disgusting-food-museum-airside",
+      "id": "2026-09-25-lifestyle-disgusting-food-museum-airside",
+      "first_seen": "2026-09-25T15:00:00+08:00",
+      "headline_en": "Disgusting Food Museum opens at Airside"
+    },
+    {
+      "key": "lifestyle-national-day-eateries-discounts",
+      "id": "2026-09-25-lifestyle-national-day-eateries-discounts",
+      "first_seen": "2026-09-25T16:00:00+08:00",
+      "headline_en": "National Day eateries discounts"
+    },
+    {
+      "key": "foil-team-silver-japan-ag2026",
+      "id": "2026-09-25-foil-team-silver-japan",
+      "first_seen": "2026-09-25T21:12:00+08:00",
+      "headline_en": "Hong Kong men’s foil team takes Asian Games silver after final loss to Japan"
+    },
+    {
+      "key": "red-flags-beaches-sep25",
+      "id": "2026-09-25-red-flags-stanley-cwb",
+      "first_seen": "2026-09-25T21:13:00+08:00",
+      "headline_en": "Red flags raised at Stanley and Clear Water Bay beaches over big waves"
+    },
+    {
+      "key": "lifestyle-victoria-park-lantern-carnival-2026",
+      "id": "2026-09-25-lifestyle-victoria-park-lanterns",
+      "first_seen": "2026-09-25T21:14:00+08:00",
+      "headline_en": "Victoria Park Mid-Autumn lantern carnival runs through early October"
     }
   ]
 }
