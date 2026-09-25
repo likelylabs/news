@@ -1,8 +1,122 @@
 {
-  "generated_at": "2026-09-25T07:16:46+08:00",
+  "generated_at": "2026-09-25T09:08:37+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-09-25-seamless-echannel-hzmb",
+      "published_at": "2026-09-25T09:09:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "immigration",
+        "hzmb",
+        "border",
+        "e-channel",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-seamless-echannel-hzmb.json",
+      "en": {
+        "headline": "Immigration relaxes Seamless e-Channel rules at HZMB port",
+        "dek": "Hong Kong permanent residents aged 11 or above who have used the bridge port six times in 90 days can now enrol, with on-the-spot registration added at designated channels."
+      },
+      "zh": {
+        "headline": "入境處放寬港珠澳大橋無感e-道登記資格",
+        "dek": "年滿11歲的香港永久性居民，只要過去90日經大橋口岸出入境六次或以上，即日起可登記；18歲或以上亦可在指定e-道即場辦理。"
+      }
+    },
+    {
+      "id": "2026-09-25-sndas-sixth-cohort",
+      "published_at": "2026-09-25T09:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "dse",
+        "universities",
+        "admissions",
+        "edb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-sndas-sixth-cohort.json",
+      "en": {
+        "headline": "Sixth direct university admission scheme opens in October",
+        "dek": "Local Secondary Six students sitting the 2027 DSE can be nominated from 7 October, with more than 300 publicly funded programmes taking part across the eight UGC universities."
+      },
+      "zh": {
+        "headline": "第六屆學校推薦直接錄取計劃十月接受提名",
+        "dek": "教育局公布，應考2027年文憑試的本地中六生可由10月7日起獲校方提名，八所教資會大學提供逾300個公幣資助學士課程。"
+      }
+    },
+    {
+      "id": "2026-09-25-chiu-hin-chun-rowing-gold",
+      "published_at": "2026-09-25T09:07:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-games",
+        "rowing",
+        "chiu-hin-chun"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-chiu-hin-chun-rowing-gold.json",
+      "en": {
+        "headline": "Chiu Hin-chun wins Hong Kong’s fourth Asian Games gold in rowing",
+        "dek": "The veteran sculler took the men’s lightweight single sculls in 6:50.32 in Nagoya, completing a set of gold, silver and bronze across three Games."
+      },
+      "zh": {
+        "headline": "趙顯臻輕量級單人雙樺封王 港隊亞運添第四金",
+        "dek": "港隊賽艇代表趙顯臻在名古屋以6分50秒32奪得男子輕量級單人雙樺金牌，三戰亞運集齊金銀銅，亦是港隊今屆第四金。"
+      }
+    },
+    {
+      "id": "2026-09-25-icac-complaints-up-40pct",
+      "published_at": "2026-09-25T09:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "icac",
+        "corruption",
+        "housing",
+        "wang-fuk-court",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-icac-complaints-up-40pct.json",
+      "en": {
+        "headline": "ICAC graft complaints rise 40 percent, led by building repairs",
+        "dek": "The graft-buster received 1,530 corruption complaints in the first eight months, with building management and maintenance reports more than doubling after the Tai Po Wang Fuk Court fire."
+      },
+      "zh": {
+        "headline": "廉署首8月貪污投訴升四成 樓宇維修舉報倍增",
+        "dek": "廉政專員胡英明向立法會表示，今年首8個月接獲1530宗懸疑貪污投訴，樓宇管理及維修舉報按年升113%，與大埔宏福苑大火後公眾警覺上升有關。"
+      }
+    },
+    {
+      "id": "2026-09-25-yellow-fire-danger-hot-weather",
+      "published_at": "2026-09-25T09:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "fire-danger",
+        "mid-autumn",
+        "hko",
+        "health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-yellow-fire-danger-hot-weather.json",
+      "en": {
+        "headline": "Yellow fire danger warning in force on hot Mid-Autumn day",
+        "dek": "The Observatory issued the yellow fire danger warning at 6am and a hot-weather health advisory as the festival day turns fine, dry and warm, with a mainly cloudy night for moon-watching."
+      },
+      "zh": {
+        "headline": "中秋正日發出黃色火災危險警告 日間炎熱乾燥",
+        "dek": "天文台今早6時發出黃色火災危險警告，並提醒天氣炎熱或影響健康。正日大致天晴乾燥，晚上部分時間多雲，方便賞月。"
+      }
+    },
     {
       "id": "2026-09-25-lifestyle-disgusting-food-museum-airside",
       "published_at": "2026-09-25T03:05:00+08:00",
@@ -1899,91 +2013,6 @@
       "zh": {
         "headline": "中秋正日輕鐵全日免費 八達通仍須拍卡",
         "dek": "港鐵宣布9月25日中秋節由頭班車起至晚上11時59分，屯門、元朗及天水圍輕鐵全線免收車費。"
-      }
-    },
-    {
-      "id": "2026-09-22-lifestyle-victoria-park-lanterns",
-      "published_at": "2026-09-22T07:25:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "victoria-park",
-        "lcsd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-lifestyle-victoria-park-lanterns.json",
-      "en": {
-        "headline": "Victoria Park lanterns stay lit through Mid-Autumn week",
-        "dek": "The LCSD carnival and the Tourism Board's first International Lantern Spectacular run nightly until 27 September, with lighting extended to midnight on Friday."
-      },
-      "zh": {
-        "headline": "維園綵燈會亮燈至中秋 周五延至午夜",
-        "dek": "康文署中秋綵燈會及旅發局首屆國際綵燈匯演同步在維園舉行，展期至9月27日，中秋正日亮燈延長至午夜。"
-      }
-    },
-    {
-      "id": "2026-09-22-sssdp-places-2027-28",
-      "published_at": "2026-09-22T07:24:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "healthcare",
-        "sssdp"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-sssdp-places-2027-28.json",
-      "en": {
-        "headline": "SSSDP to fund 4,711 places next year, with fewer therapy seats",
-        "dek": "The Education Bureau will subsidise 70 fewer undergraduate places in 2027/28, including cuts of 20 first-year seats each in physiotherapy and occupational therapy."
-      },
-      "zh": {
-        "headline": "指定專業資助計劃下學年4711個學額 治療課程減少",
-        "dek": "教育局公布2027/28學年SSSDP學額較本學年少70個，聖方濟各大學物理治療及東華學院校職業治療一年級各減20個。"
-      }
-    },
-    {
-      "id": "2026-09-22-chp-imported-mpox",
-      "published_at": "2026-09-22T07:23:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "chp",
-        "mpox"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-chp-imported-mpox.json",
-      "en": {
-        "headline": "CHP investigates imported mpox case as yearly total hits 27",
-        "dek": "A 29-year-old man is in stable isolation after testing positive, with 18 of this year's cases recorded since August."
-      },
-      "zh": {
-        "headline": "衞生防護中心調查一宗輸入猴痘個案 本年累計27宗",
-        "dek": "一名29歲男子化驗呈陽性，現於瑪嘉烈醫院隔離，情況穩定；本年18宗個案自8月起錄得。"
-      }
-    },
-    {
-      "id": "2026-09-22-chp-tst-botulism",
-      "published_at": "2026-09-22T07:22:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "chp",
-        "tsim-sha-tsui"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-chp-tst-botulism.json",
-      "en": {
-        "headline": "CHP investigates probable botulism after Tsim Sha Tsui injections",
-        "dek": "A 35-year-old woman is in stable condition after developing drooping eyelids, breathing difficulty and limb weakness following facial injections in a Middle Road flat."
-      },
-      "zh": {
-        "headline": "衞生防護中心調查尖沙嘴注射後疑肉毒中毒個案",
-        "dek": "一名35歲女子在中間道住宅單位接受面部注射後出現眼瞼下垂、呼吸困難及四肢無力，現時情況穩定。"
       }
     }
   ]
