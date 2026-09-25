@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T13:09:32+08:00",
+  "updated_at": "2026-09-25T15:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -121,6 +121,24 @@
       "id": "2026-09-25-sai-ying-pun-salt-water-pipe-burst",
       "first_seen": "2026-09-25T13:16:00+08:00",
       "headline_en": "Salt-water pipe bursts near Sai Ying Pun market, roads closed"
+    },
+    {
+      "key": "foil-team-uzbekistan-semis-ag2026",
+      "id": "2026-09-25-foil-team-uzbekistan-semis",
+      "first_seen": "2026-09-25T15:12:00+08:00",
+      "headline_en": "Hong Kong men’s foil team reach Asian Games semi-finals"
+    },
+    {
+      "key": "tai-wai-claw-machine-theft-arrests-sep25",
+      "id": "2026-09-25-tai-wai-claw-machine-arrests",
+      "first_seen": "2026-09-25T15:13:00+08:00",
+      "headline_en": "Three men arrested over Tai Wai claw machine theft of nearly 100 toys"
+    },
+    {
+      "key": "lai-ka-ying-mid-autumn-wishes-2026",
+      "id": "2026-09-25-lai-ka-ying-mid-autumn-wishes",
+      "first_seen": "2026-09-25T15:14:00+08:00",
+      "headline_en": "Lai Ka-ying sends Mid-Autumn wishes from Tiangong space station"
     }
   ]
 }
