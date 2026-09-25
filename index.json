@@ -1,8 +1,116 @@
 {
-  "generated_at": "2026-09-25T11:25:17+08:00",
+  "generated_at": "2026-09-25T11:25:59+08:00",
   "live_window_hours": 72,
-  "count": 93,
+  "count": 98,
   "articles": [
+    {
+      "id": "2026-09-25-lifestyle-westk-picnic-fest",
+      "published_at": "2026-09-25T11:32:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "west-kowloon",
+        "mid-autumn",
+        "food"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-lifestyle-westk-picnic-fest.json",
+      "en": {
+        "headline": "WestK Picnic Fest returns this Mid-Autumn weekend by the harbour",
+        "dek": "The Harbourside East Lawn in the Art Park is open 2pm to 9pm from Friday to Sunday, with a food market, workshops and live music through 11 October."
+      },
+      "zh": {
+        "headline": "西九Picnic Fest中秋連場開至晚上9時",
+        "dek": "藝術公園臨海東草坪本周五至日下午2時至9時開放，設市集、工作坊及現場音樂，活動舉行至10月11日。"
+      }
+    },
+    {
+      "id": "2026-09-25-pok-fu-lam-fire-dragon-traffic",
+      "published_at": "2026-09-25T11:31:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "mid-autumn",
+        "pok-fu-lam",
+        "buses"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-pok-fu-lam-fire-dragon-traffic.json",
+      "en": {
+        "headline": "Eleven bus and five minibus routes diverted for Pok Fu Lam fire dragon",
+        "dek": "Police will close a stretch of Wah Fu Road near Wah Lok House from about 10.30pm to 11.45pm for the Mid-Autumn parade."
+      },
+      "zh": {
+        "headline": "薄扶林舞火龍今晚封路 11條巴士5條小巴改道",
+        "dek": "警方約晚上10時30分至11時45分臨時封閉華富（一）邨華樂樓附近一段華富道，南區多條路線調整站位。"
+      }
+    },
+    {
+      "id": "2026-09-25-ha-nurse-hiring-lo",
+      "published_at": "2026-09-25T11:30:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "hospital-authority",
+        "nurses"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-ha-nurse-hiring-lo.json",
+      "en": {
+        "headline": "Lo says HA hired over 3,100 nurses this year, up about 20 percent",
+        "dek": "The health chief rejected claims that local graduates face mass unemployment, saying nearly 95 percent of applicants to the Hospital Authority were successful."
+      },
+      "zh": {
+        "headline": "盧寵茂：醫管局今年聘逾3100名護士 按年增約兩成",
+        "dek": "醫務衞生局局長反駁減聘及「畢業即失業」說法，指向醫管局求職的註冊護士錄取率近95%。"
+      }
+    },
+    {
+      "id": "2026-09-25-squash-mixed-doubles-semis",
+      "published_at": "2026-09-25T11:29:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-games",
+        "squash"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-squash-mixed-doubles-semis.json",
+      "en": {
+        "headline": "Two Hong Kong squash pairs reach Asian Games mixed doubles last four",
+        "dek": "Lee Ka-yi and Tang Ming-hong, and Tse Yi-lam and Lai Cheuk-nam, both won their quarter-finals in straight games and are assured of medals."
+      },
+      "zh": {
+        "headline": "亞運壁球混雙兩對港組合闞四強 穩奪獎牌",
+        "dek": "李嘉兒／鄧銘漮及謝依霖／黎卓楠周五在名古屋均直落兩局晉級，混雙不設銅牌戰，兩隊至少各得一面獎牌。"
+      }
+    },
+    {
+      "id": "2026-09-25-hang-seng-mid-autumn-drop",
+      "published_at": "2026-09-25T11:28:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hang-seng",
+        "markets",
+        "mid-autumn",
+        "business"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-hang-seng-mid-autumn-drop.json",
+      "en": {
+        "headline": "Hang Seng slides more than 400 points on Mid-Autumn morning",
+        "dek": "The index opened 237 points lower and later traded around 24,347, down 413 points or 1.67 percent, as US yields stayed high and mainland markets were shut."
+      },
+      "zh": {
+        "headline": "中秋早市恒指跌逾400點 科指跌近2.5%",
+        "dek": "恒指低開237點後跌幅擴大，港台報道早盤見24347點，跌413點或1.67%；美債息高企，內地股市假期休市。"
+      }
+    },
     {
       "id": "2026-09-25-womens-epee-team-qf",
       "published_at": "2026-09-25T11:24:00+08:00",
