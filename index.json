@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-09-25T17:11:04+08:00",
+  "generated_at": "2026-09-25T21:09:57+08:00",
   "live_window_hours": 72,
-  "count": 101,
+  "count": 98,
   "articles": [
+    {
+      "id": "2026-09-25-lifestyle-victoria-park-lanterns",
+      "published_at": "2026-09-25T21:14:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "lantern",
+        "victoria-park",
+        "culture"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-lifestyle-victoria-park-lanterns.json",
+      "en": {
+        "headline": "Victoria Park Mid-Autumn lantern carnival runs through early October",
+        "dek": "The free carnival at Victoria Park lights up nightly from 6.30pm to 11pm, extended to midnight over the festival weekend, with displays continuing until 4 October."
+      },
+      "zh": {
+        "headline": "維園中秋綵燈會亮燈至10月初",
+        "dek": "維多利亞公園中秋綵燈會每晚6時30分至11時亮燈，節日周末延至午夜，展覽持續至10月4日，免費入場。"
+      }
+    },
+    {
+      "id": "2026-09-25-red-flags-stanley-cwb",
+      "published_at": "2026-09-25T21:13:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "beaches",
+        "lcsd",
+        "mid-autumn"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-red-flags-stanley-cwb.json",
+      "en": {
+        "headline": "Red flags raised at Stanley and Clear Water Bay beaches over big waves",
+        "dek": "The Leisure and Cultural Services Department advised the public not to swim at Stanley Main Beach and Clear Water Bay Second Beach after red flags were hoisted on Friday afternoon."
+      },
+      "zh": {
+        "headline": "赤柱及清水灣二灘因湧浪掛紅旗",
+        "dek": "康文署周五下午因湧浪在赤柱正灘及清水灣第二灣泳灘掛上紅旗，呼籲泳客勿下水。"
+      }
+    },
+    {
+      "id": "2026-09-25-foil-team-silver-japan",
+      "published_at": "2026-09-25T21:12:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-games",
+        "fencing",
+        "foil"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-foil-team-silver-japan.json",
+      "en": {
+        "headline": "Hong Kong men’s foil team takes Asian Games silver after final loss to Japan",
+        "dek": "Ryan Choi, Cheung Ka-long, Harris Ho and Leung Chin-yu fell 36-45 to the host nation in Nagoya, securing silver and a HK$1 million incentive award."
+      },
+      "zh": {
+        "headline": "港隊男花團體亞運決賽負日本奪銀",
+        "dek": "蔡俊彥、張家朗、何承謙及梁千雨周五在名古屋以36：45不敵東道主日本，奪得銀牌，可獲賽馬會獎勵計劃100萬元獎金。"
+      }
+    },
     {
       "id": "2026-09-25-uber-flytaxi-shutdown",
       "published_at": "2026-09-25T17:12:00+08:00",
@@ -2109,135 +2176,6 @@
       "zh": {
         "headline": "蔡俊彥亞運男子花劍摘銀 港隊今屆首面劍擊獎牌",
         "dek": "蔡俊彥在常滑決賽以13比15不敵日本劍手飯村一輝，逆轉後仍差一步奪金，為港隊贏得今屆亞運首面劍擊獎牌。"
-      }
-    },
-    {
-      "id": "2026-09-22-ryan-choi-foil-final",
-      "published_at": "2026-09-22T19:07:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "fencing",
-        "ryan-choi"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-ryan-choi-foil-final.json",
-      "en": {
-        "headline": "Ryan Choi reaches Asian Games men's foil final",
-        "dek": "The Hong Kong fencer advanced to the individual foil final in Tokoname, guaranteeing at least a silver medal after Cheung Ka-long exited early."
-      },
-      "zh": {
-        "headline": "蔡俊彥亞運男子花劍個人賽晉身決賽",
-        "dek": "港隊劍手蔡俊彥在常滑晉級男子個人花劍決賽，鎖定至少一面銀牌，張家朗早前止步32強。"
-      }
-    },
-    {
-      "id": "2026-09-22-haughey-100m-freestyle-gold",
-      "published_at": "2026-09-22T19:06:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "swimming",
-        "haughey"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-haughey-100m-freestyle-gold.json",
-      "en": {
-        "headline": "Siobhan Haughey wins Asian Games 100m freestyle gold",
-        "dek": "The Hong Kong swimmer clocked 52.45 seconds in Tokyo to take her second individual gold of the Games, less than 24 hours after defending the 200m freestyle title."
-      },
-      "zh": {
-        "headline": "何詩蓓亞運女子百米自由泳奪金",
-        "dek": "何詩蓓在東京以52秒45奪得女子100米自由泳金牌，距周一衛冕200米自由泳金牌不足24小時，今屆個人第二金。"
-      }
-    },
-    {
-      "id": "2026-09-22-hammer-hill-drinks-pinholes",
-      "published_at": "2026-09-22T19:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "wong-tai-sin",
-        "students",
-        "health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-hammer-hill-drinks-pinholes.json",
-      "en": {
-        "headline": "Twelve students ill after free drinks with suspected pinholes at sports meet",
-        "dek": "Police are investigating energy drinks handed out outside Hammer Hill Road Sports Ground during a school athletics meet after at least 12 pupils reported dizziness and stomach pain."
-      },
-      "zh": {
-        "headline": "斧山道運動場外派免費飲品疑有針孔 12學生不適",
-        "dek": "黃大仙斧山道運動場外有人派發能量飲品，部分包裝懷疑有針孔，至少12名學生飲後報稱頭暈及肚痛，警方正調查。"
-      }
-    },
-    {
-      "id": "2026-09-22-afcd-stray-dog-response",
-      "published_at": "2026-09-22T17:17:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "afcd",
-        "stray-dogs",
-        "yuen-long",
-        "animal-welfare"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-afcd-stray-dog-response.json",
-      "en": {
-        "headline": "AFCD says every dog attack is one tragedy too many after Yuen Long death",
-        "dek": "Assistant director Jackie Yip pledged to tackle stray dogs at source through registration, vaccination and desexing, as joint capture operations continue in the Pok Wai area."
-      },
-      "zh": {
-        "headline": "漁護署：每宗狗隻襲擊都是悲劇 將從源頭處理流浪狗",
-        "dek": "助理署長葉嘉明周二表示會透過強制登記、疫苗及絕育從源頭減少流浪狗，壆圍一帶聯合捕捉行動會持續。"
-      }
-    },
-    {
-      "id": "2026-09-22-sha-tin-diagonal-crossing",
-      "published_at": "2026-09-22T17:16:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "sha-tin",
-        "pedestrian",
-        "shek-mun"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-sha-tin-diagonal-crossing.json",
-      "en": {
-        "headline": "Diagonal pedestrian crossing opens near Shek Mun Station in Sha Tin",
-        "dek": "The Transport Department commissioned the junction of On Ming and On Muk streets on Tuesday, the latest of 15 planned sites expected to cut walking distance by about 30 per cent."
-      },
-      "zh": {
-        "headline": "沙田石門站對角行人過路處啟用 步行距離料減三成",
-        "dek": "運輸署周二啟用安明街與安睦街交界對角過路處，行人可一次過橫過路口，屬今年15個推展地點之一。"
-      }
-    },
-    {
-      "id": "2026-09-22-chloe-leung-road-race-bronze",
-      "published_at": "2026-09-22T17:15:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "cycling",
-        "chloe-leung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-chloe-leung-road-race-bronze.json",
-      "en": {
-        "headline": "Chloe Leung takes Asian Games road race bronze for Hong Kong",
-        "dek": "The cyclist finished third in the women’s individual road race in Nagoya, 41 seconds behind the leaders, after a fourth-place time-trial result two days earlier."
-      },
-      "zh": {
-        "headline": "梁穎儀亞運公路賽摘銅 港隊今屆首面單車獎牌",
-        "dek": "梁穎儀在名古屋女子個人公路賽以2小時50分46秒奪銅，落後冠亞軍41秒，兩日前計時賽排第四。"
       }
     }
   ]
