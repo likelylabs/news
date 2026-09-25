@@ -1,8 +1,55 @@
 {
-  "generated_at": "2026-09-26T07:12:08+08:00",
+  "generated_at": "2026-09-26T07:13:02+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 94,
   "articles": [
+    {
+      "id": "2026-09-26-lifestyle-tai-hang-fire-dragon-finale",
+      "published_at": "2026-09-26T07:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "tai-hang",
+        "fire-dragon",
+        "heritage",
+        "festival"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-lifestyle-tai-hang-fire-dragon-finale.json",
+      "en": {
+        "headline": "Tai Hang fire dragon returns for final Mid-Autumn night",
+        "dek": "The 67-metre incense dragon makes its last procession of the festival this evening in Tai Hang, with roads closed from 2pm and large crowds expected again."
+      },
+      "zh": {
+        "headline": "大坑舞火龍今晚最後一夜 浄紗街再封路",
+        "dek": "中秋追月夜，67米香火龍今晚7時至10時最後巡遊大坑，下午2時起再次封路，料再有大批人潮。"
+      }
+    },
+    {
+      "id": "2026-09-26-poon-sfgs-loan-charges",
+      "published_at": "2026-09-26T07:19:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "courts",
+        "money-laundering",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-poon-sfgs-loan-charges.json",
+      "en": {
+        "headline": "Jason Poon and wife charged over alleged $6m Covid loan fraud",
+        "dek": "Police said the couple each face a fraud count and jointly four money-laundering counts over a 100 per cent government-guaranteed SME loan, with a first hearing on Monday."
+      },
+      "zh": {
+        "headline": "潘煌鴻夫婦被控涉欺詐600萬元百分百擔保貸款",
+        "dek": "警方指兩人各被控一項欺詐罪，合共四項洗黑錢罪，案件周一在九龍城裁判法院首次提堂。"
+      }
+    },
     {
       "id": "2026-09-26-chp-rat-hepatitis-e",
       "published_at": "2026-09-26T07:18:00+08:00",
