@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-25T15:09:08+08:00",
+  "generated_at": "2026-09-25T17:11:04+08:00",
   "live_window_hours": 72,
-  "count": 100,
+  "count": 101,
   "articles": [
+    {
+      "id": "2026-09-25-uber-flytaxi-shutdown",
+      "published_at": "2026-09-25T17:12:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "taxi",
+        "uber",
+        "ride-hailing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-uber-flytaxi-shutdown.json",
+      "en": {
+        "headline": "Uber to shut down FlyTaxi app by end of year",
+        "dek": "The ride-hailing company said it will fully integrate the metered-taxi platform it acquired earlier this year into its own service, following the earlier closure of HKTaxi."
+      },
+      "zh": {
+        "headline": "Uber年底前關閉飛的App 整合至旗下平台",
+        "dek": "Uber周五表示，將於年底前全面整合早前收購的本地的士叫車平台「飛的」，獨立App將停止服務。"
+      }
+    },
+    {
+      "id": "2026-09-25-power-fuel-adjustment-oct",
+      "published_at": "2026-09-25T17:11:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "electricity",
+        "hk-electric",
+        "clp"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-power-fuel-adjustment-oct.json",
+      "en": {
+        "headline": "HK Electric cuts October fuel charge; CLP raises its rate",
+        "dek": "Hongkong Electric will charge 59.3 cents per unit for fuel in October, down 1.4 cents, while CLP’s fuel adjustment rises 1.1 cents to 46.2 cents."
+      },
+      "zh": {
+        "headline": "港燈10月燃料調整費下調1.4仙 中電上調1.1仙",
+        "dek": "港燈10月燃料調整費每度電59.3仙，較9月下調1.4仙；中電則上調1.1仙至46.2仙。"
+      }
+    },
+    {
+      "id": "2026-09-25-foil-team-final-japan",
+      "published_at": "2026-09-25T17:10:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-games",
+        "fencing",
+        "foil"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-foil-team-final-japan.json",
+      "en": {
+        "headline": "Hong Kong men’s foil team reach Asian Games final after beating Korea",
+        "dek": "Ryan Choi, Cheung Ka-long, Harris Ho and Leung Chin-yu defeated South Korea 45-41 in the semi-finals in Nagoya and will face Japan for gold."
+      },
+      "zh": {
+        "headline": "港隊男花團體擊敗韓國晉決賽 與日本爭亞運金牌",
+        "dek": "蔡俊彥、張家朗、何承謙及梁千雨周五在名古屋以45：41擊敗南韓晉身決賽，至少穩奪銀牌，稍後對日本爭金。"
+      }
+    },
     {
       "id": "2026-09-25-lai-ka-ying-mid-autumn-wishes",
       "published_at": "2026-09-25T15:14:00+08:00",
@@ -2172,48 +2238,6 @@
       "zh": {
         "headline": "梁穎儀亞運公路賽摘銅 港隊今屆首面單車獎牌",
         "dek": "梁穎儀在名古屋女子個人公路賽以2小時50分46秒奪銅，落後冠亞軍41秒，兩日前計時賽排第四。"
-      }
-    },
-    {
-      "id": "2026-09-22-plaza-hollywood-manslaughter-order",
-      "published_at": "2026-09-22T15:31:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "courts",
-        "diamond-hill",
-        "manslaughter"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-plaza-hollywood-manslaughter-order.json",
-      "en": {
-        "headline": "Indefinite hospital order for man who killed two women at Plaza Hollywood",
-        "dek": "Szeto Sing-kwong pleaded guilty to manslaughter by diminished responsibility after a 2023 stabbing attack; the High Court ordered him detained without limit of time."
-      },
-      "zh": {
-        "headline": "荷里活廣場斬人案被告認誤殺 被判無限期醫院令",
-        "dek": "司徒成光以減責神志失常承認兩項誤殺罪，高等法院法官杜麗冰判處無限期醫院令，形容案件為悲劇。"
-      }
-    },
-    {
-      "id": "2026-09-22-thunderstorm-warning-south",
-      "published_at": "2026-09-22T15:30:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "observatory",
-        "thunderstorm",
-        "hong-kong-island"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-thunderstorm-warning-south.json",
-      "en": {
-        "headline": "Thunderstorm Warning issued for southern waters and islands",
-        "dek": "The Observatory posted the warning at 2.03pm, later extended to 4pm, as isolated storms were expected over Hong Kong Island, Kowloon and nearby waters."
-      },
-      "zh": {
-        "headline": "天文台發出雷暴警告 預料南部水域及島嶼有局部雷暴",
-        "dek": "警告於下午2時03分發出，其後延長至下午4時；天文台預料香港島、九龍及附近水域有局部雷暴。"
       }
     }
   ]
