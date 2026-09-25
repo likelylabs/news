@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T07:13:38+08:00",
+  "updated_at": "2026-09-26T07:20:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -187,6 +187,36 @@
       "id": "2026-09-25-lifestyle-victoria-park-lanterns",
       "first_seen": "2026-09-25T21:14:00+08:00",
       "headline_en": "Victoria Park Mid-Autumn lantern carnival runs through early October"
+    },
+    {
+      "key": "very-hot-weather-warning-sep26",
+      "id": "2026-09-26-very-hot-weather-warning",
+      "first_seen": "2026-09-26T07:16:00+08:00",
+      "headline_en": "Very hot weather warning in force on Mid-Autumn holiday"
+    },
+    {
+      "key": "ng-ka-ki-vault-bronze-ag2026",
+      "id": "2026-09-26-ng-ka-ki-vault-bronze",
+      "first_seen": "2026-09-26T07:17:00+08:00",
+      "headline_en": "Ng Ka-ki takes Asian Games bronze on men's vault"
+    },
+    {
+      "key": "chp-rat-hev-kowloon-city-sep25",
+      "id": "2026-09-26-chp-rat-hepatitis-e",
+      "first_seen": "2026-09-26T07:18:00+08:00",
+      "headline_en": "91-year-old man confirmed with locally acquired rat hepatitis E"
+    },
+    {
+      "key": "poon-chu-sfgs-loan-charges-sep25",
+      "id": "2026-09-26-poon-sfgs-loan-charges",
+      "first_seen": "2026-09-26T07:19:00+08:00",
+      "headline_en": "Jason Poon and wife charged over alleged $6m Covid loan fraud"
+    },
+    {
+      "key": "lifestyle-tai-hang-fire-dragon-final-night-2026",
+      "id": "2026-09-26-lifestyle-tai-hang-fire-dragon-finale",
+      "first_seen": "2026-09-26T07:20:00+08:00",
+      "headline_en": "Tai Hang fire dragon returns for final Mid-Autumn night"
     }
   ]
 }
