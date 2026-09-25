@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-09-25T11:11:46+08:00",
+  "generated_at": "2026-09-25T11:12:49+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 94,
   "articles": [
+    {
+      "id": "2026-09-25-lifestyle-blue-house-lanterns",
+      "published_at": "2026-09-25T11:14:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "wan-chai",
+        "heritage",
+        "exhibition"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-lifestyle-blue-house-lanterns.json",
+      "en": {
+        "headline": "Blue House lanterns stay lit through Mid-Autumn to 14 October",
+        "dek": "More than 700 hand-painted lanterns hang around the Wan Chai cluster until mid-October, with charity stalls on the open ground through Saturday night."
+      },
+      "zh": {
+        "headline": "灣仔藍屋中秋花燈亮至10月14日 今晚續有義賣檔",
+        "dek": "逾700盎街坊及插畫家手繪花燈掛滿石水渠街一帶，亮燈至10月中；中秋三晚在景星街空地設慈善攤檔。"
+      }
+    },
+    {
+      "id": "2026-09-25-foil-team-india-quarterfinals",
+      "published_at": "2026-09-25T11:13:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-games",
+        "fencing",
+        "cheung-ka-long"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-foil-team-india-quarterfinals.json",
+      "en": {
+        "headline": "Hong Kong foil team reach Asian Games quarter-finals",
+        "dek": "Ryan Choi, Cheung Ka-long, Ho Ching-him and Leung Chin-yu beat India 45-27 in the last 16 in Nagoya and next face Uzbekistan."
+      },
+      "zh": {
+        "headline": "港隊男花團體淘汰印度 亞運闘八強",
+        "dek": "蔡俊彖、張家朗、何承謙及梁千雨周五上午在名古屋以45：27擊敗印度，十六強過關後下一場對烏茲別克。"
+      }
+    },
+    {
+      "id": "2026-09-25-qeh-kai-tak-kwong-wah",
+      "published_at": "2026-09-25T11:12:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "hospitals",
+        "kai-tak",
+        "health",
+        "hospital-authority",
+        "kowloon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-qeh-kai-tak-kwong-wah.json",
+      "en": {
+        "headline": "Lo says Kwong Wah A&E can cover area as QEH moves to Kai Tak",
+        "dek": "The health chief said Queen Elizabeth Hospital services will shift in stages to Kai Tak Hospital, with Kwong Wah's rebuilt emergency department now three times larger."
+      },
+      "zh": {
+        "headline": "盧寵茂：伊院服務遷啟德 廣華急症室可應付當區",
+        "dek": "醫務衞生局局長表示伊利沙伯醫院服務將分階段遷往啟德醫院，重建後的廣華急症室面積擴大三倍，足以應付附近需求。"
+      }
+    },
     {
       "id": "2026-09-25-lam-minors-social-media",
       "published_at": "2026-09-25T11:11:00+08:00",
