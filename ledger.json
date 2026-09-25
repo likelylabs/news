@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T15:09:08+08:00",
+  "updated_at": "2026-09-25T17:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -139,6 +139,24 @@
       "id": "2026-09-25-lai-ka-ying-mid-autumn-wishes",
       "first_seen": "2026-09-25T15:14:00+08:00",
       "headline_en": "Lai Ka-ying sends Mid-Autumn wishes from Tiangong space station"
+    },
+    {
+      "key": "foil-team-final-japan-ag2026",
+      "id": "2026-09-25-foil-team-final-japan",
+      "first_seen": "2026-09-25T17:10:00+08:00",
+      "headline_en": "Hong Kong men’s foil team reach Asian Games final after beating Korea"
+    },
+    {
+      "key": "power-fuel-adjustment-oct2026",
+      "id": "2026-09-25-power-fuel-adjustment-oct",
+      "first_seen": "2026-09-25T17:11:00+08:00",
+      "headline_en": "HK Electric cuts October fuel charge; CLP raises its rate"
+    },
+    {
+      "key": "uber-flytaxi-shutdown-2026",
+      "id": "2026-09-25-uber-flytaxi-shutdown",
+      "first_seen": "2026-09-25T17:12:00+08:00",
+      "headline_en": "Uber to shut down FlyTaxi app by end of year"
     }
   ]
 }
