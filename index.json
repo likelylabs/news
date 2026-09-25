@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-25T11:27:56+08:00",
+  "generated_at": "2026-09-25T13:07:56+08:00",
   "live_window_hours": 72,
-  "count": 98,
+  "count": 100,
   "articles": [
+    {
+      "id": "2026-09-25-sai-ying-pun-salt-water-pipe-burst",
+      "published_at": "2026-09-25T13:16:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "water-supplies",
+        "sai-ying-pun",
+        "road-closure"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-sai-ying-pun-salt-water-pipe-burst.json",
+      "en": {
+        "headline": "Salt-water pipe bursts near Sai Ying Pun market, roads closed",
+        "dek": "A salt-water main ruptured outside the Second Street market on Friday morning, sending a three-metre jet of muddy water onto the carriageway and forcing temporary closures."
+      },
+      "zh": {
+        "headline": "西營盤正街街市外鹹水管爆裂 部分路面封閉",
+        "dek": "周五早上第二街正街街市對開鹹水管爆裂，水柱一度高達三米，泥水湧出路面，警方封閉部分行車線。"
+      }
+    },
+    {
+      "id": "2026-09-25-weekend-weather-outlook-sep26-27",
+      "published_at": "2026-09-25T13:15:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "weekend",
+        "mid-autumn",
+        "heat"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-weekend-weather-outlook-sep26-27.json",
+      "en": {
+        "headline": "Weekend outlook: sunny, dry and very hot for Mid-Autumn holiday",
+        "dek": "The Observatory forecasts mainly fine weather with light winds and temperatures reaching 33 to 34 degrees on Saturday and Sunday, under the influence of an anticyclone aloft."
+      },
+      "zh": {
+        "headline": "周末天氣展望：中秋連假天晴乾燥酷熱",
+        "dek": "天文台預料周六及周日大致天晴，吹微風，日間乾燥酷熱，氣溫升至33至34度，受高空反氣旋影響。"
+      }
+    },
     {
       "id": "2026-09-25-lifestyle-westk-picnic-fest",
       "published_at": "2026-09-25T11:32:00+08:00",
