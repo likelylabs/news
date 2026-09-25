@@ -1,0 +1,35 @@
+{
+  "id": "2026-09-26-very-hot-weather-warning",
+  "published_at": "2026-09-26T07:16:00+08:00",
+  "category": "weather",
+  "tags": [
+    "weather",
+    "hko",
+    "heat",
+    "fire-danger",
+    "health"
+  ],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "very-hot-weather-warning-sep26",
+  "en": {
+    "headline": "Very hot weather warning in force on Mid-Autumn holiday",
+    "dek": "The Observatory issued the warning at 6.45am, expecting a fine, dry and very hot Saturday, and a yellow fire danger warning remains in force.",
+    "body": [
+      "The Hong Kong Observatory issued the Very Hot Weather Warning at 6.45am on Saturday, the public holiday after the Mid-Autumn Festival, saying very hot weather was expected in Hong Kong today.",
+      "The Observatory's morning forecast called for a mainly fine Saturday, dry and very hot during the day, with cloudy periods at night and light winds. Temperatures were expected to range from 28 to 33 degrees Celsius. An anticyclone aloft is keeping southeastern China fine and very hot for the next few days, with Sunday forecast even hotter, up to 34 degrees in urban areas.",
+      "The Observatory said elderly people, pregnant women, infants and children, those with chronic illnesses such as heart disease or high blood pressure, and people who are obese are more vulnerable to heat stroke. It advised people working in hot environments to follow Labour Department guidance, and those outdoors to drink more water, avoid over-exertion and rest in the shade if unwell.",
+      "A yellow fire danger warning, indicating a high fire risk, remained in force. Temporary heat shelters run by the Home Affairs Department stay open while the very hot weather warning is in effect."
+    ]
+  },
+  "zh": {
+    "headline": "中秋翌日公眾假期天文台發出酷熱天氣警告",
+    "dek": "天文台今早6時45分發出酷熱天氣警告，預料周六天晴乾燥酷熱；黃色火災危險警告仍然生效。",
+    "body": [
+      "香港天文台周六中秋翌日公眾假期上午6時45分發出酷熱天氣警告，表示預料本港今日天氣酷熱。",
+      "天文台清晨預報，今日大致天晴，日間乾燥酷熱，晚上部分時間多雲，吹微風，氣溫介乎28至33度。高空反氣旋持續影響華南東部，未來數日仍然天晴酷熱，周日市區最高氣溫更可升至34度。",
+      "天文台指出，長者、孕婦、嬰兒及兒童、患有心臟病或高血壓等慢性病人士，以及過重人士較易中暑。在高溫環境工作的人士應按勞工處指引採取預防措施；進行戶外活動時應多喝水、避免過度勞累，不適即到陰涼處休息。",
+      "黃色火災危險警告仍然生效，火警危險偏高。酷熱天氣警告生效期間，民政事務總署轄下臨時避暑中心會繼續開放。"
+    ]
+  }
+}
