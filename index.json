@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-25T13:09:32+08:00",
+  "generated_at": "2026-09-25T15:09:08+08:00",
   "live_window_hours": 72,
   "count": 100,
   "articles": [
+    {
+      "id": "2026-09-25-lai-ka-ying-mid-autumn-wishes",
+      "published_at": "2026-09-25T15:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "mid-autumn",
+        "space",
+        "lai-ka-ying"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-lai-ka-ying-mid-autumn-wishes.json",
+      "en": {
+        "headline": "Lai Ka-ying sends Mid-Autumn wishes from Tiangong space station",
+        "dek": "Hong Kong’s first astronaut said looking at the moon and the Earth from space made her miss family and friends even more, and wished residents a happy and prosperous life."
+      },
+      "zh": {
+        "headline": "黎家盈從天宮送中秋祝福 望明月更想念香港親友",
+        "dek": "首位港產航天員表示首次在太空度過中秋，從天宮望明月、俯瞰地球萬家燈火，對家人和朋友更加想念。"
+      }
+    },
+    {
+      "id": "2026-09-25-tai-wai-claw-machine-arrests",
+      "published_at": "2026-09-25T15:13:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "theft",
+        "sha-tin",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-tai-wai-claw-machine-arrests.json",
+      "en": {
+        "headline": "Three men arrested over Tai Wai claw machine theft of nearly 100 toys",
+        "dek": "Police said the men, aged 28 to 33, are suspected of stealing plush toys worth about HK$70,000 from a self-service shop on 17 September and handling the stolen goods."
+      },
+      "zh": {
+        "headline": "大圍夾公仔店失竊近百隻公仔 警拘三男",
+        "dek": "警方指三名28至33歲男子涉嫌於9月17日凌晨撬開兩部夾公仔機，偷去市值約7萬元公仔及處理贓物。"
+      }
+    },
+    {
+      "id": "2026-09-25-foil-team-uzbekistan-semis",
+      "published_at": "2026-09-25T15:12:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-games",
+        "fencing",
+        "foil"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-foil-team-uzbekistan-semis.json",
+      "en": {
+        "headline": "Hong Kong men’s foil team reach Asian Games semi-finals",
+        "dek": "Ryan Choi, Cheung Ka-long, Harris Ho and Leung Chin-yu beat Uzbekistan 45-33 in the quarter-finals in Nagoya, guaranteeing at least a bronze medal."
+      },
+      "zh": {
+        "headline": "港隊男花團體淘汰烏茲別克 亞運闖四強穩奪牌",
+        "dek": "蔡俊彥、張家朗、何承謙及梁千雨周五在名古屋以45：33擊敗烏茲別克，四強對南韓，至少穩奪銅牌。"
+      }
+    },
     {
       "id": "2026-09-25-sai-ying-pun-salt-water-pipe-burst",
       "published_at": "2026-09-25T13:16:00+08:00",
@@ -2148,72 +2214,6 @@
       "zh": {
         "headline": "天文台發出雷暴警告 預料南部水域及島嶼有局部雷暴",
         "dek": "警告於下午2時03分發出，其後延長至下午4時；天文台預料香港島、九龍及附近水域有局部雷暴。"
-      }
-    },
-    {
-      "id": "2026-09-22-repulse-bay-burglary",
-      "published_at": "2026-09-22T13:22:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "burglary",
-        "repulse-bay",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-repulse-bay-burglary.json",
-      "en": {
-        "headline": "Jewellery and cash worth HK$610,000 stolen from Repulse Bay flat",
-        "dek": "A 52-year-old woman reported a forced window and opened jewellery boxes after returning home early on Tuesday; no arrests yet."
-      },
-      "zh": {
-        "headline": "淺水灣住宅遭爆竊 損失約61萬元珠寶現金",
-        "dek": "一名52歲姓陳女子周二凌晨返家發現窗戶被撬開及多個首飾盒被翻開，報失約61萬元財物，暫無人被捕。"
-      }
-    },
-    {
-      "id": "2026-09-22-tsing-yi-lpg-tanker-overturn",
-      "published_at": "2026-09-22T13:21:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "tsing-yi",
-        "accident",
-        "lpg",
-        "tanker"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-tsing-yi-lpg-tanker-overturn.json",
-      "en": {
-        "headline": "LPG tanker overturns in Tsing Yi, two men injured",
-        "dek": "The vehicle carrying about eight tonnes of liquefied petroleum gas flipped at a roundabout early on Tuesday; both occupants climbed out conscious."
-      },
-      "zh": {
-        "headline": "青衣石油氣罐車翻側 司機及乘客受傷",
-        "dek": "載有約八噸石油氣的罐車周二凌晨在康宏路迴旋處失控翻側，兩人自行爬出，乘客送院治理。"
-      }
-    },
-    {
-      "id": "2026-09-22-ta-kwu-ling-illicit-cigarettes",
-      "published_at": "2026-09-22T13:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "police",
-        "smuggling",
-        "cigarettes",
-        "ta-kwu-ling"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-ta-kwu-ling-illicit-cigarettes.json",
-      "en": {
-        "headline": "Police seize 1.55 million illicit cigarettes in Ta Kwu Ling raid",
-        "dek": "A 33-year-old man was arrested after officers from the Tai Po anti-triad unit raided a metal warehouse in Ping Che on Monday afternoon."
-      },
-      "zh": {
-        "headline": "警方打鼓嶺搗破私煙倉 檢155萬支私煙拘一人",
-        "dek": "大埔警區反三合會組周一午後在坪輋一金屬倉庫搜出約155萬支未完稅香煙，市值約700萬元，一名33歲本地男子被捕。"
       }
     }
   ]
