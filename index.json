@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-25T09:10:33+08:00",
+  "generated_at": "2026-09-25T11:11:46+08:00",
   "live_window_hours": 72,
   "count": 91,
   "articles": [
+    {
+      "id": "2026-09-25-lam-minors-social-media",
+      "published_at": "2026-09-25T11:11:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "social-media",
+        "minors",
+        "doj",
+        "legislation",
+        "ai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-lam-minors-social-media.json",
+      "en": {
+        "headline": "Justice chief says law remains option on minors' social media",
+        "dek": "Paul Lam said legislation to regulate how children use social media is one option under study, after the policy address ordered a task force led by his department."
+      },
+      "zh": {
+        "headline": "林定國：立法規管未成年用社交媒體仍是選項",
+        "dek": "律政司司長表示，施政報告提出由律政司牽頭成立專責小組後，立法規管兒童使用社交媒體仍屬研究範圍之一。"
+      }
+    },
+    {
+      "id": "2026-09-25-electoral-register-published",
+      "published_at": "2026-09-25T11:10:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "elections",
+        "voters",
+        "reo",
+        "politics"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-25/2026-09-25-electoral-register-published.json",
+      "en": {
+        "headline": "Official voter roll lists 4.12 million geographical electors",
+        "dek": "The 2026 final registers published today record 4,116,965 geographical constituency electors, about 22,000 fewer than a year earlier, the Registration and Electoral Office said."
+      },
+      "zh": {
+        "headline": "正式選民登記冊發表 地方選區411萬6965人",
+        "dek": "選舉事務處今日發表2026年正式選民及投票人登記冊，地方選區載有411萬6965名選民，較去年約少2.2萬人。"
+      }
+    },
     {
       "id": "2026-09-25-seamless-echannel-hzmb",
       "published_at": "2026-09-25T09:09:00+08:00",
@@ -1967,52 +2012,6 @@
       "zh": {
         "headline": "天文台發出雷暴警告 預料新界東有局部雷暴",
         "dek": "警告於上午11時發出，有效至下午1時；天文台總部當時氣溫30度，並提醒市民注意熱天氣。"
-      }
-    },
-    {
-      "id": "2026-09-22-lifestyle-blue-house-lanterns",
-      "published_at": "2026-09-22T09:33:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "wan-chai",
-        "heritage",
-        "lanterns"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-lifestyle-blue-house-lanterns.json",
-      "en": {
-        "headline": "Blue House lanterns stay up through Mid-Autumn week",
-        "dek": "More than 700 hand-painted lanterns line Stone Nullah Lane and nearby Wan Chai streets until 14 October, with charity stalls on the cluster's open ground from 24 to 26 September."
-      },
-      "zh": {
-        "headline": "灣仔藍屋七百盎手繪花燈亮至中秋",
-        "dek": "石水渠街藍屋建築群及附近街道掛上逾700盎街坊及插畫家手繪花燈，展期至10月14日，9月24至26日設慈善攤檔。"
-      }
-    },
-    {
-      "id": "2026-09-22-lifestyle-light-rail-free-mid-autumn",
-      "published_at": "2026-09-22T09:32:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "light-rail",
-        "mtr",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-22/2026-09-22-lifestyle-light-rail-free-mid-autumn.json",
-      "en": {
-        "headline": "Light Rail rides free all day on Mid-Autumn Festival",
-        "dek": "MTR says the entire Light Rail network will waive fares from the first train on 25 September until 11.59pm, covering Tuen Mun, Yuen Long and Tin Shui Wai."
-      },
-      "zh": {
-        "headline": "中秋正日輕鐵全日免費 八達通仍須拍卡",
-        "dek": "港鐵宣布9月25日中秋節由頭班車起至晚上11時59分，屯門、元朗及天水圍輕鐵全線免收車費。"
       }
     }
   ]
