@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-09-27T01:08:44+08:00",
+  "generated_at": "2026-09-27T03:11:09+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-09-27-lifestyle-anne-imhof-house-of-swans",
+      "published_at": "2026-09-27T03:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "tai-kwun",
+        "contemporary-art",
+        "ballet"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-27/2026-09-27-lifestyle-anne-imhof-house-of-swans.json",
+      "en": {
+        "headline": "Anne Imhof’s House of Swans opens at Tai Kwun with ballet performances",
+        "dek": "The German artist’s first major solo exhibition in Asia runs through 3 January, pairing new installations, paintings and sound works with live ballet staged by Hong Kong Ballet dancers."
+      },
+      "zh": {
+        "headline": "安妮．伊姆霍夫《天鵝社》大館開幕 香港芭蕾現場演出",
+        "dek": "2017年威尼斯雙年展金獅獎得主首個亞洲大型個展於大館當代美術館展出至明年1月3日，結合裝置、油畫、聲音作品及香港芭蕾舞團現場演出。"
+      }
+    },
     {
       "id": "2026-09-27-lifestyle-trading-card-show",
       "published_at": "2026-09-27T01:05:00+08:00",
@@ -1958,72 +1981,6 @@
       "zh": {
         "headline": "入境處料國慶黃金周約129萬內地旅客訪港",
         "dek": "當局預計10月1日至7日每日平均訪港人次較去年同期升逾5%，另有約1180個旅行團入境，政務司司長已主持跨部門會議統籌接待。"
-      }
-    },
-    {
-      "id": "2026-09-24-tung-chung-concrete-samples-pass",
-      "published_at": "2026-09-24T01:42:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "tung-chung",
-        "public-housing",
-        "construction"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-tung-chung-concrete-samples-pass.json",
-      "en": {
-        "headline": "New batch of Tung Chung public housing concrete cores all meet strength standards",
-        "dek": "Housing Department said 36 further core samples from the affected blocks tested 26 to 83 percent above the required strength, bringing the verified share to 67 percent."
-      },
-      "zh": {
-        "headline": "東涌公屋新一批混凝土芯樣本全部達標",
-        "dek": "房屋署公布再有36個芯樣強度高出標準26%至83%，累計已測67%樣本合格，餘下結果預計周五出爐。"
-      }
-    },
-    {
-      "id": "2026-09-24-west-kowloon-signal-flares",
-      "published_at": "2026-09-24T01:41:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "west-kowloon",
-        "high-speed-rail",
-        "explosives"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-west-kowloon-signal-flares.json",
-      "en": {
-        "headline": "Mainland man arrested with five signal flares at West Kowloon station",
-        "dek": "A 49-year-old dual-permit holder was detained after security screening found the items in his luggage; he is being held on suspicion of manufacturing or possessing explosives."
-      },
-      "zh": {
-        "headline": "西九高鐵站內地男藏五枚信號彈被捕",
-        "dek": "49歲持雙程證男子下午安檢時被揭行李藏有懷疑信號彈，涉製造或管有炸藥被扣查。"
-      }
-    },
-    {
-      "id": "2026-09-24-sports-drinks-no-tampering",
-      "published_at": "2026-09-24T01:40:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "kwun-tong",
-        "students",
-        "food-safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-sports-drinks-no-tampering.json",
-      "en": {
-        "headline": "Police find no tampering in sports drinks after students fell ill",
-        "dek": "Tests showed no foreign or toxic substances in the free bottles handed out near a Kwun Tong school athletics meet; the reported pinholes were design features of the packaging."
-      },
-      "zh": {
-        "headline": "學生飲免費運動飲品不適 警方指無發現遭人破壞",
-        "dek": "東九龍總區刑事總部表示，化驗結果無異常物質，包裝上的「針孔」實為易撕線設計，冰水積聚後按壓會滲出。"
       }
     }
   ]
