@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T01:08:44+08:00",
+  "updated_at": "2026-09-27T03:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -361,6 +361,12 @@
       "id": "2026-09-27-lifestyle-trading-card-show",
       "first_seen": "2026-09-27T01:05:00+08:00",
       "headline_en": "Trading card show draws collectors to AsiaWorld-Expo through Sunday"
+    },
+    {
+      "key": "lifestyle-anne-imhof-house-of-swans-tai-kwun",
+      "id": "2026-09-27-lifestyle-anne-imhof-house-of-swans",
+      "first_seen": "2026-09-27T03:15:00+08:00",
+      "headline_en": "Anne Imhof’s House of Swans opens at Tai Kwun with ballet performances"
     }
   ]
 }
