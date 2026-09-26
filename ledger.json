@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T17:05:14+08:00",
+  "updated_at": "2026-09-26T21:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -319,6 +319,30 @@
       "id": "2026-09-26-squash-mixed-doubles-all-hk-final",
       "first_seen": "2026-09-26T17:06:00+08:00",
       "headline_en": "Hong Kong pairs set up all-SAR squash mixed doubles final"
+    },
+    {
+      "key": "simmi-chan-squash-bronze-ag2026",
+      "id": "2026-09-26-simmi-chan-squash-bronze",
+      "first_seen": "2026-09-26T21:12:00+08:00",
+      "headline_en": "Simmi Chan takes Hong Kong’s first squash medal with Asian Games bronze"
+    },
+    {
+      "key": "fencing-women-foil-men-sabre-bronze-ag2026",
+      "id": "2026-09-26-fencing-foil-sabre-team-bronzes",
+      "first_seen": "2026-09-26T21:13:00+08:00",
+      "headline_en": "Hong Kong fencing adds two team bronzes in foil and sabre"
+    },
+    {
+      "key": "peggy-wong-resigns-tai-po-sep26",
+      "id": "2026-09-26-peggy-wong-resigns-tai-po",
+      "first_seen": "2026-09-26T21:14:00+08:00",
+      "headline_en": "Tai Po district councillor Peggy Wong resigns citing health reasons"
+    },
+    {
+      "key": "wan-chai-child-abuse-dashcam-arrest-sep26",
+      "id": "2026-09-26-wan-chai-child-abuse-arrest",
+      "first_seen": "2026-09-26T21:15:00+08:00",
+      "headline_en": "Woman arrested over suspected child abuse after dashcam video circulates"
     }
   ]
 }
