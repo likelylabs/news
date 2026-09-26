@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-09-26T07:22:26+08:00",
+  "generated_at": "2026-09-26T09:08:21+08:00",
   "live_window_hours": 72,
-  "count": 94,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-09-26-lifestyle-mid-autumn-marksix",
+      "published_at": "2026-09-26T09:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "marksix",
+        "festival"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-lifestyle-mid-autumn-marksix.json",
+      "en": {
+        "headline": "Mid-Autumn Mark Six Gold Multi-million draw is tonight",
+        "dek": "The Jockey Club will hold the seasonal Gold Multi-million draw on Saturday evening, with an estimated first-prize fund of 68 million dollars."
+      },
+      "zh": {
+        "headline": "中秋金多寶今晚搏珠 估計頭獎基金6800萬",
+        "dek": "馬會周六中秋翌日舉行金多寶搏珠，估計注10元獨中頭獎基金6800萬元，截止投注晚上9時15分。"
+      }
+    },
+    {
+      "id": "2026-09-26-kwun-tong-guess-who-arrest",
+      "published_at": "2026-09-26T09:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "fraud",
+        "kwun-tong",
+        "elderly"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-kwun-tong-guess-who-arrest.json",
+      "en": {
+        "headline": "Teen arrested over two Guess Who I Am scams totalling 410,000",
+        "dek": "Kwun Tong police said a 17-year-old collected cash after two elderly residents were told a relative needed bail money, in cases reported in July."
+      },
+      "zh": {
+        "headline": "觀塘兩宗猜猜我是誰騙案 17歲青年涉收款被捕",
+        "dek": "警方周四拘捕一名17歲本地青年，涉嫌在7月兩宗電話騙案中向兩名長者收取合共約41萬元「保釋金」。"
+      }
+    },
+    {
+      "id": "2026-09-26-money-laundering-54-months",
+      "published_at": "2026-09-26T09:09:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "police",
+        "fraud",
+        "crypto"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-money-laundering-54-months.json",
+      "en": {
+        "headline": "Man jailed 54 months for laundering 4.1 million from crypto scheme",
+        "dek": "A 29-year-old local man was convicted in the District Court of two money-laundering counts tied to a virtual-asset scheme that left 78 victims about 28 million out of pocket."
+      },
+      "zh": {
+        "headline": "29歲男子洗黑錢罪成判囚54個月 涉款410萬",
+        "dek": "區域法院周五裁定一名29歲本地男子兩項處理犯罪得益罪成，判監54個月。案件涉虛擬貨幣相關計劃，78名事主合共損失約2800萬元。"
+      }
+    },
+    {
+      "id": "2026-09-26-victoria-park-lantern-cutoff",
+      "published_at": "2026-09-26T09:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "mid-autumn",
+        "victoria-park",
+        "festival",
+        "tourism",
+        "crowd-control"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-victoria-park-lantern-cutoff.json",
+      "en": {
+        "headline": "Victoria Park lantern street queues closed at 10pm on Mid-Autumn night",
+        "dek": "The Tourism Board shut the World Lantern Street waiting area at 10pm on Friday after large crowds, citing public safety and order."
+      },
+      "zh": {
+        "headline": "中秋夜維園世界網燈大街晚上十時截龍",
+        "dek": "旅發局因人流眾多，周五晚上十時關閉銅鑼灣入口等候區，停止再排隊進入該展區，指為保障公眾安全及秩序。"
+      }
+    },
     {
       "id": "2026-09-26-lifestyle-tai-hang-fire-dragon-finale",
       "published_at": "2026-09-26T07:20:00+08:00",
@@ -1939,162 +2028,6 @@
       "zh": {
         "headline": "國慶全線商業戲院半價 門票下周一中午起發售",
         "dek": "香港戲院商會公布，全港52間商業戲院10月1日所有場次半價，門票由9月28日中午起陸續開售，票房每人每次最多四張。"
-      }
-    },
-    {
-      "id": "2026-09-23-fifa-asean-cup-mmark",
-      "published_at": "2026-09-23T09:08:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "football",
-        "kai-tak",
-        "mong-kok"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-fifa-asean-cup-mmark.json",
-      "en": {
-        "headline": "FIFA ASEAN Cup 2026 awarded M Mark status",
-        "dek": "The Major Sports Events Committee endorsed the four-match tournament, which opens at Mong Kok Stadium on Thursday before moving to Kai Tak."
-      },
-      "zh": {
-        "headline": "FIFA東盟盃獲「M」品牌資格 周四旺角揭幕",
-        "dek": "大型體育活動委員會向2026年FIFA東盟盃頒發「M」品牌資格，周四先於旺角場開賽，其後轉戰啟德體育園。"
-      }
-    },
-    {
-      "id": "2026-09-23-cuhk-terence-chong-assembly",
-      "published_at": "2026-09-23T09:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "cuhk",
-        "new-asia-college"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-cuhk-terence-chong-assembly.json",
-      "en": {
-        "headline": "CUHK economist denies sexism after New Asia assembly remarks",
-        "dek": "Students complained after associate professor Terence Chong's college talk used slides on the 'cost-benefit' of women 'marrying money'; he said the language was everyday Cantonese and not discriminatory."
-      },
-      "zh": {
-        "headline": "新亞周會「釣金龜」言論惹投訴 莊太量否認歧視女性",
-        "dek": "中大經濟系副教授、新亞書院副院長莊太量周二晚會上以「伴侶經濟學」作題，學生指簡報及發言帶性別定型並向校方投訴；他否認歧視，稱屬日常廣東話。"
-      }
-    },
-    {
-      "id": "2026-09-23-thunderstorm-warning",
-      "published_at": "2026-09-23T09:06:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "thunderstorm",
-        "hko",
-        "new-territories"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-thunderstorm-warning.json",
-      "en": {
-        "headline": "Thunderstorm warning in force until 10am for New Territories",
-        "dek": "The Hong Kong Observatory issued the warning at 8.05am, saying isolated thunderstorms were expected over the New Territories this morning."
-      },
-      "zh": {
-        "headline": "天文台發出雷暴警告 有效至上午10時 預料新界有局部雷暴",
-        "dek": "天文台今早8時05分發出雷暴警告，有效至上午10時，預料新界有局部地區雷暴，呼籲市民採取預防措施。"
-      }
-    },
-    {
-      "id": "2026-09-23-lifestyle-tai-hang-fire-dragon",
-      "published_at": "2026-09-23T07:31:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "tai-hang",
-        "intangible-heritage",
-        "festival"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-lifestyle-tai-hang-fire-dragon.json",
-      "en": {
-        "headline": "Tai Hang Fire Dragon Dance returns for three Mid-Autumn nights",
-        "dek": "The national intangible cultural heritage parade runs from 24 to 26 September, with road closures in Tai Hang and a planned stop at Victoria Park on festival night."
-      },
-      "zh": {
-        "headline": "大坑舞火龍中秋一連三晚上演 區內實施封路",
-        "dek": "這項國家非遺將於9月24至26日舉行，大坑會封路改道，中秋正日火龍亦會前往維園綵燈會。"
-      }
-    },
-    {
-      "id": "2026-09-23-yuen-long-stray-dogs-third-sweep",
-      "published_at": "2026-09-23T07:30:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "yuen-long",
-        "afcd",
-        "police",
-        "animals",
-        "public-safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-yuen-long-stray-dogs-third-sweep.json",
-      "en": {
-        "headline": "Two more unattended dogs caught near Yuen Long attack site",
-        "dek": "AFCD and police took two further dogs in a Tuesday night sweep around Pok Wai, the third large search in two days after a cyclist died."
-      },
-      "zh": {
-        "headline": "元朗再捕兩隻無人看管唐狗 兩日內第三度行動",
-        "dek": "漁護署與警方周二晚在壤圍一帶再捕捉兩隻無人看管唐狗，屬單車女子死亡事件後兩日內第三次大型搜捕。"
-      }
-    },
-    {
-      "id": "2026-09-23-mid-autumn-special-traffic",
-      "published_at": "2026-09-23T07:29:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "mid-autumn",
-        "mtr",
-        "tai-hang",
-        "traffic"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-mid-autumn-special-traffic.json",
-      "en": {
-        "headline": "Special traffic plans set for Mid-Autumn and fire dragon nights",
-        "dek": "The Transport Department said road closures and extra public transport will run from 24 to 26 September, including overnight MTR on festival night."
-      },
-      "zh": {
-        "headline": "中秋及大坑舞火龍期間實施特別交通安排",
-        "dek": "運輸署公布9月24至26日將有封路及加強公共交通服務，中秋夜大部分港鐵絲會通宵行駛。"
-      }
-    },
-    {
-      "id": "2026-09-23-gov-eu-annual-report",
-      "published_at": "2026-09-23T07:28:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "government",
-        "european-union",
-        "national-security",
-        "one-country-two-systems"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-gov-eu-annual-report.json",
-      "en": {
-        "headline": "Government rejects EU Commission annual report on Hong Kong",
-        "dek": "The HKSAR Government said it strongly disagreed with and opposed what it called inaccurate and biased remarks in a European Commission annual report issued with the EU High Representative."
-      },
-      "zh": {
-        "headline": "特區政府強烈不滿並反對歐盟委員會涉港年度報告",
-        "dek": "特區政府就歐盟委員會及歐盟外交與安全政策高級代表發表的年度報告表示強烈不滿和反對，指內容不實及偏頓。"
       }
     }
   ]
