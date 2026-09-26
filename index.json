@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-09-26T09:10:38+08:00",
+  "generated_at": "2026-09-26T11:10:13+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 94,
   "articles": [
+    {
+      "id": "2026-09-26-lifestyle-tst-cultural-centre-lanterns",
+      "published_at": "2026-09-26T11:25:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "lantern",
+        "tsim-sha-tsui",
+        "festival"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-lifestyle-tst-cultural-centre-lanterns.json",
+      "en": {
+        "headline": "Tsim Sha Tsui lanterns stay lit through the Mid-Autumn holiday",
+        "dek": "The Leisure and Cultural Services Department’s display at the Cultural Centre Piazza runs nightly until 11 October, with a weekend creative market on Saturday and Sunday."
+      },
+      "zh": {
+        "headline": "尖沙嘴文化中心中秋綵燈假期繼續亮燈",
+        "dek": "康文署文化中心露天廣場綵燈展每晚6時30分至11時開放，展期至10月11日，本周末另設中秋創意市集。"
+      }
+    },
+    {
+      "id": "2026-09-26-yuen-long-teacher-jailed",
+      "published_at": "2026-09-26T11:24:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "court",
+        "yuen-long"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-yuen-long-teacher-jailed.json",
+      "en": {
+        "headline": "Primary teacher jailed 36 months for abusing pupils in tutoring",
+        "dek": "A 31-year-old maths teacher admitted eight charges including indecent assault of two boys and making child sexual abuse images, a District Court judge said on Friday."
+      },
+      "zh": {
+        "headline": "小學男教師義教期間非禮男童 認八罪判囚36個月",
+        "dek": "31歲數學教師周五在區域法院承認八項罪名，暫委法官指他違反誠信、案情持續超過兩年，判監禁三年。"
+      }
+    },
+    {
+      "id": "2026-09-26-onebus-electric-coach-hzmb",
+      "published_at": "2026-09-26T11:23:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "hzmb",
+        "macau",
+        "buses"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-onebus-electric-coach-hzmb.json",
+      "en": {
+        "headline": "First electric coach starts Hong Kong–Macau runs via the Bridge",
+        "dek": "Operator One Bus put a 52-seat battery coach on two daily crossings from Saturday, saying energy costs could fall by about half versus diesel."
+      },
+      "zh": {
+        "headline": "港澳一號首部電動巴今日經大橋往返澳門",
+        "dek": "營辦商周六起以52座位電動旅巴行走港珠澳大橋紐，暫每日兩班，估計燃料開支較柴油車低四至五成。"
+      }
+    },
+    {
+      "id": "2026-09-26-esports-mma-team-bronze",
+      "published_at": "2026-09-26T11:22:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-games",
+        "esports"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-esports-mma-team-bronze.json",
+      "en": {
+        "headline": "Hong Kong takes first Asian Games esports medal of these Games",
+        "dek": "Lee Yin-hei, Wong Yuk-cheung and Yip Man-ho won bronze in the mixed martial-arts team event after beating Thailand and falling to Japan."
+      },
+      "zh": {
+        "headline": "港隊亞運電競綜合格鬥摘銅 今屆電競開齋",
+        "dek": "李衍熙、黃育祥及葉文豪周五在名古屋擊敗泰國後四強不敵日本，賽事不設銅牌戰，港隊穩奪季軍。"
+      }
+    },
     {
       "id": "2026-09-26-lifestyle-mid-autumn-marksix",
       "published_at": "2026-09-26T09:11:00+08:00",
