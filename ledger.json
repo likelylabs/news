@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T09:08:21+08:00",
+  "updated_at": "2026-09-26T09:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -217,6 +217,36 @@
       "id": "2026-09-26-lifestyle-tai-hang-fire-dragon-finale",
       "first_seen": "2026-09-26T07:20:00+08:00",
       "headline_en": "Tai Hang fire dragon returns for final Mid-Autumn night"
+    },
+    {
+      "key": "afcd-eight-dogs-yuen-long-sep24",
+      "id": "2026-09-25-afcd-eight-dogs-yuen-long",
+      "first_seen": "2026-09-25T01:10:00+08:00",
+      "headline_en": "AFCD detains eight unattended dogs after Yuen Long joint operation"
+    },
+    {
+      "key": "victoria-park-lantern-street-cutoff-sep25",
+      "id": "2026-09-26-victoria-park-lantern-cutoff",
+      "first_seen": "2026-09-26T09:08:00+08:00",
+      "headline_en": "Victoria Park lantern street queues closed at 10pm on Mid-Autumn night"
+    },
+    {
+      "key": "money-laundering-54-months-sep25",
+      "id": "2026-09-26-money-laundering-54-months",
+      "first_seen": "2026-09-26T09:09:00+08:00",
+      "headline_en": "Man jailed 54 months for laundering 4.1 million from crypto scheme"
+    },
+    {
+      "key": "kwun-tong-guess-who-arrest-sep25",
+      "id": "2026-09-26-kwun-tong-guess-who-arrest",
+      "first_seen": "2026-09-26T09:10:00+08:00",
+      "headline_en": "Teen arrested over two Guess Who I Am scams totalling 410,000"
+    },
+    {
+      "key": "lifestyle-mid-autumn-marksix-gold-sep26",
+      "id": "2026-09-26-lifestyle-mid-autumn-marksix",
+      "first_seen": "2026-09-26T09:11:00+08:00",
+      "headline_en": "Mid-Autumn Mark Six Gold Multi-million draw is tonight"
     }
   ]
 }
