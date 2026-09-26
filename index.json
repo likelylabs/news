@@ -1,8 +1,51 @@
 {
-  "generated_at": "2026-09-26T15:19:23+08:00",
+  "generated_at": "2026-09-26T17:02:56+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-09-26-squash-mixed-doubles-all-hk-final",
+      "published_at": "2026-09-26T17:06:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "squash",
+        "sport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-squash-mixed-doubles-all-hk-final.json",
+      "en": {
+        "headline": "Hong Kong pairs set up all-SAR squash mixed doubles final",
+        "dek": "Both Hong Kong mixed doubles combinations won their semi-finals on Saturday at the Asian Games, guaranteeing gold and silver for the city in the event."
+      },
+      "zh": {
+        "headline": "亞運壁球混雙港隊包辦決賽 鎖定金銀牌",
+        "dek": "港隊兩對混雙組合周六均打入亞運決賽，確保包辦金銀牌。"
+      }
+    },
+    {
+      "id": "2026-09-26-kau-yi-chau-hiker-collapse",
+      "published_at": "2026-09-26T17:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "hiking",
+        "sai-kung",
+        "rescue",
+        "government-flying-service"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-kau-yi-chau-hiker-collapse.json",
+      "en": {
+        "headline": "Hiker collapses on Kau Yi Chau, airlifted by helicopter",
+        "dek": "A man in his 30s lost consciousness while hiking on the outlying island on Saturday afternoon; Government Flying Service crews lifted him to Pamela Youde Nethersole Eastern Hospital."
+      },
+      "zh": {
+        "headline": "西貢娥眉洲男子行山暈倒 直升機送院",
+        "dek": "一名約30歲男子周六下午在娥眉洲行山期間突然不適並陷入昏迷，政府飛行服務隊直升機將他送往東區醫院治理。"
+      }
+    },
     {
       "id": "2026-09-26-paul-chan-aiib-qatar",
       "published_at": "2026-09-26T15:23:00+08:00",
@@ -1984,71 +2027,6 @@
       "zh": {
         "headline": "錦田公路混凝土車撞斃六旬婦 下午不治",
         "dek": "63歲女子今早約7時半在錦田公路近高埔村被運載混凝土重型貨車撞倒，先送博愛醫院再轉屯門醫院，下午約1時39分不治。"
-      }
-    },
-    {
-      "id": "2026-09-23-juvenile-arrests-h1-2026",
-      "published_at": "2026-09-23T15:27:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "youth",
-        "crime-prevention"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-juvenile-arrests-h1-2026.json",
-      "en": {
-        "headline": "Juvenile arrests up 20 percent in first half of 2026, police say",
-        "dek": "Commissioner Joe Chow reported 1,580 young people aged 10 to 20 arrested from January to June, with sharp rises in serious assault and criminal damage cases linked to debt collection."
-      },
-      "zh": {
-        "headline": "上半年青少年被捕人數升兩成 警推刊物助師長預防",
-        "dek": "警務處處長周一鳴表示，今年1至6月共拘捕1580名10至20歲青少年，較去年同期升約兩成，傷人及刑事毀壞案升幅顯著。"
-      }
-    },
-    {
-      "id": "2026-09-23-qmh-lift-engineer-sentence",
-      "published_at": "2026-09-23T15:26:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "queen-mary-hospital",
-        "lifts",
-        "safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-qmh-lift-engineer-sentence.json",
-      "en": {
-        "headline": "Lift engineer given 160 hours community service over Queen Mary defects",
-        "dek": "Law Wing-chai, 54, was sentenced at Eastern Court for improperly issuing safety certificates and submitting misleading documents after 24 lifts in the new clinical block were found defective."
-      },
-      "zh": {
-        "headline": "瑪麗醫院升降機工程師不當發安全證書 判社服160小時",
-        "dek": "羅永齊在東區裁判法院被裁定不當地發出安全證書及提交具誤導性文件罪成，判160小時社會服務令。新大樓28部升降機中有24部曾出現嚴重故障。"
-      }
-    },
-    {
-      "id": "2026-09-23-tin-shui-wai-school-bus-taxi",
-      "published_at": "2026-09-23T15:25:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "tin-shui-wai",
-        "traffic",
-        "school-bus",
-        "accident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-tin-shui-wai-school-bus-taxi.json",
-      "en": {
-        "headline": "Eight pupils sent to hospital after school bus hits taxi in Tin Shui Wai",
-        "dek": "A nanny van carrying Tin Shui Wai Government Primary School pupils collided with a taxi on Tin Shui Road near Tin Chak Estate; all injuries were reported as minor."
-      },
-      "zh": {
-        "headline": "天水圍校巴與的士相撞 八學童不適送院",
-        "dek": "天水圍官立小學保母車今早在天瑞路與的士輕微碰撞，八名學童其後表示不適，全部送往天水圍醫院檢查，傷勢輕微。"
       }
     }
   ]
