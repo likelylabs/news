@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-26T21:14:01+08:00",
+  "generated_at": "2026-09-26T23:08:12+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-09-26-lifestyle-mid-autumn-holiday-crowds",
+      "published_at": "2026-09-26T23:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "festival",
+        "victoria-park",
+        "lantern"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-lifestyle-mid-autumn-holiday-crowds.json",
+      "en": {
+        "headline": "Mid-Autumn holiday crowds fill lantern sites on the day after the festival",
+        "dek": "Victoria Park’s International Lantern Spectacular and other displays continued to draw families on the public holiday, with organisers managing entry to keep queues manageable."
+      },
+      "zh": {
+        "headline": "中秋翌日假期綵燈場繼續熱鬧 維園等人流管理措施維持",
+        "dek": "維園世界綵燈大街及其他主要綵燈展在公眾假期繼續開放，主辦單位繼續實施人流管理，方便市民補看。"
+      }
+    },
+    {
+      "id": "2026-09-26-tst-bar-body-court-appearance",
+      "published_at": "2026-09-26T23:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "court",
+        "tsim-sha-tsui",
+        "drugs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-tst-bar-body-court-appearance.json",
+      "en": {
+        "headline": "Two Tsim Sha Tsui bar staff charged over body removal case appear in court",
+        "dek": "A 28-year-old man and 44-year-old woman face charges including preventing the lawful burial of a corpse after a colleague was found dead on a roadside chair early on Thursday."
+      },
+      "zh": {
+        "headline": "尖沙咀酒吧棄屍案兩職員提堂 各控阻合法埋葬屍體等罪",
+        "dek": "28歲男及44歲女酒吧職員被控阻止合法埋葬屍體、經營毒窟及販運危險藥物，周六在粉嶺裁判法院提堂。"
+      }
+    },
     {
       "id": "2026-09-26-wan-chai-child-abuse-arrest",
       "published_at": "2026-09-26T21:15:00+08:00",
