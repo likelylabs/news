@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T11:10:54+08:00",
+  "updated_at": "2026-09-26T13:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -271,6 +271,18 @@
       "id": "2026-09-26-lifestyle-tst-cultural-centre-lanterns",
       "first_seen": "2026-09-26T11:25:00+08:00",
       "headline_en": "Tsim Sha Tsui lanterns stay lit through the Mid-Autumn holiday"
+    },
+    {
+      "key": "sha-tin-247-fitness-pinhole-cameras",
+      "id": "2026-09-26-sha-tin-247-fitness-pinhole",
+      "first_seen": "2026-09-26T13:10:00+08:00",
+      "headline_en": "Three pinhole cameras found in Sha Tin 24/7 Fitness changing rooms"
+    },
+    {
+      "key": "route-6-full-opening-tko-yau-ma-tei",
+      "id": "2026-09-26-route-6-full-opening-timeline",
+      "first_seen": "2026-09-26T13:11:00+08:00",
+      "headline_en": "Route 6 full opening this year will cut Tseung Kwan O to Yau Ma Tei to 12 minutes"
     }
   ]
 }
