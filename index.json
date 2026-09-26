@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-09-26T13:08:10+08:00",
+  "generated_at": "2026-09-26T15:18:26+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-09-26-paul-chan-aiib-qatar",
+      "published_at": "2026-09-26T15:23:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "paul-chan",
+        "aiib",
+        "finance",
+        "qatar"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-paul-chan-aiib-qatar.json",
+      "en": {
+        "headline": "Paul Chan departs for AIIB annual meeting in Qatar",
+        "dek": "The Financial Secretary will deliver a keynote on digital public infrastructure and meet fellow governors and business leaders under the theme of tomorrow's infrastructure."
+      },
+      "zh": {
+        "headline": "陳茂波深夜啟程赴卡塔爾出席亞投行年會",
+        "dek": "財政司司長將在多哈亞投行第十一屆理事會年會發表數字公共基建主旨演講，並與其他理事及政商界領袖會面。"
+      }
+    },
+    {
+      "id": "2026-09-26-building-maintenance-preapproval-lists",
+      "published_at": "2026-09-26T15:22:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "development-bureau",
+        "building-maintenance",
+        "linn",
+        "urban-renewal"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-building-maintenance-preapproval-lists.json",
+      "en": {
+        "headline": "Linn unveils stricter pre-approval lists for building maintenance firms",
+        "dek": "Separate lists for survey consultants, supervision consultants and contractors open for applications from 30 September, with background checks and a de-listing mechanism to curb collusion."
+      },
+      "zh": {
+        "headline": "甯漢豪推樓宇維修預審名單 準則更嚴防打龍通",
+        "dek": "發展局將為驗樓顧問、監工顧問及承建商設立三張獨立預審名單，9月30日起接受申請，目標年底備妥，明年首季協助業主招標。"
+      }
+    },
+    {
+      "id": "2026-09-26-clear-water-bay-illegal-racing",
+      "published_at": "2026-09-26T15:21:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "illegal-racing",
+        "clear-water-bay",
+        "traffic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-clear-water-bay-illegal-racing.json",
+      "en": {
+        "headline": "Police seize 10 cars in Clear Water Bay anti-illegal racing operation",
+        "dek": "East Kowloon traffic officers intercepted 15 private cars on Mid-Autumn night; 10 were detained for suspected illegal modifications after intelligence indicated a planned race."
+      },
+      "zh": {
+        "headline": "中秋夜清水灣打擊非法賽車 10車疑非法改裝被扣查",
+        "dek": "東九龍總區交通部中秋夜在清水灣一帶展開代號「火炬」行動，截查15輛私家車，其中10輛懷疑非法改裝被扣留。"
+      }
+    },
+    {
+      "id": "2026-09-26-qmh-lifts-linn-account",
+      "published_at": "2026-09-26T15:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "queen-mary-hospital",
+        "development-bureau",
+        "lifts",
+        "public-works"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-qmh-lifts-linn-account.json",
+      "en": {
+        "headline": "Linn pledges public account on Queen Mary Hospital lift defects",
+        "dek": "Development chief Bernadette Linn said a report for the Chief Executive would detail how problems with 24 of 28 lifts in the new clinical block arose and when they were identified."
+      },
+      "zh": {
+        "headline": "甯漢豪承諾就瑪麗醫院升降機問題向公眾交代",
+        "dek": "發展局局長甯漢豪表示，將向行政長官提交報告，交代新臨床大樓28部升降機中24部出現問題的原因及發現時間，報告其後會向公眾披露。"
+      }
+    },
     {
       "id": "2026-09-26-route-6-full-opening-timeline",
       "published_at": "2026-09-26T13:11:00+08:00",
@@ -1961,51 +2049,6 @@
       "zh": {
         "headline": "天水圍校巴與的士相撞 八學童不適送院",
         "dek": "天水圍官立小學保母車今早在天瑞路與的士輕微碰撞，八名學童其後表示不適，全部送往天水圍醫院檢查，傷勢輕微。"
-      }
-    },
-    {
-      "id": "2026-09-23-zhao-coach-bond",
-      "published_at": "2026-09-23T13:16:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "child-protection",
-        "cheung-chau",
-        "training-camp"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-zhao-coach-bond.json",
-      "en": {
-        "headline": "Coach accused of slapping boy, 8, given three-year good behaviour bond",
-        "dek": "Zhao Yiqun, 51, faced child abuse charges over an August 2024 incident at a Cheung Chau training camp; the Department of Justice dropped the prosecution after an agreement."
-      },
-      "zh": {
-        "headline": "教練涉掌摑8歲男童獲簽保守行為三年",
-        "dek": "趙藝群被控在長洲訓練營虐待兒童及襲擊，律政司在雙方達成協議後不繼續檢控，東區裁判法院周三判簽保守行為。"
-      }
-    },
-    {
-      "id": "2026-09-23-john-lee-flu-vaccine",
-      "published_at": "2026-09-23T13:15:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "flu",
-        "vaccine",
-        "government",
-        "john-lee",
-        "public-health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-john-lee-flu-vaccine.json",
-      "en": {
-        "headline": "John Lee leads officials in seasonal flu vaccine drive",
-        "dek": "The chief executive and 22 senior officials received the jab as the government rolled out four measures to boost uptake for the 2026/27 season."
-      },
-      "zh": {
-        "headline": "李家超率22名官員接種季節性流感疫苗",
-        "dek": "行政長官與司局長、常秘及署長級官員一同打針，政府推出四大優化措施鼓勵市民盡早接種。"
       }
     }
   ]
