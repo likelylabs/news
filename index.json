@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-26T11:10:54+08:00",
+  "generated_at": "2026-09-26T13:08:10+08:00",
   "live_window_hours": 72,
-  "count": 94,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-09-26-route-6-full-opening-timeline",
+      "published_at": "2026-09-26T13:11:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "route-6",
+        "tseung-kwan-o",
+        "central-kowloon-bypass"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-route-6-full-opening-timeline.json",
+      "en": {
+        "headline": "Route 6 full opening this year will cut Tseung Kwan O to Yau Ma Tei to 12 minutes",
+        "dek": "Transport chief Mable Chan said the Central Kowloon Bypass Kowloon Bay section is on track to complete in 2026, linking the whole 12.5 km strategic route."
+      },
+      "zh": {
+        "headline": "6號幹線今年全線通車 將軍澳至油麻地料減至12分鐘",
+        "dek": "運輸及物流局局長陳美寶指中九龍繞道九龍灣段料今年內竣工，全線12.5公里貫通後繁忙時段車程大幅縮短。"
+      }
+    },
+    {
+      "id": "2026-09-26-sha-tin-247-fitness-pinhole",
+      "published_at": "2026-09-26T13:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "sha-tin",
+        "voyeurism",
+        "fitness"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-sha-tin-247-fitness-pinhole.json",
+      "en": {
+        "headline": "Three pinhole cameras found in Sha Tin 24/7 Fitness changing rooms",
+        "dek": "Police classified the case as voyeurism after a member discovered devices taped to false ceilings at the Lek Yuen Street branch; no arrests yet."
+      },
+      "zh": {
+        "headline": "沙田24/7 FITNESS三更衣室發現針孔鏡頭 警列窺淫",
+        "dek": "瀝源街分店周五下午有會員發現假天花藏有攝錄裝置，警方暫未有人被捕，交由沙田警區跟進。"
+      }
+    },
     {
       "id": "2026-09-26-lifestyle-tst-cultural-centre-lanterns",
       "published_at": "2026-09-26T11:25:00+08:00",
@@ -1962,137 +2006,6 @@
       "zh": {
         "headline": "李家超率22名官員接種季節性流感疫苗",
         "dek": "行政長官與司局長、常秘及署長級官員一同打針，政府推出四大優化措施鼓勵市民盡早接種。"
-      }
-    },
-    {
-      "id": "2026-09-23-lifestyle-victoria-park-lanterns",
-      "published_at": "2026-09-23T11:21:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "festival",
-        "victoria-park",
-        "causeway-bay"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-lifestyle-victoria-park-lanterns.json",
-      "en": {
-        "headline": "Victoria Park lanterns stay lit through Mid-Autumn weekend",
-        "dek": "The LCSD carnival and a first Tourism Board international display run nightly until 27 September, with lighting extended to midnight on Friday."
-      },
-      "zh": {
-        "headline": "維園綵燈會亮燈至中秋周末 正日延長至午夜",
-        "dek": "康文署綵燈會及旅發局首次國際綵燈匯每日傍晚6時半至11時開放，9月25日延長至午夜12時，免費入場。"
-      }
-    },
-    {
-      "id": "2026-09-23-yau-foreign-firms-confidence",
-      "published_at": "2026-09-23T11:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "trade",
-        "government",
-        "investment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-yau-foreign-firms-confidence.json",
-      "en": {
-        "headline": "Foreign firms still backing Hong Kong, commerce chief says",
-        "dek": "Algernon Yau told RTHK that more than 10,070 companies with overseas headquarters now have a presence here, with the United States ranking second after the mainland."
-      },
-      "zh": {
-        "headline": "丘應樺：外商對香港營商環境有信心 在港設企逾萬家",
-        "dek": "商務及經濟發展局局長在港台節目表示，總部在外地而在港設立的公司已逾10070家，美國企業數目排第二。"
-      }
-    },
-    {
-      "id": "2026-09-23-haughey-100m-free-gold",
-      "published_at": "2026-09-23T11:19:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "swimming",
-        "asian-games",
-        "haughey"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-haughey-100m-free-gold.json",
-      "en": {
-        "headline": "Siobhan Haughey defends Asian Games 100m freestyle title",
-        "dek": "The Hong Kong swimmer won in 52.45 seconds in Tokyo on Tuesday, her second individual gold of the Nagoya Games after the 200m freestyle."
-      },
-      "zh": {
-        "headline": "何詩蓓亞運100米自由泳封后 兩日內個人第二金",
-        "dek": "港隊「女飛魚」周二在東京水上運動中心以52秒45成功衛冕，繼周一200米自由泳後再奪金牌。"
-      }
-    },
-    {
-      "id": "2026-09-23-kam-tin-concrete-truck-collision",
-      "published_at": "2026-09-23T11:18:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "yuen-long",
-        "traffic",
-        "accident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-kam-tin-concrete-truck-collision.json",
-      "en": {
-        "headline": "Woman left unconscious after concrete mixer hits pedestrian in Kam Tin",
-        "dek": "Police said a heavy vehicle carrying concrete struck a woman on a crossing along Kam Tin Road near 8.30am; she was taken to Pok Oi Hospital."
-      },
-      "zh": {
-        "headline": "錦田公路混凝土車撞女途人 傷者昏迷送博愛醫院",
-        "dek": "今早約8時半，一輛運載混凝土的重型貨車在八鄉錦田公路近高埔村行人過路處撞到一名女子，司機在場助查。"
-      }
-    },
-    {
-      "id": "2026-09-23-hang-seng-below-25000",
-      "published_at": "2026-09-23T11:17:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "markets",
-        "stocks"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-hang-seng-below-25000.json",
-      "en": {
-        "headline": "Hang Seng slips below 25,000 as financials weigh",
-        "dek": "The benchmark was down about 186 points, or 0.7 per cent, near 24,902 in late morning trade, after opening just above the 25,000 mark."
-      },
-      "zh": {
-        "headline": "恒指失守25000點 金融股拖累早段跌約186點",
-        "dek": "恒生指數公司上午10時52分數據顯示，恒指報24901點，跌186點或0.74%，早市高見25072、低見24836。"
-      }
-    },
-    {
-      "id": "2026-09-23-tse-stray-dogs-review",
-      "published_at": "2026-09-23T11:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "yuen-long",
-        "afcd",
-        "animals",
-        "government",
-        "public-safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-tse-stray-dogs-review.json",
-      "en": {
-        "headline": "Minister to review stray-dog feeding rules and abandonment penalties",
-        "dek": "Environment chief Tse Chin-wan told lawmakers three of five dogs caught after the Yuen Long fatality were microchipped, and said owners cannot simply abandon animals."
-      },
-      "zh": {
-        "headline": "謝展寰：將檢視饋飼流浪狗及執法 考慮加強棄養罰則",
-        "dek": "環境及生態局局長在立法會簡報會表示，元朗事件後捕獲五隻狗當中三隻有晶片，反映狗主不能隨便棄養，年底前回立法會交代修例。"
       }
     }
   ]
