@@ -1,8 +1,92 @@
 {
-  "generated_at": "2026-09-26T17:05:14+08:00",
+  "generated_at": "2026-09-26T21:14:01+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-09-26-wan-chai-child-abuse-arrest",
+      "published_at": "2026-09-26T21:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "child-abuse",
+        "wan-chai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-wan-chai-child-abuse-arrest.json",
+      "en": {
+        "headline": "Woman arrested over suspected child abuse after dashcam video circulates",
+        "dek": "A 44-year-old was arrested in Western district on Friday after footage appeared to show a boy being shoved into a roadside railing in Wan Chai."
+      },
+      "zh": {
+        "headline": "灣仔行車記錄片段傳出後 女事主涉虐兒被捕",
+        "dek": "一名44歲女子周五下午在西區被捕，警方指與一段疑似將男童推向路邊欄杆的行車記錄片段有關。"
+      }
+    },
+    {
+      "id": "2026-09-26-peggy-wong-resigns-tai-po",
+      "published_at": "2026-09-26T21:14:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "district-council",
+        "tai-po",
+        "dab"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-peggy-wong-resigns-tai-po.json",
+      "en": {
+        "headline": "Tai Po district councillor Peggy Wong resigns citing health reasons",
+        "dek": "Wong Pik-kiu also stepped down from the Tai Po South Area Committee and as captain of a local care team; the government will gazette the vacancy."
+      },
+      "zh": {
+        "headline": "大埔區議員黃碧嬌以健康理由辭職",
+        "dek": "黃碧嬌同時辭去大埔南分區委員會委員及關愛隊隊長職務，政府稍後刊憲宣布議席出缺。"
+      }
+    },
+    {
+      "id": "2026-09-26-fencing-foil-sabre-team-bronzes",
+      "published_at": "2026-09-26T21:13:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "fencing",
+        "sport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-fencing-foil-sabre-team-bronzes.json",
+      "en": {
+        "headline": "Hong Kong fencing adds two team bronzes in foil and sabre",
+        "dek": "The women’s foil and men’s sabre teams both lost their semi-finals on Saturday and collected bronze medals under the Asian Games format that awards third place without a play-off."
+      },
+      "zh": {
+        "headline": "港隊劍擊女花男佩團體賽摘兩銅",
+        "dek": "女子花劍及男子佩劍團體周六均於四強落敗，按亞運賽制無季軍賽直接獲銅牌。"
+      }
+    },
+    {
+      "id": "2026-09-26-simmi-chan-squash-bronze",
+      "published_at": "2026-09-26T21:12:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "squash",
+        "sport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-26/2026-09-26-simmi-chan-squash-bronze.json",
+      "en": {
+        "headline": "Simmi Chan takes Hong Kong’s first squash medal with Asian Games bronze",
+        "dek": "Chan Sin-yuk fell in straight games to Malaysia’s Sivasangari Subramaniam in the women’s singles semi-final on Saturday and shares the bronze with Japan’s Satomi Watanabe."
+      },
+      "zh": {
+        "headline": "陳善鈺亞運壁球女單奪銅 港隊壁球開齋",
+        "dek": "陳善鈺周六在女單四強直落三局不敵馬來西亞蘇巴拉曼尼安，與日本渡邊聡美並列銅牌。"
+      }
+    },
     {
       "id": "2026-09-26-squash-mixed-doubles-all-hk-final",
       "published_at": "2026-09-26T17:06:00+08:00",
@@ -1895,138 +1979,6 @@
       "zh": {
         "headline": "維園中秋綵燈會延至10月4日 24至27日亮燈至午夜",
         "dek": "康文署指入場人數眾多、反應熱烈，決定將展期延長一星期，並於9月24至27日將亮燈時間延至午夜12時。"
-      }
-    },
-    {
-      "id": "2026-09-23-hkgai-hklearn-launch",
-      "published_at": "2026-09-23T19:34:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "ai",
-        "education",
-        "hkust",
-        "hkgai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-hkgai-hklearn-launch.json",
-      "en": {
-        "headline": "HKGAI launches AI teaching assistant HKLearn at HKUST",
-        "dek": "The locally developed platform, powered by HKGAI V3, has drawn more than 3,000 student registrations and over 240,000 uploaded learning materials since going live."
-      },
-      "zh": {
-        "headline": "港產AI教學助理HKLearn上線 科大率先啟用",
-        "dek": "由HKGAI V3驅動的平台已吸引逾3,000名學生註冊，累計上載超過24萬份學習資料。"
-      }
-    },
-    {
-      "id": "2026-09-23-housing-supervisor-illegal-betting",
-      "published_at": "2026-09-23T19:33:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "icac",
-        "housing",
-        "gambling"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-housing-supervisor-illegal-betting.json",
-      "en": {
-        "headline": "Housing supervisor charged over HK$500,000 illegal online football bets",
-        "dek": "Cheung Tsz-sum, 29, a Housing Department works supervisor, appeared in Tuen Mun Magistrates’ Courts and was granted bail pending a further hearing on 18 November."
-      },
-      "zh": {
-        "headline": "房署監工涉非法外圍賭波約50萬元准保釋",
-        "dek": "29歲一級監工張子森被控向收受賭注者投注，今日在屯門裁判法院提訊，押後至11月18日再訊，獲准保釋。"
-      }
-    },
-    {
-      "id": "2026-09-23-natalie-kan-100m-fly-bronze",
-      "published_at": "2026-09-23T19:32:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "swimming",
-        "asian-games",
-        "natalie-kan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-natalie-kan-100m-fly-bronze.json",
-      "en": {
-        "headline": "Natalie Kan takes Asian Games 100m butterfly bronze and Hong Kong record",
-        "dek": "The 24-year-old finished third in 58.05 seconds in Tokyo, breaking Siobhan Haughey’s previous Hong Kong mark of 58.12 set in 2023."
-      },
-      "zh": {
-        "headline": "簡綽桐亞運100米蝶泳摘銅兼破港績",
-        "dek": "24歲港將周三在東京以58秒05奪銅，打破何詩蓓2023年所創58秒12的香港紀錄。"
-      }
-    },
-    {
-      "id": "2026-09-23-tuen-mun-stray-dogs-car-damage",
-      "published_at": "2026-09-23T17:08:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "tuen-mun",
-        "animals",
-        "stray-dogs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-tuen-mun-stray-dogs-car-damage.json",
-      "en": {
-        "headline": "Four stray dogs tear bumper from parked car in Tuen Mun",
-        "dek": "Video circulating online showed a yellow dog wrenching off part of a white private car's front bumper outside Fu Shing Street before officers arrived and the animals fled."
-      },
-      "zh": {
-        "headline": "屯門四流浪狗扯斷私家車車頭泵把",
-        "dek": "網上片段顯示黃狗用力拉扯白色私家車車頭泵把，另有狗隻擂上車頭；警方凌晨接報後列作流浪動物處理。"
-      }
-    },
-    {
-      "id": "2026-09-23-tsang-yee-ting-karate-silver",
-      "published_at": "2026-09-23T17:07:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "karate",
-        "asian-games",
-        "tsang-yee-ting"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-tsang-yee-ting-karate-silver.json",
-      "en": {
-        "headline": "Tsang Yee-ting takes Asian Games karate silver in -50kg kumite",
-        "dek": "The Hong Kong fighter finished runner-up to Malaysia's Shahmalarani Chandran after a scoreless final decided by judges at Toyohashi Gymnasium on Wednesday."
-      },
-      "zh": {
-        "headline": "曾綺婷亞運空手道女子組手50公斤級奪銀",
-        "dek": "港隊選手周三於豐橋市綜合體育館決賽0比0不敵馬來西亞對手，以裁判判定屈居亞軍，為港隊本屆亞運空手道第五面獎牌。"
-      }
-    },
-    {
-      "id": "2026-09-23-kam-tin-concrete-truck-fatal",
-      "published_at": "2026-09-23T17:06:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "yuen-long",
-        "traffic",
-        "accident",
-        "fatal"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-23/2026-09-23-kam-tin-concrete-truck-fatal.json",
-      "en": {
-        "headline": "Woman, 63, dies after concrete mixer hits pedestrian in Kam Tin",
-        "dek": "The victim, struck on Kam Tin Road near Ko Po Tsuen at about 8.30am, was taken first to Pok Oi Hospital and later to Tuen Mun Hospital, where she was certified dead in the early afternoon."
-      },
-      "zh": {
-        "headline": "錦田公路混凝土車撞斃六旬婦 下午不治",
-        "dek": "63歲女子今早約7時半在錦田公路近高埔村被運載混凝土重型貨車撞倒，先送博愛醫院再轉屯門醫院，下午約1時39分不治。"
       }
     }
   ]
