@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-09-27T09:15:24+08:00",
+  "generated_at": "2026-09-27T11:06:53+08:00",
   "live_window_hours": 72,
   "count": 91,
   "articles": [
+    {
+      "id": "2026-09-27-lifestyle-autumn-travel-expo",
+      "published_at": "2026-09-27T11:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "wan-chai",
+        "exhibition",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-27/2026-09-27-lifestyle-autumn-travel-expo.json",
+      "en": {
+        "headline": "Autumn travel expo at Wan Chai convention centre ends Sunday",
+        "dek": "The three-day Hong Kong Holiday and Travel Expo in Hall 5BCD runs until 8pm, with a $30 ticket and a 3pm mascot parade."
+      },
+      "zh": {
+        "headline": "灣仔會展秋季旅遊博覽會周日閉幕",
+        "dek": "香港秋季旅遊博覽會在會展展覽館5BCD舉行至晚上8時，門票30元，下午3時有吉祥物巡遊。"
+      }
+    },
+    {
+      "id": "2026-09-27-san-tin-technopole-land",
+      "published_at": "2026-09-27T11:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "northern-metropolis",
+        "innovation",
+        "land",
+        "san-tin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-27/2026-09-27-san-tin-technopole-land.json",
+      "en": {
+        "headline": "Sun Dong says market partners will speed San Tin site formation",
+        "dek": "The innovation chief said two to three hectares at San Tin Technopole could be released from late this year, ahead of the original post-2030 timetable."
+      },
+      "zh": {
+        "headline": "孫東：用市場力量提前平整新田科技城用地",
+        "dek": "創科及工業局局長稱會提早推進一級土地開發，料想年底至明年初率先釋出兩至三公頃，較原定2030年後產出為早。"
+      }
+    },
+    {
+      "id": "2026-09-27-lo-nurse-vacancies-non-local",
+      "published_at": "2026-09-27T11:09:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "hospital-authority",
+        "nurses",
+        "lo-chung-mau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-27/2026-09-27-lo-nurse-vacancies-non-local.json",
+      "en": {
+        "headline": "Lo says Hospital Authority still has 3,200 nurse vacancies",
+        "dek": "The health chief again rejected claims that local graduates cannot find work, saying about 99 percent of registered-nurse applicants were hired."
+      },
+      "zh": {
+        "headline": "盧寵茂：醫管局仍有約3200個護士空缺",
+        "dek": "醫務衞生局局長再指「畢業就失業」說法不成立，註冊護士申請獲聘近99%；非本地培訓護士佔公院不足0.2%。"
+      }
+    },
+    {
+      "id": "2026-09-27-approach-beach-drowning",
+      "published_at": "2026-09-27T11:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tsuen-wan",
+        "rescue",
+        "police",
+        "drowning"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-27/2026-09-27-approach-beach-drowning.json",
+      "en": {
+        "headline": "Woman, 89, dies after morning swim at Tsuen Wan Approach Beach",
+        "dek": "Firefighters pulled the unconscious swimmer from the water off Ting Kau shortly after 5am; she was certified dead at Yan Chai Hospital."
+      },
+      "zh": {
+        "headline": "荃灣近水灣泳灘角89歲婦人早泳遇溺不治",
+        "dek": "消防今早約5時18分後在汀九近水灣救起昏迷泳客，送往仁濟醫院後證實死亡，警方列遇溺調查。"
+      }
+    },
     {
       "id": "2026-09-27-lifestyle-hey-water-festival",
       "published_at": "2026-09-27T09:21:00+08:00",
@@ -1934,95 +2022,6 @@
       "zh": {
         "headline": "梁宇航亞運散打60公斤級摘銀 港隊項目最佳",
         "dek": "21歲世界冠軍周四決賽不敵國家隊唐思碩，寫下港隊亞運散打歷來最佳成績。"
-      }
-    },
-    {
-      "id": "2026-09-24-lifestyle-po-pin-chau-mid-autumn-booked",
-      "published_at": "2026-09-24T09:29:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "sai-kung",
-        "mid-autumn",
-        "hiking",
-        "geo-park"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-lifestyle-po-pin-chau-mid-autumn-booked.json",
-      "en": {
-        "headline": "Po Pin Chau Mid-Autumn booking slots already full",
-        "dek": "The Agriculture, Fisheries and Conservation Department's trial reservation for the High Island geo trail section is fully taken for 25 and 26 September, with some National Day week sessions also gone."
-      },
-      "zh": {
-        "headline": "破邊洲中秋預約已滿 國慶部分時段亦額滿",
-        "dek": "漁護署萬宜地質步道破邊洲段試行實名預約，9月25及26日名額已滿，每日上限2000人。"
-      }
-    },
-    {
-      "id": "2026-09-24-sandy-ridge-data-hub-2027",
-      "published_at": "2026-09-24T09:28:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "northern-metropolis",
-        "ai",
-        "clp"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-sandy-ridge-data-hub-2027.json",
-      "en": {
-        "headline": "Sandy Ridge data cluster set for phased opening in mid-2027",
-        "dek": "CLP Power and Range Intelligent Computing said the Northern Metropolis project would start earlier than the original 2029 target, with investment above HK$23.8 billion."
-      },
-      "zh": {
-        "headline": "沙嶺數據設施群料2027年中分期啟用",
-        "dek": "中電與潤澤科技舉行啟航典禮，項目較原定2029年提前，累計投入逾238億元，首期爭取明年中啟用。"
-      }
-    },
-    {
-      "id": "2026-09-24-child-abuse-cases-rise",
-      "published_at": "2026-09-24T09:27:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "children",
-        "health",
-        "welfare",
-        "ngo"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-child-abuse-cases-rise.json",
-      "en": {
-        "headline": "Child abuse cases up sharply since 2020, welfare group says",
-        "dek": "Against Child Abuse said suspected cases rose from 940 in 2020 to 1,354 in 2025, with sexual and physical abuse recorded at the same level for the first time."
-      },
-      "zh": {
-        "headline": "防止虐兒會：懸疑虐兒個案五年升至1354宗",
-        "dek": "機構引述社署數字，指2025年性侵犯與身體虐待同錄501宗，二十多年來首次持平，促檢視強制舉報成效。"
-      }
-    },
-    {
-      "id": "2026-09-24-jll-property-transparency-index",
-      "published_at": "2026-09-24T09:26:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "property",
-        "business",
-        "jll",
-        "investment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-jll-property-transparency-index.json",
-      "en": {
-        "headline": "Hong Kong ranks 14th in global property transparency index",
-        "dek": "JLL's biennial survey placed the city third in Asia behind Japan and Singapore, with a composite score of 1.97 in the Transparent tier."
-      },
-      "zh": {
-        "headline": "仲量聯行：香港地產透明度全球第14 亞洲第三",
-        "dek": "2026年全球地產透明度指數顯示香港綜合評分1.97，維持「具透明度」級別，亞洲僅次於日本及新加坡。"
       }
     }
   ]
