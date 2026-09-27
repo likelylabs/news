@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-09-28T03:14:03+08:00",
+  "generated_at": "2026-09-28T07:06:32+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-09-28-lifestyle-victoria-park-lanterns-extended",
+      "published_at": "2026-09-28T07:07:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "victoria-park",
+        "mid-autumn",
+        "lcsd",
+        "lanterns"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-lifestyle-victoria-park-lanterns-extended.json",
+      "en": {
+        "headline": "Victoria Park lantern displays stay up until 4 October",
+        "dek": "The Leisure and Cultural Services Department has extended the Mid-Autumn Lantern Carnival by a week after large crowds during the festival."
+      },
+      "zh": {
+        "headline": "維園中秋綵燈展延長至10月4日",
+        "dek": "康文署因應人流眾多，把維多利亞公園中秋綵燈嘉年華延長一周至10月4日。"
+      }
+    },
+    {
+      "id": "2026-09-28-phf-injectable-devices-mdacs",
+      "published_at": "2026-09-28T07:06:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "department-of-health",
+        "medical-devices",
+        "clinics"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-phf-injectable-devices-mdacs.json",
+      "en": {
+        "headline": "Clinics face March deadline to use listed injectable devices",
+        "dek": "Licensed private healthcare facilities must use only MDACS-listed injectable and infusible medical devices from 1 March 2027, the Department of Health said."
+      },
+      "zh": {
+        "headline": "私營醫療機構明年三月起須用表列注射器械",
+        "dek": "衞生署規定，持牌私營醫療機構由2027年3月1日起，只可使用已在醫療器械行政管理制度表列的注射及輸注醫療器械。"
+      }
+    },
+    {
+      "id": "2026-09-28-gba-surabaya-route",
+      "published_at": "2026-09-28T07:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "aviation",
+        "greater-bay-airlines",
+        "indonesia",
+        "airport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-gba-surabaya-route.json",
+      "en": {
+        "headline": "Greater Bay Airlines opens first Indonesia route to Surabaya",
+        "dek": "The carrier flew its inaugural Hong Kong–Surabaya service on Friday and plans up to four flights a week on the new link."
+      },
+      "zh": {
+        "headline": "大灣區航空開通首條印尼航線 直飛泗水",
+        "dek": "大灣區航空周五開辦香港至泗水定期航班，計劃每周最多四班，屬該公司首條印尼航線。"
+      }
+    },
     {
       "id": "2026-09-28-lifestyle-disgusting-food-museum-airside",
       "published_at": "2026-09-28T03:20:00+08:00",
