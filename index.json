@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-09-27T23:16:31+08:00",
+  "generated_at": "2026-09-28T01:03:21+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-09-28-hetao-talent-flow-deadline",
+      "published_at": "2026-09-28T01:12:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "hetao",
+        "innovation",
+        "talent",
+        "sun-dong",
+        "northern-metropolis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-hetao-talent-flow-deadline.json",
+      "en": {
+        "headline": "Sun Dong sets June deadline for Hetao cross-border talent flow",
+        "dek": "The technology minister said free movement of people in the innovation hub must begin by 30 June next year at the latest, following data-flow pledges."
+      },
+      "zh": {
+        "headline": "孫東：河套跨境人才流動最遲明年6月底啟動",
+        "dek": "創科局局長表示，河套合作區人員流動必須最遲於明年6月30日前展開，數據流動亦希望盡快試行。"
+      }
+    },
+    {
+      "id": "2026-09-28-weekend-new-flats-sold-out",
+      "published_at": "2026-09-28T01:11:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "property",
+        "housing",
+        "interest-rates",
+        "developers",
+        "sales"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-weekend-new-flats-sold-out.json",
+      "en": {
+        "headline": "Buyers snap up nearly 300 new flats ahead of expected rate rises",
+        "dek": "Developers sold out all units launched over the weekend as home-seekers moved to lock in mortgages before local rates climb, agents said."
+      },
+      "zh": {
+        "headline": "買家趕在加息前入市 周末近300個新盤單位售罄",
+        "dek": "發展商周末推售超過290個單位全部售出，代理指買家希望在本地息口上升前鎖定按揭。"
+      }
+    },
+    {
+      "id": "2026-09-28-tai-kok-tsui-claw-machine-theft",
+      "published_at": "2026-09-28T01:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "tai-kok-tsui",
+        "theft",
+        "police",
+        "claw-machine"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-tai-kok-tsui-claw-machine-theft.json",
+      "en": {
+        "headline": "Police hunt man who stole HK$10,000 from claw machines with a key",
+        "dek": "A man in his thirties opened deposit boxes at four machines in a Tai Kok Tsui shop on Sunday morning and fled with the cash, police said."
+      },
+      "zh": {
+        "headline": "大角咀夾公仔機被用鎖匙盜走約一萬元 警方追緝男子",
+        "dek": "店主周日上午透過閉路電視錄影片段，目睹一名男子打開四部機的投幣箱取走現金後離開。"
+      }
+    },
     {
       "id": "2026-09-27-water-tank-cleaning-robot-trial",
       "published_at": "2026-09-27T23:22:00+08:00",
