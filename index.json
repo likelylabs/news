@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-09-27T21:02:59+08:00",
+  "generated_at": "2026-09-27T23:16:31+08:00",
   "live_window_hours": 72,
   "count": 83,
   "articles": [
+    {
+      "id": "2026-09-27-water-tank-cleaning-robot-trial",
+      "published_at": "2026-09-27T23:22:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "housing",
+        "robot",
+        "smart-estate",
+        "wai-ying",
+        "technology"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-27/2026-09-27-water-tank-cleaning-robot-trial.json",
+      "en": {
+        "headline": "Housing chief trials water-tank cleaning robot in three estates",
+        "dek": "The locally developed amphibious robot has been tested at Mun Tung, Hoi Ying and Lai Yiu estates and is expected to enter mass production this year."
+      },
+      "zh": {
+        "headline": "洗水缸機械人三屋邨試用 何永賢冀今年量產",
+        "dek": "本地研發第四代兩棲機械人已於滿東邨、海盈邨及麗瑤邨試用，可遙控操作減少密閉空間風險。"
+      }
+    },
+    {
+      "id": "2026-09-27-choi-wan-falling-object-girl",
+      "published_at": "2026-09-27T23:21:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "wong-tai-sin",
+        "choi-wan",
+        "falling-object",
+        "police",
+        "estate"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-27/2026-09-27-choi-wan-falling-object-girl.json",
+      "en": {
+        "headline": "Seven-year-old girl hurt by falling wood at Choi Wan Estate",
+        "dek": "A circular wooden piece about five inches across struck the child outside Koon Yat House on Sunday afternoon; she was treated on site and declined hospital admission."
+      },
+      "zh": {
+        "headline": "彩雲邨觀日樓木塊墮下擊傷7歲女童",
+        "dek": "周日下午約5時直徑約5吋圓形木塊從高處墮下，女童手部受傷，治理後拒絕送院。"
+      }
+    },
+    {
+      "id": "2026-09-27-sha-tin-gym-pinhole-cameras-arrest",
+      "published_at": "2026-09-27T23:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "sha-tin",
+        "police",
+        "voyeurism",
+        "gym"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-27/2026-09-27-sha-tin-gym-pinhole-cameras-arrest.json",
+      "en": {
+        "headline": "Police arrest 34-year-old man over pinhole cameras in Sha Tin gym",
+        "dek": "Three suspected hidden cameras were found in changing rooms at a 24/7 Fitness branch on Lek Yuen Street; the local man remains in custody."
+      },
+      "zh": {
+        "headline": "沙田健身室更衣室藏針孔鏡頭 34歲男涉窺淫被捕",
+        "dek": "24/7 Fitness瀝源街分店三間更衣室發現懷疑偷拍裝置，本地男子周日在沙田區落網，現正扣查。"
+      }
+    },
     {
       "id": "2026-09-27-paul-chan-exports-gdp-ai",
       "published_at": "2026-09-27T21:06:00+08:00",
@@ -1774,75 +1843,6 @@
       "zh": {
         "headline": "漁護署元朗聯合捕狗行動結束 共扣留八隻無人看管狗隻",
         "dek": "行動為期五日，因應上周一名女子疑遭狗隻襲擊身亡而展開。三隻狗隻有晶片，一名畜養人被檢控；一名前線人員被咬傷，情況穩定。"
-      }
-    },
-    {
-      "id": "2026-09-24-customs-pharma-export-sentence",
-      "published_at": "2026-09-24T21:17:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "crime",
-        "pharmaceuticals",
-        "money-laundering",
-        "court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-customs-pharma-export-sentence.json",
-      "en": {
-        "headline": "Woman jailed 63 months for illegal pharmaceutical exports and money laundering",
-        "dek": "Customs seized about 1.6 million controlled tablets worth an estimated HK$55 million in 2021. The District Court also ordered confiscation of roughly HK$470,000 in frozen assets."
-      },
-      "zh": {
-        "headline": "女子非法出口受管制藥劑及洗黑錢判監63個月",
-        "dek": "海關2021年檢獲約160萬粒受管制藥劑製品，市值約5500萬元。區域法院另就約47萬元凍結資產作出充公申請。"
-      }
-    },
-    {
-      "id": "2026-09-24-mpox-cases-rise-chp-alert",
-      "published_at": "2026-09-24T21:16:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "mpox",
-        "health",
-        "chp",
-        "vaccination",
-        "public-health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-mpox-cases-rise-chp-alert.json",
-      "en": {
-        "headline": "Mpox cases rise sharply; CHP urges high-risk groups to stay alert",
-        "dek": "A new confirmed case involves a 36-year-old man in stable condition. Hong Kong has recorded 28 Mpox cases this year, 19 of them since August, mostly linked to high-risk sexual contact."
-      },
-      "zh": {
-        "headline": "猴痘個案近期大幅上升 當局籲高風險接觸者提高警覺",
-        "dek": "新增一宗36歲男子確診個案，情況穩定。本港今年累計28宗，當中19宗為8月以來新增，患者多曾進行高風險性行為。"
-      }
-    },
-    {
-      "id": "2026-09-24-epd-waste-paper-local-pulping",
-      "published_at": "2026-09-24T21:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "recycling",
-        "waste",
-        "environment",
-        "epd",
-        "circular-economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-epd-waste-paper-local-pulping.json",
-      "en": {
-        "headline": "Hong Kong waste paper to be fully pulped locally from 1 October",
-        "dek": "The Environmental Protection Department said the Tuen Mun EcoPark facility can now handle all local recovered paper, ending reliance on export and expanding accepted types to include mixed paper."
-      },
-      "zh": {
-        "headline": "回收廢紙下月起全面本地製漿 毋須再靠出口",
-        "dek": "環保署表示屯門環保園紙漿設施已提升處理量，10月1日起本港回收廢紙將全面本地製漿，並擴大至雜紙類別。"
       }
     }
   ]
