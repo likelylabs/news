@@ -1,5 +1,18 @@
 {
-  "updated_at": "2026-09-27T17:14:57+08:00",
+  "updated_at": "2026-09-27T19:07:00+08:00",
   "retention_days": 5,
-  "covered": []
+  "covered": [
+    {
+      "key": "fifa-asean-cup-hk-laos-4-0-result",
+      "id": "2026-09-27-fifa-asean-cup-hk-laos-result",
+      "first_seen": "2026-09-27T19:05:00+08:00",
+      "headline_en": "Hong Kong thrash Laos 4-0 in FIFA ASEAN Cup opener at Kai Tak"
+    },
+    {
+      "key": "new-generation-audible-pedestrian-devices-progress",
+      "id": "2026-09-27-new-audible-pedestrian-devices",
+      "first_seen": "2026-09-27T19:06:00+08:00",
+      "headline_en": "Forty percent of pedestrian crossings now have new audible devices"
+    }
+  ]
 }
