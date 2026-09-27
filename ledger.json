@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T21:02:59+08:00",
+  "updated_at": "2026-09-27T23:22:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -25,6 +25,24 @@
       "id": "2026-09-27-paul-chan-exports-gdp-ai",
       "first_seen": "2026-09-27T21:06:00+08:00",
       "headline_en": "Chan says August exports up 53 percent on AI demand, GDP goal in reach"
+    },
+    {
+      "key": "sha-tin-gym-pinhole-cameras-arrest-sep27",
+      "id": "2026-09-27-sha-tin-gym-pinhole-cameras-arrest",
+      "first_seen": "2026-09-27T23:20:00+08:00",
+      "headline_en": "Police arrest 34-year-old man over pinhole cameras in Sha Tin gym"
+    },
+    {
+      "key": "choi-wan-falling-wood-girl-sep27",
+      "id": "2026-09-27-choi-wan-falling-object-girl",
+      "first_seen": "2026-09-27T23:21:00+08:00",
+      "headline_en": "Seven-year-old girl hurt by falling wood at Choi Wan Estate"
+    },
+    {
+      "key": "water-tank-cleaning-robot-trial-sep27",
+      "id": "2026-09-27-water-tank-cleaning-robot-trial",
+      "first_seen": "2026-09-27T23:22:00+08:00",
+      "headline_en": "Housing chief trials water-tank cleaning robot in three estates"
     }
   ]
 }
