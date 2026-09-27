@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T11:09:29+08:00",
+  "updated_at": "2026-09-27T15:06:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -433,6 +433,18 @@
       "id": "2026-09-27-lifestyle-autumn-travel-expo",
       "first_seen": "2026-09-27T11:11:00+08:00",
       "headline_en": "Autumn travel expo at Wan Chai convention centre ends Sunday"
+    },
+    {
+      "key": "workweek-weather-outlook-sep28-oct2",
+      "id": "2026-09-27-workweek-weather-outlook-sep28-oct2",
+      "first_seen": "2026-09-27T15:05:00+08:00",
+      "headline_en": "Work-week outlook: mainly fine and very hot through midweek"
+    },
+    {
+      "key": "squash-mixed-doubles-gold-ag2026",
+      "id": "2026-09-27-squash-mixed-doubles-gold-ag2026",
+      "first_seen": "2026-09-27T15:06:00+08:00",
+      "headline_en": "Lee Ka-yi and Tang Ming-hong win Asian Games squash mixed doubles gold"
     }
   ]
 }
