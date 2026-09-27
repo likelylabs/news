@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T19:05:28+08:00",
+  "updated_at": "2026-09-27T21:06:30+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -13,6 +13,18 @@
       "id": "2026-09-27-new-audible-pedestrian-devices",
       "first_seen": "2026-09-27T19:06:00+08:00",
       "headline_en": "Forty percent of pedestrian crossings now have new audible devices"
+    },
+    {
+      "key": "po-pin-chau-hikers-heatstroke-sep27",
+      "id": "2026-09-27-po-pin-chau-hikers-heatstroke",
+      "first_seen": "2026-09-27T21:05:00+08:00",
+      "headline_en": "Three hikers fall ill on trails as temperatures hit 33C"
+    },
+    {
+      "key": "paul-chan-blog-exports-gdp-sep27",
+      "id": "2026-09-27-paul-chan-exports-gdp-ai",
+      "first_seen": "2026-09-27T21:06:00+08:00",
+      "headline_en": "Chan says August exports up 53 percent on AI demand, GDP goal in reach"
     }
   ]
 }
