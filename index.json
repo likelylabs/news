@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-27T17:14:57+08:00",
+  "generated_at": "2026-09-27T19:05:28+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-09-27-new-audible-pedestrian-devices",
+      "published_at": "2026-09-27T19:06:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "accessibility",
+        "visually-impaired",
+        "pedestrian"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-27/2026-09-27-new-audible-pedestrian-devices.json",
+      "en": {
+        "headline": "Forty percent of pedestrian crossings now have new audible devices",
+        "dek": "The Transport Department has upgraded more than 800 junctions and expects to finish the citywide programme of about 2,000 sites by the end of 2027."
+      },
+      "zh": {
+        "headline": "全港四成行人過路處已換新一代發聲裝置",
+        "dek": "運輸署稱進度理想，預期2027年底前完成約2,000個路口更換，優先深水埗及觀塘。"
+      }
+    },
+    {
+      "id": "2026-09-27-fifa-asean-cup-hk-laos-result",
+      "published_at": "2026-09-27T19:05:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "football",
+        "kai-tak",
+        "fifa",
+        "sport",
+        "asean-cup"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-27/2026-09-27-fifa-asean-cup-hk-laos-result.json",
+      "en": {
+        "headline": "Hong Kong thrash Laos 4-0 in FIFA ASEAN Cup opener at Kai Tak",
+        "dek": "Sun Ming-him, Everton Camargo, Dudu and Matt Orr scored as nearly 19,000 fans watched the hosts take control of Group A on Sunday afternoon."
+      },
+      "zh": {
+        "headline": "東盟盃港隊4:0大勝老撾 啟德近1.9萬人見證",
+        "dek": "孫銘謙、艾華頓、杜度及安永佳各建一功，港隊在A組暫列榜首，羅淑佩讚戰果具說服力。"
+      }
+    },
     {
       "id": "2026-09-27-victoria-park-tennis-redevelopment",
       "published_at": "2026-09-27T17:13:00+08:00",
@@ -1844,72 +1889,6 @@
       "zh": {
         "headline": "政府決定不就粉嶺高球場房屋環評判決再上訴",
         "dek": "政府經考慮法律意見後決定不上訴，上訴庭早前維持原訟庭裁決，撤銷環保署對約1.2萬伙公營房屋項目環評報告的批准。"
-      }
-    },
-    {
-      "id": "2026-09-24-chinaamc-three-etfs",
-      "published_at": "2026-09-24T17:22:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "finance",
-        "etf",
-        "stock-market"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-chinaamc-three-etfs.json",
-      "en": {
-        "headline": "ChinaAMC launches three Hong Kong ETFs targeting dividends, growth and cross-market…",
-        "dek": "The funds, set to list on 30 September with HKD, RMB and USD counters, expand the firm’s range as investors seek more specialised products."
-      },
-      "zh": {
-        "headline": "華夏基金推三隻港股主題ETF 高息、增長及港美策略",
-        "dek": "三隻產品定於9月30日上市，設港元、人民幣及美元櫃台，反映投資者對特定策略需求上升。"
-      }
-    },
-    {
-      "id": "2026-09-24-fong-epee-bronze",
-      "published_at": "2026-09-24T17:20:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-games",
-        "fencing",
-        "epee"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-fong-epee-bronze.json",
-      "en": {
-        "headline": "Fong Kai-shen takes Asian Games men’s épée bronze",
-        "dek": "The Hong Kong fencer reached the semi-finals before losing 13-15 to a Kazakh opponent, securing the medal as the event has no bronze-medal bout."
-      },
-      "zh": {
-        "headline": "方凱申亞運男子重劍個人賽奪銅",
-        "dek": "港隊劍手方凱申晉身四強後不敵哈薩克對手，由於賽事不設銅牌賽，穩奪一面獎牌。"
-      }
-    },
-    {
-      "id": "2026-09-24-haughey-50m-free-silver",
-      "published_at": "2026-09-24T17:18:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-games",
-        "swimming",
-        "haughey"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-haughey-50m-free-silver.json",
-      "en": {
-        "headline": "Siobhan Haughey takes Asian Games 50m freestyle silver",
-        "dek": "The Hong Kong swimmer clocked 24.32 seconds for silver behind China’s Wu Qingfeng, who set a Games record, adding a third individual medal this campaign."
-      },
-      "zh": {
-        "headline": "何詩蓓亞運女子50米自由泳摘銀",
-        "dek": "港隊泳手何詩蓓以24秒32奪得銀牌，國家隊吳卿風以破亞運紀錄的23秒98奪金，這是她今屆亞運第三面個人獎牌。"
       }
     }
   ]
