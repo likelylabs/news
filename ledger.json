@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T23:16:31+08:00",
+  "updated_at": "2026-09-28T01:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -43,6 +43,24 @@
       "id": "2026-09-27-water-tank-cleaning-robot-trial",
       "first_seen": "2026-09-27T23:22:00+08:00",
       "headline_en": "Housing chief trials water-tank cleaning robot in three estates"
+    },
+    {
+      "key": "tai-kok-tsui-claw-machine-theft-sep27",
+      "id": "2026-09-28-tai-kok-tsui-claw-machine-theft",
+      "first_seen": "2026-09-28T01:10:00+08:00",
+      "headline_en": "Police hunt man who stole HK$10,000 from claw machines with a key"
+    },
+    {
+      "key": "weekend-new-flats-sold-out-sep27",
+      "id": "2026-09-28-weekend-new-flats-sold-out",
+      "first_seen": "2026-09-28T01:11:00+08:00",
+      "headline_en": "Buyers snap up nearly 300 new flats ahead of expected rate rises"
+    },
+    {
+      "key": "hetao-talent-flow-deadline-jun2027",
+      "id": "2026-09-28-hetao-talent-flow-deadline",
+      "first_seen": "2026-09-28T01:12:00+08:00",
+      "headline_en": "Sun Dong sets June deadline for Hetao cross-border talent flow"
     }
   ]
 }
