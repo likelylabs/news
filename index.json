@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-09-27T07:10:16+08:00",
+  "generated_at": "2026-09-27T09:11:44+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-09-27-lifestyle-hey-water-festival",
+      "published_at": "2026-09-27T09:21:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "kai-tak",
+        "dragon-boat",
+        "festival"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-27/2026-09-27-lifestyle-hey-water-festival.json",
+      "en": {
+        "headline": "Kai Tak water festival and dragon boat races run through Sunday",
+        "dek": "The second HEY! Water Festival continues at Runway 1331 on the former airport strip, with a full day of racing after Saturday's opening."
+      },
+      "zh": {
+        "headline": "啟德Hey水節及龍舟賽週日續舉行",
+        "dek": "第二屆香港Hey水節連同連城龍舟賽在啟航1331進行至今日，周六已有逾800名健兒參賽。"
+      }
+    },
+    {
+      "id": "2026-09-27-fifa-asean-cup-hk-laos",
+      "published_at": "2026-09-27T09:20:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "football",
+        "kai-tak",
+        "fifa",
+        "sport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-27/2026-09-27-fifa-asean-cup-hk-laos.json",
+      "en": {
+        "headline": "Hong Kong face Laos at Kai Tak in FIFA ASEAN Cup",
+        "dek": "The hosts open their Division 2 campaign at 3pm, with Cambodia versus Myanmar to follow at 6pm at Kai Tak Stadium."
+      },
+      "zh": {
+        "headline": "東盟盃港隊主場啟德迎戰老撻 下午三時開波",
+        "dek": "國際足協東盟盃分組賽週日移師啟德主場館，傍晚六時另有柬埔寨對緬甸。"
+      }
+    },
+    {
+      "id": "2026-09-27-tko-bullet-bike-youths",
+      "published_at": "2026-09-27T09:19:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "tseung-kwan-o",
+        "police",
+        "cycling",
+        "road-safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-27/2026-09-27-tko-bullet-bike-youths.json",
+      "en": {
+        "headline": "Police ticket seven Tseung Kwan O youths over night bicycle offences",
+        "dek": "Tseung Kwan O officers said the summonses follow complaints about late-night 'bullet bike' riding without lights and on pavements."
+      },
+      "zh": {
+        "headline": "將軍澳警票掣7名少年 涉夜間單車無燈及踊行人路",
+        "dek": "警區稱近日有區議員反映「子彈仔」深夜擾民，已向14至17歲少年發出傳票。"
+      }
+    },
+    {
+      "id": "2026-09-27-very-hot-weather-warning",
+      "published_at": "2026-09-27T09:18:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "heat",
+        "fire-danger",
+        "hko"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-27/2026-09-27-very-hot-weather-warning.json",
+      "en": {
+        "headline": "Very hot weather warning reissued as Sunday highs near 33C",
+        "dek": "The Observatory put the warning back in force at 6.45am, forecasting a fine, dry and very hot day with a yellow fire danger warning still in place."
+      },
+      "zh": {
+        "headline": "天文台再發酷熱天氣警告 市區料高見33度",
+        "dek": "警告今早6時45分重新生效，預料大致天晴、乾燥及酷熱；黃色火災危險警告仍然生效。"
+      }
+    },
     {
       "id": "2026-09-27-lifestyle-po-pin-chau-quota",
       "published_at": "2026-09-27T07:10:00+08:00",
@@ -1935,116 +2023,6 @@
       "zh": {
         "headline": "仲量聯行：香港地產透明度全球第14 亞洲第三",
         "dek": "2026年全球地產透明度指數顯示香港綜合評分1.97，維持「具透明度」級別，亞洲僅次於日本及新加坡。"
-      }
-    },
-    {
-      "id": "2026-09-24-lifestyle-pok-fu-lam-fire-dragon",
-      "published_at": "2026-09-24T07:16:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "pok-fu-lam",
-        "fire-dragon",
-        "heritage"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-lifestyle-pok-fu-lam-fire-dragon.json",
-      "en": {
-        "headline": "Pok Fu Lam fire dragon parade set for Mid-Autumn night",
-        "dek": "Villagers will carry a straw-and-bamboo dragon through Pok Fu Lam Village and Wah Fu on Friday evening, ending with the traditional return-to-the-sea rite at Waterfall Bay Park."
-      },
-      "zh": {
-        "headline": "薄扶林村中秋火龍周五夜巡遊至瀑布灣",
-        "dek": "薄扶林村火龍會周五傍晚6時半至午夜在村內、華富及瀑布灣公園舞火龍，最後舉行「龍歸滄海」，免費觀賞。"
-      }
-    },
-    {
-      "id": "2026-09-24-civil-service-family-leave",
-      "published_at": "2026-09-24T07:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "civil-service",
-        "labour",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-civil-service-family-leave.json",
-      "en": {
-        "headline": "Government leans toward 10 to 12 hours of civil service family leave",
-        "dek": "Secretary for the Civil Service Ingrid Yeung Ho Poi-yan said the planned hourly leave is meant for sudden family needs and that applications should be simple, with a final figure still to be set."
-      },
-      "zh": {
-        "headline": "公僕照顧家庭假傾向每年10至12小時",
-        "dek": "公務員事務局局長楊何蓓茵在立法會表示，假期旨在應付突發家事，申請程序擬從簡，確實時數仍未定案，預計明年推出。"
-      }
-    },
-    {
-      "id": "2026-09-24-tst-illegal-medical-botox-arrest",
-      "published_at": "2026-09-24T07:14:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "tsim-sha-tsui",
-        "health",
-        "court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-tst-illegal-medical-botox-arrest.json",
-      "en": {
-        "headline": "Man arrested after woman treated for suspected botulinum poisoning",
-        "dek": "A 41-year-old man was held in Tsim Sha Tsui on suspicion of practising medicine illegally and possessing Part I poisons after a 35-year-old woman fell ill following a facial injection."
-      },
-      "zh": {
-        "headline": "尖沙嘴女子注射肉毒後不適 41歲男涉非法行醫被捕",
-        "dek": "警方聯同衞生署在尖沙嘴拘捕一名譚姓男子，涉嫌非法行醫及管有第一部毒藥，檢獲五盒藥劑，已准保釋候查。"
-      }
-    },
-    {
-      "id": "2026-09-24-yuen-long-dog-activist-charged",
-      "published_at": "2026-09-24T07:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "yuen-long",
-        "stray-dogs",
-        "animals",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-yuen-long-dog-activist-charged.json",
-      "en": {
-        "headline": "Animal activist charged after microchipped dog seized in Yuen Long hunt",
-        "dek": "Kent Luk, founder of Paws Guardian Rescue Shelter, faces allegations of failing to control a dog and keeping an expired licence after an eight-dog sweep near a fatal suspected attack."
-      },
-      "zh": {
-        "headline": "元朗捕狗行動再獲三犬 動保義工被控疎於看管",
-        "dek": "漁護署聯同警方第四日行動後累計扣留八隻唐狗；毛守救援創辦人陸家捷稱其名下晶片登記犬被控沒有妥善管控及過期狗牌。"
-      }
-    },
-    {
-      "id": "2026-09-24-national-day-golden-week-visitors",
-      "published_at": "2026-09-24T07:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tourism",
-        "national-day",
-        "immigration",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-national-day-golden-week-visitors.json",
-      "en": {
-        "headline": "Hong Kong expects 1.29 million mainland visitors over National Day week",
-        "dek": "The Immigration Department forecasts more than a 5 percent rise in daily arrivals from 1 to 7 October, with 1,180 tour groups also expected, officials said after a coordination meeting."
-      },
-      "zh": {
-        "headline": "入境處料國慶黃金周約129萬內地旅客訪港",
-        "dek": "當局預計10月1日至7日每日平均訪港人次較去年同期升逾5%，另有約1180個旅行團入境，政務司司長已主持跨部門會議統籌接待。"
       }
     }
   ]
