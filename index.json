@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-27T11:09:29+08:00",
+  "generated_at": "2026-09-27T15:07:16+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-09-27-squash-mixed-doubles-gold-ag2026",
+      "published_at": "2026-09-27T15:06:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-games",
+        "squash",
+        "medal"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-27/2026-09-27-squash-mixed-doubles-gold-ag2026.json",
+      "en": {
+        "headline": "Lee Ka-yi and Tang Ming-hong win Asian Games squash mixed doubles gold",
+        "dek": "Hong Kong claimed gold and silver in the event after an all-SAR final at the Nagoya Kinjo Futo Arena on Sunday."
+      },
+      "zh": {
+        "headline": "亞運壁球混雙港隊包辦金銀 李嘉兒鄧銘漮奪金",
+        "dek": "港隊兩對組合於名古屋決賽對壘，李嘉兒及鄧銘漮組合奪得金牌，港隊歷史性包辦金銀牌。"
+      }
+    },
+    {
+      "id": "2026-09-27-workweek-weather-outlook-sep28-oct2",
+      "published_at": "2026-09-27T15:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "outlook",
+        "heat"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-27/2026-09-27-workweek-weather-outlook-sep28-oct2.json",
+      "en": {
+        "headline": "Work-week outlook: mainly fine and very hot through midweek",
+        "dek": "The Observatory expects an anticyclone aloft to keep Hong Kong sunny and very hot early in the week before a northeast monsoon brings more cloud and showers later."
+      },
+      "zh": {
+        "headline": "未來一週天氣展望：初段大致天晴酷熱 後期雲量增多",
+        "dek": "天文台預料高空反氣旋令本週初香港大致天晴及酷熱，東北季候風將於週後期影響華南，雲量增多並有幾陣驟雨。"
+      }
+    },
     {
       "id": "2026-09-27-lifestyle-autumn-travel-expo",
       "published_at": "2026-09-27T11:11:00+08:00",
@@ -1867,161 +1911,6 @@
       "zh": {
         "headline": "尖沙咀酒吧男子倒斃街頭 職員涉非法搬移屍體被捕",
         "dek": "警方凌晨接報發現48歲男子坐在河內道商廈外椅上已死，28歲酒吧職員承認與女子合力將人從廁所抬出，現被控非法搬移屍體，警方正追緝涉案女子。"
-      }
-    },
-    {
-      "id": "2026-09-24-deloitte-ipo-forecast-4800",
-      "published_at": "2026-09-24T13:22:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "ipo",
-        "stock-market",
-        "finance",
-        "deloitte"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-deloitte-ipo-forecast-4800.json",
-      "en": {
-        "headline": "Deloitte raises Hong Kong full-year IPO forecast to at least HK$480 billion",
-        "dek": "The firm expects about 160 listings and says the total could surpass the 2010 record of roughly HK$450 billion after a strong first three quarters."
-      },
-      "zh": {
-        "headline": "德勤上調全年港股新股融資預測至最少4800億元",
-        "dek": "德勤預計全年約有160隻新股上市，融資額有望突破2010年約4500億元的歷史紀錄。"
-      }
-    },
-    {
-      "id": "2026-09-24-stv-scheme-social-welfare",
-      "published_at": "2026-09-24T13:21:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "immigration",
-        "talent",
-        "government",
-        "social-welfare"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-stv-scheme-social-welfare.json",
-      "en": {
-        "headline": "Visitor facilitation schemes expanded to social welfare and Central Asia",
-        "dek": "From 1 October the short-term activities scheme will cover social welfare, while the invited persons scheme will extend beyond ASEAN to Central Asia and the Middle East."
-      },
-      "zh": {
-        "headline": "短期訪客計劃增社福界 特邀人士計劃擴至中亞中東",
-        "dek": "政府公布10月1日起擴展兩項入境便利計劃，短期訪客計劃新增社會福利界別，特邀人士計劃則由東盟延伸至中亞及中東國家。"
-      }
-    },
-    {
-      "id": "2026-09-24-hkma-indonesia-qr-mou",
-      "published_at": "2026-09-24T13:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "finance",
-        "hkma",
-        "payments",
-        "indonesia",
-        "fintech"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-hkma-indonesia-qr-mou.json",
-      "en": {
-        "headline": "HKMA and Bank Indonesia sign MoU on QR code cross-border payments",
-        "dek": "The Hong Kong Monetary Authority and Bank Indonesia agreed to explore technical, operational and regulatory arrangements for interoperable QR payments between the two places."
-      },
-      "zh": {
-        "headline": "金管局與印尼央行簽備忘錄 加強二維碼跨境支付合作",
-        "dek": "香港金融管理局與印尼中央銀行今日簽署合作備忘錄，將就技術、營運及監管事宜展開對話，探討促進兩地二維碼跨境支付互聯互通。"
-      }
-    },
-    {
-      "id": "2026-09-24-lifestyle-light-rail-mid-autumn-free",
-      "published_at": "2026-09-24T11:24:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "transport",
-        "light-rail",
-        "yuen-long"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-lifestyle-light-rail-mid-autumn-free.json",
-      "en": {
-        "headline": "Light Rail rides free all day on Mid-Autumn Festival",
-        "dek": "MTR said every Light Rail trip from first train to 11.59pm on Friday will carry no fare, covering Tuen Mun, Yuen Long and Tin Shui Wai."
-      },
-      "zh": {
-        "headline": "中秋正日輕鐵全日免費 屯元天任搭至深夜",
-        "dek": "港鐵公布周五9月25日由頭班車起至晚上11時59分，進出輕鐵站無需支付車費。"
-      }
-    },
-    {
-      "id": "2026-09-24-hui-rmb-government-spending",
-      "published_at": "2026-09-24T11:23:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "finance",
-        "rmb",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-hui-rmb-government-spending.json",
-      "en": {
-        "headline": "Hui says RMB government payments will not touch the peg",
-        "dek": "The financial services chief told RTHK that using renminbi for some official spending is a matching exercise, with the Hong Kong dollar remaining the core."
-      },
-      "zh": {
-        "headline": "許正宇：人民幣付政府開支與聯匯無關",
-        "dek": "財庫局長在電台節目表示，以人民幣支付部分開支是為收支場景匹配，佔比不會高，核心仍是港元。"
-      }
-    },
-    {
-      "id": "2026-09-24-rowing-double-silver-ag2026",
-      "published_at": "2026-09-24T11:22:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-games",
-        "rowing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-rowing-double-silver-ag2026.json",
-      "en": {
-        "headline": "Hong Kong rowers take two Asian Games silvers in an hour",
-        "dek": "Winnie Hung Wing-yan finished second in the lightweight single sculls, then Cheung Yuen-shan and Leung Ying-on won the lightweight double sculls."
-      },
-      "zh": {
-        "headline": "港隊賽艇一朝兩銀 洪詠甄與雙人艇組合齊上頒獎台",
-        "dek": "洪詠甄女子輕量級單人雙樞艇先摘銀，張菌珊與梁穎桉隨後在雙人雙樞艇後上再添一銀。"
-      }
-    },
-    {
-      "id": "2026-09-24-leung-yu-hong-sanda-silver",
-      "published_at": "2026-09-24T11:21:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-games",
-        "wushu",
-        "sanda"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-leung-yu-hong-sanda-silver.json",
-      "en": {
-        "headline": "Leung Yu-hong takes historic Asian Games sanda silver",
-        "dek": "The 21-year-old world champion lost the men's 60kg final to China's Tang Sishuo, giving Hong Kong its best Asian Games result in the discipline."
-      },
-      "zh": {
-        "headline": "梁宇航亞運散打60公斤級摘銀 港隊項目最佳",
-        "dek": "21歲世界冠軍周四決賽不敵國家隊唐思碩，寫下港隊亞運散打歷來最佳成績。"
       }
     }
   ]
