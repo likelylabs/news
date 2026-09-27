@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-09-27T15:07:16+08:00",
+  "generated_at": "2026-09-27T17:13:21+08:00",
   "live_window_hours": 72,
   "count": 86,
   "articles": [
+    {
+      "id": "2026-09-27-victoria-park-tennis-redevelopment",
+      "published_at": "2026-09-27T17:13:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sport",
+        "victoria-park",
+        "tennis",
+        "infrastructure"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-27/2026-09-27-victoria-park-tennis-redevelopment.json",
+      "en": {
+        "headline": "Law outlines Victoria Park tennis redevelopment with retractable roof",
+        "dek": "The sports minister said Hong Kong Stadium could host interim tournaments and the project would try to spare the swimming pool and hard courts."
+      },
+      "zh": {
+        "headline": "羅淑佩：維園網球場擬建開合式上蓋 過渡期用大球場",
+        "dek": "文體旅局長指目標達ATP 500或更高標準，重建盡量避開泳池及硬地足球場。"
+      }
+    },
+    {
+      "id": "2026-09-27-mens-epee-team-bronze-ag2026",
+      "published_at": "2026-09-27T17:12:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-games",
+        "fencing",
+        "medal"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-27/2026-09-27-mens-epee-team-bronze-ag2026.json",
+      "en": {
+        "headline": "Hong Kong men's epee team takes Asian Games bronze",
+        "dek": "The side reached the semi-finals before losing to world champions Kazakhstan, securing a medal without a bronze-medal match."
+      },
+      "zh": {
+        "headline": "亞運男子重劍團體港隊奪銅",
+        "dek": "港隊晉級四強後不敵世界冠軍哈薩克，因不設季軍賽而鎖定銅牌。"
+      }
+    },
     {
       "id": "2026-09-27-squash-mixed-doubles-gold-ag2026",
       "published_at": "2026-09-27T15:06:00+08:00",
@@ -1866,51 +1910,6 @@
       "zh": {
         "headline": "何詩蓓亞運女子50米自由泳摘銀",
         "dek": "港隊泳手何詩蓓以24秒32奪得銀牌，國家隊吳卿風以破亞運紀錄的23秒98奪金，這是她今屆亞運第三面個人獎牌。"
-      }
-    },
-    {
-      "id": "2026-09-24-lifestyle-heritage-tour-northern-metropolis",
-      "published_at": "2026-09-24T15:16:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "heritage",
-        "northern-metropolis",
-        "exhibition",
-        "guided-tour"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-lifestyle-heritage-tour-northern-metropolis.json",
-      "en": {
-        "headline": "2026 Heritage Tour focuses on Northern Metropolis historic buildings",
-        "dek": "The Antiquities and Monuments Office’s annual programme will run from October to December with free guided tours, a travelling exhibition and stamp-collecting activities centred on sites in the northern New Territories."
-      },
-      "zh": {
-        "headline": "2026古蹟周遊樂十月展開 聚焦北都歷史建築",
-        "dek": "發展局文物保育專員辦事處公布，本年度活動以「穿越北都」為主題，10月至12月舉行，提供免費導賞團、巡迴展覽及集印活動，介紹新界北部多座法定古蹟及已評級歷史建築。"
-      }
-    },
-    {
-      "id": "2026-09-24-tst-bar-body-disposal",
-      "published_at": "2026-09-24T15:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "tsim-sha-tsui",
-        "drugs",
-        "court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-24/2026-09-24-tst-bar-body-disposal.json",
-      "en": {
-        "headline": "Bar staff charged after man found dead on Tsim Sha Tsui street",
-        "dek": "A 28-year-old staff member was arrested for illegally handling a corpse after police say he and a woman moved a 48-year-old man from a bar toilet and left him on a chair outside."
-      },
-      "zh": {
-        "headline": "尖沙咀酒吧男子倒斃街頭 職員涉非法搬移屍體被捕",
-        "dek": "警方凌晨接報發現48歲男子坐在河內道商廈外椅上已死，28歲酒吧職員承認與女子合力將人從廁所抬出，現被控非法搬移屍體，警方正追緝涉案女子。"
       }
     }
   ]
