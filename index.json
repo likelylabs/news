@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-09-28T23:20:34+08:00",
+  "generated_at": "2026-09-29T01:04:20+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 84,
   "articles": [
+    {
+      "id": "2026-09-29-td-av-commercial-applications",
+      "published_at": "2026-09-29T01:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "autonomous-vehicles",
+        "transport-department",
+        "policy-address",
+        "airport",
+        "mtr"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-td-av-commercial-applications.json",
+      "en": {
+        "headline": "Transport Department to accept autonomous vehicle commercial applications this year",
+        "dek": "Commissioner Winnie Tse said the department will open applications for individual AV projects after successful driverless trials at the airport and Hong Kong-Zhuhai-Macao Bridge port."
+      },
+      "zh": {
+        "headline": "運輸署今年內接受自動車商業化營運申請",
+        "dek": "署長謝詠誼表示，機場島及港珠澳大橋香港口岸無人駕駛測試成功後，署方將開始接受個別項目的商業化申請。"
+      }
+    },
     {
       "id": "2026-09-28-golden-week-passenger-trips",
       "published_at": "2026-09-28T23:22:00+08:00",
