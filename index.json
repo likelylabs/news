@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-09-28T17:10:53+08:00",
+  "generated_at": "2026-09-28T19:05:28+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-09-28-hktdc-export-forecast-upgrade",
+      "published_at": "2026-09-28T19:07:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "exports",
+        "hktdc",
+        "ai",
+        "electronics",
+        "trade"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-hktdc-export-forecast-upgrade.json",
+      "en": {
+        "headline": "HKTDC lifts 2026 export growth forecast to 42-47 percent on AI demand",
+        "dek": "The Trade Development Council said stronger-than-expected global appetite for semiconductors and electronics pushed first-eight-month growth to 42.5 percent."
+      },
+      "zh": {
+        "headline": "貿發局上調今年出口增長預測至42%至47%",
+        "dek": "受人工智能相關電子產品需求帶動，首八個月出口按年升42.5%，貿發局將全年預測大幅上調。"
+      }
+    },
+    {
+      "id": "2026-09-28-immigration-illegal-tourist-services",
+      "published_at": "2026-09-28T19:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "immigration",
+        "illegal-work",
+        "tourism",
+        "visitors",
+        "social-media"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-immigration-illegal-tourist-services.json",
+      "en": {
+        "headline": "Four women arrested for offering makeup and tour services on visitor visas",
+        "dek": "Immigration officers say the suspects, aged 20 to 31, advertised one-stop photography, styling and guide packages on social media and were caught while providing the services."
+      },
+      "zh": {
+        "headline": "入境處拘四名訪客女子涉提供化妝拍攝導遊服務",
+        "dek": "四名20至31歲女子以訪客身份來港，涉嫌在社交平台招徠一條龍化妝、攝影及導遊服務，被控違反逗留條件。"
+      }
+    },
+    {
+      "id": "2026-09-28-customs-slimming-injections-japan",
+      "published_at": "2026-09-28T19:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "pharmaceuticals",
+        "smuggling",
+        "japan",
+        "poisons"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-customs-slimming-injections-japan.json",
+      "en": {
+        "headline": "Customs seizes 400 suspected poisonous slimming injections from Japan",
+        "dek": "Two local residents were arrested and released on bail after officers found anti-obesity vials valued at about HK$290,000 in a postal packet at the Air Mail Centre."
+      },
+      "zh": {
+        "headline": "海關檢獲400支疑來自日本有毒減肥針劑 拘兩人",
+        "dek": "海關在空郵中心截獲懷疑含第一部毒藥的減肥注射劑，市值約29萬元，兩名本地居民被捕後獲准保釋。"
+      }
+    },
     {
       "id": "2026-09-28-lifestyle-hkex-40-years-exhibition",
       "published_at": "2026-09-28T17:13:00+08:00",
@@ -1717,50 +1786,6 @@
       "zh": {
         "headline": "港隊男花團體亞運決賽負日本奪銀",
         "dek": "蔡俊彥、張家朗、何承謙及梁千雨周五在名古屋以36：45不敵東道主日本，奪得銀牌，可獲賽馬會獎勵計劃100萬元獎金。"
-      }
-    },
-    {
-      "id": "2026-09-25-uber-flytaxi-shutdown",
-      "published_at": "2026-09-25T17:12:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "taxi",
-        "uber",
-        "ride-hailing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-25/2026-09-25-uber-flytaxi-shutdown.json",
-      "en": {
-        "headline": "Uber to shut down FlyTaxi app by end of year",
-        "dek": "The ride-hailing company said it will fully integrate the metered-taxi platform it acquired earlier this year into its own service, following the earlier closure of HKTaxi."
-      },
-      "zh": {
-        "headline": "Uber年底前關閉飛的App 整合至旗下平台",
-        "dek": "Uber周五表示，將於年底前全面整合早前收購的本地的士叫車平台「飛的」，獨立App將停止服務。"
-      }
-    },
-    {
-      "id": "2026-09-25-power-fuel-adjustment-oct",
-      "published_at": "2026-09-25T17:11:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "electricity",
-        "hk-electric",
-        "clp"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-25/2026-09-25-power-fuel-adjustment-oct.json",
-      "en": {
-        "headline": "HK Electric cuts October fuel charge; CLP raises its rate",
-        "dek": "Hongkong Electric will charge 59.3 cents per unit for fuel in October, down 1.4 cents, while CLP’s fuel adjustment rises 1.1 cents to 46.2 cents."
-      },
-      "zh": {
-        "headline": "港燈10月燃料調整費下調1.4仙 中電上調1.1仙",
-        "dek": "港燈10月燃料調整費每度電59.3仙，較9月下調1.4仙；中電則上調1.1仙至46.2仙。"
       }
     }
   ]
