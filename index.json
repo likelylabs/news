@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-09-28T13:14:08+08:00",
+  "generated_at": "2026-09-28T15:08:16+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-09-28-very-hot-weather-warning",
+      "published_at": "2026-09-28T15:09:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "heat",
+        "hko",
+        "very-hot-weather",
+        "warning"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-very-hot-weather-warning.json",
+      "en": {
+        "headline": "Very hot weather warning issued as temperatures climb",
+        "dek": "The Hong Kong Observatory raised the warning at 11:15 am, advising the public to guard against heat stroke while the city remains mainly fine and very hot."
+      },
+      "zh": {
+        "headline": "天文台發出酷熱天氣警告",
+        "dek": "天文台上午11時15分發出酷熱天氣警告，預料今日天氣酷熱，市民應慎防中暑。"
+      }
+    },
+    {
+      "id": "2026-09-28-cathay-dubai-riyadh-suspension",
+      "published_at": "2026-09-28T15:08:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "aviation",
+        "cathay-pacific",
+        "dubai",
+        "riyadh",
+        "middle-east"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-cathay-dubai-riyadh-suspension.json",
+      "en": {
+        "headline": "Cathay extends Dubai and Riyadh flight suspension to end of January",
+        "dek": "Passenger services to the two Middle East cities remain cancelled through 31 January 2027 as the carrier continues to monitor the regional situation."
+      },
+      "zh": {
+        "headline": "國泰延長迪拜及利雅得航班停飛至明年1月底",
+        "dek": "國泰航空周一宣布，往返阿聯酋迪拜及沙特利雅得的客運航班繼續取消至2027年1月31日，並會繼續密切留意中東局勢。"
+      }
+    },
+    {
+      "id": "2026-09-28-jason-poon-bail-fraud",
+      "published_at": "2026-09-28T15:07:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "fraud",
+        "jason-poon",
+        "loan-scheme",
+        "kowloon-city"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-jason-poon-bail-fraud.json",
+      "en": {
+        "headline": "Jason Poon and wife granted bail over alleged HK$6m loan fraud",
+        "dek": "The construction businessman and his wife face fraud and money-laundering charges linked to a Covid-era SME financing scheme; the case will move to the District Court."
+      },
+      "zh": {
+        "headline": "潘焯鴻夫婦涉600萬元貸款詐騙獲保釋",
+        "dek": "建築商人潘焯鴻及妻子被控涉及疫情期間中小企融資擔保計劃詐騙及洗黑錢，案件將轉介區域法院審理。"
+      }
+    },
+    {
+      "id": "2026-09-28-midautumn-mainland-arrivals",
+      "published_at": "2026-09-28T15:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "tourism",
+        "mid-autumn",
+        "golden-week",
+        "mainland-visitors",
+        "immigration"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-midautumn-mainland-arrivals.json",
+      "en": {
+        "headline": "Nearly 440,000 mainland arrivals over Mid-Autumn weekend",
+        "dek": "Immigration figures show 439,532 trips by mainland visitors from Friday to Sunday, with hotels expecting occupancy above 90 per cent for the coming National Day holiday."
+      },
+      "zh": {
+        "headline": "中秋周末近44萬人次內地客訪港",
+        "dek": "入境處周一公布，上周五至日錄得439,532人次內地旅客抵港，佔期間總入境約四分一；旅遊業界預料黃金周熱門區酒店入住率逾九成。"
+      }
+    },
     {
       "id": "2026-09-28-esports-honor-of-kings-bronze",
       "published_at": "2026-09-28T13:15:00+08:00",
@@ -1712,51 +1803,6 @@
       "zh": {
         "headline": "港隊男花團體淘汰烏茲別克 亞運闖四強穩奪牌",
         "dek": "蔡俊彥、張家朗、何承謙及梁千雨周五在名古屋以45：33擊敗烏茲別克，四強對南韓，至少穩奪銅牌。"
-      }
-    },
-    {
-      "id": "2026-09-25-sai-ying-pun-salt-water-pipe-burst",
-      "published_at": "2026-09-25T13:16:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "water-supplies",
-        "sai-ying-pun",
-        "road-closure"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-25/2026-09-25-sai-ying-pun-salt-water-pipe-burst.json",
-      "en": {
-        "headline": "Salt-water pipe bursts near Sai Ying Pun market, roads closed",
-        "dek": "A salt-water main ruptured outside the Second Street market on Friday morning, sending a three-metre jet of muddy water onto the carriageway and forcing temporary closures."
-      },
-      "zh": {
-        "headline": "西營盤正街街市外鹹水管爆裂 部分路面封閉",
-        "dek": "周五早上第二街正街街市對開鹹水管爆裂，水柱一度高達三米，泥水湧出路面，警方封閉部分行車線。"
-      }
-    },
-    {
-      "id": "2026-09-25-weekend-weather-outlook-sep26-27",
-      "published_at": "2026-09-25T13:15:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "weekend",
-        "mid-autumn",
-        "heat"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-25/2026-09-25-weekend-weather-outlook-sep26-27.json",
-      "en": {
-        "headline": "Weekend outlook: sunny, dry and very hot for Mid-Autumn holiday",
-        "dek": "The Observatory forecasts mainly fine weather with light winds and temperatures reaching 33 to 34 degrees on Saturday and Sunday, under the influence of an anticyclone aloft."
-      },
-      "zh": {
-        "headline": "周末天氣展望：中秋連假天晴乾燥酷熱",
-        "dek": "天文台預料周六及周日大致天晴，吹微風，日間乾燥酷熱，氣溫升至33至34度，受高空反氣旋影響。"
       }
     }
   ]
