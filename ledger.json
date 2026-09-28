@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-28T15:08:16+08:00",
+  "updated_at": "2026-09-28T17:13:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "marine-yacht-rowers-high-island-sep26",
+      "id": "2026-09-28-marine-yacht-rowers-probe",
+      "first_seen": "2026-09-28T17:12:00+08:00",
+      "headline_en": "Marine Department probes yacht that sped at rowers near High Island"
+    },
+    {
+      "key": "lifestyle-hkex-40-years-exhibition",
+      "id": "2026-09-28-lifestyle-hkex-40-years-exhibition",
+      "first_seen": "2026-09-28T17:13:00+08:00",
+      "headline_en": "HKEX opens photo exhibition marking 40 years at Exchange Square"
+    },
     {
       "key": "very-hot-weather-warning-sep28",
       "id": "2026-09-28-very-hot-weather-warning",
