@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-09-29T03:16:23+08:00",
+  "generated_at": "2026-09-29T07:06:18+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-09-29-gd-hk-yacht-work-arrangements",
+      "published_at": "2026-09-29T07:09:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "yachts",
+        "greater-bay-area",
+        "marine-department",
+        "guangdong",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-gd-hk-yacht-work-arrangements.json",
+      "en": {
+        "headline": "Hong Kong and Guangdong sign yacht travel work arrangements",
+        "dek": "The Marine Department and the Guangdong Maritime Safety Administration signed papers covering Guangdong yachts entering Hong Kong waters and Hong Kong yachts sailing north, with southbound details still to come."
+      },
+      "zh": {
+        "headline": "港粵簽署遊艇互訪工作安排 粵艇南下進入最後準備",
+        "dek": "海事處與廣東海事局周一簽署「粵艇南下」及「港艇北上」工作安排，當局稱稍後公布廣東籍遊艇訪港實施細節。"
+      }
+    },
+    {
+      "id": "2026-09-29-hk-gold-clearing-first-ceo",
+      "published_at": "2026-09-29T07:08:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "gold",
+        "financial-services",
+        "fstb",
+        "hkex",
+        "commodities"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-hk-gold-clearing-first-ceo.json",
+      "en": {
+        "headline": "Hong Kong gold clearing company names first chief executive",
+        "dek": "Chan Ping-keung will take up a three-year term on 2 October at the government-owned firm building a central gold clearing system due to open in the first quarter of 2027."
+      },
+      "zh": {
+        "headline": "港金結算公司任命陳秉强為首任行政總裁",
+        "dek": "前港交所高層陳秉强將於10月2日履新，任期三年，負責籌備明年首季啟用的黃金中央清算及結算系統。"
+      }
+    },
     {
       "id": "2026-09-29-lifestyle-fly-me-to-the-moon-exhibition",
       "published_at": "2026-09-29T03:14:00+08:00",
