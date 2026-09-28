@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-28T17:10:53+08:00",
+  "updated_at": "2026-09-28T19:07:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "customs-slimming-injections-japan-sep28",
+      "id": "2026-09-28-customs-slimming-injections-japan",
+      "first_seen": "2026-09-28T19:05:00+08:00",
+      "headline_en": "Customs seizes 400 suspected poisonous slimming injections from Japan"
+    },
+    {
+      "key": "immigration-illegal-makeup-tour-services-sep28",
+      "id": "2026-09-28-immigration-illegal-tourist-services",
+      "first_seen": "2026-09-28T19:06:00+08:00",
+      "headline_en": "Four women arrested for offering makeup and tour services on visitor visas"
+    },
+    {
+      "key": "hktdc-export-forecast-upgrade-2026",
+      "id": "2026-09-28-hktdc-export-forecast-upgrade",
+      "first_seen": "2026-09-28T19:07:00+08:00",
+      "headline_en": "HKTDC lifts 2026 export growth forecast to 42-47 percent on AI demand"
+    },
     {
       "key": "marine-yacht-rowers-high-island-sep26",
       "id": "2026-09-28-marine-yacht-rowers-probe",
