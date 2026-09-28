@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-09-28T21:05:26+08:00",
+  "generated_at": "2026-09-28T23:19:03+08:00",
   "live_window_hours": 72,
   "count": 83,
   "articles": [
+    {
+      "id": "2026-09-28-golden-week-passenger-trips",
+      "published_at": "2026-09-28T23:22:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "immigration",
+        "golden-week",
+        "national-day",
+        "boundary-control",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-golden-week-passenger-trips.json",
+      "en": {
+        "headline": "Checkpoints expected to handle 7.44 million trips over Golden Week",
+        "dek": "Immigration Department forecasts peak outbound land traffic on 3 October and peak inbound on 4 October, with Lo Wu, Lok Ma Chau Spur Line and Shenzhen Bay busiest."
+      },
+      "zh": {
+        "headline": "國慶黃金周料744萬人次進出香港",
+        "dek": "入境處預計陸路出境高峰為10月3日、入境高峰為10月4日，羅湖、落馬洲支線及深圳灣最繁忙。"
+      }
+    },
+    {
+      "id": "2026-09-28-jacky-chu-honours-funeral",
+      "published_at": "2026-09-28T23:21:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "funeral",
+        "gallant-garden",
+        "honours",
+        "jacky-chu"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-jacky-chu-honours-funeral.json",
+      "en": {
+        "headline": "Police to hold highest-honour funeral for PC Jacky Chu on 22 October",
+        "dek": "The officer, who was left paralysed after a 2005 knife attack while on duty, will be buried at Gallant Garden the following day."
+      },
+      "zh": {
+        "headline": "警方10月22日為警員朱振國舉行最高榮譽葬禮",
+        "dek": "2005年執勤遇襲癱瘓21年的警員朱振國，將於翌日安葬浩園。"
+      }
+    },
+    {
+      "id": "2026-09-28-kai-tak-hospital-phased-opening",
+      "published_at": "2026-09-28T23:20:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "kai-tak-hospital",
+        "hospital-authority",
+        "queen-elizabeth-hospital",
+        "outpatient",
+        "oncology"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-kai-tak-hospital-phased-opening.json",
+      "en": {
+        "headline": "Kai Tak Hospital begins phased opening from 5 October",
+        "dek": "The Family Medicine Integrated Centre will open first, with specialist outpatient and oncology services transferring from Queen Elizabeth Hospital in stages."
+      },
+      "zh": {
+        "headline": "啟德醫院10月5日起分階段投入服務",
+        "dek": "家庭醫學綜合中心率先開診，專科門診及腫瘤科服務將由伊利沙伯醫院分批轉移。"
+      }
+    },
     {
       "id": "2026-09-28-arbitration-ordinance-consultation",
       "published_at": "2026-09-28T21:07:00+08:00",
@@ -1786,73 +1855,6 @@
       "zh": {
         "headline": "中秋翌日公眾假期天文台發出酷熱天氣警告",
         "dek": "天文台今早6時45分發出酷熱天氣警告，預料周六天晴乾燥酷熱；黃色火災危險警告仍然生效。"
-      }
-    },
-    {
-      "id": "2026-09-25-lifestyle-victoria-park-lanterns",
-      "published_at": "2026-09-25T21:14:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "lantern",
-        "victoria-park",
-        "culture"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-25/2026-09-25-lifestyle-victoria-park-lanterns.json",
-      "en": {
-        "headline": "Victoria Park Mid-Autumn lantern carnival runs through early October",
-        "dek": "The free carnival at Victoria Park lights up nightly from 6.30pm to 11pm, extended to midnight over the festival weekend, with displays continuing until 4 October."
-      },
-      "zh": {
-        "headline": "維園中秋綵燈會亮燈至10月初",
-        "dek": "維多利亞公園中秋綵燈會每晚6時30分至11時亮燈，節日周末延至午夜，展覽持續至10月4日，免費入場。"
-      }
-    },
-    {
-      "id": "2026-09-25-red-flags-stanley-cwb",
-      "published_at": "2026-09-25T21:13:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "beaches",
-        "lcsd",
-        "mid-autumn"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-25/2026-09-25-red-flags-stanley-cwb.json",
-      "en": {
-        "headline": "Red flags raised at Stanley and Clear Water Bay beaches over big waves",
-        "dek": "The Leisure and Cultural Services Department advised the public not to swim at Stanley Main Beach and Clear Water Bay Second Beach after red flags were hoisted on Friday afternoon."
-      },
-      "zh": {
-        "headline": "赤柱及清水灣二灘因湧浪掛紅旗",
-        "dek": "康文署周五下午因湧浪在赤柱正灘及清水灣第二灣泳灘掛上紅旗，呼籲泳客勿下水。"
-      }
-    },
-    {
-      "id": "2026-09-25-foil-team-silver-japan",
-      "published_at": "2026-09-25T21:12:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-games",
-        "fencing",
-        "foil"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-25/2026-09-25-foil-team-silver-japan.json",
-      "en": {
-        "headline": "Hong Kong men’s foil team takes Asian Games silver after final loss to Japan",
-        "dek": "Ryan Choi, Cheung Ka-long, Harris Ho and Leung Chin-yu fell 36-45 to the host nation in Nagoya, securing silver and a HK$1 million incentive award."
-      },
-      "zh": {
-        "headline": "港隊男花團體亞運決賽負日本奪銀",
-        "dek": "蔡俊彥、張家朗、何承謙及梁千雨周五在名古屋以36：45不敵東道主日本，奪得銀牌，可獲賽馬會獎勵計劃100萬元獎金。"
       }
     }
   ]
