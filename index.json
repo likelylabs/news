@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-09-28T09:14:50+08:00",
+  "generated_at": "2026-09-28T11:12:45+08:00",
   "live_window_hours": 72,
   "count": 85,
   "articles": [
+    {
+      "id": "2026-09-28-po-pin-chau-no-shows",
+      "published_at": "2026-09-28T09:50:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sai-kung",
+        "hiking",
+        "po-pin-chau",
+        "afcd",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-po-pin-chau-no-shows.json",
+      "en": {
+        "headline": "Half of Po Pin Chau Mid-Autumn bookings did not show, AFCD says",
+        "dek": "An average of 2,360 people reserved the Sai Kung trail each day from 25 to 27 September, but only about 1,170 arrived. A lawmaker urged fees or deposits."
+      },
+      "zh": {
+        "headline": "破邊洲中秋周末近半預約未到訪 方國珊倡收費或按金",
+        "dek": "漁護署指9月25至27日日均2360人預約、實際到訪約1170人；議員建議開放候補名額並考慮收費。"
+      }
+    },
+    {
+      "id": "2026-09-28-tic-golden-week-outlook",
+      "published_at": "2026-09-28T09:49:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "tourism",
+        "golden-week",
+        "mid-autumn",
+        "hotels",
+        "mainland-visitors"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-tic-golden-week-outlook.json",
+      "en": {
+        "headline": "Travel council says Mid-Autumn visitor numbers encouraging ahead of Golden Week",
+        "dek": "TIC chairman Tam Kwong-shun said hotels for 1 to 3 October are nearly full and more than half of National Day visitors are expected to stay overnight."
+      },
+      "zh": {
+        "headline": "旅議會：中秋訪港內地客令人鼓舞 國慶酒店近滿",
+        "dek": "主席譚光舜表示，10月1至3日酒店已接近預訂爆滿，估計黃金周過夜旅客佔五成多。"
+      }
+    },
+    {
+      "id": "2026-09-28-fanling-highway-minibus-crash",
+      "published_at": "2026-09-28T09:48:00+08:00",
+      "updated_at": "2026-09-28T11:15:00+08:00",
+      "category": "transport",
+      "tags": [
+        "transport",
+        "sheung-shui",
+        "minibus",
+        "police",
+        "fanling"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-fanling-highway-minibus-crash.json",
+      "en": {
+        "headline": "Eighteen lightly hurt after minibus hits works vehicle on Fanling Highway",
+        "dek": "The Transport Department closed Kowloon-bound lanes near Choi Yuen Estate after a morning collision; the minibus driver was trapped and later freed."
+      },
+      "zh": {
+        "headline": "粉嶺公路小巴撼工程車 18人輕傷 往九龍方向一度全線封閉",
+        "dek": "今早近九時上水彩園邸對開發生車禍，專線小巴司機一度被困，運輸署封閉粉嶺公路往九龍方向近彩園邸全線。"
+      }
+    },
     {
       "id": "2026-09-28-lifestyle-marrow-popup-final-days",
       "published_at": "2026-09-28T08:40:00+08:00",
@@ -1818,74 +1887,6 @@
       "zh": {
         "headline": "港隊男花團體淘汰印度 亞運闖八強",
         "dek": "蔡俊彥、張家朗、何承謙及梁千雨周五上午在名古屋以45：27擊敗印度，十六強過關後下一場對烏茲別克。"
-      }
-    },
-    {
-      "id": "2026-09-25-qeh-kai-tak-kwong-wah",
-      "published_at": "2026-09-25T11:12:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "hospitals",
-        "kai-tak",
-        "health",
-        "hospital-authority",
-        "kowloon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-25/2026-09-25-qeh-kai-tak-kwong-wah.json",
-      "en": {
-        "headline": "Lo says Kwong Wah A&E can cover area as QEH moves to Kai Tak",
-        "dek": "The health chief said Queen Elizabeth Hospital services will shift in stages to Kai Tak Hospital, with Kwong Wah's rebuilt emergency department now three times larger."
-      },
-      "zh": {
-        "headline": "盧寵茂：伊院服務遷啟德 廣華急症室可應付當區",
-        "dek": "醫務衞生局局長表示伊利沙伯醫院服務將分階段遷往啟德醫院，重建後的廣華急症室面積擴大三倍，足以應付附近需求。"
-      }
-    },
-    {
-      "id": "2026-09-25-lam-minors-social-media",
-      "published_at": "2026-09-25T11:11:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "social-media",
-        "minors",
-        "doj",
-        "legislation",
-        "ai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-25/2026-09-25-lam-minors-social-media.json",
-      "en": {
-        "headline": "Justice chief says law remains option on minors' social media",
-        "dek": "Paul Lam said legislation to regulate how children use social media is one option under study, after the policy address ordered a task force led by his department."
-      },
-      "zh": {
-        "headline": "林定國：立法規管未成年用社交媒體仍是選項",
-        "dek": "律政司司長表示，施政報告提出由律政司牽頭成立專責小組後，立法規管兒童使用社交媒體仍屬研究範圍之一。"
-      }
-    },
-    {
-      "id": "2026-09-25-electoral-register-published",
-      "published_at": "2026-09-25T11:10:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "elections",
-        "voters",
-        "reo",
-        "politics"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-25/2026-09-25-electoral-register-published.json",
-      "en": {
-        "headline": "Official voter roll lists 4.12 million geographical electors",
-        "dek": "The 2026 final registers published today record 4,116,965 geographical constituency electors, about 22,000 fewer than a year earlier, the Registration and Electoral Office said."
-      },
-      "zh": {
-        "headline": "正式選民登記冊發表 地方選區411萬6965人",
-        "dek": "選舉事務處今日發表2026年正式選民及投票人登記冊，地方選區載有411萬6965名選民，較去年約少2.2萬人。"
       }
     }
   ]
