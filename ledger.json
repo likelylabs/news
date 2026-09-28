@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-28T19:05:28+08:00",
+  "updated_at": "2026-09-28T21:08:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "tuen-mun-drainage-man-death-sep28",
+      "id": "2026-09-28-tuen-mun-drainage-man-death",
+      "first_seen": "2026-09-28T21:05:00+08:00",
+      "headline_en": "Man found dead in Tuen Mun drainage facility near Siu Hong"
+    },
+    {
+      "key": "national-day-fireworks-road-closures-2026",
+      "id": "2026-09-28-national-day-fireworks-road-closures",
+      "first_seen": "2026-09-28T21:06:00+08:00",
+      "headline_en": "Phased road closures set for National Day fireworks on Thursday"
+    },
+    {
+      "key": "arbitration-ordinance-consultation-sep28",
+      "id": "2026-09-28-arbitration-ordinance-consultation",
+      "first_seen": "2026-09-28T21:07:00+08:00",
+      "headline_en": "DoJ launches one-month consultation on Arbitration Ordinance amendments"
+    },
     {
       "key": "customs-slimming-injections-japan-sep28",
       "id": "2026-09-28-customs-slimming-injections-japan",
@@ -154,7 +172,7 @@
     },
     {
       "key": "water-tank-cleaning-robot-trial-sep27",
-      "id": "2026-09-27-water-tank-cleaning-robot-trial",
+      "id": "2026-09-27-water-tank-cleaning-robot",
       "first_seen": "2026-09-27T23:22:00+08:00",
       "headline_en": "Housing chief trials water-tank cleaning robot in three estates"
     },
