@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-09-29T01:04:20+08:00",
+  "generated_at": "2026-09-29T03:16:23+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-09-29-lifestyle-fly-me-to-the-moon-exhibition",
+      "published_at": "2026-09-29T03:14:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "k11-musea",
+        "space",
+        "tsim-sha-tsui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-lifestyle-fly-me-to-the-moon-exhibition.json",
+      "en": {
+        "headline": "Immersive space exhibition Fly Me to the Moon opens at K11 MUSEA from 2 October",
+        "dek": "The multi-sensory show invites visitors on a 380,000-kilometre journey to the moon with panoramic projections, lunar habitat designs and outdoor installations along Victoria Harbour."
+      },
+      "zh": {
+        "headline": "沉浸式太空展「飛奔到月球」10月2日起於K11 MUSEA開幕",
+        "dek": "展覽帶領觀眾踏上38萬公里月球之旅，結合全景投影、月球居住艙設計及維港海旁戶外裝置，啟發對未來生活的想像。"
+      }
+    },
     {
       "id": "2026-09-29-td-av-commercial-applications",
       "published_at": "2026-09-29T01:05:00+08:00",
