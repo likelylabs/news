@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-09-28T15:08:16+08:00",
+  "generated_at": "2026-09-28T17:10:53+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-09-28-lifestyle-hkex-40-years-exhibition",
+      "published_at": "2026-09-28T17:13:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "hkex",
+        "exhibition",
+        "central",
+        "exchange-square"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-lifestyle-hkex-40-years-exhibition.json",
+      "en": {
+        "headline": "HKEX opens photo exhibition marking 40 years at Exchange Square",
+        "dek": "The four-week free display at the Rotunda traces Hong Kong’s modern stock exchange history through rare images, footage and artefacts, opening to the public from Monday afternoon."
+      },
+      "zh": {
+        "headline": "港交所展開交易廣場40周年圖片展",
+        "dek": "為期四周的免費展覽於交易廣場圓形大廳展出珍罕照片、影像及文物，追溯香港現代證券交易所發展，周一下午起向公眾開放。"
+      }
+    },
+    {
+      "id": "2026-09-28-marine-yacht-rowers-probe",
+      "published_at": "2026-09-28T17:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sai-kung",
+        "marine-department",
+        "rowing",
+        "yacht",
+        "high-island"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-marine-yacht-rowers-probe.json",
+      "en": {
+        "headline": "Marine Department probes yacht that sped at rowers near High Island",
+        "dek": "A rower in Saturday’s Sai Kung Coastal Challenge said a yacht accelerated towards his boat in a deliberate act; the department will investigate even without a formal report."
+      },
+      "zh": {
+        "headline": "西貢破邊洲附近遊艇高速逼近划艇 海事處主動調查",
+        "dek": "周六西貢海岸挑戰賽期間，一名划艇手指遊艇刻意加速直衝其船，海事處周一表示即使未接獲舉報亦會主動調查。"
+      }
+    },
     {
       "id": "2026-09-28-very-hot-weather-warning",
       "published_at": "2026-09-28T15:09:00+08:00",
@@ -1715,94 +1761,6 @@
       "zh": {
         "headline": "港燈10月燃料調整費下調1.4仙 中電上調1.1仙",
         "dek": "港燈10月燃料調整費每度電59.3仙，較9月下調1.4仙；中電則上調1.1仙至46.2仙。"
-      }
-    },
-    {
-      "id": "2026-09-25-foil-team-final-japan",
-      "published_at": "2026-09-25T17:10:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-games",
-        "fencing",
-        "foil"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-25/2026-09-25-foil-team-final-japan.json",
-      "en": {
-        "headline": "Hong Kong men’s foil team reach Asian Games final after beating Korea",
-        "dek": "Ryan Choi, Cheung Ka-long, Harris Ho and Leung Chin-yu defeated South Korea 45-41 in the semi-finals in Nagoya and will face Japan for gold."
-      },
-      "zh": {
-        "headline": "港隊男花團體擊敗韓國晉決賽 與日本爭亞運金牌",
-        "dek": "蔡俊彥、張家朗、何承謙及梁千雨周五在名古屋以45：41擊敗南韓晉身決賽，至少穩奪銀牌，稍後對日本爭金。"
-      }
-    },
-    {
-      "id": "2026-09-25-lai-ka-ying-mid-autumn-wishes",
-      "published_at": "2026-09-25T15:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "mid-autumn",
-        "space",
-        "lai-ka-ying"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-25/2026-09-25-lai-ka-ying-mid-autumn-wishes.json",
-      "en": {
-        "headline": "Lai Ka-ying sends Mid-Autumn wishes from Tiangong space station",
-        "dek": "Hong Kong’s first astronaut said looking at the moon and the Earth from space made her miss family and friends even more, and wished residents a happy and prosperous life."
-      },
-      "zh": {
-        "headline": "黎家盈從天宮送中秋祝福 望明月更想念香港親友",
-        "dek": "首位港產航天員表示首次在太空度過中秋，從天宮望明月、俯瞰地球萬家燈火，對家人和朋友更加想念。"
-      }
-    },
-    {
-      "id": "2026-09-25-tai-wai-claw-machine-arrests",
-      "published_at": "2026-09-25T15:13:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "theft",
-        "sha-tin",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-25/2026-09-25-tai-wai-claw-machine-arrests.json",
-      "en": {
-        "headline": "Three men arrested over Tai Wai claw machine theft of nearly 100 toys",
-        "dek": "Police said the men, aged 28 to 33, are suspected of stealing plush toys worth about HK$70,000 from a self-service shop on 17 September and handling the stolen goods."
-      },
-      "zh": {
-        "headline": "大圍夾公仔店失竊近百隻公仔 警拘三男",
-        "dek": "警方指三名28至33歲男子涉嫌於9月17日凌晨撬開兩部夾公仔機，偷去市值約7萬元公仔及處理贓物。"
-      }
-    },
-    {
-      "id": "2026-09-25-foil-team-uzbekistan-semis",
-      "published_at": "2026-09-25T15:12:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-games",
-        "fencing",
-        "foil"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-25/2026-09-25-foil-team-uzbekistan-semis.json",
-      "en": {
-        "headline": "Hong Kong men’s foil team reach Asian Games semi-finals",
-        "dek": "Ryan Choi, Cheung Ka-long, Harris Ho and Leung Chin-yu beat Uzbekistan 45-33 in the quarter-finals in Nagoya, guaranteeing at least a bronze medal."
-      },
-      "zh": {
-        "headline": "港隊男花團體淘汰烏茲別克 亞運闖四強穩奪牌",
-        "dek": "蔡俊彥、張家朗、何承謙及梁千雨周五在名古屋以45：33擊敗烏茲別克，四強對南韓，至少穩奪銅牌。"
       }
     }
   ]
