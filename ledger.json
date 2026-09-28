@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-28T09:13:21+08:00",
+  "updated_at": "2026-09-28T08:40:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "pboc-rmb-bills-issue-sep28",
+      "id": "2026-09-28-pboc-rmb-bills-issue",
+      "first_seen": "2026-09-28T08:38:00+08:00",
+      "headline_en": "PBOC issues RMB 60 billion of six-month bills in Hong Kong"
+    },
+    {
+      "key": "lifestyle-wong-tai-sin-lanterns-oct4",
+      "id": "2026-09-28-lifestyle-wong-tai-sin-lanterns",
+      "first_seen": "2026-09-28T08:39:00+08:00",
+      "headline_en": "Wong Tai Sin Temple lanterns stay lit through 4 October"
+    },
+    {
+      "key": "lifestyle-marrow-lee-tung-final-days",
+      "id": "2026-09-28-lifestyle-marrow-popup-final-days",
+      "first_seen": "2026-09-28T08:40:00+08:00",
+      "headline_en": "Wan Chai grill pop-up Marrow ends its run on Wednesday"
+    },
     {
       "key": "fifa-asean-cup-hk-laos-4-0-result",
       "id": "2026-09-27-fifa-asean-cup-hk-laos-result",
