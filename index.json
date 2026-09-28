@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-09-28T19:05:28+08:00",
+  "generated_at": "2026-09-28T21:05:26+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-09-28-arbitration-ordinance-consultation",
+      "published_at": "2026-09-28T21:07:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "arbitration",
+        "department-of-justice",
+        "legal",
+        "policy-address"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-arbitration-ordinance-consultation.json",
+      "en": {
+        "headline": "DoJ launches one-month consultation on Arbitration Ordinance amendments",
+        "dek": "The Department of Justice is seeking stakeholder views until 27 October on proposed changes aimed at reinforcing Hong Kong’s position as an international arbitration hub."
+      },
+      "zh": {
+        "headline": "律政司就《仲裁條例》修訂展開一個月諮詢",
+        "dek": "諮詢期至10月27日，涵蓋加快程序、保密、適用範圍及公平等四大範疇，目標明年提交條例草案。"
+      }
+    },
+    {
+      "id": "2026-09-28-national-day-fireworks-road-closures",
+      "published_at": "2026-09-28T21:06:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "national-day",
+        "fireworks",
+        "traffic",
+        "police",
+        "victoria-harbour"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-national-day-fireworks-road-closures.json",
+      "en": {
+        "headline": "Phased road closures set for National Day fireworks on Thursday",
+        "dek": "Police will shut major roads on both sides of Victoria Harbour from Thursday afternoon for the 23-minute display expected to draw about 260,000 spectators."
+      },
+      "zh": {
+        "headline": "國慶煙花匯演周四晚舉行 維港兩岸分階段封路",
+        "dek": "煙花約晚上8時開始、歷時23分鐘，預計吸引約26萬人觀賞，警方下午5時起在九龍及港島實施分階段封路。"
+      }
+    },
+    {
+      "id": "2026-09-28-tuen-mun-drainage-man-death",
+      "published_at": "2026-09-28T21:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tuen-mun",
+        "death",
+        "drainage",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-28/2026-09-28-tuen-mun-drainage-man-death.json",
+      "en": {
+        "headline": "Man found dead in Tuen Mun drainage facility near Siu Hong",
+        "dek": "Rescuers recovered a man from a low-flow interception system on Siu Hong Road after drainage staff raised the alarm; he was certified dead at the scene."
+      },
+      "zh": {
+        "headline": "屯門兆康路渠務設施發現男子遺體",
+        "dek": "渠務人員下午發現低流量截流系統內有人被困，救援人員救出男子後證實死亡，警方封鎖現場調查。"
+      }
+    },
     {
       "id": "2026-09-28-hktdc-export-forecast-upgrade",
       "published_at": "2026-09-28T19:07:00+08:00",
