@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-28T11:13:09+08:00",
+  "updated_at": "2026-09-28T11:20:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "fanling-highway-minibus-works-vehicle-crash-sep28",
+      "id": "2026-09-28-fanling-highway-minibus-crash",
+      "first_seen": "2026-09-28T09:48:00+08:00",
+      "headline_en": "Eighteen lightly hurt after minibus hits works vehicle on Fanling Highway"
+    },
+    {
+      "key": "tic-golden-week-midautumn-visitors-sep28",
+      "id": "2026-09-28-tic-golden-week-outlook",
+      "first_seen": "2026-09-28T09:49:00+08:00",
+      "headline_en": "Travel council says Mid-Autumn visitor numbers encouraging ahead of Golden Week"
+    },
+    {
+      "key": "po-pin-chau-no-show-midautumn-weekend",
+      "id": "2026-09-28-po-pin-chau-no-shows",
+      "first_seen": "2026-09-28T09:50:00+08:00",
+      "headline_en": "Half of Po Pin Chau Mid-Autumn bookings did not show, AFCD says"
+    },
     {
       "key": "pboc-rmb-bills-issue-sep28",
       "id": "2026-09-28-pboc-rmb-bills-issue",
@@ -180,7 +198,7 @@
       "key": "lifestyle-anne-imhof-house-of-swans",
       "id": "2026-09-27-lifestyle-anne-imhof-house-of-swans",
       "first_seen": "2026-09-27T03:15:00+08:00",
-      "headline_en": "Anne Imhof’s House of Swans opens at Tai Kwun with ballet performances"
+      "headline_en": "Anne Imhof's House of Swans opens at Tai Kwun with ballet performances"
     },
     {
       "key": "lifestyle-trading-card-show",
