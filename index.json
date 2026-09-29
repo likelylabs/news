@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T07:08:26+08:00",
+  "generated_at": "2026-09-30T07:50:59+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 88,
   "articles": [
     {
       "id": "2026-09-30-lifestyle-national-day-heritage-fun-day",
@@ -1993,49 +1993,6 @@
       "zh": {
         "headline": "天文台再發酷熱天氣警告 市區料高見33度",
         "dek": "警告今早6時45分重新生效，預料大致天晴、乾燥及酷熱；黃色火災危險警告仍然生效。"
-      }
-    },
-    {
-      "id": "2026-09-27-lifestyle-po-pin-chau-quota",
-      "published_at": "2026-09-27T07:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "hiking",
-        "sai-kung",
-        "geopark"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-lifestyle-po-pin-chau-quota.json",
-      "en": {
-        "headline": "Po Pin Chau trail stays on quota through Sunday as hikers face full slots",
-        "dek": "The trial booking system caps the High Island Geo Trail section at 2,000 visitors a day; Saturday crowds queued in the heat while walk-in openings remained uncertain."
-      },
-      "zh": {
-        "headline": "破邊洲周日續要預約 周六已現排隊及額滿",
-        "dek": "萬宜地質步道破邊洲段試行每日2,000人次配額，中秋連假須實名預約；周六有行山人士在東壩入口等候，即場餘額並不穩定。"
-      }
-    },
-    {
-      "id": "2026-09-27-inbound-peak-boundary",
-      "published_at": "2026-09-27T07:09:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "mtr",
-        "cross-boundary"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-inbound-peak-boundary.json",
-      "en": {
-        "headline": "Inbound rush expected at land borders this Sunday afternoon",
-        "dek": "The Transport Department said waiting times for public transport will lengthen as mainland Mid-Autumn holiday travellers return, with extra East Rail and shuttle services running."
-      },
-      "zh": {
-        "headline": "內地中秋假期尾聲 當局料周日下午口岸入境高峰",
-        "dek": "運輸署預計今日下午至晚上陸路口岸入境人流上升，過境公共交通輪候時間會較長，東鐵及金巴黃巴已加密班次。"
       }
     }
   ]
