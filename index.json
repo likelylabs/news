@@ -1,8 +1,123 @@
 {
-  "generated_at": "2026-09-29T09:16:09+08:00",
+  "generated_at": "2026-09-29T11:11:19+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-09-29-lifestyle-lee-tsz-long-piano-recital",
+      "published_at": "2026-09-29T11:26:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "music",
+        "lcsd",
+        "city-hall",
+        "concert"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-lifestyle-lee-tsz-long-piano-recital.json",
+      "en": {
+        "headline": "Pianist John Lee to play City Hall in Hong Kong Artists series",
+        "dek": "The Leisure and Cultural Services Department said tickets at HK$220 are on sale for the 8pm recital on 27 October at the City Hall Theatre."
+      },
+      "zh": {
+        "headline": "康文署香港藝術家系列十月呈獻李子朗鋼琴演奏會",
+        "dek": "李子朗10月27日晚上8時於大會堂劇院演出，票價220元，現已於城市售票網發售。"
+      }
+    },
+    {
+      "id": "2026-09-29-bangkok-flood-hk-flight-delays",
+      "published_at": "2026-09-29T11:25:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "airport",
+        "flights",
+        "bangkok",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-bangkok-flood-hk-flight-delays.json",
+      "en": {
+        "headline": "Bangkok floods delay at least 21 Hong Kong flights",
+        "dek": "Airport data cited by the South China Morning Post showed ten inbound and four outbound Hong Kong–Bangkok services delayed by an hour or more on Sunday."
+      },
+      "zh": {
+        "headline": "曼谷水浸影響往來香港航班至少二十一班延誤",
+        "dek": "傳媒引述機場資料，週日至少十班抵港及四班離港曼谷航班延誤一小時或以上，其中一班近二十四小時。"
+      }
+    },
+    {
+      "id": "2026-09-29-hsbc-buyback-completed",
+      "published_at": "2026-09-29T11:24:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "hsbc",
+        "stocks",
+        "banking",
+        "buyback"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-hsbc-buyback-completed.json",
+      "en": {
+        "headline": "HSBC completes US$1 billion share buyback programme",
+        "dek": "The bank said a final Hong Kong purchase of 911,200 shares on Monday brought the programme announced on 5 August to a close."
+      },
+      "zh": {
+        "headline": "滙控完成十億美元股份回購計劃",
+        "dek": "滙豐控股公布周一在港再購入91.12萬股註銷後，8月5日宣布的十億美元回購已完成。"
+      }
+    },
+    {
+      "id": "2026-09-29-wong-tai-sin-fortune-stall-burglary",
+      "published_at": "2026-09-29T11:23:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "wong-tai-sin",
+        "burglary",
+        "police",
+        "temple"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-wong-tai-sin-fortune-stall-burglary.json",
+      "en": {
+        "headline": "Fortune-telling stall at Wong Tai Sin Temple burgled",
+        "dek": "A lock was forced overnight and about HK$4,000 in cash was taken from a stall beside the temple, police and local reports said."
+      },
+      "zh": {
+        "headline": "黃大仙祠解籤檔遭爆竊 失約四千元",
+        "dek": "解籤檔匙膽被撬，檔主周二早上開舖發現櫃筒被翻，失港幣三千多元及人民幣七百多元。"
+      }
+    },
+    {
+      "id": "2026-09-29-sha-tin-minibus-van-crash",
+      "published_at": "2026-09-29T11:22:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "sha-tin",
+        "minibus",
+        "traffic",
+        "accident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-sha-tin-minibus-van-crash.json",
+      "en": {
+        "headline": "Seven hurt after minibus and van collide in Sha Tin",
+        "dek": "A green minibus driver and six passengers were injured when the vehicle struck a van on Sha Tin Rural Committee Road at 9.13am on Tuesday."
+      },
+      "zh": {
+        "headline": "沙田鄉事會路小巴客貨車相撞 七人受傷",
+        "dek": "一輛專線小巴周二上午9時13分在沙田鄉事會路與客貨車相撞，小巴司機及六名乘客受傷，原因待查。"
+      }
+    },
     {
       "id": "2026-09-29-lifestyle-lany-soft-world-tour",
       "published_at": "2026-09-29T09:14:00+08:00",
