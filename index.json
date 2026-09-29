@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-09-29T08:27:27+08:00",
+  "generated_at": "2026-09-29T09:14:33+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-09-29-lifestyle-lany-soft-world-tour",
+      "published_at": "2026-09-29T09:14:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "concert",
+        "asiaworld-expo",
+        "live-nation",
+        "music"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-lifestyle-lany-soft-world-tour.json",
+      "en": {
+        "headline": "LANY plays AsiaWorld-Expo on Wednesday in Soft World Tour",
+        "dek": "The Los Angeles duo's standing-only show at Hall 10 starts at 8pm, with general tickets from HK$699 according to promoter Live Nation."
+      },
+      "zh": {
+        "headline": "LANY周三亞博館舉行Soft World巡演香港站",
+        "dek": "洛杉磯二人組合周三晚8時於亞洲國際博覽館10號展館演出，主辦稱全場企位，一般門票由699元起。"
+      }
+    },
+    {
+      "id": "2026-09-29-tst-minden-avenue-attack",
+      "published_at": "2026-09-29T09:13:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "tsim-sha-tsui",
+        "assault",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-tst-minden-avenue-attack.json",
+      "en": {
+        "headline": "Man injured in Tsim Sha Tsui bottle attack; two men taken in",
+        "dek": "A middle-aged man was taken to Queen Elizabeth Hospital after being struck on the head outside a bar on Minden Avenue early Tuesday."
+      },
+      "zh": {
+        "headline": "尖沙咀棉登徑男子遭玻璃樽襲擊 兩人被帶走",
+        "dek": "約50歲男子周二凌晨在樓上酒吧外頭部受傷，清醒送伊利沙伯醫院，警方其後截查七人車。"
+      }
+    },
+    {
+      "id": "2026-09-29-june-wage-payroll-statistics",
+      "published_at": "2026-09-29T09:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "wages",
+        "employment",
+        "census",
+        "economy",
+        "labour"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-june-wage-payroll-statistics.json",
+      "en": {
+        "headline": "Average wages rise 3.4 percent in June, Census says",
+        "dek": "Real wages were up 1.6 percent after inflation, and payroll per person engaged climbed 3.5 percent in the second quarter."
+      },
+      "zh": {
+        "headline": "統計處：6月平均工資率按年升3.4%",
+        "dek": "扣除通脺後實質工資升1.6%；第二季從業員平均薪金名義升3.5%、實質升1.6%。"
+      }
+    },
+    {
+      "id": "2026-09-29-lths-annual-progress-2026",
+      "published_at": "2026-09-29T09:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "public-housing",
+        "housing-bureau",
+        "lths",
+        "property"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-lths-annual-progress-2026.json",
+      "en": {
+        "headline": "Government sets 420,000-unit housing target for next decade",
+        "dek": "The Long Term Housing Strategy update keeps the 70:30 public-private split and pledges more than 35,000 public units a year from 2027-28."
+      },
+      "zh": {
+        "headline": "長策周年報告訂下個十年供應目標42萬伙",
+        "dek": "房屋局維持公私營七三比，並爭取2027/28起五年平均每年提供逾3.5萬個公營單位。"
+      }
+    },
+    {
+      "id": "2026-09-29-very-hot-weather-warning",
+      "published_at": "2026-09-29T09:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "heat",
+        "warning"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-very-hot-weather-warning.json",
+      "en": {
+        "headline": "Very hot weather warning remains in force as city stays fine",
+        "dek": "The Observatory says urban areas will reach about 33 degrees, with the New Territories a couple of degrees hotter, under mainly fine skies."
+      },
+      "zh": {
+        "headline": "酷熱天氣警告持續生效 天文台料市區最高約33度",
+        "dek": "天文台上午6時45分發出警告，預期今日大致天晴，日間酷熱，新界氣溫較市區再高一兩度。"
+      }
+    },
     {
       "id": "2026-09-29-lifestyle-national-day-half-price-cinema",
       "published_at": "2026-09-29T07:13:00+08:00",
@@ -1835,95 +1948,6 @@
       "zh": {
         "headline": "港隊亞運電競綜合格鬥摘銅 今屆電競開齋",
         "dek": "李衍熙、黃育祥及葉文豪周五在名古屋擊敗泰國後四強不敵日本，賽事不設銅牌戰，港隊穩奪季軍。"
-      }
-    },
-    {
-      "id": "2026-09-26-lifestyle-mid-autumn-marksix",
-      "published_at": "2026-09-26T09:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "marksix",
-        "festival"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-26/2026-09-26-lifestyle-mid-autumn-marksix.json",
-      "en": {
-        "headline": "Mid-Autumn Mark Six Gold Multi-million draw is tonight",
-        "dek": "The Jockey Club will hold the seasonal Gold Multi-million draw on Saturday evening, with an estimated first-prize fund of 68 million dollars."
-      },
-      "zh": {
-        "headline": "中秋金多寶今晚攪珠 估計頭獎基金6800萬",
-        "dek": "馬會周六中秋翌日舉行金多寶攪珠，估計每注10元獨中頭獎基金6800萬元，截止投注晚上9時15分。"
-      }
-    },
-    {
-      "id": "2026-09-26-kwun-tong-guess-who-arrest",
-      "published_at": "2026-09-26T09:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "fraud",
-        "kwun-tong",
-        "elderly"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-26/2026-09-26-kwun-tong-guess-who-arrest.json",
-      "en": {
-        "headline": "Teen arrested over two Guess Who I Am scams totalling 410,000",
-        "dek": "Kwun Tong police said a 17-year-old collected cash after two elderly residents were told a relative needed bail money, in cases reported in July."
-      },
-      "zh": {
-        "headline": "觀塘兩宗猜猜我是誰騙案 17歲青年涉收款被捕",
-        "dek": "警方周四拘捕一名17歲本地青年，涉嫌在7月兩宗電話騙案中向兩名長者收取合共約41萬元「保釋金」。"
-      }
-    },
-    {
-      "id": "2026-09-26-money-laundering-54-months",
-      "published_at": "2026-09-26T09:09:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "police",
-        "fraud",
-        "crypto"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-26/2026-09-26-money-laundering-54-months.json",
-      "en": {
-        "headline": "Man jailed 54 months for laundering 4.1 million from crypto scheme",
-        "dek": "A 29-year-old local man was convicted in the District Court of two money-laundering counts tied to a virtual-asset scheme that left 78 victims about 28 million out of pocket."
-      },
-      "zh": {
-        "headline": "29歲男子洗黑錢罪成判囚54個月 涉款410萬",
-        "dek": "區域法院周五裁定一名29歲本地男子兩項處理犯罪得益罪成，判監54個月。案件涉虛擬貨幣相關計劃，78名事主合共損失約2800萬元。"
-      }
-    },
-    {
-      "id": "2026-09-26-victoria-park-lantern-cutoff",
-      "published_at": "2026-09-26T09:08:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "mid-autumn",
-        "victoria-park",
-        "festival",
-        "tourism",
-        "crowd-control"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-26/2026-09-26-victoria-park-lantern-cutoff.json",
-      "en": {
-        "headline": "Victoria Park lantern street queues closed at 10pm on Mid-Autumn night",
-        "dek": "The Tourism Board shut the World Lantern Street waiting area at 10pm on Friday after large crowds, citing public safety and order."
-      },
-      "zh": {
-        "headline": "中秋夜維園世界綵燈大街晚上十時截龍",
-        "dek": "旅發局因人流眾多，周五晚上十時關閉銅鑼灣入口等候區，停止再排隊進入該展區，指為保障公眾安全及秩序。"
       }
     }
   ]
