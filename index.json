@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-09-29T13:12:43+08:00",
+  "generated_at": "2026-09-29T15:04:12+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-09-29-sai-kung-hiker-helicopter-rescue",
+      "published_at": "2026-09-29T15:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "sai-kung",
+        "hiking",
+        "rescue",
+        "gfs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-sai-kung-hiker-helicopter-rescue.json",
+      "en": {
+        "headline": "Hiker airlifted after falling ill on Sai Kung trail",
+        "dek": "A man among a group of eight collapsed near Cheung Sheung on MacLehose Trail Section 2; Government Flying Service helicopters lifted him to hospital conscious."
+      },
+      "zh": {
+        "headline": "西貢吹筒坳行山客不適 直升機救起送院",
+        "dek": "一名男子在麥理浩徑第二段吹筒坳附近與同行七人行山時暈倒，政府飛行服務隊直升機將他清醒送往東區醫院。"
+      }
+    },
+    {
+      "id": "2026-09-29-sha-tin-gym-voyeurism-bail",
+      "published_at": "2026-09-29T15:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "sha-tin",
+        "voyeurism",
+        "court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-sha-tin-gym-voyeurism-bail.json",
+      "en": {
+        "headline": "Man charged over pinhole cameras in Sha Tin gym granted bail",
+        "dek": "Fung Kwok-wang, 34, faces a voyeurism count after three devices were found in changing rooms at a 24/7 Fitness branch; the case was adjourned to 25 November."
+      },
+      "zh": {
+        "headline": "沙田健身室針孔鏡頭案 34歲地盤管工准保釋",
+        "dek": "馮國浤被控窺淫罪，沙田裁判法院批准以2,000元現金保釋，案件押後至11月25日再訊。"
+      }
+    },
     {
       "id": "2026-09-29-ha-nurses-recruitment-2200",
       "published_at": "2026-09-29T13:26:00+08:00",
