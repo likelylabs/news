@@ -1,210 +1,51 @@
 {
-  "updated_at": "2026-09-29T09:14:33+08:00",
+  "updated_at": "2026-09-29T09:16:00+08:00",
   "retention_days": 5,
   "covered": [
-    {
-      "key": "lifestyle-national-day-half-price-cinema-2026",
-      "id": "2026-09-29-lifestyle-national-day-half-price-cinema",
-      "first_seen": "2026-09-29T07:13:00+08:00",
-      "headline_en": "National Day half-price cinema tickets go on sale at 52 theatres"
-    },
-    {
-      "key": "north-kwai-chung-fmc-evening-oct2",
-      "id": "2026-09-29-north-kwai-chung-fmc-evening",
-      "first_seen": "2026-09-29T07:12:00+08:00",
-      "headline_en": "North Kwai Chung clinic to offer evening sessions five nights a week"
-    },
-    {
-      "key": "worldskills-shanghai-2026-15-awards",
-      "id": "2026-09-29-worldskills-shanghai-15-awards",
-      "first_seen": "2026-09-29T07:11:00+08:00",
-      "headline_en": "Hong Kong team takes record 15 awards at WorldSkills Shanghai"
-    },
-    {
-      "key": "rvd-august-2026-home-prices",
-      "id": "2026-09-29-august-private-home-prices",
-      "first_seen": "2026-09-29T07:10:00+08:00",
-      "headline_en": "Private home prices edge up 0.06 percent in August"
-    },
-    {
-      "key": "gd-hk-yacht-work-arrangements-sep28",
-      "id": "2026-09-29-gd-hk-yacht-work-arrangements",
-      "first_seen": "2026-09-29T07:09:00+08:00",
-      "headline_en": "Hong Kong and Guangdong sign yacht travel work arrangements"
-    },
-    {
-      "key": "hk-gold-clearing-first-ceo-chan",
-      "id": "2026-09-29-hk-gold-clearing-first-ceo",
-      "first_seen": "2026-09-29T07:08:00+08:00",
-      "headline_en": "Hong Kong gold clearing company names first chief executive"
-    },
-    {
-      "key": "lifestyle-fly-me-to-the-moon-exhibition",
-      "id": "2026-09-29-lifestyle-fly-me-to-the-moon-exhibition",
-      "first_seen": "2026-09-29T03:14:00+08:00",
-      "headline_en": "Immersive space exhibition Fly Me to the Moon opens at K11 MUSEA from 2 October"
-    },
-    {
-      "key": "td-av-commercial-applications-2026",
-      "id": "2026-09-29-td-av-commercial-applications",
-      "first_seen": "2026-09-29T01:05:00+08:00",
-      "headline_en": "Transport Department to accept autonomous vehicle commercial applications this year"
-    },
-    {
-      "key": "kai-tak-hospital-phased-opening-oct5",
-      "id": "2026-09-28-kai-tak-hospital-phased-opening",
-      "first_seen": "2026-09-28T23:20:00+08:00",
-      "headline_en": "Kai Tak Hospital begins phased opening from 5 October"
-    },
-    {
-      "key": "jacky-chu-honours-funeral-oct22",
-      "id": "2026-09-28-jacky-chu-honours-funeral",
-      "first_seen": "2026-09-28T23:21:00+08:00",
-      "headline_en": "Police to hold highest-honour funeral for PC Jacky Chu on 22 October"
-    },
-    {
-      "key": "golden-week-passenger-trips-7-44m",
-      "id": "2026-09-28-golden-week-passenger-trips",
-      "first_seen": "2026-09-28T23:22:00+08:00",
-      "headline_en": "Checkpoints expected to handle 7.44 million trips over Golden Week"
-    },
-    {
-      "key": "tuen-mun-drainage-man-death-sep28",
-      "id": "2026-09-28-tuen-mun-drainage-man-death",
-      "first_seen": "2026-09-28T21:05:00+08:00",
-      "headline_en": "Man found dead in Tuen Mun drainage facility near Siu Hong"
-    },
-    {
-      "key": "national-day-fireworks-road-closures-2026",
-      "id": "2026-09-28-national-day-fireworks-road-closures",
-      "first_seen": "2026-09-28T21:06:00+08:00",
-      "headline_en": "Phased road closures set for National Day fireworks on Thursday"
-    },
-    {
-      "key": "arbitration-ordinance-consultation-sep28",
-      "id": "2026-09-28-arbitration-ordinance-consultation",
-      "first_seen": "2026-09-28T21:07:00+08:00",
-      "headline_en": "DoJ launches one-month consultation on Arbitration Ordinance amendments"
-    },
-    {
-      "key": "customs-slimming-injections-japan-sep28",
-      "id": "2026-09-28-customs-slimming-injections-japan",
-      "first_seen": "2026-09-28T19:05:00+08:00",
-      "headline_en": "Customs seizes 400 suspected poisonous slimming injections from Japan"
-    },
-    {
-      "key": "immigration-illegal-makeup-tour-services-sep28",
-      "id": "2026-09-28-immigration-illegal-tourist-services",
-      "first_seen": "2026-09-28T19:06:00+08:00",
-      "headline_en": "Four women arrested for offering makeup and tour services on visitor visas"
-    },
-    {
-      "key": "hktdc-export-forecast-upgrade-2026",
-      "id": "2026-09-28-hktdc-export-forecast-upgrade",
-      "first_seen": "2026-09-28T19:07:00+08:00",
-      "headline_en": "HKTDC lifts 2026 export growth forecast to 42-47 percent on AI demand"
-    },
-    {
-      "key": "marine-yacht-rowers-high-island-sep26",
-      "id": "2026-09-28-marine-yacht-rowers-probe",
-      "first_seen": "2026-09-28T17:12:00+08:00",
-      "headline_en": "Marine Department probes yacht that sped at rowers near High Island"
-    },
-    {
-      "key": "lifestyle-hkex-40-years-exhibition",
-      "id": "2026-09-28-lifestyle-hkex-40-years-exhibition",
-      "first_seen": "2026-09-28T17:13:00+08:00",
-      "headline_en": "HKEX opens photo exhibition marking 40 years at Exchange Square"
-    },
-    {
-      "key": "very-hot-weather-warning-sep28",
-      "id": "2026-09-28-very-hot-weather-warning",
-      "first_seen": "2026-09-28T15:09:00+08:00",
-      "headline_en": "Very hot weather warning issued as temperatures climb"
-    },
-    {
-      "key": "cathay-dubai-riyadh-suspension-jan2027",
-      "id": "2026-09-28-cathay-dubai-riyadh-suspension",
-      "first_seen": "2026-09-28T15:08:00+08:00",
-      "headline_en": "Cathay extends Dubai and Riyadh flight suspension to end of January"
-    },
-    {
-      "key": "jason-poon-bail-fraud-sep28",
-      "id": "2026-09-28-jason-poon-bail-fraud",
-      "first_seen": "2026-09-28T15:07:00+08:00",
-      "headline_en": "Jason Poon and wife granted bail over alleged HK$6m loan fraud"
-    },
-    {
-      "key": "midautumn-mainland-arrivals-sep28",
-      "id": "2026-09-28-midautumn-mainland-arrivals",
-      "first_seen": "2026-09-28T15:06:00+08:00",
-      "headline_en": "Nearly 440,000 mainland arrivals over Mid-Autumn weekend"
-    },
-    {
-      "key": "yellow-work-heat-stress-warning-sep28",
-      "id": "2026-09-28-yellow-work-heat-stress-warning",
-      "first_seen": "2026-09-28T13:12:00+08:00",
-      "headline_en": "Yellow work heat stress warning in force from late morning"
-    },
-    {
-      "key": "waste-paper-local-pulping-oct1",
-      "id": "2026-09-28-waste-paper-local-pulping",
-      "first_seen": "2026-09-28T13:13:00+08:00",
-      "headline_en": "Hong Kong to pulp all recovered waste paper locally from 1 October"
-    },
-    {
-      "key": "abby-choi-jury-dismissed-sep28",
-      "id": "2026-09-28-abby-choi-jury-dismissed",
-      "first_seen": "2026-09-28T13:14:00+08:00",
-      "headline_en": "Jury discharged in Abby Choi murder trial after juror withdraws"
-    },
-    {
-      "key": "esports-honor-of-kings-bronze-ag2026",
-      "id": "2026-09-28-esports-honor-of-kings-bronze",
-      "first_seen": "2026-09-28T13:15:00+08:00",
-      "headline_en": "Hong Kong claim esports bronze in Honor of Kings at Asian Games"
-    },
-    {
-      "key": "fanling-highway-minibus-works-vehicle-crash-sep28",
-      "id": "2026-09-28-fanling-highway-minibus-crash",
-      "first_seen": "2026-09-28T09:48:00+08:00",
-      "headline_en": "Eighteen lightly hurt after minibus hits works vehicle on Fanling Highway"
-    },
-    {
-      "key": "tic-golden-week-midautumn-visitors-sep28",
-      "id": "2026-09-28-tic-golden-week-outlook",
-      "first_seen": "2026-09-28T09:49:00+08:00",
-      "headline_en": "Travel council says Mid-Autumn visitor numbers encouraging ahead of Golden Week"
-    },
-    {
-      "key": "po-pin-chau-no-show-midautumn-weekend",
-      "id": "2026-09-28-po-pin-chau-no-shows",
-      "first_seen": "2026-09-28T09:50:00+08:00",
-      "headline_en": "Half of Po Pin Chau Mid-Autumn bookings did not show, AFCD says"
-    },
-    {
-      "key": "pboc-rmb-bills-issue-sep28",
-      "id": "2026-09-28-pboc-rmb-bills-issue",
-      "first_seen": "2026-09-28T08:38:00+08:00",
-      "headline_en": "PBOC issues RMB 60 billion of six-month bills in Hong Kong"
-    },
-    {
-      "key": "lifestyle-wong-tai-sin-lanterns-oct4",
-      "id": "2026-09-28-lifestyle-wong-tai-sin-lanterns",
-      "first_seen": "2026-09-28T08:39:00+08:00",
-      "headline_en": "Wong Tai Sin Temple lanterns stay lit through 4 October"
-    },
-    {
-      "key": "lifestyle-marrow-lee-tung-final-days",
-      "id": "2026-09-28-lifestyle-marrow-popup-final-days",
-      "first_seen": "2026-09-28T08:40:00+08:00",
-      "headline_en": "Wan Chai grill pop-up Marrow ends its run on Wednesday"
-    },
-    {
-      "key": "lifestyle-disgusting-food-museum-airside",
-      "id": "2026-09-28-lifestyle-disgusting-food-museum-airside",
-      "first_seen": "2026-09-28T03:20:00+08:00",
-      "headline_en": "Disgusting Food Museum opens at AIRSIDE Kai Tak on Tuesday"
-    }
+    {"key": "lifestyle-lany-soft-world-tour-sep30", "id": "2026-09-29-lifestyle-lany-soft-world-tour", "first_seen": "2026-09-29T09:14:00+08:00", "headline_en": "LANY plays AsiaWorld-Expo on Wednesday in Soft World Tour"},
+    {"key": "tst-minden-avenue-bottle-attack-sep29", "id": "2026-09-29-tst-minden-avenue-attack", "first_seen": "2026-09-29T09:13:00+08:00", "headline_en": "Man injured in Tsim Sha Tsui bottle attack; two men taken in"},
+    {"key": "wage-payroll-june-2026", "id": "2026-09-29-june-wage-payroll-statistics", "first_seen": "2026-09-29T09:12:00+08:00", "headline_en": "Average wages rise 3.4 percent in June, Census says"},
+    {"key": "lths-annual-progress-2026", "id": "2026-09-29-lths-annual-progress-2026", "first_seen": "2026-09-29T09:11:00+08:00", "headline_en": "Government sets 420,000-unit housing target for next decade"},
+    {"key": "very-hot-weather-warning-sep29", "id": "2026-09-29-very-hot-weather-warning", "first_seen": "2026-09-29T09:10:00+08:00", "headline_en": "Very hot weather warning remains in force as city stays fine"},
+    {"key": "lifestyle-national-day-half-price-cinema-2026", "id": "2026-09-29-lifestyle-national-day-half-price-cinema", "first_seen": "2026-09-29T07:13:00+08:00", "headline_en": "National Day half-price cinema tickets go on sale at 52 theatres"},
+    {"key": "north-kwai-chung-fmc-evening-oct2", "id": "2026-09-29-north-kwai-chung-fmc-evening", "first_seen": "2026-09-29T07:12:00+08:00", "headline_en": "North Kwai Chung clinic to offer evening sessions five nights a week"},
+    {"key": "worldskills-shanghai-2026-15-awards", "id": "2026-09-29-worldskills-shanghai-15-awards", "first_seen": "2026-09-29T07:11:00+08:00", "headline_en": "Hong Kong team takes record 15 awards at WorldSkills Shanghai"},
+    {"key": "rvd-august-2026-home-prices", "id": "2026-09-29-august-private-home-prices", "first_seen": "2026-09-29T07:10:00+08:00", "headline_en": "Private home prices edge up 0.06 percent in August"},
+    {"key": "gd-hk-yacht-work-arrangements-sep28", "id": "2026-09-29-gd-hk-yacht-work-arrangements", "first_seen": "2026-09-29T07:09:00+08:00", "headline_en": "Hong Kong and Guangdong sign yacht travel work arrangements"},
+    {"key": "hk-gold-clearing-first-ceo-chan", "id": "2026-09-29-hk-gold-clearing-first-ceo", "first_seen": "2026-09-29T07:08:00+08:00", "headline_en": "Hong Kong gold clearing company names first chief executive"},
+    {"key": "lifestyle-victoria-park-lantern-carnival-extended-oct4", "id": "2026-09-28-lifestyle-victoria-park-lanterns-extended", "first_seen": "2026-09-28T07:07:00+08:00", "headline_en": "Victoria Park lantern displays stay up until 4 October"},
+    {"key": "phf-injectable-mdacs-listing-mar2027", "id": "2026-09-28-phf-injectable-devices-mdacs", "first_seen": "2026-09-28T07:06:00+08:00", "headline_en": "Clinics face March deadline to use listed injectable devices"},
+    {"key": "gba-surabaya-inaugural-sep25", "id": "2026-09-28-gba-surabaya-route", "first_seen": "2026-09-28T07:05:00+08:00", "headline_en": "Greater Bay Airlines opens first Indonesia route to Surabaya"},
+    {"key": "lifestyle-fly-me-to-the-moon-exhibition", "id": "2026-09-29-lifestyle-fly-me-to-the-moon-exhibition", "first_seen": "2026-09-29T03:14:00+08:00", "headline_en": "Immersive space exhibition Fly Me to the Moon opens at K11 MUSEA from 2 October"},
+    {"key": "td-av-commercial-applications-2026", "id": "2026-09-29-td-av-commercial-applications", "first_seen": "2026-09-29T01:05:00+08:00", "headline_en": "Transport Department to accept autonomous vehicle commercial applications this year"},
+    {"key": "weekend-new-flats-sold-out-sep27", "id": "2026-09-28-weekend-new-flats-sold-out", "first_seen": "2026-09-28T01:11:00+08:00", "headline_en": "Buyers snap up nearly 300 new flats ahead of expected rate rises"},
+    {"key": "hetao-talent-flow-deadline-jun2027", "id": "2026-09-28-hetao-talent-flow-deadline", "first_seen": "2026-09-28T01:12:00+08:00", "headline_en": "Sun Dong sets June deadline for Hetao cross-border talent flow"},
+    {"key": "tai-kok-tsui-claw-machine-theft-sep27", "id": "2026-09-28-tai-kok-tsui-claw-machine-theft", "first_seen": "2026-09-28T01:10:00+08:00", "headline_en": "Police hunt man who stole HK$10,000 from claw machines with a key"},
+    {"key": "kai-tak-hospital-phased-opening-oct5", "id": "2026-09-28-kai-tak-hospital-phased-opening", "first_seen": "2026-09-28T23:20:00+08:00", "headline_en": "Kai Tak Hospital begins phased opening from 5 October"},
+    {"key": "jacky-chu-honours-funeral-oct22", "id": "2026-09-28-jacky-chu-honours-funeral", "first_seen": "2026-09-28T23:21:00+08:00", "headline_en": "Police to hold highest-honour funeral for PC Jacky Chu on 22 October"},
+    {"key": "golden-week-passenger-trips-7-44m", "id": "2026-09-28-golden-week-passenger-trips", "first_seen": "2026-09-28T23:22:00+08:00", "headline_en": "Checkpoints expected to handle 7.44 million trips over Golden Week"},
+    {"key": "tuen-mun-drainage-man-death-sep28", "id": "2026-09-28-tuen-mun-drainage-man-death", "first_seen": "2026-09-28T21:05:00+08:00", "headline_en": "Man found dead in Tuen Mun drainage facility near Siu Hong"},
+    {"key": "national-day-fireworks-road-closures-2026", "id": "2026-09-28-national-day-fireworks-road-closures", "first_seen": "2026-09-28T21:06:00+08:00", "headline_en": "Phased road closures set for National Day fireworks on Thursday"},
+    {"key": "arbitration-ordinance-consultation-sep28", "id": "2026-09-28-arbitration-ordinance-consultation", "first_seen": "2026-09-28T21:07:00+08:00", "headline_en": "DoJ launches one-month consultation on Arbitration Ordinance amendments"},
+    {"key": "customs-slimming-injections-japan-sep28", "id": "2026-09-28-customs-slimming-injections-japan", "first_seen": "2026-09-28T19:05:00+08:00", "headline_en": "Customs seizes 400 suspected poisonous slimming injections from Japan"},
+    {"key": "immigration-illegal-makeup-tour-services-sep28", "id": "2026-09-28-immigration-illegal-tourist-services", "first_seen": "2026-09-28T19:06:00+08:00", "headline_en": "Four women arrested for offering makeup and tour services on visitor visas"},
+    {"key": "hktdc-export-forecast-upgrade-2026", "id": "2026-09-28-hktdc-export-forecast-upgrade", "first_seen": "2026-09-28T19:07:00+08:00", "headline_en": "HKTDC lifts 2026 export growth forecast to 42-47 percent on AI demand"},
+    {"key": "marine-yacht-rowers-high-island-sep26", "id": "2026-09-28-marine-yacht-rowers-probe", "first_seen": "2026-09-28T17:12:00+08:00", "headline_en": "Marine Department probes yacht that sped at rowers near High Island"},
+    {"key": "lifestyle-hkex-40-years-exhibition", "id": "2026-09-28-lifestyle-hkex-40-years-exhibition", "first_seen": "2026-09-28T17:13:00+08:00", "headline_en": "HKEX opens photo exhibition marking 40 years at Exchange Square"},
+    {"key": "very-hot-weather-warning-sep28", "id": "2026-09-28-very-hot-weather-warning", "first_seen": "2026-09-28T15:09:00+08:00", "headline_en": "Very hot weather warning issued as temperatures climb"},
+    {"key": "cathay-dubai-riyadh-suspension-jan2027", "id": "2026-09-28-cathay-dubai-riyadh-suspension", "first_seen": "2026-09-28T15:08:00+08:00", "headline_en": "Cathay extends Dubai and Riyadh flight suspension to end of January"},
+    {"key": "jason-poon-bail-fraud-sep28", "id": "2026-09-28-jason-poon-bail-fraud", "first_seen": "2026-09-28T15:07:00+08:00", "headline_en": "Jason Poon and wife granted bail over alleged HK$6m loan fraud"},
+    {"key": "midautumn-mainland-arrivals-sep28", "id": "2026-09-28-midautumn-mainland-arrivals", "first_seen": "2026-09-28T15:06:00+08:00", "headline_en": "Nearly 440,000 mainland arrivals over Mid-Autumn weekend"},
+    {"key": "yellow-work-heat-stress-warning-sep28", "id": "2026-09-28-yellow-work-heat-stress-warning", "first_seen": "2026-09-28T13:12:00+08:00", "headline_en": "Yellow work heat stress warning in force from late morning"},
+    {"key": "waste-paper-local-pulping-oct1", "id": "2026-09-28-waste-paper-local-pulping", "first_seen": "2026-09-28T13:13:00+08:00", "headline_en": "Hong Kong to pulp all recovered waste paper locally from 1 October"},
+    {"key": "abby-choi-jury-dismissed-sep28", "id": "2026-09-28-abby-choi-jury-dismissed", "first_seen": "2026-09-28T13:14:00+08:00", "headline_en": "Jury discharged in Abby Choi murder trial after juror withdraws"},
+    {"key": "esports-honor-of-kings-bronze-ag2026", "id": "2026-09-28-esports-honor-of-kings-bronze", "first_seen": "2026-09-28T13:15:00+08:00", "headline_en": "Hong Kong claim esports bronze in Honor of Kings at Asian Games"},
+    {"key": "fanling-highway-minibus-works-vehicle-crash-sep28", "id": "2026-09-28-fanling-highway-minibus-crash", "first_seen": "2026-09-28T09:48:00+08:00", "headline_en": "Eighteen lightly hurt after minibus hits works vehicle on Fanling Highway"},
+    {"key": "tic-golden-week-midautumn-visitors-sep28", "id": "2026-09-28-tic-golden-week-outlook", "first_seen": "2026-09-28T09:49:00+08:00", "headline_en": "Travel council says Mid-Autumn visitor numbers encouraging ahead of Golden Week"},
+    {"key": "po-pin-chau-no-show-midautumn-weekend", "id": "2026-09-28-po-pin-chau-no-shows", "first_seen": "2026-09-28T09:50:00+08:00", "headline_en": "Half of Po Pin Chau Mid-Autumn bookings did not show, AFCD says"},
+    {"key": "pboc-rmb-bills-issue-sep28", "id": "2026-09-28-pboc-rmb-bills-issue", "first_seen": "2026-09-28T08:38:00+08:00", "headline_en": "PBOC issues RMB 60 billion of six-month bills in Hong Kong"},
+    {"key": "lifestyle-wong-tai-sin-lanterns-oct4", "id": "2026-09-28-lifestyle-wong-tai-sin-lanterns", "first_seen": "2026-09-28T08:39:00+08:00", "headline_en": "Wong Tai Sin Temple lanterns stay lit through 4 October"},
+    {"key": "lifestyle-marrow-lee-tung-final-days", "id": "2026-09-28-lifestyle-marrow-popup-final-days", "first_seen": "2026-09-28T08:40:00+08:00", "headline_en": "Wan Chai grill pop-up Marrow ends its run on Wednesday"},
+    {"key": "lifestyle-disgusting-food-museum-airside", "id": "2026-09-28-lifestyle-disgusting-food-museum-airside", "first_seen": "2026-09-28T03:20:00+08:00", "headline_en": "Disgusting Food Museum opens at AIRSIDE Kai Tak on Tuesday"}
   ]
 }
