@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-09-29T11:14:36+08:00",
+  "generated_at": "2026-09-29T13:12:43+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-09-29-ha-nurses-recruitment-2200",
+      "published_at": "2026-09-29T13:26:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "hospital-authority",
+        "nurses",
+        "recruitment",
+        "healthcare",
+        "employment"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-ha-nurses-recruitment-2200.json",
+      "en": {
+        "headline": "Hospital Authority offers 2,200 posts to new nursing graduates",
+        "dek": "The authority said it received about 3,000 applications in the first round of recruitment completed in June and is preparing a second round open to experienced nurses as well."
+      },
+      "zh": {
+        "headline": "醫管局首輪招聘應屆護士批出約2200份聘書",
+        "dek": "醫管局六月完成首輪招聘，收到約3000宗申請，正準備第二輪招聘，亦開放予有經驗護士。"
+      }
+    },
+    {
+      "id": "2026-09-29-ce-media-reception-good-stories",
+      "published_at": "2026-09-29T13:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "government",
+        "media",
+        "national-day",
+        "john-lee",
+        "policy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-ce-media-reception-good-stories.json",
+      "en": {
+        "headline": "Lee urges media to tell good stories of Hong Kong and nation",
+        "dek": "At a National Day reception for the press, the Chief Executive said the government would keep helping local outlets expand their international reach."
+      },
+      "zh": {
+        "headline": "李家超籲新聞界客觀報道 擔當國家及香港好故事發聲人",
+        "dek": "行政長官出席新聞界國慶活動，表示政府會繼續協助本地傳媒提升競爭力及國際傳播力。"
+      }
+    },
     {
       "id": "2026-09-29-lifestyle-lee-tsz-long-piano-recital",
       "published_at": "2026-09-29T11:26:00+08:00",
@@ -1932,137 +1978,6 @@
       "zh": {
         "headline": "甯漢豪承諾就瑪麗醫院升降機問題向公眾交代",
         "dek": "發展局局長甯漢豪表示，將向行政長官提交報告，交代新臨床大樓28部升降機中24部出現問題的原因及發現時間，報告其後會向公眾披露。"
-      }
-    },
-    {
-      "id": "2026-09-26-route-6-full-opening-timeline",
-      "published_at": "2026-09-26T13:11:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "route-6",
-        "tseung-kwan-o",
-        "central-kowloon-bypass"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-26/2026-09-26-route-6-full-opening-timeline.json",
-      "en": {
-        "headline": "Route 6 full opening this year will cut Tseung Kwan O to Yau Ma Tei to 12 minutes",
-        "dek": "Transport chief Mable Chan said the Central Kowloon Bypass Kowloon Bay section is on track to complete in 2026, linking the whole 12.5 km strategic route."
-      },
-      "zh": {
-        "headline": "6號幹線今年全線通車 將軍澳至油麻地料減至12分鐘",
-        "dek": "運輸及物流局局長陳美寶指中九龍繞道九龍灣段料今年內竣工，全線12.5公里貫通後繁忙時段車程大幅縮短。"
-      }
-    },
-    {
-      "id": "2026-09-26-sha-tin-247-fitness-pinhole",
-      "published_at": "2026-09-26T13:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "sha-tin",
-        "voyeurism",
-        "fitness"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-26/2026-09-26-sha-tin-247-fitness-pinhole.json",
-      "en": {
-        "headline": "Three pinhole cameras found in Sha Tin 24/7 Fitness changing rooms",
-        "dek": "Police classified the case as voyeurism after a member discovered devices taped to false ceilings at the Lek Yuen Street branch; no arrests yet."
-      },
-      "zh": {
-        "headline": "沙田24/7 FITNESS三更衣室發現針孔鏡頭 警列窺淫",
-        "dek": "瀝源街分店周五下午有會員發現假天花藏有攝錄裝置，警方暫未有人被捕，交由沙田警區跟進。"
-      }
-    },
-    {
-      "id": "2026-09-26-lifestyle-tst-cultural-centre-lanterns",
-      "published_at": "2026-09-26T11:25:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "lantern",
-        "tsim-sha-tsui",
-        "festival"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-26/2026-09-26-lifestyle-tst-cultural-centre-lanterns.json",
-      "en": {
-        "headline": "Tsim Sha Tsui lanterns stay lit through the Mid-Autumn holiday",
-        "dek": "The Leisure and Cultural Services Department’s display at the Cultural Centre Piazza runs nightly until 11 October, with a weekend creative market on Saturday and Sunday."
-      },
-      "zh": {
-        "headline": "尖沙嘴文化中心中秋綵燈假期繼續亮燈",
-        "dek": "康文署文化中心露天廣場綵燈展每晚6時30分至11時開放，展期至10月11日，本周末另設中秋創意市集。"
-      }
-    },
-    {
-      "id": "2026-09-26-yuen-long-teacher-jailed",
-      "published_at": "2026-09-26T11:24:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "court",
-        "yuen-long"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-26/2026-09-26-yuen-long-teacher-jailed.json",
-      "en": {
-        "headline": "Primary teacher jailed 36 months for abusing pupils in tutoring",
-        "dek": "A 31-year-old maths teacher admitted eight charges including indecent assault of two boys and making child sexual abuse images, a District Court judge said on Friday."
-      },
-      "zh": {
-        "headline": "小學男教師義教期間非禮男童 認八罪判囚36個月",
-        "dek": "31歲數學教師周五在區域法院承認八項罪名，暫委法官指他違反誠信、案情持續超過兩年，判監禁三年。"
-      }
-    },
-    {
-      "id": "2026-09-26-onebus-electric-coach-hzmb",
-      "published_at": "2026-09-26T11:23:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "hzmb",
-        "macau",
-        "buses"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-26/2026-09-26-onebus-electric-coach-hzmb.json",
-      "en": {
-        "headline": "First electric coach starts Hong Kong–Macau runs via the Bridge",
-        "dek": "Operator One Bus put a 52-seat battery coach on two daily crossings from Saturday, saying energy costs could fall by about half versus diesel."
-      },
-      "zh": {
-        "headline": "港澳一號首部電動巴今日經大橋往返澳門",
-        "dek": "營辦商周六起以52座位電動旅巴行走港珠澳大橋紐，暫每日兩班，估計燃料開支較柴油車低四至五成。"
-      }
-    },
-    {
-      "id": "2026-09-26-esports-mma-team-bronze",
-      "published_at": "2026-09-26T11:22:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-games",
-        "esports"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-26/2026-09-26-esports-mma-team-bronze.json",
-      "en": {
-        "headline": "Hong Kong takes first Asian Games esports medal of these Games",
-        "dek": "Lee Yin-hei, Wong Yuk-cheung and Yip Man-ho won bronze in the mixed martial-arts team event after beating Thailand and falling to Japan."
-      },
-      "zh": {
-        "headline": "港隊亞運電競綜合格鬥摘銅 今屆電競開齋",
-        "dek": "李衍熙、黃育祥及葉文豪周五在名古屋擊敗泰國後四強不敵日本，賽事不設銅牌戰，港隊穩奪季軍。"
       }
     }
   ]
