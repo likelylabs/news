@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-09-29T23:20:15+08:00",
+  "generated_at": "2026-09-30T01:03:59+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-09-30-kwun-tong-phone-fraud-centre-20-arrested",
+      "published_at": "2026-09-30T01:04:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "fraud",
+        "kwun-tong",
+        "telephone-scam"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-kwun-tong-phone-fraud-centre-20-arrested.json",
+      "en": {
+        "headline": "Police smash Kwun Tong phone fraud centre, arrest 20",
+        "dek": "Officers raided an industrial unit used as a call centre by a local syndicate that posed as debt collectors, linking the group to at least 16 cases and more than HK$1.3 million in losses."
+      },
+      "zh": {
+        "headline": "警搗觀塘電話騙案中心拘20人 涉至少16宗共130萬元",
+        "dek": "東九龍總區突擊搜查觀塘工廈單位，搗破假扮收數公司的本地詐騙集團，拘捕包括主腦在內20人，涉串謀行騙及洗黑錢。"
+      }
+    },
+    {
+      "id": "2026-09-30-global-innovation-index-14th",
+      "published_at": "2026-09-30T01:03:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "innovation",
+        "wipo",
+        "technology",
+        "research",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-global-innovation-index-14th.json",
+      "en": {
+        "headline": "Hong Kong rises to 14th in Global Innovation Index 2026",
+        "dek": "The city advanced one place among 139 economies and stayed fifth in Asia, with strong marks for credit, tertiary education and market sophistication, the World Intellectual Property Organization said."
+      },
+      "zh": {
+        "headline": "全球創新指數香港升至第14位 亞洲保持第五",
+        "dek": "世界知識產權組織公布2026年《全球創新指數》，香港在139個經濟體中再升一位至第14，亞洲維持第五，信貸繼續全球第一。"
+      }
+    },
     {
       "id": "2026-09-29-digital-green-bonds-fourth-issue",
       "published_at": "2026-09-29T23:22:00+08:00",
