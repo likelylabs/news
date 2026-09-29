@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-29T15:04:12+08:00",
+  "updated_at": "2026-09-29T17:11:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "mo-tai-fung-hammer-sentence-sep29",
+      "id": "2026-09-29-mo-tai-fung-hammer-sentence",
+      "first_seen": "2026-09-29T17:10:00+08:00",
+      "headline_en": "Man jailed three years over hammer attack after victim dies of overdose"
+    },
+    {
+      "key": "non-local-nurses-0-5pct-sep29",
+      "id": "2026-09-29-non-local-nurses-stats",
+      "first_seen": "2026-09-29T17:11:00+08:00",
+      "headline_en": "Less than 0.5 percent of nurses trained outside Hong Kong, authorities say"
+    },
     {
       "key": "sha-tin-247-fitness-voyeurism-bail-sep29",
       "id": "2026-09-29-sha-tin-gym-voyeurism-bail",
