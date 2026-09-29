@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-09-30T01:03:59+08:00",
+  "generated_at": "2026-09-30T03:18:46+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-09-30-ha-support-centre-ai-robotics",
+      "published_at": "2026-09-30T03:14:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "hospital-authority",
+        "ai",
+        "robotics",
+        "laundry",
+        "meals"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-ha-support-centre-ai-robotics.json",
+      "en": {
+        "headline": "Hospital Authority deploys AI and robots at Tung Chung support centre",
+        "dek": "The central laundry and meal production facility uses robotic arms, X-ray sorting and cook-chill technology to serve about half of public hospitals' demand while improving worker safety."
+      },
+      "zh": {
+        "headline": "醫管局東涌支援服務中心引入AI及機械臂處理洗衣膳食",
+        "dek": "中央洗衣及煮餐設施採用機械臂、X光分揀及速涼技術，約滿足公立醫院一半需求，同時提升員工職業安全。"
+      }
+    },
     {
       "id": "2026-09-30-kwun-tong-phone-fraud-centre-20-arrested",
       "published_at": "2026-09-30T01:04:00+08:00",
@@ -1946,52 +1969,6 @@
       "zh": {
         "headline": "西貢黃石碼頭對開疑遇溺 26歲男子送院後不治",
         "dek": "途人周六晚報稱北潭路黃石碼頭對開約20米海面有人遇溺，男子昏迷送往將軍澳醫院後證實死亡。"
-      }
-    },
-    {
-      "id": "2026-09-27-lifestyle-anne-imhof-house-of-swans",
-      "published_at": "2026-09-27T03:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "tai-kwun",
-        "contemporary-art",
-        "ballet"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-lifestyle-anne-imhof-house-of-swans.json",
-      "en": {
-        "headline": "Anne Imhof’s House of Swans opens at Tai Kwun with ballet performances",
-        "dek": "The German artist’s first major solo exhibition in Asia runs through 3 January, pairing new installations, paintings and sound works with live ballet staged by Hong Kong Ballet dancers."
-      },
-      "zh": {
-        "headline": "安妮．伊姆霍夫《天鵝社》大館開幕 香港芭蕾現場演出",
-        "dek": "2017年威尼斯雙年展金獅獎得主首個亞洲大型個展於大館當代美術館展出至明年1月3日，結合裝置、油畫、聲音作品及香港芭蕾舞團現場演出。"
-      }
-    },
-    {
-      "id": "2026-09-27-lifestyle-trading-card-show",
-      "published_at": "2026-09-27T01:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "collectibles",
-        "asiaworld-expo",
-        "weekend",
-        "trading-cards"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-lifestyle-trading-card-show.json",
-      "en": {
-        "headline": "Trading card show draws collectors to AsiaWorld-Expo through Sunday",
-        "dek": "The two-day Hong Kong Trading Card Show continues at AsiaWorld-Expo with more than 300 exhibitors offering rare Pokémon, sports and One Piece cards, live box breaks and on-site grading."
-      },
-      "zh": {
-        "headline": "香港交易卡展覽亞博續舉行 逾300攤位至周日",
-        "dek": "為期兩日的香港交易卡展覽周日繼續在亞洲國際博覽館舉行，超過300個攤位展出寶可夢、運動卡及海賊王等收藏卡，並設現場開箱及評級服務。"
       }
     }
   ]
