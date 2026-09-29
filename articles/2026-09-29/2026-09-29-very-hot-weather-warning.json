@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-29-very-hot-weather-warning",
+  "published_at": "2026-09-29T09:10:00+08:00",
+  "category": "weather",
+  "tags": ["weather", "hko", "heat", "warning"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "very-hot-weather-warning-sep29",
+  "en": {
+    "headline": "Very hot weather warning remains in force as city stays fine",
+    "dek": "The Observatory says urban areas will reach about 33 degrees, with the New Territories a couple of degrees hotter, under mainly fine skies.",
+    "body": [
+      "The Hong Kong Observatory said the Very Hot Weather Warning remained in force on Tuesday after it was issued at 6.45am, with mainly fine and very hot weather expected through the day.",
+      "The Observatory forecast a maximum of about 33 degrees in the urban areas and a couple of degrees higher in the New Territories, under moderate southwesterly winds. An anticyclone aloft is bringing generally fine weather to Guangdong.",
+      "The public was advised to beware of heat stroke and to drink more water. The Observatory said elderly people, pregnant women, infants and children, people with chronic illnesses and those who are obese are more vulnerable, and that outdoor work should follow Labour Department guidance on preventing heat stroke at work.",
+      "The outlook is mainly fine and very hot during the day on Wednesday and on National Day, turning cloudier with a few showers later on Thursday into the latter part of the week. Typhoon Surigae, already weakened to a severe tropical storm, was centred about 740 kilometres south of Osaka at 8am and was forecast to move east-northeast across seas south of Japan, well away from Hong Kong."
+    ]
+  },
+  "zh": {
+    "headline": "酷熱天氣警告持續生效 天文台料市區最高約33度",
+    "dek": "天文台上午6時45分發出警告，預期今日大致天晴，日間酷熱，新界氣溫較市區再高一兩度。",
+    "body": [
+      "香港天文台表示，酷熱天氣警告於周二上午6時45分發出後持續生效，料想今日大致天晴，日間酷熱。",
+      "天文台預計市區最高氣溫約33度，新界再高一兩度，吹和緩西南風。高空反氣旋正為廣東帶來大致晴朗天氣。",
+      "天文台提醒市民慎防中暑，多補充水分。長者、孕婦、嬰兒及小童、長期病患者及過重人士較易中暑；戶外工作人士應按勞工處預防工作時中暑指引採取措施。",
+      "展望周三及國慶當日日間大致天晴酷熱，國慶稍後至本周後期轉多雲，有幾陣驟雨。已減弱為強烈熱帶風暴的舒力基，上午8時位於大阪以南約740公里，料想以東偏北路徑橫過日本以南海域，遠離本港。"
+    ]
+  }
+}
