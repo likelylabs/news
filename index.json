@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-09-29T21:04:07+08:00",
+  "generated_at": "2026-09-29T23:19:12+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-09-29-digital-green-bonds-fourth-issue",
+      "published_at": "2026-09-29T23:22:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "green-bonds",
+        "finance",
+        "hkma",
+        "tokenisation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-digital-green-bonds-fourth-issue.json",
+      "en": {
+        "headline": "Government prices record HK$20 billion digital green bonds",
+        "dek": "The fourth multi-currency digital green bond issuance under the Sustainable Bond Programme was oversubscribed and set a new global record for the largest digital bond offering of its kind."
+      },
+      "zh": {
+        "headline": "政府成功定價約200億元等值數碼綠色債券 刷新全球紀錄",
+        "dek": "特區政府在可持續債券計劃下第四次發行數碼綠色債券，涵蓋港元、人民幣、美元及歐元，規模為全球同類最大，並獲超額認購。"
+      }
+    },
+    {
+      "id": "2026-09-29-iphone-suspicious-charges-1503",
+      "published_at": "2026-09-29T23:21:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "fraud",
+        "iphone",
+        "credit-card"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-iphone-suspicious-charges-1503.json",
+      "en": {
+        "headline": "Police log 1,503 suspicious iPhone charges worth over HK$30 million",
+        "dek": "All unauthorised transactions linked to Apple’s iPhone 18 Pro pre-orders have been cancelled, with no losses to cardholders, banks or the company, the police commissioner said."
+      },
+      "zh": {
+        "headline": "警接1503宗可疑iPhone交易涉逾3000萬 所有交易已取消",
+        "dek": "警務處處長周一鳴表示，涉及蘋果iPhone 18 Pro預購的可疑信用卡交易增至1503宗，涉款逾3000萬元，全部交易已取消，卡主、銀行及公司均無損失。"
+      }
+    },
+    {
+      "id": "2026-09-29-tang-lung-wai-return-manila",
+      "published_at": "2026-09-29T23:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "immigration",
+        "philippines",
+        "prison",
+        "assistance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-29/2026-09-29-tang-lung-wai-return-manila.json",
+      "en": {
+        "headline": "Hong Kong man returns home after 26 years in Philippine prison",
+        "dek": "Tang Lung-wai, 55, arrived at Hong Kong International Airport on Tuesday evening accompanied by Immigration Department officers after completing his sentence for a drug conviction he has long disputed."
+      },
+      "zh": {
+        "headline": "港人鄧龍威菲律賓服刑26年後返港 入境處人員陪同",
+        "dek": "55歲鄧龍威周二晚在入境處人員陪同下由馬尼拉返抵香港國際機場，結束因藏毒案在菲國渡過的26年鐵窗生涯，他一直堅稱無罪。"
+      }
+    },
     {
       "id": "2026-09-29-lifestyle-hoi-fan-road-park",
       "published_at": "2026-09-29T20:42:00+08:00",
@@ -1877,135 +1946,6 @@
       "zh": {
         "headline": "香港交易卡展覽亞博續舉行 逾300攤位至周日",
         "dek": "為期兩日的香港交易卡展覽周日繼續在亞洲國際博覽館舉行，超過300個攤位展出寶可夢、運動卡及海賊王等收藏卡，並設現場開箱及評級服務。"
-      }
-    },
-    {
-      "id": "2026-09-26-lifestyle-mid-autumn-holiday-crowds",
-      "published_at": "2026-09-26T23:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "festival",
-        "victoria-park",
-        "lantern"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-26/2026-09-26-lifestyle-mid-autumn-holiday-crowds.json",
-      "en": {
-        "headline": "Mid-Autumn holiday crowds fill lantern sites on the day after the festival",
-        "dek": "Victoria Park’s International Lantern Spectacular and other displays continued to draw families on the public holiday, with organisers managing entry to keep queues manageable."
-      },
-      "zh": {
-        "headline": "中秋翌日假期綵燈場繼續熱鬧 維園等人流管理措施維持",
-        "dek": "維園世界綵燈大街及其他主要綵燈展在公眾假期繼續開放，主辦單位繼續實施人流管理，方便市民補看。"
-      }
-    },
-    {
-      "id": "2026-09-26-tst-bar-body-court-appearance",
-      "published_at": "2026-09-26T23:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "court",
-        "tsim-sha-tsui",
-        "drugs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-26/2026-09-26-tst-bar-body-court-appearance.json",
-      "en": {
-        "headline": "Two Tsim Sha Tsui bar staff charged over body removal case appear in court",
-        "dek": "A 28-year-old man and 44-year-old woman face charges including preventing the lawful burial of a corpse after a colleague was found dead on a roadside chair early on Thursday."
-      },
-      "zh": {
-        "headline": "尖沙咀酒吧棄屍案兩職員提堂 各控阻合法埋葬屍體等罪",
-        "dek": "28歲男及44歲女酒吧職員被控阻止合法埋葬屍體、經營毒窟及販運危險藥物，周六在粉嶺裁判法院提堂。"
-      }
-    },
-    {
-      "id": "2026-09-26-wan-chai-child-abuse-arrest",
-      "published_at": "2026-09-26T21:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "child-abuse",
-        "wan-chai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-26/2026-09-26-wan-chai-child-abuse-arrest.json",
-      "en": {
-        "headline": "Woman arrested over suspected child abuse after dashcam video circulates",
-        "dek": "A 44-year-old was arrested in Western district on Friday after footage appeared to show a boy being shoved into a roadside railing in Wan Chai."
-      },
-      "zh": {
-        "headline": "灣仔行車記錄片段傳出後 女事主涉虐兒被捕",
-        "dek": "一名44歲女子周五下午在西區被捕，警方指與一段疑似將男童推向路邊欄杆的行車記錄片段有關。"
-      }
-    },
-    {
-      "id": "2026-09-26-peggy-wong-resigns-tai-po",
-      "published_at": "2026-09-26T21:14:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "district-council",
-        "tai-po",
-        "dab"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-26/2026-09-26-peggy-wong-resigns-tai-po.json",
-      "en": {
-        "headline": "Tai Po district councillor Peggy Wong resigns citing health reasons",
-        "dek": "Wong Pik-kiu also stepped down from the Tai Po South Area Committee and as captain of a local care team; the government will gazette the vacancy."
-      },
-      "zh": {
-        "headline": "大埔區議員黃碧嬌以健康理由辭職",
-        "dek": "黃碧嬌同時辭去大埔南分區委員會委員及關愛隊隊長職務，政府稍後刊憲宣布議席出缺。"
-      }
-    },
-    {
-      "id": "2026-09-26-fencing-foil-sabre-team-bronzes",
-      "published_at": "2026-09-26T21:13:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "fencing",
-        "sport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-26/2026-09-26-fencing-foil-sabre-team-bronzes.json",
-      "en": {
-        "headline": "Hong Kong fencing adds two team bronzes in foil and sabre",
-        "dek": "The women’s foil and men’s sabre teams both lost their semi-finals on Saturday and collected bronze medals under the Asian Games format that awards third place without a play-off."
-      },
-      "zh": {
-        "headline": "港隊劍擊女花男佩團體賽摘兩銅",
-        "dek": "女子花劍及男子佩劍團體周六均於四強落敗，按亞運賽制無季軍賽直接獲銅牌。"
-      }
-    },
-    {
-      "id": "2026-09-26-simmi-chan-squash-bronze",
-      "published_at": "2026-09-26T21:12:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "squash",
-        "sport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-26/2026-09-26-simmi-chan-squash-bronze.json",
-      "en": {
-        "headline": "Simmi Chan takes Hong Kong’s first squash medal with Asian Games bronze",
-        "dek": "Chan Sin-yuk fell in straight games to Malaysia’s Sivasangari Subramaniam in the women’s singles semi-final on Saturday and shares the bronze with Japan’s Satomi Watanabe."
-      },
-      "zh": {
-        "headline": "陳善鈺亞運壁球女單奪銅 港隊壁球開齋",
-        "dek": "陳善鈺周六在女單四強直落三局不敵馬來西亞蘇巴拉曼尼安，與日本渡邊聡美並列銅牌。"
       }
     }
   ]
