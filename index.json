@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-09-30T03:18:46+08:00",
+  "generated_at": "2026-09-30T07:08:26+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-09-30-lifestyle-national-day-heritage-fun-day",
+      "published_at": "2026-09-30T07:11:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "national-day",
+        "heritage",
+        "tsim-sha-tsui",
+        "family"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-lifestyle-national-day-heritage-fun-day.json",
+      "en": {
+        "headline": "Heritage Discovery Centre stages National Day family fun day",
+        "dek": "The Antiquities and Monuments Office will fill Kowloon Park's heritage centre on Thursday with free workshops, concerts and games from 10am to 7pm."
+      },
+      "zh": {
+        "headline": "古跡辦國慶文物同樂日 九龍公園免費開放",
+        "dek": "發展局古物古跡辦事處星期四上午十時至晚上七時，在尖沙咀香港文物探知館舉辦工作坊、音樂會及遊戲，入場免費。"
+      }
+    },
+    {
+      "id": "2026-09-30-kwai-chung-community-living-room",
+      "published_at": "2026-09-30T07:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "kwai-chung",
+        "subdivided-flats",
+        "poverty"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-kwai-chung-community-living-room.json",
+      "en": {
+        "headline": "Kwai Chung community living room opens as city's 17th",
+        "dek": "Chief Secretary Eric Chan said the 2,300-square-foot centre is expected to serve about 250 subdivided-flat households and 40,000 visits a year."
+      },
+      "zh": {
+        "headline": "葵涌社區客廳開幕 全港增至十七間",
+        "dek": "政務司司長陳國基主持開幕，指二千三百平方呎客廳預計每年服務二百五十個劍房戶、約四萬人次。"
+      }
+    },
+    {
+      "id": "2026-09-30-edb-s1-headcount-no-closures",
+      "published_at": "2026-09-30T07:09:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "schools",
+        "edb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-edb-s1-headcount-no-closures.json",
+      "en": {
+        "headline": "Public secondary schools lose four S1 classes after headcount",
+        "dek": "The Education Bureau said no public secondary school fell below two classes in Secondary One, Two or Four, so none must apply for a development plan this year."
+      },
+      "zh": {
+        "headline": "點人頭後公營中學減四班中一 沒有學校陷殺校程序",
+        "dek": "教育局公布本學年公營中學經九月點算後共減四班中一，小學小一班數不變，亦沒有中學因不足兩班而須申請發展方案。"
+      }
+    },
+    {
+      "id": "2026-09-30-icac-pacific-textiles-fraud-charges",
+      "published_at": "2026-09-30T07:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "icac",
+        "fraud",
+        "courts",
+        "business"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-icac-pacific-textiles-fraud-charges.json",
+      "en": {
+        "headline": "Two men charged over alleged HK$9 million procurement fraud",
+        "dek": "A former systems engineer at Pacific Textiles and a relative appeared at West Kowloon Magistrates' Courts today after the ICAC charged them with fraud over IT purchases."
+      },
+      "zh": {
+        "headline": "互太前工程師涉隱瞞利益採購九百萬 廉署起訴兩人",
+        "dek": "廉署起訴互太紡織前系統工程師及其親戚各欺詐罪，指他們在約九百萬元資訊科技採購中隱瞞利益衝突，兩人今於西九龍裁判法院應訊。"
+      }
+    },
     {
       "id": "2026-09-30-ha-support-centre-ai-robotics",
       "published_at": "2026-09-30T03:14:00+08:00",
@@ -1948,27 +2036,6 @@
       "zh": {
         "headline": "內地中秋假期尾聲 當局料周日下午口岸入境高峰",
         "dek": "運輸署預計今日下午至晚上陸路口岸入境人流上升，過境公共交通輪候時間會較長，東鐵及金巴黃巴已加密班次。"
-      }
-    },
-    {
-      "id": "2026-09-27-wong-shek-pier-drowning",
-      "published_at": "2026-09-27T07:08:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "sai-kung",
-        "rescue",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-wong-shek-pier-drowning.json",
-      "en": {
-        "headline": "Man dies after suspected drowning off Sai Kung's Wong Shek Pier",
-        "dek": "A 26-year-old was pulled unconscious from the water about 20 metres off the pier on Saturday night and later certified dead at Tseung Kwan O Hospital."
-      },
-      "zh": {
-        "headline": "西貢黃石碼頭對開疑遇溺 26歲男子送院後不治",
-        "dek": "途人周六晚報稱北潭路黃石碼頭對開約20米海面有人遇溺，男子昏迷送往將軍澳醫院後證實死亡。"
       }
     }
   ]
