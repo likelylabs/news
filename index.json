@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-09-30T07:50:59+08:00",
+  "generated_at": "2026-09-30T09:14:33+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-09-30-lifestyle-hkpm-qing-court-workshops",
+      "published_at": "2026-09-30T09:19:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "west-kowloon",
+        "palace-museum",
+        "heritage"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-lifestyle-hkpm-qing-court-workshops.json",
+      "en": {
+        "headline": "Palace Museum opens Qing imperial workshop exhibition",
+        "dek": "Design for the Forbidden City, jointly organised with Beijing's Palace Museum, puts more than 150 workshop objects on view in Gallery 5 from Wednesday."
+      },
+      "zh": {
+        "headline": "香港故宮開展清宮製造與當代設計",
+        "dek": "與北京故宮博物院合辦的專題展周三起在西九展廳五對外開放，展出造辦處文物一百五十多件。"
+      }
+    },
+    {
+      "id": "2026-09-30-devb-maintenance-prequalification-lists",
+      "published_at": "2026-09-30T09:18:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "development-bureau",
+        "ura",
+        "building-maintenance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-devb-maintenance-prequalification-lists.json",
+      "en": {
+        "headline": "Consultants and contractors may join building repair lists from today",
+        "dek": "The Development Bureau opened a four-week application window for three pre-qualification lists that will govern future large-scale maintenance tenders."
+      },
+      "zh": {
+        "headline": "樓宇維修三張預審名單今起接受申請",
+        "dek": "發展局星期三起就驗樓顧問、監督顧問及承建商三張預審名單接受申請，為期四星期至十月二十七日。"
+      }
+    },
+    {
+      "id": "2026-09-30-shui-chuen-o-yan-chuen-house-fire",
+      "published_at": "2026-09-30T09:17:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "sha-tin",
+        "housing",
+        "public-housing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-shui-chuen-o-yan-chuen-house-fire.json",
+      "en": {
+        "headline": "Four hurt in early morning fire at Shui Chuen O Estate",
+        "dek": "Firefighters put out a blaze in a Yan Chuen House flat in Sha Tin shortly after 7am; a family of four was injured and about 140 residents left the block."
+      },
+      "zh": {
+        "headline": "沙田水泉澳邸欣泉樓火警 一家四口受傷",
+        "dek": "周三早上六時許沙田水泉澳邸欣泉樓單位起火，消防七時十分救熄，一家四口受傷，約140名住客落樓暫避。"
+      }
+    },
+    {
+      "id": "2026-09-30-the-world-university-rankings-2027",
+      "published_at": "2026-09-30T09:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "universities",
+        "rankings",
+        "ugc"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-the-world-university-rankings-2027.json",
+      "en": {
+        "headline": "Five Hong Kong universities remain in THE world top 100",
+        "dek": "Times Higher Education's 2027 ranking keeps HKU at 33rd, with CityU rising three places to a record 70th and all eight UGC-funded universities inside the top 300."
+      },
+      "zh": {
+        "headline": "THE世界大學排名港五校續入百強 城大升至70創高",
+        "dek": "2027年泰普仕高等教育排名公布，港大維持全球第33、全港第一，城大升33位至第70創新高，八大全部打入全球首300。"
+      }
+    },
     {
       "id": "2026-09-30-lifestyle-national-day-heritage-fun-day",
       "published_at": "2026-09-30T07:11:00+08:00",
