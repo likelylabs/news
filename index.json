@@ -1,8 +1,141 @@
 {
-  "generated_at": "2026-10-01T03:17:21+08:00",
+  "generated_at": "2026-10-01T07:10:38+08:00",
   "live_window_hours": 72,
-  "count": 100,
+  "count": 102,
   "articles": [
+    {
+      "id": "2026-10-01-lifestyle-national-day-free-facilities",
+      "published_at": "2026-10-01T07:23:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "national-day",
+        "lcsd",
+        "cinema",
+        "tram"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-lifestyle-national-day-free-facilities.json",
+      "en": {
+        "headline": "LCSD venues free and cinema tickets half-price on National Day",
+        "dek": "Residents can book selected Leisure and Cultural Services Department sports facilities at no charge today, while 52 commercial cinemas sell half-price tickets and trams run free."
+      },
+      "zh": {
+        "headline": "國慶康文署設施免費 戲票半價電車免車費",
+        "dek": "今日以個人身分可免費預訂康文署部分收費康樂設施，全港52間商業戲院半價，電車全線免車費，濕地公園亦免費開放。"
+      }
+    },
+    {
+      "id": "2026-10-01-very-hot-fire-danger-warnings",
+      "published_at": "2026-10-01T07:22:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "very-hot-weather",
+        "fire-danger",
+        "national-day"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-very-hot-fire-danger-warnings.json",
+      "en": {
+        "headline": "Very hot weather and yellow fire danger warnings in force",
+        "dek": "The Observatory kept the Very Hot Weather Warning up for National Day and issued a yellow Fire Danger Warning at 6am, forecasting 34 degrees in urban areas."
+      },
+      "zh": {
+        "headline": "國慶酷熱及黃色火災危險警告生效",
+        "dek": "天文台酷熱天氣警告自九月二十八日上午十一時十五分生效，今早六時再發黃色火災危險警告，市區最高氣溫約34度。"
+      }
+    },
+    {
+      "id": "2026-10-01-asean-cup-brunei-final",
+      "published_at": "2026-10-01T07:21:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "football",
+        "kai-tak",
+        "hong-kong-team",
+        "asean-cup"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-asean-cup-brunei-final.json",
+      "en": {
+        "headline": "Hong Kong beat Brunei 2-0 to reach ASEAN Cup final",
+        "dek": "Chan Siu-kwan and Matt Orr scored at Kai Tak Sports Park as the team finished Group A with two wins and will face Cambodia on Saturday."
+      },
+      "zh": {
+        "headline": "港隊2比0勝汶萊 東盟盃決賽鬥柬埔寨",
+        "dek": "陳肇鈞下半場頭槌破網，安永佳補時鎖定勝局，港隊兩戰全勝以A組首名晉級，周六再戰啟德對柬埔寨。"
+      }
+    },
+    {
+      "id": "2026-10-01-yau-ma-tei-imitation-pistol",
+      "published_at": "2026-10-01T07:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "yau-ma-tei",
+        "police",
+        "firearms",
+        "temple-street"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-yau-ma-tei-imitation-pistol.json",
+      "en": {
+        "headline": "Australian man arrested over imitation pistol in Yau Ma Tei",
+        "dek": "Police seized a suspected replica Mauser pistol after a report near a Temple Street bar on Wednesday night and held a 46-year-old man for possessing an imitation firearm."
+      },
+      "zh": {
+        "headline": "油麻地檢獲仿製曲尺手槍 拘捕澳洲籍男子",
+        "dek": "周三晚約十時廟街酒吧一帶有人報稱懷疑有人藏有手槍物體，警方檢獲仿製曲尺手槍，以涉嫌管有仿製槍械拘捕46歲澳洲籍男子。"
+      }
+    },
+    {
+      "id": "2026-10-01-tsing-yi-north-coastal-nails",
+      "published_at": "2026-10-01T07:19:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "tsing-yi",
+        "traffic",
+        "criminal-damage",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-tsing-yi-north-coastal-nails.json",
+      "en": {
+        "headline": "Twelve cars punctured by nails on Tsing Yi North Coastal Road",
+        "dek": "Police collected 16 nails after drivers heading towards Lantau reported blowouts near an Environmental Protection Department emissions site on Wednesday evening."
+      },
+      "zh": {
+        "headline": "青衣北岸公路16枚鐵釘 12車爆胎",
+        "dek": "周三晚往大嶼山方向近環保署廢氣實測室對開，警方檢獲16枚鐵釘，列刑事毀壞，暫未有人被捕。"
+      }
+    },
+    {
+      "id": "2026-10-01-homantin-waterloo-power-outage",
+      "published_at": "2026-10-01T07:18:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "power-outage",
+        "clp",
+        "ho-man-tin",
+        "kowloon-city"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-homantin-waterloo-power-outage.json",
+      "en": {
+        "headline": "CLP fault cuts power to about 1,000 Ho Man Tin customers",
+        "dek": "Equipment near Waterloo Road failed at about 11.18pm; an elderly man on an oxygen machine was taken to hospital and firefighters freed two lifts."
+      },
+      "zh": {
+        "headline": "窩打老道中電設備故障 約千戶停電",
+        "dek": "昨晚約十一時十八分九龍城窩打老道附近設備故障，何文田及附近約一千客戶受影響，氧氣機停頓老翁送院，消防接至少兩宗升降機困人。"
+      }
+    },
     {
       "id": "2026-10-01-lifestyle-mcdonalds-voucher-giveaway",
       "published_at": "2026-10-01T03:16:00+08:00",
@@ -2175,96 +2308,6 @@
       "zh": {
         "headline": "人民銀行在港發行600億元人民幣半年期票據",
         "dek": "中國人民銀行一筆600億元人民幣半年期央行票據今日在港發行，上周招標超額認購逾一倍。"
-      }
-    },
-    {
-      "id": "2026-09-28-lifestyle-victoria-park-lanterns-extended",
-      "published_at": "2026-09-28T07:07:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "victoria-park",
-        "mid-autumn",
-        "lcsd",
-        "lanterns"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-lifestyle-victoria-park-lanterns-extended.json",
-      "en": {
-        "headline": "Victoria Park lantern displays stay up until 4 October",
-        "dek": "The Leisure and Cultural Services Department has extended the Mid-Autumn Lantern Carnival by a week after large crowds during the festival."
-      },
-      "zh": {
-        "headline": "維園中秋綵燈展延長至10月4日",
-        "dek": "康文署因應人流眾多，把維多利亞公園中秋綵燈嘉年華延長一周至10月4日。"
-      }
-    },
-    {
-      "id": "2026-09-28-phf-injectable-devices-mdacs",
-      "published_at": "2026-09-28T07:06:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "department-of-health",
-        "medical-devices",
-        "clinics"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-phf-injectable-devices-mdacs.json",
-      "en": {
-        "headline": "Clinics face March deadline to use listed injectable devices",
-        "dek": "Licensed private healthcare facilities must use only MDACS-listed injectable and infusible medical devices from 1 March 2027, the Department of Health said."
-      },
-      "zh": {
-        "headline": "私營醫療機構明年三月起須用表列注射器械",
-        "dek": "衞生署規定，持牌私營醫療機構由2027年3月1日起，只可使用已在醫療器械行政管理制度表列的注射及輸注醫療器械。"
-      }
-    },
-    {
-      "id": "2026-09-28-gba-surabaya-route",
-      "published_at": "2026-09-28T07:05:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "aviation",
-        "greater-bay-airlines",
-        "indonesia",
-        "airport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-gba-surabaya-route.json",
-      "en": {
-        "headline": "Greater Bay Airlines opens first Indonesia route to Surabaya",
-        "dek": "The carrier flew its inaugural Hong Kong–Surabaya service on Friday and plans up to four flights a week on the new link."
-      },
-      "zh": {
-        "headline": "大灣區航空開通首條印尼航線 直飛泗水",
-        "dek": "大灣區航空周五開辦香港至泗水定期航班，計劃每周最多四班，屬該公司首條印尼航線。"
-      }
-    },
-    {
-      "id": "2026-09-28-lifestyle-disgusting-food-museum-airside",
-      "published_at": "2026-09-28T03:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "exhibition",
-        "kai-tak",
-        "airside"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-lifestyle-disgusting-food-museum-airside.json",
-      "en": {
-        "headline": "Disgusting Food Museum opens at AIRSIDE Kai Tak on Tuesday",
-        "dek": "The Swedish exhibition of more than 80 polarising dishes from 35 countries runs from 29 September to 26 November, complete with a tasting bar and a free vomit bag for every visitor."
-      },
-      "zh": {
-        "headline": "「嘔心食物博物館」周二啟德AIRSIDE開幕",
-        "dek": "瑞典展覽匯集35個國家逾80款爭議美食，展期至11月26日，設試食吧，每位入場者獲贈特製嘔吐袋。"
       }
     }
   ]
