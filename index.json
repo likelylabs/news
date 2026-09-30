@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-09-30T19:04:25+08:00",
+  "generated_at": "2026-09-30T21:05:37+08:00",
   "live_window_hours": 72,
   "count": 98,
   "articles": [
+    {
+      "id": "2026-09-30-hkma-august-mortgage-survey",
+      "published_at": "2026-09-30T21:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hkma",
+        "mortgage",
+        "housing",
+        "banking"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-hkma-august-mortgage-survey.json",
+      "en": {
+        "headline": "New mortgage approvals fall 28 percent in August",
+        "dek": "The Monetary Authority said banks approved HK$32.2 billion of home loans last month, while drawdowns rose and arrears stayed low."
+      },
+      "zh": {
+        "headline": "八月新批住宅按揭買款按月跌28%",
+        "dek": "金管局公布新批額減至322億元，新取用反升至328億，拖欠比率仍低於0.11%。"
+      }
+    },
+    {
+      "id": "2026-09-30-kmb-lwb-golden-week-services",
+      "published_at": "2026-09-30T21:09:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "kmb",
+        "lwb",
+        "transport",
+        "golden-week",
+        "national-day"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-kmb-lwb-golden-week-services.json",
+      "en": {
+        "headline": "KMB and LWB add Golden Week trips and half-price visitor pass",
+        "dek": "Children ride free on National Day across more than 480 routes, while extra buses are planned for borders, the airport and countryside links."
+      },
+      "zh": {
+        "headline": "九巴龍運黃金周加開班次 旅客日票半價",
+        "dek": "國慶日兒童可免費乘搭超過480條路線；口岸、高鐵站及郊遊路線將加開，皇崗口岸亦擁新線。"
+      }
+    },
+    {
+      "id": "2026-09-30-icac-crypto-exchange-staff-charge",
+      "published_at": "2026-09-30T21:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "icac",
+        "corruption",
+        "crypto",
+        "courts"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-icac-crypto-exchange-staff-charge.json",
+      "en": {
+        "headline": "ICAC charges former crypto shop staff over diverted USDT trades",
+        "dek": "A former Sheung Shui shop assistant is accused of taking bribes to shift customer Tether deals into other wallets, totalling nearly HK$9 million."
+      },
+      "zh": {
+        "headline": "廉署起訴加密幣找換店前職員涉收賄轉移交易",
+        "dek": "指上水分店前職員暗中將客戶泰達幣買賣轉至他人錢包，三個月交易額近九百萬元，周五粉嶺裁判法院答辯。"
+      }
+    },
     {
       "id": "2026-09-30-lifestyle-hkpm-qing-workshops",
       "published_at": "2026-09-30T19:07:00+08:00",
@@ -2155,74 +2222,6 @@
       "zh": {
         "headline": "陳茂波：8月出口升53% AI需求帶動 有信心達GDP目標",
         "dek": "財政司長在網誌指整體商品出口貨值達6,679億元，首八個月升42.5%，政府有信心全年經濟增長3.5%至4.5%。"
-      }
-    },
-    {
-      "id": "2026-09-27-po-pin-chau-hikers-heatstroke",
-      "published_at": "2026-09-27T21:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "sai-kung",
-        "hiking",
-        "heat",
-        "rescue",
-        "po-pin-chau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-po-pin-chau-hikers-heatstroke.json",
-      "en": {
-        "headline": "Three hikers fall ill on trails as temperatures hit 33C",
-        "dek": "Two men suffered suspected heatstroke on the Po Pin Chau route in Sai Kung and a third developed dizziness; a government helicopter airlifted one patient to hospital."
-      },
-      "zh": {
-        "headline": "氣溫高見33度 三名行山人士不適 破邊洲兩男疑中暑",
-        "dek": "西貢破邊洲上午至中午接連兩宗疑中暑個案，其中一人由飛行服務隊直升機送院；另有一名行山人士感暈眩。"
-      }
-    },
-    {
-      "id": "2026-09-27-new-audible-pedestrian-devices",
-      "published_at": "2026-09-27T19:06:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "accessibility",
-        "visually-impaired",
-        "pedestrian"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-new-audible-pedestrian-devices.json",
-      "en": {
-        "headline": "Forty percent of pedestrian crossings now have new audible devices",
-        "dek": "The Transport Department has upgraded more than 800 junctions and expects to finish the citywide programme of about 2,000 sites by the end of 2027."
-      },
-      "zh": {
-        "headline": "全港四成行人過路處已換新一代發聲裝置",
-        "dek": "運輸署稱進度理想，預期2027年底前完成約2,000個路口更換，優先深水埗及觀塘。"
-      }
-    },
-    {
-      "id": "2026-09-27-fifa-asean-cup-hk-laos-result",
-      "published_at": "2026-09-27T19:05:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "football",
-        "kai-tak",
-        "fifa",
-        "sport",
-        "asean-cup"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-fifa-asean-cup-hk-laos-result.json",
-      "en": {
-        "headline": "Hong Kong thrash Laos 4-0 in FIFA ASEAN Cup opener at Kai Tak",
-        "dek": "Sun Ming-him, Everton Camargo, Dudu and Matt Orr scored as nearly 19,000 fans watched the hosts take control of Group A on Sunday afternoon."
-      },
-      "zh": {
-        "headline": "東盟盃港隊4:0大勝老撾 啟德近1.9萬人見證",
-        "dek": "孫銘謙、艾華頓、杜度及安永佳各建一功，港隊在A組暫列榜首，羅淑佩讚戰果具說服力。"
       }
     }
   ]
