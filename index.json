@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-09-30T17:12:08+08:00",
+  "generated_at": "2026-09-30T19:04:25+08:00",
   "live_window_hours": 72,
-  "count": 95,
+  "count": 98,
   "articles": [
+    {
+      "id": "2026-09-30-lifestyle-hkpm-qing-workshops",
+      "published_at": "2026-09-30T19:07:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "hong-kong-palace-museum",
+        "exhibition",
+        "west-kowloon",
+        "culture"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-lifestyle-hkpm-qing-workshops.json",
+      "en": {
+        "headline": "Palace Museum opens Qing imperial workshops exhibition",
+        "dek": "Design for the Forbidden City, a joint show with the Palace Museum in Beijing, puts 157 objects on view from Wednesday, including 14 Grade-One relics."
+      },
+      "zh": {
+        "headline": "香港故宮開展「清宮製造與當代設計」",
+        "dek": "與北京故宮博物院合辦的專題展星期三起開放，展出157件文物，包括14件國家一級文物。"
+      }
+    },
+    {
+      "id": "2026-09-30-exchange-fund-august-assets",
+      "published_at": "2026-09-30T19:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hkma",
+        "exchange-fund",
+        "reserves",
+        "banking"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-exchange-fund-august-assets.json",
+      "en": {
+        "headline": "Exchange Fund assets fall to HK$4.34 trillion at end-August",
+        "dek": "The Monetary Authority said the drop of HK$68.3 billion from July was mainly due to withdrawals of Fiscal Reserves placements."
+      },
+      "zh": {
+        "headline": "外匯基金8月底總資產降至4.34萬億",
+        "dek": "金管局公布較7月底減少683億元，主因提取財政儲備存款；支持比率升至112%。"
+      }
+    },
+    {
+      "id": "2026-09-30-ckr-kowloon-bay-dec6",
+      "published_at": "2026-09-30T19:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "central-kowloon-route",
+        "route-6",
+        "tseung-kwan-o",
+        "yau-ma-tei"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-ckr-kowloon-bay-dec6.json",
+      "en": {
+        "headline": "Central Kowloon Route Kowloon Bay section to open 6 December",
+        "dek": "Transport chief Mable Chan told LegCo the last stretch of Route 6 will cut peak Tseung Kwan O to Yau Ma Tei trips to about 12 minutes."
+      },
+      "zh": {
+        "headline": "中九龍繞道九龍灣段12月6日通車",
+        "dek": "陳美寶向立法會表示，六號幹線全面啟用後，繁忙時間將軍澳往油麻地車程料由約65分鐘減至約12分鐘。"
+      }
+    },
+    {
+      "id": "2026-09-30-shui-chuen-o-yan-chuen-fire",
+      "published_at": "2026-09-30T19:04:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "sha-tin",
+        "shui-chuen-o",
+        "emergency",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-shui-chuen-o-yan-chuen-fire.json",
+      "en": {
+        "headline": "Family of four hospitalised after Sha Tin estate fire",
+        "dek": "Firefighters put out a blaze at Yan Chuen House, Shui Chuen O Estate, around 7.10am; about 140 to 200 residents were evacuated."
+      },
+      "zh": {
+        "headline": "沙田水泉澳邨欣泉樓火警 一家四口送院",
+        "dek": "消防早上約7時10分救熄15樓單位火警，約140至200名居民疏散，四人懷疑吸入濃煙送院。"
+      }
+    },
     {
       "id": "2026-09-30-lifestyle-victoria-park-lanterns-extended",
       "published_at": "2026-09-30T17:15:00+08:00",
@@ -2132,28 +2223,6 @@
       "zh": {
         "headline": "東盟盃港隊4:0大勝老撾 啟德近1.9萬人見證",
         "dek": "孫銘謙、艾華頓、杜度及安永佳各建一功，港隊在A組暫列榜首，羅淑佩讚戰果具說服力。"
-      }
-    },
-    {
-      "id": "2026-09-27-victoria-park-tennis-redevelopment",
-      "published_at": "2026-09-27T17:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "sport",
-        "victoria-park",
-        "tennis",
-        "infrastructure"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-victoria-park-tennis-redevelopment.json",
-      "en": {
-        "headline": "Law outlines Victoria Park tennis redevelopment with retractable roof",
-        "dek": "The sports minister said Hong Kong Stadium could host interim tournaments and the project would try to spare the swimming pool and hard courts."
-      },
-      "zh": {
-        "headline": "羅淑佩：維園網球場擬建開合式上蓋 過渡期用大球場",
-        "dek": "文體旅局長指目標達ATP 500或更高標準，重建盡量避開泳池及硬地足球場。"
       }
     }
   ]
