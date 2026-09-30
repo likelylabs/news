@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-09-30T13:15:59+08:00",
+  "generated_at": "2026-09-30T15:04:51+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 94,
   "articles": [
+    {
+      "id": "2026-09-30-lifestyle-halloween-month",
+      "published_at": "2026-09-30T15:08:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "halloween",
+        "tourism",
+        "events",
+        "hktb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-lifestyle-halloween-month.json",
+      "en": {
+        "headline": "Tourism Board stages first Hong Kong Halloween Month",
+        "dek": "Street parties are planned on three Saturdays from 17 October in Central, Kai Tak, Lan Kwai Fong, Mong Kok and Tsim Sha Tsui East."
+      },
+      "zh": {
+        "headline": "旅發局首辦香港萬聖月 三個周六街頭派對",
+        "dek": "十月十七日起一連三個星期六，中環、啟德、蘭桂坊、旺角及尖東將舉辦萬聖節街頭活動，萬聖夜作結。"
+      }
+    },
+    {
+      "id": "2026-09-30-commodities-working-group",
+      "published_at": "2026-09-30T15:07:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "fstb",
+        "commodities",
+        "gold",
+        "hkex",
+        "policy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-commodities-working-group.json",
+      "en": {
+        "headline": "Commodities working group holds first meeting",
+        "dek": "Secretary for Financial Services and the Treasury Christopher Hui chaired the panel created in this year's Policy Address, with gold as the first focus."
+      },
+      "zh": {
+        "headline": "大宗商品交易聯合工作組召開首次會議",
+        "dek": "財庫局局長許正宇主持施政報告提出的工作組首次會議，表明以黃金為切入點推進交易生態圈。"
+      }
+    },
+    {
+      "id": "2026-09-30-hzmb-fresh-food-24h",
+      "published_at": "2026-09-30T15:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "hzmb",
+        "food",
+        "customs",
+        "cfs",
+        "golden-week"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-hzmb-fresh-food-24h.json",
+      "en": {
+        "headline": "HZMB fresh food imports go 24 hours from Thursday",
+        "dek": "The Centre for Food Safety said vehicles carrying designated fresh produce via the Hong Kong-Zhuhai-Macao Bridge may enter at any hour from midnight."
+      },
+      "zh": {
+        "headline": "港珠澳大橋鮮活食品周四起全日通關",
+        "dek": "食安中心表示，十月一日零時起經港珠澳大橋進口指定鮮活食品可全日24小時入境，文錦渡維持朝七晚十。"
+      }
+    },
     {
       "id": "2026-09-30-yellow-work-heat-warning",
       "published_at": "2026-09-30T13:25:00+08:00",
