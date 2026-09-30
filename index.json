@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-09-30T23:20:19+08:00",
+  "generated_at": "2026-10-01T01:02:49+08:00",
   "live_window_hours": 72,
-  "count": 99,
+  "count": 100,
   "articles": [
+    {
+      "id": "2026-09-30-national-day-weekend-weather-outlook",
+      "published_at": "2026-09-30T23:44:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "weather",
+        "national-day",
+        "golden-week",
+        "forecast"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-national-day-weekend-weather-outlook.json",
+      "en": {
+        "headline": "Hot National Day, then showers over the long weekend",
+        "dek": "The Observatory expects Thursday to stay very hot before cloud and rain become more likely from Friday through Sunday."
+      },
+      "zh": {
+        "headline": "國慶酷熱其後有驟雨 長假期天氣展望",
+        "dek": "天文台預計星期四仍然酷熱，周五至周日轉多雲，有幾陣驟雨，局部地區或有雷暴。"
+      }
+    },
+    {
+      "id": "2026-09-30-wan-chai-hainan-chicken-salmonella",
+      "published_at": "2026-09-30T23:43:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "cfs",
+        "food-safety",
+        "wan-chai",
+        "salmonella",
+        "fehd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-wan-chai-hainan-chicken-salmonella.json",
+      "en": {
+        "headline": "Salmonella found in Wan Chai Hainan chicken rice sample",
+        "dek": "The Centre for Food Safety said a ready-to-eat sample from a restaurant in Tin Lok Lane failed microbiological guidelines and the dish was taken off sale."
+      },
+      "zh": {
+        "headline": "灣仔海南雞飯樣本驗出沙門氏菌",
+        "dek": "食安中心指天樂里食肆即食樣本不符合微生物指引，食肆已按指示停售及棄置相關食品。"
+      }
+    },
+    {
+      "id": "2026-09-30-nwd-11-skies-fy-loss",
+      "published_at": "2026-09-30T23:42:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "new-world",
+        "property",
+        "11-skies",
+        "airport",
+        "earnings"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-nwd-11-skies-fy-loss.json",
+      "en": {
+        "headline": "New World books heavy loss after handing back 11 Skies",
+        "dek": "The developer reported a full-year loss after impairments and an early-termination fee tied to returning the airport mall project to the Airport Authority."
+      },
+      "zh": {
+        "headline": "新世界交還11 SKIES後全年大蝕",
+        "dek": "發展商公布截至6月底全年虧損約268億元，主因提早終止機場商場項目並計提減值及終止費用。"
+      }
+    },
     {
       "id": "2026-09-30-pansy-ho-injunction",
       "published_at": "2026-09-30T23:18:00+08:00",
@@ -2197,52 +2266,6 @@
       "zh": {
         "headline": "大角咀夾公仔機被用鎖匙盜走約一萬元 警方追緝男子",
         "dek": "店主周日上午透過閉路電視錄影片段，目睹一名男子打開四部機的投幣箱取走現金後離開。"
-      }
-    },
-    {
-      "id": "2026-09-27-water-tank-cleaning-robot-trial",
-      "published_at": "2026-09-27T23:22:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "housing",
-        "robot",
-        "smart-estate",
-        "wai-ying",
-        "technology"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-water-tank-cleaning-robot-trial.json",
-      "en": {
-        "headline": "Housing chief trials water-tank cleaning robot in three estates",
-        "dek": "The locally developed amphibious robot has been tested at Mun Tung, Hoi Ying and Lai Yiu estates and is expected to enter mass production this year."
-      },
-      "zh": {
-        "headline": "洗水缸機械人三屋邨試用 何永賢冀今年量產",
-        "dek": "本地研發第四代兩棲機械人已於滿東邨、海盈邨及麗瑤邨試用，可遙控操作減少密閉空間風險。"
-      }
-    },
-    {
-      "id": "2026-09-27-choi-wan-falling-object-girl",
-      "published_at": "2026-09-27T23:21:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "wong-tai-sin",
-        "choi-wan",
-        "falling-object",
-        "police",
-        "estate"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-choi-wan-falling-object-girl.json",
-      "en": {
-        "headline": "Seven-year-old girl hurt by falling wood at Choi Wan Estate",
-        "dek": "A circular wooden piece about five inches across struck the child outside Koon Yat House on Sunday afternoon; she was treated on site and declined hospital admission."
-      },
-      "zh": {
-        "headline": "彩雲邨觀日樓木塊墮下擊傷7歲女童",
-        "dek": "周日下午約5時直徑約5吋圓形木塊從高處墮下，女童手部受傷，治理後拒絕送院。"
       }
     }
   ]
