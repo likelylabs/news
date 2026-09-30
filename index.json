@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-09-30T15:04:51+08:00",
+  "generated_at": "2026-09-30T17:12:08+08:00",
   "live_window_hours": 72,
-  "count": 94,
+  "count": 95,
   "articles": [
+    {
+      "id": "2026-09-30-lifestyle-victoria-park-lanterns-extended",
+      "published_at": "2026-09-30T17:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "victoria-park",
+        "mid-autumn",
+        "tourism",
+        "lcsd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-lifestyle-victoria-park-lanterns-extended.json",
+      "en": {
+        "headline": "Victoria Park lantern displays extended to 7 October",
+        "dek": "The Tourism Board and Leisure and Cultural Services Department said about 580,000 visits were recorded in 13 days, with one day topping 200,000."
+      },
+      "zh": {
+        "headline": "維園中秋絳燈展延至10月7日",
+        "dek": "旅發局及康文署表示，9月17日至29日約58萬人次到訪，單日高峰超過20萬，展期覆蓋國慶黃金周。"
+      }
+    },
+    {
+      "id": "2026-09-30-mpox-imported-case",
+      "published_at": "2026-09-30T17:14:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "chp",
+        "mpox",
+        "public-health",
+        "hospital-authority"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-mpox-imported-case.json",
+      "en": {
+        "headline": "Health authorities confirm imported mpox case",
+        "dek": "A 40-year-old man is in stable condition at Princess Margaret Hospital after high-risk contact while outside Hong Kong, the Centre for Health Protection said."
+      },
+      "zh": {
+        "headline": "衞生防護中心公布一宗輸入猴痘個案",
+        "dek": "一名40歲男子潛伏期在外地有高風險性接觸，現於瑪嘉烈醫院隔離，情況穩定。"
+      }
+    },
+    {
+      "id": "2026-09-30-northbound-travel-booking-review",
+      "published_at": "2026-09-30T17:13:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "hzmb",
+        "northbound-travel",
+        "transport",
+        "guangdong",
+        "policy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-northbound-travel-booking-review.json",
+      "en": {
+        "headline": "Hong Kong studying more no-booking days for northbound cars",
+        "dek": "Secretary for Transport and Logistics Mable Chan said the city is talking with Guangdong about extending the Tuesday-Wednesday waiver to other quieter weekdays."
+      },
+      "zh": {
+        "headline": "港粵研究更多工作日港車北上免預約",
+        "dek": "運輸及物流局局長陳美寶向立法會表示，正與廣東商討把週二、三免預約安排擴至其他非繁忙工作天。"
+      }
+    },
+    {
+      "id": "2026-09-30-ip-financing-sandbox-seven",
+      "published_at": "2026-09-30T17:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hkma",
+        "intellectual-property",
+        "financing",
+        "sme",
+        "cedb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-ip-financing-sandbox-seven.json",
+      "en": {
+        "headline": "Seven firms win IP-backed loans in first sandbox batch",
+        "dek": "Banks completed credit approval on seven pilot cases worth HK$1 million to HK$39 million, the Monetary Authority and government said."
+      },
+      "zh": {
+        "headline": "知識產權融資沙盒首批七宗個案獲批",
+        "dek": "金管局公布參與銀行完成七宗試點審批，貸款由100萬至3,900萬元，涵蓋電子、建築、玩具及醫療器材。"
+      }
+    },
     {
       "id": "2026-09-30-lifestyle-halloween-month",
       "published_at": "2026-09-30T15:08:00+08:00",
@@ -2063,72 +2154,6 @@
       "zh": {
         "headline": "羅淑佩：維園網球場擬建開合式上蓋 過渡期用大球場",
         "dek": "文體旅局長指目標達ATP 500或更高標準，重建盡量避開泳池及硬地足球場。"
-      }
-    },
-    {
-      "id": "2026-09-27-mens-epee-team-bronze-ag2026",
-      "published_at": "2026-09-27T17:12:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-games",
-        "fencing",
-        "medal"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-mens-epee-team-bronze-ag2026.json",
-      "en": {
-        "headline": "Hong Kong men's epee team takes Asian Games bronze",
-        "dek": "The side reached the semi-finals before losing to world champions Kazakhstan, securing a medal without a bronze-medal match."
-      },
-      "zh": {
-        "headline": "亞運男子重劍團體港隊奪銅",
-        "dek": "港隊晉級四強後不敵世界冠軍哈薩克，因不設季軍賽而鎖定銅牌。"
-      }
-    },
-    {
-      "id": "2026-09-27-squash-mixed-doubles-gold-ag2026",
-      "published_at": "2026-09-27T15:06:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-games",
-        "squash",
-        "medal"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-squash-mixed-doubles-gold-ag2026.json",
-      "en": {
-        "headline": "Lee Ka-yi and Tang Ming-hong win Asian Games squash mixed doubles gold",
-        "dek": "Hong Kong claimed gold and silver in the event after an all-SAR final at the Nagoya Kinjo Futo Arena on Sunday."
-      },
-      "zh": {
-        "headline": "亞運壁球混雙港隊包辦金銀 李嘉兒鄧銘漮奪金",
-        "dek": "港隊兩對組合於名古屋決賽對壘，李嘉兒及鄧銘漮組合奪得金牌，港隊歷史性包辦金銀牌。"
-      }
-    },
-    {
-      "id": "2026-09-27-workweek-weather-outlook-sep28-oct2",
-      "published_at": "2026-09-27T15:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "outlook",
-        "heat"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-workweek-weather-outlook-sep28-oct2.json",
-      "en": {
-        "headline": "Work-week outlook: mainly fine and very hot through midweek",
-        "dek": "The Observatory expects an anticyclone aloft to keep Hong Kong sunny and very hot early in the week before a northeast monsoon brings more cloud and showers later."
-      },
-      "zh": {
-        "headline": "未來一週天氣展望：初段大致天晴酷熱 後期雲量增多",
-        "dek": "天文台預料高空反氣旋令本週初香港大致天晴及酷熱，東北季候風將於週後期影響華南，雲量增多並有幾陣驟雨。"
       }
     }
   ]
