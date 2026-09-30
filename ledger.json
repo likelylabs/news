@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-30T09:14:33+08:00",
+  "updated_at": "2026-09-30T09:22:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "the-wur-2027-hk-universities",
+      "id": "2026-09-30-the-world-university-rankings-2027",
+      "first_seen": "2026-09-30T09:16:00+08:00",
+      "headline_en": "Five Hong Kong universities remain in THE world top 100"
+    },
+    {
+      "key": "shui-chuen-o-yan-chuen-house-fire-sep30",
+      "id": "2026-09-30-shui-chuen-o-yan-chuen-house-fire",
+      "first_seen": "2026-09-30T09:17:00+08:00",
+      "headline_en": "Four hurt in early morning fire at Shui Chuen O Estate"
+    },
+    {
+      "key": "devb-building-maintenance-prequalification-lists-open-sep30",
+      "id": "2026-09-30-devb-maintenance-prequalification-lists",
+      "first_seen": "2026-09-30T09:18:00+08:00",
+      "headline_en": "Consultants and contractors may join building repair lists from today"
+    },
+    {
+      "key": "lifestyle-hkpm-qing-court-workshops-exhibition",
+      "id": "2026-09-30-lifestyle-hkpm-qing-court-workshops",
+      "first_seen": "2026-09-30T09:19:00+08:00",
+      "headline_en": "Palace Museum opens Qing imperial workshop exhibition"
+    },
     {
       "key": "icac-pacific-textiles-procurement-fraud-sep29",
       "id": "2026-09-30-icac-pacific-textiles-fraud-charges",
