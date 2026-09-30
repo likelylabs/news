@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-09-30T21:05:37+08:00",
+  "generated_at": "2026-09-30T23:19:08+08:00",
   "live_window_hours": 72,
-  "count": 98,
+  "count": 100,
   "articles": [
+    {
+      "id": "2026-09-30-pansy-ho-injunction",
+      "published_at": "2026-09-30T23:18:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "courts",
+        "high-court",
+        "injunction",
+        "shun-tak"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-pansy-ho-injunction.json",
+      "en": {
+        "headline": "High Court grants Pansy Ho permanent harassment injunction",
+        "dek": "A deputy judge found repeated approaches and false allegations since March 2025 justified a lasting order keeping the defendant away from Ho and her offices."
+      },
+      "zh": {
+        "headline": "高院向何超瓊頒永久禁制令禁騷擾",
+        "dek": "暫委法官裁定被告自2025年3月起重複接觸及作出失實指控，禁制對方聯絡何超瓊或靠近其公司辦事處。"
+      }
+    },
+    {
+      "id": "2026-09-30-gov-fiscal-aug",
+      "published_at": "2026-09-30T23:17:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "government",
+        "budget",
+        "fiscal-reserves",
+        "fstb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-gov-fiscal-aug.json",
+      "en": {
+        "headline": "Government books HK$19 billion deficit after five months",
+        "dek": "Spending outpaced receipts to end-August as salaries and profits tax have yet to come in; fiscal reserves stood at HK$646.5 billion."
+      },
+      "zh": {
+        "headline": "政府首五個月錄約190億元赤字",
+        "dek": "截至8月底開支3,110億、收入2,492億，計入發債及還債後赤字約190億；財政儲備6466億。"
+      }
+    },
+    {
+      "id": "2026-09-30-dfi-maxims-starbucks",
+      "published_at": "2026-09-30T23:16:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "dfi",
+        "maxims",
+        "starbucks",
+        "retail",
+        "jardine"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-dfi-maxims-starbucks.json",
+      "en": {
+        "headline": "DFI to take over Asia Starbucks as Maxim's buys back stake",
+        "dek": "The Wellcome and Mannings parent will receive more than 1,100 licensed coffeehouses plus about US$340 million in cash, with completion targeted by early 2027."
+      },
+      "zh": {
+        "headline": "DFI讓出美心股權換星巴克亞洲業務及3.4億美元",
+        "dek": "惠康及萬寧母企將承接七個市場逾1,100間特許星巴克，並收取約3.4億美元現金，料2027年首季完成。"
+      }
+    },
     {
       "id": "2026-09-30-hkma-august-mortgage-survey",
       "published_at": "2026-09-30T21:10:00+08:00",
@@ -2199,29 +2266,6 @@
       "zh": {
         "headline": "沙田健身室更衣室藏針孔鏡頭 34歲男涉窺淫被捕",
         "dek": "24/7 Fitness瀝源街分店三間更衣室發現懷疑偷拍裝置，本地男子周日在沙田區落網，現正扣查。"
-      }
-    },
-    {
-      "id": "2026-09-27-paul-chan-exports-gdp-ai",
-      "published_at": "2026-09-27T21:06:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "exports",
-        "gdp",
-        "ai",
-        "paul-chan",
-        "economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-paul-chan-exports-gdp-ai.json",
-      "en": {
-        "headline": "Chan says August exports up 53 percent on AI demand, GDP goal in reach",
-        "dek": "The Financial Secretary wrote that overall merchandise exports reached HK$667.9 billion last month and the government remains confident of 3.5 to 4.5 percent growth for the year."
-      },
-      "zh": {
-        "headline": "陳茂波：8月出口升53% AI需求帶動 有信心達GDP目標",
-        "dek": "財政司長在網誌指整體商品出口貨值達6,679億元，首八個月升42.5%，政府有信心全年經濟增長3.5%至4.5%。"
       }
     }
   ]
