@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T15:04:51+08:00",
+  "updated_at": "2026-09-30T17:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -43,6 +43,30 @@
       "id": "2026-09-30-lifestyle-halloween-month",
       "first_seen": "2026-09-30T15:08:00+08:00",
       "headline_en": "Tourism Board stages first Hong Kong Halloween Month"
+    },
+    {
+      "key": "ip-financing-sandbox-first-seven-sep30",
+      "id": "2026-09-30-ip-financing-sandbox-seven",
+      "first_seen": "2026-09-30T17:12:00+08:00",
+      "headline_en": "Seven firms win IP-backed loans in first sandbox batch"
+    },
+    {
+      "key": "northbound-travel-more-no-booking-days-sep30",
+      "id": "2026-09-30-northbound-travel-booking-review",
+      "first_seen": "2026-09-30T17:13:00+08:00",
+      "headline_en": "Hong Kong studying more no-booking days for northbound cars"
+    },
+    {
+      "key": "mpox-imported-case-sep30",
+      "id": "2026-09-30-mpox-imported-case",
+      "first_seen": "2026-09-30T17:14:00+08:00",
+      "headline_en": "Health authorities confirm imported mpox case"
+    },
+    {
+      "key": "lifestyle-victoria-park-lantern-extended-oct7",
+      "id": "2026-09-30-lifestyle-victoria-park-lanterns-extended",
+      "first_seen": "2026-09-30T17:15:00+08:00",
+      "headline_en": "Victoria Park lantern displays extended to 7 October"
     }
   ]
 }
