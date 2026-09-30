@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-01T01:02:49+08:00",
+  "updated_at": "2026-09-30T23:50:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "nwd-11-skies-fy-loss-sep30",
+      "id": "2026-09-30-nwd-11-skies-fy-loss",
+      "first_seen": "2026-09-30T23:42:00+08:00",
+      "headline_en": "New World books heavy loss after handing back 11 Skies"
+    },
+    {
+      "key": "wan-chai-hainan-chicken-salmonella-sep30",
+      "id": "2026-09-30-wan-chai-hainan-chicken-salmonella",
+      "first_seen": "2026-09-30T23:43:00+08:00",
+      "headline_en": "Salmonella found in Wan Chai Hainan chicken rice sample"
+    },
+    {
+      "key": "weekend-weather-outlook-oct1-4",
+      "id": "2026-09-30-national-day-weekend-weather-outlook",
+      "first_seen": "2026-09-30T23:44:00+08:00",
+      "headline_en": "Hot National Day, then showers over the long weekend"
+    },
     {
       "key": "hsbc-redcoin-named-sep30",
       "id": "2026-09-30-hsbc-redcoin-named",
