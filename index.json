@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-30T23:19:59+08:00",
+  "generated_at": "2026-09-30T23:20:19+08:00",
   "live_window_hours": 72,
-  "count": 100,
+  "count": 99,
   "articles": [
     {
       "id": "2026-09-30-pansy-ho-injunction",
       "published_at": "2026-09-30T23:18:00+08:00",
-      "updated_at": "2026-09-30T23:24:00+08:00",
+      "updated_at": null,
       "category": "crime",
       "tags": [
         "courts",
@@ -2243,29 +2243,6 @@
       "zh": {
         "headline": "彩雲邨觀日樓木塊墮下擊傷7歲女童",
         "dek": "周日下午約5時直徑約5吋圓形木塊從高處墮下，女童手部受傷，治理後拒絕送院。"
-      }
-    },
-    {
-      "id": "2026-09-27-sha-tin-gym-pinhole-cameras-arrest",
-      "published_at": "2026-09-27T23:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "sha-tin",
-        "police",
-        "voyeurism",
-        "gym"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-sha-tin-gym-pinhole-cameras-arrest.json",
-      "en": {
-        "headline": "Police arrest 34-year-old man over pinhole cameras in Sha Tin gym",
-        "dek": "Three suspected hidden cameras were found in changing rooms at a 24/7 Fitness branch on Lek Yuen Street; the local man remains in custody."
-      },
-      "zh": {
-        "headline": "沙田健身室更衣室藏針孔鏡頭 34歲男涉窺淫被捕",
-        "dek": "24/7 Fitness瀝源街分店三間更衣室發現懷疑偷拍裝置，本地男子周日在沙田區落網，現正扣查。"
       }
     }
   ]
