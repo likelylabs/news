@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-10-01T01:03:34+08:00",
+  "generated_at": "2026-10-01T03:16:26+08:00",
   "live_window_hours": 72,
   "count": 100,
   "articles": [
+    {
+      "id": "2026-10-01-lifestyle-mcdonalds-voucher-giveaway",
+      "published_at": "2026-10-01T03:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "tourism",
+        "wan-chai",
+        "tsim-sha-tsui",
+        "food"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-lifestyle-mcdonalds-voucher-giveaway.json",
+      "en": {
+        "headline": "Visitor spends HK$10,000 McDonald's prize treating strangers",
+        "dek": "A mainland tourist who won an Alipay voucher valid only in Hong Kong spent about a day buying meals for passers-by, cleaners and older diners before leaving the city."
+      },
+      "zh": {
+        "headline": "內地旅客抽中萬元麥當勞券請途人吃飯",
+        "dek": "遊客透過支付寶抽中只限香港分店使用的一萬元優惠，離港前約24小時走訪灣仔及尖沙咀分店請客。"
+      }
+    },
+    {
+      "id": "2026-10-01-national-day-ceremonies-fireworks",
+      "published_at": "2026-10-01T03:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "national-day",
+        "fireworks",
+        "golden-week",
+        "traffic",
+        "wan-chai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-national-day-ceremonies-fireworks.json",
+      "en": {
+        "headline": "Flag-raising at 8am, harbour fireworks at 8pm for National Day",
+        "dek": "Chief Executive John Lee leads the Golden Bauhinia Square ceremony this morning; police expect about 260,000 people along Victoria Harbour tonight and will close roads in phases from 4pm."
+      },
+      "zh": {
+        "headline": "國慶今早金紫荊升旗 晚上八時維港放煙花",
+        "dek": "行政長官李家超出席上午八時升旗及會展酒會；警方料約26萬人沿維港觀賞晚上匯演，下午四時起分階段封路。"
+      }
+    },
+    {
+      "id": "2026-10-01-ching-cheung-road-taxi-faint",
+      "published_at": "2026-10-01T03:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "taxi",
+        "traffic",
+        "cheung-sha-wan",
+        "emergency"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-ching-cheung-road-taxi-faint.json",
+      "en": {
+        "headline": "Passengers steer taxi after driver faints on Ching Cheung Road",
+        "dek": "Four passengers were unhurt after a 66-year-old taxi driver lost consciousness near noon on Monday; local reports said he remained in a critical condition."
+      },
+      "zh": {
+        "headline": "呈祥道的士司機昏迷 乘客協助停車無人受傷",
+        "dek": "周一中午66歲司機在長沙灣呈祥道近樂軒臺一帶突然失去知覺，四名乘客無羔；報道指司機其後情況危殆。"
+      }
+    },
     {
       "id": "2026-09-30-national-day-weekend-weather-outlook",
       "published_at": "2026-09-30T23:44:00+08:00",
@@ -2197,75 +2265,6 @@
       "zh": {
         "headline": "「嘔心食物博物館」周二啟德AIRSIDE開幕",
         "dek": "瑞典展覽匯集35個國家逾80款爭議美食，展期至11月26日，設試食吧，每位入場者獲贈特製嘔吐袋。"
-      }
-    },
-    {
-      "id": "2026-09-28-hetao-talent-flow-deadline",
-      "published_at": "2026-09-28T01:12:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "hetao",
-        "innovation",
-        "talent",
-        "sun-dong",
-        "northern-metropolis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-hetao-talent-flow-deadline.json",
-      "en": {
-        "headline": "Sun Dong sets June deadline for Hetao cross-border talent flow",
-        "dek": "The technology minister said free movement of people in the innovation hub must begin by 30 June next year at the latest, following data-flow pledges."
-      },
-      "zh": {
-        "headline": "孫東：河套跨境人才流動最遲明年6月底啟動",
-        "dek": "創科局局長表示，河套合作區人員流動必須最遲於明年6月30日前展開，數據流動亦希望盡快試行。"
-      }
-    },
-    {
-      "id": "2026-09-28-weekend-new-flats-sold-out",
-      "published_at": "2026-09-28T01:11:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "property",
-        "housing",
-        "interest-rates",
-        "developers",
-        "sales"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-weekend-new-flats-sold-out.json",
-      "en": {
-        "headline": "Buyers snap up nearly 300 new flats ahead of expected rate rises",
-        "dek": "Developers sold out all units launched over the weekend as home-seekers moved to lock in mortgages before local rates climb, agents said."
-      },
-      "zh": {
-        "headline": "買家趕在加息前入市 周末近300個新盤單位售罄",
-        "dek": "發展商周末推售超過290個單位全部售出，代理指買家希望在本地息口上升前鎖定按揭。"
-      }
-    },
-    {
-      "id": "2026-09-28-tai-kok-tsui-claw-machine-theft",
-      "published_at": "2026-09-28T01:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "tai-kok-tsui",
-        "theft",
-        "police",
-        "claw-machine"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-tai-kok-tsui-claw-machine-theft.json",
-      "en": {
-        "headline": "Police hunt man who stole HK$10,000 from claw machines with a key",
-        "dek": "A man in his thirties opened deposit boxes at four machines in a Tai Kok Tsui shop on Sunday morning and fled with the cash, police said."
-      },
-      "zh": {
-        "headline": "大角咀夾公仔機被用鎖匙盜走約一萬元 警方追緝男子",
-        "dek": "店主周日上午透過閉路電視錄影片段，目睹一名男子打開四部機的投幣箱取走現金後離開。"
       }
     }
   ]
