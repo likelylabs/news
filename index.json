@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-09-30T09:17:04+08:00",
+  "generated_at": "2026-09-30T11:11:33+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-09-30-romance-scam-71-year-old-2-9m",
+      "published_at": "2026-09-30T11:24:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "fraud",
+        "scam",
+        "cybercrime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-romance-scam-71-year-old-2-9m.json",
+      "en": {
+        "headline": "Retired woman loses HK$2.9 million in romance scam",
+        "dek": "Police said at least 18 online romance frauds were reported in a week, with combined losses near HK$7.8 million, after a 71-year-old was lured into a fake investment."
+      },
+      "zh": {
+        "headline": "七旬婦墮網上情緣騙局失近290萬",
+        "dek": "警方公布過去一周至少18宗網上情緣騙案、合共接近780萬元，其中一名71歲退休女子被誘投資後轉賬17次。"
+      }
+    },
+    {
+      "id": "2026-09-30-cheuk-legco-birth-rate-package",
+      "published_at": "2026-09-30T11:23:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "legco",
+        "birth-rate",
+        "policy",
+        "labour",
+        "family"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-cheuk-legco-birth-rate-package.json",
+      "en": {
+        "headline": "Cheuk says birth package may have slowed a steeper fall",
+        "dek": "The deputy chief secretary told LegCo the government's medium-term aim is to stop a cliff-edge drop in births, and he reserved judgment on restoring a universal student grant."
+      },
+      "zh": {
+        "headline": "卓永興：無組合拳生育率跌幅或更嚴重",
+        "dek": "政務司副司長在立法會表示，中期目標是避免出生率斷崖式下跌，並對重推二千五百元學生津貼有保留。"
+      }
+    },
+    {
+      "id": "2026-09-30-mong-kok-bute-street-guesthouse-fire",
+      "published_at": "2026-09-30T11:22:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "mong-kok",
+        "emergency",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-09-30/2026-09-30-mong-kok-bute-street-guesthouse-fire.json",
+      "en": {
+        "headline": "About 20 evacuated after Mong Kok guesthouse fire",
+        "dek": "Firefighters put out a blaze on the second floor of a Bute Street building shortly after 2am; one staff member was lightly hurt and refused hospital treatment."
+      },
+      "zh": {
+        "headline": "旺角弼街賓館凌晨起火 約20人疏散一人輕傷",
+        "dek": "消防凌晨兩時許救熄旺角利發大樓二樓賓館火警，一名男職員自行撲火時輕傷拒送院，暫無可疑。"
+      }
+    },
     {
       "id": "2026-09-30-lifestyle-hkpm-qing-court-workshops",
       "published_at": "2026-09-30T09:19:00+08:00",
@@ -1906,182 +1974,6 @@
       "zh": {
         "headline": "未來一週天氣展望：初段大致天晴酷熱 後期雲量增多",
         "dek": "天文台預料高空反氣旋令本週初香港大致天晴及酷熱，東北季候風將於週後期影響華南，雲量增多並有幾陣驟雨。"
-      }
-    },
-    {
-      "id": "2026-09-27-lifestyle-autumn-travel-expo",
-      "published_at": "2026-09-27T11:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "wan-chai",
-        "exhibition",
-        "tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-lifestyle-autumn-travel-expo.json",
-      "en": {
-        "headline": "Autumn travel expo at Wan Chai convention centre ends Sunday",
-        "dek": "The three-day Hong Kong Holiday and Travel Expo in Hall 5BCD runs until 8pm, with a $30 ticket and a 3pm mascot parade."
-      },
-      "zh": {
-        "headline": "灣仔會展秋季旅遊博覽會周日閉幕",
-        "dek": "香港秋季旅遊博覽會在會展展覽館5BCD舉行至晚上8時，門票30元，下午3時有吉祥物巡遊。"
-      }
-    },
-    {
-      "id": "2026-09-27-san-tin-technopole-land",
-      "published_at": "2026-09-27T11:10:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "northern-metropolis",
-        "innovation",
-        "land",
-        "san-tin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-san-tin-technopole-land.json",
-      "en": {
-        "headline": "Sun Dong says market partners will speed San Tin site formation",
-        "dek": "The innovation chief said two to three hectares at San Tin Technopole could be released from late this year, ahead of the original post-2030 timetable."
-      },
-      "zh": {
-        "headline": "孫東：用市場力量提前平整新田科技城用地",
-        "dek": "創科及工業局局長稱會提早推進一級土地開發，預料年底至明年初率先釋出兩至三公頃，較原定2030年後產出為早。"
-      }
-    },
-    {
-      "id": "2026-09-27-lo-nurse-vacancies-non-local",
-      "published_at": "2026-09-27T11:09:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "hospital-authority",
-        "nurses",
-        "lo-chung-mau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-lo-nurse-vacancies-non-local.json",
-      "en": {
-        "headline": "Lo says Hospital Authority still has 3,200 nurse vacancies",
-        "dek": "The health chief again rejected claims that local graduates cannot find work, saying about 99 percent of registered-nurse applicants were hired."
-      },
-      "zh": {
-        "headline": "盧寵茂：醫管局仍有約3200個護士空缺",
-        "dek": "醫務衞生局局長再指「畢業就失業」說法不成立，註冊護士申請獲聘近99%；非本地培訓護士佔公院不足0.2%。"
-      }
-    },
-    {
-      "id": "2026-09-27-approach-beach-drowning",
-      "published_at": "2026-09-27T11:08:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tsuen-wan",
-        "rescue",
-        "police",
-        "drowning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-approach-beach-drowning.json",
-      "en": {
-        "headline": "Woman, 89, dies after morning swim at Tsuen Wan Approach Beach",
-        "dek": "Firefighters pulled the unconscious swimmer from the water off Ting Kau shortly after 5am; she was certified dead at Yan Chai Hospital."
-      },
-      "zh": {
-        "headline": "荃灣近水灣泳灘89歲婦人早泳遇溺不治",
-        "dek": "消防今早約5時18分後在汀九近水灣救起昏迷泳客，送往仁濟醫院後證實死亡，警方列遇溺調查。"
-      }
-    },
-    {
-      "id": "2026-09-27-lifestyle-hey-water-festival",
-      "published_at": "2026-09-27T09:21:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "kai-tak",
-        "dragon-boat",
-        "festival"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-lifestyle-hey-water-festival.json",
-      "en": {
-        "headline": "Kai Tak water festival and dragon boat races run through Sunday",
-        "dek": "The second HEY! Water Festival continues at Runway 1331 on the former airport strip, with a full day of racing after Saturday's opening."
-      },
-      "zh": {
-        "headline": "啟德Hey水節及龍舟賽週日續舉行",
-        "dek": "第二屆香港Hey水節連同連城龍舟賽在啟航1331進行至今日，周六已有逾800名健兒參賽。"
-      }
-    },
-    {
-      "id": "2026-09-27-fifa-asean-cup-hk-laos",
-      "published_at": "2026-09-27T09:20:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "football",
-        "kai-tak",
-        "fifa",
-        "sport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-fifa-asean-cup-hk-laos.json",
-      "en": {
-        "headline": "Hong Kong face Laos at Kai Tak in FIFA ASEAN Cup",
-        "dek": "The hosts open their Division 2 campaign at 3pm, with Cambodia versus Myanmar to follow at 6pm at Kai Tak Stadium."
-      },
-      "zh": {
-        "headline": "東盟盃港隊主場啟德迎戰老撾 下午三時開波",
-        "dek": "國際足協東盟盃分組賽周日移師啟德主場館，傍晚六時另有柬埔寨對緬甸。"
-      }
-    },
-    {
-      "id": "2026-09-27-tko-bullet-bike-youths",
-      "published_at": "2026-09-27T09:19:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "tseung-kwan-o",
-        "police",
-        "cycling",
-        "road-safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-tko-bullet-bike-youths.json",
-      "en": {
-        "headline": "Police ticket seven Tseung Kwan O youths over night bicycle offences",
-        "dek": "Tseung Kwan O officers said the summonses follow complaints about late-night 'bullet bike' riding without lights and on pavements."
-      },
-      "zh": {
-        "headline": "將軍澳警票控7名少年 涉夜間單車無燈及踩行人路",
-        "dek": "警區稱近日有區議員反映「子彈仔」深夜擾民，已向14至17歲少年發出傳票。"
-      }
-    },
-    {
-      "id": "2026-09-27-very-hot-weather-warning",
-      "published_at": "2026-09-27T09:18:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "heat",
-        "fire-danger",
-        "hko"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-27/2026-09-27-very-hot-weather-warning.json",
-      "en": {
-        "headline": "Very hot weather warning reissued as Sunday highs near 33C",
-        "dek": "The Observatory put the warning back in force at 6.45am, forecasting a fine, dry and very hot day with a yellow fire danger warning still in place."
-      },
-      "zh": {
-        "headline": "天文台再發酷熱天氣警告 市區料高見33度",
-        "dek": "警告今早6時45分重新生效，預料大致天晴、乾燥及酷熱；黃色火災危險警告仍然生效。"
       }
     }
   ]
