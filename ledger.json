@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-01T09:15:02+08:00",
+  "updated_at": "2026-10-01T11:14:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "national-day-reception-speech-oct1",
+      "id": "2026-10-01-national-day-reception-speech",
+      "first_seen": "2026-10-01T11:14:00+08:00",
+      "headline_en": "Lee ties National Day speech to Hong Kong's first five-year plan"
+    },
+    {
+      "key": "golden-week-retail-outlook-oct1",
+      "id": "2026-10-01-golden-week-retail-outlook",
+      "first_seen": "2026-10-01T11:14:00+08:00",
+      "headline_en": "Retailers see Golden Week lift, groups warn gains may be modest"
+    },
+    {
+      "key": "lifestyle-westk-picnic-fest-2026",
+      "id": "2026-10-01-lifestyle-westk-picnic-fest",
+      "first_seen": "2026-10-01T11:14:00+08:00",
+      "headline_en": "WestK Picnic Fest runs through the National Day holiday at Art Park"
+    },
+    {
+      "key": "the-wur-2027-hk-universities",
+      "id": "2026-09-30-the-world-university-rankings-2027",
+      "first_seen": "2026-09-30T09:16:00+08:00",
+      "headline_en": "Five Hong Kong universities remain in THE world top 100"
+    },
+    {
+      "key": "shui-chuen-o-yan-chuen-house-fire-sep30",
+      "id": "2026-09-30-shui-chuen-o-yan-chuen-house-fire",
+      "first_seen": "2026-09-30T09:17:00+08:00",
+      "headline_en": "Four hurt in early morning fire at Shui Chuen O Estate"
+    },
     {
       "key": "lifestyle-national-day-racing-sha-tin-2026",
       "id": "2026-10-01-lifestyle-national-day-racing",
