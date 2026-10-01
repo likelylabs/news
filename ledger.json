@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-01T15:05:44+08:00",
+  "updated_at": "2026-10-01T15:11:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-national-day-fireworks-marine-safety-2026",
+      "id": "2026-10-01-lifestyle-fireworks-marine-safety",
+      "first_seen": "2026-10-01T15:11:00+08:00",
+      "headline_en": "Marine Department tightens harbour rules for 8pm fireworks"
+    },
+    {
+      "key": "yau-ma-tei-imitation-firearm-arrest-sep30",
+      "id": "2026-10-01-yau-ma-tei-imitation-firearm-arrest",
+      "first_seen": "2026-10-01T15:10:00+08:00",
+      "headline_en": "Australian man arrested over imitation firearm in Yau Ma Tei"
+    },
+    {
+      "key": "new-world-11-skies-termination",
+      "id": "2026-10-01-new-world-11-skies-handover",
+      "first_seen": "2026-10-01T15:09:00+08:00",
+      "headline_en": "New World to hand 11 SKIES back to Airport Authority"
+    },
+    {
+      "key": "ho-man-tin-power-outage-sep30",
+      "id": "2026-10-01-ho-man-tin-power-outage",
+      "first_seen": "2026-10-01T15:08:00+08:00",
+      "headline_en": "Ho Man Tin and Mong Kok power restored after overnight outage"
+    },
     {
       "key": "yellow-work-heat-warning-oct1",
       "id": "2026-10-01-yellow-work-heat-warning",
