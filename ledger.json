@@ -1,1 +1,18 @@
-SEE_LOCAL
+{
+  "updated_at": "2026-10-01T13:18:00+08:00",
+  "retention_days": 5,
+  "covered": [
+    {"key": "yellow-work-heat-warning-oct1", "id": "2026-10-01-yellow-work-heat-warning", "first_seen": "2026-10-01T13:18:00+08:00", "headline_en": "Yellow work heat warning issued on National Day"},
+    {"key": "asian-games-women-squash-final-oct1", "id": "2026-10-01-asian-games-women-squash-final", "first_seen": "2026-10-01T13:18:00+08:00", "headline_en": "Hong Kong women reach Asian Games squash final"},
+    {"key": "lifestyle-po-pin-chau-national-day-2026", "id": "2026-10-01-lifestyle-po-pin-chau-national-day", "first_seen": "2026-10-01T13:18:00+08:00", "headline_en": "Po Pin Chau trail booked out on National Day"},
+    {"key": "national-day-reception-speech-oct1", "id": "2026-10-01-national-day-reception-speech", "first_seen": "2026-10-01T11:14:00+08:00", "headline_en": "Lee ties National Day speech to Hong Kong's first five-year plan"},
+    {"key": "golden-week-retail-outlook-oct1", "id": "2026-10-01-golden-week-retail-outlook", "first_seen": "2026-10-01T11:14:00+08:00", "headline_en": "Retailers see Golden Week lift, groups warn gains may be modest"},
+    {"key": "lifestyle-westk-picnic-fest-2026", "id": "2026-10-01-lifestyle-westk-picnic-fest", "first_seen": "2026-10-01T11:14:00+08:00", "headline_en": "WestK Picnic Fest runs through the National Day holiday at Art Park"},
+    {"key": "weekend-weather-outlook-oct1-4", "id": "2026-09-30-national-day-weekend-weather-outlook", "first_seen": "2026-09-30T23:44:00+08:00", "headline_en": "Hot National Day, then showers over the long weekend"},
+    {"key": "very-hot-fire-danger-warnings-oct1", "id": "2026-10-01-very-hot-fire-danger-warnings", "first_seen": "2026-10-01T07:22:00+08:00", "headline_en": "Very hot weather and yellow fire danger warnings in force"},
+    {"key": "lifestyle-national-day-racing-sha-tin-2026", "id": "2026-10-01-lifestyle-national-day-racing", "first_seen": "2026-10-01T09:30:00+08:00", "headline_en": "Sha Tin public stands free for National Day racing"},
+    {"key": "lifestyle-national-day-free-lcsd-cinema-2026", "id": "2026-10-01-lifestyle-national-day-free-facilities", "first_seen": "2026-10-01T07:23:00+08:00", "headline_en": "LCSD venues free and cinema tickets half-price on National Day"},
+    {"key": "golden-week-1-29m-visitors-forecast-sep30", "id": "2026-10-01-golden-week-visitor-forecast", "first_seen": "2026-10-01T09:29:00+08:00", "headline_en": "Officials expect 1.29 million Golden Week visitors"},
+    {"key": "national-day-2026-flag-raising-fireworks", "id": "2026-10-01-national-day-ceremonies-fireworks", "first_seen": "2026-10-01T03:15:00+08:00", "headline_en": "Flag-raising at 8am, harbour fireworks at 8pm for National Day"}
+  ]
+}
