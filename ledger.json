@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-02T01:14:12+08:00",
+  "updated_at": "2026-10-02T03:16:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-victoria-park-lanterns-golden-week",
+      "id": "2026-10-02-lifestyle-victoria-park-lanterns",
+      "first_seen": "2026-10-02T03:16:00+08:00",
+      "headline_en": "Victoria Park lantern show stays lit through Golden Week"
+    },
+    {
+      "key": "asian-games-omnium-sailing-medals-oct1",
+      "id": "2026-10-02-asian-games-omnium-sailing",
+      "first_seen": "2026-10-02T03:16:00+08:00",
+      "headline_en": "Chu takes omnium silver as sailors medal in Nagoya"
+    },
+    {
+      "key": "po-pin-chau-national-day-noshows-oct1",
+      "id": "2026-10-02-po-pin-chau-noshows",
+      "first_seen": "2026-10-02T03:16:00+08:00",
+      "headline_en": "More than half of Po Pin Chau bookings unused on National Day"
+    },
+    {
+      "key": "hung-hom-promenade-death-oct1",
+      "id": "2026-10-02-hung-hom-promenade-death",
+      "first_seen": "2026-10-02T03:16:00+08:00",
+      "headline_en": "Man dies after rescue off Hung Hom promenade"
+    },
     {
       "key": "thunderstorm-warning-lapse-oct2-0100",
       "id": "2026-10-02-thunderstorm-warning-lapses",
