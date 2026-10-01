@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-10-01T11:08:45+08:00",
+  "generated_at": "2026-10-01T13:15:22+08:00",
   "live_window_hours": 72,
-  "count": 104,
+  "count": 103,
   "articles": [
+    {
+      "id": "2026-10-01-asian-games-women-squash-final",
+      "published_at": "2026-10-01T13:18:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "squash",
+        "sailing",
+        "hong-kong-team"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-asian-games-women-squash-final.json",
+      "en": {
+        "headline": "Hong Kong women reach Asian Games squash final",
+        "dek": "Ho Tze-lok won the decider against India as the team advanced 2-1 in Nagoya, while sailors added silver and bronze in the 49er class on day 12."
+      },
+      "zh": {
+        "headline": "亞運女子壁球隊晉級決賽",
+        "dek": "何子樂擊敗印度對手鎖定2比1勝局，港隊周五爭金；帆船49人級同日添一銀一銅。"
+      }
+    },
+    {
+      "id": "2026-10-01-lifestyle-po-pin-chau-national-day",
+      "published_at": "2026-10-01T13:18:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "sai-kung",
+        "hiking",
+        "golden-week",
+        "afcd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-lifestyle-po-pin-chau-national-day.json",
+      "en": {
+        "headline": "Po Pin Chau trail booked out on National Day",
+        "dek": "AFCD Director Leung Kin-ming inspected the High Island booking scheme as the 2,000 daily cap filled for 1 and 2 October; the nearby Pak Lap Tsui section needs no reservation."
+      },
+      "zh": {
+        "headline": "國慶破邊洲段預約額滿 漁護署長到場視察",
+        "dek": "黃金周試行預約制，10月1及2日全日2,000個名額已滿；未預約者可改走免預約的標尖角段。"
+      }
+    },
+    {
+      "id": "2026-10-01-yellow-work-heat-warning",
+      "published_at": "2026-10-01T13:18:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "labour-department",
+        "heat",
+        "hko",
+        "national-day"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-yellow-work-heat-warning.json",
+      "en": {
+        "headline": "Yellow work heat warning issued on National Day",
+        "dek": "The Labour Department put the yellow Heat Stress at Work Warning in force at 11.30am as the Observatory kept the Very Hot Weather Warning up and temperatures reached about 35 degrees."
+      },
+      "zh": {
+        "headline": "國慶黃色工作暑熱警告生效",
+        "dek": "勞工處今日上午11時30分發出黃色工作暑熱警告，天文台酷熱天氣警告持續，部分地區中午氣溫約35度。"
+      }
+    },
     {
       "id": "2026-10-01-golden-week-retail-outlook",
       "published_at": "2026-10-01T11:14:00+08:00",
@@ -2260,95 +2327,6 @@
       "zh": {
         "headline": "中秋周末近44萬人次內地客訪港",
         "dek": "入境處周一公布，上周五至日錄得439,532人次內地旅客抵港，佔期間總入境約四分一；旅遊業界預料黃金周熱門區酒店入住率逾九成。"
-      }
-    },
-    {
-      "id": "2026-09-28-esports-honor-of-kings-bronze",
-      "published_at": "2026-09-28T13:15:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "esports",
-        "honor-of-kings",
-        "bronze"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-esports-honor-of-kings-bronze.json",
-      "en": {
-        "headline": "Hong Kong claim esports bronze in Honor of Kings at Asian Games",
-        "dek": "The SAR team lost in the semifinals to Malaysia and share third place with the Philippines under the no-bronze-match format."
-      },
-      "zh": {
-        "headline": "亞運電競王者榮耀港隊摘銅",
-        "dek": "港隊準決賽不敵馬來西亞，賽制不設銅牌戰，與菲律賓並列第三，為今屆第二面電競獎牌。"
-      }
-    },
-    {
-      "id": "2026-09-28-abby-choi-jury-dismissed",
-      "published_at": "2026-09-28T13:14:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "abby-choi",
-        "murder-trial",
-        "high-court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-abby-choi-jury-dismissed.json",
-      "en": {
-        "headline": "Jury discharged in Abby Choi murder trial after juror withdraws",
-        "dek": "Deputy Judge Brian Keith ordered a fresh panel to be selected on Wednesday after one of nine jurors cited health concerns."
-      },
-      "zh": {
-        "headline": "蔡天鳳謀殺案陪審員因健康退出 法官解散陪審團周三重選",
-        "dek": "高等法院副法官祈彥輝接納一名陪審員健康理由申請，原定今日開案陳詞押後，周三重新抽選陪審團。"
-      }
-    },
-    {
-      "id": "2026-09-28-waste-paper-local-pulping",
-      "published_at": "2026-09-28T13:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "recycling",
-        "epd",
-        "ecopark",
-        "circular-economy",
-        "waste"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-waste-paper-local-pulping.json",
-      "en": {
-        "headline": "Hong Kong to pulp all recovered waste paper locally from 1 October",
-        "dek": "The EcoPark facility in Tuen Mun will handle the city’s full volume, expanding accepted types beyond cardboard, newspapers and office paper to include mixed paper."
-      },
-      "zh": {
-        "headline": "回收廢紙10月1日起全面本地製漿",
-        "dek": "屯門環保園設施處理全港廢紙，可回收種類擴至紙袋、包裝盒及包裝紙，推動循環經濟。"
-      }
-    },
-    {
-      "id": "2026-09-28-yellow-work-heat-stress-warning",
-      "published_at": "2026-09-28T13:12:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "heat",
-        "labour-department",
-        "work-safety",
-        "warning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-yellow-work-heat-stress-warning.json",
-      "en": {
-        "headline": "Yellow work heat stress warning in force from late morning",
-        "dek": "The Labour Department issued the yellow warning at 11:20 am, advising employers to take heat precautions for outdoor and non-air-conditioned indoor work."
-      },
-      "zh": {
-        "headline": "黃色工作暑熱警告上午11時20分生效",
-        "dek": "勞工處表示部分工作環境熱壓力頗高，僱主應採取防暑措施，包括重新編排工作及提供適當休息。"
       }
     }
   ]
