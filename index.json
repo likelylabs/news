@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-01T17:11:37+08:00",
+  "generated_at": "2026-10-01T19:05:18+08:00",
   "live_window_hours": 72,
   "count": 106,
   "articles": [
+    {
+      "id": "2026-10-01-prince-edward-sedition-arrests",
+      "published_at": "2026-10-01T19:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "national-security",
+        "prince-edward"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-prince-edward-sedition-arrests.json",
+      "en": {
+        "headline": "Police arrest two over alleged sedition near Prince Edward",
+        "dek": "Authorities said a 37-year-old man and a 58-year-old woman were detained on Wednesday in a case linked to an August gathering outside the MTR station."
+      },
+      "zh": {
+        "headline": "警方拘兩人 指涉太子站外煽動意圖",
+        "dek": "警方稱周三拘捕37歲男子及58歲女子，案件與8月31日太子站外聚集有關；兩人尚未被控。"
+      }
+    },
+    {
+      "id": "2026-10-01-fireworks-road-closures-underway",
+      "published_at": "2026-10-01T19:07:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "national-day",
+        "fireworks",
+        "mtr",
+        "victoria-harbour",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-fireworks-road-closures-underway.json",
+      "en": {
+        "headline": "Harbour roads shut and MTR exits closed ahead of fireworks",
+        "dek": "Police staged closures on both sides of Victoria Harbour were in force by early evening, and the MTR shut selected Tsim Sha Tsui and West Kowloon exits."
+      },
+      "zh": {
+        "headline": "煙花前維港兩岸封路 港鐵關閉部分出口",
+        "dek": "國慶煙花晚上8時開始，警方分階段封路已生效；港鐵關閉尖沙咀、尖東及西九龍站部分出口。"
+      }
+    },
+    {
+      "id": "2026-10-01-golden-week-afternoon-crossings",
+      "published_at": "2026-10-01T19:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "golden-week",
+        "tourism",
+        "immigration",
+        "national-day"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-golden-week-afternoon-crossings.json",
+      "en": {
+        "headline": "225,000 mainland visitors in by 4pm on Golden Week day one",
+        "dek": "Immigration figures reported for Thursday afternoon put total crossings at about 601,000, with mainland arrivals already above Wednesday's full-day count."
+      },
+      "zh": {
+        "headline": "黃金周首日下午4時 逾22.5萬內地旅客入境",
+        "dek": "入境處數字顯示，截至周四下午4時全市出入境約60.1萬人次，內地旅客入境已多過周三全日。"
+      }
+    },
     {
       "id": "2026-10-01-hotstone-yoga-closure",
       "published_at": "2026-10-01T17:11:00+08:00",
@@ -2321,75 +2387,6 @@
       "zh": {
         "headline": "入境處拘四名訪客女子涉提供化妝拍攝導遊服務",
         "dek": "四名20至31歲女子以訪客身份來港，涉嫌在社交平台招徠一條龍化妝、攝影及導遊服務，被控違反逗留條件。"
-      }
-    },
-    {
-      "id": "2026-09-28-customs-slimming-injections-japan",
-      "published_at": "2026-09-28T19:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "pharmaceuticals",
-        "smuggling",
-        "japan",
-        "poisons"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-customs-slimming-injections-japan.json",
-      "en": {
-        "headline": "Customs seizes 400 suspected poisonous slimming injections from Japan",
-        "dek": "Two local residents were arrested and released on bail after officers found anti-obesity vials valued at about HK$290,000 in a postal packet at the Air Mail Centre."
-      },
-      "zh": {
-        "headline": "海關檢獲400支疑來自日本有毒減肥針劑 拘兩人",
-        "dek": "海關在空郵中心截獲懷疑含第一部毒藥的減肥注射劑，市值約29萬元，兩名本地居民被捕後獲准保釋。"
-      }
-    },
-    {
-      "id": "2026-09-28-lifestyle-hkex-40-years-exhibition",
-      "published_at": "2026-09-28T17:13:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "hkex",
-        "exhibition",
-        "central",
-        "exchange-square"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-lifestyle-hkex-40-years-exhibition.json",
-      "en": {
-        "headline": "HKEX opens photo exhibition marking 40 years at Exchange Square",
-        "dek": "The four-week free display at the Rotunda traces Hong Kong’s modern stock exchange history through rare images, footage and artefacts, opening to the public from Monday afternoon."
-      },
-      "zh": {
-        "headline": "港交所展開交易廣場40周年圖片展",
-        "dek": "為期四周的免費展覽於交易廣場圓形大廳展出珍罕照片、影像及文物，追溯香港現代證券交易所發展，周一下午起向公眾開放。"
-      }
-    },
-    {
-      "id": "2026-09-28-marine-yacht-rowers-probe",
-      "published_at": "2026-09-28T17:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "sai-kung",
-        "marine-department",
-        "rowing",
-        "yacht",
-        "high-island"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-marine-yacht-rowers-probe.json",
-      "en": {
-        "headline": "Marine Department probes yacht that sped at rowers near High Island",
-        "dek": "A rower in Saturday’s Sai Kung Coastal Challenge said a yacht accelerated towards his boat in a deliberate act; the department will investigate even without a formal report."
-      },
-      "zh": {
-        "headline": "西貢破邊洲附近遊艇高速逼近划艇 海事處主動調查",
-        "dek": "周六西貢海岸挑戰賽期間，一名划艇手指遊艇刻意加速直衝其船，海事處周一表示即使未接獲舉報亦會主動調查。"
       }
     }
   ]
