@@ -1,6 +1,7 @@
 {
   "id": "2026-10-02-thunderstorm-warning-lapses",
   "published_at": "2026-10-02T01:10:00+08:00",
+  "updated_at": "2026-10-02T01:15:00+08:00",
   "category": "weather",
   "tags": ["weather", "thunderstorm", "observatory"],
   "breaking": false,
@@ -13,7 +14,8 @@
       "The Hong Kong Observatory's thunderstorm warning is no longer in force in the early hours of Friday. The warning was issued at 9:30pm on Thursday and extended at 11pm until 1am on Friday, covering isolated squally thunderstorms over the eastern New Territories and the eastern waters of Hong Kong.",
       "The Observatory's warning page early on Friday still listed the yellow fire danger warning, in force since 6am on Thursday with the fire risk rated high, and the Very Hot Weather Warning, in force since 11:15am on 28 September. No rainstorm signal or tropical cyclone signal was shown.",
       "In its nine-day forecast, the Observatory said a northeast monsoon would affect southern China on Friday and Saturday, bringing cloudier weather with showers and thunderstorms. Friday was forecast to be mainly cloudy with a few showers and thunderstorms, heavier in some areas, with east to northeast winds of force 3 and temperatures of 27 to 31 degrees Celsius.",
-      "The Observatory advises people outdoors in a thunderstorm to seek shelter, leave the water, and stay away from high ground, conductive objects, trees and masts. It also reminds the public that elderly people, pregnant women, infants, children and those with chronic illness are more vulnerable in the heat that remains."
+      "The Observatory advises people outdoors in a thunderstorm to seek shelter, leave the water, and stay away from high ground, conductive objects, trees and masts. It also reminds the public that elderly people, pregnant women, infants, children and those with chronic illness are more vulnerable in the heat that remains.",
+      "Correction: an earlier version of the Chinese text used an incorrect character for showers."
     ]
   },
   "zh": {
@@ -22,8 +24,9 @@
     "body": [
       "香港天文台的雷暴警告在星期五凌晨已不再生效。警告於星期四晚上九時三十分發出，晚上十一時延長至星期五凌晨一時，當時預料新界東部及香港東部水域有局部狂風雷暴。",
       "星期五凌晨，天文台警告頁仍列明黃色火災危險警告生效，自星期四早上六時起火險高；酷熱天氣警告則自九月二十八日上午十一時十五分起生效。頁面未見暴雨警告或熱帶氣旋信號。",
-      "天文台九天天氣預報指，東北季候風今明兩日影響華南，雲量較多，有駆雨及雷暴。星期五大致多雲，有幾陣駆雨及雷暴，部分地區雨勢較大，吹東至東北風三級，氣溫約27至31度。",
-      "天文台提醒，雷暴時身處室外應到安全地方躲避、離開水面，並勿站立高地或接近導電物體、樹木及桅杆。酷熱天氣仍然生效，長者、孕婦、嬰幼兒及長期病患者要特別留意中暑不適。"
+      "天文台九天天氣預報指，東北季候風今明兩日影響華南，雲量較多，有驟雨及雷暴。星期五大致多雲，有幾陣驟雨及雷暴，部分地區雨勢較大，吹東至東北風三級，氣溫約27至31度。",
+      "天文台提醒，雷暴時身處室外應到安全地方躲避、離開水面，並勿站立高地或接近導電物體、樹木及桅杆。酷熱天氣仍然生效，長者、孕婦、嬰幼兒及長期病患者要特別留意中暑不適。",
+      "更正：較早版本中文誤植「驟雨」一字。"
     ]
   }
 }

@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-02T01:12:16+08:00",
+  "updated_at": "2026-10-02T01:15:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "thunderstorm-warning-lapse-oct2-0100",
+      "id": "2026-10-02-thunderstorm-warning-lapses",
+      "first_seen": "2026-10-02T01:10:00+08:00",
+      "headline_en": "Thunderstorm warning lapses after overnight extension"
+    },
+    {
+      "key": "golden-week-oct1-evening-crossings",
+      "id": "2026-10-02-golden-week-day-one-tally",
+      "first_seen": "2026-10-02T01:10:00+08:00",
+      "headline_en": "Nearly 270,000 mainland visitors entered by 9pm on day one"
+    },
+    {
+      "key": "lifestyle-ciao-gelato-fest-pmq-2026",
+      "id": "2026-10-02-lifestyle-pmq-gelato-fest",
+      "first_seen": "2026-10-02T01:10:00+08:00",
+      "headline_en": "Italian gelato market runs at PMQ through the holiday weekend"
+    },
     {
       "key": "thunderstorm-warning-eastern-nt-oct1-2130",
       "id": "2026-10-01-thunderstorm-warning-eastern-nt",
