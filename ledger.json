@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-01T09:14:00+08:00",
+  "updated_at": "2026-10-01T09:30:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-national-day-racing-sha-tin-2026",
+      "id": "2026-10-01-lifestyle-national-day-racing",
+      "first_seen": "2026-10-01T09:30:00+08:00",
+      "headline_en": "Sha Tin public stands free for National Day racing"
+    },
+    {
+      "key": "golden-week-1-29m-visitors-forecast-sep30",
+      "id": "2026-10-01-golden-week-visitor-forecast",
+      "first_seen": "2026-10-01T09:29:00+08:00",
+      "headline_en": "Officials expect 1.29 million Golden Week visitors"
+    },
+    {
+      "key": "polyu-jc-safemove-fall-programme-sep30",
+      "id": "2026-10-01-polyu-safemove-fall-programme",
+      "first_seen": "2026-10-01T09:28:00+08:00",
+      "headline_en": "PolyU programme to train 17,000 seniors on safer falls"
+    },
+    {
+      "key": "st-josephs-primary-rebuild-approval-sep30",
+      "id": "2026-10-01-st-josephs-primary-rebuild",
+      "first_seen": "2026-10-01T09:27:00+08:00",
+      "headline_en": "St Joseph's Primary rebuild clears internal government checks"
+    },
+    {
+      "key": "rat-hev-fourth-case-sep30",
+      "id": "2026-10-01-rat-hev-fourth-case",
+      "first_seen": "2026-10-01T09:26:00+08:00",
+      "headline_en": "Fourth rat hepatitis E case linked to Kowloon City home"
+    },
     {
       "key": "lifestyle-national-day-free-lcsd-cinema-2026",
       "id": "2026-10-01-lifestyle-national-day-free-facilities",
