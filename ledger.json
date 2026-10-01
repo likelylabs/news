@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-02T03:18:05+08:00",
+  "updated_at": "2026-10-02T07:22:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "thunderstorm-warning-nt-oct2-0610",
+      "id": "2026-10-02-thunderstorm-warning-nt-morning",
+      "first_seen": "2026-10-02T07:22:00+08:00",
+      "headline_en": "Observatory issues morning thunderstorm warning for New Territories"
+    },
+    {
+      "key": "dangerous-drugs-schedule-order-oct2",
+      "id": "2026-10-02-dangerous-drugs-schedule-order",
+      "first_seen": "2026-10-02T07:22:00+08:00",
+      "headline_en": "Three substances to be listed under Dangerous Drugs Ordinance"
+    },
+    {
+      "key": "lifestyle-blue-lotus-city-of-lights-neon",
+      "id": "2026-10-02-lifestyle-blue-lotus-neon",
+      "first_seen": "2026-10-02T07:22:00+08:00",
+      "headline_en": "Neon archive show at Blue Lotus closes on Sunday"
+    },
     {
       "key": "lifestyle-victoria-park-lanterns-golden-week",
       "id": "2026-10-02-lifestyle-victoria-park-lanterns",
