@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-01T17:11:37+08:00",
+  "updated_at": "2026-10-01T19:08:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "prince-edward-sedition-arrests-sep30",
+      "id": "2026-10-01-prince-edward-sedition-arrests",
+      "first_seen": "2026-10-01T19:08:00+08:00",
+      "headline_en": "Police arrest two over alleged sedition near Prince Edward"
+    },
+    {
+      "key": "national-day-fireworks-road-closures-oct1",
+      "id": "2026-10-01-fireworks-road-closures-underway",
+      "first_seen": "2026-10-01T19:07:00+08:00",
+      "headline_en": "Harbour roads shut and MTR exits closed ahead of fireworks"
+    },
+    {
+      "key": "golden-week-oct1-afternoon-crossings",
+      "id": "2026-10-01-golden-week-afternoon-crossings",
+      "first_seen": "2026-10-01T19:06:00+08:00",
+      "headline_en": "225,000 mainland visitors in by 4pm on Golden Week day one"
+    },
     {
       "key": "hotstone-yoga-closure-oct1",
       "id": "2026-10-01-hotstone-yoga-closure",
