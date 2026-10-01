@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-10-01T23:16:31+08:00",
+  "generated_at": "2026-10-02T01:12:16+08:00",
   "live_window_hours": 72,
-  "count": 106,
+  "count": 105,
   "articles": [
+    {
+      "id": "2026-10-02-golden-week-day-one-tally",
+      "published_at": "2026-10-02T01:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "golden-week",
+        "immigration",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-golden-week-day-one-tally.json",
+      "en": {
+        "headline": "Nearly 270,000 mainland visitors entered by 9pm on day one",
+        "dek": "Immigration officers recorded more than 897,000 cross-boundary movements by 9pm on Thursday, with most mainland arrivals using Lok Ma Chau Spur Line."
+      },
+      "zh": {
+        "headline": "黃金周首日晚上九時近27萬內地旅客入境",
+        "dek": "入境處表示，截至星期四晚上九時，各管制站錄得逾89.7萬人次出入境，內地旅客入境近27萬，以落馬洲支線最多。"
+      }
+    },
+    {
+      "id": "2026-10-02-lifestyle-pmq-gelato-fest",
+      "published_at": "2026-10-02T01:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "central"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-lifestyle-pmq-gelato-fest.json",
+      "en": {
+        "headline": "Italian gelato market runs at PMQ through the holiday weekend",
+        "dek": "Ciao! Gelato Fest is at PMQ in Central from 1 to 4 October, with a second weekend listed for 9 to 11 October and free entry."
+      },
+      "zh": {
+        "headline": "意式雪糕市集假期在中環元創方舉行",
+        "dek": "「Ciao! Gelato Fest」十月一日至四日在中環元創方舉行，主辦方另列十月九日至十一日為第二個週末，入場免費。"
+      }
+    },
+    {
+      "id": "2026-10-02-thunderstorm-warning-lapses",
+      "published_at": "2026-10-02T01:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "thunderstorm",
+        "observatory"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-thunderstorm-warning-lapses.json",
+      "en": {
+        "headline": "Thunderstorm warning lapses after overnight extension",
+        "dek": "The Observatory's thunderstorm warning, extended until 1am, is no longer in force, while the very hot weather and yellow fire danger warnings remain."
+      },
+      "zh": {
+        "headline": "雷暴警告延長至凌晨一時後不再生效",
+        "dek": "天文台昨晚把雷暴警告延長至凌晨一時，現時已不再列為生效；酷熱天氣警告及黃色火災危險警告仍然有效。"
+      }
+    },
     {
       "id": "2026-10-01-national-day-fireworks-crowd",
       "published_at": "2026-10-01T23:16:00+08:00",
@@ -2291,98 +2354,6 @@
       "zh": {
         "headline": "沉浸式太空展「飛奔到月球」10月2日起於K11 MUSEA開幕",
         "dek": "展覽帶領觀眾踏上38萬公里月球之旅，結合全景投影、月球居住艙設計及維港海旁戶外裝置，啟發對未來生活的想像。"
-      }
-    },
-    {
-      "id": "2026-09-29-td-av-commercial-applications",
-      "published_at": "2026-09-29T01:05:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "autonomous-vehicles",
-        "transport-department",
-        "policy-address",
-        "airport",
-        "mtr"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-29/2026-09-29-td-av-commercial-applications.json",
-      "en": {
-        "headline": "Transport Department to accept autonomous vehicle commercial applications this year",
-        "dek": "Commissioner Winnie Tse said the department will open applications for individual AV projects after successful driverless trials at the airport and Hong Kong-Zhuhai-Macao Bridge port."
-      },
-      "zh": {
-        "headline": "運輸署今年內接受自動車商業化營運申請",
-        "dek": "署長謝詠誼表示，機場島及港珠澳大橋香港口岸無人駕駛測試成功後，署方將開始接受個別項目的商業化申請。"
-      }
-    },
-    {
-      "id": "2026-09-28-golden-week-passenger-trips",
-      "published_at": "2026-09-28T23:22:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "immigration",
-        "golden-week",
-        "national-day",
-        "boundary-control",
-        "tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-golden-week-passenger-trips.json",
-      "en": {
-        "headline": "Checkpoints expected to handle 7.44 million trips over Golden Week",
-        "dek": "Immigration Department forecasts peak outbound land traffic on 3 October and peak inbound on 4 October, with Lo Wu, Lok Ma Chau Spur Line and Shenzhen Bay busiest."
-      },
-      "zh": {
-        "headline": "國慶黃金周料744萬人次進出香港",
-        "dek": "入境處預計陸路出境高峰為10月3日、入境高峰為10月4日，羅湖、落馬洲支線及深圳灣最繁忙。"
-      }
-    },
-    {
-      "id": "2026-09-28-jacky-chu-honours-funeral",
-      "published_at": "2026-09-28T23:21:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "funeral",
-        "gallant-garden",
-        "honours",
-        "jacky-chu"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-jacky-chu-honours-funeral.json",
-      "en": {
-        "headline": "Police to hold highest-honour funeral for PC Jacky Chu on 22 October",
-        "dek": "The officer, who was left paralysed after a 2005 knife attack while on duty, will be buried at Gallant Garden the following day."
-      },
-      "zh": {
-        "headline": "警方10月22日為警員朱振國舉行最高榮譽葬禮",
-        "dek": "2005年執勤遇襲癱瘓21年的警員朱振國，將於翌日安葬浩園。"
-      }
-    },
-    {
-      "id": "2026-09-28-kai-tak-hospital-phased-opening",
-      "published_at": "2026-09-28T23:20:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "kai-tak-hospital",
-        "hospital-authority",
-        "queen-elizabeth-hospital",
-        "outpatient",
-        "oncology"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-kai-tak-hospital-phased-opening.json",
-      "en": {
-        "headline": "Kai Tak Hospital begins phased opening from 5 October",
-        "dek": "The Family Medicine Integrated Centre will open first, with specialist outpatient and oncology services transferring from Queen Elizabeth Hospital in stages."
-      },
-      "zh": {
-        "headline": "啟德醫院10月5日起分階段投入服務",
-        "dek": "家庭醫學綜合中心率先開診，專科門診及腫瘤科服務將由伊利沙伯醫院分批轉移。"
       }
     }
   ]
