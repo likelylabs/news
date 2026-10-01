@@ -1,8 +1,120 @@
 {
-  "generated_at": "2026-10-01T08:00:50+08:00",
+  "generated_at": "2026-10-01T09:14:00+08:00",
   "live_window_hours": 72,
-  "count": 102,
+  "count": 104,
   "articles": [
+    {
+      "id": "2026-10-01-lifestyle-national-day-racing",
+      "published_at": "2026-10-01T09:30:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "lifestyle",
+        "national-day",
+        "sha-tin",
+        "racing",
+        "hkjc"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-lifestyle-national-day-racing.json",
+      "en": {
+        "headline": "Sha Tin public stands free for National Day racing",
+        "dek": "The Jockey Club opens Sha Tin at 11am, with the first race at 1pm and a Grade Three National Day Cup over 1,000 metres; Happy Valley public stands are also free for people aged 18 or above."
+      },
+      "zh": {
+        "headline": "國慶賽馬日沙田公眾席免費開放",
+        "dek": "馬會今日在沙田舉行國慶賽馬日，上午11時開放，首場下午1時開跑，焦點為總獎金420萬元的三級賽國慶盈；年滿18歲人士可免費進入沙田及跑馬地公眾席。"
+      }
+    },
+    {
+      "id": "2026-10-01-golden-week-visitor-forecast",
+      "published_at": "2026-10-01T09:29:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "tourism",
+        "golden-week",
+        "national-day",
+        "retail"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-golden-week-visitor-forecast.json",
+      "en": {
+        "headline": "Officials expect 1.29 million Golden Week visitors",
+        "dek": "Secretary for Culture, Sports and Tourism Rosanna Law said mainland arrivals over the National Day holiday are forecast to rise 5 per cent, after Mid-Autumn visitor numbers increased by more than 20 per cent."
+      },
+      "zh": {
+        "headline": "文體旅局料黃金周內地客129萬人次",
+        "dek": "局長羅淑佩表示，國慶黃金周訪港內地旅客預計達129萬人次，按年升約5%；中秋訪港人次已升兩成或以上，酒店入住率料達九成或以上。"
+      }
+    },
+    {
+      "id": "2026-10-01-polyu-safemove-fall-programme",
+      "published_at": "2026-10-01T09:28:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "elderly",
+        "polyu",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-polyu-safemove-fall-programme.json",
+      "en": {
+        "headline": "PolyU programme to train 17,000 seniors on safer falls",
+        "dek": "A 45-month Jockey Club-funded project launched on Wednesday will combine bone-density checks, an AI risk score and judo-based landing drills for people aged 60 or above."
+      },
+      "zh": {
+        "headline": "理大推防跌計劃 料惠及1.7萬名長者",
+        "dek": "賽馬會資助的45個月計劃周三啟動，結合骨質密度檢測、人工智能跌倒評估及柔道安全着地訓練，對象為60歲或以上社區長者。"
+      }
+    },
+    {
+      "id": "2026-10-01-st-josephs-primary-rebuild",
+      "published_at": "2026-10-01T09:27:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "wan-chai",
+        "schools",
+        "construction"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-st-josephs-primary-rebuild.json",
+      "en": {
+        "headline": "St Joseph's Primary rebuild clears internal government checks",
+        "dek": "Principal Lam Mei-kei told parents the Wan Chai school's long-planned in-situ project has passed internal approval and can now move toward detailed design, tendering and a funding bid to the Legislative Council."
+      },
+      "zh": {
+        "headline": "聖若瑟小學原址重建通過內部審批",
+        "dek": "校長林美琪向家長發信，指灣仔活道校舍重建已獲政府內部審批，下一步將定稿設計、招標及向立法會申請撥款，若順利可望明年底動工。"
+      }
+    },
+    {
+      "id": "2026-10-01-rat-hev-fourth-case",
+      "published_at": "2026-10-01T09:26:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "chp",
+        "fehd",
+        "homantin",
+        "rodents"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-rat-hev-fourth-case.json",
+      "en": {
+        "headline": "Fourth rat hepatitis E case linked to Kowloon City home",
+        "dek": "An 80-year-old woman living in the same Kowloon City care home as a 91-year-old man confirmed last week tested positive and remains without symptoms, the Centre for Health Protection said."
+      },
+      "zh": {
+        "headline": "大鼠戊肝再多一宗 與九龍城院舍個案有關連",
+        "dek": "衞生防護中心公布，與上周確診的91歲男子同住九龍城安老院的80歲女家屬驗出大鼠戊型肝炎，沒有病徵，情況穩定，屬今年第四宗。"
+      }
+    },
     {
       "id": "2026-10-01-lifestyle-national-day-free-facilities",
       "published_at": "2026-10-01T07:23:00+08:00",
@@ -2241,73 +2353,6 @@
       "zh": {
         "headline": "粉嶺公路小巴撼工程車 18人輕傷 往九龍方向一度全線封閉",
         "dek": "今早近九時上水彩園邨對開發生車禍，專線小巴司機一度被困，運輸署封閉粉嶺公路往九龍方向近彩園邨全線。"
-      }
-    },
-    {
-      "id": "2026-09-28-lifestyle-marrow-popup-final-days",
-      "published_at": "2026-09-28T08:40:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "wan-chai",
-        "pop-up"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-lifestyle-marrow-popup-final-days.json",
-      "en": {
-        "headline": "Wan Chai grill pop-up Marrow ends its run on Wednesday",
-        "dek": "Chef Chris Ma’s meat-led pop-up at Lee Tung Avenue serves its last dinners on 30 September before the site returns to its usual occupant."
-      },
-      "zh": {
-        "headline": "灣仔利東街扒房快閃店Marrow周三結束",
-        "dek": "主廚馬桂煄的肉類主題快閃店Marrow將於9月30日在利東街供應最後一晚晚餐。"
-      }
-    },
-    {
-      "id": "2026-09-28-lifestyle-wong-tai-sin-lanterns",
-      "published_at": "2026-09-28T08:39:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "lanterns",
-        "wong-tai-sin",
-        "temple"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-lifestyle-wong-tai-sin-lanterns.json",
-      "en": {
-        "headline": "Wong Tai Sin Temple lanterns stay lit through 4 October",
-        "dek": "Sik Sik Yuen is keeping Mid-Autumn lanterns and late opening at Wong Tai Sin Temple through the National Day holiday week, with free admission."
-      },
-      "zh": {
-        "headline": "黃大仙祠中秋綵燈展至10月4日",
-        "dek": "嗤色園黃大仙祠中秋綵燈及夜間延長開放安排持續至10月4日，國慶假期期間仍可免費入場。"
-      }
-    },
-    {
-      "id": "2026-09-28-pboc-rmb-bills-issue",
-      "published_at": "2026-09-28T08:38:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hkma",
-        "pboc",
-        "rmb",
-        "bonds"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-pboc-rmb-bills-issue.json",
-      "en": {
-        "headline": "PBOC issues RMB 60 billion of six-month bills in Hong Kong",
-        "dek": "The People's Bank of China dated a new batch of central bank bills for Monday after a tender last week that drew more than twice the amount on offer."
-      },
-      "zh": {
-        "headline": "人民銀行在港發行600億元人民幣半年期票據",
-        "dek": "中國人民銀行一筆600億元人民幣半年期央行票據今日在港發行，上周招標超額認購逾一倍。"
       }
     }
   ]
