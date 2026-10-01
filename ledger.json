@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-01T21:04:21+08:00",
+  "updated_at": "2026-10-01T23:16:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "thunderstorm-warning-eastern-nt-oct1-2130",
+      "id": "2026-10-01-thunderstorm-warning-eastern-nt",
+      "first_seen": "2026-10-01T23:16:00+08:00",
+      "headline_en": "Observatory issues thunderstorm warning for eastern New Territories"
+    },
+    {
+      "key": "national-day-fireworks-380k-crowd-oct1",
+      "id": "2026-10-01-national-day-fireworks-crowd",
+      "first_seen": "2026-10-01T23:16:00+08:00",
+      "headline_en": "Police say about 380,000 watched National Day fireworks"
+    },
     {
       "key": "evening-showers-monsoon-outlook-oct1",
       "id": "2026-10-01-evening-showers-outlook",
