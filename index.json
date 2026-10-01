@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-10-02T03:18:05+08:00",
+  "generated_at": "2026-10-02T07:04:51+08:00",
   "live_window_hours": 72,
-  "count": 108,
+  "count": 111,
   "articles": [
+    {
+      "id": "2026-10-02-dangerous-drugs-schedule-order",
+      "published_at": "2026-10-02T07:22:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "security",
+        "legislation",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-dangerous-drugs-schedule-order.json",
+      "en": {
+        "headline": "Three substances to be listed under Dangerous Drugs Ordinance",
+        "dek": "The Security Bureau said the amending order would be gazetted on Friday, tabled in LegCo on 7 October and take effect on 27 November."
+      },
+      "zh": {
+        "headline": "三款物質納入危險藥物條例 周五刊憲",
+        "dek": "保安局表示修訂令周五刊登憲報，十月七日提交立法會先訂立後審議，預計十一月二十七日生效。"
+      }
+    },
+    {
+      "id": "2026-10-02-lifestyle-blue-lotus-neon",
+      "published_at": "2026-10-02T07:22:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "sheung-wan",
+        "heritage"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-lifestyle-blue-lotus-neon.json",
+      "en": {
+        "headline": "Neon archive show at Blue Lotus closes on Sunday",
+        "dek": "Keith Macgregor's City of Lights runs at the Sheung Wan gallery through 4 October, documenting Hong Kong neon from the 1990s and 2000s."
+      },
+      "zh": {
+        "headline": "上環藍蓮畫廊霓虹攝影展周日結束",
+        "dek": "攝影師Keith Macgregor的City of Lights在太平山街磅巷展至十月四日，記錄九十及二千年代香港霓虹。"
+      }
+    },
+    {
+      "id": "2026-10-02-thunderstorm-warning-nt-morning",
+      "published_at": "2026-10-02T07:22:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "thunderstorm",
+        "observatory",
+        "new-territories"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-thunderstorm-warning-nt-morning.json",
+      "en": {
+        "headline": "Observatory issues morning thunderstorm warning for New Territories",
+        "dek": "The Hong Kong Observatory issued the warning at 6:10am, valid until 8:30am, for isolated storms over the New Territories."
+      },
+      "zh": {
+        "headline": "天文台早上發出雷暴警告 新界局部有雷暴",
+        "dek": "天文台上午6時10分發出雷暴警告，有效至上午8時30分，預料新界有局部地區雷暴。"
+      }
+    },
     {
       "id": "2026-10-02-asian-games-omnium-sailing",
       "published_at": "2026-10-02T03:16:00+08:00",
