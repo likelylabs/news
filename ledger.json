@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T15:07:12+08:00",
+  "updated_at": "2026-10-01T15:20:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -61,6 +61,42 @@
       "id": "2026-10-01-lifestyle-westk-picnic-fest",
       "first_seen": "2026-10-01T11:14:00+08:00",
       "headline_en": "WestK Picnic Fest runs through the National Day holiday at Art Park"
+    },
+    {
+      "key": "asean-cup-hk-brunei-final-oct3",
+      "id": "2026-10-01-asean-cup-brunei-final",
+      "first_seen": "2026-10-01T07:21:00+08:00",
+      "headline_en": "Hong Kong beat Brunei 2-0 to reach ASEAN Cup final"
+    },
+    {
+      "key": "yau-ma-tei-imitation-pistol-arrest-sep30",
+      "id": "2026-10-01-yau-ma-tei-imitation-pistol",
+      "first_seen": "2026-10-01T07:20:00+08:00",
+      "headline_en": "Australian man arrested over imitation pistol in Yau Ma Tei"
+    },
+    {
+      "key": "tsing-yi-north-coastal-road-nails-sep30",
+      "id": "2026-10-01-tsing-yi-north-coastal-nails",
+      "first_seen": "2026-10-01T07:19:00+08:00",
+      "headline_en": "Twelve cars punctured by nails on Tsing Yi North Coastal Road"
+    },
+    {
+      "key": "homantin-waterloo-road-power-outage-oct1",
+      "id": "2026-10-01-homantin-waterloo-power-outage",
+      "first_seen": "2026-10-01T07:18:00+08:00",
+      "headline_en": "CLP fault cuts power to about 1,000 Ho Man Tin customers"
+    },
+    {
+      "key": "lifestyle-mcdonalds-10000-voucher-giveaway-sep26",
+      "id": "2026-10-01-lifestyle-mcdonalds-voucher-giveaway",
+      "first_seen": "2026-10-01T03:16:00+08:00",
+      "headline_en": "Visitor spends HK$10,000 McDonald's prize treating strangers"
+    },
+    {
+      "key": "ching-cheung-road-taxi-faint-sep28",
+      "id": "2026-10-01-ching-cheung-road-taxi-faint",
+      "first_seen": "2026-10-01T03:14:00+08:00",
+      "headline_en": "Passengers steer taxi after driver faints on Ching Cheung Road"
     },
     {
       "key": "weekend-weather-outlook-oct1-4",
