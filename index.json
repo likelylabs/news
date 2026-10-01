@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-10-01T09:15:02+08:00",
+  "generated_at": "2026-10-01T11:08:45+08:00",
   "live_window_hours": 72,
   "count": 104,
   "articles": [
+    {
+      "id": "2026-10-01-golden-week-retail-outlook",
+      "published_at": "2026-10-01T11:14:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "golden-week",
+        "retail",
+        "tourism",
+        "national-day"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-golden-week-retail-outlook.json",
+      "en": {
+        "headline": "Retailers see Golden Week lift, groups warn gains may be modest",
+        "dek": "Some shops forecast double-digit growth as 1.29 million mainland visitors are expected, but an economist said receipts may not rise in line with arrivals."
+      },
+      "zh": {
+        "headline": "黃金周有商戶料銷售雙位數增長 團體提醒升幅或有限",
+        "dek": "官方估計十一黃金周約129萬內地旅客來港，有商戶看好銷售，但經濟學家指零售額升幅未必與人流同步。"
+      }
+    },
+    {
+      "id": "2026-10-01-lifestyle-westk-picnic-fest",
+      "published_at": "2026-10-01T11:14:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "west-kowloon",
+        "national-day",
+        "art-park"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-lifestyle-westk-picnic-fest.json",
+      "en": {
+        "headline": "WestK Picnic Fest runs through the National Day holiday at Art Park",
+        "dek": "The harbourfront lawn programme continues today with a shorter market and workshops, and picnic-kit rental from late morning."
+      },
+      "zh": {
+        "headline": "西九野餐節國慶假期續辦 藝術公園海濱東草坪",
+        "dek": "西九文化區在藝術公園海濱東草坪辦野餐節，今日市集和工作坊時間較短，野餐用品上午已可租借。"
+      }
+    },
+    {
+      "id": "2026-10-01-national-day-reception-speech",
+      "published_at": "2026-10-01T11:14:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "national-day",
+        "government",
+        "five-year-plan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-national-day-reception-speech.json",
+      "en": {
+        "headline": "Lee ties National Day speech to Hong Kong's first five-year plan",
+        "dek": "At the Convention Centre reception, the Chief Executive called the plan a roadmap under one country, two systems, while astronaut Lai Ka-ying sent a video greeting from Tiangong."
+      },
+      "zh": {
+        "headline": "國慶酒會李家超談首份五年規劃 黎家盈太空送祝辭",
+        "dek": "特首在會展國慶酒會稱，五年規劃是在一國兩制下的策略路線圖；神舟二十三號載荷專家黎家盈亦從天宮錄影致賀。"
+      }
+    },
     {
       "id": "2026-10-01-lifestyle-national-day-racing",
       "published_at": "2026-10-01T09:30:00+08:00",
@@ -2284,75 +2349,6 @@
       "zh": {
         "headline": "黃色工作暑熱警告上午11時20分生效",
         "dek": "勞工處表示部分工作環境熱壓力頗高，僱主應採取防暑措施，包括重新編排工作及提供適當休息。"
-      }
-    },
-    {
-      "id": "2026-09-28-po-pin-chau-no-shows",
-      "published_at": "2026-09-28T09:50:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "sai-kung",
-        "hiking",
-        "po-pin-chau",
-        "afcd",
-        "tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-po-pin-chau-no-shows.json",
-      "en": {
-        "headline": "Half of Po Pin Chau Mid-Autumn bookings did not show, AFCD says",
-        "dek": "An average of 2,360 people reserved the Sai Kung trail each day from 25 to 27 September, but only about 1,170 arrived. A lawmaker urged fees or deposits."
-      },
-      "zh": {
-        "headline": "破邊洲中秋周末近半預約未到訪 方國珊倡收費或按金",
-        "dek": "漁護署指9月25至27日日均2360人預約、實際到訪約1170人；議員建議開放候補名額並考慮收費。"
-      }
-    },
-    {
-      "id": "2026-09-28-tic-golden-week-outlook",
-      "published_at": "2026-09-28T09:49:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "tourism",
-        "golden-week",
-        "mid-autumn",
-        "hotels",
-        "mainland-visitors"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-tic-golden-week-outlook.json",
-      "en": {
-        "headline": "Travel council says Mid-Autumn visitor numbers encouraging ahead of Golden Week",
-        "dek": "TIC chairman Tam Kwong-shun said hotels for 1 to 3 October are nearly full and more than half of National Day visitors are expected to stay overnight."
-      },
-      "zh": {
-        "headline": "旅議會：中秋訪港內地客令人鼓舞 國慶酒店近滿",
-        "dek": "主席譚光舜表示，10月1至3日酒店已接近預訂爆滿，估計黃金周過夜旅客佔五成多。"
-      }
-    },
-    {
-      "id": "2026-09-28-fanling-highway-minibus-crash",
-      "published_at": "2026-09-28T09:48:00+08:00",
-      "updated_at": "2026-09-28T11:18:00+08:00",
-      "category": "transport",
-      "tags": [
-        "transport",
-        "sheung-shui",
-        "minibus",
-        "police",
-        "fanling"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-fanling-highway-minibus-crash.json",
-      "en": {
-        "headline": "Eighteen lightly hurt after minibus hits works vehicle on Fanling Highway",
-        "dek": "The Transport Department closed Kowloon-bound lanes near Choi Yuen Estate after a morning collision; the minibus driver was trapped and later freed."
-      },
-      "zh": {
-        "headline": "粉嶺公路小巴撼工程車 18人輕傷 往九龍方向一度全線封閉",
-        "dek": "今早近九時上水彩園邨對開發生車禍，專線小巴司機一度被困，運輸署封閉粉嶺公路往九龍方向近彩園邨全線。"
       }
     }
   ]
