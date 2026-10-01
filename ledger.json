@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-01T19:05:18+08:00",
+  "updated_at": "2026-10-01T21:08:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "evening-showers-monsoon-outlook-oct1",
+      "id": "2026-10-01-evening-showers-outlook",
+      "first_seen": "2026-10-01T21:08:00+08:00",
+      "headline_en": "Observatory expects showers as monsoon nears after hot day"
+    },
+    {
+      "key": "national-day-fireworks-display-held-oct1",
+      "id": "2026-10-01-national-day-fireworks-held",
+      "first_seen": "2026-10-01T21:07:00+08:00",
+      "headline_en": "National Day fireworks display held over Victoria Harbour"
+    },
+    {
+      "key": "hotstone-yoga-customs-complaints-oct1",
+      "id": "2026-10-01-hotstone-yoga-customs-probe",
+      "first_seen": "2026-10-01T21:06:00+08:00",
+      "headline_en": "Customs probe Hotstone Yoga closure as complaints hit 27"
+    },
     {
       "key": "prince-edward-sedition-arrests-sep30",
       "id": "2026-10-01-prince-edward-sedition-arrests",
