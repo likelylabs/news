@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-10-01T19:05:18+08:00",
+  "generated_at": "2026-10-01T21:04:21+08:00",
   "live_window_hours": 72,
-  "count": 106,
+  "count": 107,
   "articles": [
+    {
+      "id": "2026-10-01-evening-showers-outlook",
+      "published_at": "2026-10-01T21:08:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "heat",
+        "national-day"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-evening-showers-outlook.json",
+      "en": {
+        "headline": "Observatory expects showers as monsoon nears after hot day",
+        "dek": "The 6.30pm bulletin said temperatures topped 34 degrees in many places, with showers and thunderstorms overnight and a high of about 31 on Friday."
+      },
+      "zh": {
+        "headline": "天文台料今晚有驟雨 東北季候風明日起影響",
+        "dek": "晚上6時30分報告指多處下午高見34度，今晚及明日有驟雨及雷暴，明日氣溫約27至31度。"
+      }
+    },
+    {
+      "id": "2026-10-01-national-day-fireworks-held",
+      "published_at": "2026-10-01T21:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "national-day",
+        "fireworks",
+        "victoria-harbour",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-national-day-fireworks-held.json",
+      "en": {
+        "headline": "National Day fireworks display held over Victoria Harbour",
+        "dek": "The 23-minute show began at 8pm with 31,888 shells, as police had expected about 260,000 people on both sides of the harbour."
+      },
+      "zh": {
+        "headline": "國慶煙花匯演維港上演 歷時約23分鐘",
+        "dek": "煙花晚上8時開始，發放31,888枚煙花；警方預計約26萬人在兩岸觀賞。"
+      }
+    },
+    {
+      "id": "2026-10-01-hotstone-yoga-customs-probe",
+      "published_at": "2026-10-01T21:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "retail",
+        "consumer",
+        "closure",
+        "customs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-01/2026-10-01-hotstone-yoga-customs-probe.json",
+      "en": {
+        "headline": "Customs probe Hotstone Yoga closure as complaints hit 27",
+        "dek": "The Consumer Council said it had taken 27 complaints worth HK$429,326 by 5pm, while Customs posted an investigation notice at the Jordan studio."
+      },
+      "zh": {
+        "headline": "海關調查Hotstone Yoga結業 消委會接27宗投訴",
+        "dek": "消委會表示截至下午5時接27宗投訴，涉款429,326元；海關在佐敦分店外張貼調查告示。"
+      }
+    },
     {
       "id": "2026-10-01-prince-edward-sedition-arrests",
       "published_at": "2026-10-01T19:08:00+08:00",
@@ -2341,52 +2406,6 @@
       "zh": {
         "headline": "屯門兆康路渠務設施發現男子遺體",
         "dek": "渠務人員下午發現低流量截流系統內有人被困，救援人員救出男子後證實死亡，警方封鎖現場調查。"
-      }
-    },
-    {
-      "id": "2026-09-28-hktdc-export-forecast-upgrade",
-      "published_at": "2026-09-28T19:07:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "exports",
-        "hktdc",
-        "ai",
-        "electronics",
-        "trade"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-hktdc-export-forecast-upgrade.json",
-      "en": {
-        "headline": "HKTDC lifts 2026 export growth forecast to 42-47 percent on AI demand",
-        "dek": "The Trade Development Council said stronger-than-expected global appetite for semiconductors and electronics pushed first-eight-month growth to 42.5 percent."
-      },
-      "zh": {
-        "headline": "貿發局上調今年出口增長預測至42%至47%",
-        "dek": "受人工智能相關電子產品需求帶動，首八個月出口按年升42.5%，貿發局將全年預測大幅上調。"
-      }
-    },
-    {
-      "id": "2026-09-28-immigration-illegal-tourist-services",
-      "published_at": "2026-09-28T19:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "immigration",
-        "illegal-work",
-        "tourism",
-        "visitors",
-        "social-media"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-28/2026-09-28-immigration-illegal-tourist-services.json",
-      "en": {
-        "headline": "Four women arrested for offering makeup and tour services on visitor visas",
-        "dek": "Immigration officers say the suspects, aged 20 to 31, advertised one-stop photography, styling and guide packages on social media and were caught while providing the services."
-      },
-      "zh": {
-        "headline": "入境處拘四名訪客女子涉提供化妝拍攝導遊服務",
-        "dek": "四名20至31歲女子以訪客身份來港，涉嫌在社交平台招徠一條龍化妝、攝影及導遊服務，被控違反逗留條件。"
       }
     }
   ]
