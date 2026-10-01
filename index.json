@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-10-02T01:14:12+08:00",
+  "generated_at": "2026-10-02T03:18:05+08:00",
   "live_window_hours": 72,
-  "count": 105,
+  "count": 108,
   "articles": [
+    {
+      "id": "2026-10-02-asian-games-omnium-sailing",
+      "published_at": "2026-10-02T03:16:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "cycling",
+        "sailing",
+        "hong-kong-team"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-asian-games-omnium-sailing.json",
+      "en": {
+        "headline": "Chu takes omnium silver as sailors medal in Nagoya",
+        "dek": "Chu Tsun-wai scored 166 points for men's omnium silver, while Hong Kong also took silver and bronze in the skiff events on Thursday."
+      },
+      "zh": {
+        "headline": "朱浚瑋全能賽摘銀 帆船再添一銀一銅",
+        "dek": "朱浚瑋在名古屋亞運男子全能賽以166分奪銀；女子49erFX得銀，男子49er得銅。"
+      }
+    },
+    {
+      "id": "2026-10-02-hung-hom-promenade-death",
+      "published_at": "2026-10-02T03:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "hung-hom",
+        "police",
+        "national-day"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-hung-hom-promenade-death.json",
+      "en": {
+        "headline": "Man dies after rescue off Hung Hom promenade",
+        "dek": "Firefighters pulled an unconscious man from the water off Kin Wan Street on Thursday night; he was later confirmed dead at Queen Elizabeth Hospital."
+      },
+      "zh": {
+        "headline": "紅磡海濱男子墮海 送院後不治",
+        "dek": "周四晚上約九時二十一分，建灣街海濱長廊對開有男子墮海，消防救起時已昏迷，送伊利沙伯醫院後證實不治。"
+      }
+    },
+    {
+      "id": "2026-10-02-lifestyle-victoria-park-lanterns",
+      "published_at": "2026-10-02T03:16:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "causeway-bay",
+        "golden-week",
+        "national-day"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-lifestyle-victoria-park-lanterns.json",
+      "en": {
+        "headline": "Victoria Park lantern show stays lit through Golden Week",
+        "dek": "The Tourism Board's International Lantern Spectacular at Victoria Park runs until 7 October, with free entry and lights from 6:30pm to 11pm."
+      },
+      "zh": {
+        "headline": "維園國際彩燈展延至十月七日 黃金周繼續亮燈",
+        "dek": "旅發局的國際彩燈匯在銅鑼灣維多利亞公園展出至十月七日，免費入場，每晚六時半至十一時亮燈。"
+      }
+    },
+    {
+      "id": "2026-10-02-po-pin-chau-noshows",
+      "published_at": "2026-10-02T03:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sai-kung",
+        "golden-week",
+        "hiking",
+        "national-day"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-po-pin-chau-noshows.json",
+      "en": {
+        "headline": "More than half of Po Pin Chau bookings unused on National Day",
+        "dek": "The Agriculture, Fisheries and Conservation Department said about 1,160 people arrived on Thursday against roughly 2,420 bookings, and released slots on the day."
+      },
+      "zh": {
+        "headline": "國慶日破邊洲逾半預約未到 漁護署即場放額",
+        "dek": "漁護署表示，周四約有2420人預約破邊洲段，實際到訪約1160人，包括即場放額後補上的遊人。"
+      }
+    },
     {
       "id": "2026-10-02-golden-week-day-one-tally",
       "published_at": "2026-10-02T01:10:00+08:00",
@@ -2331,29 +2418,6 @@
       "zh": {
         "headline": "港金結算公司任命陳秉强為首任行政總裁",
         "dek": "前港交所高層陳秉强將於10月2日履新，任期三年，負責籌備明年首季啟用的黃金中央清算及結算系統。"
-      }
-    },
-    {
-      "id": "2026-09-29-lifestyle-fly-me-to-the-moon-exhibition",
-      "published_at": "2026-09-29T03:14:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "k11-musea",
-        "space",
-        "tsim-sha-tsui"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-29/2026-09-29-lifestyle-fly-me-to-the-moon-exhibition.json",
-      "en": {
-        "headline": "Immersive space exhibition Fly Me to the Moon opens at K11 MUSEA from 2 October",
-        "dek": "The multi-sensory show invites visitors on a 380,000-kilometre journey to the moon with panoramic projections, lunar habitat designs and outdoor installations along Victoria Harbour."
-      },
-      "zh": {
-        "headline": "沉浸式太空展「飛奔到月球」10月2日起於K11 MUSEA開幕",
-        "dek": "展覽帶領觀眾踏上38萬公里月球之旅，結合全景投影、月球居住艙設計及維港海旁戶外裝置，啟發對未來生活的想像。"
       }
     }
   ]
