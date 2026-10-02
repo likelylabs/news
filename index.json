@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-10-02T07:59:53+08:00",
+  "generated_at": "2026-10-02T09:15:18+08:00",
   "live_window_hours": 72,
-  "count": 105,
+  "count": 103,
   "articles": [
+    {
+      "id": "2026-10-02-fixed-rate-mortgage-share",
+      "published_at": "2026-10-02T09:14:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "mortgage",
+        "property",
+        "hkma"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-fixed-rate-mortgage-share.json",
+      "en": {
+        "headline": "Fixed-rate mortgages take 37.4% of new loans, an eight-year high",
+        "dek": "The Monetary Authority's August survey shows fixed-rate plans rising for a 12th month, while newly approved mortgage lending fell to HK$32.2 billion."
+      },
+      "zh": {
+        "headline": "八月定息按揭佔新批貸款37.4% 創逾八年高",
+        "dek": "金管局調查顯示，定息按揭佔比連升十二個月；新批住宅按揭貸款額跌至322億元。"
+      }
+    },
+    {
+      "id": "2026-10-02-lifestyle-tai-kwun-better-together",
+      "published_at": "2026-10-02T09:14:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "central",
+        "film"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-lifestyle-tai-kwun-better-together.json",
+      "en": {
+        "headline": "Tai Kwun film exhibition closes on Sunday",
+        "dek": "Better Together, on Hong Kong cinema's team spirit, runs at Tai Kwun's Duplex Studio until 4 October, with tickets at HK$30."
+      },
+      "zh": {
+        "headline": "大館香港電影展覽周日結束",
+        "dek": "「拍住上」展覽在中環荷李活道十號大館一號館複式展室展至十月四日，普通票三十元。"
+      }
+    },
+    {
+      "id": "2026-10-02-telford-plaza-rodent-prosecution",
+      "published_at": "2026-10-02T09:14:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "food-safety",
+        "fehd",
+        "kowloon-bay"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-telford-plaza-rodent-prosecution.json",
+      "en": {
+        "headline": "FEHD prosecutes Telford Plaza restaurant after rodent complaint",
+        "dek": "Inspectors found poor hygiene at the Kowloon Bay restaurant and issued a rodent notice, as a two-week food-premises sweep begins."
+      },
+      "zh": {
+        "headline": "食環署巡查德福廣場食肆後提出檢控",
+        "dek": "署方指九龍灣該食肆衛生欠佳，已發消除蟲鼠通知，並展開為期兩星期的天羅行動。"
+      }
+    },
     {
       "id": "2026-10-02-dangerous-drugs-schedule-order",
       "published_at": "2026-10-02T07:22:00+08:00",
@@ -2233,119 +2297,6 @@
       "zh": {
         "headline": "沙田鄉事會路小巴客貨車相撞 七人受傷",
         "dek": "一輛專線小巴周二上午9時13分在沙田鄉事會路與客貨車相撞，小巴司機及六名乘客受傷，原因待查。"
-      }
-    },
-    {
-      "id": "2026-09-29-lifestyle-lany-soft-world-tour",
-      "published_at": "2026-09-29T09:14:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "concert",
-        "asiaworld-expo",
-        "live-nation",
-        "music"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-29/2026-09-29-lifestyle-lany-soft-world-tour.json",
-      "en": {
-        "headline": "LANY plays AsiaWorld-Expo on Wednesday in Soft World Tour",
-        "dek": "The Los Angeles duo's standing-only show at Hall 10 starts at 8pm, with general tickets from HK$699 according to promoter Live Nation."
-      },
-      "zh": {
-        "headline": "LANY周三亞博館舉行Soft World巡演香港站",
-        "dek": "洛杉磯二人組合周三晚8時於亞洲國際博覽館10號展館演出，主辦稱全場企位，一般門票由699元起。"
-      }
-    },
-    {
-      "id": "2026-09-29-tst-minden-avenue-attack",
-      "published_at": "2026-09-29T09:13:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "tsim-sha-tsui",
-        "assault",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-29/2026-09-29-tst-minden-avenue-attack.json",
-      "en": {
-        "headline": "Man injured in Tsim Sha Tsui bottle attack; two men taken in",
-        "dek": "A middle-aged man was taken to Queen Elizabeth Hospital after being struck on the head outside a bar on Minden Avenue early Tuesday."
-      },
-      "zh": {
-        "headline": "尖沙咀棉登徑男子遭玻璃樽襲擊 兩人被帶走",
-        "dek": "約50歲男子周二凌晨在樓上酒吧外頭部受傷，清醒送伊利沙伯醫院，警方其後截查七人車。"
-      }
-    },
-    {
-      "id": "2026-09-29-june-wage-payroll-statistics",
-      "published_at": "2026-09-29T09:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "wages",
-        "employment",
-        "census",
-        "economy",
-        "labour"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-29/2026-09-29-june-wage-payroll-statistics.json",
-      "en": {
-        "headline": "Average wages rise 3.4 percent in June, Census says",
-        "dek": "Real wages were up 1.6 percent after inflation, and payroll per person engaged climbed 3.5 percent in the second quarter."
-      },
-      "zh": {
-        "headline": "統計處：6月平均工資率按年升3.4%",
-        "dek": "扣除通脺後實質工資升1.6%；第二季從業員平均薪金名義升3.5%、實質升1.6%。"
-      }
-    },
-    {
-      "id": "2026-09-29-lths-annual-progress-2026",
-      "published_at": "2026-09-29T09:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "public-housing",
-        "housing-bureau",
-        "lths",
-        "property"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-29/2026-09-29-lths-annual-progress-2026.json",
-      "en": {
-        "headline": "Government sets 420,000-unit housing target for next decade",
-        "dek": "The Long Term Housing Strategy update keeps the 70:30 public-private split and pledges more than 35,000 public units a year from 2027-28."
-      },
-      "zh": {
-        "headline": "長策周年報告訂下個十年供應目標42萬伙",
-        "dek": "房屋局維持公私營七三比，並爭取2027/28起五年平均每年提供逾3.5萬個公營單位。"
-      }
-    },
-    {
-      "id": "2026-09-29-very-hot-weather-warning",
-      "published_at": "2026-09-29T09:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "heat",
-        "warning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-29/2026-09-29-very-hot-weather-warning.json",
-      "en": {
-        "headline": "Very hot weather warning remains in force as city stays fine",
-        "dek": "The Observatory says urban areas will reach about 33 degrees, with the New Territories a couple of degrees hotter, under mainly fine skies."
-      },
-      "zh": {
-        "headline": "酷熱天氣警告持續生效 天文台料市區最高約33度",
-        "dek": "天文台上午6時45分發出警告，預期今日大致天晴，日間酷熱，新界氣溫較市區再高一兩度。"
       }
     }
   ]
