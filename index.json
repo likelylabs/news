@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-10-02T21:05:29+08:00",
+  "generated_at": "2026-10-02T23:22:51+08:00",
   "live_window_hours": 72,
   "count": 115,
   "articles": [
+    {
+      "id": "2026-10-02-hung-hom-drone-show",
+      "published_at": "2026-10-02T23:24:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "national-day",
+        "golden-week",
+        "hung-hom"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-hung-hom-drone-show.json",
+      "en": {
+        "headline": "Hung Hom drone show goes ahead after weather delay",
+        "dek": "The first of two National Day drone flights at the Hung Hom promenade was cancelled; the second display went ahead."
+      },
+      "zh": {
+        "headline": "紅磡無人機匯演次場照演　首場因天氣取消",
+        "dek": "國慶無人機表演原定紅磡新海濱兩場，港台報道首場因天氣取消，第二場順利舉行。"
+      }
+    },
+    {
+      "id": "2026-10-02-kowloon-peak-climber-death",
+      "published_at": "2026-10-02T23:24:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "kowloon-peak",
+        "fire-services",
+        "rescue",
+        "accident"
+      ],
+      "breaking": true,
+      "path": "articles/2026-10-02/2026-10-02-kowloon-peak-climber-death.json",
+      "en": {
+        "headline": "Off-duty ambulance officer dies after Kowloon Peak fall",
+        "dek": "Fire Services says one of two off-duty ambulance officers died after a fall while abseiling; his colleague was lightly injured."
+      },
+      "zh": {
+        "headline": "飛鵝山墮崖　休班救護總隊目送院不治",
+        "dek": "消防處說，兩名休班救護總隊目在飛鵝山遊繩期間一人墮崖，送東區醫院後證實不治，同行者受輕傷。"
+      }
+    },
+    {
+      "id": "2026-10-02-tang-nyt-letter",
+      "published_at": "2026-10-02T23:24:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "security",
+        "national-security",
+        "press"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-tang-nyt-letter.json",
+      "en": {
+        "headline": "Tang writes to New York Times over arrest article",
+        "dek": "The security secretary said a report on a recent arrest distorted the facts and was unrelated to press freedom."
+      },
+      "zh": {
+        "headline": "鄧炳強去信《紐約時報》反對拘捕報道",
+        "dek": "保安局局長指有關本港近日拘捕的報道歪曲事實，並強調案件與新聞自由無關。"
+      }
+    },
     {
       "id": "2026-10-02-amber-rainstorm-cancelled",
       "published_at": "2026-10-02T21:10:00+08:00",
@@ -2454,75 +2518,6 @@
       "zh": {
         "headline": "全球創新指數香港升至第14位 亞洲保持第五",
         "dek": "世界知識產權組織公布2026年《全球創新指數》，香港在139個經濟體中再升一位至第14，亞洲維持第五，信貸繼續全球第一。"
-      }
-    },
-    {
-      "id": "2026-09-29-digital-green-bonds-fourth-issue",
-      "published_at": "2026-09-29T23:22:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "green-bonds",
-        "finance",
-        "hkma",
-        "tokenisation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-29/2026-09-29-digital-green-bonds-fourth-issue.json",
-      "en": {
-        "headline": "Government prices record HK$20 billion digital green bonds",
-        "dek": "The fourth multi-currency digital green bond issuance under the Sustainable Bond Programme was oversubscribed and set a new global record for the largest digital bond offering of its kind."
-      },
-      "zh": {
-        "headline": "政府成功定價約200億元等值數碼綠色債券 刷新全球紀錄",
-        "dek": "特區政府在可持續債券計劃下第四次發行數碼綠色債券，涵蓋港元、人民幣、美元及歐元，規模為全球同類最大，並獲超額認購。"
-      }
-    },
-    {
-      "id": "2026-09-29-iphone-suspicious-charges-1503",
-      "published_at": "2026-09-29T23:21:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "fraud",
-        "iphone",
-        "credit-card"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-29/2026-09-29-iphone-suspicious-charges-1503.json",
-      "en": {
-        "headline": "Police log 1,503 suspicious iPhone charges worth over HK$30 million",
-        "dek": "All unauthorised transactions linked to Apple’s iPhone 18 Pro pre-orders have been cancelled, with no losses to cardholders, banks or the company, the police commissioner said."
-      },
-      "zh": {
-        "headline": "警接1503宗可疑iPhone交易涉逾3000萬 所有交易已取消",
-        "dek": "警務處處長周一鳴表示，涉及蘋果iPhone 18 Pro預購的可疑信用卡交易增至1503宗，涉款逾3000萬元，全部交易已取消，卡主、銀行及公司均無損失。"
-      }
-    },
-    {
-      "id": "2026-09-29-tang-lung-wai-return-manila",
-      "published_at": "2026-09-29T23:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "immigration",
-        "philippines",
-        "prison",
-        "assistance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-29/2026-09-29-tang-lung-wai-return-manila.json",
-      "en": {
-        "headline": "Hong Kong man returns home after 26 years in Philippine prison",
-        "dek": "Tang Lung-wai, 55, arrived at Hong Kong International Airport on Tuesday evening accompanied by Immigration Department officers after completing his sentence for a drug conviction he has long disputed."
-      },
-      "zh": {
-        "headline": "港人鄧龍威菲律賓服刑26年後返港 入境處人員陪同",
-        "dek": "55歲鄧龍威周二晚在入境處人員陪同下由馬尼拉返抵香港國際機場，結束因藏毒案在菲國渡過的26年鐵窗生涯，他一直堅稱無罪。"
       }
     }
   ]
