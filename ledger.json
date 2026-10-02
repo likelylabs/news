@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-02T09:15:18+08:00",
+  "updated_at": "2026-10-02T11:12:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "hang-seng-post-holiday-drop-oct2",
+      "id": "2026-10-02-hang-seng-post-holiday-drop",
+      "first_seen": "2026-10-02T11:12:00+08:00",
+      "headline_en": "Hang Seng down 2.6% by late morning after holiday break"
+    },
+    {
+      "key": "hkex-chan-diversified-ecosystem-oct2",
+      "id": "2026-10-02-hkex-chan-asset-ecosystem",
+      "first_seen": "2026-10-02T11:12:00+08:00",
+      "headline_en": "HKEX chief says investors want more than equities"
+    },
+    {
+      "key": "lifestyle-westk-museums-golden-week-hours",
+      "id": "2026-10-02-lifestyle-westk-museums-golden-week",
+      "first_seen": "2026-10-02T11:12:00+08:00",
+      "headline_en": "M+ stays open until 10pm today for Golden Week"
+    },
     {
       "key": "fixed-rate-mortgage-share-aug-hkma",
       "id": "2026-10-02-fixed-rate-mortgage-share",
