@@ -1,8 +1,134 @@
 {
-  "generated_at": "2026-10-02T13:18:32+08:00",
+  "generated_at": "2026-10-02T15:07:39+08:00",
   "live_window_hours": 72,
-  "count": 105,
+  "count": 107,
   "articles": [
+    {
+      "id": "2026-10-02-asian-games-29er-golds",
+      "published_at": "2026-10-02T15:08:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "sailing",
+        "nagoya"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-asian-games-29er-golds.json",
+      "en": {
+        "headline": "Hong Kong takes two sailing golds in youth 29er events",
+        "dek": "The men's and women's youth 29er crews both won in Nagoya, a day that also included an ILCA 7 silver."
+      },
+      "zh": {
+        "headline": "亞運帆船青年29人級港隊再奪兩金",
+        "dek": "男女子青年快速艇29人級均稱冠，連同ILCA 7銀牌，帆船隊單日兩金一銀。"
+      }
+    },
+    {
+      "id": "2026-10-02-golden-week-day-one-full-tally",
+      "published_at": "2026-10-02T15:08:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "golden-week",
+        "immigration",
+        "border"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-golden-week-day-one-full-tally.json",
+      "en": {
+        "headline": "Golden Week day one sees 1.08 million border crossings",
+        "dek": "Immigration figures for Thursday show more than 590,000 arrivals, including about 277,000 mainland visitors."
+      },
+      "zh": {
+        "headline": "黃金周首日進出境約108萬人次",
+        "dek": "入境處周五公布周四全日數字，入境逾59萬人次，當中內地旅客約27萬7千。"
+      }
+    },
+    {
+      "id": "2026-10-02-hung-shing-stanley-monuments",
+      "published_at": "2026-10-02T15:08:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "heritage",
+        "wan-chai",
+        "stanley"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-hung-shing-stanley-monuments.json",
+      "en": {
+        "headline": "Hung Shing Temple and Stanley Mosque declared monuments",
+        "dek": "The Development Bureau gazetted the Wan Chai temple and the mosque inside Stanley Prison as statutory monuments on Friday."
+      },
+      "zh": {
+        "headline": "灣仔洪聖古廟及赤柱清真寺列法定古蹟",
+        "dek": "發展局周五刊憲，古物事務監督根據《古物及古蹟條例》宣布兩座建築列為法定古蹟。"
+      }
+    },
+    {
+      "id": "2026-10-02-man-kam-to-illicit-cigarettes",
+      "published_at": "2026-10-02T15:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "man-kam-to",
+        "smuggling"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-man-kam-to-illicit-cigarettes.json",
+      "en": {
+        "headline": "Customs seize cigarettes worth HK$1.88 million at Man Kam To",
+        "dek": "Officers found about 360,000 suspected illicit cigarettes mixed with vegetables on an inbound truck and arrested the driver."
+      },
+      "zh": {
+        "headline": "海關文錦渡檢約36萬支懷疑私煙",
+        "dek": "入境運菜貨車的63個發泡膠箱混有懷疑私煙，市值約188萬元，司機被捕保釋。"
+      }
+    },
+    {
+      "id": "2026-10-02-thunderstorm-warning-extended",
+      "published_at": "2026-10-02T15:08:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "thunderstorm",
+        "hko",
+        "new-territories"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-thunderstorm-warning-extended.json",
+      "en": {
+        "headline": "Observatory extends thunderstorm warning until 2:30pm",
+        "dek": "The warning first issued at 11:50am was kept in force for another hour, covering isolated storms over the northern New Territories."
+      },
+      "zh": {
+        "headline": "天文台延長雷暴警告至下午2時30分",
+        "dek": "上午11時50分發出的雷暴警告再延長一小時，預料新界北有局部雷暴。"
+      }
+    },
+    {
+      "id": "2026-10-02-weekend-weather-outlook",
+      "published_at": "2026-10-02T15:08:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "weekend",
+        "forecast"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-weekend-weather-outlook.json",
+      "en": {
+        "headline": "Showers linger this weekend before a cooler Monday",
+        "dek": "The Observatory expects cloudy spells and showers on Saturday and Sunday, then a fresher northeast monsoon from Sunday night."
+      },
+      "zh": {
+        "headline": "周末仍有驟雨 周一早上稍涼",
+        "dek": "天文台預料周六日大致多雲有驟雨，周日晚東北季候風補充，隨後轉涼及雨勢減弱。"
+      }
+    },
     {
       "id": "2026-10-02-asian-games-ilca7-silver",
       "published_at": "2026-10-02T13:18:00+08:00",
@@ -2237,98 +2363,6 @@
       "zh": {
         "headline": "油麻地錘擊案 男子認有意圖傷人判囚三年兩個月",
         "dek": "42歲巫泰峰去年在油麻地以鐵錘擊打同黨頭部11下，死者其後因吸毒過量身亡；高院今日判刑，控方早前已將謀殺罪改控有意圖傷人。"
-      }
-    },
-    {
-      "id": "2026-09-29-sai-kung-hiker-helicopter-rescue",
-      "published_at": "2026-09-29T15:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "sai-kung",
-        "hiking",
-        "rescue",
-        "gfs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-29/2026-09-29-sai-kung-hiker-helicopter-rescue.json",
-      "en": {
-        "headline": "Hiker airlifted after falling ill on Sai Kung trail",
-        "dek": "A man among a group of eight collapsed near Cheung Sheung on MacLehose Trail Section 2; Government Flying Service helicopters lifted him to hospital conscious."
-      },
-      "zh": {
-        "headline": "西貢吹筒坳行山客不適 直升機救起送院",
-        "dek": "一名男子在麥理浩徑第二段吹筒坳附近與同行七人行山時暈倒，政府飛行服務隊直升機將他清醒送往東區醫院。"
-      }
-    },
-    {
-      "id": "2026-09-29-sha-tin-gym-voyeurism-bail",
-      "published_at": "2026-09-29T15:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "sha-tin",
-        "voyeurism",
-        "court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-29/2026-09-29-sha-tin-gym-voyeurism-bail.json",
-      "en": {
-        "headline": "Man charged over pinhole cameras in Sha Tin gym granted bail",
-        "dek": "Fung Kwok-wang, 34, faces a voyeurism count after three devices were found in changing rooms at a 24/7 Fitness branch; the case was adjourned to 25 November."
-      },
-      "zh": {
-        "headline": "沙田健身室針孔鏡頭案 34歲地盤管工准保釋",
-        "dek": "馮國浤被控窺淫罪，沙田裁判法院批准以2,000元現金保釋，案件押後至11月25日再訊。"
-      }
-    },
-    {
-      "id": "2026-09-29-ha-nurses-recruitment-2200",
-      "published_at": "2026-09-29T13:26:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "hospital-authority",
-        "nurses",
-        "recruitment",
-        "healthcare",
-        "employment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-29/2026-09-29-ha-nurses-recruitment-2200.json",
-      "en": {
-        "headline": "Hospital Authority offers 2,200 posts to new nursing graduates",
-        "dek": "The authority said it received about 3,000 applications in the first round of recruitment completed in June and is preparing a second round open to experienced nurses as well."
-      },
-      "zh": {
-        "headline": "醫管局首輪招聘應屆護士批出約2200份聘書",
-        "dek": "醫管局六月完成首輪招聘，收到約3000宗申請，正準備第二輪招聘，亦開放予有經驗護士。"
-      }
-    },
-    {
-      "id": "2026-09-29-ce-media-reception-good-stories",
-      "published_at": "2026-09-29T13:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "government",
-        "media",
-        "national-day",
-        "john-lee",
-        "policy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-29/2026-09-29-ce-media-reception-good-stories.json",
-      "en": {
-        "headline": "Lee urges media to tell good stories of Hong Kong and nation",
-        "dek": "At a National Day reception for the press, the Chief Executive said the government would keep helping local outlets expand their international reach."
-      },
-      "zh": {
-        "headline": "李家超籲新聞界客觀報道 擔當國家及香港好故事發聲人",
-        "dek": "行政長官出席新聞界國慶活動，表示政府會繼續協助本地傳媒提升競爭力及國際傳播力。"
       }
     }
   ]
