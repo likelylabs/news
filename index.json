@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-10-02T19:08:34+08:00",
+  "generated_at": "2026-10-02T21:05:29+08:00",
   "live_window_hours": 72,
   "count": 115,
   "articles": [
+    {
+      "id": "2026-10-02-amber-rainstorm-cancelled",
+      "published_at": "2026-10-02T21:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "observatory",
+        "rainstorm",
+        "thunderstorm"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-amber-rainstorm-cancelled.json",
+      "en": {
+        "headline": "Observatory cancels amber rainstorm warning at 7:30pm",
+        "dek": "The amber signal is down, but a thunderstorm warning runs until 9pm and Tai Po remains under a flooding alert."
+      },
+      "zh": {
+        "headline": "天文台晚上7時30分取消黃色暴雨警告",
+        "dek": "黃雨信號已經取消，雷暴警告維持至晚上9時，大埔仍有水浸特別提示。"
+      }
+    },
+    {
+      "id": "2026-10-02-hotstone-yoga-customs-arrest",
+      "published_at": "2026-10-02T21:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "consumer",
+        "hotstone-yoga"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-hotstone-yoga-customs-arrest.json",
+      "en": {
+        "headline": "Customs arrest yoga centre director over alleged wrongful payment",
+        "dek": "One company director was arrested on Friday as Hotstone Yoga complaints rose to 286, involving more than HK$3.9 million."
+      },
+      "zh": {
+        "headline": "海關拘捕瑜伽中心一名公司董事　疑不當地接受付款",
+        "dek": "岩盤浴瑜伽全線結業後，海關星期五拘捕一名公司董事，消委會接獲286宗投訴，涉款逾390萬元。"
+      }
+    },
+    {
+      "id": "2026-10-02-kowloon-peak-climber-rescued",
+      "published_at": "2026-10-02T21:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "rescue",
+        "kowloon-peak",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-kowloon-peak-climber-rescued.json",
+      "en": {
+        "headline": "Unconscious climber airlifted after Kowloon Peak fall",
+        "dek": "Firefighters found the man in heavy rain on Friday evening and flew him to Eastern Hospital; his companion was also injured."
+      },
+      "zh": {
+        "headline": "飛鵝山攀石男子昏迷　直升機送東區醫院",
+        "dek": "消防員星期五傍晚在大雨中尋獲墮崖男子，他送院時昏迷，同行男子亦受傷。"
+      }
+    },
     {
       "id": "2026-10-02-amber-rainstorm-warning",
       "published_at": "2026-10-02T19:06:00+08:00",
@@ -2459,75 +2523,6 @@
       "zh": {
         "headline": "港人鄧龍威菲律賓服刑26年後返港 入境處人員陪同",
         "dek": "55歲鄧龍威周二晚在入境處人員陪同下由馬尼拉返抵香港國際機場，結束因藏毒案在菲國渡過的26年鐵窗生涯，他一直堅稱無罪。"
-      }
-    },
-    {
-      "id": "2026-09-29-lifestyle-hoi-fan-road-park",
-      "published_at": "2026-09-29T20:42:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "park",
-        "yau-tsim-mong",
-        "lcsd",
-        "opening"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-29/2026-09-29-lifestyle-hoi-fan-road-park.json",
-      "en": {
-        "headline": "Hoi Fan Road Park in Yau Tsim Mong opens to the public on Wednesday",
-        "dek": "The new 16,000-square-metre park offers a seven-a-side artificial turf pitch, basketball and volleyball courts, fitness facilities, a community garden and an inclusive children’s playground, and is pet-friendly."
-      },
-      "zh": {
-        "headline": "油尖旺海帆道公園明日起開放 設七人足球場及共融遊樂場",
-        "dek": "新落成公園佔地約1.6萬平方米，提供人造草足球場、籃球排球場、健體設施、社區園圃及共融兒童遊樂場，並開放予寵物進入。"
-      }
-    },
-    {
-      "id": "2026-09-29-wang-fuk-court-flat-selection",
-      "published_at": "2026-09-29T20:41:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "wang-fuk-court",
-        "tai-po",
-        "subsidised-housing",
-        "fire"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-29/2026-09-29-wang-fuk-court-flat-selection.json",
-      "en": {
-        "headline": "Wang Fuk Court residents begin selecting replacement subsidised flats",
-        "dek": "The first 35 households that accepted buy-back offers by the June deadline started choosing from about 4,400 units across 10 estates under the special sales arrangement on Tuesday."
-      },
-      "zh": {
-        "headline": "宏福苑特設銷售計劃今起揀樓 首批約35戶優先選購",
-        "dek": "首批於6月30日前簽署接納書的約35戶業主，周二起於觀塘綠置居銷售小組辦事處開始揀選約4400個資助房屋單位。"
-      }
-    },
-    {
-      "id": "2026-09-29-lifestyle-halloween-month-2026",
-      "published_at": "2026-09-29T20:40:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "tourism",
-        "halloween",
-        "events",
-        "tourism-board"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-29/2026-09-29-lifestyle-halloween-month-2026.json",
-      "en": {
-        "headline": "Tourism Board launches Hong Kong Halloween Month with street parties",
-        "dek": "Street celebrations will run across five neighbourhoods on three consecutive Saturdays from 17 October, with free rides on decorated buses and trams for costumed visitors."
-      },
-      "zh": {
-        "headline": "旅發局首辦香港萬聖月 三個周六街頭派對免費乘車",
-        "dek": "10月17日起一連三個周六於中環、啟德、蘭桂坊、旺角及尖沙咀東舉行街頭派對，穿萬聖節裝扮可免費乘開篷巴士及派對電車。"
       }
     }
   ]
