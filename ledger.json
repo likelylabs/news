@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-02T13:18:32+08:00",
+  "updated_at": "2026-10-02T15:08:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "thunderstorm-warning-extended-oct2-1430",
+      "id": "2026-10-02-thunderstorm-warning-extended",
+      "first_seen": "2026-10-02T15:08:00+08:00",
+      "headline_en": "Observatory extends thunderstorm warning until 2:30pm"
+    },
+    {
+      "key": "asian-games-29er-golds-oct2",
+      "id": "2026-10-02-asian-games-29er-golds",
+      "first_seen": "2026-10-02T15:08:00+08:00",
+      "headline_en": "Hong Kong takes two sailing golds in youth 29er events"
+    },
+    {
+      "key": "man-kam-to-illicit-cigarettes-sep30",
+      "id": "2026-10-02-man-kam-to-illicit-cigarettes",
+      "first_seen": "2026-10-02T15:08:00+08:00",
+      "headline_en": "Customs seize cigarettes worth HK$1.88 million at Man Kam To"
+    },
+    {
+      "key": "golden-week-oct1-full-day-crossings",
+      "id": "2026-10-02-golden-week-day-one-full-tally",
+      "first_seen": "2026-10-02T15:08:00+08:00",
+      "headline_en": "Golden Week day one sees 1.08 million border crossings"
+    },
+    {
+      "key": "hung-shing-stanley-mosque-monuments-oct2",
+      "id": "2026-10-02-hung-shing-stanley-monuments",
+      "first_seen": "2026-10-02T15:08:00+08:00",
+      "headline_en": "Hung Shing Temple and Stanley Mosque declared monuments"
+    },
+    {
+      "key": "weekend-weather-outlook-oct3-4",
+      "id": "2026-10-02-weekend-weather-outlook",
+      "first_seen": "2026-10-02T15:08:00+08:00",
+      "headline_en": "Showers linger this weekend before a cooler Monday"
+    },
     {
       "key": "thunderstorm-warning-oct2-1150",
       "id": "2026-10-02-thunderstorm-warning-midday",
