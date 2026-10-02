@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-02T17:13:25+08:00",
+  "updated_at": "2026-10-02T19:06:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "amber-rainstorm-warning-oct2-1740",
+      "id": "2026-10-02-amber-rainstorm-warning",
+      "first_seen": "2026-10-02T19:06:00+08:00",
+      "headline_en": "Observatory issues amber rainstorm warning as northern downpours continue"
+    },
+    {
+      "key": "hkic-clara-chan-reappointed-oct2",
+      "id": "2026-10-02-hkic-clara-chan-reappointed",
+      "first_seen": "2026-10-02T19:06:00+08:00",
+      "headline_en": "Clara Chan reappointed Hong Kong Investment Corporation chief for three years"
+    },
+    {
+      "key": "kowloon-peak-climbing-fall-oct2",
+      "id": "2026-10-02-kowloon-peak-climbing-rescue",
+      "first_seen": "2026-10-02T19:06:00+08:00",
+      "headline_en": "Rescuers search Kowloon Peak after climber falls"
+    },
+    {
+      "key": "hang-seng-close-down-640-oct2",
+      "id": "2026-10-02-hang-seng-close-oct2",
+      "first_seen": "2026-10-02T19:06:00+08:00",
+      "headline_en": "Hang Seng closes down 640 points, back under 24,000"
+    },
+    {
+      "key": "august-retail-sales-up-5-6-oct2",
+      "id": "2026-10-02-august-retail-sales",
+      "first_seen": "2026-10-02T19:06:00+08:00",
+      "headline_en": "August retail sales rise 5.6% to HK$32.1 billion"
+    },
     {
       "key": "thunderstorm-warning-oct2-1555",
       "id": "2026-10-02-thunderstorm-warning-afternoon",
