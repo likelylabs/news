@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-10-02T09:15:18+08:00",
+  "generated_at": "2026-10-02T11:10:22+08:00",
   "live_window_hours": 72,
-  "count": 103,
+  "count": 106,
   "articles": [
+    {
+      "id": "2026-10-02-hang-seng-post-holiday-drop",
+      "published_at": "2026-10-02T11:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hang-seng",
+        "stocks",
+        "golden-week"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-hang-seng-post-holiday-drop.json",
+      "en": {
+        "headline": "Hang Seng down 2.6% by late morning after holiday break",
+        "dek": "The benchmark stood at 23,975.90 at 11:05am, down 637 points from Wednesday's close, after opening 513 points lower."
+      },
+      "zh": {
+        "headline": "國慶假期後復市 恒指上午跌逾六百點",
+        "dek": "恒指上午11時05分報23975點，較周三收市跌637點；今早低開513點，盤中曾低見23865點。"
+      }
+    },
+    {
+      "id": "2026-10-02-hkex-chan-asset-ecosystem",
+      "published_at": "2026-10-02T11:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hkex",
+        "finance",
+        "stocks"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-hkex-chan-asset-ecosystem.json",
+      "en": {
+        "headline": "HKEX chief says investors want more than equities",
+        "dek": "Bonnie Chan told RTHK that Hong Kong should build a broader asset ecosystem, citing stronger turnover and renewed interest in gold futures."
+      },
+      "zh": {
+        "headline": "陳翊庭：港股以外也要建多元資產生態圈",
+        "dek": "港交所行政總裁在港台節目表示，投資者希望配置股票以外的資產，並提到成交回升及美元黃金期貨反應。"
+      }
+    },
+    {
+      "id": "2026-10-02-lifestyle-westk-museums-golden-week",
+      "published_at": "2026-10-02T11:12:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "golden-week"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-lifestyle-westk-museums-golden-week.json",
+      "en": {
+        "headline": "M+ stays open until 10pm today for Golden Week",
+        "dek": "West Kowloon says M+ and the Palace Museum will keep extended hours through 7 October, and asks visitors to book ahead."
+      },
+      "zh": {
+        "headline": "黃金周西九兩館延長開放 M+今晚十時閉館",
+        "dek": "西九文化區表示，M+及故宮文化博物館在國慶黃金周維持延長開放，並建議訪客預先購票。"
+      }
+    },
     {
       "id": "2026-10-02-fixed-rate-mortgage-share",
       "published_at": "2026-10-02T09:14:00+08:00",
