@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-02T23:22:51+08:00",
+  "updated_at": "2026-10-03T03:25:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "thunderstorm-warning-oct3-0300",
+      "id": "2026-10-03-thunderstorm-warning-overnight",
+      "first_seen": "2026-10-03T03:25:00+08:00",
+      "headline_en": "Thunderstorm warning carried into early Saturday"
+    },
+    {
+      "key": "mtr-hsr-scl-settlement-oct2",
+      "id": "2026-10-03-mtr-hsr-delay-settlement",
+      "first_seen": "2026-10-03T03:25:00+08:00",
+      "headline_en": "MTR to pay government HK$2.25 billion over rail delay"
+    },
+    {
+      "key": "victoria-road-motorcycle-death-oct1",
+      "id": "2026-10-03-victoria-road-motorcycle-death",
+      "first_seen": "2026-10-03T03:25:00+08:00",
+      "headline_en": "Motorcyclist dies after Pok Fu Lam crash; driver arrested"
+    },
+    {
+      "key": "lifestyle-national-day-half-price-cinema",
+      "id": "2026-10-03-lifestyle-national-day-cinema",
+      "first_seen": "2026-10-03T03:25:00+08:00",
+      "headline_en": "National Day half-price cinema scheme drew 153,000"
+    },
     {
       "key": "kowloon-peak-climber-death-oct2",
       "id": "2026-10-02-kowloon-peak-climber-death",
