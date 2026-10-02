@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-02T13:16:27+08:00",
+  "updated_at": "2026-10-02T13:20:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "thunderstorm-warning-oct2-1150",
+      "id": "2026-10-02-thunderstorm-warning-midday",
+      "first_seen": "2026-10-02T13:18:00+08:00",
+      "headline_en": "Observatory issues thunderstorm warning valid until 1:30pm"
+    },
+    {
+      "key": "ho-man-tin-fat-kwong-street-tender-oct2",
+      "id": "2026-10-02-ho-man-tin-fat-kwong-tender",
+      "first_seen": "2026-10-02T13:18:00+08:00",
+      "headline_en": "Ho Man Tin luxury site draws at least 10 bids at noon close"
+    },
+    {
+      "key": "asian-games-ilca7-silver-oct2",
+      "id": "2026-10-02-asian-games-ilca7-silver",
+      "first_seen": "2026-10-02T13:18:00+08:00",
+      "headline_en": "Pui takes Asian Games silver in men's ILCA 7 sailing"
+    },
+    {
+      "key": "asian-games-wong-tennis-final-oct2",
+      "id": "2026-10-02-wong-asian-games-tennis-final",
+      "first_seen": "2026-10-02T13:18:00+08:00",
+      "headline_en": "Wong reaches Asian Games men's singles tennis final"
+    },
     {
       "key": "hang-seng-post-holiday-drop-oct2",
       "id": "2026-10-02-hang-seng-post-holiday-drop",
