@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-02T15:07:39+08:00",
+  "updated_at": "2026-10-02T17:12:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "thunderstorm-warning-oct2-1555",
+      "id": "2026-10-02-thunderstorm-warning-afternoon",
+      "first_seen": "2026-10-02T17:12:00+08:00",
+      "headline_en": "Observatory extends afternoon thunderstorm warning to 6:30pm"
+    },
+    {
+      "key": "flooding-announcement-sheung-shui-oct2",
+      "id": "2026-10-02-northern-nt-flooding-announcement",
+      "first_seen": "2026-10-02T17:12:00+08:00",
+      "headline_en": "Observatory warns of flooding risk around Sheung Shui"
+    },
+    {
+      "key": "asian-games-women-squash-silver-oct2",
+      "id": "2026-10-02-asian-games-women-squash-silver",
+      "first_seen": "2026-10-02T17:12:00+08:00",
+      "headline_en": "Hong Kong women take Asian Games squash team silver"
+    },
+    {
+      "key": "foreign-domestic-helper-maw-oct3",
+      "id": "2026-10-02-helper-minimum-wage-5220",
+      "first_seen": "2026-10-02T17:12:00+08:00",
+      "headline_en": "Helper minimum wage set at HK$5,220 for new contracts"
+    },
+    {
+      "key": "wang-fuk-court-sale-agreements-sep30",
+      "id": "2026-10-02-wang-fuk-court-sale-agreements",
+      "first_seen": "2026-10-02T17:12:00+08:00",
+      "headline_en": "90.4% of Wang Fuk Court owners have signed sale agreements"
+    },
     {
       "key": "thunderstorm-warning-extended-oct2-1430",
       "id": "2026-10-02-thunderstorm-warning-extended",
