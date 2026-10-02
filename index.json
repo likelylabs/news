@@ -1,8 +1,115 @@
 {
-  "generated_at": "2026-10-03T03:16:20+08:00",
+  "generated_at": "2026-10-03T07:05:34+08:00",
   "live_window_hours": 72,
-  "count": 116,
+  "count": 121,
   "articles": [
+    {
+      "id": "2026-10-03-amber-rainstorm-warning",
+      "published_at": "2026-10-03T07:04:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "observatory",
+        "rainstorm",
+        "thunderstorm",
+        "sai-kung"
+      ],
+      "breaking": true,
+      "path": "articles/2026-10-03/2026-10-03-amber-rainstorm-warning.json",
+      "en": {
+        "headline": "Observatory issues amber rainstorm warning before dawn",
+        "dek": "An amber rainstorm warning has been in force since 4am Saturday, with the Observatory warning of possible severe flooding in Sai Kung and on Lantau."
+      },
+      "zh": {
+        "headline": "天文台凌晨四時發出黃色暴雨警告",
+        "dek": "黃色暴雨警告自周六凌晨四時生效，天文台指西貢及大嶼山雨勢特別大，可能出現嚴重水浸。"
+      }
+    },
+    {
+      "id": "2026-10-03-fraud-cases-eight-months",
+      "published_at": "2026-10-03T07:04:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "fraud",
+        "scam"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-fraud-cases-eight-months.json",
+      "en": {
+        "headline": "Police log 29,670 fraud cases in first eight months",
+        "dek": "Losses reached HK$5.21 billion, up 3.8% on last year, as police warned of new fake customer-service tactics."
+      },
+      "zh": {
+        "headline": "首八個月錄得近三萬宗詐騙案 損失52.1億元",
+        "dek": "警方指今年首八個月詐騙案較去年同期升4.5%，假冒客服手法近期明顯增加，並出現新變種。"
+      }
+    },
+    {
+      "id": "2026-10-03-golden-week-day-two-crossings",
+      "published_at": "2026-10-03T07:04:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "golden-week",
+        "immigration",
+        "border"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-golden-week-day-two-crossings.json",
+      "en": {
+        "headline": "Golden Week day two sees 954,000 crossings by 9pm",
+        "dek": "The Immigration Department said more than 954,000 people crossed Hong Kong's control points by 9pm on Friday, the second day of the mainland holiday."
+      },
+      "zh": {
+        "headline": "黃金周次日晚上九時 出入境逾95萬人次",
+        "dek": "入境處表示，周五晚上九時前全港管制站錄得超過95萬4千人次出入境，內地旅客最多經高鐵西九龍站入境。"
+      }
+    },
+    {
+      "id": "2026-10-03-imported-chikungunya-case",
+      "published_at": "2026-10-03T07:04:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "chikungunya",
+        "centre-for-health-protection"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-imported-chikungunya-case.json",
+      "en": {
+        "headline": "Centre reports one imported chikungunya case",
+        "dek": "A 62-year-old woman who visited Guangdong is in a stable condition, the Centre for Health Protection said on Friday."
+      },
+      "zh": {
+        "headline": "防護中心公布一宗外地傳入基孔肯雅熱",
+        "dek": "衛生防護中心周五表示，一名曾到廣東省的62歲女子確診基孔肯雅熱，目前情況穩定。"
+      }
+    },
+    {
+      "id": "2026-10-03-lifestyle-wong-tai-sin-lanterns",
+      "published_at": "2026-10-03T07:04:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "wong-tai-sin",
+        "lanterns"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-lifestyle-wong-tai-sin-lanterns.json",
+      "en": {
+        "headline": "Wong Tai Sin lantern display runs through Sunday",
+        "dek": "Sik Sik Yuen is keeping the temple open later until 4 October for a free Mid-Autumn lantern display marking its 105th anniversary."
+      },
+      "zh": {
+        "headline": "黃大仙祠中秋綵燈展延至周日",
+        "dek": "嗇色園黃大仙祠中秋綵燈晚會免費入場，周六及周日延長開放至晚上十時，展期至十月四日。"
+      }
+    },
     {
       "id": "2026-10-03-lifestyle-national-day-cinema",
       "published_at": "2026-10-03T03:25:00+08:00",
