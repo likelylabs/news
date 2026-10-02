@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-02T19:08:34+08:00",
+  "updated_at": "2026-10-02T21:10:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "amber-rainstorm-cancelled-oct2-1930",
+      "id": "2026-10-02-amber-rainstorm-cancelled",
+      "first_seen": "2026-10-02T21:10:00+08:00",
+      "headline_en": "Observatory cancels amber rainstorm warning at 7:30pm"
+    },
+    {
+      "key": "hotstone-yoga-customs-arrest-oct2",
+      "id": "2026-10-02-hotstone-yoga-customs-arrest",
+      "first_seen": "2026-10-02T21:10:00+08:00",
+      "headline_en": "Customs arrest yoga centre director over alleged wrongful payment"
+    },
+    {
+      "key": "kowloon-peak-climber-rescued-oct2",
+      "id": "2026-10-02-kowloon-peak-climber-rescued",
+      "first_seen": "2026-10-02T21:10:00+08:00",
+      "headline_en": "Unconscious climber airlifted after Kowloon Peak fall"
+    },
     {
       "key": "amber-rainstorm-warning-oct2-1740",
       "id": "2026-10-02-amber-rainstorm-warning",
