@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-02T21:05:29+08:00",
+  "updated_at": "2026-10-02T23:24:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "kowloon-peak-climber-death-oct2",
+      "id": "2026-10-02-kowloon-peak-climber-death",
+      "first_seen": "2026-10-02T23:24:00+08:00",
+      "headline_en": "Off-duty ambulance officer dies after Kowloon Peak fall"
+    },
+    {
+      "key": "tang-nyt-letter-oct2",
+      "id": "2026-10-02-tang-nyt-letter",
+      "first_seen": "2026-10-02T23:24:00+08:00",
+      "headline_en": "Tang writes to New York Times over arrest article"
+    },
+    {
+      "key": "hung-hom-national-day-drone-oct2",
+      "id": "2026-10-02-hung-hom-drone-show",
+      "first_seen": "2026-10-02T23:24:00+08:00",
+      "headline_en": "Hung Hom drone show goes ahead after weather delay"
+    },
     {
       "key": "amber-rainstorm-cancelled-oct2-1930",
       "id": "2026-10-02-amber-rainstorm-cancelled",
