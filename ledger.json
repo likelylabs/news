@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-03T03:16:20+08:00",
+  "updated_at": "2026-10-03T07:04:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "amber-rainstorm-warning-oct3-0400",
+      "id": "2026-10-03-amber-rainstorm-warning",
+      "first_seen": "2026-10-03T07:04:00+08:00",
+      "headline_en": "Observatory issues amber rainstorm warning before dawn"
+    },
+    {
+      "key": "fraud-cases-jan-aug-2026",
+      "id": "2026-10-03-fraud-cases-eight-months",
+      "first_seen": "2026-10-03T07:04:00+08:00",
+      "headline_en": "Police log 29,670 fraud cases in first eight months"
+    },
+    {
+      "key": "golden-week-oct2-evening-crossings",
+      "id": "2026-10-03-golden-week-day-two-crossings",
+      "first_seen": "2026-10-03T07:04:00+08:00",
+      "headline_en": "Golden Week day two sees 954,000 crossings by 9pm"
+    },
+    {
+      "key": "chikungunya-imported-oct2",
+      "id": "2026-10-03-imported-chikungunya-case",
+      "first_seen": "2026-10-03T07:04:00+08:00",
+      "headline_en": "Centre reports one imported chikungunya case"
+    },
+    {
+      "key": "lifestyle-wong-tai-sin-lanterns-2026",
+      "id": "2026-10-03-lifestyle-wong-tai-sin-lanterns",
+      "first_seen": "2026-10-03T07:04:00+08:00",
+      "headline_en": "Wong Tai Sin lantern display runs through Sunday"
+    },
     {
       "key": "thunderstorm-warning-oct3-0300",
       "id": "2026-10-03-thunderstorm-warning-overnight",
