@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-02T07:59:53+08:00",
+  "updated_at": "2026-10-02T09:14:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "fixed-rate-mortgage-share-aug-hkma",
+      "id": "2026-10-02-fixed-rate-mortgage-share",
+      "first_seen": "2026-10-02T09:14:00+08:00",
+      "headline_en": "Fixed-rate mortgages take 37.4% of new loans, an eight-year high"
+    },
+    {
+      "key": "telford-plaza-rodent-fehd-oct1",
+      "id": "2026-10-02-telford-plaza-rodent-prosecution",
+      "first_seen": "2026-10-02T09:14:00+08:00",
+      "headline_en": "FEHD prosecutes Telford Plaza restaurant after rodent complaint"
+    },
+    {
+      "key": "lifestyle-tai-kwun-better-together-films",
+      "id": "2026-10-02-lifestyle-tai-kwun-better-together",
+      "first_seen": "2026-10-02T09:14:00+08:00",
+      "headline_en": "Tai Kwun film exhibition closes on Sunday"
+    },
     {
       "key": "thunderstorm-warning-nt-oct2-0610",
       "id": "2026-10-02-thunderstorm-warning-nt-morning",
