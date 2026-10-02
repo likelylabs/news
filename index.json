@@ -1,8 +1,111 @@
 {
-  "generated_at": "2026-10-02T15:07:39+08:00",
+  "generated_at": "2026-10-02T17:13:25+08:00",
   "live_window_hours": 72,
-  "count": 107,
+  "count": 110,
   "articles": [
+    {
+      "id": "2026-10-02-asian-games-women-squash-silver",
+      "published_at": "2026-10-02T17:12:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "squash",
+        "nagoya"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-asian-games-women-squash-silver.json",
+      "en": {
+        "headline": "Hong Kong women take Asian Games squash team silver",
+        "dek": "The side lost the Nagoya final 1-2 to Malaysia after Chan Sin-yuk levelled the tie."
+      },
+      "zh": {
+        "headline": "亞運壁球女團決賽負馬來西亞 港隊摘銀",
+        "dek": "港隊在名古屋決賽以場數1比2落敗，陳善鈺先扳平場數，李嘉兒第三場直落落敗。"
+      }
+    },
+    {
+      "id": "2026-10-02-helper-minimum-wage-5220",
+      "published_at": "2026-10-02T17:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "labour",
+        "immigration"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-helper-minimum-wage-5220.json",
+      "en": {
+        "headline": "Helper minimum wage set at HK$5,220 for new contracts",
+        "dek": "The government guide says the rate applies to contracts signed from 3 October. The food allowance stays at HK$1,236."
+      },
+      "zh": {
+        "headline": "外傭規定最低工資調至5220元 明日起新約適用",
+        "dek": "政府指引列明，每月5220元適用於10月3日或以後簽訂的合約，膳食津貼維持不少於1236元。"
+      }
+    },
+    {
+      "id": "2026-10-02-northern-nt-flooding-announcement",
+      "published_at": "2026-10-02T17:12:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "new-territories",
+        "warning"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-northern-nt-flooding-announcement.json",
+      "en": {
+        "headline": "Observatory warns of flooding risk around Sheung Shui",
+        "dek": "A 5pm announcement said more than 70 millimetres of rain fell in an hour in the northern New Territories."
+      },
+      "zh": {
+        "headline": "天文台發新界北部水浸特別報告 上水雨勢較大",
+        "dek": "下午5時的特別報告指新界北過去一小時錄得超過70毫米雨量，上水一帶尤其明顯。"
+      }
+    },
+    {
+      "id": "2026-10-02-thunderstorm-warning-afternoon",
+      "published_at": "2026-10-02T17:12:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "thunderstorm",
+        "hko",
+        "warning"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-thunderstorm-warning-afternoon.json",
+      "en": {
+        "headline": "Observatory extends afternoon thunderstorm warning to 6:30pm",
+        "dek": "A warning issued at 3:55pm was kept in force until 6:30pm, with isolated storms expected over Hong Kong."
+      },
+      "zh": {
+        "headline": "天文台下午雷暴警告延長至6時30分",
+        "dek": "下午3時55分發出的雷暴警告延長至下午6時30分，預料本港有局部地區雷暴。"
+      }
+    },
+    {
+      "id": "2026-10-02-wang-fuk-court-sale-agreements",
+      "published_at": "2026-10-02T17:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "tai-po"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-02/2026-10-02-wang-fuk-court-sale-agreements.json",
+      "en": {
+        "headline": "90.4% of Wang Fuk Court owners have signed sale agreements",
+        "dek": "Housing secretary Winnie Ho said the figure was as of 30 September, with signing due by 15 October."
+      },
+      "zh": {
+        "headline": "截至9月30日 宏福苑90.4%業主已簽買賣協議",
+        "dek": "房屋局局長何永賢表示，業主須於10月15日或之前完成簽署，解說專隊會繼續支援揀樓。"
+      }
+    },
     {
       "id": "2026-10-02-asian-games-29er-golds",
       "published_at": "2026-10-02T15:08:00+08:00",
@@ -2319,50 +2422,6 @@
       "zh": {
         "headline": "旅發局首辦香港萬聖月 三個周六街頭派對免費乘車",
         "dek": "10月17日起一連三個周六於中環、啟德、蘭桂坊、旺角及尖沙咀東舉行街頭派對，穿萬聖節裝扮可免費乘開篷巴士及派對電車。"
-      }
-    },
-    {
-      "id": "2026-09-29-non-local-nurses-stats",
-      "published_at": "2026-09-29T17:11:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "hospital-authority",
-        "nurses",
-        "employment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-29/2026-09-29-non-local-nurses-stats.json",
-      "en": {
-        "headline": "Less than 0.5 percent of nurses trained outside Hong Kong, authorities say",
-        "dek": "Health officials released figures showing 99.8 percent of Hospital Authority nurses are locally trained, responding to union concerns over recruitment priorities."
-      },
-      "zh": {
-        "headline": "當局指非本地培訓護士不足0.5% 公院本地培訓佔99.8%",
-        "dek": "醫衞局及醫管局公布數據，回應工會關注招聘優先次序，強調本地培訓護士仍是公營醫療主力。"
-      }
-    },
-    {
-      "id": "2026-09-29-mo-tai-fung-hammer-sentence",
-      "published_at": "2026-09-29T17:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "court",
-        "yau-ma-tei",
-        "assault"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-29/2026-09-29-mo-tai-fung-hammer-sentence.json",
-      "en": {
-        "headline": "Man jailed three years over hammer attack after victim dies of overdose",
-        "dek": "Mo Tai-fung, 42, was sentenced at the High Court after prosecutors amended an initial murder charge; an autopsy found the victim died from drug effects rather than the injuries."
-      },
-      "zh": {
-        "headline": "油麻地錘擊案 男子認有意圖傷人判囚三年兩個月",
-        "dek": "42歲巫泰峰去年在油麻地以鐵錘擊打同黨頭部11下，死者其後因吸毒過量身亡；高院今日判刑，控方早前已將謀殺罪改控有意圖傷人。"
       }
     }
   ]
