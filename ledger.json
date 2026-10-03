@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-03T11:10:24+08:00",
+  "updated_at": "2026-10-03T13:25:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "tsim-sha-tsui-harbour-death-oct3",
+      "id": "2026-10-03-tsim-sha-tsui-harbour-death",
+      "first_seen": "2026-10-03T13:25:00+08:00",
+      "headline_en": "Woman dies after being pulled from harbour off Tsim Sha Tsui"
+    },
+    {
+      "key": "tuen-mun-truck-crash-oct3",
+      "id": "2026-10-03-tuen-mun-truck-crash",
+      "first_seen": "2026-10-03T13:25:00+08:00",
+      "headline_en": "Driver trapped after truck hits traffic light in Tuen Mun"
+    },
+    {
+      "key": "basic-housing-registration-oct3",
+      "id": "2026-10-03-basic-housing-registration",
+      "first_seen": "2026-10-03T13:25:00+08:00",
+      "headline_en": "About 73,000 subdivided units have applied for registration"
+    },
+    {
+      "key": "asian-games-wong-tennis-gold-oct3",
+      "id": "2026-10-03-wong-tennis-gold",
+      "first_seen": "2026-10-03T13:25:00+08:00",
+      "headline_en": "Wong takes Hong Kong's first Asian Games men's singles tennis gold"
+    },
+    {
+      "key": "lifestyle-hkpax-2026-prelude",
+      "id": "2026-10-03-lifestyle-hkpax-prelude",
+      "first_seen": "2026-10-03T13:25:00+08:00",
+      "headline_en": "Free harbour shows open the performing arts expo next week"
+    },
     {
       "key": "amber-rainstorm-cancelled-oct3-0910",
       "id": "2026-10-03-amber-rainstorm-cancelled",
