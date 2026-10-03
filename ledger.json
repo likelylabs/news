@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-03T07:53:52+08:00",
+  "updated_at": "2026-10-03T09:13:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "thunderstorm-warning-extended-oct3-1030",
+      "id": "2026-10-03-thunderstorm-warning-extended",
+      "first_seen": "2026-10-03T09:13:00+08:00",
+      "headline_en": "Observatory extends thunderstorm warning to 10:30am"
+    },
+    {
+      "key": "tai-kok-tsui-worker-death-oct2",
+      "id": "2026-10-03-tai-kok-tsui-worker-death",
+      "first_seen": "2026-10-03T09:13:00+08:00",
+      "headline_en": "Worker dies two weeks after Tai Kok Tsui tank fall"
+    },
+    {
+      "key": "eastern-harbour-tunnel-crash-oct3",
+      "id": "2026-10-03-eastern-harbour-crash",
+      "first_seen": "2026-10-03T09:13:00+08:00",
+      "headline_en": "Vehicles collide in Eastern Harbour Crossing overnight"
+    },
+    {
+      "key": "lifestyle-mills-urban-brew-summit-2026",
+      "id": "2026-10-03-lifestyle-urban-brew-summit",
+      "first_seen": "2026-10-03T09:13:00+08:00",
+      "headline_en": "Coffee fair at The Mills runs through Sunday"
+    },
     {
       "key": "amber-rainstorm-warning-oct3-0400",
       "id": "2026-10-03-amber-rainstorm-warning",
