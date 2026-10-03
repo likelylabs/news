@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-04T01:04:31+08:00",
+  "updated_at": "2026-10-04T03:16:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "asian-games-equestrian-final-oct4",
+      "id": "2026-10-04-asian-games-equestrian-final",
+      "first_seen": "2026-10-04T03:16:00+08:00",
+      "headline_en": "Three Hong Kong riders in Asian Games jumping final"
+    },
+    {
+      "key": "po-pin-chau-saturday-visitors-oct3",
+      "id": "2026-10-04-po-pin-chau-visitors",
+      "first_seen": "2026-10-04T03:16:00+08:00",
+      "headline_en": "About 600 visited Po Pin Chau section on Saturday"
+    },
+    {
+      "key": "lifestyle-cultural-centre-moonlit-bunny-2026",
+      "id": "2026-10-04-lifestyle-cultural-centre-lanterns",
+      "first_seen": "2026-10-04T03:16:00+08:00",
+      "headline_en": "Cultural Centre moonlit lanterns stay lit through 11 October"
+    },
     {
       "key": "lifestyle-hkpm-forbidden-city-workshops",
       "id": "2026-10-04-lifestyle-hkpm-imperial-workshops",
