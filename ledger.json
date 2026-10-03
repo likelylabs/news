@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-03T21:07:18+08:00",
+  "updated_at": "2026-10-03T23:18:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "hotstone-yoga-complaints-627-oct3",
+      "id": "2026-10-03-hotstone-yoga-complaints",
+      "first_seen": "2026-10-03T23:18:00+08:00",
+      "headline_en": "Customs log 627 Hotstone Yoga complaints worth about HK$7 million"
+    },
+    {
+      "key": "asian-games-squash-team-return-oct3",
+      "id": "2026-10-03-squash-team-returns",
+      "first_seen": "2026-10-03T23:18:00+08:00",
+      "headline_en": "Squash team home after Asian Games gold and four other medals"
+    },
     {
       "key": "asian-games-sevens-gold-oct3",
       "id": "2026-10-03-asian-games-sevens-gold",
