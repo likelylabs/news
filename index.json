@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-03T13:16:30+08:00",
+  "generated_at": "2026-10-03T15:06:47+08:00",
   "live_window_hours": 72,
-  "count": 122,
+  "count": 121,
   "articles": [
+    {
+      "id": "2026-10-03-11-skies-reposition",
+      "published_at": "2026-10-03T15:08:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "transport",
+        "airport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-11-skies-reposition.json",
+      "en": {
+        "headline": "Chan urges Airport Authority to recast 11 Skies as tourism landmark",
+        "dek": "The transport secretary said the mega complex should be upgraded for transit passengers after New World returns it next April."
+      },
+      "zh": {
+        "headline": "陳美寶促機管局盡快為11 SKIES定路向",
+        "dek": "運輸及物流局局長指，新世界明年4月交還項目後，應升級為配合過境旅客的高階旅遊設施。"
+      }
+    },
+    {
+      "id": "2026-10-03-asian-games-sevens-final",
+      "published_at": "2026-10-03T15:08:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-games",
+        "rugby"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-asian-games-sevens-final.json",
+      "en": {
+        "headline": "Hong Kong men reach Asian Games sevens final against China",
+        "dek": "The defending champions beat South Korea 35-14 in the semi-final; the women will play Thailand for bronze, RTHK said."
+      },
+      "zh": {
+        "headline": "港隊男子七人欖球晉亞運決賽 將戰國家隊",
+        "dek": "港台報道，衛冤的港隊在四強以35比14勝韓國；女子隊準決賽不敵日本，將與泰國爭銅牌。"
+      }
+    },
+    {
+      "id": "2026-10-03-asian-games-windsurf-golds",
+      "published_at": "2026-10-03T15:08:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-games"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-asian-games-windsurf-golds.json",
+      "en": {
+        "headline": "Windsurfers take two golds as Hong Kong reaches 10 Asian Games titles",
+        "dek": "Wong Tsz-ho and Cheung Tsz-yuet won the youth iQFOiL events in Nagoya, taking the gold count to 10, RTHK reported."
+      },
+      "zh": {
+        "headline": "滑浪風帆青年組連奪兩金 港隊亞運金牌增至十面",
+        "dek": "港台報道，黃梓豪及張子悅在名古屋分別奪得男女子青少年水翼帆板金牌，馬君正摘女子銀牌。"
+      }
+    },
+    {
+      "id": "2026-10-03-lifestyle-westk-picnic-fest",
+      "published_at": "2026-10-03T15:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "west-kowloon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-lifestyle-westk-picnic-fest.json",
+      "en": {
+        "headline": "West Kowloon picnic market runs until 9pm through Sunday",
+        "dek": "The West Kowloon Cultural District says the Art Park harbour lawn market is open 2pm to 9pm on the Golden Week weekend."
+      },
+      "zh": {
+        "headline": "西九野餐市集黃金周周末開至晚上9時",
+        "dek": "西九文化區表示，藝術公園海濱草坪市集10月1日至4日舉行，周六及周日由下午2時至晚上9時。"
+      }
+    },
     {
       "id": "2026-10-03-basic-housing-registration",
       "published_at": "2026-10-03T13:25:00+08:00",
@@ -2536,115 +2619,6 @@
       "zh": {
         "headline": "大宗商品交易聯合工作組召開首次會議",
         "dek": "財庫局局長許正宇主持施政報告提出的工作組首次會議，表明以黃金為切入點推進交易生態圈。"
-      }
-    },
-    {
-      "id": "2026-09-30-hzmb-fresh-food-24h",
-      "published_at": "2026-09-30T15:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "hzmb",
-        "food",
-        "customs",
-        "cfs",
-        "golden-week"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-hzmb-fresh-food-24h.json",
-      "en": {
-        "headline": "HZMB fresh food imports go 24 hours from Thursday",
-        "dek": "The Centre for Food Safety said vehicles carrying designated fresh produce via the Hong Kong-Zhuhai-Macao Bridge may enter at any hour from midnight."
-      },
-      "zh": {
-        "headline": "港珠澳大橋鮮活食品周四起全日通關",
-        "dek": "食安中心表示，十月一日零時起經港珠澳大橋進口指定鮮活食品可全日24小時入境，文錦渡維持朝七晚十。"
-      }
-    },
-    {
-      "id": "2026-09-30-yellow-work-heat-warning",
-      "published_at": "2026-09-30T13:25:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "labour-department",
-        "heat",
-        "hko",
-        "warning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-yellow-work-heat-warning.json",
-      "en": {
-        "headline": "Yellow work heat stress warning issued as heat persists",
-        "dek": "The Labour Department raised the yellow warning at 10.10am, while the Observatory’s Very Hot Weather Warning remained in force."
-      },
-      "zh": {
-        "headline": "黃色工作暑熱警告生效 酷熱天氣警告持續",
-        "dek": "勞工處星期三上午10時10分發出黃色工作暑熱警告；天文台酷熱天氣警告仍然生效。"
-      }
-    },
-    {
-      "id": "2026-09-30-nsd-boom-news-arrests",
-      "published_at": "2026-09-30T13:24:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "national-security",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-nsd-boom-news-arrests.json",
-      "en": {
-        "headline": "National security police arrest two over alleged incitement",
-        "dek": "The National Security Department detained two people on Wednesday, including the founder of online outlet Boom News, over events outside Prince Edward station on 31 August."
-      },
-      "zh": {
-        "headline": "國安處拘兩人涉發布假消息煽動 包括網媒創辦人",
-        "dek": "警方國家安全處星期三早上拘捕兩人，包括網媒「爆炸頭」創辦人，指與8月31日太子站外事件有關。"
-      }
-    },
-    {
-      "id": "2026-09-30-shing-mun-river-body",
-      "published_at": "2026-09-30T13:23:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "sha-tin",
-        "police",
-        "shing-mun-river"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-shing-mun-river-body.json",
-      "en": {
-        "headline": "Man found dead in Shing Mun River near Fo Tan",
-        "dek": "A passer-by spotted a person in the water near Tsui Yung Bridge on Wednesday morning; rescuers recovered a man who was certified dead."
-      },
-      "zh": {
-        "headline": "沙田城門河發現男浮屍 身份待查",
-        "dek": "星期三早上有途人在沙田翠榕橋附近發現河中有人，救援人員救起一名男子後當場證實死亡。"
-      }
-    },
-    {
-      "id": "2026-09-30-hsbc-redcoin-named",
-      "published_at": "2026-09-30T13:22:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hsbc",
-        "payme",
-        "stablecoin",
-        "banking"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-hsbc-redcoin-named.json",
-      "en": {
-        "headline": "HSBC names Hong Kong stablecoin RedCoin for PayMe users",
-        "dek": "The bank said HSBC RedCoin would be offered through PayMe and its Hong Kong mobile app before the end of the year."
-      },
-      "zh": {
-        "headline": "滙豐將港元穩定幣定名RedCoin 擬經PayMe推出",
-        "dek": "滙豐表示，HSBC RedCoin將於今年年底前經PayMe及香港流動理財應用程式提供予用戶。"
       }
     }
   ]
