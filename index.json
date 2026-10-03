@@ -1,8 +1,110 @@
 {
-  "generated_at": "2026-10-03T11:10:24+08:00",
+  "generated_at": "2026-10-03T13:16:30+08:00",
   "live_window_hours": 72,
-  "count": 120,
+  "count": 122,
   "articles": [
+    {
+      "id": "2026-10-03-basic-housing-registration",
+      "published_at": "2026-10-03T13:25:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "government",
+        "housing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-basic-housing-registration.json",
+      "en": {
+        "headline": "About 73,000 subdivided units have applied for registration",
+        "dek": "The housing secretary said 42 units had completed certification, and 528 light-public-housing households had been allocated public rental flats."
+      },
+      "zh": {
+        "headline": "約7.3萬個分間單位已申請登記",
+        "dek": "房屋局局長何永賢表示，42個單位已完成認證，528戶簡約公屋住戶已獲編配公屋。"
+      }
+    },
+    {
+      "id": "2026-10-03-lifestyle-hkpax-prelude",
+      "published_at": "2026-10-03T13:25:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "tsim-sha-tsui",
+        "performance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-lifestyle-hkpax-prelude.json",
+      "en": {
+        "headline": "Free harbour shows open the performing arts expo next week",
+        "dek": "The Hong Kong Arts Development Council said outdoor performances will run at the Cultural Centre from 6 to 9 October, ahead of the expo."
+      },
+      "zh": {
+        "headline": "演藝博覽序幕 文化中心下周二起免費演出",
+        "dek": "藝發局表示，10月6日至9日每天下午4時半至7時半，在香港文化中心露天廣場有免費戶外節目。"
+      }
+    },
+    {
+      "id": "2026-10-03-tsim-sha-tsui-harbour-death",
+      "published_at": "2026-10-03T13:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tsim-sha-tsui",
+        "harbour"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-tsim-sha-tsui-harbour-death.json",
+      "en": {
+        "headline": "Woman dies after being pulled from harbour off Tsim Sha Tsui",
+        "dek": "Police said a woman of about 30 was found in the water near K11 on Saturday morning and was pronounced dead at Queen Elizabeth Hospital."
+      },
+      "zh": {
+        "headline": "尖沙咀海傍女子被救起後不治",
+        "dek": "警方指一名約30歲女子周六清晨在K11對開海面被發現，送伊利沙伯醫院後於早上7時31分證實死亡。"
+      }
+    },
+    {
+      "id": "2026-10-03-tuen-mun-truck-crash",
+      "published_at": "2026-10-03T13:25:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "accident",
+        "tuen-mun"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-tuen-mun-truck-crash.json",
+      "en": {
+        "headline": "Driver trapped after truck hits traffic light in Tuen Mun",
+        "dek": "A 16-tonne goods vehicle struck a traffic light at Tsing Wun Road and Pui To Road; the driver was conscious with a head injury."
+      },
+      "zh": {
+        "headline": "屯門貨車撼交通燈 司機一度被困送院",
+        "dek": "一輛16噸貨車周六早上在青雲路與杯渡路交界失事，司機頭部受傷、清醒送屯門醫院。"
+      }
+    },
+    {
+      "id": "2026-10-03-wong-tennis-gold",
+      "published_at": "2026-10-03T13:25:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-games"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-wong-tennis-gold.json",
+      "en": {
+        "headline": "Wong takes Hong Kong's first Asian Games men's singles tennis gold",
+        "dek": "Coleman Wong beat Wu Yibing 6-2, 6-4 in Nagoya for the team's eighth gold of the Games, matching the previous edition."
+      },
+      "zh": {
+        "headline": "黃澤林奪港隊首面亞運網球男單金牌",
+        "dek": "黃澤林在名古屋決賽以6比2、6比4擊敗吳易昺，港隊今屆第八金，追平上屆金牌數目。"
+      }
+    },
     {
       "id": "2026-10-03-amber-rainstorm-cancelled",
       "published_at": "2026-10-03T11:09:00+08:00",
@@ -2543,74 +2645,6 @@
       "zh": {
         "headline": "滙豐將港元穩定幣定名RedCoin 擬經PayMe推出",
         "dek": "滙豐表示，HSBC RedCoin將於今年年底前經PayMe及香港流動理財應用程式提供予用戶。"
-      }
-    },
-    {
-      "id": "2026-09-30-romance-scam-71-year-old-2-9m",
-      "published_at": "2026-09-30T11:24:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "fraud",
-        "scam",
-        "cybercrime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-romance-scam-71-year-old-2-9m.json",
-      "en": {
-        "headline": "Retired woman loses HK$2.9 million in romance scam",
-        "dek": "Police said at least 18 online romance frauds were reported in a week, with combined losses near HK$7.8 million, after a 71-year-old was lured into a fake investment."
-      },
-      "zh": {
-        "headline": "七旬婦墮網上情緣騙局失近290萬",
-        "dek": "警方公布過去一周至少18宗網上情緣騙案、合共接近780萬元，其中一名71歲退休女子被誘投資後轉賬17次。"
-      }
-    },
-    {
-      "id": "2026-09-30-cheuk-legco-birth-rate-package",
-      "published_at": "2026-09-30T11:23:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "legco",
-        "birth-rate",
-        "policy",
-        "labour",
-        "family"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-cheuk-legco-birth-rate-package.json",
-      "en": {
-        "headline": "Cheuk says birth package may have slowed a steeper fall",
-        "dek": "The deputy chief secretary told LegCo the government's medium-term aim is to stop a cliff-edge drop in births, and he reserved judgment on restoring a universal student grant."
-      },
-      "zh": {
-        "headline": "卓永興：無組合拳生育率跌幅或更嚴重",
-        "dek": "政務司副司長在立法會表示，中期目標是避免出生率斷崖式下跌，並對重推二千五百元學生津貼有保留。"
-      }
-    },
-    {
-      "id": "2026-09-30-mong-kok-bute-street-guesthouse-fire",
-      "published_at": "2026-09-30T11:22:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "mong-kok",
-        "emergency",
-        "fire-services"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-mong-kok-bute-street-guesthouse-fire.json",
-      "en": {
-        "headline": "About 20 evacuated after Mong Kok guesthouse fire",
-        "dek": "Firefighters put out a blaze on the second floor of a Bute Street building shortly after 2am; one staff member was lightly hurt and refused hospital treatment."
-      },
-      "zh": {
-        "headline": "旺角弼街賓館凌晨起火 約20人疏散一人輕傷",
-        "dek": "消防凌晨兩時許救熄旺角利發大樓二樓賓館火警，一名男職員自行撲火時輕傷拒送院，暫無可疑。"
       }
     }
   ]
