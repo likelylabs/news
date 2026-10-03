@@ -1,8 +1,92 @@
 {
-  "generated_at": "2026-10-03T15:06:47+08:00",
+  "generated_at": "2026-10-03T17:13:57+08:00",
   "live_window_hours": 72,
   "count": 121,
   "articles": [
+    {
+      "id": "2026-10-03-11-skies-airport-authority",
+      "published_at": "2026-10-03T17:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "airport",
+        "11-skies",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-11-skies-airport-authority.json",
+      "en": {
+        "headline": "Chan welcomes return of 11 Skies to the Airport Authority",
+        "dek": "The transport chief said on Saturday the authority would rename and reposition the airport commercial project after New World hands it back next April."
+      },
+      "zh": {
+        "headline": "陳美寶樂見11 SKIES交還機管局 將重新定位",
+        "dek": "運輸及物流局局長周六表示，新世界明年四月把機場商業項目交還機管局後，當局會重新命名及定位，朝高階旅遊地標發展。"
+      }
+    },
+    {
+      "id": "2026-10-03-asian-games-sailing-medals",
+      "published_at": "2026-10-03T17:12:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "sailing",
+        "nagoya"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-asian-games-sailing-medals.json",
+      "en": {
+        "headline": "Hong Kong sailing day takes Asian Games gold tally to 10",
+        "dek": "Youth windsurfers added two golds in Nagoya on Saturday, while ILCA 4 sailors took a silver and a bronze as the fleet finished its events."
+      },
+      "zh": {
+        "headline": "亞運帆船滑浪風帆再添獎牌 港隊金牌增至十面",
+        "dek": "名古屋亞運周六帆船及滑浪風帆收科，青年滑浪風帆連添兩金，青少年單人艇再取一銀一銅，金牌總數增至十面。"
+      }
+    },
+    {
+      "id": "2026-10-03-lifestyle-wing-wah-closing",
+      "published_at": "2026-10-03T17:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "yau-tong",
+        "closing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-lifestyle-wing-wah-closing.json",
+      "en": {
+        "headline": "Cha Kwo Ling bing sutt to close on Monday",
+        "dek": "Wing Wah Bing Sutt, open in the village since 1962, is due to shut on 5 October as Cha Kwo Ling is cleared for redevelopment."
+      },
+      "zh": {
+        "headline": "茶果嶺榮華冰室周一結業",
+        "dek": "油塘茶果嶺村1962年開業的榮華冰室定於10月5日結業，周六已有食客排隊告別，村屋清拆重建在即。"
+      }
+    },
+    {
+      "id": "2026-10-03-tuen-mun-fall-death",
+      "published_at": "2026-10-03T17:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tuen-mun",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-tuen-mun-fall-death.json",
+      "en": {
+        "headline": "Woman dies after fall at Tuen Mun estate",
+        "dek": "Police said a 26-year-old woman was found unconscious in a light well at Chelsea Heights on Saturday morning and later died in hospital."
+      },
+      "zh": {
+        "headline": "屯門卓爾居女子墮樓不治",
+        "dek": "警方表示，周六早上屯門石排頭徑卓爾居一名26歲女子倒臥天井，送院後不治，案件列作從高處墮下。"
+      }
+    },
     {
       "id": "2026-10-03-11-skies-reposition",
       "published_at": "2026-10-03T15:08:00+08:00",
@@ -2527,98 +2611,6 @@
       "zh": {
         "headline": "衞生防護中心公布一宗輸入猴痘個案",
         "dek": "一名40歲男子潛伏期在外地有高風險性接觸，現於瑪嘉烈醫院隔離，情況穩定。"
-      }
-    },
-    {
-      "id": "2026-09-30-northbound-travel-booking-review",
-      "published_at": "2026-09-30T17:13:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "hzmb",
-        "northbound-travel",
-        "transport",
-        "guangdong",
-        "policy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-northbound-travel-booking-review.json",
-      "en": {
-        "headline": "Hong Kong studying more no-booking days for northbound cars",
-        "dek": "Secretary for Transport and Logistics Mable Chan said the city is talking with Guangdong about extending the Tuesday-Wednesday waiver to other quieter weekdays."
-      },
-      "zh": {
-        "headline": "港粵研究更多工作日港車北上免預約",
-        "dek": "運輸及物流局局長陳美寶向立法會表示，正與廣東商討把週二、三免預約安排擴至其他非繁忙工作天。"
-      }
-    },
-    {
-      "id": "2026-09-30-ip-financing-sandbox-seven",
-      "published_at": "2026-09-30T17:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hkma",
-        "intellectual-property",
-        "financing",
-        "sme",
-        "cedb"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-ip-financing-sandbox-seven.json",
-      "en": {
-        "headline": "Seven firms win IP-backed loans in first sandbox batch",
-        "dek": "Banks completed credit approval on seven pilot cases worth HK$1 million to HK$39 million, the Monetary Authority and government said."
-      },
-      "zh": {
-        "headline": "知識產權融資沙盒首批七宗個案獲批",
-        "dek": "金管局公布參與銀行完成七宗試點審批，貸款由100萬至3,900萬元，涵蓋電子、建築、玩具及醫療器材。"
-      }
-    },
-    {
-      "id": "2026-09-30-lifestyle-halloween-month",
-      "published_at": "2026-09-30T15:08:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "halloween",
-        "tourism",
-        "events",
-        "hktb"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-lifestyle-halloween-month.json",
-      "en": {
-        "headline": "Tourism Board stages first Hong Kong Halloween Month",
-        "dek": "Street parties are planned on three Saturdays from 17 October in Central, Kai Tak, Lan Kwai Fong, Mong Kok and Tsim Sha Tsui East."
-      },
-      "zh": {
-        "headline": "旅發局首辦香港萬聖月 三個周六街頭派對",
-        "dek": "十月十七日起一連三個星期六，中環、啟德、蘭桂坊、旺角及尖東將舉辦萬聖節街頭活動，萬聖夜作結。"
-      }
-    },
-    {
-      "id": "2026-09-30-commodities-working-group",
-      "published_at": "2026-09-30T15:07:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "fstb",
-        "commodities",
-        "gold",
-        "hkex",
-        "policy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-commodities-working-group.json",
-      "en": {
-        "headline": "Commodities working group holds first meeting",
-        "dek": "Secretary for Financial Services and the Treasury Christopher Hui chaired the panel created in this year's Policy Address, with gold as the first focus."
-      },
-      "zh": {
-        "headline": "大宗商品交易聯合工作組召開首次會議",
-        "dek": "財庫局局長許正宇主持施政報告提出的工作組首次會議，表明以黃金為切入點推進交易生態圈。"
       }
     }
   ]
