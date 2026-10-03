@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-10-03T19:06:38+08:00",
+  "generated_at": "2026-10-03T21:07:18+08:00",
   "live_window_hours": 72,
-  "count": 120,
+  "count": 122,
   "articles": [
+    {
+      "id": "2026-10-03-asean-cup-champions",
+      "published_at": "2026-10-03T21:06:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "football",
+        "asean-cup",
+        "kai-tak"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-asean-cup-champions.json",
+      "en": {
+        "headline": "Hong Kong beat Cambodia 2-0 to win ASEAN Challenge Cup",
+        "dek": "Matt Orr and an Everton Camargo penalty settled the final at Kai Tak Stadium, reports said, after a June defeat in Phnom Penh."
+      },
+      "zh": {
+        "headline": "港隊2比0挫柬埔寨 奪首屆東盟挑戰杯",
+        "dek": "啟德主場決賽由安永佳先開紀錄，艾華頓十二碼建功，報導指港隊報卻6月作客敗仗。"
+      }
+    },
+    {
+      "id": "2026-10-03-nonlocal-tuition-2027",
+      "published_at": "2026-10-03T21:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-nonlocal-tuition-2027.json",
+      "en": {
+        "headline": "HKU sets 2027 non-local medicine fees at HK$590,000",
+        "dek": "The university's admissions pages list higher non-local undergraduate rates, while a survey puts the sector average rise at 17 per cent."
+      },
+      "zh": {
+        "headline": "港大公布2027學年非本地醫科學費59萬",
+        "dek": "入學處網頁列出非本地本科新學費，報章調查指八大中七校平均加幅約一成七。"
+      }
+    },
+    {
+      "id": "2026-10-03-one-stanley-reinforcement",
+      "published_at": "2026-10-03T21:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "stanley",
+        "housing",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-one-stanley-reinforcement.json",
+      "en": {
+        "headline": "Buildings Department finds One Stanley reinforcement does not match plans",
+        "dek": "Inspectors say a beam cover and some floor slabs at a Stanley house do not follow approved drawings, though they see no obvious danger."
+      },
+      "zh": {
+        "headline": "屋宇署：赤柱One Stanley獨立屋鋼筋配置不符圖則",
+        "dek": "署方指地面低層一條橫樑保護層未按圖則配鋼絲網，部分樓板鋼筋亦與圖則不符，但未構成明顯危險。"
+      }
+    },
     {
       "id": "2026-10-03-asian-games-sevens-gold",
       "published_at": "2026-10-03T19:05:00+08:00",
@@ -2557,29 +2619,6 @@
       "zh": {
         "headline": "廉署起訴加密幣找換店前職員涉收賄轉移交易",
         "dek": "指上水分店前職員暗中將客戶泰達幣買賣轉至他人錢包，三個月交易額近九百萬元，周五粉嶺裁判法院答辯。"
-      }
-    },
-    {
-      "id": "2026-09-30-lifestyle-hkpm-qing-workshops",
-      "published_at": "2026-09-30T19:07:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "hong-kong-palace-museum",
-        "exhibition",
-        "west-kowloon",
-        "culture"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-lifestyle-hkpm-qing-workshops.json",
-      "en": {
-        "headline": "Palace Museum opens Qing imperial workshops exhibition",
-        "dek": "Design for the Forbidden City, a joint show with the Palace Museum in Beijing, puts 157 objects on view from Wednesday, including 14 Grade-One relics."
-      },
-      "zh": {
-        "headline": "香港故宮開展「清宮製造與當代設計」",
-        "dek": "與北京故宮博物院合辦的專題展星期三起開放，展出157件文物，包括14件國家一級文物。"
       }
     }
   ]
