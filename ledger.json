@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-03T09:14:17+08:00",
+  "updated_at": "2026-10-03T11:09:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "amber-rainstorm-cancelled-oct3-0910",
+      "id": "2026-10-03-amber-rainstorm-cancelled",
+      "first_seen": "2026-10-03T11:09:00+08:00",
+      "headline_en": "Observatory cancels amber rainstorm warning at 9:10am"
+    },
+    {
+      "key": "lung-cheung-road-crash-oct3",
+      "id": "2026-10-03-lung-cheung-road-crash",
+      "first_seen": "2026-10-03T11:09:00+08:00",
+      "headline_en": "Car overturns on Lung Cheung Road flyover near Choi Hung"
+    },
+    {
+      "key": "asean-challenge-cup-final-oct3",
+      "id": "2026-10-03-asean-challenge-cup-final",
+      "first_seen": "2026-10-03T11:09:00+08:00",
+      "headline_en": "Hong Kong face Cambodia in ASEAN Challenge Cup final"
+    },
     {
       "key": "thunderstorm-warning-extended-oct3-1030",
       "id": "2026-10-03-thunderstorm-warning-extended",
