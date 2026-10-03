@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-10-04T01:04:31+08:00",
+  "generated_at": "2026-10-04T03:16:50+08:00",
   "live_window_hours": 72,
   "count": 117,
   "articles": [
+    {
+      "id": "2026-10-04-asian-games-equestrian-final",
+      "published_at": "2026-10-04T03:16:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "equestrian",
+        "nagoya"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-asian-games-equestrian-final.json",
+      "en": {
+        "headline": "Three Hong Kong riders in Asian Games jumping final",
+        "dek": "RTHK said the Nagoya Games close on Sunday night, with the last two golds still to be decided in show jumping."
+      },
+      "zh": {
+        "headline": "亞運今晚閉幕 三名港隊騎手出戰場地障礙決賽",
+        "dek": "港台報道，名古屋亞運周日晚上閉幕，最後兩面金牌留待馬術場地障礙賽產生。"
+      }
+    },
+    {
+      "id": "2026-10-04-lifestyle-cultural-centre-lanterns",
+      "published_at": "2026-10-04T03:16:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "tsim-sha-tsui",
+        "mid-autumn"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-lifestyle-cultural-centre-lanterns.json",
+      "en": {
+        "headline": "Cultural Centre moonlit lanterns stay lit through 11 October",
+        "dek": "The Leisure and Cultural Services Department's free piazza installation by Stickyline lights from 6:30pm to 11pm, Thursdays to Sundays."
+      },
+      "zh": {
+        "headline": "文化中心中秋光影裝置展至10月11日",
+        "dek": "康文署社區節目辦事處表示，尖沙咀文化中心露天廣場裝置周四至日晚上6時半至11時亮燈，免費入場。"
+      }
+    },
+    {
+      "id": "2026-10-04-po-pin-chau-visitors",
+      "published_at": "2026-10-04T03:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sai-kung",
+        "golden-week",
+        "country-parks"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-po-pin-chau-visitors.json",
+      "en": {
+        "headline": "About 600 visited Po Pin Chau section on Saturday",
+        "dek": "The Agriculture, Fisheries and Conservation Department said numbers were lower than expected after morning rain warnings, and bookings through Tuesday are full."
+      },
+      "zh": {
+        "headline": "周六約600人到破邊洲段 日至二預約已滿",
+        "dek": "漁護署表示，受早上市況影響，到訪人數較預期低，黃金周10月4日至6日預約已額滿。"
+      }
+    },
     {
       "id": "2026-10-04-golden-week-day-three-evening",
       "published_at": "2026-10-04T01:06:00+08:00",
@@ -2432,74 +2496,6 @@
       "zh": {
         "headline": "窩打老道中電設備故障 約千戶停電",
         "dek": "昨晚約十一時十八分九龍城窩打老道附近設備故障，何文田及附近約一千客戶受影響，氧氣機停頓老翁送院，消防接至少兩宗升降機困人。"
-      }
-    },
-    {
-      "id": "2026-10-01-lifestyle-mcdonalds-voucher-giveaway",
-      "published_at": "2026-10-01T03:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "tourism",
-        "wan-chai",
-        "tsim-sha-tsui",
-        "food"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-lifestyle-mcdonalds-voucher-giveaway.json",
-      "en": {
-        "headline": "Visitor spends HK$10,000 McDonald's prize treating strangers",
-        "dek": "A mainland tourist who won an Alipay voucher valid only in Hong Kong spent about a day buying meals for passers-by, cleaners and older diners before leaving the city."
-      },
-      "zh": {
-        "headline": "內地旅客抽中萬元麥當勞券請途人吃飯",
-        "dek": "遊客透過支付寶抽中只限香港分店使用的一萬元優惠，離港前約24小時走訪灣仔及尖沙咀分店請客。"
-      }
-    },
-    {
-      "id": "2026-10-01-national-day-ceremonies-fireworks",
-      "published_at": "2026-10-01T03:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "national-day",
-        "fireworks",
-        "golden-week",
-        "traffic",
-        "wan-chai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-national-day-ceremonies-fireworks.json",
-      "en": {
-        "headline": "Flag-raising at 8am, harbour fireworks at 8pm for National Day",
-        "dek": "Chief Executive John Lee leads the Golden Bauhinia Square ceremony this morning; police expect about 260,000 people along Victoria Harbour tonight and will close roads in phases from 4pm."
-      },
-      "zh": {
-        "headline": "國慶今早金紫荊升旗 晚上八時維港放煙花",
-        "dek": "行政長官李家超出席上午八時升旗及會展酒會；警方料約26萬人沿維港觀賞晚上匯演，下午四時起分階段封路。"
-      }
-    },
-    {
-      "id": "2026-10-01-ching-cheung-road-taxi-faint",
-      "published_at": "2026-10-01T03:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "taxi",
-        "traffic",
-        "cheung-sha-wan",
-        "emergency"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-ching-cheung-road-taxi-faint.json",
-      "en": {
-        "headline": "Passengers steer taxi after driver faints on Ching Cheung Road",
-        "dek": "Four passengers were unhurt after a 66-year-old taxi driver lost consciousness near noon on Monday; local reports said he remained in a critical condition."
-      },
-      "zh": {
-        "headline": "呈祥道的士司機昏迷 乘客協助停車無人受傷",
-        "dek": "周一中午66歲司機在長沙灣呈祥道近樂軒臺一帶突然失去知覺，四名乘客無羔；報道指司機其後情況危殆。"
       }
     }
   ]
