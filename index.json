@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-10-04T03:16:50+08:00",
+  "generated_at": "2026-10-04T07:04:52+08:00",
   "live_window_hours": 72,
-  "count": 117,
+  "count": 120,
   "articles": [
+    {
+      "id": "2026-10-04-beacon-peak-burglary",
+      "published_at": "2026-10-04T07:04:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "sham-shui-po"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-beacon-peak-burglary.json",
+      "en": {
+        "headline": "Man reports HK$800,000 taken from Beacon Peak flat",
+        "dek": "Police said a 28-year-old man reported signs of a search at a flat on Yin Ping Road on Saturday night, with jewellery and cash missing."
+      },
+      "zh": {
+        "headline": "筆架山豪宅單位報失約80萬元財物",
+        "dek": "警方指周六約晚上9時接獲28歲男子報案，延坪道Beacon Peak單位有搜掠痕跡，失去珠寶及現金，暫未有人被捕。"
+      }
+    },
+    {
+      "id": "2026-10-04-lifestyle-science-museum-food",
+      "published_at": "2026-10-04T07:04:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "tsim-sha-tsui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-lifestyle-science-museum-food.json",
+      "en": {
+        "headline": "Science Museum food-science show runs through 28 October",
+        "dek": "The museum and the French consulate opened the ground-floor exhibition on 1 October as part of a French science festival, the Hong Kong Economic Journal reported."
+      },
+      "zh": {
+        "headline": "科學館「創味盤中餐」展至10月28日",
+        "dek": "香港經濟日報報道，科學館與法國駐港澳總領事館合作，地下展覽廳由10月1日起展出，屬法國科學節節目。"
+      }
+    },
+    {
+      "id": "2026-10-04-one-stanley-developer-statement",
+      "published_at": "2026-10-04T07:04:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "stanley",
+        "housing",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-one-stanley-developer-statement.json",
+      "en": {
+        "headline": "One Stanley seller says it will cooperate with probe",
+        "dek": "K Wise Limited said late on Saturday it would remedy the Stanley house if the inquiry finds fault, citing the department's view of no obvious danger."
+      },
+      "zh": {
+        "headline": "One Stanley賣方稱配合屋宇署調查",
+        "dek": "建灝附屬公司堅維有限公司周六深夜發聲明，指會核實資料並協助署方，若查實有失誤會補救及追究責任。"
+      }
+    },
     {
       "id": "2026-10-04-asian-games-equestrian-final",
       "published_at": "2026-10-04T03:16:00+08:00",
