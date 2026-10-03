@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-10-03T17:13:57+08:00",
+  "generated_at": "2026-10-03T19:06:38+08:00",
   "live_window_hours": 72,
-  "count": 121,
+  "count": 120,
   "articles": [
+    {
+      "id": "2026-10-03-asian-games-sevens-gold",
+      "published_at": "2026-10-03T19:05:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "rugby",
+        "nagoya"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-asian-games-sevens-gold.json",
+      "en": {
+        "headline": "Hong Kong men win Asian Games sevens gold, women take bronze",
+        "dek": "RTHK said the men beat the national team 26-0 in Nagoya to complete a third straight title, taking the gold count to 11."
+      },
+      "zh": {
+        "headline": "男子七欖亞運三連冠 女子隊再奪銅牌",
+        "dek": "港台報道，港隊在名古屋決賽以26比0擊敗國家隊，完成三連冠，今屆金牌增至11面。"
+      }
+    },
+    {
+      "id": "2026-10-03-burglary-gang-arrests",
+      "published_at": "2026-10-03T19:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-burglary-gang-arrests.json",
+      "en": {
+        "headline": "Police arrest six over 25 burglaries worth HK$3.69 million",
+        "dek": "Officers said a two-way permit couple are accused of arranging illegal entrants to break into village houses in several districts."
+      },
+      "zh": {
+        "headline": "警方拘6人 涉25宗爆竊損失逾369萬元",
+        "dek": "警方指一對持雙程證夫婦涉嫌安排非法入境者，到多區村屋爆竊，不排除再有人被捕。"
+      }
+    },
+    {
+      "id": "2026-10-03-child-influenza-critical",
+      "published_at": "2026-10-03T19:05:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "influenza"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-child-influenza-critical.json",
+      "en": {
+        "headline": "Girl, 9, in critical condition with influenza B complications",
+        "dek": "The Centre for Health Protection said the child, who has a long-term illness, developed septic shock and severe pneumonia and had not had this season's flu vaccine."
+      },
+      "zh": {
+        "headline": "9歲女童染乙型流感併發肺炎 情況危殆",
+        "dek": "衞生防護中心表示，該名有長期病患的女童出現敗血性休克及嚴重肺炎，尚未接種本季流感疫苗。"
+      }
+    },
+    {
+      "id": "2026-10-03-golden-week-day-three-crossings",
+      "published_at": "2026-10-03T19:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "golden-week",
+        "immigration",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-golden-week-day-three-crossings.json",
+      "en": {
+        "headline": "Golden Week day three passes 638,000 crossings by 4pm",
+        "dek": "The Immigration Department said more than 190,000 of the inbound trips were by mainland visitors, mostly through Lok Ma Chau Spur Line."
+      },
+      "zh": {
+        "headline": "黃金周第三天截至下午4時逾63.8萬人次出入境",
+        "dek": "入境處向港台表示，入境人次中超過19萬為內地旅客，最多經落馬洲支線管制站入境。"
+      }
+    },
     {
       "id": "2026-10-03-11-skies-airport-authority",
       "published_at": "2026-10-03T17:12:00+08:00",
@@ -2498,119 +2580,6 @@
       "zh": {
         "headline": "香港故宮開展「清宮製造與當代設計」",
         "dek": "與北京故宮博物院合辦的專題展星期三起開放，展出157件文物，包括14件國家一級文物。"
-      }
-    },
-    {
-      "id": "2026-09-30-exchange-fund-august-assets",
-      "published_at": "2026-09-30T19:06:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hkma",
-        "exchange-fund",
-        "reserves",
-        "banking"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-exchange-fund-august-assets.json",
-      "en": {
-        "headline": "Exchange Fund assets fall to HK$4.34 trillion at end-August",
-        "dek": "The Monetary Authority said the drop of HK$68.3 billion from July was mainly due to withdrawals of Fiscal Reserves placements."
-      },
-      "zh": {
-        "headline": "外匯基金8月底總資產降至4.34萬億",
-        "dek": "金管局公布較7月底減少683億元，主因提取財政儲備存款；支持比率升至112%。"
-      }
-    },
-    {
-      "id": "2026-09-30-ckr-kowloon-bay-dec6",
-      "published_at": "2026-09-30T19:05:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "central-kowloon-route",
-        "route-6",
-        "tseung-kwan-o",
-        "yau-ma-tei"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-ckr-kowloon-bay-dec6.json",
-      "en": {
-        "headline": "Central Kowloon Route Kowloon Bay section to open 6 December",
-        "dek": "Transport chief Mable Chan told LegCo the last stretch of Route 6 will cut peak Tseung Kwan O to Yau Ma Tei trips to about 12 minutes."
-      },
-      "zh": {
-        "headline": "中九龍繞道九龍灣段12月6日通車",
-        "dek": "陳美寶向立法會表示，六號幹線全面啟用後，繁忙時間將軍澳往油麻地車程料由約65分鐘減至約12分鐘。"
-      }
-    },
-    {
-      "id": "2026-09-30-shui-chuen-o-yan-chuen-fire",
-      "published_at": "2026-09-30T19:04:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "sha-tin",
-        "shui-chuen-o",
-        "emergency",
-        "fire-services"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-shui-chuen-o-yan-chuen-fire.json",
-      "en": {
-        "headline": "Family of four hospitalised after Sha Tin estate fire",
-        "dek": "Firefighters put out a blaze at Yan Chuen House, Shui Chuen O Estate, around 7.10am; about 140 to 200 residents were evacuated."
-      },
-      "zh": {
-        "headline": "沙田水泉澳邨欣泉樓火警 一家四口送院",
-        "dek": "消防早上約7時10分救熄15樓單位火警，約140至200名居民疏散，四人懷疑吸入濃煙送院。"
-      }
-    },
-    {
-      "id": "2026-09-30-lifestyle-victoria-park-lanterns-extended",
-      "published_at": "2026-09-30T17:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "victoria-park",
-        "mid-autumn",
-        "tourism",
-        "lcsd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-lifestyle-victoria-park-lanterns-extended.json",
-      "en": {
-        "headline": "Victoria Park lantern displays extended to 7 October",
-        "dek": "The Tourism Board and Leisure and Cultural Services Department said about 580,000 visits were recorded in 13 days, with one day topping 200,000."
-      },
-      "zh": {
-        "headline": "維園中秋絳燈展延至10月7日",
-        "dek": "旅發局及康文署表示，9月17日至29日約58萬人次到訪，單日高峰超過20萬，展期覆蓋國慶黃金周。"
-      }
-    },
-    {
-      "id": "2026-09-30-mpox-imported-case",
-      "published_at": "2026-09-30T17:14:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "chp",
-        "mpox",
-        "public-health",
-        "hospital-authority"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-mpox-imported-case.json",
-      "en": {
-        "headline": "Health authorities confirm imported mpox case",
-        "dek": "A 40-year-old man is in stable condition at Princess Margaret Hospital after high-risk contact while outside Hong Kong, the Centre for Health Protection said."
-      },
-      "zh": {
-        "headline": "衞生防護中心公布一宗輸入猴痘個案",
-        "dek": "一名40歲男子潛伏期在外地有高風險性接觸，現於瑪嘉烈醫院隔離，情況穩定。"
       }
     }
   ]
