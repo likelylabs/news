@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T19:06:38+08:00",
+  "updated_at": "2026-10-03T21:06:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -625,6 +625,48 @@
       "id": "2026-10-01-national-day-ceremonies-fireworks",
       "first_seen": "2026-10-01T03:15:00+08:00",
       "headline_en": "Flag-raising at 8am, harbour fireworks at 8pm for National Day"
+    },
+    {
+      "key": "11-skies-chan-reposition-oct3",
+      "id": "2026-10-03-11-skies-reposition",
+      "first_seen": "2026-10-03T15:08:00+08:00",
+      "headline_en": "Chan urges Airport Authority to recast 11 Skies as tourism landmark"
+    },
+    {
+      "key": "lifestyle-westk-picnic-fest-golden-week",
+      "id": "2026-10-03-lifestyle-westk-picnic-fest",
+      "first_seen": "2026-10-03T15:08:00+08:00",
+      "headline_en": "West Kowloon picnic market runs until 9pm through Sunday"
+    },
+    {
+      "key": "asian-games-iqfoil-youth-golds-oct3",
+      "id": "2026-10-03-asian-games-windsurf-golds",
+      "first_seen": "2026-10-03T15:08:00+08:00",
+      "headline_en": "Windsurfers take two golds as Hong Kong reaches 10 Asian Games titles"
+    },
+    {
+      "key": "asian-games-mens-sevens-final-oct3",
+      "id": "2026-10-03-asian-games-sevens-final",
+      "first_seen": "2026-10-03T15:08:00+08:00",
+      "headline_en": "Hong Kong men reach Asian Games sevens final against China"
+    },
+    {
+      "key": "one-stanley-reinforcement-oct3",
+      "id": "2026-10-03-one-stanley-reinforcement",
+      "first_seen": "2026-10-03T21:06:00+08:00",
+      "headline_en": "Buildings Department finds One Stanley reinforcement does not match plans"
+    },
+    {
+      "key": "asean-challenge-cup-champions-oct3",
+      "id": "2026-10-03-asean-cup-champions",
+      "first_seen": "2026-10-03T21:06:00+08:00",
+      "headline_en": "Hong Kong beat Cambodia 2-0 to win ASEAN Challenge Cup"
+    },
+    {
+      "key": "nonlocal-tuition-2027-28-oct3",
+      "id": "2026-10-03-nonlocal-tuition-2027",
+      "first_seen": "2026-10-03T21:06:00+08:00",
+      "headline_en": "HKU sets 2027 non-local medicine fees at HK$590,000"
     }
   ]
 }
