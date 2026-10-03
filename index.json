@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-10-03T09:14:17+08:00",
+  "generated_at": "2026-10-03T11:10:24+08:00",
   "live_window_hours": 72,
-  "count": 121,
+  "count": 120,
   "articles": [
+    {
+      "id": "2026-10-03-amber-rainstorm-cancelled",
+      "published_at": "2026-10-03T11:09:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "rainstorm",
+        "thunderstorm",
+        "sai-kung"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-amber-rainstorm-cancelled.json",
+      "en": {
+        "headline": "Observatory cancels amber rainstorm warning at 9:10am",
+        "dek": "The signal, in force since 4am, was lifted after heavy rain over Sai Kung and Lantau; no warning is now in force."
+      },
+      "zh": {
+        "headline": "天文台上午9時10分取消黃色暴雨警告",
+        "dek": "警告自凌晨4時生效，西貢及大嶼山雨勢較大；上午稍後本港已再無天氣警告生效。"
+      }
+    },
+    {
+      "id": "2026-10-03-asean-challenge-cup-final",
+      "published_at": "2026-10-03T11:09:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "football",
+        "kai-tak"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-asean-challenge-cup-final.json",
+      "en": {
+        "headline": "Hong Kong face Cambodia in ASEAN Challenge Cup final",
+        "dek": "The first Challenge Cup final is this evening at Kai Tak Stadium, with FIFA president Infantino expected to attend."
+      },
+      "zh": {
+        "headline": "東盟挑戰盃決賽今晚啟德上演 港隊迎戰柬埔寨",
+        "dek": "首屆決賽在啟德主場館舉行，港台報道晚上6時開賽；國際足協會長恩芬天奴預料入場觀賽並頒獎。"
+      }
+    },
+    {
+      "id": "2026-10-03-lung-cheung-road-crash",
+      "published_at": "2026-10-03T11:09:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "accident",
+        "wong-tai-sin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-03/2026-10-03-lung-cheung-road-crash.json",
+      "en": {
+        "headline": "Car overturns on Lung Cheung Road flyover near Choi Hung",
+        "dek": "A driver was briefly trapped after the car flipped near Choi Hung Estate; the Tsuen Wan-bound flyover was closed."
+      },
+      "zh": {
+        "headline": "龍翔道近彩虹邨私家車撞壆翻側 往荃灣全線封閉",
+        "dek": "女司機一度被困，在場接受治理；運輸署指往荃灣方向天橋全線封閉，現場擠塞。"
+      }
+    },
     {
       "id": "2026-10-03-eastern-harbour-crash",
       "published_at": "2026-10-03T09:13:00+08:00",
@@ -2547,95 +2611,6 @@
       "zh": {
         "headline": "旺角弼街賓館凌晨起火 約20人疏散一人輕傷",
         "dek": "消防凌晨兩時許救熄旺角利發大樓二樓賓館火警，一名男職員自行撲火時輕傷拒送院，暫無可疑。"
-      }
-    },
-    {
-      "id": "2026-09-30-lifestyle-hkpm-qing-court-workshops",
-      "published_at": "2026-09-30T09:19:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "west-kowloon",
-        "palace-museum",
-        "heritage"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-lifestyle-hkpm-qing-court-workshops.json",
-      "en": {
-        "headline": "Palace Museum opens Qing imperial workshop exhibition",
-        "dek": "Design for the Forbidden City, jointly organised with Beijing's Palace Museum, puts more than 150 workshop objects on view in Gallery 5 from Wednesday."
-      },
-      "zh": {
-        "headline": "香港故宮開展清宮製造與當代設計",
-        "dek": "與北京故宮博物院合辦的專題展周三起在西九展廳五對外開放，展出造辦處文物一百五十多件。"
-      }
-    },
-    {
-      "id": "2026-09-30-devb-maintenance-prequalification-lists",
-      "published_at": "2026-09-30T09:18:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "development-bureau",
-        "ura",
-        "building-maintenance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-devb-maintenance-prequalification-lists.json",
-      "en": {
-        "headline": "Consultants and contractors may join building repair lists from today",
-        "dek": "The Development Bureau opened a four-week application window for three pre-qualification lists that will govern future large-scale maintenance tenders."
-      },
-      "zh": {
-        "headline": "樓宇維修三張預審名單今起接受申請",
-        "dek": "發展局星期三起就驗樓顧問、監督顧問及承建商三張預審名單接受申請，為期四星期至十月二十七日。"
-      }
-    },
-    {
-      "id": "2026-09-30-shui-chuen-o-yan-chuen-house-fire",
-      "published_at": "2026-09-30T09:17:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "sha-tin",
-        "housing",
-        "public-housing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-shui-chuen-o-yan-chuen-house-fire.json",
-      "en": {
-        "headline": "Four hurt in early morning fire at Shui Chuen O Estate",
-        "dek": "Firefighters put out a blaze in a Yan Chuen House flat in Sha Tin shortly after 7am; a family of four was injured and about 140 residents left the block."
-      },
-      "zh": {
-        "headline": "沙田水泉澳邸欣泉樓火警 一家四口受傷",
-        "dek": "周三早上六時許沙田水泉澳邸欣泉樓單位起火，消防七時十分救熄，一家四口受傷，約140名住客落樓暫避。"
-      }
-    },
-    {
-      "id": "2026-09-30-the-world-university-rankings-2027",
-      "published_at": "2026-09-30T09:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "universities",
-        "rankings",
-        "ugc"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-the-world-university-rankings-2027.json",
-      "en": {
-        "headline": "Five Hong Kong universities remain in THE world top 100",
-        "dek": "Times Higher Education's 2027 ranking keeps HKU at 33rd, with CityU rising three places to a record 70th and all eight UGC-funded universities inside the top 300."
-      },
-      "zh": {
-        "headline": "THE世界大學排名港五校續入百強 城大升至70創高",
-        "dek": "2027年泰普仕高等教育排名公布，港大維持全球第33、全港第一，城大升33位至第70創新高，八大全部打入全球首300。"
       }
     }
   ]
