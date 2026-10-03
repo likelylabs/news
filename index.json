@@ -1,8 +1,51 @@
 {
-  "generated_at": "2026-10-03T23:19:40+08:00",
+  "generated_at": "2026-10-04T01:04:31+08:00",
   "live_window_hours": 72,
-  "count": 118,
+  "count": 117,
   "articles": [
+    {
+      "id": "2026-10-04-golden-week-day-three-evening",
+      "published_at": "2026-10-04T01:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "golden-week",
+        "immigration",
+        "border"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-golden-week-day-three-evening.json",
+      "en": {
+        "headline": "Golden Week day three passes 1.02 million crossings by 9pm",
+        "dek": "The Immigration Department said more than 1.02 million people had crossed Hong Kong's control points by 9pm on Saturday, the third day of the mainland holiday."
+      },
+      "zh": {
+        "headline": "黃金周第三天截至晚上9時逾102萬人次出入境",
+        "dek": "入境處表示，周六晚上9時，本港各管制站累計出入境已超過102萬人次，為內地國慶黃金周第三天。"
+      }
+    },
+    {
+      "id": "2026-10-04-lifestyle-hkpm-imperial-workshops",
+      "published_at": "2026-10-04T01:06:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "west-kowloon",
+        "palace-museum"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-lifestyle-hkpm-imperial-workshops.json",
+      "en": {
+        "headline": "Palace Museum exhibition on Qing court workshops stays open",
+        "dek": "The Hong Kong Palace Museum opened a show on the imperial workshops of the Qing court on 30 September, and it remains on view in Gallery 5 over the holiday weekend."
+      },
+      "zh": {
+        "headline": "故宮文化博物館清代造辦處設計展假期繼續開放",
+        "dek": "香港故宮文化博物館與北京故宮博物院合辦的造辦處設計展，9月30日於5號展廳開放，國慶假期周末仍在展出。"
+      }
+    },
     {
       "id": "2026-10-03-hotstone-yoga-complaints",
       "published_at": "2026-10-03T23:18:00+08:00",
@@ -2457,75 +2500,6 @@
       "zh": {
         "headline": "呈祥道的士司機昏迷 乘客協助停車無人受傷",
         "dek": "周一中午66歲司機在長沙灣呈祥道近樂軒臺一帶突然失去知覺，四名乘客無羔；報道指司機其後情況危殆。"
-      }
-    },
-    {
-      "id": "2026-09-30-national-day-weekend-weather-outlook",
-      "published_at": "2026-09-30T23:44:00+08:00",
-      "updated_at": "2026-09-30T23:50:00+08:00",
-      "category": "weather",
-      "tags": [
-        "hko",
-        "weather",
-        "national-day",
-        "golden-week",
-        "forecast"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-national-day-weekend-weather-outlook.json",
-      "en": {
-        "headline": "Hot National Day, then showers over the long weekend",
-        "dek": "The Observatory expects Thursday to stay very hot before cloud and rain become more likely from Friday through Sunday."
-      },
-      "zh": {
-        "headline": "國慶酷熱其後有驟雨 長假期天氣展望",
-        "dek": "天文台預計星期四仍然酷熱，周五至周日轉多雲，有幾陣驟雨，局部地區或有雷暴。"
-      }
-    },
-    {
-      "id": "2026-09-30-wan-chai-hainan-chicken-salmonella",
-      "published_at": "2026-09-30T23:43:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "cfs",
-        "food-safety",
-        "wan-chai",
-        "salmonella",
-        "fehd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-wan-chai-hainan-chicken-salmonella.json",
-      "en": {
-        "headline": "Salmonella found in Wan Chai Hainan chicken rice sample",
-        "dek": "The Centre for Food Safety said a ready-to-eat sample from a restaurant in Tin Lok Lane failed microbiological guidelines and the dish was taken off sale."
-      },
-      "zh": {
-        "headline": "灣仔海南雞飯樣本驗出沙門氏菌",
-        "dek": "食安中心指天樂里食肆即食樣本不符合微生物指引，食肆已按指示停售及棄置相關食品。"
-      }
-    },
-    {
-      "id": "2026-09-30-nwd-11-skies-fy-loss",
-      "published_at": "2026-09-30T23:42:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "new-world",
-        "property",
-        "11-skies",
-        "airport",
-        "earnings"
-      ],
-      "breaking": false,
-      "path": "articles/2026-09-30/2026-09-30-nwd-11-skies-fy-loss.json",
-      "en": {
-        "headline": "New World books heavy loss after handing back 11 Skies",
-        "dek": "The developer reported a full-year loss after impairments and an early-termination fee tied to returning the airport mall project to the Airport Authority."
-      },
-      "zh": {
-        "headline": "新世界交還11 SKIES後全年大蝕",
-        "dek": "發展商公布截至6月底全年虧損約268億元，主因提早終止機場商場項目並計提減值及終止費用。"
       }
     }
   ]
