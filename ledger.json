@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-03T17:13:57+08:00",
+  "updated_at": "2026-10-03T19:05:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "asian-games-sevens-gold-oct3",
+      "id": "2026-10-03-asian-games-sevens-gold",
+      "first_seen": "2026-10-03T19:05:00+08:00",
+      "headline_en": "Hong Kong men win Asian Games sevens gold, women take bronze"
+    },
+    {
+      "key": "child-influenza-b-critical-oct3",
+      "id": "2026-10-03-child-influenza-critical",
+      "first_seen": "2026-10-03T19:05:00+08:00",
+      "headline_en": "Girl, 9, in critical condition with influenza B complications"
+    },
+    {
+      "key": "golden-week-oct3-afternoon-crossings",
+      "id": "2026-10-03-golden-week-day-three-crossings",
+      "first_seen": "2026-10-03T19:05:00+08:00",
+      "headline_en": "Golden Week day three passes 638,000 crossings by 4pm"
+    },
+    {
+      "key": "burglary-gang-six-arrests-oct3",
+      "id": "2026-10-03-burglary-gang-arrests",
+      "first_seen": "2026-10-03T19:05:00+08:00",
+      "headline_en": "Police arrest six over 25 burglaries worth HK$3.69 million"
+    },
     {
       "key": "asian-games-ilca4-windsurfing-medals-oct3",
       "id": "2026-10-03-asian-games-sailing-medals",
