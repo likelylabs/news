@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-10-04T07:13:10+08:00",
+  "generated_at": "2026-10-04T09:15:36+08:00",
   "live_window_hours": 72,
-  "count": 120,
+  "count": 117,
   "articles": [
+    {
+      "id": "2026-10-04-golden-week-inbound-peak",
+      "published_at": "2026-10-04T09:14:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "immigration",
+        "golden-week",
+        "border"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-golden-week-inbound-peak.json",
+      "en": {
+        "headline": "Immigration expects Sunday land-border inbound peak",
+        "dek": "The Immigration Department forecast about 586,000 land-border arrivals today, the busiest inbound day in its Golden Week plan."
+      },
+      "zh": {
+        "headline": "入境處料周日為陸路入境高峰",
+        "dek": "入境處預計今日陸路入境約58.6萬人次，是國慶黃金周計劃中最繁忙的入境日。"
+      }
+    },
+    {
+      "id": "2026-10-04-kai-tak-hospital-bookings",
+      "published_at": "2026-10-04T09:14:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "kai-tak",
+        "hospital",
+        "hospital-authority"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-kai-tak-hospital-bookings.json",
+      "en": {
+        "headline": "Kai Tak Hospital family clinic bookings open this morning",
+        "dek": "The Hospital Authority said patients can book the new Kai Tak family medicine clinic from this morning, ahead of Monday's opening."
+      },
+      "zh": {
+        "headline": "啟德醫院家庭醫學診所今早開始預約",
+        "dek": "醫管局表示，啟德醫院家庭醫學綜合中心周一開診，市民由今早起可經HA Go或電話預約偶發性疾病診症。"
+      }
+    },
+    {
+      "id": "2026-10-04-lifestyle-asiaplus-sonic-odyssey",
+      "published_at": "2026-10-04T09:14:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "cultural-centre",
+        "exhibition",
+        "asia-plus"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-lifestyle-asiaplus-sonic-odyssey.json",
+      "en": {
+        "headline": "Cultural Centre foyer hosts free Asia+ music-box show",
+        "dek": "The Leisure and Cultural Services Department is listing the Asia+ Festival exhibition at the Cultural Centre foyer, with free entry."
+      },
+      "zh": {
+        "headline": "文化中心大堂展出亞藝無疆音樂盒裝置",
+        "dek": "康文署今日節目表列出亞藝無疆專題展覽在香港文化中心大堂展出，免費入場。"
+      }
+    },
     {
       "id": "2026-10-04-beacon-peak-burglary",
       "published_at": "2026-10-04T07:04:00+08:00",
@@ -2426,139 +2490,6 @@
       "zh": {
         "headline": "大鼠戊肝再多一宗 與九龍城院舍個案有關連",
         "dek": "衞生防護中心公布，與上周確診的91歲男子同住九龍城安老院的80歲女家屬驗出大鼠戊型肝炎，沒有病徵，情況穩定，屬今年第四宗。"
-      }
-    },
-    {
-      "id": "2026-10-01-lifestyle-national-day-free-facilities",
-      "published_at": "2026-10-01T07:23:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "national-day",
-        "lcsd",
-        "cinema",
-        "tram"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-lifestyle-national-day-free-facilities.json",
-      "en": {
-        "headline": "LCSD venues free and cinema tickets half-price on National Day",
-        "dek": "Residents can book selected Leisure and Cultural Services Department sports facilities at no charge today, while 52 commercial cinemas sell half-price tickets and trams run free."
-      },
-      "zh": {
-        "headline": "國慶康文署設施免費 戲票半價電車免車費",
-        "dek": "今日以個人身分可免費預訂康文署部分收費康樂設施，全港52間商業戲院半價，電車全線免車費，濕地公園亦免費開放。"
-      }
-    },
-    {
-      "id": "2026-10-01-very-hot-fire-danger-warnings",
-      "published_at": "2026-10-01T07:22:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "very-hot-weather",
-        "fire-danger",
-        "national-day"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-very-hot-fire-danger-warnings.json",
-      "en": {
-        "headline": "Very hot weather and yellow fire danger warnings in force",
-        "dek": "The Observatory kept the Very Hot Weather Warning up for National Day and issued a yellow Fire Danger Warning at 6am, forecasting 34 degrees in urban areas."
-      },
-      "zh": {
-        "headline": "國慶酷熱及黃色火災危險警告生效",
-        "dek": "天文台酷熱天氣警告自九月二十八日上午十一時十五分生效，今早六時再發黃色火災危險警告，市區最高氣溫約34度。"
-      }
-    },
-    {
-      "id": "2026-10-01-asean-cup-brunei-final",
-      "published_at": "2026-10-01T07:21:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "football",
-        "kai-tak",
-        "hong-kong-team",
-        "asean-cup"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-asean-cup-brunei-final.json",
-      "en": {
-        "headline": "Hong Kong beat Brunei 2-0 to reach ASEAN Cup final",
-        "dek": "Chan Siu-kwan and Matt Orr scored at Kai Tak Sports Park as the team finished Group A with two wins and will face Cambodia on Saturday."
-      },
-      "zh": {
-        "headline": "港隊2比0勝汶萊 東盟盃決賽鬥柬埔寨",
-        "dek": "陳肇鈞下半場頭槌破網，安永佳補時鎖定勝局，港隊兩戰全勝以A組首名晉級，周六再戰啟德對柬埔寨。"
-      }
-    },
-    {
-      "id": "2026-10-01-yau-ma-tei-imitation-pistol",
-      "published_at": "2026-10-01T07:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "yau-ma-tei",
-        "police",
-        "firearms",
-        "temple-street"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-yau-ma-tei-imitation-pistol.json",
-      "en": {
-        "headline": "Australian man arrested over imitation pistol in Yau Ma Tei",
-        "dek": "Police seized a suspected replica Mauser pistol after a report near a Temple Street bar on Wednesday night and held a 46-year-old man for possessing an imitation firearm."
-      },
-      "zh": {
-        "headline": "油麻地檢獲仿製曲尺手槍 拘捕澳洲籍男子",
-        "dek": "周三晚約十時廟街酒吧一帶有人報稱懷疑有人藏有手槍物體，警方檢獲仿製曲尺手槍，以涉嫌管有仿製槍械拘捕46歲澳洲籍男子。"
-      }
-    },
-    {
-      "id": "2026-10-01-tsing-yi-north-coastal-nails",
-      "published_at": "2026-10-01T07:19:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "tsing-yi",
-        "traffic",
-        "criminal-damage",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-tsing-yi-north-coastal-nails.json",
-      "en": {
-        "headline": "Twelve cars punctured by nails on Tsing Yi North Coastal Road",
-        "dek": "Police collected 16 nails after drivers heading towards Lantau reported blowouts near an Environmental Protection Department emissions site on Wednesday evening."
-      },
-      "zh": {
-        "headline": "青衣北岸公路16枚鐵釘 12車爆胎",
-        "dek": "周三晚往大嶼山方向近環保署廢氣實測室對開，警方檢獲16枚鐵釘，列刑事毀壞，暫未有人被捕。"
-      }
-    },
-    {
-      "id": "2026-10-01-homantin-waterloo-power-outage",
-      "published_at": "2026-10-01T07:18:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "power-outage",
-        "clp",
-        "ho-man-tin",
-        "kowloon-city"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-homantin-waterloo-power-outage.json",
-      "en": {
-        "headline": "CLP fault cuts power to about 1,000 Ho Man Tin customers",
-        "dek": "Equipment near Waterloo Road failed at about 11.18pm; an elderly man on an oxygen machine was taken to hospital and firefighters freed two lifts."
-      },
-      "zh": {
-        "headline": "窩打老道中電設備故障 約千戶停電",
-        "dek": "昨晚約十一時十八分九龍城窩打老道附近設備故障，何文田及附近約一千客戶受影響，氧氣機停頓老翁送院，消防接至少兩宗升降機困人。"
       }
     }
   ]
