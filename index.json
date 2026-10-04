@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-10-04T21:11:13+08:00",
+  "generated_at": "2026-10-04T23:20:35+08:00",
   "live_window_hours": 72,
-  "count": 115,
+  "count": 116,
   "articles": [
+    {
+      "id": "2026-10-04-amber-rainstorm-cancelled",
+      "published_at": "2026-10-04T23:22:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "observatory",
+        "rainstorm",
+        "thunderstorm"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-amber-rainstorm-cancelled.json",
+      "en": {
+        "headline": "Observatory cancels amber rainstorm warning at 10:30pm",
+        "dek": "The amber signal lasted a little over two hours. A thunderstorm warning had been extended to 11:30pm, with gusts of 70 km/h still possible."
+      },
+      "zh": {
+        "headline": "天文台晚上10時30分取消黃色暴雨警告",
+        "dek": "黃雨警告生效約兩小時後取消。雷暴警告曾延長至晚上11時30分，天文台仍提醒陣風可達每小時70公里。"
+      }
+    },
+    {
+      "id": "2026-10-04-diamond-hill-knife-search",
+      "published_at": "2026-10-04T23:22:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "diamond-hill",
+        "mtr"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-diamond-hill-knife-search.json",
+      "en": {
+        "headline": "Police search Diamond Hill after report of woman with a knife",
+        "dek": "Officers were told a woman was seen with a fruit knife near Diamond Hill station. RTHK said a search around Tsz Ching Estate had found no one."
+      },
+      "zh": {
+        "headline": "鑽石山報稱有女子持刀 警方搜索暫無發現",
+        "dek": "警方接獲港鐵鑽石山站職員報案，指一名女子疑持生果刀。港台稱閉路電視顯示她最後在慈正邨一帶出現，搜索暫未尋獲。"
+      }
+    },
+    {
+      "id": "2026-10-04-golden-week-day-four-evening",
+      "published_at": "2026-10-04T23:22:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "golden-week",
+        "immigration",
+        "border"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-golden-week-day-four-evening.json",
+      "en": {
+        "headline": "Golden Week day four passes 1.02 million crossings by 9pm",
+        "dek": "The Immigration Department said more than 576,000 people had entered Hong Kong by 9pm on Sunday, with Lo Wu the busiest arrival point."
+      },
+      "zh": {
+        "headline": "黃金周第四日截至晚上9時逾102萬人次出入境",
+        "dek": "入境處表示，星期日截至晚上9時入境超過57萬6千人次，羅湖是入境最多人的管制站。"
+      }
+    },
     {
       "id": "2026-10-04-amber-rainstorm-evening",
       "published_at": "2026-10-04T21:06:00+08:00",
@@ -2375,50 +2438,6 @@
       "zh": {
         "headline": "雷暴警告延長至凌晨一時後不再生效",
         "dek": "天文台昨晚把雷暴警告延長至凌晨一時，現時已不再列為生效；酷熱天氣警告及黃色火災危險警告仍然有效。"
-      }
-    },
-    {
-      "id": "2026-10-01-national-day-fireworks-crowd",
-      "published_at": "2026-10-01T23:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "national-day",
-        "fireworks",
-        "victoria-harbour",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-national-day-fireworks-crowd.json",
-      "en": {
-        "headline": "Police say about 380,000 watched National Day fireworks",
-        "dek": "Officers put the Victoria Harbour crowd at about 380,000 after the 23-minute display, above the earlier estimate of 260,000."
-      },
-      "zh": {
-        "headline": "警方稱約38萬人觀賞國慶煙花匯演",
-        "dek": "煙花匯演結束後，警方表示約有38萬人在維港兩岸觀賞，高於事前預估26萬人。"
-      }
-    },
-    {
-      "id": "2026-10-01-thunderstorm-warning-eastern-nt",
-      "published_at": "2026-10-01T23:16:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "thunderstorm",
-        "hko",
-        "new-territories"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-thunderstorm-warning-eastern-nt.json",
-      "en": {
-        "headline": "Observatory issues thunderstorm warning for eastern New Territories",
-        "dek": "The Hong Kong Observatory raised a thunderstorm warning at 9:30pm, valid until 11:30pm, for isolated storms in the eastern New Territories."
-      },
-      "zh": {
-        "headline": "天文台發出雷暴警告 預料新界東部有局部雷暴",
-        "dek": "天文台晚上9時30分發出雷暴警告，有效至晚上11時30分，預料新界東部有局部地區雷暴。"
       }
     }
   ]
