@@ -1,8 +1,109 @@
 {
-  "generated_at": "2026-10-04T09:15:36+08:00",
+  "generated_at": "2026-10-04T11:10:24+08:00",
   "live_window_hours": 72,
   "count": 117,
   "articles": [
+    {
+      "id": "2026-10-04-empf-account-enquiry",
+      "published_at": "2026-10-04T11:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "mpf",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-empf-account-enquiry.json",
+      "en": {
+        "headline": "eMPF opens one-stop account enquiry from Monday",
+        "dek": "Members, authorised persons and estate handlers will be able to request trustee names, account numbers and balances in one application."
+      },
+      "zh": {
+        "headline": "積金易明起推一站式帳戶查詢",
+        "dek": "計劃成員、獲授權人士及處理遺產人士可一次申請查閱受託人、帳戶號碼及結餘。"
+      }
+    },
+    {
+      "id": "2026-10-04-hui-precious-metals-trip",
+      "published_at": "2026-10-04T11:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "finance",
+        "gold"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-hui-precious-metals-trip.json",
+      "en": {
+        "headline": "Hui leaves Monday night for Italy metals conference",
+        "dek": "The financial services secretary will attend a precious metals meeting in Sorrento and visit Swiss gold refineries before returning on Thursday."
+      },
+      "zh": {
+        "headline": "許正宇周一晚出發 赴意大利出席貴金屬會議",
+        "dek": "財庫局局長將到索倫托出席全球貴金屬會議，並到瑞士參觀黃金精煉廠，周四返港。"
+      }
+    },
+    {
+      "id": "2026-10-04-lifestyle-afcd-fishery-tours",
+      "published_at": "2026-10-04T11:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "tai-po"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-lifestyle-afcd-fishery-tours.json",
+      "en": {
+        "headline": "AFCD lists eight farm and fishery tours from November",
+        "dek": "Places are HK$300 each, for ages six and above, and can be booked only at a Tseung Kwan O fair on 10 and 11 October."
+      },
+      "zh": {
+        "headline": "漁護署下月起辦八個漁農體驗團",
+        "dek": "每位300元，6歲或以上可參加，只限10月10及11日在將軍澳東港城博覽現場報名。"
+      }
+    },
+    {
+      "id": "2026-10-04-prince-edward-byd-incident",
+      "published_at": "2026-10-04T11:12:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic",
+        "prince-edward"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-prince-edward-byd-incident.json",
+      "en": {
+        "headline": "Driver freed after car moves outside Prince Edward bar",
+        "dek": "A 29-year-old man suffered a minor right-knee injury after he was trapped between a BYD and a Volkswagen in Sai Yeung Choi Street North."
+      },
+      "zh": {
+        "headline": "太子酒吧外私家車駛前 司機被夾輕傷",
+        "dek": "29歲男司機在西洋菜北街被夾在比亞迪與福士之間數分鐘，右膝輕傷清醒送院。"
+      }
+    },
+    {
+      "id": "2026-10-04-sau-mau-ping-crypto-report",
+      "published_at": "2026-10-04T11:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "fraud",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-sau-mau-ping-crypto-report.json",
+      "en": {
+        "headline": "Woman reports HK$21.5 million lost in crypto scam",
+        "dek": "Police said a 60-year-old woman reported transfers between April and September after a site asked for a deposit to prove her account was clean."
+      },
+      "zh": {
+        "headline": "六旬婦報稱虛擬貨幣投資被騙2150萬",
+        "dek": "警方指她周六報案，4月至9月多次轉帳，平台曾要求交保證金以證明帳戶未涉洗黑錢。"
+      }
+    },
     {
       "id": "2026-10-04-golden-week-inbound-peak",
       "published_at": "2026-10-04T09:14:00+08:00",
@@ -2378,118 +2479,6 @@
       "zh": {
         "headline": "國慶酒會李家超談首份五年規劃 黎家盈太空送祝辭",
         "dek": "特首在會展國慶酒會稱，五年規劃是在一國兩制下的策略路線圖；神舟二十三號載荷專家黎家盈亦從天宮錄影致賀。"
-      }
-    },
-    {
-      "id": "2026-10-01-lifestyle-national-day-racing",
-      "published_at": "2026-10-01T09:30:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "lifestyle",
-        "national-day",
-        "sha-tin",
-        "racing",
-        "hkjc"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-lifestyle-national-day-racing.json",
-      "en": {
-        "headline": "Sha Tin public stands free for National Day racing",
-        "dek": "The Jockey Club opens Sha Tin at 11am, with the first race at 1pm and a Grade Three National Day Cup over 1,000 metres; Happy Valley public stands are also free for people aged 18 or above."
-      },
-      "zh": {
-        "headline": "國慶賽馬日沙田公眾席免費開放",
-        "dek": "馬會今日在沙田舉行國慶賽馬日，上午11時開放，首場下午1時開跑，焦點為總獎金420萬元的三級賽國慶盈；年滿18歲人士可免費進入沙田及跑馬地公眾席。"
-      }
-    },
-    {
-      "id": "2026-10-01-golden-week-visitor-forecast",
-      "published_at": "2026-10-01T09:29:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "tourism",
-        "golden-week",
-        "national-day",
-        "retail"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-golden-week-visitor-forecast.json",
-      "en": {
-        "headline": "Officials expect 1.29 million Golden Week visitors",
-        "dek": "Secretary for Culture, Sports and Tourism Rosanna Law said mainland arrivals over the National Day holiday are forecast to rise 5 per cent, after Mid-Autumn visitor numbers increased by more than 20 per cent."
-      },
-      "zh": {
-        "headline": "文體旅局料黃金周內地客129萬人次",
-        "dek": "局長羅淑佩表示，國慶黃金周訪港內地旅客預計達129萬人次，按年升約5%；中秋訪港人次已升兩成或以上，酒店入住率料達九成或以上。"
-      }
-    },
-    {
-      "id": "2026-10-01-polyu-safemove-fall-programme",
-      "published_at": "2026-10-01T09:28:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "elderly",
-        "polyu",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-polyu-safemove-fall-programme.json",
-      "en": {
-        "headline": "PolyU programme to train 17,000 seniors on safer falls",
-        "dek": "A 45-month Jockey Club-funded project launched on Wednesday will combine bone-density checks, an AI risk score and judo-based landing drills for people aged 60 or above."
-      },
-      "zh": {
-        "headline": "理大推防跌計劃 料惠及1.7萬名長者",
-        "dek": "賽馬會資助的45個月計劃周三啟動，結合骨質密度檢測、人工智能跌倒評估及柔道安全着地訓練，對象為60歲或以上社區長者。"
-      }
-    },
-    {
-      "id": "2026-10-01-st-josephs-primary-rebuild",
-      "published_at": "2026-10-01T09:27:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "wan-chai",
-        "schools",
-        "construction"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-st-josephs-primary-rebuild.json",
-      "en": {
-        "headline": "St Joseph's Primary rebuild clears internal government checks",
-        "dek": "Principal Lam Mei-kei told parents the Wan Chai school's long-planned in-situ project has passed internal approval and can now move toward detailed design, tendering and a funding bid to the Legislative Council."
-      },
-      "zh": {
-        "headline": "聖若瑟小學原址重建通過內部審批",
-        "dek": "校長林美琪向家長發信，指灣仔活道校舍重建已獲政府內部審批，下一步將定稿設計、招標及向立法會申請撥款，若順利可望明年底動工。"
-      }
-    },
-    {
-      "id": "2026-10-01-rat-hev-fourth-case",
-      "published_at": "2026-10-01T09:26:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "chp",
-        "fehd",
-        "homantin",
-        "rodents"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-rat-hev-fourth-case.json",
-      "en": {
-        "headline": "Fourth rat hepatitis E case linked to Kowloon City home",
-        "dek": "An 80-year-old woman living in the same Kowloon City care home as a 91-year-old man confirmed last week tested positive and remains without symptoms, the Centre for Health Protection said."
-      },
-      "zh": {
-        "headline": "大鼠戊肝再多一宗 與九龍城院舍個案有關連",
-        "dek": "衞生防護中心公布，與上周確診的91歲男子同住九龍城安老院的80歲女家屬驗出大鼠戊型肝炎，沒有病徵，情況穩定，屬今年第四宗。"
       }
     }
   ]
