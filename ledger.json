@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-04T11:10:24+08:00",
+  "updated_at": "2026-10-04T13:22:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "foreign-carer-trial-h2-2027",
+      "id": "2026-10-04-foreign-carer-trial",
+      "first_seen": "2026-10-04T13:22:00+08:00",
+      "headline_en": "Sun says foreign carer trial to start in second half of next year"
+    },
+    {
+      "key": "hx676-okinawa-return-oct4",
+      "id": "2026-10-04-hk-airlines-okinawa-return",
+      "first_seen": "2026-10-04T13:22:00+08:00",
+      "headline_en": "Hong Kong Airlines Okinawa flight returns after gear alert"
+    },
+    {
+      "key": "thunderstorm-warning-oct4-1303",
+      "id": "2026-10-04-thunderstorm-warning-afternoon",
+      "first_seen": "2026-10-04T13:22:00+08:00",
+      "headline_en": "Observatory issues afternoon thunderstorm warning"
+    },
     {
       "key": "hui-precious-metals-trip-oct5",
       "id": "2026-10-04-hui-precious-metals-trip",
