@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-05T03:15:16+08:00",
+  "updated_at": "2026-10-05T07:08:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "diamond-hill-knife-arrest-oct5",
+      "id": "2026-10-05-diamond-hill-knife-arrest",
+      "first_seen": "2026-10-05T07:08:00+08:00",
+      "headline_en": "Police arrest woman after Diamond Hill knife report"
+    },
+    {
+      "key": "monsoon-cooler-morning-oct5",
+      "id": "2026-10-05-monsoon-cooler-morning",
+      "first_seen": "2026-10-05T07:08:00+08:00",
+      "headline_en": "Most districts about two degrees cooler after monsoon arrival"
+    },
+    {
+      "key": "lifestyle-charles-ng-saxophone-oct8",
+      "id": "2026-10-05-lifestyle-charles-ng-saxophone",
+      "first_seen": "2026-10-05T07:08:00+08:00",
+      "headline_en": "City Hall hosts Charles Ng saxophone recital on Thursday"
+    },
     {
       "key": "lifestyle-coffee-voyage-taikoo-oct8",
       "id": "2026-10-05-lifestyle-coffee-voyage-taikoo",
