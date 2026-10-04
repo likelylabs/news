@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-04T13:15:11+08:00",
+  "updated_at": "2026-10-04T15:08:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "workweek-weather-outlook-oct5-9",
+      "id": "2026-10-04-workweek-weather-outlook",
+      "first_seen": "2026-10-04T15:08:00+08:00",
+      "headline_en": "Observatory outlook: cooler mornings, then a drier work week"
+    },
+    {
+      "key": "thunderstorm-warning-extended-oct4-1700",
+      "id": "2026-10-04-thunderstorm-warning-extended",
+      "first_seen": "2026-10-04T15:08:00+08:00",
+      "headline_en": "Thunderstorm warning extended until 5pm, Observatory says"
+    },
+    {
+      "key": "chan-blog-ipo-golden-week-oct4",
+      "id": "2026-10-04-chan-ipo-golden-week",
+      "first_seen": "2026-10-04T15:08:00+08:00",
+      "headline_en": "Chan says IPO haul tops HK$388 billion in nine months"
+    },
+    {
+      "key": "shing-mun-monkey-injury-oct4",
+      "id": "2026-10-04-shing-mun-monkey-injury",
+      "first_seen": "2026-10-04T15:08:00+08:00",
+      "headline_en": "Hiker injured by monkey at Shing Mun Reservoir"
+    },
     {
       "key": "foreign-carer-trial-h2-2027",
       "id": "2026-10-04-foreign-carer-trial",
