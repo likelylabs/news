@@ -1,8 +1,51 @@
 {
-  "generated_at": "2026-10-04T23:20:35+08:00",
+  "generated_at": "2026-10-05T01:05:05+08:00",
   "live_window_hours": 72,
-  "count": 116,
+  "count": 118,
   "articles": [
+    {
+      "id": "2026-10-05-chinese-medicine-testing",
+      "published_at": "2026-10-05T01:06:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "chinese-medicine",
+        "health",
+        "tseung-kwan-o"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-chinese-medicine-testing.json",
+      "en": {
+        "headline": "Chinese medicine lab cuts velvet-antler test to under a day",
+        "dek": "The Department of Health institute says a DNA method can show whether Lu Rong slices are authentic in less than a day, down from three."
+      },
+      "zh": {
+        "headline": "中藥檢測中心：鹿茸鑑定可縮至一日內",
+        "dek": "衞生署政府中藥檢測中心表示，新的DNA方法可在一日內分辨鹿茸飲片是否正品，較傳統檢測約三天為短。"
+      }
+    },
+    {
+      "id": "2026-10-05-lifestyle-sushiro-dragon-centre",
+      "published_at": "2026-10-05T01:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "sham-shui-po",
+        "opening"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-lifestyle-sushiro-dragon-centre.json",
+      "en": {
+        "headline": "Sushiro opens a Sham Shui Po branch at Dragon Centre",
+        "dek": "The conveyor-belt chain’s new shop on the second floor of Dragon Centre starts service on Monday, the company said."
+      },
+      "zh": {
+        "headline": "壽司郎深水埗西九龍中心分店周一開業",
+        "dek": "迴轉壽司連鎖店表示，新店位於西九龍中心二樓，星期一開始營業。"
+      }
+    },
     {
       "id": "2026-10-04-amber-rainstorm-cancelled",
       "published_at": "2026-10-04T23:22:00+08:00",
