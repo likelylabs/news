@@ -1,8 +1,92 @@
 {
-  "generated_at": "2026-10-04T13:15:11+08:00",
+  "generated_at": "2026-10-04T15:06:44+08:00",
   "live_window_hours": 72,
-  "count": 117,
+  "count": 118,
   "articles": [
+    {
+      "id": "2026-10-04-chan-ipo-golden-week",
+      "published_at": "2026-10-04T15:08:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "ipo",
+        "golden-week",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-chan-ipo-golden-week.json",
+      "en": {
+        "headline": "Chan says IPO haul tops HK$388 billion in nine months",
+        "dek": "The financial secretary also said Golden Week's first three days brought more than 732,000 mainland visitor arrivals, up about 8.4%."
+      },
+      "zh": {
+        "headline": "陳茂波：首九個月新股集資逾3880億元",
+        "dek": "財政司長在網誌指，集資額按年多一倍並超越去年全年；黃金周首三日內地旅客逾73.2萬人次，按年增約8.4%。"
+      }
+    },
+    {
+      "id": "2026-10-04-shing-mun-monkey-injury",
+      "published_at": "2026-10-04T15:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tsuen-wan",
+        "hiking",
+        "wildlife"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-shing-mun-monkey-injury.json",
+      "en": {
+        "headline": "Hiker injured by monkey at Shing Mun Reservoir",
+        "dek": "Police were called at 11:16am after a woman in her 30s was hurt on the hand while hiking near Pineapple Dam and taken to Yan Chai Hospital."
+      },
+      "zh": {
+        "headline": "城門水塘行山女子遭猴子傷手送院",
+        "dek": "警方上午11時16分接報，一名30餘歲女子在菠蘿壩附近行山時手部受傷流血，清醒送往仁濟醫院。"
+      }
+    },
+    {
+      "id": "2026-10-04-thunderstorm-warning-extended",
+      "published_at": "2026-10-04T15:08:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "thunderstorm",
+        "warning"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-thunderstorm-warning-extended.json",
+      "en": {
+        "headline": "Thunderstorm warning extended until 5pm, Observatory says",
+        "dek": "The warning issued at 1:03pm remains in force until 5pm, after lightning over the New Territories and isolated showers."
+      },
+      "zh": {
+        "headline": "雷暴警告延長至下午5時 新界有閃電",
+        "dek": "天文台下午2時31分的天氣報告指，下午1時03分發出的雷暴警告有效至下午5時，新界東西早前錄得閃電。"
+      }
+    },
+    {
+      "id": "2026-10-04-workweek-weather-outlook",
+      "published_at": "2026-10-04T15:08:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "forecast",
+        "monsoon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-workweek-weather-outlook.json",
+      "en": {
+        "headline": "Observatory outlook: cooler mornings, then a drier work week",
+        "dek": "A northeast monsoon replenishment is due tonight, with showers easing and mornings turning slightly cooler before clearer, drier days later in the week."
+      },
+      "zh": {
+        "headline": "天文台展望：本周早上稍涼 後期轉晴乾燥",
+        "dek": "東北季候風補充今晚抵達廣東沿岸，未來數日風勢較大、驟雨減少，早上稍涼，本周後期大致天晴乾燥。"
+      }
+    },
     {
       "id": "2026-10-04-foreign-carer-trial",
       "published_at": "2026-10-04T13:22:00+08:00",
@@ -2410,73 +2494,6 @@
       "zh": {
         "headline": "何文田旺角停電後復電 中電指今早一度再受影響",
         "dek": "中電表示周三晚上11時18分窩打老道附近設備故障，約1,000名客戶受影響；清晨復電後今早臨時供電不穩，約650戶一度再停電。"
-      }
-    },
-    {
-      "id": "2026-10-01-asian-games-women-squash-final",
-      "published_at": "2026-10-01T13:18:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "squash",
-        "sailing",
-        "hong-kong-team"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-asian-games-women-squash-final.json",
-      "en": {
-        "headline": "Hong Kong women reach Asian Games squash final",
-        "dek": "Ho Tze-lok won the decider against India as the team advanced 2-1 in Nagoya, while sailors added silver and bronze in the 49er class on day 12."
-      },
-      "zh": {
-        "headline": "亞運女子壁球隊晉級決賽",
-        "dek": "何子樂擊敗印度對手鎖定2比1勝局，港隊周五爭金；帆船49人級同日添一銀一銅。"
-      }
-    },
-    {
-      "id": "2026-10-01-lifestyle-po-pin-chau-national-day",
-      "published_at": "2026-10-01T13:18:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "sai-kung",
-        "hiking",
-        "golden-week",
-        "afcd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-lifestyle-po-pin-chau-national-day.json",
-      "en": {
-        "headline": "Po Pin Chau trail booked out on National Day",
-        "dek": "AFCD Director Leung Kin-ming inspected the High Island booking scheme as the 2,000 daily cap filled for 1 and 2 October; the nearby Pak Lap Tsui section needs no reservation."
-      },
-      "zh": {
-        "headline": "國慶破邊洲段預約額滿 漁護署長到場視察",
-        "dek": "黃金周試行預約制，10月1及2日全日2,000個名額已滿；未預約者可改走免預約的標尖角段。"
-      }
-    },
-    {
-      "id": "2026-10-01-yellow-work-heat-warning",
-      "published_at": "2026-10-01T13:18:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "labour-department",
-        "heat",
-        "hko",
-        "national-day"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-yellow-work-heat-warning.json",
-      "en": {
-        "headline": "Yellow work heat warning issued on National Day",
-        "dek": "The Labour Department put the yellow Heat Stress at Work Warning in force at 11.30am as the Observatory kept the Very Hot Weather Warning up and temperatures reached about 35 degrees."
-      },
-      "zh": {
-        "headline": "國慶黃色工作暑熱警告生效",
-        "dek": "勞工處今日上午11時30分發出黃色工作暑熱警告，天文台酷熱天氣警告持續，部分地區中午氣溫約35度。"
       }
     }
   ]
