@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T21:07:15+08:00",
+  "generated_at": "2026-10-04T21:08:08+08:00",
   "live_window_hours": 72,
-  "count": 113,
+  "count": 115,
   "articles": [
     {
       "id": "2026-10-04-amber-rainstorm-evening",
@@ -23,6 +23,68 @@
       "zh": {
         "headline": "天文台晚上8時20分發出黃色暴雨警告",
         "dek": "晚上8時21分的天氣報告指黃色暴雨警告生效，雷暴警告有效至晚上10時，並預料有每小時70公里或以上強陣風。"
+      }
+    },
+    {
+      "id": "2026-10-04-hotstone-yoga-complaints-update",
+      "published_at": "2026-10-04T21:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "customs",
+        "consumer"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-hotstone-yoga-complaints-update.json",
+      "en": {
+        "headline": "Customs log 694 Hotstone Yoga reports worth about HK$7.8 million",
+        "dek": "The figure, given for 6pm on Sunday, is up from 627 reports involving about HK$7 million logged by Saturday evening."
+      },
+      "zh": {
+        "headline": "岩盤浴瑜伽結業 海關接獲694宗舉報涉款約780萬",
+        "dek": "海關回覆指，截至星期日傍晚6時共接獲694宗舉報，涉款約780萬元，高於星期六傍晚的627宗、約700萬元。"
+      }
+    },
+    {
+      "id": "2026-10-04-huanggang-community-day",
+      "published_at": "2026-10-04T21:06:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "border",
+        "golden-week",
+        "immigration"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-huanggang-community-day.json",
+      "en": {
+        "headline": "More than 1,500 residents tour the rebuilt Huanggang port",
+        "dek": "The Security Bureau held a community day at the Hong Kong side of the joint checkpoint building ahead of the crossing's opening."
+      },
+      "zh": {
+        "headline": "逾1500名市民參觀重建後皇崗口岸港方口岸區",
+        "dek": "保安局在口岸開通前舉辦社區體驗日，讓各區市民試用公共交通安排，並了解「合作查驗、一次放行」通關模式。"
+      }
+    },
+    {
+      "id": "2026-10-04-po-pin-chau-sunday-visitors",
+      "published_at": "2026-10-04T21:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sai-kung",
+        "hiking",
+        "golden-week"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-po-pin-chau-sunday-visitors.json",
+      "en": {
+        "headline": "About 950 visited Po Pin Chau on Sunday; Monday and Tuesday full",
+        "dek": "The Agriculture, Fisheries and Conservation Department said thunderstorm warnings kept numbers below expectations, while Sharp Island drew about 1,970 people."
+      },
+      "zh": {
+        "headline": "東壩破邊洲星期日約950人到訪 明後兩日預約額滿",
+        "dek": "漁護署表示，雷暴警告一度生效，到訪人數較預期低，署方曾釋放即時預約名額；橋咀洲同日約有1970人到訪。"
       }
     },
     {
@@ -2357,27 +2419,6 @@
       "zh": {
         "headline": "天文台發出雷暴警告 預料新界東部有局部雷暴",
         "dek": "天文台晚上9時30分發出雷暴警告，有效至晚上11時30分，預料新界東部有局部地區雷暴。"
-      }
-    },
-    {
-      "id": "2026-10-01-evening-showers-outlook",
-      "published_at": "2026-10-01T21:08:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "heat",
-        "national-day"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-evening-showers-outlook.json",
-      "en": {
-        "headline": "Observatory expects showers as monsoon nears after hot day",
-        "dek": "The 6.30pm bulletin said temperatures topped 34 degrees in many places, with showers and thunderstorms overnight and a high of about 31 on Friday."
-      },
-      "zh": {
-        "headline": "天文台料今晚有驟雨 東北季候風明日起影響",
-        "dek": "晚上6時30分報告指多處下午高見34度，今晚及明日有驟雨及雷暴，明日氣溫約27至31度。"
       }
     }
   ]
