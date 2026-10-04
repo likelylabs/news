@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-04T23:20:35+08:00",
+  "updated_at": "2026-10-05T01:06:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "gcmti-lu-rong-test-oct4",
+      "id": "2026-10-05-chinese-medicine-testing",
+      "first_seen": "2026-10-05T01:06:00+08:00",
+      "headline_en": "Chinese medicine lab cuts velvet-antler test to under a day"
+    },
+    {
+      "key": "lifestyle-sushiro-dragon-centre-oct5",
+      "id": "2026-10-05-lifestyle-sushiro-dragon-centre",
+      "first_seen": "2026-10-05T01:06:00+08:00",
+      "headline_en": "Sushiro opens a Sham Shui Po branch at Dragon Centre"
+    },
     {
       "key": "amber-rainstorm-cancelled-oct4-2230",
       "id": "2026-10-04-amber-rainstorm-cancelled",
