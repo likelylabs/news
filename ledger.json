@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-04T17:10:31+08:00",
+  "updated_at": "2026-10-04T19:12:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "cheung-tung-road-crash-oct4",
+      "id": "2026-10-04-cheung-tung-road-crash",
+      "first_seen": "2026-10-04T19:12:00+08:00",
+      "headline_en": "Three vehicles collide on Cheung Tung Road near Sunny Bay"
+    },
+    {
+      "key": "golden-week-oct4-afternoon-crossings",
+      "id": "2026-10-04-golden-week-day-four-crossings",
+      "first_seen": "2026-10-04T19:12:00+08:00",
+      "headline_en": "Golden Week day four passes 616,000 crossings by 4pm"
+    },
+    {
+      "key": "cold-front-showers-oct4-evening",
+      "id": "2026-10-04-cold-front-showers-evening",
+      "first_seen": "2026-10-04T19:12:00+08:00",
+      "headline_en": "Observatory says cold-front showers may reach the estuary"
+    },
+    {
+      "key": "nent-landfill-extension-open-oct4",
+      "id": "2026-10-04-nent-landfill-extension",
+      "first_seen": "2026-10-04T19:12:00+08:00",
+      "headline_en": "Northeast New Territories landfill extension opens fully"
+    },
     {
       "key": "hkjc-asian-games-bonus-oct4",
       "id": "2026-10-04-hkjc-asian-games-bonus",
