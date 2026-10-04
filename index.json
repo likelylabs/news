@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-05T01:05:05+08:00",
+  "generated_at": "2026-10-05T03:15:16+08:00",
   "live_window_hours": 72,
-  "count": 118,
+  "count": 117,
   "articles": [
+    {
+      "id": "2026-10-05-lifestyle-coffee-voyage-taikoo",
+      "published_at": "2026-10-05T03:18:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "coffee",
+        "taikoo"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-lifestyle-coffee-voyage-taikoo.json",
+      "en": {
+        "headline": "Coffee festival shifts to Taikoo after Star Street run",
+        "dek": "Swire Properties says Coffee Voyage moves to Taikoo from Thursday to Sunday after a four-day weekend in Wan Chai."
+      },
+      "zh": {
+        "headline": "星街咖啡節結束 周四起移師太古",
+        "dek": "太古地產表示，「悠遊咖期」國慶周末在灣仔星街舉行後，周四至周日改到太古繼續。"
+      }
+    },
+    {
+      "id": "2026-10-05-lifestyle-mplus-cinema-autumn",
+      "published_at": "2026-10-05T03:18:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "film",
+        "exhibition",
+        "west-kowloon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-lifestyle-mplus-cinema-autumn.json",
+      "en": {
+        "headline": "M+ autumn cinema season screens Mark Lee films",
+        "dek": "The West Kowloon museum says its October-to-December cinema edition is on sale, led by a ten-film tribute to cinematographer Mark Lee Ping-bing."
+      },
+      "zh": {
+        "headline": "M+秋季電影節放映李屏賓作品",
+        "dek": "西九M+表示，10月至12月的電影季主要節目已公開售票，主軸是攝影師李屏賓的十部作品回顧。"
+      }
+    },
     {
       "id": "2026-10-05-chinese-medicine-testing",
       "published_at": "2026-10-05T01:06:00+08:00",
@@ -2418,69 +2462,6 @@
       "zh": {
         "headline": "國慶日破邊洲逾半預約未到 漁護署即場放額",
         "dek": "漁護署表示，周四約有2420人預約破邊洲段，實際到訪約1160人，包括即場放額後補上的遊人。"
-      }
-    },
-    {
-      "id": "2026-10-02-golden-week-day-one-tally",
-      "published_at": "2026-10-02T01:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "golden-week",
-        "immigration",
-        "tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-golden-week-day-one-tally.json",
-      "en": {
-        "headline": "Nearly 270,000 mainland visitors entered by 9pm on day one",
-        "dek": "Immigration officers recorded more than 897,000 cross-boundary movements by 9pm on Thursday, with most mainland arrivals using Lok Ma Chau Spur Line."
-      },
-      "zh": {
-        "headline": "黃金周首日晚上九時近27萬內地旅客入境",
-        "dek": "入境處表示，截至星期四晚上九時，各管制站錄得逾89.7萬人次出入境，內地旅客入境近27萬，以落馬洲支線最多。"
-      }
-    },
-    {
-      "id": "2026-10-02-lifestyle-pmq-gelato-fest",
-      "published_at": "2026-10-02T01:10:00+08:00",
-      "updated_at": "2026-10-02T01:15:00+08:00",
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "central"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-lifestyle-pmq-gelato-fest.json",
-      "en": {
-        "headline": "Italian gelato market runs at PMQ through the holiday weekend",
-        "dek": "Ciao! Gelato Fest is at PMQ in Central from 1 to 4 October, with a second weekend listed for 9 to 11 October and free entry."
-      },
-      "zh": {
-        "headline": "意式雪糕市集假期在中環元創方舉行",
-        "dek": "「Ciao! Gelato Fest」十月一日至四日在中環元創方舉行，主辦方另列十月九日至十一日為第二個週末，入場免費。"
-      }
-    },
-    {
-      "id": "2026-10-02-thunderstorm-warning-lapses",
-      "published_at": "2026-10-02T01:10:00+08:00",
-      "updated_at": "2026-10-02T01:15:00+08:00",
-      "category": "weather",
-      "tags": [
-        "weather",
-        "thunderstorm",
-        "observatory"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-thunderstorm-warning-lapses.json",
-      "en": {
-        "headline": "Thunderstorm warning lapses after overnight extension",
-        "dek": "The Observatory's thunderstorm warning, extended until 1am, is no longer in force, while the very hot weather and yellow fire danger warnings remain."
-      },
-      "zh": {
-        "headline": "雷暴警告延長至凌晨一時後不再生效",
-        "dek": "天文台昨晚把雷暴警告延長至凌晨一時，現時已不再列為生效；酷熱天氣警告及黃色火災危險警告仍然有效。"
       }
     }
   ]
