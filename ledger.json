@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-05T01:05:05+08:00",
+  "updated_at": "2026-10-05T03:18:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-coffee-voyage-taikoo-oct8",
+      "id": "2026-10-05-lifestyle-coffee-voyage-taikoo",
+      "first_seen": "2026-10-05T03:18:00+08:00",
+      "headline_en": "Coffee festival shifts to Taikoo after Star Street run"
+    },
+    {
+      "key": "lifestyle-mplus-cinema-autumn-2026",
+      "id": "2026-10-05-lifestyle-mplus-cinema-autumn",
+      "first_seen": "2026-10-05T03:18:00+08:00",
+      "headline_en": "M+ autumn cinema season screens Mark Lee films"
+    },
     {
       "key": "gcmti-lu-rong-test-oct4",
       "id": "2026-10-05-chinese-medicine-testing",
