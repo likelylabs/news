@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-04T07:13:10+08:00",
+  "updated_at": "2026-10-04T09:14:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "kai-tak-hospital-bookings-open-oct4",
+      "id": "2026-10-04-kai-tak-hospital-bookings",
+      "first_seen": "2026-10-04T09:14:00+08:00",
+      "headline_en": "Kai Tak Hospital family clinic bookings open this morning"
+    },
+    {
+      "key": "golden-week-sunday-inbound-peak-oct4",
+      "id": "2026-10-04-golden-week-inbound-peak",
+      "first_seen": "2026-10-04T09:14:00+08:00",
+      "headline_en": "Immigration expects Sunday land-border inbound peak"
+    },
+    {
+      "key": "lifestyle-asiaplus-sonic-odyssey-2026",
+      "id": "2026-10-04-lifestyle-asiaplus-sonic-odyssey",
+      "first_seen": "2026-10-04T09:14:00+08:00",
+      "headline_en": "Cultural Centre foyer hosts free Asia+ music-box show"
+    },
     {
       "key": "beacon-peak-burglary-oct3",
       "id": "2026-10-04-beacon-peak-burglary",
