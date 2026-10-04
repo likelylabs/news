@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-10-04T15:06:44+08:00",
+  "generated_at": "2026-10-04T17:10:31+08:00",
   "live_window_hours": 72,
-  "count": 118,
+  "count": 114,
   "articles": [
+    {
+      "id": "2026-10-04-asian-games-final-tally",
+      "published_at": "2026-10-04T17:12:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "sport",
+        "medals"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-asian-games-final-tally.json",
+      "en": {
+        "headline": "Hong Kong ends Asian Games with 11 golds and 54 medals",
+        "dek": "The delegation finished with 11 gold, 19 silver and 24 bronze, its best gold and medal totals at an Asian Games, RTHK reported."
+      },
+      "zh": {
+        "headline": "港隊亞運閉幕合計11金54牌 金銀銅皆歷屆最多",
+        "dek": "港台報道，代表團今屆以11金19銀24銅作結，合共54面獎牌，金牌及獎牌總數同為歷屆亞運最佳。"
+      }
+    },
+    {
+      "id": "2026-10-04-hkjc-asian-games-bonus",
+      "published_at": "2026-10-04T17:12:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "jockey-club",
+        "sport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-04/2026-10-04-hkjc-asian-games-bonus.json",
+      "en": {
+        "headline": "Jockey Club to pay HK$37.5 million in Asian Games bonuses",
+        "dek": "More than 110 medallists will share the sum under the club's athlete incentive scheme, HK$5 million more than after Hangzhou."
+      },
+      "zh": {
+        "headline": "馬會向亞運獎牌得主發放3750萬元獎金",
+        "dek": "港台報道，超過110名獎牌得主將透過賽馬會優秀運動員獎勵計劃分享這筆獎金，較杭州亞運多500萬元。"
+      }
+    },
     {
       "id": "2026-10-04-chan-ipo-golden-week",
       "published_at": "2026-10-04T15:08:00+08:00",
@@ -2361,139 +2403,6 @@
       "zh": {
         "headline": "Hotstone Yoga全線結業 學員稱結業前仍售套票",
         "dek": "岩盤瑜伽連鎖店周三發出通告，指因業務情況於當日營業時間後停止課程；有學員稱數日前仍被推銷續會。"
-      }
-    },
-    {
-      "id": "2026-10-01-asian-games-afternoon-medals",
-      "published_at": "2026-10-01T17:10:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "cycling",
-        "squash",
-        "tennis",
-        "hong-kong-team"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-asian-games-afternoon-medals.json",
-      "en": {
-        "headline": "Hong Kong adds cycling silver and squash bronze in Nagoya",
-        "dek": "Lee Sze-wing and Leung Wing-yee took Madison silver by a point, the men's squash team settled for bronze, and Wong Chak-lam reached the tennis semi-finals."
-      },
-      "zh": {
-        "headline": "亞運麥迪遜港隊摘銀 壁球男團得銅",
-        "dek": "李思穎與梁穎儀以31分、一分之差奪女子麥迪遜銀牌；男團壁球四強不敵巴基斯坦得銅，黃澤林則鎖定網球獎牌。"
-      }
-    },
-    {
-      "id": "2026-10-01-peng-chau-swim-death",
-      "published_at": "2026-10-01T17:09:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "peng-chau",
-        "swimming",
-        "national-day"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-peng-chau-swim-death.json",
-      "en": {
-        "headline": "Man dies after rescue at Peng Chau open-water race",
-        "dek": "Police said a 58-year-old foreign competitor was found unconscious off Tung Wan around noon and died after a helicopter transfer to Eastern Hospital."
-      },
-      "zh": {
-        "headline": "坪洲泳賽外籍男疑遇溺 送院後不治",
-        "dek": "警方稱中午約12時21分接報，58歲外籍參賽者在東灣對開昏迷，經直升機送東區醫院後證實不治。"
-      }
-    },
-    {
-      "id": "2026-10-01-lifestyle-fireworks-marine-safety",
-      "published_at": "2026-10-01T15:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "national-day",
-        "fireworks",
-        "victoria-harbour",
-        "marine-department"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-lifestyle-fireworks-marine-safety.json",
-      "en": {
-        "headline": "Marine Department tightens harbour rules for 8pm fireworks",
-        "dek": "A sea exclusion zone off the Convention Centre runs from 2pm to about 10pm, with a central harbour restriction from 7pm as the National Day display is fired from barges."
-      },
-      "zh": {
-        "headline": "國慶煙花今晚8時 海事處設禁區並提醒海上安全",
-        "dek": "會展對開海面今日下午2時至約10時設禁區，維港中部晚上7時起實施限制區；觀賞船須備乘客名單，兒童須穿救生衣。"
-      }
-    },
-    {
-      "id": "2026-10-01-yau-ma-tei-imitation-firearm-arrest",
-      "published_at": "2026-10-01T15:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "yau-ma-tei",
-        "temple-street"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-yau-ma-tei-imitation-firearm-arrest.json",
-      "en": {
-        "headline": "Australian man arrested over imitation firearm in Yau Ma Tei",
-        "dek": "Police said a 36-year-old man was seized at a Temple Street bar on Wednesday night after reports of a gun-like object, and later arrested again for alleged criminal damage in custody."
-      },
-      "zh": {
-        "headline": "油麻地酒吧檢仿製手槍 36歲澳洲籍男子被捕",
-        "dek": "警方指周三晚接報廟街酒吧有人攜類似手槍物品，當場拘捕男子並檢獲懷疑仿製曲尺氣槍；扣留期間再涉刑事毀壞。"
-      }
-    },
-    {
-      "id": "2026-10-01-new-world-11-skies-handover",
-      "published_at": "2026-10-01T15:09:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "new-world",
-        "airport",
-        "11-skies",
-        "property"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-new-world-11-skies-handover.json",
-      "en": {
-        "headline": "New World to hand 11 SKIES back to Airport Authority",
-        "dek": "The developer will surrender three office towers and an entertainment hub from 1 April 2027 and pay more than HK$3 billion, after an HK$18.3 billion writedown on the airport project."
-      },
-      "zh": {
-        "headline": "新世界交還11 SKIES予機管局 另付逾30億",
-        "dek": "集團將於2027年4月1日起交還三幢辦公樓及娛樂樞紐，並支付逾30億港元；年結就項目減值約183億元。"
-      }
-    },
-    {
-      "id": "2026-10-01-ho-man-tin-power-outage",
-      "published_at": "2026-10-01T15:08:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "clp",
-        "ho-man-tin",
-        "mong-kok",
-        "power-outage",
-        "national-day"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-ho-man-tin-power-outage.json",
-      "en": {
-        "headline": "Ho Man Tin and Mong Kok power restored after overnight outage",
-        "dek": "CLP said equipment near Waterloo Road failed at 11.18pm on Wednesday, cutting supply to about 1,000 customers; full restoration came after a second morning interruption."
-      },
-      "zh": {
-        "headline": "何文田旺角停電後復電 中電指今早一度再受影響",
-        "dek": "中電表示周三晚上11時18分窩打老道附近設備故障，約1,000名客戶受影響；清晨復電後今早臨時供電不穩，約650戶一度再停電。"
       }
     }
   ]
