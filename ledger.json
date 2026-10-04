@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-04T15:06:44+08:00",
+  "updated_at": "2026-10-04T17:12:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "hkjc-asian-games-bonus-oct4",
+      "id": "2026-10-04-hkjc-asian-games-bonus",
+      "first_seen": "2026-10-04T17:12:00+08:00",
+      "headline_en": "Jockey Club to pay HK$37.5 million in Asian Games bonuses"
+    },
+    {
+      "key": "asian-games-final-tally-oct4",
+      "id": "2026-10-04-asian-games-final-tally",
+      "first_seen": "2026-10-04T17:12:00+08:00",
+      "headline_en": "Hong Kong ends Asian Games with 11 golds and 54 medals"
+    },
     {
       "key": "workweek-weather-outlook-oct5-9",
       "id": "2026-10-04-workweek-weather-outlook",
