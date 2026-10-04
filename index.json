@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-04T19:08:00+08:00",
+  "generated_at": "2026-10-04T21:07:15+08:00",
   "live_window_hours": 72,
-  "count": 114,
+  "count": 113,
   "articles": [
+    {
+      "id": "2026-10-04-amber-rainstorm-evening",
+      "published_at": "2026-10-04T21:06:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "observatory",
+        "thunderstorm",
+        "warning"
+      ],
+      "breaking": true,
+      "path": "articles/2026-10-04/2026-10-04-amber-rainstorm-evening.json",
+      "en": {
+        "headline": "Observatory issues amber rainstorm warning at 8:20pm",
+        "dek": "The 8:21pm bulletin said the amber signal was in force with a thunderstorm warning until 10pm, and gusts of 70 km/h or more were expected."
+      },
+      "zh": {
+        "headline": "天文台晚上8時20分發出黃色暴雨警告",
+        "dek": "晚上8時21分的天氣報告指黃色暴雨警告生效，雷暴警告有效至晚上10時，並預料有每小時70公里或以上強陣風。"
+      }
+    },
     {
       "id": "2026-10-04-cheung-tung-road-crash",
       "published_at": "2026-10-04T19:12:00+08:00",
@@ -2356,50 +2378,6 @@
       "zh": {
         "headline": "天文台料今晚有驟雨 東北季候風明日起影響",
         "dek": "晚上6時30分報告指多處下午高見34度，今晚及明日有驟雨及雷暴，明日氣溫約27至31度。"
-      }
-    },
-    {
-      "id": "2026-10-01-national-day-fireworks-held",
-      "published_at": "2026-10-01T21:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "national-day",
-        "fireworks",
-        "victoria-harbour",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-national-day-fireworks-held.json",
-      "en": {
-        "headline": "National Day fireworks display held over Victoria Harbour",
-        "dek": "The 23-minute show began at 8pm with 31,888 shells, as police had expected about 260,000 people on both sides of the harbour."
-      },
-      "zh": {
-        "headline": "國慶煙花匯演維港上演 歷時約23分鐘",
-        "dek": "煙花晚上8時開始，發放31,888枚煙花；警方預計約26萬人在兩岸觀賞。"
-      }
-    },
-    {
-      "id": "2026-10-01-hotstone-yoga-customs-probe",
-      "published_at": "2026-10-01T21:06:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "retail",
-        "consumer",
-        "closure",
-        "customs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-01/2026-10-01-hotstone-yoga-customs-probe.json",
-      "en": {
-        "headline": "Customs probe Hotstone Yoga closure as complaints hit 27",
-        "dek": "The Consumer Council said it had taken 27 complaints worth HK$429,326 by 5pm, while Customs posted an investigation notice at the Jordan studio."
-      },
-      "zh": {
-        "headline": "海關調查Hotstone Yoga結業 消委會接27宗投訴",
-        "dek": "消委會表示截至下午5時接27宗投訴，涉款429,326元；海關在佐敦分店外張貼調查告示。"
       }
     }
   ]
