@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-10-05T03:15:16+08:00",
+  "generated_at": "2026-10-05T07:05:38+08:00",
   "live_window_hours": 72,
-  "count": 117,
+  "count": 116,
   "articles": [
+    {
+      "id": "2026-10-05-diamond-hill-knife-arrest",
+      "published_at": "2026-10-05T07:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "diamond-hill",
+        "wong-tai-sin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-diamond-hill-knife-arrest.json",
+      "en": {
+        "headline": "Police arrest woman after Diamond Hill knife report",
+        "dek": "Officers detained a woman at Tsz Ching Estate after a Sunday evening report that she struck a station counter with a ceramic knife."
+      },
+      "zh": {
+        "headline": "鑽石山持刀報案後 警方凌晨於慈正邨拘捕女子",
+        "dek": "港鐵鑽石山站星期日傍晚報稱有女子持陶瓷刀敲打客務中心櫃枱後離開，警方其後在慈正邨正暉樓拘捕一名女子並送院。"
+      }
+    },
+    {
+      "id": "2026-10-05-lifestyle-charles-ng-saxophone",
+      "published_at": "2026-10-05T07:08:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "music",
+        "city-hall"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-lifestyle-charles-ng-saxophone.json",
+      "en": {
+        "headline": "City Hall hosts Charles Ng saxophone recital on Thursday",
+        "dek": "The Leisure and Cultural Services Department lists an 8pm recital at Hong Kong City Hall Theatre on 8 October, with tickets at HK$220."
+      },
+      "zh": {
+        "headline": "吳漢紳星期四於大會堂舉行色士風演奏會",
+        "dek": "康文署「香港藝術家」系列列出，10月8日晚上8時在香港大會堂劇院演出，門票220元，節目約一小時三十分鐘。"
+      }
+    },
+    {
+      "id": "2026-10-05-monsoon-cooler-morning",
+      "published_at": "2026-10-05T07:08:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "observatory",
+        "weather"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-monsoon-cooler-morning.json",
+      "en": {
+        "headline": "Most districts about two degrees cooler after monsoon arrival",
+        "dek": "The Observatory said a northeast monsoon linked to a cold front is on the coast, with Monday between 25 and 31 degrees and no warning in force."
+      },
+      "zh": {
+        "headline": "東北季候風影響沿岸 今早大部分地區低約兩度",
+        "dek": "天文台表示，與冷鋒相關的東北季候風正影響廣東沿岸，星期一氣溫約25至31度，清晨沒有天氣警告生效。"
+      }
+    },
     {
       "id": "2026-10-05-lifestyle-coffee-voyage-taikoo",
       "published_at": "2026-10-05T03:18:00+08:00",
@@ -2375,93 +2437,6 @@
       "zh": {
         "headline": "天文台早上發出雷暴警告 新界局部有雷暴",
         "dek": "天文台上午6時10分發出雷暴警告，有效至上午8時30分，預料新界有局部地區雷暴。"
-      }
-    },
-    {
-      "id": "2026-10-02-asian-games-omnium-sailing",
-      "published_at": "2026-10-02T03:16:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "cycling",
-        "sailing",
-        "hong-kong-team"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-asian-games-omnium-sailing.json",
-      "en": {
-        "headline": "Chu takes omnium silver as sailors medal in Nagoya",
-        "dek": "Chu Tsun-wai scored 166 points for men's omnium silver, while Hong Kong also took silver and bronze in the skiff events on Thursday."
-      },
-      "zh": {
-        "headline": "朱浚瑋全能賽摘銀 帆船再添一銀一銅",
-        "dek": "朱浚瑋在名古屋亞運男子全能賽以166分奪銀；女子49erFX得銀，男子49er得銅。"
-      }
-    },
-    {
-      "id": "2026-10-02-hung-hom-promenade-death",
-      "published_at": "2026-10-02T03:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "hung-hom",
-        "police",
-        "national-day"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-hung-hom-promenade-death.json",
-      "en": {
-        "headline": "Man dies after rescue off Hung Hom promenade",
-        "dek": "Firefighters pulled an unconscious man from the water off Kin Wan Street on Thursday night; he was later confirmed dead at Queen Elizabeth Hospital."
-      },
-      "zh": {
-        "headline": "紅磡海濱男子墮海 送院後不治",
-        "dek": "周四晚上約九時二十一分，建灣街海濱長廊對開有男子墮海，消防救起時已昏迷，送伊利沙伯醫院後證實不治。"
-      }
-    },
-    {
-      "id": "2026-10-02-lifestyle-victoria-park-lanterns",
-      "published_at": "2026-10-02T03:16:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "causeway-bay",
-        "golden-week",
-        "national-day"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-lifestyle-victoria-park-lanterns.json",
-      "en": {
-        "headline": "Victoria Park lantern show stays lit through Golden Week",
-        "dek": "The Tourism Board's International Lantern Spectacular at Victoria Park runs until 7 October, with free entry and lights from 6:30pm to 11pm."
-      },
-      "zh": {
-        "headline": "維園國際彩燈展延至十月七日 黃金周繼續亮燈",
-        "dek": "旅發局的國際彩燈匯在銅鑼灣維多利亞公園展出至十月七日，免費入場，每晚六時半至十一時亮燈。"
-      }
-    },
-    {
-      "id": "2026-10-02-po-pin-chau-noshows",
-      "published_at": "2026-10-02T03:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "sai-kung",
-        "golden-week",
-        "hiking",
-        "national-day"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-po-pin-chau-noshows.json",
-      "en": {
-        "headline": "More than half of Po Pin Chau bookings unused on National Day",
-        "dek": "The Agriculture, Fisheries and Conservation Department said about 1,160 people arrived on Thursday against roughly 2,420 bookings, and released slots on the day."
-      },
-      "zh": {
-        "headline": "國慶日破邊洲逾半預約未到 漁護署即場放額",
-        "dek": "漁護署表示，周四約有2420人預約破邊洲段，實際到訪約1160人，包括即場放額後補上的遊人。"
       }
     }
   ]
