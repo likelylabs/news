@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-05T17:13:33+08:00",
+  "updated_at": "2026-10-05T19:06:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "bakai-restricted-licence-oct5",
+      "id": "2026-10-05-bakai-restricted-licence",
+      "first_seen": "2026-10-05T19:06:00+08:00",
+      "headline_en": "HKMA grants restricted banking licence to Bakai Bank"
+    },
+    {
+      "key": "heal-fertility-services-resume-oct6",
+      "id": "2026-10-05-heal-fertility-resume",
+      "first_seen": "2026-10-05T19:06:00+08:00",
+      "headline_en": "Council lets Central fertility centre resume all licensed services"
+    },
+    {
+      "key": "legionnaires-two-cases-oct5",
+      "id": "2026-10-05-legionnaires-two-cases",
+      "first_seen": "2026-10-05T19:06:00+08:00",
+      "headline_en": "Health centre logs two more Legionnaires' disease cases"
+    },
+    {
+      "key": "sheung-shui-site-fall-oct5",
+      "id": "2026-10-05-sheung-shui-site-fall",
+      "first_seen": "2026-10-05T19:06:00+08:00",
+      "headline_en": "Man dies after fall at Sheung Shui construction site"
+    },
+    {
+      "key": "wo-zi-shan-facilities-open-oct5",
+      "id": "2026-10-05-wo-zi-shan-facilities",
+      "first_seen": "2026-10-05T19:06:00+08:00",
+      "headline_en": "New Wo Zi Shan recreation facilities open in Sham Shui Po"
+    },
     {
       "key": "basic-housing-registrations-oct5",
       "id": "2026-10-05-basic-housing-registrations",
