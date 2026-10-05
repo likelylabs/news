@@ -1,8 +1,92 @@
 {
-  "generated_at": "2026-10-06T03:28:30+08:00",
+  "generated_at": "2026-10-06T07:04:46+08:00",
   "live_window_hours": 72,
-  "count": 114,
+  "count": 113,
   "articles": [
+    {
+      "id": "2026-10-06-lifestyle-innocarnival-signup",
+      "published_at": "2026-10-06T07:08:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "science-park",
+        "exhibition"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-lifestyle-innocarnival-signup.json",
+      "en": {
+        "headline": "Science Park carnival opens activity sign-up this morning",
+        "dek": "The Innovation and Technology Commission says free workshop and talk places for the late-October carnival can be booked from 10:30am."
+      },
+      "zh": {
+        "headline": "創新科技嘉年華今早開放部分活動報名",
+        "dek": "創新科技署主辦的科學園嘉年華於10月24日起舉行，工作坊及網上講座今早10時半起可網上報名，入場免費。"
+      }
+    },
+    {
+      "id": "2026-10-06-tuen-mun-highway-crash",
+      "published_at": "2026-10-06T07:08:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "tuen-mun",
+        "traffic",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-tuen-mun-highway-crash.json",
+      "en": {
+        "headline": "Four vehicles collide on Tuen Mun Highway near Tai Lam",
+        "dek": "Police said three people were slightly hurt and remained conscious after two taxis and two private cars collided late on Monday night."
+      },
+      "zh": {
+        "headline": "屯門公路近大欖四車相撞 三人輕傷",
+        "dek": "警方稱周一晚接報，屯門公路往屯門方向近大欖有兩輛的士及兩輛私家車相撞，三人受輕傷並保持清醒。"
+      }
+    },
+    {
+      "id": "2026-10-06-west-kowloon-illegal-labour",
+      "published_at": "2026-10-06T07:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "west-kowloon",
+        "illegal-workers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-west-kowloon-illegal-labour.json",
+      "en": {
+        "headline": "Police hold 19 after West Kowloon illegal-work operation",
+        "dek": "Officers said Monday's joint sweep of restaurants, massage shops and buildings led to 19 arrests, including two wanted men."
+      },
+      "zh": {
+        "headline": "西九龍反黑工行動拘19人 包括兩名通緝男子",
+        "dek": "警方稱周一聯同相關部門突擊搜查食肆、按摩店及大廈，拘捕19人，其中兩名男子是通緝人士。"
+      }
+    },
+    {
+      "id": "2026-10-06-west-kowloon-taxi-checks",
+      "published_at": "2026-10-06T07:08:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "taxi",
+        "police",
+        "west-kowloon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-west-kowloon-taxi-checks.json",
+      "en": {
+        "headline": "West Kowloon police ticket four taxi drivers in checks",
+        "dek": "Officers said Monday's operation produced four summonses, covering refused hires, extra phones and missing displays."
+      },
+      "zh": {
+        "headline": "西九龍打擊的士違例 四名司機被發傳票",
+        "dek": "警方稱周一行動發出四張傳票，涉拒載、駕駛時放置多於兩部手機，以及未展示計程錶和司機證。"
+      }
+    },
     {
       "id": "2026-10-06-kingsfield-owners-fine",
       "published_at": "2026-10-06T03:18:00+08:00",
@@ -2275,113 +2359,6 @@
       "zh": {
         "headline": "天文台把雷暴警告延長至上午10時30分",
         "dek": "黃色暴雨警告仍然生效，西貢及大嶼山今早雨量超過70毫米。"
-      }
-    },
-    {
-      "id": "2026-10-03-amber-rainstorm-warning",
-      "published_at": "2026-10-03T07:04:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "observatory",
-        "rainstorm",
-        "thunderstorm",
-        "sai-kung"
-      ],
-      "breaking": true,
-      "path": "articles/2026-10-03/2026-10-03-amber-rainstorm-warning.json",
-      "en": {
-        "headline": "Observatory issues amber rainstorm warning before dawn",
-        "dek": "An amber rainstorm warning has been in force since 4am Saturday, with the Observatory warning of possible severe flooding in Sai Kung and on Lantau."
-      },
-      "zh": {
-        "headline": "天文台凌晨四時發出黃色暴雨警告",
-        "dek": "黃色暴雨警告自周六凌晨四時生效，天文台指西貢及大嶼山雨勢特別大，可能出現嚴重水浸。"
-      }
-    },
-    {
-      "id": "2026-10-03-fraud-cases-eight-months",
-      "published_at": "2026-10-03T07:04:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "fraud",
-        "scam"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-fraud-cases-eight-months.json",
-      "en": {
-        "headline": "Police log 29,670 fraud cases in first eight months",
-        "dek": "Losses reached HK$5.21 billion, up 3.8% on last year, as police warned of new fake customer-service tactics."
-      },
-      "zh": {
-        "headline": "首八個月錄得近三萬宗詐騙案 損失52.1億元",
-        "dek": "警方指今年首八個月詐騙案較去年同期升4.5%，假冒客服手法近期明顯增加，並出現新變種。"
-      }
-    },
-    {
-      "id": "2026-10-03-golden-week-day-two-crossings",
-      "published_at": "2026-10-03T07:04:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "golden-week",
-        "immigration",
-        "border"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-golden-week-day-two-crossings.json",
-      "en": {
-        "headline": "Golden Week day two sees 954,000 crossings by 9pm",
-        "dek": "The Immigration Department said more than 954,000 people crossed Hong Kong's control points by 9pm on Friday, the second day of the mainland holiday."
-      },
-      "zh": {
-        "headline": "黃金周次日晚上九時 出入境逾95萬人次",
-        "dek": "入境處表示，周五晚上九時前全港管制站錄得超過95萬4千人次出入境，內地旅客最多經高鐵西九龍站入境。"
-      }
-    },
-    {
-      "id": "2026-10-03-imported-chikungunya-case",
-      "published_at": "2026-10-03T07:04:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "chikungunya",
-        "centre-for-health-protection"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-imported-chikungunya-case.json",
-      "en": {
-        "headline": "Centre reports one imported chikungunya case",
-        "dek": "A 62-year-old woman who visited Guangdong is in a stable condition, the Centre for Health Protection said on Friday."
-      },
-      "zh": {
-        "headline": "防護中心公布一宗外地傳入基孔肯雅熱",
-        "dek": "衛生防護中心周五表示，一名曾到廣東省的62歲女子確診基孔肯雅熱，目前情況穩定。"
-      }
-    },
-    {
-      "id": "2026-10-03-lifestyle-wong-tai-sin-lanterns",
-      "published_at": "2026-10-03T07:04:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "wong-tai-sin",
-        "lanterns"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-lifestyle-wong-tai-sin-lanterns.json",
-      "en": {
-        "headline": "Wong Tai Sin lantern display runs through Sunday",
-        "dek": "Sik Sik Yuen is keeping the temple open later until 4 October for a free Mid-Autumn lantern display marking its 105th anniversary."
-      },
-      "zh": {
-        "headline": "黃大仙祠中秋綵燈展延至周日",
-        "dek": "嗇色園黃大仙祠中秋綵燈晚會免費入場，周六及周日延長開放至晚上十時，展期至十月四日。"
       }
     }
   ]
