@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T03:17:42+08:00",
+  "generated_at": "2026-10-06T03:28:30+08:00",
   "live_window_hours": 72,
-  "count": 118,
+  "count": 114,
   "articles": [
     {
       "id": "2026-10-06-kingsfield-owners-fine",
@@ -61,7 +61,7 @@
         "dek": "A joint operation from 18 to 30 September seized about 100,000 illicit cigarettes worth an estimated HK$480,000 and led to five arrests."
       },
       "zh": {
-        "headline": "海關聯同深水埗警區搞破23個私煙據點",
+        "headline": "海關聯同深水埗警區搗破23個私煙據點",
         "dek": "9月18日至30日的聯合行動檢獲約10萬支私煙，估計市值48萬元，拘捕五人，包括四名本地人士及一名越南籍男子。"
       }
     },
@@ -2382,90 +2382,6 @@
       "zh": {
         "headline": "黃大仙祠中秋綵燈展延至周日",
         "dek": "嗇色園黃大仙祠中秋綵燈晚會免費入場，周六及周日延長開放至晚上十時，展期至十月四日。"
-      }
-    },
-    {
-      "id": "2026-10-03-lifestyle-national-day-cinema",
-      "published_at": "2026-10-03T03:25:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "film",
-        "golden-week"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-lifestyle-national-day-cinema.json",
-      "en": {
-        "headline": "National Day half-price cinema scheme drew 153,000",
-        "dek": "The Hong Kong Theatres Association said 52 cinemas screened 1,789 shows of 62 films under the 1 October offer."
-      },
-      "zh": {
-        "headline": "國慶半價睇戲吸引逾15.3萬人次",
-        "dek": "香港戲院商會指全港52間戲院參與，當日放映1,789場、62套電影，多區場次爆滿。"
-      }
-    },
-    {
-      "id": "2026-10-03-mtr-hsr-delay-settlement",
-      "published_at": "2026-10-03T03:25:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "transport",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-mtr-hsr-delay-settlement.json",
-      "en": {
-        "headline": "MTR to pay government HK$2.25 billion over rail delay",
-        "dek": "The one-off settlement covers the late high-speed rail link; both sides agreed not to pursue further claims on the Sha Tin to Central Link."
-      },
-      "zh": {
-        "headline": "港鐵就高鐵延誤向政府支付22.5億元",
-        "dek": "政府與港鐵周五達成解決安排，沙中綫則因公司已承擔約28億元額外開支，雙方同意互不追討。"
-      }
-    },
-    {
-      "id": "2026-10-03-thunderstorm-warning-overnight",
-      "published_at": "2026-10-03T03:25:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "thunderstorm",
-        "weather",
-        "observatory"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-thunderstorm-warning-overnight.json",
-      "en": {
-        "headline": "Thunderstorm warning carried into early Saturday",
-        "dek": "The Observatory's 2am bulletin kept the warning in force until 3am, with isolated storms and heavy pockets of rain."
-      },
-      "zh": {
-        "headline": "雷暴警告延至周六凌晨生效",
-        "dek": "天文台凌晨2時天氣報告指警告有效至上午3時，本港局部地區仍有雷暴，沙田錄得較大雨量。"
-      }
-    },
-    {
-      "id": "2026-10-03-victoria-road-motorcycle-death",
-      "published_at": "2026-10-03T03:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "traffic",
-        "police",
-        "pok-fu-lam"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-victoria-road-motorcycle-death.json",
-      "en": {
-        "headline": "Motorcyclist dies after Pok Fu Lam crash; driver arrested",
-        "dek": "Police said a 63-year-old rider died in hospital on Friday morning after a Thursday-night collision on Victoria Road."
-      },
-      "zh": {
-        "headline": "薄扶林車禍鐵騎士不治 休班輔警涉危駕被捕",
-        "dek": "警方指63歲電單車司機周四晚在域多利道近摩星嶺徑相撞後，周五早上在瑪麗醫院證實死亡。"
       }
     }
   ]
