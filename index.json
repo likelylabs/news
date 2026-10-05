@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-10-05T21:06:13+08:00",
+  "generated_at": "2026-10-05T23:26:53+08:00",
   "live_window_hours": 72,
-  "count": 116,
+  "count": 113,
   "articles": [
+    {
+      "id": "2026-10-05-fireworks-drone-followup",
+      "published_at": "2026-10-05T23:25:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "aviation",
+        "national-day"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-fireworks-drone-followup.json",
+      "en": {
+        "headline": "Aviation department follows up fireworks drone footage",
+        "dek": "The Civil Aviation Department said it is handling a case under its usual procedures after footage appeared to show a drone over Victoria Harbour on National Day."
+      },
+      "zh": {
+        "headline": "民航處跟進疑在維港拍國慶煙花的無人機片段",
+        "dek": "民航處說正按既定程序跟進個案，並重申在限制飛行區操作小型無人機屬進階操作，須事先獲許可。"
+      }
+    },
+    {
+      "id": "2026-10-05-po-pin-chau-monday-visitors",
+      "published_at": "2026-10-05T23:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sai-kung",
+        "golden-week",
+        "afcd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-po-pin-chau-monday-visitors.json",
+      "en": {
+        "headline": "About 1,200 visited Po Pin Chau section on Monday",
+        "dek": "The Agriculture, Fisheries and Conservation Department said bookings for Tuesday are full, while Sai Kung East campsites logged about 130 tents overnight with no breaches found."
+      },
+      "zh": {
+        "headline": "漁護署：星期一約1200人到訪破邊洲段",
+        "dek": "署方說星期二預約已額滿，星期三仍有名額；西貢東三個營地昨晚約有130個帳篷，未發現違規。"
+      }
+    },
+    {
+      "id": "2026-10-05-shrimp-furazolidone-recall",
+      "published_at": "2026-10-05T23:25:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "food-safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-shrimp-furazolidone-recall.json",
+      "en": {
+        "headline": "Food safety centre orders stop-sale of chilled shrimp batch",
+        "dek": "A pre-packaged sample from a North Point shop contained a trace of a banned veterinary-drug metabolite, and the distributor has started a recall."
+      },
+      "zh": {
+        "headline": "食安中心指令停售一批去腸白蝦仁",
+        "dek": "北角一新鮮糧食店的預先包裝冷藏蝦肉驗出微量禁用獸藥代謝物，分銷商已按指示回收受影響批次。"
+      }
+    },
     {
       "id": "2026-10-05-hkma-trade-data-mou",
       "published_at": "2026-10-05T21:08:00+08:00",
@@ -2300,134 +2362,6 @@
       "zh": {
         "headline": "薄扶林車禍鐵騎士不治 休班輔警涉危駕被捕",
         "dek": "警方指63歲電單車司機周四晚在域多利道近摩星嶺徑相撞後，周五早上在瑪麗醫院證實死亡。"
-      }
-    },
-    {
-      "id": "2026-10-02-hung-hom-drone-show",
-      "published_at": "2026-10-02T23:24:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "national-day",
-        "golden-week",
-        "hung-hom"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-hung-hom-drone-show.json",
-      "en": {
-        "headline": "Hung Hom drone show goes ahead after weather delay",
-        "dek": "The first of two National Day drone flights at the Hung Hom promenade was cancelled; the second display went ahead."
-      },
-      "zh": {
-        "headline": "紅磡無人機匯演次場照演　首場因天氣取消",
-        "dek": "國慶無人機表演原定紅磡新海濱兩場，港台報道首場因天氣取消，第二場順利舉行。"
-      }
-    },
-    {
-      "id": "2026-10-02-kowloon-peak-climber-death",
-      "published_at": "2026-10-02T23:24:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "kowloon-peak",
-        "fire-services",
-        "rescue",
-        "accident"
-      ],
-      "breaking": true,
-      "path": "articles/2026-10-02/2026-10-02-kowloon-peak-climber-death.json",
-      "en": {
-        "headline": "Off-duty ambulance officer dies after Kowloon Peak fall",
-        "dek": "Fire Services says one of two off-duty ambulance officers died after a fall while abseiling; his colleague was lightly injured."
-      },
-      "zh": {
-        "headline": "飛鵝山墮崖　休班救護總隊目送院不治",
-        "dek": "消防處說，兩名休班救護總隊目在飛鵝山遊繩期間一人墮崖，送東區醫院後證實不治，同行者受輕傷。"
-      }
-    },
-    {
-      "id": "2026-10-02-tang-nyt-letter",
-      "published_at": "2026-10-02T23:24:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "security",
-        "national-security",
-        "press"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-tang-nyt-letter.json",
-      "en": {
-        "headline": "Tang writes to New York Times over arrest article",
-        "dek": "The security secretary said a report on a recent arrest distorted the facts and was unrelated to press freedom."
-      },
-      "zh": {
-        "headline": "鄧炳強去信《紐約時報》反對拘捕報道",
-        "dek": "保安局局長指有關本港近日拘捕的報道歪曲事實，並強調案件與新聞自由無關。"
-      }
-    },
-    {
-      "id": "2026-10-02-amber-rainstorm-cancelled",
-      "published_at": "2026-10-02T21:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "observatory",
-        "rainstorm",
-        "thunderstorm"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-amber-rainstorm-cancelled.json",
-      "en": {
-        "headline": "Observatory cancels amber rainstorm warning at 7:30pm",
-        "dek": "The amber signal is down, but a thunderstorm warning runs until 9pm and Tai Po remains under a flooding alert."
-      },
-      "zh": {
-        "headline": "天文台晚上7時30分取消黃色暴雨警告",
-        "dek": "黃雨信號已經取消，雷暴警告維持至晚上9時，大埔仍有水浸特別提示。"
-      }
-    },
-    {
-      "id": "2026-10-02-hotstone-yoga-customs-arrest",
-      "published_at": "2026-10-02T21:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "consumer",
-        "hotstone-yoga"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-hotstone-yoga-customs-arrest.json",
-      "en": {
-        "headline": "Customs arrest yoga centre director over alleged wrongful payment",
-        "dek": "One company director was arrested on Friday as Hotstone Yoga complaints rose to 286, involving more than HK$3.9 million."
-      },
-      "zh": {
-        "headline": "海關拘捕瑜伽中心一名公司董事　疑不當地接受付款",
-        "dek": "岩盤浴瑜伽全線結業後，海關星期五拘捕一名公司董事，消委會接獲286宗投訴，涉款逾390萬元。"
-      }
-    },
-    {
-      "id": "2026-10-02-kowloon-peak-climber-rescued",
-      "published_at": "2026-10-02T21:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "rescue",
-        "kowloon-peak",
-        "fire-services"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-kowloon-peak-climber-rescued.json",
-      "en": {
-        "headline": "Unconscious climber airlifted after Kowloon Peak fall",
-        "dek": "Firefighters found the man in heavy rain on Friday evening and flew him to Eastern Hospital; his companion was also injured."
-      },
-      "zh": {
-        "headline": "飛鵝山攀石男子昏迷　直升機送東區醫院",
-        "dek": "消防員星期五傍晚在大雨中尋獲墮崖男子，他送院時昏迷，同行男子亦受傷。"
       }
     }
   ]
