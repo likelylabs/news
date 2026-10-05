@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-05T19:06:04+08:00",
+  "updated_at": "2026-10-05T21:08:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "paediatric-flu-shock-oct5",
+      "id": "2026-10-05-paediatric-flu-shock",
+      "first_seen": "2026-10-05T21:08:00+08:00",
+      "headline_en": "Boy, 10, in serious condition with flu and shock"
+    },
+    {
+      "key": "huanggang-quota-fake-messages-oct5",
+      "id": "2026-10-05-huanggang-quota-warning",
+      "first_seen": "2026-10-05T21:08:00+08:00",
+      "headline_en": "Government warns against fake Huanggang all-day quota claims"
+    },
+    {
+      "key": "hkma-paa-trade-mou-oct5",
+      "id": "2026-10-05-hkma-trade-data-mou",
+      "first_seen": "2026-10-05T21:08:00+08:00",
+      "headline_en": "HKMA signs pact to link regional trade data"
+    },
+    {
+      "key": "hrpc-youth-unemployment-oct5",
+      "id": "2026-10-05-youth-unemployment-hrpc",
+      "first_seen": "2026-10-05T21:08:00+08:00",
+      "headline_en": "Manpower panel flags rise in youth unemployment"
+    },
     {
       "key": "bakai-restricted-licence-oct5",
       "id": "2026-10-05-bakai-restricted-licence",
