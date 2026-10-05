@@ -1,8 +1,92 @@
 {
-  "generated_at": "2026-10-05T19:06:04+08:00",
+  "generated_at": "2026-10-05T21:05:46+08:00",
   "live_window_hours": 72,
-  "count": 112,
+  "count": 116,
   "articles": [
+    {
+      "id": "2026-10-05-hkma-trade-data-mou",
+      "published_at": "2026-10-05T21:08:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "banking",
+        "hkma",
+        "trade"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-hkma-trade-data-mou.json",
+      "en": {
+        "headline": "HKMA signs pact to link regional trade data",
+        "dek": "A pilot linking Hong Kong's commercial data platform with a Shanghai digital-trade system has produced 10 loan approvals worth HK$180 million, the authority said."
+      },
+      "zh": {
+        "headline": "金管局與數位貿易聯盟簽備忘錄 接通貿易數據",
+        "dek": "金管局說，商業數據通與上海數字貿易平台的試點已促成10宗貿易融資批核，貸款額達1.8億元。"
+      }
+    },
+    {
+      "id": "2026-10-05-huanggang-quota-warning",
+      "published_at": "2026-10-05T21:08:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "huanggang",
+        "cross-boundary"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-huanggang-quota-warning.json",
+      "en": {
+        "headline": "Government warns against fake Huanggang all-day quota claims",
+        "dek": "Vehicles with permits for three designated ports may use Lok Ma Chau or the new Huanggang Port only between midnight and 6:30am, and the case has been referred to law enforcement."
+      },
+      "zh": {
+        "headline": "政府籲勿信皇崗口岸可全日過關的虛假信息",
+        "dek": "持指定口岸許可證的粵港常規配額車輛，只可於凌晨至早上6時30分經落馬洲或新皇崗往來，事件已轉交執法部門。"
+      }
+    },
+    {
+      "id": "2026-10-05-paediatric-flu-shock",
+      "published_at": "2026-10-05T21:08:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "chp",
+        "influenza"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-paediatric-flu-shock.json",
+      "en": {
+        "headline": "Boy, 10, in serious condition with flu and shock",
+        "dek": "The Centre for Health Protection said the child tested positive for influenza A and remains in intensive care, taking serious paediatric cases since late June to 22."
+      },
+      "zh": {
+        "headline": "十歲男童染甲流併發休克 情況嚴重",
+        "dek": "衞生防護中心說，男童對甲型流感呈陽性，仍在兒童深切治療部留醫，6月底至今兒童嚴重個案累計22宗。"
+      }
+    },
+    {
+      "id": "2026-10-05-youth-unemployment-hrpc",
+      "published_at": "2026-10-05T21:08:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "employment",
+        "labour",
+        "youth"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-youth-unemployment-hrpc.json",
+      "en": {
+        "headline": "Manpower panel flags rise in youth unemployment",
+        "dek": "Seasonally adjusted unemployment edged up to 3.8 percent in June to August, and officials briefed the panel on a 30,000-place youth jobs scheme."
+      },
+      "zh": {
+        "headline": "人力規劃委員會關注青年失業 失業率升至3.8%",
+        "dek": "經季節性調整的失業率由5至7月的3.7%升至6至8月的3.8%，官員向委員會簡介三萬個青年職位及實習計劃。"
+      }
+    },
     {
       "id": "2026-10-05-bakai-restricted-licence",
       "published_at": "2026-10-05T19:06:00+08:00",
