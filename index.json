@@ -1,8 +1,92 @@
 {
-  "generated_at": "2026-10-05T13:20:43+08:00",
+  "generated_at": "2026-10-05T15:06:56+08:00",
   "live_window_hours": 72,
-  "count": 114,
+  "count": 118,
   "articles": [
+    {
+      "id": "2026-10-05-airport-cannabis-seizure",
+      "published_at": "2026-10-05T15:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "airport",
+        "drugs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-airport-cannabis-seizure.json",
+      "en": {
+        "headline": "Customs seize about 6kg of cannabis flower at the airport",
+        "dek": "Officers arrested a 49-year-old mainland man who arrived from Bangkok on Sunday, and put the suspected cannabis flower at about HK$1.2 million."
+      },
+      "zh": {
+        "headline": "海關機場檢獲約6公斤懷疑大麻花",
+        "dek": "海關表示，星期日拘捕一名由曼谷抵港的49歲內地男子，檢獲懷疑大麻花估計市值約120萬元。"
+      }
+    },
+    {
+      "id": "2026-10-05-guildford-road-mall-tender",
+      "published_at": "2026-10-05T15:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "property",
+        "the-peak",
+        "business"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-guildford-road-mall-tender.json",
+      "en": {
+        "headline": "DFI Retail puts Peak shopping centre up for tender",
+        "dek": "CBRE, the sole agent, said the Dairy Farm Guildford Road Shopping Centre tender closes at noon on 19 November."
+      },
+      "zh": {
+        "headline": "牛奶公司山頂商場公開招標出售",
+        "dek": "獨家代理世邦魏理仕表示，山頂僑福道牛奶公司購物中心招標於11月19日中午截止。"
+      }
+    },
+    {
+      "id": "2026-10-05-kai-tak-morning-patients",
+      "published_at": "2026-10-05T15:10:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "hospital",
+        "kai-tak"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-kai-tak-morning-patients.json",
+      "en": {
+        "headline": "Kai Tak family clinic sees nearly 300 patients on opening morning",
+        "dek": "The hospital’s chief executive told the South China Morning Post the daily load is projected to reach 1,800 by the end of the year."
+      },
+      "zh": {
+        "headline": "啟德家庭醫學中心首早應診近300人",
+        "dek": "醫院行政總監向《南華早報》表示，預計年底每日病人量可達1800人。"
+      }
+    },
+    {
+      "id": "2026-10-05-slimming-injection-seizure",
+      "published_at": "2026-10-05T15:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "tuen-mun",
+        "health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-slimming-injection-seizure.json",
+      "en": {
+        "headline": "Customs seize 134 suspected slimming vials in Tuen Mun case",
+        "dek": "RTHK reported that officers found 54 vials in a Japan air-mail parcel on 2 October, then a further 80 at a Tuen Mun flat, and bailed a 30-year-old woman."
+      },
+      "zh": {
+        "headline": "海關檢134支懷疑減肥針劑 屯門拘女子",
+        "dek": "港台報道，關員本月2日在空郵中心檢獲54支來自日本的懷疑針劑，同日在屯門住所再檢80支，30歲女收件人獲准保釋。"
+      }
+    },
     {
       "id": "2026-10-05-diamond-hill-attempted-robbery",
       "published_at": "2026-10-05T13:22:00+08:00",
