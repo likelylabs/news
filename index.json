@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-10-05T09:18:23+08:00",
+  "generated_at": "2026-10-05T11:10:05+08:00",
   "live_window_hours": 72,
-  "count": 114,
+  "count": 117,
   "articles": [
+    {
+      "id": "2026-10-05-asian-games-chef-de-mission",
+      "published_at": "2026-10-05T11:09:32+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "sport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-asian-games-chef-de-mission.json",
+      "en": {
+        "headline": "Games chief says Hong Kong sent about 90 fewer athletes",
+        "dek": "Wong Po-kee told RTHK the internal target was only to match Hangzhou, and that the 54-medal haul finished one medal higher."
+      },
+      "zh": {
+        "headline": "黃寶基：今屆亞運少派約90名運動員",
+        "dek": "代表團團長在港台表示，賽前內部目標只是追平杭州成績，最終54面獎牌比上屆多一面。"
+      }
+    },
+    {
+      "id": "2026-10-05-kai-tak-hospital-opens",
+      "published_at": "2026-10-05T11:09:32+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "hospital",
+        "kai-tak"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-kai-tak-hospital-opens.json",
+      "en": {
+        "headline": "Kai Tak Hospital family clinic opens as patients arrive",
+        "dek": "The family medicine centre began service on Monday with about 350 appointments a day, and staff were helping people register after 8:30am."
+      },
+      "zh": {
+        "headline": "啟德醫院家庭醫學中心今早投入服務",
+        "dek": "專科門診大樓一樓的家庭醫學綜合中心星期一開始應診，初期每日約350個名額，早上八時半後已有市民到場登記。"
+      }
+    },
+    {
+      "id": "2026-10-05-mpox-tracing-difficulty",
+      "published_at": "2026-10-05T11:09:32+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "mpox",
+        "chp"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-mpox-tracing-difficulty.json",
+      "en": {
+        "headline": "Health officials say dating apps are hampering mpox tracing",
+        "dek": "The Centre for Health Protection says Hong Kong has logged 29 mpox cases this year, and that about six in ten recent patients met partners through apps."
+      },
+      "zh": {
+        "headline": "歐家榮：交友程式令猴痘追蹤困難",
+        "dek": "衞生防護中心表示本年累計29宗猴痘，八月以來20宗中約六成患者稱透過交友程式尋找陌生性伴侶。"
+      }
+    },
     {
       "id": "2026-10-05-hku-northern-metropolis-labs",
       "published_at": "2026-10-05T09:18:00+08:00",
