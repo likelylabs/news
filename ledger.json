@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-05T07:22:40+08:00",
+  "updated_at": "2026-10-05T09:18:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-disneyland-early-close-oct10",
+      "id": "2026-10-05-lifestyle-disneyland-early-close",
+      "first_seen": "2026-10-05T09:18:00+08:00",
+      "headline_en": "Three Disneyland lands to close early on 10 and 11 October"
+    },
+    {
+      "key": "hku-northern-metropolis-labs-oct5",
+      "id": "2026-10-05-hku-northern-metropolis-labs",
+      "first_seen": "2026-10-05T09:18:00+08:00",
+      "headline_en": "HKU research chief seeks lab space in the Northern Metropolis"
+    },
+    {
+      "key": "weekend-primary-sales-oct3-4",
+      "id": "2026-10-05-weekend-flat-sales",
+      "first_seen": "2026-10-05T09:18:00+08:00",
+      "headline_en": "Weekend primary sales near 180 as second-hand deals thin out"
+    },
+    {
+      "key": "tse-five-year-plan-interview-oct5",
+      "id": "2026-10-05-tse-five-year-plan",
+      "first_seen": "2026-10-05T09:18:00+08:00",
+      "headline_en": "Tse says five-year plan avoids rigid targets to ease planned-economy fears"
+    },
     {
       "key": "diamond-hill-knife-arrest-oct5",
       "id": "2026-10-05-diamond-hill-knife-arrest",
