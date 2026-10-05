@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-05T23:26:53+08:00",
+  "updated_at": "2026-10-06T01:08:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "industrial-elite-enterprises-oct5",
+      "id": "2026-10-06-industrial-elite-enterprises",
+      "first_seen": "2026-10-06T01:08:00+08:00",
+      "headline_en": "Bureau names eight firms as industrial elite enterprises"
+    },
+    {
+      "key": "rthk-new-media-platform-oct5",
+      "id": "2026-10-06-rthk-new-media-platform",
+      "first_seen": "2026-10-06T01:08:00+08:00",
+      "headline_en": "RTHK launches new media platform and mascot"
+    },
     {
       "key": "cfs-shrimp-furazolidone-oct5",
       "id": "2026-10-05-shrimp-furazolidone-recall",
