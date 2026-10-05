@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-10-05T23:26:53+08:00",
+  "generated_at": "2026-10-06T01:03:44+08:00",
   "live_window_hours": 72,
-  "count": 113,
+  "count": 115,
   "articles": [
+    {
+      "id": "2026-10-06-industrial-elite-enterprises",
+      "published_at": "2026-10-06T01:08:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "technology",
+        "industry"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-industrial-elite-enterprises.json",
+      "en": {
+        "headline": "Bureau names eight firms as industrial elite enterprises",
+        "dek": "The Innovation, Technology and Industry Bureau said the inaugural list follows more than 100 nominations, with an award ceremony expected before the end of the year."
+      },
+      "zh": {
+        "headline": "創科局公布首屆八家新型工業菁英企業",
+        "dek": "創新科技及工業局說，計劃接獲逾100項提名，評審看科研、成長和本地貢獻，頒獎禮預計今年內舉行。"
+      }
+    },
+    {
+      "id": "2026-10-06-rthk-new-media-platform",
+      "published_at": "2026-10-06T01:08:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "rthk",
+        "technology",
+        "culture"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-rthk-new-media-platform.json",
+      "en": {
+        "headline": "RTHK launches new media platform and mascot",
+        "dek": "The broadcaster said the platform and an AI-generated mascot follow a Policy Address pledge, and that schools may use a new education corner free of charge."
+      },
+      "zh": {
+        "headline": "港台推出新媒體平台和吉祥物「電電」",
+        "dek": "港台說平台和人工智能吉祥物落實施政報告的相關表述，並向學校免費授權十多套教育及青年節目作教學播放。"
+      }
+    },
     {
       "id": "2026-10-05-fireworks-drone-followup",
       "published_at": "2026-10-05T23:25:00+08:00",
