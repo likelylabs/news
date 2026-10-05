@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-10-06T01:03:44+08:00",
+  "generated_at": "2026-10-06T03:17:42+08:00",
   "live_window_hours": 72,
-  "count": 115,
+  "count": 118,
   "articles": [
+    {
+      "id": "2026-10-06-kingsfield-owners-fine",
+      "published_at": "2026-10-06T03:18:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "labour",
+        "north-point",
+        "court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-kingsfield-owners-fine.json",
+      "en": {
+        "headline": "North Point owners' corporation fined over worker's fall",
+        "dek": "Eastern Magistrates' Courts fined the Kingsfield Garden corporation HK$149,000 after a tree worker fell from a car-park wall last July and later died."
+      },
+      "zh": {
+        "headline": "北角業主立案法團因修剪工人墮下被罰14.9萬",
+        "dek": "東區裁判法院星期一裁定京士花園法團違反職安條例，罰款14.9萬元。工人去年七月在停車場矮牆墮下，兩星期後不治。"
+      }
+    },
+    {
+      "id": "2026-10-06-lifestyle-ciao-gelato-pmq",
+      "published_at": "2026-10-06T03:18:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "central"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-lifestyle-ciao-gelato-pmq.json",
+      "en": {
+        "headline": "Gelato market returns to PMQ from Friday to Sunday",
+        "dek": "Ciao Gelato Fest lists a second weekend at PMQ on Aberdeen Street, with free entry, 20 stalls and a HK$188 pass for six mini cups."
+      },
+      "zh": {
+        "headline": "意式雪糕市集周五至日再在元創方舉行",
+        "dek": "Ciao Gelato Fest 公布第二個周末回到鴨巴甸街元創方，入場免費，約20個品牌設檔，188元套票可換六杯迷你雪糕。"
+      }
+    },
+    {
+      "id": "2026-10-06-sham-shui-po-illicit-cigarettes",
+      "published_at": "2026-10-06T03:18:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sham-shui-po",
+        "customs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-sham-shui-po-illicit-cigarettes.json",
+      "en": {
+        "headline": "Customs and police raid 23 Sham Shui Po cigarette spots",
+        "dek": "A joint operation from 18 to 30 September seized about 100,000 illicit cigarettes worth an estimated HK$480,000 and led to five arrests."
+      },
+      "zh": {
+        "headline": "海關聯同深水埗警區搞破23個私煙據點",
+        "dek": "9月18日至30日的聯合行動檢獲約10萬支私煙，估計市值48萬元，拘捕五人，包括四名本地人士及一名越南籍男子。"
+      }
+    },
     {
       "id": "2026-10-06-industrial-elite-enterprises",
       "published_at": "2026-10-06T01:08:00+08:00",
