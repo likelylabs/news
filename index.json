@@ -1,8 +1,113 @@
 {
-  "generated_at": "2026-10-05T17:13:33+08:00",
+  "generated_at": "2026-10-05T19:06:04+08:00",
   "live_window_hours": 72,
   "count": 112,
   "articles": [
+    {
+      "id": "2026-10-05-bakai-restricted-licence",
+      "published_at": "2026-10-05T19:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "banking",
+        "hkma",
+        "central-asia"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-bakai-restricted-licence.json",
+      "en": {
+        "headline": "HKMA grants restricted banking licence to Bakai Bank",
+        "dek": "The Kyrgyz lender's licence took effect on Monday, taking the number of restricted licence banks in Hong Kong to 17."
+      },
+      "zh": {
+        "headline": "金管局向吉爾吉斯巴凱銀行發出有限制牌照",
+        "dek": "牌照星期一生效，本港有限制牌照銀行數目增至17間。"
+      }
+    },
+    {
+      "id": "2026-10-05-heal-fertility-resume",
+      "published_at": "2026-10-05T19:06:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "central",
+        "fertility"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-heal-fertility-resume.json",
+      "en": {
+        "headline": "Council lets Central fertility centre resume all licensed services",
+        "dek": "HEAL Fertility may offer all 17 licensed treatments from Tuesday after inspectors accepted its remedial steps, the Department of Health said."
+      },
+      "zh": {
+        "headline": "希愈生殖醫學中心明起可恢復全部持牌服務",
+        "dek": "管理局信納補救措施後批准恢復17項治療，衞生署亦解除暫停接收新症的指令。"
+      }
+    },
+    {
+      "id": "2026-10-05-legionnaires-two-cases",
+      "published_at": "2026-10-05T19:06:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "chp",
+        "legionnaires"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-legionnaires-two-cases.json",
+      "en": {
+        "headline": "Health centre logs two more Legionnaires' disease cases",
+        "dek": "The Centre for Health Protection said both cases last week appear sporadic, taking this year's total to 153."
+      },
+      "zh": {
+        "headline": "衞防中心上週再錄兩宗退伍軍人病",
+        "dek": "初步調查顯示兩宗屬散發個案，今年累計153宗。"
+      }
+    },
+    {
+      "id": "2026-10-05-sheung-shui-site-fall",
+      "published_at": "2026-10-05T19:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sheung-shui",
+        "north-district",
+        "accident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-sheung-shui-site-fall.json",
+      "en": {
+        "headline": "Man dies after fall at Sheung Shui construction site",
+        "dek": "Police said a man in his forties was found unconscious at a Po Kin Road site on Monday afternoon and was later certified dead."
+      },
+      "zh": {
+        "headline": "上水地盤男子墮下送院後不治",
+        "dek": "警方稱下午約4時20分接報保健路地盤有約40歲男子昏迷，其後證實不治。"
+      }
+    },
+    {
+      "id": "2026-10-05-wo-zi-shan-facilities",
+      "published_at": "2026-10-05T19:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sham-shui-po",
+        "home-affairs",
+        "recreation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-wo-zi-shan-facilities.json",
+      "en": {
+        "headline": "New Wo Zi Shan recreation facilities open in Sham Shui Po",
+        "dek": "The Home Affairs Department said table-tennis tables, fitness equipment and safety matting were in use from Monday morning."
+      },
+      "zh": {
+        "headline": "深水埗窩仔山新康體設施星期一開放",
+        "dek": "民政事務總署說，乒乓球桌、健身設施和安全地墊今早已有街坊使用。"
+      }
+    },
     {
       "id": "2026-10-05-basic-housing-registrations",
       "published_at": "2026-10-05T17:14:00+08:00",
@@ -2239,112 +2344,6 @@
       "zh": {
         "headline": "飛鵝山攀石男子昏迷　直升機送東區醫院",
         "dek": "消防員星期五傍晚在大雨中尋獲墮崖男子，他送院時昏迷，同行男子亦受傷。"
-      }
-    },
-    {
-      "id": "2026-10-02-amber-rainstorm-warning",
-      "published_at": "2026-10-02T19:06:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "rainstorm",
-        "sheung-shui"
-      ],
-      "breaking": true,
-      "path": "articles/2026-10-02/2026-10-02-amber-rainstorm-warning.json",
-      "en": {
-        "headline": "Observatory issues amber rainstorm warning as northern downpours continue",
-        "dek": "The amber signal went up at 5:40pm, with the northern New Territories flooding announcement and the afternoon thunderstorm warning still in force."
-      },
-      "zh": {
-        "headline": "天文台發出黃色暴雨警告 新界北部大雨持續",
-        "dek": "黃色暴雨警告於下午5時40分生效，新界北部水浸特別報告及下午的雷暴警告仍然有效。"
-      }
-    },
-    {
-      "id": "2026-10-02-august-retail-sales",
-      "published_at": "2026-10-02T19:06:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "retail",
-        "census",
-        "economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-august-retail-sales.json",
-      "en": {
-        "headline": "August retail sales rise 5.6% to HK$32.1 billion",
-        "dek": "The Census and Statistics Department said the gain was the 16th straight monthly increase, with online sales up 9.9%."
-      },
-      "zh": {
-        "headline": "八月零售銷貨價值升5.6% 至321億元",
-        "dek": "政府統計處公布臨時數字，按年升幅為連續第16個月擴張，網上銷售升9.9%。"
-      }
-    },
-    {
-      "id": "2026-10-02-hang-seng-close-oct2",
-      "published_at": "2026-10-02T19:06:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "markets",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-hang-seng-close-oct2.json",
-      "en": {
-        "headline": "Hang Seng closes down 640 points, back under 24,000",
-        "dek": "The index finished at 23,972 after a holiday-delayed session, with AIA, Standard Chartered and HSBC leading the fall."
-      },
-      "zh": {
-        "headline": "恒指收市跌640點 失守二萬四",
-        "dek": "假期後首個交易日恒指收報23972點，友邦、渣打及滙控領跌，全日成交1458億元。"
-      }
-    },
-    {
-      "id": "2026-10-02-hkic-clara-chan-reappointed",
-      "published_at": "2026-10-02T19:06:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hkic",
-        "finance",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-hkic-clara-chan-reappointed.json",
-      "en": {
-        "headline": "Clara Chan reappointed Hong Kong Investment Corporation chief for three years",
-        "dek": "Financial Secretary Paul Chan said the board had renewed her term from 9 October, citing patient capital and reasonable returns."
-      },
-      "zh": {
-        "headline": "陳家齊再任港投公司行政總裁 任期三年",
-        "dek": "財政司司長陳茂波宣布董事會再度委任陳家齊，新任期於10月9日生效，並指投資取得合理回報。"
-      }
-    },
-    {
-      "id": "2026-10-02-kowloon-peak-climbing-rescue",
-      "published_at": "2026-10-02T19:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "rescue",
-        "kowloon-peak",
-        "fire-services"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-kowloon-peak-climbing-rescue.json",
-      "en": {
-        "headline": "Rescuers search Kowloon Peak after climber falls",
-        "dek": "Police were told shortly after 2:30pm that a man had fallen while climbing with a colleague near Suicide Cliff. Fire crews and a helicopter were sent."
-      },
-      "zh": {
-        "headline": "飛鵝山攀石男墮下 消防及飛行服務隊搜救",
-        "dek": "警方下午約2時半接報，一名男子與同事在自殺崖一帶攀石時墮下，救援人員正登山施救。"
       }
     }
   ]
