@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-05T11:10:05+08:00",
+  "generated_at": "2026-10-05T13:20:43+08:00",
   "live_window_hours": 72,
-  "count": 117,
+  "count": 114,
   "articles": [
+    {
+      "id": "2026-10-05-diamond-hill-attempted-robbery",
+      "published_at": "2026-10-05T13:22:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "diamond-hill",
+        "wong-tai-sin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-diamond-hill-attempted-robbery.json",
+      "en": {
+        "headline": "Police treat Diamond Hill knife case as attempted robbery",
+        "dek": "HK01 reported that a woman demanded Octopus cards and HK$100 notes at the station counter on Sunday, and was arrested early Monday on suspicion of attempted robbery."
+      },
+      "zh": {
+        "headline": "警方將鑽石山持刀案列作企圖行劫",
+        "dek": "《香港01》引述，星期日傍晚一名女子在鑽石山站客務中心持刀索取八達通卡及100元紙幣，星期一凌晨以涉嫌企圖行劫被捕。"
+      }
+    },
+    {
+      "id": "2026-10-05-hang-seng-midday",
+      "published_at": "2026-10-05T13:22:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "markets",
+        "hang-seng",
+        "business"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-hang-seng-midday.json",
+      "en": {
+        "headline": "Hang Seng slips 20 points at the midday close",
+        "dek": "The index finished the morning at 23,952 after touching 24,005, with main-board turnover near HK$54.6 billion, RTHK reported."
+      },
+      "zh": {
+        "headline": "恒指半日收市跌20點 報23952點",
+        "dek": "港台報道，恒指早段曾高見24005點，中午收報23952點，半日主板成交額近546億元。"
+      }
+    },
+    {
+      "id": "2026-10-05-huanggang-transport-info",
+      "published_at": "2026-10-05T13:22:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "huanggang",
+        "border"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-huanggang-transport-info.json",
+      "en": {
+        "headline": "Transport Department says Huanggang signs are ready",
+        "dek": "The department said display screens, large stickers and queue rails are in place at the new port interchange, with ambassadors on the second-floor lobby at opening."
+      },
+      "zh": {
+        "headline": "運輸署：皇崗口岸交匯處資訊已準備就緒",
+        "dek": "署方表示交匯處已加設顯示屏、大型標貼及排隊欄杆，口岸初期會有服務大使在二樓大堂協助乘客揀選出市區路線。"
+      }
+    },
+    {
+      "id": "2026-10-05-privacy-fitness-review",
+      "published_at": "2026-10-05T13:22:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "privacy",
+        "fitness"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-privacy-fitness-review.json",
+      "en": {
+        "headline": "Privacy office opens compliance check on 24/7 Fitness",
+        "dek": "The Privacy Commissioner said it has asked 24/7 Fitness for details of the steps taken after a camera was found in a changing room."
+      },
+      "zh": {
+        "headline": "私隱公署主動對24/7 Fitness展開循規審查",
+        "dek": "個人資料私隱專員公署表示，已要求健身中心交代更衣室發現攝錄鏡頭後採取的保障措施，以及措施是否足以防止類似事件。"
+      }
+    },
     {
       "id": "2026-10-05-asian-games-chef-de-mission",
       "published_at": "2026-10-05T11:09:32+08:00",
@@ -2305,153 +2388,6 @@
       "zh": {
         "headline": "周末仍有驟雨 周一早上稍涼",
         "dek": "天文台預料周六日大致多雲有驟雨，周日晚東北季候風補充，隨後轉涼及雨勢減弱。"
-      }
-    },
-    {
-      "id": "2026-10-02-asian-games-ilca7-silver",
-      "published_at": "2026-10-02T13:18:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "sailing",
-        "nagoya"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-asian-games-ilca7-silver.json",
-      "en": {
-        "headline": "Pui takes Asian Games silver in men's ILCA 7 sailing",
-        "dek": "Pui Chun-lung finished second in the men's ILCA 7, two points behind the Korean winner, RTHK reported."
-      },
-      "zh": {
-        "headline": "貝俊龍亞運男子ILCA 7帆船摘銀",
-        "dek": "港隊貝俊龍在名古屋亞運男子單人艇ILCA 7以11分位列第二，落後韓國選手兩分奪銀。"
-      }
-    },
-    {
-      "id": "2026-10-02-ho-man-tin-fat-kwong-tender",
-      "published_at": "2026-10-02T13:18:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "property",
-        "land-sale",
-        "ho-man-tin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-ho-man-tin-fat-kwong-tender.json",
-      "en": {
-        "headline": "Ho Man Tin luxury site draws at least 10 bids at noon close",
-        "dek": "The Fat Kwong Street residential site closed at noon with at least 10 tenders, including bids from major developers, reports said."
-      },
-      "zh": {
-        "headline": "何文田佛光街住宅地中午截標 最少10份標書",
-        "dek": "何文田佛光街私人住宅用地中午截標，現場最少收到10份標書，多間大型發展商入標。"
-      }
-    },
-    {
-      "id": "2026-10-02-thunderstorm-warning-midday",
-      "published_at": "2026-10-02T13:18:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "thunderstorm",
-        "warning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-thunderstorm-warning-midday.json",
-      "en": {
-        "headline": "Observatory issues thunderstorm warning valid until 1:30pm",
-        "dek": "The Hong Kong Observatory warned of isolated thunderstorms until 1:30pm, with heavier showers expected in some districts over the next hour or two."
-      },
-      "zh": {
-        "headline": "天文台發出雷暴警告 有效至下午1時30分",
-        "dek": "天文台警告本港有局部雷暴，有效至下午1時30分，並指未來一兩小時部分地區雨勢可能較大。"
-      }
-    },
-    {
-      "id": "2026-10-02-wong-asian-games-tennis-final",
-      "published_at": "2026-10-02T13:18:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "tennis",
-        "nagoya"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-wong-asian-games-tennis-final.json",
-      "en": {
-        "headline": "Wong reaches Asian Games men's singles tennis final",
-        "dek": "Coleman Wong beat Uzbekistan's Sultanov to reach the final and is assured of at least silver, RTHK reported."
-      },
-      "zh": {
-        "headline": "黃澤林闖亞運網球男單決賽 最少奪銀",
-        "dek": "港隊黃澤林擊敗烏茲別克球手蘇丹諾夫晉身決賽，香港電台指他坐銀望金。"
-      }
-    },
-    {
-      "id": "2026-10-02-hang-seng-post-holiday-drop",
-      "published_at": "2026-10-02T11:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "stocks",
-        "golden-week"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-hang-seng-post-holiday-drop.json",
-      "en": {
-        "headline": "Hang Seng down 2.6% by late morning after holiday break",
-        "dek": "The benchmark stood at 23,975.90 at 11:05am, down 637 points from Wednesday's close, after opening 513 points lower."
-      },
-      "zh": {
-        "headline": "國慶假期後復市 恒指上午跌逾六百點",
-        "dek": "恒指上午11時05分報23975點，較周三收市跌637點；今早低開513點，盤中曾低見23865點。"
-      }
-    },
-    {
-      "id": "2026-10-02-hkex-chan-asset-ecosystem",
-      "published_at": "2026-10-02T11:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hkex",
-        "finance",
-        "stocks"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-hkex-chan-asset-ecosystem.json",
-      "en": {
-        "headline": "HKEX chief says investors want more than equities",
-        "dek": "Bonnie Chan told RTHK that Hong Kong should build a broader asset ecosystem, citing stronger turnover and renewed interest in gold futures."
-      },
-      "zh": {
-        "headline": "陳翊庭：港股以外也要建多元資產生態圈",
-        "dek": "港交所行政總裁在港台節目表示，投資者希望配置股票以外的資產，並提到成交回升及美元黃金期貨反應。"
-      }
-    },
-    {
-      "id": "2026-10-02-lifestyle-westk-museums-golden-week",
-      "published_at": "2026-10-02T11:12:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "golden-week"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-lifestyle-westk-museums-golden-week.json",
-      "en": {
-        "headline": "M+ stays open until 10pm today for Golden Week",
-        "dek": "West Kowloon says M+ and the Palace Museum will keep extended hours through 7 October, and asks visitors to book ahead."
-      },
-      "zh": {
-        "headline": "黃金周西九兩館延長開放 M+今晚十時閉館",
-        "dek": "西九文化區表示，M+及故宮文化博物館在國慶黃金周維持延長開放，並建議訪客預先購票。"
       }
     }
   ]
