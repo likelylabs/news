@@ -1,8 +1,110 @@
 {
-  "generated_at": "2026-10-05T15:08:01+08:00",
+  "generated_at": "2026-10-05T17:13:33+08:00",
   "live_window_hours": 72,
   "count": 112,
   "articles": [
+    {
+      "id": "2026-10-05-basic-housing-registrations",
+      "published_at": "2026-10-05T17:14:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "housing",
+        "basic-housing",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-basic-housing-registrations.json",
+      "en": {
+        "headline": "Housing bureau logs over 73,600 basic-housing applications",
+        "dek": "Winnie Ho told lawmakers the register has drawn more than 73,600 applications, with only 14 Home Ownership Scheme flats among the units logged."
+      },
+      "zh": {
+        "headline": "何永賢：簡樸房登記已接逾7.3萬宗申請",
+        "dek": "房屋局局長何永賢在立法會表示，簡樸房登記至今收到逾73600宗申請，已登記的二萬多個單位中居屋只佔14個。"
+      }
+    },
+    {
+      "id": "2026-10-05-hang-seng-close",
+      "published_at": "2026-10-05T17:14:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "markets",
+        "hang-seng",
+        "business"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-hang-seng-close.json",
+      "en": {
+        "headline": "Hang Seng closes 68 points higher back above 24,000",
+        "dek": "The index finished at 24,040 after an early dip of nearly 140 points, while main-board turnover fell to HK$98.1 billion."
+      },
+      "zh": {
+        "headline": "港股收市升68點 重上24000點",
+        "dek": "恒生指數收報24040點，早段曾最多跌近140點，全日主板成交減至981億元。"
+      }
+    },
+    {
+      "id": "2026-10-05-september-climate-summary",
+      "published_at": "2026-10-05T17:14:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "observatory",
+        "climate"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-september-climate-summary.json",
+      "en": {
+        "headline": "Observatory says September was hotter and drier than normal",
+        "dek": "The mean minimum of 27.1 degrees was the fifth highest on record for September, and rainfall was about 29 percent of normal."
+      },
+      "zh": {
+        "headline": "天文台：9月較正常炎熱乾燥",
+        "dek": "9月平均最低氣溫27.1度，是有紀錄以來9月第五高；總雨量94.3毫米，約為正常的29%。"
+      }
+    },
+    {
+      "id": "2026-10-05-september-home-registrations",
+      "published_at": "2026-10-05T17:14:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "property",
+        "land-registry"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-september-home-registrations.json",
+      "en": {
+        "headline": "September home sale registrations rise 18.5 percent",
+        "dek": "The Land Registry logged 4,761 residential agreements worth HK$46.8 billion, still 15.6 percent below a year earlier."
+      },
+      "zh": {
+        "headline": "9月住宅註冊買賣按月升18.5%",
+        "dek": "土地註冊處公布，9月送交註冊的住宅買賣合約4761份，總值468億元，按年仍跌15.6%。"
+      }
+    },
+    {
+      "id": "2026-10-05-sincere-central-closing",
+      "published_at": "2026-10-05T17:14:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "retail",
+        "central"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-05/2026-10-05-sincere-central-closing.json",
+      "en": {
+        "headline": "Sincere to close its Central store in early December",
+        "dek": "The company said talks to renew the lease at 189 Des Voeux Road Central failed, and the lease ends on 31 December."
+      },
+      "zh": {
+        "headline": "先施中環店將於12月初停業",
+        "dek": "先施表示未能與業主就德輔道中189號地下店續租達成協議，租約於12月31日屆滿。"
+      }
+    },
     {
       "id": "2026-10-05-airport-cannabis-seizure",
       "published_at": "2026-10-05T15:10:00+08:00",
@@ -2243,109 +2345,6 @@
       "zh": {
         "headline": "飛鵝山攀石男墮下 消防及飛行服務隊搜救",
         "dek": "警方下午約2時半接報，一名男子與同事在自殺崖一帶攀石時墮下，救援人員正登山施救。"
-      }
-    },
-    {
-      "id": "2026-10-02-asian-games-women-squash-silver",
-      "published_at": "2026-10-02T17:12:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "squash",
-        "nagoya"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-asian-games-women-squash-silver.json",
-      "en": {
-        "headline": "Hong Kong women take Asian Games squash team silver",
-        "dek": "The side lost the Nagoya final 1-2 to Malaysia after Chan Sin-yuk levelled the tie."
-      },
-      "zh": {
-        "headline": "亞運壁球女團決賽負馬來西亞 港隊摘銀",
-        "dek": "港隊在名古屋決賽以場數1比2落敗，陳善鈺先扳平場數，李嘉兒第三場直落落敗。"
-      }
-    },
-    {
-      "id": "2026-10-02-helper-minimum-wage-5220",
-      "published_at": "2026-10-02T17:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "labour",
-        "immigration"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-helper-minimum-wage-5220.json",
-      "en": {
-        "headline": "Helper minimum wage set at HK$5,220 for new contracts",
-        "dek": "The government guide says the rate applies to contracts signed from 3 October. The food allowance stays at HK$1,236."
-      },
-      "zh": {
-        "headline": "外傭規定最低工資調至5220元 明日起新約適用",
-        "dek": "政府指引列明，每月5220元適用於10月3日或以後簽訂的合約，膳食津貼維持不少於1236元。"
-      }
-    },
-    {
-      "id": "2026-10-02-northern-nt-flooding-announcement",
-      "published_at": "2026-10-02T17:12:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "new-territories",
-        "warning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-northern-nt-flooding-announcement.json",
-      "en": {
-        "headline": "Observatory warns of flooding risk around Sheung Shui",
-        "dek": "A 5pm announcement said more than 70 millimetres of rain fell in an hour in the northern New Territories."
-      },
-      "zh": {
-        "headline": "天文台發新界北部水浸特別報告 上水雨勢較大",
-        "dek": "下午5時的特別報告指新界北過去一小時錄得超過70毫米雨量，上水一帶尤其明顯。"
-      }
-    },
-    {
-      "id": "2026-10-02-thunderstorm-warning-afternoon",
-      "published_at": "2026-10-02T17:12:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "thunderstorm",
-        "hko",
-        "warning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-thunderstorm-warning-afternoon.json",
-      "en": {
-        "headline": "Observatory extends afternoon thunderstorm warning to 6:30pm",
-        "dek": "A warning issued at 3:55pm was kept in force until 6:30pm, with isolated storms expected over Hong Kong."
-      },
-      "zh": {
-        "headline": "天文台下午雷暴警告延長至6時30分",
-        "dek": "下午3時55分發出的雷暴警告延長至下午6時30分，預料本港有局部地區雷暴。"
-      }
-    },
-    {
-      "id": "2026-10-02-wang-fuk-court-sale-agreements",
-      "published_at": "2026-10-02T17:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "tai-po"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-02/2026-10-02-wang-fuk-court-sale-agreements.json",
-      "en": {
-        "headline": "90.4% of Wang Fuk Court owners have signed sale agreements",
-        "dek": "Housing secretary Winnie Ho said the figure was as of 30 September, with signing due by 15 October."
-      },
-      "zh": {
-        "headline": "截至9月30日 宏福苑90.4%業主已簽買賣協議",
-        "dek": "房屋局局長何永賢表示，業主須於10月15日或之前完成簽署，解說專隊會繼續支援揀樓。"
       }
     }
   ]
