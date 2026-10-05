@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-10-05T15:08:01+08:00",
+  "updated_at": "2026-10-05T17:14:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "basic-housing-registrations-oct5",
+      "id": "2026-10-05-basic-housing-registrations",
+      "first_seen": "2026-10-05T17:14:00+08:00",
+      "headline_en": "Housing bureau logs over 73,600 basic-housing applications"
+    },
+    {
+      "key": "hang-seng-close-oct5",
+      "id": "2026-10-05-hang-seng-close",
+      "first_seen": "2026-10-05T17:14:00+08:00",
+      "headline_en": "Hang Seng closes 68 points higher back above 24,000"
+    },
+    {
+      "key": "september-home-registrations-2026",
+      "id": "2026-10-05-september-home-registrations",
+      "first_seen": "2026-10-05T17:14:00+08:00",
+      "headline_en": "September home sale registrations rise 18.5 percent"
+    },
+    {
+      "key": "september-climate-summary-2026",
+      "id": "2026-10-05-september-climate-summary",
+      "first_seen": "2026-10-05T17:14:00+08:00",
+      "headline_en": "Observatory says September was hotter and drier than normal"
+    },
+    {
+      "key": "sincere-central-store-closing-2026",
+      "id": "2026-10-05-sincere-central-closing",
+      "first_seen": "2026-10-05T17:14:00+08:00",
+      "headline_en": "Sincere to close its Central store in early December"
+    },
+    {
+      "key": "diamond-hill-attempted-robbery-oct5",
+      "id": "2026-10-05-diamond-hill-attempted-robbery",
+      "first_seen": "2026-10-05T13:22:00+08:00",
+      "headline_en": "Police treat Diamond Hill knife case as attempted robbery"
+    },
+    {
+      "key": "hang-seng-midday-oct5",
+      "id": "2026-10-05-hang-seng-midday",
+      "first_seen": "2026-10-05T13:22:00+08:00",
+      "headline_en": "Hang Seng slips 20 points at the midday close"
+    },
+    {
+      "key": "huanggang-pti-signage-oct5",
+      "id": "2026-10-05-huanggang-transport-info",
+      "first_seen": "2026-10-05T13:22:00+08:00",
+      "headline_en": "Transport Department says Huanggang signs are ready"
+    },
+    {
+      "key": "privacy-247-fitness-compliance-oct5",
+      "id": "2026-10-05-privacy-fitness-review",
+      "first_seen": "2026-10-05T13:22:00+08:00",
+      "headline_en": "Privacy office opens compliance check on 24/7 Fitness"
+    },
     {
       "key": "airport-cannabis-bangkok-oct4",
       "id": "2026-10-05-airport-cannabis-seizure",
