@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-06T03:28:30+08:00",
+  "updated_at": "2026-10-06T07:08:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "tuen-mun-highway-four-vehicle-oct5",
+      "id": "2026-10-06-tuen-mun-highway-crash",
+      "first_seen": "2026-10-06T07:08:00+08:00",
+      "headline_en": "Four vehicles collide on Tuen Mun Highway near Tai Lam"
+    },
+    {
+      "key": "west-kowloon-illegal-labour-oct5",
+      "id": "2026-10-06-west-kowloon-illegal-labour",
+      "first_seen": "2026-10-06T07:08:00+08:00",
+      "headline_en": "Police hold 19 after West Kowloon illegal-work operation"
+    },
+    {
+      "key": "west-kowloon-taxi-kickstarter-oct5",
+      "id": "2026-10-06-west-kowloon-taxi-checks",
+      "first_seen": "2026-10-06T07:08:00+08:00",
+      "headline_en": "West Kowloon police ticket four taxi drivers in checks"
+    },
+    {
+      "key": "lifestyle-innocarnival-2026-signup",
+      "id": "2026-10-06-lifestyle-innocarnival-signup",
+      "first_seen": "2026-10-06T07:08:00+08:00",
+      "headline_en": "Science Park carnival opens activity sign-up this morning"
+    },
     {
       "key": "kingsfield-garden-owners-fine-oct5",
       "id": "2026-10-06-kingsfield-owners-fine",
