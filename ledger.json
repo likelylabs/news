@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-05T09:18:23+08:00",
+  "updated_at": "2026-10-05T11:09:32+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "kai-tak-hospital-opens-oct5",
+      "id": "2026-10-05-kai-tak-hospital-opens",
+      "first_seen": "2026-10-05T11:09:32+08:00",
+      "headline_en": "Kai Tak Hospital family clinic opens as patients arrive"
+    },
+    {
+      "key": "mpox-dating-app-tracing-oct5",
+      "id": "2026-10-05-mpox-tracing-difficulty",
+      "first_seen": "2026-10-05T11:09:32+08:00",
+      "headline_en": "Health officials say dating apps are hampering mpox tracing"
+    },
+    {
+      "key": "wong-asian-games-radio-oct5",
+      "id": "2026-10-05-asian-games-chef-de-mission",
+      "first_seen": "2026-10-05T11:09:32+08:00",
+      "headline_en": "Games chief says Hong Kong sent about 90 fewer athletes"
+    },
     {
       "key": "lifestyle-disneyland-early-close-oct10",
       "id": "2026-10-05-lifestyle-disneyland-early-close",
