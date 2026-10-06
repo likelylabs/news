@@ -1,8 +1,110 @@
 {
-  "generated_at": "2026-10-06T21:07:17+08:00",
+  "generated_at": "2026-10-06T23:21:49+08:00",
   "live_window_hours": 72,
-  "count": 114,
+  "count": 117,
   "articles": [
+    {
+      "id": "2026-10-06-dakar-yog-flag",
+      "published_at": "2026-10-06T23:22:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "olympics"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-dakar-yog-flag.json",
+      "en": {
+        "headline": "Hong Kong Youth Olympics team receives its flag",
+        "dek": "Fifteen athletes will contest 12 sports in Dakar from 31 October to 13 November, the first Olympic event hosted in Africa."
+      },
+      "zh": {
+        "headline": "達卡青奧會港隊代表團今日授旗",
+        "dek": "港隊派15人出戰12個項目，賽事10月31日至11月13日在塞內加爾達卡舉行，為非洲首次主辦的奧林匹克賽事。"
+      }
+    },
+    {
+      "id": "2026-10-06-ec-subsector-nomination",
+      "published_at": "2026-10-06T23:22:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "election",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-ec-subsector-nomination.json",
+      "en": {
+        "headline": "Election Committee nomination opens on Wednesday",
+        "dek": "The Electoral Affairs Commission chairman said preparations are ready as the subsector nomination period runs from 7 to 20 October."
+      },
+      "zh": {
+        "headline": "選委會界別分組選舉提名期周三展開",
+        "dek": "選管會主席陸啟康視察添馬選舉主任辦事處，稱提名期安排已準備就緒；提名由周三起至10月20日。"
+      }
+    },
+    {
+      "id": "2026-10-06-po-pin-chau-booking-survey",
+      "published_at": "2026-10-06T23:22:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sai-kung",
+        "country-parks"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-po-pin-chau-booking-survey.json",
+      "en": {
+        "headline": "Most Po Pin Chau visitors say booking eased crowds",
+        "dek": "The Agriculture, Fisheries and Conservation Department said about 1,160 people visited the section on Tuesday under the trial booking system."
+      },
+      "zh": {
+        "headline": "破邊洲大部分遊人稱預約後體驗更好",
+        "dek": "漁護署表示周二約1160人到訪東壩破邊洲段，問卷中大部分遊人稱預約制有效控制人流，觀景台較以前暢順。"
+      }
+    },
+    {
+      "id": "2026-10-06-southern-district-cpe-cluster",
+      "published_at": "2026-10-06T23:22:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "elderly",
+        "southern-district"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-southern-district-cpe-cluster.json",
+      "en": {
+        "headline": "Four elderly-home residents carrying resistant bacteria",
+        "dek": "The Centre for Health Protection is investigating a cluster at a Southern District care home after hospital screening found four residents carrying the bacteria."
+      },
+      "zh": {
+        "headline": "南區安老院四名院友帶有抗藥性腸道桿菌",
+        "dek": "衞生防護中心正調查南區一間安老院的帶菌群組，四名同層院友入院篩查證實帶有產碳青霉烯酶腸道桿菌，暫無相關病徵。"
+      }
+    },
+    {
+      "id": "2026-10-06-tung-chung-line-early-close",
+      "published_at": "2026-10-06T23:22:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "tung-chung",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-tung-chung-line-early-close.json",
+      "en": {
+        "headline": "Tung Chung Line to close early on 28 November",
+        "dek": "Trains between Tung Chung and Sunny Bay will end around 11pm that night for a key turnout installation on the extension."
+      },
+      "zh": {
+        "headline": "東涌綫11月28日晚上提早收車",
+        "dek": "港鐵稱當晚東涌至欣澳列車約晚上11時結束，以配合延綫第三次關鍵道岔安裝，並設免費接駁巴士。"
+      }
+    },
     {
       "id": "2026-10-06-amoy-gardens-murder-sentence",
       "published_at": "2026-10-06T21:04:00+08:00",
@@ -2339,47 +2441,6 @@
       "zh": {
         "headline": "故宮文化博物館清代造辦處設計展假期繼續開放",
         "dek": "香港故宮文化博物館與北京故宮博物院合辦的造辦處設計展，9月30日於5號展廳開放，國慶假期周末仍在展出。"
-      }
-    },
-    {
-      "id": "2026-10-03-hotstone-yoga-complaints",
-      "published_at": "2026-10-03T23:18:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-hotstone-yoga-complaints.json",
-      "en": {
-        "headline": "Customs log 627 Hotstone Yoga complaints worth about HK$7 million",
-        "dek": "Reports of unused prepaid classes have risen from 381 cases and about HK$4.07 million recorded by Friday afternoon."
-      },
-      "zh": {
-        "headline": "海關接627宗岩盤瑜伽舉報 涉款約700萬元",
-        "dek": "星島報道，截至周六下午6時，舉報由周五約381宗、約407萬元增至627宗，涉預繳課程未能兌現。"
-      }
-    },
-    {
-      "id": "2026-10-03-squash-team-returns",
-      "published_at": "2026-10-03T23:18:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "squash",
-        "nagoya"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-squash-team-returns.json",
-      "en": {
-        "headline": "Squash team home after Asian Games gold and four other medals",
-        "dek": "Mixed-doubles pair Tang Ming-wai and Lee Ka-yee said they had not expected an all-Hong Kong final in Nagoya."
-      },
-      "zh": {
-        "headline": "壁球代表隊返港 混雙金牌組合稱未敢期望太多",
-        "dek": "港台報道，名古屋亞運奪得一金兩銀兩銅的壁球隊周六晚返抵香港，鄧銘漮、李嘉兒指決賽由兩對港隊包辦更值得高興。"
       }
     }
   ]
