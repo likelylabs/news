@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-10-06T23:21:49+08:00",
+  "generated_at": "2026-10-07T01:04:30+08:00",
   "live_window_hours": 72,
-  "count": 117,
+  "count": 120,
   "articles": [
+    {
+      "id": "2026-10-07-bamboo-shoot-labelling",
+      "published_at": "2026-10-07T01:06:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "food-safety",
+        "recall",
+        "cfs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-bamboo-shoot-labelling.json",
+      "en": {
+        "headline": "Food safety centre orders recall of mislabelled bamboo shoots",
+        "dek": "A prepackaged sample sold through HKTV Mall contained sulphur dioxide within the legal limit, but the label did not name the additive."
+      },
+      "zh": {
+        "headline": "食安中心令預先包裝竹筍停售回收 標籤未列二氧化硫",
+        "dek": "樣本經HKTV Mall出售，檢出的二氧化硫未超出法定上限，但標籤沒有標明添加劑名稱及作用類別。"
+      }
+    },
+    {
+      "id": "2026-10-07-lifestyle-halloween-month",
+      "published_at": "2026-10-07T01:06:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "halloween",
+        "tourism",
+        "tram"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-lifestyle-halloween-month.json",
+      "en": {
+        "headline": "Tourism Board extends Halloween night bus and tram rides to six days",
+        "dek": "Costumed riders who spend at partner outlets can collect free night rides on selected weekends from 17 October through Halloween."
+      },
+      "zh": {
+        "headline": "旅發局擴大萬聖月夜間巴士及電車 增至六天",
+        "dek": "盛裝人士在合作商戶消費達指定金額，可於10月17日起指定周末換領免費夜間乘車體驗，涵蓋萬聖節當日。"
+      }
+    },
+    {
+      "id": "2026-10-07-school-fee-approvals",
+      "published_at": "2026-10-07T01:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "schools",
+        "tuition"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-school-fee-approvals.json",
+      "en": {
+        "headline": "Education Bureau clears fee rises at private and DSS schools",
+        "dek": "Average approved increases for this academic year are 4.75 per cent at private schools, 4.07 per cent at Direct Subsidy Scheme schools and 4 per cent at international schools."
+      },
+      "zh": {
+        "headline": "教育局批准私校及直資校加學費 平均加幅介乎4%至4.75%",
+        "dek": "本學年私校、直資學校及國際學校獲批的平均學費加幅，分別為4.75%、4.07%及4%。"
+      }
+    },
     {
       "id": "2026-10-06-dakar-yog-flag",
       "published_at": "2026-10-06T23:22:00+08:00",
