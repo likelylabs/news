@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-10-06T13:13:25+08:00",
+  "generated_at": "2026-10-06T15:04:50+08:00",
   "live_window_hours": 72,
-  "count": 117,
+  "count": 115,
   "articles": [
+    {
+      "id": "2026-10-06-lifestyle-disgusting-food-museum",
+      "published_at": "2026-10-06T15:18:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "kai-tak",
+        "food"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-lifestyle-disgusting-food-museum.json",
+      "en": {
+        "headline": "Swedish food museum stays at Kai Tak Airside until late November",
+        "dek": "The Disgusting Food Museum, on its first Hong Kong run, is at GATE33 in Airside through 26 November, with weekday and weekend hours published by the organisers."
+      },
+      "zh": {
+        "headline": "瑞典「嘔心食物」展暫駐啟德AIRSIDE至11月底",
+        "dek": "源自瑞典馬爾默的「嘔心食物博物館」首度來港，在啟德AIRSIDE三樓GATE33展出至11月26日，平日與周末開放時間不同。"
+      }
+    },
+    {
+      "id": "2026-10-06-outstanding-young-persons",
+      "published_at": "2026-10-06T15:18:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "awards",
+        "sport",
+        "youth"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-outstanding-young-persons.json",
+      "en": {
+        "headline": "Nine named Outstanding Young Persons, including fencer and jockey",
+        "dek": "The 2026 selection was announced at the Convention and Exhibition Centre, with foil fencer Choi Chun-yin and jockey Vincent Ho among the nine recipients."
+      },
+      "zh": {
+        "headline": "十大傑青揭曉 劍擊蔡俊彥及騎師何澤堯在列",
+        "dek": "2026年十大傑出青年選舉周二在灣仔會展公布，九人獲選，包括剛完成名古屋亞運的劍擊選手蔡俊彥及騎師何澤堯。"
+      }
+    },
+    {
+      "id": "2026-10-06-sun-dong-ai-briefing",
+      "published_at": "2026-10-06T15:18:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "ai",
+        "legco",
+        "innovation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-sun-dong-ai-briefing.json",
+      "en": {
+        "headline": "Sun says Sandy Ridge computing power to reach 36 times today's level",
+        "dek": "The innovation secretary told legislators the first five-year plan treats artificial intelligence as a core industry, with a Sandy Ridge data campus due by 2032."
+      },
+      "zh": {
+        "headline": "孫東：沙嶺數據園區2032年前算力料達現時36倍",
+        "dek": "創新科技及工業局局長孫東向立法會簡介五年規劃，指人工智能是重點產業，沙嶺數據園區已動工，累計投資最少238億元。"
+      }
+    },
     {
       "id": "2026-10-06-hang-seng-midday",
       "published_at": "2026-10-06T13:15:00+08:00",
@@ -2335,108 +2399,6 @@
       "zh": {
         "headline": "西九野餐市集黃金周周末開至晚上9時",
         "dek": "西九文化區表示，藝術公園海濱草坪市集10月1日至4日舉行，周六及周日由下午2時至晚上9時。"
-      }
-    },
-    {
-      "id": "2026-10-03-basic-housing-registration",
-      "published_at": "2026-10-03T13:25:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "government",
-        "housing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-basic-housing-registration.json",
-      "en": {
-        "headline": "About 73,000 subdivided units have applied for registration",
-        "dek": "The housing secretary said 42 units had completed certification, and 528 light-public-housing households had been allocated public rental flats."
-      },
-      "zh": {
-        "headline": "約7.3萬個分間單位已申請登記",
-        "dek": "房屋局局長何永賢表示，42個單位已完成認證，528戶簡約公屋住戶已獲編配公屋。"
-      }
-    },
-    {
-      "id": "2026-10-03-lifestyle-hkpax-prelude",
-      "published_at": "2026-10-03T13:25:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "tsim-sha-tsui",
-        "performance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-lifestyle-hkpax-prelude.json",
-      "en": {
-        "headline": "Free harbour shows open the performing arts expo next week",
-        "dek": "The Hong Kong Arts Development Council said outdoor performances will run at the Cultural Centre from 6 to 9 October, ahead of the expo."
-      },
-      "zh": {
-        "headline": "演藝博覽序幕 文化中心下周二起免費演出",
-        "dek": "藝發局表示，10月6日至9日每天下午4時半至7時半，在香港文化中心露天廣場有免費戶外節目。"
-      }
-    },
-    {
-      "id": "2026-10-03-tsim-sha-tsui-harbour-death",
-      "published_at": "2026-10-03T13:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tsim-sha-tsui",
-        "harbour"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-tsim-sha-tsui-harbour-death.json",
-      "en": {
-        "headline": "Woman dies after being pulled from harbour off Tsim Sha Tsui",
-        "dek": "Police said a woman of about 30 was found in the water near K11 on Saturday morning and was pronounced dead at Queen Elizabeth Hospital."
-      },
-      "zh": {
-        "headline": "尖沙咀海傍女子被救起後不治",
-        "dek": "警方指一名約30歲女子周六清晨在K11對開海面被發現，送伊利沙伯醫院後於早上7時31分證實死亡。"
-      }
-    },
-    {
-      "id": "2026-10-03-tuen-mun-truck-crash",
-      "published_at": "2026-10-03T13:25:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "accident",
-        "tuen-mun"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-tuen-mun-truck-crash.json",
-      "en": {
-        "headline": "Driver trapped after truck hits traffic light in Tuen Mun",
-        "dek": "A 16-tonne goods vehicle struck a traffic light at Tsing Wun Road and Pui To Road; the driver was conscious with a head injury."
-      },
-      "zh": {
-        "headline": "屯門貨車撼交通燈 司機一度被困送院",
-        "dek": "一輛16噸貨車周六早上在青雲路與杯渡路交界失事，司機頭部受傷、清醒送屯門醫院。"
-      }
-    },
-    {
-      "id": "2026-10-03-wong-tennis-gold",
-      "published_at": "2026-10-03T13:25:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-games"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-wong-tennis-gold.json",
-      "en": {
-        "headline": "Wong takes Hong Kong's first Asian Games men's singles tennis gold",
-        "dek": "Coleman Wong beat Wu Yibing 6-2, 6-4 in Nagoya for the team's eighth gold of the Games, matching the previous edition."
-      },
-      "zh": {
-        "headline": "黃澤林奪港隊首面亞運網球男單金牌",
-        "dek": "黃澤林在名古屋決賽以6比2、6比4擊敗吳易昺，港隊今屆第八金，追平上屆金牌數目。"
       }
     }
   ]
