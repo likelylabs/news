@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T21:07:16+08:00",
+  "updated_at": "2026-10-06T23:22:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -223,6 +223,36 @@
       "id": "2026-10-06-amoy-gardens-murder-sentence",
       "first_seen": "2026-10-06T21:04:00+08:00",
       "headline_en": "High Court jails man for life over Kowloon Bay killing"
+    },
+    {
+      "key": "southern-district-elderly-home-cpe-oct6",
+      "id": "2026-10-06-southern-district-cpe-cluster",
+      "first_seen": "2026-10-06T23:22:00+08:00",
+      "headline_en": "Four elderly-home residents carrying resistant bacteria"
+    },
+    {
+      "key": "ec-subsector-nomination-opens-oct7",
+      "id": "2026-10-06-ec-subsector-nomination",
+      "first_seen": "2026-10-06T23:22:00+08:00",
+      "headline_en": "Election Committee nomination opens on Wednesday"
+    },
+    {
+      "key": "tung-chung-line-early-close-nov28",
+      "id": "2026-10-06-tung-chung-line-early-close",
+      "first_seen": "2026-10-06T23:22:00+08:00",
+      "headline_en": "Tung Chung Line to close early on 28 November"
+    },
+    {
+      "key": "dakar-yog-flag-ceremony-oct6",
+      "id": "2026-10-06-dakar-yog-flag",
+      "first_seen": "2026-10-06T23:22:00+08:00",
+      "headline_en": "Hong Kong Youth Olympics team receives its flag"
+    },
+    {
+      "key": "po-pin-chau-booking-survey-oct6",
+      "id": "2026-10-06-po-pin-chau-booking-survey",
+      "first_seen": "2026-10-06T23:22:00+08:00",
+      "headline_en": "Most Po Pin Chau visitors say booking eased crowds"
     }
   ]
 }
