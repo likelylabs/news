@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T23:21:49+08:00",
+  "updated_at": "2026-10-07T01:06:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -253,6 +253,24 @@
       "id": "2026-10-06-po-pin-chau-booking-survey",
       "first_seen": "2026-10-06T23:22:00+08:00",
       "headline_en": "Most Po Pin Chau visitors say booking eased crowds"
+    },
+    {
+      "key": "school-fee-approvals-oct6",
+      "id": "2026-10-07-school-fee-approvals",
+      "first_seen": "2026-10-07T01:06:00+08:00",
+      "headline_en": "Education Bureau clears fee rises at private and DSS schools"
+    },
+    {
+      "key": "bamboo-shoot-labelling-oct6",
+      "id": "2026-10-07-bamboo-shoot-labelling",
+      "first_seen": "2026-10-07T01:06:00+08:00",
+      "headline_en": "Food safety centre orders recall of mislabelled bamboo shoots"
+    },
+    {
+      "key": "lifestyle-halloween-month-oct6",
+      "id": "2026-10-07-lifestyle-halloween-month",
+      "first_seen": "2026-10-07T01:06:00+08:00",
+      "headline_en": "Tourism Board extends Halloween night bus and tram rides to six days"
     }
   ]
 }
