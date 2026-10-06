@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-06T13:13:25+08:00",
+  "updated_at": "2026-10-06T15:18:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "toyp-2026-results",
+      "id": "2026-10-06-outstanding-young-persons",
+      "first_seen": "2026-10-06T15:18:00+08:00",
+      "headline_en": "Nine named Outstanding Young Persons, including fencer and jockey"
+    },
+    {
+      "key": "sun-dong-ai-five-year-briefing-oct6",
+      "id": "2026-10-06-sun-dong-ai-briefing",
+      "first_seen": "2026-10-06T15:18:00+08:00",
+      "headline_en": "Sun says Sandy Ridge computing power to reach 36 times today's level"
+    },
+    {
+      "key": "lifestyle-disgusting-food-museum-airside",
+      "id": "2026-10-06-lifestyle-disgusting-food-museum",
+      "first_seen": "2026-10-06T15:18:00+08:00",
+      "headline_en": "Swedish food museum stays at Kai Tak Airside until late November"
+    },
     {
       "key": "hang-seng-midday-oct6",
       "id": "2026-10-06-hang-seng-midday",
