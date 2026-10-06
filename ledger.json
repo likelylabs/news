@@ -1,11 +1,36 @@
 {
-  "updated_at": "2026-10-06T19:10:00+08:00",
+  "updated_at": "2026-10-06T19:10:14+08:00",
   "retention_days": 5,
   "covered": [
-    {"key": "mong-kok-shun-king-rooftop-fire-oct6", "id": "2026-10-06-mong-kok-rooftop-fire", "first_seen": "2026-10-06T19:08:00+08:00", "headline_en": "Firefighters tackle rooftop blaze at Mong Kok building"},
-    {"key": "fat-kwong-street-kerry-land-oct6", "id": "2026-10-06-fat-kwong-street-land", "first_seen": "2026-10-06T19:08:00+08:00", "headline_en": "Kerry wins Ho Man Tin site for over 4.3 billion dollars"},
-    {"key": "fake-eticket-discount-site-oct6", "id": "2026-10-06-fake-ticket-website", "first_seen": "2026-10-06T19:08:00+08:00", "headline_en": "Police warn of fake site offering ticket-fine discounts"},
-    {"key": "public-housing-false-asset-jail-oct6", "id": "2026-10-06-public-housing-false-declarations", "first_seen": "2026-10-06T19:08:00+08:00", "headline_en": "Two public-housing tenants jailed over undeclared flats"},
-    {"key": "sfc-securities-profit-h1-2026", "id": "2026-10-06-securities-industry-profit", "first_seen": "2026-10-06T19:08:00+08:00", "headline_en": "Securities industry posts 51.7 billion dollar half-year profit"}
+    {
+      "key": "mong-kok-shun-king-rooftop-fire-oct6",
+      "id": "2026-10-06-mong-kok-rooftop-fire",
+      "first_seen": "2026-10-06T19:08:00+08:00",
+      "headline_en": "Firefighters tackle rooftop blaze at Mong Kok building"
+    },
+    {
+      "key": "fat-kwong-street-kerry-land-oct6",
+      "id": "2026-10-06-fat-kwong-street-land",
+      "first_seen": "2026-10-06T19:08:00+08:00",
+      "headline_en": "Kerry wins Ho Man Tin site for over 4.3 billion dollars"
+    },
+    {
+      "key": "fake-eticket-discount-site-oct6",
+      "id": "2026-10-06-fake-ticket-website",
+      "first_seen": "2026-10-06T19:08:00+08:00",
+      "headline_en": "Police warn of fake site offering ticket-fine discounts"
+    },
+    {
+      "key": "public-housing-false-asset-jail-oct6",
+      "id": "2026-10-06-public-housing-false-declarations",
+      "first_seen": "2026-10-06T19:08:00+08:00",
+      "headline_en": "Two public-housing tenants jailed over undeclared flats"
+    },
+    {
+      "key": "sfc-securities-profit-h1-2026",
+      "id": "2026-10-06-securities-industry-profit",
+      "first_seen": "2026-10-06T19:08:00+08:00",
+      "headline_en": "Securities industry posts 51.7 billion dollar half-year profit"
+    }
   ]
 }
