@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-10-06T07:04:46+08:00",
+  "generated_at": "2026-10-06T09:13:19+08:00",
   "live_window_hours": 72,
-  "count": 113,
+  "count": 111,
   "articles": [
+    {
+      "id": "2026-10-06-autumn-low-temperature",
+      "published_at": "2026-10-06T09:15:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "observatory",
+        "weather"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-autumn-low-temperature.json",
+      "en": {
+        "headline": "Observatory records 23.3 degrees, autumn's coolest morning",
+        "dek": "The Observatory said 23.3 degrees by 7:30am was the lowest since autumn began, with a high near 29 degrees expected later."
+      },
+      "zh": {
+        "headline": "天文台今早錄得23.3度 入秋以來最低",
+        "dek": "天文台說截至早上7時半最低23.3度，是今年入秋以來最低，日間最高氣溫約29度。"
+      }
+    },
+    {
+      "id": "2026-10-06-lifestyle-cyclothon-sunday",
+      "published_at": "2026-10-06T09:15:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "lifestyle",
+        "west-kowloon",
+        "cycling"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-lifestyle-cyclothon-sunday.json",
+      "en": {
+        "headline": "Cyclothon returns to West Kowloon this Sunday",
+        "dek": "The Tourism Board lists a 56km ride from 5:15am and a UCI Class 1.1 race later on 11 October, both based at the cultural district."
+      },
+      "zh": {
+        "headline": "香港單車節周日在西九文化區舉行",
+        "dek": "旅發局公布11日有56公里騎行，清晨5時15分開騎，同日亦有UCI 1.1級公路賽，起終點在西九。"
+      }
+    },
     {
       "id": "2026-10-06-lifestyle-innocarnival-signup",
       "published_at": "2026-10-06T07:08:00+08:00",
@@ -2275,90 +2316,6 @@
       "zh": {
         "headline": "龍翔道近彩虹邨私家車撞壆翻側 往荃灣全線封閉",
         "dek": "女司機一度被困，在場接受治理；運輸署指往荃灣方向天橋全線封閉，現場擠塞。"
-      }
-    },
-    {
-      "id": "2026-10-03-eastern-harbour-crash",
-      "published_at": "2026-10-03T09:13:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "accident",
-        "eastern-harbour-crossing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-eastern-harbour-crash.json",
-      "en": {
-        "headline": "Vehicles collide in Eastern Harbour Crossing overnight",
-        "dek": "Police are investigating a crash in the Hong Kong-bound tube during single-tube running; injury accounts differ."
-      },
-      "zh": {
-        "headline": "東隧單管雙程行車期間多車相撞",
-        "dek": "警方正調查周六凌晨往港島管道車禍，各報道對傷者人數說法不一。"
-      }
-    },
-    {
-      "id": "2026-10-03-lifestyle-urban-brew-summit",
-      "published_at": "2026-10-03T09:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "tsuen-wan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-lifestyle-urban-brew-summit.json",
-      "en": {
-        "headline": "Coffee fair at The Mills runs through Sunday",
-        "dek": "The Urban Brew Summit's second weekend brings Japanese and local roasters to Tsuen Wan until Sunday evening."
-      },
-      "zh": {
-        "headline": "南豐紗廠咖啡節展至周日",
-        "dek": "Urban Brew Summit 第二個周末在荃灣舉行，周日晚上8時半結束。"
-      }
-    },
-    {
-      "id": "2026-10-03-tai-kok-tsui-worker-death",
-      "published_at": "2026-10-03T09:13:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "industrial-accident",
-        "tai-kok-tsui"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-tai-kok-tsui-worker-death.json",
-      "en": {
-        "headline": "Worker dies two weeks after Tai Kok Tsui tank fall",
-        "dek": "A 62-year-old man died on Friday morning after falling at The Long Beach on 17 September."
-      },
-      "zh": {
-        "headline": "大角咀男工維修水箱墮下 留醫兩周後不治",
-        "dek": "62歲男工9月17日在瓏璽墮下約3米，周五清晨於伊利沙伯醫院證實死亡。"
-      }
-    },
-    {
-      "id": "2026-10-03-thunderstorm-warning-extended",
-      "published_at": "2026-10-03T09:13:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "thunderstorm",
-        "rainstorm",
-        "sai-kung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-thunderstorm-warning-extended.json",
-      "en": {
-        "headline": "Observatory extends thunderstorm warning to 10:30am",
-        "dek": "The amber rainstorm signal remains in force as Sai Kung and Lantau record more than 70 millimetres."
-      },
-      "zh": {
-        "headline": "天文台把雷暴警告延長至上午10時30分",
-        "dek": "黃色暴雨警告仍然生效，西貢及大嶼山今早雨量超過70毫米。"
       }
     }
   ]
