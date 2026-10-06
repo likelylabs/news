@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-10-06T17:15:21+08:00",
+  "generated_at": "2026-10-06T19:06:24+08:00",
   "live_window_hours": 72,
-  "count": 112,
+  "count": 110,
   "articles": [
+    {
+      "id": "2026-10-06-fat-kwong-street-land",
+      "published_at": "2026-10-06T19:08:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "property",
+        "land-sale",
+        "ho-man-tin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-fat-kwong-street-land.json",
+      "en": {
+        "headline": "Kerry wins Ho Man Tin site for over 4.3 billion dollars",
+        "dek": "The Lands Department said Kerry Properties took the Fat Kwong Street residential lot, at more than 20,738 dollars per square foot of floor area, well above market forecasts."
+      },
+      "zh": {
+        "headline": "嘉里逾43.08億投得何文田佛光街住宅地",
+        "dek": "地政總署公布作價遠高於市場預期上限，每平方呎樓面地價逾20738元，上周五截標共收10份標書。"
+      }
+    },
+    {
+      "id": "2026-10-06-mong-kok-rooftop-fire",
+      "published_at": "2026-10-06T19:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "mong-kok",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-mong-kok-rooftop-fire.json",
+      "en": {
+        "headline": "Firefighters tackle rooftop blaze at Mong Kok building",
+        "dek": "Police said multiple callers reported the fire at Shun King Building on Nelson Street around 5:30pm, with dozens evacuated and no injuries reported."
+      },
+      "zh": {
+        "headline": "旺角順景大廈天台火警 數十人疏散暫無受傷報告",
+        "dek": "警方稱下午約5時半接獲多人報案，指奶路臣街順景大廈天台起火，初步消息指雜物燒着，消防以一喉及煙帽隊灌救。"
+      }
+    },
     {
       "id": "2026-10-06-grade-a-office-rents",
       "published_at": "2026-10-06T17:12:00+08:00",
@@ -2255,88 +2297,6 @@
       "zh": {
         "headline": "屋宇署：赤柱One Stanley獨立屋鋼筋配置不符圖則",
         "dek": "署方指地面低層一條橫樑保護層未按圖則配鋼絲網，部分樓板鋼筋亦與圖則不符，但未構成明顯危險。"
-      }
-    },
-    {
-      "id": "2026-10-03-asian-games-sevens-gold",
-      "published_at": "2026-10-03T19:05:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "rugby",
-        "nagoya"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-asian-games-sevens-gold.json",
-      "en": {
-        "headline": "Hong Kong men win Asian Games sevens gold, women take bronze",
-        "dek": "RTHK said the men beat the national team 26-0 in Nagoya to complete a third straight title, taking the gold count to 11."
-      },
-      "zh": {
-        "headline": "男子七欖亞運三連冠 女子隊再奪銅牌",
-        "dek": "港台報道，港隊在名古屋決賽以26比0擊敗國家隊，完成三連冠，今屆金牌增至11面。"
-      }
-    },
-    {
-      "id": "2026-10-03-burglary-gang-arrests",
-      "published_at": "2026-10-03T19:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-burglary-gang-arrests.json",
-      "en": {
-        "headline": "Police arrest six over 25 burglaries worth HK$3.69 million",
-        "dek": "Officers said a two-way permit couple are accused of arranging illegal entrants to break into village houses in several districts."
-      },
-      "zh": {
-        "headline": "警方拘6人 涉25宗爆竊損失逾369萬元",
-        "dek": "警方指一對持雙程證夫婦涉嫌安排非法入境者，到多區村屋爆竊，不排除再有人被捕。"
-      }
-    },
-    {
-      "id": "2026-10-03-child-influenza-critical",
-      "published_at": "2026-10-03T19:05:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "influenza"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-child-influenza-critical.json",
-      "en": {
-        "headline": "Girl, 9, in critical condition with influenza B complications",
-        "dek": "The Centre for Health Protection said the child, who has a long-term illness, developed septic shock and severe pneumonia and had not had this season's flu vaccine."
-      },
-      "zh": {
-        "headline": "9歲女童染乙型流感併發肺炎 情況危殆",
-        "dek": "衞生防護中心表示，該名有長期病患的女童出現敗血性休克及嚴重肺炎，尚未接種本季流感疫苗。"
-      }
-    },
-    {
-      "id": "2026-10-03-golden-week-day-three-crossings",
-      "published_at": "2026-10-03T19:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "golden-week",
-        "immigration",
-        "tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-golden-week-day-three-crossings.json",
-      "en": {
-        "headline": "Golden Week day three passes 638,000 crossings by 4pm",
-        "dek": "The Immigration Department said more than 190,000 of the inbound trips were by mainland visitors, mostly through Lok Ma Chau Spur Line."
-      },
-      "zh": {
-        "headline": "黃金周第三天截至下午4時逾63.8萬人次出入境",
-        "dek": "入境處向港台表示，入境人次中超過19萬為內地旅客，最多經落馬洲支線管制站入境。"
       }
     }
   ]
