@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-10-06T19:06:24+08:00",
+  "generated_at": "2026-10-06T19:08:05+08:00",
   "live_window_hours": 72,
-  "count": 110,
+  "count": 113,
   "articles": [
+    {
+      "id": "2026-10-06-fake-ticket-website",
+      "published_at": "2026-10-06T19:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "scam",
+        "traffic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-fake-ticket-website.json",
+      "en": {
+        "headline": "Police warn of fake site offering ticket-fine discounts",
+        "dek": "The force said a fraudulent site posing as the electronic traffic ticket platform seeks card and personal data, and that fines carry no early-payment discount."
+      },
+      "zh": {
+        "headline": "警方揭偽冒電子告票網站 稱早交罰款有折扣",
+        "dek": "警務處說該網站誘使市民提供信用卡及個人資料，強調繳交告票罰款不設任何折扣，電子告票短訊亦不會附超連結。"
+      }
+    },
     {
       "id": "2026-10-06-fat-kwong-street-land",
       "published_at": "2026-10-06T19:08:00+08:00",
@@ -43,6 +64,48 @@
       "zh": {
         "headline": "旺角順景大廈天台火警 數十人疏散暫無受傷報告",
         "dek": "警方稱下午約5時半接獲多人報案，指奶路臣街順景大廈天台起火，初步消息指雜物燒着，消防以一喉及煙帽隊灌救。"
+      }
+    },
+    {
+      "id": "2026-10-06-public-housing-false-declarations",
+      "published_at": "2026-10-06T19:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "court",
+        "kwun-tong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-public-housing-false-declarations.json",
+      "en": {
+        "headline": "Two public-housing tenants jailed over undeclared flats",
+        "dek": "The Housing Department said tenants in Choi Hung and Kwong Tin estates were convicted after failing to declare homes they owned when filing income and asset forms in 2025."
+      },
+      "zh": {
+        "headline": "兩公屋住戶虛報無物業 被判監禁",
+        "dek": "房屋署說彩虹邨及廣田邨兩宗個案的住戶，2025年填報入息及資產時沒有申報本港物業，罪名成立後被判監。"
+      }
+    },
+    {
+      "id": "2026-10-06-securities-industry-profit",
+      "published_at": "2026-10-06T19:08:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "sfc",
+        "finance",
+        "stocks"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-securities-industry-profit.json",
+      "en": {
+        "headline": "Securities industry posts 51.7 billion dollar half-year profit",
+        "dek": "The SFC said net profit rose 21 percent from the previous half, while brokers' trading across stocks, bonds and other securities hit a record 149 trillion dollars."
+      },
+      "zh": {
+        "headline": "證券業上半年淨盈利517億元 經紀交易額創新高",
+        "dek": "證監會報告指淨盈利較去年下半年升21%，經紀行股票、債券及其他證券交易總額達149萬億元，活躍客戶約570萬。"
       }
     },
     {
