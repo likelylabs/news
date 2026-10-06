@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-06T11:09:14+08:00",
+  "updated_at": "2026-10-06T13:15:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "hang-seng-midday-oct6",
+      "id": "2026-10-06-hang-seng-midday",
+      "first_seen": "2026-10-06T13:15:00+08:00",
+      "headline_en": "Hang Seng adds 188 points at the Tuesday midday close"
+    },
+    {
+      "key": "labour-hochin-pacific-sanction-oct6",
+      "id": "2026-10-06-labour-import-sanction",
+      "first_seen": "2026-10-06T13:15:00+08:00",
+      "headline_en": "Labour Department bars firm from imported-worker applications for two years"
+    },
+    {
+      "key": "tst-powder-letter-oct6",
+      "id": "2026-10-06-tst-powder-letter",
+      "first_seen": "2026-10-06T13:15:00+08:00",
+      "headline_en": "Police examine powder letter at Tsim Sha Tsui office building"
+    },
+    {
+      "key": "lifestyle-tai-kwun-house-of-swans-oct",
+      "id": "2026-10-06-lifestyle-house-of-swans",
+      "first_seen": "2026-10-06T13:15:00+08:00",
+      "headline_en": "Hong Kong Ballet returns to Tai Kwun swan show this weekend"
+    },
     {
       "key": "one-stanley-steel-lee-oct6",
       "id": "2026-10-06-one-stanley-probe",
