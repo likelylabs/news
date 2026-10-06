@@ -1,8 +1,111 @@
 {
-  "generated_at": "2026-10-06T09:21:18+08:00",
+  "generated_at": "2026-10-06T11:09:14+08:00",
   "live_window_hours": 72,
-  "count": 111,
+  "count": 113,
   "articles": [
+    {
+      "id": "2026-10-06-nurse-hiring-priority",
+      "published_at": "2026-10-06T11:07:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "hospital-authority",
+        "labour"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-nurse-hiring-priority.json",
+      "en": {
+        "headline": "Lee says nurse demand persists and local hires come first",
+        "dek": "The Chief Executive said 99.8 percent of Hospital Authority nurses were locally trained, and that more than 3,000 posts were still vacant."
+      },
+      "zh": {
+        "headline": "李家超：護士需求長期存在 招聘以本地人才優先",
+        "dek": "特首說醫管局現職護士99.8%為本地培訓，目前仍有逾3000個護士空缺可供畢業生申請。"
+      }
+    },
+    {
+      "id": "2026-10-06-one-stanley-probe",
+      "published_at": "2026-10-06T11:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "stanley",
+        "housing",
+        "buildings"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-one-stanley-probe.json",
+      "en": {
+        "headline": "Lee says One Stanley steel-bar case is under investigation",
+        "dek": "The Chief Executive said the Buildings Department is examining whether main bars match the approved drawings, and asked the Development Bureau to oversee the probe."
+      },
+      "zh": {
+        "headline": "李家超：屋宇署正調查赤柱ONE STANLEY鋼筋問題",
+        "dek": "特首說屋宇署正查主鋼筋數量是否與圖則相符，並已要求發展局監督調查，違規會依法嚴懲。"
+      }
+    },
+    {
+      "id": "2026-10-06-september-pmi",
+      "published_at": "2026-10-06T11:07:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-september-pmi.json",
+      "en": {
+        "headline": "September PMI slips to 49.2 as hiring falls again",
+        "dek": "S&P Global said the seasonally adjusted reading was down from 49.5 in August, a second month below 50, with the sharpest job cuts in nearly six and a half years."
+      },
+      "zh": {
+        "headline": "香港9月PMI降至49.2 就業收縮近六年半最快",
+        "dek": "標普全球公布經季節調整指數由8月49.5跌至49.2，連續兩個月低於50，職位收縮速度創近六年半新高。"
+      }
+    },
+    {
+      "id": "2026-10-06-tai-po-waterfront-death",
+      "published_at": "2026-10-06T11:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tai-po",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-tai-po-waterfront-death.json",
+      "en": {
+        "headline": "Man found dead in the water off Tai Po Waterfront Park",
+        "dek": "Police said a man in his twenties was recovered near Tai Po Waterfront Park around 7:30am on Tuesday and was confirmed dead. Identity and circumstances are under investigation."
+      },
+      "zh": {
+        "headline": "大埔海濱公園對開海面發現男子 證實死亡",
+        "dek": "警方說星期二約早上7時半接報，大埔海濱公園對開有人在海中，救起一名20多歲男子後證實不治，身份及經過仍在調查。"
+      }
+    },
+    {
+      "id": "2026-10-06-wang-fuk-accountability",
+      "published_at": "2026-10-06T11:07:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "tai-po",
+        "wang-fuk-court",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-wang-fuk-accountability.json",
+      "en": {
+        "headline": "Lee says Wang Fuk reforms will follow the inquiry report",
+        "dek": "The Chief Executive said the government would study the independent committee's recommendations as soon as they arrive, then set out reforms and pursue accountability."
+      },
+      "zh": {
+        "headline": "李家超：宏福苑報告交到後會盡快改革並追究責任",
+        "dek": "特首說獨立委員會提交報告後，政府會即時研究建議、推行改革並公布細節，同時追究責任。"
+      }
+    },
     {
       "id": "2026-10-06-autumn-low-temperature",
       "published_at": "2026-10-06T09:15:00+08:00",
@@ -2252,70 +2355,6 @@
       "zh": {
         "headline": "黃澤林奪港隊首面亞運網球男單金牌",
         "dek": "黃澤林在名古屋決賽以6比2、6比4擊敗吳易昺，港隊今屆第八金，追平上屆金牌數目。"
-      }
-    },
-    {
-      "id": "2026-10-03-amber-rainstorm-cancelled",
-      "published_at": "2026-10-03T11:09:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "rainstorm",
-        "thunderstorm",
-        "sai-kung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-amber-rainstorm-cancelled.json",
-      "en": {
-        "headline": "Observatory cancels amber rainstorm warning at 9:10am",
-        "dek": "The signal, in force since 4am, was lifted after heavy rain over Sai Kung and Lantau; no warning is now in force."
-      },
-      "zh": {
-        "headline": "天文台上午9時10分取消黃色暴雨警告",
-        "dek": "警告自凌晨4時生效，西貢及大嶼山雨勢較大；上午稍後本港已再無天氣警告生效。"
-      }
-    },
-    {
-      "id": "2026-10-03-asean-challenge-cup-final",
-      "published_at": "2026-10-03T11:09:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "football",
-        "kai-tak"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-asean-challenge-cup-final.json",
-      "en": {
-        "headline": "Hong Kong face Cambodia in ASEAN Challenge Cup final",
-        "dek": "The first Challenge Cup final is this evening at Kai Tak Stadium, with FIFA president Infantino expected to attend."
-      },
-      "zh": {
-        "headline": "東盟挑戰盃決賽今晚啟德上演 港隊迎戰柬埔寨",
-        "dek": "首屆決賽在啟德主場館舉行，港台報道晚上6時開賽；國際足協會長恩芬天奴預料入場觀賽並頒獎。"
-      }
-    },
-    {
-      "id": "2026-10-03-lung-cheung-road-crash",
-      "published_at": "2026-10-03T11:09:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "accident",
-        "wong-tai-sin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-lung-cheung-road-crash.json",
-      "en": {
-        "headline": "Car overturns on Lung Cheung Road flyover near Choi Hung",
-        "dek": "A driver was briefly trapped after the car flipped near Choi Hung Estate; the Tsuen Wan-bound flyover was closed."
-      },
-      "zh": {
-        "headline": "龍翔道近彩虹邨私家車撞壆翻側 往荃灣全線封閉",
-        "dek": "女司機一度被困，在場接受治理；運輸署指往荃灣方向天橋全線封閉，現場擠塞。"
       }
     }
   ]
