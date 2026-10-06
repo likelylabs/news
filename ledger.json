@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-06T09:21:18+08:00",
+  "updated_at": "2026-10-06T11:07:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "one-stanley-steel-lee-oct6",
+      "id": "2026-10-06-one-stanley-probe",
+      "first_seen": "2026-10-06T11:07:00+08:00",
+      "headline_en": "Lee says One Stanley steel-bar case is under investigation"
+    },
+    {
+      "key": "wang-fuk-lee-accountability-oct6",
+      "id": "2026-10-06-wang-fuk-accountability",
+      "first_seen": "2026-10-06T11:07:00+08:00",
+      "headline_en": "Lee says Wang Fuk reforms will follow the inquiry report"
+    },
+    {
+      "key": "nurse-local-priority-lee-oct6",
+      "id": "2026-10-06-nurse-hiring-priority",
+      "first_seen": "2026-10-06T11:07:00+08:00",
+      "headline_en": "Lee says nurse demand persists and local hires come first"
+    },
+    {
+      "key": "hk-pmi-september-49-2",
+      "id": "2026-10-06-september-pmi",
+      "first_seen": "2026-10-06T11:07:00+08:00",
+      "headline_en": "September PMI slips to 49.2 as hiring falls again"
+    },
+    {
+      "key": "tai-po-waterfront-body-oct6",
+      "id": "2026-10-06-tai-po-waterfront-death",
+      "first_seen": "2026-10-06T11:07:00+08:00",
+      "headline_en": "Man found dead in the water off Tai Po Waterfront Park"
+    },
     {
       "key": "autumn-low-23-3-oct6",
       "id": "2026-10-06-autumn-low-temperature",
