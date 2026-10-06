@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-06T17:13:37+08:00",
+  "updated_at": "2026-10-06T17:16:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "hang-seng-close-oct6",
+      "id": "2026-10-06-hang-seng-close",
+      "first_seen": "2026-10-06T17:12:00+08:00",
+      "headline_en": "Hang Seng closes 240 points higher, up 1 percent"
+    },
+    {
+      "key": "huanggang-coop-channel-registration-oct6",
+      "id": "2026-10-06-huanggang-echeck-registration",
+      "first_seen": "2026-10-06T17:12:00+08:00",
+      "headline_en": "Eligible residents can register for Huanggang joint e-channels"
+    },
+    {
+      "key": "wkcda-deficit-998m-fy2526",
+      "id": "2026-10-06-west-kowloon-deficit",
+      "first_seen": "2026-10-06T17:12:00+08:00",
+      "headline_en": "West Kowloon deficit widens to 998 million dollars"
+    },
+    {
+      "key": "wang-fuk-sale-agreement-deadline-oct6",
+      "id": "2026-10-06-wang-fuk-sale-deadline",
+      "first_seen": "2026-10-06T17:12:00+08:00",
+      "headline_en": "Housing Bureau reminds Wang Fuk owners of 15 October deadline"
+    },
+    {
+      "key": "cbre-grade-a-rents-q3-2026",
+      "id": "2026-10-06-grade-a-office-rents",
+      "first_seen": "2026-10-06T17:12:00+08:00",
+      "headline_en": "CBRE says Grade A office rents rise for a fourth quarter"
+    },
     {
       "key": "toyp-2026-results",
       "id": "2026-10-06-outstanding-young-persons",
