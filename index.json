@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-10-07T01:04:30+08:00",
+  "generated_at": "2026-10-07T03:17:05+08:00",
   "live_window_hours": 72,
-  "count": 120,
+  "count": 118,
   "articles": [
+    {
+      "id": "2026-10-07-happiness-index",
+      "published_at": "2026-10-07T03:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "survey",
+        "mental-health",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-happiness-index.json",
+      "en": {
+        "headline": "Happiness index slips to 5.87, below pass mark for fourth year",
+        "dek": "A Wofoo survey of 1,039 adults put the city at 5.87 out of 10, with Generation Y the least happy age group and more than 40 per cent reporting depressive symptoms."
+      },
+      "zh": {
+        "headline": "本港開心指數降至5.87 連續第四年未達合格線",
+        "dek": "和富社會企業「香港開心D」訪問1039名成人，指數由去年5.95跌至5.87；約30至45歲組別最低，逾四成受訪者呈中度至嚴重抑鬱症狀。"
+      }
+    },
+    {
+      "id": "2026-10-07-kwong-fuk-water-outage",
+      "published_at": "2026-10-07T03:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tai-po",
+        "public-housing",
+        "water"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-kwong-fuk-water-outage.json",
+      "en": {
+        "headline": "Tai Po estate block loses water and lifts after pipe leak",
+        "dek": "More than 670 households at Kwong Chi House in Kwong Fuk Estate were without running water and lift service after a leak in the underground pump room."
+      },
+      "zh": {
+        "headline": "大埔廣福邨廣智樓喉管漏水 逾670戶停水停𨋢",
+        "dek": "廣智樓地下水喉房喉管漏水，大廈緊急停水並暫停升降機，區議員引述管理公司指部分食水料凌晨恢復，𨋢最快周三修復。"
+      }
+    },
+    {
+      "id": "2026-10-07-lifestyle-hkpax-harbourfront",
+      "published_at": "2026-10-07T03:16:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "performing-arts",
+        "tsim-sha-tsui",
+        "opening"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-lifestyle-hkpax-harbourfront.json",
+      "en": {
+        "headline": "Free harbourfront shows continue as arts expo opens Friday",
+        "dek": "The Hong Kong Performing Arts Expo runs from 9 to 13 October, with free outdoor performances at the Cultural Centre plaza each afternoon through Friday."
+      },
+      "zh": {
+        "headline": "演藝博覽周五開幕 文化中心露天廣場免費演出至周五",
+        "dek": "第二屆香港演藝博覽10月9日至13日舉行，序幕節目由周二起至周五每日下午4時半至7時半在文化中心露天廣場免費演出。"
+      }
+    },
     {
       "id": "2026-10-07-bamboo-shoot-labelling",
       "published_at": "2026-10-07T01:06:00+08:00",
@@ -2398,113 +2462,6 @@
       "zh": {
         "headline": "One Stanley賣方稱配合屋宇署調查",
         "dek": "建灝附屬公司堅維有限公司周六深夜發聲明，指會核實資料並協助署方，若查實有失誤會補救及追究責任。"
-      }
-    },
-    {
-      "id": "2026-10-04-asian-games-equestrian-final",
-      "published_at": "2026-10-04T03:16:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "equestrian",
-        "nagoya"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-asian-games-equestrian-final.json",
-      "en": {
-        "headline": "Three Hong Kong riders in Asian Games jumping final",
-        "dek": "RTHK said the Nagoya Games close on Sunday night, with the last two golds still to be decided in show jumping."
-      },
-      "zh": {
-        "headline": "亞運今晚閉幕 三名港隊騎手出戰場地障礙決賽",
-        "dek": "港台報道，名古屋亞運周日晚上閉幕，最後兩面金牌留待馬術場地障礙賽產生。"
-      }
-    },
-    {
-      "id": "2026-10-04-lifestyle-cultural-centre-lanterns",
-      "published_at": "2026-10-04T03:16:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "tsim-sha-tsui",
-        "mid-autumn"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-lifestyle-cultural-centre-lanterns.json",
-      "en": {
-        "headline": "Cultural Centre moonlit lanterns stay lit through 11 October",
-        "dek": "The Leisure and Cultural Services Department's free piazza installation by Stickyline lights from 6:30pm to 11pm, Thursdays to Sundays."
-      },
-      "zh": {
-        "headline": "文化中心中秋光影裝置展至10月11日",
-        "dek": "康文署社區節目辦事處表示，尖沙咀文化中心露天廣場裝置周四至日晚上6時半至11時亮燈，免費入場。"
-      }
-    },
-    {
-      "id": "2026-10-04-po-pin-chau-visitors",
-      "published_at": "2026-10-04T03:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "sai-kung",
-        "golden-week",
-        "country-parks"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-po-pin-chau-visitors.json",
-      "en": {
-        "headline": "About 600 visited Po Pin Chau section on Saturday",
-        "dek": "The Agriculture, Fisheries and Conservation Department said numbers were lower than expected after morning rain warnings, and bookings through Tuesday are full."
-      },
-      "zh": {
-        "headline": "周六約600人到破邊洲段 日至二預約已滿",
-        "dek": "漁護署表示，受早上市況影響，到訪人數較預期低，黃金周10月4日至6日預約已額滿。"
-      }
-    },
-    {
-      "id": "2026-10-04-golden-week-day-three-evening",
-      "published_at": "2026-10-04T01:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "golden-week",
-        "immigration",
-        "border"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-golden-week-day-three-evening.json",
-      "en": {
-        "headline": "Golden Week day three passes 1.02 million crossings by 9pm",
-        "dek": "The Immigration Department said more than 1.02 million people had crossed Hong Kong's control points by 9pm on Saturday, the third day of the mainland holiday."
-      },
-      "zh": {
-        "headline": "黃金周第三天截至晚上9時逾102萬人次出入境",
-        "dek": "入境處表示，周六晚上9時，本港各管制站累計出入境已超過102萬人次，為內地國慶黃金周第三天。"
-      }
-    },
-    {
-      "id": "2026-10-04-lifestyle-hkpm-imperial-workshops",
-      "published_at": "2026-10-04T01:06:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "west-kowloon",
-        "palace-museum"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-lifestyle-hkpm-imperial-workshops.json",
-      "en": {
-        "headline": "Palace Museum exhibition on Qing court workshops stays open",
-        "dek": "The Hong Kong Palace Museum opened a show on the imperial workshops of the Qing court on 30 September, and it remains on view in Gallery 5 over the holiday weekend."
-      },
-      "zh": {
-        "headline": "故宮文化博物館清代造辦處設計展假期繼續開放",
-        "dek": "香港故宮文化博物館與北京故宮博物院合辦的造辦處設計展，9月30日於5號展廳開放，國慶假期周末仍在展出。"
       }
     }
   ]
