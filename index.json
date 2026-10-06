@@ -1,8 +1,113 @@
 {
-  "generated_at": "2026-10-06T15:04:50+08:00",
+  "generated_at": "2026-10-06T17:13:37+08:00",
   "live_window_hours": 72,
-  "count": 115,
+  "count": 112,
   "articles": [
+    {
+      "id": "2026-10-06-grade-a-office-rents",
+      "published_at": "2026-10-06T17:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "property",
+        "offices",
+        "cbre"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-grade-a-office-rents.json",
+      "en": {
+        "headline": "CBRE says Grade A office rents rise for a fourth quarter",
+        "dek": "The consultancy put the third-quarter gain at 3.2 percent and the vacancy rate at 15.5 percent at the end of September."
+      },
+      "zh": {
+        "headline": "世邦魏理仕：甲廈租金連升四季",
+        "dek": "報告指第三季甲級寫字樓租金按季升3.2%，9月底空置率降至15.5%。"
+      }
+    },
+    {
+      "id": "2026-10-06-hang-seng-close",
+      "published_at": "2026-10-06T17:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hang-seng",
+        "stocks",
+        "market"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-hang-seng-close.json",
+      "en": {
+        "headline": "Hang Seng closes 240 points higher, up 1 percent",
+        "dek": "The index finished Tuesday at 24,280 after an early jump faded, with drug shares leading and turnover near 98.3 billion dollars."
+      },
+      "zh": {
+        "headline": "恆指收市升240點 全日升約1%",
+        "dek": "港股星期二收報24280點，初段升幅其後收窄，醫藥股領漲，主板成交近983億元。"
+      }
+    },
+    {
+      "id": "2026-10-06-huanggang-echeck-registration",
+      "published_at": "2026-10-06T17:12:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "huanggang",
+        "immigration",
+        "border"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-huanggang-echeck-registration.json",
+      "en": {
+        "headline": "Eligible residents can register for Huanggang joint e-channels",
+        "dek": "The Immigration Department said Hong Kong residents can enrol from Tuesday for the rebuilt crossing's cooperative-inspection lanes."
+      },
+      "zh": {
+        "headline": "合資格居民即日起可登記皇崗合作查驗通道",
+        "dek": "入境處表示，重建後的皇崗口岸稍後開通，合資格香港居民可由星期二起經香港e-道程式登記。"
+      }
+    },
+    {
+      "id": "2026-10-06-wang-fuk-sale-deadline",
+      "published_at": "2026-10-06T17:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "wang-fuk",
+        "tai-po",
+        "housing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-wang-fuk-sale-deadline.json",
+      "en": {
+        "headline": "Housing Bureau reminds Wang Fuk owners of 15 October deadline",
+        "dek": "Owners in blocks A to H who accepted the buyout must sign sale agreements by 15 October, with discretion for special cases."
+      },
+      "zh": {
+        "headline": "房屋局提醒宏福苑業主本月15日前簽協議",
+        "dek": "A至H座已交回接受收購信件的業主，須於10月15日或之前簽出售單位協議，特殊情況可獲酌情。"
+      }
+    },
+    {
+      "id": "2026-10-06-west-kowloon-deficit",
+      "published_at": "2026-10-06T17:12:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "west-kowloon",
+        "wkcda",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-west-kowloon-deficit.json",
+      "en": {
+        "headline": "West Kowloon deficit widens to 998 million dollars",
+        "dek": "The Authority said the 2025/26 operating shortfall grew by about 229 million dollars, mainly on preparations for the performing-arts centre."
+      },
+      "zh": {
+        "headline": "西九管理局赤字擴大至9.98億元",
+        "dek": "管理局稱2025/26年度赤字較上一財年多約2.29億元，主因是西九演藝中心開幕前的前期準備。"
+      }
+    },
     {
       "id": "2026-10-06-lifestyle-disgusting-food-museum",
       "published_at": "2026-10-06T15:18:00+08:00",
@@ -2232,173 +2337,6 @@
       "zh": {
         "headline": "黃金周第三天截至下午4時逾63.8萬人次出入境",
         "dek": "入境處向港台表示，入境人次中超過19萬為內地旅客，最多經落馬洲支線管制站入境。"
-      }
-    },
-    {
-      "id": "2026-10-03-11-skies-airport-authority",
-      "published_at": "2026-10-03T17:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "airport",
-        "11-skies",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-11-skies-airport-authority.json",
-      "en": {
-        "headline": "Chan welcomes return of 11 Skies to the Airport Authority",
-        "dek": "The transport chief said on Saturday the authority would rename and reposition the airport commercial project after New World hands it back next April."
-      },
-      "zh": {
-        "headline": "陳美寶樂見11 SKIES交還機管局 將重新定位",
-        "dek": "運輸及物流局局長周六表示，新世界明年四月把機場商業項目交還機管局後，當局會重新命名及定位，朝高階旅遊地標發展。"
-      }
-    },
-    {
-      "id": "2026-10-03-asian-games-sailing-medals",
-      "published_at": "2026-10-03T17:12:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "sailing",
-        "nagoya"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-asian-games-sailing-medals.json",
-      "en": {
-        "headline": "Hong Kong sailing day takes Asian Games gold tally to 10",
-        "dek": "Youth windsurfers added two golds in Nagoya on Saturday, while ILCA 4 sailors took a silver and a bronze as the fleet finished its events."
-      },
-      "zh": {
-        "headline": "亞運帆船滑浪風帆再添獎牌 港隊金牌增至十面",
-        "dek": "名古屋亞運周六帆船及滑浪風帆收科，青年滑浪風帆連添兩金，青少年單人艇再取一銀一銅，金牌總數增至十面。"
-      }
-    },
-    {
-      "id": "2026-10-03-lifestyle-wing-wah-closing",
-      "published_at": "2026-10-03T17:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "yau-tong",
-        "closing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-lifestyle-wing-wah-closing.json",
-      "en": {
-        "headline": "Cha Kwo Ling bing sutt to close on Monday",
-        "dek": "Wing Wah Bing Sutt, open in the village since 1962, is due to shut on 5 October as Cha Kwo Ling is cleared for redevelopment."
-      },
-      "zh": {
-        "headline": "茶果嶺榮華冰室周一結業",
-        "dek": "油塘茶果嶺村1962年開業的榮華冰室定於10月5日結業，周六已有食客排隊告別，村屋清拆重建在即。"
-      }
-    },
-    {
-      "id": "2026-10-03-tuen-mun-fall-death",
-      "published_at": "2026-10-03T17:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tuen-mun",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-tuen-mun-fall-death.json",
-      "en": {
-        "headline": "Woman dies after fall at Tuen Mun estate",
-        "dek": "Police said a 26-year-old woman was found unconscious in a light well at Chelsea Heights on Saturday morning and later died in hospital."
-      },
-      "zh": {
-        "headline": "屯門卓爾居女子墮樓不治",
-        "dek": "警方表示，周六早上屯門石排頭徑卓爾居一名26歲女子倒臥天井，送院後不治，案件列作從高處墮下。"
-      }
-    },
-    {
-      "id": "2026-10-03-11-skies-reposition",
-      "published_at": "2026-10-03T15:08:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "transport",
-        "airport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-11-skies-reposition.json",
-      "en": {
-        "headline": "Chan urges Airport Authority to recast 11 Skies as tourism landmark",
-        "dek": "The transport secretary said the mega complex should be upgraded for transit passengers after New World returns it next April."
-      },
-      "zh": {
-        "headline": "陳美寶促機管局盡快為11 SKIES定路向",
-        "dek": "運輸及物流局局長指，新世界明年4月交還項目後，應升級為配合過境旅客的高階旅遊設施。"
-      }
-    },
-    {
-      "id": "2026-10-03-asian-games-sevens-final",
-      "published_at": "2026-10-03T15:08:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-games",
-        "rugby"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-asian-games-sevens-final.json",
-      "en": {
-        "headline": "Hong Kong men reach Asian Games sevens final against China",
-        "dek": "The defending champions beat South Korea 35-14 in the semi-final; the women will play Thailand for bronze, RTHK said."
-      },
-      "zh": {
-        "headline": "港隊男子七人欖球晉亞運決賽 將戰國家隊",
-        "dek": "港台報道，衛冤的港隊在四強以35比14勝韓國；女子隊準決賽不敵日本，將與泰國爭銅牌。"
-      }
-    },
-    {
-      "id": "2026-10-03-asian-games-windsurf-golds",
-      "published_at": "2026-10-03T15:08:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-games"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-asian-games-windsurf-golds.json",
-      "en": {
-        "headline": "Windsurfers take two golds as Hong Kong reaches 10 Asian Games titles",
-        "dek": "Wong Tsz-ho and Cheung Tsz-yuet won the youth iQFOiL events in Nagoya, taking the gold count to 10, RTHK reported."
-      },
-      "zh": {
-        "headline": "滑浪風帆青年組連奪兩金 港隊亞運金牌增至十面",
-        "dek": "港台報道，黃梓豪及張子悅在名古屋分別奪得男女子青少年水翼帆板金牌，馬君正摘女子銀牌。"
-      }
-    },
-    {
-      "id": "2026-10-03-lifestyle-westk-picnic-fest",
-      "published_at": "2026-10-03T15:08:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "west-kowloon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-lifestyle-westk-picnic-fest.json",
-      "en": {
-        "headline": "West Kowloon picnic market runs until 9pm through Sunday",
-        "dek": "The West Kowloon Cultural District says the Art Park harbour lawn market is open 2pm to 9pm on the Golden Week weekend."
-      },
-      "zh": {
-        "headline": "西九野餐市集黃金周周末開至晚上9時",
-        "dek": "西九文化區表示，藝術公園海濱草坪市集10月1日至4日舉行，周六及周日由下午2時至晚上9時。"
       }
     }
   ]
