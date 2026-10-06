@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T03:17:05+08:00",
+  "updated_at": "2026-10-07T07:05:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -289,6 +289,42 @@
       "id": "2026-10-07-lifestyle-hkpax-harbourfront",
       "first_seen": "2026-10-07T03:16:00+08:00",
       "headline_en": "Free harbourfront shows continue as arts expo opens Friday"
+    },
+    {
+      "key": "cheung-sha-wan-drug-packaging-oct7",
+      "id": "2026-10-07-cheung-sha-wan-drug-raid",
+      "first_seen": "2026-10-07T07:05:00+08:00",
+      "headline_en": "Police seize drugs worth 1.42 million dollars in Cheung Sha Wan"
+    },
+    {
+      "key": "tai-tong-village-death-oct7",
+      "id": "2026-10-07-tai-tong-village-death",
+      "first_seen": "2026-10-07T07:05:00+08:00",
+      "headline_en": "Woman, 47, dies after collapsing at Tai Tong village house"
+    },
+    {
+      "key": "boundary-street-taxi-cyclist-oct7",
+      "id": "2026-10-07-boundary-street-cyclist-crash",
+      "first_seen": "2026-10-07T07:05:00+08:00",
+      "headline_en": "Cyclist taken to hospital after taxi crash on Boundary Street"
+    },
+    {
+      "key": "fraser-freest-economy-2026",
+      "id": "2026-10-07-freest-economy-ranking",
+      "first_seen": "2026-10-07T07:05:00+08:00",
+      "headline_en": "Fraser Institute again ranks Hong Kong the freest economy"
+    },
+    {
+      "key": "tst-powder-letter-flour-oct6",
+      "id": "2026-10-07-tst-powder-letter-flour",
+      "first_seen": "2026-10-07T07:05:00+08:00",
+      "headline_en": "Officers confirm Tsim Sha Tsui powder letter contained flour"
+    },
+    {
+      "key": "lifestyle-happy-wednesday-oktoberfest",
+      "id": "2026-10-07-lifestyle-happy-wednesday-oktoberfest",
+      "first_seen": "2026-10-07T07:05:00+08:00",
+      "headline_en": "Happy Valley opens a three-week Oktoberfest on race night"
     }
   ]
 }
