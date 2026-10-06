@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-10-06T11:09:14+08:00",
+  "generated_at": "2026-10-06T13:13:25+08:00",
   "live_window_hours": 72,
-  "count": 113,
+  "count": 117,
   "articles": [
+    {
+      "id": "2026-10-06-hang-seng-midday",
+      "published_at": "2026-10-06T13:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "economy",
+        "hang-seng"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-hang-seng-midday.json",
+      "en": {
+        "headline": "Hang Seng adds 188 points at the Tuesday midday close",
+        "dek": "The index finished the morning at 24,228 after touching 24,354, with turnover above HK$54 billion and the tech index up nearly 0.9 percent."
+      },
+      "zh": {
+        "headline": "恒指半日升188點 報24228點",
+        "dek": "指數曾高見24354點，其後升幅收窄，半日主板成交逾540億元，科指升近0.9%。"
+      }
+    },
+    {
+      "id": "2026-10-06-labour-import-sanction",
+      "published_at": "2026-10-06T13:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "labour",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-labour-import-sanction.json",
+      "en": {
+        "headline": "Labour Department bars firm from imported-worker applications for two years",
+        "dek": "The department said the firm added hiring conditions without consent and refused qualified local applicants for clerk and painting-worker posts."
+      },
+      "zh": {
+        "headline": "勞工處制裁浩展太平洋 兩年內不受理輸入勞工申請",
+        "dek": "處方說該公司申請輸入普通文員及髹漆工時，未經同意新增招聘條件，並無合理理由拒絕合資格求職者。"
+      }
+    },
+    {
+      "id": "2026-10-06-lifestyle-house-of-swans",
+      "published_at": "2026-10-06T13:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "tai-kwun",
+        "exhibition"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-lifestyle-house-of-swans.json",
+      "en": {
+        "headline": "Hong Kong Ballet returns to Tai Kwun swan show this weekend",
+        "dek": "Tai Kwun lists adapted House of Swans performances on Saturday and Sunday afternoon, with exhibition tickets at HK$50 and entry limited by gallery capacity."
+      },
+      "zh": {
+        "headline": "大館《House of Swans》周末再有香港芭蕾舞團演出",
+        "dek": "大館公布10月10及11日下午2時半至3時15分有改編演出，展覽門票50元，場內人數有限，先到先得。"
+      }
+    },
+    {
+      "id": "2026-10-06-tst-powder-letter",
+      "published_at": "2026-10-06T13:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "tsim-sha-tsui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-tst-powder-letter.json",
+      "en": {
+        "headline": "Police examine powder letter at Tsim Sha Tsui office building",
+        "dek": "Officers closed a stretch of Humphreys Avenue after a security guard reported a letter containing white powder at 3 Humphreys Avenue around 9:28am."
+      },
+      "zh": {
+        "headline": "尖沙咀商廈信箱現白色粉末信 爆炸品處理課到場",
+        "dek": "早上9時28分保安員報案，堪富利士道3號時財商業大廈地下信箱有可疑信件，警方封鎖一段道路調查。"
+      }
+    },
     {
       "id": "2026-10-06-nurse-hiring-priority",
       "published_at": "2026-10-06T11:07:00+08:00",
