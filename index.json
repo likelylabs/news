@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-10-06T19:10:14+08:00",
+  "generated_at": "2026-10-06T21:07:17+08:00",
   "live_window_hours": 72,
-  "count": 113,
+  "count": 114,
   "articles": [
+    {
+      "id": "2026-10-06-amoy-gardens-murder-sentence",
+      "published_at": "2026-10-06T21:04:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "kowloon-bay"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-amoy-gardens-murder-sentence.json",
+      "en": {
+        "headline": "High Court jails man for life over Kowloon Bay killing",
+        "dek": "A jury found Tam Yun-chiu guilty of murdering bus driver Ho Lok-man after a dispute at Amoy Gardens in September 2023."
+      },
+      "zh": {
+        "headline": "淘大花園命案裝修工謀殺罪成 判囚終身",
+        "dek": "高等法院陪審團裁定52歲譚潤超謀殺巴士司機何洛文罪名成立，案件源於2023年9月淘大花園一宗吸煙爭執。"
+      }
+    },
+    {
+      "id": "2026-10-06-cheung-sha-wan-flat-death",
+      "published_at": "2026-10-06T21:04:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "cheung-sha-wan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-cheung-sha-wan-flat-death.json",
+      "en": {
+        "headline": "Man found dead in Cheung Sha Wan flat, woman taken to hospital",
+        "dek": "Police said security staff at One Madison on Castle Peak Road reported an unusual smell at about 5:20pm, and firefighters forced entry."
+      },
+      "zh": {
+        "headline": "長沙灣單位老翁證實死亡 七旬女子送明愛",
+        "dek": "警方稱青山道305號One Madison保安下午約5時20分報案，指單位傳出異味且住戶多時未露面，消防其後破門。"
+      }
+    },
+    {
+      "id": "2026-10-06-hkma-malaysia-cooperation",
+      "published_at": "2026-10-06T21:04:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hkma",
+        "banking",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-hkma-malaysia-cooperation.json",
+      "en": {
+        "headline": "HKMA and Malaysia's central bank widen fraud and market ties",
+        "dek": "The authorities said they would set up a policy group on compliant cross-border stablecoin uses and strengthen links between payment systems."
+      },
+      "zh": {
+        "headline": "金管局與馬來西亞央行加強打擊騙案及市場聯通",
+        "dek": "雙方宣布成立政策工作小組，推動合規跨境穩定幣應用，並加強即時支付結算系統之間的聯通。"
+      }
+    },
+    {
+      "id": "2026-10-06-mong-kok-fire-extinguished",
+      "published_at": "2026-10-06T21:04:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "mong-kok",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-06/2026-10-06-mong-kok-fire-extinguished.json",
+      "en": {
+        "headline": "Mong Kok rooftop fire put out, no injuries reported",
+        "dek": "The blaze at Shun King Building on Nelson Street was extinguished at about 6:42pm after 30 to 40 residents left the building."
+      },
+      "zh": {
+        "headline": "旺角順景大廈天台火警救熄 暫無傷亡報告",
+        "dek": "奶路臣街順景大廈天台火警於傍晚約6時42分救熄，約30至40名住戶自行走到地面，警方稱暫無人受傷。"
+      }
+    },
     {
       "id": "2026-10-06-fake-ticket-website",
       "published_at": "2026-10-06T19:08:00+08:00",
@@ -2298,68 +2380,6 @@
       "zh": {
         "headline": "壁球代表隊返港 混雙金牌組合稱未敢期望太多",
         "dek": "港台報道，名古屋亞運奪得一金兩銀兩銅的壁球隊周六晚返抵香港，鄧銘漮、李嘉兒指決賽由兩對港隊包辦更值得高興。"
-      }
-    },
-    {
-      "id": "2026-10-03-asean-cup-champions",
-      "published_at": "2026-10-03T21:06:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "football",
-        "asean-cup",
-        "kai-tak"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-asean-cup-champions.json",
-      "en": {
-        "headline": "Hong Kong beat Cambodia 2-0 to win ASEAN Challenge Cup",
-        "dek": "Matt Orr and an Everton Camargo penalty settled the final at Kai Tak Stadium, reports said, after a June defeat in Phnom Penh."
-      },
-      "zh": {
-        "headline": "港隊2比0挫柬埔寨 奪首屆東盟挑戰杯",
-        "dek": "啟德主場決賽由安永佳先開紀錄，艾華頓十二碼建功，報導指港隊報卻6月作客敗仗。"
-      }
-    },
-    {
-      "id": "2026-10-03-nonlocal-tuition-2027",
-      "published_at": "2026-10-03T21:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-nonlocal-tuition-2027.json",
-      "en": {
-        "headline": "HKU sets 2027 non-local medicine fees at HK$590,000",
-        "dek": "The university's admissions pages list higher non-local undergraduate rates, while a survey puts the sector average rise at 17 per cent."
-      },
-      "zh": {
-        "headline": "港大公布2027學年非本地醫科學費59萬",
-        "dek": "入學處網頁列出非本地本科新學費，報章調查指八大中七校平均加幅約一成七。"
-      }
-    },
-    {
-      "id": "2026-10-03-one-stanley-reinforcement",
-      "published_at": "2026-10-03T21:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "stanley",
-        "housing",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-03/2026-10-03-one-stanley-reinforcement.json",
-      "en": {
-        "headline": "Buildings Department finds One Stanley reinforcement does not match plans",
-        "dek": "Inspectors say a beam cover and some floor slabs at a Stanley house do not follow approved drawings, though they see no obvious danger."
-      },
-      "zh": {
-        "headline": "屋宇署：赤柱One Stanley獨立屋鋼筋配置不符圖則",
-        "dek": "署方指地面低層一條橫樑保護層未按圖則配鋼絲網，部分樓板鋼筋亦與圖則不符，但未構成明顯危險。"
       }
     }
   ]
