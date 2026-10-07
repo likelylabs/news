@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-08-fire-danger-cancelled",
+  "published_at": "2026-10-08T07:06:00+08:00",
+  "category": "weather",
+  "tags": [
+    "weather",
+    "hko"
+  ],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "red-fire-danger-cancelled-oct7",
+  "en": {
+    "headline": "Observatory cancels red fire danger warning",
+    "dek": "The warning, raised at 7:45am on Wednesday, was cancelled at 11:15pm. Thursday is forecast mainly fine and dry.",
+    "body": [
+      "The Hong Kong Observatory cancelled the red fire danger warning at 11:15pm on Wednesday. The warning had been issued at 7:45am the same day, when the Observatory said the fire risk was extreme.",
+      "No fire danger warning was in force in the Observatory's 6am bulletin on Thursday. At 6am the Observatory recorded 26 degrees and relative humidity of 71 per cent. The northeast monsoon was affecting the coast of Guangdong.",
+      "The local forecast for Thursday is mainly fine, with cloudy periods at first, a slightly cooler morning and a dry day. The maximum temperature is expected to be around 29 degrees, with moderate to fresh east to northeasterly winds, occasionally strong offshore and on high ground at first. The outlook is for persistently fine and dry weather, with temperatures rising, through the rest of this week into the middle of next week."
+    ]
+  },
+  "zh": {
+    "headline": "天文台取消紅色火災危險警告",
+    "dek": "警告於星期三早上7時45分發出，晚上11時15分取消。星期四大致天晴乾燥。",
+    "body": [
+      "香港天文台星期三晚上11時15分取消紅色火災危險警告。警告於同日早上7時45分發出，當時天文台表示火災危險性極高。",
+      "星期四早上6時的天氣報告沒有火災危險警告生效。天文台早上6時錄得氣溫26度，相對濕度71%。東北季候風正影響廣東沿岸。",
+      "星期四本地預報大致天晴，初時有幾陣雲，早上稍涼，日間乾燥，最高氣溫約29度。吹和緩至清勁東至東北風，初時離岸及高地間中強風。展望本周餘下時間至下周中持續天晴乾燥，氣溫回升。"
+    ]
+  }
+}
