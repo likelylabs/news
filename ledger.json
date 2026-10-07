@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-07T09:16:33+08:00",
+  "updated_at": "2026-10-07T11:08:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "tai-po-school-bus-crash-oct7",
+      "id": "2026-10-07-tai-po-school-bus-crash",
+      "first_seen": "2026-10-07T11:08:00+08:00",
+      "headline_en": "School bus hits a kerb in Tai Po, children taken to hospital"
+    },
+    {
+      "key": "victoria-park-fair-auction-oct7",
+      "id": "2026-10-07-victoria-park-fair-auction",
+      "first_seen": "2026-10-07T11:08:00+08:00",
+      "headline_en": "Tin Hau entrance stall sells for 280,000 dollars at fair auction"
+    },
+    {
+      "key": "five-year-plan-debate-oct7",
+      "id": "2026-10-07-five-year-plan-debate",
+      "first_seen": "2026-10-07T11:08:00+08:00",
+      "headline_en": "Chan opens three-day LegCo debate on the five-year plan"
+    },
+    {
+      "key": "lifestyle-mplus-myths-monsters",
+      "id": "2026-10-07-lifestyle-mplus-myths-monsters",
+      "first_seen": "2026-10-07T11:08:00+08:00",
+      "headline_en": "M+ fantasy exhibition opens in the West Gallery on 17 October"
+    },
     {
       "key": "red-fire-danger-warning-oct7",
       "id": "2026-10-07-red-fire-danger-warning",
