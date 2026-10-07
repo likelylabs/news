@@ -1,8 +1,111 @@
 {
-  "generated_at": "2026-10-08T01:05:17+08:00",
+  "generated_at": "2026-10-08T03:15:14+08:00",
   "live_window_hours": 72,
-  "count": 129,
+  "count": 132,
   "articles": [
+    {
+      "id": "2026-10-08-customs-pharma-seizure",
+      "published_at": "2026-10-08T03:14:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "smuggling"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-customs-pharma-seizure.json",
+      "en": {
+        "headline": "Customs seize 450,000 dollars of suspected medicines at border",
+        "dek": "A 37-year-old woman driver was charged with attempting to export unmanifested cargo and was due at West Kowloon Magistrates' Courts on Thursday."
+      },
+      "zh": {
+        "headline": "海關口岸截私家車 檢約45萬元懷疑藥劑製品",
+        "dek": "一名37歲女司機被控企圖輸出未列艙單貨物，案件星期四在西九龍裁判法院提堂。"
+      }
+    },
+    {
+      "id": "2026-10-08-ec-nominations-first-day",
+      "published_at": "2026-10-08T03:14:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "election-committee",
+        "elections"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-ec-nominations-first-day.json",
+      "en": {
+        "headline": "Election Committee nomination period opens with 307 forms",
+        "dek": "Returning officers received 305 candidate forms and two designated-body forms on the first day, with nominations open until 20 October."
+      },
+      "zh": {
+        "headline": "選委會提名期首日接獲307份表格",
+        "dek": "政府表示，各選舉主任星期三接獲305份候選人提名表格及兩份指定團體提名表格，提名期至10月20日。"
+      }
+    },
+    {
+      "id": "2026-10-08-lifestyle-lam-tsuen-fair-auction",
+      "published_at": "2026-10-08T03:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "tai-po",
+        "fehd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-lifestyle-lam-tsuen-fair-auction.json",
+      "en": {
+        "headline": "Lam Tsuen spring fair stalls go to auction on 21 October",
+        "dek": "The Food and Environmental Hygiene Department will offer 21 dry-goods and six wet-goods pitches for the 2027 fair in Tai Po."
+      },
+      "zh": {
+        "headline": "林村放馬莆新春市場攤位10月21日競投",
+        "dek": "食環署公布，2027年市場設21個乾貨及6個濕貨攤位，競投底價分別為780元及770元。"
+      }
+    },
+    {
+      "id": "2026-10-08-radio-licence-consultation",
+      "published_at": "2026-10-08T03:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "broadcasting",
+        "ofca"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-radio-licence-consultation.json",
+      "en": {
+        "headline": "Watchdog opens consultation on two radio licence renewals",
+        "dek": "The Communications Authority is taking views until 6 December on Commercial Radio and Metro Broadcast, whose licences expire in August 2028."
+      },
+      "zh": {
+        "headline": "通訊局就商台及新城牌照續期展開諮詢",
+        "dek": "公眾諮詢由10月7日起至12月6日，兩台聲音廣播牌照於2028年8月25日屆滿。"
+      }
+    },
+    {
+      "id": "2026-10-08-tsui-ping-fire-arrest",
+      "published_at": "2026-10-08T03:14:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "kwun-tong",
+        "police",
+        "fire"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-tsui-ping-fire-arrest.json",
+      "en": {
+        "headline": "Police arrest woman after boy rescued from Kwun Tong fire",
+        "dek": "Officers said a 42-year-old woman was held on suspicion of child neglect after a blaze at Tsui Ping (North) Estate on Wednesday night."
+      },
+      "zh": {
+        "headline": "翠屏北邨火警後 警方拘捕42歲女子",
+        "dek": "警方稱，女子涉嫌對所看管兒童虐待或忽略被捕，正被扣查，案件交觀塘警區刑事調查隊跟進。"
+      }
+    },
     {
       "id": "2026-10-08-happy-valley-results",
       "published_at": "2026-10-08T01:12:00+08:00",
@@ -2635,49 +2738,6 @@
       "zh": {
         "headline": "M+秋季電影節放映李屏賓作品",
         "dek": "西九M+表示，10月至12月的電影季主要節目已公開售票，主軸是攝影師李屏賓的十部作品回顧。"
-      }
-    },
-    {
-      "id": "2026-10-05-chinese-medicine-testing",
-      "published_at": "2026-10-05T01:06:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "chinese-medicine",
-        "health",
-        "tseung-kwan-o"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-chinese-medicine-testing.json",
-      "en": {
-        "headline": "Chinese medicine lab cuts velvet-antler test to under a day",
-        "dek": "The Department of Health institute says a DNA method can show whether Lu Rong slices are authentic in less than a day, down from three."
-      },
-      "zh": {
-        "headline": "中藥檢測中心：鹿茸鑑定可縮至一日內",
-        "dek": "衞生署政府中藥檢測中心表示，新的DNA方法可在一日內分辨鹿茸飲片是否正品，較傳統檢測約三天為短。"
-      }
-    },
-    {
-      "id": "2026-10-05-lifestyle-sushiro-dragon-centre",
-      "published_at": "2026-10-05T01:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "sham-shui-po",
-        "opening"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-lifestyle-sushiro-dragon-centre.json",
-      "en": {
-        "headline": "Sushiro opens a Sham Shui Po branch at Dragon Centre",
-        "dek": "The conveyor-belt chain’s new shop on the second floor of Dragon Centre starts service on Monday, the company said."
-      },
-      "zh": {
-        "headline": "壽司郎深水埗西九龍中心分店周一開業",
-        "dek": "迴轉壽司連鎖店表示，新店位於西九龍中心二樓，星期一開始營業。"
       }
     }
   ]
