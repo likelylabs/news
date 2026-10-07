@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-07-red-fire-danger-warning",
+  "published_at": "2026-10-07T09:12:00+08:00",
+  "category": "weather",
+  "tags": ["hko", "fire-danger"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "red-fire-danger-warning-oct7",
+  "en": {
+    "headline": "Observatory issues red fire danger warning",
+    "dek": "The warning, raised at 7.45am, means the fire risk is extreme. At 8am the Observatory recorded 24 degrees and humidity of 55 per cent.",
+    "body": [
+      "The Hong Kong Observatory issued the red fire danger warning at 7.45am on Wednesday, saying the fire risk is extreme. The warning remains in force until further notice.",
+      "At 8am the Observatory recorded an air temperature of 24 degrees Celsius and relative humidity of 55 per cent. Its forecast bulletin, updated at 7.45am, said Wednesday would be fine and dry, slightly cooler in the morning, with a daytime maximum of about 30 degrees. Winds were moderate northerlies, occasionally fresh offshore, becoming easterlies later.",
+      "The Observatory said Thursday would be windier. It expects fine and dry weather to continue, with temperatures rising gradually from the latter part of this week into early next week, and a relatively large day-night temperature difference over inland areas.",
+      "The red signal is the higher of the two fire danger warnings. The Observatory reminds the public to stay extra alert and to take fire precautions."
+    ]
+  },
+  "zh": {
+    "headline": "天文台發出紅色火災危險警告 火險極高",
+    "dek": "警告於周三上午7時45分發出並持續生效，表示火災危險性極高。上午8時天文台錄得24度，相對濕度55%。",
+    "body": [
+      "香港天文台周三上午7時45分發出紅色火災危險警告，表示火災危險性極高。警告維持生效，直至另行通知。",
+      "上午8時，天文台錄得氣溫24度，相對濕度55%。同於7時45分更新的天氣預報指出，周三大致天晴及乾燥，早上稍涼，日間最高氣溫約30度，吹和緩北風，離岸間中清勁，稍後轉東風。",
+      "天文台預料周四風勢較大，本周後期至下周初仍天晴乾燥，氣溫逐漸回升，內陸地區日夜溫差較大。",
+      "紅色是兩個火災危險警告中較高的一級。天文台提醒市民特別提高警覺，並採取適當防火措施。"
+    ]
+  }
+}
