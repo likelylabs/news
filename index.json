@@ -1,8 +1,110 @@
 {
-  "generated_at": "2026-10-07T19:05:59+08:00",
+  "generated_at": "2026-10-07T21:05:20+08:00",
   "live_window_hours": 72,
-  "count": 130,
+  "count": 131,
   "articles": [
+    {
+      "id": "2026-10-07-child-flu-pneumonia",
+      "published_at": "2026-10-07T21:08:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "influenza"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-child-flu-pneumonia.json",
+      "en": {
+        "headline": "Girl, 11, in intensive care with flu and severe pneumonia",
+        "dek": "The Centre for Health Protection said the child has a chronic illness, tested positive for influenza A H1, and had not had this season's vaccine."
+      },
+      "zh": {
+        "headline": "11歲女童染甲型流感併發嚴重肺炎 情況嚴重",
+        "dek": "衞生防護中心稱，該名有長期病患的女童對甲型H1流感呈陽性，未接種本季流感疫苗，現於兒童深切治療部留醫。"
+      }
+    },
+    {
+      "id": "2026-10-07-crash-for-cash-arrests",
+      "published_at": "2026-10-07T21:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-crash-for-cash-arrests.json",
+      "en": {
+        "headline": "Police arrest 17 more over suspected crash-for-cash claims",
+        "dek": "Commercial crime officers said the latest round involved 63 claims worth 25 million dollars, taking the year's arrests to 55."
+      },
+      "zh": {
+        "headline": "警方再拘17名懷疑交通意外索償騙徒",
+        "dek": "商業罪案調查科稱，最新一輪行動涉63宗索償、金額約2500萬元，今年累計拘捕55人。"
+      }
+    },
+    {
+      "id": "2026-10-07-fu-tai-neglect-arrests",
+      "published_at": "2026-10-07T21:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "tuen-mun"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-fu-tai-neglect-arrests.json",
+      "en": {
+        "headline": "Police arrest two adults over Tuen Mun child-neglect allegation",
+        "dek": "Officers said a 38-year-old man and a 32-year-old woman were detained after a video showed a girl carrying bags of beer at Fu Tai Estate."
+      },
+      "zh": {
+        "headline": "屯門富泰邨父母涉虐兒被捕 正被扣查",
+        "dek": "警方稱，新界北虐兒案件調查組周三下午拘捕一名38歲男子及一名32歲女子，女童沒有表面受傷。"
+      }
+    },
+    {
+      "id": "2026-10-07-lifestyle-wine-dine-festival",
+      "published_at": "2026-10-07T21:08:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "tourism",
+        "food",
+        "central"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-lifestyle-wine-dine-festival.json",
+      "en": {
+        "headline": "Wine and Dine Festival adds later nights and more stalls",
+        "dek": "The Tourism Board said the Central Harbourfront event from 29 October to 1 November expects about 168,000 visitors and will open until 1am on two nights."
+      },
+      "zh": {
+        "headline": "美酒佳餚巡禮增設深夜時段 攤位多一成",
+        "dek": "旅發局稱，巡禮10月29日至11月1日於中環海濱舉行，並擴至添馬公園，預計約16.8萬人次到場。"
+      }
+    },
+    {
+      "id": "2026-10-07-sasa-national-day-sales",
+      "published_at": "2026-10-07T21:08:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "retail",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-sasa-national-day-sales.json",
+      "en": {
+        "headline": "Sa Sa says National Day sales in Hong Kong and Macau rose over 60 per cent",
+        "dek": "The retailer also reported second-quarter turnover of 1.41 billion dollars, up more than 37 per cent from a year earlier."
+      },
+      "zh": {
+        "headline": "莎莎：國慶假期港澳線下銷售按年升逾六成",
+        "dek": "集團亦公布上季總營業額14.1億元，按年升逾37%，港澳線下業務升52%至11.2億元。"
+      }
+    },
     {
       "id": "2026-10-07-etomidate-record-seizure",
       "published_at": "2026-10-07T19:20:00+08:00",
@@ -2618,90 +2720,6 @@
       "zh": {
         "headline": "東壩破邊洲星期日約950人到訪 明後兩日預約額滿",
         "dek": "漁護署表示，雷暴警告一度生效，到訪人數較預期低，署方曾釋放即時預約名額；橋咀洲同日約有1970人到訪。"
-      }
-    },
-    {
-      "id": "2026-10-04-cheung-tung-road-crash",
-      "published_at": "2026-10-04T19:12:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "lantau",
-        "tung-chung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-cheung-tung-road-crash.json",
-      "en": {
-        "headline": "Three vehicles collide on Cheung Tung Road near Sunny Bay",
-        "dek": "Police said a taxi driver was briefly trapped after a light goods vehicle, a private car and a taxi collided in Tung Chung on Sunday afternoon."
-      },
-      "zh": {
-        "headline": "東涌翔東路三車相撞 的士司機一度被困",
-        "dek": "警方表示，星期日下午一輛輕型貨車、私家車及的士在翔東路一帶相撞，的士司機受傷並一度被困，其後獲救。"
-      }
-    },
-    {
-      "id": "2026-10-04-cold-front-showers-evening",
-      "published_at": "2026-10-04T19:12:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "observatory",
-        "thunderstorm"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-cold-front-showers-evening.json",
-      "en": {
-        "headline": "Observatory says cold-front showers may reach the estuary",
-        "dek": "A cold front over Guangdong was moving south on Sunday evening, and the Observatory said related showers and thunderstorms could affect the Pearl River estuary within two to three hours."
-      },
-      "zh": {
-        "headline": "天文台：冷鋒南下 驟雨雷暴或影響珠江口",
-        "dek": "天文台表示，廣東一道冷鋒星期日傍晚正向南移動，相關驟雨及雷暴未來兩、三小時或影響珠江口，部分地區雨勢較大。"
-      }
-    },
-    {
-      "id": "2026-10-04-golden-week-day-four-crossings",
-      "published_at": "2026-10-04T19:12:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "golden-week",
-        "immigration",
-        "border"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-golden-week-day-four-crossings.json",
-      "en": {
-        "headline": "Golden Week day four passes 616,000 crossings by 4pm",
-        "dek": "The Immigration Department recorded about 337,500 arrivals and 278,000 departures by 4pm on Sunday, with Lok Ma Chau Spur Line the busiest inbound point."
-      },
-      "zh": {
-        "headline": "黃金周第四日截至下午四時逾61萬人次出入境",
-        "dek": "入境處表示，星期日下午四時前錄得約33萬7500人次入境、約27萬8000人次出境，落馬洲支線是入境最繁忙管制站。"
-      }
-    },
-    {
-      "id": "2026-10-04-nent-landfill-extension",
-      "published_at": "2026-10-04T19:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "environment",
-        "landfill",
-        "new-territories"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-nent-landfill-extension.json",
-      "en": {
-        "headline": "Northeast New Territories landfill extension opens fully",
-        "dek": "The Environmental Protection Department said the extension began full operation on Sunday and will replace the existing site, due to close later this year."
-      },
-      "zh": {
-        "headline": "新界東北堆填區擴建部分今日全面啟用",
-        "dek": "環保署宣布，擴建部分星期日全面啟用，接替原有堆填區；原址將於本年稍後停運並進行修復。"
       }
     }
   ]
