@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-07T19:05:59+08:00",
+  "updated_at": "2026-10-07T21:08:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "crash-for-cash-further-arrests-oct7",
+      "id": "2026-10-07-crash-for-cash-arrests",
+      "first_seen": "2026-10-07T21:08:00+08:00",
+      "headline_en": "Police arrest 17 more over suspected crash-for-cash claims"
+    },
+    {
+      "key": "tuen-mun-child-neglect-arrests-oct7",
+      "id": "2026-10-07-fu-tai-neglect-arrests",
+      "first_seen": "2026-10-07T21:08:00+08:00",
+      "headline_en": "Police arrest two adults over Tuen Mun child-neglect allegation"
+    },
+    {
+      "key": "child-flu-pneumonia-oct7",
+      "id": "2026-10-07-child-flu-pneumonia",
+      "first_seen": "2026-10-07T21:08:00+08:00",
+      "headline_en": "Girl, 11, in intensive care with flu and severe pneumonia"
+    },
+    {
+      "key": "sasa-national-day-sales-oct7",
+      "id": "2026-10-07-sasa-national-day-sales",
+      "first_seen": "2026-10-07T21:08:00+08:00",
+      "headline_en": "Sa Sa says National Day sales in Hong Kong and Macau rose over 60 per cent"
+    },
+    {
+      "key": "lifestyle-wine-dine-festival-2026",
+      "id": "2026-10-07-lifestyle-wine-dine-festival",
+      "first_seen": "2026-10-07T21:08:00+08:00",
+      "headline_en": "Wine and Dine Festival adds later nights and more stalls"
+    },
     {
       "key": "etomidate-record-seizure-oct7",
       "id": "2026-10-07-etomidate-record-seizure",
