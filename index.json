@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-07T11:10:38+08:00",
+  "generated_at": "2026-10-07T13:12:36+08:00",
   "live_window_hours": 72,
-  "count": 127,
+  "count": 126,
   "articles": [
+    {
+      "id": "2026-10-07-hang-seng-midday",
+      "published_at": "2026-10-07T13:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "markets",
+        "hang-seng"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-hang-seng-midday.json",
+      "en": {
+        "headline": "Hang Seng slips 128 points at the Wednesday midday close",
+        "dek": "After two rising sessions the index closed the morning at 24,151, down 0.5 per cent, with the technology gauge back under 4,200."
+      },
+      "zh": {
+        "headline": "恒指半日收市跌128點 科技指數失守4200點",
+        "dek": "港股連升兩日後回吐，中午報24151點，跌0.5%。科技指數半日報4184點，跌0.9%。"
+      }
+    },
+    {
+      "id": "2026-10-07-land-sale-valuations",
+      "published_at": "2026-10-07T13:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "property",
+        "land-sale",
+        "ho-man-tin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-land-sale-valuations.json",
+      "en": {
+        "headline": "Surveyor lifts Stanley and Shek Mun site values after Ho Man Tin tender",
+        "dek": "Vigers raised its Stanley plot estimate by as much as about 42 per cent after Kerry's bid came in well above earlier forecasts."
+      },
+      "zh": {
+        "headline": "測量師上調赤柱及石門地皮估值 何文田投標後",
+        "dek": "嘉里以逾43.08億元投得佛光街住宅地後，華坊把環角道地皮估值上調最多約四成二。"
+      }
+    },
+    {
+      "id": "2026-10-07-public-healthcare-subsidy",
+      "published_at": "2026-10-07T13:20:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "healthcare",
+        "government",
+        "hospital-authority"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-public-healthcare-subsidy.json",
+      "en": {
+        "headline": "Lo says public healthcare subsidy remains at 95 per cent",
+        "dek": "The health secretary told lawmakers fee waivers have widened sharply, while accident and emergency visits in the first nine months edged down."
+      },
+      "zh": {
+        "headline": "盧寵茂：收費改革後公營醫療資助仍維持95%",
+        "dek": "醫務衞生局局長回覆立法會，指費用減免覆蓋擴大，首九個月急症室求診人次按年微跌。"
+      }
+    },
+    {
+      "id": "2026-10-07-tuen-mun-child-beer-inquiry",
+      "published_at": "2026-10-07T13:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "tuen-mun",
+        "child-welfare"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-tuen-mun-child-beer-inquiry.json",
+      "en": {
+        "headline": "Police investigate report of child carrying beer in Tuen Mun",
+        "dek": "Officers said they received a report on Tuesday night at Fu Tai Estate. No arrest had been made, and the girl's school said it had offered help."
+      },
+      "zh": {
+        "headline": "警方調查屯門女童被安排搬運啤酒",
+        "dek": "警方稱周二晚接獲富泰邨報案，暫未有人被捕。女童就讀的學校表示已提供協助及輔導。"
+      }
+    },
     {
       "id": "2026-10-07-five-year-plan-debate",
       "published_at": "2026-10-07T11:08:00+08:00",
@@ -2541,107 +2624,6 @@
       "zh": {
         "headline": "天文台下午一時發出雷暴警告",
         "dek": "警告有效至下午三時，預料本港有局部地區雷暴。"
-      }
-    },
-    {
-      "id": "2026-10-04-empf-account-enquiry",
-      "published_at": "2026-10-04T11:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "mpf",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-empf-account-enquiry.json",
-      "en": {
-        "headline": "eMPF opens one-stop account enquiry from Monday",
-        "dek": "Members, authorised persons and estate handlers will be able to request trustee names, account numbers and balances in one application."
-      },
-      "zh": {
-        "headline": "積金易明起推一站式帳戶查詢",
-        "dek": "計劃成員、獲授權人士及處理遺產人士可一次申請查閱受託人、帳戶號碼及結餘。"
-      }
-    },
-    {
-      "id": "2026-10-04-hui-precious-metals-trip",
-      "published_at": "2026-10-04T11:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "finance",
-        "gold"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-hui-precious-metals-trip.json",
-      "en": {
-        "headline": "Hui leaves Monday night for Italy metals conference",
-        "dek": "The financial services secretary will attend a precious metals meeting in Sorrento and visit Swiss gold refineries before returning on Thursday."
-      },
-      "zh": {
-        "headline": "許正宇周一晚出發 赴意大利出席貴金屬會議",
-        "dek": "財庫局局長將到索倫托出席全球貴金屬會議，並到瑞士參觀黃金精煉廠，周四返港。"
-      }
-    },
-    {
-      "id": "2026-10-04-lifestyle-afcd-fishery-tours",
-      "published_at": "2026-10-04T11:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "tai-po"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-lifestyle-afcd-fishery-tours.json",
-      "en": {
-        "headline": "AFCD lists eight farm and fishery tours from November",
-        "dek": "Places are HK$300 each, for ages six and above, and can be booked only at a Tseung Kwan O fair on 10 and 11 October."
-      },
-      "zh": {
-        "headline": "漁護署下月起辦八個漁農體驗團",
-        "dek": "每位300元，6歲或以上可參加，只限10月10及11日在將軍澳東港城博覽現場報名。"
-      }
-    },
-    {
-      "id": "2026-10-04-prince-edward-byd-incident",
-      "published_at": "2026-10-04T11:12:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic",
-        "prince-edward"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-prince-edward-byd-incident.json",
-      "en": {
-        "headline": "Driver freed after car moves outside Prince Edward bar",
-        "dek": "A 29-year-old man suffered a minor right-knee injury after he was trapped between a BYD and a Volkswagen in Sai Yeung Choi Street North."
-      },
-      "zh": {
-        "headline": "太子酒吧外私家車駛前 司機被夾輕傷",
-        "dek": "29歲男司機在西洋菜北街被夾在比亞迪與福士之間數分鐘，右膝輕傷清醒送院。"
-      }
-    },
-    {
-      "id": "2026-10-04-sau-mau-ping-crypto-report",
-      "published_at": "2026-10-04T11:12:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "fraud",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-sau-mau-ping-crypto-report.json",
-      "en": {
-        "headline": "Woman reports HK$21.5 million lost in crypto scam",
-        "dek": "Police said a 60-year-old woman reported transfers between April and September after a site asked for a deposit to prove her account was clean."
-      },
-      "zh": {
-        "headline": "六旬婦報稱虛擬貨幣投資被騙2150萬",
-        "dek": "警方指她周六報案，4月至9月多次轉帳，平台曾要求交保證金以證明帳戶未涉洗黑錢。"
       }
     }
   ]
