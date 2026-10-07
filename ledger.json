@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-07T11:10:38+08:00",
+  "updated_at": "2026-10-07T13:20:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "hang-seng-midday-oct7",
+      "id": "2026-10-07-hang-seng-midday",
+      "first_seen": "2026-10-07T13:20:00+08:00",
+      "headline_en": "Hang Seng slips 128 points at the Wednesday midday close"
+    },
+    {
+      "key": "public-healthcare-subsidy-oct7",
+      "id": "2026-10-07-public-healthcare-subsidy",
+      "first_seen": "2026-10-07T13:20:00+08:00",
+      "headline_en": "Lo says public healthcare subsidy remains at 95 per cent"
+    },
+    {
+      "key": "land-sale-valuations-revised-oct7",
+      "id": "2026-10-07-land-sale-valuations",
+      "first_seen": "2026-10-07T13:20:00+08:00",
+      "headline_en": "Surveyor lifts Stanley and Shek Mun site values after Ho Man Tin tender"
+    },
+    {
+      "key": "tuen-mun-child-beer-inquiry-oct7",
+      "id": "2026-10-07-tuen-mun-child-beer-inquiry",
+      "first_seen": "2026-10-07T13:20:00+08:00",
+      "headline_en": "Police investigate report of child carrying beer in Tuen Mun"
+    },
     {
       "key": "tai-po-school-bus-crash-oct7",
       "id": "2026-10-07-tai-po-school-bus-crash",
