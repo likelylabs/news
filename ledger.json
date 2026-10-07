@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-08T01:05:16+08:00",
+  "updated_at": "2026-10-08T03:14:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-lam-tsuen-spring-fair-auction",
+      "id": "2026-10-08-lifestyle-lam-tsuen-fair-auction",
+      "first_seen": "2026-10-08T03:14:00+08:00",
+      "headline_en": "Lam Tsuen spring fair stalls go to auction on 21 October"
+    },
+    {
+      "key": "tsui-ping-fire-neglect-arrest-oct7",
+      "id": "2026-10-08-tsui-ping-fire-arrest",
+      "first_seen": "2026-10-08T03:14:00+08:00",
+      "headline_en": "Police arrest woman after boy rescued from Kwun Tong fire"
+    },
+    {
+      "key": "radio-licence-renewal-consultation-oct7",
+      "id": "2026-10-08-radio-licence-consultation",
+      "first_seen": "2026-10-08T03:14:00+08:00",
+      "headline_en": "Watchdog opens consultation on two radio licence renewals"
+    },
+    {
+      "key": "customs-pharma-border-seizure-oct7",
+      "id": "2026-10-08-customs-pharma-seizure",
+      "first_seen": "2026-10-08T03:14:00+08:00",
+      "headline_en": "Customs seize 450,000 dollars of suspected medicines at border"
+    },
+    {
+      "key": "ec-nominations-first-day-oct7",
+      "id": "2026-10-08-ec-nominations-first-day",
+      "first_seen": "2026-10-08T03:14:00+08:00",
+      "headline_en": "Election Committee nomination period opens with 307 forms"
+    },
     {
       "key": "lifestyle-cultural-centre-lanterns",
       "id": "2026-10-08-lifestyle-cultural-centre-lanterns",
