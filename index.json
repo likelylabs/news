@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-10-07T23:20:16+08:00",
+  "generated_at": "2026-10-08T01:05:17+08:00",
   "live_window_hours": 72,
-  "count": 130,
+  "count": 129,
   "articles": [
+    {
+      "id": "2026-10-08-happy-valley-results",
+      "published_at": "2026-10-08T01:12:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "happy-valley",
+        "horse-racing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-happy-valley-results.json",
+      "en": {
+        "headline": "Golden Fortune and Audacious Pursuit win at Happy Valley",
+        "dek": "The Hong Kong Jockey Club carded a nine-race night meeting on the C+3 course, with the ground rated good to firm."
+      },
+      "zh": {
+        "headline": "跑馬地夜賽金運來及大膽追擊勝出",
+        "dek": "馬會周三在跑馬地草地C+3跑道舉行九場夜賽，場地評為好地至快地。"
+      }
+    },
+    {
+      "id": "2026-10-08-lifestyle-cultural-centre-lanterns",
+      "published_at": "2026-10-08T01:12:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "tsim-sha-tsui",
+        "lcsd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-lifestyle-cultural-centre-lanterns.json",
+      "en": {
+        "headline": "Cultural Centre moonlit lanterns stay lit until Sunday",
+        "dek": "The Leisure and Cultural Services Department's Moonlit Bunny Crew installation at the Cultural Centre Piazza runs until 11 October."
+      },
+      "zh": {
+        "headline": "文化中心月下兔燈飾亮至周日",
+        "dek": "康文署在香港文化中心廣場的「月下兔仔團」燈飾裝置展至10月11日，每晚六時半至十一時亮燈。"
+      }
+    },
     {
       "id": "2026-10-07-anta-puma-stake",
       "published_at": "2026-10-07T23:18:00+08:00",
@@ -2636,69 +2678,6 @@
       "zh": {
         "headline": "壽司郎深水埗西九龍中心分店周一開業",
         "dek": "迴轉壽司連鎖店表示，新店位於西九龍中心二樓，星期一開始營業。"
-      }
-    },
-    {
-      "id": "2026-10-04-amber-rainstorm-cancelled",
-      "published_at": "2026-10-04T23:22:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "observatory",
-        "rainstorm",
-        "thunderstorm"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-amber-rainstorm-cancelled.json",
-      "en": {
-        "headline": "Observatory cancels amber rainstorm warning at 10:30pm",
-        "dek": "The amber signal lasted a little over two hours. A thunderstorm warning had been extended to 11:30pm, with gusts of 70 km/h still possible."
-      },
-      "zh": {
-        "headline": "天文台晚上10時30分取消黃色暴雨警告",
-        "dek": "黃雨警告生效約兩小時後取消。雷暴警告曾延長至晚上11時30分，天文台仍提醒陣風可達每小時70公里。"
-      }
-    },
-    {
-      "id": "2026-10-04-diamond-hill-knife-search",
-      "published_at": "2026-10-04T23:22:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "diamond-hill",
-        "mtr"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-diamond-hill-knife-search.json",
-      "en": {
-        "headline": "Police search Diamond Hill after report of woman with a knife",
-        "dek": "Officers were told a woman was seen with a fruit knife near Diamond Hill station. RTHK said a search around Tsz Ching Estate had found no one."
-      },
-      "zh": {
-        "headline": "鑽石山報稱有女子持刀 警方搜索暫無發現",
-        "dek": "警方接獲港鐵鑽石山站職員報案，指一名女子疑持生果刀。港台稱閉路電視顯示她最後在慈正邨一帶出現，搜索暫未尋獲。"
-      }
-    },
-    {
-      "id": "2026-10-04-golden-week-day-four-evening",
-      "published_at": "2026-10-04T23:22:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "golden-week",
-        "immigration",
-        "border"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-golden-week-day-four-evening.json",
-      "en": {
-        "headline": "Golden Week day four passes 1.02 million crossings by 9pm",
-        "dek": "The Immigration Department said more than 576,000 people had entered Hong Kong by 9pm on Sunday, with Lo Wu the busiest arrival point."
-      },
-      "zh": {
-        "headline": "黃金周第四日截至晚上9時逾102萬人次出入境",
-        "dek": "入境處表示，星期日截至晚上9時入境超過57萬6千人次，羅湖是入境最多人的管制站。"
       }
     }
   ]
