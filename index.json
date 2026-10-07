@@ -1,8 +1,129 @@
 {
-  "generated_at": "2026-10-08T03:15:14+08:00",
+  "generated_at": "2026-10-08T07:05:18+08:00",
   "live_window_hours": 72,
-  "count": 132,
+  "count": 136,
   "articles": [
+    {
+      "id": "2026-10-08-ckb-night-closures",
+      "published_at": "2026-10-08T07:06:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "yau-ma-tei"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-ckb-night-closures.json",
+      "en": {
+        "headline": "Overnight slip-road closures on Central Kowloon Bypass",
+        "dek": "Two Yau Ma Tei slip roads will shut from 12:30am to 5:30am on 8 to 10 October and again on 13 and 14 October."
+      },
+      "zh": {
+        "headline": "中九龍繞道油麻地段支路連夜封閉",
+        "dek": "兩條支路於10月8至10日及13至14日凌晨12時30分至上午5時30分禁止車輛駛入。"
+      }
+    },
+    {
+      "id": "2026-10-08-fire-danger-cancelled",
+      "published_at": "2026-10-08T07:06:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-fire-danger-cancelled.json",
+      "en": {
+        "headline": "Observatory cancels red fire danger warning",
+        "dek": "The warning, raised at 7:45am on Wednesday, was cancelled at 11:15pm. Thursday is forecast mainly fine and dry."
+      },
+      "zh": {
+        "headline": "天文台取消紅色火災危險警告",
+        "dek": "警告於星期三早上7時45分發出，晚上11時15分取消。星期四大致天晴乾燥。"
+      }
+    },
+    {
+      "id": "2026-10-08-illicit-fuel-crackdown",
+      "published_at": "2026-10-08T07:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "smuggling"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-illicit-fuel-crackdown.json",
+      "en": {
+        "headline": "Customs and firefighters seize 30,000 litres of illicit fuel",
+        "dek": "A joint operation from 16 to 30 September broke seven cases, with nine people arrested and eight vehicles seized."
+      },
+      "zh": {
+        "headline": "海關消防聯合行動檢約3萬公升非法燃油",
+        "dek": "代號「擊破」的行動於9月16日至30日進行，偵破7案，拘捕9人並檢獲8輛車。"
+      }
+    },
+    {
+      "id": "2026-10-08-kai-yip-knife-arrest",
+      "published_at": "2026-10-08T07:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "kowloon-bay"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-kai-yip-knife-arrest.json",
+      "en": {
+        "headline": "Police arrest man after knife report at Kowloon Bay market",
+        "dek": "Officers stopped a Route 1A bus near Choi Hung and seized a knife about 32 centimetres long from a 46-year-old man."
+      },
+      "zh": {
+        "headline": "啟業街市持刀報案 警方彩虹截巴士拘捕男子",
+        "dek": "人員在太子道東近彩虹邨截停1A巴士，在一名46歲男子的斜孭袋內檢獲約32厘米長刀。"
+      }
+    },
+    {
+      "id": "2026-10-08-lifestyle-westk-picnic-fest",
+      "published_at": "2026-10-08T07:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "west-kowloon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-lifestyle-westk-picnic-fest.json",
+      "en": {
+        "headline": "WestK picnic series holds its last weekend at Art Park",
+        "dek": "The West Kowloon Cultural District's picnic programme returns from 2pm to 9pm on Friday, Saturday and Sunday, and ends on 11 October."
+      },
+      "zh": {
+        "headline": "西九野餐祭本周末最後一輪在藝術公園舉行",
+        "dek": "西九文化區表示，野餐祭星期五至日下午2時至9時在藝術公園海濱東草坪舉行，系列於11日結束。"
+      }
+    },
+    {
+      "id": "2026-10-08-queen-mary-lift-reports",
+      "published_at": "2026-10-08T07:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "health",
+        "hospital"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-queen-mary-lift-reports.json",
+      "en": {
+        "headline": "Development Bureau reviewing Queen Mary lift reports",
+        "dek": "The bureau said it had received reports from the electrical and buildings departments and aimed to brief the Chief Executive in mid-October."
+      },
+      "zh": {
+        "headline": "發展局正審視瑪麗醫院升降機調查報告",
+        "dek": "局方稱已收到機電工程署及建築署報告，目標10月中向行政長官提交調查報告。"
+      }
+    },
     {
       "id": "2026-10-08-customs-pharma-seizure",
       "published_at": "2026-10-08T03:14:00+08:00",
@@ -2694,50 +2815,6 @@
       "zh": {
         "headline": "東北季候風影響沿岸 今早大部分地區低約兩度",
         "dek": "天文台表示，與冷鋒相關的東北季候風正影響廣東沿岸，星期一氣溫約25至31度，清晨沒有天氣警告生效。"
-      }
-    },
-    {
-      "id": "2026-10-05-lifestyle-coffee-voyage-taikoo",
-      "published_at": "2026-10-05T03:18:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "coffee",
-        "taikoo"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-lifestyle-coffee-voyage-taikoo.json",
-      "en": {
-        "headline": "Coffee festival shifts to Taikoo after Star Street run",
-        "dek": "Swire Properties says Coffee Voyage moves to Taikoo from Thursday to Sunday after a four-day weekend in Wan Chai."
-      },
-      "zh": {
-        "headline": "星街咖啡節結束 周四起移師太古",
-        "dek": "太古地產表示，「悠遊咖期」國慶周末在灣仔星街舉行後，周四至周日改到太古繼續。"
-      }
-    },
-    {
-      "id": "2026-10-05-lifestyle-mplus-cinema-autumn",
-      "published_at": "2026-10-05T03:18:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "film",
-        "exhibition",
-        "west-kowloon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-lifestyle-mplus-cinema-autumn.json",
-      "en": {
-        "headline": "M+ autumn cinema season screens Mark Lee films",
-        "dek": "The West Kowloon museum says its October-to-December cinema edition is on sale, led by a ten-film tribute to cinematographer Mark Lee Ping-bing."
-      },
-      "zh": {
-        "headline": "M+秋季電影節放映李屏賓作品",
-        "dek": "西九M+表示，10月至12月的電影季主要節目已公開售票，主軸是攝影師李屏賓的十部作品回顧。"
       }
     }
   ]
