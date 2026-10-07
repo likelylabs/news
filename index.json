@@ -1,8 +1,110 @@
 {
-  "generated_at": "2026-10-07T07:55:54+08:00",
+  "generated_at": "2026-10-07T09:16:33+08:00",
   "live_window_hours": 72,
-  "count": 121,
+  "count": 123,
   "articles": [
+    {
+      "id": "2026-10-07-ec-labour-slates",
+      "published_at": "2026-10-07T09:12:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "election",
+        "labour"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-ec-labour-slates.json",
+      "en": {
+        "headline": "Unions name labour slates as Election Committee nominations open",
+        "dek": "The Federation of Trade Unions is fielding 46 candidates and the Federation of Labour Unions 12 for the 60 elected labour seats."
+      },
+      "zh": {
+        "headline": "工聯會派46人、勞聯派12人參選選委會勞工界",
+        "dek": "選委會界別分組選舉提名期周三開始。工聯會名單包括去年立法會選舉未能連任的郭偉強及陸頌雄。"
+      }
+    },
+    {
+      "id": "2026-10-07-lifestyle-mid-autumn-lanterns",
+      "published_at": "2026-10-07T09:12:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "tourism",
+        "causeway-bay"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-lifestyle-mid-autumn-lanterns.json",
+      "en": {
+        "headline": "Victoria Park lantern display lights up for a final night",
+        "dek": "The Tourism Board's International Mid-Autumn Lantern Spectacular, extended through the National Day holiday, ends on Wednesday, with lights from 6.30pm to 11pm."
+      },
+      "zh": {
+        "headline": "維園國際中秋綵燈匯今晚最後一夜亮燈",
+        "dek": "旅發局展覽延長至周三，涵蓋國慶假期，亮燈時間為下午6時半至晚上11時。康文署維園中秋綵燈會展期同樣延至今日。"
+      }
+    },
+    {
+      "id": "2026-10-07-on-pak-court-repairs",
+      "published_at": "2026-10-07T09:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "public-housing",
+        "kwun-tong",
+        "housing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-on-pak-court-repairs.json",
+      "en": {
+        "headline": "Housing Department says On Pak Court repairs are past 80 per cent",
+        "dek": "The Anderson Road Home Ownership Scheme estate, the department's first modular project, is aiming to finish expanded paint work by mid-October."
+      },
+      "zh": {
+        "headline": "房署指安柏苑外牆修繕已完成逾八成",
+        "dek": "觀塘安達臣道居屋安柏苑是房屋署首個組裝合成居屋項目，署方稱承建商正爭取10月中旬前完成已擴大範圍的油漆修繕。"
+      }
+    },
+    {
+      "id": "2026-10-07-red-fire-danger-warning",
+      "published_at": "2026-10-07T09:12:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "fire-danger"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-red-fire-danger-warning.json",
+      "en": {
+        "headline": "Observatory issues red fire danger warning",
+        "dek": "The warning, raised at 7.45am, means the fire risk is extreme. At 8am the Observatory recorded 24 degrees and humidity of 55 per cent."
+      },
+      "zh": {
+        "headline": "天文台發出紅色火災危險警告 火險極高",
+        "dek": "警告於周三上午7時45分發出並持續生效，表示火災危險性極高。上午8時天文台錄得24度，相對濕度55%。"
+      }
+    },
+    {
+      "id": "2026-10-07-sndas-nominations-open",
+      "published_at": "2026-10-07T09:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "schools"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-sndas-nominations-open.json",
+      "en": {
+        "headline": "School nomination scheme for university places opens today",
+        "dek": "The Education Bureau scheme runs until 2 December. Each local secondary school may nominate two students for one of more than 300 funded programmes."
+      },
+      "zh": {
+        "headline": "學校推薦直接錄取計劃今起接受提名",
+        "dek": "教育局第六屆計劃提名期至12月2日。每間本地中學可推薦最多兩名中六生，報讀逾300個教資會資助課程之一。"
+      }
+    },
     {
       "id": "2026-10-07-boundary-street-cyclist-crash",
       "published_at": "2026-10-07T07:05:00+08:00",
@@ -2458,70 +2560,6 @@
       "zh": {
         "headline": "六旬婦報稱虛擬貨幣投資被騙2150萬",
         "dek": "警方指她周六報案，4月至9月多次轉帳，平台曾要求交保證金以證明帳戶未涉洗黑錢。"
-      }
-    },
-    {
-      "id": "2026-10-04-golden-week-inbound-peak",
-      "published_at": "2026-10-04T09:14:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "immigration",
-        "golden-week",
-        "border"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-golden-week-inbound-peak.json",
-      "en": {
-        "headline": "Immigration expects Sunday land-border inbound peak",
-        "dek": "The Immigration Department forecast about 586,000 land-border arrivals today, the busiest inbound day in its Golden Week plan."
-      },
-      "zh": {
-        "headline": "入境處料周日為陸路入境高峰",
-        "dek": "入境處預計今日陸路入境約58.6萬人次，是國慶黃金周計劃中最繁忙的入境日。"
-      }
-    },
-    {
-      "id": "2026-10-04-kai-tak-hospital-bookings",
-      "published_at": "2026-10-04T09:14:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "kai-tak",
-        "hospital",
-        "hospital-authority"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-kai-tak-hospital-bookings.json",
-      "en": {
-        "headline": "Kai Tak Hospital family clinic bookings open this morning",
-        "dek": "The Hospital Authority said patients can book the new Kai Tak family medicine clinic from this morning, ahead of Monday's opening."
-      },
-      "zh": {
-        "headline": "啟德醫院家庭醫學診所今早開始預約",
-        "dek": "醫管局表示，啟德醫院家庭醫學綜合中心周一開診，市民由今早起可經HA Go或電話預約偶發性疾病診症。"
-      }
-    },
-    {
-      "id": "2026-10-04-lifestyle-asiaplus-sonic-odyssey",
-      "published_at": "2026-10-04T09:14:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "cultural-centre",
-        "exhibition",
-        "asia-plus"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-lifestyle-asiaplus-sonic-odyssey.json",
-      "en": {
-        "headline": "Cultural Centre foyer hosts free Asia+ music-box show",
-        "dek": "The Leisure and Cultural Services Department is listing the Asia+ Festival exhibition at the Cultural Centre foyer, with free entry."
-      },
-      "zh": {
-        "headline": "文化中心大堂展出亞藝無疆音樂盒裝置",
-        "dek": "康文署今日節目表列出亞藝無疆專題展覽在香港文化中心大堂展出，免費入場。"
       }
     }
   ]
