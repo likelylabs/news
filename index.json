@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-10-07T13:12:36+08:00",
+  "generated_at": "2026-10-07T15:11:24+08:00",
   "live_window_hours": 72,
-  "count": 126,
+  "count": 122,
   "articles": [
+    {
+      "id": "2026-10-07-huanggang-port-transport",
+      "published_at": "2026-10-07T15:12:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "boundary",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-huanggang-port-transport.json",
+      "en": {
+        "headline": "Transport Department sets Huanggang bus and taxi plans",
+        "dek": "The rebuilt crossing will run around the clock, with seven franchised bus routes, a public-transport buffer and a ticket system for taxis."
+      },
+      "zh": {
+        "headline": "運輸署交代新皇崗口岸巴士及的士安排",
+        "dek": "重建口岸將24小時運作，設7條專營巴士線及公交緩衝區。空載的士須先取籌，後備巴士約兩分鐘可到上客區。"
+      }
+    },
+    {
+      "id": "2026-10-07-hui-lbma-gold-standards",
+      "published_at": "2026-10-07T15:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "government",
+        "markets",
+        "gold"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-hui-lbma-gold-standards.json",
+      "en": {
+        "headline": "Hui says talks continue on London gold delivery standards",
+        "dek": "The treasury secretary told a Sorrento conference that an Asian forum with the London association is set for Hong Kong next April."
+      },
+      "zh": {
+        "headline": "許正宇：正與倫敦金銀市場協會談合格交割標準",
+        "dek": "財庫局局長在意大利索倫托表示，若合作落實，有助把國際認可標準融入本港黃金市場基建。亞洲論壇訂明年4月在港合辦。"
+      }
+    },
+    {
+      "id": "2026-10-07-mortgage-fraud-arrests",
+      "published_at": "2026-10-07T15:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-mortgage-fraud-arrests.json",
+      "en": {
+        "headline": "Police hold four over alleged 70 million dollar mortgage fraud",
+        "dek": "Commercial crime officers said three men and a woman were arrested on Tuesday over fake payroll records used to obtain loans on one flat."
+      },
+      "zh": {
+        "headline": "商罪科拘4人 涉以假出糧紀錄騙取逾7000萬元按揭",
+        "dek": "警方稱周二拘捕3男1女，涉嫌為一個住宅物業向三間金融機構申請按揭，並以空殼公司製造虛假出糧紀錄。"
+      }
+    },
     {
       "id": "2026-10-07-hang-seng-midday",
       "published_at": "2026-10-07T13:20:00+08:00",
@@ -2477,153 +2539,6 @@
       "zh": {
         "headline": "馬會向亞運獎牌得主發放3750萬元獎金",
         "dek": "港台報道，超過110名獎牌得主將透過賽馬會優秀運動員獎勵計劃分享這筆獎金，較杭州亞運多500萬元。"
-      }
-    },
-    {
-      "id": "2026-10-04-chan-ipo-golden-week",
-      "published_at": "2026-10-04T15:08:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "ipo",
-        "golden-week",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-chan-ipo-golden-week.json",
-      "en": {
-        "headline": "Chan says IPO haul tops HK$388 billion in nine months",
-        "dek": "The financial secretary also said Golden Week's first three days brought more than 732,000 mainland visitor arrivals, up about 8.4%."
-      },
-      "zh": {
-        "headline": "陳茂波：首九個月新股集資逾3880億元",
-        "dek": "財政司長在網誌指，集資額按年多一倍並超越去年全年；黃金周首三日內地旅客逾73.2萬人次，按年增約8.4%。"
-      }
-    },
-    {
-      "id": "2026-10-04-shing-mun-monkey-injury",
-      "published_at": "2026-10-04T15:08:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tsuen-wan",
-        "hiking",
-        "wildlife"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-shing-mun-monkey-injury.json",
-      "en": {
-        "headline": "Hiker injured by monkey at Shing Mun Reservoir",
-        "dek": "Police were called at 11:16am after a woman in her 30s was hurt on the hand while hiking near Pineapple Dam and taken to Yan Chai Hospital."
-      },
-      "zh": {
-        "headline": "城門水塘行山女子遭猴子傷手送院",
-        "dek": "警方上午11時16分接報，一名30餘歲女子在菠蘿壩附近行山時手部受傷流血，清醒送往仁濟醫院。"
-      }
-    },
-    {
-      "id": "2026-10-04-thunderstorm-warning-extended",
-      "published_at": "2026-10-04T15:08:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "thunderstorm",
-        "warning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-thunderstorm-warning-extended.json",
-      "en": {
-        "headline": "Thunderstorm warning extended until 5pm, Observatory says",
-        "dek": "The warning issued at 1:03pm remains in force until 5pm, after lightning over the New Territories and isolated showers."
-      },
-      "zh": {
-        "headline": "雷暴警告延長至下午5時 新界有閃電",
-        "dek": "天文台下午2時31分的天氣報告指，下午1時03分發出的雷暴警告有效至下午5時，新界東西早前錄得閃電。"
-      }
-    },
-    {
-      "id": "2026-10-04-workweek-weather-outlook",
-      "published_at": "2026-10-04T15:08:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "forecast",
-        "monsoon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-workweek-weather-outlook.json",
-      "en": {
-        "headline": "Observatory outlook: cooler mornings, then a drier work week",
-        "dek": "A northeast monsoon replenishment is due tonight, with showers easing and mornings turning slightly cooler before clearer, drier days later in the week."
-      },
-      "zh": {
-        "headline": "天文台展望：本周早上稍涼 後期轉晴乾燥",
-        "dek": "東北季候風補充今晚抵達廣東沿岸，未來數日風勢較大、驟雨減少，早上稍涼，本周後期大致天晴乾燥。"
-      }
-    },
-    {
-      "id": "2026-10-04-foreign-carer-trial",
-      "published_at": "2026-10-04T13:22:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "labour",
-        "elderly",
-        "helpers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-foreign-carer-trial.json",
-      "en": {
-        "headline": "Sun says foreign carer trial to start in second half of next year",
-        "dek": "The labour chief said the first intake would be several hundred people, each trained for more than 150 hours."
-      },
-      "zh": {
-        "headline": "孫玉菡：外籍家居照顧員擬明年下半年試行",
-        "dek": "勞福局局長說初期引入數百人，須在原居地接受逾150小時培訓。"
-      }
-    },
-    {
-      "id": "2026-10-04-hk-airlines-okinawa-return",
-      "published_at": "2026-10-04T13:22:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "aviation",
-        "airport",
-        "hong-kong-airlines"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-hk-airlines-okinawa-return.json",
-      "en": {
-        "headline": "Hong Kong Airlines Okinawa flight returns after gear alert",
-        "dek": "HX676 landed safely with no injuries, and the airline arranged another flight for 160 passengers."
-      },
-      "zh": {
-        "headline": "香港航空沖繩航班疑起落架未收妥折返",
-        "dek": "HX676安全降落，機上無人受傷，航空公司已為160名旅客安排替代航班。"
-      }
-    },
-    {
-      "id": "2026-10-04-thunderstorm-warning-afternoon",
-      "published_at": "2026-10-04T13:22:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "observatory",
-        "thunderstorm",
-        "weather"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-thunderstorm-warning-afternoon.json",
-      "en": {
-        "headline": "Observatory issues afternoon thunderstorm warning",
-        "dek": "The warning was issued at 1:03pm and set to last until 3pm, with localised thunderstorms expected."
-      },
-      "zh": {
-        "headline": "天文台下午一時發出雷暴警告",
-        "dek": "警告有效至下午三時，預料本港有局部地區雷暴。"
       }
     }
   ]
