@@ -1,8 +1,113 @@
 {
-  "generated_at": "2026-10-07T17:12:44+08:00",
+  "generated_at": "2026-10-07T19:05:59+08:00",
   "live_window_hours": 72,
-  "count": 125,
+  "count": 130,
   "articles": [
+    {
+      "id": "2026-10-07-etomidate-record-seizure",
+      "published_at": "2026-10-07T19:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "drugs",
+        "lai-chi-kok"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-etomidate-record-seizure.json",
+      "en": {
+        "headline": "Police seize record 31 million dollars of etomidate powder",
+        "dek": "Officers found about 25 kilograms of suspected etomidate in a Lai Chi Kok unit disguised as a logistics office and arrested two men."
+      },
+      "zh": {
+        "headline": "警搗荔枝角工廈毒品倉 檢獲歷來最多依托咪酯",
+        "dek": "毒品調查科在荔枝角一個偽裝成物流公司辦公室的單位，檢獲約25公斤懷疑依托咪酯粉末，市值逾3100萬元，兩名男子被捕。"
+      }
+    },
+    {
+      "id": "2026-10-07-hstech-index-reform",
+      "published_at": "2026-10-07T19:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hang-seng",
+        "stocks",
+        "technology"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-hstech-index-reform.json",
+      "en": {
+        "headline": "Hang Seng Tech Index to expand to 50 stocks in December",
+        "dek": "Hang Seng Indexes Company said each proposal in its consultation drew support from more than 80 per cent of respondents."
+      },
+      "zh": {
+        "headline": "科指成份股增至50隻 12月7日生效",
+        "dek": "恒指公司公布諮詢結果，每項建議均獲逾八成回應單位支持，將採納大部分修訂，並於11月20日季檢公布成份股變動。"
+      }
+    },
+    {
+      "id": "2026-10-07-illegal-guide-jail",
+      "published_at": "2026-10-07T19:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "immigration",
+        "illegal-work",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-illegal-guide-jail.json",
+      "en": {
+        "headline": "One illegal guide jailed 54 days after undercover booking",
+        "dek": "Immigration officers and the Travel Industry Council posed as customers and arrested two mainland visitors offering guide and photo services."
+      },
+      "zh": {
+        "headline": "入境處放蛇拘兩名非法導遊 一人判囚54日",
+        "dek": "入境處聯同旅監局喬裝顧客，拘捕兩名來港提供導遊及攝影服務的內地旅客，其中一人在沙田裁判法院認罪，判囚54日。"
+      }
+    },
+    {
+      "id": "2026-10-07-presale-consents-q3",
+      "published_at": "2026-10-07T19:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "property",
+        "lands-department",
+        "housing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-presale-consents-q3.json",
+      "en": {
+        "headline": "Lands Department clears nine presale consents for 3,766 flats",
+        "dek": "Eight of the third-quarter consents cover phased projects in Kai Tak, Chai Wan, Cheung Sha Wan, Yau Tong, Tai Po and To Kwa Wan."
+      },
+      "zh": {
+        "headline": "地政總署上季批出9份預售同意書 涉3766伙",
+        "dek": "第3季批出的住宅預售樓花同意書涵蓋啟德、柴灣、長沙灣、油塘、大埔及土瓜灣，其中3226伙預計2028年落成。"
+      }
+    },
+    {
+      "id": "2026-10-07-tvb-health-programme-advice",
+      "published_at": "2026-10-07T19:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "broadcasting",
+        "health",
+        "tvb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-tvb-health-programme-advice.json",
+      "en": {
+        "headline": "Watchdog issues strong advice over TVB health programme",
+        "dek": "The Communications Authority upheld 10 complaints about claims on a March TVB Plus show and urged the station to follow the programme code."
+      },
+      "zh": {
+        "headline": "通訊局就TVB健康節目發強烈勸諭",
+        "dek": "通訊局接獲10宗投訴，指TVB Plus三月播出的節目含可能不準確及有誤導風險的健康建議，裁定投訴成立。"
+      }
+    },
     {
       "id": "2026-10-07-anti-triad-operation",
       "published_at": "2026-10-07T17:12:00+08:00",
