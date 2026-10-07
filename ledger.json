@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-07T17:12:44+08:00",
+  "updated_at": "2026-10-07T19:20:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "etomidate-record-seizure-oct7",
+      "id": "2026-10-07-etomidate-record-seizure",
+      "first_seen": "2026-10-07T19:20:00+08:00",
+      "headline_en": "Police seize record 31 million dollars of etomidate powder"
+    },
+    {
+      "key": "illegal-guide-jail-oct7",
+      "id": "2026-10-07-illegal-guide-jail",
+      "first_seen": "2026-10-07T19:20:00+08:00",
+      "headline_en": "One illegal guide jailed 54 days after undercover booking"
+    },
+    {
+      "key": "hstech-index-reform-oct7",
+      "id": "2026-10-07-hstech-index-reform",
+      "first_seen": "2026-10-07T19:20:00+08:00",
+      "headline_en": "Hang Seng Tech Index to expand to 50 stocks in December"
+    },
+    {
+      "key": "tvb-health-programme-advice-oct7",
+      "id": "2026-10-07-tvb-health-programme-advice",
+      "first_seen": "2026-10-07T19:20:00+08:00",
+      "headline_en": "Watchdog issues strong advice over TVB health programme"
+    },
+    {
+      "key": "presale-consents-q3-oct7",
+      "id": "2026-10-07-presale-consents-q3",
+      "first_seen": "2026-10-07T19:20:00+08:00",
+      "headline_en": "Lands Department clears nine presale consents for 3,766 flats"
+    },
     {
       "key": "tung-chung-site-death-oct7",
       "id": "2026-10-07-tung-chung-site-death",
