@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-07T15:13:49+08:00",
+  "updated_at": "2026-10-07T17:12:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "tung-chung-site-death-oct7",
+      "id": "2026-10-07-tung-chung-site-death",
+      "first_seen": "2026-10-07T17:12:00+08:00",
+      "headline_en": "Worker dies after fall at Tung Chung construction site"
+    },
+    {
+      "key": "hang-seng-close-oct7",
+      "id": "2026-10-07-hang-seng-close",
+      "first_seen": "2026-10-07T17:12:00+08:00",
+      "headline_en": "Hang Seng closes 150 points lower, ending a two-day rise"
+    },
+    {
+      "key": "judicial-pay-rise-oct7",
+      "id": "2026-10-07-judicial-pay-rise",
+      "first_seen": "2026-10-07T17:12:00+08:00",
+      "headline_en": "Judges and judicial officers to receive a 2 per cent pay rise"
+    },
+    {
+      "key": "sim-card-name-misuse-oct7",
+      "id": "2026-10-07-sim-card-fraud-measures",
+      "first_seen": "2026-10-07T17:12:00+08:00",
+      "headline_en": "Yau says misuse of another person's name on SIM cards will be criminalised"
+    },
+    {
+      "key": "anti-triad-flowing-shade-oct7",
+      "id": "2026-10-07-anti-triad-operation",
+      "first_seen": "2026-10-07T17:12:00+08:00",
+      "headline_en": "Police arrest 89 in three-day anti-triad operation"
+    },
     {
       "key": "hui-lbma-gold-standards-oct7",
       "id": "2026-10-07-hui-lbma-gold-standards",
