@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-07T21:05:20+08:00",
+  "updated_at": "2026-10-07T23:18:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "kwun-tong-tsui-ping-fire-oct7",
+      "id": "2026-10-07-tsui-ping-north-fire",
+      "first_seen": "2026-10-07T23:18:00+08:00",
+      "headline_en": "Firefighters rescue boy, 13, from Kwun Tong flat fire"
+    },
+    {
+      "key": "french-camembert-recall-oct7",
+      "id": "2026-10-07-camembert-recall",
+      "first_seen": "2026-10-07T23:18:00+08:00",
+      "headline_en": "Centre warns against French Camembert over bacteria risk"
+    },
+    {
+      "key": "anta-puma-stake-completion-oct7",
+      "id": "2026-10-07-anta-puma-stake",
+      "first_seen": "2026-10-07T23:18:00+08:00",
+      "headline_en": "Anta completes purchase of 29 per cent stake in Puma"
+    },
     {
       "key": "crash-for-cash-further-arrests-oct7",
       "id": "2026-10-07-crash-for-cash-arrests",
