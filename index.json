@@ -1,8 +1,108 @@
 {
-  "generated_at": "2026-10-07T15:13:49+08:00",
+  "generated_at": "2026-10-07T17:12:44+08:00",
   "live_window_hours": 72,
-  "count": 122,
+  "count": 125,
   "articles": [
+    {
+      "id": "2026-10-07-anti-triad-operation",
+      "published_at": "2026-10-07T17:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "drugs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-anti-triad-operation.json",
+      "en": {
+        "headline": "Police arrest 89 in three-day anti-triad operation",
+        "dek": "Officers said the operation, codenamed Flowing Shade, ran from Sunday to Tuesday and seized etomidate, methamphetamine and cocaine."
+      },
+      "zh": {
+        "headline": "警方三日反黑行動拘捕89人 檢獲依托咪酯及可卡因",
+        "dek": "有組織罪案及三合會調查科稱，代號「逸影」的行動於周日至今早展開，檢獲依托咪酯、冰毒及可卡因。"
+      }
+    },
+    {
+      "id": "2026-10-07-hang-seng-close",
+      "published_at": "2026-10-07T17:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "markets",
+        "hang-seng"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-hang-seng-close.json",
+      "en": {
+        "headline": "Hang Seng closes 150 points lower, ending a two-day rise",
+        "dek": "The index finished at 24,130, down 0.62 per cent, after touching 24,071. The property sub-index rose 1 per cent."
+      },
+      "zh": {
+        "headline": "恒指收市跌150點 結束連升兩日",
+        "dek": "恒指收報24130點，跌0.62%，盤中低見24071點。地產分類指數則升1%。"
+      }
+    },
+    {
+      "id": "2026-10-07-judicial-pay-rise",
+      "published_at": "2026-10-07T17:12:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "government",
+        "judiciary"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-judicial-pay-rise.json",
+      "en": {
+        "headline": "Judges and judicial officers to receive a 2 per cent pay rise",
+        "dek": "The Executive Council accepted the standing committee's advice. The increase is backdated to 1 April and still needs Finance Committee approval."
+      },
+      "zh": {
+        "headline": "法官及司法人員薪酬上調2% 追溯至4月1日",
+        "dek": "行政會議接納司法人員薪常會建議，調整追溯至今年4月1日，仍須立法會財委會批准。"
+      }
+    },
+    {
+      "id": "2026-10-07-sim-card-fraud-measures",
+      "published_at": "2026-10-07T17:12:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "government",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-sim-card-fraud-measures.json",
+      "en": {
+        "headline": "Yau says misuse of another person's name on SIM cards will be criminalised",
+        "dek": "The commerce secretary told lawmakers the government is also considering a lower cap on prepaid cards a person may register."
+      },
+      "zh": {
+        "headline": "丘應樺：擬將不當用他人名義登記電話卡刑事化",
+        "dek": "商務及經濟發展局局長書面回覆立法會，指政府亦正考慮降低個人可登記儲值卡的數量上限。"
+      }
+    },
+    {
+      "id": "2026-10-07-tung-chung-site-death",
+      "published_at": "2026-10-07T17:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "tung-chung"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-07/2026-10-07-tung-chung-site-death.json",
+      "en": {
+        "headline": "Worker dies after fall at Tung Chung construction site",
+        "dek": "Police said a 30-year-old man fell onto a platform at a Wui Tung Street site on Wednesday afternoon and was later certified dead at North Lantau Hospital."
+      },
+      "zh": {
+        "headline": "東涌匯東街地盤工人高處墮下 送院後不治",
+        "dek": "警方稱一名30歲男工周三下午在匯東街地盤墮下至平台，送北大嶼山醫院搶救，約下午2時半證實死亡。"
+      }
+    },
     {
       "id": "2026-10-07-huanggang-port-transport",
       "published_at": "2026-10-07T15:12:00+08:00",
@@ -2497,48 +2597,6 @@
       "zh": {
         "headline": "新界東北堆填區擴建部分今日全面啟用",
         "dek": "環保署宣布，擴建部分星期日全面啟用，接替原有堆填區；原址將於本年稍後停運並進行修復。"
-      }
-    },
-    {
-      "id": "2026-10-04-asian-games-final-tally",
-      "published_at": "2026-10-04T17:12:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "sport",
-        "medals"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-asian-games-final-tally.json",
-      "en": {
-        "headline": "Hong Kong ends Asian Games with 11 golds and 54 medals",
-        "dek": "The delegation finished with 11 gold, 19 silver and 24 bronze, its best gold and medal totals at an Asian Games, RTHK reported."
-      },
-      "zh": {
-        "headline": "港隊亞運閉幕合計11金54牌 金銀銅皆歷屆最多",
-        "dek": "港台報道，代表團今屆以11金19銀24銅作結，合共54面獎牌，金牌及獎牌總數同為歷屆亞運最佳。"
-      }
-    },
-    {
-      "id": "2026-10-04-hkjc-asian-games-bonus",
-      "published_at": "2026-10-04T17:12:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "jockey-club",
-        "sport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-04/2026-10-04-hkjc-asian-games-bonus.json",
-      "en": {
-        "headline": "Jockey Club to pay HK$37.5 million in Asian Games bonuses",
-        "dek": "More than 110 medallists will share the sum under the club's athlete incentive scheme, HK$5 million more than after Hangzhou."
-      },
-      "zh": {
-        "headline": "馬會向亞運獎牌得主發放3750萬元獎金",
-        "dek": "港台報道，超過110名獎牌得主將透過賽馬會優秀運動員獎勵計劃分享這筆獎金，較杭州亞運多500萬元。"
       }
     }
   ]
