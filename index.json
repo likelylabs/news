@@ -1,8 +1,92 @@
 {
-  "generated_at": "2026-10-08T11:10:35+08:00",
+  "generated_at": "2026-10-08T13:14:04+08:00",
   "live_window_hours": 72,
-  "count": 134,
+  "count": 138,
   "articles": [
+    {
+      "id": "2026-10-08-fake-official-arrest",
+      "published_at": "2026-10-08T13:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "fraud",
+        "scam"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-fake-official-arrest.json",
+      "en": {
+        "headline": "Police hold woman, 22, over fake official deposit scam",
+        "dek": "Officers say she showed a fake police warrant card and is linked to eight cases, after one victim transferred nearly 650,000 dollars."
+      },
+      "zh": {
+        "headline": "假扮入境處及公安收保證金 22歲女被捕",
+        "dek": "西九龍重案組表示，女子涉嫌出示偽造警察委任證，涉及8宗案件，其中一宗事主轉帳近65萬元。"
+      }
+    },
+    {
+      "id": "2026-10-08-hang-seng-midday",
+      "published_at": "2026-10-08T13:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hang-seng",
+        "markets",
+        "stocks"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-hang-seng-midday.json",
+      "en": {
+        "headline": "Hang Seng slips below 24,000 at the Thursday midday close",
+        "dek": "The index was down 167 points at 23,963 by midday, according to RTHK, with turnover above 100 billion dollars."
+      },
+      "zh": {
+        "headline": "恒指半日失守24000點 跌167點",
+        "dek": "港台報道，恒指午市報23963點，跌167點，跌幅約百分之0.7，半日成交逾1000億元。"
+      }
+    },
+    {
+      "id": "2026-10-08-hk-fifa-ranking",
+      "published_at": "2026-10-08T13:15:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "football",
+        "fifa",
+        "hk-team"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-hk-fifa-ranking.json",
+      "en": {
+        "headline": "Hong Kong rise three places to 153rd in FIFA ranking",
+        "dek": "The latest men's ranking, published on 7 October, puts Hong Kong on 1,035.23 points after a gain credited to the match against Cambodia."
+      },
+      "zh": {
+        "headline": "FIFA排名港隊升3位至第153",
+        "dek": "國際足協7日公布最新男足排名，港隊積1035.23分，上升得益於對柬埔寨一仗，港台周四報道有關排名。"
+      }
+    },
+    {
+      "id": "2026-10-08-sau-mau-ping-arrest",
+      "published_at": "2026-10-08T13:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "sau-mau-ping",
+        "kwun-tong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-sau-mau-ping-arrest.json",
+      "en": {
+        "headline": "Reports say police arrest man, 66, over Sau Mau Ping paint attack",
+        "dek": "Hong Kong 01 and Sing Tao, citing sources, say a 66-year-old estate resident was held over red paint thrown at two lawmakers' joint office."
+      },
+      "zh": {
+        "headline": "消息指秀茂坪淋紅油案 警方拘捕66歲男子",
+        "dek": "《香港01》及星島引述消息稱，一名66歲邨內居民涉向兩名議員聯合辦事處淋紅油，已被拘捕，案件列刑事毀壞。"
+      }
+    },
     {
       "id": "2026-10-08-golden-week-mainland-arrivals",
       "published_at": "2026-10-08T11:09:00+08:00",
