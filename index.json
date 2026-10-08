@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-10-08T09:16:41+08:00",
+  "generated_at": "2026-10-08T11:10:35+08:00",
   "live_window_hours": 72,
-  "count": 137,
+  "count": 134,
   "articles": [
+    {
+      "id": "2026-10-08-golden-week-mainland-arrivals",
+      "published_at": "2026-10-08T11:09:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "tourism",
+        "golden-week",
+        "immigration"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-golden-week-mainland-arrivals.json",
+      "en": {
+        "headline": "Mainland arrivals pass golden week forecast in six days",
+        "dek": "Immigration Department figures put mainland visitor arrivals at 1.3 million in the first six days, above the 1.29 million forecast for the full holiday."
+      },
+      "zh": {
+        "headline": "內地訪港六日已超黃金周預測",
+        "dek": "入境處數字顯示，國慶假期首六日內地旅客達一百三十萬人次，高於整周一百二十九萬的預測，按年升百分之十一點六。"
+      }
+    },
+    {
+      "id": "2026-10-08-huanggang-bus-fare-proposal",
+      "published_at": "2026-10-08T11:09:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "huanggang",
+        "bus",
+        "cross-border"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-huanggang-bus-fare-proposal.json",
+      "en": {
+        "headline": "Cross-boundary operator proposes lower Huanggang senior fares",
+        "dek": "Eternal East Bus wants elderly and disabled fares on its Huanggang routes cut toward franchised-bus levels, and hopes to join the two-dollar scheme."
+      },
+      "zh": {
+        "headline": "跨境巴士擬減皇崗長者車費",
+        "dek": "永東直巴希望把來往皇崗的長者及殘疾人士車費減至與專營巴士相若，並爭取納入兩元乘車優惠。"
+      }
+    },
+    {
+      "id": "2026-10-08-lifestyle-hktdc-60-exhibition",
+      "published_at": "2026-10-08T11:09:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "causeway-bay",
+        "wan-chai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-lifestyle-hktdc-60-exhibition.json",
+      "en": {
+        "headline": "Trade council's 60th-anniversary show runs at Times Square",
+        "dek": "The Hong Kong Trade Development Council exhibition in Causeway Bay is open daily until 14 October, with a companion artwork at a Wan Chai tram stop."
+      },
+      "zh": {
+        "headline": "貿發局六十周年展覽銅鑼灣展出",
+        "dek": "展覽在時代廣場地面有蓋廣場舉行，每日開放至十月十四日；灣仔柯布連道電車站另有主題畫作，展至十月二十九日。"
+      }
+    },
+    {
+      "id": "2026-10-08-silva-supreme-sha-tin",
+      "published_at": "2026-10-08T11:09:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "football",
+        "sha-tin",
+        "hk-premier-league"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-silva-supreme-sha-tin.json",
+      "en": {
+        "headline": "David Silva comes out of retirement to join Supreme Sha Tin",
+        "dek": "The former Spain and Manchester City midfielder, 40, is expected in Hong Kong soon for a fitness check before training with the Premier League club."
+      },
+      "zh": {
+        "headline": "施華四十歲復出 加盟港超球會沙田",
+        "dek": "前西班牙及曼城中場施華將抵港接受體能評估，再與球隊訓練，沙田下一仗於十月十八日對香港足球會。"
+      }
+    },
     {
       "id": "2026-10-08-kowloon-city-helper-arrest",
       "published_at": "2026-10-08T09:14:00+08:00",
@@ -2694,150 +2779,6 @@
       "zh": {
         "headline": "私隱公署主動對24/7 Fitness展開循規審查",
         "dek": "個人資料私隱專員公署表示，已要求健身中心交代更衣室發現攝錄鏡頭後採取的保障措施，以及措施是否足以防止類似事件。"
-      }
-    },
-    {
-      "id": "2026-10-05-asian-games-chef-de-mission",
-      "published_at": "2026-10-05T11:09:32+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "sport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-asian-games-chef-de-mission.json",
-      "en": {
-        "headline": "Games chief says Hong Kong sent about 90 fewer athletes",
-        "dek": "Wong Po-kee told RTHK the internal target was only to match Hangzhou, and that the 54-medal haul finished one medal higher."
-      },
-      "zh": {
-        "headline": "黃寶基：今屆亞運少派約90名運動員",
-        "dek": "代表團團長在港台表示，賽前內部目標只是追平杭州成績，最終54面獎牌比上屆多一面。"
-      }
-    },
-    {
-      "id": "2026-10-05-kai-tak-hospital-opens",
-      "published_at": "2026-10-05T11:09:32+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "hospital",
-        "kai-tak"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-kai-tak-hospital-opens.json",
-      "en": {
-        "headline": "Kai Tak Hospital family clinic opens as patients arrive",
-        "dek": "The family medicine centre began service on Monday with about 350 appointments a day, and staff were helping people register after 8:30am."
-      },
-      "zh": {
-        "headline": "啟德醫院家庭醫學中心今早投入服務",
-        "dek": "專科門診大樓一樓的家庭醫學綜合中心星期一開始應診，初期每日約350個名額，早上八時半後已有市民到場登記。"
-      }
-    },
-    {
-      "id": "2026-10-05-mpox-tracing-difficulty",
-      "published_at": "2026-10-05T11:09:32+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "mpox",
-        "chp"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-mpox-tracing-difficulty.json",
-      "en": {
-        "headline": "Health officials say dating apps are hampering mpox tracing",
-        "dek": "The Centre for Health Protection says Hong Kong has logged 29 mpox cases this year, and that about six in ten recent patients met partners through apps."
-      },
-      "zh": {
-        "headline": "歐家榮：交友程式令猴痘追蹤困難",
-        "dek": "衞生防護中心表示本年累計29宗猴痘，八月以來20宗中約六成患者稱透過交友程式尋找陌生性伴侶。"
-      }
-    },
-    {
-      "id": "2026-10-05-hku-northern-metropolis-labs",
-      "published_at": "2026-10-05T09:18:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "hku",
-        "northern-metropolis",
-        "education"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-hku-northern-metropolis-labs.json",
-      "en": {
-        "headline": "HKU research chief seeks lab space in the Northern Metropolis",
-        "dek": "Anderson Shum, vice-president for research since August, told the South China Morning Post the university town could house new dry and wet laboratories."
-      },
-      "zh": {
-        "headline": "港大研究副校長尋北都實驗室空間",
-        "dek": "八月上任的研究副校長沈浩正向《南華早報》表示，大學城可容納大學需要的新乾濕實驗室。"
-      }
-    },
-    {
-      "id": "2026-10-05-lifestyle-disneyland-early-close",
-      "published_at": "2026-10-05T09:18:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "disneyland",
-        "lantau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-lifestyle-disneyland-early-close.json",
-      "en": {
-        "headline": "Three Disneyland lands to close early on 10 and 11 October",
-        "dek": "The park's official calendar says Toy Story Land, Mystic Point and Grizzly Gulch will shut at 6:30pm those evenings for a private event."
-      },
-      "zh": {
-        "headline": "迪士尼三個園區10月10及11日提早關閉",
-        "dek": "樂園官方日曆顯示，反斗奇兵大本營、迷離莊園及灰熊山谷該兩晚6時30分關閉，原因是私人活動。"
-      }
-    },
-    {
-      "id": "2026-10-05-tse-five-year-plan",
-      "published_at": "2026-10-05T09:18:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "five-year-plan",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-tse-five-year-plan.json",
-      "en": {
-        "headline": "Tse says five-year plan avoids rigid targets to ease planned-economy fears",
-        "dek": "The constitutional affairs chief told Sing Tao that only five of 22 indicators are binding, and that the annual policy address is the moment for a small review."
-      },
-      "zh": {
-        "headline": "謝小華：五年規劃不設過死指標 免被指計劃經濟",
-        "dek": "政制及內地事務局局長向《星島》表示，22項主要指標只有5項屬約束性，每年施政報告適合做一次小檢視。"
-      }
-    },
-    {
-      "id": "2026-10-05-weekend-flat-sales",
-      "published_at": "2026-10-05T09:18:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "property",
-        "housing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-weekend-flat-sales.json",
-      "en": {
-        "headline": "Weekend primary sales near 180 as second-hand deals thin out",
-        "dek": "Sing Tao put the two-day first-hand tally near 180, led by 147 units at a southwest Kowloon project, while HK01 said ten major estates recorded five sales."
-      },
-      "zh": {
-        "headline": "周末一手約180宗成交 十大屋苑二手只錄5宗",
-        "dek": "《星島》統計周末一手約180宗，西南九龍叡璟II周六次輪售出147伙；《香港01》引述中原指十大屋苑僅5宗。"
       }
     }
   ]
