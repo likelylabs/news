@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-10-08T19:08:07+08:00",
+  "generated_at": "2026-10-08T21:07:02+08:00",
   "live_window_hours": 72,
-  "count": 132,
+  "count": 134,
   "articles": [
+    {
+      "id": "2026-10-08-ai-liability-taskforce",
+      "published_at": "2026-10-08T21:14:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "legco",
+        "ai",
+        "policy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-ai-liability-taskforce.json",
+      "en": {
+        "headline": "Lam says Justice Bureau will study who pays if AI causes harm",
+        "dek": "The secretary for justice told LegCo a task force will look at liability when an AI product causes damage, alongside guidance for minors."
+      },
+      "zh": {
+        "headline": "林定國：律政司將研究人工智能產品造成損害的法律責任",
+        "dek": "律政司司長在立法會表示，會牽頭成立專責小組，並指針對未成年人的指引同樣重要。"
+      }
+    },
+    {
+      "id": "2026-10-08-anderson-road-demolition",
+      "published_at": "2026-10-08T21:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "building-safety",
+        "kwun-tong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-anderson-road-demolition.json",
+      "en": {
+        "headline": "CK Asset to demolish three Anderson Road towers",
+        "dek": "The Buildings Department has approved plans to take down three of six towers after steel bars departed from the approved drawings."
+      },
+      "zh": {
+        "headline": "長實安達臣道三座大樓拆卸重建 屋宇署已批圖則",
+        "dek": "屋宇署接納其中三幢補救方案，餘下三幢的拆卸圖則已獲批准，但尚未收到展開拆卸的申請。"
+      }
+    },
     {
       "id": "2026-10-08-building-maintenance-fund",
       "published_at": "2026-10-08T19:06:00+08:00",
