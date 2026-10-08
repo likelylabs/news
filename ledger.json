@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-08T23:20:21+08:00",
+  "updated_at": "2026-10-09T01:05:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-pmq-gelato-fest-second-weekend",
+      "id": "2026-10-09-lifestyle-pmq-gelato-fest",
+      "first_seen": "2026-10-09T01:05:00+08:00",
+      "headline_en": "Gelato market returns to PMQ for a second weekend"
+    },
+    {
+      "key": "lifestyle-hannah-pong-pmq-exhibition",
+      "id": "2026-10-09-lifestyle-hannah-pong-exhibition",
+      "first_seen": "2026-10-09T01:05:00+08:00",
+      "headline_en": "Hannah Pong opens first solo show at PMQ"
+    },
     {
       "key": "ec-nominations-day-two-oct8",
       "id": "2026-10-08-ec-nominations-day-two",
