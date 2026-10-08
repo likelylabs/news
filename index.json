@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-08T23:20:21+08:00",
+  "generated_at": "2026-10-09T01:04:03+08:00",
   "live_window_hours": 72,
-  "count": 135,
+  "count": 134,
   "articles": [
+    {
+      "id": "2026-10-09-lifestyle-hannah-pong-exhibition",
+      "published_at": "2026-10-09T01:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "central",
+        "opening",
+        "pmq"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-lifestyle-hannah-pong-exhibition.json",
+      "en": {
+        "headline": "Hannah Pong opens first solo show at PMQ",
+        "dek": "A free body-art exhibition by Hong Kong artist Hannah Pong runs at PMQ unit H303 from 9 to 17 October."
+      },
+      "zh": {
+        "headline": "龐學文首個個展今起在元創方展出",
+        "dek": "人體藝術家龐學文的免費個展於元創方H303舉行，展期由10月9日至17日。"
+      }
+    },
+    {
+      "id": "2026-10-09-lifestyle-pmq-gelato-fest",
+      "published_at": "2026-10-09T01:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "central",
+        "opening",
+        "pmq"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-lifestyle-pmq-gelato-fest.json",
+      "en": {
+        "headline": "Gelato market returns to PMQ for a second weekend",
+        "dek": "Ciao! Gelato Fest opens again at PMQ in Central from Friday to Sunday, with free entry and stalls from 20 makers."
+      },
+      "zh": {
+        "headline": "意式雪糕市集今起再登陸中環元創方",
+        "dek": "Ciao! Gelato Fest 周五至周日在元創方地下舉行，入場免費，約20個品牌設檔。"
+      }
+    },
     {
       "id": "2026-10-08-cheung-hui-high-court-claim",
       "published_at": "2026-10-08T23:22:00+08:00",
@@ -2739,68 +2785,6 @@
       "zh": {
         "headline": "港台推出新媒體平台和吉祥物「電電」",
         "dek": "港台說平台和人工智能吉祥物落實施政報告的相關表述，並向學校免費授權十多套教育及青年節目作教學播放。"
-      }
-    },
-    {
-      "id": "2026-10-05-fireworks-drone-followup",
-      "published_at": "2026-10-05T23:25:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "aviation",
-        "national-day"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-fireworks-drone-followup.json",
-      "en": {
-        "headline": "Aviation department follows up fireworks drone footage",
-        "dek": "The Civil Aviation Department said it is handling a case under its usual procedures after footage appeared to show a drone over Victoria Harbour on National Day."
-      },
-      "zh": {
-        "headline": "民航處跟進疑在維港拍國慶煙花的無人機片段",
-        "dek": "民航處說正按既定程序跟進個案，並重申在限制飛行區操作小型無人機屬進階操作，須事先獲許可。"
-      }
-    },
-    {
-      "id": "2026-10-05-po-pin-chau-monday-visitors",
-      "published_at": "2026-10-05T23:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "sai-kung",
-        "golden-week",
-        "afcd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-po-pin-chau-monday-visitors.json",
-      "en": {
-        "headline": "About 1,200 visited Po Pin Chau section on Monday",
-        "dek": "The Agriculture, Fisheries and Conservation Department said bookings for Tuesday are full, while Sai Kung East campsites logged about 130 tents overnight with no breaches found."
-      },
-      "zh": {
-        "headline": "漁護署：星期一約1200人到訪破邊洲段",
-        "dek": "署方說星期二預約已額滿，星期三仍有名額；西貢東三個營地昨晚約有130個帳篷，未發現違規。"
-      }
-    },
-    {
-      "id": "2026-10-05-shrimp-furazolidone-recall",
-      "published_at": "2026-10-05T23:25:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "food-safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-shrimp-furazolidone-recall.json",
-      "en": {
-        "headline": "Food safety centre orders stop-sale of chilled shrimp batch",
-        "dek": "A pre-packaged sample from a North Point shop contained a trace of a banned veterinary-drug metabolite, and the distributor has started a recall."
-      },
-      "zh": {
-        "headline": "食安中心指令停售一批去腸白蝦仁",
-        "dek": "北角一新鮮糧食店的預先包裝冷藏蝦肉驗出微量禁用獸藥代謝物，分銷商已按指示回收受影響批次。"
       }
     }
   ]
