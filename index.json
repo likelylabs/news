@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-08T13:14:04+08:00",
+  "generated_at": "2026-10-08T15:04:34+08:00",
   "live_window_hours": 72,
   "count": 138,
   "articles": [
+    {
+      "id": "2026-10-08-gold-switch-arrests",
+      "published_at": "2026-10-08T15:02:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "kwun-tong",
+        "theft"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-gold-switch-arrests.json",
+      "en": {
+        "headline": "Police recover gold swapped for fabric softener in Kwun Tong hotel",
+        "dek": "Officers say about 30 kilograms of gold grains, valued at 30 million dollars, were taken from a hotel room and later found in Tai Po."
+      },
+      "zh": {
+        "headline": "觀塘酒店金粒被掉包成柔順劑 警拘兩男起回失金",
+        "dek": "警方表示，約30公斤、值約3000萬元的金粒在酒店房間被偷走，其後在大埔賓館起回，兩名持雙程證男子被扣查。"
+      }
+    },
+    {
+      "id": "2026-10-08-northern-metropolis-debate",
+      "published_at": "2026-10-08T15:02:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "legco",
+        "northern-metropolis",
+        "development"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-northern-metropolis-debate.json",
+      "en": {
+        "headline": "Lawmakers press Northern Metropolis university town in LegCo debate",
+        "dek": "On the second day of the joint debate, Andrew Yao called the university town the main course of the Northern Metropolis, while Ng Wing-ka urged infrastructure first."
+      },
+      "zh": {
+        "headline": "立法會辯北都 姚祖輝稱大學城如主菜",
+        "dek": "五年規劃與施政報告合併辯論進入北部都會區一節，姚祖輝聚焦大學城，吳永嘉則倡基建先行。"
+      }
+    },
+    {
+      "id": "2026-10-08-ns-social-posts-bail",
+      "published_at": "2026-10-08T15:02:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "national-security"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-ns-social-posts-bail.json",
+      "en": {
+        "headline": "National security police bail man and woman over social posts",
+        "dek": "Officers arrested the pair, both 38, in Kwun Tong and Tsim Sha Tsui on Tuesday over an alleged sedition offence, and released them on bail."
+      },
+      "zh": {
+        "headline": "國安處拘一男一女涉社交平台帖文 兩人保釋候查",
+        "dek": "警方周二在觀塘及尖沙咀拘捕兩名38歲男女，涉嫌《維護國家安全條例》第24條，兩人已獲准保釋。"
+      }
+    },
+    {
+      "id": "2026-10-08-victoria-park-dry-goods",
+      "published_at": "2026-10-08T15:02:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "victoria-park",
+        "lunar-new-year",
+        "fehd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-victoria-park-dry-goods.json",
+      "en": {
+        "headline": "Victoria Park stall 1 lets for 34,000 dollars, down on last year",
+        "dek": "Now News said the large dry-goods pitch that fetched about 50,000 dollars last year went for 34,000 dollars on the second auction day."
+      },
+      "zh": {
+        "headline": "維園年宵1號乾貨檔以3.4萬元成交 低過去年",
+        "dek": "Now新聞報道，去年以約5萬元投得的大型乾貨1號檔，周四以3.4萬元由同一人再投得。"
+      }
+    },
     {
       "id": "2026-10-08-fake-official-arrest",
       "published_at": "2026-10-08T13:15:00+08:00",
@@ -2780,89 +2863,6 @@
       "zh": {
         "headline": "海關檢134支懷疑減肥針劑 屯門拘女子",
         "dek": "港台報道，關員本月2日在空郵中心檢獲54支來自日本的懷疑針劑，同日在屯門住所再檢80支，30歲女收件人獲准保釋。"
-      }
-    },
-    {
-      "id": "2026-10-05-diamond-hill-attempted-robbery",
-      "published_at": "2026-10-05T13:22:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "diamond-hill",
-        "wong-tai-sin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-diamond-hill-attempted-robbery.json",
-      "en": {
-        "headline": "Police treat Diamond Hill knife case as attempted robbery",
-        "dek": "HK01 reported that a woman demanded Octopus cards and HK$100 notes at the station counter on Sunday, and was arrested early Monday on suspicion of attempted robbery."
-      },
-      "zh": {
-        "headline": "警方將鑽石山持刀案列作企圖行劫",
-        "dek": "《香港01》引述，星期日傍晚一名女子在鑽石山站客務中心持刀索取八達通卡及100元紙幣，星期一凌晨以涉嫌企圖行劫被捕。"
-      }
-    },
-    {
-      "id": "2026-10-05-hang-seng-midday",
-      "published_at": "2026-10-05T13:22:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "markets",
-        "hang-seng",
-        "business"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-hang-seng-midday.json",
-      "en": {
-        "headline": "Hang Seng slips 20 points at the midday close",
-        "dek": "The index finished the morning at 23,952 after touching 24,005, with main-board turnover near HK$54.6 billion, RTHK reported."
-      },
-      "zh": {
-        "headline": "恒指半日收市跌20點 報23952點",
-        "dek": "港台報道，恒指早段曾高見24005點，中午收報23952點，半日主板成交額近546億元。"
-      }
-    },
-    {
-      "id": "2026-10-05-huanggang-transport-info",
-      "published_at": "2026-10-05T13:22:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "huanggang",
-        "border"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-huanggang-transport-info.json",
-      "en": {
-        "headline": "Transport Department says Huanggang signs are ready",
-        "dek": "The department said display screens, large stickers and queue rails are in place at the new port interchange, with ambassadors on the second-floor lobby at opening."
-      },
-      "zh": {
-        "headline": "運輸署：皇崗口岸交匯處資訊已準備就緒",
-        "dek": "署方表示交匯處已加設顯示屏、大型標貼及排隊欄杆，口岸初期會有服務大使在二樓大堂協助乘客揀選出市區路線。"
-      }
-    },
-    {
-      "id": "2026-10-05-privacy-fitness-review",
-      "published_at": "2026-10-05T13:22:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "privacy",
-        "fitness"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-privacy-fitness-review.json",
-      "en": {
-        "headline": "Privacy office opens compliance check on 24/7 Fitness",
-        "dek": "The Privacy Commissioner said it has asked 24/7 Fitness for details of the steps taken after a camera was found in a changing room."
-      },
-      "zh": {
-        "headline": "私隱公署主動對24/7 Fitness展開循規審查",
-        "dek": "個人資料私隱專員公署表示，已要求健身中心交代更衣室發現攝錄鏡頭後採取的保障措施，以及措施是否足以防止類似事件。"
       }
     }
   ]
