@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-08T13:14:04+08:00",
+  "updated_at": "2026-10-08T15:02:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "kwun-tong-gold-switch-arrests-oct8",
+      "id": "2026-10-08-gold-switch-arrests",
+      "first_seen": "2026-10-08T15:02:00+08:00",
+      "headline_en": "Police recover gold swapped for fabric softener in Kwun Tong hotel"
+    },
+    {
+      "key": "ns-social-posts-bail-oct8",
+      "id": "2026-10-08-ns-social-posts-bail",
+      "first_seen": "2026-10-08T15:02:00+08:00",
+      "headline_en": "National security police bail man and woman over social posts"
+    },
+    {
+      "key": "northern-metropolis-legco-debate-oct8",
+      "id": "2026-10-08-northern-metropolis-debate",
+      "first_seen": "2026-10-08T15:02:00+08:00",
+      "headline_en": "Lawmakers press Northern Metropolis university town in LegCo debate"
+    },
+    {
+      "key": "victoria-park-dry-goods-auction-oct8",
+      "id": "2026-10-08-victoria-park-dry-goods",
+      "first_seen": "2026-10-08T15:02:00+08:00",
+      "headline_en": "Victoria Park stall 1 lets for 34,000 dollars, down on last year"
+    },
     {
       "key": "sau-mau-ping-red-paint-arrest-oct8",
       "id": "2026-10-08-sau-mau-ping-arrest",
