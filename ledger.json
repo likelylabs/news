@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-08T21:07:02+08:00",
+  "updated_at": "2026-10-08T23:22:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "ec-nominations-day-two-oct8",
+      "id": "2026-10-08-ec-nominations-day-two",
+      "first_seen": "2026-10-08T23:22:00+08:00",
+      "headline_en": "Election Committee takes 164 more forms on second day"
+    },
+    {
+      "key": "fu-tai-parents-bail-oct8",
+      "id": "2026-10-08-fu-tai-parents-bail",
+      "first_seen": "2026-10-08T23:22:00+08:00",
+      "headline_en": "Parents in Tuen Mun neglect case released on bail"
+    },
+    {
+      "key": "north-point-taxi-sentence-oct8",
+      "id": "2026-10-08-north-point-taxi-sentence",
+      "first_seen": "2026-10-08T23:22:00+08:00",
+      "headline_en": "Taxi driver jailed six weeks over North Point crash"
+    },
+    {
+      "key": "housing-bureau-anderson-supply-oct8",
+      "id": "2026-10-08-housing-bureau-anderson-supply",
+      "first_seen": "2026-10-08T23:22:00+08:00",
+      "headline_en": "Housing Bureau says Anderson delay will not hit supply"
+    },
+    {
+      "key": "cheung-hui-high-court-claim-oct8",
+      "id": "2026-10-08-cheung-hui-high-court-claim",
+      "first_seen": "2026-10-08T23:22:00+08:00",
+      "headline_en": "Cheung sues Hui for 10.1 billion dollars in High Court"
+    },
     {
       "key": "anderson-road-demolition-oct8",
       "id": "2026-10-08-anderson-road-demolition",
