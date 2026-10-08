@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T07:05:18+08:00",
+  "generated_at": "2026-10-08T08:17:09+08:00",
   "live_window_hours": 72,
-  "count": 136,
+  "count": 133,
   "articles": [
     {
       "id": "2026-10-08-ckb-night-closures",
@@ -2753,68 +2753,6 @@
       "zh": {
         "headline": "周末一手約180宗成交 十大屋苑二手只錄5宗",
         "dek": "《星島》統計周末一手約180宗，西南九龍叡璟II周六次輪售出147伙；《香港01》引述中原指十大屋苑僅5宗。"
-      }
-    },
-    {
-      "id": "2026-10-05-diamond-hill-knife-arrest",
-      "published_at": "2026-10-05T07:08:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "diamond-hill",
-        "wong-tai-sin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-diamond-hill-knife-arrest.json",
-      "en": {
-        "headline": "Police arrest woman after Diamond Hill knife report",
-        "dek": "Officers detained a woman at Tsz Ching Estate after a Sunday evening report that she struck a station counter with a ceramic knife."
-      },
-      "zh": {
-        "headline": "鑽石山持刀報案後 警方凌晨於慈正邨拘捕女子",
-        "dek": "港鐵鑽石山站星期日傍晚報稱有女子持陶瓷刀敲打客務中心櫃枱後離開，警方其後在慈正邨正暉樓拘捕一名女子並送院。"
-      }
-    },
-    {
-      "id": "2026-10-05-lifestyle-charles-ng-saxophone",
-      "published_at": "2026-10-05T07:08:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "music",
-        "city-hall"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-lifestyle-charles-ng-saxophone.json",
-      "en": {
-        "headline": "City Hall hosts Charles Ng saxophone recital on Thursday",
-        "dek": "The Leisure and Cultural Services Department lists an 8pm recital at Hong Kong City Hall Theatre on 8 October, with tickets at HK$220."
-      },
-      "zh": {
-        "headline": "吳漢紳星期四於大會堂舉行色士風演奏會",
-        "dek": "康文署「香港藝術家」系列列出，10月8日晚上8時在香港大會堂劇院演出，門票220元，節目約一小時三十分鐘。"
-      }
-    },
-    {
-      "id": "2026-10-05-monsoon-cooler-morning",
-      "published_at": "2026-10-05T07:08:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "observatory",
-        "weather"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-monsoon-cooler-morning.json",
-      "en": {
-        "headline": "Most districts about two degrees cooler after monsoon arrival",
-        "dek": "The Observatory said a northeast monsoon linked to a cold front is on the coast, with Monday between 25 and 31 degrees and no warning in force."
-      },
-      "zh": {
-        "headline": "東北季候風影響沿岸 今早大部分地區低約兩度",
-        "dek": "天文台表示，與冷鋒相關的東北季候風正影響廣東沿岸，星期一氣溫約25至31度，清晨沒有天氣警告生效。"
       }
     }
   ]
