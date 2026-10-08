@@ -1,8 +1,111 @@
 {
-  "generated_at": "2026-10-08T21:07:02+08:00",
+  "generated_at": "2026-10-08T23:20:21+08:00",
   "live_window_hours": 72,
-  "count": 134,
+  "count": 135,
   "articles": [
+    {
+      "id": "2026-10-08-cheung-hui-high-court-claim",
+      "published_at": "2026-10-08T23:22:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "courts",
+        "evergrande"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-cheung-hui-high-court-claim.json",
+      "en": {
+        "headline": "Cheung sues Hui for 10.1 billion dollars in High Court",
+        "dek": "A writ seen by local media says Francis Cheung claims Xu Jiayin confirmed an unpaid balance in November 2022 and has not repaid it."
+      },
+      "zh": {
+        "headline": "張松橋入稟高院追討許家印101億元",
+        "dek": "本地傳媒引述入稟狀指，許家印2022年11月書面確認尚欠101億元，惟未有償還。"
+      }
+    },
+    {
+      "id": "2026-10-08-ec-nominations-day-two",
+      "published_at": "2026-10-08T23:22:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "election",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-ec-nominations-day-two.json",
+      "en": {
+        "headline": "Election Committee takes 164 more forms on second day",
+        "dek": "Returning officers received 160 candidate forms and four designated-body forms on Thursday, taking the two-day total to 471."
+      },
+      "zh": {
+        "headline": "選委會選舉次日再收164份提名表格",
+        "dek": "選舉主任星期四接獲160份候選人提名及4份指定團體提名，兩日累計471份。"
+      }
+    },
+    {
+      "id": "2026-10-08-fu-tai-parents-bail",
+      "published_at": "2026-10-08T23:22:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "tuen-mun",
+        "child-protection"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-fu-tai-parents-bail.json",
+      "en": {
+        "headline": "Parents in Tuen Mun neglect case released on bail",
+        "dek": "Police said the pair must report back later this month. Social workers have taken three children to hospital for assessment."
+      },
+      "zh": {
+        "headline": "屯門富泰邨涉虐兒父母獲准保釋",
+        "dek": "警方表示兩人須於本月下旬報到。社署已安排三名子女到醫院接受健康評估。"
+      }
+    },
+    {
+      "id": "2026-10-08-housing-bureau-anderson-supply",
+      "published_at": "2026-10-08T23:22:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "building-safety",
+        "kwun-tong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-housing-bureau-anderson-supply.json",
+      "en": {
+        "headline": "Housing Bureau says Anderson delay will not hit supply",
+        "dek": "The bureau said progress on one project would not materially affect overall flat supply, and it would press the developer to finish units safely."
+      },
+      "zh": {
+        "headline": "房屋局：安達臣道進度不影響整體供應",
+        "dek": "局方指個別項目進度不會對整體房屋供應構成重大影響，並會督促發展商在安全前提下早日完工。"
+      }
+    },
+    {
+      "id": "2026-10-08-north-point-taxi-sentence",
+      "published_at": "2026-10-08T23:22:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "courts",
+        "traffic",
+        "eastern-district"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-north-point-taxi-sentence.json",
+      "en": {
+        "headline": "Taxi driver jailed six weeks over North Point crash",
+        "dek": "A 79-year-old driver admitted dangerous driving causing grievous bodily harm after a February collision on Java Road. He was also banned for two years."
+      },
+      "zh": {
+        "headline": "北角的士司機認危駕判囚六星期",
+        "dek": "79歲司機承認今年2月在渣華道危險駕駛引致他人身體受嚴重傷害，另被停牌兩年。"
+      }
+    },
     {
       "id": "2026-10-08-ai-liability-taskforce",
       "published_at": "2026-10-08T21:14:00+08:00",
@@ -2698,90 +2801,6 @@
       "zh": {
         "headline": "食安中心指令停售一批去腸白蝦仁",
         "dek": "北角一新鮮糧食店的預先包裝冷藏蝦肉驗出微量禁用獸藥代謝物，分銷商已按指示回收受影響批次。"
-      }
-    },
-    {
-      "id": "2026-10-05-hkma-trade-data-mou",
-      "published_at": "2026-10-05T21:08:00+08:00",
-      "updated_at": "2026-10-05T21:12:00+08:00",
-      "category": "business",
-      "tags": [
-        "banking",
-        "hkma",
-        "trade"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-hkma-trade-data-mou.json",
-      "en": {
-        "headline": "HKMA signs pact to link regional trade data",
-        "dek": "A pilot linking Hong Kong's commercial data platform with a Shanghai digital-trade system has produced 10 loan approvals worth HK$180 million, the authority said."
-      },
-      "zh": {
-        "headline": "金管局與數位貿易聯盟簽備忘錄 接通貿易數據",
-        "dek": "金管局說，商業數據通與上海數字貿易平台的試點已促成10宗貿易融資批核，貸款額達1.8億元。"
-      }
-    },
-    {
-      "id": "2026-10-05-huanggang-quota-warning",
-      "published_at": "2026-10-05T21:08:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "huanggang",
-        "cross-boundary"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-huanggang-quota-warning.json",
-      "en": {
-        "headline": "Government warns against fake Huanggang all-day quota claims",
-        "dek": "Vehicles with permits for three designated ports may use Lok Ma Chau or the new Huanggang Port only between midnight and 6:30am, and the case has been referred to law enforcement."
-      },
-      "zh": {
-        "headline": "政府籲勿信皇崗口岸可全日過關的虛假信息",
-        "dek": "持指定口岸許可證的粵港常規配額車輛，只可於凌晨至早上6時30分經落馬洲或新皇崗往來，事件已轉交執法部門。"
-      }
-    },
-    {
-      "id": "2026-10-05-paediatric-flu-shock",
-      "published_at": "2026-10-05T21:08:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "chp",
-        "influenza"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-paediatric-flu-shock.json",
-      "en": {
-        "headline": "Boy, 10, in serious condition with flu and shock",
-        "dek": "The Centre for Health Protection said the child tested positive for influenza A and remains in intensive care, taking serious paediatric cases since late June to 22."
-      },
-      "zh": {
-        "headline": "十歲男童染甲流併發休克 情況嚴重",
-        "dek": "衞生防護中心說，男童對甲型流感呈陽性，仍在兒童深切治療部留醫，6月底至今兒童嚴重個案累計22宗。"
-      }
-    },
-    {
-      "id": "2026-10-05-youth-unemployment-hrpc",
-      "published_at": "2026-10-05T21:08:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "employment",
-        "labour",
-        "youth"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-youth-unemployment-hrpc.json",
-      "en": {
-        "headline": "Manpower panel flags rise in youth unemployment",
-        "dek": "Seasonally adjusted unemployment edged up to 3.8 percent in June to August, and officials briefed the panel on a 30,000-place youth jobs scheme."
-      },
-      "zh": {
-        "headline": "人力規劃委員會關注青年失業 失業率升至3.8%",
-        "dek": "經季節性調整的失業率由5至7月的3.7%升至6至8月的3.8%，官員向委員會簡介三萬個青年職位及實習計劃。"
       }
     }
   ]
