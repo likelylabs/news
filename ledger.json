@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-08T17:13:14+08:00",
+  "updated_at": "2026-10-08T19:06:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "building-maintenance-fund-call-oct8",
+      "id": "2026-10-08-building-maintenance-fund",
+      "first_seen": "2026-10-08T19:06:00+08:00",
+      "headline_en": "Housing institute calls for a statutory building upkeep fund"
+    },
+    {
+      "key": "icac-district-councillor-bribe-charge-oct8",
+      "id": "2026-10-08-icac-bribe-charge",
+      "first_seen": "2026-10-08T19:06:00+08:00",
+      "headline_en": "ICAC charges man, 80, over alleged 10,000 dollar bribe offer"
+    },
+    {
+      "key": "silver-bond-2027-fourth-coupon-oct8",
+      "id": "2026-10-08-silver-bond-coupon",
+      "first_seen": "2026-10-08T19:06:00+08:00",
+      "headline_en": "Silver Bond due 2027 to pay 4 per cent on fourth coupon"
+    },
     {
       "key": "hang-seng-close-oct8",
       "id": "2026-10-08-hang-seng-close",
