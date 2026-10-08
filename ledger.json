@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-08T11:10:35+08:00",
+  "updated_at": "2026-10-08T13:15:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "sau-mau-ping-red-paint-arrest-oct8",
+      "id": "2026-10-08-sau-mau-ping-arrest",
+      "first_seen": "2026-10-08T13:15:00+08:00",
+      "headline_en": "Reports say police arrest man, 66, over Sau Mau Ping paint attack"
+    },
+    {
+      "key": "hang-seng-midday-oct8",
+      "id": "2026-10-08-hang-seng-midday",
+      "first_seen": "2026-10-08T13:15:00+08:00",
+      "headline_en": "Hang Seng slips below 24,000 at the Thursday midday close"
+    },
+    {
+      "key": "hk-fifa-ranking-153-oct8",
+      "id": "2026-10-08-hk-fifa-ranking",
+      "first_seen": "2026-10-08T13:15:00+08:00",
+      "headline_en": "Hong Kong rise three places to 153rd in FIFA ranking"
+    },
+    {
+      "key": "fake-official-deposit-arrest-oct8",
+      "id": "2026-10-08-fake-official-arrest",
+      "first_seen": "2026-10-08T13:15:00+08:00",
+      "headline_en": "Police hold woman, 22, over fake official deposit scam"
+    },
     {
       "key": "silva-supreme-sha-tin-oct8",
       "id": "2026-10-08-silva-supreme-sha-tin",
