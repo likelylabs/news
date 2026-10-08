@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-08T19:08:07+08:00",
+  "updated_at": "2026-10-08T21:14:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "anderson-road-demolition-oct8",
+      "id": "2026-10-08-anderson-road-demolition",
+      "first_seen": "2026-10-08T21:14:00+08:00",
+      "headline_en": "CK Asset to demolish three Anderson Road towers"
+    },
+    {
+      "key": "ai-liability-taskforce-oct8",
+      "id": "2026-10-08-ai-liability-taskforce",
+      "first_seen": "2026-10-08T21:14:00+08:00",
+      "headline_en": "Lam says Justice Bureau will study who pays if AI causes harm"
+    },
     {
       "key": "building-maintenance-fund-call-oct8",
       "id": "2026-10-08-building-maintenance-fund",
