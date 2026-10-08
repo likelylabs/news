@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-10-08T17:13:14+08:00",
+  "generated_at": "2026-10-08T19:08:07+08:00",
   "live_window_hours": 72,
-  "count": 139,
+  "count": 132,
   "articles": [
+    {
+      "id": "2026-10-08-building-maintenance-fund",
+      "published_at": "2026-10-08T19:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "building-safety",
+        "maintenance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-building-maintenance-fund.json",
+      "en": {
+        "headline": "Housing institute calls for a statutory building upkeep fund",
+        "dek": "The Hong Kong Institute of Housing says owners should pay into a separate maintenance account as more than 24,000 buildings turn 50 by 2043."
+      },
+      "zh": {
+        "headline": "房屋經理學會促設立法定大廈維修基金",
+        "dek": "學會指業主應定期向獨立帳戶供款，以應付2043年前逾2.4萬幢樓齡達50年的維修壓力。"
+      }
+    },
+    {
+      "id": "2026-10-08-icac-bribe-charge",
+      "published_at": "2026-10-08T19:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "icac",
+        "courts",
+        "yau-tsim-mong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-icac-bribe-charge.json",
+      "en": {
+        "headline": "ICAC charges man, 80, over alleged 10,000 dollar bribe offer",
+        "dek": "Prosecutors say he offered cash to a Yau Tsim Mong councillor to press a pastor into a meeting. He is due in court on Friday."
+      },
+      "zh": {
+        "headline": "廉署起訴八旬翁涉向區議員提供一萬元利益",
+        "dek": "控方指他向油尖旺區議員提供現金，意圖促成與一名牧師會面。案件星期五在西九龍裁判法院答辯。"
+      }
+    },
+    {
+      "id": "2026-10-08-silver-bond-coupon",
+      "published_at": "2026-10-08T19:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hkma",
+        "bonds",
+        "silver-bond"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-silver-bond-coupon.json",
+      "en": {
+        "headline": "Silver Bond due 2027 to pay 4 per cent on fourth coupon",
+        "dek": "The HKMA set the rate at the 4 per cent fixed floor after the inflation-linked floating rate came in at 1.80 per cent."
+      },
+      "zh": {
+        "headline": "2027年到期銀債第四次付息年利率定為4厘",
+        "dek": "金管局公布浮息為1.80厘，低於4厘定息，故今次按較高的定息支付，付息日為10月23日。"
+      }
+    },
     {
       "id": "2026-10-08-hang-seng-close",
       "published_at": "2026-10-08T17:12:00+08:00",
@@ -2677,213 +2740,6 @@
       "zh": {
         "headline": "人力規劃委員會關注青年失業 失業率升至3.8%",
         "dek": "經季節性調整的失業率由5至7月的3.7%升至6至8月的3.8%，官員向委員會簡介三萬個青年職位及實習計劃。"
-      }
-    },
-    {
-      "id": "2026-10-05-bakai-restricted-licence",
-      "published_at": "2026-10-05T19:06:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "banking",
-        "hkma",
-        "central-asia"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-bakai-restricted-licence.json",
-      "en": {
-        "headline": "HKMA grants restricted banking licence to Bakai Bank",
-        "dek": "The Kyrgyz lender's licence took effect on Monday, taking the number of restricted licence banks in Hong Kong to 17."
-      },
-      "zh": {
-        "headline": "金管局向吉爾吉斯巴凱銀行發出有限制牌照",
-        "dek": "牌照星期一生效，本港有限制牌照銀行數目增至17間。"
-      }
-    },
-    {
-      "id": "2026-10-05-heal-fertility-resume",
-      "published_at": "2026-10-05T19:06:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "central",
-        "fertility"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-heal-fertility-resume.json",
-      "en": {
-        "headline": "Council lets Central fertility centre resume all licensed services",
-        "dek": "HEAL Fertility may offer all 17 licensed treatments from Tuesday after inspectors accepted its remedial steps, the Department of Health said."
-      },
-      "zh": {
-        "headline": "希愈生殖醫學中心明起可恢復全部持牌服務",
-        "dek": "管理局信納補救措施後批准恢復17項治療，衞生署亦解除暫停接收新症的指令。"
-      }
-    },
-    {
-      "id": "2026-10-05-legionnaires-two-cases",
-      "published_at": "2026-10-05T19:06:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "chp",
-        "legionnaires"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-legionnaires-two-cases.json",
-      "en": {
-        "headline": "Health centre logs two more Legionnaires' disease cases",
-        "dek": "The Centre for Health Protection said both cases last week appear sporadic, taking this year's total to 153."
-      },
-      "zh": {
-        "headline": "衞防中心上週再錄兩宗退伍軍人病",
-        "dek": "初步調查顯示兩宗屬散發個案，今年累計153宗。"
-      }
-    },
-    {
-      "id": "2026-10-05-sheung-shui-site-fall",
-      "published_at": "2026-10-05T19:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "sheung-shui",
-        "north-district",
-        "accident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-sheung-shui-site-fall.json",
-      "en": {
-        "headline": "Man dies after fall at Sheung Shui construction site",
-        "dek": "Police said a man in his forties was found unconscious at a Po Kin Road site on Monday afternoon and was later certified dead."
-      },
-      "zh": {
-        "headline": "上水地盤男子墮下送院後不治",
-        "dek": "警方稱下午約4時20分接報保健路地盤有約40歲男子昏迷，其後證實不治。"
-      }
-    },
-    {
-      "id": "2026-10-05-wo-zi-shan-facilities",
-      "published_at": "2026-10-05T19:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "sham-shui-po",
-        "home-affairs",
-        "recreation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-wo-zi-shan-facilities.json",
-      "en": {
-        "headline": "New Wo Zi Shan recreation facilities open in Sham Shui Po",
-        "dek": "The Home Affairs Department said table-tennis tables, fitness equipment and safety matting were in use from Monday morning."
-      },
-      "zh": {
-        "headline": "深水埗窩仔山新康體設施星期一開放",
-        "dek": "民政事務總署說，乒乓球桌、健身設施和安全地墊今早已有街坊使用。"
-      }
-    },
-    {
-      "id": "2026-10-05-basic-housing-registrations",
-      "published_at": "2026-10-05T17:14:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "housing",
-        "basic-housing",
-        "legco"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-basic-housing-registrations.json",
-      "en": {
-        "headline": "Housing bureau logs over 73,600 basic-housing applications",
-        "dek": "Winnie Ho told lawmakers the register has drawn more than 73,600 applications, with only 14 Home Ownership Scheme flats among the units logged."
-      },
-      "zh": {
-        "headline": "何永賢：簡樸房登記已接逾7.3萬宗申請",
-        "dek": "房屋局局長何永賢在立法會表示，簡樸房登記至今收到逾73600宗申請，已登記的二萬多個單位中居屋只佔14個。"
-      }
-    },
-    {
-      "id": "2026-10-05-hang-seng-close",
-      "published_at": "2026-10-05T17:14:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "markets",
-        "hang-seng",
-        "business"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-hang-seng-close.json",
-      "en": {
-        "headline": "Hang Seng closes 68 points higher back above 24,000",
-        "dek": "The index finished at 24,040 after an early dip of nearly 140 points, while main-board turnover fell to HK$98.1 billion."
-      },
-      "zh": {
-        "headline": "港股收市升68點 重上24000點",
-        "dek": "恒生指數收報24040點，早段曾最多跌近140點，全日主板成交減至981億元。"
-      }
-    },
-    {
-      "id": "2026-10-05-september-climate-summary",
-      "published_at": "2026-10-05T17:14:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "observatory",
-        "climate"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-september-climate-summary.json",
-      "en": {
-        "headline": "Observatory says September was hotter and drier than normal",
-        "dek": "The mean minimum of 27.1 degrees was the fifth highest on record for September, and rainfall was about 29 percent of normal."
-      },
-      "zh": {
-        "headline": "天文台：9月較正常炎熱乾燥",
-        "dek": "9月平均最低氣溫27.1度，是有紀錄以來9月第五高；總雨量94.3毫米，約為正常的29%。"
-      }
-    },
-    {
-      "id": "2026-10-05-september-home-registrations",
-      "published_at": "2026-10-05T17:14:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "property",
-        "land-registry"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-september-home-registrations.json",
-      "en": {
-        "headline": "September home sale registrations rise 18.5 percent",
-        "dek": "The Land Registry logged 4,761 residential agreements worth HK$46.8 billion, still 15.6 percent below a year earlier."
-      },
-      "zh": {
-        "headline": "9月住宅註冊買賣按月升18.5%",
-        "dek": "土地註冊處公布，9月送交註冊的住宅買賣合約4761份，總值468億元，按年仍跌15.6%。"
-      }
-    },
-    {
-      "id": "2026-10-05-sincere-central-closing",
-      "published_at": "2026-10-05T17:14:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "retail",
-        "central"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-05/2026-10-05-sincere-central-closing.json",
-      "en": {
-        "headline": "Sincere to close its Central store in early December",
-        "dek": "The company said talks to renew the lease at 189 Des Voeux Road Central failed, and the lease ends on 31 December."
-      },
-      "zh": {
-        "headline": "先施中環店將於12月初停業",
-        "dek": "先施表示未能與業主就德輔道中189號地下店續租達成協議，租約於12月31日屆滿。"
       }
     }
   ]
