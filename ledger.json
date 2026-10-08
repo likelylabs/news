@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-08T09:14:25+08:00",
+  "updated_at": "2026-10-08T09:16:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "sau-mau-ping-office-red-paint-oct8",
+      "id": "2026-10-08-sau-mau-ping-red-paint",
+      "first_seen": "2026-10-08T09:14:00+08:00",
+      "headline_en": "Police investigate red-paint attack on Sau Mau Ping offices"
+    },
+    {
+      "key": "kowloon-city-helper-arrest-oct8",
+      "id": "2026-10-08-kowloon-city-helper-arrest",
+      "first_seen": "2026-10-08T09:14:00+08:00",
+      "headline_en": "Police hold helper after report of assault on boy, 5"
+    },
+    {
+      "key": "sfc-retail-fund-code-nov2026",
+      "id": "2026-10-08-sfc-retail-fund-code",
+      "first_seen": "2026-10-08T09:14:00+08:00",
+      "headline_en": "SFC sets November start for retail fund code changes"
+    },
+    {
+      "key": "lifestyle-anderson-link-square-opening",
+      "id": "2026-10-08-lifestyle-anderson-link-square",
+      "first_seen": "2026-10-08T09:14:00+08:00",
+      "headline_en": "Anderson's first mall opens in stages before 13 October"
+    },
     {
       "key": "kai-yip-market-knife-arrest-oct7",
       "id": "2026-10-08-kai-yip-knife-arrest",
