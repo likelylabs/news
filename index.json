@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-10-08T08:17:09+08:00",
+  "generated_at": "2026-10-08T09:14:25+08:00",
   "live_window_hours": 72,
-  "count": 133,
+  "count": 137,
   "articles": [
+    {
+      "id": "2026-10-08-kowloon-city-helper-arrest",
+      "published_at": "2026-10-08T09:14:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "kowloon-city",
+        "child-protection"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-kowloon-city-helper-arrest.json",
+      "en": {
+        "headline": "Police hold helper after report of assault on boy, 5",
+        "dek": "A 37-year-old domestic helper was arrested in Kowloon City after a mother reported that her son had been hit at their Hau Wong Road home."
+      },
+      "zh": {
+        "headline": "九龍城5歲男童疑遭外傭襲擊 37歲菲傭被捕",
+        "dek": "一名母親周三晚報案，指5歲兒子在侯王道住所疑被外傭不當對待，警方以涉嫌虐待受看管兒童拘捕37歲菲傭。"
+      }
+    },
+    {
+      "id": "2026-10-08-lifestyle-anderson-link-square",
+      "published_at": "2026-10-08T09:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "anderson",
+        "kwun-tong",
+        "opening"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-lifestyle-anderson-link-square.json",
+      "en": {
+        "headline": "Anderson's first mall opens in stages before 13 October",
+        "dek": "Link says Link Square in the Anderson Road Quarry development is in soft opening, with a formal launch set for 13 October."
+      },
+      "zh": {
+        "headline": "安達臣首個商場領達廣場分階段啟用 13日正式開幕",
+        "dek": "領展表示，觀塘安達臣道石礦場發展區的領達廣場已於10月6日起試業，正式開幕訂於10月13日。"
+      }
+    },
+    {
+      "id": "2026-10-08-sau-mau-ping-red-paint",
+      "published_at": "2026-10-08T09:14:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "sau-mau-ping",
+        "kwun-tong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-sau-mau-ping-red-paint.json",
+      "en": {
+        "headline": "Police investigate red-paint attack on Sau Mau Ping offices",
+        "dek": "Officers were called at 6:40am after red paint was thrown at a joint district office used by two lawmakers in Sau Mau Ping Estate."
+      },
+      "zh": {
+        "headline": "秀茂坪議員聯合辦事處遭淋紅油 警列刑事毀壞",
+        "dek": "警方今早約6時40分接報，秀茂坪邨秀緻樓地下鄧家彪與陳沛良的聯合地區辦事處被淋紅油，鐵閘及告示板均沾污。"
+      }
+    },
+    {
+      "id": "2026-10-08-sfc-retail-fund-code",
+      "published_at": "2026-10-08T09:14:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "sfc",
+        "funds",
+        "regulation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-08/2026-10-08-sfc-retail-fund-code.json",
+      "en": {
+        "headline": "SFC sets November start for retail fund code changes",
+        "dek": "The securities watchdog will bring in a value-at-risk method for derivatives exposure and tighter liquidity rules for authorised retail funds."
+      },
+      "zh": {
+        "headline": "證監會零售基金守則修訂十一月生效",
+        "dek": "證監會公布諮詢總結，單位信託及互惠基金守則將引入風險價值計算法管理衍生工具風險，並加強流動性及貨幣市場基金保障。"
+      }
+    },
     {
       "id": "2026-10-08-ckb-night-closures",
       "published_at": "2026-10-08T07:06:00+08:00",
