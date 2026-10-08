@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-08T15:04:34+08:00",
+  "updated_at": "2026-10-08T17:12:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "hang-seng-close-oct8",
+      "id": "2026-10-08-hang-seng-close",
+      "first_seen": "2026-10-08T17:12:00+08:00",
+      "headline_en": "Hang Seng closes 344 points lower at a three-month low"
+    },
+    {
+      "key": "model-ad-mule-accounts-oct8",
+      "id": "2026-10-08-model-ad-mule-accounts",
+      "first_seen": "2026-10-08T17:12:00+08:00",
+      "headline_en": "Police arrest 10 over fake model ads used to open mule accounts"
+    },
+    {
+      "key": "route-twisk-motorcycle-death-oct8",
+      "id": "2026-10-08-route-twisk-death",
+      "first_seen": "2026-10-08T17:12:00+08:00",
+      "headline_en": "Motorcyclist dies after Route Twisk collision, police say"
+    },
+    {
+      "key": "ride-hailing-data-system-oct8",
+      "id": "2026-10-08-ride-hailing-data-system",
+      "first_seen": "2026-10-08T17:12:00+08:00",
+      "headline_en": "Chan says ride-hailing data system has entered testing"
+    },
+    {
+      "key": "afcd-stray-dog-operation-oct8",
+      "id": "2026-10-08-stray-dog-operation",
+      "first_seen": "2026-10-08T17:12:00+08:00",
+      "headline_en": "AFCD starts four-month sweep for unattended dogs"
+    },
     {
       "key": "kwun-tong-gold-switch-arrests-oct8",
       "id": "2026-10-08-gold-switch-arrests",
