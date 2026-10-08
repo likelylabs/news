@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-09T01:04:03+08:00",
+  "updated_at": "2026-10-09T03:14:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "police-college-degree-oct9",
+      "id": "2026-10-09-police-college-degree",
+      "first_seen": "2026-10-09T03:14:00+08:00",
+      "headline_en": "Police College to offer funded honours degree for junior officers"
+    },
+    {
+      "key": "queen-mary-engineer-review-oct8",
+      "id": "2026-10-09-queen-mary-sentence-review",
+      "first_seen": "2026-10-09T03:14:00+08:00",
+      "headline_en": "Justice Department seeks review of Queen Mary lift sentence"
+    },
+    {
+      "key": "shek-lei-pui-copper-arrests-oct8",
+      "id": "2026-10-09-shek-lei-pui-copper-arrests",
+      "first_seen": "2026-10-09T03:14:00+08:00",
+      "headline_en": "Police arrest five over copper taken from closed Shek Lei Pui plant"
+    },
+    {
+      "key": "lifestyle-megabox-nba-viewing",
+      "id": "2026-10-09-lifestyle-megabox-nba-viewing",
+      "first_seen": "2026-10-09T03:14:00+08:00",
+      "headline_en": "MegaBox screens NBA China Games from its Kowloon Bay roof"
+    },
     {
       "key": "lifestyle-pmq-gelato-fest-second-weekend",
       "id": "2026-10-09-lifestyle-pmq-gelato-fest",
