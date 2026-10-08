@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-09T03:14:00+08:00",
+  "updated_at": "2026-10-09T07:04:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "sham-shui-po-taxi-crash-oct9",
+      "id": "2026-10-09-sham-shui-po-taxi-crash",
+      "first_seen": "2026-10-09T07:04:00+08:00",
+      "headline_en": "Taxi driver arrested after man struck in Sham Shui Po"
+    },
+    {
+      "key": "route-twisk-death-arrest-oct9",
+      "id": "2026-10-09-route-twisk-arrest",
+      "first_seen": "2026-10-09T07:04:00+08:00",
+      "headline_en": "Police arrest man over fatal Route Twisk crash"
+    },
+    {
+      "key": "kwun-tong-fishing-machine-raid-oct9",
+      "id": "2026-10-09-kwun-tong-gambling-raid",
+      "first_seen": "2026-10-09T07:04:00+08:00",
+      "headline_en": "Police arrest five in Kwun Tong fishing-machine raid"
+    },
+    {
+      "key": "gov-rejects-us-tip-report-oct9",
+      "id": "2026-10-09-us-tip-report-response",
+      "first_seen": "2026-10-09T07:04:00+08:00",
+      "headline_en": "Government rejects US trafficking report on Hong Kong"
+    },
+    {
+      "key": "lifestyle-film-archive-cheng-pei-pei",
+      "id": "2026-10-09-lifestyle-film-archive-cheng",
+      "first_seen": "2026-10-09T07:04:00+08:00",
+      "headline_en": "Film Archive screens Cheng Pei-pei tribute this morning"
+    },
     {
       "key": "police-college-degree-oct9",
       "id": "2026-10-09-police-college-degree",
