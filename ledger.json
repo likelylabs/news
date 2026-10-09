@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-09T09:16:29+08:00",
+  "updated_at": "2026-10-09T11:12:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "greentown-bribe-charge-oct9",
+      "id": "2026-10-09-greentown-bribe-charge",
+      "first_seen": "2026-10-09T11:12:00+08:00",
+      "headline_en": "ICAC charges Greentown's then chairman over alleged bribe"
+    },
+    {
+      "key": "sedition-publication-charge-oct9",
+      "id": "2026-10-09-sedition-publication-charge",
+      "first_seen": "2026-10-09T11:12:00+08:00",
+      "headline_en": "Police charge man, 52, over alleged seditious online posts"
+    },
+    {
+      "key": "legco-livelihood-debate-oct9",
+      "id": "2026-10-09-legco-livelihood-debate",
+      "first_seen": "2026-10-09T11:12:00+08:00",
+      "headline_en": "Lawmakers press childcare and North District shops in debate"
+    },
     {
       "key": "san-po-kong-drink-drive-oct9",
       "id": "2026-10-09-san-po-kong-drink-drive",
