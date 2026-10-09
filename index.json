@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-10-09T09:16:29+08:00",
+  "generated_at": "2026-10-09T11:10:01+08:00",
   "live_window_hours": 72,
-  "count": 136,
+  "count": 134,
   "articles": [
+    {
+      "id": "2026-10-09-greentown-bribe-charge",
+      "published_at": "2026-10-09T11:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "icac",
+        "courts",
+        "property"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-greentown-bribe-charge.json",
+      "en": {
+        "headline": "ICAC charges Greentown's then chairman over alleged bribe",
+        "dek": "Zhang Yadong, 58, appeared at Eastern Magistrates' Courts on Friday over a 20 million dollar payment tied to a Dalian deal."
+      },
+      "zh": {
+        "headline": "廉署起訴綠城中國時任主席張亞東涉收賄2000萬",
+        "dek": "58歲張亞東周五在東區裁判法院提訊，被控串謀使代理人接受利益，涉一宗大連項目。"
+      }
+    },
+    {
+      "id": "2026-10-09-legco-livelihood-debate",
+      "published_at": "2026-10-09T11:12:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "legco",
+        "government",
+        "northern-metropolis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-legco-livelihood-debate.json",
+      "en": {
+        "headline": "Lawmakers press childcare and North District shops in debate",
+        "dek": "The third day of the joint five-year plan and Policy Address debate turned to livelihood, with calls on childcare and vacant shops."
+      },
+      "zh": {
+        "headline": "立法會辯論民生 陳曼琪倡一老一小保護 姚銘談北區舖位",
+        "dek": "五年規劃與施政報告合併辯論第三日轉到民生環節，議員談託兒名額、虐老舉報及北區空舖。"
+      }
+    },
+    {
+      "id": "2026-10-09-sedition-publication-charge",
+      "published_at": "2026-10-09T11:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "courts",
+        "national-security"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-sedition-publication-charge.json",
+      "en": {
+        "headline": "Police charge man, 52, over alleged seditious online posts",
+        "dek": "National security officers said the Eastern District arrest was in July, with a charge laid on Wednesday at West Kowloon Court."
+      },
+      "zh": {
+        "headline": "國安處控52歲男子涉發布具煽動意圖刊物",
+        "dek": "警方稱男子7月9日在東區被捕，10月7日被控一項罪名，同日下午在西九龍裁判法院提堂。"
+      }
+    },
     {
       "id": "2026-10-09-arbuthnot-shop-sale",
       "published_at": "2026-10-09T09:18:00+08:00",
@@ -2724,109 +2787,6 @@
       "zh": {
         "headline": "尖沙咀商廈信箱現白色粉末信 爆炸品處理課到場",
         "dek": "早上9時28分保安員報案，堪富利士道3號時財商業大廈地下信箱有可疑信件，警方封鎖一段道路調查。"
-      }
-    },
-    {
-      "id": "2026-10-06-nurse-hiring-priority",
-      "published_at": "2026-10-06T11:07:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "hospital-authority",
-        "labour"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-nurse-hiring-priority.json",
-      "en": {
-        "headline": "Lee says nurse demand persists and local hires come first",
-        "dek": "The Chief Executive said 99.8 percent of Hospital Authority nurses were locally trained, and that more than 3,000 posts were still vacant."
-      },
-      "zh": {
-        "headline": "李家超：護士需求長期存在 招聘以本地人才優先",
-        "dek": "特首說醫管局現職護士99.8%為本地培訓，目前仍有逾3000個護士空缺可供畢業生申請。"
-      }
-    },
-    {
-      "id": "2026-10-06-one-stanley-probe",
-      "published_at": "2026-10-06T11:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "stanley",
-        "housing",
-        "buildings"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-one-stanley-probe.json",
-      "en": {
-        "headline": "Lee says One Stanley steel-bar case is under investigation",
-        "dek": "The Chief Executive said the Buildings Department is examining whether main bars match the approved drawings, and asked the Development Bureau to oversee the probe."
-      },
-      "zh": {
-        "headline": "李家超：屋宇署正調查赤柱ONE STANLEY鋼筋問題",
-        "dek": "特首說屋宇署正查主鋼筋數量是否與圖則相符，並已要求發展局監督調查，違規會依法嚴懲。"
-      }
-    },
-    {
-      "id": "2026-10-06-september-pmi",
-      "published_at": "2026-10-06T11:07:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-september-pmi.json",
-      "en": {
-        "headline": "September PMI slips to 49.2 as hiring falls again",
-        "dek": "S&P Global said the seasonally adjusted reading was down from 49.5 in August, a second month below 50, with the sharpest job cuts in nearly six and a half years."
-      },
-      "zh": {
-        "headline": "香港9月PMI降至49.2 就業收縮近六年半最快",
-        "dek": "標普全球公布經季節調整指數由8月49.5跌至49.2，連續兩個月低於50，職位收縮速度創近六年半新高。"
-      }
-    },
-    {
-      "id": "2026-10-06-tai-po-waterfront-death",
-      "published_at": "2026-10-06T11:07:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tai-po",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-tai-po-waterfront-death.json",
-      "en": {
-        "headline": "Man found dead in the water off Tai Po Waterfront Park",
-        "dek": "Police said a man in his twenties was recovered near Tai Po Waterfront Park around 7:30am on Tuesday and was confirmed dead. Identity and circumstances are under investigation."
-      },
-      "zh": {
-        "headline": "大埔海濱公園對開海面發現男子 證實死亡",
-        "dek": "警方說星期二約早上7時半接報，大埔海濱公園對開有人在海中，救起一名20多歲男子後證實不治，身份及經過仍在調查。"
-      }
-    },
-    {
-      "id": "2026-10-06-wang-fuk-accountability",
-      "published_at": "2026-10-06T11:07:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "tai-po",
-        "wang-fuk-court",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-wang-fuk-accountability.json",
-      "en": {
-        "headline": "Lee says Wang Fuk reforms will follow the inquiry report",
-        "dek": "The Chief Executive said the government would study the independent committee's recommendations as soon as they arrive, then set out reforms and pursue accountability."
-      },
-      "zh": {
-        "headline": "李家超：宏福苑報告交到後會盡快改革並追究責任",
-        "dek": "特首說獨立委員會提交報告後，政府會即時研究建議、推行改革並公布細節，同時追究責任。"
       }
     }
   ]
