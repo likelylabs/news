@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-09T11:10:01+08:00",
+  "updated_at": "2026-10-09T13:14:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "weekend-weather-outlook-oct10-11",
+      "id": "2026-10-09-weekend-weather-outlook",
+      "first_seen": "2026-10-09T13:14:00+08:00",
+      "headline_en": "Observatory expects a fine, dry weekend with highs near 31"
+    },
+    {
+      "key": "huanggang-port-opens-oct12",
+      "id": "2026-10-09-huanggang-port-opening",
+      "first_seen": "2026-10-09T13:14:00+08:00",
+      "headline_en": "Huanggang Port to open at 6:30am on Monday"
+    },
+    {
+      "key": "hang-seng-midday-oct9",
+      "id": "2026-10-09-hang-seng-midday",
+      "first_seen": "2026-10-09T13:14:00+08:00",
+      "headline_en": "Hang Seng rises 259 points at the Friday midday close"
+    },
+    {
+      "key": "sfc-extended-hours-paper-oct9",
+      "id": "2026-10-09-sfc-extended-hours",
+      "first_seen": "2026-10-09T13:14:00+08:00",
+      "headline_en": "SFC says HKEX will consult this quarter on longer cash hours"
+    },
     {
       "key": "greentown-bribe-charge-oct9",
       "id": "2026-10-09-greentown-bribe-charge",
