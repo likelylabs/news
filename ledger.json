@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-10T01:05:46+08:00",
+  "updated_at": "2026-10-10T03:16:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-pmq-candlelight-oct10",
+      "id": "2026-10-10-lifestyle-pmq-candlelight",
+      "first_seen": "2026-10-10T03:16:00+08:00",
+      "headline_en": "Candlelight string concerts return to PMQ this weekend"
+    },
+    {
+      "key": "tuen-mun-road-crashes-oct9",
+      "id": "2026-10-10-tuen-mun-road-crashes",
+      "first_seen": "2026-10-10T03:16:00+08:00",
+      "headline_en": "Three Tuen Mun Road crashes injure at least eight"
+    },
+    {
+      "key": "yau-ma-tei-death-oct9",
+      "id": "2026-10-10-yau-ma-tei-death",
+      "first_seen": "2026-10-10T03:16:00+08:00",
+      "headline_en": "Man, 46, found dead in a Yau Ma Tei room, police say"
+    },
     {
       "key": "lifestyle-westk-picnic-final-weekend",
       "id": "2026-10-10-lifestyle-westk-picnic",
