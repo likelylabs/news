@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-09T23:22:45+08:00",
+  "updated_at": "2026-10-10T01:12:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-westk-picnic-final-weekend",
+      "id": "2026-10-10-lifestyle-westk-picnic",
+      "first_seen": "2026-10-10T01:12:00+08:00",
+      "headline_en": "West Kowloon picnic festival runs its final weekend"
+    },
+    {
+      "key": "kmb-huanggang-routes-oct12",
+      "id": "2026-10-10-kmb-huanggang-routes",
+      "first_seen": "2026-10-10T01:12:00+08:00",
+      "headline_en": "KMB to open three routes to Huanggang Port on Monday"
+    },
+    {
+      "key": "adora-flora-city-homeport-2027",
+      "id": "2026-10-10-adora-flora-city-homeport",
+      "first_seen": "2026-10-10T01:12:00+08:00",
+      "headline_en": "Adora Flora City to sail 19 Hong Kong home-port trips in 2027"
+    },
     {
       "key": "ms-salmonella-recall-oct9",
       "id": "2026-10-09-ms-salmonella-recall",
