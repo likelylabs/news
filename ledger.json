@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-09T15:11:03+08:00",
+  "updated_at": "2026-10-09T17:20:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "subdivided-flat-registrations-oct9",
+      "id": "2026-10-09-subdivided-flat-registrations",
+      "first_seen": "2026-10-09T17:20:00+08:00",
+      "headline_en": "Housing Bureau logs over 74,300 subdivided-unit registrations"
+    },
+    {
+      "key": "nt-north-hospital-cluster-oct9",
+      "id": "2026-10-09-nt-north-hospital-cluster",
+      "first_seen": "2026-10-09T17:20:00+08:00",
+      "headline_en": "Lo says work on a New Territories North hospital cluster starts next year"
+    },
+    {
+      "key": "huanggang-insurance-cover-oct9",
+      "id": "2026-10-09-huanggang-insurance-cover",
+      "first_seen": "2026-10-09T17:20:00+08:00",
+      "headline_en": "Compulsory cover extended to Hong Kong side of Huanggang Port"
+    },
+    {
+      "key": "wo-hop-shek-crematorium-oct9",
+      "id": "2026-10-09-wo-hop-shek-crematorium",
+      "first_seen": "2026-10-09T17:20:00+08:00",
+      "headline_en": "Government proposes a new Wo Hop Shek crematorium for 2032"
+    },
+    {
+      "key": "hang-seng-close-oct9",
+      "id": "2026-10-09-hang-seng-close",
+      "first_seen": "2026-10-09T17:20:00+08:00",
+      "headline_en": "Hang Seng closes 426 points higher at 24,211"
+    },
     {
       "key": "competition-commission-lens-oct9",
       "id": "2026-10-09-competition-vr-raids",
