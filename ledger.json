@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-09T21:06:27+08:00",
+  "updated_at": "2026-10-09T23:22:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "ms-salmonella-recall-oct9",
+      "id": "2026-10-09-ms-salmonella-recall",
+      "first_seen": "2026-10-09T23:22:00+08:00",
+      "headline_en": "Centre tells shops to pull two Marks and Spencer foods"
+    },
+    {
+      "key": "one-stanley-warranty-oct9",
+      "id": "2026-10-09-one-stanley-warranty",
+      "first_seen": "2026-10-09T23:22:00+08:00",
+      "headline_en": "One Stanley developer offers six-year structural cover"
+    },
+    {
+      "key": "ec-nominations-day-three-oct9",
+      "id": "2026-10-09-ec-nominations-day-three",
+      "first_seen": "2026-10-09T23:22:00+08:00",
+      "headline_en": "Election Committee takes 225 more forms on third day"
+    },
+    {
+      "key": "legco-european-parliament-oct9",
+      "id": "2026-10-09-legco-european-parliament",
+      "first_seen": "2026-10-09T23:22:00+08:00",
+      "headline_en": "LegCo condemns European Parliament remarks on Hong Kong"
+    },
     {
       "key": "legco-five-year-plan-vote-oct9",
       "id": "2026-10-09-legco-five-year-plan-vote",
