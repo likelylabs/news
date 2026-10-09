@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-10-09T21:06:27+08:00",
+  "generated_at": "2026-10-09T23:22:45+08:00",
   "live_window_hours": 72,
-  "count": 135,
+  "count": 134,
   "articles": [
+    {
+      "id": "2026-10-09-ec-nominations-day-three",
+      "published_at": "2026-10-09T23:22:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "election-committee",
+        "elections"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-ec-nominations-day-three.json",
+      "en": {
+        "headline": "Election Committee takes 225 more forms on third day",
+        "dek": "Returning officers received 220 candidate forms and five designated-body forms on Friday, taking the candidate total to 685."
+      },
+      "zh": {
+        "headline": "選委會提名第三日再接225份表格",
+        "dek": "選舉主任周五接獲220份候選人提名表格及5份指定團體提名表格，候選人提名累計685份。"
+      }
+    },
+    {
+      "id": "2026-10-09-legco-european-parliament",
+      "published_at": "2026-10-09T23:22:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "legco",
+        "european-parliament"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-legco-european-parliament.json",
+      "en": {
+        "headline": "LegCo condemns European Parliament remarks on Hong Kong",
+        "dek": "A Legislative Council spokesman said a recommendation on EU-China relations made untrue allegations about the city and urged the parliament to stop."
+      },
+      "zh": {
+        "headline": "立法會譴責歐洲議會有關香港的說法",
+        "dek": "立法會發言人指歐中政治關係建議在香港部分作出失實偏頗指控，促請歐洲議會立即停止。"
+      }
+    },
+    {
+      "id": "2026-10-09-ms-salmonella-recall",
+      "published_at": "2026-10-09T23:22:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "food-safety",
+        "recall",
+        "salmonella"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-ms-salmonella-recall.json",
+      "en": {
+        "headline": "Centre tells shops to pull two Marks and Spencer foods",
+        "dek": "The Centre for Food Safety says a salad and a pesto may be contaminated with salmonella, and the importer has begun a recall."
+      },
+      "zh": {
+        "headline": "食安中心籲勿食用兩款馬莎沙律及青醬",
+        "dek": "食物安全中心指一款沙律及一款青醬或受沙門氏菌污染，進口商已停售並展開回收。"
+      }
+    },
+    {
+      "id": "2026-10-09-one-stanley-warranty",
+      "published_at": "2026-10-09T23:22:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "stanley",
+        "housing",
+        "buildings"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-one-stanley-warranty.json",
+      "en": {
+        "headline": "One Stanley developer offers six-year structural cover",
+        "dek": "K Wise says owners and buyers still completing purchases will get extra structural cover and free independent checks while a steel-bar probe continues."
+      },
+      "zh": {
+        "headline": "赤柱ONE STANLEY發展商提供額外六年結構保養",
+        "dek": "建灝旗下公司表示，已成交業主及交易中買家可獲額外六年結構保養及免費獨立檢測，屋宇署調查仍在進行。"
+      }
+    },
     {
       "id": "2026-10-09-building-dispute-mechanism",
       "published_at": "2026-10-09T21:06:00+08:00",
@@ -2700,108 +2782,6 @@
       "zh": {
         "headline": "教育局批准私校及直資校加學費 平均加幅介乎4%至4.75%",
         "dek": "本學年私校、直資學校及國際學校獲批的平均學費加幅，分別為4.75%、4.07%及4%。"
-      }
-    },
-    {
-      "id": "2026-10-06-dakar-yog-flag",
-      "published_at": "2026-10-06T23:22:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "olympics"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-dakar-yog-flag.json",
-      "en": {
-        "headline": "Hong Kong Youth Olympics team receives its flag",
-        "dek": "Fifteen athletes will contest 12 sports in Dakar from 31 October to 13 November, the first Olympic event hosted in Africa."
-      },
-      "zh": {
-        "headline": "達卡青奧會港隊代表團今日授旗",
-        "dek": "港隊派15人出戰12個項目，賽事10月31日至11月13日在塞內加爾達卡舉行，為非洲首次主辦的奧林匹克賽事。"
-      }
-    },
-    {
-      "id": "2026-10-06-ec-subsector-nomination",
-      "published_at": "2026-10-06T23:22:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "election",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-ec-subsector-nomination.json",
-      "en": {
-        "headline": "Election Committee nomination opens on Wednesday",
-        "dek": "The Electoral Affairs Commission chairman said preparations are ready as the subsector nomination period runs from 7 to 20 October."
-      },
-      "zh": {
-        "headline": "選委會界別分組選舉提名期周三展開",
-        "dek": "選管會主席陸啟康視察添馬選舉主任辦事處，稱提名期安排已準備就緒；提名由周三起至10月20日。"
-      }
-    },
-    {
-      "id": "2026-10-06-po-pin-chau-booking-survey",
-      "published_at": "2026-10-06T23:22:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "sai-kung",
-        "country-parks"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-po-pin-chau-booking-survey.json",
-      "en": {
-        "headline": "Most Po Pin Chau visitors say booking eased crowds",
-        "dek": "The Agriculture, Fisheries and Conservation Department said about 1,160 people visited the section on Tuesday under the trial booking system."
-      },
-      "zh": {
-        "headline": "破邊洲大部分遊人稱預約後體驗更好",
-        "dek": "漁護署表示周二約1160人到訪東壩破邊洲段，問卷中大部分遊人稱預約制有效控制人流，觀景台較以前暢順。"
-      }
-    },
-    {
-      "id": "2026-10-06-southern-district-cpe-cluster",
-      "published_at": "2026-10-06T23:22:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "elderly",
-        "southern-district"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-southern-district-cpe-cluster.json",
-      "en": {
-        "headline": "Four elderly-home residents carrying resistant bacteria",
-        "dek": "The Centre for Health Protection is investigating a cluster at a Southern District care home after hospital screening found four residents carrying the bacteria."
-      },
-      "zh": {
-        "headline": "南區安老院四名院友帶有抗藥性腸道桿菌",
-        "dek": "衞生防護中心正調查南區一間安老院的帶菌群組，四名同層院友入院篩查證實帶有產碳青霉烯酶腸道桿菌，暫無相關病徵。"
-      }
-    },
-    {
-      "id": "2026-10-06-tung-chung-line-early-close",
-      "published_at": "2026-10-06T23:22:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "tung-chung",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-tung-chung-line-early-close.json",
-      "en": {
-        "headline": "Tung Chung Line to close early on 28 November",
-        "dek": "Trains between Tung Chung and Sunny Bay will end around 11pm that night for a key turnout installation on the extension."
-      },
-      "zh": {
-        "headline": "東涌綫11月28日晚上提早收車",
-        "dek": "港鐵稱當晚東涌至欣澳列車約晚上11時結束，以配合延綫第三次關鍵道岔安裝，並設免費接駁巴士。"
       }
     }
   ]
