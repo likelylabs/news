@@ -1,8 +1,110 @@
 {
-  "generated_at": "2026-10-09T15:11:03+08:00",
+  "generated_at": "2026-10-09T17:11:34+08:00",
   "live_window_hours": 72,
-  "count": 137,
+  "count": 139,
   "articles": [
+    {
+      "id": "2026-10-09-hang-seng-close",
+      "published_at": "2026-10-09T17:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hang-seng",
+        "markets"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-hang-seng-close.json",
+      "en": {
+        "headline": "Hang Seng closes 426 points higher at 24,211",
+        "dek": "The index finished Friday up 1.79 per cent, extending the midday gain, with turnover at about 209.2 billion dollars."
+      },
+      "zh": {
+        "headline": "恒指收市升426點 重上24211點",
+        "dek": "恒生指數周五收報24211點，升425點或1.79%，成交約2092億元，科指升逾3%。"
+      }
+    },
+    {
+      "id": "2026-10-09-huanggang-insurance-cover",
+      "published_at": "2026-10-09T17:20:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "huanggang",
+        "insurance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-huanggang-insurance-cover.json",
+      "en": {
+        "headline": "Compulsory cover extended to Hong Kong side of Huanggang Port",
+        "dek": "The government said 45 insurers have agreed, at no extra premium, to extend motor and employees' compensation policies to the Hong Kong port area."
+      },
+      "zh": {
+        "headline": "強制汽車及僱員補償保險擴至皇崗港方口岸區",
+        "dek": "政府稱已與45間保險公司簽訂市場協議，現有強制性保單毋須加費即可覆蓋皇崗口岸港方口岸區。"
+      }
+    },
+    {
+      "id": "2026-10-09-nt-north-hospital-cluster",
+      "published_at": "2026-10-09T17:20:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "hospital",
+        "northern-metropolis",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-nt-north-hospital-cluster.json",
+      "en": {
+        "headline": "Lo says work on a New Territories North hospital cluster starts next year",
+        "dek": "The health secretary told LegCo the Hospital Authority would begin preparing a New Territories North cluster in 2027 to match Northern Metropolis growth."
+      },
+      "zh": {
+        "headline": "盧寵茂：明年起籌建新界北醫院聯網",
+        "dek": "醫務衞生局局長表示，為配合北部都會區，明年起會開展籌建新界北聯網，並評估洪水橋醫院的需要。"
+      }
+    },
+    {
+      "id": "2026-10-09-subdivided-flat-registrations",
+      "published_at": "2026-10-09T17:20:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "housing",
+        "subdivided-units",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-subdivided-flat-registrations.json",
+      "en": {
+        "headline": "Housing Bureau logs over 74,300 subdivided-unit registrations",
+        "dek": "Winnie Ho told lawmakers the basic-housing scheme has drawn more than 74,300 applications about six months after it began."
+      },
+      "zh": {
+        "headline": "房屋局已收逾7.43萬個分間單位登記申請",
+        "dek": "何永賢在立法會表示，簡樸房制度推行約半年多，已收到超過7.43萬個分間單位登記申請。"
+      }
+    },
+    {
+      "id": "2026-10-09-wo-hop-shek-crematorium",
+      "published_at": "2026-10-09T17:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "crematorium",
+        "wo-hop-shek"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-wo-hop-shek-crematorium.json",
+      "en": {
+        "headline": "Government proposes a new Wo Hop Shek crematorium for 2032",
+        "dek": "A paper to LegCo puts the cost at about 2.03 billion dollars and says the site would add about 21,600 cremation sessions a year."
+      },
+      "zh": {
+        "headline": "政府建議和合石建新火葬場 預計2032年啟用",
+        "dek": "立法會文件初步估算工程費用約20.3億元，新場設10個火化爐，每年可多提供約2.16萬節時段。"
+      }
+    },
     {
       "id": "2026-10-09-competition-vr-raids",
       "published_at": "2026-10-09T15:04:00+08:00",
@@ -2787,70 +2889,6 @@
       "zh": {
         "headline": "西九管理局赤字擴大至9.98億元",
         "dek": "管理局稱2025/26年度赤字較上一財年多約2.29億元，主因是西九演藝中心開幕前的前期準備。"
-      }
-    },
-    {
-      "id": "2026-10-06-lifestyle-disgusting-food-museum",
-      "published_at": "2026-10-06T15:18:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "kai-tak",
-        "food"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-lifestyle-disgusting-food-museum.json",
-      "en": {
-        "headline": "Swedish food museum stays at Kai Tak Airside until late November",
-        "dek": "The Disgusting Food Museum, on its first Hong Kong run, is at GATE33 in Airside through 26 November, with weekday and weekend hours published by the organisers."
-      },
-      "zh": {
-        "headline": "瑞典「嘔心食物」展暫駐啟德AIRSIDE至11月底",
-        "dek": "源自瑞典馬爾默的「嘔心食物博物館」首度來港，在啟德AIRSIDE三樓GATE33展出至11月26日，平日與周末開放時間不同。"
-      }
-    },
-    {
-      "id": "2026-10-06-outstanding-young-persons",
-      "published_at": "2026-10-06T15:18:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "awards",
-        "sport",
-        "youth"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-outstanding-young-persons.json",
-      "en": {
-        "headline": "Nine named Outstanding Young Persons, including fencer and jockey",
-        "dek": "The 2026 selection was announced at the Convention and Exhibition Centre, with foil fencer Choi Chun-yin and jockey Vincent Ho among the nine recipients."
-      },
-      "zh": {
-        "headline": "十大傑青揭曉 劍擊蔡俊彥及騎師何澤堯在列",
-        "dek": "2026年十大傑出青年選舉周二在灣仔會展公布，九人獲選，包括剛完成名古屋亞運的劍擊選手蔡俊彥及騎師何澤堯。"
-      }
-    },
-    {
-      "id": "2026-10-06-sun-dong-ai-briefing",
-      "published_at": "2026-10-06T15:18:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "ai",
-        "legco",
-        "innovation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-sun-dong-ai-briefing.json",
-      "en": {
-        "headline": "Sun says Sandy Ridge computing power to reach 36 times today's level",
-        "dek": "The innovation secretary told legislators the first five-year plan treats artificial intelligence as a core industry, with a Sandy Ridge data campus due by 2032."
-      },
-      "zh": {
-        "headline": "孫東：沙嶺數據園區2032年前算力料達現時36倍",
-        "dek": "創新科技及工業局局長孫東向立法會簡介五年規劃，指人工智能是重點產業，沙嶺數據園區已動工，累計投資最少238億元。"
       }
     }
   ]
