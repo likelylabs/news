@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-10-09T23:22:45+08:00",
+  "generated_at": "2026-10-10T01:05:46+08:00",
   "live_window_hours": 72,
-  "count": 134,
+  "count": 137,
   "articles": [
+    {
+      "id": "2026-10-10-adora-flora-city-homeport",
+      "published_at": "2026-10-10T01:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "cruise",
+        "tourism",
+        "victoria-harbour"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-adora-flora-city-homeport.json",
+      "en": {
+        "headline": "Adora Flora City to sail 19 Hong Kong home-port trips in 2027",
+        "dek": "The cruise line said the ship will use Hong Kong as a home port for 19 sailings next year, after a November call and a New Year overnight voyage."
+      },
+      "zh": {
+        "headline": "愛達·花城號明年以香港為母港 營運19個航次",
+        "dek": "愛達郵輪周五公佈，花城號明年將以香港為母港開出19個航次，並於十一月首航後到訪香港。"
+      }
+    },
+    {
+      "id": "2026-10-10-kmb-huanggang-routes",
+      "published_at": "2026-10-10T01:12:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "kmb",
+        "huanggang",
+        "bus"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-kmb-huanggang-routes.json",
+      "en": {
+        "headline": "KMB to open three routes to Huanggang Port on Monday",
+        "dek": "Services from Kwai Fong, Tin Shui Wai and Sha Tin start when the rebuilt port opens, with an interchange concession on more than 100 routes."
+      },
+      "zh": {
+        "headline": "九巴下周一開辦三條新皇崗口岸路線",
+        "dek": "葵芳、天水圍及沙田線隨口岸開通同日投入服務，並與逾百條路線提供搭兩程、俾一程優惠。"
+      }
+    },
+    {
+      "id": "2026-10-10-lifestyle-westk-picnic",
+      "published_at": "2026-10-10T01:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "west-kowloon",
+        "festival",
+        "art-park"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-lifestyle-westk-picnic.json",
+      "en": {
+        "headline": "West Kowloon picnic festival runs its final weekend",
+        "dek": "The West Kowloon Cultural District lists the picnic festival through Sunday, closing a run that began in mid-September."
+      },
+      "zh": {
+        "headline": "西九野餐節進入最後週末 周日結束",
+        "dek": "西九文化區網頁列出野餐節由九月中開至周日，今個週末是節期最後兩天。"
+      }
+    },
     {
       "id": "2026-10-09-ec-nominations-day-three",
       "published_at": "2026-10-09T23:22:00+08:00",
