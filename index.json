@@ -1,8 +1,112 @@
 {
-  "generated_at": "2026-10-09T19:12:46+08:00",
+  "generated_at": "2026-10-09T21:06:27+08:00",
   "live_window_hours": 72,
-  "count": 134,
+  "count": 135,
   "articles": [
+    {
+      "id": "2026-10-09-building-dispute-mechanism",
+      "published_at": "2026-10-09T21:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "building-management",
+        "home-affairs",
+        "district-councils"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-building-dispute-mechanism.json",
+      "en": {
+        "headline": "Mak says three-tier building-dispute system will start next year",
+        "dek": "The home affairs chief told lawmakers a three-tier system, with early district-councillor involvement and professional mediation, is planned for next year."
+      },
+      "zh": {
+        "headline": "麥美娟：明年推大廈管理糾紛三層機制",
+        "dek": "民政及青年事務局局長表示，明年會推出三層機制，由區議員及早介入並配合專業調解，處理大廈管理糾紛。"
+      }
+    },
+    {
+      "id": "2026-10-09-building-fire-law-changes",
+      "published_at": "2026-10-09T21:06:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "buildings",
+        "fire-safety",
+        "development-bureau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-building-fire-law-changes.json",
+      "en": {
+        "headline": "Government aims to table building and fire law changes by year end",
+        "dek": "Officials told lawmakers they plan to widen building-law amendments and revise the Fire Services Ordinance, with drafts targeted before the end of the year."
+      },
+      "zh": {
+        "headline": "政府目標年底提交建築物及消防條例修訂",
+        "dek": "發展局及保安局向立法會表示，將擴大建築物條例修訂範圍，並修訂消防條例，目標今年底提交建議。"
+      }
+    },
+    {
+      "id": "2026-10-09-civil-service-appraisal",
+      "published_at": "2026-10-09T21:06:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "civil-service",
+        "appraisal"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-civil-service-appraisal.json",
+      "en": {
+        "headline": "Civil service appraisal overhaul begins for 100 grades",
+        "dek": "The Civil Service Bureau said the first phase covers 100 grades in appraisal cycles starting on or after 1 October, with a review after two cycles."
+      },
+      "zh": {
+        "headline": "公務員評核優化首期涵蓋100個職階",
+        "dek": "公務員事務局表示，評核制度優化計劃第一期涵蓋100個職階，適用於10月1日或之後開始的評核周期，兩個周期後檢討。"
+      }
+    },
+    {
+      "id": "2026-10-09-legco-five-year-plan-vote",
+      "published_at": "2026-10-09T21:06:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "legco",
+        "policy-address",
+        "five-year-plan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-legco-five-year-plan-vote.json",
+      "en": {
+        "headline": "Lawmakers pass thanks motion on five-year plan and policy address",
+        "dek": "After three days of debate, the Legislative Council passed the thanks motion on Hong Kong's first five-year plan and the Policy Address."
+      },
+      "zh": {
+        "headline": "立法會通過五年規劃及施政報告致謝議案",
+        "dek": "立法會經過一連三日辯論，周五晚上通過香港第一個五年規劃及施政報告的致謝議案。"
+      }
+    },
+    {
+      "id": "2026-10-09-oocl-q3-revenue",
+      "published_at": "2026-10-09T21:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "shipping",
+        "oocl",
+        "earnings"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-oocl-q3-revenue.json",
+      "en": {
+        "headline": "Orient Overseas says third-quarter line revenue rose 45 per cent",
+        "dek": "The carrier reported line revenue of 3.285 billion US dollars for the quarter, with the Pacific trade up nearly 72 per cent, RTHK said."
+      },
+      "zh": {
+        "headline": "東方海外第三季航線收入按年升45%",
+        "dek": "公司第三季航線收入32.85億美元，太平洋航線升近72%至約14.4億美元，為最大收入來源。"
+      }
+    },
     {
       "id": "2026-10-09-competition-false-statement",
       "published_at": "2026-10-09T19:06:00+08:00",
@@ -2698,88 +2802,6 @@
       "zh": {
         "headline": "東涌綫11月28日晚上提早收車",
         "dek": "港鐵稱當晚東涌至欣澳列車約晚上11時結束，以配合延綫第三次關鍵道岔安裝，並設免費接駁巴士。"
-      }
-    },
-    {
-      "id": "2026-10-06-amoy-gardens-murder-sentence",
-      "published_at": "2026-10-06T21:04:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "kowloon-bay"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-amoy-gardens-murder-sentence.json",
-      "en": {
-        "headline": "High Court jails man for life over Kowloon Bay killing",
-        "dek": "A jury found Tam Yun-chiu guilty of murdering bus driver Ho Lok-man after a dispute at Amoy Gardens in September 2023."
-      },
-      "zh": {
-        "headline": "淘大花園命案裝修工謀殺罪成 判囚終身",
-        "dek": "高等法院陪審團裁定52歲譚潤超謀殺巴士司機何洛文罪名成立，案件源於2023年9月淘大花園一宗吸煙爭執。"
-      }
-    },
-    {
-      "id": "2026-10-06-cheung-sha-wan-flat-death",
-      "published_at": "2026-10-06T21:04:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "cheung-sha-wan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-cheung-sha-wan-flat-death.json",
-      "en": {
-        "headline": "Man found dead in Cheung Sha Wan flat, woman taken to hospital",
-        "dek": "Police said security staff at One Madison on Castle Peak Road reported an unusual smell at about 5:20pm, and firefighters forced entry."
-      },
-      "zh": {
-        "headline": "長沙灣單位老翁證實死亡 七旬女子送明愛",
-        "dek": "警方稱青山道305號One Madison保安下午約5時20分報案，指單位傳出異味且住戶多時未露面，消防其後破門。"
-      }
-    },
-    {
-      "id": "2026-10-06-hkma-malaysia-cooperation",
-      "published_at": "2026-10-06T21:04:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hkma",
-        "banking",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-hkma-malaysia-cooperation.json",
-      "en": {
-        "headline": "HKMA and Malaysia's central bank widen fraud and market ties",
-        "dek": "The authorities said they would set up a policy group on compliant cross-border stablecoin uses and strengthen links between payment systems."
-      },
-      "zh": {
-        "headline": "金管局與馬來西亞央行加強打擊騙案及市場聯通",
-        "dek": "雙方宣布成立政策工作小組，推動合規跨境穩定幣應用，並加強即時支付結算系統之間的聯通。"
-      }
-    },
-    {
-      "id": "2026-10-06-mong-kok-fire-extinguished",
-      "published_at": "2026-10-06T21:04:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "mong-kok",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-mong-kok-fire-extinguished.json",
-      "en": {
-        "headline": "Mong Kok rooftop fire put out, no injuries reported",
-        "dek": "The blaze at Shun King Building on Nelson Street was extinguished at about 6:42pm after 30 to 40 residents left the building."
-      },
-      "zh": {
-        "headline": "旺角順景大廈天台火警救熄 暫無傷亡報告",
-        "dek": "奶路臣街順景大廈天台火警於傍晚約6時42分救熄，約30至40名住戶自行走到地面，警方稱暫無人受傷。"
       }
     }
   ]
