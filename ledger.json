@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-09T09:01:24+08:00",
+  "updated_at": "2026-10-09T09:18:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "san-po-kong-drink-drive-oct9",
+      "id": "2026-10-09-san-po-kong-drink-drive",
+      "first_seen": "2026-10-09T09:18:00+08:00",
+      "headline_en": "Police arrest man, 41, after failed breath test in San Po Kong"
+    },
+    {
+      "key": "kwai-fong-salt-water-burst-oct8",
+      "id": "2026-10-09-kwai-fong-salt-water",
+      "first_seen": "2026-10-09T09:18:00+08:00",
+      "headline_en": "Salt-water pipe burst floods Kwai Fong motorcycle bays"
+    },
+    {
+      "key": "arbuthnot-road-shop-sale-oct9",
+      "id": "2026-10-09-arbuthnot-shop-sale",
+      "first_seen": "2026-10-09T09:18:00+08:00",
+      "headline_en": "Hip Shing Hong sells Central shop held for 55 years"
+    },
+    {
+      "key": "lifestyle-heath-regret-exhibition",
+      "id": "2026-10-09-lifestyle-heath-regret",
+      "first_seen": "2026-10-09T09:18:00+08:00",
+      "headline_en": "Heath opens a public-regret show in Chungking Mansions"
+    },
     {
       "key": "sham-shui-po-taxi-crash-oct9",
       "id": "2026-10-09-sham-shui-po-taxi-crash",
