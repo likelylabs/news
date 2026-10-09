@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-10T03:17:34+08:00",
+  "updated_at": "2026-10-10T07:10:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "yellow-fire-danger-oct10",
+      "id": "2026-10-10-yellow-fire-danger",
+      "first_seen": "2026-10-10T07:10:00+08:00",
+      "headline_en": "Observatory raises yellow fire danger warning"
+    },
+    {
+      "key": "ping-tin-estate-death-oct9",
+      "id": "2026-10-10-ping-tin-estate-death",
+      "first_seen": "2026-10-10T07:10:00+08:00",
+      "headline_en": "Man, 57, found dead at Ping Tin Estate, reports say"
+    },
+    {
+      "key": "cyclothon-road-closures-oct11",
+      "id": "2026-10-10-cyclothon-road-closures",
+      "first_seen": "2026-10-10T07:10:00+08:00",
+      "headline_en": "Cyclothon closures begin at Mody Road from noon"
+    },
+    {
+      "key": "lifestyle-moonlit-bunny-final-weekend",
+      "id": "2026-10-10-lifestyle-moonlit-bunny",
+      "first_seen": "2026-10-10T07:10:00+08:00",
+      "headline_en": "Moonlit Bunny lights stay at Cultural Centre until Sunday"
+    },
     {
       "key": "lifestyle-pmq-candlelight-oct10",
       "id": "2026-10-10-lifestyle-pmq-candlelight",

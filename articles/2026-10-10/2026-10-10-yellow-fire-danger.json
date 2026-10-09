@@ -1,0 +1,31 @@
+{
+  "id": "2026-10-10-yellow-fire-danger",
+  "published_at": "2026-10-10T07:10:00+08:00",
+  "category": "weather",
+  "tags": [
+    "observatory",
+    "fire-danger",
+    "warning"
+  ],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "yellow-fire-danger-oct10",
+  "en": {
+    "headline": "Observatory raises yellow fire danger warning",
+    "dek": "The Hong Kong Observatory issued a yellow fire danger warning at 6am on Saturday, saying the fire risk is fairly high.",
+    "body": [
+      "The Hong Kong Observatory issued a yellow fire danger warning at 6am on Saturday. The warning means the fire risk is fairly high, and it was still in force in the early morning.",
+      "The Observatory reminded the public to stay alert and to take the usual fire precautions. A yellow signal is the lower of the two fire danger warnings; a red warning would mean the risk is extreme.",
+      "No rainstorm, thunderstorm or tropical cyclone signal was reported in force with the fire warning. Hikers and people using country parks were among those the signal is meant to alert on a dry morning."
+    ]
+  },
+  "zh": {
+    "headline": "天文台上午6時發出黃色火災危險警告",
+    "dek": "香港天文台周六上午6時發出黃色火災危險警告，表示火災危險性頗高，呼籲市民提高警覺。",
+    "body": [
+      "香港天文台周六上午6時發出黃色火災危險警告。警告表示火災危險性頗高，清晨時分仍然生效。",
+      "天文台提醒市民特別提高警覺，並採取適當防火措施。黃色是兩級火災危險警告中較低的一級；紅色則表示危險性極高。",
+      "與這項警告同時，未有接獲暴雨、雷暴或熱帶氣旋信號生效的公布。警告亦提醒使用郊野公園及行山的人士，在乾燥的早上要小心火種。"
+    ]
+  }
+}
