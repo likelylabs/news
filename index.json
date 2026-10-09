@@ -1,8 +1,92 @@
 {
-  "generated_at": "2026-10-09T09:01:24+08:00",
+  "generated_at": "2026-10-09T09:16:29+08:00",
   "live_window_hours": 72,
-  "count": 134,
+  "count": 136,
   "articles": [
+    {
+      "id": "2026-10-09-arbuthnot-shop-sale",
+      "published_at": "2026-10-09T09:18:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "property",
+        "central",
+        "retail"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-arbuthnot-shop-sale.json",
+      "en": {
+        "headline": "Hip Shing Hong sells Central shop held for 55 years",
+        "dek": "A ground-floor unit on Arbuthnot Road changed hands last month for 21.4 million dollars, the Post reported."
+      },
+      "zh": {
+        "headline": "協成行沽出持有55年中環地舖",
+        "dek": "《南華早報》引土地註冊處資料稱，亞畢諾道地舖上月底以2140萬元易手。"
+      }
+    },
+    {
+      "id": "2026-10-09-kwai-fong-salt-water",
+      "published_at": "2026-10-09T09:18:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "kwai-fong",
+        "water",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-kwai-fong-salt-water.json",
+      "en": {
+        "headline": "Salt-water pipe burst floods Kwai Fong motorcycle bays",
+        "dek": "Muddy water soaked parked bikes on Wing Fong Road on Wednesday night after a short supply cut."
+      },
+      "zh": {
+        "headline": "葵芳榮芳路鹹水管爆裂 電單車泊位湧黃泥水",
+        "dek": "周三約晚上10時盛芳街一帶地底鹹水管爆裂，水務署暫停供應約32分鐘。"
+      }
+    },
+    {
+      "id": "2026-10-09-lifestyle-heath-regret",
+      "published_at": "2026-10-09T09:18:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "tsim-sha-tsui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-lifestyle-heath-regret.json",
+      "en": {
+        "headline": "Heath opens a public-regret show in Chungking Mansions",
+        "dek": "What We Regret Most, built from about 40 public submissions, runs in Tsim Sha Tsui until 27 October."
+      },
+      "zh": {
+        "headline": "重慶大廈Heath展出公眾「最後悔」故事",
+        "dek": "展覽《What We Regret Most》周四晚開幕，展至10月27日，約有40件公眾投稿。"
+      }
+    },
+    {
+      "id": "2026-10-09-san-po-kong-drink-drive",
+      "published_at": "2026-10-09T09:18:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "san-po-kong",
+        "drink-driving",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-san-po-kong-drink-drive.json",
+      "en": {
+        "headline": "Police arrest man, 41, after failed breath test in San Po Kong",
+        "dek": "Officers stopped an unsteady private car near Choi Hung Road late on Wednesday and bailed the driver."
+      },
+      "zh": {
+        "headline": "新蒲崗私家車行車不穩 41歲司機酒測不合格被捕",
+        "dek": "東九龍交通部周三深夜在彩虹道路障截停一輛自訂車牌私家車，司機保釋候查。"
+      }
+    },
     {
       "id": "2026-10-09-kwun-tong-gambling-raid",
       "published_at": "2026-10-09T07:04:00+08:00",
@@ -2743,47 +2827,6 @@
       "zh": {
         "headline": "李家超：宏福苑報告交到後會盡快改革並追究責任",
         "dek": "特首說獨立委員會提交報告後，政府會即時研究建議、推行改革並公布細節，同時追究責任。"
-      }
-    },
-    {
-      "id": "2026-10-06-autumn-low-temperature",
-      "published_at": "2026-10-06T09:15:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "observatory",
-        "weather"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-autumn-low-temperature.json",
-      "en": {
-        "headline": "Observatory records 23.3 degrees, autumn's coolest morning",
-        "dek": "The Observatory said 23.3 degrees by 7:30am was the lowest since autumn began, with a high near 29 degrees expected later."
-      },
-      "zh": {
-        "headline": "天文台今早錄得23.3度 入秋以來最低",
-        "dek": "天文台說截至早上7時半最低23.3度，是今年入秋以來最低，日間最高氣溫約29度。"
-      }
-    },
-    {
-      "id": "2026-10-06-lifestyle-cyclothon-sunday",
-      "published_at": "2026-10-06T09:15:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "lifestyle",
-        "west-kowloon",
-        "cycling"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-lifestyle-cyclothon-sunday.json",
-      "en": {
-        "headline": "Cyclothon returns to West Kowloon this Sunday",
-        "dek": "The Tourism Board lists a 56km ride from 5:15am and a UCI Class 1.1 race later on 11 October, both based at the cultural district."
-      },
-      "zh": {
-        "headline": "香港單車節周日在西九文化區舉行",
-        "dek": "旅發局公布11日有56公里騎行，清晨5時15分開騎，同日亦有UCI 1.1級公路賽，起終點在西九。"
       }
     }
   ]
