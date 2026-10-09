@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-09T19:12:46+08:00",
+  "updated_at": "2026-10-09T21:06:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "legco-five-year-plan-vote-oct9",
+      "id": "2026-10-09-legco-five-year-plan-vote",
+      "first_seen": "2026-10-09T21:06:00+08:00",
+      "headline_en": "Lawmakers pass thanks motion on five-year plan and policy address"
+    },
+    {
+      "key": "building-fire-ordinance-amendments-oct9",
+      "id": "2026-10-09-building-fire-law-changes",
+      "first_seen": "2026-10-09T21:06:00+08:00",
+      "headline_en": "Government aims to table building and fire law changes by year end"
+    },
+    {
+      "key": "building-management-dispute-tiers-oct9",
+      "id": "2026-10-09-building-dispute-mechanism",
+      "first_seen": "2026-10-09T21:06:00+08:00",
+      "headline_en": "Mak says three-tier building-dispute system will start next year"
+    },
+    {
+      "key": "civil-service-appraisal-phase-one-oct9",
+      "id": "2026-10-09-civil-service-appraisal",
+      "first_seen": "2026-10-09T21:06:00+08:00",
+      "headline_en": "Civil service appraisal overhaul begins for 100 grades"
+    },
+    {
+      "key": "oocl-q3-line-revenue-oct9",
+      "id": "2026-10-09-oocl-q3-revenue",
+      "first_seen": "2026-10-09T21:06:00+08:00",
+      "headline_en": "Orient Overseas says third-quarter line revenue rose 45 per cent"
+    },
     {
       "key": "imported-chikungunya-dengue-oct9",
       "id": "2026-10-09-imported-mosquito-cases",
