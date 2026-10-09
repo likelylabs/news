@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-10-10T01:05:46+08:00",
+  "generated_at": "2026-10-10T03:17:34+08:00",
   "live_window_hours": 72,
-  "count": 137,
+  "count": 134,
   "articles": [
+    {
+      "id": "2026-10-10-lifestyle-pmq-candlelight",
+      "published_at": "2026-10-10T03:16:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "pmq",
+        "concert",
+        "sheung-wan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-lifestyle-pmq-candlelight.json",
+      "en": {
+        "headline": "Candlelight string concerts return to PMQ this weekend",
+        "dek": "PMQ lists two Fever concerts on Saturday and Sunday at the Qube, with sittings at 5pm and 7pm and tickets from 130 dollars."
+      },
+      "zh": {
+        "headline": "燭光弦樂音樂會今個周末再於元創方演出",
+        "dek": "元創方活動頁列出周六及周日於Qube舉行兩場，下午5時及7時開場，票價由130元起。"
+      }
+    },
+    {
+      "id": "2026-10-10-tuen-mun-road-crashes",
+      "published_at": "2026-10-10T03:16:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "tuen-mun",
+        "traffic",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-tuen-mun-road-crashes.json",
+      "en": {
+        "headline": "Three Tuen Mun Road crashes injure at least eight",
+        "dek": "Police logged three collisions in about 20 minutes on Friday evening near Siu Hong, and queues toward Yuen Long stretched past 10 kilometres."
+      },
+      "zh": {
+        "headline": "屯門公路傍晚三宗車禍 最少八人受傷",
+        "dek": "《香港01》及星島報道，周五傍晚約20分鐘內兆康一帶接連三宗交通意外，往元朗車龍一度逾10公里。"
+      }
+    },
+    {
+      "id": "2026-10-10-yau-ma-tei-death",
+      "published_at": "2026-10-10T03:16:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "yau-ma-tei",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-yau-ma-tei-death.json",
+      "en": {
+        "headline": "Man, 46, found dead in a Yau Ma Tei room, police say",
+        "dek": "Officers classified the Friday night case as the discovery of a body after a friend reported that the man had collapsed, Hong Kong 01 reported."
+      },
+      "zh": {
+        "headline": "油麻地46歲男子房間內暈倒 當場不治",
+        "dek": "《香港01》報道，警方周五晚接報後將案件列作屍體發現，死因有待驗屍確定。"
+      }
+    },
     {
       "id": "2026-10-10-adora-flora-city-homeport",
       "published_at": "2026-10-10T01:12:00+08:00",
@@ -2718,134 +2781,6 @@
       "zh": {
         "headline": "爆炸品處理課證實尖沙咀粉末信內是麵粉",
         "dek": "堪富利士道商廈保安拆信發現白色粉末及恐嚇字句，爆炸品處理課檢驗後證實是麵粉，案件列刑事恐嚇。"
-      }
-    },
-    {
-      "id": "2026-10-07-happiness-index",
-      "published_at": "2026-10-07T03:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "survey",
-        "mental-health",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-happiness-index.json",
-      "en": {
-        "headline": "Happiness index slips to 5.87, below pass mark for fourth year",
-        "dek": "A Wofoo survey of 1,039 adults put the city at 5.87 out of 10, with Generation Y the least happy age group and more than 40 per cent reporting depressive symptoms."
-      },
-      "zh": {
-        "headline": "本港開心指數降至5.87 連續第四年未達合格線",
-        "dek": "和富社會企業「香港開心D」訪問1039名成人，指數由去年5.95跌至5.87；約30至45歲組別最低，逾四成受訪者呈中度至嚴重抑鬱症狀。"
-      }
-    },
-    {
-      "id": "2026-10-07-kwong-fuk-water-outage",
-      "published_at": "2026-10-07T03:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tai-po",
-        "public-housing",
-        "water"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-kwong-fuk-water-outage.json",
-      "en": {
-        "headline": "Tai Po estate block loses water and lifts after pipe leak",
-        "dek": "More than 670 households at Kwong Chi House in Kwong Fuk Estate were without running water and lift service after a leak in the underground pump room."
-      },
-      "zh": {
-        "headline": "大埔廣福邨廣智樓喉管漏水 逾670戶停水停𨋢",
-        "dek": "廣智樓地下水喉房喉管漏水，大廈緊急停水並暫停升降機，區議員引述管理公司指部分食水料凌晨恢復，𨋢最快周三修復。"
-      }
-    },
-    {
-      "id": "2026-10-07-lifestyle-hkpax-harbourfront",
-      "published_at": "2026-10-07T03:16:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "performing-arts",
-        "tsim-sha-tsui",
-        "opening"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-lifestyle-hkpax-harbourfront.json",
-      "en": {
-        "headline": "Free harbourfront shows continue as arts expo opens Friday",
-        "dek": "The Hong Kong Performing Arts Expo runs from 9 to 13 October, with free outdoor performances at the Cultural Centre plaza each afternoon through Friday."
-      },
-      "zh": {
-        "headline": "演藝博覽周五開幕 文化中心露天廣場免費演出至周五",
-        "dek": "第二屆香港演藝博覽10月9日至13日舉行，序幕節目由周二起至周五每日下午4時半至7時半在文化中心露天廣場免費演出。"
-      }
-    },
-    {
-      "id": "2026-10-07-bamboo-shoot-labelling",
-      "published_at": "2026-10-07T01:06:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "food-safety",
-        "recall",
-        "cfs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-bamboo-shoot-labelling.json",
-      "en": {
-        "headline": "Food safety centre orders recall of mislabelled bamboo shoots",
-        "dek": "A prepackaged sample sold through HKTV Mall contained sulphur dioxide within the legal limit, but the label did not name the additive."
-      },
-      "zh": {
-        "headline": "食安中心令預先包裝竹筍停售回收 標籤未列二氧化硫",
-        "dek": "樣本經HKTV Mall出售，檢出的二氧化硫未超出法定上限，但標籤沒有標明添加劑名稱及作用類別。"
-      }
-    },
-    {
-      "id": "2026-10-07-lifestyle-halloween-month",
-      "published_at": "2026-10-07T01:06:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "halloween",
-        "tourism",
-        "tram"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-lifestyle-halloween-month.json",
-      "en": {
-        "headline": "Tourism Board extends Halloween night bus and tram rides to six days",
-        "dek": "Costumed riders who spend at partner outlets can collect free night rides on selected weekends from 17 October through Halloween."
-      },
-      "zh": {
-        "headline": "旅發局擴大萬聖月夜間巴士及電車 增至六天",
-        "dek": "盛裝人士在合作商戶消費達指定金額，可於10月17日起指定周末換領免費夜間乘車體驗，涵蓋萬聖節當日。"
-      }
-    },
-    {
-      "id": "2026-10-07-school-fee-approvals",
-      "published_at": "2026-10-07T01:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "schools",
-        "tuition"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-school-fee-approvals.json",
-      "en": {
-        "headline": "Education Bureau clears fee rises at private and DSS schools",
-        "dek": "Average approved increases for this academic year are 4.75 per cent at private schools, 4.07 per cent at Direct Subsidy Scheme schools and 4 per cent at international schools."
-      },
-      "zh": {
-        "headline": "教育局批准私校及直資校加學費 平均加幅介乎4%至4.75%",
-        "dek": "本學年私校、直資學校及國際學校獲批的平均學費加幅，分別為4.75%、4.07%及4%。"
       }
     }
   ]
