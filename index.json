@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-10-10T03:17:34+08:00",
+  "generated_at": "2026-10-10T07:04:45+08:00",
   "live_window_hours": 72,
-  "count": 134,
+  "count": 138,
   "articles": [
+    {
+      "id": "2026-10-10-cyclothon-road-closures",
+      "published_at": "2026-10-10T07:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "cyclothon",
+        "road-closure",
+        "transport-department"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-cyclothon-road-closures.json",
+      "en": {
+        "headline": "Cyclothon closures begin at Mody Road from noon",
+        "dek": "The Transport Department says a loading area and a slow lane off Mody Road close from Saturday noon, with wider closures from 1am on Sunday."
+      },
+      "zh": {
+        "headline": "單車節封路周六中午由麼地道開始",
+        "dek": "運輸署公布周日香港單車節特別交通安排，麼地道上落客貨區及慢線周六中午起封閉，主要封路則由周日凌晨1時展開。"
+      }
+    },
+    {
+      "id": "2026-10-10-lifestyle-moonlit-bunny",
+      "published_at": "2026-10-10T07:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "tsim-sha-tsui",
+        "lcsd",
+        "installation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-lifestyle-moonlit-bunny.json",
+      "en": {
+        "headline": "Moonlit Bunny lights stay at Cultural Centre until Sunday",
+        "dek": "The Leisure and Cultural Services Department says the STICKYLINE installation at the Cultural Centre Piazza is lit from 6:30pm to 11pm and runs until Sunday."
+      },
+      "zh": {
+        "headline": "文化中心「月下兔仔團」燈飾展至周日",
+        "dek": "康文署表示，本地團隊STICKYLINE的燈飾裝置置於文化中心廣場，每日傍晚6時半至晚上11時亮燈，展期至周日。"
+      }
+    },
+    {
+      "id": "2026-10-10-ping-tin-estate-death",
+      "published_at": "2026-10-10T07:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "lam-tin",
+        "police",
+        "ping-tin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-ping-tin-estate-death.json",
+      "en": {
+        "headline": "Man, 57, found dead at Ping Tin Estate, reports say",
+        "dek": "Hong Kong 01 and Sing Tao reported that staff found a man unconscious in a service building at about 9pm on Friday, and paramedics confirmed he had died."
+      },
+      "zh": {
+        "headline": "藍田平田邨服務大樓揭57歲男子死亡",
+        "dek": "《香港01》及星島報道，周五晚約9時職員發現男子在服務設施大樓房間內暈倒，救護員到場證實不治。"
+      }
+    },
+    {
+      "id": "2026-10-10-yellow-fire-danger",
+      "published_at": "2026-10-10T07:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "observatory",
+        "fire-danger",
+        "warning"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-yellow-fire-danger.json",
+      "en": {
+        "headline": "Observatory raises yellow fire danger warning",
+        "dek": "The Hong Kong Observatory issued a yellow fire danger warning at 6am on Saturday, saying the fire risk is fairly high."
+      },
+      "zh": {
+        "headline": "天文台上午6時發出黃色火災危險警告",
+        "dek": "香港天文台周六上午6時發出黃色火災危險警告，表示火災危險性頗高，呼籲市民提高警覺。"
+      }
+    },
     {
       "id": "2026-10-10-lifestyle-pmq-candlelight",
       "published_at": "2026-10-10T03:16:00+08:00",
