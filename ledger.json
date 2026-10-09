@@ -1,1 +1,24 @@
-{"updated_at":"2026-10-09T15:04:00+08:00","retention_days":5,"covered":[{"key":"competition-commission-lens-oct9","id":"2026-10-09-competition-vr-raids","first_seen":"2026-10-09T15:04:00+08:00","headline_en":"Competition watchdog searches 11 sites over school VR bids"},{"key":"hkhs-fake-website-oct9","id":"2026-10-09-hkhs-fake-website","first_seen":"2026-10-09T15:04:00+08:00","headline_en":"Housing Society warns of fake Fanling AI receptionist site"},{"key":"huanggang-last-shuttle-oct12","id":"2026-10-09-huanggang-last-shuttle","first_seen":"2026-10-09T15:04:00+08:00","headline_en":"Last Huanggang shuttle leaves San Tin before Monday opening"}]}
+{
+  "updated_at": "2026-10-09T15:10:04+08:00",
+  "retention_days": 5,
+  "covered": [
+    {
+      "key": "competition-commission-lens-oct9",
+      "id": "2026-10-09-competition-vr-raids",
+      "first_seen": "2026-10-09T15:04:00+08:00",
+      "headline_en": "Competition watchdog searches 11 sites over school VR bids"
+    },
+    {
+      "key": "hkhs-fake-website-oct9",
+      "id": "2026-10-09-hkhs-fake-website",
+      "first_seen": "2026-10-09T15:04:00+08:00",
+      "headline_en": "Housing Society warns of fake Fanling AI receptionist site"
+    },
+    {
+      "key": "huanggang-last-shuttle-oct12",
+      "id": "2026-10-09-huanggang-last-shuttle",
+      "first_seen": "2026-10-09T15:04:00+08:00",
+      "headline_en": "Last Huanggang shuttle leaves San Tin before Monday opening"
+    }
+  ]
+}
