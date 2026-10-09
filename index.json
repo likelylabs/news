@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-10-09T17:11:34+08:00",
+  "generated_at": "2026-10-09T19:10:16+08:00",
   "live_window_hours": 72,
-  "count": 139,
+  "count": 131,
   "articles": [
+    {
+      "id": "2026-10-09-competition-false-statement",
+      "published_at": "2026-10-09T19:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "courts",
+        "competition"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-competition-false-statement.json",
+      "en": {
+        "headline": "Man charged over alleged false statement to competition watchdog",
+        "dek": "The Competition Commission said the Eastern Magistrates case is the first criminal prosecution for giving it false or misleading information."
+      },
+      "zh": {
+        "headline": "男子被控向競委會提供虛假或誤導資料",
+        "dek": "競委會稱，案件周五在東區裁判法院提堂，是首宗因向該會提供虛假或具誤導性資料而提出的刑事檢控。"
+      }
+    },
+    {
+      "id": "2026-10-09-imported-mosquito-cases",
+      "published_at": "2026-10-09T19:06:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "dengue"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-imported-mosquito-cases.json",
+      "en": {
+        "headline": "Centre reports imported chikungunya and dengue cases",
+        "dek": "A 73-year-old man who had been on the mainland has recovered from chikungunya, and a separate dengue case was linked to travel in Vietnam."
+      },
+      "zh": {
+        "headline": "衛生防護中心公布輸入基孔肯雅熱及登革熱個案",
+        "dek": "一名曾往內地的73歲男子感染基孔肯雅熱後已康復出院，另一宗登革熱個案的病人潛伏期內曾到越南。"
+      }
+    },
     {
       "id": "2026-10-09-hang-seng-close",
       "published_at": "2026-10-09T17:20:00+08:00",
@@ -2679,216 +2719,6 @@
       "zh": {
         "headline": "旺角順景大廈天台火警救熄 暫無傷亡報告",
         "dek": "奶路臣街順景大廈天台火警於傍晚約6時42分救熄，約30至40名住戶自行走到地面，警方稱暫無人受傷。"
-      }
-    },
-    {
-      "id": "2026-10-06-fake-ticket-website",
-      "published_at": "2026-10-06T19:08:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "scam",
-        "traffic"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-fake-ticket-website.json",
-      "en": {
-        "headline": "Police warn of fake site offering ticket-fine discounts",
-        "dek": "The force said a fraudulent site posing as the electronic traffic ticket platform seeks card and personal data, and that fines carry no early-payment discount."
-      },
-      "zh": {
-        "headline": "警方揭偽冒電子告票網站 稱早交罰款有折扣",
-        "dek": "警務處說該網站誘使市民提供信用卡及個人資料，強調繳交告票罰款不設任何折扣，電子告票短訊亦不會附超連結。"
-      }
-    },
-    {
-      "id": "2026-10-06-fat-kwong-street-land",
-      "published_at": "2026-10-06T19:08:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "property",
-        "land-sale",
-        "ho-man-tin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-fat-kwong-street-land.json",
-      "en": {
-        "headline": "Kerry wins Ho Man Tin site for over 4.3 billion dollars",
-        "dek": "The Lands Department said Kerry Properties took the Fat Kwong Street residential lot, at more than 20,738 dollars per square foot of floor area, well above market forecasts."
-      },
-      "zh": {
-        "headline": "嘉里逾43.08億投得何文田佛光街住宅地",
-        "dek": "地政總署公布作價遠高於市場預期上限，每平方呎樓面地價逾20738元，上周五截標共收10份標書。"
-      }
-    },
-    {
-      "id": "2026-10-06-mong-kok-rooftop-fire",
-      "published_at": "2026-10-06T19:08:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "mong-kok",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-mong-kok-rooftop-fire.json",
-      "en": {
-        "headline": "Firefighters tackle rooftop blaze at Mong Kok building",
-        "dek": "Police said multiple callers reported the fire at Shun King Building on Nelson Street around 5:30pm, with dozens evacuated and no injuries reported."
-      },
-      "zh": {
-        "headline": "旺角順景大廈天台火警 數十人疏散暫無受傷報告",
-        "dek": "警方稱下午約5時半接獲多人報案，指奶路臣街順景大廈天台起火，初步消息指雜物燒着，消防以一喉及煙帽隊灌救。"
-      }
-    },
-    {
-      "id": "2026-10-06-public-housing-false-declarations",
-      "published_at": "2026-10-06T19:08:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "court",
-        "kwun-tong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-public-housing-false-declarations.json",
-      "en": {
-        "headline": "Two public-housing tenants jailed over undeclared flats",
-        "dek": "The Housing Department said tenants in Choi Hung and Kwong Tin estates were convicted after failing to declare homes they owned when filing income and asset forms in 2025."
-      },
-      "zh": {
-        "headline": "兩公屋住戶虛報無物業 被判監禁",
-        "dek": "房屋署說彩虹邨及廣田邨兩宗個案的住戶，2025年填報入息及資產時沒有申報本港物業，罪名成立後被判監。"
-      }
-    },
-    {
-      "id": "2026-10-06-securities-industry-profit",
-      "published_at": "2026-10-06T19:08:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "sfc",
-        "finance",
-        "stocks"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-securities-industry-profit.json",
-      "en": {
-        "headline": "Securities industry posts 51.7 billion dollar half-year profit",
-        "dek": "The SFC said net profit rose 21 percent from the previous half, while brokers' trading across stocks, bonds and other securities hit a record 149 trillion dollars."
-      },
-      "zh": {
-        "headline": "證券業上半年淨盈利517億元 經紀交易額創新高",
-        "dek": "證監會報告指淨盈利較去年下半年升21%，經紀行股票、債券及其他證券交易總額達149萬億元，活躍客戶約570萬。"
-      }
-    },
-    {
-      "id": "2026-10-06-grade-a-office-rents",
-      "published_at": "2026-10-06T17:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "property",
-        "offices",
-        "cbre"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-grade-a-office-rents.json",
-      "en": {
-        "headline": "CBRE says Grade A office rents rise for a fourth quarter",
-        "dek": "The consultancy put the third-quarter gain at 3.2 percent and the vacancy rate at 15.5 percent at the end of September."
-      },
-      "zh": {
-        "headline": "世邦魏理仕：甲廈租金連升四季",
-        "dek": "報告指第三季甲級寫字樓租金按季升3.2%，9月底空置率降至15.5%。"
-      }
-    },
-    {
-      "id": "2026-10-06-hang-seng-close",
-      "published_at": "2026-10-06T17:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "stocks",
-        "market"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-hang-seng-close.json",
-      "en": {
-        "headline": "Hang Seng closes 240 points higher, up 1 percent",
-        "dek": "The index finished Tuesday at 24,280 after an early jump faded, with drug shares leading and turnover near 98.3 billion dollars."
-      },
-      "zh": {
-        "headline": "恆指收市升240點 全日升約1%",
-        "dek": "港股星期二收報24280點，初段升幅其後收窄，醫藥股領漲，主板成交近983億元。"
-      }
-    },
-    {
-      "id": "2026-10-06-huanggang-echeck-registration",
-      "published_at": "2026-10-06T17:12:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "huanggang",
-        "immigration",
-        "border"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-huanggang-echeck-registration.json",
-      "en": {
-        "headline": "Eligible residents can register for Huanggang joint e-channels",
-        "dek": "The Immigration Department said Hong Kong residents can enrol from Tuesday for the rebuilt crossing's cooperative-inspection lanes."
-      },
-      "zh": {
-        "headline": "合資格居民即日起可登記皇崗合作查驗通道",
-        "dek": "入境處表示，重建後的皇崗口岸稍後開通，合資格香港居民可由星期二起經香港e-道程式登記。"
-      }
-    },
-    {
-      "id": "2026-10-06-wang-fuk-sale-deadline",
-      "published_at": "2026-10-06T17:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "wang-fuk",
-        "tai-po",
-        "housing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-wang-fuk-sale-deadline.json",
-      "en": {
-        "headline": "Housing Bureau reminds Wang Fuk owners of 15 October deadline",
-        "dek": "Owners in blocks A to H who accepted the buyout must sign sale agreements by 15 October, with discretion for special cases."
-      },
-      "zh": {
-        "headline": "房屋局提醒宏福苑業主本月15日前簽協議",
-        "dek": "A至H座已交回接受收購信件的業主，須於10月15日或之前簽出售單位協議，特殊情況可獲酌情。"
-      }
-    },
-    {
-      "id": "2026-10-06-west-kowloon-deficit",
-      "published_at": "2026-10-06T17:12:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "west-kowloon",
-        "wkcda",
-        "legco"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-west-kowloon-deficit.json",
-      "en": {
-        "headline": "West Kowloon deficit widens to 998 million dollars",
-        "dek": "The Authority said the 2025/26 operating shortfall grew by about 229 million dollars, mainly on preparations for the performing-arts centre."
-      },
-      "zh": {
-        "headline": "西九管理局赤字擴大至9.98億元",
-        "dek": "管理局稱2025/26年度赤字較上一財年多約2.29億元，主因是西九演藝中心開幕前的前期準備。"
       }
     }
   ]
