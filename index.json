@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-10-09T13:13:22+08:00",
+  "generated_at": "2026-10-09T15:08:18+08:00",
   "live_window_hours": 72,
-  "count": 138,
+  "count": 137,
   "articles": [
+    {
+      "id": "2026-10-09-competition-vr-raids",
+      "published_at": "2026-10-09T15:04:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "courts",
+        "schools"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-competition-vr-raids.json",
+      "en": {
+        "headline": "Competition watchdog searches 11 sites over school VR bids",
+        "dek": "The Competition Commission said Thursday's Lens operation targeted alleged bid-rigging on virtual-reality contracts worth about 10 million dollars."
+      },
+      "zh": {
+        "headline": "競委會「銳鏡」行動搜查11處所 涉學校VR報價圍標",
+        "dek": "競委會周五公布，周四持法庭手令搜查資訊科技供應商辦公室及住所，涉案合約約1000萬元。"
+      }
+    },
+    {
+      "id": "2026-10-09-hkhs-fake-website",
+      "published_at": "2026-10-09T15:04:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "scam",
+        "housing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-hkhs-fake-website.json",
+      "en": {
+        "headline": "Housing Society warns of fake Fanling AI receptionist site",
+        "dek": "The association said a site posing as an artificial-intelligence receptionist for its Pak Wo Road project has been passed to police."
+      },
+      "zh": {
+        "headline": "房協揭偽冒粉嶺百和路人工智能接待員網站",
+        "dek": "房協指騙徒以人工智能客服誘套個人資料，已將案件交警方，並呼籲市民勿登入可疑網站。"
+      }
+    },
+    {
+      "id": "2026-10-09-huanggang-last-shuttle",
+      "published_at": "2026-10-09T15:04:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "huanggang",
+        "border",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-huanggang-last-shuttle.json",
+      "en": {
+        "headline": "Last Huanggang shuttle leaves San Tin before Monday opening",
+        "dek": "Transport officials said the final shuttle from San Tin is due between 6:15am and 6:20am on 12 October, with buses covering the rebuilt port."
+      },
+      "zh": {
+        "headline": "皇巴尾班周一6時15分開出 巴士接載往新皇崗",
+        "dek": "運輸署稱新田開出的皇巴尾班在6時15至20分，趕不及的乘客可轉乘B11、B12、B13及三條專線小巴。"
+      }
+    },
     {
       "id": "2026-10-09-hang-seng-midday",
       "published_at": "2026-10-09T13:14:00+08:00",
@@ -2789,88 +2851,6 @@
       "zh": {
         "headline": "孫東：沙嶺數據園區2032年前算力料達現時36倍",
         "dek": "創新科技及工業局局長孫東向立法會簡介五年規劃，指人工智能是重點產業，沙嶺數據園區已動工，累計投資最少238億元。"
-      }
-    },
-    {
-      "id": "2026-10-06-hang-seng-midday",
-      "published_at": "2026-10-06T13:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "economy",
-        "hang-seng"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-hang-seng-midday.json",
-      "en": {
-        "headline": "Hang Seng adds 188 points at the Tuesday midday close",
-        "dek": "The index finished the morning at 24,228 after touching 24,354, with turnover above HK$54 billion and the tech index up nearly 0.9 percent."
-      },
-      "zh": {
-        "headline": "恒指半日升188點 報24228點",
-        "dek": "指數曾高見24354點，其後升幅收窄，半日主板成交逾540億元，科指升近0.9%。"
-      }
-    },
-    {
-      "id": "2026-10-06-labour-import-sanction",
-      "published_at": "2026-10-06T13:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "labour",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-labour-import-sanction.json",
-      "en": {
-        "headline": "Labour Department bars firm from imported-worker applications for two years",
-        "dek": "The department said the firm added hiring conditions without consent and refused qualified local applicants for clerk and painting-worker posts."
-      },
-      "zh": {
-        "headline": "勞工處制裁浩展太平洋 兩年內不受理輸入勞工申請",
-        "dek": "處方說該公司申請輸入普通文員及髹漆工時，未經同意新增招聘條件，並無合理理由拒絕合資格求職者。"
-      }
-    },
-    {
-      "id": "2026-10-06-lifestyle-house-of-swans",
-      "published_at": "2026-10-06T13:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "tai-kwun",
-        "exhibition"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-lifestyle-house-of-swans.json",
-      "en": {
-        "headline": "Hong Kong Ballet returns to Tai Kwun swan show this weekend",
-        "dek": "Tai Kwun lists adapted House of Swans performances on Saturday and Sunday afternoon, with exhibition tickets at HK$50 and entry limited by gallery capacity."
-      },
-      "zh": {
-        "headline": "大館《House of Swans》周末再有香港芭蕾舞團演出",
-        "dek": "大館公布10月10及11日下午2時半至3時15分有改編演出，展覽門票50元，場內人數有限，先到先得。"
-      }
-    },
-    {
-      "id": "2026-10-06-tst-powder-letter",
-      "published_at": "2026-10-06T13:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "tsim-sha-tsui"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-06/2026-10-06-tst-powder-letter.json",
-      "en": {
-        "headline": "Police examine powder letter at Tsim Sha Tsui office building",
-        "dek": "Officers closed a stretch of Humphreys Avenue after a security guard reported a letter containing white powder at 3 Humphreys Avenue around 9:28am."
-      },
-      "zh": {
-        "headline": "尖沙咀商廈信箱現白色粉末信 爆炸品處理課到場",
-        "dek": "早上9時28分保安員報案，堪富利士道3號時財商業大廈地下信箱有可疑信件，警方封鎖一段道路調查。"
       }
     }
   ]
