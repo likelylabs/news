@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T19:10:16+08:00",
+  "generated_at": "2026-10-09T19:11:47+08:00",
   "live_window_hours": 72,
-  "count": 131,
+  "count": 134,
   "articles": [
     {
       "id": "2026-10-09-competition-false-statement",
@@ -24,6 +24,47 @@
       }
     },
     {
+      "id": "2026-10-09-fu-tai-temporary-care",
+      "published_at": "2026-10-09T19:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "welfare",
+        "tuen-mun"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-fu-tai-temporary-care.json",
+      "en": {
+        "headline": "Sun says Fu Tai siblings will not go straight home",
+        "dek": "The welfare secretary said social workers judge the three children should go to temporary residential care after hospital checks."
+      },
+      "zh": {
+        "headline": "孫玉菡：富泰三姊弟出院後暫不回家",
+        "dek": "勞福局局長表示，社署評估三名兒童現階段不宜即時回家，出院後會安排入住臨時住宿。"
+      }
+    },
+    {
+      "id": "2026-10-09-huanggang-registrations",
+      "published_at": "2026-10-09T19:06:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "huanggang",
+        "border",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-huanggang-registrations.json",
+      "en": {
+        "headline": "More than 160,000 sign up for Huanggang joint clearance",
+        "dek": "Immigration officials said the mobile-app enrolments were completed by Friday noon, three days after registration opened."
+      },
+      "zh": {
+        "headline": "逾16萬人已登記皇崗協作查驗自助通道",
+        "dek": "入境處表示，截至周五中午，市民經流動應用程式完成登記的人數已超過16萬，登記開放約三日。"
+      }
+    },
+    {
       "id": "2026-10-09-imported-mosquito-cases",
       "published_at": "2026-10-09T19:06:00+08:00",
       "updated_at": null,
@@ -41,6 +82,26 @@
       "zh": {
         "headline": "衛生防護中心公布輸入基孔肯雅熱及登革熱個案",
         "dek": "一名曾往內地的73歲男子感染基孔肯雅熱後已康復出院，另一宗登革熱個案的病人潛伏期內曾到越南。"
+      }
+    },
+    {
+      "id": "2026-10-09-victoria-park-fair-auction",
+      "published_at": "2026-10-09T19:06:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "victoria-park",
+        "lunar-new-year"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-09/2026-10-09-victoria-park-fair-auction.json",
+      "en": {
+        "headline": "All 400 Victoria Park fair stalls let for about 8.65 million",
+        "dek": "The Food and Environmental Hygiene Department said the three-day auction for the 2027 Lunar New Year fair drew about 1,320 attendances."
+      },
+      "zh": {
+        "headline": "維園年宵400個攤位全部租出 收入約865萬元",
+        "dek": "食環署表示，2027年維園年宵市場一連三日公開競投周五結束，共吸引約1320人次進場。"
       }
     },
     {
