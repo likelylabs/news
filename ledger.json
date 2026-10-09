@@ -1,64 +1,354 @@
 {
-  "updated_at": "2026-10-09T19:06:00+08:00",
+  "updated_at": "2026-10-09T19:12:46+08:00",
   "retention_days": 5,
   "covered": [
-    {"key": "imported-chikungunya-dengue-oct9", "id": "2026-10-09-imported-mosquito-cases", "first_seen": "2026-10-09T19:06:00+08:00", "headline_en": "Centre reports imported chikungunya and dengue cases"},
-    {"key": "competition-false-statement-charge-oct9", "id": "2026-10-09-competition-false-statement", "first_seen": "2026-10-09T19:06:00+08:00", "headline_en": "Man charged over alleged false statement to competition watchdog"},
-    {"key": "fu-tai-children-temporary-care-oct9", "id": "2026-10-09-fu-tai-temporary-care", "first_seen": "2026-10-09T19:06:00+08:00", "headline_en": "Sun says Fu Tai siblings will not go straight home"},
-    {"key": "huanggang-joint-clearance-160k-oct9", "id": "2026-10-09-huanggang-registrations", "first_seen": "2026-10-09T19:06:00+08:00", "headline_en": "More than 160,000 sign up for Huanggang joint clearance"},
-    {"key": "victoria-park-fair-auction-oct9", "id": "2026-10-09-victoria-park-fair-auction", "first_seen": "2026-10-09T19:06:00+08:00", "headline_en": "All 400 Victoria Park fair stalls let for about 8.65 million"},
-    {"key": "subdivided-flat-registrations-oct9", "id": "2026-10-09-subdivided-flat-registrations", "first_seen": "2026-10-09T17:20:00+08:00", "headline_en": "Housing Bureau logs over 74,300 subdivided-unit registrations"},
-    {"key": "nt-north-hospital-cluster-oct9", "id": "2026-10-09-nt-north-hospital-cluster", "first_seen": "2026-10-09T17:20:00+08:00", "headline_en": "Lo says work on a New Territories North hospital cluster starts next year"},
-    {"key": "huanggang-insurance-cover-oct9", "id": "2026-10-09-huanggang-insurance-cover", "first_seen": "2026-10-09T17:20:00+08:00", "headline_en": "Compulsory cover extended to Hong Kong side of Huanggang Port"},
-    {"key": "wo-hop-shek-crematorium-oct9", "id": "2026-10-09-wo-hop-shek-crematorium", "first_seen": "2026-10-09T17:20:00+08:00", "headline_en": "Government proposes a new Wo Hop Shek crematorium for 2032"},
-    {"key": "hang-seng-close-oct9", "id": "2026-10-09-hang-seng-close", "first_seen": "2026-10-09T17:20:00+08:00", "headline_en": "Hang Seng closes 426 points higher at 24,211"},
-    {"key": "competition-commission-lens-oct9", "id": "2026-10-09-competition-vr-raids", "first_seen": "2026-10-09T15:04:00+08:00", "headline_en": "Competition watchdog searches 11 sites over school VR bids"},
-    {"key": "hkhs-fake-website-oct9", "id": "2026-10-09-hkhs-fake-website", "first_seen": "2026-10-09T15:04:00+08:00", "headline_en": "Housing Society warns of fake Fanling AI receptionist site"},
-    {"key": "huanggang-last-shuttle-oct12", "id": "2026-10-09-huanggang-last-shuttle", "first_seen": "2026-10-09T15:04:00+08:00", "headline_en": "Last Huanggang shuttle leaves San Tin before Monday opening"},
-    {"key": "weekend-weather-outlook-oct10-11", "id": "2026-10-09-weekend-weather-outlook", "first_seen": "2026-10-09T13:14:00+08:00", "headline_en": "Observatory expects a fine, dry weekend with highs near 31"},
-    {"key": "huanggang-port-opens-oct12", "id": "2026-10-09-huanggang-port-opening", "first_seen": "2026-10-09T13:14:00+08:00", "headline_en": "Huanggang Port to open at 6:30am on Monday"},
-    {"key": "hang-seng-midday-oct9", "id": "2026-10-09-hang-seng-midday", "first_seen": "2026-10-09T13:14:00+08:00", "headline_en": "Hang Seng rises 259 points at the Friday midday close"},
-    {"key": "sfc-extended-hours-paper-oct9", "id": "2026-10-09-sfc-extended-hours", "first_seen": "2026-10-09T13:14:00+08:00", "headline_en": "SFC says HKEX will consult this quarter on longer cash hours"},
-    {"key": "greentown-bribe-charge-oct9", "id": "2026-10-09-greentown-bribe-charge", "first_seen": "2026-10-09T11:12:00+08:00", "headline_en": "ICAC charges Greentown's then chairman over alleged bribe"},
-    {"key": "sedition-publication-charge-oct9", "id": "2026-10-09-sedition-publication-charge", "first_seen": "2026-10-09T11:12:00+08:00", "headline_en": "Police charge man, 52, over alleged seditious online posts"},
-    {"key": "legco-livelihood-debate-oct9", "id": "2026-10-09-legco-livelihood-debate", "first_seen": "2026-10-09T11:12:00+08:00", "headline_en": "Lawmakers press childcare and North District shops in debate"},
-    {"key": "san-po-kong-drink-drive-oct9", "id": "2026-10-09-san-po-kong-drink-drive", "first_seen": "2026-10-09T09:18:00+08:00", "headline_en": "Police arrest man, 41, after failed breath test in San Po Kong"},
-    {"key": "kwai-fong-salt-water-burst-oct8", "id": "2026-10-09-kwai-fong-salt-water", "first_seen": "2026-10-09T09:18:00+08:00", "headline_en": "Salt-water pipe burst floods Kwai Fong motorcycle bays"},
-    {"key": "arbuthnot-road-shop-sale-oct9", "id": "2026-10-09-arbuthnot-shop-sale", "first_seen": "2026-10-09T09:18:00+08:00", "headline_en": "Hip Shing Hong sells Central shop held for 55 years"},
-    {"key": "lifestyle-heath-regret-exhibition", "id": "2026-10-09-lifestyle-heath-regret", "first_seen": "2026-10-09T09:18:00+08:00", "headline_en": "Heath opens a public-regret show in Chungking Mansions"},
-    {"key": "sham-shui-po-taxi-crash-oct9", "id": "2026-10-09-sham-shui-po-taxi-crash", "first_seen": "2026-10-09T07:04:00+08:00", "headline_en": "Taxi driver arrested after man struck in Sham Shui Po"},
-    {"key": "route-twisk-death-arrest-oct9", "id": "2026-10-09-route-twisk-arrest", "first_seen": "2026-10-09T07:04:00+08:00", "headline_en": "Police arrest man over fatal Route Twisk crash"},
-    {"key": "kwun-tong-fishing-machine-raid-oct9", "id": "2026-10-09-kwun-tong-gambling-raid", "first_seen": "2026-10-09T07:04:00+08:00", "headline_en": "Police arrest five in Kwun Tong fishing-machine raid"},
-    {"key": "gov-rejects-us-tip-report-oct9", "id": "2026-10-09-us-tip-report-response", "first_seen": "2026-10-09T07:04:00+08:00", "headline_en": "Government rejects US trafficking report on Hong Kong"},
-    {"key": "lifestyle-film-archive-cheng-pei-pei", "id": "2026-10-09-lifestyle-film-archive-cheng", "first_seen": "2026-10-09T07:04:00+08:00", "headline_en": "Film Archive screens Cheng Pei-pei tribute this morning"},
-    {"key": "police-college-degree-oct9", "id": "2026-10-09-police-college-degree", "first_seen": "2026-10-09T03:14:00+08:00", "headline_en": "Police College to offer funded honours degree for junior officers"},
-    {"key": "queen-mary-engineer-review-oct8", "id": "2026-10-09-queen-mary-sentence-review", "first_seen": "2026-10-09T03:14:00+08:00", "headline_en": "Justice Department seeks review of Queen Mary lift sentence"},
-    {"key": "shek-lei-pui-copper-arrests-oct8", "id": "2026-10-09-shek-lei-pui-copper-arrests", "first_seen": "2026-10-09T03:14:00+08:00", "headline_en": "Police arrest five over copper taken from closed Shek Lei Pui plant"},
-    {"key": "lifestyle-megabox-nba-viewing", "id": "2026-10-09-lifestyle-megabox-nba-viewing", "first_seen": "2026-10-09T03:14:00+08:00", "headline_en": "MegaBox screens NBA China Games from its Kowloon Bay roof"},
-    {"key": "lifestyle-pmq-gelato-fest-second-weekend", "id": "2026-10-09-lifestyle-pmq-gelato-fest", "first_seen": "2026-10-09T01:05:00+08:00", "headline_en": "Gelato market returns to PMQ for a second weekend"},
-    {"key": "lifestyle-hannah-pong-pmq-exhibition", "id": "2026-10-09-lifestyle-hannah-pong-exhibition", "first_seen": "2026-10-09T01:05:00+08:00", "headline_en": "Hannah Pong opens first solo show at PMQ"},
-    {"key": "ec-nominations-day-two-oct8", "id": "2026-10-08-ec-nominations-day-two", "first_seen": "2026-10-08T23:22:00+08:00", "headline_en": "Election Committee takes 164 more forms on second day"},
-    {"key": "fu-tai-parents-bail-oct8", "id": "2026-10-08-fu-tai-parents-bail", "first_seen": "2026-10-08T23:22:00+08:00", "headline_en": "Parents in Tuen Mun neglect case released on bail"},
-    {"key": "north-point-taxi-sentence-oct8", "id": "2026-10-08-north-point-taxi-sentence", "first_seen": "2026-10-08T23:22:00+08:00", "headline_en": "Taxi driver jailed six weeks over North Point crash"},
-    {"key": "housing-bureau-anderson-supply-oct8", "id": "2026-10-08-housing-bureau-anderson-supply", "first_seen": "2026-10-08T23:22:00+08:00", "headline_en": "Housing Bureau says Anderson delay will not hit supply"},
-    {"key": "cheung-hui-high-court-claim-oct8", "id": "2026-10-08-cheung-hui-high-court-claim", "first_seen": "2026-10-08T23:22:00+08:00", "headline_en": "Cheung sues Hui for 10.1 billion dollars in High Court"},
-    {"key": "anderson-road-demolition-oct8", "id": "2026-10-08-anderson-road-demolition", "first_seen": "2026-10-08T21:14:00+08:00", "headline_en": "CK Asset to demolish three Anderson Road towers"},
-    {"key": "ai-liability-taskforce-oct8", "id": "2026-10-08-ai-liability-taskforce", "first_seen": "2026-10-08T21:14:00+08:00", "headline_en": "Lam says Justice Bureau will study who pays if AI causes harm"},
-    {"key": "building-maintenance-fund-call-oct8", "id": "2026-10-08-building-maintenance-fund", "first_seen": "2026-10-08T19:06:00+08:00", "headline_en": "Housing institute calls for a statutory building upkeep fund"},
-    {"key": "icac-district-councillor-bribe-charge-oct8", "id": "2026-10-08-icac-bribe-charge", "first_seen": "2026-10-08T19:06:00+08:00", "headline_en": "ICAC charges man, 80, over alleged 10,000 dollar bribe offer"},
-    {"key": "silver-bond-2027-fourth-coupon-oct8", "id": "2026-10-08-silver-bond-coupon", "first_seen": "2026-10-08T19:06:00+08:00", "headline_en": "Silver Bond due 2027 to pay 4 per cent on fourth coupon"},
-    {"key": "hang-seng-close-oct8", "id": "2026-10-08-hang-seng-close", "first_seen": "2026-10-08T17:12:00+08:00", "headline_en": "Hang Seng closes 344 points lower at a three-month low"},
-    {"key": "model-ad-mule-accounts-oct8", "id": "2026-10-08-model-ad-mule-accounts", "first_seen": "2026-10-08T17:12:00+08:00", "headline_en": "Police arrest 10 over fake model ads used to open mule accounts"},
-    {"key": "route-twisk-motorcycle-death-oct8", "id": "2026-10-08-route-twisk-death", "first_seen": "2026-10-08T17:12:00+08:00", "headline_en": "Motorcyclist dies after Route Twisk collision, police say"},
-    {"key": "ride-hailing-data-system-oct8", "id": "2026-10-08-ride-hailing-data-system", "first_seen": "2026-10-08T17:12:00+08:00", "headline_en": "Chan says ride-hailing data system has entered testing"},
-    {"key": "afcd-stray-dog-operation-oct8", "id": "2026-10-08-stray-dog-operation", "first_seen": "2026-10-08T17:12:00+08:00", "headline_en": "AFCD starts four-month sweep for unattended dogs"},
-    {"key": "kwun-tong-gold-switch-arrests-oct8", "id": "2026-10-08-gold-switch-arrests", "first_seen": "2026-10-08T15:02:00+08:00", "headline_en": "Police recover gold swapped for fabric softener in Kwun Tong hotel"},
-    {"key": "ns-social-posts-bail-oct8", "id": "2026-10-08-ns-social-posts-bail", "first_seen": "2026-10-08T15:02:00+08:00", "headline_en": "National security police bail man and woman over social posts"},
-    {"key": "northern-metropolis-legco-debate-oct8", "id": "2026-10-08-northern-metropolis-debate", "first_seen": "2026-10-08T15:02:00+08:00", "headline_en": "Lawmakers press Northern Metropolis university town in LegCo debate"},
-    {"key": "victoria-park-dry-goods-auction-oct8", "id": "2026-10-08-victoria-park-dry-goods", "first_seen": "2026-10-08T15:02:00+08:00", "headline_en": "Victoria Park stall 1 lets for 34,000 dollars, down on last year"},
-    {"key": "sau-mau-ping-red-paint-arrest-oct8", "id": "2026-10-08-sau-mau-ping-arrest", "first_seen": "2026-10-08T13:15:00+08:00", "headline_en": "Reports say police arrest man, 66, over Sau Mau Ping paint attack"},
-    {"key": "hang-seng-midday-oct8", "id": "2026-10-08-hang-seng-midday", "first_seen": "2026-10-08T13:15:00+08:00", "headline_en": "Hang Seng slips below 24,000 at the Thursday midday close"},
-    {"key": "hk-fifa-ranking-153-oct8", "id": "2026-10-08-hk-fifa-ranking", "first_seen": "2026-10-08T13:15:00+08:00", "headline_en": "Hong Kong rise three places to 153rd in FIFA ranking"},
-    {"key": "fake-official-deposit-arrest-oct8", "id": "2026-10-08-fake-official-arrest", "first_seen": "2026-10-08T13:15:00+08:00", "headline_en": "Police hold woman, 22, over fake official deposit scam"}
+    {
+      "key": "imported-chikungunya-dengue-oct9",
+      "id": "2026-10-09-imported-mosquito-cases",
+      "first_seen": "2026-10-09T19:06:00+08:00",
+      "headline_en": "Centre reports imported chikungunya and dengue cases"
+    },
+    {
+      "key": "competition-false-statement-charge-oct9",
+      "id": "2026-10-09-competition-false-statement",
+      "first_seen": "2026-10-09T19:06:00+08:00",
+      "headline_en": "Man charged over alleged false statement to competition watchdog"
+    },
+    {
+      "key": "fu-tai-children-temporary-care-oct9",
+      "id": "2026-10-09-fu-tai-temporary-care",
+      "first_seen": "2026-10-09T19:06:00+08:00",
+      "headline_en": "Sun says Fu Tai siblings will not go straight home"
+    },
+    {
+      "key": "huanggang-joint-clearance-160k-oct9",
+      "id": "2026-10-09-huanggang-registrations",
+      "first_seen": "2026-10-09T19:06:00+08:00",
+      "headline_en": "More than 160,000 sign up for Huanggang joint clearance"
+    },
+    {
+      "key": "victoria-park-fair-auction-oct9",
+      "id": "2026-10-09-victoria-park-fair-auction",
+      "first_seen": "2026-10-09T19:06:00+08:00",
+      "headline_en": "All 400 Victoria Park fair stalls let for about 8.65 million"
+    },
+    {
+      "key": "subdivided-flat-registrations-oct9",
+      "id": "2026-10-09-subdivided-flat-registrations",
+      "first_seen": "2026-10-09T17:20:00+08:00",
+      "headline_en": "Housing Bureau logs over 74,300 subdivided-unit registrations"
+    },
+    {
+      "key": "nt-north-hospital-cluster-oct9",
+      "id": "2026-10-09-nt-north-hospital-cluster",
+      "first_seen": "2026-10-09T17:20:00+08:00",
+      "headline_en": "Lo says work on a New Territories North hospital cluster starts next year"
+    },
+    {
+      "key": "huanggang-insurance-cover-oct9",
+      "id": "2026-10-09-huanggang-insurance-cover",
+      "first_seen": "2026-10-09T17:20:00+08:00",
+      "headline_en": "Compulsory cover extended to Hong Kong side of Huanggang Port"
+    },
+    {
+      "key": "wo-hop-shek-crematorium-oct9",
+      "id": "2026-10-09-wo-hop-shek-crematorium",
+      "first_seen": "2026-10-09T17:20:00+08:00",
+      "headline_en": "Government proposes a new Wo Hop Shek crematorium for 2032"
+    },
+    {
+      "key": "hang-seng-close-oct9",
+      "id": "2026-10-09-hang-seng-close",
+      "first_seen": "2026-10-09T17:20:00+08:00",
+      "headline_en": "Hang Seng closes 426 points higher at 24,211"
+    },
+    {
+      "key": "competition-commission-lens-oct9",
+      "id": "2026-10-09-competition-vr-raids",
+      "first_seen": "2026-10-09T15:04:00+08:00",
+      "headline_en": "Competition watchdog searches 11 sites over school VR bids"
+    },
+    {
+      "key": "hkhs-fake-website-oct9",
+      "id": "2026-10-09-hkhs-fake-website",
+      "first_seen": "2026-10-09T15:04:00+08:00",
+      "headline_en": "Housing Society warns of fake Fanling AI receptionist site"
+    },
+    {
+      "key": "huanggang-last-shuttle-oct12",
+      "id": "2026-10-09-huanggang-last-shuttle",
+      "first_seen": "2026-10-09T15:04:00+08:00",
+      "headline_en": "Last Huanggang shuttle leaves San Tin before Monday opening"
+    },
+    {
+      "key": "weekend-weather-outlook-oct10-11",
+      "id": "2026-10-09-weekend-weather-outlook",
+      "first_seen": "2026-10-09T13:14:00+08:00",
+      "headline_en": "Observatory expects a fine, dry weekend with highs near 31"
+    },
+    {
+      "key": "huanggang-port-opens-oct12",
+      "id": "2026-10-09-huanggang-port-opening",
+      "first_seen": "2026-10-09T13:14:00+08:00",
+      "headline_en": "Huanggang Port to open at 6:30am on Monday"
+    },
+    {
+      "key": "hang-seng-midday-oct9",
+      "id": "2026-10-09-hang-seng-midday",
+      "first_seen": "2026-10-09T13:14:00+08:00",
+      "headline_en": "Hang Seng rises 259 points at the Friday midday close"
+    },
+    {
+      "key": "sfc-extended-hours-paper-oct9",
+      "id": "2026-10-09-sfc-extended-hours",
+      "first_seen": "2026-10-09T13:14:00+08:00",
+      "headline_en": "SFC says HKEX will consult this quarter on longer cash hours"
+    },
+    {
+      "key": "greentown-bribe-charge-oct9",
+      "id": "2026-10-09-greentown-bribe-charge",
+      "first_seen": "2026-10-09T11:12:00+08:00",
+      "headline_en": "ICAC charges Greentown's then chairman over alleged bribe"
+    },
+    {
+      "key": "sedition-publication-charge-oct9",
+      "id": "2026-10-09-sedition-publication-charge",
+      "first_seen": "2026-10-09T11:12:00+08:00",
+      "headline_en": "Police charge man, 52, over alleged seditious online posts"
+    },
+    {
+      "key": "legco-livelihood-debate-oct9",
+      "id": "2026-10-09-legco-livelihood-debate",
+      "first_seen": "2026-10-09T11:12:00+08:00",
+      "headline_en": "Lawmakers press childcare and North District shops in debate"
+    },
+    {
+      "key": "san-po-kong-drink-drive-oct9",
+      "id": "2026-10-09-san-po-kong-drink-drive",
+      "first_seen": "2026-10-09T09:18:00+08:00",
+      "headline_en": "Police arrest man, 41, after failed breath test in San Po Kong"
+    },
+    {
+      "key": "kwai-fong-salt-water-burst-oct8",
+      "id": "2026-10-09-kwai-fong-salt-water",
+      "first_seen": "2026-10-09T09:18:00+08:00",
+      "headline_en": "Salt-water pipe burst floods Kwai Fong motorcycle bays"
+    },
+    {
+      "key": "arbuthnot-road-shop-sale-oct9",
+      "id": "2026-10-09-arbuthnot-shop-sale",
+      "first_seen": "2026-10-09T09:18:00+08:00",
+      "headline_en": "Hip Shing Hong sells Central shop held for 55 years"
+    },
+    {
+      "key": "lifestyle-heath-regret-exhibition",
+      "id": "2026-10-09-lifestyle-heath-regret",
+      "first_seen": "2026-10-09T09:18:00+08:00",
+      "headline_en": "Heath opens a public-regret show in Chungking Mansions"
+    },
+    {
+      "key": "sham-shui-po-taxi-crash-oct9",
+      "id": "2026-10-09-sham-shui-po-taxi-crash",
+      "first_seen": "2026-10-09T07:04:00+08:00",
+      "headline_en": "Taxi driver arrested after man struck in Sham Shui Po"
+    },
+    {
+      "key": "route-twisk-death-arrest-oct9",
+      "id": "2026-10-09-route-twisk-arrest",
+      "first_seen": "2026-10-09T07:04:00+08:00",
+      "headline_en": "Police arrest man over fatal Route Twisk crash"
+    },
+    {
+      "key": "kwun-tong-fishing-machine-raid-oct9",
+      "id": "2026-10-09-kwun-tong-gambling-raid",
+      "first_seen": "2026-10-09T07:04:00+08:00",
+      "headline_en": "Police arrest five in Kwun Tong fishing-machine raid"
+    },
+    {
+      "key": "gov-rejects-us-tip-report-oct9",
+      "id": "2026-10-09-us-tip-report-response",
+      "first_seen": "2026-10-09T07:04:00+08:00",
+      "headline_en": "Government rejects US trafficking report on Hong Kong"
+    },
+    {
+      "key": "lifestyle-film-archive-cheng-pei-pei",
+      "id": "2026-10-09-lifestyle-film-archive-cheng",
+      "first_seen": "2026-10-09T07:04:00+08:00",
+      "headline_en": "Film Archive screens Cheng Pei-pei tribute this morning"
+    },
+    {
+      "key": "police-college-degree-oct9",
+      "id": "2026-10-09-police-college-degree",
+      "first_seen": "2026-10-09T03:14:00+08:00",
+      "headline_en": "Police College to offer funded honours degree for junior officers"
+    },
+    {
+      "key": "queen-mary-engineer-review-oct8",
+      "id": "2026-10-09-queen-mary-sentence-review",
+      "first_seen": "2026-10-09T03:14:00+08:00",
+      "headline_en": "Justice Department seeks review of Queen Mary lift sentence"
+    },
+    {
+      "key": "shek-lei-pui-copper-arrests-oct8",
+      "id": "2026-10-09-shek-lei-pui-copper-arrests",
+      "first_seen": "2026-10-09T03:14:00+08:00",
+      "headline_en": "Police arrest five over copper taken from closed Shek Lei Pui plant"
+    },
+    {
+      "key": "lifestyle-megabox-nba-viewing",
+      "id": "2026-10-09-lifestyle-megabox-nba-viewing",
+      "first_seen": "2026-10-09T03:14:00+08:00",
+      "headline_en": "MegaBox screens NBA China Games from its Kowloon Bay roof"
+    },
+    {
+      "key": "lifestyle-pmq-gelato-fest-second-weekend",
+      "id": "2026-10-09-lifestyle-pmq-gelato-fest",
+      "first_seen": "2026-10-09T01:05:00+08:00",
+      "headline_en": "Gelato market returns to PMQ for a second weekend"
+    },
+    {
+      "key": "lifestyle-hannah-pong-pmq-exhibition",
+      "id": "2026-10-09-lifestyle-hannah-pong-exhibition",
+      "first_seen": "2026-10-09T01:05:00+08:00",
+      "headline_en": "Hannah Pong opens first solo show at PMQ"
+    },
+    {
+      "key": "ec-nominations-day-two-oct8",
+      "id": "2026-10-08-ec-nominations-day-two",
+      "first_seen": "2026-10-08T23:22:00+08:00",
+      "headline_en": "Election Committee takes 164 more forms on second day"
+    },
+    {
+      "key": "fu-tai-parents-bail-oct8",
+      "id": "2026-10-08-fu-tai-parents-bail",
+      "first_seen": "2026-10-08T23:22:00+08:00",
+      "headline_en": "Parents in Tuen Mun neglect case released on bail"
+    },
+    {
+      "key": "north-point-taxi-sentence-oct8",
+      "id": "2026-10-08-north-point-taxi-sentence",
+      "first_seen": "2026-10-08T23:22:00+08:00",
+      "headline_en": "Taxi driver jailed six weeks over North Point crash"
+    },
+    {
+      "key": "housing-bureau-anderson-supply-oct8",
+      "id": "2026-10-08-housing-bureau-anderson-supply",
+      "first_seen": "2026-10-08T23:22:00+08:00",
+      "headline_en": "Housing Bureau says Anderson delay will not hit supply"
+    },
+    {
+      "key": "cheung-hui-high-court-claim-oct8",
+      "id": "2026-10-08-cheung-hui-high-court-claim",
+      "first_seen": "2026-10-08T23:22:00+08:00",
+      "headline_en": "Cheung sues Hui for 10.1 billion dollars in High Court"
+    },
+    {
+      "key": "anderson-road-demolition-oct8",
+      "id": "2026-10-08-anderson-road-demolition",
+      "first_seen": "2026-10-08T21:14:00+08:00",
+      "headline_en": "CK Asset to demolish three Anderson Road towers"
+    },
+    {
+      "key": "ai-liability-taskforce-oct8",
+      "id": "2026-10-08-ai-liability-taskforce",
+      "first_seen": "2026-10-08T21:14:00+08:00",
+      "headline_en": "Lam says Justice Bureau will study who pays if AI causes harm"
+    },
+    {
+      "key": "building-maintenance-fund-call-oct8",
+      "id": "2026-10-08-building-maintenance-fund",
+      "first_seen": "2026-10-08T19:06:00+08:00",
+      "headline_en": "Housing institute calls for a statutory building upkeep fund"
+    },
+    {
+      "key": "icac-district-councillor-bribe-charge-oct8",
+      "id": "2026-10-08-icac-bribe-charge",
+      "first_seen": "2026-10-08T19:06:00+08:00",
+      "headline_en": "ICAC charges man, 80, over alleged 10,000 dollar bribe offer"
+    },
+    {
+      "key": "silver-bond-2027-fourth-coupon-oct8",
+      "id": "2026-10-08-silver-bond-coupon",
+      "first_seen": "2026-10-08T19:06:00+08:00",
+      "headline_en": "Silver Bond due 2027 to pay 4 per cent on fourth coupon"
+    },
+    {
+      "key": "hang-seng-close-oct8",
+      "id": "2026-10-08-hang-seng-close",
+      "first_seen": "2026-10-08T17:12:00+08:00",
+      "headline_en": "Hang Seng closes 344 points lower at a three-month low"
+    },
+    {
+      "key": "model-ad-mule-accounts-oct8",
+      "id": "2026-10-08-model-ad-mule-accounts",
+      "first_seen": "2026-10-08T17:12:00+08:00",
+      "headline_en": "Police arrest 10 over fake model ads used to open mule accounts"
+    },
+    {
+      "key": "route-twisk-motorcycle-death-oct8",
+      "id": "2026-10-08-route-twisk-death",
+      "first_seen": "2026-10-08T17:12:00+08:00",
+      "headline_en": "Motorcyclist dies after Route Twisk collision, police say"
+    },
+    {
+      "key": "ride-hailing-data-system-oct8",
+      "id": "2026-10-08-ride-hailing-data-system",
+      "first_seen": "2026-10-08T17:12:00+08:00",
+      "headline_en": "Chan says ride-hailing data system has entered testing"
+    },
+    {
+      "key": "afcd-stray-dog-operation-oct8",
+      "id": "2026-10-08-stray-dog-operation",
+      "first_seen": "2026-10-08T17:12:00+08:00",
+      "headline_en": "AFCD starts four-month sweep for unattended dogs"
+    },
+    {
+      "key": "kwun-tong-gold-switch-arrests-oct8",
+      "id": "2026-10-08-gold-switch-arrests",
+      "first_seen": "2026-10-08T15:02:00+08:00",
+      "headline_en": "Police recover gold swapped for fabric softener in Kwun Tong hotel"
+    },
+    {
+      "key": "ns-social-posts-bail-oct8",
+      "id": "2026-10-08-ns-social-posts-bail",
+      "first_seen": "2026-10-08T15:02:00+08:00",
+      "headline_en": "National security police bail man and woman over social posts"
+    },
+    {
+      "key": "northern-metropolis-legco-debate-oct8",
+      "id": "2026-10-08-northern-metropolis-debate",
+      "first_seen": "2026-10-08T15:02:00+08:00",
+      "headline_en": "Lawmakers press Northern Metropolis university town in LegCo debate"
+    },
+    {
+      "key": "victoria-park-dry-goods-auction-oct8",
+      "id": "2026-10-08-victoria-park-dry-goods",
+      "first_seen": "2026-10-08T15:02:00+08:00",
+      "headline_en": "Victoria Park stall 1 lets for 34,000 dollars, down on last year"
+    },
+    {
+      "key": "sau-mau-ping-red-paint-arrest-oct8",
+      "id": "2026-10-08-sau-mau-ping-arrest",
+      "first_seen": "2026-10-08T13:15:00+08:00",
+      "headline_en": "Reports say police arrest man, 66, over Sau Mau Ping paint attack"
+    },
+    {
+      "key": "hang-seng-midday-oct8",
+      "id": "2026-10-08-hang-seng-midday",
+      "first_seen": "2026-10-08T13:15:00+08:00",
+      "headline_en": "Hang Seng slips below 24,000 at the Thursday midday close"
+    },
+    {
+      "key": "hk-fifa-ranking-153-oct8",
+      "id": "2026-10-08-hk-fifa-ranking",
+      "first_seen": "2026-10-08T13:15:00+08:00",
+      "headline_en": "Hong Kong rise three places to 153rd in FIFA ranking"
+    },
+    {
+      "key": "fake-official-deposit-arrest-oct8",
+      "id": "2026-10-08-fake-official-arrest",
+      "first_seen": "2026-10-08T13:15:00+08:00",
+      "headline_en": "Police hold woman, 22, over fake official deposit scam"
+    }
   ]
 }
