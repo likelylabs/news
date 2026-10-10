@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-11T07:04:01+08:00",
+  "updated_at": "2026-10-11T07:10:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "yellow-fire-danger-oct11",
+      "id": "2026-10-11-yellow-fire-danger",
+      "first_seen": "2026-10-11T07:10:00+08:00",
+      "headline_en": "Observatory raises yellow fire danger warning at 6am"
+    },
+    {
+      "key": "tsuen-wan-bar-knife-assault-oct11",
+      "id": "2026-10-11-tsuen-wan-bar-assault",
+      "first_seen": "2026-10-11T07:10:00+08:00",
+      "headline_en": "Man in 20s attacked with knives at Tsuen Wan bar, suspects flee"
+    },
+    {
+      "key": "lifestyle-afcd-leisure-nature-expo-oct11",
+      "id": "2026-10-11-lifestyle-afcd-leisure-expo",
+      "first_seen": "2026-10-11T07:10:00+08:00",
+      "headline_en": "AFCD Leisure Nature Chill Fun Expo continues today in Tseung Kwan O"
+    },
     {
       "key": "lifestyle-sundays-by-the-bay-pui-o",
       "id": "2026-10-11-lifestyle-sundays-by-the-bay",
