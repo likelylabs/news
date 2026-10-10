@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-10-10T21:08:25+08:00",
+  "generated_at": "2026-10-10T23:21:46+08:00",
   "live_window_hours": 72,
-  "count": 120,
+  "count": 118,
   "articles": [
+    {
+      "id": "2026-10-10-mark-six-no-jackpot",
+      "published_at": "2026-10-10T23:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "marksix",
+        "lottery",
+        "jockey-club"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-mark-six-no-jackpot.json",
+      "en": {
+        "headline": "Mark Six jackpot goes unclaimed in Saturday draw",
+        "dek": "The Hong Kong Jockey Club draw returned numbers 12, 14, 20, 33, 34 and 37 with special number 31, leaving the first prize unwon and the next fund estimated at HK$28 million."
+      },
+      "zh": {
+        "headline": "周六六合彩頭獎無人中 下期基金估2800萬",
+        "dek": "香港賽馬會周六攪珠，中獎號碼為12、14、20、33、34、37，特別號碼31，頭獎無人中，下期估計頭獎基金達2800萬港元。"
+      }
+    },
     {
       "id": "2026-10-10-tai-po-fire-civil-service-discipline",
       "published_at": "2026-10-10T21:05:00+08:00",
@@ -2467,69 +2488,6 @@
       "zh": {
         "headline": "文化中心月下兔燈飾亮至周日",
         "dek": "康文署在香港文化中心廣場的「月下兔仔團」燈飾裝置展至10月11日，每晚六時半至十一時亮燈。"
-      }
-    },
-    {
-      "id": "2026-10-07-anta-puma-stake",
-      "published_at": "2026-10-07T23:18:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "anta",
-        "puma",
-        "stocks"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-anta-puma-stake.json",
-      "en": {
-        "headline": "Anta completes purchase of 29 per cent stake in Puma",
-        "dek": "The sportswear group said the 1.5 billion euro deal closed on Wednesday, making it Puma's largest shareholder."
-      },
-      "zh": {
-        "headline": "安踏完成收購Puma約29%股權",
-        "dek": "集團以15.055億歐元向Pinault家族投資公司購入股份，交割於星期三完成，成為最大股東。"
-      }
-    },
-    {
-      "id": "2026-10-07-camembert-recall",
-      "published_at": "2026-10-07T23:18:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "food-safety",
-        "recall",
-        "cfs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-camembert-recall.json",
-      "en": {
-        "headline": "Centre warns against French Camembert over bacteria risk",
-        "dek": "A 250-gram Camembert batch imported by Repertoire Culinaire has been taken off sale after an EU alert."
-      },
-      "zh": {
-        "headline": "食安中心籲勿食一批法國軟芝士",
-        "dek": "Camembert Bertrand Crémier批次232511或受產志賀毒素大腸桿菌污染，進口商已停售並回收。"
-      }
-    },
-    {
-      "id": "2026-10-07-tsui-ping-north-fire",
-      "published_at": "2026-10-07T23:18:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "kwun-tong",
-        "fire",
-        "housing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-tsui-ping-north-fire.json",
-      "en": {
-        "headline": "Firefighters rescue boy, 13, from Kwun Tong flat fire",
-        "dek": "A blaze at Tsui Ping (North) Estate sent a boy onto an air-conditioner ledge; he was taken to hospital conscious."
-      },
-      "zh": {
-        "headline": "觀塘翠屏北邨單位起火 13歲男童獲救送院",
-        "dek": "翠桃樓晚上近八時火警，男童一度蹲在外牆冷氣機上，清醒後送往聯合醫院，約70人自行疏散。"
       }
     }
   ]
