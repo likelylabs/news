@@ -1,0 +1,27 @@
+{
+  "id": "2026-10-11-yellow-fire-danger",
+  "published_at": "2026-10-11T07:10:00+08:00",
+  "category": "weather",
+  "tags": ["fire-danger", "hko", "weather"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "yellow-fire-danger-oct11",
+  "en": {
+    "headline": "Observatory raises yellow fire danger warning at 6am",
+    "dek": "The Hong Kong Observatory issued the yellow fire danger warning at 6:00 a.m., indicating a high fire risk, and reminded the public to take extra precautions.",
+    "body": [
+      "The Hong Kong Observatory raised the yellow fire danger warning at 6:00 a.m. on Sunday, stating that the fire risk is high.",
+      "The Observatory said the warning indicates a rather high fire danger and called on the public to be extra alert and ensure necessary fire precautions are taken.",
+      "At 6 a.m. the air temperature at the Observatory was 27 degrees Celsius with relative humidity at 77 per cent. The warning remains in force until further notice."
+    ]
+  },
+  "zh": {
+    "headline": "天文台清晨6時發出黃色火災危險警告",
+    "dek": "天文台於上午6時發出黃色火災危險警告，表示火災危險性頗高，提醒市民特別提高警覺並採取適當防火措施。",
+    "body": [
+      "天文台周日上午6時發出黃色火災危險警告，指火災危險性頗高。",
+      "天文台表示，黃色警告意味火災危險性頗高，市民應特別提高警覺，並確保採取適當防火措施。",
+      "截至上午6時，天文台錄得氣溫27度，相對濕度77%。警告將維持至另行通知。"
+    ]
+  }
+}
