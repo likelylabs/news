@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-10T13:14:22+08:00",
+  "updated_at": "2026-10-10T15:03:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "recycling-expansion-smart-bins-oct10",
+      "id": "2026-10-10-recycling-expansion-smart-bins",
+      "first_seen": "2026-10-10T15:03:00+08:00",
+      "headline_en": "Environment chief outlines 24-hour smart recycling and clean energy goals"
+    },
+    {
+      "key": "guangdong-yachts-southbound-ceremony-oct16",
+      "id": "2026-10-10-guangdong-yachts-southbound",
+      "first_seen": "2026-10-10T15:03:00+08:00",
+      "headline_en": "Guangdong yachts to make first southbound voyage on 16 October"
+    },
+    {
+      "key": "world-mental-health-day-recharge-station",
+      "id": "2026-10-10-mental-recharge-station",
+      "first_seen": "2026-10-10T15:03:00+08:00",
+      "headline_en": "Department of Health runs Mental Recharge Station through Sunday"
+    },
     {
       "key": "weekend-weather-outlook-oct10-11",
       "id": "2026-10-10-weekend-weather-outlook",
