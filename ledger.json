@@ -1,1 +1,84 @@
-{"updated_at": "2026-10-10T09:25:00+08:00", "retention_days": 5, "covered": [{"key": "lion-rock-hiking-rescue-oct10", "id": "2026-10-10-lion-rock-hiking-rescue", "first_seen": "2026-10-10T09:25:00+08:00", "headline_en": "Helicopter airlifts hiker from Lion Rock after morning illness"}, {"key": "yuen-long-choking-oct10", "id": "2026-10-10-yuen-long-choking", "first_seen": "2026-10-10T09:25:00+08:00", "headline_en": "Elderly woman recovers after suspected choking in Yuen Long home"}, {"key": "lifestyle-mills-crawlers-oct10", "id": "2026-10-10-lifestyle-mills-crawlers", "first_seen": "2026-10-10T09:25:00+08:00", "headline_en": "Free rare-animal exhibition opens at The Mills for Halloween"}, {"key": "yellow-fire-danger-oct10", "id": "2026-10-10-yellow-fire-danger", "first_seen": "2026-10-10T07:10:00+08:00", "headline_en": "Observatory raises yellow fire danger warning"}, {"key": "ping-tin-estate-death-oct9", "id": "2026-10-10-ping-tin-estate-death", "first_seen": "2026-10-10T07:10:00+08:00", "headline_en": "Man, 57, found dead at Ping Tin Estate, reports say"}, {"key": "cyclothon-road-closures-oct11", "id": "2026-10-10-cyclothon-road-closures", "first_seen": "2026-10-10T07:10:00+08:00", "headline_en": "Cyclothon closures begin at Mody Road from noon"}, {"key": "lifestyle-moonlit-bunny-final-weekend", "id": "2026-10-10-lifestyle-moonlit-bunny", "first_seen": "2026-10-10T07:10:00+08:00", "headline_en": "Moonlit Bunny lights stay at Cultural Centre until Sunday"}, {"key": "lifestyle-pmq-candlelight-oct10", "id": "2026-10-10-lifestyle-pmq-candlelight", "first_seen": "2026-10-10T03:16:00+08:00", "headline_en": "Candlelight string concerts return to PMQ this weekend"}, {"key": "tuen-mun-road-crashes-oct9", "id": "2026-10-10-tuen-mun-road-crashes", "first_seen": "2026-10-10T03:16:00+08:00", "headline_en": "Three Tuen Mun Road crashes injure at least eight"}, {"key": "yau-ma-tei-death-oct9", "id": "2026-10-10-yau-ma-tei-death", "first_seen": "2026-10-10T03:16:00+08:00", "headline_en": "Man, 46, found dead in a Yau Ma Tei room, police say"}, {"key": "lifestyle-westk-picnic-final-weekend", "id": "2026-10-10-lifestyle-westk-picnic", "first_seen": "2026-10-10T01:12:00+08:00", "headline_en": "West Kowloon picnic festival runs its final weekend"}, {"key": "kmb-huanggang-routes-oct12", "id": "2026-10-10-kmb-huanggang-routes", "first_seen": "2026-10-10T01:12:00+08:00", "headline_en": "KMB to open three routes to Huanggang Port on Monday"}, {"key": "adora-flora-city-homeport-2027", "id": "2026-10-10-adora-flora-city-homeport", "first_seen": "2026-10-10T01:12:00+08:00", "headline_en": "Adora Flora City to sail 19 Hong Kong home-port trips in 2027"}]}
+{
+  "updated_at": "2026-10-10T09:16:23+08:00",
+  "retention_days": 5,
+  "covered": [
+    {
+      "key": "lion-rock-hiking-rescue-oct10",
+      "id": "2026-10-10-lion-rock-hiking-rescue",
+      "first_seen": "2026-10-10T09:25:00+08:00",
+      "headline_en": "Helicopter airlifts hiker from Lion Rock after morning illness"
+    },
+    {
+      "key": "yuen-long-choking-oct10",
+      "id": "2026-10-10-yuen-long-choking",
+      "first_seen": "2026-10-10T09:25:00+08:00",
+      "headline_en": "Elderly woman recovers after suspected choking in Yuen Long home"
+    },
+    {
+      "key": "lifestyle-mills-crawlers-oct10",
+      "id": "2026-10-10-lifestyle-mills-crawlers",
+      "first_seen": "2026-10-10T09:25:00+08:00",
+      "headline_en": "Free rare-animal exhibition opens at The Mills for Halloween"
+    },
+    {
+      "key": "yellow-fire-danger-oct10",
+      "id": "2026-10-10-yellow-fire-danger",
+      "first_seen": "2026-10-10T07:10:00+08:00",
+      "headline_en": "Observatory raises yellow fire danger warning"
+    },
+    {
+      "key": "ping-tin-estate-death-oct9",
+      "id": "2026-10-10-ping-tin-estate-death",
+      "first_seen": "2026-10-10T07:10:00+08:00",
+      "headline_en": "Man, 57, found dead at Ping Tin Estate, reports say"
+    },
+    {
+      "key": "cyclothon-road-closures-oct11",
+      "id": "2026-10-10-cyclothon-road-closures",
+      "first_seen": "2026-10-10T07:10:00+08:00",
+      "headline_en": "Cyclothon closures begin at Mody Road from noon"
+    },
+    {
+      "key": "lifestyle-moonlit-bunny-final-weekend",
+      "id": "2026-10-10-lifestyle-moonlit-bunny",
+      "first_seen": "2026-10-10T07:10:00+08:00",
+      "headline_en": "Moonlit Bunny lights stay at Cultural Centre until Sunday"
+    },
+    {
+      "key": "lifestyle-pmq-candlelight-oct10",
+      "id": "2026-10-10-lifestyle-pmq-candlelight",
+      "first_seen": "2026-10-10T03:16:00+08:00",
+      "headline_en": "Candlelight string concerts return to PMQ this weekend"
+    },
+    {
+      "key": "tuen-mun-road-crashes-oct9",
+      "id": "2026-10-10-tuen-mun-road-crashes",
+      "first_seen": "2026-10-10T03:16:00+08:00",
+      "headline_en": "Three Tuen Mun Road crashes injure at least eight"
+    },
+    {
+      "key": "yau-ma-tei-death-oct9",
+      "id": "2026-10-10-yau-ma-tei-death",
+      "first_seen": "2026-10-10T03:16:00+08:00",
+      "headline_en": "Man, 46, found dead in a Yau Ma Tei room, police say"
+    },
+    {
+      "key": "lifestyle-westk-picnic-final-weekend",
+      "id": "2026-10-10-lifestyle-westk-picnic",
+      "first_seen": "2026-10-10T01:12:00+08:00",
+      "headline_en": "West Kowloon picnic festival runs its final weekend"
+    },
+    {
+      "key": "kmb-huanggang-routes-oct12",
+      "id": "2026-10-10-kmb-huanggang-routes",
+      "first_seen": "2026-10-10T01:12:00+08:00",
+      "headline_en": "KMB to open three routes to Huanggang Port on Monday"
+    },
+    {
+      "key": "adora-flora-city-homeport-2027",
+      "id": "2026-10-10-adora-flora-city-homeport",
+      "first_seen": "2026-10-10T01:12:00+08:00",
+      "headline_en": "Adora Flora City to sail 19 Hong Kong home-port trips in 2027"
+    }
+  ]
+}
