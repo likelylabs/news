@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-10T15:07:34+08:00",
+  "generated_at": "2026-10-10T17:13:55+08:00",
   "live_window_hours": 72,
-  "count": 130,
+  "count": 125,
   "articles": [
+    {
+      "id": "2026-10-10-immigration-illegal-workers",
+      "published_at": "2026-10-10T17:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "immigration",
+        "illegal-workers",
+        "enforcement",
+        "restaurants"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-immigration-illegal-workers.json",
+      "en": {
+        "headline": "Immigration Department arrests 20 in week-long anti-illegal worker operations",
+        "dek": "Officers detained 17 suspected illegal workers, two employers and one overstayer after raids on restaurants, renovation sites and beauty salons from 2 to 8 October."
+      },
+      "zh": {
+        "headline": "入境處一連七日反黑工行動拘捕20人",
+        "dek": "入境事務處聯同警方等多個部門於10月2日至8日行動，在餐廳、裝修單位及美容院等處所拘捕17名懷疑非法勞工、兩名僱主及一名逾期逗留者。"
+      }
+    },
+    {
+      "id": "2026-10-10-prostitution-ring-arrests",
+      "published_at": "2026-10-10T17:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "prostitution",
+        "tsim-sha-tsui",
+        "trafficking"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-prostitution-ring-arrests.json",
+      "en": {
+        "headline": "Police arrest 16 in operation against Tsim Sha Tsui prostitution syndicate",
+        "dek": "West Kowloon officers seized more than HK$13 million in cash and froze over HK$5 million after targeting a group that arranged Thai women for hotel sex work and took a large share of the earnings."
+      },
+      "zh": {
+        "headline": "警破尖沙咀跨國賣淫集團 拘16人檢逾1300萬",
+        "dek": "西九龍重案組於8日至9日行動，搞破招攭泰國女子在酒店賣淫並抽取大部分收益的集團，檢獲逾1300萬港元現金並凍結逾500萬港元。"
+      }
+    },
+    {
+      "id": "2026-10-10-renovation-dispute-mechanism",
+      "published_at": "2026-10-10T17:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "building-management",
+        "tai-po-fire",
+        "home-affairs",
+        "district-councillors"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-renovation-dispute-mechanism.json",
+      "en": {
+        "headline": "Mak outlines three-tier mechanism for building renovation disputes",
+        "dek": "Secretary for Home and Youth Affairs Alice Mak said the planned system would involve district councillors first, then professional mediation, and finally the courts, with a target launch next year."
+      },
+      "zh": {
+        "headline": "麥美娟：明年推三層機制處理大廈管理糾紛",
+        "dek": "民政及青年事務局局長麥美娟表示，計劃明年推行三層調解機制，先由區議員介入，再轉介專業調解，最終才交法庭處理，以改善包括大維修在內的大廈管理。"
+      }
+    },
     {
       "id": "2026-10-10-guangdong-yachts-southbound",
       "published_at": "2026-10-10T15:03:00+08:00",
@@ -2561,168 +2627,6 @@
       "zh": {
         "headline": "通訊局就TVB健康節目發強烈勸諭",
         "dek": "通訊局接獲10宗投訴，指TVB Plus三月播出的節目含可能不準確及有誤導風險的健康建議，裁定投訴成立。"
-      }
-    },
-    {
-      "id": "2026-10-07-anti-triad-operation",
-      "published_at": "2026-10-07T17:12:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "drugs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-anti-triad-operation.json",
-      "en": {
-        "headline": "Police arrest 89 in three-day anti-triad operation",
-        "dek": "Officers said the operation, codenamed Flowing Shade, ran from Sunday to Tuesday and seized etomidate, methamphetamine and cocaine."
-      },
-      "zh": {
-        "headline": "警方三日反黑行動拘捕89人 檢獲依托咪酯及可卡因",
-        "dek": "有組織罪案及三合會調查科稱，代號「逸影」的行動於周日至今早展開，檢獲依托咪酯、冰毒及可卡因。"
-      }
-    },
-    {
-      "id": "2026-10-07-hang-seng-close",
-      "published_at": "2026-10-07T17:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "markets",
-        "hang-seng"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-hang-seng-close.json",
-      "en": {
-        "headline": "Hang Seng closes 150 points lower, ending a two-day rise",
-        "dek": "The index finished at 24,130, down 0.62 per cent, after touching 24,071. The property sub-index rose 1 per cent."
-      },
-      "zh": {
-        "headline": "恒指收市跌150點 結束連升兩日",
-        "dek": "恒指收報24130點，跌0.62%，盤中低見24071點。地產分類指數則升1%。"
-      }
-    },
-    {
-      "id": "2026-10-07-judicial-pay-rise",
-      "published_at": "2026-10-07T17:12:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "government",
-        "judiciary"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-judicial-pay-rise.json",
-      "en": {
-        "headline": "Judges and judicial officers to receive a 2 per cent pay rise",
-        "dek": "The Executive Council accepted the standing committee's advice. The increase is backdated to 1 April and still needs Finance Committee approval."
-      },
-      "zh": {
-        "headline": "法官及司法人員薪酬上調2% 追溯至4月1日",
-        "dek": "行政會議接納司法人員薪常會建議，調整追溯至今年4月1日，仍須立法會財委會批准。"
-      }
-    },
-    {
-      "id": "2026-10-07-sim-card-fraud-measures",
-      "published_at": "2026-10-07T17:12:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "government",
-        "fraud"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-sim-card-fraud-measures.json",
-      "en": {
-        "headline": "Yau says misuse of another person's name on SIM cards will be criminalised",
-        "dek": "The commerce secretary told lawmakers the government is also considering a lower cap on prepaid cards a person may register."
-      },
-      "zh": {
-        "headline": "丘應樺：擬將不當用他人名義登記電話卡刑事化",
-        "dek": "商務及經濟發展局局長書面回覆立法會，指政府亦正考慮降低個人可登記儲值卡的數量上限。"
-      }
-    },
-    {
-      "id": "2026-10-07-tung-chung-site-death",
-      "published_at": "2026-10-07T17:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "tung-chung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-tung-chung-site-death.json",
-      "en": {
-        "headline": "Worker dies after fall at Tung Chung construction site",
-        "dek": "Police said a 30-year-old man fell onto a platform at a Wui Tung Street site on Wednesday afternoon and was later certified dead at North Lantau Hospital."
-      },
-      "zh": {
-        "headline": "東涌匯東街地盤工人高處墮下 送院後不治",
-        "dek": "警方稱一名30歲男工周三下午在匯東街地盤墮下至平台，送北大嶼山醫院搶救，約下午2時半證實死亡。"
-      }
-    },
-    {
-      "id": "2026-10-07-huanggang-port-transport",
-      "published_at": "2026-10-07T15:12:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "boundary",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-huanggang-port-transport.json",
-      "en": {
-        "headline": "Transport Department sets Huanggang bus and taxi plans",
-        "dek": "The rebuilt crossing will run around the clock, with seven franchised bus routes, a public-transport buffer and a ticket system for taxis."
-      },
-      "zh": {
-        "headline": "運輸署交代新皇崗口岸巴士及的士安排",
-        "dek": "重建口岸將24小時運作，設7條專營巴士線及公交緩衝區。空載的士須先取籌，後備巴士約兩分鐘可到上客區。"
-      }
-    },
-    {
-      "id": "2026-10-07-hui-lbma-gold-standards",
-      "published_at": "2026-10-07T15:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "government",
-        "markets",
-        "gold"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-hui-lbma-gold-standards.json",
-      "en": {
-        "headline": "Hui says talks continue on London gold delivery standards",
-        "dek": "The treasury secretary told a Sorrento conference that an Asian forum with the London association is set for Hong Kong next April."
-      },
-      "zh": {
-        "headline": "許正宇：正與倫敦金銀市場協會談合格交割標準",
-        "dek": "財庫局局長在意大利索倫托表示，若合作落實，有助把國際認可標準融入本港黃金市場基建。亞洲論壇訂明年4月在港合辦。"
-      }
-    },
-    {
-      "id": "2026-10-07-mortgage-fraud-arrests",
-      "published_at": "2026-10-07T15:12:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "fraud"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-mortgage-fraud-arrests.json",
-      "en": {
-        "headline": "Police hold four over alleged 70 million dollar mortgage fraud",
-        "dek": "Commercial crime officers said three men and a woman were arrested on Tuesday over fake payroll records used to obtain loans on one flat."
-      },
-      "zh": {
-        "headline": "商罪科拘4人 涉以假出糧紀錄騙取逾7000萬元按揭",
-        "dek": "警方稱周二拘捕3男1女，涉嫌為一個住宅物業向三間金融機構申請按揭，並以空殼公司製造虛假出糧紀錄。"
       }
     }
   ]
