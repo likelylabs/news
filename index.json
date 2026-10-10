@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-10-10T08:09:24+08:00",
+  "generated_at": "2026-10-10T09:15:46+08:00",
   "live_window_hours": 72,
-  "count": 132,
+  "count": 130,
   "articles": [
+    {
+      "id": "2026-10-10-lifestyle-mills-crawlers",
+      "published_at": "2026-10-10T09:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "tsuen-wan",
+        "exhibition",
+        "halloween",
+        "animals",
+        "mills"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-lifestyle-mills-crawlers.json",
+      "en": {
+        "headline": "Free rare-animal exhibition opens at The Mills for Halloween",
+        "dek": "The Mills says the Tales of the Crawlers show at Building 6 ground floor runs from Saturday to 1 November and includes species making their first public appearance in Hong Kong."
+      },
+      "zh": {
+        "headline": "南豐紗廠免費怪奇動物展覽今日開幕",
+        "dek": "南豐紗廠與香港昆蟲教育及科普中心合作，六廠地下「奇蟲物語」展覽由周六起至11月1日，部分物種首次在港公開展出。"
+      }
+    },
+    {
+      "id": "2026-10-10-lion-rock-hiking-rescue",
+      "published_at": "2026-10-10T09:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lion-rock",
+        "hiking",
+        "rescue",
+        "police",
+        "wong-tai-sin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-lion-rock-hiking-rescue.json",
+      "en": {
+        "headline": "Helicopter airlifts hiker from Lion Rock after morning illness",
+        "dek": "Police said a woman reported that her 17-year-old daughter and two friends were on Lion Rock when one began vomiting and feeling cold."
+      },
+      "zh": {
+        "headline": "獅子山行山人士清晨不適 直升機送院",
+        "dek": "警方接報指一名17歲少女與兩名友人登獅子山時，其中一人嘔吐及發冷。"
+      }
+    },
+    {
+      "id": "2026-10-10-yuen-long-choking",
+      "published_at": "2026-10-10T09:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "yuen-long",
+        "choking",
+        "police",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-yuen-long-choking.json",
+      "en": {
+        "headline": "Elderly woman recovers after suspected choking in Yuen Long home",
+        "dek": "Rescuers found the 87-year-old still breathing but unconscious after a report of a choking incident at about 5am in a Tai Hang Street unit."
+      },
+      "zh": {
+        "headline": "元朗院舍八旬婦疑鯁喉昏迷 送院後恢復清醒",
+        "dek": "清晨約5時泰衡街大興大廈院舍單位內一名87歲老婦進食時疑鯁喉，仍有呼吸脈搏但陷入昏迷，其後清醒。"
+      }
+    },
     {
       "id": "2026-10-10-cyclothon-road-closures",
       "published_at": "2026-10-10T07:10:00+08:00",
@@ -2641,108 +2710,6 @@
       "zh": {
         "headline": "維園年宵天后入口快餐檔以28萬元成交",
         "dek": "2027年維園年宵攤位周三起在荔枝角政府合署公開競投。近天后興發街入口的A檔以28萬元成交，底價為120,470元。"
-      }
-    },
-    {
-      "id": "2026-10-07-ec-labour-slates",
-      "published_at": "2026-10-07T09:12:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "election",
-        "labour"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-ec-labour-slates.json",
-      "en": {
-        "headline": "Unions name labour slates as Election Committee nominations open",
-        "dek": "The Federation of Trade Unions is fielding 46 candidates and the Federation of Labour Unions 12 for the 60 elected labour seats."
-      },
-      "zh": {
-        "headline": "工聯會派46人、勞聯派12人參選選委會勞工界",
-        "dek": "選委會界別分組選舉提名期周三開始。工聯會名單包括去年立法會選舉未能連任的郭偉強及陸頌雄。"
-      }
-    },
-    {
-      "id": "2026-10-07-lifestyle-mid-autumn-lanterns",
-      "published_at": "2026-10-07T09:12:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "tourism",
-        "causeway-bay"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-lifestyle-mid-autumn-lanterns.json",
-      "en": {
-        "headline": "Victoria Park lantern display lights up for a final night",
-        "dek": "The Tourism Board's International Mid-Autumn Lantern Spectacular, extended through the National Day holiday, ends on Wednesday, with lights from 6.30pm to 11pm."
-      },
-      "zh": {
-        "headline": "維園國際中秋綵燈匯今晚最後一夜亮燈",
-        "dek": "旅發局展覽延長至周三，涵蓋國慶假期，亮燈時間為下午6時半至晚上11時。康文署維園中秋綵燈會展期同樣延至今日。"
-      }
-    },
-    {
-      "id": "2026-10-07-on-pak-court-repairs",
-      "published_at": "2026-10-07T09:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "public-housing",
-        "kwun-tong",
-        "housing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-on-pak-court-repairs.json",
-      "en": {
-        "headline": "Housing Department says On Pak Court repairs are past 80 per cent",
-        "dek": "The Anderson Road Home Ownership Scheme estate, the department's first modular project, is aiming to finish expanded paint work by mid-October."
-      },
-      "zh": {
-        "headline": "房署指安柏苑外牆修繕已完成逾八成",
-        "dek": "觀塘安達臣道居屋安柏苑是房屋署首個組裝合成居屋項目，署方稱承建商正爭取10月中旬前完成已擴大範圍的油漆修繕。"
-      }
-    },
-    {
-      "id": "2026-10-07-red-fire-danger-warning",
-      "published_at": "2026-10-07T09:12:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "fire-danger"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-red-fire-danger-warning.json",
-      "en": {
-        "headline": "Observatory issues red fire danger warning",
-        "dek": "The warning, raised at 7.45am, means the fire risk is extreme. At 8am the Observatory recorded 24 degrees and humidity of 55 per cent."
-      },
-      "zh": {
-        "headline": "天文台發出紅色火災危險警告 火險極高",
-        "dek": "警告於周三上午7時45分發出並持續生效，表示火災危險性極高。上午8時天文台錄得24度，相對濕度55%。"
-      }
-    },
-    {
-      "id": "2026-10-07-sndas-nominations-open",
-      "published_at": "2026-10-07T09:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "schools"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-sndas-nominations-open.json",
-      "en": {
-        "headline": "School nomination scheme for university places opens today",
-        "dek": "The Education Bureau scheme runs until 2 December. Each local secondary school may nominate two students for one of more than 300 funded programmes."
-      },
-      "zh": {
-        "headline": "學校推薦直接錄取計劃今起接受提名",
-        "dek": "教育局第六屆計劃提名期至12月2日。每間本地中學可推薦最多兩名中六生，報讀逾300個教資會資助課程之一。"
       }
     }
   ]
