@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-10T13:14:22+08:00",
+  "generated_at": "2026-10-10T15:07:34+08:00",
   "live_window_hours": 72,
-  "count": 131,
+  "count": 130,
   "articles": [
+    {
+      "id": "2026-10-10-guangdong-yachts-southbound",
+      "published_at": "2026-10-10T15:03:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "yachts",
+        "cross-boundary",
+        "marine-department",
+        "guangdong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-guangdong-yachts-southbound.json",
+      "en": {
+        "headline": "Guangdong yachts to make first southbound voyage on 16 October",
+        "dek": "The Transport and Logistics Bureau and Marine Department will hold a first-voyage ceremony next Friday to welcome the initial batch of Guangdong-registered yachts under the new reciprocal arrangement."
+      },
+      "zh": {
+        "headline": "「粵艇南下」首航儀式定於10月16日舉行",
+        "dek": "運輸及物流局局長陳美寶表示，運輸及物流局與海事處將於下周五舉行「粵艇南下」首航儀式，迎接首批廣東遊艇來港。"
+      }
+    },
+    {
+      "id": "2026-10-10-mental-recharge-station",
+      "published_at": "2026-10-10T15:03:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "mental-health",
+        "department-of-health",
+        "ma-on-shan",
+        "world-mental-health-day"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-mental-recharge-station.json",
+      "en": {
+        "headline": "Department of Health runs Mental Recharge Station through Sunday",
+        "dek": "The free event at MOSTown in Ma On Shan continues until Sunday evening to mark World Mental Health Day, with interactive games, workshops and a focus on listening to lived experience."
+      },
+      "zh": {
+        "headline": "衞生署「心靈補給站」馬鞍山展至周日",
+        "dek": "為響應世界精神衞生日，衞生署在馬鞍山新港城中心舉辦免費活動，由周五起至周日傍晚，設互動遊戲及工作坊，強調聆聽親身經歷。"
+      }
+    },
+    {
+      "id": "2026-10-10-recycling-expansion-smart-bins",
+      "published_at": "2026-10-10T15:03:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "recycling",
+        "environment",
+        "epd",
+        "green-community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-recycling-expansion-smart-bins.json",
+      "en": {
+        "headline": "Environment chief outlines 24-hour smart recycling and clean energy goals",
+        "dek": "Secretary Tse Chin-wan said the government will expand community recycling with round-the-clock automated points and aims to raise the share of zero-carbon energy to 60 to 70 per cent by 2035."
+      },
+      "zh": {
+        "headline": "環境局長：推24小時智能回收 目標2035年零碳電力達六至七成",
+        "dek": "環境及生態局局長謝展寰表示，政府將加強社區回收網絡，包括推出24小時智能回收桶，並有信心達至2035年零碳能源佔比六至七成的目標。"
+      }
+    },
     {
       "id": "2026-10-10-beach-red-flags",
       "published_at": "2026-10-10T13:12:00+08:00",
@@ -2657,89 +2723,6 @@
       "zh": {
         "headline": "商罪科拘4人 涉以假出糧紀錄騙取逾7000萬元按揭",
         "dek": "警方稱周二拘捕3男1女，涉嫌為一個住宅物業向三間金融機構申請按揭，並以空殼公司製造虛假出糧紀錄。"
-      }
-    },
-    {
-      "id": "2026-10-07-hang-seng-midday",
-      "published_at": "2026-10-07T13:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "markets",
-        "hang-seng"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-hang-seng-midday.json",
-      "en": {
-        "headline": "Hang Seng slips 128 points at the Wednesday midday close",
-        "dek": "After two rising sessions the index closed the morning at 24,151, down 0.5 per cent, with the technology gauge back under 4,200."
-      },
-      "zh": {
-        "headline": "恒指半日收市跌128點 科技指數失守4200點",
-        "dek": "港股連升兩日後回吐，中午報24151點，跌0.5%。科技指數半日報4184點，跌0.9%。"
-      }
-    },
-    {
-      "id": "2026-10-07-land-sale-valuations",
-      "published_at": "2026-10-07T13:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "property",
-        "land-sale",
-        "ho-man-tin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-land-sale-valuations.json",
-      "en": {
-        "headline": "Surveyor lifts Stanley and Shek Mun site values after Ho Man Tin tender",
-        "dek": "Vigers raised its Stanley plot estimate by as much as about 42 per cent after Kerry's bid came in well above earlier forecasts."
-      },
-      "zh": {
-        "headline": "測量師上調赤柱及石門地皮估值 何文田投標後",
-        "dek": "嘉里以逾43.08億元投得佛光街住宅地後，華坊把環角道地皮估值上調最多約四成二。"
-      }
-    },
-    {
-      "id": "2026-10-07-public-healthcare-subsidy",
-      "published_at": "2026-10-07T13:20:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "healthcare",
-        "government",
-        "hospital-authority"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-public-healthcare-subsidy.json",
-      "en": {
-        "headline": "Lo says public healthcare subsidy remains at 95 per cent",
-        "dek": "The health secretary told lawmakers fee waivers have widened sharply, while accident and emergency visits in the first nine months edged down."
-      },
-      "zh": {
-        "headline": "盧寵茂：收費改革後公營醫療資助仍維持95%",
-        "dek": "醫務衞生局局長回覆立法會，指費用減免覆蓋擴大，首九個月急症室求診人次按年微跌。"
-      }
-    },
-    {
-      "id": "2026-10-07-tuen-mun-child-beer-inquiry",
-      "published_at": "2026-10-07T13:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "tuen-mun",
-        "child-welfare"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-tuen-mun-child-beer-inquiry.json",
-      "en": {
-        "headline": "Police investigate report of child carrying beer in Tuen Mun",
-        "dek": "Officers said they received a report on Tuesday night at Fu Tai Estate. No arrest had been made, and the girl's school said it had offered help."
-      },
-      "zh": {
-        "headline": "警方調查屯門女童被安排搬運啤酒",
-        "dek": "警方稱周二晚接獲富泰邨報案，暫未有人被捕。女童就讀的學校表示已提供協助及輔導。"
       }
     }
   ]
