@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-11T03:18:13+08:00",
+  "generated_at": "2026-10-11T07:04:01+08:00",
   "live_window_hours": 72,
-  "count": 116,
+  "count": 119,
   "articles": [
+    {
+      "id": "2026-10-11-lifestyle-afcd-leisure-expo",
+      "published_at": "2026-10-11T07:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "tseung-kwan-o",
+        "expo",
+        "agriculture",
+        "afcd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-lifestyle-afcd-leisure-expo.json",
+      "en": {
+        "headline": "AFCD Leisure Nature Chill Fun Expo continues today in Tseung Kwan O",
+        "dek": "The free two-day event at East Point City runs from noon to 7pm, featuring exhibitions, workshops and sales of local agricultural and fisheries products."
+      },
+      "zh": {
+        "headline": "漁護署「漁農自然Chill好玩」博覽今續於將軍澳",
+        "dek": "免費兩日活動於東港城1樓中庭中午至晚上7時舉行，設展覽、工作坊及本地農漁業產品銷售。"
+      }
+    },
+    {
+      "id": "2026-10-11-tsuen-wan-bar-assault",
+      "published_at": "2026-10-11T07:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "tsuen-wan",
+        "assault",
+        "police",
+        "knife"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-tsuen-wan-bar-assault.json",
+      "en": {
+        "headline": "Man in 20s attacked with knives at Tsuen Wan bar, suspects flee",
+        "dek": "Police are investigating after a man in his twenties was stabbed in the head and hand at a bar on Sha Tsui Road in the early hours of Sunday."
+      },
+      "zh": {
+        "headline": "荃灣酒吧男子遭持刀襲擊 頭手受傷清醒送院",
+        "dek": "警方調查周日凌晨約2時22分，一名20多歲男子在沙咀道酒吧遭兩至三名男子持刀襲擊，頭部及手部受傷。"
+      }
+    },
+    {
+      "id": "2026-10-11-yellow-fire-danger",
+      "published_at": "2026-10-11T07:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "fire-danger",
+        "hko",
+        "weather"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-yellow-fire-danger.json",
+      "en": {
+        "headline": "Observatory raises yellow fire danger warning at 6am",
+        "dek": "The Hong Kong Observatory issued the yellow fire danger warning at 6:00 a.m., indicating a high fire risk, and reminded the public to take extra precautions."
+      },
+      "zh": {
+        "headline": "天文台清晨6時發出黃色火災危險警告",
+        "dek": "天文台於上午6時發出黃色火災危險警告，表示火災危險性頗高，提醒市民特別提高警覺並採取適當防火措施。"
+      }
+    },
     {
       "id": "2026-10-11-lifestyle-sundays-by-the-bay",
       "published_at": "2026-10-11T03:16:00+08:00",
