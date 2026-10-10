@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-11T01:07:12+08:00",
+  "generated_at": "2026-10-11T03:18:13+08:00",
   "live_window_hours": 72,
-  "count": 122,
+  "count": 116,
   "articles": [
+    {
+      "id": "2026-10-11-lifestyle-sundays-by-the-bay",
+      "published_at": "2026-10-11T03:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "lantau",
+        "pui-o",
+        "beach",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-lifestyle-sundays-by-the-bay.json",
+      "en": {
+        "headline": "Sundays By the Bay launches today at Pui O for Treasure Island's 30th",
+        "dek": "The free monthly gathering at Treasure Island Campsite runs from noon to 6pm with live music, local makers and activities open to families and dogs."
+      },
+      "zh": {
+        "headline": "貝澳Treasure Island海灣週日今首辦 慶祝30週年",
+        "dek": "免費活動由中午12時至下午6時於貝澳營地舉行，設現場音樂、本地手作及社區活動，歡迎一家大小及寵物狗參與。"
+      }
+    },
     {
       "id": "2026-10-11-anita-mui-ashes-missing",
       "published_at": "2026-10-11T01:02:00+08:00",
@@ -2432,151 +2455,6 @@
       "zh": {
         "headline": "發展局正審視瑪麗醫院升降機調查報告",
         "dek": "局方稱已收到機電工程署及建築署報告，目標10月中向行政長官提交調查報告。"
-      }
-    },
-    {
-      "id": "2026-10-08-customs-pharma-seizure",
-      "published_at": "2026-10-08T03:14:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "smuggling"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-customs-pharma-seizure.json",
-      "en": {
-        "headline": "Customs seize 450,000 dollars of suspected medicines at border",
-        "dek": "A 37-year-old woman driver was charged with attempting to export unmanifested cargo and was due at West Kowloon Magistrates' Courts on Thursday."
-      },
-      "zh": {
-        "headline": "海關口岸截私家車 檢約45萬元懷疑藥劑製品",
-        "dek": "一名37歲女司機被控企圖輸出未列艙單貨物，案件星期四在西九龍裁判法院提堂。"
-      }
-    },
-    {
-      "id": "2026-10-08-ec-nominations-first-day",
-      "published_at": "2026-10-08T03:14:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "election-committee",
-        "elections"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-ec-nominations-first-day.json",
-      "en": {
-        "headline": "Election Committee nomination period opens with 307 forms",
-        "dek": "Returning officers received 305 candidate forms and two designated-body forms on the first day, with nominations open until 20 October."
-      },
-      "zh": {
-        "headline": "選委會提名期首日接獲307份表格",
-        "dek": "政府表示，各選舉主任星期三接獲305份候選人提名表格及兩份指定團體提名表格，提名期至10月20日。"
-      }
-    },
-    {
-      "id": "2026-10-08-lifestyle-lam-tsuen-fair-auction",
-      "published_at": "2026-10-08T03:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "tai-po",
-        "fehd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-lifestyle-lam-tsuen-fair-auction.json",
-      "en": {
-        "headline": "Lam Tsuen spring fair stalls go to auction on 21 October",
-        "dek": "The Food and Environmental Hygiene Department will offer 21 dry-goods and six wet-goods pitches for the 2027 fair in Tai Po."
-      },
-      "zh": {
-        "headline": "林村放馬莆新春市場攤位10月21日競投",
-        "dek": "食環署公布，2027年市場設21個乾貨及6個濕貨攤位，競投底價分別為780元及770元。"
-      }
-    },
-    {
-      "id": "2026-10-08-radio-licence-consultation",
-      "published_at": "2026-10-08T03:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "broadcasting",
-        "ofca"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-radio-licence-consultation.json",
-      "en": {
-        "headline": "Watchdog opens consultation on two radio licence renewals",
-        "dek": "The Communications Authority is taking views until 6 December on Commercial Radio and Metro Broadcast, whose licences expire in August 2028."
-      },
-      "zh": {
-        "headline": "通訊局就商台及新城牌照續期展開諮詢",
-        "dek": "公眾諮詢由10月7日起至12月6日，兩台聲音廣播牌照於2028年8月25日屆滿。"
-      }
-    },
-    {
-      "id": "2026-10-08-tsui-ping-fire-arrest",
-      "published_at": "2026-10-08T03:14:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "kwun-tong",
-        "police",
-        "fire"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-tsui-ping-fire-arrest.json",
-      "en": {
-        "headline": "Police arrest woman after boy rescued from Kwun Tong fire",
-        "dek": "Officers said a 42-year-old woman was held on suspicion of child neglect after a blaze at Tsui Ping (North) Estate on Wednesday night."
-      },
-      "zh": {
-        "headline": "翠屏北邨火警後 警方拘捕42歲女子",
-        "dek": "警方稱，女子涉嫌對所看管兒童虐待或忽略被捕，正被扣查，案件交觀塘警區刑事調查隊跟進。"
-      }
-    },
-    {
-      "id": "2026-10-08-happy-valley-results",
-      "published_at": "2026-10-08T01:12:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "happy-valley",
-        "horse-racing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-happy-valley-results.json",
-      "en": {
-        "headline": "Golden Fortune and Audacious Pursuit win at Happy Valley",
-        "dek": "The Hong Kong Jockey Club carded a nine-race night meeting on the C+3 course, with the ground rated good to firm."
-      },
-      "zh": {
-        "headline": "跑馬地夜賽金運來及大膽追擊勝出",
-        "dek": "馬會周三在跑馬地草地C+3跑道舉行九場夜賽，場地評為好地至快地。"
-      }
-    },
-    {
-      "id": "2026-10-08-lifestyle-cultural-centre-lanterns",
-      "published_at": "2026-10-08T01:12:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mid-autumn",
-        "tsim-sha-tsui",
-        "lcsd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-lifestyle-cultural-centre-lanterns.json",
-      "en": {
-        "headline": "Cultural Centre moonlit lanterns stay lit until Sunday",
-        "dek": "The Leisure and Cultural Services Department's Moonlit Bunny Crew installation at the Cultural Centre Piazza runs until 11 October."
-      },
-      "zh": {
-        "headline": "文化中心月下兔燈飾亮至周日",
-        "dek": "康文署在香港文化中心廣場的「月下兔仔團」燈飾裝置展至10月11日，每晚六時半至十一時亮燈。"
       }
     }
   ]
