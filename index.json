@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-10T11:10:58+08:00",
+  "generated_at": "2026-10-10T13:14:22+08:00",
   "live_window_hours": 72,
-  "count": 128,
+  "count": 131,
   "articles": [
+    {
+      "id": "2026-10-10-beach-red-flags",
+      "published_at": "2026-10-10T13:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "beaches",
+        "lcsd",
+        "waves",
+        "southern-district",
+        "sai-kung"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-beach-red-flags.json",
+      "en": {
+        "headline": "Red flags hoisted at five beaches due to big waves",
+        "dek": "The Leisure and Cultural Services Department says swimmers should stay out of the water at Stanley Main, Shek O, Big Wave Bay, Silverstrand and Clear Water Bay Second Beach."
+      },
+      "zh": {
+        "headline": "五個泳灘因大浪懸掛紅旗",
+        "dek": "康文署表示，赤柱正灘、石澳、大浪灣、銀線灣及清水灣第二灣因大浪懸掛紅旗，市民請勿游泳。"
+      }
+    },
+    {
+      "id": "2026-10-10-mpox-case",
+      "published_at": "2026-10-10T13:12:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "mpox",
+        "chp",
+        "health",
+        "vaccination"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-mpox-case.json",
+      "en": {
+        "headline": "Centre for Health Protection investigates new Mpox case",
+        "dek": "A 29-year-old man tested positive after developing symptoms, bringing this year's total to 30 cases as authorities step up vaccination and contact tracing."
+      },
+      "zh": {
+        "headline": "衞生防護中心調查新增猴痘確診個案",
+        "dek": "一名29歲男子出現病徵後確診，今年累計30宗個案，中心加強疫苗接種及接觸者追蹤。"
+      }
+    },
+    {
+      "id": "2026-10-10-weekend-weather-outlook",
+      "published_at": "2026-10-10T13:12:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "observatory",
+        "weekend",
+        "forecast"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-weekend-weather-outlook.json",
+      "en": {
+        "headline": "Observatory expects fine and dry weather for the weekend",
+        "dek": "The Hong Kong Observatory says Saturday and Sunday will be mainly fine and dry, with daytime highs around 31 degrees under moderate east to northeasterly winds."
+      },
+      "zh": {
+        "headline": "天文台預測周末大致天晴乾燥",
+        "dek": "香港天文台表示，周六及周日大致天晴及日間乾燥，市區最高氣溫約31度，吹和緩東至東北風。"
+      }
+    },
     {
       "id": "2026-10-10-chung-yeung-traffic",
       "published_at": "2026-10-10T11:10:00+08:00",
