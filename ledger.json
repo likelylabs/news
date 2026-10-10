@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-10-10T21:08:25+08:00",
+  "updated_at": "2026-10-10T23:20:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "mark-six-draw-oct10",
+      "id": "2026-10-10-mark-six-no-jackpot",
+      "first_seen": "2026-10-10T23:20:00+08:00",
+      "headline_en": "Mark Six jackpot goes unclaimed in Saturday draw"
+    },
     {
       "key": "vietnamese-loan-shark-syndicate-oct8-9",
       "id": "2026-10-10-vietnamese-loan-shark-syndicate",
