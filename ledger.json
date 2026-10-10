@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-10T19:08:59+08:00",
+  "updated_at": "2026-10-10T21:05:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "vietnamese-loan-shark-syndicate-oct8-9",
+      "id": "2026-10-10-vietnamese-loan-shark-syndicate",
+      "first_seen": "2026-10-10T21:05:00+08:00",
+      "headline_en": "Police arrest 127 in operation against Vietnamese-led loan-sharking syndicate"
+    },
+    {
+      "key": "tai-po-fire-civil-service-discipline-oct10",
+      "id": "2026-10-10-tai-po-fire-civil-service-discipline",
+      "first_seen": "2026-10-10T21:05:00+08:00",
+      "headline_en": "Civil service chief will not rule out discipline if Tai Po fire report names officials"
+    },
     {
       "key": "yau-ma-tei-kittens-rescue-oct10",
       "id": "2026-10-10-yau-ma-tei-kittens-rescue",
