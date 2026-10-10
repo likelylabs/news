@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-10T17:13:55+08:00",
+  "updated_at": "2026-10-10T19:05:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "yau-ma-tei-kittens-rescue-oct10",
+      "id": "2026-10-10-yau-ma-tei-kittens-rescue",
+      "first_seen": "2026-10-10T19:05:00+08:00",
+      "headline_en": "Firefighters and SPCA rescue three kittens from Yau Ma Tei courtyard"
+    },
+    {
+      "key": "huanggang-port-transition-oct12",
+      "id": "2026-10-10-huanggang-port-transition",
+      "first_seen": "2026-10-10T19:05:00+08:00",
+      "headline_en": "Departments detail switchover plans for new Huanggang Port"
+    },
+    {
+      "key": "election-committee-nominations-oct10",
+      "id": "2026-10-10-election-committee-nominations",
+      "first_seen": "2026-10-10T19:05:00+08:00",
+      "headline_en": "Election Committee nominations reach 756 candidate forms"
+    },
     {
       "key": "renovation-dispute-mechanism-oct10",
       "id": "2026-10-10-renovation-dispute-mechanism",
