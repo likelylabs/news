@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-10-10T19:08:59+08:00",
+  "generated_at": "2026-10-10T21:08:25+08:00",
   "live_window_hours": 72,
-  "count": 128,
+  "count": 120,
   "articles": [
+    {
+      "id": "2026-10-10-tai-po-fire-civil-service-discipline",
+      "published_at": "2026-10-10T21:05:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "tai-po-fire",
+        "civil-service",
+        "accountability",
+        "wang-fuk-court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-tai-po-fire-civil-service-discipline.json",
+      "en": {
+        "headline": "Civil service chief will not rule out discipline if Tai Po fire report names officials",
+        "dek": "Secretary Ingrid Yeung said a support unit is being prepared for the Public Service Commission, and direct disciplinary action remains possible if the independent panel identifies individual failings."
+      },
+      "zh": {
+        "headline": "公務員事務局長：宏福苑報告若點名不排除直接紀律處分",
+        "dek": "楊何蓓茵表示已準備支援小組協助公務員敍用委員會，若獨立委員會報告清晰指出個別公務員失職，不排除直接啟動紀律程序。"
+      }
+    },
+    {
+      "id": "2026-10-10-vietnamese-loan-shark-syndicate",
+      "published_at": "2026-10-10T21:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "loan-sharking",
+        "sham-shui-po",
+        "vietnamese",
+        "organised-crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-vietnamese-loan-shark-syndicate.json",
+      "en": {
+        "headline": "Police arrest 127 in operation against Vietnamese-led loan-sharking syndicate",
+        "dek": "Officers seized more than HK$2 million after a six-month undercover probe into a group that charged daily interest of HK$100 per HK$10,000 and ran illegal gambling and bars in West Kowloon."
+      },
+      "zh": {
+        "headline": "警破深水埗越南裔高利貸集團 拘127人年利率達3700厘",
+        "dek": "有組織罪案科經半年臥底調查後，於8日至9日行動拘捕127人，檢獲逾200萬元得益，集團以同鄉會掩飾向同鄉放貴利並經營非法賭檔及酒吧。"
+      }
+    },
     {
       "id": "2026-10-10-election-committee-nominations",
       "published_at": "2026-10-10T19:05:00+08:00",
@@ -2485,213 +2530,6 @@
       "zh": {
         "headline": "觀塘翠屏北邨單位起火 13歲男童獲救送院",
         "dek": "翠桃樓晚上近八時火警，男童一度蹲在外牆冷氣機上，清醒後送往聯合醫院，約70人自行疏散。"
-      }
-    },
-    {
-      "id": "2026-10-07-child-flu-pneumonia",
-      "published_at": "2026-10-07T21:08:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "influenza"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-child-flu-pneumonia.json",
-      "en": {
-        "headline": "Girl, 11, in intensive care with flu and severe pneumonia",
-        "dek": "The Centre for Health Protection said the child has a chronic illness, tested positive for influenza A H1, and had not had this season's vaccine."
-      },
-      "zh": {
-        "headline": "11歲女童染甲型流感併發嚴重肺炎 情況嚴重",
-        "dek": "衞生防護中心稱，該名有長期病患的女童對甲型H1流感呈陽性，未接種本季流感疫苗，現於兒童深切治療部留醫。"
-      }
-    },
-    {
-      "id": "2026-10-07-crash-for-cash-arrests",
-      "published_at": "2026-10-07T21:08:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "fraud"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-crash-for-cash-arrests.json",
-      "en": {
-        "headline": "Police arrest 17 more over suspected crash-for-cash claims",
-        "dek": "Commercial crime officers said the latest round involved 63 claims worth 25 million dollars, taking the year's arrests to 55."
-      },
-      "zh": {
-        "headline": "警方再拘17名懷疑交通意外索償騙徒",
-        "dek": "商業罪案調查科稱，最新一輪行動涉63宗索償、金額約2500萬元，今年累計拘捕55人。"
-      }
-    },
-    {
-      "id": "2026-10-07-fu-tai-neglect-arrests",
-      "published_at": "2026-10-07T21:08:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "tuen-mun"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-fu-tai-neglect-arrests.json",
-      "en": {
-        "headline": "Police arrest two adults over Tuen Mun child-neglect allegation",
-        "dek": "Officers said a 38-year-old man and a 32-year-old woman were detained after a video showed a girl carrying bags of beer at Fu Tai Estate."
-      },
-      "zh": {
-        "headline": "屯門富泰邨父母涉虐兒被捕 正被扣查",
-        "dek": "警方稱，新界北虐兒案件調查組周三下午拘捕一名38歲男子及一名32歲女子，女童沒有表面受傷。"
-      }
-    },
-    {
-      "id": "2026-10-07-lifestyle-wine-dine-festival",
-      "published_at": "2026-10-07T21:08:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "tourism",
-        "food",
-        "central"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-lifestyle-wine-dine-festival.json",
-      "en": {
-        "headline": "Wine and Dine Festival adds later nights and more stalls",
-        "dek": "The Tourism Board said the Central Harbourfront event from 29 October to 1 November expects about 168,000 visitors and will open until 1am on two nights."
-      },
-      "zh": {
-        "headline": "美酒佳餚巡禮增設深夜時段 攤位多一成",
-        "dek": "旅發局稱，巡禮10月29日至11月1日於中環海濱舉行，並擴至添馬公園，預計約16.8萬人次到場。"
-      }
-    },
-    {
-      "id": "2026-10-07-sasa-national-day-sales",
-      "published_at": "2026-10-07T21:08:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "retail",
-        "tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-sasa-national-day-sales.json",
-      "en": {
-        "headline": "Sa Sa says National Day sales in Hong Kong and Macau rose over 60 per cent",
-        "dek": "The retailer also reported second-quarter turnover of 1.41 billion dollars, up more than 37 per cent from a year earlier."
-      },
-      "zh": {
-        "headline": "莎莎：國慶假期港澳線下銷售按年升逾六成",
-        "dek": "集團亦公布上季總營業額14.1億元，按年升逾37%，港澳線下業務升52%至11.2億元。"
-      }
-    },
-    {
-      "id": "2026-10-07-etomidate-record-seizure",
-      "published_at": "2026-10-07T19:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "drugs",
-        "lai-chi-kok"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-etomidate-record-seizure.json",
-      "en": {
-        "headline": "Police seize record 31 million dollars of etomidate powder",
-        "dek": "Officers found about 25 kilograms of suspected etomidate in a Lai Chi Kok unit disguised as a logistics office and arrested two men."
-      },
-      "zh": {
-        "headline": "警搗荔枝角工廈毒品倉 檢獲歷來最多依托咪酯",
-        "dek": "毒品調查科在荔枝角一個偽裝成物流公司辦公室的單位，檢獲約25公斤懷疑依托咪酯粉末，市值逾3100萬元，兩名男子被捕。"
-      }
-    },
-    {
-      "id": "2026-10-07-hstech-index-reform",
-      "published_at": "2026-10-07T19:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "stocks",
-        "technology"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-hstech-index-reform.json",
-      "en": {
-        "headline": "Hang Seng Tech Index to expand to 50 stocks in December",
-        "dek": "Hang Seng Indexes Company said each proposal in its consultation drew support from more than 80 per cent of respondents."
-      },
-      "zh": {
-        "headline": "科指成份股增至50隻 12月7日生效",
-        "dek": "恒指公司公布諮詢結果，每項建議均獲逾八成回應單位支持，將採納大部分修訂，並於11月20日季檢公布成份股變動。"
-      }
-    },
-    {
-      "id": "2026-10-07-illegal-guide-jail",
-      "published_at": "2026-10-07T19:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "immigration",
-        "illegal-work",
-        "tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-illegal-guide-jail.json",
-      "en": {
-        "headline": "One illegal guide jailed 54 days after undercover booking",
-        "dek": "Immigration officers and the Travel Industry Council posed as customers and arrested two mainland visitors offering guide and photo services."
-      },
-      "zh": {
-        "headline": "入境處放蛇拘兩名非法導遊 一人判囚54日",
-        "dek": "入境處聯同旅監局喬裝顧客，拘捕兩名來港提供導遊及攝影服務的內地旅客，其中一人在沙田裁判法院認罪，判囚54日。"
-      }
-    },
-    {
-      "id": "2026-10-07-presale-consents-q3",
-      "published_at": "2026-10-07T19:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "property",
-        "lands-department",
-        "housing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-presale-consents-q3.json",
-      "en": {
-        "headline": "Lands Department clears nine presale consents for 3,766 flats",
-        "dek": "Eight of the third-quarter consents cover phased projects in Kai Tak, Chai Wan, Cheung Sha Wan, Yau Tong, Tai Po and To Kwa Wan."
-      },
-      "zh": {
-        "headline": "地政總署上季批出9份預售同意書 涉3766伙",
-        "dek": "第3季批出的住宅預售樓花同意書涵蓋啟德、柴灣、長沙灣、油塘、大埔及土瓜灣，其中3226伙預計2028年落成。"
-      }
-    },
-    {
-      "id": "2026-10-07-tvb-health-programme-advice",
-      "published_at": "2026-10-07T19:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "broadcasting",
-        "health",
-        "tvb"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-tvb-health-programme-advice.json",
-      "en": {
-        "headline": "Watchdog issues strong advice over TVB health programme",
-        "dek": "The Communications Authority upheld 10 complaints about claims on a March TVB Plus show and urged the station to follow the programme code."
-      },
-      "zh": {
-        "headline": "通訊局就TVB健康節目發強烈勸諭",
-        "dek": "通訊局接獲10宗投訴，指TVB Plus三月播出的節目含可能不準確及有誤導風險的健康建議，裁定投訴成立。"
       }
     }
   ]
