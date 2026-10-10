@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-10-10T17:13:55+08:00",
+  "generated_at": "2026-10-10T19:08:59+08:00",
   "live_window_hours": 72,
-  "count": 125,
+  "count": 128,
   "articles": [
+    {
+      "id": "2026-10-10-election-committee-nominations",
+      "published_at": "2026-10-10T19:05:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "election-committee",
+        "nominations",
+        "politics"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-election-committee-nominations.json",
+      "en": {
+        "headline": "Election Committee nominations reach 756 candidate forms",
+        "dek": "Returning officers received 71 more candidate nomination forms and one from a designated body on Saturday, the fourth day of the two-week nomination window."
+      },
+      "zh": {
+        "headline": "選委會選舉再接72份提名 累計756份候選人表格",
+        "dek": "選舉主任周六接獲71份候選人提名表格及1份指定團體提名表格，提名期第四日，累計候選人提名表格達756份。"
+      }
+    },
+    {
+      "id": "2026-10-10-huanggang-port-transition",
+      "published_at": "2026-10-10T19:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "huanggang",
+        "cross-boundary",
+        "immigration",
+        "customs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-huanggang-port-transition.json",
+      "en": {
+        "headline": "Departments detail switchover plans for new Huanggang Port",
+        "dek": "Immigration, Customs, Transport and Police set out clearance, transport and crowd arrangements for the 6.30am opening on Monday, when Lok Ma Chau services end."
+      },
+      "zh": {
+        "headline": "多部門公布新皇崗口岸周一轉換安排",
+        "dek": "入境處、海關、運輸署及警務處詳列周一早上6時30分開通的清關、交通及人流安排，落馬洲服務屆時暫停。"
+      }
+    },
+    {
+      "id": "2026-10-10-yau-ma-tei-kittens-rescue",
+      "published_at": "2026-10-10T19:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "yau-ma-tei",
+        "animals",
+        "fire-services",
+        "spca"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-yau-ma-tei-kittens-rescue.json",
+      "en": {
+        "headline": "Firefighters and SPCA rescue three kittens from Yau Ma Tei courtyard",
+        "dek": "The young cats, estimated at two to three months old, were freed from a vacant shop's light well on Shanghai Street after a cat volunteer reported faint meowing around midday."
+      },
+      "zh": {
+        "headline": "油麻地上海街天井三幼貓獲救 消防愛協合力破門",
+        "dek": "中午時分貓義工報稱空置地舖傳出微弱貓聲，消防破門後與愛協救出約兩至三個月大幼貓，交義工照料。"
+      }
+    },
     {
       "id": "2026-10-10-immigration-illegal-workers",
       "published_at": "2026-10-10T17:20:00+08:00",
