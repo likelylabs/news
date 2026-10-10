@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-10-weekend-weather-outlook",
+  "published_at": "2026-10-10T13:12:00+08:00",
+  "category": "weather",
+  "tags": ["observatory", "weekend", "forecast"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "weekend-weather-outlook-oct10-11",
+  "en": {
+    "headline": "Observatory expects fine and dry weather for the weekend",
+    "dek": "The Hong Kong Observatory says Saturday and Sunday will be mainly fine and dry, with daytime highs around 31 degrees under moderate east to northeasterly winds.",
+    "body": [
+      "The Hong Kong Observatory said an anticyclone aloft is bringing generally fine weather over southern China, while the northeast monsoon affecting the coast will moderate gradually.",
+      "For Saturday, the Observatory forecast mainly fine conditions that will be dry during the day, with temperatures between 26 and 31 degrees, relative humidity of 50 to 80 per cent, and east to northeast winds of force 4. Significant rainfall is unlikely.",
+      "Sunday is expected to be fine and dry during the day under similar winds and temperatures of 26 to 31 degrees. The Observatory said fine and dry weather will continue over the next few days, with daytime conditions turning hot and a larger temperature difference between day and night over inland areas.",
+      "No tropical cyclone signal or other severe weather warning beyond the existing yellow fire danger warning is currently in force, according to the Observatory."
+    ]
+  },
+  "zh": {
+    "headline": "天文台預測周末大致天晴乾燥",
+    "dek": "香港天文台表示，周六及周日大致天晴及日間乾燥，市區最高氣溫約31度，吹和緩東至東北風。",
+    "body": [
+      "香港天文台表示，受高空反氣旋支配，華南地區天氣普遍晴朗，影響沿岸的東北季候風將逐漸緩和。",
+      "周六大致天晴，日間乾燥，氣溫介乎26至31度，相對濕度50%至80%，吹東至東北風4級，顯著降雨機會低。",
+      "周日天晴及日間乾燥，風向及氣溫相若，同為26至31度。天文台指未來數日繼續大致天晴乾燥，日間炎熱，內陸地區日夜溫差較大。",
+      "現時除黃色火災危險警告外，並無其他熱帶氣旋信號或惡劣天氣警告生效。"
+    ]
+  }
+}

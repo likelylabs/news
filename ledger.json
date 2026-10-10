@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-10T11:10:58+08:00",
+  "updated_at": "2026-10-10T13:12:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "weekend-weather-outlook-oct10-11",
+      "id": "2026-10-10-weekend-weather-outlook",
+      "first_seen": "2026-10-10T13:12:00+08:00",
+      "headline_en": "Observatory expects fine and dry weather for the weekend"
+    },
+    {
+      "key": "mpox-case-oct10",
+      "id": "2026-10-10-mpox-case",
+      "first_seen": "2026-10-10T13:12:00+08:00",
+      "headline_en": "Centre for Health Protection investigates new Mpox case"
+    },
+    {
+      "key": "beach-red-flags-oct10",
+      "id": "2026-10-10-beach-red-flags",
+      "first_seen": "2026-10-10T13:12:00+08:00",
+      "headline_en": "Red flags hoisted at five beaches due to big waves"
+    },
     {
       "key": "lifestyle-ciao-gelato-fest-oct10",
       "id": "2026-10-10-lifestyle-ciao-gelato-fest",
