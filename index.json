@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-10-10T23:21:46+08:00",
+  "generated_at": "2026-10-11T01:06:07+08:00",
   "live_window_hours": 72,
-  "count": 118,
+  "count": 122,
   "articles": [
+    {
+      "id": "2026-10-11-anita-mui-ashes-missing",
+      "published_at": "2026-10-11T01:02:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "anita-mui",
+        "lantau",
+        "po-lin",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-anita-mui-ashes-missing.json",
+      "en": {
+        "headline": "Anita Mui fan club says ashes urn missing from Po Lin Monastery since July",
+        "dek": "On the late singer’s 63rd birthday the International Fan Club issued a statement that a fan found the niche empty on 18 July; police have been investigating for nearly three months."
+      },
+      "zh": {
+        "headline": "梅艷芳歌迷會指骨灰甕7月起在寶蓮禪寺失蹤",
+        "dek": "周六為已故天后63歲冥壽，國際歌迷會發聲明稱7月18日歌迷發現海會塔靈位螺絲鬆脫、骨灰甕不翼而飛，報警近三個月仍未尋回。"
+      }
+    },
+    {
+      "id": "2026-10-11-lifestyle-cyclothon-carnival",
+      "published_at": "2026-10-11T01:02:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "lifestyle",
+        "cyclothon",
+        "west-kowloon",
+        "sports",
+        "carnival"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-lifestyle-cyclothon-carnival.json",
+      "en": {
+        "headline": "Cyclothon Carnival runs today at West Kowloon Art Park",
+        "dek": "The free event at the Great Lawn accompanies the Hong Kong Cyclothon rides and races, with sports activities, food stalls and live performances from 6.30am to 6pm."
+      },
+      "zh": {
+        "headline": "單車節嘉年華今於西九藝術公園草地舉行",
+        "dek": "活動由早上6時30分至下午6時免費入場，設運動市集、美食檔及互動體驗，配合香港單車節賽事。"
+      }
+    },
+    {
+      "id": "2026-10-11-tsing-sha-mercedes-fire",
+      "published_at": "2026-10-11T01:02:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "fire",
+        "tsing-sha-highway",
+        "traffic",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-tsing-sha-mercedes-fire.json",
+      "en": {
+        "headline": "Mercedes catches fire on Tsing Sha Highway; driver and passenger escape unhurt",
+        "dek": "A 1995 Mercedes S320 erupted in flames near Container Terminal 8 on Saturday night; firefighters raised the incident to a No. 2 alarm before extinguishing the blaze."
+      },
+      "zh": {
+        "headline": "青沙公路平治起火 司機乘客棄車逃生無人傷",
+        "dek": "周六晚上約10時40分，一輊1995年平治S320在昂船洲大橋近八號貨櫃碼頭車頭冒煙起火，消防列作二級火警後將火救熄。"
+      }
+    },
+    {
+      "id": "2026-10-11-youth-arrests-rise",
+      "published_at": "2026-10-11T01:02:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "youth",
+        "crime",
+        "prevention"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-youth-arrests-rise.json",
+      "en": {
+        "headline": "Youth arrests rise 23 per cent in first eight months, police chief says",
+        "dek": "Commissioner Joe Chow disclosed the figure while officiating a civic education ceremony, linking most cases to impulsive assaults, fraud involving bank accounts, and damage tied to debt collection."
+      },
+      "zh": {
+        "headline": "首八月逾2100名青少年被捕按年升23% 周一鳴：加強防罪宣傳",
+        "dek": "警務處處長周一鳴在學界公民教育專員畢業禮上披露數據，指主要涉及傷人毆打、詐騙洗黑錢及與非法收債有關的刑事毀壞。"
+      }
+    },
     {
       "id": "2026-10-10-mark-six-no-jackpot",
       "published_at": "2026-10-10T23:20:00+08:00",
