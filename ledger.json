@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-10T15:07:34+08:00",
+  "updated_at": "2026-10-10T17:20:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "renovation-dispute-mechanism-oct10",
+      "id": "2026-10-10-renovation-dispute-mechanism",
+      "first_seen": "2026-10-10T17:20:00+08:00",
+      "headline_en": "Mak outlines three-tier mechanism for building renovation disputes"
+    },
+    {
+      "key": "immigration-illegal-workers-oct2-8",
+      "id": "2026-10-10-immigration-illegal-workers",
+      "first_seen": "2026-10-10T17:20:00+08:00",
+      "headline_en": "Immigration Department arrests 20 in week-long anti-illegal worker operations"
+    },
+    {
+      "key": "police-prostitution-ring-oct8-9",
+      "id": "2026-10-10-prostitution-ring-arrests",
+      "first_seen": "2026-10-10T17:20:00+08:00",
+      "headline_en": "Police arrest 16 in operation against Tsim Sha Tsui prostitution syndicate"
+    },
     {
       "key": "recycling-expansion-smart-bins-oct10",
       "id": "2026-10-10-recycling-expansion-smart-bins",
