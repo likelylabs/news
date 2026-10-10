@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-10T09:16:23+08:00",
+  "generated_at": "2026-10-10T11:09:49+08:00",
   "live_window_hours": 72,
-  "count": 130,
+  "count": 128,
   "articles": [
+    {
+      "id": "2026-10-10-chung-yeung-traffic",
+      "published_at": "2026-10-10T11:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "chung-yeung",
+        "traffic",
+        "transport-department",
+        "cemeteries"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-chung-yeung-traffic.json",
+      "en": {
+        "headline": "Police set phased Chung Yeung traffic controls from today",
+        "dek": "Special arrangements run in multiple districts until early November to manage grave-sweeping traffic near cemeteries and columbaria."
+      },
+      "zh": {
+        "headline": "警方分階段實施重陽節特別交通安排",
+        "dek": "多區由周四起至11月上旬實施封路、禁區及停車限制，以便利掃墓及維持交通暢順。"
+      }
+    },
+    {
+      "id": "2026-10-10-lifestyle-ciao-gelato-fest",
+      "published_at": "2026-10-10T11:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "pmq",
+        "sheung-wan",
+        "food",
+        "gelato",
+        "weekend"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-10/2026-10-10-lifestyle-ciao-gelato-fest.json",
+      "en": {
+        "headline": "Ciao Gelato Fest continues at PMQ through Sunday",
+        "dek": "PMQ lists the Italian-style gelato market running from noon to 10pm on Saturday and Sunday at the ground-floor courtyard, with free entry."
+      },
+      "zh": {
+        "headline": "元創方Ciao意式雪糕市集展至周日",
+        "dek": "元創方活動頁列出，意式雪糕市集周六及周日中午12時至晚上10時於地面廣場舉行，入場免費。"
+      }
+    },
     {
       "id": "2026-10-10-lifestyle-mills-crawlers",
       "published_at": "2026-10-10T09:25:00+08:00",
@@ -2628,88 +2674,6 @@
       "zh": {
         "headline": "警方調查屯門女童被安排搬運啤酒",
         "dek": "警方稱周二晚接獲富泰邨報案，暫未有人被捕。女童就讀的學校表示已提供協助及輔導。"
-      }
-    },
-    {
-      "id": "2026-10-07-five-year-plan-debate",
-      "published_at": "2026-10-07T11:08:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "government",
-        "legco"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-five-year-plan-debate.json",
-      "en": {
-        "headline": "Chan opens three-day LegCo debate on the five-year plan",
-        "dek": "The Chief Secretary moved the motion on the 2026-2030 plan and said success depends on putting it into practice, with the Policy Address as the yearly programme."
-      },
-      "zh": {
-        "headline": "陳國基動議五年規劃議案 立法會展開三日合併辯論",
-        "dek": "政務司司長周三動議2026至2030年經濟和社會發展第一個五年規劃議案，並指規劃落到實處才是成功關鍵。"
-      }
-    },
-    {
-      "id": "2026-10-07-lifestyle-mplus-myths-monsters",
-      "published_at": "2026-10-07T11:08:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "west-kowloon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-lifestyle-mplus-myths-monsters.json",
-      "en": {
-        "headline": "M+ fantasy exhibition opens in the West Gallery on 17 October",
-        "dek": "Myths and Monsters runs until 4 April 2027 on level two, tracing fantasy in Asian visual culture from the nineteenth century to the present."
-      },
-      "zh": {
-        "headline": "M+西展廳10月17日展開「神話與怪獸」展覽",
-        "dek": "「神話與怪獸：亞洲的奇幻異境」展至2027年4月4日，在西九M+二樓西展廳舉行，梳理十九至二十一世紀亞洲視覺文化中的幻想。"
-      }
-    },
-    {
-      "id": "2026-10-07-tai-po-school-bus-crash",
-      "published_at": "2026-10-07T11:08:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic",
-        "police",
-        "tai-po"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-tai-po-school-bus-crash.json",
-      "en": {
-        "headline": "School bus hits a kerb in Tai Po, children taken to hospital",
-        "dek": "A driver reported the crash on On Po Road at 8.27am. Ambulance crews classed two children as semi-urgent and seven as minor."
-      },
-      "zh": {
-        "headline": "大埔安埔路校巴撞石壆 學童清醒送院",
-        "dek": "司機上午8時27分報案，指安埔路12號對開失事。救護分流兩名學童屬黃色、七名屬綠色，全部清醒送往大埔那打素醫院。"
-      }
-    },
-    {
-      "id": "2026-10-07-victoria-park-fair-auction",
-      "published_at": "2026-10-07T11:08:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "causeway-bay",
-        "tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-07/2026-10-07-victoria-park-fair-auction.json",
-      "en": {
-        "headline": "Tin Hau entrance stall sells for 280,000 dollars at fair auction",
-        "dek": "Bidding for the 2027 Victoria Park Lunar New Year fair opened on Wednesday. The new top fast-food pitch went for 280,000 dollars."
-      },
-      "zh": {
-        "headline": "維園年宵天后入口快餐檔以28萬元成交",
-        "dek": "2027年維園年宵攤位周三起在荔枝角政府合署公開競投。近天后興發街入口的A檔以28萬元成交，底價為120,470元。"
       }
     }
   ]
