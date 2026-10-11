@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-10-11T09:13:34+08:00",
+  "generated_at": "2026-10-11T11:08:52+08:00",
   "live_window_hours": 72,
-  "count": 116,
+  "count": 115,
   "articles": [
+    {
+      "id": "2026-10-11-bar-association-proxy-cap",
+      "published_at": "2026-10-11T11:10:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "bar-association",
+        "building-management",
+        "bid-rigging",
+        "proxy",
+        "owners"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-bar-association-proxy-cap.json",
+      "en": {
+        "headline": "Bar Association proposes proxy cap and electronic voting for owners meetings",
+        "dek": "Chairman Jose-Antonio Maurellet said limiting the number of proxies a person can hold, without restricting who may hold them, would improve transparency and curb abuse in building procurement."
+      },
+      "zh": {
+        "headline": "大律師公會建議業主大會授權票設上限 反對限親屬",
+        "dek": "主席毛樂禮指設數量上限最可行快捷，限制只可授權予親屬或同屋苑業主難以執行，建議加強透明度及引入電子投票。"
+      }
+    },
+    {
+      "id": "2026-10-11-lcsd-lifeguard-contract",
+      "published_at": "2026-10-11T11:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lcsd",
+        "lifeguard",
+        "outsourcing",
+        "swimming-pools",
+        "union"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-lcsd-lifeguard-contract.json",
+      "en": {
+        "headline": "LCSD awards HK$122.8 million lifeguard contract despite past shortfalls",
+        "dek": "The department gave a three-year outsourcing deal for six pools to Spotlight Enterprises, drawing union concerns over costs after earlier staffing failures."
+      },
+      "zh": {
+        "headline": "康文署批出1.228億元外判救生合約 工會質疑浪費",
+        "dek": "署方將六個泳池三年救生及急救服務外判予博藝體運，合約值逾1.2億元，工會指夏季才缺人手，冬季資源浪費。"
+      }
+    },
+    {
+      "id": "2026-10-11-lifestyle-discovery-bay-market",
+      "published_at": "2026-10-11T11:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "discovery-bay",
+        "market",
+        "handmade",
+        "weekend"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-lifestyle-discovery-bay-market.json",
+      "en": {
+        "headline": "Discovery Bay Weekend Market continues today at DB Plaza until 6pm",
+        "dek": "Handmade Hong Kong’s two-day gathering of local makers runs from 11am Saturday to 6pm Sunday at Discovery Bay Plaza."
+      },
+      "zh": {
+        "headline": "愉景灣週末市集今續辦至下午6時 愉景廣場舉行",
+        "dek": "香港手工製作主辦的兩日市集由周六上午11時至周日下午6時於愉景廣場舉行，免費入場。"
+      }
+    },
     {
       "id": "2026-10-11-lifestyle-hkpax-sunday-shows",
       "published_at": "2026-10-11T09:12:00+08:00",
@@ -2382,91 +2451,6 @@
       "zh": {
         "headline": "施華四十歲復出 加盟港超球會沙田",
         "dek": "前西班牙及曼城中場施華將抵港接受體能評估，再與球隊訓練，沙田下一仗於十月十八日對香港足球會。"
-      }
-    },
-    {
-      "id": "2026-10-08-kowloon-city-helper-arrest",
-      "published_at": "2026-10-08T09:14:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "kowloon-city",
-        "child-protection"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-kowloon-city-helper-arrest.json",
-      "en": {
-        "headline": "Police hold helper after report of assault on boy, 5",
-        "dek": "A 37-year-old domestic helper was arrested in Kowloon City after a mother reported that her son had been hit at their Hau Wong Road home."
-      },
-      "zh": {
-        "headline": "九龍城5歲男童疑遭外傭襲擊 37歲菲傭被捕",
-        "dek": "一名母親周三晚報案，指5歲兒子在侯王道住所疑被外傭不當對待，警方以涉嫌虐待受看管兒童拘捕37歲菲傭。"
-      }
-    },
-    {
-      "id": "2026-10-08-lifestyle-anderson-link-square",
-      "published_at": "2026-10-08T09:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "anderson",
-        "kwun-tong",
-        "opening"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-lifestyle-anderson-link-square.json",
-      "en": {
-        "headline": "Anderson's first mall opens in stages before 13 October",
-        "dek": "Link says Link Square in the Anderson Road Quarry development is in soft opening, with a formal launch set for 13 October."
-      },
-      "zh": {
-        "headline": "安達臣首個商場領達廣場分階段啟用 13日正式開幕",
-        "dek": "領展表示，觀塘安達臣道石礦場發展區的領達廣場已於10月6日起試業，正式開幕訂於10月13日。"
-      }
-    },
-    {
-      "id": "2026-10-08-sau-mau-ping-red-paint",
-      "published_at": "2026-10-08T09:14:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "sau-mau-ping",
-        "kwun-tong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-sau-mau-ping-red-paint.json",
-      "en": {
-        "headline": "Police investigate red-paint attack on Sau Mau Ping offices",
-        "dek": "Officers were called at 6:40am after red paint was thrown at a joint district office used by two lawmakers in Sau Mau Ping Estate."
-      },
-      "zh": {
-        "headline": "秀茂坪議員聯合辦事處遭淋紅油 警列刑事毀壞",
-        "dek": "警方今早約6時40分接報，秀茂坪邨秀緻樓地下鄧家彪與陳沛良的聯合地區辦事處被淋紅油，鐵閘及告示板均沾污。"
-      }
-    },
-    {
-      "id": "2026-10-08-sfc-retail-fund-code",
-      "published_at": "2026-10-08T09:14:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "sfc",
-        "funds",
-        "regulation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-sfc-retail-fund-code.json",
-      "en": {
-        "headline": "SFC sets November start for retail fund code changes",
-        "dek": "The securities watchdog will bring in a value-at-risk method for derivatives exposure and tighter liquidity rules for authorised retail funds."
-      },
-      "zh": {
-        "headline": "證監會零售基金守則修訂十一月生效",
-        "dek": "證監會公布諮詢總結，單位信託及互惠基金守則將引入風險價值計算法管理衍生工具風險，並加強流動性及貨幣市場基金保障。"
       }
     }
   ]
