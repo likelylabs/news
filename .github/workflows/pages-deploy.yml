@@ -212,7 +212,7 @@ jobs:
           fi
           echo "page_url=$url" >> "$GITHUB_OUTPUT"
 
-      - name: Notify success — push-notification hook
+      - name: Report success (no push notification is sent here)
         if: steps.gate.outputs.go == 'true' && steps.resolve.outcome == 'success'
         env:
           PAGE_URL: ${{ steps.resolve.outputs.page_url }}
@@ -221,10 +221,12 @@ jobs:
           set -euo pipefail
           echo "Pages live: ${PAGE_URL} (sha ${DEPLOY_SHA})"
           # ---------------------------------------------------------------
-          # FUTURE push notifications: runs once per SUCCESSFUL deploy, with
-          # the live URL + SHA in scope. When wiring FCM:
-          #   - token in `secrets` (never in RC / never in the app — tenet #10)
-          #   - gate on "did the newest article set change vs the last notified
-          #     deploy" — today proved a deploy can fail while the site still
-          #     updated by another path, so track CONTENT change, not job success.
+          # Push notifications are NOT sent from this workflow, and must
+          # never be: this repo is public, so it holds no FCM token, key,
+          # service account or Actions secret (tenet #10). The weather
+          # Worker pulls index.json every 5 min and pushes new articles
+          # itself; nothing here sends. (It keys on CONTENT, not on this
+          # job: a deploy can fail while the site still updates.) Editorial
+          # rule for `breaking: true`: GROK.md §1c. Sender + policy:
+          # radioapp-hq PUSH-TOPICS.md.
           # ---------------------------------------------------------------
