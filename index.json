@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-12T01:04:47+08:00",
+  "generated_at": "2026-10-12T03:16:18+08:00",
   "live_window_hours": 72,
-  "count": 104,
+  "count": 99,
   "articles": [
+    {
+      "id": "2026-10-12-yellow-bus-final-service",
+      "published_at": "2026-10-12T03:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "yellow-bus",
+        "huanggang-port",
+        "lok-ma-chau",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-12/2026-10-12-yellow-bus-final-service.json",
+      "en": {
+        "headline": "Yellow Bus ends nearly 30-year service as new Huanggang Port opens",
+        "dek": "The last northbound Yellow Bus to the old port leaves San Tin between 6.15am and 6.20am today, after which the cross-boundary shuttle is retired under the new joint-clearance arrangements."
+      },
+      "zh": {
+        "headline": "皇巴近30年服務今早結束 新皇崗口岸啟用",
+        "dek": "往舊口岸北行尾班皇巴於今早6時15分至6時20分由新田開出，此後接駁服務將告終，改由新口岸一地兩檢安排取代。"
+      }
+    },
     {
       "id": "2026-10-12-hkpax-monday-performances",
       "published_at": "2026-10-12T01:05:00+08:00",
@@ -2118,135 +2141,6 @@
       "zh": {
         "headline": "政府反對美國販運人口報告對港評級",
         "dek": "發言人指《2026年美國販運人口報告》把香港列為第三級別毫無根據，並稱去年約12100次初步識別審核中識別15名受害者。"
-      }
-    },
-    {
-      "id": "2026-10-09-lifestyle-megabox-nba-viewing",
-      "published_at": "2026-10-09T03:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "sport",
-        "kowloon-bay"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-lifestyle-megabox-nba-viewing.json",
-      "en": {
-        "headline": "MegaBox screens NBA China Games from its Kowloon Bay roof",
-        "dek": "The mall will show the Mavericks against the Rockets at Mega Sky on Friday night and again on Sunday afternoon."
-      },
-      "zh": {
-        "headline": "九龍灣MegaBox天台直播觀賞NBA中國賽",
-        "dek": "商場表示，周五晚上及周日下午於十八樓Mega Sky轉播獨行俠對火箭，入場券須於地下禮賓部換領。"
-      }
-    },
-    {
-      "id": "2026-10-09-police-college-degree",
-      "published_at": "2026-10-09T03:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "education"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-police-college-degree.json",
-      "en": {
-        "headline": "Police College to offer funded honours degree for junior officers",
-        "dek": "The force says a new applied degree in security and criminal investigation will recruit later this year and start classes in March."
-      },
-      "zh": {
-        "headline": "警察學院開辦員佐級榮譽學士課程 學費由警隊全額資助",
-        "dek": "警方表示，安保及刑事調查應用學位課程年底招生，明年三月開課，對象為未持學士學位的員佐級人員。"
-      }
-    },
-    {
-      "id": "2026-10-09-queen-mary-sentence-review",
-      "published_at": "2026-10-09T03:14:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "courts",
-        "health",
-        "queen-mary"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-queen-mary-sentence-review.json",
-      "en": {
-        "headline": "Justice Department seeks review of Queen Mary lift sentence",
-        "dek": "The Electrical and Mechanical Services Department said a review has been filed after a registered engineer was given community service."
-      },
-      "zh": {
-        "headline": "律政司就瑪麗醫院升降機案刑罰提出覆核",
-        "dek": "機電工程署表示，涉案註冊工程師被判社會服務令後，律政司已根據《裁判官條例》提出覆核，其升降機及自動梯註冊資格亦已撤銷。"
-      }
-    },
-    {
-      "id": "2026-10-09-shek-lei-pui-copper-arrests",
-      "published_at": "2026-10-09T03:14:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "crime",
-        "sham-shui-po"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-shek-lei-pui-copper-arrests.json",
-      "en": {
-        "headline": "Police arrest five over copper taken from closed Shek Lei Pui plant",
-        "dek": "Officers detained four men on suspicion of burglary and a recycling-shop operator over parts valued at about 350,000 dollars."
-      },
-      "zh": {
-        "headline": "石梨貝濾水廠銅件被盜 警拘五人包括回收店負責人",
-        "dek": "警方指，已停用的金山石梨貝濾水廠銅線及四十八個銅製水泵部件被盜，損失約三十五萬元，供水未受影響。"
-      }
-    },
-    {
-      "id": "2026-10-09-lifestyle-hannah-pong-exhibition",
-      "published_at": "2026-10-09T01:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "central",
-        "opening",
-        "pmq"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-lifestyle-hannah-pong-exhibition.json",
-      "en": {
-        "headline": "Hannah Pong opens first solo show at PMQ",
-        "dek": "A free body-art exhibition by Hong Kong artist Hannah Pong runs at PMQ unit H303 from 9 to 17 October."
-      },
-      "zh": {
-        "headline": "龐學文首個個展今起在元創方展出",
-        "dek": "人體藝術家龐學文的免費個展於元創方H303舉行，展期由10月9日至17日。"
-      }
-    },
-    {
-      "id": "2026-10-09-lifestyle-pmq-gelato-fest",
-      "published_at": "2026-10-09T01:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "central",
-        "opening",
-        "pmq"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-lifestyle-pmq-gelato-fest.json",
-      "en": {
-        "headline": "Gelato market returns to PMQ for a second weekend",
-        "dek": "Ciao! Gelato Fest opens again at PMQ in Central from Friday to Sunday, with free entry and stalls from 20 makers."
-      },
-      "zh": {
-        "headline": "意式雪糕市集今起再登陸中環元創方",
-        "dek": "Ciao! Gelato Fest 周五至周日在元創方地下舉行，入場免費，約20個品牌設檔。"
       }
     }
   ]
