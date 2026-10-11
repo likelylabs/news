@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-11T07:41:39+08:00",
+  "updated_at": "2026-10-11T09:12:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "north-lantau-highway-collision-oct11",
+      "id": "2026-10-11-north-lantau-highway-collision",
+      "first_seen": "2026-10-11T09:12:00+08:00",
+      "headline_en": "Two cars collide on North Lantau Highway near Siu Ho Wan; four injured"
+    },
+    {
+      "key": "tseung-kwan-o-popcorn-planter-fire-oct10",
+      "id": "2026-10-11-tseung-kwan-o-popcorn-planter-fire",
+      "first_seen": "2026-10-11T09:12:00+08:00",
+      "headline_en": "Planter fire at Tseung Kwan O PopCorn mall extinguished, no injuries"
+    },
+    {
+      "key": "lifestyle-hkpax-sunday-shows-oct11",
+      "id": "2026-10-11-lifestyle-hkpax-sunday-shows",
+      "first_seen": "2026-10-11T09:12:00+08:00",
+      "headline_en": "HKPAX stages two public ticketed shows today at East Kowloon Cultural Centre"
+    },
     {
       "key": "yellow-fire-danger-oct11",
       "id": "2026-10-11-yellow-fire-danger",
