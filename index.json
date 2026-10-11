@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-10-11T07:41:39+08:00",
+  "generated_at": "2026-10-11T09:13:34+08:00",
   "live_window_hours": 72,
-  "count": 113,
+  "count": 116,
   "articles": [
+    {
+      "id": "2026-10-11-lifestyle-hkpax-sunday-shows",
+      "published_at": "2026-10-11T09:12:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "hkpax",
+        "east-kowloon",
+        "performance",
+        "arts"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-lifestyle-hkpax-sunday-shows.json",
+      "en": {
+        "headline": "HKPAX stages two public ticketed shows today at East Kowloon Cultural Centre",
+        "dek": "The Hong Kong Performing Arts Expo presents Paradisum and An Isolated Case this afternoon at the East Kowloon Cultural Centre, with tickets still available on URBTIX."
+      },
+      "zh": {
+        "headline": "香港演藝博覽今於東九文化中心呈獻兩場公眾售票演出",
+        "dek": "香港演藝博覽今天下午於東九文化中心上演《天境重生》及《純屬個別事件》，門票現於城市售票網發售。"
+      }
+    },
+    {
+      "id": "2026-10-11-north-lantau-highway-collision",
+      "published_at": "2026-10-11T09:12:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "north-lantau",
+        "accident",
+        "police",
+        "highway"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-north-lantau-highway-collision.json",
+      "en": {
+        "headline": "Two cars collide on North Lantau Highway near Siu Ho Wan; four injured",
+        "dek": "Two private cars crashed while heading towards the airport at about 7:03am on Sunday, with one vehicle overturning; police are investigating."
+      },
+      "zh": {
+        "headline": "北大嶼山公路近小蠔灣兩車相撞 一人翻側四傷",
+        "dek": "周日早上約7時03分，兩輛私家車沿北大嶼山公路往機場方向行駛至近小蠔灣時相撞，其中一輛翻側，警方正調查。"
+      }
+    },
+    {
+      "id": "2026-10-11-tseung-kwan-o-popcorn-planter-fire",
+      "published_at": "2026-10-11T09:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tseung-kwan-o",
+        "fire",
+        "popcorn",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-tseung-kwan-o-popcorn-planter-fire.json",
+      "en": {
+        "headline": "Planter fire at Tseung Kwan O PopCorn mall extinguished, no injuries",
+        "dek": "Firefighters put out a blaze in a planter on the platform of the PopCorn mall in Tseung Kwan O late Saturday night; no one was hurt and no evacuation was needed."
+      },
+      "zh": {
+        "headline": "將軍澳PopCorn商場平台花槽起火 消防撲熄無人傷",
+        "dek": "周六晚上約11時31分，將軍澳唐賢街PopCorn商場平台花槽起火，消防將火救熄，無人受傷，毋須疏散。"
+      }
+    },
     {
       "id": "2026-10-11-lifestyle-afcd-leisure-expo",
       "published_at": "2026-10-11T07:10:00+08:00",
