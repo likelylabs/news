@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-11T09:13:34+08:00",
+  "updated_at": "2026-10-11T11:10:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lcsd-lifeguard-outsourcing-contract-oct11",
+      "id": "2026-10-11-lcsd-lifeguard-contract",
+      "first_seen": "2026-10-11T11:10:00+08:00",
+      "headline_en": "LCSD awards HK$122.8 million lifeguard contract despite past shortfalls"
+    },
+    {
+      "key": "bar-association-proxy-cap-oct11",
+      "id": "2026-10-11-bar-association-proxy-cap",
+      "first_seen": "2026-10-11T11:10:00+08:00",
+      "headline_en": "Bar Association proposes proxy cap and electronic voting for owners meetings"
+    },
+    {
+      "key": "lifestyle-discovery-bay-weekend-market-oct11",
+      "id": "2026-10-11-lifestyle-discovery-bay-market",
+      "first_seen": "2026-10-11T11:10:00+08:00",
+      "headline_en": "Discovery Bay Weekend Market continues today at DB Plaza until 6pm"
+    },
     {
       "key": "north-lantau-highway-collision-oct11",
       "id": "2026-10-11-north-lantau-highway-collision",
