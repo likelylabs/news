@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T23:23:33+08:00",
+  "updated_at": "2026-10-11T23:20:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -13,6 +13,66 @@
       "id": "2026-10-11-cyclothon-pilot-error-apology",
       "first_seen": "2026-10-11T23:20:00+08:00",
       "headline_en": "Cycling federation apologises after pilot car error skips Ting Kau Bridge"
+    },
+    {
+      "key": "yau-tong-water-pipe-burst-oct11",
+      "id": "2026-10-11-yau-tong-water-pipe-burst",
+      "first_seen": "2026-10-11T21:03:00+08:00",
+      "headline_en": "Saltwater pipe bursts on Yau Tong Ko Chiu Road, spraying water three metres high"
+    },
+    {
+      "key": "tung-chung-hiking-rescue-oct11",
+      "id": "2026-10-11-tung-chung-hiking-rescue",
+      "first_seen": "2026-10-11T21:03:00+08:00",
+      "headline_en": "Man airlifted after feeling unwell and falling on Tung Chung hike"
+    },
+    {
+      "key": "huanggang-port-opening-ceremony-oct11",
+      "id": "2026-10-11-huanggang-port-opening-ceremony",
+      "first_seen": "2026-10-11T19:04:00+08:00",
+      "headline_en": "Chief Executive officiates at Huanggang Port opening ceremony"
+    },
+    {
+      "key": "wu-kau-tang-hiking-death-oct11",
+      "id": "2026-10-11-wu-kau-tang-hiking-death",
+      "first_seen": "2026-10-11T19:04:00+08:00",
+      "headline_en": "Man dies after collapsing on Wu Kau Tang hike"
+    },
+    {
+      "key": "phone-scam-simbox-arrest-oct11",
+      "id": "2026-10-11-phone-scam-simbox-arrest",
+      "first_seen": "2026-10-11T17:12:00+08:00",
+      "headline_en": "Police arrest man over 23,000 fraudulent customer-service calls"
+    },
+    {
+      "key": "renovation-threat-letters-arrest-oct11",
+      "id": "2026-10-11-renovation-threat-letters",
+      "first_seen": "2026-10-11T17:12:00+08:00",
+      "headline_en": "Three arrested over flour-laced threat letters in renovation fee dispute"
+    },
+    {
+      "key": "yuen-long-hill-fire-oct11",
+      "id": "2026-10-11-yuen-long-hill-fire",
+      "first_seen": "2026-10-11T17:12:00+08:00",
+      "headline_en": "Hill fire burns 30-metre line near Yuen Long Kam Sheung Road"
+    },
+    {
+      "key": "mtr-taishan-station-stop-oct11",
+      "id": "2026-10-11-mtr-taishan-stop",
+      "first_seen": "2026-10-11T17:12:00+08:00",
+      "headline_en": "High-speed trains to Zhanjiang add stop at Taishan from today"
+    },
+    {
+      "key": "workweek-weather-outlook-oct12-16",
+      "id": "2026-10-11-workweek-weather-outlook",
+      "first_seen": "2026-10-11T15:04:00+08:00",
+      "headline_en": "Observatory expects generally fine and dry weather for the work week"
+    },
+    {
+      "key": "cyclothon-record-participation-oct11",
+      "id": "2026-10-11-cyclothon-record-riders",
+      "first_seen": "2026-10-11T15:04:00+08:00",
+      "headline_en": "More than 6,000 cyclists take part in Hong Kong Cyclothon"
     }
   ]
 }
