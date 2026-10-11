@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-12T03:16:18+08:00",
+  "updated_at": "2026-10-12T07:05:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-wine-dine-tickets-public-sale",
+      "id": "2026-10-12-wine-dine-tickets-public-sale",
+      "first_seen": "2026-10-12T07:05:00+08:00",
+      "headline_en": "Hong Kong Wine & Dine Festival tickets go on public sale today"
+    },
+    {
+      "key": "huanggang-port-opens-oct12",
+      "id": "2026-10-12-huanggang-port-opens",
+      "first_seen": "2026-10-12T07:05:00+08:00",
+      "headline_en": "Redeveloped Huanggang Port opens at 6.30am with joint clearance"
+    },
+    {
+      "key": "mong-kok-nail-salon-brawl-oct11",
+      "id": "2026-10-12-mong-kok-nail-salon-brawl",
+      "first_seen": "2026-10-12T07:05:00+08:00",
+      "headline_en": "Three women arrested after brawl at Mong Kok nail salon"
+    },
+    {
+      "key": "shau-kei-wan-tram-derailment-oct12",
+      "id": "2026-10-12-shau-kei-wan-tram-derailment",
+      "first_seen": "2026-10-12T07:05:00+08:00",
+      "headline_en": "Tram derails on Shau Kei Wan East Street and mounts pavement"
+    },
     {
       "key": "lifestyle-yellow-bus-final-service",
       "id": "2026-10-12-yellow-bus-final-service",
