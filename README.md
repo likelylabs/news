@@ -56,6 +56,30 @@ tenet applied to news. Article files are permanent — never deleted.
    policy + honesty). Show `updated_at` as "Corrected" when present.
 5. **Language.** Show `en` or `zh` per the app's locale. `zh` is Hong Kong
    Traditional Chinese.
+6. **Push.** A news notification's tap carries `action: news` +
+   `article_id` (and `article_path`); open that article. See
+   [Push notifications](#push-notifications).
+
+## Push notifications
+
+Nothing in this repo sends push notifications, and nothing here holds a
+key, token, service account or Actions secret for them. The repo is public,
+and it stays that way. The sender is the radio app's weather Worker: every 5
+minutes it pulls the published `index.json`, compares article ids with the
+ones it has already seen, and sends **at most one notification per newsroom
+run**:
+
+- to readers subscribed to **breaking news** (on by default), only when the
+  run contains an article flagged `breaking: true`;
+- to readers who opted into **every update**, one per run.
+
+A notification is the article's `headline` (title) and `dek` (text), in
+English or Hong Kong Chinese (`zh`) by the reader's language, and a tap
+opens that article (`action: news` + `article_id` in the data payload). It
+only ever points at an article already live in `index.json`. Nothing is sent
+23:00–07:00 HKT, and a daily cap applies. Editorial rules for the flag and
+for lock-screen copy: `GROK.md` §1c. Sender, topics and policy:
+`~/localdev/radioapp-hq/PUSH-TOPICS.md`.
 
 ## Local dev
 
