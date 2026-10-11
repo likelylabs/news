@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-11T13:16:13+08:00",
+  "generated_at": "2026-10-11T15:08:03+08:00",
   "live_window_hours": 72,
-  "count": 110,
+  "count": 108,
   "articles": [
+    {
+      "id": "2026-10-11-cyclothon-record-riders",
+      "published_at": "2026-10-11T15:04:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "cyclothon",
+        "cycling",
+        "west-kowloon",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-cyclothon-record-riders.json",
+      "en": {
+        "headline": "More than 6,000 cyclists take part in Hong Kong Cyclothon",
+        "dek": "The annual event featured a new 56-kilometre route through the Central Kowloon Bypass for the first time, with start and finish at the West Kowloon Cultural District."
+      },
+      "zh": {
+        "headline": "香港單車節逾6千人參與 首度經中九龍繞道",
+        "dek": "賽事起終點移至西九文化區，56公里組新增中九龍繞道路段，涵蓋五隧三橋。"
+      }
+    },
+    {
+      "id": "2026-10-11-workweek-weather-outlook",
+      "published_at": "2026-10-11T15:04:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "forecast",
+        "workweek"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-workweek-weather-outlook.json",
+      "en": {
+        "headline": "Observatory expects generally fine and dry weather for the work week",
+        "dek": "An anticyclone aloft will bring sunny conditions from Monday to Friday, with daytime temperatures around 30 to 32 degrees and only isolated light rain patches later in the week."
+      },
+      "zh": {
+        "headline": "天文台料本周工作日大致天晴乾燥",
+        "dek": "高空反氣旋影響下，周一至周五普遍天晴，日間氣溫約30至32度，周中後期或有一兩陣微雨。"
+      }
+    },
     {
       "id": "2026-10-11-airport-cannabis-seizure",
       "published_at": "2026-10-11T13:15:00+08:00",
@@ -2265,89 +2309,6 @@
       "zh": {
         "headline": "漁護署展開四個月捕捉無人看管狗隻行動",
         "dek": "署方說會優先到曾有狗隻襲擊途人，或有流浪狗聚集的地點執法。"
-      }
-    },
-    {
-      "id": "2026-10-08-gold-switch-arrests",
-      "published_at": "2026-10-08T15:02:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "kwun-tong",
-        "theft"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-gold-switch-arrests.json",
-      "en": {
-        "headline": "Police recover gold swapped for fabric softener in Kwun Tong hotel",
-        "dek": "Officers say about 30 kilograms of gold grains, valued at 30 million dollars, were taken from a hotel room and later found in Tai Po."
-      },
-      "zh": {
-        "headline": "觀塘酒店金粒被掉包成柔順劑 警拘兩男起回失金",
-        "dek": "警方表示，約30公斤、值約3000萬元的金粒在酒店房間被偷走，其後在大埔賓館起回，兩名持雙程證男子被扣查。"
-      }
-    },
-    {
-      "id": "2026-10-08-northern-metropolis-debate",
-      "published_at": "2026-10-08T15:02:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "legco",
-        "northern-metropolis",
-        "development"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-northern-metropolis-debate.json",
-      "en": {
-        "headline": "Lawmakers press Northern Metropolis university town in LegCo debate",
-        "dek": "On the second day of the joint debate, Andrew Yao called the university town the main course of the Northern Metropolis, while Ng Wing-ka urged infrastructure first."
-      },
-      "zh": {
-        "headline": "立法會辯北都 姚祖輝稱大學城如主菜",
-        "dek": "五年規劃與施政報告合併辯論進入北部都會區一節，姚祖輝聚焦大學城，吳永嘉則倡基建先行。"
-      }
-    },
-    {
-      "id": "2026-10-08-ns-social-posts-bail",
-      "published_at": "2026-10-08T15:02:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "national-security"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-ns-social-posts-bail.json",
-      "en": {
-        "headline": "National security police bail man and woman over social posts",
-        "dek": "Officers arrested the pair, both 38, in Kwun Tong and Tsim Sha Tsui on Tuesday over an alleged sedition offence, and released them on bail."
-      },
-      "zh": {
-        "headline": "國安處拘一男一女涉社交平台帖文 兩人保釋候查",
-        "dek": "警方周二在觀塘及尖沙咀拘捕兩名38歲男女，涉嫌《維護國家安全條例》第24條，兩人已獲准保釋。"
-      }
-    },
-    {
-      "id": "2026-10-08-victoria-park-dry-goods",
-      "published_at": "2026-10-08T15:02:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "victoria-park",
-        "lunar-new-year",
-        "fehd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-victoria-park-dry-goods.json",
-      "en": {
-        "headline": "Victoria Park stall 1 lets for 34,000 dollars, down on last year",
-        "dek": "Now News said the large dry-goods pitch that fetched about 50,000 dollars last year went for 34,000 dollars on the second auction day."
-      },
-      "zh": {
-        "headline": "維園年宵1號乾貨檔以3.4萬元成交 低過去年",
-        "dek": "Now新聞報道，去年以約5萬元投得的大型乾貨1號檔，周四以3.4萬元由同一人再投得。"
       }
     }
   ]
