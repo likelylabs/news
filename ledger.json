@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-10-12T01:04:47+08:00",
+  "updated_at": "2026-10-12T03:15:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-yellow-bus-final-service",
+      "id": "2026-10-12-yellow-bus-final-service",
+      "first_seen": "2026-10-12T03:15:00+08:00",
+      "headline_en": "Yellow Bus ends nearly 30-year service as new Huanggang Port opens"
+    },
     {
       "key": "lifestyle-hkpax-monday-performances",
       "id": "2026-10-12-hkpax-monday-performances",
