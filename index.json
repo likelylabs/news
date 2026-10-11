@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-10-11T15:08:03+08:00",
+  "generated_at": "2026-10-11T17:13:56+08:00",
   "live_window_hours": 72,
-  "count": 108,
+  "count": 107,
   "articles": [
+    {
+      "id": "2026-10-11-mtr-taishan-stop",
+      "published_at": "2026-10-11T17:12:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "high-speed-rail",
+        "taishan",
+        "west-kowloon",
+        "guangdong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-mtr-taishan-stop.json",
+      "en": {
+        "headline": "High-speed trains to Zhanjiang add stop at Taishan from today",
+        "dek": "MTR said daily services between West Kowloon and Zhanjiang West now call at Taishan, bringing the number of direct stations to 114."
+      },
+      "zh": {
+        "headline": "高鐵西九龍至湛江西車次今起加停台山站",
+        "dek": "港鐵表示，每日來往西九龍及湛江西的列車加停台山，直達站點增至114個，方便市民回鄉探親。"
+      }
+    },
+    {
+      "id": "2026-10-11-phone-scam-simbox-arrest",
+      "published_at": "2026-10-11T17:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "scam",
+        "phone",
+        "sim-card",
+        "tseung-kwan-o"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-phone-scam-simbox-arrest.json",
+      "en": {
+        "headline": "Police arrest man over 23,000 fraudulent customer-service calls",
+        "dek": "A 24-year-old man was held after officers found a SIM-box modem that placed more than 23,000 scam calls in a week, with one victim losing over HK$100,000."
+      },
+      "zh": {
+        "headline": "警拘24歲男涉逾2.3萬通假冒客服電話騙案",
+        "dek": "警方在將軍澳住宅單位發現仍在運作的SIM卡數據機，一週內撥出逾2.3萬通詐騙電話，至少一名受害人損失逾10萬元。"
+      }
+    },
+    {
+      "id": "2026-10-11-renovation-threat-letters",
+      "published_at": "2026-10-11T17:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "intimidation",
+        "renovation",
+        "kwun-tong",
+        "catering"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-renovation-threat-letters.json",
+      "en": {
+        "headline": "Three arrested over flour-laced threat letters in renovation fee dispute",
+        "dek": "Police held two principals and a staff member of a Kwun Tong renovation firm after a catering group received more than 30 letters containing white powder confirmed as flour."
+      },
+      "zh": {
+        "headline": "裝修公司3人涉寄麵粉恐嚇信被捕 追討百萬工程費",
+        "dek": "警方拕捕觀塘裝修公司兩名負責人及一名職員，涉嫌因金錢糾紛向餐飲集團寄出逾30封載有麵粉的恐嚇信。"
+      }
+    },
+    {
+      "id": "2026-10-11-yuen-long-hill-fire",
+      "published_at": "2026-10-11T17:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "yuen-long",
+        "hill-fire",
+        "fire-services",
+        "gfs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-yuen-long-hill-fire.json",
+      "en": {
+        "headline": "Hill fire burns 30-metre line near Yuen Long Kam Sheung Road",
+        "dek": "Firefighters and a Government Flying Service helicopter tackled a blaze near Cheung Ngau Shan and Jing Hang Shan from about 11am; no injuries were reported."
+      },
+      "zh": {
+        "headline": "元朗錦上路附近山火火線約30米 直升機投水彈",
+        "dek": "周日早上約11時，掌牛山及井坑山附近發生山火，消防及政府飛行服務隊直升機到場撲救，暫未有傷亡報告。"
+      }
+    },
     {
       "id": "2026-10-11-cyclothon-record-riders",
       "published_at": "2026-10-11T15:04:00+08:00",
@@ -2204,111 +2296,6 @@
       "zh": {
         "headline": "2027年到期銀債第四次付息年利率定為4厘",
         "dek": "金管局公布浮息為1.80厘，低於4厘定息，故今次按較高的定息支付，付息日為10月23日。"
-      }
-    },
-    {
-      "id": "2026-10-08-hang-seng-close",
-      "published_at": "2026-10-08T17:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "stocks",
-        "markets"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-hang-seng-close.json",
-      "en": {
-        "headline": "Hang Seng closes 344 points lower at a three-month low",
-        "dek": "The index finished at 23,785 after a second straight fall, with financial and AI-related shares leading the decline."
-      },
-      "zh": {
-        "headline": "恒指收市跌344點 創三個月低位",
-        "dek": "指數收報23785點，連跌兩日，金融股及人工智能相關股份領跌。"
-      }
-    },
-    {
-      "id": "2026-10-08-model-ad-mule-accounts",
-      "published_at": "2026-10-08T17:12:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "fraud",
-        "scam"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-model-ad-mule-accounts.json",
-      "en": {
-        "headline": "Police arrest 10 over fake model ads used to open mule accounts",
-        "dek": "Officers say a syndicate used job ads to control e-wallet accounts linked to 43 deception cases."
-      },
-      "zh": {
-        "headline": "假模特兒招聘誘開傀儡戶口 警拘10人",
-        "dek": "警方指集團以招聘廣告操控電子錢包，涉及43宗騙案。"
-      }
-    },
-    {
-      "id": "2026-10-08-ride-hailing-data-system",
-      "published_at": "2026-10-08T17:12:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "ride-hailing",
-        "northern-metropolis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-ride-hailing-data-system.json",
-      "en": {
-        "headline": "Chan says ride-hailing data system has entered testing",
-        "dek": "The transport chief said the system is largely complete, as nine autonomous-vehicle pilot licences are already issued."
-      },
-      "zh": {
-        "headline": "陳美寶：網約車數據系統已進入測試",
-        "dek": "運輸及物流局局長說系統已基本完成，運輸署並已批出九個自動駕駛先導牌照。"
-      }
-    },
-    {
-      "id": "2026-10-08-route-twisk-death",
-      "published_at": "2026-10-08T17:12:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic",
-        "police",
-        "yuen-long"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-route-twisk-death.json",
-      "en": {
-        "headline": "Motorcyclist dies after Route Twisk collision, police say",
-        "dek": "A 35-year-old rider died after a light goods vehicle left the scene in Pat Heung on Wednesday night."
-      },
-      "zh": {
-        "headline": "荃錦公路電單車司機送院後不治",
-        "dek": "八鄉昨晚一輛輕型貨車疑以倒後鏡撞到電單車後駛離，35歲司機延至凌晨不治。"
-      }
-    },
-    {
-      "id": "2026-10-08-stray-dog-operation",
-      "published_at": "2026-10-08T17:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "afcd",
-        "animals",
-        "public-safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-stray-dog-operation.json",
-      "en": {
-        "headline": "AFCD starts four-month sweep for unattended dogs",
-        "dek": "The department said it will first go to places with previous attacks or gatherings of stray dogs."
-      },
-      "zh": {
-        "headline": "漁護署展開四個月捕捉無人看管狗隻行動",
-        "dek": "署方說會優先到曾有狗隻襲擊途人，或有流浪狗聚集的地點執法。"
       }
     }
   ]
