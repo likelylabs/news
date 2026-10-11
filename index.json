@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-10-11T21:05:32+08:00",
+  "generated_at": "2026-10-11T23:22:48+08:00",
   "live_window_hours": 72,
-  "count": 108,
+  "count": 103,
   "articles": [
+    {
+      "id": "2026-10-11-airport-ketamine-malaysian-woman",
+      "published_at": "2026-10-11T23:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "airport",
+        "drugs",
+        "ketamine",
+        "malaysian"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-airport-ketamine-malaysian-woman.json",
+      "en": {
+        "headline": "Customs seize 15kg suspected ketamine at airport, arrest Malaysian woman",
+        "dek": "Officers found the drugs concealed in coffee powder packages in the checked luggage of a 28-year-old passenger who arrived from Paris via Taipei; the case remains under investigation."
+      },
+      "zh": {
+        "headline": "海關機場檢15公斤懷疑氯胺酮 拘28歲馬來西亞女",
+        "dek": "關員在由巴黎經台北抵港的女子寄倉行李咖啡粉包裝內發現毒品，估計市值約540萬元，案件仍在調查。"
+      }
+    },
+    {
+      "id": "2026-10-11-cyclothon-pilot-error-apology",
+      "published_at": "2026-10-11T23:20:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "cyclothon",
+        "cycling",
+        "ting-kau-bridge",
+        "apology"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-cyclothon-pilot-error-apology.json",
+      "en": {
+        "headline": "Cycling federation apologises after pilot car error skips Ting Kau Bridge",
+        "dek": "The Cycling Association of Hong Kong, China said a lead vehicle misjudged the route after cones were moved for an earlier accident, sending 32km riders the wrong way and causing bottlenecks."
+      },
+      "zh": {
+        "headline": "單車總會就領航車誤判致歉 32公里組錯失汀九橋",
+        "dek": "中國香港單車總會表示，因早前意外需移動雪糕筒開通緊急通道，32公里組領航車誤判路線，未轉入汀九橋並造成短暫堵塞。"
+      }
+    },
     {
       "id": "2026-10-11-tung-chung-hiking-rescue",
       "published_at": "2026-10-11T21:03:00+08:00",
@@ -2179,151 +2224,6 @@
       "zh": {
         "headline": "意式雪糕市集今起再登陸中環元創方",
         "dek": "Ciao! Gelato Fest 周五至周日在元創方地下舉行，入場免費，約20個品牌設檔。"
-      }
-    },
-    {
-      "id": "2026-10-08-cheung-hui-high-court-claim",
-      "published_at": "2026-10-08T23:22:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "courts",
-        "evergrande"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-cheung-hui-high-court-claim.json",
-      "en": {
-        "headline": "Cheung sues Hui for 10.1 billion dollars in High Court",
-        "dek": "A writ seen by local media says Francis Cheung claims Xu Jiayin confirmed an unpaid balance in November 2022 and has not repaid it."
-      },
-      "zh": {
-        "headline": "張松橋入稟高院追討許家印101億元",
-        "dek": "本地傳媒引述入稟狀指，許家印2022年11月書面確認尚欠101億元，惟未有償還。"
-      }
-    },
-    {
-      "id": "2026-10-08-ec-nominations-day-two",
-      "published_at": "2026-10-08T23:22:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "election",
-        "legco"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-ec-nominations-day-two.json",
-      "en": {
-        "headline": "Election Committee takes 164 more forms on second day",
-        "dek": "Returning officers received 160 candidate forms and four designated-body forms on Thursday, taking the two-day total to 471."
-      },
-      "zh": {
-        "headline": "選委會選舉次日再收164份提名表格",
-        "dek": "選舉主任星期四接獲160份候選人提名及4份指定團體提名，兩日累計471份。"
-      }
-    },
-    {
-      "id": "2026-10-08-fu-tai-parents-bail",
-      "published_at": "2026-10-08T23:22:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "tuen-mun",
-        "child-protection"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-fu-tai-parents-bail.json",
-      "en": {
-        "headline": "Parents in Tuen Mun neglect case released on bail",
-        "dek": "Police said the pair must report back later this month. Social workers have taken three children to hospital for assessment."
-      },
-      "zh": {
-        "headline": "屯門富泰邨涉虐兒父母獲准保釋",
-        "dek": "警方表示兩人須於本月下旬報到。社署已安排三名子女到醫院接受健康評估。"
-      }
-    },
-    {
-      "id": "2026-10-08-housing-bureau-anderson-supply",
-      "published_at": "2026-10-08T23:22:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "building-safety",
-        "kwun-tong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-housing-bureau-anderson-supply.json",
-      "en": {
-        "headline": "Housing Bureau says Anderson delay will not hit supply",
-        "dek": "The bureau said progress on one project would not materially affect overall flat supply, and it would press the developer to finish units safely."
-      },
-      "zh": {
-        "headline": "房屋局：安達臣道進度不影響整體供應",
-        "dek": "局方指個別項目進度不會對整體房屋供應構成重大影響，並會督促發展商在安全前提下早日完工。"
-      }
-    },
-    {
-      "id": "2026-10-08-north-point-taxi-sentence",
-      "published_at": "2026-10-08T23:22:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "courts",
-        "traffic",
-        "eastern-district"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-north-point-taxi-sentence.json",
-      "en": {
-        "headline": "Taxi driver jailed six weeks over North Point crash",
-        "dek": "A 79-year-old driver admitted dangerous driving causing grievous bodily harm after a February collision on Java Road. He was also banned for two years."
-      },
-      "zh": {
-        "headline": "北角的士司機認危駕判囚六星期",
-        "dek": "79歲司機承認今年2月在渣華道危險駕駛引致他人身體受嚴重傷害，另被停牌兩年。"
-      }
-    },
-    {
-      "id": "2026-10-08-ai-liability-taskforce",
-      "published_at": "2026-10-08T21:14:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "legco",
-        "ai",
-        "policy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-ai-liability-taskforce.json",
-      "en": {
-        "headline": "Lam says Justice Bureau will study who pays if AI causes harm",
-        "dek": "The secretary for justice told LegCo a task force will look at liability when an AI product causes damage, alongside guidance for minors."
-      },
-      "zh": {
-        "headline": "林定國：律政司將研究人工智能產品造成損害的法律責任",
-        "dek": "律政司司長在立法會表示，會牽頭成立專責小組，並指針對未成年人的指引同樣重要。"
-      }
-    },
-    {
-      "id": "2026-10-08-anderson-road-demolition",
-      "published_at": "2026-10-08T21:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "building-safety",
-        "kwun-tong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-anderson-road-demolition.json",
-      "en": {
-        "headline": "CK Asset to demolish three Anderson Road towers",
-        "dek": "The Buildings Department has approved plans to take down three of six towers after steel bars departed from the approved drawings."
-      },
-      "zh": {
-        "headline": "長實安達臣道三座大樓拆卸重建 屋宇署已批圖則",
-        "dek": "屋宇署接納其中三幢補救方案，餘下三幢的拆卸圖則已獲批准，但尚未收到展開拆卸的申請。"
       }
     }
   ]
