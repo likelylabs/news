@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-11T11:08:52+08:00",
+  "generated_at": "2026-10-11T13:16:13+08:00",
   "live_window_hours": 72,
-  "count": 115,
+  "count": 110,
   "articles": [
+    {
+      "id": "2026-10-11-airport-cannabis-seizure",
+      "published_at": "2026-10-11T13:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "airport",
+        "drugs",
+        "cannabis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-airport-cannabis-seizure.json",
+      "en": {
+        "headline": "Customs seizes 5kg suspected cannabis at airport, arrests two",
+        "dek": "Two mainland men arriving from Manila were arrested after officers found the drugs in a checked suitcase; they face trafficking charges in court tomorrow."
+      },
+      "zh": {
+        "headline": "海關機場檢約5公斤懷疑大麻花 兩名內地男被捕",
+        "dek": "兩名由馬尼拉抵港的內地男子被控販運危險藥物，案件明於西九龍裁判法院提堂。"
+      }
+    },
+    {
+      "id": "2026-10-11-chan-apec-priorities",
+      "published_at": "2026-10-11T13:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "apec",
+        "finance",
+        "paul-chan",
+        "financial-centre"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-chan-apec-priorities.json",
+      "en": {
+        "headline": "Chan outlines four priorities for Apec finance ministers meeting",
+        "dek": "The Financial Secretary said the Hong Kong gathering will focus on livelihood-supporting fiscal policies, digital infrastructure, inclusive finance and young talent."
+      },
+      "zh": {
+        "headline": "陳茂波：APEC財長會聚焦民生財政、數字基建等四優先領域",
+        "dek": "財政司司長指這四項屬香港優勢，首次在港舉行反映國家支持及本港國際金融中心地位。"
+      }
+    },
+    {
+      "id": "2026-10-11-fs-nanjing-visit",
+      "published_at": "2026-10-11T13:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "financial-secretary",
+        "nanjing",
+        "jiangsu",
+        "delegation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-fs-nanjing-visit.json",
+      "en": {
+        "headline": "Financial Secretary leads delegation to Nanjing starting Monday",
+        "dek": "Paul Chan will attend a Jiangsu-Hong Kong promotion conference and visit technology firms and Nanjing University during the two-day trip."
+      },
+      "zh": {
+        "headline": "財政司司長周一率團赴南京 推廣港作內地企業出海平台",
+        "dek": "陳茂波將出席蘇港推介大會，並到訪創科企業及南京大學，期間副司長黃偉綸署任。"
+      }
+    },
     {
       "id": "2026-10-11-bar-association-proxy-cap",
       "published_at": "2026-10-11T11:10:00+08:00",
@@ -2282,175 +2348,6 @@
       "zh": {
         "headline": "維園年宵1號乾貨檔以3.4萬元成交 低過去年",
         "dek": "Now新聞報道，去年以約5萬元投得的大型乾貨1號檔，周四以3.4萬元由同一人再投得。"
-      }
-    },
-    {
-      "id": "2026-10-08-fake-official-arrest",
-      "published_at": "2026-10-08T13:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "fraud",
-        "scam"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-fake-official-arrest.json",
-      "en": {
-        "headline": "Police hold woman, 22, over fake official deposit scam",
-        "dek": "Officers say she showed a fake police warrant card and is linked to eight cases, after one victim transferred nearly 650,000 dollars."
-      },
-      "zh": {
-        "headline": "假扮入境處及公安收保證金 22歲女被捕",
-        "dek": "西九龍重案組表示，女子涉嫌出示偽造警察委任證，涉及8宗案件，其中一宗事主轉帳近65萬元。"
-      }
-    },
-    {
-      "id": "2026-10-08-hang-seng-midday",
-      "published_at": "2026-10-08T13:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "markets",
-        "stocks"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-hang-seng-midday.json",
-      "en": {
-        "headline": "Hang Seng slips below 24,000 at the Thursday midday close",
-        "dek": "The index was down 167 points at 23,963 by midday, according to RTHK, with turnover above 100 billion dollars."
-      },
-      "zh": {
-        "headline": "恒指半日失守24000點 跌167點",
-        "dek": "港台報道，恒指午市報23963點，跌167點，跌幅約百分之0.7，半日成交逾1000億元。"
-      }
-    },
-    {
-      "id": "2026-10-08-hk-fifa-ranking",
-      "published_at": "2026-10-08T13:15:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "football",
-        "fifa",
-        "hk-team"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-hk-fifa-ranking.json",
-      "en": {
-        "headline": "Hong Kong rise three places to 153rd in FIFA ranking",
-        "dek": "The latest men's ranking, published on 7 October, puts Hong Kong on 1,035.23 points after a gain credited to the match against Cambodia."
-      },
-      "zh": {
-        "headline": "FIFA排名港隊升3位至第153",
-        "dek": "國際足協7日公布最新男足排名，港隊積1035.23分，上升得益於對柬埔寨一仗，港台周四報道有關排名。"
-      }
-    },
-    {
-      "id": "2026-10-08-sau-mau-ping-arrest",
-      "published_at": "2026-10-08T13:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "sau-mau-ping",
-        "kwun-tong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-sau-mau-ping-arrest.json",
-      "en": {
-        "headline": "Reports say police arrest man, 66, over Sau Mau Ping paint attack",
-        "dek": "Hong Kong 01 and Sing Tao, citing sources, say a 66-year-old estate resident was held over red paint thrown at two lawmakers' joint office."
-      },
-      "zh": {
-        "headline": "消息指秀茂坪淋紅油案 警方拘捕66歲男子",
-        "dek": "《香港01》及星島引述消息稱，一名66歲邨內居民涉向兩名議員聯合辦事處淋紅油，已被拘捕，案件列刑事毀壞。"
-      }
-    },
-    {
-      "id": "2026-10-08-golden-week-mainland-arrivals",
-      "published_at": "2026-10-08T11:09:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "tourism",
-        "golden-week",
-        "immigration"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-golden-week-mainland-arrivals.json",
-      "en": {
-        "headline": "Mainland arrivals pass golden week forecast in six days",
-        "dek": "Immigration Department figures put mainland visitor arrivals at 1.3 million in the first six days, above the 1.29 million forecast for the full holiday."
-      },
-      "zh": {
-        "headline": "內地訪港六日已超黃金周預測",
-        "dek": "入境處數字顯示，國慶假期首六日內地旅客達一百三十萬人次，高於整周一百二十九萬的預測，按年升百分之十一點六。"
-      }
-    },
-    {
-      "id": "2026-10-08-huanggang-bus-fare-proposal",
-      "published_at": "2026-10-08T11:09:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "huanggang",
-        "bus",
-        "cross-border"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-huanggang-bus-fare-proposal.json",
-      "en": {
-        "headline": "Cross-boundary operator proposes lower Huanggang senior fares",
-        "dek": "Eternal East Bus wants elderly and disabled fares on its Huanggang routes cut toward franchised-bus levels, and hopes to join the two-dollar scheme."
-      },
-      "zh": {
-        "headline": "跨境巴士擬減皇崗長者車費",
-        "dek": "永東直巴希望把來往皇崗的長者及殘疾人士車費減至與專營巴士相若，並爭取納入兩元乘車優惠。"
-      }
-    },
-    {
-      "id": "2026-10-08-lifestyle-hktdc-60-exhibition",
-      "published_at": "2026-10-08T11:09:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "causeway-bay",
-        "wan-chai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-lifestyle-hktdc-60-exhibition.json",
-      "en": {
-        "headline": "Trade council's 60th-anniversary show runs at Times Square",
-        "dek": "The Hong Kong Trade Development Council exhibition in Causeway Bay is open daily until 14 October, with a companion artwork at a Wan Chai tram stop."
-      },
-      "zh": {
-        "headline": "貿發局六十周年展覽銅鑼灣展出",
-        "dek": "展覽在時代廣場地面有蓋廣場舉行，每日開放至十月十四日；灣仔柯布連道電車站另有主題畫作，展至十月二十九日。"
-      }
-    },
-    {
-      "id": "2026-10-08-silva-supreme-sha-tin",
-      "published_at": "2026-10-08T11:09:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "football",
-        "sha-tin",
-        "hk-premier-league"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-08/2026-10-08-silva-supreme-sha-tin.json",
-      "en": {
-        "headline": "David Silva comes out of retirement to join Supreme Sha Tin",
-        "dek": "The former Spain and Manchester City midfielder, 40, is expected in Hong Kong soon for a fitness check before training with the Premier League club."
-      },
-      "zh": {
-        "headline": "施華四十歲復出 加盟港超球會沙田",
-        "dek": "前西班牙及曼城中場施華將抵港接受體能評估，再與球隊訓練，沙田下一仗於十月十八日對香港足球會。"
       }
     }
   ]
