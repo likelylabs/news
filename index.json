@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-11T23:24:35+08:00",
+  "generated_at": "2026-10-12T01:04:47+08:00",
   "live_window_hours": 72,
-  "count": 103,
+  "count": 104,
   "articles": [
+    {
+      "id": "2026-10-12-hkpax-monday-performances",
+      "published_at": "2026-10-12T01:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "hkpax",
+        "performing-arts",
+        "east-kowloon-cultural-centre",
+        "tai-kwun"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-12/2026-10-12-hkpax-monday-performances.json",
+      "en": {
+        "headline": "Hong Kong Performing Arts Expo continues with Monday showcases",
+        "dek": "The second edition of HKPAX runs through 13 October with international and local performances, including dance and drama pieces today at East Kowloon Cultural Centre, Tai Kwun and Fringe Club."
+      },
+      "zh": {
+        "headline": "香港演藝博覽周一繼續 多場國際及本地演出",
+        "dek": "第二屆香港演藝博覽延續至10月13日，周一有舞蹈及戲劇節目於東九文化中心、大館及藝穗會上演。"
+      }
+    },
     {
       "id": "2026-10-11-airport-ketamine-malaysian-woman",
       "published_at": "2026-10-11T23:20:00+08:00",
