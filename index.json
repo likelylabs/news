@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-10-11T19:07:04+08:00",
+  "generated_at": "2026-10-11T21:05:32+08:00",
   "live_window_hours": 72,
-  "count": 106,
+  "count": 108,
   "articles": [
+    {
+      "id": "2026-10-11-tung-chung-hiking-rescue",
+      "published_at": "2026-10-11T21:03:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "hiking",
+        "tung-chung",
+        "gfs",
+        "rescue",
+        "lantau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-tung-chung-hiking-rescue.json",
+      "en": {
+        "headline": "Man airlifted after feeling unwell and falling on Tung Chung hike",
+        "dek": "A 40-year-old man in a group of six was hoisted by Government Flying Service helicopter from near Pak To Shan after feeling unwell and slipping, then taken to Ruttonjee Hospital."
+      },
+      "zh": {
+        "headline": "東涌外籍男子行山不適跌傷 直升機吊起送院",
+        "dek": "下午約2時，東涌壁刀屹附近一名約40歲男子懷疑中暑不適並跌倒受傷，政府飛行服務隊直升機將事主吊起送律敦治醫院治療。"
+      }
+    },
+    {
+      "id": "2026-10-11-yau-tong-water-pipe-burst",
+      "published_at": "2026-10-11T21:03:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "yau-tong",
+        "water-pipe",
+        "water-services",
+        "ko-chiu-road"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-11/2026-10-11-yau-tong-water-pipe-burst.json",
+      "en": {
+        "headline": "Saltwater pipe bursts on Yau Tong Ko Chiu Road, spraying water three metres high",
+        "dek": "A saltwater pipe ruptured near the community hall around 6pm, sending a fountain of water and debris onto the pavement and disrupting traffic until staff closed the valve."
+      },
+      "zh": {
+        "headline": "油塘高超道煙水管爆裂 水柱高達三米",
+        "dek": "晚上約6時油塘高超道社區會堂對出煙水管爆裂，水花四溅高達三米，路面滿佈沙石，水務署人員到場關斷水擁槍修。"
+      }
+    },
     {
       "id": "2026-10-11-huanggang-port-opening-ceremony",
       "published_at": "2026-10-11T19:04:00+08:00",
