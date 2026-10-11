@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-11T19:07:04+08:00",
+  "updated_at": "2026-10-11T21:03:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "yau-tong-water-pipe-burst-oct11",
+      "id": "2026-10-11-yau-tong-water-pipe-burst",
+      "first_seen": "2026-10-11T21:03:00+08:00",
+      "headline_en": "Saltwater pipe bursts on Yau Tong Ko Chiu Road, spraying water three metres high"
+    },
+    {
+      "key": "tung-chung-hiking-rescue-oct11",
+      "id": "2026-10-11-tung-chung-hiking-rescue",
+      "first_seen": "2026-10-11T21:03:00+08:00",
+      "headline_en": "Man airlifted after feeling unwell and falling on Tung Chung hike"
+    },
     {
       "key": "huanggang-port-opening-ceremony-oct11",
       "id": "2026-10-11-huanggang-port-opening-ceremony",
