@@ -1,1 +1,18 @@
-CONTENT_FROM_FILE
+{
+  "updated_at": "2026-10-11T23:20:00+08:00",
+  "retention_days": 5,
+  "covered": [
+    {
+      "key": "airport-ketamine-malaysian-woman-oct11",
+      "id": "2026-10-11-airport-ketamine-malaysian-woman",
+      "first_seen": "2026-10-11T23:20:00+08:00",
+      "headline_en": "Customs seize 15kg suspected ketamine at airport, arrest Malaysian woman"
+    },
+    {
+      "key": "cyclothon-pilot-error-apology-oct11",
+      "id": "2026-10-11-cyclothon-pilot-error-apology",
+      "first_seen": "2026-10-11T23:20:00+08:00",
+      "headline_en": "Cycling federation apologises after pilot car error skips Ting Kau Bridge"
+    }
+  ]
+}
