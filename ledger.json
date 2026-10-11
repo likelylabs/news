@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-11T13:16:13+08:00",
+  "updated_at": "2026-10-11T15:04:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "workweek-weather-outlook-oct12-16",
+      "id": "2026-10-11-workweek-weather-outlook",
+      "first_seen": "2026-10-11T15:04:00+08:00",
+      "headline_en": "Observatory expects generally fine and dry weather for the work week"
+    },
+    {
+      "key": "cyclothon-record-participation-oct11",
+      "id": "2026-10-11-cyclothon-record-riders",
+      "first_seen": "2026-10-11T15:04:00+08:00",
+      "headline_en": "More than 6,000 cyclists take part in Hong Kong Cyclothon"
+    },
     {
       "key": "airport-cannabis-seizure-oct10",
       "id": "2026-10-11-airport-cannabis-seizure",
