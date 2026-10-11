@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-11T11:08:52+08:00",
+  "updated_at": "2026-10-11T13:15:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "airport-cannabis-seizure-oct10",
+      "id": "2026-10-11-airport-cannabis-seizure",
+      "first_seen": "2026-10-11T13:15:00+08:00",
+      "headline_en": "Customs seizes 5kg suspected cannabis at airport, arrests two"
+    },
+    {
+      "key": "fs-nanjing-delegation-oct12",
+      "id": "2026-10-11-fs-nanjing-visit",
+      "first_seen": "2026-10-11T13:15:00+08:00",
+      "headline_en": "Financial Secretary leads delegation to Nanjing starting Monday"
+    },
+    {
+      "key": "chan-apec-blog-priorities-oct11",
+      "id": "2026-10-11-chan-apec-priorities",
+      "first_seen": "2026-10-11T13:15:00+08:00",
+      "headline_en": "Chan outlines four priorities for Apec finance ministers meeting"
+    },
     {
       "key": "lcsd-lifeguard-outsourcing-contract-oct11",
       "id": "2026-10-11-lcsd-lifeguard-contract",
