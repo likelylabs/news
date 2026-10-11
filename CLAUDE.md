@@ -15,10 +15,10 @@ tenets before changing anything.
   trims the ledger, and regenerates `index.json`. Article files are permanent
   — never deleted. Rules in `TIDINESS.md`.
 - **Push path:** none in this repo. The radio app's weather Worker pulls the
-  published `index.json` every 5 minutes and sends the notifications;
-  `breaking: true` now pushes to readers' phones (rules in `GROK.md` §1c,
-  summary in README "Push notifications"). Never add a send step, a token
-  or an Actions secret here.
+  published `index.json` every 5 minutes and sends at most one notification
+  per new batch; `breaking: true` now pushes to readers' phones (rules in
+  `GROK.md` §1c, summary in README "Push notifications"). Never add a send
+  step, a token or an Actions secret here.
 
 ## Non-negotiables
 

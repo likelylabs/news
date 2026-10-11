@@ -314,47 +314,59 @@ Two things follow for every run:
   just a badge in the list.
 - **Any story can end up on a lock screen.** Readers who opt into every
   update get one notification per daytime run: the run's breaking story if
-  it has one, otherwise one of the run's new stories. Write every headline and dek
-  as if it will be read on a lock screen with nothing around it.
+  it has one, otherwise one of the run's new stories. Write every headline
+  and dek as if it will be read on a lock screen with nothing around it.
 
 ### The bar for `breaking: true`
 
 `breaking` defaults to `false`. Leave it out unless the story clears this
 bar. Flag a story only when a Hong Kong reader would want to be interrupted
-for it **right now**: the closures and suspensions that come with a No. 8 or
-higher typhoon signal or a Black Rainstorm, a major transport shutdown, a
-disaster or a mass-casualty incident, the death of a major public figure, an
-official decision that changes what people must do today. If a reader loses
-nothing by learning it the next time they open the app, it is not breaking.
+for it **right now**. If a reader loses nothing by learning it the next time
+they open the app, it is not breaking. That test is the gate; these are
+examples that pass it, not categories that pass automatically: a citywide
+class or work suspension or a network-wide transport shutdown under a No. 8
+or higher typhoon signal or a Black Rainstorm, a disaster or a mass-casualty
+incident, the death of a major public figure, an official decision that
+changes what most people in Hong Kong must do today. Routine same-day
+government notices, local closures and ordinary delays do not pass.
 
 - **A few a month at most, not a few a day.** The schema has always said
   "use sparingly"; now every flag interrupts people.
-- **At most one per run.** A run sends at most one breaking notification. If
-  two stories qualify, flag only the more urgent one.
+- **At most one per run.** A run sends at most one notification. If two
+  stories qualify, flag only the more urgent one. Landing the run as one
+  commit (§2, step 12) is also what keeps it to one notification: new
+  articles that arrive in a later commit can trigger another. Never split a
+  run, republish a story, or adjust `published_at` to steer or earn a
+  notification; `published_at` is always the real time you wrote it.
 - **A warning on its own is not breaking.** The app already alerts readers
   to every Hong Kong Observatory warning the moment it is issued, upgraded or
   cancelled. Keep writing the warning articles §1a requires, but an article
-  that only reports that a warning was raised is never breaking. Flag weather
-  only for what the alert itself does not say: class or work suspensions,
-  shutdowns under a No. 8 or higher signal, a major disruption.
+  that only reports that a warning was raised (Amber, Red, thunderstorm,
+  lower typhoon signals and the rest) is never breaking. Flag weather only
+  for what the alert itself does not say, and only at citywide scale: a
+  citywide class or work suspension, or a network-wide transport shutdown,
+  under a No. 8 or higher signal or a Black Rainstorm.
 - **Never lifestyle, never an outlook.** §1b pieces and the standing weather
   outlooks are never breaking.
 - **Verification comes first.** A notification cannot be recalled or edited
-  once it is sent. A later correction (§6) fixes the article, not the alert
-  already on people's phones. If the facts are not confirmed to the §3
-  standard, the story is not breaking: publish it unflagged, or not at all.
+  once it is sent, and it can go out within minutes of your commit. A later
+  correction (§6) fixes the article, not the alert already on people's
+  phones. If the facts are not yet confirmed to the §3 standard, do not
+  flag the story; §3 still decides whether it runs at all.
 - **Never about the app, radio or broadcasting.** Never flag a story about
   the app, its owners, or any radio station or broadcaster. A notification
   from a radio app that names a station reads as the app advertising it
   (§4).
-- **Overnight stories do not push.** Nothing is sent between 23:00 and 07:00
-  HKT, and that includes the 23:00 run. A breaking story found then still
-  publishes with its flag and is badged in the app. Do not hold it back, and
-  do not republish it in the morning to earn a notification; the dedup rules
-  in §2 still apply.
-- **There is a daily cap.** Only a few breaking notifications go out per
-  Hong Kong day, and flags past the cap do not push. That is one more reason
-  to keep the flag rare.
+- **Overnight stories do not push.** Nothing is sent while the Hong Kong
+  clock reads 23:00 to 06:59, which normally includes the 23:00 run. Flag a
+  story that qualifies anyway: it still publishes with its flag and is badged
+  in the app. Do not hold it back, and do not republish it in the morning to
+  earn a notification; an article skipped overnight is never sent later, and
+  the dedup rules in §2 still apply.
+- **A daily cap backs this up. It is not a quota.** Past a small number of
+  breaking notifications in a Hong Kong day, further flags no longer reach
+  the default breaking alerts. The target stays a few a month; never aim at
+  the cap.
 
 ### The headline and dek are the notification
 
@@ -366,7 +378,8 @@ for every article, and with extra care on a breaking one:
 - **Stand alone.** The headline says what happened and where; the dek adds
   the one fact the reader most needs. Put the most important fact first. A
   lock screen may show only the first line or two of the dek, and anything
-  past about 180 characters is cut off.
+  past about 180 characters is cut off, so aim for a dek of 180 characters
+  or fewer even though the schema allows 220.
 - **No links, URLs or calls to action.** No "read more", no "tap to …", no
   social-media handles (already true of all text, §1).
 - **Nothing sensitive.** No names of minors, victims or witnesses, and no
@@ -376,8 +389,9 @@ for every article, and with extra care on a breaking one:
 - **Attribute to the primary source.** "Police said", "the Observatory
   said". Never cite a radio station or broadcaster in the headline or the
   dek.
-- **No "Breaking" or "Urgent" in the copy, and no ALL CAPS.** The flag does
-  that job; the headline stays a plain wire-service headline (§5).
+- **No "Breaking" or "Urgent" labels, in either language, and no ALL
+  CAPS.** No 突發, 快訊 or 緊急 in the `zh` copy either. The flag does that
+  job; the headline stays a plain wire-service headline (§5).
 - **Both languages carry the same news.** English readers see `en`, Chinese
   readers see `zh`, and each must stand alone with the same facts (§5).
 
@@ -613,7 +627,8 @@ Full file-hygiene rules live in **TIDINESS.md** — follow it.
   clickbait, no ALL CAPS, no trailing punctuation, 8–90 chars), a
   one-sentence dek (**12–220 chars**; the build auto-trims anything longer
   to the cap with an ellipsis, but a cut-off dek reads worse — so write to
-  budget), then short body paragraphs. Aim for 3+ paragraphs so the app
+  budget; a push notification shows only about 180, see §1c), then short
+  body paragraphs. Aim for 3+ paragraphs so the app
   can place native
   ads between them.
 - **Hong Kong Chinese (`zh`):** **Traditional Chinese in natural Hong Kong
@@ -639,6 +654,6 @@ the correction in a final body paragraph ("Correction: …"). Never silently
 rewrite history, and never delete a published article — articles are
 permanent (older ones are served on the public archive automatically).
 
-A correction never sends, resends or recalls a push notification (§1c):
-the alert a reader already got stays as it was. Do not set or clear
-`breaking` in a correction.
+Once an article is published, assume its notification (§1c) has already
+gone out. A correction fixes the article, never the alert, and never sends
+a new one. Do not set or clear `breaking` in a correction.

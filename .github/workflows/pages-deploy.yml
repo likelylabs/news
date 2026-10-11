@@ -224,9 +224,10 @@ jobs:
           # Push notifications are NOT sent from this workflow, and must
           # never be: this repo is public, so it holds no FCM token, key,
           # service account or Actions secret (tenet #10). The weather
-          # Worker pulls index.json every 5 min and pushes new articles
-          # itself; nothing here sends. (It keys on CONTENT, not on this
-          # job: a deploy can fail while the site still updates.) Editorial
+          # Worker pulls index.json every 5 min and sends at most one
+          # notification per new batch itself; nothing here sends. (It keys
+          # on CONTENT, not on this job: a deploy can fail while the site
+          # still updates.) Editorial
           # rule for `breaking: true`: GROK.md §1c. Sender + policy:
           # radioapp-hq PUSH-TOPICS.md.
           # ---------------------------------------------------------------
