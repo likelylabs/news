@@ -36,7 +36,7 @@
     },
     "breaking": {
       "type": "boolean",
-      "description": "True only for genuinely urgent, high-impact stories the app should badge. Default false. Use sparingly."
+      "description": "True only for genuinely urgent, high-impact stories. The app badges the story, and its headline + dek can go out as a push notification to readers' phones (GROK.md §1c), so use it sparingly: a few a month at most, never more than one per run. Default false."
     },
     "ai_generated": {
       "type": "boolean",

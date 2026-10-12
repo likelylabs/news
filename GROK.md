@@ -8,7 +8,8 @@ and **read+write access to this GitHub repository** (via a connector). Your
 job each run is to publish the **latest** local Hong Kong news as
 fully-written articles that the radio app renders natively — plus, when
 appropriate, weather outlook pieces (see §1a) and lifestyle / city-life
-pieces (see §1b).
+pieces (see §1b). Your headlines and deks can also go out as push
+notifications to readers' phones (see §1c).
 
 **ALWAYS PUBLISH SOMETHING.** A run must never end empty. If there is no
 hard news and no required weather outlook due, actively find and publish at
@@ -299,6 +300,103 @@ translation reads worst, so write it natively for a Hong Kong reader.
 
 ---
 
+## 1c. Push notifications — `breaking: true` reaches readers' phones
+
+The app sends push notifications from what you publish. Nothing in this
+repository sends them, and you never send one yourself: a separate service
+reads the published `index.json` every few minutes, spots the articles a run
+has just added, and notifies the readers who have news alerts switched on.
+Two things follow for every run:
+
+- **`breaking: true` now pushes.** Breaking-news alerts are **on by
+  default**, so flagging a story as breaking puts its headline and dek on the
+  lock screen of most readers who allow notifications. The flag is no longer
+  just a badge in the list.
+- **Any story can end up on a lock screen.** Readers who opt into every
+  update get one notification per daytime run: the run's breaking story if
+  it has one, otherwise one of the run's new stories. Write every headline
+  and dek as if it will be read on a lock screen with nothing around it.
+
+### The bar for `breaking: true`
+
+`breaking` defaults to `false`. Leave it out unless the story clears this
+bar. Flag a story only when a Hong Kong reader would want to be interrupted
+for it **right now**. If a reader loses nothing by learning it the next time
+they open the app, it is not breaking. That test is the gate; these are
+examples that pass it, not categories that pass automatically: a citywide
+class or work suspension or a network-wide transport shutdown under a No. 8
+or higher typhoon signal or a Black Rainstorm, a disaster or a mass-casualty
+incident, the death of a major public figure, an official decision that
+changes what most people in Hong Kong must do today. Routine same-day
+government notices, local closures and ordinary delays do not pass.
+
+- **A few a month at most, not a few a day.** The schema has always said
+  "use sparingly"; now every flag interrupts people.
+- **At most one per run.** A run sends at most one notification. If two
+  stories qualify, flag only the more urgent one. Landing the run as one
+  commit (§2, step 12) is also what keeps it to one notification: new
+  articles that arrive in a later commit can trigger another. Never split a
+  run, republish a story, or adjust `published_at` to steer or earn a
+  notification; `published_at` is always the real time you wrote it.
+- **A warning on its own is not breaking.** The app already alerts readers
+  to every Hong Kong Observatory warning the moment it is issued, upgraded or
+  cancelled. Keep writing the warning articles §1a requires, but an article
+  that only reports that a warning was raised (Amber, Red, thunderstorm,
+  lower typhoon signals and the rest) is never breaking. Flag weather only
+  for what the alert itself does not say, and only at citywide scale: a
+  citywide class or work suspension, or a network-wide transport shutdown,
+  under a No. 8 or higher signal or a Black Rainstorm.
+- **Never lifestyle, never an outlook.** §1b pieces and the standing weather
+  outlooks are never breaking.
+- **Verification comes first.** A notification cannot be recalled or edited
+  once it is sent, and it can go out within minutes of your commit. A later
+  correction (§6) fixes the article, not the alert already on people's
+  phones. If the facts are not yet confirmed to the §3 standard, do not
+  flag the story; §3 still decides whether it runs at all.
+- **Never about the app, radio or broadcasting.** Never flag a story about
+  the app, its owners, or any radio station or broadcaster. A notification
+  from a radio app that names a station reads as the app advertising it
+  (§4).
+- **Overnight stories do not push.** Nothing is sent while the Hong Kong
+  clock reads 23:00 to 06:59, which normally includes the 23:00 run. Flag a
+  story that qualifies anyway: it still publishes with its flag and is badged
+  in the app. Do not hold it back, and do not republish it in the morning to
+  earn a notification; an article skipped overnight is never sent later, and
+  the dedup rules in §2 still apply.
+- **A daily cap backs this up. It is not a quota.** Past a small number of
+  breaking notifications in a Hong Kong day, further flags no longer reach
+  the default breaking alerts. The target stays a few a month; never aim at
+  the cap.
+
+### The headline and dek are the notification
+
+The notification's title is your headline and its text is your dek: `en`
+for readers using the app in English, `zh` for readers using it in Chinese.
+Nothing else from the article appears, and the reader may never open it. So
+for every article, and with extra care on a breaking one:
+
+- **Stand alone.** The headline says what happened and where; the dek adds
+  the one fact the reader most needs. Put the most important fact first. A
+  lock screen may show only the first line or two of the dek, and anything
+  past about 180 characters is cut off, so aim for a dek of 180 characters
+  or fewer even though the schema allows 220.
+- **No links, URLs or calls to action.** No "read more", no "tap to …", no
+  social-media handles (already true of all text, §1).
+- **Nothing sensitive.** No names of minors, victims or witnesses, and no
+  private individual who has not been charged; no graphic detail; no
+  unconfirmed casualty figure; no allegation stated as fact. §3 and §4 apply
+  with extra force here, because the copy cannot be taken back.
+- **Attribute to the primary source.** "Police said", "the Observatory
+  said". Never cite a radio station or broadcaster in the headline or the
+  dek.
+- **No "Breaking" or "Urgent" labels, in either language, and no ALL
+  CAPS.** No 突發, 快訊 or 緊急 in the `zh` copy either. The flag does that
+  job; the headline stays a plain wire-service headline (§5).
+- **Both languages carry the same news.** English readers see `en`, Chinese
+  readers see `zh`, and each must stand alone with the same facts (§5).
+
+---
+
 ## 2. Run workflow (do these in order, every run)
 
 1. **Establish current Hong Kong time** (date, weekday, clock — see §0)
@@ -362,7 +460,9 @@ translation reads worst, so write it natively for a Hong Kong reader.
    `schema/article.schema.json` exactly. See `schema/example-article.json`
    for the shape. `id` = `<YYYY-MM-DD>-<slug>`; `published_at` = the **real
    current time to the minute** in `+08:00` (not a rounded placeholder like
-   `12:00:00`); `ai_generated: true`.
+   `12:00:00`); `ai_generated: true`. Leave `breaking` out (it defaults
+   to `false`) unless the story clears the bar in §1c — `breaking: true`
+   sends a push notification to readers' phones.
 9. **Append each published story to `ledger.json`** under `covered`, as
    `{ "key": "<story_key>", "id": "<id>", "first_seen": "<now +08:00>",
    "headline_en": "<en.headline>" }`.
@@ -527,7 +627,8 @@ Full file-hygiene rules live in **TIDINESS.md** — follow it.
   clickbait, no ALL CAPS, no trailing punctuation, 8–90 chars), a
   one-sentence dek (**12–220 chars**; the build auto-trims anything longer
   to the cap with an ellipsis, but a cut-off dek reads worse — so write to
-  budget), then short body paragraphs. Aim for 3+ paragraphs so the app
+  budget; a push notification shows only about 180, see §1c), then short
+  body paragraphs. Aim for 3+ paragraphs so the app
   can place native
   ads between them.
 - **Hong Kong Chinese (`zh`):** **Traditional Chinese in natural Hong Kong
@@ -552,3 +653,7 @@ corrections. To correct one: edit its existing file (keep the same `id` and
 the correction in a final body paragraph ("Correction: …"). Never silently
 rewrite history, and never delete a published article — articles are
 permanent (older ones are served on the public archive automatically).
+
+Once an article is published, assume its notification (§1c) has already
+gone out. A correction fixes the article, never the alert, and never sends
+a new one. Do not set or clear `breaking` in a correction.

@@ -90,6 +90,23 @@ schedules). Full rules live in `GROK.md` §1a.
 "Friday" / "Sunday" mean normal-weekend hinge points; shift for HK public
 holidays and long weekends (see `GROK.md`).
 
+## Push notifications — nothing to set up here
+
+The automations do not send notifications and need no extra connector,
+token or setting for them. A separate service reads the published
+`index.json` every few minutes and pushes new articles to readers who have
+news alerts on: a story with `breaking: true` goes to everyone with
+breaking-news alerts (on by default), and readers who opted into every
+update get one notification per run, carrying one of its new stories. What that asks of the newsroom (a
+much higher bar for `breaking`, and headlines and deks that work as
+lock-screen copy) is in `GROK.md` §1c and in the FORMAT section of the
+prompt below.
+
+The scheduler keeps its own copy of the prompt. An automation still running
+an older copy picks the rule up from `GROK.md` anyway (the prompt's last
+line points there), but re-paste the prompt into all nine automations after
+any edit so the short version carries it too.
+
 ---
 
 ## The prompt — paste this into the Instructions box (identical for each run)
@@ -154,6 +171,8 @@ FORMAT — for each story, create a file at articles/<YYYY-MM-DD>/<id>.json matc
 - ENCODING: write Chinese (and any other non-ASCII text, e.g. 「」 or ℃) as the literal characters, as schema/example-article.json does — NEVER as \uXXXX escapes. One mistyped escape (e.g. \u20 where 20 was meant) makes the file invalid JSON, and one invalid file blocks the index rebuild for EVERY article until it is fixed.
 - en: clear, professional wire-service English.
 - zh: natural Hong Kong Traditional Chinese in local written register (local terms/place names like 港鐵, 天文台, 立法會; never Simplified, never Mainland Mandarin phrasing). Same facts as the English, independently written — not a literal translation.
+- breaking: leave it out (false) unless a Hong Kong reader would lose something by learning the story only the next time they open the app. breaking: true SENDS A PUSH NOTIFICATION to readers' phones (breaking alerts are on by default). A few a month at most (a daily cap exists as a safety net, never a quota), never more than one per run. Never for an article that only reports an Observatory warning (the app already alerts every warning; flag only a citywide class or work suspension or a network-wide shutdown under a No. 8+ signal or a Black Rainstorm), never routine notices, local closures or ordinary delays, never lifestyle or a weather outlook, never anything not fully confirmed (a notification cannot be recalled), never a story about the app, radio or a broadcaster. Nothing pushes while the HKT clock reads 23:00–06:59, but still set the flag when a story qualifies. Never split a run, republish a story or adjust published_at to steer or earn a push. Full rules: GROK.md §1c.
+- LOCK SCREENS: a push shows the headline as its title and the dek as its text (en or zh by the reader's language), and readers who opt into every update get one notification per run carrying one of its new stories, so write EVERY headline and dek to stand alone: most important fact first, a dek of about 180 characters or fewer (that is all a notification shows; 220 is only the schema maximum), no links or calls to action, no names of minors, victims or witnesses, no graphic detail, no unconfirmed figures, attribution to the primary source (never a radio station or broadcaster), no "Breaking"/"Urgent" label in either language (no 突發, 快訊 or 緊急).
 
 THEN:
 - RECONCILE THE LEDGER BEFORE YOU APPEND TO IT: check that every article file already on main for today and yesterday has a matching entry in ledger.json. A run that dies between writing its articles and updating the ledger leaves stories that dedup cannot see, and the next run re-reports them as new. If you find any, add their entries in this run's commit, using each article's own published_at as first_seen. A commit that only repairs the ledger is worth making even if you publish nothing else.
