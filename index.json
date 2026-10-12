@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-12T07:48:09+08:00",
+  "generated_at": "2026-10-12T11:09:58+08:00",
   "live_window_hours": 72,
-  "count": 98,
+  "count": 96,
   "articles": [
+    {
+      "id": "2026-10-12-blue-house-lanterns",
+      "published_at": "2026-10-12T11:08:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "wan-chai",
+        "blue-house",
+        "mid-autumn",
+        "lanterns"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-12/2026-10-12-blue-house-lanterns.json",
+      "en": {
+        "headline": "Hand-painted lanterns continue at Wan Chai Blue House until Wednesday",
+        "dek": "More than 700 lanterns painted by residents and local illustrators light up the historic Blue House cluster and nearby streets each evening until 14 October."
+      },
+      "zh": {
+        "headline": "灣仔藍屋手繪花燈展延至周三 每晚亮燈",
+        "dek": "超過700盞由街坊及本地插畫家手繪的花燈，每晚6時至9時半點亮藍屋建築群及附近街道，展期至10月14日。"
+      }
+    },
+    {
+      "id": "2026-10-12-san-tin-highway-collision",
+      "published_at": "2026-10-12T11:08:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "san-tin",
+        "yuen-long",
+        "traffic",
+        "accident",
+        "minibus"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-12/2026-10-12-san-tin-highway-collision.json",
+      "en": {
+        "headline": "Minibus and truck collide on San Tin Highway, multiple injured",
+        "dek": "A green minibus and a goods vehicle collided near Fairview Park at about 9.24am, with most of the injured reported as lightly hurt and some lanes closed."
+      },
+      "zh": {
+        "headline": "新田公路近錦繡花園小巴與貨車相撞 多人受傷",
+        "dek": "周一上午約9時24分，元朗新田公路近錦繡花園一輛專線小巴與貨車相撞，大部分傷者輕傷，部分行車線封閉。"
+      }
+    },
     {
       "id": "2026-10-12-huanggang-port-opens",
       "published_at": "2026-10-12T07:05:00+08:00",
@@ -2041,90 +2087,6 @@
       "zh": {
         "headline": "國安處控52歲男子涉發布具煽動意圖刊物",
         "dek": "警方稱男子7月9日在東區被捕，10月7日被控一項罪名，同日下午在西九龍裁判法院提堂。"
-      }
-    },
-    {
-      "id": "2026-10-09-arbuthnot-shop-sale",
-      "published_at": "2026-10-09T09:18:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "property",
-        "central",
-        "retail"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-arbuthnot-shop-sale.json",
-      "en": {
-        "headline": "Hip Shing Hong sells Central shop held for 55 years",
-        "dek": "A ground-floor unit on Arbuthnot Road changed hands last month for 21.4 million dollars, the Post reported."
-      },
-      "zh": {
-        "headline": "協成行沽出持有55年中環地舖",
-        "dek": "《南華早報》引土地註冊處資料稱，亞畢諾道地舖上月底以2140萬元易手。"
-      }
-    },
-    {
-      "id": "2026-10-09-kwai-fong-salt-water",
-      "published_at": "2026-10-09T09:18:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "kwai-fong",
-        "water",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-kwai-fong-salt-water.json",
-      "en": {
-        "headline": "Salt-water pipe burst floods Kwai Fong motorcycle bays",
-        "dek": "Muddy water soaked parked bikes on Wing Fong Road on Wednesday night after a short supply cut."
-      },
-      "zh": {
-        "headline": "葵芳榮芳路鹹水管爆裂 電單車泊位湧黃泥水",
-        "dek": "周三約晚上10時盛芳街一帶地底鹹水管爆裂，水務署暫停供應約32分鐘。"
-      }
-    },
-    {
-      "id": "2026-10-09-lifestyle-heath-regret",
-      "published_at": "2026-10-09T09:18:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "tsim-sha-tsui"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-lifestyle-heath-regret.json",
-      "en": {
-        "headline": "Heath opens a public-regret show in Chungking Mansions",
-        "dek": "What We Regret Most, built from about 40 public submissions, runs in Tsim Sha Tsui until 27 October."
-      },
-      "zh": {
-        "headline": "重慶大廈Heath展出公眾「最後悔」故事",
-        "dek": "展覽《What We Regret Most》周四晚開幕，展至10月27日，約有40件公眾投稿。"
-      }
-    },
-    {
-      "id": "2026-10-09-san-po-kong-drink-drive",
-      "published_at": "2026-10-09T09:18:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "san-po-kong",
-        "drink-driving",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-san-po-kong-drink-drive.json",
-      "en": {
-        "headline": "Police arrest man, 41, after failed breath test in San Po Kong",
-        "dek": "Officers stopped an unsteady private car near Choi Hung Road late on Wednesday and bailed the driver."
-      },
-      "zh": {
-        "headline": "新蒲崗私家車行車不穩 41歲司機酒測不合格被捕",
-        "dek": "東九龍交通部周三深夜在彩虹道路障截停一輛自訂車牌私家車，司機保釋候查。"
       }
     }
   ]
