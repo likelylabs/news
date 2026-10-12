@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-13T03:21:09+08:00",
+  "generated_at": "2026-10-13T07:05:26+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 82,
   "articles": [
+    {
+      "id": "2026-10-13-space-museum-solar-system-show-ending",
+      "published_at": "2026-10-13T07:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "space-museum",
+        "tsim-sha-tsui",
+        "show",
+        "family"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-13/2026-10-13-space-museum-solar-system-show-ending.json",
+      "en": {
+        "headline": "Space Museum 3D dome show on the solar system ends Wednesday",
+        "dek": "The Great Solar System Adventure 3D at the Hong Kong Space Museum runs until 14 October, with screenings for families and adults."
+      },
+      "zh": {
+        "headline": "太空館太陽系3D穹幕影院節目周三結束",
+        "dek": "香港太空館「太陽系大冒險3D」穹幕影院節目將於10月14日結束，適合家庭及成人觀賞。"
+      }
+    },
     {
       "id": "2026-10-13-kung-wo-fermented-beancurd-recall",
       "published_at": "2026-10-13T03:20:00+08:00",
