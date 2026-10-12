@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T21:06:17+08:00",
+  "updated_at": "2026-10-12T23:26:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -199,6 +199,24 @@
       "id": "2026-10-12-electronics-fair-robots-preview",
       "first_seen": "2026-10-12T21:06:00+08:00",
       "headline_en": "Electronics fairs open Tuesday with more than 120 robots on show"
+    },
+    {
+      "key": "kai-tak-helper-murder-arrest-oct12",
+      "id": "2026-10-12-kai-tak-helper-murder-arrest",
+      "first_seen": "2026-10-12T23:26:00+08:00",
+      "headline_en": "Police arrest domestic helper over death of 93-year-old woman in Kai Tak"
+    },
+    {
+      "key": "icac-cyberport-subsidy-charges-oct12",
+      "id": "2026-10-12-icac-cyberport-subsidy-charges",
+      "first_seen": "2026-10-12T23:26:00+08:00",
+      "headline_en": "ICAC charges six including former Cyberport section head over subsidy fraud"
+    },
+    {
+      "key": "mai-po-fishpond-illegal-worker-death-oct12",
+      "id": "2026-10-12-mai-po-illegal-worker-death",
+      "first_seen": "2026-10-12T23:26:00+08:00",
+      "headline_en": "Police arrest employer after suspected illegal worker found dead in Mai Po fish pond"
     }
   ]
 }
