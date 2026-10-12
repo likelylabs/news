@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-10-12T21:06:17+08:00",
+  "generated_at": "2026-10-12T23:27:34+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-10-12-icac-cyberport-subsidy-charges",
+      "published_at": "2026-10-12T23:26:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "government",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-12/2026-10-12-icac-cyberport-subsidy-charges.json",
+      "en": {
+        "headline": "ICAC charges six including former Cyberport section head over subsidy fraud",
+        "dek": "The Independent Commission Against Corruption alleges bribery and conspiracy involving about HK$20 million in government technology grants."
+      },
+      "zh": {
+        "headline": "廉署起訴數碼港前總監等六人涉貪及詐騙資助",
+        "dek": "廉政公署指涉案人士涉嫌行賄受賄及串謀詐騙，涉款約2000萬元數碼轉型支援先導計劃資助。"
+      }
+    },
+    {
+      "id": "2026-10-12-kai-tak-helper-murder-arrest",
+      "published_at": "2026-10-12T23:26:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "kai-tak",
+        "domestic-helper",
+        "murder",
+        "police",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-12/2026-10-12-kai-tak-helper-murder-arrest.json",
+      "en": {
+        "headline": "Police arrest domestic helper over death of 93-year-old woman in Kai Tak",
+        "dek": "Officers say closed-circuit footage shows the helper striking the elderly woman multiple times before seeking help on Sunday."
+      },
+      "zh": {
+        "headline": "啟德德朗邨九旬婦身亡 外傭涉謀殺被捕",
+        "dek": "警方指閉路電視顯示外傭周日早上多次擊打老婦頭頸面部，其後求助，老婦送院不治。"
+      }
+    },
+    {
+      "id": "2026-10-12-mai-po-illegal-worker-death",
+      "published_at": "2026-10-12T23:26:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "mai-po",
+        "illegal-worker",
+        "police",
+        "yuen-long",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-12/2026-10-12-mai-po-illegal-worker-death.json",
+      "en": {
+        "headline": "Police arrest employer after suspected illegal worker found dead in Mai Po fish pond",
+        "dek": "A 37-year-old mainland man was discovered in a fish pond in the early hours of Monday; a 70-year-old operator was held over alleged illegal employment."
+      },
+      "zh": {
+        "headline": "米埔魚塘發現屍體 僱主涉聘用非法勞工被捕",
+        "dek": "37歲內地男子周一凌晨被發現倒臥魚塘，70歲魚塘經營者被警方以涉嫌聘用不可合法受僱人士拘捕。"
+      }
+    },
     {
       "id": "2026-10-12-electronics-fair-robots-preview",
       "published_at": "2026-10-12T21:06:00+08:00",
@@ -1782,88 +1849,6 @@
       "zh": {
         "headline": "西九野餐節進入最後週末 周日結束",
         "dek": "西九文化區網頁列出野餐節由九月中開至周日，今個週末是節期最後兩天。"
-      }
-    },
-    {
-      "id": "2026-10-09-ec-nominations-day-three",
-      "published_at": "2026-10-09T23:22:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "election-committee",
-        "elections"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-ec-nominations-day-three.json",
-      "en": {
-        "headline": "Election Committee takes 225 more forms on third day",
-        "dek": "Returning officers received 220 candidate forms and five designated-body forms on Friday, taking the candidate total to 685."
-      },
-      "zh": {
-        "headline": "選委會提名第三日再接225份表格",
-        "dek": "選舉主任周五接獲220份候選人提名表格及5份指定團體提名表格，候選人提名累計685份。"
-      }
-    },
-    {
-      "id": "2026-10-09-legco-european-parliament",
-      "published_at": "2026-10-09T23:22:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "legco",
-        "european-parliament"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-legco-european-parliament.json",
-      "en": {
-        "headline": "LegCo condemns European Parliament remarks on Hong Kong",
-        "dek": "A Legislative Council spokesman said a recommendation on EU-China relations made untrue allegations about the city and urged the parliament to stop."
-      },
-      "zh": {
-        "headline": "立法會譴責歐洲議會有關香港的說法",
-        "dek": "立法會發言人指歐中政治關係建議在香港部分作出失實偏頗指控，促請歐洲議會立即停止。"
-      }
-    },
-    {
-      "id": "2026-10-09-ms-salmonella-recall",
-      "published_at": "2026-10-09T23:22:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "food-safety",
-        "recall",
-        "salmonella"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-ms-salmonella-recall.json",
-      "en": {
-        "headline": "Centre tells shops to pull two Marks and Spencer foods",
-        "dek": "The Centre for Food Safety says a salad and a pesto may be contaminated with salmonella, and the importer has begun a recall."
-      },
-      "zh": {
-        "headline": "食安中心籲勿食用兩款馬莎沙律及青醬",
-        "dek": "食物安全中心指一款沙律及一款青醬或受沙門氏菌污染，進口商已停售並展開回收。"
-      }
-    },
-    {
-      "id": "2026-10-09-one-stanley-warranty",
-      "published_at": "2026-10-09T23:22:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "stanley",
-        "housing",
-        "buildings"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-one-stanley-warranty.json",
-      "en": {
-        "headline": "One Stanley developer offers six-year structural cover",
-        "dek": "K Wise says owners and buyers still completing purchases will get extra structural cover and free independent checks while a steel-bar probe continues."
-      },
-      "zh": {
-        "headline": "赤柱ONE STANLEY發展商提供額外六年結構保養",
-        "dek": "建灝旗下公司表示，已成交業主及交易中買家可獲額外六年結構保養及免費獨立檢測，屋宇署調查仍在進行。"
       }
     }
   ]
