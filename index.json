@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-12T12:18:19+08:00",
+  "generated_at": "2026-10-12T13:15:48+08:00",
   "live_window_hours": 72,
-  "count": 93,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-10-12-mai-po-fish-pond-body",
+      "published_at": "2026-10-12T13:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "mai-po",
+        "yuen-long",
+        "drowning",
+        "illegal-worker"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-12/2026-10-12-mai-po-fish-pond-body.json",
+      "en": {
+        "headline": "Mainland man found dead in Mai Po fish pond, employer arrested",
+        "dek": "Police recovered the body of a 37-year-old man early Monday and arrested a 70-year-old pond owner on suspicion of employing an illegal worker."
+      },
+      "zh": {
+        "headline": "米埔魚塘發現內地男子屍體 僱主涉聘黑工被捕",
+        "dek": "警方周一凌晨將37歲男子遺體撈起，並拘捕70歲塘主，涉嫌僱用非法勞工。"
+      }
+    },
     {
       "id": "2026-10-12-blue-house-lanterns",
       "published_at": "2026-10-12T11:08:00+08:00",
@@ -1940,90 +1963,6 @@
       "zh": {
         "headline": "皇巴尾班周一6時15分開出 巴士接載往新皇崗",
         "dek": "運輸署稱新田開出的皇巴尾班在6時15至20分，趕不及的乘客可轉乘B11、B12、B13及三條專線小巴。"
-      }
-    },
-    {
-      "id": "2026-10-09-hang-seng-midday",
-      "published_at": "2026-10-09T13:14:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "markets",
-        "stocks"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-hang-seng-midday.json",
-      "en": {
-        "headline": "Hang Seng rises 259 points at the Friday midday close",
-        "dek": "The benchmark regained the 24,000 mark by lunchtime, up 1.1 per cent, after Thursday's three-month low."
-      },
-      "zh": {
-        "headline": "恒指半日升259點 重上24000點",
-        "dek": "經濟通報道，恒生指數午市收報24045點，升1.1%，科技指數升1.5%。"
-      }
-    },
-    {
-      "id": "2026-10-09-huanggang-port-opening",
-      "published_at": "2026-10-09T13:14:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "huanggang",
-        "border",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-huanggang-port-opening.json",
-      "en": {
-        "headline": "Huanggang Port to open at 6:30am on Monday",
-        "dek": "Hong Kong and Shenzhen said the rebuilt crossing will start 24-hour passenger clearance on 12 October, ending the temporary Lok Ma Chau link."
-      },
-      "zh": {
-        "headline": "皇崗口岸周一早上6時半正式開通",
-        "dek": "港深公布新口岸周一提供24小時客運通關，同時暫停臨時旅檢樓與落馬洲管制站的旅客清關。"
-      }
-    },
-    {
-      "id": "2026-10-09-sfc-extended-hours",
-      "published_at": "2026-10-09T13:14:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "sfc",
-        "hkex",
-        "markets"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-sfc-extended-hours.json",
-      "en": {
-        "headline": "SFC says HKEX will consult this quarter on longer cash hours",
-        "dek": "Julia Leung said longer trading would start in derivatives, with a cash-market discussion paper due in the fourth quarter."
-      },
-      "zh": {
-        "headline": "證監會：港交所今季就延長現貨時段發討論文件",
-        "dek": "梁鳳儀在亞洲證券業論壇稱，延長交易時段會先在衍生產品市場推行，現貨市場文件於第四季發表。"
-      }
-    },
-    {
-      "id": "2026-10-09-weekend-weather-outlook",
-      "published_at": "2026-10-09T13:14:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "weekend"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-weekend-weather-outlook.json",
-      "en": {
-        "headline": "Observatory expects a fine, dry weekend with highs near 31",
-        "dek": "Saturday and Sunday should stay fine and dry under an east to northeast breeze, with temperatures between 26 and 31 degrees."
-      },
-      "zh": {
-        "headline": "天文台料周末天晴乾燥 最高氣溫約31度",
-        "dek": "周六及周日預料天晴、日間乾燥，吹東至東北風4級，氣溫約26至31度。"
       }
     }
   ]
