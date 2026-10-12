@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-10-12T19:08:17+08:00",
+  "generated_at": "2026-10-12T21:06:17+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 84,
   "articles": [
+    {
+      "id": "2026-10-12-electronics-fair-robots-preview",
+      "published_at": "2026-10-12T21:06:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "hktdc",
+        "electronics",
+        "robotics"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-12/2026-10-12-electronics-fair-robots-preview.json",
+      "en": {
+        "headline": "Electronics fairs open Tuesday with more than 120 robots on show",
+        "dek": "The Hong Kong Electronics Fair and electronicAsia will bring over 3,200 exhibitors to Wan Chai, highlighting AI applications and interactive robot demonstrations."
+      },
+      "zh": {
+        "headline": "秋電展及電子組件展周二開幕 展出逾120款機械人",
+        "dek": "香港秋季電子產品展及國際電子組件展將於灣仔會展舉行，匯聚逾3200家展商，重點展示人工智能應用及互動機械人示範。"
+      }
+    },
+    {
+      "id": "2026-10-12-wkcd-operational-maturity-2027",
+      "published_at": "2026-10-12T21:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "west-kowloon",
+        "legco",
+        "arts"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-12/2026-10-12-wkcd-operational-maturity-2027.json",
+      "en": {
+        "headline": "West Kowloon eyes 2027/28 as turning point towards operating returns",
+        "dek": "Board chairman Bernard Chan told lawmakers the cultural district recorded its highest operating revenue yet and expects major facilities to shift the focus from cash flow to self-sustaining income."
+      },
+      "zh": {
+        "headline": "西九文化區2027/28年度邁向營運收成期",
+        "dek": "管理局董事局主席陳智思向立法會議員表示，西九上年度營運收入創新高，預期隨主要設施落成，重點將由現金流轉為自我持續收入。"
+      }
+    },
     {
       "id": "2026-10-12-hang-seng-close",
       "published_at": "2026-10-12T19:05:00+08:00",
@@ -1822,110 +1864,6 @@
       "zh": {
         "headline": "赤柱ONE STANLEY發展商提供額外六年結構保養",
         "dek": "建灝旗下公司表示，已成交業主及交易中買家可獲額外六年結構保養及免費獨立檢測，屋宇署調查仍在進行。"
-      }
-    },
-    {
-      "id": "2026-10-09-building-dispute-mechanism",
-      "published_at": "2026-10-09T21:06:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "building-management",
-        "home-affairs",
-        "district-councils"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-building-dispute-mechanism.json",
-      "en": {
-        "headline": "Mak says three-tier building-dispute system will start next year",
-        "dek": "The home affairs chief told lawmakers a three-tier system, with early district-councillor involvement and professional mediation, is planned for next year."
-      },
-      "zh": {
-        "headline": "麥美娟：明年推大廈管理糾紛三層機制",
-        "dek": "民政及青年事務局局長表示，明年會推出三層機制，由區議員及早介入並配合專業調解，處理大廈管理糾紛。"
-      }
-    },
-    {
-      "id": "2026-10-09-building-fire-law-changes",
-      "published_at": "2026-10-09T21:06:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "buildings",
-        "fire-safety",
-        "development-bureau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-building-fire-law-changes.json",
-      "en": {
-        "headline": "Government aims to table building and fire law changes by year end",
-        "dek": "Officials told lawmakers they plan to widen building-law amendments and revise the Fire Services Ordinance, with drafts targeted before the end of the year."
-      },
-      "zh": {
-        "headline": "政府目標年底提交建築物及消防條例修訂",
-        "dek": "發展局及保安局向立法會表示，將擴大建築物條例修訂範圍，並修訂消防條例，目標今年底提交建議。"
-      }
-    },
-    {
-      "id": "2026-10-09-civil-service-appraisal",
-      "published_at": "2026-10-09T21:06:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "civil-service",
-        "appraisal"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-civil-service-appraisal.json",
-      "en": {
-        "headline": "Civil service appraisal overhaul begins for 100 grades",
-        "dek": "The Civil Service Bureau said the first phase covers 100 grades in appraisal cycles starting on or after 1 October, with a review after two cycles."
-      },
-      "zh": {
-        "headline": "公務員評核優化首期涵蓋100個職階",
-        "dek": "公務員事務局表示，評核制度優化計劃第一期涵蓋100個職階，適用於10月1日或之後開始的評核周期，兩個周期後檢討。"
-      }
-    },
-    {
-      "id": "2026-10-09-legco-five-year-plan-vote",
-      "published_at": "2026-10-09T21:06:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "legco",
-        "policy-address",
-        "five-year-plan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-legco-five-year-plan-vote.json",
-      "en": {
-        "headline": "Lawmakers pass thanks motion on five-year plan and policy address",
-        "dek": "After three days of debate, the Legislative Council passed the thanks motion on Hong Kong's first five-year plan and the Policy Address."
-      },
-      "zh": {
-        "headline": "立法會通過五年規劃及施政報告致謝議案",
-        "dek": "立法會經過一連三日辯論，周五晚上通過香港第一個五年規劃及施政報告的致謝議案。"
-      }
-    },
-    {
-      "id": "2026-10-09-oocl-q3-revenue",
-      "published_at": "2026-10-09T21:06:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "shipping",
-        "oocl",
-        "earnings"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-oocl-q3-revenue.json",
-      "en": {
-        "headline": "Orient Overseas says third-quarter line revenue rose 45 per cent",
-        "dek": "The carrier reported line revenue of 3.285 billion US dollars for the quarter, with the Pacific trade up nearly 72 per cent, RTHK said."
-      },
-      "zh": {
-        "headline": "東方海外第三季航線收入按年升45%",
-        "dek": "公司第三季航線收入32.85億美元，太平洋航線升近72%至約14.4億美元，為最大收入來源。"
       }
     }
   ]
