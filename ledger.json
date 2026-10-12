@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-12T13:15:48+08:00",
+  "updated_at": "2026-10-12T15:05:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-disgusting-food-museum-airside",
+      "id": "2026-10-12-disgusting-food-museum",
+      "first_seen": "2026-10-12T15:05:00+08:00",
+      "headline_en": "Disgusting Food Museum continues at Kai Tak AIRSIDE until late November"
+    },
+    {
+      "key": "tsing-kwai-highway-collision-oct12",
+      "id": "2026-10-12-tsing-kwai-highway-collision",
+      "first_seen": "2026-10-12T15:05:00+08:00",
+      "headline_en": "Four vehicles including three KMB buses collide on Tsing Kwai Highway"
+    },
+    {
+      "key": "kai-tak-elderly-woman-murder-oct12",
+      "id": "2026-10-12-kai-tak-elderly-woman-murder",
+      "first_seen": "2026-10-12T15:05:00+08:00",
+      "headline_en": "Police treat death of elderly woman in Kai Tak as murder, arrest Indonesian helper"
+    },
     {
       "key": "mai-po-fish-pond-body-found-oct11",
       "id": "2026-10-12-mai-po-fish-pond-body",
