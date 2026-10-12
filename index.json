@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-12T23:27:34+08:00",
+  "generated_at": "2026-10-13T01:07:56+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-10-13-andy-hui-fake-tickets-arrest",
+      "published_at": "2026-10-13T01:03:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "concert",
+        "fraud",
+        "mong-kok"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-13/2026-10-13-andy-hui-fake-tickets-arrest.json",
+      "en": {
+        "headline": "Police charge woman over fake Andy Hui concert tickets sold online",
+        "dek": "A 48-year-old woman faces four counts after buyers paid about HK$20,000 for 14 invalid tickets to the Hung Hom shows."
+      },
+      "zh": {
+        "headline": "警方起訴48歲女子涉網售許志安演唱會假門票",
+        "dek": "女子被控四項以欺騙手段取得財產，六名買家以約2萬元購買14張無效門票。"
+      }
+    },
+    {
+      "id": "2026-10-13-garden-sandwich-event-chaos",
+      "published_at": "2026-10-13T01:03:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "garden",
+        "wan-chai",
+        "event",
+        "crowd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-13/2026-10-13-garden-sandwich-event-chaos.json",
+      "en": {
+        "headline": "Garden Company apologises after crowd chaos at student sandwich event",
+        "dek": "The bakery said no one was injured when parents pushing to collect children broke a door handle at the Wan Chai school hall."
+      },
+      "zh": {
+        "headline": "嘉頓就學生三文治活動散場混亂致歉 承諾檢討人流安排",
+        "dek": "公司指無人受傷，部分家長推撞令禮堂大門門柄脫落，將審視日後大型活動入場及人流管制。"
+      }
+    },
     {
       "id": "2026-10-12-icac-cyberport-subsidy-charges",
       "published_at": "2026-10-12T23:26:00+08:00",
