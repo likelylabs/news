@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-12T17:14:24+08:00",
+  "updated_at": "2026-10-12T19:05:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "sfc-approves-six-registrars-usm-oct12",
+      "id": "2026-10-12-sfc-approves-six-registrars",
+      "first_seen": "2026-10-12T19:05:00+08:00",
+      "headline_en": "SFC approves six share registrars for paperless securities market"
+    },
+    {
+      "key": "hang-seng-close-oct12",
+      "id": "2026-10-12-hang-seng-close",
+      "first_seen": "2026-10-12T19:05:00+08:00",
+      "headline_en": "Hang Seng Index closes up 59 points at 24271"
+    },
+    {
+      "key": "ning-hanhao-northern-metropolis-culture-oct12",
+      "id": "2026-10-12-northern-metropolis-culture",
+      "first_seen": "2026-10-12T19:05:00+08:00",
+      "headline_en": "Development chief stresses ecology and heritage in Northern Metropolis"
+    },
     {
       "key": "hku-chronic-disease-co-care-results",
       "id": "2026-10-12-hku-chronic-disease-results",
