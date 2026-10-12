@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T23:27:34+08:00",
+  "updated_at": "2026-10-13T01:03:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -217,6 +217,18 @@
       "id": "2026-10-12-mai-po-illegal-worker-death",
       "first_seen": "2026-10-12T23:26:00+08:00",
       "headline_en": "Police arrest employer after suspected illegal worker found dead in Mai Po fish pond"
+    },
+    {
+      "key": "andy-hui-fake-concert-tickets-arrest-oct12",
+      "id": "2026-10-13-andy-hui-fake-tickets-arrest",
+      "first_seen": "2026-10-13T01:03:00+08:00",
+      "headline_en": "Police charge woman over fake Andy Hui concert tickets sold online"
+    },
+    {
+      "key": "garden-company-sandwich-record-chaos-oct11",
+      "id": "2026-10-13-garden-sandwich-event-chaos",
+      "first_seen": "2026-10-13T01:03:00+08:00",
+      "headline_en": "Garden Company apologises after crowd chaos at student sandwich event"
     }
   ]
 }
