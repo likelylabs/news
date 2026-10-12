@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-12T07:48:09+08:00",
+  "updated_at": "2026-10-12T11:08:00+08:00",
   "retention_days": 5,
   "covered": [
+    {
+      "key": "lifestyle-blue-house-lanterns-oct14",
+      "id": "2026-10-12-blue-house-lanterns",
+      "first_seen": "2026-10-12T11:08:00+08:00",
+      "headline_en": "Hand-painted lanterns continue at Wan Chai Blue House until Wednesday"
+    },
+    {
+      "key": "san-tin-highway-minibus-collision-oct12",
+      "id": "2026-10-12-san-tin-highway-collision",
+      "first_seen": "2026-10-12T11:08:00+08:00",
+      "headline_en": "Minibus and truck collide on San Tin Highway, multiple injured"
+    },
     {
       "key": "lifestyle-wine-dine-tickets-public-sale",
       "id": "2026-10-12-wine-dine-tickets-public-sale",
