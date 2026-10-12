@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T03:21:09+08:00",
+  "updated_at": "2026-10-13T07:05:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -241,6 +241,12 @@
       "id": "2026-10-13-kung-wo-fermented-beancurd-recall",
       "first_seen": "2026-10-13T03:20:00+08:00",
       "headline_en": "Food safety centre orders recall of Kung Wo rose fermented beancurd"
+    },
+    {
+      "key": "lifestyle-space-museum-solar-system-show-ending",
+      "id": "2026-10-13-space-museum-solar-system-show-ending",
+      "first_seen": "2026-10-13T07:05:00+08:00",
+      "headline_en": "Space Museum 3D dome show on the solar system ends Wednesday"
     }
   ]
 }
