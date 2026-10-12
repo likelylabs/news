@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-10-12T13:15:48+08:00",
+  "generated_at": "2026-10-12T15:05:56+08:00",
   "live_window_hours": 72,
   "count": 90,
   "articles": [
+    {
+      "id": "2026-10-12-disgusting-food-museum",
+      "published_at": "2026-10-12T15:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "kai-tak",
+        "airside",
+        "food"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-12/2026-10-12-disgusting-food-museum.json",
+      "en": {
+        "headline": "Disgusting Food Museum continues at Kai Tak AIRSIDE until late November",
+        "dek": "The Swedish exhibition of more than 80 polarising foods from around the world is open at GATE33 Gallery in AIRSIDE, with interactive displays and a tasting bar."
+      },
+      "zh": {
+        "headline": "嘔心食物博物館啟德AIRSIDE展至十一月底",
+        "dek": "來自瑞典的展覽在啟德AIRSIDE GATE33藝文館展出逾80款各地爭議性食物，設互動展區及試食吧，展期至11月26日。"
+      }
+    },
+    {
+      "id": "2026-10-12-kai-tak-elderly-woman-murder",
+      "published_at": "2026-10-12T15:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "kai-tak",
+        "ngau-tau-kok",
+        "domestic-helper",
+        "murder"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-12/2026-10-12-kai-tak-elderly-woman-murder.json",
+      "en": {
+        "headline": "Police treat death of elderly woman in Kai Tak as murder, arrest Indonesian helper",
+        "dek": "A woman in her nineties was found unresponsive at De Lang Estate on Sunday morning and later died in hospital; police arrested the Indonesian domestic helper and are investigating as murder."
+      },
+      "zh": {
+        "headline": "啟德德朗邨九旬婦不治 警列謀殺案拘捕印傭",
+        "dek": "一名九旬婦人周日早上在牛頭角德朗邨德瑤樓被發現失去知覺，送院後不治；警方拘捕印尼籍女傭，案件列作謀殺跟進。"
+      }
+    },
+    {
+      "id": "2026-10-12-tsing-kwai-highway-collision",
+      "published_at": "2026-10-12T15:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "tsing-kwai",
+        "kwai-chung",
+        "kmb",
+        "accident",
+        "traffic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-12/2026-10-12-tsing-kwai-highway-collision.json",
+      "en": {
+        "headline": "Four vehicles including three KMB buses collide on Tsing Kwai Highway",
+        "dek": "The collision near Container Terminal 5 at about 11.42am on Monday closed some lanes; one bus driver reported back pain while the Transport Department advised drivers to use remaining lanes."
+      },
+      "zh": {
+        "headline": "青葵公路四車相撞包括三輛九巴 一名車長背痛",
+        "dek": "周一上午約11時42分葵涌青葵公路往機場方向近五號貨櫃碼頭發生四車相撞，涉及三輛九巴，部分行車線封閉。"
+      }
+    },
     {
       "id": "2026-10-12-mai-po-fish-pond-body",
       "published_at": "2026-10-12T13:15:00+08:00",
@@ -1901,68 +1970,6 @@
       "zh": {
         "headline": "政府建議和合石建新火葬場 預計2032年啟用",
         "dek": "立法會文件初步估算工程費用約20.3億元，新場設10個火化爐，每年可多提供約2.16萬節時段。"
-      }
-    },
-    {
-      "id": "2026-10-09-competition-vr-raids",
-      "published_at": "2026-10-09T15:04:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "courts",
-        "schools"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-competition-vr-raids.json",
-      "en": {
-        "headline": "Competition watchdog searches 11 sites over school VR bids",
-        "dek": "The Competition Commission said Thursday's Lens operation targeted alleged bid-rigging on virtual-reality contracts worth about 10 million dollars."
-      },
-      "zh": {
-        "headline": "競委會「銳鏡」行動搜查11處所 涉學校VR報價圍標",
-        "dek": "競委會周五公布，周四持法庭手令搜查資訊科技供應商辦公室及住所，涉案合約約1000萬元。"
-      }
-    },
-    {
-      "id": "2026-10-09-hkhs-fake-website",
-      "published_at": "2026-10-09T15:04:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "scam",
-        "housing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-hkhs-fake-website.json",
-      "en": {
-        "headline": "Housing Society warns of fake Fanling AI receptionist site",
-        "dek": "The association said a site posing as an artificial-intelligence receptionist for its Pak Wo Road project has been passed to police."
-      },
-      "zh": {
-        "headline": "房協揭偽冒粉嶺百和路人工智能接待員網站",
-        "dek": "房協指騙徒以人工智能客服誘套個人資料，已將案件交警方，並呼籲市民勿登入可疑網站。"
-      }
-    },
-    {
-      "id": "2026-10-09-huanggang-last-shuttle",
-      "published_at": "2026-10-09T15:04:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "huanggang",
-        "border",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-09/2026-10-09-huanggang-last-shuttle.json",
-      "en": {
-        "headline": "Last Huanggang shuttle leaves San Tin before Monday opening",
-        "dek": "Transport officials said the final shuttle from San Tin is due between 6:15am and 6:20am on 12 October, with buses covering the rebuilt port."
-      },
-      "zh": {
-        "headline": "皇巴尾班周一6時15分開出 巴士接載往新皇崗",
-        "dek": "運輸署稱新田開出的皇巴尾班在6時15至20分，趕不及的乘客可轉乘B11、B12、B13及三條專線小巴。"
       }
     }
   ]
