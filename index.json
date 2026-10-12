@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-10-12T15:05:56+08:00",
+  "generated_at": "2026-10-12T17:14:25+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 94,
   "articles": [
+    {
+      "id": "2026-10-12-chp-russian-pneumonia",
+      "published_at": "2026-10-12T17:15:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "chp",
+        "pneumonia",
+        "russia",
+        "airport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-12/2026-10-12-chp-russian-pneumonia.json",
+      "en": {
+        "headline": "Centre for Health Protection assesses Russian pneumonia case as low risk",
+        "dek": "The centre said there is no evidence of sustained transmission and it has stepped up health monitoring of arrivals from Russia at the airport."
+      },
+      "zh": {
+        "headline": "衛生防護中心：俄羅斯不明肺炎個案對港即時風險低",
+        "dek": "中心指未有持續傳播證據，已加強在機場對俄羅斯抵港旅客的健康監測。"
+      }
+    },
+    {
+      "id": "2026-10-12-hku-chronic-disease-results",
+      "published_at": "2026-10-12T17:15:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "hku",
+        "diabetes",
+        "hypertension",
+        "primary-care"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-12/2026-10-12-hku-chronic-disease-results.json",
+      "en": {
+        "headline": "HKU study finds chronic disease scheme improves health indicators",
+        "dek": "Nearly 6,000 participants with newly diagnosed diabetes, hypertension or prediabetes showed significant gains after one year of follow-up under the government pilot."
+      },
+      "zh": {
+        "headline": "港大研究：慢病共治計劃一年後健康指標顯著改善",
+        "dek": "近6000名新確診糖尿病、高血壓或前期糖尿病參加者完成一年跟進後，血糖血壓等指標明顯改善。"
+      }
+    },
+    {
+      "id": "2026-10-12-labour-sanctions-imported-labour",
+      "published_at": "2026-10-12T17:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "labour",
+        "imported-workers",
+        "employment",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-12/2026-10-12-labour-sanctions-imported-labour.json",
+      "en": {
+        "headline": "Labour Department sanctions two firms over imported labour applications",
+        "dek": "Shengshi Investment Management and Ho Fu Kee Noodle House in Tsuen Wan had their applications halted and face a two-year ban after refusing qualified local job seekers for dishwasher posts."
+      },
+      "zh": {
+        "headline": "勞工處制裁兩公司 中止輸入洗碗員申請兩年",
+        "dek": "盛世投資管理及荃灣何富記麵家因無合理理由拒絕聘用合資格本地求職者等違規，即時中止申請並禁未來兩年再申請。"
+      }
+    },
+    {
+      "id": "2026-10-12-li-zili-drug-regulator",
+      "published_at": "2026-10-12T17:15:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "government",
+        "drug-regulation",
+        "medical-devices"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-12/2026-10-12-li-zili-drug-regulator.json",
+      "en": {
+        "headline": "Government appoints Li Zili as drug and medical device regulator",
+        "dek": "The Director of Health said the appointment of the experienced specialist will help build Hong Kong's capacity for independent review and approval of drugs and devices."
+      },
+      "zh": {
+        "headline": "政府委任李自力為藥械監管總監 任期三年",
+        "dek": "衛生署署長指，委任具豐富國際經驗的專才，有助建立本港自主藥械審評審批能力，加快符合品質及安全要求的產品臨床應用。"
+      }
+    },
     {
       "id": "2026-10-12-disgusting-food-museum",
       "published_at": "2026-10-12T15:05:00+08:00",
