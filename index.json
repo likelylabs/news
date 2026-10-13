@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-10-13T10:09:24+08:00",
+  "generated_at": "2026-10-13T11:09:27+08:00",
   "live_window_hours": 72,
-  "count": 77,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-10-13-chabaidao-trading-halt",
+      "published_at": "2026-10-13T11:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "sfc",
+        "chabaidao",
+        "stocks",
+        "hkex",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-13/2026-10-13-chabaidao-trading-halt.json",
+      "en": {
+        "headline": "SFC orders ChaPanda operator to suspend trading from Tuesday morning",
+        "dek": "The regulator directed the Stock Exchange to halt dealings in Sichuan Baicha Baidao Industrial under rules covering potentially false or misleading documents."
+      },
+      "zh": {
+        "headline": "證監會指令茶百道營運商周二早上起停牌",
+        "dek": "監管機構指示聯交所根據涉及文件可能載有虛假或誤導資料的規則，暫停四川百茶百道實業股份買賣。"
+      }
+    },
+    {
+      "id": "2026-10-13-therapy-dogs-booked-2027",
+      "published_at": "2026-10-13T11:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "animals",
+        "therapy-dogs",
+        "animals-asia",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-13/2026-10-13-therapy-dogs-booked-2027.json",
+      "en": {
+        "headline": "Animals Asia therapy dog programme booked out until February 2027",
+        "dek": "The Dr Dog and Professor Paws visits, run by one staff member and 65 volunteers, are finalists in the teamwork category of the Spirit of Hong Kong Awards."
+      },
+      "zh": {
+        "headline": "亞洲動物基金治療犬計劃預約至2027年2月已滿",
+        "dek": "由一名職員及65名義工組成的Dr Dog及Professor Paws探訪計劃，獲提名競逐香港精神獎團隊合作組別。"
+      }
+    },
+    {
+      "id": "2026-10-13-yue-ting-nan-xia-preparations",
+      "published_at": "2026-10-13T11:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "yue-ting-nan-xia",
+        "marine",
+        "mable-chan",
+        "guangdong",
+        "yachts"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-13/2026-10-13-yue-ting-nan-xia-preparations.json",
+      "en": {
+        "headline": "Marine Department coordinates with Guangdong ahead of Friday yacht first voyage",
+        "dek": "Secretary for Transport and Logistics Mable Chan said preparations include captain training, real-time monitoring and an electronic service system for the southbound Guangdong yachts."
+      },
+      "zh": {
+        "headline": "粵艇南下周五行首航 海事處與廣東密切溝通做好準備",
+        "dek": "運輸及物流局局長陳美寶表示，當局已進行船長培訓考核、建立實時監察系統及電子業務系統，並會加強安全提示及巡邏。"
+      }
+    },
     {
       "id": "2026-10-13-ma-on-shan-carpark-fight",
       "published_at": "2026-10-13T09:15:00+08:00",
