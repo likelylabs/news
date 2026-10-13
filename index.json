@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-10-13T13:21:32+08:00",
+  "generated_at": "2026-10-13T15:04:59+08:00",
   "live_window_hours": 72,
   "count": 78,
   "articles": [
+    {
+      "id": "2026-10-13-edb-sen-grade-retention-guide",
+      "published_at": "2026-10-13T15:05:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "education",
+        "sen",
+        "edb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-13/2026-10-13-edb-sen-grade-retention-guide.json",
+      "en": {
+        "headline": "Education Bureau updates guide to discourage grade retention for SEN students",
+        "dek": "The revised School Administration Guide says schools should avoid repeating grades for students with special educational needs, citing risks to social and emotional adaptation and mental health."
+      },
+      "zh": {
+        "headline": "教育局更新學校行政手冊 提醒學校避免安排特殊教育需要學生留級",
+        "dek": "修訂後的手冊指學校應盡量避免讓學生留級，尤其不應安排有特殊教育需要的學生留級，以免加劇社交情緒適應困難及增加精神健康風險。"
+      }
+    },
+    {
+      "id": "2026-10-13-law-society-dispute-resolution-hub",
+      "published_at": "2026-10-13T15:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "law-society",
+        "central",
+        "arbitration"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-13/2026-10-13-law-society-dispute-resolution-hub.json",
+      "en": {
+        "headline": "Law Society opens arbitration and mediation centre at former Central office",
+        "dek": "The 30,000-square-foot facility at Wing On House includes three arbitration suites and meeting rooms, with the society planning to offer space to members at half market rates."
+      },
+      "zh": {
+        "headline": "律師會中環舊會址改建為仲裁調解中心 周二正式開幕",
+        "dek": "永安集團大廈三萬平方呎設施設有三個仲裁套房及多個會議室，律師會計劃以市價一半租金租予會員使用。"
+      }
+    },
+    {
+      "id": "2026-10-13-sham-shui-po-prostitution-syndicate",
+      "published_at": "2026-10-13T15:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "sham-shui-po",
+        "crime",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-13/2026-10-13-sham-shui-po-prostitution-syndicate.json",
+      "en": {
+        "headline": "Police arrest 20 in crackdown on transnational prostitution syndicate",
+        "dek": "Officers detained a group including a Thai ringleader after an operation targeting premises in Sham Shui Po and Tsuen Wan, freezing more than HK$10 million in suspected proceeds."
+      },
+      "zh": {
+        "headline": "警方搗破深水埗跨國賣淫集團 拘捕20人並凍結逾千萬元犯罪得益",
+        "dek": "行動針對深水埗及荃灣的有組織集團，拘捕包括泰籍主腦在內的20人，指集團要求女子提供30至45次無償性服務以抵償來港費用。"
+      }
+    },
     {
       "id": "2026-10-13-anita-mui-ashes-investigation-upgrade",
       "published_at": "2026-10-13T13:20:00+08:00",
@@ -1684,72 +1748,6 @@
       "zh": {
         "headline": "麥美娟：明年推三層機制處理大廈管理糾紛",
         "dek": "民政及青年事務局局長麥美娟表示，計劃明年推行三層調解機制，先由區議員介入，再轉介專業調解，最終才交法庭處理，以改善包括大維修在內的大廈管理。"
-      }
-    },
-    {
-      "id": "2026-10-10-guangdong-yachts-southbound",
-      "published_at": "2026-10-10T15:03:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "yachts",
-        "cross-boundary",
-        "marine-department",
-        "guangdong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-10/2026-10-10-guangdong-yachts-southbound.json",
-      "en": {
-        "headline": "Guangdong yachts to make first southbound voyage on 16 October",
-        "dek": "The Transport and Logistics Bureau and Marine Department will hold a first-voyage ceremony next Friday to welcome the initial batch of Guangdong-registered yachts under the new reciprocal arrangement."
-      },
-      "zh": {
-        "headline": "「粵艇南下」首航儀式定於10月16日舉行",
-        "dek": "運輸及物流局局長陳美寶表示，運輸及物流局與海事處將於下周五舉行「粵艇南下」首航儀式，迎接首批廣東遊艇來港。"
-      }
-    },
-    {
-      "id": "2026-10-10-mental-recharge-station",
-      "published_at": "2026-10-10T15:03:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "mental-health",
-        "department-of-health",
-        "ma-on-shan",
-        "world-mental-health-day"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-10/2026-10-10-mental-recharge-station.json",
-      "en": {
-        "headline": "Department of Health runs Mental Recharge Station through Sunday",
-        "dek": "The free event at MOSTown in Ma On Shan continues until Sunday evening to mark World Mental Health Day, with interactive games, workshops and a focus on listening to lived experience."
-      },
-      "zh": {
-        "headline": "衞生署「心靈補給站」馬鞍山展至周日",
-        "dek": "為響應世界精神衞生日，衞生署在馬鞍山新港城中心舉辦免費活動，由周五起至周日傍晚，設互動遊戲及工作坊，強調聆聽親身經歷。"
-      }
-    },
-    {
-      "id": "2026-10-10-recycling-expansion-smart-bins",
-      "published_at": "2026-10-10T15:03:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "recycling",
-        "environment",
-        "epd",
-        "green-community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-10/2026-10-10-recycling-expansion-smart-bins.json",
-      "en": {
-        "headline": "Environment chief outlines 24-hour smart recycling and clean energy goals",
-        "dek": "Secretary Tse Chin-wan said the government will expand community recycling with round-the-clock automated points and aims to raise the share of zero-carbon energy to 60 to 70 per cent by 2035."
-      },
-      "zh": {
-        "headline": "環境局長：推24小時智能回收 目標2035年零碳電力達六至七成",
-        "dek": "環境及生態局局長謝展寰表示，政府將加強社區回收網絡，包括推出24小時智能回收桶，並有信心達至2035年零碳能源佔比六至七成的目標。"
       }
     }
   ]
