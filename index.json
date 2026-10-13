@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-10-13T15:05:51+08:00",
+  "generated_at": "2026-10-13T17:15:38+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-10-13-clp-voltage-dip-lifts",
+      "published_at": "2026-10-13T17:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "clp",
+        "voltage-dip",
+        "lifts",
+        "fire-services",
+        "kowloon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-13/2026-10-13-clp-voltage-dip-lifts.json",
+      "en": {
+        "headline": "CLP voltage dip traps people in lifts across Kowloon and New Territories",
+        "dek": "A momentary sag on a 400-kilovolt line from Lai Chi Kok to Tsz Wan Shan at about 1.09pm prompted nearly 180 lift entrapment reports and dozens of false fire alarms; rescues are complete."
+      },
+      "zh": {
+        "headline": "中電40萬伏特線路電壓驟降 九龍新界近180宗困升降機",
+        "dek": "荔枝角至慈雲山供電線路下午約1時09分錄得短暫電壓驟降，電力無中斷；消防接獲近180宗困升降機及約40宗火警鐘誤鳴，救援已完成。"
+      }
+    },
+    {
+      "id": "2026-10-13-free-tv-licences-renewed",
+      "published_at": "2026-10-13T17:20:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "broadcasting",
+        "tv-licences",
+        "communications-authority",
+        "tvb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-13/2026-10-13-free-tv-licences-renewed.json",
+      "en": {
+        "headline": "Government renews free TV licences of three broadcasters for 12 years",
+        "dek": "The Chief Executive in Council approved renewals for HK Television Entertainment, TVB and i-CABLE HOY, with combined investment commitments of about HK$9.48 billion in the first six years and updated programme rules."
+      },
+      "zh": {
+        "headline": "三間免費電視台牌照獲續期12年 首六年承諾投資近95億元",
+        "dek": "行政長官會同行政會議批准香港電視娛樂、無綫及有線寬頻開電視續牌12年，並落實放寬措施及加強國民教育等節目要求。"
+      }
+    },
+    {
+      "id": "2026-10-13-hang-seng-close",
+      "published_at": "2026-10-13T17:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hang-seng",
+        "stocks",
+        "hkex",
+        "market"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-13/2026-10-13-hang-seng-close.json",
+      "en": {
+        "headline": "Hang Seng Index closes up 74 points at 24345",
+        "dek": "The benchmark recovered from an early slide to finish higher on Tuesday, with financial and property stocks among the gainers while technology shares remained mixed."
+      },
+      "zh": {
+        "headline": "恒生指數收升74點報24345點",
+        "dek": "恒指周二早段下跌後午後回升，金融及地產股向上，科技股則表現參差。"
+      }
+    },
     {
       "id": "2026-10-13-edb-sen-grade-retention-guide",
       "published_at": "2026-10-13T15:05:00+08:00",
