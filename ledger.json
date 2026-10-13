@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T07:05:26+08:00",
+  "updated_at": "2026-10-13T09:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -247,6 +247,18 @@
       "id": "2026-10-13-space-museum-solar-system-show-ending",
       "first_seen": "2026-10-13T07:05:00+08:00",
       "headline_en": "Space Museum 3D dome show on the solar system ends Wednesday"
+    },
+    {
+      "key": "tsz-ching-estate-charger-fire-oct13",
+      "id": "2026-10-13-tsz-ching-estate-fire",
+      "first_seen": "2026-10-13T09:15:00+08:00",
+      "headline_en": "Man injured after charger overheats in Tsz Ching Estate flat fire"
+    },
+    {
+      "key": "ma-on-shan-carpark-fight-oct13",
+      "id": "2026-10-13-ma-on-shan-carpark-fight",
+      "first_seen": "2026-10-13T09:15:00+08:00",
+      "headline_en": "Two men arrested after fight over money in Ma On Shan car park"
     }
   ]
 }
