@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T19:10:40+08:00",
+  "updated_at": "2026-10-14T01:02:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -355,6 +355,24 @@
       "id": "2026-10-13-ocean-park-50th-plans",
       "first_seen": "2026-10-13T19:05:00+08:00",
       "headline_en": "Ocean Park announces conservation facilities ahead of 50th anniversary"
+    },
+    {
+      "key": "customs-hzmb-pharmaceutical-seizure-oct13",
+      "id": "2026-10-14-customs-hzmb-pharma-seizure",
+      "first_seen": "2026-10-14T01:02:00+08:00",
+      "headline_en": "Customs seize about 320000 suspected pharmaceutical products at bridge port"
+    },
+    {
+      "key": "mpox-case-hutong-temporary-closure-oct13",
+      "id": "2026-10-14-mpox-case-hutong-closure",
+      "first_seen": "2026-10-14T01:02:00+08:00",
+      "headline_en": "Centre for Health Protection investigates new mpox case, suggests temporary venue closure"
+    },
+    {
+      "key": "cheung-tsing-tunnel-five-car-collision-oct13",
+      "id": "2026-10-14-cheung-tsing-tunnel-collision",
+      "first_seen": "2026-10-14T01:02:00+08:00",
+      "headline_en": "Five vehicles collide near Cheung Tsing Tunnel exit, three injured"
     }
   ]
 }
