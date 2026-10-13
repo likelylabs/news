@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T10:09:24+08:00",
+  "updated_at": "2026-10-13T11:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -259,6 +259,24 @@
       "id": "2026-10-13-ma-on-shan-carpark-fight",
       "first_seen": "2026-10-13T09:15:00+08:00",
       "headline_en": "Two men arrested after fight over money in Ma On Shan car park"
+    },
+    {
+      "key": "chabaidao-sfc-trading-halt-oct13",
+      "id": "2026-10-13-chabaidao-trading-halt",
+      "first_seen": "2026-10-13T11:10:00+08:00",
+      "headline_en": "SFC orders ChaPanda operator to suspend trading from Tuesday morning"
+    },
+    {
+      "key": "yue-ting-nan-xia-first-voyage-oct16",
+      "id": "2026-10-13-yue-ting-nan-xia-preparations",
+      "first_seen": "2026-10-13T11:10:00+08:00",
+      "headline_en": "Marine Department coordinates with Guangdong ahead of Friday yacht first voyage"
+    },
+    {
+      "key": "lifestyle-therapy-dogs-demand-2027",
+      "id": "2026-10-13-therapy-dogs-booked-2027",
+      "first_seen": "2026-10-13T11:10:00+08:00",
+      "headline_en": "Animals Asia therapy dog programme booked out until February 2027"
     }
   ]
 }
