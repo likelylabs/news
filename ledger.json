@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T15:05:51+08:00",
+  "updated_at": "2026-10-13T17:20:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -313,6 +313,24 @@
       "id": "2026-10-13-hongkong-post-staff-priority-hiring",
       "first_seen": "2026-10-13T13:20:00+08:00",
       "headline_en": "Civil Service Bureau offers priority hiring for affected Hongkong Post staff"
+    },
+    {
+      "key": "clp-voltage-dip-lifts-oct13",
+      "id": "2026-10-13-clp-voltage-dip-lifts",
+      "first_seen": "2026-10-13T17:20:00+08:00",
+      "headline_en": "CLP voltage dip traps people in lifts across Kowloon and New Territories"
+    },
+    {
+      "key": "free-tv-licences-renewal-12years-oct13",
+      "id": "2026-10-13-free-tv-licences-renewed",
+      "first_seen": "2026-10-13T17:20:00+08:00",
+      "headline_en": "Government renews free TV licences of three broadcasters for 12 years"
+    },
+    {
+      "key": "hang-seng-close-oct13",
+      "id": "2026-10-13-hang-seng-close",
+      "first_seen": "2026-10-13T17:20:00+08:00",
+      "headline_en": "Hang Seng Index closes up 74 points at 24345"
     }
   ]
 }
