@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T17:15:38+08:00",
+  "updated_at": "2026-10-13T19:05:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -331,6 +331,30 @@
       "id": "2026-10-13-hang-seng-close",
       "first_seen": "2026-10-13T17:20:00+08:00",
       "headline_en": "Hang Seng Index closes up 74 points at 24345"
+    },
+    {
+      "key": "mtr-lam-tin-trackside-fire-oct13",
+      "id": "2026-10-13-mtr-lam-tin-trackside-fire",
+      "first_seen": "2026-10-13T19:05:00+08:00",
+      "headline_en": "MTR resumes Kwun Tong Line after trackside fire at Lam Tin"
+    },
+    {
+      "key": "customs-shenzhen-bay-tobacco-seizure-oct12",
+      "id": "2026-10-13-customs-shenzhen-bay-tobacco",
+      "first_seen": "2026-10-13T19:05:00+08:00",
+      "headline_en": "Customs seize 8000kg unmanifested tobacco at Shenzhen Bay"
+    },
+    {
+      "key": "police-thunder-2026-scam-ml-arrests-oct13",
+      "id": "2026-10-13-police-thunder-2026-scam",
+      "first_seen": "2026-10-13T19:05:00+08:00",
+      "headline_en": "Police arrest 44 in operation against triad phone scam and money laundering"
+    },
+    {
+      "key": "lifestyle-ocean-park-50th-anniversary-plans",
+      "id": "2026-10-13-ocean-park-50th-plans",
+      "first_seen": "2026-10-13T19:05:00+08:00",
+      "headline_en": "Ocean Park announces conservation facilities ahead of 50th anniversary"
     }
   ]
 }
