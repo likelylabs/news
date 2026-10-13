@@ -1,8 +1,137 @@
 {
-  "generated_at": "2026-10-14T01:04:17+08:00",
+  "generated_at": "2026-10-14T07:06:56+08:00",
   "live_window_hours": 72,
-  "count": 75,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-10-14-hos-2025-flat-selection",
+      "published_at": "2026-10-14T07:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "hos",
+        "housing-authority"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-hos-2025-flat-selection.json",
+      "en": {
+        "headline": "Housing Authority begins HOS 2025 flat selection on 21 October",
+        "dek": "Nearly 7,000 new flats across five projects in Kai Tak, Kam Tin, Tseung Kwan O, Ping Shan and Tung Chung will be offered at 70 per cent of assessed market value."
+      },
+      "zh": {
+        "headline": "房委會居屋2025下周三開始選樓 推近7000個單位",
+        "dek": "五個新項目位於啟德、錦田、將軍澳、屏山及東涌，以評定市值七折發售，售價約150萬至480萬元。"
+      }
+    },
+    {
+      "id": "2026-10-14-kai-tak-helper-charged-murder",
+      "published_at": "2026-10-14T07:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "kai-tak",
+        "murder",
+        "domestic-helper"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-kai-tak-helper-charged-murder.json",
+      "en": {
+        "headline": "Police charge 52-year-old domestic helper with murder over Kai Tak death",
+        "dek": "The Indonesian helper who had been caring for a 93-year-old woman at Tak Long Estate faces a holding charge of murder and is due to appear in Kwun Tong Magistrates’ Courts on Wednesday."
+      },
+      "zh": {
+        "headline": "警方暫控52歲外傭謀殺 啟德德朗邨九旬婦死亡案",
+        "dek": "照顧德朗邨93歲女子的印尼外傭被暫控一項謀殺罪，案件周三上午在觀塘裁判法院提堂。"
+      }
+    },
+    {
+      "id": "2026-10-14-lifestyle-lkf-halloween",
+      "published_at": "2026-10-14T07:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "halloween",
+        "lan-kwai-fong",
+        "central"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-lifestyle-lkf-halloween.json",
+      "en": {
+        "headline": "Lan Kwai Fong launches Halloween Monster Mash events through end of October",
+        "dek": "The district’s annual celebrations begin on 14 October with themed food, evening DJ sets and a short monster street performance on selected nights."
+      },
+      "zh": {
+        "headline": "蘭桂坊萬聖節怪物巡禮夜由今日起至月底舉行",
+        "dek": "區內餐廳推出主題餐飲，指定晚上有DJ打碟及怪物軍團於晚上8時至8時半快閃街道表演。"
+      }
+    },
+    {
+      "id": "2026-10-14-rental-scam-students-talent",
+      "published_at": "2026-10-14T07:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "scam",
+        "rental",
+        "tseung-kwan-o"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-rental-scam-students-talent.json",
+      "en": {
+        "headline": "Police arrest five over rental scam targeting mainland students and talent",
+        "dek": "A group operating for about two months allegedly used fake listings and forged tenancy agreements to take roughly HK$1.04 million from nine victims; three remain in custody."
+      },
+      "zh": {
+        "headline": "警方搗破專騙港漂生及高才通人士租屋集團 拘5人涉約104萬元",
+        "dek": "集團運作約兩個月，透過內地社交平台假租盤及偽造租約，涉9宗案件騙款約104萬元；5人被捕，3人仍被扣查。"
+      }
+    },
+    {
+      "id": "2026-10-14-tst-waterfront-fight-arrests",
+      "published_at": "2026-10-14T07:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "tsim-sha-tsui",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-tst-waterfront-fight-arrests.json",
+      "en": {
+        "headline": "Two women arrested after fight near Tsim Sha Tsui Clock Tower",
+        "dek": "Police received a report at about 6.57pm of a confrontation on Salisbury Road; both women were arrested for fighting in a public place and taken to hospital with injuries."
+      },
+      "zh": {
+        "headline": "尖沙咀鐘樓附近兩女打架被捕 送院治理",
+        "dek": "警方晚上約6時57分接報梳士巴利道有女子被拳打；兩名女子涉嫌在公眾地方打鬥被捕，分別報稱頭部及背部受傷並送往廣華醫院。"
+      }
+    },
+    {
+      "id": "2026-10-14-yau-ma-tei-girl-hanging-death",
+      "published_at": "2026-10-14T07:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "yau-ma-tei",
+        "death"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-yau-ma-tei-girl-hanging-death.json",
+      "en": {
+        "headline": "Police investigate death of 13-year-old girl found hanging in Yau Ma Tei flat",
+        "dek": "A mother reported finding her daughter hanging in a room at a Nathan Road building on Tuesday evening; the girl was confirmed dead at the scene and a note was recovered."
+      },
+      "zh": {
+        "headline": "油麻地13歲女童寓所內上吊死亡 警方調查",
+        "dek": "周二晚上約9時44分，母親報稱在彌敦道旺角大樓單位房間發現女兒上吊並將她解下；女童當場證實死亡，現場檢獲遺書。"
+      }
+    },
     {
       "id": "2026-10-14-cheung-tsing-tunnel-collision",
       "published_at": "2026-10-14T01:02:00+08:00",
@@ -1661,29 +1790,6 @@
       "zh": {
         "headline": "天文台清晨6時發出黃色火災危險警告",
         "dek": "天文台於上午6時發出黃色火災危險警告，表示火災危險性頗高，提醒市民特別提高警覺並採取適當防火措施。"
-      }
-    },
-    {
-      "id": "2026-10-11-lifestyle-sundays-by-the-bay",
-      "published_at": "2026-10-11T03:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "lantau",
-        "pui-o",
-        "beach",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-11/2026-10-11-lifestyle-sundays-by-the-bay.json",
-      "en": {
-        "headline": "Sundays By the Bay launches today at Pui O for Treasure Island's 30th",
-        "dek": "The free monthly gathering at Treasure Island Campsite runs from noon to 6pm with live music, local makers and activities open to families and dogs."
-      },
-      "zh": {
-        "headline": "貝澳Treasure Island海灣週日今首辦 慶祝30週年",
-        "dek": "免費活動由中午12時至下午6時於貝澳營地舉行，設現場音樂、本地手作及社區活動，歡迎一家大小及寵物狗參與。"
       }
     }
   ]
