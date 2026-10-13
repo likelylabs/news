@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-13T19:10:40+08:00",
+  "generated_at": "2026-10-14T01:04:17+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 75,
   "articles": [
+    {
+      "id": "2026-10-14-cheung-tsing-tunnel-collision",
+      "published_at": "2026-10-14T01:02:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic",
+        "collision",
+        "cheung-tsing-tunnel",
+        "tsing-kwai-highway"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-cheung-tsing-tunnel-collision.json",
+      "en": {
+        "headline": "Five vehicles collide near Cheung Tsing Tunnel exit, three injured",
+        "dek": "Police received a report at about 6.44pm of a multi-vehicle crash involving a light goods vehicle and private cars on the Kowloon-bound side; three people with minor injuries were taken to hospital and some lanes were…"
+      },
+      "zh": {
+        "headline": "長青隧道出口附近5車相撞 3人輕傷",
+        "dek": "警方晚上約6時44分接報青葵公路往九龍方向長青隧道出口附近多車相撞，涉及輕型貨車及私家車；3名傷者清醒輕傷，部分行車線一度封閉。"
+      }
+    },
+    {
+      "id": "2026-10-14-customs-hzmb-pharma-seizure",
+      "published_at": "2026-10-14T01:02:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "smuggling",
+        "pharmaceuticals",
+        "hong-kong-zhuhai-macao-bridge"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-customs-hzmb-pharma-seizure.json",
+      "en": {
+        "headline": "Customs seize about 320000 suspected pharmaceutical products at bridge port",
+        "dek": "An outbound goods vehicle at the Hong Kong-Zhuhai-Macao Bridge Hong Kong Port was found carrying roughly 320,000 suspected pharmaceutical products valued at about HK$18 million; the Mainland driver faces a court…"
+      },
+      "zh": {
+        "headline": "海關港珠澳大橋口岸檢獲約32萬件懷疑藥劑製品 市值約1800萬元",
+        "dek": "人員根據風險評估截查一輛出境貨車，在貨斗發現約32萬件懷疑藥劑製品，估計市值約1800萬元；39歲內地男司機被控企圖輸出未列艙單貨物，明日提堂。"
+      }
+    },
+    {
+      "id": "2026-10-14-mpox-case-hutong-closure",
+      "published_at": "2026-10-14T01:02:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "mpox",
+        "chp",
+        "mong-kok",
+        "public-health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-mpox-case-hutong-closure.json",
+      "en": {
+        "headline": "Centre for Health Protection investigates new mpox case, suggests temporary venue closure",
+        "dek": "A 39-year-old man who developed a rash and tested positive for mpox is in stable condition in isolation; the centre recommended temporary closure of a Mong Kok premises he visited during the incubation period."
+      },
+      "zh": {
+        "headline": "衞生防護中心調查新增猴痘個案 建議旺角處所暫時關閉",
+        "dek": "一名39歲男子出現紅疹並確診猴痘，情況穩定正接受隔離治療；中心建議他潛伏期曾多次到訪的旺角處所即日起暫時關閉。"
+      }
+    },
     {
       "id": "2026-10-13-customs-shenzhen-bay-tobacco",
       "published_at": "2026-10-13T19:05:00+08:00",
@@ -1618,161 +1684,6 @@
       "zh": {
         "headline": "貝澳Treasure Island海灣週日今首辦 慶祝30週年",
         "dek": "免費活動由中午12時至下午6時於貝澳營地舉行，設現場音樂、本地手作及社區活動，歡迎一家大小及寵物狗參與。"
-      }
-    },
-    {
-      "id": "2026-10-11-anita-mui-ashes-missing",
-      "published_at": "2026-10-11T01:02:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "anita-mui",
-        "lantau",
-        "po-lin",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-11/2026-10-11-anita-mui-ashes-missing.json",
-      "en": {
-        "headline": "Anita Mui fan club says ashes urn missing from Po Lin Monastery since July",
-        "dek": "On the late singer’s 63rd birthday the International Fan Club issued a statement that a fan found the niche empty on 18 July; police have been investigating for nearly three months."
-      },
-      "zh": {
-        "headline": "梅艷芳歌迷會指骨灰甕7月起在寶蓮禪寺失蹤",
-        "dek": "周六為已故天后63歲冥壽，國際歌迷會發聲明稱7月18日歌迷發現海會塔靈位螺絲鬆脫、骨灰甕不翼而飛，報警近三個月仍未尋回。"
-      }
-    },
-    {
-      "id": "2026-10-11-lifestyle-cyclothon-carnival",
-      "published_at": "2026-10-11T01:02:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "lifestyle",
-        "cyclothon",
-        "west-kowloon",
-        "sports",
-        "carnival"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-11/2026-10-11-lifestyle-cyclothon-carnival.json",
-      "en": {
-        "headline": "Cyclothon Carnival runs today at West Kowloon Art Park",
-        "dek": "The free event at the Great Lawn accompanies the Hong Kong Cyclothon rides and races, with sports activities, food stalls and live performances from 6.30am to 6pm."
-      },
-      "zh": {
-        "headline": "單車節嘉年華今於西九藝術公園草地舉行",
-        "dek": "活動由早上6時30分至下午6時免費入場，設運動市集、美食檔及互動體驗，配合香港單車節賽事。"
-      }
-    },
-    {
-      "id": "2026-10-11-tsing-sha-mercedes-fire",
-      "published_at": "2026-10-11T01:02:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "fire",
-        "tsing-sha-highway",
-        "traffic",
-        "fire-services"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-11/2026-10-11-tsing-sha-mercedes-fire.json",
-      "en": {
-        "headline": "Mercedes catches fire on Tsing Sha Highway; driver and passenger escape unhurt",
-        "dek": "A 1995 Mercedes S320 erupted in flames near Container Terminal 8 on Saturday night; firefighters raised the incident to a No. 2 alarm before extinguishing the blaze."
-      },
-      "zh": {
-        "headline": "青沙公路平治起火 司機乘客棄車逃生無人傷",
-        "dek": "周六晚上約10時40分，一輊1995年平治S320在昂船洲大橋近八號貨櫃碼頭車頭冒煙起火，消防列作二級火警後將火救熄。"
-      }
-    },
-    {
-      "id": "2026-10-11-youth-arrests-rise",
-      "published_at": "2026-10-11T01:02:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "youth",
-        "crime",
-        "prevention"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-11/2026-10-11-youth-arrests-rise.json",
-      "en": {
-        "headline": "Youth arrests rise 23 per cent in first eight months, police chief says",
-        "dek": "Commissioner Joe Chow disclosed the figure while officiating a civic education ceremony, linking most cases to impulsive assaults, fraud involving bank accounts, and damage tied to debt collection."
-      },
-      "zh": {
-        "headline": "首八月逾2100名青少年被捕按年升23% 周一鳴：加強防罪宣傳",
-        "dek": "警務處處長周一鳴在學界公民教育專員畢業禮上披露數據，指主要涉及傷人毆打、詐騙洗黑錢及與非法收債有關的刑事毀壞。"
-      }
-    },
-    {
-      "id": "2026-10-10-mark-six-no-jackpot",
-      "published_at": "2026-10-10T23:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "marksix",
-        "lottery",
-        "jockey-club"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-10/2026-10-10-mark-six-no-jackpot.json",
-      "en": {
-        "headline": "Mark Six jackpot goes unclaimed in Saturday draw",
-        "dek": "The Hong Kong Jockey Club draw returned numbers 12, 14, 20, 33, 34 and 37 with special number 31, leaving the first prize unwon and the next fund estimated at HK$28 million."
-      },
-      "zh": {
-        "headline": "周六六合彩頭獎無人中 下期基金估2800萬",
-        "dek": "香港賽馬會周六攪珠，中獎號碼為12、14、20、33、34、37，特別號碼31，頭獎無人中，下期估計頭獎基金達2800萬港元。"
-      }
-    },
-    {
-      "id": "2026-10-10-tai-po-fire-civil-service-discipline",
-      "published_at": "2026-10-10T21:05:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "tai-po-fire",
-        "civil-service",
-        "accountability",
-        "wang-fuk-court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-10/2026-10-10-tai-po-fire-civil-service-discipline.json",
-      "en": {
-        "headline": "Civil service chief will not rule out discipline if Tai Po fire report names officials",
-        "dek": "Secretary Ingrid Yeung said a support unit is being prepared for the Public Service Commission, and direct disciplinary action remains possible if the independent panel identifies individual failings."
-      },
-      "zh": {
-        "headline": "公務員事務局長：宏福苑報告若點名不排除直接紀律處分",
-        "dek": "楊何蓓茵表示已準備支援小組協助公務員敍用委員會，若獨立委員會報告清晰指出個別公務員失職，不排除直接啟動紀律程序。"
-      }
-    },
-    {
-      "id": "2026-10-10-vietnamese-loan-shark-syndicate",
-      "published_at": "2026-10-10T21:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "loan-sharking",
-        "sham-shui-po",
-        "vietnamese",
-        "organised-crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-10/2026-10-10-vietnamese-loan-shark-syndicate.json",
-      "en": {
-        "headline": "Police arrest 127 in operation against Vietnamese-led loan-sharking syndicate",
-        "dek": "Officers seized more than HK$2 million after a six-month undercover probe into a group that charged daily interest of HK$100 per HK$10,000 and ran illegal gambling and bars in West Kowloon."
-      },
-      "zh": {
-        "headline": "警破深水埗越南裔高利貸集團 拘127人年利率達3700厘",
-        "dek": "有組織罪案科經半年臥底調查後，於8日至9日行動拘捕127人，檢獲逾200萬元得益，集團以同鄉會掩飾向同鄉放貴利並經營非法賭檔及酒吧。"
       }
     }
   ]
