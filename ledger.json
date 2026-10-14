@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T19:07:25+08:00",
+  "updated_at": "2026-10-14T19:20:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -7,6 +7,12 @@
       "id": "2026-10-13-edb-sen-grade-retention-guide",
       "first_seen": "2026-10-13T15:05:00+08:00",
       "headline_en": "Education Bureau updates guide to discourage grade retention for SEN students"
+    },
+    {
+      "key": "sham-shui-po-transnational-prostitution-syndicate-oct13",
+      "id": "2026-10-13-sham-shui-po-prostitution-syndicate",
+      "first_seen": "2026-10-13T15:05:00+08:00",
+      "headline_en": "Police arrest 20 in crackdown on transnational prostitution syndicate"
     }
   ]
 }
