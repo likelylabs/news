@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T21:07:28+08:00",
+  "updated_at": "2026-10-14T23:25:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -25,6 +25,24 @@
       "id": "2026-10-14-ta-teh-institute-exhibition-opens",
       "first_seen": "2026-10-14T21:05:00+08:00",
       "headline_en": "Ta Teh Institute exhibition opens at Hong Kong Museum of History"
+    },
+    {
+      "key": "election-committee-nominations-oct14",
+      "id": "2026-10-14-election-committee-nominations-oct14",
+      "first_seen": "2026-10-14T23:25:00+08:00",
+      "headline_en": "Election Committee receives 28 more nomination forms on day seven"
+    },
+    {
+      "key": "customs-time-shield-counterfeit-oct14",
+      "id": "2026-10-14-customs-time-shield-counterfeit",
+      "first_seen": "2026-10-14T23:25:00+08:00",
+      "headline_en": "Customs seizes over 7000 suspected counterfeit items worth HK$7.6 million"
+    },
+    {
+      "key": "cfs-bacillus-cereus-kwun-tong-bun-oct14",
+      "id": "2026-10-14-cfs-bacillus-cereus-kwun-tong-bun",
+      "first_seen": "2026-10-14T23:25:00+08:00",
+      "headline_en": "Kwun Tong food factory sample of meat and vegetable bun fails Bacillus cereus test"
     }
   ]
 }
