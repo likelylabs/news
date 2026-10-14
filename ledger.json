@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T23:24:06+08:00",
+  "updated_at": "2026-10-15T01:05:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -43,6 +43,30 @@
       "id": "2026-10-14-cfs-bacillus-cereus-kwun-tong-bun",
       "first_seen": "2026-10-14T23:25:00+08:00",
       "headline_en": "Kwun Tong food factory sample of meat and vegetable bun fails Bacillus cereus test"
+    },
+    {
+      "key": "guangdong-yachts-southbound-applications-open",
+      "id": "2026-10-15-guangdong-yachts-southbound-applications",
+      "first_seen": "2026-10-15T01:05:00+08:00",
+      "headline_en": "Marine Department opens applications for Guangdong yachts heading south"
+    },
+    {
+      "key": "customs-duty-not-paid-cigarettes-oct14",
+      "id": "2026-10-15-customs-cigarette-retail-crackdown",
+      "first_seen": "2026-10-15T01:05:00+08:00",
+      "headline_en": "Customs seizes 120000 suspected duty-not-paid cigarettes in retail crackdown"
+    },
+    {
+      "key": "fire-services-joint-inspection-five-violations",
+      "id": "2026-10-15-fire-services-joint-inspection-violations",
+      "first_seen": "2026-10-15T01:05:00+08:00",
+      "headline_en": "Fire Services joint inspection finds five fire-hazard violations"
+    },
+    {
+      "key": "lifestyle-lan-kwai-fong-halloween-2026",
+      "id": "2026-10-15-lifestyle-lan-kwai-fong-halloween",
+      "first_seen": "2026-10-15T01:05:00+08:00",
+      "headline_en": "Lan Kwai Fong launches three-Saturday Halloween monster parade nights"
     }
   ]
 }
