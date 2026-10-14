@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-10-14T11:39:22+08:00",
+  "generated_at": "2026-10-14T13:16:20+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-10-14-hong-chi-assistant-rape-sentence",
+      "published_at": "2026-10-14T13:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "hong-chi",
+        "crime",
+        "tai-po"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-hong-chi-assistant-rape-sentence.json",
+      "en": {
+        "headline": "Former Hong Chi assistant house parent sentenced to 13 years for raping disabled resident",
+        "dek": "The High Court judge described the defendant’s conduct as extremely despicable and noted the absence of any remorse when imposing the term."
+      },
+      "zh": {
+        "headline": "匡智會前助理舍監五度強姦智障女院友 判囚13年",
+        "dek": "高等法院法官游德康指被告行為極可鄙、令人厭惡，並無悔意，判處監禁13年。"
+      }
+    },
+    {
+      "id": "2026-10-14-lifestyle-happy-valley-oktoberfest",
+      "published_at": "2026-10-14T13:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "happy-valley",
+        "oktoberfest",
+        "racing",
+        "food"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-lifestyle-happy-valley-oktoberfest.json",
+      "en": {
+        "headline": "Happy Valley Racecourse hosts Oktoberfest and Beerfest evenings this month",
+        "dek": "The Hong Kong Jockey Club’s Happy Wednesday series continues tonight with live performances, Bavarian-style food and racing at the racecourse."
+      },
+      "zh": {
+        "headline": "跑馬地馬場本月三個周三舉辦Oktoberfest及Beerfest",
+        "dek": "香港賽馬會Happy Wednesday系列今晚繼續，設有現場表演、巴伐利亞風格飲食及賽馬活動。"
+      }
+    },
+    {
+      "id": "2026-10-14-mtr-lam-tin-govt-report-demand",
+      "published_at": "2026-10-14T13:25:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "lam-tin",
+        "kwun-tong-line",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-mtr-lam-tin-govt-report-demand.json",
+      "en": {
+        "headline": "Government requires MTR to submit Lam Tin investigation report within one month",
+        "dek": "Transport Secretary Mable Chan said the government is very concerned about the two incidents at Lam Tin station within 15 hours and has asked the MTR Corporation for a full review and report."
+      },
+      "zh": {
+        "headline": "政府要求港鐵一個月內就藍田站事故提交調查報告",
+        "dek": "運輸及物流局局長陳美寶表示，政府非常關注藍田站不足15小時內兩度發生事故，已要求港鐵深入全面調查並於一個月內提交報告。"
+      }
+    },
+    {
+      "id": "2026-10-14-san-tin-technopole-10bn-injection",
+      "published_at": "2026-10-14T13:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "northern-metropolis",
+        "san-tin",
+        "technology",
+        "innovation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-san-tin-technopole-10bn-injection.json",
+      "en": {
+        "headline": "Government proposes HK$10 billion capital injection for San Tin Technopole Company",
+        "dek": "The Innovation and Technology Bureau has submitted a paper to the Legislative Council outlining how the initial funding will be used to accelerate land formation and develop innovation sites."
+      },
+      "zh": {
+        "headline": "政府建議向新田科技城公司注資100億元作為起始資金",
+        "dek": "創新科技及工業局向立法會提交文件，建議從資本投資基金撥出100億元予新田科技城公司，當中60億元發展創科用地、30億元加快土地平整。"
+      }
+    },
     {
       "id": "2026-10-14-customs-counterfeit-watches",
       "published_at": "2026-10-14T11:45:00+08:00",
@@ -1694,72 +1783,6 @@
       "zh": {
         "headline": "天文台料本周工作日大致天晴乾燥",
         "dek": "高空反氣旋影響下，周一至周五普遍天晴，日間氣溫約30至32度，周中後期或有一兩陣微雨。"
-      }
-    },
-    {
-      "id": "2026-10-11-airport-cannabis-seizure",
-      "published_at": "2026-10-11T13:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "airport",
-        "drugs",
-        "cannabis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-11/2026-10-11-airport-cannabis-seizure.json",
-      "en": {
-        "headline": "Customs seizes 5kg suspected cannabis at airport, arrests two",
-        "dek": "Two mainland men arriving from Manila were arrested after officers found the drugs in a checked suitcase; they face trafficking charges in court tomorrow."
-      },
-      "zh": {
-        "headline": "海關機場檢約5公斤懷疑大麻花 兩名內地男被捕",
-        "dek": "兩名由馬尼拉抵港的內地男子被控販運危險藥物，案件明於西九龍裁判法院提堂。"
-      }
-    },
-    {
-      "id": "2026-10-11-chan-apec-priorities",
-      "published_at": "2026-10-11T13:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "apec",
-        "finance",
-        "paul-chan",
-        "financial-centre"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-11/2026-10-11-chan-apec-priorities.json",
-      "en": {
-        "headline": "Chan outlines four priorities for Apec finance ministers meeting",
-        "dek": "The Financial Secretary said the Hong Kong gathering will focus on livelihood-supporting fiscal policies, digital infrastructure, inclusive finance and young talent."
-      },
-      "zh": {
-        "headline": "陳茂波：APEC財長會聚焦民生財政、數字基建等四優先領域",
-        "dek": "財政司司長指這四項屬香港優勢，首次在港舉行反映國家支持及本港國際金融中心地位。"
-      }
-    },
-    {
-      "id": "2026-10-11-fs-nanjing-visit",
-      "published_at": "2026-10-11T13:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "financial-secretary",
-        "nanjing",
-        "jiangsu",
-        "delegation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-11/2026-10-11-fs-nanjing-visit.json",
-      "en": {
-        "headline": "Financial Secretary leads delegation to Nanjing starting Monday",
-        "dek": "Paul Chan will attend a Jiangsu-Hong Kong promotion conference and visit technology firms and Nanjing University during the two-day trip."
-      },
-      "zh": {
-        "headline": "財政司司長周一率團赴南京 推廣港作內地企業出海平台",
-        "dek": "陳茂波將出席蘇港推介大會，並到訪創科企業及南京大學，期間副司長黃偉綸署任。"
       }
     }
   ]
