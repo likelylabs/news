@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-14T19:08:00+08:00",
+  "generated_at": "2026-10-14T21:07:28+08:00",
   "live_window_hours": 72,
   "count": 83,
   "articles": [
+    {
+      "id": "2026-10-14-ta-teh-institute-exhibition-opens",
+      "published_at": "2026-10-14T21:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "exhibition",
+        "museum-of-history",
+        "ta-teh-institute",
+        "lcsd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-ta-teh-institute-exhibition-opens.json",
+      "en": {
+        "headline": "Ta Teh Institute exhibition opens at Hong Kong Museum of History",
+        "dek": "The free show on the short-lived Tuen Mun liberal arts college runs until 15 February and includes artefacts displayed in the city for the first time."
+      },
+      "zh": {
+        "headline": "達德學院展覽在香港歷史博物館開幕",
+        "dek": "免費展覽介紹1946至1949年屯門文科大學的歷史，展期至明年2月15日，部分展品首次在港展出。"
+      }
+    },
+    {
+      "id": "2026-10-14-unattended-dogs-euthanasia-stats",
+      "published_at": "2026-10-14T21:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "dogs",
+        "afcd",
+        "animal-welfare",
+        "legislative-council"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-unattended-dogs-euthanasia-stats.json",
+      "en": {
+        "headline": "Nearly one in three unattended dogs captured this year euthanised",
+        "dek": "The Environment and Ecology Bureau told lawmakers the proportion has risen from 18 per cent in 2021, with 617 dogs euthanised between 2021 and May."
+      },
+      "zh": {
+        "headline": "今年捕獲的流浪狗近三分之一被人道毀滅",
+        "dek": "環境及生態局回覆立法會，比例由2021年的18%大幅上升，2021年至5月共有617隻狗被人道毀滅。"
+      }
+    },
     {
       "id": "2026-10-14-central-kowloon-bypass-dec6-opening",
       "published_at": "2026-10-14T19:20:00+08:00",
@@ -1795,51 +1839,6 @@
       "zh": {
         "headline": "單車總會就領航車誤判致歉 32公里組錯失汀九橋",
         "dek": "中國香港單車總會表示，因早前意外需移動雪糕筒開通緊急通道，32公里組領航車誤判路線，未轉入汀九橋並造成短暫堵塞。"
-      }
-    },
-    {
-      "id": "2026-10-11-tung-chung-hiking-rescue",
-      "published_at": "2026-10-11T21:03:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "hiking",
-        "tung-chung",
-        "gfs",
-        "rescue",
-        "lantau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-11/2026-10-11-tung-chung-hiking-rescue.json",
-      "en": {
-        "headline": "Man airlifted after feeling unwell and falling on Tung Chung hike",
-        "dek": "A 40-year-old man in a group of six was hoisted by Government Flying Service helicopter from near Pak To Shan after feeling unwell and slipping, then taken to Ruttonjee Hospital."
-      },
-      "zh": {
-        "headline": "東涌外籍男子行山不適跌傷 直升機吊起送院",
-        "dek": "下午約2時，東涌壁刀屹附近一名約40歲男子懷疑中暑不適並跌倒受傷，政府飛行服務隊直升機將事主吊起送律敦治醫院治療。"
-      }
-    },
-    {
-      "id": "2026-10-11-yau-tong-water-pipe-burst",
-      "published_at": "2026-10-11T21:03:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "yau-tong",
-        "water-pipe",
-        "water-services",
-        "ko-chiu-road"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-11/2026-10-11-yau-tong-water-pipe-burst.json",
-      "en": {
-        "headline": "Saltwater pipe bursts on Yau Tong Ko Chiu Road, spraying water three metres high",
-        "dek": "A saltwater pipe ruptured near the community hall around 6pm, sending a fountain of water and debris onto the pavement and disrupting traffic until staff closed the valve."
-      },
-      "zh": {
-        "headline": "油塘高超道煙水管爆裂 水柱高達三米",
-        "dek": "晚上約6時油塘高超道社區會堂對出煙水管爆裂，水花四溅高達三米，路面滿佈沙石，水務署人員到場關斷水擁槍修。"
       }
     }
   ]
