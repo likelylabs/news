@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T03:15:39+08:00",
+  "updated_at": "2026-10-15T07:05:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -91,6 +91,30 @@
       "id": "2026-10-15-lifestyle-westk-lego-heroween",
       "first_seen": "2026-10-15T03:15:00+08:00",
       "headline_en": "WestK Art Park opens LEGO Hero-ween event for children"
+    },
+    {
+      "key": "tai-po-chow-sang-sang-necklace-theft",
+      "id": "2026-10-15-tai-po-necklace-theft",
+      "first_seen": "2026-10-15T07:05:00+08:00",
+      "headline_en": "Police hunt man who snatched gold necklace from Tai Po jewellery store"
+    },
+    {
+      "key": "kai-tak-helper-charged-murder",
+      "id": "2026-10-15-kai-tak-helper-charged",
+      "first_seen": "2026-10-15T07:05:00+08:00",
+      "headline_en": "Indonesian domestic helper charged with murder of 93-year-old employer"
+    },
+    {
+      "key": "fehd-operation-skynet-markets-phase2",
+      "id": "2026-10-15-fehd-skynet-markets",
+      "first_seen": "2026-10-15T07:05:00+08:00",
+      "headline_en": "FEHD launches second phase of Operation Skynet targeting public markets"
+    },
+    {
+      "key": "customs-lowu-shark-fins-seizure",
+      "id": "2026-10-15-customs-shark-fins",
+      "first_seen": "2026-10-15T07:05:00+08:00",
+      "headline_en": "Customs seizes 18kg of suspected scheduled dried shark fins at Lo Wu"
     }
   ]
 }
