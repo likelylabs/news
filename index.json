@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T07:04:33+08:00",
+  "generated_at": "2026-10-15T07:20:10+08:00",
   "live_window_hours": 72,
-  "count": 94,
+  "count": 90,
   "articles": [
     {
       "id": "2026-10-15-customs-shark-fins",
@@ -1991,94 +1991,6 @@
       "zh": {
         "headline": "新田公路近錦繡花園小巴與貨車相撞 多人受傷",
         "dek": "周一上午約9時24分，元朗新田公路近錦繡花園一輛專線小巴與貨車相撞，大部分傷者輕傷，部分行車線封閉。"
-      }
-    },
-    {
-      "id": "2026-10-12-huanggang-port-opens",
-      "published_at": "2026-10-12T07:05:00+08:00",
-      "updated_at": "2026-10-12T07:08:00+08:00",
-      "category": "transport",
-      "tags": [
-        "huanggang-port",
-        "boundary",
-        "shenzhen",
-        "clearance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-huanggang-port-opens.json",
-      "en": {
-        "headline": "Redeveloped Huanggang Port opens at 6.30am with joint clearance",
-        "dek": "The new port began 24-hour operations this morning, with the first passengers using collaborative inspection that aims to cut clearance to about five minutes."
-      },
-      "zh": {
-        "headline": "新皇崗口岸今早6時半開通 首批旅客以合作查驗過關",
-        "dek": "重建後皇崗口岸周一清晨6時半正式開通，提供24小時通關，首批旅客使用合作查驗一次放行模式。"
-      }
-    },
-    {
-      "id": "2026-10-12-mong-kok-nail-salon-brawl",
-      "published_at": "2026-10-12T07:05:00+08:00",
-      "updated_at": "2026-10-12T07:08:00+08:00",
-      "category": "crime",
-      "tags": [
-        "police",
-        "mong-kok",
-        "arrest",
-        "nail-salon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-mong-kok-nail-salon-brawl.json",
-      "en": {
-        "headline": "Three women arrested after brawl at Mong Kok nail salon",
-        "dek": "Police held three women on suspicion of fighting in a public place after a confrontation at Argyle Centre; one jewellery shop worker was injured."
-      },
-      "zh": {
-        "headline": "旺角中心美甲店打鬥 警拘3名女子",
-        "dek": "周日傍晚旺角中心一間美甲店發生打鬥，警方以涉嫌在公眾地方打鬥拘捕3名女子，其中一人受傷送院。"
-      }
-    },
-    {
-      "id": "2026-10-12-shau-kei-wan-tram-derailment",
-      "published_at": "2026-10-12T07:05:00+08:00",
-      "updated_at": "2026-10-12T07:07:00+08:00",
-      "category": "transport",
-      "tags": [
-        "tram",
-        "shau-kei-wan",
-        "derailment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-shau-kei-wan-tram-derailment.json",
-      "en": {
-        "headline": "Tram derails on Shau Kei Wan East Street and mounts pavement",
-        "dek": "A tram left the tracks early Monday near ground-floor shops, with nearly half the carriage scraping onto the walkway; police are investigating the cause."
-      },
-      "zh": {
-        "headline": "筲箕灣東大街電車出軌 近半車箱鏟上行人路",
-        "dek": "周一凌晨筲箕灣東大街一輛電車離開路軌，近半車箱鏟上行人路並接近地舖，警方正調查成因。"
-      }
-    },
-    {
-      "id": "2026-10-12-wine-dine-tickets-public-sale",
-      "published_at": "2026-10-12T07:05:00+08:00",
-      "updated_at": "2026-10-12T07:08:00+08:00",
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "food",
-        "wine-dine",
-        "festival",
-        "central"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-wine-dine-tickets-public-sale.json",
-      "en": {
-        "headline": "Hong Kong Wine & Dine Festival tickets go on public sale today",
-        "dek": "The Tourism Board's four-day waterfront event runs from 29 October to 1 November at the Central Harbourfront, with public booking of tasting passes starting this morning."
-      },
-      "zh": {
-        "headline": "香港美酒佳餚巡禮門票今日公開發售",
-        "dek": "旅發局主辦的四天海濱美食盛事將於10月29日至11月1日在中環海濱舉行，品味證今日起公開發售。"
       }
     }
   ]
