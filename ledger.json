@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T19:08:00+08:00",
+  "updated_at": "2026-10-14T21:05:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -13,6 +13,18 @@
       "id": "2026-10-13-sham-shui-po-prostitution-syndicate",
       "first_seen": "2026-10-13T15:05:00+08:00",
       "headline_en": "Police arrest 20 in crackdown on transnational prostitution syndicate"
+    },
+    {
+      "key": "unattended-dogs-euthanasia-proportion-oct14",
+      "id": "2026-10-14-unattended-dogs-euthanasia-stats",
+      "first_seen": "2026-10-14T21:05:00+08:00",
+      "headline_en": "Nearly one in three unattended dogs captured this year euthanised"
+    },
+    {
+      "key": "ta-teh-institute-exhibition-opens-oct14",
+      "id": "2026-10-14-ta-teh-institute-exhibition-opens",
+      "first_seen": "2026-10-14T21:05:00+08:00",
+      "headline_en": "Ta Teh Institute exhibition opens at Hong Kong Museum of History"
     }
   ]
 }
