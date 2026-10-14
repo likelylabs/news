@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-10-15T03:15:39+08:00",
+  "generated_at": "2026-10-15T07:04:33+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 94,
   "articles": [
+    {
+      "id": "2026-10-15-customs-shark-fins",
+      "published_at": "2026-10-15T07:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "endangered-species",
+        "shark-fins",
+        "lo-wu"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-customs-shark-fins.json",
+      "en": {
+        "headline": "Customs seizes 18kg of suspected scheduled dried shark fins at Lo Wu",
+        "dek": "Officers intercepted a 68-year-old mainland woman arriving on Monday and handed the batch, valued at about HK$45,000, to the AFCD for investigation."
+      },
+      "zh": {
+        "headline": "海關羅湖截查內地婦 檢18公斤懷疑瀕危乾魚翅",
+        "dek": "周一在入境大堂截獲一名68歲抵港內地女旅客行李內的乾魚翅，估計市值約4.5萬元，已交漁護署跟進。"
+      }
+    },
+    {
+      "id": "2026-10-15-fehd-skynet-markets",
+      "published_at": "2026-10-15T07:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fehd",
+        "food-safety",
+        "markets",
+        "hygiene"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-fehd-skynet-markets.json",
+      "en": {
+        "headline": "FEHD launches second phase of Operation Skynet targeting public markets",
+        "dek": "The two-week operation will inspect markets for pest and hygiene issues after the first phase focused on supermarkets and restaurants."
+      },
+      "zh": {
+        "headline": "食環署展開「天網行動」第二階段 巡查全港街市",
+        "dek": "為期兩周的行動針對街市害蟲及衞生問題，第一階段針對超市及食肆已結束並發出多項通知及檢控。"
+      }
+    },
+    {
+      "id": "2026-10-15-kai-tak-helper-charged",
+      "published_at": "2026-10-15T07:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "domestic-helper",
+        "kai-tak",
+        "court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-kai-tak-helper-charged.json",
+      "en": {
+        "headline": "Indonesian domestic helper charged with murder of 93-year-old employer",
+        "dek": "The 52-year-old was remanded after being charged at Kwun Tong Court, following the death of the elderly woman at Tak Long Estate last Sunday."
+      },
+      "zh": {
+        "headline": "印尼外傭被控謀殺93歲僱主 還押候訊",
+        "dek": "52歲女外傭周三在觀塘裁判法院被控謀殺，上日在啟德德朗邨單位被發現昏迷的93歲女僱主已證實不治。"
+      }
+    },
+    {
+      "id": "2026-10-15-tai-po-necklace-theft",
+      "published_at": "2026-10-15T07:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "theft",
+        "tai-po",
+        "jewellery"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-tai-po-necklace-theft.json",
+      "en": {
+        "headline": "Police hunt man who snatched gold necklace from Tai Po jewellery store",
+        "dek": "A man in his forties asked to try on a necklace worth nearly HK$80,000 at a Chow Sang Sang shop before fleeing on an airport-bound bus on Wednesday afternoon."
+      },
+      "zh": {
+        "headline": "警方通緝大埔珠寶店掠走金頸鏈男子",
+        "dek": "一名約四十歲男子周三下午在廣福道周生生店舖要求試戴近八萬元金頸鏈後掠走，並登上往機場巴士逃走。"
+      }
+    },
     {
       "id": "2026-10-15-bus-fare-applications",
       "published_at": "2026-10-15T03:15:00+08:00",
