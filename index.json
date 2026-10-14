@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-10-14T23:24:06+08:00",
+  "generated_at": "2026-10-15T01:05:29+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-10-15-customs-cigarette-retail-crackdown",
+      "published_at": "2026-10-15T01:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "cigarettes",
+        "duty-not-paid",
+        "enforcement"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-customs-cigarette-retail-crackdown.json",
+      "en": {
+        "headline": "Customs seizes 120000 suspected duty-not-paid cigarettes in retail crackdown",
+        "dek": "Officers posing as customers targeted ten newsstands, grocery stores and convenience shops across the territory and arrested ten people."
+      },
+      "zh": {
+        "headline": "海關放蛇檢約12萬支懷疑未完稅香煙 拘10人",
+        "dek": "海關喬裝顧客突擊全港10個報檔、士多及雜貨店，檢獲市值約54萬元香煙，拖捕3男7女。"
+      }
+    },
+    {
+      "id": "2026-10-15-fire-services-joint-inspection-violations",
+      "published_at": "2026-10-15T01:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire-services",
+        "building-safety",
+        "inspection",
+        "labour"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-fire-services-joint-inspection-violations.json",
+      "en": {
+        "headline": "Fire Services joint inspection finds five fire-hazard violations",
+        "dek": "The department, working with Buildings Department and Labour Department, checked building structures, fire safety and worksite procedures and will follow up on blocked escape routes."
+      },
+      "zh": {
+        "headline": "消防處聯同屋宇署勞工處巡查發現5項火警危險違規",
+        "dek": "跨部門聯合巡查針對大廈公用地方結構、消防安全及前線施工，發現雜物阻塞逃生途徑等問題，將跟進執法。"
+      }
+    },
+    {
+      "id": "2026-10-15-guangdong-yachts-southbound-applications",
+      "published_at": "2026-10-15T01:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "maritime",
+        "yachts",
+        "guangdong",
+        "cross-border"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-guangdong-yachts-southbound-applications.json",
+      "en": {
+        "headline": "Marine Department opens applications for Guangdong yachts heading south",
+        "dek": "Owners or captains of Guangdong-registered yachts can now apply up to 30 days before arrival, with the first southbound trips set for Friday."
+      },
+      "zh": {
+        "headline": "海事處即日起接受「粵艇南下」申請 最早可提前30日辦手續",
+        "dek": "廣東籍遊艇船東或船長可於到港前30日辦理跨境手續，首航定於星期五。"
+      }
+    },
+    {
+      "id": "2026-10-15-lifestyle-lan-kwai-fong-halloween",
+      "published_at": "2026-10-15T01:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "lan-kwai-fong",
+        "halloween",
+        "events",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-lifestyle-lan-kwai-fong-halloween.json",
+      "en": {
+        "headline": "Lan Kwai Fong launches three-Saturday Halloween monster parade nights",
+        "dek": "The association expects visitor numbers to rise 10 to 20 per cent from last year’s 80,000 as themed decorations, face painting and DJ sets begin this Saturday."
+      },
+      "zh": {
+        "headline": "蘭桂坊周六起一連三個周六辦萬聖節怪物巡禮夜",
+        "dek": "協會料人流按年增一至兩成，去年約8萬人次，本周六起有變裝派對、面部彩繪及DJ表演。"
+      }
+    },
     {
       "id": "2026-10-14-cfs-bacillus-cereus-kwun-tong-bun",
       "published_at": "2026-10-14T23:25:00+08:00",
@@ -1836,29 +1925,6 @@
       "zh": {
         "headline": "皇巴近30年服務今早結束 新皇崗口岸啟用",
         "dek": "往舊口岸北行尾班皇巴於今早6時15分至6時20分由新田開出，此後接駁服務將告終，改由新口岸一地兩檢安排取代。"
-      }
-    },
-    {
-      "id": "2026-10-12-hkpax-monday-performances",
-      "published_at": "2026-10-12T01:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "hkpax",
-        "performing-arts",
-        "east-kowloon-cultural-centre",
-        "tai-kwun"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-hkpax-monday-performances.json",
-      "en": {
-        "headline": "Hong Kong Performing Arts Expo continues with Monday showcases",
-        "dek": "The second edition of HKPAX runs through 13 October with international and local performances, including dance and drama pieces today at East Kowloon Cultural Centre, Tai Kwun and Fringe Club."
-      },
-      "zh": {
-        "headline": "香港演藝博覽周一繼續 多場國際及本地演出",
-        "dek": "第二屆香港演藝博覽延續至10月13日，周一有舞蹈及戲劇節目於東九文化中心、大館及藝穗會上演。"
       }
     }
   ]
