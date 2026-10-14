@@ -1,8 +1,114 @@
 {
-  "generated_at": "2026-10-14T09:19:09+08:00",
+  "generated_at": "2026-10-14T11:38:51+08:00",
   "live_window_hours": 72,
-  "count": 77,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-10-14-customs-counterfeit-watches",
+      "published_at": "2026-10-14T11:45:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "counterfeit",
+        "watches"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-customs-counterfeit-watches.json",
+      "en": {
+        "headline": "Customs seize about 7000 counterfeit items in operation against fake watches",
+        "dek": "A 15-day special operation codenamed Time Shield targeted cross-border transshipment of counterfeit watches and netted goods worth about HK$7.6 million, with one person arrested."
+      },
+      "zh": {
+        "headline": "海關「時盾」行動檢獲約7000件冒牌貨 拘一人",
+        "dek": "海關上月28日至本月13日採取特別行動打擊跨境轉運冒牌手錶，檢獲約7000件懷疑冒牌及侵權貨物，估計市值約760萬元。"
+      }
+    },
+    {
+      "id": "2026-10-14-flu-vaccine-700k-doses",
+      "published_at": "2026-10-14T11:45:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "flu",
+        "vaccine",
+        "health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-flu-vaccine-700k-doses.json",
+      "en": {
+        "headline": "Seasonal flu programme reaches 700000 doses as Lo urges higher uptake",
+        "dek": "Secretary for Health Lo Chung-mau said the current seasonal influenza vaccination programme has administered about 700,000 doses in less than a month and expressed hope the rate would exceed last year's figure."
+      },
+      "zh": {
+        "headline": "流感疫苗計劃至今接種70萬劑 盧寵茂冀接種率超去年",
+        "dek": "醫務衞生局局長盧寵茂表示，本年度流感疫苗接種計劃自上月17日開始至今未滿一個月已接種約70萬劑，希望整體接種率可超越去年約203萬劑。"
+      }
+    },
+    {
+      "id": "2026-10-14-lifestyle-anderson-ledda-plaza",
+      "published_at": "2026-10-14T11:45:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "anderson",
+        "kwun-tong",
+        "mall"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-lifestyle-anderson-ledda-plaza.json",
+      "en": {
+        "headline": "Link's first self-built mall opens in Anderson with rooftop play park",
+        "dek": "Ledda Plaza, a three-storey mall of nearly 140,000 square feet in the Anderson development area, began operations on 13 October with a 25,000-square-foot animal-themed rooftop playground."
+      },
+      "zh": {
+        "headline": "領展安達臣領達廣場開幕 設2.5萬呎天台樂園",
+        "dek": "領展旗下安達臣新發展區全新商場領達廣場於10月13日正式開幕，樓高三層近14萬平方呎，頂層設有約2.5萬平方呎動物主題遊樂空間。"
+      }
+    },
+    {
+      "id": "2026-10-14-mtr-lam-tin-platform-smoke",
+      "published_at": "2026-10-14T11:45:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "kwun-tong-line",
+        "lam-tin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-mtr-lam-tin-platform-smoke.json",
+      "en": {
+        "headline": "MTR resumes Kwun Tong Line after platform equipment smoke at Lam Tin",
+        "dek": "Smoke from platform equipment at Lam Tin station this morning caused trains to skip the stop and the station to close temporarily; services have since returned to normal."
+      },
+      "zh": {
+        "headline": "藍田站月台設備冒煙已處理 觀塘綫服務逐步復常",
+        "dek": "周三早上藍田站月台有設備冒煙，觀塘綫列車一度不停該站，車站暫時關閉；港鐵指情況已處理好，服務陸續恢復正常。"
+      }
+    },
+    {
+      "id": "2026-10-14-sheung-wan-woman-sea-death",
+      "published_at": "2026-10-14T11:45:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sheung-wan",
+        "death",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-sheung-wan-woman-sea-death.json",
+      "en": {
+        "headline": "Woman dies after being found in the sea off Sheung Wan",
+        "dek": "Firefighters rescued a woman in her 50s or 60s from the water near the Rumsey Street car park early on Wednesday; she was unconscious and later died in hospital."
+      },
+      "zh": {
+        "headline": "上環女子墮海獲救不治 警方調查",
+        "dek": "周三凌晨約2時，上環林士街停車場對開海面有女子載浮載沉，消防救起後昏迷送院，最終不治。"
+      }
+    },
     {
       "id": "2026-10-14-hkumed-whs-regional-meeting-2027",
       "published_at": "2026-10-14T09:15:00+08:00",
@@ -1654,75 +1760,6 @@
       "zh": {
         "headline": "財政司司長周一率團赴南京 推廣港作內地企業出海平台",
         "dek": "陳茂波將出席蘇港推介大會，並到訪創科企業及南京大學，期間副司長黃偉綸署任。"
-      }
-    },
-    {
-      "id": "2026-10-11-bar-association-proxy-cap",
-      "published_at": "2026-10-11T11:10:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "bar-association",
-        "building-management",
-        "bid-rigging",
-        "proxy",
-        "owners"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-11/2026-10-11-bar-association-proxy-cap.json",
-      "en": {
-        "headline": "Bar Association proposes proxy cap and electronic voting for owners meetings",
-        "dek": "Chairman Jose-Antonio Maurellet said limiting the number of proxies a person can hold, without restricting who may hold them, would improve transparency and curb abuse in building procurement."
-      },
-      "zh": {
-        "headline": "大律師公會建議業主大會授權票設上限 反對限親屬",
-        "dek": "主席毛樂禮指設數量上限最可行快捷，限制只可授權予親屬或同屋苑業主難以執行，建議加強透明度及引入電子投票。"
-      }
-    },
-    {
-      "id": "2026-10-11-lcsd-lifeguard-contract",
-      "published_at": "2026-10-11T11:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lcsd",
-        "lifeguard",
-        "outsourcing",
-        "swimming-pools",
-        "union"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-11/2026-10-11-lcsd-lifeguard-contract.json",
-      "en": {
-        "headline": "LCSD awards HK$122.8 million lifeguard contract despite past shortfalls",
-        "dek": "The department gave a three-year outsourcing deal for six pools to Spotlight Enterprises, drawing union concerns over costs after earlier staffing failures."
-      },
-      "zh": {
-        "headline": "康文署批出1.228億元外判救生合約 工會質疑浪費",
-        "dek": "署方將六個泳池三年救生及急救服務外判予博藝體運，合約值逾1.2億元，工會指夏季才缺人手，冬季資源浪費。"
-      }
-    },
-    {
-      "id": "2026-10-11-lifestyle-discovery-bay-market",
-      "published_at": "2026-10-11T11:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "discovery-bay",
-        "market",
-        "handmade",
-        "weekend"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-11/2026-10-11-lifestyle-discovery-bay-market.json",
-      "en": {
-        "headline": "Discovery Bay Weekend Market continues today at DB Plaza until 6pm",
-        "dek": "Handmade Hong Kong’s two-day gathering of local makers runs from 11am Saturday to 6pm Sunday at Discovery Bay Plaza."
-      },
-      "zh": {
-        "headline": "愉景灣週末市集今續辦至下午6時 愉景廣場舉行",
-        "dek": "香港手工製作主辦的兩日市集由周六上午11時至周日下午6時於愉景廣場舉行，免費入場。"
       }
     }
   ]
