@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-10-14T17:13:02+08:00",
+  "generated_at": "2026-10-14T19:07:10+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-10-14-central-kowloon-bypass-dec6-opening",
+      "published_at": "2026-10-14T19:20:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "central-kowloon-bypass",
+        "transport",
+        "toll",
+        "route-6"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-central-kowloon-bypass-dec6-opening.json",
+      "en": {
+        "headline": "Central Kowloon Bypass to fully open on 6 December with $8 toll",
+        "dek": "The Kowloon Bay section will open on Sunday 6 December, completing the bypass and Route 6, with a uniform $8 toll for all vehicles from the same day."
+      },
+      "zh": {
+        "headline": "中九龍繞道12月6日全線通車 收費8元",
+        "dek": "九龍灣段將於12月6日通車，完成繞道及六號幹線，同日起所有車輛劃一收費8元。"
+      }
+    },
+    {
+      "id": "2026-10-14-hand-foot-mouth-outbreaks-rise",
+      "published_at": "2026-10-14T19:20:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "hand-foot-mouth",
+        "health",
+        "schools",
+        "chp"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-hand-foot-mouth-outbreaks-rise.json",
+      "en": {
+        "headline": "Nine hand-foot-mouth disease outbreaks recorded in first three days of week",
+        "dek": "The Centre for Health Protection said activity has risen sharply, with nine outbreaks involving 24 people since Sunday, mostly in kindergartens and primary schools, and has written to schools."
+      },
+      "zh": {
+        "headline": "本周首三日錄得9宗手足口病爆發 涉24人",
+        "dek": "衞生防護中心指活躍程度顯著上升，本周首三天已錄得九宗爆發個案涉24人，九成在幼兒中心、幼稚園或小學，已向學校發信。"
+      }
+    },
+    {
+      "id": "2026-10-14-iam-smart-ai-assistant-launch",
+      "published_at": "2026-10-14T19:20:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "iam-smart",
+        "ai",
+        "digital-policy",
+        "public-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-iam-smart-ai-assistant-launch.json",
+      "en": {
+        "headline": "iAM Smart launches AI assistant to answer public service queries",
+        "dek": "The Digital Policy Office said the new feature in the latest app version lets users ask questions and receive organised information drawn from official channels, with an enhanced version planned by year-end."
+      },
+      "zh": {
+        "headline": "智方便推出AI助手解答公共服務查詢",
+        "dek": "數字政策辦公室表示，最新版本應用程式加入AI助手，市民輸入問題即可從官方渠道取得整理後的資訊，年底將推出加強版。"
+      }
+    },
+    {
+      "id": "2026-10-14-mtr-chung-yeung-service-boost",
+      "published_at": "2026-10-14T19:20:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "chung-yeung",
+        "east-rail",
+        "high-speed-rail"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-mtr-chung-yeung-service-boost.json",
+      "en": {
+        "headline": "MTR boosts East Rail and high-speed rail services for Chung Yeung weekend",
+        "dek": "From Friday the operator will increase East Rail frequencies towards Lok Ma Chau and add extra short-haul high-speed trains, while K52A bus services to Tsang Tsui columbarium will also be strengthened."
+      },
+      "zh": {
+        "headline": "港鐵重陽節周末加強東鐵綫及高鐵短途服務",
+        "dek": "由本周五起一連四天加密東鐵綫往落馬洲班次，並加開高鐵短途班次，K52A巴士亦加強往曾咀靈灰安置所服務。"
+      }
+    },
+    {
+      "id": "2026-10-14-tai-po-jewellery-theft",
+      "published_at": "2026-10-14T19:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "tai-po",
+        "crime",
+        "theft",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-tai-po-jewellery-theft.json",
+      "en": {
+        "headline": "Man steals gold necklace from Tai Po jewellery store while posing as customer",
+        "dek": "Police are hunting a man in his forties who entered a Chow Sang Sang store on Kwong Fuk Road this afternoon, asked to try on a necklace worth tens of thousands of dollars, and fled with it."
+      },
+      "zh": {
+        "headline": "大埔廣福道金行男客試戴金鏈後偷走 警正追查",
+        "dek": "警方正追查一名約40歲男子，今日下午進入廣福道周生生金行伊裝顧客，試戴一條約值數萬元金鏈後奪門逃走。"
+      }
+    },
     {
       "id": "2026-10-14-hang-seng-close",
       "published_at": "2026-10-14T17:10:00+08:00",
@@ -1730,52 +1840,6 @@
       "zh": {
         "headline": "油塘高超道煙水管爆裂 水柱高達三米",
         "dek": "晚上約6時油塘高超道社區會堂對出煙水管爆裂，水花四溅高達三米，路面滿佈沙石，水務署人員到場關斷水擁槍修。"
-      }
-    },
-    {
-      "id": "2026-10-11-huanggang-port-opening-ceremony",
-      "published_at": "2026-10-11T19:04:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "huanggang-port",
-        "john-lee",
-        "shenzhen",
-        "boundary",
-        "gba"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-11/2026-10-11-huanggang-port-opening-ceremony.json",
-      "en": {
-        "headline": "Chief Executive officiates at Huanggang Port opening ceremony",
-        "dek": "John Lee said the redeveloped port is a landmark for Greater Bay Area connectivity as it prepares to open at 6.30am tomorrow with about five-minute clearance."
-      },
-      "zh": {
-        "headline": "行政長官出席皇崗口岸開通儀式",
-        "dek": "李家超稱重建後的口岸是大灣區連通的里程碑，將於明早6時半開通，通關時間約縮至5分鐘。"
-      }
-    },
-    {
-      "id": "2026-10-11-wu-kau-tang-hiking-death",
-      "published_at": "2026-10-11T19:04:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "hiking",
-        "tai-po",
-        "wu-kau-tang",
-        "gfs",
-        "rescue"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-11/2026-10-11-wu-kau-tang-hiking-death.json",
-      "en": {
-        "headline": "Man dies after collapsing on Wu Kau Tang hike",
-        "dek": "A Government Flying Service helicopter airlifted the hiker from Ha Miu Tin in Tai Po to Eastern Hospital, where he was pronounced dead despite resuscitation efforts."
-      },
-      "zh": {
-        "headline": "男子大埔烏蛊騰行山暈倒 送院搶救不治",
-        "dek": "政府飛行服務隊直升機將事主由烏蛊騰下苗田送往東區醫院，經急救後證實不治。"
       }
     }
   ]
