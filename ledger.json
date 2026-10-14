@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T01:05:29+08:00",
+  "updated_at": "2026-10-15T03:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -67,6 +67,30 @@
       "id": "2026-10-15-lifestyle-lan-kwai-fong-halloween",
       "first_seen": "2026-10-15T01:05:00+08:00",
       "headline_en": "Lan Kwai Fong launches three-Saturday Halloween monster parade nights"
+    },
+    {
+      "key": "bus-fare-applications-oct14",
+      "id": "2026-10-15-bus-fare-applications",
+      "first_seen": "2026-10-15T03:15:00+08:00",
+      "headline_en": "Four franchised bus operators apply for fare rises of up to 17.7 per cent"
+    },
+    {
+      "key": "iot-fire-alarm-scheme-expansion-oct14",
+      "id": "2026-10-15-iot-fire-alarm-expansion",
+      "first_seen": "2026-10-15T03:15:00+08:00",
+      "headline_en": "Fire Services expands IoT fire alarm scheme to another 6000 old buildings"
+    },
+    {
+      "key": "taxi-demerit-points-first-disqualifications",
+      "id": "2026-10-15-taxi-demerit-points-disqualifications",
+      "first_seen": "2026-10-15T03:15:00+08:00",
+      "headline_en": "Three taxi drivers disqualified under demerit points system"
+    },
+    {
+      "key": "lifestyle-westk-lego-heroween-2026",
+      "id": "2026-10-15-lifestyle-westk-lego-heroween",
+      "first_seen": "2026-10-15T03:15:00+08:00",
+      "headline_en": "WestK Art Park opens LEGO Hero-ween event for children"
     }
   ]
 }
