@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T09:16:39+08:00",
+  "updated_at": "2026-10-14T09:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -403,6 +403,24 @@
       "id": "2026-10-14-lifestyle-lkf-halloween",
       "first_seen": "2026-10-14T07:10:00+08:00",
       "headline_en": "Lan Kwai Fong launches Halloween Monster Mash events through end of October"
+    },
+    {
+      "key": "yau-ma-tei-gascoigne-road-works-collision-oct14",
+      "id": "2026-10-14-yau-ma-tei-road-works-collision",
+      "first_seen": "2026-10-14T09:15:00+08:00",
+      "headline_en": "Car collides with road works vehicle on Gascoigne Road in Yau Ma Tei"
+    },
+    {
+      "key": "hkumed-whs-regional-meeting-2027",
+      "id": "2026-10-14-hkumed-whs-regional-meeting-2027",
+      "first_seen": "2026-10-14T09:15:00+08:00",
+      "headline_en": "HKUMed to host first World Health Summit Regional Meeting in Hong Kong"
+    },
+    {
+      "key": "lifestyle-airside-kuromi-starlit-sweet-party",
+      "id": "2026-10-14-lifestyle-airside-kuromi-sweet-party",
+      "first_seen": "2026-10-14T09:15:00+08:00",
+      "headline_en": "Airside opens Kuromi Starlit Sweet Party with six-metre installation"
     }
   ]
 }
