@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-10-14T15:06:35+08:00",
+  "generated_at": "2026-10-14T17:13:02+08:00",
   "live_window_hours": 72,
   "count": 80,
   "articles": [
+    {
+      "id": "2026-10-14-hang-seng-close",
+      "published_at": "2026-10-14T17:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hang-seng",
+        "stock-market",
+        "business"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-hang-seng-close.json",
+      "en": {
+        "headline": "Hang Seng Index closes down 31 points at 24314",
+        "dek": "The benchmark ended Wednesday's session at 24,314.17, a fall of 0.13 per cent from the previous close, after trading between 24,115 and 24,524."
+      },
+      "zh": {
+        "headline": "恒生指數收市報24314點 跌31點",
+        "dek": "基準指數周三收報24314.17點，較前收市跌0.13%，全日高低位介乎24115至24524。"
+      }
+    },
+    {
+      "id": "2026-10-14-lifestyle-science-museum-food-exhibition",
+      "published_at": "2026-10-14T17:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "science-museum",
+        "food"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-lifestyle-science-museum-food-exhibition.json",
+      "en": {
+        "headline": "Science Museum hosts food science exhibition on cha chaan teng classics until late October",
+        "dek": "The '創味盤中餐' display explores the science behind pineapple buns, egg tarts and milk tea, alongside molecular gastronomy and future food trends, running until 28 October."
+      },
+      "zh": {
+        "headline": "科學館「創味盤中餐」展覽至10月底 探索茶餐廳美食科學",
+        "dek": "展覽拆解菠蘿包、蛋擔、奶茶背後原理，並介紹分子料理及未來飲食，展期至10月28日。"
+      }
+    },
+    {
+      "id": "2026-10-14-public-transport-nuisance-complaints",
+      "published_at": "2026-10-14T17:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "transport",
+        "complaints",
+        "public-transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-public-transport-nuisance-complaints.json",
+      "en": {
+        "headline": "Complaints of nuisance behaviour on public transport hit three-year high",
+        "dek": "The Transport Department and Environmental Protection Department recorded 66 complaints about noise and improper behaviour in 2025, more than double the 2023 figure."
+      },
+      "zh": {
+        "headline": "公共交通滋擾行為投訴三年新高",
+        "dek": "運輸署及環保署2025年接獲66宗噪音及不當行為投訴，較2023年多一倍以上。"
+      }
+    },
+    {
+      "id": "2026-10-14-taxi-offence-points-update",
+      "published_at": "2026-10-14T17:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "taxi",
+        "transport",
+        "legislative-council"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-14/2026-10-14-taxi-offence-points-update.json",
+      "en": {
+        "headline": "229 taxi drivers have incurred points under offence scheme, three disqualified",
+        "dek": "As of early October, refusal of hire accounted for 125 of the cases under the Taxi-Driver-Offence Points system that took effect in September 2024."
+      },
+      "zh": {
+        "headline": "的士司機違例記分制已有229人被記分 三人停牌",
+        "dek": "截至10月初，拒載佔記分個案125宗；制度於2024年9月生效。"
+      }
+    },
     {
       "id": "2026-10-14-bus-fare-hike-applications",
       "published_at": "2026-10-14T15:05:00+08:00",
@@ -1691,98 +1776,6 @@
       "zh": {
         "headline": "男子大埔烏蛊騰行山暈倒 送院搶救不治",
         "dek": "政府飛行服務隊直升機將事主由烏蛊騰下苗田送往東區醫院，經急救後證實不治。"
-      }
-    },
-    {
-      "id": "2026-10-11-mtr-taishan-stop",
-      "published_at": "2026-10-11T17:12:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "high-speed-rail",
-        "taishan",
-        "west-kowloon",
-        "guangdong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-11/2026-10-11-mtr-taishan-stop.json",
-      "en": {
-        "headline": "High-speed trains to Zhanjiang add stop at Taishan from today",
-        "dek": "MTR said daily services between West Kowloon and Zhanjiang West now call at Taishan, bringing the number of direct stations to 114."
-      },
-      "zh": {
-        "headline": "高鐵西九龍至湛江西車次今起加停台山站",
-        "dek": "港鐵表示，每日來往西九龍及湛江西的列車加停台山，直達站點增至114個，方便市民回鄉探親。"
-      }
-    },
-    {
-      "id": "2026-10-11-phone-scam-simbox-arrest",
-      "published_at": "2026-10-11T17:12:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "scam",
-        "phone",
-        "sim-card",
-        "tseung-kwan-o"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-11/2026-10-11-phone-scam-simbox-arrest.json",
-      "en": {
-        "headline": "Police arrest man over 23,000 fraudulent customer-service calls",
-        "dek": "A 24-year-old man was held after officers found a SIM-box modem that placed more than 23,000 scam calls in a week, with one victim losing over HK$100,000."
-      },
-      "zh": {
-        "headline": "警拘24歲男涉逾2.3萬通假冒客服電話騙案",
-        "dek": "警方在將軍澳住宅單位發現仍在運作的SIM卡數據機，一週內撥出逾2.3萬通詐騙電話，至少一名受害人損失逾10萬元。"
-      }
-    },
-    {
-      "id": "2026-10-11-renovation-threat-letters",
-      "published_at": "2026-10-11T17:12:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "intimidation",
-        "renovation",
-        "kwun-tong",
-        "catering"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-11/2026-10-11-renovation-threat-letters.json",
-      "en": {
-        "headline": "Three arrested over flour-laced threat letters in renovation fee dispute",
-        "dek": "Police held two principals and a staff member of a Kwun Tong renovation firm after a catering group received more than 30 letters containing white powder confirmed as flour."
-      },
-      "zh": {
-        "headline": "裝修公司3人涉寄麵粉恐嚇信被捕 追討百萬工程費",
-        "dek": "警方拕捕觀塘裝修公司兩名負責人及一名職員，涉嫌因金錢糾紛向餐飲集團寄出逾30封載有麵粉的恐嚇信。"
-      }
-    },
-    {
-      "id": "2026-10-11-yuen-long-hill-fire",
-      "published_at": "2026-10-11T17:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "yuen-long",
-        "hill-fire",
-        "fire-services",
-        "gfs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-11/2026-10-11-yuen-long-hill-fire.json",
-      "en": {
-        "headline": "Hill fire burns 30-metre line near Yuen Long Kam Sheung Road",
-        "dek": "Firefighters and a Government Flying Service helicopter tackled a blaze near Cheung Ngau Shan and Jing Hang Shan from about 11am; no injuries were reported."
-      },
-      "zh": {
-        "headline": "元朗錦上路附近山火火線約30米 直升機投水彈",
-        "dek": "周日早上約11時，掌牛山及井坑山附近發生山火，消防及政府飛行服務隊直升機到場撲救，暫未有傷亡報告。"
       }
     }
   ]
