@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-10-15T01:05:29+08:00",
+  "generated_at": "2026-10-15T03:15:39+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-10-15-bus-fare-applications",
+      "published_at": "2026-10-15T03:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "bus",
+        "fare",
+        "transport",
+        "legislative-council"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-bus-fare-applications.json",
+      "en": {
+        "headline": "Four franchised bus operators apply for fare rises of up to 17.7 per cent",
+        "dek": "Citybus seeks the largest increase amid higher fuel costs, with the government to review applications at a Legislative Council panel on Friday."
+      },
+      "zh": {
+        "headline": "四間專營巴士營辦商申請加價 加幅8.1%至17.7%",
+        "dek": "城巴申請最高17.7%，九巴16%，政府將於星期五立法會交通事務委員會討論，強調會平衡營運可持續性與市民負擔能力。"
+      }
+    },
+    {
+      "id": "2026-10-15-iot-fire-alarm-expansion",
+      "published_at": "2026-10-15T03:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire-services",
+        "building-safety",
+        "iot",
+        "old-buildings"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-iot-fire-alarm-expansion.json",
+      "en": {
+        "headline": "Fire Services expands IoT fire alarm scheme to another 6000 old buildings",
+        "dek": "More than 300 buildings have expressed interest so far, but none have completed installation yet as owners negotiate costs and consensus."
+      },
+      "zh": {
+        "headline": "消防處將物聯網火警偵測系統擴展至約6000幢7層或以上舊樓",
+        "dek": "至今逾300幢樓宇提交意向書，反應理想，但暫時未有大廈完成安裝，業主需時達共識及商討工程費用。"
+      }
+    },
+    {
+      "id": "2026-10-15-lifestyle-westk-lego-heroween",
+      "published_at": "2026-10-15T03:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "west-kowloon",
+        "lego",
+        "halloween",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-lifestyle-westk-lego-heroween.json",
+      "en": {
+        "headline": "WestK Art Park opens LEGO Hero-ween event for children",
+        "dek": "The free programme runs until 31 October and invites young visitors in costume to complete brick-building challenges and a final mission on Halloween night."
+      },
+      "zh": {
+        "headline": "西九藝術公園推出LEGO萬聖節英雄活動 免費入場至月底",
+        "dek": "由今日至10月31日，小朋友可穿英雄裝扮參與拼砌工作坊、尋寶及萬聖節當晚壓軸任務，完成可換領限定勳章。"
+      }
+    },
+    {
+      "id": "2026-10-15-taxi-demerit-points-disqualifications",
+      "published_at": "2026-10-15T03:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "taxi",
+        "demerit-points",
+        "transport",
+        "legislative-council"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-taxi-demerit-points-disqualifications.json",
+      "en": {
+        "headline": "Three taxi drivers disqualified under demerit points system",
+        "dek": "The transport chief disclosed for the first time that three drivers have been banned for three months after accumulating 15 points or more since the scheme began in 2024."
+      },
+      "zh": {
+        "headline": "的士違例記分制下3名司機被取消駕駛資格3個月",
+        "dek": "運輸及物流局局長陳美寶首次披露，自2024年9月制度生效以來，已有3名司機因累積15分或以上被判停牌3個月。"
+      }
+    },
     {
       "id": "2026-10-15-customs-cigarette-retail-crackdown",
       "published_at": "2026-10-15T01:05:00+08:00",
@@ -1902,29 +1991,6 @@
       "zh": {
         "headline": "香港美酒佳餚巡禮門票今日公開發售",
         "dek": "旅發局主辦的四天海濱美食盛事將於10月29日至11月1日在中環海濱舉行，品味證今日起公開發售。"
-      }
-    },
-    {
-      "id": "2026-10-12-yellow-bus-final-service",
-      "published_at": "2026-10-12T03:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "yellow-bus",
-        "huanggang-port",
-        "lok-ma-chau",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-yellow-bus-final-service.json",
-      "en": {
-        "headline": "Yellow Bus ends nearly 30-year service as new Huanggang Port opens",
-        "dek": "The last northbound Yellow Bus to the old port leaves San Tin between 6.15am and 6.20am today, after which the cross-boundary shuttle is retired under the new joint-clearance arrangements."
-      },
-      "zh": {
-        "headline": "皇巴近30年服務今早結束 新皇崗口岸啟用",
-        "dek": "往舊口岸北行尾班皇巴於今早6時15分至6時20分由新田開出，此後接駁服務將告終，改由新口岸一地兩檢安排取代。"
       }
     }
   ]
