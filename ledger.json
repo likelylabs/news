@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T23:25:49+08:00",
+  "updated_at": "2026-10-16T01:05:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -277,6 +277,30 @@
       "id": "2026-10-15-lok-ma-chau-emergency-hospital-works",
       "first_seen": "2026-10-15T23:22:00+08:00",
       "headline_en": "Hospital Authority to suspend Lok Ma Chau emergency hospital for upgrades"
+    },
+    {
+      "key": "ha-liver-donor-appeal-13yo-oct15",
+      "id": "2026-10-16-ha-liver-donor-appeal-boy",
+      "first_seen": "2026-10-16T01:05:00+08:00",
+      "headline_en": "Hospital Authority appeals for liver donor for 13-year-old boy"
+    },
+    {
+      "key": "emsd-tai-yip-elevator-fire-door-oct15",
+      "id": "2026-10-16-emsd-tai-yip-elevator-deficiencies",
+      "first_seen": "2026-10-16T01:05:00+08:00",
+      "headline_en": "EMSD finds serious deficiencies in Tai Yip lift works at two estates"
+    },
+    {
+      "key": "kwun-tong-bypass-collision-oct15",
+      "id": "2026-10-16-kwun-tong-bypass-collision",
+      "first_seen": "2026-10-16T01:05:00+08:00",
+      "headline_en": "Three injured in Kwun Tong Bypass three-vehicle collision"
+    },
+    {
+      "key": "lifestyle-science-museum-future-science-prize-2026",
+      "id": "2026-10-16-lifestyle-science-museum-future-prize",
+      "first_seen": "2026-10-16T01:05:00+08:00",
+      "headline_en": "Science Museum opens Future Science Prize exhibition until mid-November"
     }
   ]
 }
