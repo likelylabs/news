@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T13:15:17+08:00",
+  "updated_at": "2026-10-15T15:05:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -169,6 +169,36 @@
       "id": "2026-10-15-lifestyle-happy-valley-cat-garlic-missing",
       "first_seen": "2026-10-15T13:15:00+08:00",
       "headline_en": "Happy Valley vegetable stall reports tabby cat Garlic missing"
+    },
+    {
+      "key": "mtr-lam-tin-dual-disruptions-probe",
+      "id": "2026-10-15-mtr-lam-tin-dual-disruptions-probe",
+      "first_seen": "2026-10-15T15:05:00+08:00",
+      "headline_en": "MTR probes two Lam Tin disruptions within 15 hours"
+    },
+    {
+      "key": "hkpride-rainbow-market-venue-cancelled",
+      "id": "2026-10-15-hkpride-rainbow-market-cancelled",
+      "first_seen": "2026-10-15T15:05:00+08:00",
+      "headline_en": "Hong Kong Pride Rainbow Market at Central Market cancelled"
+    },
+    {
+      "key": "baidu-apollo-tung-chung-public-trials",
+      "id": "2026-10-15-baidu-apollo-tung-chung-trials",
+      "first_seen": "2026-10-15T15:05:00+08:00",
+      "headline_en": "Baidu opens free robotaxi public trials in Tung Chung next week"
+    },
+    {
+      "key": "edb-kindergarten-profiles-202627",
+      "id": "2026-10-15-edb-kindergarten-profiles-202627",
+      "first_seen": "2026-10-15T15:05:00+08:00",
+      "headline_en": "Education Bureau posts 2026/27 kindergarten profiles online"
+    },
+    {
+      "key": "lifestyle-space-museum-explore-stars-3d",
+      "id": "2026-10-15-lifestyle-space-museum-explore-stars-3d",
+      "first_seen": "2026-10-15T15:05:00+08:00",
+      "headline_en": "Space Museum opens 3D dome film Explore the Stars until July 2027"
     }
   ]
 }
