@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-10-16T01:06:41+08:00",
+  "generated_at": "2026-10-16T03:17:39+08:00",
   "live_window_hours": 72,
-  "count": 101,
+  "count": 104,
   "articles": [
+    {
+      "id": "2026-10-16-lifestyle-electronics-fair-autumn",
+      "published_at": "2026-10-16T03:15:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "electronics",
+        "ai",
+        "wan-chai",
+        "robotics"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-lifestyle-electronics-fair-autumn.json",
+      "en": {
+        "headline": "Hong Kong Electronics Fair Autumn edition enters final day at HKCEC",
+        "dek": "The HKTDC-organised fair and concurrent electronicAsia feature more than 3200 exhibitors focusing on AI, robotics and future industries until 5pm today."
+      },
+      "zh": {
+        "headline": "香港秋季電子產品展進入最後一天 會展聚焦AI與機械人",
+        "dek": "貿發局主辦的秋電展及同期電子組件展匯聚逾3200家展商，周五下午5時結束，重點展示人工智能、機械人及未來產業。"
+      }
+    },
+    {
+      "id": "2026-10-16-lifestyle-hk-ballet-dunhuang",
+      "published_at": "2026-10-16T03:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "ballet",
+        "performance",
+        "tsim-sha-tsui",
+        "cultural-centre"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-lifestyle-hk-ballet-dunhuang.json",
+      "en": {
+        "headline": "Hong Kong Ballet premieres Dunhuang: In Search of Light this weekend",
+        "dek": "The world premiere runs 16-18 October at the Hong Kong Cultural Centre, fusing classical ballet with Dunhuang imagery and Hermann Hesse's Siddhartha."
+      },
+      "zh": {
+        "headline": "港芭《敦煌：溯光行》本周末世界首演",
+        "dek": "作品16至18日於香港文化中心上演，結合古典芭蕾、敦煌意象及赫塞《流浪者之歌》。"
+      }
+    },
+    {
+      "id": "2026-10-16-msec-m-mark-three-events",
+      "published_at": "2026-10-16T03:15:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "m-mark",
+        "golf",
+        "cricket",
+        "tennis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-msec-m-mark-three-events.json",
+      "en": {
+        "headline": "Major Sports Events Committee awards M Mark to three international tournaments",
+        "dek": "The Link Hong Kong Open, Hong Kong Cricket Sixes and Prudential Hong Kong Tennis Open receive the status for events later this month and next."
+      },
+      "zh": {
+        "headline": "大型體育活動事務委員會授予三項國際賽事M品牌認證",
+        "dek": "領展香港高爾夫球公開賽、香港六人板球賽及保誠香港網球公開賽獲認證，分別於本月底及下月初舉行。"
+      }
+    },
     {
       "id": "2026-10-16-emsd-tai-yip-elevator-deficiencies",
       "published_at": "2026-10-16T01:05:00+08:00",
