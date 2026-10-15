@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-10-15T19:08:14+08:00",
+  "generated_at": "2026-10-15T21:07:44+08:00",
   "live_window_hours": 72,
-  "count": 97,
+  "count": 99,
   "articles": [
+    {
+      "id": "2026-10-15-hkpc-embodied-ai-training",
+      "published_at": "2026-10-15T21:08:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "ai",
+        "robotics",
+        "productivity-council",
+        "innovation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-hkpc-embodied-ai-training.json",
+      "en": {
+        "headline": "Productivity Council opens Hong Kong's first embodied AI robot training ground",
+        "dek": "The facility under the Hong Kong Productivity Council brings together technology and scene partners to test humanoid and other robots in real industrial, logistics and public-service settings."
+      },
+      "zh": {
+        "headline": "生產力局成立本港首個具身智能及人形機械人訓練場",
+        "dek": "香港工業人工智能與機械人研發中心設立「具身智能國際應用訓練場」，匯聚技術及場景夥伴，推動機械人在工業、物流及公共服務等實景測試。"
+      }
+    },
+    {
+      "id": "2026-10-15-sham-shui-po-loan-shark-arrests",
+      "published_at": "2026-10-15T21:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "loan-shark",
+        "police",
+        "sham-shui-po",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-sham-shui-po-loan-shark-arrests.json",
+      "en": {
+        "headline": "Police arrest 22 in Sham Shui Po crackdown on high-interest loan syndicate",
+        "dek": "Sham Shui Po crime officers dismantled a group operating two licensed finance companies in Yau Ma Tei that charged effective annual rates above 300 per cent and used intimidation to collect debts."
+      },
+      "zh": {
+        "headline": "警搭高利貸集團拘捕22人 包括主腦及骨幹成員",
+        "dek": "深水埗警區刑事部行動中拘捕22人，揭發兩間油麻地持牌財務公司實際年利率逾300%，並以恐嚇及淋油等手段收數。"
+      }
+    },
+    {
+      "id": "2026-10-15-shek-mun-land-sale",
+      "published_at": "2026-10-15T21:08:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "land-sale",
+        "housing",
+        "sha-tin",
+        "development"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-shek-mun-land-sale.json",
+      "en": {
+        "headline": "Government to tender Shek Mun site for about 960 private homes",
+        "dek": "The Development Bureau announced the third-quarter land sale programme, saying the first three quarters already exceed the annual private housing supply target of 12,600 units."
+      },
+      "zh": {
+        "headline": "政府推售石門住宅地 料提供約960個單位",
+        "dek": "發展局公布第三季賣地計劃，推出沙田石門住宅用地，首三季供應已超全年私人房屋目標12600個單位。"
+      }
+    },
+    {
+      "id": "2026-10-15-tai-po-necklace-theft-arrests",
+      "published_at": "2026-10-15T21:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "theft",
+        "tai-po",
+        "police",
+        "jewellery"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-tai-po-necklace-theft-arrests.json",
+      "en": {
+        "headline": "Police arrest two over Tai Po gold necklace theft and recover part of chain",
+        "dek": "Officers detained a 37-year-old man and a 29-year-old woman within 24 hours of the theft at a Chow Sang Sang store on Kwong Fuk Road, retrieving part of the 60-gram chain."
+      },
+      "zh": {
+        "headline": "大埔周生生金鏈盜竊案 警方拘捕兩人並起回部分金鏈",
+        "dek": "大埔警區重案組今日拘捕一名37歲男子及一名29歲女子，涉於廣福道周生生金行盜取約值7.9萬元、重約60克的金鏈，並起回部分贓物。"
+      }
+    },
     {
       "id": "2026-10-15-agarwood-scam-arrests",
       "published_at": "2026-10-15T19:05:00+08:00",
@@ -2092,48 +2180,6 @@
       "zh": {
         "headline": "米埔魚塘發現屍體 僱主涉聘用非法勞工被捕",
         "dek": "37歲內地男子周一凌晨被發現倒臥魚塘，70歲魚塘經營者被警方以涉嫌聘用不可合法受僱人士拘捕。"
-      }
-    },
-    {
-      "id": "2026-10-12-electronics-fair-robots-preview",
-      "published_at": "2026-10-12T21:06:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "hktdc",
-        "electronics",
-        "robotics"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-electronics-fair-robots-preview.json",
-      "en": {
-        "headline": "Electronics fairs open Tuesday with more than 120 robots on show",
-        "dek": "The Hong Kong Electronics Fair and electronicAsia will bring over 3,200 exhibitors to Wan Chai, highlighting AI applications and interactive robot demonstrations."
-      },
-      "zh": {
-        "headline": "秋電展及電子組件展周二開幕 展出逾120款機械人",
-        "dek": "香港秋季電子產品展及國際電子組件展將於灣仔會展舉行，匯聚逾3200家展商，重點展示人工智能應用及互動機械人示範。"
-      }
-    },
-    {
-      "id": "2026-10-12-wkcd-operational-maturity-2027",
-      "published_at": "2026-10-12T21:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "west-kowloon",
-        "legco",
-        "arts"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-wkcd-operational-maturity-2027.json",
-      "en": {
-        "headline": "West Kowloon eyes 2027/28 as turning point towards operating returns",
-        "dek": "Board chairman Bernard Chan told lawmakers the cultural district recorded its highest operating revenue yet and expects major facilities to shift the focus from cash flow to self-sustaining income."
-      },
-      "zh": {
-        "headline": "西九文化區2027/28年度邁向營運收成期",
-        "dek": "管理局董事局主席陳智思向立法會議員表示，西九上年度營運收入創新高，預期隨主要設施落成，重點將由現金流轉為自我持續收入。"
       }
     }
   ]
