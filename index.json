@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-15T15:06:47+08:00",
+  "generated_at": "2026-10-15T17:12:11+08:00",
   "live_window_hours": 72,
-  "count": 98,
+  "count": 101,
   "articles": [
+    {
+      "id": "2026-10-15-chris-tang-scam-call",
+      "published_at": "2026-10-15T17:09:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "scam",
+        "chris-tang",
+        "security-bureau",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-chris-tang-scam-call.json",
+      "en": {
+        "headline": "Security chief Chris Tang receives scam call impersonating bureau officer",
+        "dek": "Tang challenged the caller to find him on the 10th floor of government headquarters after being told he had violated mainland laws and must report for identity checks."
+      },
+      "zh": {
+        "headline": "保安局局長鄧炳強接獲假冒保安局人員詐騙電話",
+        "dek": "對方聲稱他涉嫌觸犯內地法律，要求到政府總部十樓核實身份，鄧炳強反邀對方親自到場找他。"
+      }
+    },
+    {
+      "id": "2026-10-15-ck-asset-li-ka-shing-rumour",
+      "published_at": "2026-10-15T17:09:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "li-ka-shing",
+        "ck-asset",
+        "rumour",
+        "fake-news"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-ck-asset-li-ka-shing-rumour.json",
+      "en": {
+        "headline": "CK Asset denies rumour of Li Ka-shing's death as utterly without foundation",
+        "dek": "The company condemned mainland self-media accounts that falsely claimed Ta Kung Pao had reported the 98-year-old tycoon's death, and urged verification before sharing."
+      },
+      "zh": {
+        "headline": "長實否認李嘉誠逝世傳聞 指絕無其事並譴責捏造假新聞",
+        "dek": "公司指內地自媒體訛稱大公報報道98歲李嘉誠逝世，實屬捏造，呼籲報道或轉載前務必核實。"
+      }
+    },
+    {
+      "id": "2026-10-15-hkma-art-framework-ai",
+      "published_at": "2026-10-15T17:09:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hkma",
+        "ai",
+        "banking",
+        "fintech"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-hkma-art-framework-ai.json",
+      "en": {
+        "headline": "HKMA launches ART framework for responsible AI in banking",
+        "dek": "The framework focuses on accountability, resilience and trust as banks move from generative to agentic artificial intelligence applications."
+      },
+      "zh": {
+        "headline": "金管局公布ART框架推動銀行業負責任應用人工智能",
+        "dek": "框架着重可問責、具韌性及可信賴，應對銀行由生成式轉向代理式人工智能應用。"
+      }
+    },
     {
       "id": "2026-10-15-baidu-apollo-tung-chung-trials",
       "published_at": "2026-10-15T15:05:00+08:00",
