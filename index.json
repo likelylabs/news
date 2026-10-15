@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-15T17:12:11+08:00",
+  "generated_at": "2026-10-15T19:08:14+08:00",
   "live_window_hours": 72,
-  "count": 101,
+  "count": 97,
   "articles": [
+    {
+      "id": "2026-10-15-agarwood-scam-arrests",
+      "published_at": "2026-10-15T19:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "scam",
+        "police",
+        "investment",
+        "elderly"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-agarwood-scam-arrests.json",
+      "en": {
+        "headline": "Police arrest six over HK$14 million agarwood investment scheme",
+        "dek": "Officers raided a Kwun Tong office and warehouse in an operation codenamed Shadow Net after 21 mostly elderly victims reported losses ranging from HK$30,000 to HK$1.9 million."
+      },
+      "zh": {
+        "headline": "警方搗破沉香樹投資騙局拘捕6人涉款1400萬",
+        "dek": "商業罪案調查科展開代號「影網」行動，搜查觀塘辦事處及倉庫，21名受害人多為長者，個別損失由3萬至190萬元。"
+      }
+    },
+    {
+      "id": "2026-10-15-hku-gdp-forecast",
+      "published_at": "2026-10-15T19:05:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "economy",
+        "gdp",
+        "hku",
+        "forecast"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-hku-gdp-forecast.json",
+      "en": {
+        "headline": "HKU forecasts third-quarter growth of 3.7 per cent, full-year 4.1 per cent",
+        "dek": "The APEC Studies Programme revised the annual figure up by 0.4 points on stronger first-half trade, but expects fourth-quarter growth to slow to 2.8 per cent amid weaker consumer confidence."
+      },
+      "zh": {
+        "headline": "港大料第三季經濟按年增3.7% 全年預測上調至4.1%",
+        "dek": "亞太經濟合作研究項目指上半年外貿較預期理想，帶動全年預測上調0.4個百分點，但消費者信心疲弱令第三季放緩，第四季料再降至2.8%。"
+      }
+    },
+    {
+      "id": "2026-10-15-lingnan-english-exit-test",
+      "published_at": "2026-10-15T19:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "lingnan",
+        "english",
+        "university"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-lingnan-english-exit-test.json",
+      "en": {
+        "headline": "Lingnan University drops external English test for graduation",
+        "dek": "Undergraduates must now pass university English courses instead of achieving a set IELTS score; the change took effect immediately after the Senate approved it earlier this week."
+      },
+      "zh": {
+        "headline": "嶺南大學取消本科生校外英語試畢業要求",
+        "dek": "學生只需修畢並及格指定校內英語課程即可畢業，取代過往須達雅思指定分數的規定，有關修訂本周教務會通過後即時生效。"
+      }
+    },
     {
       "id": "2026-10-15-chris-tang-scam-call",
       "published_at": "2026-10-15T17:09:00+08:00",
@@ -2068,165 +2134,6 @@
       "zh": {
         "headline": "西九文化區2027/28年度邁向營運收成期",
         "dek": "管理局董事局主席陳智思向立法會議員表示，西九上年度營運收入創新高，預期隨主要設施落成，重點將由現金流轉為自我持續收入。"
-      }
-    },
-    {
-      "id": "2026-10-12-hang-seng-close",
-      "published_at": "2026-10-12T19:05:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "stocks",
-        "market",
-        "finance",
-        "hkex"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-hang-seng-close.json",
-      "en": {
-        "headline": "Hang Seng Index closes up 59 points at 24271",
-        "dek": "The index finished 0.25 per cent higher after an early rally faded, with mainland banks among the stronger performers and turnover at about 162.6 billion dollars."
-      },
-      "zh": {
-        "headline": "恒指高收59點報24271 內銀股造好",
-        "dek": "恒指全日升0.25%，早段曾高見24455點後回吐，主板成交約1626億元。"
-      }
-    },
-    {
-      "id": "2026-10-12-northern-metropolis-culture",
-      "published_at": "2026-10-12T19:05:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "northern-metropolis",
-        "development",
-        "culture",
-        "heritage",
-        "ning-hanhao"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-northern-metropolis-culture.json",
-      "en": {
-        "headline": "Development chief stresses ecology and heritage in Northern Metropolis",
-        "dek": "Bernadette Linn said the government would balance growth with the area's history and natural resources, naming a San Tin trail as next year's first rural-urban integration project."
-      },
-      "zh": {
-        "headline": "甧漢豪：北都發展珍視生態歷史文化 推動城鄉共融",
-        "dek": "發展局局長稱政府明年推出「新田時光步道」作為首個重點城鄉共融項目，並已成立兩億元基金支持社區主導計劃。"
-      }
-    },
-    {
-      "id": "2026-10-12-sfc-approves-six-registrars",
-      "published_at": "2026-10-12T19:05:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "sfc",
-        "securities",
-        "paperless",
-        "hkex",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-sfc-approves-six-registrars.json",
-      "en": {
-        "headline": "SFC approves six share registrars for paperless securities market",
-        "dek": "The approvals take effect when the uncertificated securities market launches on 16 November, with two firms cleared to offer conversion and transfer services from day one."
-      },
-      "zh": {
-        "headline": "證監會核准六家證券登記機構 無紙市場下月實施",
-        "dek": "核准自11月16日無紙證券市場制度實施起生效，其中兩家已獲准提供紙本轉無紙及相關轉讓服務。"
-      }
-    },
-    {
-      "id": "2026-10-12-chp-russian-pneumonia",
-      "published_at": "2026-10-12T17:15:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "chp",
-        "pneumonia",
-        "russia",
-        "airport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-chp-russian-pneumonia.json",
-      "en": {
-        "headline": "Centre for Health Protection assesses Russian pneumonia case as low risk",
-        "dek": "The centre said there is no evidence of sustained transmission and it has stepped up health monitoring of arrivals from Russia at the airport."
-      },
-      "zh": {
-        "headline": "衛生防護中心：俄羅斯不明肺炎個案對港即時風險低",
-        "dek": "中心指未有持續傳播證據，已加強在機場對俄羅斯抵港旅客的健康監測。"
-      }
-    },
-    {
-      "id": "2026-10-12-hku-chronic-disease-results",
-      "published_at": "2026-10-12T17:15:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "hku",
-        "diabetes",
-        "hypertension",
-        "primary-care"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-hku-chronic-disease-results.json",
-      "en": {
-        "headline": "HKU study finds chronic disease scheme improves health indicators",
-        "dek": "Nearly 6,000 participants with newly diagnosed diabetes, hypertension or prediabetes showed significant gains after one year of follow-up under the government pilot."
-      },
-      "zh": {
-        "headline": "港大研究：慢病共治計劃一年後健康指標顯著改善",
-        "dek": "近6000名新確診糖尿病、高血壓或前期糖尿病參加者完成一年跟進後，血糖血壓等指標明顯改善。"
-      }
-    },
-    {
-      "id": "2026-10-12-labour-sanctions-imported-labour",
-      "published_at": "2026-10-12T17:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "labour",
-        "imported-workers",
-        "employment",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-labour-sanctions-imported-labour.json",
-      "en": {
-        "headline": "Labour Department sanctions two firms over imported labour applications",
-        "dek": "Shengshi Investment Management and Ho Fu Kee Noodle House in Tsuen Wan had their applications halted and face a two-year ban after refusing qualified local job seekers for dishwasher posts."
-      },
-      "zh": {
-        "headline": "勞工處制裁兩公司 中止輸入洗碗員申請兩年",
-        "dek": "盛世投資管理及荃灣何富記麵家因無合理理由拒絕聘用合資格本地求職者等違規，即時中止申請並禁未來兩年再申請。"
-      }
-    },
-    {
-      "id": "2026-10-12-li-zili-drug-regulator",
-      "published_at": "2026-10-12T17:15:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "government",
-        "drug-regulation",
-        "medical-devices"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-li-zili-drug-regulator.json",
-      "en": {
-        "headline": "Government appoints Li Zili as drug and medical device regulator",
-        "dek": "The Director of Health said the appointment of the experienced specialist will help build Hong Kong's capacity for independent review and approval of drugs and devices."
-      },
-      "zh": {
-        "headline": "政府委任李自力為藥械監管總監 任期三年",
-        "dek": "衛生署署長指，委任具豐富國際經驗的專才，有助建立本港自主藥械審評審批能力，加快符合品質及安全要求的產品臨床應用。"
       }
     }
   ]
