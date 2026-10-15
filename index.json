@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-10-16T03:18:41+08:00",
+  "generated_at": "2026-10-16T07:06:03+08:00",
   "live_window_hours": 72,
   "count": 104,
   "articles": [
+    {
+      "id": "2026-10-16-kindergarten-net-loss-40",
+      "published_at": "2026-10-16T07:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "kindergarten",
+        "birth-rate",
+        "schools"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-kindergarten-net-loss-40.json",
+      "en": {
+        "headline": "Hong Kong records net loss of 40 kindergartens amid falling births",
+        "dek": "The Education Bureau’s latest profiles show 930 kindergartens operating, a record annual net decrease of 40 as the student population shrinks and first-time mothers grow older."
+      },
+      "zh": {
+        "headline": "本港幼稚園按年淨減40間 創紀錄跌幅",
+        "dek": "教育局最新概覽顯示全港約有930間幼稚園運作，按年淨減40間，為歷來最高，學生人口持續萎縮。"
+      }
+    },
+    {
+      "id": "2026-10-16-lifestyle-tattoo-exhibition-soho",
+      "published_at": "2026-10-16T07:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "tattoo",
+        "exhibition",
+        "sheung-wan",
+        "soho-house"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-lifestyle-tattoo-exhibition-soho.json",
+      "en": {
+        "headline": "Hong Kong China International Tattoo Exhibition opens at Soho House",
+        "dek": "More than 60 tattoo artists from Hong Kong and overseas gather at Sheung Wan’s Soho House from Friday to Sunday, with live work, an AI try-on feature and a competition on the final day."
+      },
+      "zh": {
+        "headline": "香港中國國際紋身展於上環Soho House開幕",
+        "dek": "逾60位本地及海外紋身師周五至周日雲集上環德輔道西Soho House，有即場創作、AI試紋功能及最後一天比賽。"
+      }
+    },
+    {
+      "id": "2026-10-16-sham-shui-po-tenement-fire",
+      "published_at": "2026-10-16T07:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "sham-shui-po",
+        "tenement",
+        "emergency"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-sham-shui-po-tenement-fire.json",
+      "en": {
+        "headline": "Fire breaks out in Sham Shui Po tenement staircase, no injuries",
+        "dek": "Clutter caught alight in the back staircase of a building on Un Chau Street early Friday; firefighters extinguished the blaze within minutes and no one was evacuated."
+      },
+      "zh": {
+        "headline": "深水埗唐樓後樓梯雜物起火 無人受傷毋須疏散",
+        "dek": "周五凌晨元州街一幢唐樓後樓梯雜物起火，消防在數分鐘內撲滅，沒有人受傷或需要疏散。"
+      }
+    },
     {
       "id": "2026-10-16-lifestyle-electronics-fair-autumn",
       "published_at": "2026-10-16T03:15:00+08:00",
@@ -2225,73 +2292,6 @@
       "zh": {
         "headline": "慈正邨正安樓單位充電器過熱起火 七旬男戶主受傷 約250人疏散",
         "dek": "慈雲山慈正邨正安樓24樓單位今早約6時起火，初步相信外置充電器過熱引起，七旬男戶主燒傷送院，約250名居民疏散。"
-      }
-    },
-    {
-      "id": "2026-10-13-space-museum-solar-system-show-ending",
-      "published_at": "2026-10-13T07:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "space-museum",
-        "tsim-sha-tsui",
-        "show",
-        "family"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-13/2026-10-13-space-museum-solar-system-show-ending.json",
-      "en": {
-        "headline": "Space Museum 3D dome show on the solar system ends Wednesday",
-        "dek": "The Great Solar System Adventure 3D at the Hong Kong Space Museum runs until 14 October, with screenings for families and adults."
-      },
-      "zh": {
-        "headline": "太空館太陽系3D穹幕影院節目周三結束",
-        "dek": "香港太空館「太陽系大冒險3D」穹幕影院節目將於10月14日結束，適合家庭及成人觀賞。"
-      }
-    },
-    {
-      "id": "2026-10-13-kung-wo-fermented-beancurd-recall",
-      "published_at": "2026-10-13T03:20:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "food-safety",
-        "sham-shui-po",
-        "recall"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-13/2026-10-13-kung-wo-fermented-beancurd-recall.json",
-      "en": {
-        "headline": "Food safety centre orders recall of Kung Wo rose fermented beancurd",
-        "dek": "A sample from a Sham Shui Po retailer contained 140,000 Bacillus cereus per gram, exceeding the unsatisfactory threshold for ready-to-eat food."
-      },
-      "zh": {
-        "headline": "食安中心指公和玫瑰腐乳含過量蠟樣芽孢桿菌 指示停售回收",
-        "dek": "深水埗零售商抽取樣本每克含14萬個蠟樣芽孢桿菌，超出即食食品不滿意水平，受影響批次僅48瓶。"
-      }
-    },
-    {
-      "id": "2026-10-13-ma-on-shan-pipe-death",
-      "published_at": "2026-10-13T03:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "ma-on-shan",
-        "accident",
-        "community",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-13/2026-10-13-ma-on-shan-pipe-death.json",
-      "en": {
-        "headline": "Man dies after collapsing while repairing pipe at Ma On Shan flat",
-        "dek": "A man in his sixties was certified dead at Prince of Wales Hospital after his daughter found him unconscious in the bathroom of their Kam Ying Court home."
-      },
-      "zh": {
-        "headline": "馬鞍山錦英苑男子修水管時暈倒 送院不治",
-        "dek": "六旬男子於錦英苑錦達閣家中廁所維修水管時突然暈倒，女兒報案，送威爾斯親王醫院搶救至晚上10時03分證實不治。"
       }
     }
   ]
