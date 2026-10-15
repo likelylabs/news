@@ -1,8 +1,119 @@
 {
-  "generated_at": "2026-10-15T13:15:17+08:00",
+  "generated_at": "2026-10-15T15:06:47+08:00",
   "live_window_hours": 72,
-  "count": 96,
+  "count": 98,
   "articles": [
+    {
+      "id": "2026-10-15-baidu-apollo-tung-chung-trials",
+      "published_at": "2026-10-15T15:05:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "autonomous-vehicle",
+        "baidu",
+        "tung-chung",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-baidu-apollo-tung-chung-trials.json",
+      "en": {
+        "headline": "Baidu opens free robotaxi public trials in Tung Chung next week",
+        "dek": "Apollo Go vehicles will run a 5.1-kilometre loop from Yat Tung Estate for two weeks starting 21 October, with ride vouchers distributed through the Islands District Council."
+      },
+      "zh": {
+        "headline": "百度蘿蔔快跑下周三起東涌公眾試乘 為期兩周",
+        "dek": "自動車每日下午2至6時行走約5.1公里固定路線，由逸東邨出發折返，乘車券經離島區議會派發，每次最多載兩人。"
+      }
+    },
+    {
+      "id": "2026-10-15-edb-kindergarten-profiles-202627",
+      "published_at": "2026-10-15T15:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "kindergarten",
+        "edb",
+        "parents"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-edb-kindergarten-profiles-202627.json",
+      "en": {
+        "headline": "Education Bureau posts 2026/27 kindergarten profiles online",
+        "dek": "The overview lists basic information for about 930 kindergartens and kindergarten-cum-child care centres, including fees, staffing, student numbers and support for non-Chinese-speaking and special-needs children."
+      },
+      "zh": {
+        "headline": "教育局發布2026/27學年幼稚園概覽網上版",
+        "dek": "載列全港約930所幼稚園及幼稚園暨幼兒中心基本資料，包括學費、師資、學生人數，以及對非華語及有特殊需要學童的支援。"
+      }
+    },
+    {
+      "id": "2026-10-15-hkpride-rainbow-market-cancelled",
+      "published_at": "2026-10-15T15:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "pride",
+        "central-market",
+        "event",
+        "lgbt"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-hkpride-rainbow-market-cancelled.json",
+      "en": {
+        "headline": "Hong Kong Pride Rainbow Market at Central Market cancelled",
+        "dek": "Organisers said the venue cited an administrative error after confirming the booking and receiving a deposit; this is the second year a planned venue fell through after details were announced."
+      },
+      "zh": {
+        "headline": "香港同志遊行彩虹市集因中環街市場地取消",
+        "dek": "籌委會指場地確認及收取訂金後以「行政出錯」重複租場為由未能提供場地，已是連續第二年公布詳情後場地出問題。"
+      }
+    },
+    {
+      "id": "2026-10-15-lifestyle-space-museum-explore-stars-3d",
+      "published_at": "2026-10-15T15:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "space-museum",
+        "exhibition",
+        "film",
+        "tsim-sha-tsui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-lifestyle-space-museum-explore-stars-3d.json",
+      "en": {
+        "headline": "Space Museum opens 3D dome film Explore the Stars until July 2027",
+        "dek": "The 28-minute show in the Sky Theatre runs from 15 October, with standard tickets at HK$30–40 and concession rates of HK$15–20; English screenings are available on Monday and Thursday evenings."
+      },
+      "zh": {
+        "headline": "太空館天象廳新片《尋星探宇3D》上映至明年7月",
+        "dek": "28分鐘立體球幕電影即日起放映，標準票30至40元，優惠票15至20元；周一及周四傍晚有英語場。"
+      }
+    },
+    {
+      "id": "2026-10-15-mtr-lam-tin-dual-disruptions-probe",
+      "published_at": "2026-10-15T15:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "kwun-tong-line",
+        "lam-tin",
+        "disruption"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-mtr-lam-tin-dual-disruptions-probe.json",
+      "en": {
+        "headline": "MTR probes two Lam Tin disruptions within 15 hours",
+        "dek": "The operator apologised after a trackside fire and overheating wires forced service skips and suspensions; the government ordered a report within a month."
+      },
+      "zh": {
+        "headline": "港鐵調查藍田站15小時內兩宗故障 政府要求一個月內交報告",
+        "dek": "周二晚軌旁絕緣部件起火及周三早月台電房電線過熱，先後影響繁忙時間服務；運輸及物流局局長要求徹底調查並提交報告。"
+      }
+    },
     {
       "id": "2026-10-15-icac-annual-survey-2025",
       "published_at": "2026-10-15T13:15:00+08:00",
@@ -2050,75 +2161,6 @@
       "zh": {
         "headline": "政府委任李自力為藥械監管總監 任期三年",
         "dek": "衛生署署長指，委任具豐富國際經驗的專才，有助建立本港自主藥械審評審批能力，加快符合品質及安全要求的產品臨床應用。"
-      }
-    },
-    {
-      "id": "2026-10-12-disgusting-food-museum",
-      "published_at": "2026-10-12T15:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "kai-tak",
-        "airside",
-        "food"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-disgusting-food-museum.json",
-      "en": {
-        "headline": "Disgusting Food Museum continues at Kai Tak AIRSIDE until late November",
-        "dek": "The Swedish exhibition of more than 80 polarising foods from around the world is open at GATE33 Gallery in AIRSIDE, with interactive displays and a tasting bar."
-      },
-      "zh": {
-        "headline": "嘔心食物博物館啟德AIRSIDE展至十一月底",
-        "dek": "來自瑞典的展覽在啟德AIRSIDE GATE33藝文館展出逾80款各地爭議性食物，設互動展區及試食吧，展期至11月26日。"
-      }
-    },
-    {
-      "id": "2026-10-12-kai-tak-elderly-woman-murder",
-      "published_at": "2026-10-12T15:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "kai-tak",
-        "ngau-tau-kok",
-        "domestic-helper",
-        "murder"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-kai-tak-elderly-woman-murder.json",
-      "en": {
-        "headline": "Police treat death of elderly woman in Kai Tak as murder, arrest Indonesian helper",
-        "dek": "A woman in her nineties was found unresponsive at De Lang Estate on Sunday morning and later died in hospital; police arrested the Indonesian domestic helper and are investigating as murder."
-      },
-      "zh": {
-        "headline": "啟德德朗邨九旬婦不治 警列謀殺案拘捕印傭",
-        "dek": "一名九旬婦人周日早上在牛頭角德朗邨德瑤樓被發現失去知覺，送院後不治；警方拘捕印尼籍女傭，案件列作謀殺跟進。"
-      }
-    },
-    {
-      "id": "2026-10-12-tsing-kwai-highway-collision",
-      "published_at": "2026-10-12T15:05:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "tsing-kwai",
-        "kwai-chung",
-        "kmb",
-        "accident",
-        "traffic"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-tsing-kwai-highway-collision.json",
-      "en": {
-        "headline": "Four vehicles including three KMB buses collide on Tsing Kwai Highway",
-        "dek": "The collision near Container Terminal 5 at about 11.42am on Monday closed some lanes; one bus driver reported back pain while the Transport Department advised drivers to use remaining lanes."
-      },
-      "zh": {
-        "headline": "青葵公路四車相撞包括三輛九巴 一名車長背痛",
-        "dek": "周一上午約11時42分葵涌青葵公路往機場方向近五號貨櫃碼頭發生四車相撞，涉及三輛九巴，部分行車線封閉。"
       }
     }
   ]
