@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-10-15T23:25:49+08:00",
+  "generated_at": "2026-10-16T01:06:41+08:00",
   "live_window_hours": 72,
-  "count": 102,
+  "count": 101,
   "articles": [
+    {
+      "id": "2026-10-16-emsd-tai-yip-elevator-deficiencies",
+      "published_at": "2026-10-16T01:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "elevators",
+        "emsd",
+        "housing",
+        "kwun-tong",
+        "sha-tin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-emsd-tai-yip-elevator-deficiencies.json",
+      "en": {
+        "headline": "EMSD finds serious deficiencies in Tai Yip lift works at two estates",
+        "dek": "Forty-eight lifts at Tsui Ping North and Pok Hong Estates were reported complete without fire-door frames; the department is referring the case to police and ordering repairs within a month."
+      },
+      "zh": {
+        "headline": "機電署發現臺日電梯兩屋邨換𨋢工程嚴重缺失",
+        "dek": "翠屏北邨及博康邨共48部升降機未裝耐火門框卻報稱完工，署方將事件轉介警方，並限一個月內完成執修。"
+      }
+    },
+    {
+      "id": "2026-10-16-ha-liver-donor-appeal-boy",
+      "published_at": "2026-10-16T01:05:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "organ-donation",
+        "hospital-authority",
+        "queen-mary"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-ha-liver-donor-appeal-boy.json",
+      "en": {
+        "headline": "Hospital Authority appeals for liver donor for 13-year-old boy",
+        "dek": "The boy at Queen Mary Hospital is in serious condition with severe liver failure and complications, topping the O+ waiting list as officials prepare to seek mainland assistance."
+      },
+      "zh": {
+        "headline": "醫管局呼籲為13歲男童尋找肝臟捐贈者",
+        "dek": "男童現於瑪麗醫院留醫，情況嚴重，肝功能衰竭並有併發症，位列O+血型輪候名單首位，當局正準備向內地尋求協助。"
+      }
+    },
+    {
+      "id": "2026-10-16-kwun-tong-bypass-collision",
+      "published_at": "2026-10-16T01:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "traffic",
+        "accident",
+        "kwun-tong",
+        "citybus"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-kwun-tong-bypass-collision.json",
+      "en": {
+        "headline": "Three injured in Kwun Tong Bypass three-vehicle collision",
+        "dek": "A private car struck a Citybus and another car near MegaBox on Thursday evening, briefly trapping a driver and closing the Yau Tong-bound lanes."
+      },
+      "zh": {
+        "headline": "觀塘繞道三車相撞釀三人受傷",
+        "dek": "周四晚上近MegaBox一輛私家車撞及城巴及另一私家車，一名司機一度被困，往油塘方向全線封閉。"
+      }
+    },
+    {
+      "id": "2026-10-16-lifestyle-science-museum-future-prize",
+      "published_at": "2026-10-16T01:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "science",
+        "tsim-sha-tsui",
+        "museum"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-lifestyle-science-museum-future-prize.json",
+      "en": {
+        "headline": "Science Museum opens Future Science Prize exhibition until mid-November",
+        "dek": "The free-with-permanent-ticket show at Tsim Sha Tsui runs from Friday to 18 November and introduces the prize, Hong Kong laureates and interactive displays on past winning fields."
+      },
+      "zh": {
+        "headline": "科學館「2026未來科學大獎展覽」周五起展出至11月中",
+        "dek": "尖沙咀科學館地下展覽廳即日起至11月18日開放，常設展門票已包括，介紹大獎、本港歷年得獎者及互動展品。"
+      }
+    },
     {
       "id": "2026-10-15-election-committee-nominations-oct15",
       "published_at": "2026-10-15T23:22:00+08:00",
@@ -2132,119 +2222,6 @@
       "zh": {
         "headline": "馬鞍山錦英苑男子修水管時暈倒 送院不治",
         "dek": "六旬男子於錦英苑錦達閣家中廁所維修水管時突然暈倒，女兒報案，送威爾斯親王醫院搶救至晚上10時03分證實不治。"
-      }
-    },
-    {
-      "id": "2026-10-13-andy-hui-fake-tickets-arrest",
-      "published_at": "2026-10-13T01:03:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "concert",
-        "fraud",
-        "mong-kok"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-13/2026-10-13-andy-hui-fake-tickets-arrest.json",
-      "en": {
-        "headline": "Police charge woman over fake Andy Hui concert tickets sold online",
-        "dek": "A 48-year-old woman faces four counts after buyers paid about HK$20,000 for 14 invalid tickets to the Hung Hom shows."
-      },
-      "zh": {
-        "headline": "警方起訴48歲女子涉網售許志安演唱會假門票",
-        "dek": "女子被控四項以欺騙手段取得財產，六名買家以約2萬元購買14張無效門票。"
-      }
-    },
-    {
-      "id": "2026-10-13-garden-sandwich-event-chaos",
-      "published_at": "2026-10-13T01:03:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "garden",
-        "wan-chai",
-        "event",
-        "crowd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-13/2026-10-13-garden-sandwich-event-chaos.json",
-      "en": {
-        "headline": "Garden Company apologises after crowd chaos at student sandwich event",
-        "dek": "The bakery said no one was injured when parents pushing to collect children broke a door handle at the Wan Chai school hall."
-      },
-      "zh": {
-        "headline": "嘉頓就學生三文治活動散場混亂致歉 承諾檢討人流安排",
-        "dek": "公司指無人受傷，部分家長推撞令禮堂大門門柄脫落，將審視日後大型活動入場及人流管制。"
-      }
-    },
-    {
-      "id": "2026-10-12-icac-cyberport-subsidy-charges",
-      "published_at": "2026-10-12T23:26:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "government",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-icac-cyberport-subsidy-charges.json",
-      "en": {
-        "headline": "ICAC charges six including former Cyberport section head over subsidy fraud",
-        "dek": "The Independent Commission Against Corruption alleges bribery and conspiracy involving about HK$20 million in government technology grants."
-      },
-      "zh": {
-        "headline": "廉署起訴數碼港前總監等六人涉貪及詐騙資助",
-        "dek": "廉政公署指涉案人士涉嫌行賄受賄及串謀詐騙，涉款約2000萬元數碼轉型支援先導計劃資助。"
-      }
-    },
-    {
-      "id": "2026-10-12-kai-tak-helper-murder-arrest",
-      "published_at": "2026-10-12T23:26:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "kai-tak",
-        "domestic-helper",
-        "murder",
-        "police",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-kai-tak-helper-murder-arrest.json",
-      "en": {
-        "headline": "Police arrest domestic helper over death of 93-year-old woman in Kai Tak",
-        "dek": "Officers say closed-circuit footage shows the helper striking the elderly woman multiple times before seeking help on Sunday."
-      },
-      "zh": {
-        "headline": "啟德德朗邨九旬婦身亡 外傭涉謀殺被捕",
-        "dek": "警方指閉路電視顯示外傭周日早上多次擊打老婦頭頸面部，其後求助，老婦送院不治。"
-      }
-    },
-    {
-      "id": "2026-10-12-mai-po-illegal-worker-death",
-      "published_at": "2026-10-12T23:26:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "mai-po",
-        "illegal-worker",
-        "police",
-        "yuen-long",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-mai-po-illegal-worker-death.json",
-      "en": {
-        "headline": "Police arrest employer after suspected illegal worker found dead in Mai Po fish pond",
-        "dek": "A 37-year-old mainland man was discovered in a fish pond in the early hours of Monday; a 70-year-old operator was held over alleged illegal employment."
-      },
-      "zh": {
-        "headline": "米埔魚塘發現屍體 僱主涉聘用非法勞工被捕",
-        "dek": "37歲內地男子周一凌晨被發現倒臥魚塘，70歲魚塘經營者被警方以涉嫌聘用不可合法受僱人士拘捕。"
       }
     }
   ]
