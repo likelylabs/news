@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T11:10:28+08:00",
+  "updated_at": "2026-10-15T13:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -145,6 +145,30 @@
       "id": "2026-10-15-lifestyle-leslie-cheung-exhibition-hkdi",
       "first_seen": "2026-10-15T11:15:00+08:00",
       "headline_en": "HKDI exhibition shows rare Leslie Cheung photos until mid-November"
+    },
+    {
+      "key": "yau-lai-estate-unit-fire-oct15",
+      "id": "2026-10-15-yau-lai-estate-fire",
+      "first_seen": "2026-10-15T13:15:00+08:00",
+      "headline_en": "Fire at Yau Lai Estate unit in Yau Tong leaves five injured"
+    },
+    {
+      "key": "hktb-september-visitor-arrivals-2026",
+      "id": "2026-10-15-september-visitor-arrivals",
+      "first_seen": "2026-10-15T13:15:00+08:00",
+      "headline_en": "September visitor arrivals reach 4.03 million, up 22 per cent"
+    },
+    {
+      "key": "icac-annual-survey-2025-results",
+      "id": "2026-10-15-icac-annual-survey-2025",
+      "first_seen": "2026-10-15T13:15:00+08:00",
+      "headline_en": "ICAC survey finds 99.2 per cent of respondents had no personal encounter with corruption"
+    },
+    {
+      "key": "lifestyle-happy-valley-shop-cat-garlic",
+      "id": "2026-10-15-lifestyle-happy-valley-cat-garlic-missing",
+      "first_seen": "2026-10-15T13:15:00+08:00",
+      "headline_en": "Happy Valley vegetable stall reports tabby cat Garlic missing"
     }
   ]
 }
