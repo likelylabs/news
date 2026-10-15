@@ -1,8 +1,94 @@
 {
-  "generated_at": "2026-10-15T11:10:28+08:00",
+  "generated_at": "2026-10-15T13:15:17+08:00",
   "live_window_hours": 72,
-  "count": 93,
+  "count": 96,
   "articles": [
+    {
+      "id": "2026-10-15-icac-annual-survey-2025",
+      "published_at": "2026-10-15T13:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "icac",
+        "corruption",
+        "survey"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-icac-annual-survey-2025.json",
+      "en": {
+        "headline": "ICAC survey finds 99.2 per cent of respondents had no personal encounter with corruption",
+        "dek": "The 2025 annual survey of about 1,500 people recorded the highest such figure on record and a mean tolerance score of 0.3 out of 10."
+      },
+      "zh": {
+        "headline": "廉署調查顯示99.2%受訪者過去一年未親歷貪污 創紀錄",
+        "dek": "2025年周年民調訪問約1500人，貪污容忍度平均僅0.3分，97.9%認為社會廉潔對香港發展重要。"
+      }
+    },
+    {
+      "id": "2026-10-15-lifestyle-happy-valley-cat-garlic-missing",
+      "published_at": "2026-10-15T13:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "happy-valley",
+        "cat",
+        "missing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-lifestyle-happy-valley-cat-garlic-missing.json",
+      "en": {
+        "headline": "Happy Valley vegetable stall reports tabby cat Garlic missing",
+        "dek": "Staff at a produce shop on Tsap Tseung Street told police the four-year-old neutered cat was last seen Wednesday evening; an AirTag ping pointed to Tuen Mun early Thursday."
+      },
+      "zh": {
+        "headline": "跑馬地菜檔花貓「蒜頭」失蹤 飼主報警尋貓",
+        "dek": "集祥街菜檔職員今早報案，指約四歲已絕育花貓昨晚仍在店內，今晨不見蹤影；項圈追蹤器凌晨一度顯示屯門位置。"
+      }
+    },
+    {
+      "id": "2026-10-15-september-visitor-arrivals",
+      "published_at": "2026-10-15T13:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "tourism",
+        "visitors",
+        "hktb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-september-visitor-arrivals.json",
+      "en": {
+        "headline": "September visitor arrivals reach 4.03 million, up 22 per cent",
+        "dek": "The Tourism Board said the Mid-Autumn Festival and festive events helped push first-nine-month arrivals past 40.7 million, a 12 per cent rise."
+      },
+      "zh": {
+        "headline": "9月訪港旅客約403萬人次按年升22% 首九個月逾4070萬",
+        "dek": "旅發局指中秋假期及多項節慶活動帶動增長，內地客升近三成，全年累計升12%。"
+      }
+    },
+    {
+      "id": "2026-10-15-yau-lai-estate-fire",
+      "published_at": "2026-10-15T13:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "yau-tong",
+        "fire",
+        "fire-services",
+        "accident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-15/2026-10-15-yau-lai-estate-fire.json",
+      "en": {
+        "headline": "Fire at Yau Lai Estate unit in Yau Tong leaves five injured",
+        "dek": "Firefighters extinguished a blaze on the ninth floor of Sau Lai House shortly after 10.50am; one woman in her seventies was taken to hospital while about 100 residents were evacuated."
+      },
+      "zh": {
+        "headline": "油塘油麗邨單位起火 初步5人受傷約百人疏散",
+        "dek": "秀麗樓九樓單位上午約10時49分起火，消防約29分鐘後將火救熄；約70歲女住戶送聯合醫院，另有4人輕傷毋須送院。"
+      }
+    },
     {
       "id": "2026-10-15-consumer-council-customer-service-complaints",
       "published_at": "2026-10-15T11:15:00+08:00",
@@ -2033,29 +2119,6 @@
       "zh": {
         "headline": "青葵公路四車相撞包括三輛九巴 一名車長背痛",
         "dek": "周一上午約11時42分葵涌青葵公路往機場方向近五號貨櫃碼頭發生四車相撞，涉及三輛九巴，部分行車線封閉。"
-      }
-    },
-    {
-      "id": "2026-10-12-mai-po-fish-pond-body",
-      "published_at": "2026-10-12T13:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "mai-po",
-        "yuen-long",
-        "drowning",
-        "illegal-worker"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-12/2026-10-12-mai-po-fish-pond-body.json",
-      "en": {
-        "headline": "Mainland man found dead in Mai Po fish pond, employer arrested",
-        "dek": "Police recovered the body of a 37-year-old man early Monday and arrested a 70-year-old pond owner on suspicion of employing an illegal worker."
-      },
-      "zh": {
-        "headline": "米埔魚塘發現內地男子屍體 僱主涉聘黑工被捕",
-        "dek": "警方周一凌晨將37歲男子遺體撈起，並拘捕70歲塘主，涉嫌僱用非法勞工。"
       }
     }
   ]
