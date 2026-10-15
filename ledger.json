@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T23:24:51+08:00",
+  "updated_at": "2026-10-15T23:22:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -259,6 +259,24 @@
       "id": "2026-10-15-hkpc-embodied-ai-training",
       "first_seen": "2026-10-15T21:08:00+08:00",
       "headline_en": "Productivity Council opens Hong Kong's first embodied AI robot training ground"
+    },
+    {
+      "key": "election-committee-nominations-oct15",
+      "id": "2026-10-15-election-committee-nominations-oct15",
+      "first_seen": "2026-10-15T23:22:00+08:00",
+      "headline_en": "Election Committee receives 29 more nomination forms on day nine"
+    },
+    {
+      "key": "private-medical-fee-transparency-proposals-oct15",
+      "id": "2026-10-15-private-medical-fee-transparency",
+      "first_seen": "2026-10-15T23:22:00+08:00",
+      "headline_en": "Government proposes bilingual price lists for private medical facilities"
+    },
+    {
+      "key": "lok-ma-chau-emergency-hospital-facility-works-oct15",
+      "id": "2026-10-15-lok-ma-chau-emergency-hospital-works",
+      "first_seen": "2026-10-15T23:22:00+08:00",
+      "headline_en": "Hospital Authority to suspend Lok Ma Chau emergency hospital for upgrades"
     }
   ]
 }
