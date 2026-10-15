@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T07:20:10+08:00",
+  "updated_at": "2026-10-15T11:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -115,6 +115,36 @@
       "id": "2026-10-15-customs-shark-fins",
       "first_seen": "2026-10-15T07:05:00+08:00",
       "headline_en": "Customs seizes 18kg of suspected scheduled dried shark fins at Lo Wu"
+    },
+    {
+      "key": "sai-kung-kiu-tsui-chau-drowning-oct15",
+      "id": "2026-10-15-sai-kung-kiu-tsui-chau-drowning",
+      "first_seen": "2026-10-15T11:15:00+08:00",
+      "headline_en": "Man dies after drowning off Kiu Tsui Chau in Sai Kung"
+    },
+    {
+      "key": "tsuen-wan-cannabis-distribution-centre-oct13",
+      "id": "2026-10-15-tsuen-wan-cannabis-distribution-centre",
+      "first_seen": "2026-10-15T11:15:00+08:00",
+      "headline_en": "Police seize 5.7kg of suspected cannabis from Tsuen Wan mini-storage"
+    },
+    {
+      "key": "nt-south-anti-illegal-worker-vice-oct14",
+      "id": "2026-10-15-nt-south-anti-illegal-worker-vice",
+      "first_seen": "2026-10-15T11:15:00+08:00",
+      "headline_en": "Police and Immigration arrest 22 in New Territories South operation"
+    },
+    {
+      "key": "consumer-council-customer-service-complaints-oct15",
+      "id": "2026-10-15-consumer-council-customer-service-complaints",
+      "first_seen": "2026-10-15T11:15:00+08:00",
+      "headline_en": "Consumer Council reports nearly 2705 customer service complaints this year"
+    },
+    {
+      "key": "lifestyle-leslie-cheung-exhibition-hkdi",
+      "id": "2026-10-15-lifestyle-leslie-cheung-exhibition-hkdi",
+      "first_seen": "2026-10-15T11:15:00+08:00",
+      "headline_en": "HKDI exhibition shows rare Leslie Cheung photos until mid-November"
     }
   ]
 }
