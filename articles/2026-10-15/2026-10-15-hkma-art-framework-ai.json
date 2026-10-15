@@ -1,0 +1,31 @@
+{
+  "id": "2026-10-15-hkma-art-framework-ai",
+  "published_at": "2026-10-15T17:09:00+08:00",
+  "category": "business",
+  "tags": ["hkma", "ai", "banking", "fintech"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "hkma-art-framework-ai-oct15",
+  "en": {
+    "headline": "HKMA launches ART framework for responsible AI in banking",
+    "dek": "The framework focuses on accountability, resilience and trust as banks move from generative to agentic artificial intelligence applications.",
+    "body": [
+      "The Hong Kong Monetary Authority announced on Thursday the ART framework to support the responsible adoption of artificial intelligence in the banking sector.",
+      "ART stands for Accountability, Resilience and Trust. The HKMA said the framework provides a clear foundation for banks to develop and deploy AI while maintaining stability and public confidence.",
+      "Measures under the framework include updated supervisory guidance on responsible AI adoption, drawing on results from the second cohort of the Generative AI Sandbox, and an AI training data sharing platform developed with Cyberport and the University of Hong Kong.",
+      "The Authority is also further testing agentic AI applications through an expanded sandbox and will issue a discussion paper on a proposed supervisory framework for agentic AI governance, covering intent-anchored accountability, a registry of material AI agents and intervention mechanisms.",
+      "Deputy Chief Executive Arthur Yuen said the shift from generative to agentic AI marks an important new stage of innovation for banking, and that pairing innovation with clear accountability and human oversight allows banks to realise the benefits while preserving trust."
+    ]
+  },
+  "zh": {
+    "headline": "金管局公布ART框架推動銀行業負責任應用人工智能",
+    "dek": "框架着重可問責、具韌性及可信賴，應對銀行由生成式轉向代理式人工智能應用。",
+    "body": [
+      "香港金融管理局周四公布「ART」框架，支持銀行業負責任地應用人工智能，建立可問責、具韌性及可信賴的AI賦能銀行生態系統。",
+      "ART分別代表Accountability（可問責）、Resilience（具韌性）及Trust（可信賴）。金管局指，框架為銀行負責任地開發和部署AI提供明確基礎，同時維持金融體系穩定及公眾信心。",
+      "框架下的措施包括發出最新的《負責任應用人工智能的監管指引》，當中納入第二期生成式人工智能沙盒的見解；以及與數碼港及香港大學合作建設AI訓練數據共享平台，以數據質素保證為核心原則。",
+      "金管局亦會透過沙盒進一步測試代理式AI應用，並就代理式AI管治的建議監管框架發表討論文件，探討意圖為本的問責安排、重要AI代理紀錄冊及有效介入機制。",
+      "金管局副總裁阮國恒表示，由生成式走向代理式是銀行業創新的重要新階段，結合清晰責任安排、具韌性的運作模式及有效人為監督，銀行可在維持信任的同時發揮AI效益。"
+    ]
+  }
+}

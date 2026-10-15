@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T15:06:47+08:00",
+  "updated_at": "2026-10-15T17:09:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -199,6 +199,24 @@
       "id": "2026-10-15-lifestyle-space-museum-explore-stars-3d",
       "first_seen": "2026-10-15T15:05:00+08:00",
       "headline_en": "Space Museum opens 3D dome film Explore the Stars until July 2027"
+    },
+    {
+      "key": "chris-tang-scam-call-oct15",
+      "id": "2026-10-15-chris-tang-scam-call",
+      "first_seen": "2026-10-15T17:09:00+08:00",
+      "headline_en": "Security chief Chris Tang receives scam call impersonating bureau officer"
+    },
+    {
+      "key": "hkma-art-framework-ai-oct15",
+      "id": "2026-10-15-hkma-art-framework-ai",
+      "first_seen": "2026-10-15T17:09:00+08:00",
+      "headline_en": "HKMA launches ART framework for responsible AI in banking"
+    },
+    {
+      "key": "ck-asset-li-ka-shing-death-rumour-oct15",
+      "id": "2026-10-15-ck-asset-li-ka-shing-rumour",
+      "first_seen": "2026-10-15T17:09:00+08:00",
+      "headline_en": "CK Asset denies rumour of Li Ka-shing's death as utterly without foundation"
     }
   ]
 }
