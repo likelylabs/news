@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T01:04:52+08:00",
+  "updated_at": "2026-10-17T03:30:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -55,6 +55,24 @@
       "id": "2026-10-17-mplus-myths-monsters-opens",
       "first_seen": "2026-10-17T01:10:00+08:00",
       "headline_en": "M+ opens Myths and Monsters exhibition exploring fantasy in Asian visual culture"
+    },
+    {
+      "key": "taizoom-missing-fire-door-frames-arrests",
+      "id": "2026-10-17-taizoom-lifts-arrests",
+      "first_seen": "2026-10-17T03:30:00+08:00",
+      "headline_en": "Police arrest three over missing fire door frames in public estate lift works"
+    },
+    {
+      "key": "customs-tuen-mun-counterfeit-hard-disks",
+      "id": "2026-10-17-customs-counterfeit-hard-disks",
+      "first_seen": "2026-10-17T03:30:00+08:00",
+      "headline_en": "Customs seize HK$50 million in counterfeit hard disks, arrest six in Tuen Mun"
+    },
+    {
+      "key": "lifestyle-hktb-halloween-month-2026",
+      "id": "2026-10-17-hktb-halloween-month",
+      "first_seen": "2026-10-17T03:30:00+08:00",
+      "headline_en": "Tourism Board launches first Halloween Month with citywide cosplay parties"
     }
   ]
 }
