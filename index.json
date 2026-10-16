@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T15:03:54+08:00",
+  "generated_at": "2026-10-16T15:04:11+08:00",
   "live_window_hours": 72,
-  "count": 106,
+  "count": 107,
   "articles": [
     {
       "id": "2026-10-16-icac-tech-voucher-charges",
@@ -23,6 +23,28 @@
       "zh": {
         "headline": "廉署起訴科技服務供應商等5人 涉空殼公司詐騙科技券",
         "dek": "一名科技服務供應商及四名空殼公司負責人與中間人遭控串謀詐騙，廉署指成功阻截近九成涉贎資助。"
+      }
+    },
+    {
+      "id": "2026-10-16-sun-yat-sen-160th-ceremony",
+      "published_at": "2026-10-16T15:05:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "sun-yat-sen",
+        "ceremony",
+        "commemoration",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-sun-yat-sen-160th-ceremony.json",
+      "en": {
+        "headline": "Government to hold ceremony for Sun Yat-sen's 160th birth anniversary",
+        "dek": "An official event will take place on 12 November at Sun Yat Sen Memorial Park, with special stamps and community activities also planned."
+      },
+      "zh": {
+        "headline": "政府將於11月12日舉行孫中山誕辰160周年紀念儀式",
+        "dek": "官方儀式在孫中山紀念公園舉行，郵政局同日發行特別郵票，並有一系列社區活動。"
       }
     },
     {
