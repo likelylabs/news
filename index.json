@@ -1,8 +1,119 @@
 {
-  "generated_at": "2026-10-16T15:06:20+08:00",
+  "generated_at": "2026-10-16T17:10:12+08:00",
   "live_window_hours": 72,
-  "count": 104,
+  "count": 109,
   "articles": [
+    {
+      "id": "2026-10-16-customs-counterfeit-hard-disks",
+      "published_at": "2026-10-16T17:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "counterfeit",
+        "hard-disks",
+        "seizure"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-customs-counterfeit-hard-disks.json",
+      "en": {
+        "headline": "Customs seizes about 6800 suspected counterfeit hard disks worth HK$50 million",
+        "dek": "Officers raided a suspected processing factory and warehouse on Thursday and arrested six people in the operation targeting fake computer storage devices."
+      },
+      "zh": {
+        "headline": "海關檢約6800件懷疑冒牌硬碟 拘6人 市值約5000萬",
+        "dek": "海關周四採取特別行動，搗破懷疑冒牌硬碟加工工場及倉庫，檢獲約6800件貨品並拘捕六人。"
+      }
+    },
+    {
+      "id": "2026-10-16-fire-services-chung-yeung-patrols",
+      "published_at": "2026-10-16T17:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire-services",
+        "chung-yeung",
+        "hill-fire",
+        "drone"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-fire-services-chung-yeung-patrols.json",
+      "en": {
+        "headline": "Fire Services to step up patrols at 12 high-risk sites ahead of Chung Yeung",
+        "dek": "More than 250 personnel will form 12 teams with Civil Aid Service members, while new large drones carrying 80 litres of water and AI image analysis will support operations."
+      },
+      "zh": {
+        "headline": "消防處重陽節加強巡邏12個山火高危地點 引入大型無人機",
+        "dek": "聯同民安隊組成12支巡邏小隊，並動用遙距偵測、人工智能影像分析及可載80公升水彈的大型無人機協助。"
+      }
+    },
+    {
+      "id": "2026-10-16-interpol-privileges-order",
+      "published_at": "2026-10-16T17:08:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "interpol",
+        "security",
+        "legislation",
+        "privileges"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-interpol-privileges-order.json",
+      "en": {
+        "headline": "Order gazetted granting privileges and immunities for Interpol General Assembly",
+        "dek": "The subsidiary legislation implements an agreement between the Central People’s Government and Interpol for the 94th General Assembly and related Executive Committee session in Hong Kong next month."
+      },
+      "zh": {
+        "headline": "國際刑警組織大會特權及豁免權令刊憲",
+        "dek": "有關附屬法例落實中央人民政府與國際刑警組織的協議，適用於下月在港舉行的第94屆全體大會及執委會會議。"
+      }
+    },
+    {
+      "id": "2026-10-16-tourism-hotspots-q4-projects",
+      "published_at": "2026-10-16T17:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tourism",
+        "kmb",
+        "peak",
+        "yuen-long",
+        "temples"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-tourism-hotspots-q4-projects.json",
+      "en": {
+        "headline": "Working Group to launch four new tourist hotspot projects from fourth quarter",
+        "dek": "The initiatives cover industrial brand tours including KMB depots, a miniature city exhibition at The Peak, temple cultural routes and seasonal Yuen Long experiences."
+      },
+      "zh": {
+        "headline": "發展旅遊熱點工作組第四季起推四個新項目",
+        "dek": "項目涵蓋九巴車廠及鐵路展等工業品牌遊、山頂微型城市展、廟宇文化深度遊及「元朗好時節」。"
+      }
+    },
+    {
+      "id": "2026-10-16-wang-fuk-court-asp-93pct",
+      "published_at": "2026-10-16T17:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "wang-fuk-court",
+        "housing",
+        "tai-po",
+        "rehousing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-wang-fuk-court-asp-93pct.json",
+      "en": {
+        "headline": "93.2 per cent of Wang Fuk Court owners sign sale agreements before deadline",
+        "dek": "The Housing Bureau says 1850 owners from the eight blocks completed the process by Thursday, with remaining cases involving special circumstances to be handled individually."
+      },
+      "zh": {
+        "headline": "宏福苑93.2%業主限期前簽署買賣協議",
+        "dek": "房屋局指八座共1850戶業主於周四前完成簽署，餘下特殊個案將按情況酌情處理。"
+      }
+    },
     {
       "id": "2026-10-16-icac-tech-voucher-charges",
       "published_at": "2026-10-16T15:05:00+08:00",
