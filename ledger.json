@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T07:06:06+08:00",
+  "updated_at": "2026-10-17T07:05:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -73,6 +73,30 @@
       "id": "2026-10-17-hktb-halloween-month",
       "first_seen": "2026-10-17T03:30:00+08:00",
       "headline_en": "Tourism Board launches first Halloween Month with citywide cosplay parties"
+    },
+    {
+      "key": "customs-airport-cannabis-seizures-oct16",
+      "id": "2026-10-17-customs-airport-cannabis-seizures",
+      "first_seen": "2026-10-17T07:05:00+08:00",
+      "headline_en": "Customs seize 8.8 kg of cannabis buds at airport in two passenger cases"
+    },
+    {
+      "key": "one-stanley-wider-rebar-inspections-oct16",
+      "id": "2026-10-17-one-stanley-wider-inspections",
+      "first_seen": "2026-10-17T07:05:00+08:00",
+      "headline_en": "Buildings Department orders checks on eight more houses at One Stanley"
+    },
+    {
+      "key": "citybus-b14-all-day-trial-oct17",
+      "id": "2026-10-17-citybus-b14-all-day-trial",
+      "first_seen": "2026-10-17T07:05:00+08:00",
+      "headline_en": "Citybus extends B14 to all-day service on trial from Saturday"
+    },
+    {
+      "key": "lifestyle-signature-tourism-projects-q4-2026",
+      "id": "2026-10-17-signature-tourism-projects-q4",
+      "first_seen": "2026-10-17T07:05:00+08:00",
+      "headline_en": "Government to roll out four new signature tourism projects from fourth quarter"
     }
   ]
 }
