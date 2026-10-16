@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T15:04:11+08:00",
+  "updated_at": "2026-10-16T15:05:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -385,6 +385,24 @@
       "id": "2026-10-16-weekend-weather-outlook-oct17-18",
       "first_seen": "2026-10-16T13:15:00+08:00",
       "headline_en": "Observatory forecasts mainly cloudy weekend with light rain patches"
+    },
+    {
+      "key": "icac-tech-voucher-charges-oct16",
+      "id": "2026-10-16-icac-tech-voucher-charges",
+      "first_seen": "2026-10-16T15:05:00+08:00",
+      "headline_en": "ICAC charges five over technology voucher fraud involving shell companies"
+    },
+    {
+      "key": "yoho-town-restaurant-rat-oct16",
+      "id": "2026-10-16-yoho-town-restaurant-rat",
+      "first_seen": "2026-10-16T15:05:00+08:00",
+      "headline_en": "Video shows rat on counter near utensils at Yuen Long restaurant"
+    },
+    {
+      "key": "sun-yat-sen-160th-ceremony-nov12",
+      "id": "2026-10-16-sun-yat-sen-160th-ceremony",
+      "first_seen": "2026-10-16T15:05:00+08:00",
+      "headline_en": "Government to hold ceremony for Sun Yat-sen's 160th birth anniversary"
     }
   ]
 }
