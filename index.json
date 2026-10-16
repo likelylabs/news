@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-10-16T23:23:29+08:00",
+  "generated_at": "2026-10-17T01:04:52+08:00",
   "live_window_hours": 72,
-  "count": 114,
+  "count": 116,
   "articles": [
+    {
+      "id": "2026-10-17-fsd-chung-yeung-hill-fire-prep",
+      "published_at": "2026-10-17T01:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire-services",
+        "chung-yeung",
+        "drones",
+        "hill-fire"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-fsd-chung-yeung-hill-fire-prep.json",
+      "en": {
+        "headline": "Fire Services Department deploys AI-assisted drones and extra patrols for Chung Yeung…",
+        "dek": "More than 250 frontline staff will form 12 patrol teams at high-risk sites in the New Territories, with drones sending live images for real-time smoke detection."
+      },
+      "zh": {
+        "headline": "消防處重陽節前動員逾二百五十人巡邏 引入AI無人機協助偵測山火",
+        "dek": "超過250名前線人員組成12支巡邏隊進駐新界高風險地點，無人機影像實時傳送AI平台識別煙霧。"
+      }
+    },
+    {
+      "id": "2026-10-17-guangdong-yachts-first-arrival",
+      "published_at": "2026-10-17T01:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "yacht",
+        "marine-department",
+        "guangdong",
+        "cross-boundary"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-guangdong-yachts-first-arrival.json",
+      "en": {
+        "headline": "Five Guangdong yachts make first arrival under new southbound travel scheme",
+        "dek": "The vessels from Shenzhen, Nansha and Zhuhai docked at Lantau Yacht Club on Friday after the scheme took effect, with a welcome ceremony attended by senior officials."
+      },
+      "zh": {
+        "headline": "五艘廣東遊艇在「粵艇南下」新計劃下首次抵港",
+        "dek": "來自深圳、南沙及珠海的遊艇周五偽晚停泊大嶼山遊艇會，高層官員出席歡迎儀式。"
+      }
+    },
+    {
+      "id": "2026-10-17-mplus-myths-monsters-opens",
+      "published_at": "2026-10-17T01:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "m-plus",
+        "exhibition",
+        "west-kowloon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-mplus-myths-monsters-opens.json",
+      "en": {
+        "headline": "M+ opens Myths and Monsters exhibition exploring fantasy in Asian visual culture",
+        "dek": "The special exhibition runs from 17 October 2026 to 4 April 2027 at the West Gallery, presenting more than 400 works spanning the nineteenth to twenty-first centuries."
+      },
+      "zh": {
+        "headline": "M+「神話與怪獸」展覽周六開幕 探討亞洲視覺文化中的奇幻",
+        "dek": "特別展覽由今天至2027年4月4日在西展廳舉行，展出逾400件橫跨十九至二十一世紀的作品。"
+      }
+    },
+    {
+      "id": "2026-10-17-tin-shui-wai-woman-hospital-order",
+      "published_at": "2026-10-17T01:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "sedition",
+        "tin-shui-wai",
+        "article-23"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-tin-shui-wai-woman-hospital-order.json",
+      "en": {
+        "headline": "West Kowloon court imposes three-month hospital order on woman convicted of displaying…",
+        "dek": "The 62-year-old was found guilty of knowingly displaying publications with seditious intent after materials including a colonial-era flag were found outside her Tin Shui Wai flat."
+      },
+      "zh": {
+        "headline": "西九龍法庭裁定六旬婦展示煲動刊物罪成 判三個月住院令",
+        "dek": "62歲女子被指在天水圍天頌苑單位外張貼港英期旗幟及標語，被裁定明知而展示具煲動意圖的刊物罪成。"
+      }
+    },
+    {
+      "id": "2026-10-17-wang-fuk-court-owners-sign-agreements",
+      "published_at": "2026-10-17T01:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "wang-fuk-court",
+        "tai-po",
+        "buyout"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-wang-fuk-court-owners-sign-agreements.json",
+      "en": {
+        "headline": "Housing Bureau says 93.2 per cent of Wang Fuk Court owners signed sale agreements…",
+        "dek": "A total of 1,850 owners across the eight blocks completed the Agreement for Sale and Purchase after the October 15 deadline, with remaining cases to be handled individually."
+      },
+      "zh": {
+        "headline": "房屋局指王福苑九成三業主在截止前簽署買賣合約",
+        "dek": "八座樓宇共有1,850名業主完成買賣合約，佔總數的百分之九十三點二，餘下個案將個別處理。"
+      }
+    },
     {
       "id": "2026-10-16-kowloon-break-in-arrests",
       "published_at": "2026-10-16T23:25:00+08:00",
@@ -2452,72 +2562,6 @@
       "zh": {
         "headline": "油麻地13歲女童寓所內上吊死亡 警方調查",
         "dek": "周二晚上約9時44分，母親報稱在彌敦道旺角大樓單位房間發現女兒上吊並將她解下；女童當場證實死亡，現場檢獲遺書。"
-      }
-    },
-    {
-      "id": "2026-10-14-cheung-tsing-tunnel-collision",
-      "published_at": "2026-10-14T01:02:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic",
-        "collision",
-        "cheung-tsing-tunnel",
-        "tsing-kwai-highway"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-cheung-tsing-tunnel-collision.json",
-      "en": {
-        "headline": "Five vehicles collide near Cheung Tsing Tunnel exit, three injured",
-        "dek": "Police received a report at about 6.44pm of a multi-vehicle crash involving a light goods vehicle and private cars on the Kowloon-bound side; three people with minor injuries were taken to hospital and some lanes were…"
-      },
-      "zh": {
-        "headline": "長青隧道出口附近5車相撞 3人輕傷",
-        "dek": "警方晚上約6時44分接報青葵公路往九龍方向長青隧道出口附近多車相撞，涉及輕型貨車及私家車；3名傷者清醒輕傷，部分行車線一度封閉。"
-      }
-    },
-    {
-      "id": "2026-10-14-customs-hzmb-pharma-seizure",
-      "published_at": "2026-10-14T01:02:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "smuggling",
-        "pharmaceuticals",
-        "hong-kong-zhuhai-macao-bridge"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-customs-hzmb-pharma-seizure.json",
-      "en": {
-        "headline": "Customs seize about 320000 suspected pharmaceutical products at bridge port",
-        "dek": "An outbound goods vehicle at the Hong Kong-Zhuhai-Macao Bridge Hong Kong Port was found carrying roughly 320,000 suspected pharmaceutical products valued at about HK$18 million; the Mainland driver faces a court…"
-      },
-      "zh": {
-        "headline": "海關港珠澳大橋口岸檢獲約32萬件懷疑藥劑製品 市值約1800萬元",
-        "dek": "人員根據風險評估截查一輛出境貨車，在貨斗發現約32萬件懷疑藥劑製品，估計市值約1800萬元；39歲內地男司機被控企圖輸出未列艙單貨物，明日提堂。"
-      }
-    },
-    {
-      "id": "2026-10-14-mpox-case-hutong-closure",
-      "published_at": "2026-10-14T01:02:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "mpox",
-        "chp",
-        "mong-kok",
-        "public-health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-mpox-case-hutong-closure.json",
-      "en": {
-        "headline": "Centre for Health Protection investigates new mpox case, suggests temporary venue closure",
-        "dek": "A 39-year-old man who developed a rash and tested positive for mpox is in stable condition in isolation; the centre recommended temporary closure of a Mong Kok premises he visited during the incubation period."
-      },
-      "zh": {
-        "headline": "衞生防護中心調查新增猴痘個案 建議旺角處所暫時關閉",
-        "dek": "一名39歲男子出現紅疹並確診猴痘，情況穩定正接受隔離治療；中心建議他潛伏期曾多次到訪的旺角處所即日起暫時關閉。"
       }
     }
   ]
