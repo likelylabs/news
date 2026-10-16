@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T07:09:03+08:00",
+  "updated_at": "2026-10-16T09:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -337,6 +337,24 @@
       "id": "2026-10-16-lifestyle-tattoo-exhibition-soho",
       "first_seen": "2026-10-16T07:05:00+08:00",
       "headline_en": "Hong Kong China International Tattoo Exhibition opens at Soho House"
+    },
+    {
+      "key": "kwun-tong-mercedes-drug-dangerous-driving-oct15",
+      "id": "2026-10-16-kwun-tong-mercedes-drug-chase",
+      "first_seen": "2026-10-16T09:15:00+08:00",
+      "headline_en": "Police arrest driver after Mercedes hits three vehicles while fleeing in Kwun Tong"
+    },
+    {
+      "key": "fan-kam-road-cleaver-attack-oct15",
+      "id": "2026-10-16-fan-kam-road-cleaver-assault",
+      "first_seen": "2026-10-16T09:15:00+08:00",
+      "headline_en": "Man arrested after cleaver attack on colleague at Fan Kam Road village house"
+    },
+    {
+      "key": "hkstp-roche-collaboration-upgrade-oct16",
+      "id": "2026-10-16-hkstp-roche-end-to-end-collaboration",
+      "first_seen": "2026-10-16T09:15:00+08:00",
+      "headline_en": "Science Park and Roche upgrade partnership to end-to-end support for medtech startups"
     }
   ]
 }
