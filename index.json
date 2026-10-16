@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-17T06:55:50+08:00",
+  "generated_at": "2026-10-17T07:05:08+08:00",
   "live_window_hours": 72,
-  "count": 119,
+  "count": 121,
   "articles": [
+    {
+      "id": "2026-10-17-customs-airport-cannabis-seizures",
+      "published_at": "2026-10-17T07:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "airport",
+        "drugs",
+        "cannabis",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-customs-airport-cannabis-seizures.json",
+      "en": {
+        "headline": "Customs seize 8.8 kg of cannabis buds at airport in two passenger cases",
+        "dek": "Two mainland travellers were arrested over suspected cannabis found in carry-on baggage, with cases listed for West Kowloon court on Saturday."
+      },
+      "zh": {
+        "headline": "海關機場連破兩宗販毒案 檢約8.8公斤大麻花拘兩內地客",
+        "dek": "兩名內地旅客手提行李藏懷疑大麻花被捕，案件周六在西九龍裁判法院提堂，估計總市值約183萬元。"
+      }
+    },
+    {
+      "id": "2026-10-17-one-stanley-wider-inspections",
+      "published_at": "2026-10-17T07:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "buildings",
+        "stanley",
+        "rebar",
+        "safety",
+        "developer"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-one-stanley-wider-inspections.json",
+      "en": {
+        "headline": "Buildings Department orders checks on eight more houses at One Stanley",
+        "dek": "The developer updated its sales brochure after the department required investigations of additional detached houses following earlier rebar irregularities."
+      },
+      "zh": {
+        "headline": "屋宇署要求One Stanley再查八座獨立屋鋼筋問題",
+        "dek": "發展商更新售樓書，披露屋宇署於十月二日要求就另外八座洋房及公用地方進行調查，一個月內提交報告。"
+      }
+    },
     {
       "id": "2026-10-17-customs-counterfeit-hard-disks",
       "published_at": "2026-10-17T03:30:00+08:00",
