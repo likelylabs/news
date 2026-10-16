@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-16T11:09:58+08:00",
+  "generated_at": "2026-10-16T13:14:03+08:00",
   "live_window_hours": 72,
-  "count": 109,
+  "count": 107,
   "articles": [
+    {
+      "id": "2026-10-16-weekend-weather-outlook-oct17-18",
+      "published_at": "2026-10-16T13:15:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "weekend",
+        "chung-yeung",
+        "forecast"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-weekend-weather-outlook-oct17-18.json",
+      "en": {
+        "headline": "Observatory forecasts mainly cloudy weekend with light rain patches",
+        "dek": "A fresh easterly airstream will bring windier conditions and a few rain patches on Saturday and Sunday before the weather turns finer and drier early next week."
+      },
+      "zh": {
+        "headline": "天文台料周末大致多雲有一兩陣雨 下周初轉天晴乾燥",
+        "dek": "受清勁偏東氣流影響，周六及周日風勢較大，有一兩陣雨，重陽節初時雲量較多，稍後至下周初漸轉天晴乾燥。"
+      }
+    },
     {
       "id": "2026-10-16-apec-wan-chai-patrols",
       "published_at": "2026-10-16T11:10:00+08:00",
@@ -2340,75 +2362,6 @@
       "zh": {
         "headline": "新皇崗口岸首日錄得7.95萬人次及8000車輛架次出入境",
         "dek": "運輸及物流局局長陳美寶表示，出入境及公共交通接駁整體順暢，符合預期，當局正為重陽節長周末增加人手及服務作準備。"
-      }
-    },
-    {
-      "id": "2026-10-13-chabaidao-trading-halt",
-      "published_at": "2026-10-13T11:10:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "sfc",
-        "chabaidao",
-        "stocks",
-        "hkex",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-13/2026-10-13-chabaidao-trading-halt.json",
-      "en": {
-        "headline": "SFC orders ChaPanda operator to suspend trading from Tuesday morning",
-        "dek": "The regulator directed the Stock Exchange to halt dealings in Sichuan Baicha Baidao Industrial under rules covering potentially false or misleading documents."
-      },
-      "zh": {
-        "headline": "證監會指令茶百道營運商周二早上起停牌",
-        "dek": "監管機構指示聯交所根據涉及文件可能載有虛假或誤導資料的規則，暫停四川百茶百道實業股份買賣。"
-      }
-    },
-    {
-      "id": "2026-10-13-therapy-dogs-booked-2027",
-      "published_at": "2026-10-13T11:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "animals",
-        "therapy-dogs",
-        "animals-asia",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-13/2026-10-13-therapy-dogs-booked-2027.json",
-      "en": {
-        "headline": "Animals Asia therapy dog programme booked out until February 2027",
-        "dek": "The Dr Dog and Professor Paws visits, run by one staff member and 65 volunteers, are finalists in the teamwork category of the Spirit of Hong Kong Awards."
-      },
-      "zh": {
-        "headline": "亞洲動物基金治療犬計劃預約至2027年2月已滿",
-        "dek": "由一名職員及65名義工組成的Dr Dog及Professor Paws探訪計劃，獲提名競逐香港精神獎團隊合作組別。"
-      }
-    },
-    {
-      "id": "2026-10-13-yue-ting-nan-xia-preparations",
-      "published_at": "2026-10-13T11:10:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "yue-ting-nan-xia",
-        "marine",
-        "mable-chan",
-        "guangdong",
-        "yachts"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-13/2026-10-13-yue-ting-nan-xia-preparations.json",
-      "en": {
-        "headline": "Marine Department coordinates with Guangdong ahead of Friday yacht first voyage",
-        "dek": "Secretary for Transport and Logistics Mable Chan said preparations include captain training, real-time monitoring and an electronic service system for the southbound Guangdong yachts."
-      },
-      "zh": {
-        "headline": "粵艇南下周五行首航 海事處與廣東密切溝通做好準備",
-        "dek": "運輸及物流局局長陳美寶表示，當局已進行船長培訓考核、建立實時監察系統及電子業務系統，並會加強安全提示及巡邏。"
       }
     }
   ]
