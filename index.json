@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-10-16T07:09:03+08:00",
+  "generated_at": "2026-10-16T09:17:29+08:00",
   "live_window_hours": 72,
-  "count": 104,
+  "count": 105,
   "articles": [
+    {
+      "id": "2026-10-16-fan-kam-road-cleaver-assault",
+      "published_at": "2026-10-16T09:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "assault",
+        "yuen-long",
+        "cleaver"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-fan-kam-road-cleaver-assault.json",
+      "en": {
+        "headline": "Man arrested after cleaver attack on colleague at Fan Kam Road village house",
+        "dek": "Police detained a 48-year-old man on Thursday afternoon after he allegedly attacked a co-worker with a cleaver during an argument at staff quarters in Yuen Long."
+      },
+      "zh": {
+        "headline": "粉錦路村屋同事爭執 48歲男持菜刀斬傷被捕",
+        "dek": "周四下午約兩時，元朗粉錦路一間村屋內兩名同事因琐事爭執，一名48歲男子涉嫌持菜刀襲擊45歲同事，已被警方拘捕。"
+      }
+    },
+    {
+      "id": "2026-10-16-hkstp-roche-end-to-end-collaboration",
+      "published_at": "2026-10-16T09:15:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "biotech",
+        "science-park",
+        "healthcare",
+        "ai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-hkstp-roche-end-to-end-collaboration.json",
+      "en": {
+        "headline": "Science Park and Roche upgrade partnership to end-to-end support for medtech startups",
+        "dek": "The Hong Kong Science and Technology Parks Corporation and Roche signed a strategic agreement to expand collaboration on AI-enabled early screening and clinical translation for local innovators."
+      },
+      "zh": {
+        "headline": "科技園與羅氏簽署戰略協議 升級端到端支援醫療科技初創",
+        "dek": "香港科技園公司與羅氏周四簽署協議，將2023年起的合作提升至端到端轉化及商業化支援，聚焦AI輔助癌症與慢性病早篩及本地初創臨床轉化。"
+      }
+    },
+    {
+      "id": "2026-10-16-kwun-tong-mercedes-drug-chase",
+      "published_at": "2026-10-16T09:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "kwun-tong",
+        "drugs",
+        "traffic",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-kwun-tong-mercedes-drug-chase.json",
+      "en": {
+        "headline": "Police arrest driver after Mercedes hits three vehicles while fleeing in Kwun Tong",
+        "dek": "A Pakistani man was detained on Thursday evening after a rented Mercedes struck several cars in Kwun Tong; officers found etomidate, methamphetamine and cocaine inside the vehicle."
+      },
+      "zh": {
+        "headline": "觀塘平治逃捕連撞三車 警拘巴基斯坦裔司機檢獲毒品",
+        "dek": "周四晚上約七時，一輛租來的平治在觀塘撞及多部車輛後企圖逃走，警方在崇仁街截獲，車上檢獲依托咪酯、冰毒及可卡因。"
+      }
+    },
     {
       "id": "2026-10-16-kindergarten-net-loss-40",
       "published_at": "2026-10-16T07:05:00+08:00",
@@ -2248,50 +2316,6 @@
       "zh": {
         "headline": "粵艇南下周五行首航 海事處與廣東密切溝通做好準備",
         "dek": "運輸及物流局局長陳美寶表示，當局已進行船長培訓考核、建立實時監察系統及電子業務系統，並會加強安全提示及巡邏。"
-      }
-    },
-    {
-      "id": "2026-10-13-ma-on-shan-carpark-fight",
-      "published_at": "2026-10-13T09:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "ma-on-shan",
-        "fight",
-        "police",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-13/2026-10-13-ma-on-shan-carpark-fight.json",
-      "en": {
-        "headline": "Two men arrested after fight over money in Ma On Shan car park",
-        "dek": "A 42-year-old and a 36-year-old were detained early Tuesday after a dispute in a car park on Kam Ying Road; both were taken to hospital with minor injuries."
-      },
-      "zh": {
-        "headline": "馬鞍山停車場兩男因錢財問題互毆 涉公眾地方打鬥被捕",
-        "dek": "今早約3時40分，錦英路6號停車場兩名男子因金錢問題爭執互毆，分別頭部及頸部受傷送院，警方以涉嫌公眾地方打鬥拘捕。"
-      }
-    },
-    {
-      "id": "2026-10-13-tsz-ching-estate-fire",
-      "published_at": "2026-10-13T09:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tsz-wan-shan",
-        "fire",
-        "accident",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-13/2026-10-13-tsz-ching-estate-fire.json",
-      "en": {
-        "headline": "Man injured after charger overheats in Tsz Ching Estate flat fire",
-        "dek": "About 250 residents were evacuated from Ching On House in Tsz Wan Shan after a fire early Tuesday; a 70-year-old man was taken to hospital."
-      },
-      "zh": {
-        "headline": "慈正邨正安樓單位充電器過熱起火 七旬男戶主受傷 約250人疏散",
-        "dek": "慈雲山慈正邨正安樓24樓單位今早約6時起火，初步相信外置充電器過熱引起，七旬男戶主燒傷送院，約250名居民疏散。"
       }
     }
   ]
