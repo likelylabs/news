@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T21:07:12+08:00",
+  "updated_at": "2026-10-16T23:25:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -7,6 +7,24 @@
       "id": "2026-10-13-edb-sen-grade-retention-guide",
       "first_seen": "2026-10-13T15:05:00+08:00",
       "headline_en": "Education Bureau updates guide to discourage grade retention for SEN students"
+    },
+    {
+      "key": "weekend-weather-outlook-oct17-19",
+      "id": "2026-10-16-weekend-weather-outlook-oct17-19",
+      "first_seen": "2026-10-16T23:25:00+08:00",
+      "headline_en": "Observatory forecasts fine and dry weather for Chung Yeung weekend"
+    },
+    {
+      "key": "kowloon-break-in-spree-arrests-oct16",
+      "id": "2026-10-16-kowloon-break-in-arrests",
+      "first_seen": "2026-10-16T23:25:00+08:00",
+      "headline_en": "Police arrest two men over Kowloon break-in spree worth HK$1.7 million"
+    },
+    {
+      "key": "lifestyle-hk-science-museum-future-science-prize-2026",
+      "id": "2026-10-16-science-museum-future-prize-exhibition",
+      "first_seen": "2026-10-16T23:25:00+08:00",
+      "headline_en": "Science Museum opens Future Science Prize Exhibition until 18 November"
     }
   ]
 }
