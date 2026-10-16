@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-10-17T01:04:52+08:00",
+  "generated_at": "2026-10-17T03:17:38+08:00",
   "live_window_hours": 72,
-  "count": 116,
+  "count": 119,
   "articles": [
+    {
+      "id": "2026-10-17-customs-counterfeit-hard-disks",
+      "published_at": "2026-10-17T03:30:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "counterfeit",
+        "tuen-mun",
+        "arrest",
+        "technology"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-customs-counterfeit-hard-disks.json",
+      "en": {
+        "headline": "Customs seize HK$50 million in counterfeit hard disks, arrest six in Tuen Mun",
+        "dek": "Officers raided five industrial units and found about 6,800 suspected counterfeit disks plus 20,000 second-hand units awaiting processing."
+      },
+      "zh": {
+        "headline": "海關屯門搞冒牌硬碟工場拘6人 檢值約5000萬貨",
+        "dek": "關員搜查五個工廈單位，檢獲約6800個懷疑冒牌硬碟及2萬個待加工二手硬碟。"
+      }
+    },
+    {
+      "id": "2026-10-17-hktb-halloween-month",
+      "published_at": "2026-10-17T03:30:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "halloween",
+        "tourism",
+        "events",
+        "cosplay"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-hktb-halloween-month.json",
+      "en": {
+        "headline": "Tourism Board launches first Halloween Month with citywide cosplay parties",
+        "dek": "Street celebrations begin on Saturday in Central, Lan Kwai Fong, Mong Kok, Tsim Sha Tsui East and Kai Tak, with free admission at several venues."
+      },
+      "zh": {
+        "headline": "旅發局首辦「香港萬聖月」全城Cosplay街頭派對今日啟動",
+        "dek": "中環、蘭桂坊、旺角、尖東及啟德多區周六起舉行街頭慶祝活動，多個場地免費入場。"
+      }
+    },
+    {
+      "id": "2026-10-17-taizoom-lifts-arrests",
+      "published_at": "2026-10-17T03:30:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "emsd",
+        "lifts",
+        "public-housing",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-taizoom-lifts-arrests.json",
+      "en": {
+        "headline": "Police arrest three over missing fire door frames in public estate lift works",
+        "dek": "A company director and two registered engineers were detained on fraud suspicions after EMSD found 48 lifts at two estates lacked required components."
+      },
+      "zh": {
+        "headline": "警方拘捕三人涉公屋升降機工程欠裝耐火門框",
+        "dek": "機電署發現兩屋苑48部升降機未裝所需門框組件，一名董事及兩名註冊工程師因涉嫌欺詐被扣留。"
+      }
+    },
     {
       "id": "2026-10-17-fsd-chung-yeung-hill-fire-prep",
       "published_at": "2026-10-17T01:10:00+08:00",
