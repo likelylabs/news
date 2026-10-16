@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-16T21:07:13+08:00",
+  "generated_at": "2026-10-16T23:23:29+08:00",
   "live_window_hours": 72,
-  "count": 111,
+  "count": 114,
   "articles": [
+    {
+      "id": "2026-10-16-kowloon-break-in-arrests",
+      "published_at": "2026-10-16T23:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "kowloon",
+        "burglary",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-kowloon-break-in-arrests.json",
+      "en": {
+        "headline": "Police arrest two men over Kowloon break-in spree worth HK$1.7 million",
+        "dek": "A 54-year-old mainland man and a 34-year-old local man were detained over at least nine residential burglaries in Kowloon since July, with losses including cash, watches and jewellery."
+      },
+      "zh": {
+        "headline": "警方拘捕兩男涉九龍區連環爆竊 損失約170萬",
+        "dek": "54歲內地男子及34歲本地男子被控涉及自七月以來至少九宗住宅爆竊，失物包括現金、手錶及珠寶。"
+      }
+    },
+    {
+      "id": "2026-10-16-science-museum-future-prize-exhibition",
+      "published_at": "2026-10-16T23:25:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "science-museum",
+        "exhibition",
+        "science"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-science-museum-future-prize-exhibition.json",
+      "en": {
+        "headline": "Science Museum opens Future Science Prize Exhibition until 18 November",
+        "dek": "The ground-floor show highlights this year's three laureates and past Hong Kong winners through multimedia and interactive displays on topics including autophagy and mesoporous materials."
+      },
+      "zh": {
+        "headline": "科學館舉行2026未來科學大獎展覽至11月18日",
+        "dek": "地下展覽廳以「生活中的科學」為題，介紹本年度三位得主及歷年香港獲獎者，設多媒體互動展品。"
+      }
+    },
+    {
+      "id": "2026-10-16-weekend-weather-outlook-oct17-19",
+      "published_at": "2026-10-16T23:25:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "chung-yeung",
+        "weekend"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-weekend-weather-outlook-oct17-19.json",
+      "en": {
+        "headline": "Observatory forecasts fine and dry weather for Chung Yeung weekend",
+        "dek": "Rain patches are expected on Saturday and Sunday morning before conditions turn mainly fine and dry from later on the Chung Yeung Festival through early next week."
+      },
+      "zh": {
+        "headline": "天文台預測重陽節周末轉晴乾燥",
+        "dek": "周六及周日早上有一兩陣雨，重陽節稍後至下周初大致天晴及乾燥，中期日間炎熱。"
+      }
+    },
     {
       "id": "2026-10-16-hkex-t1-settlement-2028",
       "published_at": "2026-10-16T21:10:00+08:00",
