@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T09:17:29+08:00",
+  "updated_at": "2026-10-16T11:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -355,6 +355,30 @@
       "id": "2026-10-16-hkstp-roche-end-to-end-collaboration",
       "first_seen": "2026-10-16T09:15:00+08:00",
       "headline_en": "Science Park and Roche upgrade partnership to end-to-end support for medtech startups"
+    },
+    {
+      "key": "apec-finance-ministers-wan-chai-patrols",
+      "id": "2026-10-16-apec-wan-chai-patrols",
+      "first_seen": "2026-10-16T11:10:00+08:00",
+      "headline_en": "Police to patrol Wan Chai round the clock ahead of APEC finance ministers meeting"
+    },
+    {
+      "key": "guangdong-yachts-southbound-first-voyage-oct16",
+      "id": "2026-10-16-guangdong-yachts-first-voyage",
+      "first_seen": "2026-10-16T11:10:00+08:00",
+      "headline_en": "Guangdong yachts make first southbound voyage to Hong Kong today"
+    },
+    {
+      "key": "hand-foot-mouth-outbreaks-rise-oct16",
+      "id": "2026-10-16-hand-foot-mouth-rise",
+      "first_seen": "2026-10-16T11:10:00+08:00",
+      "headline_en": "Hand, foot and mouth disease activity rises sharply in schools"
+    },
+    {
+      "key": "lifestyle-airside-kuromi-starlit-sweet-party",
+      "id": "2026-10-16-lifestyle-airside-kuromi",
+      "first_seen": "2026-10-16T11:10:00+08:00",
+      "headline_en": "AIRSIDE opens Kuromi Starlit Sweet Party with six-metre macaron installation"
     }
   ]
 }
