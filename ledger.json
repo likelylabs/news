@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T23:23:29+08:00",
+  "updated_at": "2026-10-17T01:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -25,6 +25,36 @@
       "id": "2026-10-16-science-museum-future-prize-exhibition",
       "first_seen": "2026-10-16T23:25:00+08:00",
       "headline_en": "Science Museum opens Future Science Prize Exhibition until 18 November"
+    },
+    {
+      "key": "wang-fuk-court-asp-signing-deadline-oct16",
+      "id": "2026-10-17-wang-fuk-court-owners-sign-agreements",
+      "first_seen": "2026-10-17T01:10:00+08:00",
+      "headline_en": "Housing Bureau says 93.2 per cent of Wang Fuk Court owners signed sale agreements before deadline"
+    },
+    {
+      "key": "guangdong-yachts-southbound-maiden-voyage",
+      "id": "2026-10-17-guangdong-yachts-first-arrival",
+      "first_seen": "2026-10-17T01:10:00+08:00",
+      "headline_en": "Five Guangdong yachts make first arrival under new southbound travel scheme"
+    },
+    {
+      "key": "tin-shui-wai-sedition-hospital-order",
+      "id": "2026-10-17-tin-shui-wai-woman-hospital-order",
+      "first_seen": "2026-10-17T01:10:00+08:00",
+      "headline_en": "West Kowloon court imposes three-month hospital order on woman convicted of displaying seditious materials"
+    },
+    {
+      "key": "fsd-chung-yeung-ai-drones-patrols",
+      "id": "2026-10-17-fsd-chung-yeung-hill-fire-prep",
+      "first_seen": "2026-10-17T01:10:00+08:00",
+      "headline_en": "Fire Services Department deploys AI-assisted drones and extra patrols for Chung Yeung hill-fire risk"
+    },
+    {
+      "key": "lifestyle-mplus-myths-monsters-exhibition",
+      "id": "2026-10-17-mplus-myths-monsters-opens",
+      "first_seen": "2026-10-17T01:10:00+08:00",
+      "headline_en": "M+ opens Myths and Monsters exhibition exploring fantasy in Asian visual culture"
     }
   ]
 }
