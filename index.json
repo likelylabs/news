@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-16T13:15:06+08:00",
+  "generated_at": "2026-10-16T15:03:28+08:00",
   "live_window_hours": 72,
-  "count": 107,
+  "count": 105,
   "articles": [
+    {
+      "id": "2026-10-16-icac-tech-voucher-charges",
+      "published_at": "2026-10-16T15:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "icac",
+        "fraud",
+        "technology-voucher",
+        "corruption"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-icac-tech-voucher-charges.json",
+      "en": {
+        "headline": "ICAC charges five over technology voucher fraud involving shell companies",
+        "dek": "A technology services provider and four others face conspiracy to defraud charges after an operation intercepted nearly 90 per cent of more than HK$100 million in suspected subsidies."
+      },
+      "zh": {
+        "headline": "廉署起訴科技服務供應商等5人 涉空殼公司詐騙科技券",
+        "dek": "一名科技服務供應商及四名空殼公司負責人與中間人遭控串謀詐騙，廉署指成功阻截近九成涉贎資助。"
+      }
+    },
     {
       "id": "2026-10-16-weekend-weather-outlook-oct17-18",
       "published_at": "2026-10-16T13:15:00+08:00",
@@ -2294,74 +2316,6 @@
       "zh": {
         "headline": "警方搗破深水埗跨國賣淫集團 拘捕20人並凍結逾千萬元犯罪得益",
         "dek": "行動針對深水埗及荃灣的有組織集團，拘捕包括泰籍主腦在內的20人，指集團要求女子提供30至45次無償性服務以抵償來港費用。"
-      }
-    },
-    {
-      "id": "2026-10-13-anita-mui-ashes-investigation-upgrade",
-      "published_at": "2026-10-13T13:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "anita-mui",
-        "police",
-        "lantau",
-        "ashes",
-        "investigation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-13/2026-10-13-anita-mui-ashes-investigation-upgrade.json",
-      "en": {
-        "headline": "Police upgrade Anita Mui ashes case to New Territories South regional unit",
-        "dek": "The investigation into the missing urn of the late Cantopop singer, reported three months ago at Po Lin Monastery, has been transferred from the Lantau district squad."
-      },
-      "zh": {
-        "headline": "警方將梅艷芳骨灰失蹤案升級由新界南總區重案組跟進",
-        "dek": "已故歌手骨灰於7月在大嶼山寶蓮禪寺失蹤的個案，原由離島區重案組處理，現轉交更高層級單位，暫未有人被捕。"
-      }
-    },
-    {
-      "id": "2026-10-13-hongkong-post-staff-priority-hiring",
-      "published_at": "2026-10-13T13:20:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "hongkong-post",
-        "civil-service",
-        "ftu",
-        "employment",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-13/2026-10-13-hongkong-post-staff-priority-hiring.json",
-      "en": {
-        "headline": "Civil Service Bureau offers priority hiring for affected Hongkong Post staff",
-        "dek": "The Federation of Trade Unions said the arrangements include preferential selection for transfers and relaxed education requirements for clerical grades."
-      },
-      "zh": {
-        "headline": "公務員事務局為受影響香港郵政員工轉職提供優先聘用",
-        "dek": "工聯會引述安排，受影響員工轉任其他職系可獲優先選拔，轉任助理文書主任等職系可放寬學歷要求。"
-      }
-    },
-    {
-      "id": "2026-10-13-huanggang-port-first-day-totals",
-      "published_at": "2026-10-13T13:20:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "huanggang-port",
-        "border",
-        "transport",
-        "mable-chan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-13/2026-10-13-huanggang-port-first-day-totals.json",
-      "en": {
-        "headline": "Huanggang Port records 79500 passenger trips on first day of operations",
-        "dek": "Transport Secretary Mable Chan said immigration clearance and public transport connections ran smoothly, meeting official expectations ahead of the holiday weekend."
-      },
-      "zh": {
-        "headline": "新皇崗口岸首日錄得7.95萬人次及8000車輛架次出入境",
-        "dek": "運輸及物流局局長陳美寶表示，出入境及公共交通接駁整體順暢，符合預期，當局正為重陽節長周末增加人手及服務作準備。"
       }
     }
   ]
