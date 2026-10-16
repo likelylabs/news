@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-17T07:05:08+08:00",
+  "generated_at": "2026-10-17T07:06:06+08:00",
   "live_window_hours": 72,
-  "count": 121,
+  "count": 123,
   "articles": [
+    {
+      "id": "2026-10-17-citybus-b14-all-day-trial",
+      "published_at": "2026-10-17T07:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "citybus",
+        "huanggang",
+        "bus",
+        "kai-tak",
+        "border"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-citybus-b14-all-day-trial.json",
+      "en": {
+        "headline": "Citybus extends B14 to all-day service on trial from Saturday",
+        "dek": "The Kai Tak to Huanggang Port express route will run throughout the day until 1 November, with northbound services from 8am to 9pm."
+      },
+      "zh": {
+        "headline": "城巴B14周六起試辦全日服務往返啟德及皇崗口岸",
+        "dek": "北上班次由上午八時至晚上九時，南下班次至晚上十一時，試辦期至十一月一日，最快約四十分鐘可達口岸。"
+      }
+    },
     {
       "id": "2026-10-17-customs-airport-cannabis-seizures",
       "published_at": "2026-10-17T07:05:00+08:00",
@@ -47,6 +70,29 @@
       "zh": {
         "headline": "屋宇署要求One Stanley再查八座獨立屋鋼筋問題",
         "dek": "發展商更新售樓書，披露屋宇署於十月二日要求就另外八座洋房及公用地方進行調查，一個月內提交報告。"
+      }
+    },
+    {
+      "id": "2026-10-17-signature-tourism-projects-q4",
+      "published_at": "2026-10-17T07:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "tourism",
+        "peak",
+        "temples",
+        "yuen-long"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-signature-tourism-projects-q4.json",
+      "en": {
+        "headline": "Government to roll out four new signature tourism projects from fourth quarter",
+        "dek": "The batch includes industrial brand tours at bus depots and MTR exhibits, a miniature city display at the Peak, temple digitalisation and Yuen Long seasonal events."
+      },
+      "zh": {
+        "headline": "政府第四季起推四項新特色旅遊項目涵蓋工業品牌及廟宇文化",
+        "dek": "項目包括九巴車廠及港鐵展覽參觀、山頂微型城市展、廟宇數碼化，以及元朗季節性地區活動。"
       }
     },
     {
