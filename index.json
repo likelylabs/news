@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-10-16T17:11:28+08:00",
+  "generated_at": "2026-10-16T19:09:57+08:00",
   "live_window_hours": 72,
-  "count": 109,
+  "count": 107,
   "articles": [
+    {
+      "id": "2026-10-16-cfa-ku-nord-appointment",
+      "published_at": "2026-10-16T19:05:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "judiciary",
+        "cfa",
+        "appointment",
+        "non-permanent-judge"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-cfa-ku-nord-appointment.json",
+      "en": {
+        "headline": "Chief Executive accepts recommendation to appoint former New Zealand judge as CFA…",
+        "dek": "The appointment of the retired New Zealand Supreme Court permanent judge will take effect after Legislative Council approval, raising the number of overseas non-permanent judges to six."
+      },
+      "zh": {
+        "headline": "行政長官接納推薦 任命新西蘭前最高法院常任法官為終院非常任法官",
+        "dek": "區諾德獲任命後，其他普通法適用地區非常任法官將增至六名，須立法會同意後生效。"
+      }
+    },
+    {
+      "id": "2026-10-16-huanggang-chung-yeung-traffic",
+      "published_at": "2026-10-16T19:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "huanggang",
+        "chung-yeung",
+        "border",
+        "td"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-huanggang-chung-yeung-traffic.json",
+      "en": {
+        "headline": "Transport Department sets special arrangements at Huanggang control point for Chung Yeung",
+        "dek": "Bus and minibus frequencies will be increased from Saturday as cross-boundary flows rise, with Monday afternoon to evening expected to be the peak return period."
+      },
+      "zh": {
+        "headline": "運輸署皇崗口岸重陽節實施特別交通安排 料下周一下午至傍晚為回港高峰",
+        "dek": "周六起加密專營巴士及小巴班次，呼籲市民提早計劃行程，按需要選擇其他口岸過關。"
+      }
+    },
+    {
+      "id": "2026-10-16-imported-chikungunya-dengue",
+      "published_at": "2026-10-16T19:05:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "chikungunya",
+        "dengue",
+        "imported",
+        "chp"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-imported-chikungunya-dengue.json",
+      "en": {
+        "headline": "Centre for Health Protection records two imported chikungunya and one dengue case",
+        "dek": "The two chikungunya patients had visited the mainland during the incubation period; the dengue case was linked to travel in Cambodia. Both diseases remain mostly imported this year."
+      },
+      "zh": {
+        "headline": "衛生防護中心錄得兩宗輸入性基孔肯雅熱及一宗登革熱個案",
+        "dek": "兩名基孔肯雅熱患者潛伏期內曾到內地，登革熱個案與柬埔寨行程有關，今年個案大多為外地傳入。"
+      }
+    },
+    {
+      "id": "2026-10-16-light-public-housing-all-open",
+      "published_at": "2026-10-16T19:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "light-public-housing",
+        "housing-bureau",
+        "application"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-light-public-housing-all-open.json",
+      "en": {
+        "headline": "Housing Bureau opens applications for all 13 light public housing projects",
+        "dek": "With the final two school-conversion sites due in the first quarter next year, the full portfolio of about 30,000 units will be complete by end-March, ahead of the original five-year target."
+      },
+      "zh": {
+        "headline": "房屋局宣布簡約公屋13個項目全部開放接受申請",
+        "dek": "最後兩個校舍改建項目明年首季落成，約3萬個單位將於明年三月底前全部完成，提前達標。"
+      }
+    },
+    {
+      "id": "2026-10-16-tai-yip-elevator-arrests",
+      "published_at": "2026-10-16T19:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "elevator",
+        "emsd",
+        "police",
+        "tsui-ping",
+        "pok-hong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-16/2026-10-16-tai-yip-elevator-arrests.json",
+      "en": {
+        "headline": "Police arrest company director and two engineers over lift works deficiencies",
+        "dek": "New Territories South Regional Crime Unit detained three men aged 63 to 82 after EMSD referred findings of missing fire-door frames at two estates."
+      },
+      "zh": {
+        "headline": "警方拘捕臺日電梯董事及兩名註冊工程師 涉升降機工程缺失",
+        "dek": "新界南總區重案組拘捕三名63至82歲男子，機電署早前轉介兩屋邨耐火門框組件未裝便報完工的個案。"
+      }
+    },
     {
       "id": "2026-10-16-customs-counterfeit-hard-disks",
       "published_at": "2026-10-16T17:08:00+08:00",
@@ -2251,162 +2364,6 @@
       "zh": {
         "headline": "衞生防護中心調查新增猴痘個案 建議旺角處所暫時關閉",
         "dek": "一名39歲男子出現紅疹並確診猴痘，情況穩定正接受隔離治療；中心建議他潛伏期曾多次到訪的旺角處所即日起暫時關閉。"
-      }
-    },
-    {
-      "id": "2026-10-13-customs-shenzhen-bay-tobacco",
-      "published_at": "2026-10-13T19:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "shenzhen-bay",
-        "tobacco",
-        "smuggling"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-13/2026-10-13-customs-shenzhen-bay-tobacco.json",
-      "en": {
-        "headline": "Customs seize 8000kg unmanifested tobacco at Shenzhen Bay",
-        "dek": "Officers stopped a medium goods vehicle claiming to carry plastic wood flooring and found about 300 boxes of duty-unpaid manufactured tobacco with an estimated market value of HK$53.4 million."
-      },
-      "zh": {
-        "headline": "海關深圳灣檢獲約8000公斤未完稅煙草 拘司機",
-        "dek": "人員截查報稱載有塑木地板的中型貨車，發現約300箱未列艙單及未完稅製成煙草，估計市值約5340萬元，51歲本地男司機被捕。"
-      }
-    },
-    {
-      "id": "2026-10-13-mtr-lam-tin-trackside-fire",
-      "published_at": "2026-10-13T19:05:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "kwun-tong-line",
-        "lam-tin",
-        "fire"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-13/2026-10-13-mtr-lam-tin-trackside-fire.json",
-      "en": {
-        "headline": "MTR resumes Kwun Tong Line after trackside fire at Lam Tin",
-        "dek": "A fire beside the tracks at Lam Tin station halted services between Kwun Tong and Tiu Keng Leng during the evening peak; the blaze has been extinguished and trains are returning to normal."
-      },
-      "zh": {
-        "headline": "藍田站路軌旁火警擔滅 觀塘綫服務逐步復常",
-        "dek": "觀塘綫藍田站路軌旁傍晚發生火警，觀塘至調景嶺一度暫停，消防及港鐵人員已擔滅火種，列車服務於下午6時36分起逐步回復正常。"
-      }
-    },
-    {
-      "id": "2026-10-13-ocean-park-50th-plans",
-      "published_at": "2026-10-13T19:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "ocean-park",
-        "anniversary",
-        "conservation",
-        "pandas"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-13/2026-10-13-ocean-park-50th-plans.json",
-      "en": {
-        "headline": "Ocean Park announces conservation facilities ahead of 50th anniversary",
-        "dek": "The park will open a marine mammal conservation centre next January displaying a Bryde's whale skeleton and a new panda pavilion in the third quarter of next year as it marks 50 years in 2027."
-      },
-      "zh": {
-        "headline": "海洋公園公布50周年保育設施 明年展出布氏鯨骨骼",
-        "dek": "園區明年1月10日迎來50周年，將開設海洋哺乳動物保育中心展出西貢擱淺布氏鯨骨骼標本，並於明年第三季啟用全新大熊貓展館。"
-      }
-    },
-    {
-      "id": "2026-10-13-police-thunder-2026-scam",
-      "published_at": "2026-10-13T19:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "scam",
-        "triad",
-        "money-laundering"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-13/2026-10-13-police-thunder-2026-scam.json",
-      "en": {
-        "headline": "Police arrest 44 in operation against triad phone scam and money laundering",
-        "dek": "A two-day Organised Crime and Triad Bureau action codenamed Thunder 2026 targeted a Wo Shing Wo-controlled fake customer-service call centre, a hotel-based laundering operation and illegal gambling dens, involving at…"
-      },
-      "zh": {
-        "headline": "警方雷霆2026行動拘44人 搞三合會電騙及洗黑錢中心",
-        "dek": "有組織罪案及三合會調查科一連兩日行動，瓦解和勝和控制的假冒客服電話詐騙中心、西九龍酒店洗黑錢中心及非法賭檔，最少涉65宗案件。"
-      }
-    },
-    {
-      "id": "2026-10-13-clp-voltage-dip-lifts",
-      "published_at": "2026-10-13T17:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "clp",
-        "voltage-dip",
-        "lifts",
-        "fire-services",
-        "kowloon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-13/2026-10-13-clp-voltage-dip-lifts.json",
-      "en": {
-        "headline": "CLP voltage dip traps people in lifts across Kowloon and New Territories",
-        "dek": "A momentary sag on a 400-kilovolt line from Lai Chi Kok to Tsz Wan Shan at about 1.09pm prompted nearly 180 lift entrapment reports and dozens of false fire alarms; rescues are complete."
-      },
-      "zh": {
-        "headline": "中電40萬伏特線路電壓驟降 九龍新界近180宗困升降機",
-        "dek": "荔枝角至慈雲山供電線路下午約1時09分錄得短暫電壓驟降，電力無中斷；消防接獲近180宗困升降機及約40宗火警鐘誤鳴，救援已完成。"
-      }
-    },
-    {
-      "id": "2026-10-13-free-tv-licences-renewed",
-      "published_at": "2026-10-13T17:20:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "broadcasting",
-        "tv-licences",
-        "communications-authority",
-        "tvb"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-13/2026-10-13-free-tv-licences-renewed.json",
-      "en": {
-        "headline": "Government renews free TV licences of three broadcasters for 12 years",
-        "dek": "The Chief Executive in Council approved renewals for HK Television Entertainment, TVB and i-CABLE HOY, with combined investment commitments of about HK$9.48 billion in the first six years and updated programme rules."
-      },
-      "zh": {
-        "headline": "三間免費電視台牌照獲續期12年 首六年承諾投資近95億元",
-        "dek": "行政長官會同行政會議批准香港電視娛樂、無綫及有線寬頻開電視續牌12年，並落實放寬措施及加強國民教育等節目要求。"
-      }
-    },
-    {
-      "id": "2026-10-13-hang-seng-close",
-      "published_at": "2026-10-13T17:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "stocks",
-        "hkex",
-        "market"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-13/2026-10-13-hang-seng-close.json",
-      "en": {
-        "headline": "Hang Seng Index closes up 74 points at 24345",
-        "dek": "The benchmark recovered from an early slide to finish higher on Tuesday, with financial and property stocks among the gainers while technology shares remained mixed."
-      },
-      "zh": {
-        "headline": "恒生指數收升74點報24345點",
-        "dek": "恒指周二早段下跌後午後回升，金融及地產股向上，科技股則表現參差。"
       }
     }
   ]
