@@ -1,1 +1,29 @@
-PLACEHOLDER
+{
+  "id": "2026-10-18-hko-wednesday-very-hot-forecast",
+  "published_at": "2026-10-18T03:20:00+08:00",
+  "category": "weather",
+  "tags": ["hko", "hot-weather", "el-nino", "forecast"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "hko-wednesday-very-hot-oct21",
+  "en": {
+    "headline": "Observatory forecasts very hot weather on Wednesday, possibly record late date",
+    "dek": "Under the influence of a strong El Niño and a strengthening anticyclone, the maximum temperature on 21 October could reach 33 degrees or above at the Observatory.",
+    "body": [
+      "The Hong Kong Observatory said Wednesday is expected to be very hot, with light winds and ample sunshine allowing daytime temperatures to rise.",
+      "In a blog post, the Observatory noted that a strong El Niño formed in September, leading to weaker northeast monsoon and higher temperatures in the first half of October. It said that if the maximum temperature at the Observatory headquarters reaches 33.0 degrees or above on Wednesday, it would break the record for the latest date of very hot weather in a year, currently held by 19 October 2024.",
+      "The nine-day forecast shows a temperature range of 27 to 33 degrees on Wednesday, with mainly fine and dry conditions and relatively low visibility in some areas at first. The public is advised to take heat precautions and drink more water.",
+      "Tropical Cyclone Champi is expected to move towards the seas east of Luzon, and its outer subsiding air may bring further high temperatures later in the week, though the subsequent path remains uncertain."
+    ]
+  },
+  "zh": {
+    "headline": "天文台料下周三日間酷熱 或破年內最遲酷熱紀錄",
+    "dek": "受超強厄爾尼諾及高空反氣旋影響，風勢微弱，若周三最高氣溫達33度或以上將刷新最遲酷熱日子紀錄。",
+    "body": [
+      "香港天文台預料下周三（10月21日）本港日間酷熱，風勢微弱及充足陽光有利氣溫上升。",
+      "天文台在天氣隨筆指出，超強厄爾尼諾已於9月形成，令東北季候風較弱，10月上半月氣溫偏高。若當日天文台總部最高氣溫達33.0度或以上，將打破年內最遲出現酷熱天氣的紀錄，目前紀錄為2024年10月19日。",
+      "九天天氣預報顯示周三氣溫約27至33度，大致天晴乾燥，初時部分地區能見度較低。市民應做足防暑措施，多補充水分。",
+      "熱帶氣旋薔琵預料下週初至中期移向呂宋以東海域，其外圍下沉氣流或在下週後期帶來高溫，惟路徑仍有不確定性。"
+    ]
+  }
+}
