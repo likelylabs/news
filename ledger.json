@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T15:21:27+08:00",
+  "updated_at": "2026-10-17T17:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -187,6 +187,24 @@
       "id": "2026-10-17-hk-ballet-dunhuang-premiere",
       "first_seen": "2026-10-17T15:19:00+08:00",
       "headline_en": "Hong Kong Ballet premieres Dunhuang: In Search of Light at Cultural Centre"
+    },
+    {
+      "key": "iphone-duo-preorder-credit-card-reports-oct17",
+      "id": "2026-10-17-iphone-duo-credit-card-reports",
+      "first_seen": "2026-10-17T17:10:00+08:00",
+      "headline_en": "Police receive over 100 reports of credit card charges linked to iPhone Duo pre-orders"
+    },
+    {
+      "key": "ngau-tau-kok-amoy-plaza-robbery-oct16",
+      "id": "2026-10-17-amoy-plaza-cash-robbery",
+      "first_seen": "2026-10-17T17:10:00+08:00",
+      "headline_en": "Woman robbed of HK$11,000 cash in Amoy Plaza stairwell in Ngau Tau Kok"
+    },
+    {
+      "key": "yau-tong-husband-arrest-role-x-theft-oct17",
+      "id": "2026-10-17-yau-tong-role-x-theft-arrest",
+      "first_seen": "2026-10-17T17:10:00+08:00",
+      "headline_en": "Husband arrested after wife reports theft of Rolex and handbags worth HK$450,000 in Yau Tong"
     }
   ]
 }
