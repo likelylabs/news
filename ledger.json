@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T15:20:35+08:00",
+  "updated_at": "2026-10-17T15:21:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -169,6 +169,24 @@
       "id": "2026-10-17-ha-fmc-holiday-service",
       "first_seen": "2026-10-17T13:11:00+08:00",
       "headline_en": "Hospital Authority to open 15 family medicine clinics on Chung Yeung holiday Monday"
+    },
+    {
+      "key": "sai-kung-danjiawan-hiking-rescue-oct17",
+      "id": "2026-10-17-sai-kung-hiking-rescue",
+      "first_seen": "2026-10-17T15:19:00+08:00",
+      "headline_en": "Helicopter lifts woman after she vomits blood while hiking near Sai Kung Danjiawan"
+    },
+    {
+      "key": "police-double-hammer-triad-arrests-oct17",
+      "id": "2026-10-17-police-double-hammer-arrests",
+      "first_seen": "2026-10-17T15:19:00+08:00",
+      "headline_en": "Police arrest 53 in Double Hammer operation targeting triad drug and vice activities"
+    },
+    {
+      "key": "lifestyle-hk-ballet-dunhuang-in-search-of-light",
+      "id": "2026-10-17-hk-ballet-dunhuang-premiere",
+      "first_seen": "2026-10-17T15:19:00+08:00",
+      "headline_en": "Hong Kong Ballet premieres Dunhuang: In Search of Light at Cultural Centre"
     }
   ]
 }
