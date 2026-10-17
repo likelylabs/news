@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-17T15:19:56+08:00",
+  "generated_at": "2026-10-17T15:20:21+08:00",
   "live_window_hours": 72,
-  "count": 117,
+  "count": 118,
   "articles": [
+    {
+      "id": "2026-10-17-hk-ballet-dunhuang-premiere",
+      "published_at": "2026-10-17T15:19:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "ballet",
+        "hong-kong-cultural-centre",
+        "dunhuang",
+        "world-premiere"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-hk-ballet-dunhuang-premiere.json",
+      "en": {
+        "headline": "Hong Kong Ballet premieres Dunhuang: In Search of Light at Cultural Centre",
+        "dek": "The new work, inspired by Mogao Caves and Hermann Hesse’s Siddhartha, runs until Sunday with performances at 2:30pm and 7:30pm today."
+      },
+      "zh": {
+        "headline": "香港芭蕾舞團世界首演《敦煌：溯光行》於文化中心上演",
+        "dek": "由胡頌威及麥靜雯編舞，靈感來自敦煌壁畫及赫塞《流浪者之歌》，今明兩日下午及晚上仍有演出。"
+      }
+    },
     {
       "id": "2026-10-17-police-double-hammer-arrests",
       "published_at": "2026-10-17T15:19:00+08:00",
