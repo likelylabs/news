@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-17T21:04:47+08:00",
+  "generated_at": "2026-10-17T23:24:15+08:00",
   "live_window_hours": 72,
-  "count": 118,
+  "count": 119,
   "articles": [
+    {
+      "id": "2026-10-17-emsd-lift-landing-door-review",
+      "published_at": "2026-10-17T23:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "emsd",
+        "lifts",
+        "fire-safety",
+        "taizoom"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-emsd-lift-landing-door-review.json",
+      "en": {
+        "headline": "EMSD orders all lift contractors to review 10 years of landing door works",
+        "dek": "Contractors must confirm fire-resisting performance of landing doors and frames fitted between October 2017 and October 2026 and file declarations by 15 November."
+      },
+      "zh": {
+        "headline": "機電署要求全港升降機承辦商審視十年來層站門抗火效能",
+        "dek": "承辦商須於11月15日前交回聲明書，確認2017年10月至2026年10月期間更換或增設的層站門及門框符合耐火規格。"
+      }
+    },
+    {
+      "id": "2026-10-17-fsd-apec-meeting-inspections",
+      "published_at": "2026-10-17T23:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fsd",
+        "apec",
+        "fire-services",
+        "hkcec"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-fsd-apec-meeting-inspections.json",
+      "en": {
+        "headline": "Fire Services Department steps up inspections ahead of APEC finance meeting",
+        "dek": "Special patrols and enforcement will cover the Convention and Exhibition Centre, MTR stations, chemical suppliers and petrol stations before the 20-21 October gathering."
+      },
+      "zh": {
+        "headline": "消防處為APEC財長會議加強巡查及執法",
+        "dek": "特別安排涵蓋會議展覽中心、港鐵站、化工供應商及油站等，確保10月20至21日會議順利舉行。"
+      }
+    },
+    {
+      "id": "2026-10-17-legco-ai-debate-analysis",
+      "published_at": "2026-10-17T23:20:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "legco",
+        "ai",
+        "five-year-plan",
+        "starry-lee"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-legco-ai-debate-analysis.json",
+      "en": {
+        "headline": "Legislative Council uses AI for first time to analyse five-year plan debate",
+        "dek": "President Starry Lee said the tool processed about 450,000 words of remarks from 88 lawmakers, with livelihood protection taking nearly 30 per cent of coverage."
+      },
+      "zh": {
+        "headline": "立法會首次以人工智能分析五年規劃及施政報告辯論發言",
+        "dek": "李慧琼指秘書處分析約45萬字逐字紀錄，完善民生保障環節佔整體篇幅近三成，人才及北部都會區最受關注。"
+      }
+    },
     {
       "id": "2026-10-17-iphone-duo-police-apple-criticism",
       "published_at": "2026-10-17T21:05:00+08:00",
@@ -2587,50 +2653,6 @@
       "zh": {
         "headline": "選委會選舉提名期第七日再接獲28份提名表格",
         "dek": "選舉主任今日接獲25份候選人提名表格及3份指定團體提名表格，累計分別為1086份及35份，提名期至10月20日結束。"
-      }
-    },
-    {
-      "id": "2026-10-14-ta-teh-institute-exhibition-opens",
-      "published_at": "2026-10-14T21:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "exhibition",
-        "museum-of-history",
-        "ta-teh-institute",
-        "lcsd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-ta-teh-institute-exhibition-opens.json",
-      "en": {
-        "headline": "Ta Teh Institute exhibition opens at Hong Kong Museum of History",
-        "dek": "The free show on the short-lived Tuen Mun liberal arts college runs until 15 February and includes artefacts displayed in the city for the first time."
-      },
-      "zh": {
-        "headline": "達德學院展覽在香港歷史博物館開幕",
-        "dek": "免費展覽介紹1946至1949年屯門文科大學的歷史，展期至明年2月15日，部分展品首次在港展出。"
-      }
-    },
-    {
-      "id": "2026-10-14-unattended-dogs-euthanasia-stats",
-      "published_at": "2026-10-14T21:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "dogs",
-        "afcd",
-        "animal-welfare",
-        "legislative-council"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-unattended-dogs-euthanasia-stats.json",
-      "en": {
-        "headline": "Nearly one in three unattended dogs captured this year euthanised",
-        "dek": "The Environment and Ecology Bureau told lawmakers the proportion has risen from 18 per cent in 2021, with 617 dogs euthanised between 2021 and May."
-      },
-      "zh": {
-        "headline": "今年捕獲的流浪狗近三分之一被人道毀滅",
-        "dek": "環境及生態局回覆立法會，比例由2021年的18%大幅上升，2021年至5月共有617隻狗被人道毀滅。"
       }
     }
   ]
