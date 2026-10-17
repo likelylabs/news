@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-10-17T07:06:28+08:00",
+  "generated_at": "2026-10-17T09:12:30+08:00",
   "live_window_hours": 72,
-  "count": 123,
+  "count": 121,
   "articles": [
+    {
+      "id": "2026-10-17-bus-fare-hike-applications-reviewed",
+      "published_at": "2026-10-17T09:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "bus",
+        "fare",
+        "citybus",
+        "kmb",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-bus-fare-hike-applications-reviewed.json",
+      "en": {
+        "headline": "Transport bureau to review bus fare applications of up to 17.7 per cent carefully",
+        "dek": "Citybus seeks the largest rise while KMB asks for 16 per cent; lawmakers at Friday's panel meeting criticised the scale and raised service issues."
+      },
+      "zh": {
+        "headline": "運物局稱審慎處理巴士加價申請 加幅介乎8.1%至17.7%",
+        "dek": "城巴申請加價17.7%為最高，九巴申請16%，立法會交通事務委員會周五討論時議員批評加幅過高。"
+      }
+    },
+    {
+      "id": "2026-10-17-cfa-terence-arnold-appointment",
+      "published_at": "2026-10-17T09:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "court",
+        "judiciary",
+        "cfa",
+        "appointment"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-cfa-terence-arnold-appointment.json",
+      "en": {
+        "headline": "Chief Executive accepts recommendation to appoint New Zealand judge to top court",
+        "dek": "Sir Terence Arnold would become the sixth non-permanent judge from other common law jurisdictions, subject to Legislative Council endorsement."
+      },
+      "zh": {
+        "headline": "行政長官接納推薦委任新西蘭法官為終審法院海外非常任法官",
+        "dek": "區諾德爵士將成為第六名來自其他普通法司法管轄區的非常任法官，仍待立法會通過。"
+      }
+    },
+    {
+      "id": "2026-10-17-hkex-t1-settlement-roadmap",
+      "published_at": "2026-10-17T09:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hkex",
+        "settlement",
+        "stock-market",
+        "t-plus-1"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-hkex-t1-settlement-roadmap.json",
+      "en": {
+        "headline": "HKEX targets T+1 settlement for cash market in second half of 2028",
+        "dek": "The exchange operator received broad support in consultation and will adopt a three-layer implementation framework, with Southbound Stock Connect following the same cycle."
+      },
+      "zh": {
+        "headline": "港交所目標2028年下半年實施港股現貨T+1結算周期",
+        "dek": "諮詢獲市場廣泛支持，將採三層實施方案，港股通同步過渡。"
+      }
+    },
+    {
+      "id": "2026-10-17-wine-dine-festival-returns",
+      "published_at": "2026-10-17T09:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "wine-dine",
+        "tourism",
+        "harbourfront",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-wine-dine-festival-returns.json",
+      "en": {
+        "headline": "Hong Kong Wine and Dine Festival returns to harbourfront from 29 October",
+        "dek": "The four-day event organised by the Tourism Board will feature more than 340 booths at Central Harbourfront and Tamar Park, with later hours on Friday and Saturday."
+      },
+      "zh": {
+        "headline": "香港美酒佳餚巡禮10月29日起重返中環海濱",
+        "dek": "旅發局主辦的四日盛事設逾340個攤位於中環海濱活動空間及添馬公園舉行，周五六延長至凌晨1時。"
+      }
+    },
     {
       "id": "2026-10-17-citybus-b14-all-day-trial",
       "published_at": "2026-10-17T07:05:00+08:00",
@@ -2594,135 +2684,6 @@
       "zh": {
         "headline": "油麻地加士居道私家車撞工程車 司機擦傷現場治理",
         "dek": "周三凌晨約5時，一輚白色私家車撞向工程車車尾，司機受擦傷並在現場接受治療，警方正調查成因。"
-      }
-    },
-    {
-      "id": "2026-10-14-hos-2025-flat-selection",
-      "published_at": "2026-10-14T07:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "hos",
-        "housing-authority"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-hos-2025-flat-selection.json",
-      "en": {
-        "headline": "Housing Authority begins HOS 2025 flat selection on 21 October",
-        "dek": "Nearly 7,000 new flats across five projects in Kai Tak, Kam Tin, Tseung Kwan O, Ping Shan and Tung Chung will be offered at 70 per cent of assessed market value."
-      },
-      "zh": {
-        "headline": "房委會居屋2025下周三開始選樓 推近7000個單位",
-        "dek": "五個新項目位於啟德、錦田、將軍澳、屏山及東涌，以評定市值七折發售，售價約150萬至480萬元。"
-      }
-    },
-    {
-      "id": "2026-10-14-kai-tak-helper-charged-murder",
-      "published_at": "2026-10-14T07:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "kai-tak",
-        "murder",
-        "domestic-helper"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-kai-tak-helper-charged-murder.json",
-      "en": {
-        "headline": "Police charge 52-year-old domestic helper with murder over Kai Tak death",
-        "dek": "The Indonesian helper who had been caring for a 93-year-old woman at Tak Long Estate faces a holding charge of murder and is due to appear in Kwun Tong Magistrates’ Courts on Wednesday."
-      },
-      "zh": {
-        "headline": "警方暫控52歲外傭謀殺 啟德德朗邨九旬婦死亡案",
-        "dek": "照顧德朗邨93歲女子的印尼外傭被暫控一項謀殺罪，案件周三上午在觀塘裁判法院提堂。"
-      }
-    },
-    {
-      "id": "2026-10-14-lifestyle-lkf-halloween",
-      "published_at": "2026-10-14T07:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "halloween",
-        "lan-kwai-fong",
-        "central"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-lifestyle-lkf-halloween.json",
-      "en": {
-        "headline": "Lan Kwai Fong launches Halloween Monster Mash events through end of October",
-        "dek": "The district’s annual celebrations begin on 14 October with themed food, evening DJ sets and a short monster street performance on selected nights."
-      },
-      "zh": {
-        "headline": "蘭桂坊萬聖節怪物巡禮夜由今日起至月底舉行",
-        "dek": "區內餐廳推出主題餐飲，指定晚上有DJ打碟及怪物軍團於晚上8時至8時半快閃街道表演。"
-      }
-    },
-    {
-      "id": "2026-10-14-rental-scam-students-talent",
-      "published_at": "2026-10-14T07:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "scam",
-        "rental",
-        "tseung-kwan-o"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-rental-scam-students-talent.json",
-      "en": {
-        "headline": "Police arrest five over rental scam targeting mainland students and talent",
-        "dek": "A group operating for about two months allegedly used fake listings and forged tenancy agreements to take roughly HK$1.04 million from nine victims; three remain in custody."
-      },
-      "zh": {
-        "headline": "警方搗破專騙港漂生及高才通人士租屋集團 拘5人涉約104萬元",
-        "dek": "集團運作約兩個月，透過內地社交平台假租盤及偽造租約，涉9宗案件騙款約104萬元；5人被捕，3人仍被扣查。"
-      }
-    },
-    {
-      "id": "2026-10-14-tst-waterfront-fight-arrests",
-      "published_at": "2026-10-14T07:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "tsim-sha-tsui",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-tst-waterfront-fight-arrests.json",
-      "en": {
-        "headline": "Two women arrested after fight near Tsim Sha Tsui Clock Tower",
-        "dek": "Police received a report at about 6.57pm of a confrontation on Salisbury Road; both women were arrested for fighting in a public place and taken to hospital with injuries."
-      },
-      "zh": {
-        "headline": "尖沙咀鐘樓附近兩女打架被捕 送院治理",
-        "dek": "警方晚上約6時57分接報梳士巴利道有女子被拳打；兩名女子涉嫌在公眾地方打鬥被捕，分別報稱頭部及背部受傷並送往廣華醫院。"
-      }
-    },
-    {
-      "id": "2026-10-14-yau-ma-tei-girl-hanging-death",
-      "published_at": "2026-10-14T07:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "yau-ma-tei",
-        "death"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-yau-ma-tei-girl-hanging-death.json",
-      "en": {
-        "headline": "Police investigate death of 13-year-old girl found hanging in Yau Ma Tei flat",
-        "dek": "A mother reported finding her daughter hanging in a room at a Nathan Road building on Tuesday evening; the girl was confirmed dead at the scene and a note was recovered."
-      },
-      "zh": {
-        "headline": "油麻地13歲女童寓所內上吊死亡 警方調查",
-        "dek": "周二晚上約9時44分，母親報稱在彌敦道旺角大樓單位房間發現女兒上吊並將她解下；女童當場證實死亡，現場檢獲遺書。"
       }
     }
   ]
