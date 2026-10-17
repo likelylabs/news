@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-10-17T19:06:02+08:00",
+  "generated_at": "2026-10-17T21:04:47+08:00",
   "live_window_hours": 72,
-  "count": 121,
+  "count": 118,
   "articles": [
+    {
+      "id": "2026-10-17-iphone-duo-police-apple-criticism",
+      "published_at": "2026-10-17T21:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "iphone",
+        "credit-card",
+        "apple",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-iphone-duo-police-apple-criticism.json",
+      "en": {
+        "headline": "Police call repeat iPhone Duo credit-card reports extremely regrettable",
+        "dek": "More than 110 reports involving about HK$4.6 million have been logged; officers say Apple has still not enabled 3D Secure despite earlier advice."
+      },
+      "zh": {
+        "headline": "警方稱iPhone Duo信用卡舉報再現極度遺憾 批蘋果未啟用3DS",
+        "dek": "網絡安全及科技罪案調查科高級督察盧震綱指接獲逾110宗報案、涉款約460萬元，最大一宗近23萬元，暫未有人被捕。"
+      }
+    },
+    {
+      "id": "2026-10-17-law-visitor-target-confidence",
+      "published_at": "2026-10-17T21:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tourism",
+        "visitors",
+        "rosanna-law",
+        "culture-sports-tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-law-visitor-target-confidence.json",
+      "en": {
+        "headline": "Law says she is confident Hong Kong will reach 53.8 million visitors this year",
+        "dek": "The culture, sports and tourism secretary cited double-digit growth in the first nine months and strong Golden Week arrivals, despite fewer short-haul visitors from higher fuel prices."
+      },
+      "zh": {
+        "headline": "羅淑佩稱有信心全年訪港旅客達5380萬人次",
+        "dek": "文化體育及旅遊局局長指首九個月錄得約4070萬人次、按年雙位數增長，國慶黃金周內地客超預期，惟短途市場受燃油價格影響。"
+      }
+    },
     {
       "id": "2026-10-17-halloween-carnival-central",
       "published_at": "2026-10-17T19:05:00+08:00",
@@ -2586,116 +2631,6 @@
       "zh": {
         "headline": "今年捕獲的流浪狗近三分之一被人道毀滅",
         "dek": "環境及生態局回覆立法會，比例由2021年的18%大幅上升，2021年至5月共有617隻狗被人道毀滅。"
-      }
-    },
-    {
-      "id": "2026-10-14-central-kowloon-bypass-dec6-opening",
-      "published_at": "2026-10-14T19:20:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "central-kowloon-bypass",
-        "transport",
-        "toll",
-        "route-6"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-central-kowloon-bypass-dec6-opening.json",
-      "en": {
-        "headline": "Central Kowloon Bypass to fully open on 6 December with $8 toll",
-        "dek": "The Kowloon Bay section will open on Sunday 6 December, completing the bypass and Route 6, with a uniform $8 toll for all vehicles from the same day."
-      },
-      "zh": {
-        "headline": "中九龍繞道12月6日全線通車 收費8元",
-        "dek": "九龍灣段將於12月6日通車，完成繞道及六號幹線，同日起所有車輛劃一收費8元。"
-      }
-    },
-    {
-      "id": "2026-10-14-hand-foot-mouth-outbreaks-rise",
-      "published_at": "2026-10-14T19:20:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "hand-foot-mouth",
-        "health",
-        "schools",
-        "chp"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-hand-foot-mouth-outbreaks-rise.json",
-      "en": {
-        "headline": "Nine hand-foot-mouth disease outbreaks recorded in first three days of week",
-        "dek": "The Centre for Health Protection said activity has risen sharply, with nine outbreaks involving 24 people since Sunday, mostly in kindergartens and primary schools, and has written to schools."
-      },
-      "zh": {
-        "headline": "本周首三日錄得9宗手足口病爆發 涉24人",
-        "dek": "衞生防護中心指活躍程度顯著上升，本周首三天已錄得九宗爆發個案涉24人，九成在幼兒中心、幼稚園或小學，已向學校發信。"
-      }
-    },
-    {
-      "id": "2026-10-14-iam-smart-ai-assistant-launch",
-      "published_at": "2026-10-14T19:20:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "iam-smart",
-        "ai",
-        "digital-policy",
-        "public-services"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-iam-smart-ai-assistant-launch.json",
-      "en": {
-        "headline": "iAM Smart launches AI assistant to answer public service queries",
-        "dek": "The Digital Policy Office said the new feature in the latest app version lets users ask questions and receive organised information drawn from official channels, with an enhanced version planned by year-end."
-      },
-      "zh": {
-        "headline": "智方便推出AI助手解答公共服務查詢",
-        "dek": "數字政策辦公室表示，最新版本應用程式加入AI助手，市民輸入問題即可從官方渠道取得整理後的資訊，年底將推出加強版。"
-      }
-    },
-    {
-      "id": "2026-10-14-mtr-chung-yeung-service-boost",
-      "published_at": "2026-10-14T19:20:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "chung-yeung",
-        "east-rail",
-        "high-speed-rail"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-mtr-chung-yeung-service-boost.json",
-      "en": {
-        "headline": "MTR boosts East Rail and high-speed rail services for Chung Yeung weekend",
-        "dek": "From Friday the operator will increase East Rail frequencies towards Lok Ma Chau and add extra short-haul high-speed trains, while K52A bus services to Tsang Tsui columbarium will also be strengthened."
-      },
-      "zh": {
-        "headline": "港鐵重陽節周末加強東鐵綫及高鐵短途服務",
-        "dek": "由本周五起一連四天加密東鐵綫往落馬洲班次，並加開高鐵短途班次，K52A巴士亦加強往曾咀靈灰安置所服務。"
-      }
-    },
-    {
-      "id": "2026-10-14-tai-po-jewellery-theft",
-      "published_at": "2026-10-14T19:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "tai-po",
-        "crime",
-        "theft",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-tai-po-jewellery-theft.json",
-      "en": {
-        "headline": "Man steals gold necklace from Tai Po jewellery store while posing as customer",
-        "dek": "Police are hunting a man in his forties who entered a Chow Sang Sang store on Kwong Fuk Road this afternoon, asked to try on a necklace worth tens of thousands of dollars, and fled with it."
-      },
-      "zh": {
-        "headline": "大埔廣福道金行男客試戴金鏈後偷走 警正追查",
-        "dek": "警方正追查一名約40歲男子，今日下午進入廣福道周生生金行伊裝顧客，試戴一條約值數萬元金鏈後奪門逃走。"
       }
     }
   ]
