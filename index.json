@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-10-17T11:08:12+08:00",
+  "generated_at": "2026-10-17T13:13:36+08:00",
   "live_window_hours": 72,
-  "count": 122,
+  "count": 121,
   "articles": [
+    {
+      "id": "2026-10-17-ha-fmc-holiday-service",
+      "published_at": "2026-10-17T13:11:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "hospital-authority",
+        "family-medicine",
+        "chung-yeung",
+        "clinic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-ha-fmc-holiday-service.json",
+      "en": {
+        "headline": "Hospital Authority to open 15 family medicine clinics on Chung Yeung holiday Monday",
+        "dek": "Services will run from 9am to 1pm and 2pm to 5pm on 19 October; patients can book by phone, eHealth or HA Go."
+      },
+      "zh": {
+        "headline": "醫管局公布重陽節翌日15間家庭醫學診所提供門診服務",
+        "dek": "十月十九日公眾假期上午九時至一時及下午二時至五時開放，市民可經電話、醫健通或HA Go預約。"
+      }
+    },
+    {
+      "id": "2026-10-17-ngong-shuen-chau-barge-fire",
+      "published_at": "2026-10-17T13:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "ngong-shuen-chau",
+        "fsd",
+        "vessel"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-ngong-shuen-chau-barge-fire.json",
+      "en": {
+        "headline": "Fire on moored barge at Ngong Shuen Chau extinguished after about 90 minutes",
+        "dek": "Firefighters put out a blaze on a pontoon near Ang Yan Road by 11:18am on Saturday; 15 people were evacuated and no injuries were reported."
+      },
+      "zh": {
+        "headline": "昂船洲貲船起火約九十分鐘後救熄 十五人疏散無人傷",
+        "dek": "消防今早近十時接報昂船洲昂運路對開貲船火警，十一時十八分大致救熄，呼籲受煙霧影響市民留室內關窗。"
+      }
+    },
+    {
+      "id": "2026-10-17-to-kwa-wan-hammer-assault",
+      "published_at": "2026-10-17T13:11:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "to-kwa-wan",
+        "assault",
+        "robbery"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-to-kwa-wan-hammer-assault.json",
+      "en": {
+        "headline": "Six people assault woman with hammers and steal cash and phone in To Kwa Wan",
+        "dek": "A 43-year-old woman was injured in the hands and feet after being attacked at her flat on Wing Yiu Street this morning; police are hunting the suspects who knew her."
+      },
+      "zh": {
+        "headline": "土瓜灣唐樓女子遭六人持錘施襲 掠走三千元及手機",
+        "dek": "今早約七時永耀街一單位女住戶被認識人士持錘毆打，手腳受傷送伊利沙伯醫院，警方列襲擊及盜竊追查。"
+      }
+    },
+    {
+      "id": "2026-10-17-yellow-fire-danger-warning",
+      "published_at": "2026-10-17T13:11:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "fire-danger",
+        "warning",
+        "chung-yeung"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-yellow-fire-danger-warning.json",
+      "en": {
+        "headline": "Observatory issues yellow fire danger warning as risk remains high",
+        "dek": "The Hong Kong Observatory raised the yellow fire danger warning at 9:45am on Saturday, urging the public to prevent fires and hikers to stay vigilant."
+      },
+      "zh": {
+        "headline": "天文台發出黃色火災危險警告 指火險頗高",
+        "dek": "天文台今日上午9時45分發出黃色火災危險警告，呼籲市民防止火災發生，遠足人士亦須提高警覺。"
+      }
+    },
     {
       "id": "2026-10-17-999-service-upgrades-tang",
       "published_at": "2026-10-17T11:25:00+08:00",
@@ -2601,112 +2689,6 @@
       "zh": {
         "headline": "政府建議向新田科技城公司注資100億元作為起始資金",
         "dek": "創新科技及工業局向立法會提交文件，建議從資本投資基金撥出100億元予新田科技城公司，當中60億元發展創科用地、30億元加快土地平整。"
-      }
-    },
-    {
-      "id": "2026-10-14-customs-counterfeit-watches",
-      "published_at": "2026-10-14T11:45:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "counterfeit",
-        "watches"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-customs-counterfeit-watches.json",
-      "en": {
-        "headline": "Customs seize about 7000 counterfeit items in operation against fake watches",
-        "dek": "A 15-day special operation codenamed Time Shield targeted cross-border transshipment of counterfeit watches and netted goods worth about HK$7.6 million, with one person arrested."
-      },
-      "zh": {
-        "headline": "海關「時盾」行動檢獲約7000件冒牌貨 拘一人",
-        "dek": "海關上月28日至本月13日採取特別行動打擊跨境轉運冒牌手錶，檢獲約7000件懷疑冒牌及侵權貨物，估計市值約760萬元。"
-      }
-    },
-    {
-      "id": "2026-10-14-flu-vaccine-700k-doses",
-      "published_at": "2026-10-14T11:45:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "flu",
-        "vaccine",
-        "health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-flu-vaccine-700k-doses.json",
-      "en": {
-        "headline": "Seasonal flu programme reaches 700000 doses as Lo urges higher uptake",
-        "dek": "Secretary for Health Lo Chung-mau said the current seasonal influenza vaccination programme has administered about 700,000 doses in less than a month and expressed hope the rate would exceed last year's figure."
-      },
-      "zh": {
-        "headline": "流感疫苗計劃至今接種70萬劑 盧寵茂冀接種率超去年",
-        "dek": "醫務衞生局局長盧寵茂表示，本年度流感疫苗接種計劃自上月17日開始至今未滿一個月已接種約70萬劑，希望整體接種率可超越去年約203萬劑。"
-      }
-    },
-    {
-      "id": "2026-10-14-lifestyle-anderson-ledda-plaza",
-      "published_at": "2026-10-14T11:45:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "anderson",
-        "kwun-tong",
-        "mall"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-lifestyle-anderson-ledda-plaza.json",
-      "en": {
-        "headline": "Link's first self-built mall opens in Anderson with rooftop play park",
-        "dek": "Ledda Plaza, a three-storey mall of nearly 140,000 square feet in the Anderson development area, began operations on 13 October with a 25,000-square-foot animal-themed rooftop playground."
-      },
-      "zh": {
-        "headline": "領展安達臣領達廣場開幕 設2.5萬呎天台樂園",
-        "dek": "領展旗下安達臣新發展區全新商場領達廣場於10月13日正式開幕，樓高三層近14萬平方呎，頂層設有約2.5萬平方呎動物主題遊樂空間。"
-      }
-    },
-    {
-      "id": "2026-10-14-mtr-lam-tin-platform-smoke",
-      "published_at": "2026-10-14T11:45:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "kwun-tong-line",
-        "lam-tin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-mtr-lam-tin-platform-smoke.json",
-      "en": {
-        "headline": "MTR resumes Kwun Tong Line after platform equipment smoke at Lam Tin",
-        "dek": "Smoke from platform equipment at Lam Tin station this morning caused trains to skip the stop and the station to close temporarily; services have since returned to normal."
-      },
-      "zh": {
-        "headline": "藍田站月台設備冒煙已處理 觀塘綫服務逐步復常",
-        "dek": "周三早上藍田站月台有設備冒煙，觀塘綫列車一度不停該站，車站暫時關閉；港鐵指情況已處理好，服務陸續恢復正常。"
-      }
-    },
-    {
-      "id": "2026-10-14-sheung-wan-woman-sea-death",
-      "published_at": "2026-10-14T11:45:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "sheung-wan",
-        "death",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-sheung-wan-woman-sea-death.json",
-      "en": {
-        "headline": "Woman dies after being found in the sea off Sheung Wan",
-        "dek": "Firefighters rescued a woman in her 50s or 60s from the water near the Rumsey Street car park early on Wednesday; she was unconscious and later died in hospital."
-      },
-      "zh": {
-        "headline": "上環女子墮海獲救不治 警方調查",
-        "dek": "周三凌晨約2時，上環林士街停車場對開海面有女子載浮載沉，消防救起後昏迷送院，最終不治。"
       }
     }
   ]
