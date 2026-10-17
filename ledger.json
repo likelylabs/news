@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T01:05:46+08:00",
+  "updated_at": "2026-10-18T01:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -259,6 +259,24 @@
       "id": "2026-10-17-fsd-apec-meeting-inspections",
       "first_seen": "2026-10-17T23:20:00+08:00",
       "headline_en": "Fire Services Department steps up inspections ahead of APEC finance meeting"
+    },
+    {
+      "key": "amoy-plaza-staged-robbery-arrest-oct17",
+      "id": "2026-10-18-amoy-plaza-staged-robbery",
+      "first_seen": "2026-10-18T01:10:00+08:00",
+      "headline_en": "Restaurant manager arrested after staging Amoy Plaza cash snatch report"
+    },
+    {
+      "key": "tst-granville-road-brawl-arrests-oct16",
+      "id": "2026-10-18-tst-brawl-sun-yee-on-arrests",
+      "first_seen": "2026-10-18T01:10:00+08:00",
+      "headline_en": "Police arrest two men linked to Sun Yee On after Granville Road brawl"
+    },
+    {
+      "key": "lifestyle-mark-six-111-rollover-oct17",
+      "id": "2026-10-18-mark-six-rollover",
+      "first_seen": "2026-10-18T01:10:00+08:00",
+      "headline_en": "Mark Six first prize rolls over after no winner in 111th draw"
     }
   ]
 }
