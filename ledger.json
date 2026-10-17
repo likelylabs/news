@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T09:12:30+08:00",
+  "updated_at": "2026-10-17T11:25:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -121,6 +121,30 @@
       "id": "2026-10-17-wine-dine-festival-returns",
       "first_seen": "2026-10-17T09:15:00+08:00",
       "headline_en": "Hong Kong Wine and Dine Festival returns to harbourfront from 29 October"
+    },
+    {
+      "key": "yau-ma-tei-restaurants-oil-dousing-oct17",
+      "id": "2026-10-17-yau-ma-tei-oil-attacks",
+      "first_seen": "2026-10-17T11:25:00+08:00",
+      "headline_en": "Police investigate oil attacks on two Yau Ma Tei restaurants within 38 minutes"
+    },
+    {
+      "key": "fanling-boy-sudden-death-oct17",
+      "id": "2026-10-17-fanling-boy-sudden-death",
+      "first_seen": "2026-10-17T11:25:00+08:00",
+      "headline_en": "11-year-old boy found unconscious at Fanling home later confirmed dead"
+    },
+    {
+      "key": "huanggang-port-chung-yeung-traffic-oct17",
+      "id": "2026-10-17-huanggang-port-chung-yeung-traffic",
+      "first_seen": "2026-10-17T11:25:00+08:00",
+      "headline_en": "Security chief expects Huanggang port to exceed 100,000 daily crossings over Chung Yeung"
+    },
+    {
+      "key": "999-service-upgrade-tang-oct17",
+      "id": "2026-10-17-999-service-upgrades-tang",
+      "first_seen": "2026-10-17T11:25:00+08:00",
+      "headline_en": "Tang says 999 upgrades will add real-time video and AI prioritisation by 2028"
     }
   ]
 }
