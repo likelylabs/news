@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-10-17T17:10:14+08:00",
+  "generated_at": "2026-10-17T19:06:02+08:00",
   "live_window_hours": 72,
-  "count": 117,
+  "count": 121,
   "articles": [
+    {
+      "id": "2026-10-17-halloween-carnival-central",
+      "published_at": "2026-10-17T19:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "halloween",
+        "central",
+        "statue-square",
+        "hongkong-land"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-halloween-carnival-central.json",
+      "en": {
+        "headline": "Hongkong Land opens 15-day Halloween carnival with installations in Central",
+        "dek": "Four large light installations including a giant eyeball appear at Statue Square Garden from today until 31 October; most areas are free to enter."
+      },
+      "zh": {
+        "headline": "置地公司中環萬聖節狂歡祭今日啟動 皇后像廣場設四大裝置",
+        "dek": "活動由今日至31日一連15天舉行，巨型眼球等裝置於下午四時起亮燈，大部分區域免費開放。"
+      }
+    },
+    {
+      "id": "2026-10-17-ka-ying-rising-everest-second",
+      "published_at": "2026-10-17T19:05:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "horse-racing",
+        "ka-ying-rising",
+        "the-everest",
+        "hkjc"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-ka-ying-rising-everest-second.json",
+      "en": {
+        "headline": "Ka Ying Rising finishes second in The Everest, ending 21-race winning streak",
+        "dek": "The Hong Kong-trained sprinter, ridden by Zac Purton, was beaten by a neck by I Wish I Win at Randwick on Saturday."
+      },
+      "zh": {
+        "headline": "「嘉應高昇」澳洲珠穆朗瑪峰錦標屈居第二 連勝紀錄告終",
+        "dek": "由潘頓策騎、大衛希斯訓練的短途馬王自第十一檔出發，以一頸位之差不敵「動心」，跨季21連勝終止。"
+      }
+    },
+    {
+      "id": "2026-10-17-sha-tin-ketamine-seizure",
+      "published_at": "2026-10-17T19:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "drugs",
+        "sha-tin",
+        "ketamine",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-sha-tin-ketamine-seizure.json",
+      "en": {
+        "headline": "Police seize 32 kg of ketamine worth over HK$12 million in Sha Tin public housing raid",
+        "dek": "Officers arrested a 28-year-old man and two 15-year-old girls after finding the drugs packed with old clothes; the three are due in court on Monday."
+      },
+      "zh": {
+        "headline": "警方沙田公屋檢獲約32公斤氯胺酮 拘28歲男及兩名15歲少女",
+        "dek": "毒品調查科周五下午行動中起出市值逾1200萬元懷疑氯胺酮，三人將於周一在屯門裁判法院提堂。"
+      }
+    },
+    {
+      "id": "2026-10-17-tsui-ping-north-hammer-damage",
+      "published_at": "2026-10-17T19:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "kwun-tong",
+        "criminal-damage",
+        "tsui-ping-north"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-tsui-ping-north-hammer-damage.json",
+      "en": {
+        "headline": "Police arrest 75-year-old man over hammer damage and faeces at Tsui Ping North Estate",
+        "dek": "A resident was detained after staff found five smashed windows and faeces on the door of a shared kitchen in Tsui Mei House this morning."
+      },
+      "zh": {
+        "headline": "觀塘翠屏北邨七旬翁被捕 涉鐵錘砸共用廚房五窗兼大門塗糞",
+        "dek": "今早約八時屋邨職員發現翠楣樓共用廚房五道玻璃窗被毀及大門有糞便污漬，警方拘捕75歲陳姓男子並檢獲鐵錘。"
+      }
+    },
     {
       "id": "2026-10-17-amoy-plaza-cash-robbery",
       "published_at": "2026-10-17T17:10:00+08:00",
