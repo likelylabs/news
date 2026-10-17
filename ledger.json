@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T17:10:14+08:00",
+  "updated_at": "2026-10-17T19:05:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -205,6 +205,30 @@
       "id": "2026-10-17-yau-tong-role-x-theft-arrest",
       "first_seen": "2026-10-17T17:10:00+08:00",
       "headline_en": "Husband arrested after wife reports theft of Rolex and handbags worth HK$450,000 in Yau Tong"
+    },
+    {
+      "key": "tsui-ping-north-hammer-damage-oct17",
+      "id": "2026-10-17-tsui-ping-north-hammer-damage",
+      "first_seen": "2026-10-17T19:05:00+08:00",
+      "headline_en": "Police arrest 75-year-old man over hammer damage and faeces at Tsui Ping North Estate"
+    },
+    {
+      "key": "sha-tin-public-housing-ketamine-oct16",
+      "id": "2026-10-17-sha-tin-ketamine-seizure",
+      "first_seen": "2026-10-17T19:05:00+08:00",
+      "headline_en": "Police seize 32 kg of ketamine worth over HK$12 million in Sha Tin public housing raid"
+    },
+    {
+      "key": "ka-ying-rising-everest-second-oct17",
+      "id": "2026-10-17-ka-ying-rising-everest-second",
+      "first_seen": "2026-10-17T19:05:00+08:00",
+      "headline_en": "Ka Ying Rising finishes second in The Everest, ending 21-race winning streak"
+    },
+    {
+      "key": "lifestyle-halloween-carnival-central-2026",
+      "id": "2026-10-17-halloween-carnival-central",
+      "first_seen": "2026-10-17T19:05:00+08:00",
+      "headline_en": "Hongkong Land opens 15-day Halloween carnival with installations in Central"
     }
   ]
 }
