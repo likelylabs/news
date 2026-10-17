@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-18T06:29:31+08:00",
+  "generated_at": "2026-10-18T07:05:57+08:00",
   "live_window_hours": 72,
-  "count": 114,
+  "count": 112,
   "articles": [
+    {
+      "id": "2026-10-18-emsd-tai-zoom-78-buildings",
+      "published_at": "2026-10-18T07:03:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "emsd",
+        "lifts",
+        "fire-safety",
+        "tai-zoom"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-18/2026-10-18-emsd-tai-zoom-78-buildings.json",
+      "en": {
+        "headline": "EMSD finds 78 private buildings with missing lift door frames by Tai Zoom",
+        "dek": "Inspections as of Saturday afternoon identified the additional cases beyond two public estates; the contractor will pay for all remedial work under supervision."
+      },
+      "zh": {
+        "headline": "機電署確認臺日升降機78幢私樓缺門框組件",
+        "dek": "截至周六下午巡查，除兩個租置屋邨外共78幢私人樓宇未裝耐火門框，補裝費用由承辦商承擔，署方已動員商會協助加快工程。"
+      }
+    },
+    {
+      "id": "2026-10-18-lifestyle-sham-shui-po-monkey",
+      "published_at": "2026-10-18T07:03:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "sham-shui-po",
+        "animal",
+        "spca"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-18/2026-10-18-lifestyle-sham-shui-po-monkey.json",
+      "en": {
+        "headline": "Passers-by report wild monkey foaming at mouth in Sham Shui Po",
+        "dek": "Two people saw the animal near an oil station on Tai Po Road around 1am and called police and the SPCA; staff arrived after it had climbed a tree and left."
+      },
+      "zh": {
+        "headline": "深水埔野猴口吐白泡 途人報案愛協到場時已爬樹離開",
+        "dek": "凌晨約一時，兩名途人在大埔道338號油站對開發現野猴口吐白泡，報案及通知愛協，人員抵達時猴子已爬樹離去。"
+      }
+    },
     {
       "id": "2026-10-18-hko-wednesday-very-hot-forecast",
       "published_at": "2026-10-18T03:20:00+08:00",
@@ -2455,94 +2499,6 @@
       "zh": {
         "headline": "警方搞破荃灣迷你倉毒品分銷中心 檢獲約5.7公斤大麻花",
         "dek": "荃灣警區特別職務隊截查一名28歲本地男子，在其紙袋檢獲約半公斤懷疑大麻花，其後在附近迷你倉再檢獲約5公斤。"
-      }
-    },
-    {
-      "id": "2026-10-15-customs-shark-fins",
-      "published_at": "2026-10-15T07:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "endangered-species",
-        "shark-fins",
-        "lo-wu"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-customs-shark-fins.json",
-      "en": {
-        "headline": "Customs seizes 18kg of suspected scheduled dried shark fins at Lo Wu",
-        "dek": "Officers intercepted a 68-year-old mainland woman arriving on Monday and handed the batch, valued at about HK$45,000, to the AFCD for investigation."
-      },
-      "zh": {
-        "headline": "海關羅湖截查內地婦 檢18公斤懷疑瀕危乾魚翅",
-        "dek": "周一在入境大堂截獲一名68歲抵港內地女旅客行李內的乾魚翅，估計市值約4.5萬元，已交漁護署跟進。"
-      }
-    },
-    {
-      "id": "2026-10-15-fehd-skynet-markets",
-      "published_at": "2026-10-15T07:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fehd",
-        "food-safety",
-        "markets",
-        "hygiene"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-fehd-skynet-markets.json",
-      "en": {
-        "headline": "FEHD launches second phase of Operation Skynet targeting public markets",
-        "dek": "The two-week operation will inspect markets for pest and hygiene issues after the first phase focused on supermarkets and restaurants."
-      },
-      "zh": {
-        "headline": "食環署展開「天網行動」第二階段 巡查全港街市",
-        "dek": "為期兩周的行動針對街市害蟲及衞生問題，第一階段針對超市及食肆已結束並發出多項通知及檢控。"
-      }
-    },
-    {
-      "id": "2026-10-15-kai-tak-helper-charged",
-      "published_at": "2026-10-15T07:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "domestic-helper",
-        "kai-tak",
-        "court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-kai-tak-helper-charged.json",
-      "en": {
-        "headline": "Indonesian domestic helper charged with murder of 93-year-old employer",
-        "dek": "The 52-year-old was remanded after being charged at Kwun Tong Court, following the death of the elderly woman at Tak Long Estate last Sunday."
-      },
-      "zh": {
-        "headline": "印尼外傭被控謀殺93歲僱主 還押候訊",
-        "dek": "52歲女外傭周三在觀塘裁判法院被控謀殺，上日在啟德德朗邨單位被發現昏迷的93歲女僱主已證實不治。"
-      }
-    },
-    {
-      "id": "2026-10-15-tai-po-necklace-theft",
-      "published_at": "2026-10-15T07:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "theft",
-        "tai-po",
-        "jewellery"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-tai-po-necklace-theft.json",
-      "en": {
-        "headline": "Police hunt man who snatched gold necklace from Tai Po jewellery store",
-        "dek": "A man in his forties asked to try on a necklace worth nearly HK$80,000 at a Chow Sang Sang shop before fleeing on an airport-bound bus on Wednesday afternoon."
-      },
-      "zh": {
-        "headline": "警方通緝大埔珠寶店掠走金頸鏈男子",
-        "dek": "一名約四十歲男子周三下午在廣福道周生生店舖要求試戴近八萬元金頸鏈後掠走，並登上往機場巴士逃走。"
       }
     }
   ]
