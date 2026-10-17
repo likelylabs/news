@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T21:04:47+08:00",
+  "updated_at": "2026-10-17T23:20:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -241,6 +241,24 @@
       "id": "2026-10-17-iphone-duo-police-apple-criticism",
       "first_seen": "2026-10-17T21:05:00+08:00",
       "headline_en": "Police call repeat iPhone Duo credit-card reports extremely regrettable"
+    },
+    {
+      "key": "emsd-lift-landing-door-review-oct17",
+      "id": "2026-10-17-emsd-lift-landing-door-review",
+      "first_seen": "2026-10-17T23:20:00+08:00",
+      "headline_en": "EMSD orders all lift contractors to review 10 years of landing door works"
+    },
+    {
+      "key": "legco-ai-five-year-plan-analysis-oct17",
+      "id": "2026-10-17-legco-ai-debate-analysis",
+      "first_seen": "2026-10-17T23:20:00+08:00",
+      "headline_en": "Legislative Council uses AI for first time to analyse five-year plan debate"
+    },
+    {
+      "key": "fsd-apec-inspections-oct17",
+      "id": "2026-10-17-fsd-apec-meeting-inspections",
+      "first_seen": "2026-10-17T23:20:00+08:00",
+      "headline_en": "Fire Services Department steps up inspections ahead of APEC finance meeting"
     }
   ]
 }
