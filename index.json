@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-10-18T01:07:08+08:00",
+  "generated_at": "2026-10-18T03:20:34+08:00",
   "live_window_hours": 72,
-  "count": 115,
+  "count": 114,
   "articles": [
+    {
+      "id": "2026-10-18-hko-wednesday-very-hot-forecast",
+      "published_at": "2026-10-18T03:20:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "hot-weather",
+        "el-nino",
+        "forecast"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-18/2026-10-18-hko-wednesday-very-hot-forecast.json",
+      "en": {
+        "headline": "Observatory forecasts very hot weather on Wednesday, possibly record late date",
+        "dek": "Under the influence of a strong El Niño and a strengthening anticyclone, the maximum temperature on 21 October could reach 33 degrees or above at the Observatory."
+      },
+      "zh": {
+        "headline": "天文台料下周三日間酷熱 或破年內最遲酷熱紀錄",
+        "dek": "受超強厄爾尼諾及高空反氣旋影響，風勢微弱，若周三最高氣溫達33度或以上將刷新最遲酷熱日子紀錄。"
+      }
+    },
+    {
+      "id": "2026-10-18-lifestyle-hk-china-tattoo-exhibition",
+      "published_at": "2026-10-18T03:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "tattoo",
+        "sheung-wan",
+        "exhibition",
+        "ai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-18/2026-10-18-lifestyle-hk-china-tattoo-exhibition.json",
+      "en": {
+        "headline": "Hong Kong China International Tattoo Exhibition runs through Sunday at SoHo House",
+        "dek": "More than 60 local and international artists are showing work at the three-day event in Sheung Wan, which includes an AI try-on system and a competition on the final day."
+      },
+      "zh": {
+        "headline": "香港中國國際紋身展2026於上環SoHo House舉行至周日",
+        "dek": "超過60位本地及國際紋身師參展，設AI試紋身系統，周日有比賽，門票由200元起。"
+      }
+    },
+    {
+      "id": "2026-10-18-tin-shui-wai-saltwater-pipe-burst",
+      "published_at": "2026-10-18T03:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tin-shui-wai",
+        "water-supplies",
+        "pipe-burst",
+        "yuen-long"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-18/2026-10-18-tin-shui-wai-saltwater-pipe-burst.json",
+      "en": {
+        "headline": "Saltwater pipe bursts in Tin Shui Wai, spraying two storeys high",
+        "dek": "The Water Supplies Department said flushing water to Tin Yuet Estate and part of Tin Chung Court was suspended and expected to resume at 7.30am on Sunday."
+      },
+      "zh": {
+        "headline": "天水圍爆鹹水管水柱噴兩層樓高 天悅邨及天頌苑停沖廁水",
+        "dek": "水務署指涉事為直徑150毫米鹹水供水管，天悅邨及部分天頌苑沖廁水暫停，預計周日早上7時半恢復。"
+      }
+    },
     {
       "id": "2026-10-18-amoy-plaza-staged-robbery",
       "published_at": "2026-10-18T01:10:00+08:00",
@@ -2476,95 +2543,6 @@
       "zh": {
         "headline": "警方通緝大埔珠寶店掠走金頸鏈男子",
         "dek": "一名約四十歲男子周三下午在廣福道周生生店舖要求試戴近八萬元金頸鏈後掠走，並登上往機場巴士逃走。"
-      }
-    },
-    {
-      "id": "2026-10-15-bus-fare-applications",
-      "published_at": "2026-10-15T03:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "bus",
-        "fare",
-        "transport",
-        "legislative-council"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-bus-fare-applications.json",
-      "en": {
-        "headline": "Four franchised bus operators apply for fare rises of up to 17.7 per cent",
-        "dek": "Citybus seeks the largest increase amid higher fuel costs, with the government to review applications at a Legislative Council panel on Friday."
-      },
-      "zh": {
-        "headline": "四間專營巴士營辦商申請加價 加幅8.1%至17.7%",
-        "dek": "城巴申請最高17.7%，九巴16%，政府將於星期五立法會交通事務委員會討論，強調會平衡營運可持續性與市民負擔能力。"
-      }
-    },
-    {
-      "id": "2026-10-15-iot-fire-alarm-expansion",
-      "published_at": "2026-10-15T03:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire-services",
-        "building-safety",
-        "iot",
-        "old-buildings"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-iot-fire-alarm-expansion.json",
-      "en": {
-        "headline": "Fire Services expands IoT fire alarm scheme to another 6000 old buildings",
-        "dek": "More than 300 buildings have expressed interest so far, but none have completed installation yet as owners negotiate costs and consensus."
-      },
-      "zh": {
-        "headline": "消防處將物聯網火警偵測系統擴展至約6000幢7層或以上舊樓",
-        "dek": "至今逾300幢樓宇提交意向書，反應理想，但暫時未有大廈完成安裝，業主需時達共識及商討工程費用。"
-      }
-    },
-    {
-      "id": "2026-10-15-lifestyle-westk-lego-heroween",
-      "published_at": "2026-10-15T03:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "west-kowloon",
-        "lego",
-        "halloween",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-lifestyle-westk-lego-heroween.json",
-      "en": {
-        "headline": "WestK Art Park opens LEGO Hero-ween event for children",
-        "dek": "The free programme runs until 31 October and invites young visitors in costume to complete brick-building challenges and a final mission on Halloween night."
-      },
-      "zh": {
-        "headline": "西九藝術公園推出LEGO萬聖節英雄活動 免費入場至月底",
-        "dek": "由今日至10月31日，小朋友可穿英雄裝扮參與拼砌工作坊、尋寶及萬聖節當晚壓軸任務，完成可換領限定勳章。"
-      }
-    },
-    {
-      "id": "2026-10-15-taxi-demerit-points-disqualifications",
-      "published_at": "2026-10-15T03:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "taxi",
-        "demerit-points",
-        "transport",
-        "legislative-council"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-taxi-demerit-points-disqualifications.json",
-      "en": {
-        "headline": "Three taxi drivers disqualified under demerit points system",
-        "dek": "The transport chief disclosed for the first time that three drivers have been banned for three months after accumulating 15 points or more since the scheme began in 2024."
-      },
-      "zh": {
-        "headline": "的士違例記分制下3名司機被取消駕駛資格3個月",
-        "dek": "運輸及物流局局長陳美寶首次披露，自2024年9月制度生效以來，已有3名司機因累積15分或以上被判停牌3個月。"
       }
     }
   ]
