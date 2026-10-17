@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T07:06:28+08:00",
+  "updated_at": "2026-10-17T09:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -97,6 +97,30 @@
       "id": "2026-10-17-signature-tourism-projects-q4",
       "first_seen": "2026-10-17T07:05:00+08:00",
       "headline_en": "Government to roll out four new signature tourism projects from fourth quarter"
+    },
+    {
+      "key": "cfa-terence-arnold-appointment-oct16",
+      "id": "2026-10-17-cfa-terence-arnold-appointment",
+      "first_seen": "2026-10-17T09:15:00+08:00",
+      "headline_en": "Chief Executive accepts recommendation to appoint New Zealand judge to top court"
+    },
+    {
+      "key": "hkex-t1-settlement-h2-2028",
+      "id": "2026-10-17-hkex-t1-settlement-roadmap",
+      "first_seen": "2026-10-17T09:15:00+08:00",
+      "headline_en": "HKEX targets T+1 settlement for cash market in second half of 2028"
+    },
+    {
+      "key": "franchised-bus-fare-applications-legco-oct16",
+      "id": "2026-10-17-bus-fare-hike-applications-reviewed",
+      "first_seen": "2026-10-17T09:15:00+08:00",
+      "headline_en": "Transport bureau to review bus fare applications of up to 17.7 per cent carefully"
+    },
+    {
+      "key": "lifestyle-hk-wine-dine-festival-2026",
+      "id": "2026-10-17-wine-dine-festival-returns",
+      "first_seen": "2026-10-17T09:15:00+08:00",
+      "headline_en": "Hong Kong Wine and Dine Festival returns to harbourfront from 29 October"
     }
   ]
 }
