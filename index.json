@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-10-17T15:21:27+08:00",
+  "generated_at": "2026-10-17T17:10:14+08:00",
   "live_window_hours": 72,
-  "count": 118,
+  "count": 117,
   "articles": [
+    {
+      "id": "2026-10-17-amoy-plaza-cash-robbery",
+      "published_at": "2026-10-17T17:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "robbery",
+        "ngau-tau-kok",
+        "amoy-plaza"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-amoy-plaza-cash-robbery.json",
+      "en": {
+        "headline": "Woman robbed of HK$11,000 cash in Amoy Plaza stairwell in Ngau Tau Kok",
+        "dek": "A 22-year-old woman was pushed from behind and had cash snatched late on Friday night while heading to an ATM; police are seeking a man in a grey sweatshirt."
+      },
+      "zh": {
+        "headline": "牛頭角淘大商場梯間女子被搶走約一萬一千元現金",
+        "dek": "二十二歲女子周五晚約十一時在商場梯間被男從後推撞並搶走現金，警方正追緝穿灰色長袖衛衣男子。"
+      }
+    },
+    {
+      "id": "2026-10-17-iphone-duo-credit-card-reports",
+      "published_at": "2026-10-17T17:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "iphone",
+        "credit-card",
+        "apple",
+        "hsbc"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-iphone-duo-credit-card-reports.json",
+      "en": {
+        "headline": "Police receive over 100 reports of credit card charges linked to iPhone Duo pre-orders",
+        "dek": "Complaints of duplicate or unauthorised transactions began after Apple opened online pre-orders at 8pm on Friday, with sums running into the millions of dollars."
+      },
+      "zh": {
+        "headline": "警方接獲逾百宗iPhone Duo預購信用卡扣款舉報",
+        "dek": "蘋果周五晚八時開放摺疊式手機預購後，市民紛紛反映重複或未經授權交易，涉及金額達數百萬元。"
+      }
+    },
+    {
+      "id": "2026-10-17-yau-tong-role-x-theft-arrest",
+      "published_at": "2026-10-17T17:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "theft",
+        "yau-tong",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-yau-tong-role-x-theft-arrest.json",
+      "en": {
+        "headline": "Husband arrested after wife reports theft of Rolex and handbags worth HK$450,000 in Yau…",
+        "dek": "A 40-year-old man was detained after his 34-year-old wife reported that a Rolex watch and three designer bags had gone missing from their Ocean One flat on Saturday morning."
+      },
+      "zh": {
+        "headline": "油塘丈夫被拘 妻報稱家中勞力士及手袋失竊涉約四十五萬元",
+        "dek": "三十四歲女子今早報稱油塘Ocean One單位內勞力士手錶及三個名牌手袋失竊，警方拘捕其四十歲丈夫。"
+      }
+    },
     {
       "id": "2026-10-17-hk-ballet-dunhuang-premiere",
       "published_at": "2026-10-17T15:19:00+08:00",
@@ -2539,91 +2606,6 @@
       "zh": {
         "headline": "大埔廣福道金行男客試戴金鏈後偷走 警正追查",
         "dek": "警方正追查一名約40歲男子，今日下午進入廣福道周生生金行伊裝顧客，試戴一條約值數萬元金鏈後奪門逃走。"
-      }
-    },
-    {
-      "id": "2026-10-14-hang-seng-close",
-      "published_at": "2026-10-14T17:10:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "stock-market",
-        "business"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-hang-seng-close.json",
-      "en": {
-        "headline": "Hang Seng Index closes down 31 points at 24314",
-        "dek": "The benchmark ended Wednesday's session at 24,314.17, a fall of 0.13 per cent from the previous close, after trading between 24,115 and 24,524."
-      },
-      "zh": {
-        "headline": "恒生指數收市報24314點 跌31點",
-        "dek": "基準指數周三收報24314.17點，較前收市跌0.13%，全日高低位介乎24115至24524。"
-      }
-    },
-    {
-      "id": "2026-10-14-lifestyle-science-museum-food-exhibition",
-      "published_at": "2026-10-14T17:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "science-museum",
-        "food"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-lifestyle-science-museum-food-exhibition.json",
-      "en": {
-        "headline": "Science Museum hosts food science exhibition on cha chaan teng classics until late October",
-        "dek": "The '創味盤中餐' display explores the science behind pineapple buns, egg tarts and milk tea, alongside molecular gastronomy and future food trends, running until 28 October."
-      },
-      "zh": {
-        "headline": "科學館「創味盤中餐」展覽至10月底 探索茶餐廳美食科學",
-        "dek": "展覽拆解菠蘿包、蛋擔、奶茶背後原理，並介紹分子料理及未來飲食，展期至10月28日。"
-      }
-    },
-    {
-      "id": "2026-10-14-public-transport-nuisance-complaints",
-      "published_at": "2026-10-14T17:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "transport",
-        "complaints",
-        "public-transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-public-transport-nuisance-complaints.json",
-      "en": {
-        "headline": "Complaints of nuisance behaviour on public transport hit three-year high",
-        "dek": "The Transport Department and Environmental Protection Department recorded 66 complaints about noise and improper behaviour in 2025, more than double the 2023 figure."
-      },
-      "zh": {
-        "headline": "公共交通滋擾行為投訴三年新高",
-        "dek": "運輸署及環保署2025年接獲66宗噪音及不當行為投訴，較2023年多一倍以上。"
-      }
-    },
-    {
-      "id": "2026-10-14-taxi-offence-points-update",
-      "published_at": "2026-10-14T17:10:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "taxi",
-        "transport",
-        "legislative-council"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-taxi-offence-points-update.json",
-      "en": {
-        "headline": "229 taxi drivers have incurred points under offence scheme, three disqualified",
-        "dek": "As of early October, refusal of hire accounted for 125 of the cases under the Taxi-Driver-Offence Points system that took effect in September 2024."
-      },
-      "zh": {
-        "headline": "的士司機違例記分制已有229人被記分 三人停牌",
-        "dek": "截至10月初，拒載佔記分個案125宗；制度於2024年9月生效。"
       }
     }
   ]
