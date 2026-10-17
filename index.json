@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-10-17T13:13:36+08:00",
+  "generated_at": "2026-10-17T15:19:56+08:00",
   "live_window_hours": 72,
-  "count": 121,
+  "count": 117,
   "articles": [
+    {
+      "id": "2026-10-17-police-double-hammer-arrests",
+      "published_at": "2026-10-17T15:19:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "triad",
+        "drugs",
+        "wan-chai",
+        "chai-wan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-police-double-hammer-arrests.json",
+      "en": {
+        "headline": "Police arrest 53 in Double Hammer operation targeting triad drug and vice activities",
+        "dek": "Officers seized about 3.6 kg of cannabis products worth nearly HK$1 million and raided a public-housing packaging centre and a Wan Chai private club."
+      },
+      "zh": {
+        "headline": "警方「雙錘」行動打擊三合會黃賭毒 拘捕53人檢獲3600克大麻",
+        "dek": "港島總區聯同入境處行動，包括柴灣公屋毒品包裝中心及灣仔私人會所，檢獲市值約100萬元毒品。"
+      }
+    },
+    {
+      "id": "2026-10-17-sai-kung-hiking-rescue",
+      "published_at": "2026-10-17T15:19:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sai-kung",
+        "hiking",
+        "rescue",
+        "government-flying-service"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-sai-kung-hiking-rescue.json",
+      "en": {
+        "headline": "Helicopter lifts woman after she vomits blood while hiking near Sai Kung Danjiawan",
+        "dek": "A middle-aged woman in a group of 16 was airlifted conscious to Eastern Hospital after sudden cramps and vomiting blood on Saturday morning."
+      },
+      "zh": {
+        "headline": "西貢蛋家灣中年婦行山突吐血抽筋 直升機救起送東區醫院",
+        "dek": "16名女子今早由黃石碼頭出發，其中一名中年婦近蛋家灣時不適，清醒由政府飛行服務隊直升機送院。"
+      }
+    },
     {
       "id": "2026-10-17-ha-fmc-holiday-service",
       "published_at": "2026-10-17T13:11:00+08:00",
@@ -2556,139 +2601,6 @@
       "zh": {
         "headline": "的士司機違例記分制已有229人被記分 三人停牌",
         "dek": "截至10月初，拒載佔記分個案125宗；制度於2024年9月生效。"
-      }
-    },
-    {
-      "id": "2026-10-14-bus-fare-hike-applications",
-      "published_at": "2026-10-14T15:05:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "bus",
-        "fare",
-        "transport",
-        "legislative-council"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-bus-fare-hike-applications.json",
-      "en": {
-        "headline": "Four franchised bus operators apply for fare rises of 8.1 to 17.7 per cent",
-        "dek": "Citybus seeks the largest increase at 17.7 per cent and Kowloon Motor Bus 16 per cent, citing high fuel costs; lawmakers will discuss the applications on Friday."
-      },
-      "zh": {
-        "headline": "四間專營巴士營辦商申請加價8.1%至17.7%",
-        "dek": "城巴申請加幅最高達17.7%，九巴申請16%，指受高油價影響；立法會周五將討論有關申請。"
-      }
-    },
-    {
-      "id": "2026-10-14-dog-control-regulations-review",
-      "published_at": "2026-10-14T15:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "dogs",
-        "afcd",
-        "animal-welfare",
-        "legislation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-dog-control-regulations-review.json",
-      "en": {
-        "headline": "Government reviews dog control rules after attacks, aims to amend law next year",
-        "dek": "Secretary for Environment and Ecology Tse Chin-wan said the review of current regulations will go to the Legislative Council by year-end, with completion of amendments targeted for next year."
-      },
-      "zh": {
-        "headline": "政府全面檢視管束狗隻法規 爭取明年內完成修例",
-        "dek": "環境及生態局局長謝展寰表示，現行法規檢視將於今年年底諮詢立法會，並以明年內完成修例為目標。"
-      }
-    },
-    {
-      "id": "2026-10-14-hong-chi-assistant-rape-sentence",
-      "published_at": "2026-10-14T13:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "hong-chi",
-        "crime",
-        "tai-po"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-hong-chi-assistant-rape-sentence.json",
-      "en": {
-        "headline": "Former Hong Chi assistant house parent sentenced to 13 years for raping disabled resident",
-        "dek": "The High Court judge described the defendant’s conduct as extremely despicable and noted the absence of any remorse when imposing the term."
-      },
-      "zh": {
-        "headline": "匡智會前助理舍監五度強姦智障女院友 判囚13年",
-        "dek": "高等法院法官游德康指被告行為極可鄙、令人厭惡，並無悔意，判處監禁13年。"
-      }
-    },
-    {
-      "id": "2026-10-14-lifestyle-happy-valley-oktoberfest",
-      "published_at": "2026-10-14T13:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "happy-valley",
-        "oktoberfest",
-        "racing",
-        "food"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-lifestyle-happy-valley-oktoberfest.json",
-      "en": {
-        "headline": "Happy Valley Racecourse hosts Oktoberfest and Beerfest evenings this month",
-        "dek": "The Hong Kong Jockey Club’s Happy Wednesday series continues tonight with live performances, Bavarian-style food and racing at the racecourse."
-      },
-      "zh": {
-        "headline": "跑馬地馬場本月三個周三舉辦Oktoberfest及Beerfest",
-        "dek": "香港賽馬會Happy Wednesday系列今晚繼續，設有現場表演、巴伐利亞風格飲食及賽馬活動。"
-      }
-    },
-    {
-      "id": "2026-10-14-mtr-lam-tin-govt-report-demand",
-      "published_at": "2026-10-14T13:25:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "lam-tin",
-        "kwun-tong-line",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-mtr-lam-tin-govt-report-demand.json",
-      "en": {
-        "headline": "Government requires MTR to submit Lam Tin investigation report within one month",
-        "dek": "Transport Secretary Mable Chan said the government is very concerned about the two incidents at Lam Tin station within 15 hours and has asked the MTR Corporation for a full review and report."
-      },
-      "zh": {
-        "headline": "政府要求港鐵一個月內就藍田站事故提交調查報告",
-        "dek": "運輸及物流局局長陳美寶表示，政府非常關注藍田站不足15小時內兩度發生事故，已要求港鐵深入全面調查並於一個月內提交報告。"
-      }
-    },
-    {
-      "id": "2026-10-14-san-tin-technopole-10bn-injection",
-      "published_at": "2026-10-14T13:25:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "northern-metropolis",
-        "san-tin",
-        "technology",
-        "innovation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-san-tin-technopole-10bn-injection.json",
-      "en": {
-        "headline": "Government proposes HK$10 billion capital injection for San Tin Technopole Company",
-        "dek": "The Innovation and Technology Bureau has submitted a paper to the Legislative Council outlining how the initial funding will be used to accelerate land formation and develop innovation sites."
-      },
-      "zh": {
-        "headline": "政府建議向新田科技城公司注資100億元作為起始資金",
-        "dek": "創新科技及工業局向立法會提交文件，建議從資本投資基金撥出100億元予新田科技城公司，當中60億元發展創科用地、30億元加快土地平整。"
       }
     }
   ]
