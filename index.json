@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-10-17T09:12:30+08:00",
+  "generated_at": "2026-10-17T11:08:12+08:00",
   "live_window_hours": 72,
-  "count": 121,
+  "count": 122,
   "articles": [
+    {
+      "id": "2026-10-17-999-service-upgrades-tang",
+      "published_at": "2026-10-17T11:25:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "999",
+        "emergency",
+        "ai",
+        "tang-ping-keung",
+        "fsd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-999-service-upgrades-tang.json",
+      "en": {
+        "headline": "Tang says 999 upgrades will add real-time video and AI prioritisation by 2028",
+        "dek": "Callers could use WhatsApp or WeChat to send live images of incidents, with information shared instantly to the Fire Services Department."
+      },
+      "zh": {
+        "headline": "鄧炳強：999將增實時視像及人工智能分流 目標2028年啟用",
+        "dek": "市民日後可用WhatsApp或微信拍攝現場，報案資訊即時傳送消防處，火警等優先處理。"
+      }
+    },
+    {
+      "id": "2026-10-17-fanling-boy-sudden-death",
+      "published_at": "2026-10-17T11:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "fanling",
+        "sudden-death",
+        "child"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-fanling-boy-sudden-death.json",
+      "en": {
+        "headline": "11-year-old boy found unconscious at Fanling home later confirmed dead",
+        "dek": "Police received a report from the boy's father at about 6am on Saturday; ambulance officers confirmed death at the scene and investigations continue."
+      },
+      "zh": {
+        "headline": "粉嶺欣翠花園11歲男童家中昏迷 當場證實不治",
+        "dek": "今早約6時父親報案，救護員到場證實男童明顯死亡，警方正在調查死因。"
+      }
+    },
+    {
+      "id": "2026-10-17-huanggang-port-chung-yeung-traffic",
+      "published_at": "2026-10-17T11:25:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "huanggang",
+        "border",
+        "chung-yeung",
+        "tang-ping-keung"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-huanggang-port-chung-yeung-traffic.json",
+      "en": {
+        "headline": "Security chief expects Huanggang port to exceed 100,000 daily crossings over Chung Yeung",
+        "dek": "Daily traffic has averaged over 80,000 since the new port opened, with Friday topping 92,000; waiting times remain under 15 minutes."
+      },
+      "zh": {
+        "headline": "鄧炳強料重陽長假新皇崗口岸高峰日過關人次破10萬",
+        "dek": "新口岸近日日均逾8萬人次，周五超過9.2萬，等候時間一般少於5分鐘，效率較舊口岸提升至少四倍。"
+      }
+    },
+    {
+      "id": "2026-10-17-yau-ma-tei-oil-attacks",
+      "published_at": "2026-10-17T11:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "yau-ma-tei",
+        "criminal-damage",
+        "restaurant"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-17/2026-10-17-yau-ma-tei-oil-attacks.json",
+      "en": {
+        "headline": "Police investigate oil attacks on two Yau Ma Tei restaurants within 38 minutes",
+        "dek": "Red oil hit a Portland Street cha chaan teng and black oil a Bowring Street dim sum shop early Saturday; no arrests and no injuries reported."
+      },
+      "zh": {
+        "headline": "油麻地兩食肆38分鐘內遭淋油 警列刑事毀壞追查",
+        "dek": "砵蘭街茶餐廳招牌染紅油，寶靈街點心店則被淋黑油，暫無人被捕，亦無人受傷。"
+      }
+    },
     {
       "id": "2026-10-17-bus-fare-hike-applications-reviewed",
       "published_at": "2026-10-17T09:15:00+08:00",
@@ -2618,72 +2707,6 @@
       "zh": {
         "headline": "上環女子墮海獲救不治 警方調查",
         "dek": "周三凌晨約2時，上環林士街停車場對開海面有女子載浮載沉，消防救起後昏迷送院，最終不治。"
-      }
-    },
-    {
-      "id": "2026-10-14-hkumed-whs-regional-meeting-2027",
-      "published_at": "2026-10-14T09:15:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "hkumed",
-        "world-health-summit",
-        "health",
-        "conference"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-hkumed-whs-regional-meeting-2027.json",
-      "en": {
-        "headline": "HKUMed to host first World Health Summit Regional Meeting in Hong Kong",
-        "dek": "The faculty will organise the meeting from 7 to 9 May 2027 at the Convention and Exhibition Centre under the theme Health Across Borders, expecting about 2,000 participants."
-      },
-      "zh": {
-        "headline": "港大醫學院將主辦世界衛生峰會2027年區域會議",
-        "dek": "會議將於明年5月7日至9日在會展中心舉行，主題為「健康無界」，預計吸引約2000人參與，是香港首次主辦。"
-      }
-    },
-    {
-      "id": "2026-10-14-lifestyle-airside-kuromi-sweet-party",
-      "published_at": "2026-10-14T09:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "kai-tak",
-        "airside",
-        "sanrio",
-        "exhibition"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-lifestyle-airside-kuromi-sweet-party.json",
-      "en": {
-        "headline": "Airside opens Kuromi Starlit Sweet Party with six-metre installation",
-        "dek": "The Kai Tak mall launches a dessert-themed Sanrio event from today until 8 November, featuring a tall Kuromi macaron sculpture, photo spots and a limited pop-up store."
-      },
-      "zh": {
-        "headline": "啟德Airside推出Kuromi魔幻烘焙所 設6米高裝置",
-        "dek": "商場由今日起至11月8日在二樓中庭舉行Sanrio主題活動，設有巨型Kuromi馬卡龍裝置、打卡位及期間限定店。"
-      }
-    },
-    {
-      "id": "2026-10-14-yau-ma-tei-road-works-collision",
-      "published_at": "2026-10-14T09:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic",
-        "collision",
-        "yau-ma-tei"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-14/2026-10-14-yau-ma-tei-road-works-collision.json",
-      "en": {
-        "headline": "Car collides with road works vehicle on Gascoigne Road in Yau Ma Tei",
-        "dek": "A white private car struck the rear of a road works vehicle early on Wednesday morning; the driver sustained abrasions and was treated at the scene."
-      },
-      "zh": {
-        "headline": "油麻地加士居道私家車撞工程車 司機擦傷現場治理",
-        "dek": "周三凌晨約5時，一輚白色私家車撞向工程車車尾，司機受擦傷並在現場接受治療，警方正調查成因。"
       }
     }
   ]
