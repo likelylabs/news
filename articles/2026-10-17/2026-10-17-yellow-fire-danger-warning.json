@@ -1,0 +1,27 @@
+{
+  "id": "2026-10-17-yellow-fire-danger-warning",
+  "published_at": "2026-10-17T13:11:00+08:00",
+  "category": "weather",
+  "tags": ["hko", "fire-danger", "warning", "chung-yeung"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "yellow-fire-danger-warning-oct17",
+  "en": {
+    "headline": "Observatory issues yellow fire danger warning as risk remains high",
+    "dek": "The Hong Kong Observatory raised the yellow fire danger warning at 9:45am on Saturday, urging the public to prevent fires and hikers to stay vigilant.",
+    "body": [
+      "The Hong Kong Observatory issued a yellow fire danger warning at 9:45am on Saturday, stating that the fire risk is high.",
+      "The Observatory said the fire danger situation today is yellow. People are urged to prevent fires from breaking out, and hikers should also be vigilant.",
+      "The warning remains in force as of the latest check. No other weather warnings were reported in force at that time."
+    ]
+  },
+  "zh": {
+    "headline": "天文台發出黃色火災危險警告 指火險頗高",
+    "dek": "天文台今日上午9時45分發出黃色火災危險警告，呼籲市民防止火災發生，遠足人士亦須提高警覺。",
+    "body": [
+      "香港天文台於今日上午9時45分發出黃色火災危險警告，表示火災危險性頗高。",
+      "天文台指出，今日火災危險情況為黃色。市民應防止火災發生，遠足人士亦須提高警覺。",
+      "警告現時仍然生效。截至最新查核，未有其他天氣警告生效。"
+    ]
+  }
+}
