@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T19:06:02+08:00",
+  "updated_at": "2026-10-17T21:05:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -229,6 +229,18 @@
       "id": "2026-10-17-halloween-carnival-central",
       "first_seen": "2026-10-17T19:05:00+08:00",
       "headline_en": "Hongkong Land opens 15-day Halloween carnival with installations in Central"
+    },
+    {
+      "key": "law-visitor-target-53-8m-oct17",
+      "id": "2026-10-17-law-visitor-target-confidence",
+      "first_seen": "2026-10-17T21:05:00+08:00",
+      "headline_en": "Law says she is confident Hong Kong will reach 53.8 million visitors this year"
+    },
+    {
+      "key": "iphone-duo-police-3ds-criticism-oct17",
+      "id": "2026-10-17-iphone-duo-police-apple-criticism",
+      "first_seen": "2026-10-17T21:05:00+08:00",
+      "headline_en": "Police call repeat iPhone Duo credit-card reports extremely regrettable"
     }
   ]
 }
