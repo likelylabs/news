@@ -85,8 +85,16 @@ for lock-screen copy: `GROK.md` §1c. Sender, topics and policy:
 ## Local dev
 
 ```bash
+python3 tools/build_index.py --check   # strict preflight; never writes files
+python3 -m unittest discover -s tests -v   # publishing regression suite
 python3 tools/build_index.py   # validate all articles + rebuild index.json
 python3 tools/prune.py --dry-run   # preview which ledger keys would be trimmed
 python3 tools/build_archive.py --out /tmp/archive-preview   # render the /archive/ site
 ```
 All are stdlib-only (no dependencies).
+
+The builder repairs safe ASCII tag formatting, deduplicates/caps tags, and
+trims overlong display fields before validating. Unrepairable articles still
+fail publication; source repairs are written only after the entire corpus
+passes. See `TIDINESS.md`. Pull requests run the tests and read-only preflight;
+every main index build runs the regression suite before publishing.

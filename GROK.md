@@ -477,9 +477,17 @@ for every article, and with extra care on a breaking one:
    Action validates every article against the schema, trims the ledger, and
    regenerates `index.json` automatically. Your only job is to make sure each
    article file is **valid JSON that matches `schema/article.schema.json`**
-   before you commit. (If — and only if — your run environment can execute
-   code, you may self-check by running `python3 tools/build_index.py`, which
-   prints exactly what's wrong; but the Action is the source of truth.)
+   before you commit. If your run environment can execute code, run
+   `python3 tools/build_index.py --check` and fix every reported error before
+   committing. This check is read-only: it never edits articles or index.json.
+   Otherwise, check each field against the schema before pushing.
+   **Tags:** at most six unique lowercase ASCII slugs; each uses only letters,
+   digits, and single hyphens between words. Write `i-t`, never `i&t`; no
+   spaces, underscores, or duplicates. Reuse existing tags when possible.
+   The Action can normalize safe ASCII tag spelling, deduplicate/cap tags,
+   and trim long display fields; this safety net does not excuse skipping
+   preflight. Invalid types, non-ASCII tags, and unrepairable articles still
+   stop publication.
    **Write Chinese as the literal characters, never as `\uXXXX` escapes** —
    the same goes for any other non-ASCII text (「」, ℃, curly quotes, dashes).
    `schema/example-article.json` shows the form. Hand-typed escapes are one

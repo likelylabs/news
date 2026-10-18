@@ -49,12 +49,29 @@ run by the Action) now only trims ledger keys older than **14 days**. Don't
 delete articles manually to "clean up", and never delete a live article to
 hide a mistake.
 
-## Articles are immutable except for corrections
+## Article content is immutable except for corrections
 
 Once published, an article's `id` and `published_at` never change. To fix a
 factual error: edit the same file, correct the fact, set `updated_at` to now
 (`+08:00`), and add a final `Correction: …` paragraph to the body. That's
-the only reason to touch a published file.
+the only reason to change published prose or facts. The index builder may
+also normalize display lengths and tag formatting as described below; those
+mechanical repairs do not change identity, timestamps, body, or news flags.
+
+## Metadata repair and validation
+
+The index builder normalizes ASCII tag spelling (for example `i&t` → `i-t`),
+removes duplicate tags in order, and keeps at most six (retaining `lifestyle`
+when present). It also trims overlong headlines and deks to their display
+caps. Every repair is printed in the build log and written back to the source
+article so article and index agree.
+
+Repairs are applied only after **every article passes validation**. Invalid
+JSON, wrong field types, empty tag strings or non-ASCII tags, unknown categories, invalid
+dates, and missing content still fail the build without changing articles or
+the index. The builder never drops a whole article to hide a validation error.
+Use `python3 tools/build_index.py --check` for strict, read-only preflight;
+this mode reports repairable metadata too, so writers fix it before pushing.
 
 ## Per-run checklist (what a clean run looks like)
 
@@ -64,9 +81,11 @@ the only reason to touch a published file.
 3. Verify facts (see GROK.md §3). Drop anything shaky.
 4. Write ≤5 valid article files to `articles/<date>/`.
 5. Append each to `ledger.json`.
-6. Commit article files + ledger.json — **not** index.json — as **one commit,
+6. Run `python3 tools/build_index.py --check` if code execution is available;
+   otherwise check the fields against the schema. Fix errors before committing.
+7. Commit article files + ledger.json — **not** index.json — as **one commit,
    pushed once**, at the end of the run.
-7. Nothing new? Commit nothing. No empty commits, no "no news today" placeholders.
+8. Nothing new? Commit nothing. No empty commits, no "no news today" placeholders.
 
 ## One commit, one push, per run
 

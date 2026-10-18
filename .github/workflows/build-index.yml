@@ -2,34 +2,61 @@ name: build-news-index
 
 # The deterministic half of the pipeline (tenet #5, "one sanctioned write
 # path"). The news automation only writes article files + ledger.json; this
-# Action validates every article, prunes old ones, and regenerates
-# index.json. If an article is malformed the run FAILS loudly and the live
-# index is left untouched (no regression) until the article is fixed.
+# Action normalizes safe metadata, validates every article, trims the ledger,
+# and regenerates index.json. Unrepairable articles FAIL loudly and leave the
+# live index untouched until fixed. Article files are never deleted.
 
 on:
   push:
+    branches: [main]
     paths:
       - 'articles/**'
       - 'ledger.json'
       - 'tools/**'
       - 'schema/**'
+      - 'tests/**'
+      - '.github/workflows/build-index.yml'
+  pull_request:
+    paths:
+      - 'articles/**'
+      - 'tools/**'
+      - 'schema/**'
+      - 'tests/**'
+      - '.github/workflows/build-index.yml'
   workflow_dispatch: {}
   schedule:
-    # Daily prune so stale files/ledger keys age out even on quiet days.
+    # Daily rebuild so stale index entries/ledger keys age out on quiet days.
     - cron: '30 20 * * *'
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
-  group: build-news-index
+  group: build-news-index-${{ github.event.pull_request.number || github.ref }}
   cancel-in-progress: false
 
 jobs:
-  build:
+  validate:
+    if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v7
+      - name: Regression tests
+        run: python3 -m unittest discover -s tests -v
+      - name: Check articles without writing files
+        run: python3 tools/build_index.py --check
+
+  build:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
 
       # Prune + rebuild + push, retried against a moving main.
       #
@@ -53,6 +80,7 @@ jobs:
           git config user.email "news-bot@users.noreply.github.com"
 
           for attempt in 1 2 3 4 5; do
+            python3 -m unittest discover -s tests -v
             python3 tools/prune.py
             python3 tools/build_index.py
 
