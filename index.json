@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-10-18T07:06:51+08:00",
+  "generated_at": "2026-10-18T09:12:52+08:00",
   "live_window_hours": 72,
-  "count": 112,
+  "count": 113,
   "articles": [
+    {
+      "id": "2026-10-18-yellow-fire-danger-warning-oct18",
+      "published_at": "2026-10-18T09:15:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "fire-danger",
+        "chung-yeung"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-18/2026-10-18-yellow-fire-danger-warning-oct18.json",
+      "en": {
+        "headline": "Observatory issues yellow fire danger warning on Chung Yeung morning",
+        "dek": "The Hong Kong Observatory raised the yellow signal at 8:15am as fire risk remains high amid dry conditions and expected hill visits."
+      },
+      "zh": {
+        "headline": "天文台重陽節早上發出黃色火災危險警告",
+        "dek": "天文台於上午8時15分發出黃色火災危險警告，表示火災危險性頗高，市民及登山人士應提高警覺。"
+      }
+    },
     {
       "id": "2026-10-18-emsd-tai-zoom-78-buildings",
       "published_at": "2026-10-18T07:03:00+08:00",
