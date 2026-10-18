@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T09:13:06+08:00",
+  "updated_at": "2026-10-18T09:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -307,6 +307,18 @@
       "id": "2026-10-18-lifestyle-sham-shui-po-monkey",
       "first_seen": "2026-10-18T07:03:00+08:00",
       "headline_en": "Passers-by report wild monkey foaming at mouth in Sham Shui Po"
+    },
+    {
+      "key": "yellow-fire-danger-warning-oct18",
+      "id": "2026-10-18-yellow-fire-danger-warning-oct18",
+      "first_seen": "2026-10-18T09:15:00+08:00",
+      "headline_en": "Observatory issues yellow fire danger warning on Chung Yeung morning"
+    },
+    {
+      "key": "city-hall-chung-yeung-ceremony-2026",
+      "id": "2026-10-18-city-hall-chung-yeung-ceremony",
+      "first_seen": "2026-10-18T09:15:00+08:00",
+      "headline_en": "Government holds Chung Yeung ceremony at City Hall to honour wartime defenders"
     }
   ]
 }
