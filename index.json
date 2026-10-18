@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-18T21:10:13+08:00",
+  "generated_at": "2026-10-18T23:24:16+08:00",
   "live_window_hours": 72,
-  "count": 109,
+  "count": 108,
   "articles": [
+    {
+      "id": "2026-10-18-asian-para-games-officials-attendance",
+      "published_at": "2026-10-18T23:21:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-para-games",
+        "nagoya",
+        "liu-chun",
+        "sport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-18/2026-10-18-asian-para-games-officials-attendance.json",
+      "en": {
+        "headline": "Liu and Chong attend Asian Para Games opening to support Hong Kong athletes",
+        "dek": "The undersecretary for culture, sports and tourism and the new commissioner for sports met the Hong Kong, China delegation in Nagoya and will watch events in the coming days."
+      },
+      "zh": {
+        "headline": "劉震及莊敏婷出席亞殘運開幕式為港隊打氣",
+        "dek": "文化體育及旅遊局副局長劉震和新任體育專員莊敏婷到名古屋與中國香港代表團見面，了解住宿及備戰情況，未來數日將到場館觀賽。"
+      }
+    },
+    {
+      "id": "2026-10-18-peak-lighting-project-review",
+      "published_at": "2026-10-18T23:21:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tourism-board",
+        "the-peak",
+        "lugard-road",
+        "environment"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-18/2026-10-18-peak-lighting-project-review.json",
+      "en": {
+        "headline": "Tourism Board to review Peak light trail after residents raise concerns",
+        "dek": "The board said it would conduct broader consultation to refine arrangements for the planned installations along Lugard and Harlech Roads, aiming for a better balance with environmental protection and local needs."
+      },
+      "zh": {
+        "headline": "旅發局就山頂燈影項目進行更廣泛諮詢 檢視安排",
+        "dek": "局方表示明白並重視居民意見，會繼續緊密溝通，檢視盧吉道及夏力道一帶燈影效果項目的整體安排，務求在旅遊發展、環境保護及居民需要之間取得更適切平衡。"
+      }
+    },
     {
       "id": "2026-10-18-customs-airport-drugs-seizure",
       "published_at": "2026-10-18T21:10:00+08:00",
@@ -2365,71 +2409,6 @@
       "zh": {
         "headline": "科學館「2026未來科學大獎展覽」周五起展出至11月中",
         "dek": "尖沙咀科學館地下展覽廳即日起至11月18日開放，常設展門票已包括，介紹大獎、本港歷年得獎者及互動展品。"
-      }
-    },
-    {
-      "id": "2026-10-15-election-committee-nominations-oct15",
-      "published_at": "2026-10-15T23:22:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "election",
-        "election-committee",
-        "nominations"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-election-committee-nominations-oct15.json",
-      "en": {
-        "headline": "Election Committee receives 29 more nomination forms on day nine",
-        "dek": "Returning officers took in 26 candidate forms and three from designated bodies on Thursday, lifting the cumulative totals to 1,112 and 38 respectively ahead of the October 20 close."
-      },
-      "zh": {
-        "headline": "選委會選舉提名期第九日再接獲29份提名表格",
-        "dek": "選舉主任今日接獲26份候選人提名表格及3份指定團體提名表格，累計分別達1112份及38份，提名期將於10月20日結束。"
-      }
-    },
-    {
-      "id": "2026-10-15-lok-ma-chau-emergency-hospital-works",
-      "published_at": "2026-10-15T23:22:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "hospital-authority",
-        "lok-ma-chau",
-        "works"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-lok-ma-chau-emergency-hospital-works.json",
-      "en": {
-        "headline": "Hospital Authority to suspend Lok Ma Chau emergency hospital for upgrades",
-        "dek": "Facility optimisation works starting next Tuesday cover ceiling insulation, flooring repairs, air-conditioning maintenance and a backup water tank, with services paused until the first quarter of 2027."
-      },
-      "zh": {
-        "headline": "醫管局公布河套應急醫院下周二起進行設施優化工程",
-        "dek": "工程涵蓋更換天花隔熱物料、加固地面、空調保養及加設備用水箱，期間暫停服務，預計明年第一季完成後恢復。"
-      }
-    },
-    {
-      "id": "2026-10-15-private-medical-fee-transparency",
-      "published_at": "2026-10-15T23:22:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "private-hospitals",
-        "transparency",
-        "legislation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-private-medical-fee-transparency.json",
-      "en": {
-        "headline": "Government proposes bilingual price lists for private medical facilities",
-        "dek": "The Health Bureau plans to submit regulations by year-end requiring fixed prices or ranges and pre-admission budget estimates for hospitals, with measures for private hospitals starting as early as August 2027."
-      },
-      "zh": {
-        "headline": "政府擬規定私營醫療機構提供中英雙語價目表",
-        "dek": "醫務衛生局計劃年底向立法會提交規例，要求列出固定價格或價格範圍，私家醫院須提供入院前費用預算，措施最早明年8月起適用於私家醫院。"
       }
     }
   ]
