@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T06:30:02+08:00",
+  "updated_at": "2026-10-19T07:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -7,6 +7,24 @@
       "id": "2026-10-19-lifestyle-ppa-asia-1500-hong-kong-slam",
       "first_seen": "2026-10-19T03:20:00+08:00",
       "headline_en": "PPA Asia 1500 Hang Seng Bank Hong Kong Slam begins at Kai Tak Arena"
+    },
+    {
+      "key": "emsd-taizoom-lifts-total-152",
+      "id": "2026-10-19-emsd-taizoom-lifts-152-buildings",
+      "first_seen": "2026-10-19T07:10:00+08:00",
+      "headline_en": "EMSD finds missing lift door components in 74 more Taizoom buildings, total reaches 152"
+    },
+    {
+      "key": "tsim-sha-tsui-porsche-drug-driving-arrest",
+      "id": "2026-10-19-tsim-sha-tsui-porsche-cannabis-arrest",
+      "first_seen": "2026-10-19T07:10:00+08:00",
+      "headline_en": "Police arrest Porsche driver in Tsim Sha Tsui after finding cannabis in car"
+    },
+    {
+      "key": "lifestyle-gloomie-museum-leonlollipop",
+      "id": "2026-10-19-lifestyle-gloomie-museum-harbour-city",
+      "first_seen": "2026-10-19T07:10:00+08:00",
+      "headline_en": "Local artist LeonLollipop’s Gloomie Museum exhibition runs at Harbour City until 25 October"
     }
   ]
 }
