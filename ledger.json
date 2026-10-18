@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T13:12:45+08:00",
+  "updated_at": "2026-10-18T13:25:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -319,6 +319,24 @@
       "id": "2026-10-18-city-hall-chung-yeung-ceremony",
       "first_seen": "2026-10-18T09:15:00+08:00",
       "headline_en": "Government holds Chung Yeung ceremony at City Hall to honour wartime defenders"
+    },
+    {
+      "key": "sham-shui-po-fu-cheong-suicide-oct18",
+      "id": "2026-10-18-sham-shui-po-man-found-hanged",
+      "first_seen": "2026-10-18T13:25:00+08:00",
+      "headline_en": "Man found hanged in Sham Shui Po estate room dies at hospital"
+    },
+    {
+      "key": "oases-next-batch-enterprises-oct22",
+      "id": "2026-10-18-oases-next-batch-strategic-enterprises",
+      "first_seen": "2026-10-18T13:25:00+08:00",
+      "headline_en": "OASES to announce next batch of 10 to 20 strategic enterprises on Thursday"
+    },
+    {
+      "key": "lifestyle-gloomie-museum-harbour-city",
+      "id": "2026-10-18-lifestyle-gloomie-museum",
+      "first_seen": "2026-10-18T13:25:00+08:00",
+      "headline_en": "LeonLollipop’s first solo show Gloomie Museum runs at Harbour City until 25 October"
     }
   ]
 }
