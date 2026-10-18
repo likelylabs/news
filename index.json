@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-10-18T13:12:45+08:00",
+  "generated_at": "2026-10-18T13:21:10+08:00",
   "live_window_hours": 72,
-  "count": 110,
+  "count": 108,
   "articles": [
+    {
+      "id": "2026-10-18-lifestyle-gloomie-museum",
+      "published_at": "2026-10-18T13:25:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "tsim-sha-tsui",
+        "art",
+        "harbour-city"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-18/2026-10-18-lifestyle-gloomie-museum.json",
+      "en": {
+        "headline": "LeonLollipop’s first solo show Gloomie Museum runs at Harbour City until 25 October",
+        "dek": "The exhibition features the artist’s 100th Gloomie portrait, a feline Mona Lisa, plus sculptures of cat soldiers inspired by the Terracotta Army."
+      },
+      "zh": {
+        "headline": "LeonLollipop首個個人展「Gloomie Museum托腮貓藝術館」於海港城展至10月25日",
+        "dek": "展覽包括藝術家第100幅Gloomie肖像「Gloomie Lisa」蒙娜麗莎貓，以及兵馬俑造型貓士兵雕塑。"
+      }
+    },
+    {
+      "id": "2026-10-18-oases-next-batch-strategic-enterprises",
+      "published_at": "2026-10-18T13:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "oases",
+        "investment",
+        "pharma",
+        "i-t"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-18/2026-10-18-oases-next-batch-strategic-enterprises.json",
+      "en": {
+        "headline": "OASES to announce next batch of 10 to 20 strategic enterprises on Thursday",
+        "dek": "Director-general Peter Yan said the intake would be split evenly between mainland and overseas firms, including top pharmaceutical companies, with many valued above HK$100 billion."
+      },
+      "zh": {
+        "headline": "引進辦周四公布新一批十多至二十間重點企業",
+        "dek": "主任任景信指新一批內地與海外企業各佔約一半，包括頂尖藥廠，不少市值逾千億元。"
+      }
+    },
     {
       "id": "2026-10-18-sham-shui-po-man-found-hanged",
       "published_at": "2026-10-18T13:25:00+08:00",
@@ -2365,92 +2410,6 @@
       "zh": {
         "headline": "港鐵調查藍田站15小時內兩宗故障 政府要求一個月內交報告",
         "dek": "周二晚軌旁絕緣部件起火及周三早月台電房電線過熱，先後影響繁忙時間服務；運輸及物流局局長要求徹底調查並提交報告。"
-      }
-    },
-    {
-      "id": "2026-10-15-icac-annual-survey-2025",
-      "published_at": "2026-10-15T13:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "icac",
-        "corruption",
-        "survey"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-icac-annual-survey-2025.json",
-      "en": {
-        "headline": "ICAC survey finds 99.2 per cent of respondents had no personal encounter with corruption",
-        "dek": "The 2025 annual survey of about 1,500 people recorded the highest such figure on record and a mean tolerance score of 0.3 out of 10."
-      },
-      "zh": {
-        "headline": "廉署調查顯示99.2%受訪者過去一年未親歷貪污 創紀錄",
-        "dek": "2025年周年民調訪問約1500人，貪污容忍度平均僅0.3分，97.9%認為社會廉潔對香港發展重要。"
-      }
-    },
-    {
-      "id": "2026-10-15-lifestyle-happy-valley-cat-garlic-missing",
-      "published_at": "2026-10-15T13:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "happy-valley",
-        "cat",
-        "missing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-lifestyle-happy-valley-cat-garlic-missing.json",
-      "en": {
-        "headline": "Happy Valley vegetable stall reports tabby cat Garlic missing",
-        "dek": "Staff at a produce shop on Tsap Tseung Street told police the four-year-old neutered cat was last seen Wednesday evening; an AirTag ping pointed to Tuen Mun early Thursday."
-      },
-      "zh": {
-        "headline": "跑馬地菜檔花貓「蒜頭」失蹤 飼主報警尋貓",
-        "dek": "集祥街菜檔職員今早報案，指約四歲已絕育花貓昨晚仍在店內，今晨不見蹤影；項圈追蹤器凌晨一度顯示屯門位置。"
-      }
-    },
-    {
-      "id": "2026-10-15-september-visitor-arrivals",
-      "published_at": "2026-10-15T13:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "tourism",
-        "visitors",
-        "hktb"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-september-visitor-arrivals.json",
-      "en": {
-        "headline": "September visitor arrivals reach 4.03 million, up 22 per cent",
-        "dek": "The Tourism Board said the Mid-Autumn Festival and festive events helped push first-nine-month arrivals past 40.7 million, a 12 per cent rise."
-      },
-      "zh": {
-        "headline": "9月訪港旅客約403萬人次按年升22% 首九個月逾4070萬",
-        "dek": "旅發局指中秋假期及多項節慶活動帶動增長，內地客升近三成，全年累計升12%。"
-      }
-    },
-    {
-      "id": "2026-10-15-yau-lai-estate-fire",
-      "published_at": "2026-10-15T13:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "yau-tong",
-        "fire",
-        "fire-services",
-        "accident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-yau-lai-estate-fire.json",
-      "en": {
-        "headline": "Fire at Yau Lai Estate unit in Yau Tong leaves five injured",
-        "dek": "Firefighters extinguished a blaze on the ninth floor of Sau Lai House shortly after 10.50am; one woman in her seventies was taken to hospital while about 100 residents were evacuated."
-      },
-      "zh": {
-        "headline": "油塘油麗邨單位起火 初步5人受傷約百人疏散",
-        "dek": "秀麗樓九樓單位上午約10時49分起火，消防約29分鐘後將火救熄；約70歲女住戶送聯合醫院，另有4人輕傷毋須送院。"
       }
     }
   ]
