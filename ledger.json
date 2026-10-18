@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T13:21:10+08:00",
+  "updated_at": "2026-10-18T15:25:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -337,6 +337,36 @@
       "id": "2026-10-18-lifestyle-gloomie-museum",
       "first_seen": "2026-10-18T13:25:00+08:00",
       "headline_en": "LeonLollipop’s first solo show Gloomie Museum runs at Harbour City until 25 October"
+    },
+    {
+      "key": "workweek-weather-outlook-oct20-24",
+      "id": "2026-10-18-workweek-weather-outlook-oct20-24",
+      "first_seen": "2026-10-18T15:25:00+08:00",
+      "headline_en": "Observatory forecasts mainly fine and dry weather for the work week after Chung Yeung"
+    },
+    {
+      "key": "chan-imf-hk-growth-blog-oct18",
+      "id": "2026-10-18-chan-imf-hk-growth-outlook",
+      "first_seen": "2026-10-18T15:25:00+08:00",
+      "headline_en": "Chan says Hong Kong remains optimistic on growth after IMF upgrades forecast to 3.8 per cent"
+    },
+    {
+      "key": "aberdeen-centre-parknshop-smoke-oct18",
+      "id": "2026-10-18-aberdeen-centre-supermarket-fire",
+      "first_seen": "2026-10-18T15:25:00+08:00",
+      "headline_en": "Firefighters extinguish smoke at Aberdeen Centre supermarket kitchen, no injuries"
+    },
+    {
+      "key": "lam-gba-arbitration-taskforce-oct18",
+      "id": "2026-10-18-lam-gba-dispute-resolution-summit",
+      "first_seen": "2026-10-18T15:25:00+08:00",
+      "headline_en": "Lam says Hong Kong will form task force to speed Greater Bay Area rule alignment"
+    },
+    {
+      "key": "lifestyle-st-stephens-285-homes-exhibition",
+      "id": "2026-10-18-lifestyle-st-stephens-285-homes",
+      "first_seen": "2026-10-18T15:25:00+08:00",
+      "headline_en": "St Stephen’s Society opens multimedia exhibition on Jackie Pullinger’s 60 years in Hong Kong"
     }
   ]
 }
