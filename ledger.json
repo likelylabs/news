@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T17:10:34+08:00",
+  "updated_at": "2026-10-18T19:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -391,6 +391,30 @@
       "id": "2026-10-18-fehd-halloween-dogs-reminder",
       "first_seen": "2026-10-18T17:15:00+08:00",
       "headline_en": "FEHD reminds public to check restaurant permits before taking dogs out for Halloween meals"
+    },
+    {
+      "key": "tuen-mun-shan-king-charcoal-deaths-oct18",
+      "id": "2026-10-18-tuen-mun-shan-king-charcoal-deaths",
+      "first_seen": "2026-10-18T19:15:00+08:00",
+      "headline_en": "Two people in their 70s die after charcoal burning at Tuen Mun estate"
+    },
+    {
+      "key": "san-tin-five-dogs-poisoned-oct18",
+      "id": "2026-10-18-san-tin-dogs-poisoned",
+      "first_seen": "2026-10-18T19:15:00+08:00",
+      "headline_en": "Police investigate five dogs found dead near San Tin fishponds as possible animal cruelty"
+    },
+    {
+      "key": "ho-man-tin-helper-slap-baby-oct18",
+      "id": "2026-10-18-ho-man-tin-helper-baby-arrest",
+      "first_seen": "2026-10-18T19:15:00+08:00",
+      "headline_en": "Police arrest Filipino domestic helper over alleged slapping of five-month-old baby in Ho Man Tin"
+    },
+    {
+      "key": "nine-year-old-invasive-pneumococcal-death-oct18",
+      "id": "2026-10-18-nine-year-old-pneumococcal-death",
+      "first_seen": "2026-10-18T19:15:00+08:00",
+      "headline_en": "Centre for Health Protection investigates death of nine-year-old boy from invasive pneumococcal disease"
     }
   ]
 }
