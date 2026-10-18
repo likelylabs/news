@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-18T23:25:20+08:00",
+  "generated_at": "2026-10-19T01:05:14+08:00",
   "live_window_hours": 72,
-  "count": 108,
+  "count": 105,
   "articles": [
+    {
+      "id": "2026-10-19-lifestyle-the-mills-tales-crawlers",
+      "published_at": "2026-10-19T01:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "halloween",
+        "exhibition",
+        "tsuen-wan",
+        "animals"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-19/2026-10-19-lifestyle-the-mills-tales-crawlers.json",
+      "en": {
+        "headline": "The Mills hosts free exhibition of rare creatures for Halloween",
+        "dek": "Visitors can see the African pygmy mouse, glowing emperor scorpion and other unusual animals at the Tsuen Wan venue until 1 November."
+      },
+      "zh": {
+        "headline": "南豐紗廠萬聖節怪奇動物展覽免費開放至11月1日",
+        "dek": "荃灣南豐紗廠與香港昆蟲教育及科普中心合作，展出非洲侏儒鼠、紫外光下會發光的帝王蠍等罕見生物，每日中午至晚上7時開放。"
+      }
+    },
     {
       "id": "2026-10-18-asian-para-games-officials-attendance",
       "published_at": "2026-10-18T23:21:00+08:00",
@@ -2319,96 +2342,6 @@
       "zh": {
         "headline": "大型體育活動事務委員會授予三項國際賽事M品牌認證",
         "dek": "領展香港高爾夫球公開賽、香港六人板球賽及保誠香港網球公開賽獲認證，分別於本月底及下月初舉行。"
-      }
-    },
-    {
-      "id": "2026-10-16-emsd-tai-yip-elevator-deficiencies",
-      "published_at": "2026-10-16T01:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "elevators",
-        "emsd",
-        "housing",
-        "kwun-tong",
-        "sha-tin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-16/2026-10-16-emsd-tai-yip-elevator-deficiencies.json",
-      "en": {
-        "headline": "EMSD finds serious deficiencies in Tai Yip lift works at two estates",
-        "dek": "Forty-eight lifts at Tsui Ping North and Pok Hong Estates were reported complete without fire-door frames; the department is referring the case to police and ordering repairs within a month."
-      },
-      "zh": {
-        "headline": "機電署發現臺日電梯兩屋邨換𨋢工程嚴重缺失",
-        "dek": "翠屏北邨及博康邨共48部升降機未裝耐火門框卻報稱完工，署方將事件轉介警方，並限一個月內完成執修。"
-      }
-    },
-    {
-      "id": "2026-10-16-ha-liver-donor-appeal-boy",
-      "published_at": "2026-10-16T01:05:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "organ-donation",
-        "hospital-authority",
-        "queen-mary"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-16/2026-10-16-ha-liver-donor-appeal-boy.json",
-      "en": {
-        "headline": "Hospital Authority appeals for liver donor for 13-year-old boy",
-        "dek": "The boy at Queen Mary Hospital is in serious condition with severe liver failure and complications, topping the O+ waiting list as officials prepare to seek mainland assistance."
-      },
-      "zh": {
-        "headline": "醫管局呼籲為13歲男童尋找肝臟捐贈者",
-        "dek": "男童現於瑪麗醫院留醫，情況嚴重，肝功能衰竭並有併發症，位列O+血型輪候名單首位，當局正準備向內地尋求協助。"
-      }
-    },
-    {
-      "id": "2026-10-16-kwun-tong-bypass-collision",
-      "published_at": "2026-10-16T01:05:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "traffic",
-        "accident",
-        "kwun-tong",
-        "citybus"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-16/2026-10-16-kwun-tong-bypass-collision.json",
-      "en": {
-        "headline": "Three injured in Kwun Tong Bypass three-vehicle collision",
-        "dek": "A private car struck a Citybus and another car near MegaBox on Thursday evening, briefly trapping a driver and closing the Yau Tong-bound lanes."
-      },
-      "zh": {
-        "headline": "觀塘繞道三車相撞釀三人受傷",
-        "dek": "周四晚上近MegaBox一輛私家車撞及城巴及另一私家車，一名司機一度被困，往油塘方向全線封閉。"
-      }
-    },
-    {
-      "id": "2026-10-16-lifestyle-science-museum-future-prize",
-      "published_at": "2026-10-16T01:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "science",
-        "tsim-sha-tsui",
-        "museum"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-16/2026-10-16-lifestyle-science-museum-future-prize.json",
-      "en": {
-        "headline": "Science Museum opens Future Science Prize exhibition until mid-November",
-        "dek": "The free-with-permanent-ticket show at Tsim Sha Tsui runs from Friday to 18 November and introduces the prize, Hong Kong laureates and interactive displays on past winning fields."
-      },
-      "zh": {
-        "headline": "科學館「2026未來科學大獎展覽」周五起展出至11月中",
-        "dek": "尖沙咀科學館地下展覽廳即日起至11月18日開放，常設展門票已包括，介紹大獎、本港歷年得獎者及互動展品。"
       }
     }
   ]
