@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-10-18T19:07:24+08:00",
+  "generated_at": "2026-10-18T21:08:26+08:00",
   "live_window_hours": 72,
-  "count": 110,
+  "count": 109,
   "articles": [
+    {
+      "id": "2026-10-18-customs-airport-drugs-seizure",
+      "published_at": "2026-10-18T21:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "airport",
+        "drugs",
+        "cocaine",
+        "cannabis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-18/2026-10-18-customs-airport-drugs-seizure.json",
+      "en": {
+        "headline": "Customs seize cocaine and cannabis worth HK$6.8 million at airport, arrest two",
+        "dek": "Officers found about 5.4 kilograms of suspected cocaine and 17 kilograms of suspected cannabis buds in the luggage of two mainland passengers arriving on consecutive days."
+      },
+      "zh": {
+        "headline": "海關機場檢獲約680萬元可卡因及大麻花 拘兩名內地旅客",
+        "dek": "關員在連續兩日抵港的兩名內地旅客行李內，分別發現約5.4公斤懷疑可卡因及約17公斤懷疑大麻花。"
+      }
+    },
+    {
+      "id": "2026-10-18-long-win-bus-skycity-crash",
+      "published_at": "2026-10-18T21:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "bus",
+        "long-win",
+        "airport",
+        "skycity",
+        "accident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-18/2026-10-18-long-win-bus-skycity-crash.json",
+      "en": {
+        "headline": "Long Win bus hits railing at Airport Skycity terminus, no one injured",
+        "dek": "Police said the bus appeared to have lost control at a turning point around 2.49pm on Sunday, damaging about 10 metres of railing and the front of the vehicle."
+      },
+      "zh": {
+        "headline": "龍運巴士航天城總站疑失控撞毀欄杆 車頭嚴重損毀無人受傷",
+        "dek": "警方指今午約2時49分接報，巴士在總站轉彎位撞毀約10米鐵欄，車頭泵把脫落，事件中無人受傷。"
+      }
+    },
+    {
+      "id": "2026-10-18-yuen-long-village-drug-raid",
+      "published_at": "2026-10-18T21:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "yuen-long",
+        "drugs",
+        "ketamine",
+        "cocaine"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-18/2026-10-18-yuen-long-village-drug-raid.json",
+      "en": {
+        "headline": "Police arrest Pakistani couple over HK$22 million drug depot in Yuen Long village house",
+        "dek": "Officers seized about 10 kilograms of ketamine, 30 kilograms of cocaine and a small amount of methamphetamine after intercepting a man leaving the premises on a motorcycle."
+      },
+      "zh": {
+        "headline": "警方元朗村屋破毒倉 拘巴基斯坦裔夫婦檢逾2200萬元毒品",
+        "dek": "人員截查一名騎電單車離開的男子後，在村屋內檢獲約10公斤氯胺酮、約30公斤可卡因及少量冰毒。"
+      }
+    },
     {
       "id": "2026-10-18-ho-man-tin-helper-baby-arrest",
       "published_at": "2026-10-18T19:15:00+08:00",
@@ -2361,94 +2430,6 @@
       "zh": {
         "headline": "政府擬規定私營醫療機構提供中英雙語價目表",
         "dek": "醫務衛生局計劃年底向立法會提交規例，要求列出固定價格或價格範圍，私家醫院須提供入院前費用預算，措施最早明年8月起適用於私家醫院。"
-      }
-    },
-    {
-      "id": "2026-10-15-hkpc-embodied-ai-training",
-      "published_at": "2026-10-15T21:08:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "ai",
-        "robotics",
-        "productivity-council",
-        "innovation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-hkpc-embodied-ai-training.json",
-      "en": {
-        "headline": "Productivity Council opens Hong Kong's first embodied AI robot training ground",
-        "dek": "The facility under the Hong Kong Productivity Council brings together technology and scene partners to test humanoid and other robots in real industrial, logistics and public-service settings."
-      },
-      "zh": {
-        "headline": "生產力局成立本港首個具身智能及人形機械人訓練場",
-        "dek": "香港工業人工智能與機械人研發中心設立「具身智能國際應用訓練場」，匯聚技術及場景夥伴，推動機械人在工業、物流及公共服務等實景測試。"
-      }
-    },
-    {
-      "id": "2026-10-15-sham-shui-po-loan-shark-arrests",
-      "published_at": "2026-10-15T21:08:00+08:00",
-      "updated_at": "2026-10-15T21:10:00+08:00",
-      "category": "crime",
-      "tags": [
-        "loan-shark",
-        "police",
-        "sham-shui-po",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-sham-shui-po-loan-shark-arrests.json",
-      "en": {
-        "headline": "Police arrest 22 in Sham Shui Po crackdown on high-interest loan syndicate",
-        "dek": "Sham Shui Po crime officers dismantled a group operating two licensed finance companies in Yau Ma Tei that charged effective annual rates above 300 per cent and used intimidation to collect debts."
-      },
-      "zh": {
-        "headline": "警搗高利貸集團拘捕22人 包括主腦及骨幹成員",
-        "dek": "深水埗警區刑事部行動中拘捕22人，揭發兩間油麻地持牌財務公司實際年利率逾300%，並以恐嚇及淋油等手段收數。"
-      }
-    },
-    {
-      "id": "2026-10-15-shek-mun-land-sale",
-      "published_at": "2026-10-15T21:08:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "land-sale",
-        "housing",
-        "sha-tin",
-        "development"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-shek-mun-land-sale.json",
-      "en": {
-        "headline": "Government to tender Shek Mun site for about 960 private homes",
-        "dek": "The Development Bureau announced the third-quarter land sale programme, saying the first three quarters already exceed the annual private housing supply target of 12,600 units."
-      },
-      "zh": {
-        "headline": "政府推售石門住宅地 料提供約960個單位",
-        "dek": "發展局公布第三季賣地計劃，推出沙田石門住宅用地，首三季供應已超全年私人房屋目標12600個單位。"
-      }
-    },
-    {
-      "id": "2026-10-15-tai-po-necklace-theft-arrests",
-      "published_at": "2026-10-15T21:08:00+08:00",
-      "updated_at": "2026-10-15T21:10:00+08:00",
-      "category": "crime",
-      "tags": [
-        "theft",
-        "tai-po",
-        "police",
-        "jewellery"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-tai-po-necklace-theft-arrests.json",
-      "en": {
-        "headline": "Police arrest two over Tai Po gold necklace theft and recover part of chain",
-        "dek": "Officers detained a 37-year-old man and a 29-year-old woman within 24 hours of the theft at a Chow Sang Sang store on Kwong Fuk Road, retrieving part of the 60-gram chain."
-      },
-      "zh": {
-        "headline": "大埔周生生金鏈盜竊案 警方拘捕兩人並起回部分金鏈",
-        "dek": "大埔警區重案組今日拘捕一名37歲男子及一名29歲女子，涉於廣福道周生生金行盜取約值7.9萬元、重約60克的金鏈，並起回部分贓物。"
       }
     }
   ]
