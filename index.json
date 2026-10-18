@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-10-18T09:15:01+08:00",
+  "generated_at": "2026-10-18T13:12:45+08:00",
   "live_window_hours": 72,
-  "count": 114,
+  "count": 110,
   "articles": [
+    {
+      "id": "2026-10-18-sham-shui-po-man-found-hanged",
+      "published_at": "2026-10-18T13:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sham-shui-po",
+        "police",
+        "death"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-18/2026-10-18-sham-shui-po-man-found-hanged.json",
+      "en": {
+        "headline": "Man found hanged in Sham Shui Po estate room dies at hospital",
+        "dek": "Police said a 33-year-old man was discovered by family at Fu Cheong Estate around 6:10am and was pronounced dead after being taken to Caritas Medical Centre."
+      },
+      "zh": {
+        "headline": "深水埗富昌邨33歲男子被發現上吊 送院後不治",
+        "dek": "警方指今早約6時10分，家人在富盈樓發現事主，解下後報案，送明愛醫院後證實死亡，現場沒有遺書。"
+      }
+    },
     {
       "id": "2026-10-18-city-hall-chung-yeung-ceremony",
       "published_at": "2026-10-18T09:15:00+08:00",
@@ -2430,117 +2451,6 @@
       "zh": {
         "headline": "油塘油麗邨單位起火 初步5人受傷約百人疏散",
         "dek": "秀麗樓九樓單位上午約10時49分起火，消防約29分鐘後將火救熄；約70歲女住戶送聯合醫院，另有4人輕傷毋須送院。"
-      }
-    },
-    {
-      "id": "2026-10-15-consumer-council-customer-service-complaints",
-      "published_at": "2026-10-15T11:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "consumer-council",
-        "complaints",
-        "ai",
-        "customer-service"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-consumer-council-customer-service-complaints.json",
-      "en": {
-        "headline": "Consumer Council reports nearly 2705 customer service complaints this year",
-        "dek": "The figure up to August approaches last year’s full-year total, with common issues including no follow-up, uncontactable service and slow responses; the Council notes AI tools can help but often need human backup."
-      },
-      "zh": {
-        "headline": "消委會今年接獲近2705宗客戶服務投訴 逼近去年全年數字",
-        "dek": "截至8月的數字已接近去年全年總數，常見問題包括無人跟進、聯絡不到及跟進緩慢；消委會指人工智能有助提升效率，但仍需真人支援。"
-      }
-    },
-    {
-      "id": "2026-10-15-lifestyle-leslie-cheung-exhibition-hkdi",
-      "published_at": "2026-10-15T11:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "leslie-cheung",
-        "hkdi",
-        "tseung-kwan-o"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-lifestyle-leslie-cheung-exhibition-hkdi.json",
-      "en": {
-        "headline": "HKDI exhibition shows rare Leslie Cheung photos until mid-November",
-        "dek": "The free display at the Hong Kong Design Institute in Tseung Kwan O features previously unpublished archival images from the 1980s and 1990s, a concert microphone stand and student works, with advance online…"
-      },
-      "zh": {
-        "headline": "知專設計學院張國榮紀念展展出至11月中 免費參觀",
-        "dek": "將軍澳展覽包括多幅八九十年代未公開照片、演唱會銀色咪架及逾400名學生作品，需預先網上預約。"
-      }
-    },
-    {
-      "id": "2026-10-15-nt-south-anti-illegal-worker-vice",
-      "published_at": "2026-10-15T11:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "immigration",
-        "illegal-workers",
-        "vice"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-nt-south-anti-illegal-worker-vice.json",
-      "en": {
-        "headline": "Police and Immigration arrest 22 in New Territories South operation",
-        "dek": "The joint anti-illegal worker and anti-vice action on Wednesday used small drones for high-altitude patrols and targeted blackspots across several districts."
-      },
-      "zh": {
-        "headline": "新界南跨部門打擊黑工掃黃 拘捕22人",
-        "dek": "周三行動代號「冠軍」及「權能者」，使用小型無人機配合地面人員高空巡邏，突擊多個罪案黑點。"
-      }
-    },
-    {
-      "id": "2026-10-15-sai-kung-kiu-tsui-chau-drowning",
-      "published_at": "2026-10-15T11:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "sai-kung",
-        "drowning",
-        "accident",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-sai-kung-kiu-tsui-chau-drowning.json",
-      "en": {
-        "headline": "Man dies after drowning off Kiu Tsui Chau in Sai Kung",
-        "dek": "Police received a report at about 2.42am that someone was drowning; a passing sampan rescued the man and took him to Ho Chung Pier, where he was later pronounced dead at hospital."
-      },
-      "zh": {
-        "headline": "西貢橋咀洲附近有男子溺毙",
-        "dek": "警方約凌晨2時42分接報有人遇溺，途經舡艈將男子救起送往蠣湧碼頭，其後在將軍澳醫院證實不治。"
-      }
-    },
-    {
-      "id": "2026-10-15-tsuen-wan-cannabis-distribution-centre",
-      "published_at": "2026-10-15T11:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "drugs",
-        "cannabis",
-        "tsuen-wan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-tsuen-wan-cannabis-distribution-centre.json",
-      "en": {
-        "headline": "Police seize 5.7kg of suspected cannabis from Tsuen Wan mini-storage",
-        "dek": "Officers from the Tsuen Wan Police District Special Duties Team arrested a 28-year-old local man after finding about half a kilogramme on him and a further 5kg in a nearby storage unit."
-      },
-      "zh": {
-        "headline": "警方搞破荃灣迷你倉毒品分銷中心 檢獲約5.7公斤大麻花",
-        "dek": "荃灣警區特別職務隊截查一名28歲本地男子，在其紙袋檢獲約半公斤懷疑大麻花，其後在附近迷你倉再檢獲約5公斤。"
       }
     }
   ]
