@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T15:25:33+08:00",
+  "updated_at": "2026-10-18T17:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -367,6 +367,30 @@
       "id": "2026-10-18-lifestyle-st-stephens-285-homes",
       "first_seen": "2026-10-18T15:25:00+08:00",
       "headline_en": "St Stephen’s Society opens multimedia exhibition on Jackie Pullinger’s 60 years in Hong Kong"
+    },
+    {
+      "key": "ng-hon-mun-dies-aged-100",
+      "id": "2026-10-18-ng-hon-mun-dies",
+      "first_seen": "2026-10-18T17:15:00+08:00",
+      "headline_en": "Former NPC deputy and educator Ng Hon-mun dies aged 100"
+    },
+    {
+      "key": "tuen-mun-shan-king-charcoal-incident-oct18",
+      "id": "2026-10-18-tuen-mun-shan-king-charcoal",
+      "first_seen": "2026-10-18T17:15:00+08:00",
+      "headline_en": "Two people in their 70s found unconscious after charcoal burning at Tuen Mun estate"
+    },
+    {
+      "key": "tang-smartview-mall-cctv-final-stage-oct18",
+      "id": "2026-10-18-tang-smartview-mall-cctv",
+      "first_seen": "2026-10-18T17:15:00+08:00",
+      "headline_en": "Tang says talks to link private mall cameras to police SmartView network in final stage"
+    },
+    {
+      "key": "fehd-halloween-dogs-reminder-oct18",
+      "id": "2026-10-18-fehd-halloween-dogs-reminder",
+      "first_seen": "2026-10-18T17:15:00+08:00",
+      "headline_en": "FEHD reminds public to check restaurant permits before taking dogs out for Halloween meals"
     }
   ]
 }
