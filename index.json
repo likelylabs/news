@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-10-18T17:10:34+08:00",
+  "generated_at": "2026-10-18T19:07:24+08:00",
   "live_window_hours": 72,
-  "count": 109,
+  "count": 110,
   "articles": [
+    {
+      "id": "2026-10-18-ho-man-tin-helper-baby-arrest",
+      "published_at": "2026-10-18T19:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "ho-man-tin",
+        "police",
+        "domestic-helper",
+        "child"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-18/2026-10-18-ho-man-tin-helper-baby-arrest.json",
+      "en": {
+        "headline": "Police arrest Filipino domestic helper over alleged slapping of five-month-old baby in…",
+        "dek": "The father reported the case at Queen Elizabeth Hospital after reviewing home CCTV that showed the helper striking the infant three times in the early hours."
+      },
+      "zh": {
+        "headline": "何文田菲傭涉掌摑5個月大女嬰被捕 父親翻查閉路電視揭發",
+        "dek": "父親今早在伊利沙伯醫院報案，指閉路電視顯示外傭凌晨兩至四時三次掌摑女嬰。"
+      }
+    },
+    {
+      "id": "2026-10-18-nine-year-old-pneumococcal-death",
+      "published_at": "2026-10-18T19:15:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "chp",
+        "pneumococcal",
+        "child",
+        "tuen-mun-hospital"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-18/2026-10-18-nine-year-old-pneumococcal-death.json",
+      "en": {
+        "headline": "Centre for Health Protection investigates death of nine-year-old boy from invasive…",
+        "dek": "The previously healthy boy developed fever and cough from 10 October, was transferred to intensive care on the 14th and died the following day at Tuen Mun Hospital."
+      },
+      "zh": {
+        "headline": "衞生防護中心調查九歲男童染侵入性肺炎球菌病死亡個案",
+        "dek": "男童10月10日起發燒咳嗽，14日轉送屯門醫院兒童深切治療部，翌日不治。"
+      }
+    },
+    {
+      "id": "2026-10-18-san-tin-dogs-poisoned",
+      "published_at": "2026-10-18T19:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "san-tin",
+        "police",
+        "animal-cruelty",
+        "yuen-long"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-18/2026-10-18-san-tin-dogs-poisoned.json",
+      "en": {
+        "headline": "Police investigate five dogs found dead near San Tin fishponds as possible animal cruelty",
+        "dek": "Officers were called around 11.35am on Sunday after animal volunteers reported four black dogs dumped beside a rubbish heap, with a fifth carcass found nearby."
+      },
+      "zh": {
+        "headline": "新田魚塘旁發現五隻唐狗屍體 警方列作殘酷對待動物調查",
+        "dek": "今早約11時35分動物義工報案，四隻黑狗棄於垃圾堆，附近再發現第五隻。"
+      }
+    },
+    {
+      "id": "2026-10-18-tuen-mun-shan-king-charcoal-deaths",
+      "published_at": "2026-10-18T19:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tuen-mun",
+        "police",
+        "shan-king-estate"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-18/2026-10-18-tuen-mun-shan-king-charcoal-deaths.json",
+      "en": {
+        "headline": "Two people in their 70s die after charcoal burning at Tuen Mun estate",
+        "dek": "Police said a man and woman found unconscious around 2.30pm on Sunday at Shan King Estate were later confirmed dead at Tuen Mun Hospital."
+      },
+      "zh": {
+        "headline": "屯門山景邨一對約70歲男女燒炭後證實死亡",
+        "dek": "警方指今午約2時30分在景榮樓發現兩人昏迷，身旁有燒過的炭，送屯門醫院後不治。"
+      }
+    },
     {
       "id": "2026-10-18-fehd-halloween-dogs-reminder",
       "published_at": "2026-10-18T17:15:00+08:00",
@@ -2362,72 +2449,6 @@
       "zh": {
         "headline": "大埔周生生金鏈盜竊案 警方拘捕兩人並起回部分金鏈",
         "dek": "大埔警區重案組今日拘捕一名37歲男子及一名29歲女子，涉於廣福道周生生金行盜取約值7.9萬元、重約60克的金鏈，並起回部分贓物。"
-      }
-    },
-    {
-      "id": "2026-10-15-agarwood-scam-arrests",
-      "published_at": "2026-10-15T19:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "scam",
-        "police",
-        "investment",
-        "elderly"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-agarwood-scam-arrests.json",
-      "en": {
-        "headline": "Police arrest six over HK$14 million agarwood investment scheme",
-        "dek": "Officers raided a Kwun Tong office and warehouse in an operation codenamed Shadow Net after 21 mostly elderly victims reported losses ranging from HK$30,000 to HK$1.9 million."
-      },
-      "zh": {
-        "headline": "警方搗破沉香樹投資騙局拘捕6人涉款1400萬",
-        "dek": "商業罪案調查科展開代號「影網」行動，搜查觀塘辦事處及倉庫，21名受害人多為長者，個別損失由3萬至190萬元。"
-      }
-    },
-    {
-      "id": "2026-10-15-hku-gdp-forecast",
-      "published_at": "2026-10-15T19:05:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "economy",
-        "gdp",
-        "hku",
-        "forecast"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-hku-gdp-forecast.json",
-      "en": {
-        "headline": "HKU forecasts third-quarter growth of 3.7 per cent, full-year 4.1 per cent",
-        "dek": "The APEC Studies Programme revised the annual figure up by 0.4 points on stronger first-half trade, but expects fourth-quarter growth to slow to 2.8 per cent amid weaker consumer confidence."
-      },
-      "zh": {
-        "headline": "港大料第三季經濟按年增3.7% 全年預測上調至4.1%",
-        "dek": "亞太經濟合作研究項目指上半年外貿較預期理想，帶動全年預測上調0.4個百分點，但消費者信心疲弱令第三季放緩，第四季料再降至2.8%。"
-      }
-    },
-    {
-      "id": "2026-10-15-lingnan-english-exit-test",
-      "published_at": "2026-10-15T19:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "lingnan",
-        "english",
-        "university"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-15/2026-10-15-lingnan-english-exit-test.json",
-      "en": {
-        "headline": "Lingnan University drops external English test for graduation",
-        "dek": "Undergraduates must now pass university English courses instead of achieving a set IELTS score; the change took effect immediately after the Senate approved it earlier this week."
-      },
-      "zh": {
-        "headline": "嶺南大學取消本科生校外英語試畢業要求",
-        "dek": "學生只需修畢並及格指定校內英語課程即可畢業，取代過往須達雅思指定分數的規定，有關修訂本周教務會通過後即時生效。"
       }
     }
   ]
