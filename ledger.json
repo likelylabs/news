@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T15:19:52+08:00",
+  "updated_at": "2026-10-19T17:07:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -79,6 +79,18 @@
       "id": "2026-10-19-chung-yeung-border-crossings-record",
       "first_seen": "2026-10-19T15:20:00+08:00",
       "headline_en": "Immigration records over 1.32 million crossings on Chung Yeung Sunday"
+    },
+    {
+      "key": "huanggang-port-inbound-peak-oct19",
+      "id": "2026-10-19-huanggang-port-inbound-peak",
+      "first_seen": "2026-10-19T17:07:00+08:00",
+      "headline_en": "Immigration Department prepares for first inbound peak at new Huanggang Port"
+    },
+    {
+      "key": "lifestyle-mills-tales-of-the-crawlers",
+      "id": "2026-10-19-lifestyle-mills-tales-of-the-crawlers",
+      "first_seen": "2026-10-19T17:07:00+08:00",
+      "headline_en": "The Mills hosts free Curious Creatures Showcase with rare species until 1 November"
     }
   ]
 }
