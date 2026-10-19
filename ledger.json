@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-19T07:04:49+08:00",
+  "updated_at": "2026-10-19T09:25:00+08:00",
   "retention_days": 5,
   "covered": [
     {
-      "key": "lifestyle-ppa-asia-1500-hong-kong-slam-2026",
+      "key": "lifestyle-ppa-asia-1500-hong-kong-slam",
       "id": "2026-10-19-lifestyle-ppa-asia-1500-hong-kong-slam",
       "first_seen": "2026-10-19T03:20:00+08:00",
       "headline_en": "PPA Asia 1500 Hang Seng Bank Hong Kong Slam begins at Kai Tak Arena"
@@ -25,6 +25,18 @@
       "id": "2026-10-19-lifestyle-gloomie-museum-harbour-city",
       "first_seen": "2026-10-19T07:10:00+08:00",
       "headline_en": "Local artist LeonLollipop’s Gloomie Museum exhibition runs at Harbour City until 25 October"
+    },
+    {
+      "key": "yellow-fire-danger-warning-oct19",
+      "id": "2026-10-19-yellow-fire-danger-warning",
+      "first_seen": "2026-10-19T09:25:00+08:00",
+      "headline_en": "Observatory issues Yellow Fire Danger Warning as risk stays high"
+    },
+    {
+      "key": "hung-hom-tai-wan-road-cocaine-arrest",
+      "id": "2026-10-19-hung-hom-cocaine-arrest",
+      "first_seen": "2026-10-19T09:25:00+08:00",
+      "headline_en": "Police arrest man after finding suspected cocaine in Hung Hom car"
     }
   ]
 }
