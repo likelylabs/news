@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T11:08:54+08:00",
+  "updated_at": "2026-10-19T13:15:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -49,6 +49,24 @@
       "id": "2026-10-19-hkex-chung-yeung-holiday-closure",
       "first_seen": "2026-10-19T11:10:00+08:00",
       "headline_en": "Hong Kong stock market closed today for Chung Yeung Festival holiday"
+    },
+    {
+      "key": "yau-ma-tei-convenience-store-brick-robbery",
+      "id": "2026-10-19-yau-ma-tei-convenience-store-robbery",
+      "first_seen": "2026-10-19T13:15:00+08:00",
+      "headline_en": "Man robs Yau Ma Tei convenience store with brick, flees with cash"
+    },
+    {
+      "key": "iphone-duo-credit-card-fraud-oct19-update",
+      "id": "2026-10-19-iphone-duo-fraud-reports-rise-to-130",
+      "first_seen": "2026-10-19T13:15:00+08:00",
+      "headline_en": "Police receive 130 reports of suspected iPhone Duo credit card misuse, involving HK$5 million"
+    },
+    {
+      "key": "john-lee-aiib-zou-meeting-oct19",
+      "id": "2026-10-19-john-lee-meets-aiib-president",
+      "first_seen": "2026-10-19T13:15:00+08:00",
+      "headline_en": "John Lee meets AIIB President Zou Jiayi ahead of APEC finance meeting"
     }
   ]
 }
