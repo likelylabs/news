@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-20T01:04:27+08:00",
+  "generated_at": "2026-10-20T03:15:14+08:00",
   "live_window_hours": 72,
-  "count": 94,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-10-20-apec-finance-ministers-meeting-opens",
+      "published_at": "2026-10-20T03:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "apec",
+        "finance",
+        "wan-chai",
+        "hkcec",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-apec-finance-ministers-meeting-opens.json",
+      "en": {
+        "headline": "APEC Finance Ministers’ Meeting opens in Hong Kong for two days",
+        "dek": "About 500 delegates from 21 economies gather at the Hong Kong Convention and Exhibition Centre in Wan Chai, the first time the city has hosted the annual gathering."
+      },
+      "zh": {
+        "headline": "APEC財長會議今起兩日在香港會展舉行",
+        "dek": "約500名來自21個經濟體的代表齊聚灣仔香港會議展覽中心，這是香港首次主辦這項年度財長會議。"
+      }
+    },
+    {
+      "id": "2026-10-20-lifestyle-lkf-monster-mash-halloween",
+      "published_at": "2026-10-20T03:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "halloween",
+        "lan-kwai-fong",
+        "central",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-lifestyle-lkf-monster-mash-halloween.json",
+      "en": {
+        "headline": "Lan Kwai Fong Monster Mash Halloween events continue through October",
+        "dek": "The district’s street parties and decorations run until the end of the month, with the next major activation on Saturday evening."
+      },
+      "zh": {
+        "headline": "蘭桂坊怪物巡禮萬聖節活動持續至月底",
+        "dek": "區內街頭派對及佈置將延續至十月底，下一次主要活動定於本周六晚上舉行。"
+      }
+    },
     {
       "id": "2026-10-20-sai-ying-pun-fire-death",
       "published_at": "2026-10-20T00:40:00+08:00",
@@ -1982,116 +2028,6 @@
       "zh": {
         "headline": "警方拘捕三人涉公屋升降機工程欠裝耐火門框",
         "dek": "機電署發現兩屋苑48部升降機未裝所需門框組件，一名董事及兩名註冊工程師因涉嫌欺詐被扣留。"
-      }
-    },
-    {
-      "id": "2026-10-17-fsd-chung-yeung-hill-fire-prep",
-      "published_at": "2026-10-17T01:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire-services",
-        "chung-yeung",
-        "drones",
-        "hill-fire"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-fsd-chung-yeung-hill-fire-prep.json",
-      "en": {
-        "headline": "Fire Services Department deploys AI-assisted drones and extra patrols for Chung Yeung…",
-        "dek": "More than 250 frontline staff will form 12 patrol teams at high-risk sites in the New Territories, with drones sending live images for real-time smoke detection."
-      },
-      "zh": {
-        "headline": "消防處重陽節前動員逾二百五十人巡邏 引入AI無人機協助偵測山火",
-        "dek": "超過250名前線人員組成12支巡邏隊進駐新界高風險地點，無人機影像實時傳送AI平台識別煙霧。"
-      }
-    },
-    {
-      "id": "2026-10-17-guangdong-yachts-first-arrival",
-      "published_at": "2026-10-17T01:10:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "yacht",
-        "marine-department",
-        "guangdong",
-        "cross-boundary"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-guangdong-yachts-first-arrival.json",
-      "en": {
-        "headline": "Five Guangdong yachts make first arrival under new southbound travel scheme",
-        "dek": "The vessels from Shenzhen, Nansha and Zhuhai docked at Lantau Yacht Club on Friday after the scheme took effect, with a welcome ceremony attended by senior officials."
-      },
-      "zh": {
-        "headline": "五艘廣東遊艇在「粵艇南下」新計劃下首次抵港",
-        "dek": "來自深圳、南沙及珠海的遊艇周五偽晚停泊大嶼山遊艇會，高層官員出席歡迎儀式。"
-      }
-    },
-    {
-      "id": "2026-10-17-mplus-myths-monsters-opens",
-      "published_at": "2026-10-17T01:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "m-plus",
-        "exhibition",
-        "west-kowloon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-mplus-myths-monsters-opens.json",
-      "en": {
-        "headline": "M+ opens Myths and Monsters exhibition exploring fantasy in Asian visual culture",
-        "dek": "The special exhibition runs from 17 October 2026 to 4 April 2027 at the West Gallery, presenting more than 400 works spanning the nineteenth to twenty-first centuries."
-      },
-      "zh": {
-        "headline": "M+「神話與怪獸」展覽周六開幕 探討亞洲視覺文化中的奇幻",
-        "dek": "特別展覽由今天至2027年4月4日在西展廳舉行，展出逾400件橫跨十九至二十一世紀的作品。"
-      }
-    },
-    {
-      "id": "2026-10-17-tin-shui-wai-woman-hospital-order",
-      "published_at": "2026-10-17T01:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "sedition",
-        "tin-shui-wai",
-        "article-23"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-tin-shui-wai-woman-hospital-order.json",
-      "en": {
-        "headline": "West Kowloon court imposes three-month hospital order on woman convicted of displaying…",
-        "dek": "The 62-year-old was found guilty of knowingly displaying publications with seditious intent after materials including a colonial-era flag were found outside her Tin Shui Wai flat."
-      },
-      "zh": {
-        "headline": "西九龍法庭裁定六旬婦展示煲動刊物罪成 判三個月住院令",
-        "dek": "62歲女子被指在天水圍天頌苑單位外張貼港英期旗幟及標語，被裁定明知而展示具煲動意圖的刊物罪成。"
-      }
-    },
-    {
-      "id": "2026-10-17-wang-fuk-court-owners-sign-agreements",
-      "published_at": "2026-10-17T01:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "wang-fuk-court",
-        "tai-po",
-        "buyout"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-wang-fuk-court-owners-sign-agreements.json",
-      "en": {
-        "headline": "Housing Bureau says 93.2 per cent of Wang Fuk Court owners signed sale agreements…",
-        "dek": "A total of 1,850 owners across the eight blocks completed the Agreement for Sale and Purchase after the October 15 deadline, with remaining cases to be handled individually."
-      },
-      "zh": {
-        "headline": "房屋局指王福苑九成三業主在截止前簽署買賣合約",
-        "dek": "八座樓宇共有1,850名業主完成買賣合約，佔總數的百分之九十三點二，餘下個案將個別處理。"
       }
     }
   ]
