@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-10-19T17:09:33+08:00",
+  "generated_at": "2026-10-19T19:05:33+08:00",
   "live_window_hours": 72,
-  "count": 98,
+  "count": 96,
   "articles": [
+    {
+      "id": "2026-10-19-hikers-fall-ill-hot-weather-chung-yeung",
+      "published_at": "2026-10-19T19:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "hiking",
+        "heat",
+        "chung-yeung",
+        "sai-kung",
+        "emergency"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-19/2026-10-19-hikers-fall-ill-hot-weather-chung-yeung.json",
+      "en": {
+        "headline": "Five hikers fall ill amid hot weather on final day of Chung Yeung holiday",
+        "dek": "Emergency services assisted five people in separate incidents, including an airlift from Sai Kung, as temperatures stayed high across the city."
+      },
+      "zh": {
+        "headline": "重陽假期最後一日炎熱天氣下五名行山人士不適需救援",
+        "dek": "多宗獨立事件中五人需要緊急協助，包括西貢一名女子由飛行服務隊直升機接送入院，當日氣溫持續偏高。"
+      }
+    },
+    {
+      "id": "2026-10-19-lifestyle-flower-market-mini-games-ticket-stub",
+      "published_at": "2026-10-19T19:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "flower-market",
+        "mong-kok",
+        "sports",
+        "discount",
+        "chung-yeung"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-19/2026-10-19-lifestyle-flower-market-mini-games-ticket-stub.json",
+      "en": {
+        "headline": "Flower Market hosts mini sports day and launches ticket-stub discounts with Mong Kok…",
+        "dek": "More than 50 shops joined the pilot scheme offering up to 25 per cent off with specified Hong Kong Premier League match stubs, while free activity booths ran outside the stadium on Monday."
+      },
+      "zh": {
+        "headline": "花墟舉辦細運會並推出與旺角大球場票尾優惠試點",
+        "dek": "超過五十間商戶參與試點，憑指定港超聯賽事票尾可享低至七五折，周一在球場外設免費運動體驗攤位。"
+      }
+    },
+    {
+      "id": "2026-10-19-three-community-legionnaires-cases",
+      "published_at": "2026-10-19T19:05:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "legionnaires",
+        "chp",
+        "health",
+        "tai-po",
+        "kwai-tsing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-19/2026-10-19-three-community-legionnaires-cases.json",
+      "en": {
+        "headline": "Centre for Health Protection records three new community Legionnaires’ disease cases",
+        "dek": "The cases involved three men aged 44 to 67 living in Tai Po and Kwai Tsing; they are considered sporadic with no links to earlier cases, bringing the year’s total to 160."
+      },
+      "zh": {
+        "headline": "衞生防護中心錄得三宗社區感染退伍軍人病個案",
+        "dek": "個案涉及三名44至67歲男子，居於大埔及葵青，屬散發個案，與早前個案無流行病學關連，今年累計160宗。"
+      }
+    },
     {
       "id": "2026-10-19-huanggang-port-inbound-peak",
       "published_at": "2026-10-19T17:07:00+08:00",
@@ -2066,119 +2136,6 @@
       "zh": {
         "headline": "尖沙咀港鐵站淋液體案 警方拘捕26歲男子",
         "dek": "男子涉嫌在一月及十月初於港鐵尖沙咀站及附近商場向女性淋潑不明液體，將被控三項猥褻侵犯及一項傷人。"
-      }
-    },
-    {
-      "id": "2026-10-16-cfa-ku-nord-appointment",
-      "published_at": "2026-10-16T19:05:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "judiciary",
-        "cfa",
-        "appointment",
-        "non-permanent-judge"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-16/2026-10-16-cfa-ku-nord-appointment.json",
-      "en": {
-        "headline": "Chief Executive accepts recommendation to appoint former New Zealand judge as CFA…",
-        "dek": "The appointment of the retired New Zealand Supreme Court permanent judge will take effect after Legislative Council approval, raising the number of overseas non-permanent judges to six."
-      },
-      "zh": {
-        "headline": "行政長官接納推薦 任命新西蘭前最高法院常任法官為終院非常任法官",
-        "dek": "區諾德獲任命後，其他普通法適用地區非常任法官將增至六名，須立法會同意後生效。"
-      }
-    },
-    {
-      "id": "2026-10-16-huanggang-chung-yeung-traffic",
-      "published_at": "2026-10-16T19:05:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "huanggang",
-        "chung-yeung",
-        "border",
-        "td"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-16/2026-10-16-huanggang-chung-yeung-traffic.json",
-      "en": {
-        "headline": "Transport Department sets special arrangements at Huanggang control point for Chung Yeung",
-        "dek": "Bus and minibus frequencies will be increased from Saturday as cross-boundary flows rise, with Monday afternoon to evening expected to be the peak return period."
-      },
-      "zh": {
-        "headline": "運輸署皇崗口岸重陽節實施特別交通安排 料下周一下午至傍晚為回港高峰",
-        "dek": "周六起加密專營巴士及小巴班次，呼籲市民提早計劃行程，按需要選擇其他口岸過關。"
-      }
-    },
-    {
-      "id": "2026-10-16-imported-chikungunya-dengue",
-      "published_at": "2026-10-16T19:05:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "chikungunya",
-        "dengue",
-        "imported",
-        "chp"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-16/2026-10-16-imported-chikungunya-dengue.json",
-      "en": {
-        "headline": "Centre for Health Protection records two imported chikungunya and one dengue case",
-        "dek": "The two chikungunya patients had visited the mainland during the incubation period; the dengue case was linked to travel in Cambodia. Both diseases remain mostly imported this year."
-      },
-      "zh": {
-        "headline": "衛生防護中心錄得兩宗輸入性基孔肯雅熱及一宗登革熱個案",
-        "dek": "兩名基孔肯雅熱患者潛伏期內曾到內地，登革熱個案與柬埔寨行程有關，今年個案大多為外地傳入。"
-      }
-    },
-    {
-      "id": "2026-10-16-light-public-housing-all-open",
-      "published_at": "2026-10-16T19:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "light-public-housing",
-        "housing-bureau",
-        "application"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-16/2026-10-16-light-public-housing-all-open.json",
-      "en": {
-        "headline": "Housing Bureau opens applications for all 13 light public housing projects",
-        "dek": "With the final two school-conversion sites due in the first quarter next year, the full portfolio of about 30,000 units will be complete by end-March, ahead of the original five-year target."
-      },
-      "zh": {
-        "headline": "房屋局宣布簡約公屋13個項目全部開放接受申請",
-        "dek": "最後兩個校舍改建項目明年首季落成，約3萬個單位將於明年三月底前全部完成，提前達標。"
-      }
-    },
-    {
-      "id": "2026-10-16-tai-yip-elevator-arrests",
-      "published_at": "2026-10-16T19:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "elevator",
-        "emsd",
-        "police",
-        "tsui-ping",
-        "pok-hong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-16/2026-10-16-tai-yip-elevator-arrests.json",
-      "en": {
-        "headline": "Police arrest company director and two engineers over lift works deficiencies",
-        "dek": "New Territories South Regional Crime Unit detained three men aged 63 to 82 after EMSD referred findings of missing fire-door frames at two estates."
-      },
-      "zh": {
-        "headline": "警方拘捕臺日電梯董事及兩名註冊工程師 涉升降機工程缺失",
-        "dek": "新界南總區重案組拘捕三名63至82歲男子，機電署早前轉介兩屋邨耐火門框組件未裝便報完工的個案。"
       }
     }
   ]
