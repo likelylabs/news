@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-10-19T09:14:07+08:00",
+  "generated_at": "2026-10-19T11:08:54+08:00",
   "live_window_hours": 72,
-  "count": 105,
+  "count": 104,
   "articles": [
+    {
+      "id": "2026-10-19-hkex-chung-yeung-holiday-closure",
+      "published_at": "2026-10-19T11:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hkex",
+        "stock-market",
+        "chung-yeung",
+        "holiday"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-19/2026-10-19-hkex-chung-yeung-holiday-closure.json",
+      "en": {
+        "headline": "Hong Kong stock market closed today for Chung Yeung Festival holiday",
+        "dek": "Trading on the Hong Kong Exchanges and Clearing is suspended for the full day as the general holiday falls on the Monday after the festival."
+      },
+      "zh": {
+        "headline": "港股今日重陽節假期休市一天",
+        "dek": "重陽節逢周日，翌日周一為公眾假期，港交所全日暫停交易，預計周二恢復。"
+      }
+    },
+    {
+      "id": "2026-10-19-lifestyle-lee-tung-avenue-lanterns",
+      "published_at": "2026-10-19T11:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mid-autumn",
+        "wan-chai",
+        "lanterns",
+        "lee-tung-avenue"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-19/2026-10-19-lifestyle-lee-tung-avenue-lanterns.json",
+      "en": {
+        "headline": "Lee Tung Avenue lantern display ends today after more than six weeks",
+        "dek": "More than 800 traditional red and custom palace lanterns have hung over the 200-metre pedestrian street in Wan Chai since early September."
+      },
+      "zh": {
+        "headline": "灣仔利東街中秋燈籠展今日最後一天 逾800盞紅燈籠及宮燈懸掛",
+        "dek": "利東街200米林蔭大道自九月初起懸掛逾800盞傳統紅燈籠及全新宮廷燈籠，今日為展示最後一日。"
+      }
+    },
     {
       "id": "2026-10-19-hung-hom-cocaine-arrest",
       "published_at": "2026-10-19T09:25:00+08:00",
@@ -2269,74 +2314,6 @@
       "zh": {
         "headline": "啟德AIRSIDE呈獻Kuromi魔幻烘焙所 6米馬卡龍裝置",
         "dek": "甜點主題活動至11月初，本周末起有選日烘焙體驗，六樓亦有期間限定主題餐單。"
-      }
-    },
-    {
-      "id": "2026-10-16-fan-kam-road-cleaver-assault",
-      "published_at": "2026-10-16T09:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "assault",
-        "yuen-long",
-        "cleaver"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-16/2026-10-16-fan-kam-road-cleaver-assault.json",
-      "en": {
-        "headline": "Man arrested after cleaver attack on colleague at Fan Kam Road village house",
-        "dek": "Police detained a 48-year-old man on Thursday afternoon after he allegedly attacked a co-worker with a cleaver during an argument at staff quarters in Yuen Long."
-      },
-      "zh": {
-        "headline": "粉錦路村屋同事爭執 48歲男持菜刀斬傷被捕",
-        "dek": "周四下午約兩時，元朗粉錦路一間村屋內兩名同事因琐事爭執，一名48歲男子涉嫌持菜刀襲擊45歲同事，已被警方拘捕。"
-      }
-    },
-    {
-      "id": "2026-10-16-hkstp-roche-end-to-end-collaboration",
-      "published_at": "2026-10-16T09:15:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "biotech",
-        "science-park",
-        "healthcare",
-        "ai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-16/2026-10-16-hkstp-roche-end-to-end-collaboration.json",
-      "en": {
-        "headline": "Science Park and Roche upgrade partnership to end-to-end support for medtech startups",
-        "dek": "The Hong Kong Science and Technology Parks Corporation and Roche signed a strategic agreement to expand collaboration on AI-enabled early screening and clinical translation for local innovators."
-      },
-      "zh": {
-        "headline": "科技園與羅氏簽署戰略協議 升級端到端支援醫療科技初創",
-        "dek": "香港科技園公司與羅氏周四簽署協議，將2023年起的合作提升至端到端轉化及商業化支援，聚焦AI輔助癌症與慢性病早篩及本地初創臨床轉化。"
-      }
-    },
-    {
-      "id": "2026-10-16-kwun-tong-mercedes-drug-chase",
-      "published_at": "2026-10-16T09:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "kwun-tong",
-        "drugs",
-        "traffic",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-16/2026-10-16-kwun-tong-mercedes-drug-chase.json",
-      "en": {
-        "headline": "Police arrest driver after Mercedes hits three vehicles while fleeing in Kwun Tong",
-        "dek": "A Pakistani man was detained on Thursday evening after a rented Mercedes struck several cars in Kwun Tong; officers found etomidate, methamphetamine and cocaine inside the vehicle."
-      },
-      "zh": {
-        "headline": "觀塘平治逃捕連撞三車 警拘巴基斯坦裔司機檢獲毒品",
-        "dek": "周四晚上約七時，一輛租來的平治在觀塘撞及多部車輛後企圖逃走，警方在崇仁街截獲，車上檢獲依托咪酯、冰毒及可卡因。"
       }
     }
   ]
