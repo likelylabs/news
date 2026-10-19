@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T23:21:11+08:00",
+  "updated_at": "2026-10-20T00:40:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -127,6 +127,18 @@
       "id": "2026-10-19-sai-wan-ho-dog-sea-arrest",
       "first_seen": "2026-10-19T22:40:00+08:00",
       "headline_en": "Police arrest 59-year-old woman after dog allegedly thrown into sea in Sai Wan Ho"
+    },
+    {
+      "key": "sai-ying-pun-hang-fai-fire-death",
+      "id": "2026-10-20-sai-ying-pun-fire-death",
+      "first_seen": "2026-10-20T00:40:00+08:00",
+      "headline_en": "Elderly man dies after Sai Ying Pun flat fire"
+    },
+    {
+      "key": "six-year-old-girl-influenza-a-critical-oct19",
+      "id": "2026-10-20-six-year-old-influenza-critical",
+      "first_seen": "2026-10-20T00:40:00+08:00",
+      "headline_en": "Six-year-old girl in critical condition with influenza A shock"
     }
   ]
 }
