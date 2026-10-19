@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T13:14:10+08:00",
+  "updated_at": "2026-10-19T15:20:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -67,6 +67,18 @@
       "id": "2026-10-19-john-lee-meets-aiib-president",
       "first_seen": "2026-10-19T13:15:00+08:00",
       "headline_en": "John Lee meets AIIB President Zou Jiayi ahead of APEC finance meeting"
+    },
+    {
+      "key": "cultural-centre-backstage-fire-oct19",
+      "id": "2026-10-19-cultural-centre-backstage-fire",
+      "first_seen": "2026-10-19T15:20:00+08:00",
+      "headline_en": "Female staff member burned in Hong Kong Cultural Centre stage fire"
+    },
+    {
+      "key": "chung-yeung-crossings-1-32-million",
+      "id": "2026-10-19-chung-yeung-border-crossings-record",
+      "first_seen": "2026-10-19T15:20:00+08:00",
+      "headline_en": "Immigration records over 1.32 million crossings on Chung Yeung Sunday"
     }
   ]
 }
