@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T17:09:33+08:00",
+  "updated_at": "2026-10-19T19:05:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -91,6 +91,24 @@
       "id": "2026-10-19-lifestyle-mills-tales-of-the-crawlers",
       "first_seen": "2026-10-19T17:07:00+08:00",
       "headline_en": "The Mills hosts free Curious Creatures Showcase with rare species until 1 November"
+    },
+    {
+      "key": "hikers-heat-illness-chung-yeung-oct19",
+      "id": "2026-10-19-hikers-fall-ill-hot-weather-chung-yeung",
+      "first_seen": "2026-10-19T19:05:00+08:00",
+      "headline_en": "Five hikers fall ill amid hot weather on final day of Chung Yeung holiday"
+    },
+    {
+      "key": "legionnaires-three-community-cases-oct19",
+      "id": "2026-10-19-three-community-legionnaires-cases",
+      "first_seen": "2026-10-19T19:05:00+08:00",
+      "headline_en": "Centre for Health Protection records three new community Legionnaires’ disease cases"
+    },
+    {
+      "key": "lifestyle-flower-market-mini-games-ticket-stub",
+      "id": "2026-10-19-lifestyle-flower-market-mini-games-ticket-stub",
+      "first_seen": "2026-10-19T19:05:00+08:00",
+      "headline_en": "Flower Market hosts mini sports day and launches ticket-stub discounts with Mong Kok Stadium"
     }
   ]
 }
