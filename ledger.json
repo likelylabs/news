@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T09:14:07+08:00",
+  "updated_at": "2026-10-19T11:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -37,6 +37,18 @@
       "id": "2026-10-19-hung-hom-cocaine-arrest",
       "first_seen": "2026-10-19T09:25:00+08:00",
       "headline_en": "Police arrest man after finding suspected cocaine in Hung Hom car"
+    },
+    {
+      "key": "lifestyle-lee-tung-avenue-lanterns-last-day",
+      "id": "2026-10-19-lifestyle-lee-tung-avenue-lanterns",
+      "first_seen": "2026-10-19T11:10:00+08:00",
+      "headline_en": "Lee Tung Avenue lantern display ends today after more than six weeks"
+    },
+    {
+      "key": "hkex-chung-yeung-holiday-closure",
+      "id": "2026-10-19-hkex-chung-yeung-holiday-closure",
+      "first_seen": "2026-10-19T11:10:00+08:00",
+      "headline_en": "Hong Kong stock market closed today for Chung Yeung Festival holiday"
     }
   ]
 }
