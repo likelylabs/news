@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T03:15:41+08:00",
+  "updated_at": "2026-10-20T07:05:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -151,6 +151,24 @@
       "id": "2026-10-20-lifestyle-lkf-monster-mash-halloween",
       "first_seen": "2026-10-20T03:15:00+08:00",
       "headline_en": "Lan Kwai Fong Monster Mash Halloween events continue through October"
+    },
+    {
+      "key": "digital-policy-office-1823-monkey-response",
+      "id": "2026-10-20-digital-policy-office-1823-overnight",
+      "first_seen": "2026-10-20T07:05:00+08:00",
+      "headline_en": "Digital Policy Office reviews overnight staffing after unanswered 1823 call about injured monkey"
+    },
+    {
+      "key": "shau-kei-wan-bus-terminus-queue-fight",
+      "id": "2026-10-20-shau-kei-wan-bus-queue-fight",
+      "first_seen": "2026-10-20T07:05:00+08:00",
+      "headline_en": "Police arrest two men after queue dispute turns into fight at Shau Kei Wan bus terminus"
+    },
+    {
+      "key": "lifestyle-hkdi-leslie-cheung-grace-70",
+      "id": "2026-10-20-lifestyle-hkdi-leslie-grace-70",
+      "first_seen": "2026-10-20T07:05:00+08:00",
+      "headline_en": "HKDI free exhibition displays rare photographs of Leslie Cheung until mid-November"
     }
   ]
 }
