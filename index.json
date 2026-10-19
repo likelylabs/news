@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-19T13:14:10+08:00",
+  "generated_at": "2026-10-19T15:19:52+08:00",
   "live_window_hours": 72,
-  "count": 103,
+  "count": 101,
   "articles": [
+    {
+      "id": "2026-10-19-chung-yeung-border-crossings-record",
+      "published_at": "2026-10-19T15:20:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "immigration",
+        "huanggang-port",
+        "border",
+        "chung-yeung"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-19/2026-10-19-chung-yeung-border-crossings-record.json",
+      "en": {
+        "headline": "Immigration records over 1.32 million crossings on Chung Yeung Sunday",
+        "dek": "Huanggang Port handled its highest daily total since reopening, with more than 152,000 trips, as overall traffic across all control points exceeded 1.32 million."
+      },
+      "zh": {
+        "headline": "重陽節全日逾132萬人次出入境 新皇崗口岸15.2萬創開通新高",
+        "dek": "入境處指星期日各口岸合共錄得超過132.2萬人次，其中皇崗口岸約15.2萬人次為啟用以來最多。"
+      }
+    },
+    {
+      "id": "2026-10-19-cultural-centre-backstage-fire",
+      "published_at": "2026-10-19T15:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "tsim-sha-tsui",
+        "cultural-centre",
+        "incident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-19/2026-10-19-cultural-centre-backstage-fire.json",
+      "en": {
+        "headline": "Female staff member burned in Hong Kong Cultural Centre stage fire",
+        "dek": "Firefighters extinguished a blaze behind the Grand Theatre stage around 11:38am after a female employee in her 20s suffered burns to her face and arms."
+      },
+      "zh": {
+        "headline": "尖沙咀文化中心主劇場後台火警 女職員面手燒傷送院",
+        "dek": "消防員約15分鐘將火救熄，一名二十多歲女職員面部及手臂燒傷，清醒送伊利沙伯醫院治理。"
+      }
+    },
     {
       "id": "2026-10-19-iphone-duo-fraud-reports-rise-to-130",
       "published_at": "2026-10-19T13:15:00+08:00",
@@ -2201,94 +2245,6 @@
       "zh": {
         "headline": "宏福苑93.2%業主限期前簽署買賣協議",
         "dek": "房屋局指八座共1850戶業主於周四前完成簽署，餘下特殊個案將按情況酌情處理。"
-      }
-    },
-    {
-      "id": "2026-10-16-icac-tech-voucher-charges",
-      "published_at": "2026-10-16T15:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "icac",
-        "fraud",
-        "technology-voucher",
-        "corruption"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-16/2026-10-16-icac-tech-voucher-charges.json",
-      "en": {
-        "headline": "ICAC charges five over technology voucher fraud involving shell companies",
-        "dek": "A technology services provider and four others face conspiracy to defraud charges after an operation intercepted nearly 90 per cent of more than HK$100 million in suspected subsidies."
-      },
-      "zh": {
-        "headline": "廉署起訴科技服務供應商等5人 涉空殼公司詐騙科技券",
-        "dek": "一名科技服務供應商及四名空殼公司負責人與中間人遭控串謀詐騙，廉署指成功阻截近九成涉贎資助。"
-      }
-    },
-    {
-      "id": "2026-10-16-sun-yat-sen-160th-ceremony",
-      "published_at": "2026-10-16T15:05:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "sun-yat-sen",
-        "ceremony",
-        "commemoration",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-16/2026-10-16-sun-yat-sen-160th-ceremony.json",
-      "en": {
-        "headline": "Government to hold ceremony for Sun Yat-sen's 160th birth anniversary",
-        "dek": "An official event will take place on 12 November at Sun Yat Sen Memorial Park, with special stamps and community activities also planned."
-      },
-      "zh": {
-        "headline": "政府將於11月12日舉行孫中山誕辰160周年紀念儀式",
-        "dek": "官方儀式在孫中山紀念公園舉行，郵政局同日發行特別郵票，並有一系列社區活動。"
-      }
-    },
-    {
-      "id": "2026-10-16-yoho-town-restaurant-rat",
-      "published_at": "2026-10-16T15:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "food-safety",
-        "yuen-long",
-        "rat",
-        "restaurant"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-16/2026-10-16-yoho-town-restaurant-rat.json",
-      "en": {
-        "headline": "Video shows rat on counter near utensils at Yuen Long restaurant",
-        "dek": "A clip circulating online late Thursday appears to show a rodent moving along a serving counter with cutlery and drinks in a Yoho Town eatery."
-      },
-      "zh": {
-        "headline": "元朗YOHO TOWN食肆片段顯老鼠在柜位遊走 近餐具飲品",
-        "dek": "周四深夜網上流傳短片，可見一隻老鼠在食肆出菜柜位上移動，附近有餐具及飲品。"
-      }
-    },
-    {
-      "id": "2026-10-16-weekend-weather-outlook-oct17-18",
-      "published_at": "2026-10-16T13:15:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "weekend",
-        "chung-yeung",
-        "forecast"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-16/2026-10-16-weekend-weather-outlook-oct17-18.json",
-      "en": {
-        "headline": "Observatory forecasts mainly cloudy weekend with light rain patches",
-        "dek": "A fresh easterly airstream will bring windier conditions and a few rain patches on Saturday and Sunday before the weather turns finer and drier early next week."
-      },
-      "zh": {
-        "headline": "天文台料周末大致多雲有一兩陣雨 下周初轉天晴乾燥",
-        "dek": "受清勁偏東氣流影響，周六及周日風勢較大，有一兩陣雨，重陽節初時雲量較多，稍後至下周初漸轉天晴乾燥。"
       }
     }
   ]
