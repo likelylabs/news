@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-19T19:05:33+08:00",
+  "generated_at": "2026-10-19T23:21:11+08:00",
   "live_window_hours": 72,
-  "count": 96,
+  "count": 95,
   "articles": [
+    {
+      "id": "2026-10-19-emsd-taizoom-lifts-total-338",
+      "published_at": "2026-10-19T22:40:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "emsd",
+        "taizoom",
+        "lifts",
+        "fire-safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-19/2026-10-19-emsd-taizoom-lifts-total-338.json",
+      "en": {
+        "headline": "EMSD finds missing lift door components in 186 more buildings, total reaches 338",
+        "dek": "The Electrical and Mechanical Services Department has completed checks on all Taizoom-installed lifts, identifying 338 buildings lacking fire-safety door frame parts."
+      },
+      "zh": {
+        "headline": "機電署再發現186幢大廈升降機缺門框組件 累計338幢",
+        "dek": "機電署完成臺中電梯所有安裝工程檢查，共338幢大廈升降機缺少防火門框組件。"
+      }
+    },
+    {
+      "id": "2026-10-19-sai-wan-ho-dog-sea-arrest",
+      "published_at": "2026-10-19T22:40:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "animal-cruelty",
+        "sai-wan-ho",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-19/2026-10-19-sai-wan-ho-dog-sea-arrest.json",
+      "en": {
+        "headline": "Police arrest 59-year-old woman after dog allegedly thrown into sea in Sai Wan Ho",
+        "dek": "Officers detained the woman on Saturday near Chai Wan on suspicion of animal cruelty following a Thursday incident in which a dog was thrown into the water and retrieved."
+      },
+      "zh": {
+        "headline": "西灣河疑掟狗落海 59歲女子涉虐畜被捕",
+        "dek": "警方周六在柴灣拘捕一名59歲本地女子，涉上周四在太安街海濱將狗扔下海後撈起帶走，她已獲准保釋。"
+      }
+    },
+    {
+      "id": "2026-10-19-sai-ying-pun-hang-fai-fire",
+      "published_at": "2026-10-19T22:40:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "sai-ying-pun",
+        "elderly",
+        "incident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-19/2026-10-19-sai-ying-pun-hang-fai-fire.json",
+      "en": {
+        "headline": "Elderly man pulled unconscious from Sai Ying Pun flat after fire",
+        "dek": "Firefighters extinguished a blaze at Hang Fai Building on Pok Fu Lam Road around 9:54pm, after a man in his 70s was found unconscious and about 60 residents were evacuated."
+      },
+      "zh": {
+        "headline": "西營盤恆輝大廈火警 七旬男子昏迷送院 約60人疏散",
+        "dek": "消防員約晚上九時五十四分將薄扶林道恆輝大廈火警救熄，一名七十多歲男子昏迷送瑪麗醫院，約六十名住客疏散。"
+      }
+    },
     {
       "id": "2026-10-19-hikers-fall-ill-hot-weather-chung-yeung",
       "published_at": "2026-10-19T19:05:00+08:00",
@@ -2048,94 +2114,6 @@
       "zh": {
         "headline": "天文台預測重陽節周末轉晴乾燥",
         "dek": "周六及周日早上有一兩陣雨，重陽節稍後至下周初大致天晴及乾燥，中期日間炎熱。"
-      }
-    },
-    {
-      "id": "2026-10-16-hkex-t1-settlement-2028",
-      "published_at": "2026-10-16T21:10:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hkex",
-        "finance",
-        "settlement",
-        "market"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-16/2026-10-16-hkex-t1-settlement-2028.json",
-      "en": {
-        "headline": "HKEX targets second half of 2028 for T+1 settlement",
-        "dek": "The exchange published consultation conclusions showing broad support for shortening the cash-market cycle from T+2, while delaying the earlier proposed 2027 timeline after industry feedback."
-      },
-      "zh": {
-        "headline": "港交所目標2028年下半年過渡至T+1結算",
-        "dek": "諮詢總結顯示市場廣泛支持將現貨市場結算周期由T+2縮短，但因業界要求更多準備時間，較早前提議的2027年時間表已推遲。"
-      }
-    },
-    {
-      "id": "2026-10-16-one-stanley-extra-houses-investigation",
-      "published_at": "2026-10-16T21:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "buildings-department",
-        "stanley",
-        "construction"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-16/2026-10-16-one-stanley-extra-houses-investigation.json",
-      "en": {
-        "headline": "Buildings Department orders investigation of eight more One Stanley houses",
-        "dek": "The developer updated its sales brochure on Friday to disclose a 2 October letter requiring detailed checks and a report within one month on the original villa plus eight others and common areas."
-      },
-      "zh": {
-        "headline": "屋宇署要求One Stanley發展商調查額外八座洋房",
-        "dek": "發展商周五更新售樓書，披露本月2日接獲署方函件，須就涉事洋房及另外八座洋房連公用地方在一個月內提交詳細調查報告。"
-      }
-    },
-    {
-      "id": "2026-10-16-sham-shui-po-melioidosis-death",
-      "published_at": "2026-10-16T21:10:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "melioidosis",
-        "sham-shui-po",
-        "chp"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-16/2026-10-16-sham-shui-po-melioidosis-death.json",
-      "en": {
-        "headline": "Sham Shui Po woman dies after melioidosis infection",
-        "dek": "The 74-year-old with underlying illnesses was admitted with pneumonia and tested positive for the bacterium; the Centre for Health Protection says the case appears sporadic."
-      },
-      "zh": {
-        "headline": "深水埗74歲女子感染類鼻疽後離世",
-        "dek": "患者有長期病患，因肺炎入院後樣本對類鼻疽伯克氏菌呈陽性，防護中心指個案屬散發，正調查感染源頭。"
-      }
-    },
-    {
-      "id": "2026-10-16-tsim-sha-tsui-liquid-assault-arrest",
-      "published_at": "2026-10-16T21:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "tsim-sha-tsui",
-        "assault",
-        "mtr"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-16/2026-10-16-tsim-sha-tsui-liquid-assault-arrest.json",
-      "en": {
-        "headline": "Police arrest man over pouring liquid on women at Tsim Sha Tsui MTR",
-        "dek": "A 26-year-old man faces three indecent assault charges and one wounding charge after incidents in January and early October at the station and a nearby mall."
-      },
-      "zh": {
-        "headline": "尖沙咀港鐵站淋液體案 警方拘捕26歲男子",
-        "dek": "男子涉嫌在一月及十月初於港鐵尖沙咀站及附近商場向女性淋潑不明液體，將被控三項猥褻侵犯及一項傷人。"
       }
     }
   ]
