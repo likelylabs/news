@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-20T17:12:17+08:00",
+  "generated_at": "2026-10-20T19:05:28+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-10-20-france-yellow-travel-alert",
+      "published_at": "2026-10-20T19:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "travel",
+        "france",
+        "alert",
+        "security-bureau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-france-yellow-travel-alert.json",
+      "en": {
+        "headline": "Government issues yellow travel alert for France amid ongoing protests",
+        "dek": "The Security Bureau raised a yellow alert for France on Tuesday, citing continued demonstrations that have led to violent clashes and damage, and advised Hong Kong residents to avoid crowds and protest areas."
+      },
+      "zh": {
+        "headline": "港府對法國發出黃色外遊警示 呼籲港人避開示威區域",
+        "dek": "鉴於法國多地持續示威造成暴力衝突及破壞，特區政府周二對法國發出黃色外遊警示，呼籲港人提高警覺並避開人群聚集地方。"
+      }
+    },
+    {
+      "id": "2026-10-20-new-clear-water-bay-road-bus-collision",
+      "published_at": "2026-10-20T19:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "accident",
+        "bus",
+        "ngau-chi-wan",
+        "students"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-new-clear-water-bay-road-bus-collision.json",
+      "en": {
+        "headline": "School bus rear-ends KMB double-decker on New Clear Water Bay Road, eight injured",
+        "dek": "A school bus carrying students collided with the rear of a 290A bus near Choi Wan Estate around 4pm on Tuesday, leaving eight people with minor injuries including two pupils."
+      },
+      "zh": {
+        "headline": "新清水灣道校巴落斜撞九巴車尾 八人受輕傷包括兩學童",
+        "dek": "週二下午約4時，一輛接載學童的校巴在彩雲邨對開往黃大仙方向疑收刾不及，撞向停駐的290A線九巴車尾，造成八人輕傷，包括兩名小學生。"
+      }
+    },
+    {
+      "id": "2026-10-20-paul-chan-apec-geopolitical-risks",
+      "published_at": "2026-10-20T19:05:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "apec",
+        "finance",
+        "paul-chan",
+        "geopolitics"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-paul-chan-apec-geopolitical-risks.json",
+      "en": {
+        "headline": "Paul Chan warns geopolitical uncertainty poses downside risks at APEC meeting",
+        "dek": "Hong Kong’s financial secretary told APEC finance ministers that while Asia’s growth is outpacing the world, concentration in AI-related assets and geopolitical disruptions require fiscal prudence and closer cooperation."
+      },
+      "zh": {
+        "headline": "陳茂波APEC財長會警告地緣政治不確定性帶來下行風險",
+        "dek": "財政司司長陳茂波周二在香港舉行的APEC財長會議上指，亞太增長領先全球，但地緣政治不確定性及過度集中於AI相關資產或放大市場修正，需要財政審慎及更緊密合作。"
+      }
+    },
     {
       "id": "2026-10-20-asian-para-games-foil-silver",
       "published_at": "2026-10-20T17:10:00+08:00",
@@ -1847,96 +1913,6 @@
       "zh": {
         "headline": "羅淑佩稱有信心全年訪港旅客達5380萬人次",
         "dek": "文化體育及旅遊局局長指首九個月錄得約4070萬人次、按年雙位數增長，國慶黃金周內地客超預期，惟短途市場受燃油價格影響。"
-      }
-    },
-    {
-      "id": "2026-10-17-halloween-carnival-central",
-      "published_at": "2026-10-17T19:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "halloween",
-        "central",
-        "statue-square",
-        "hongkong-land"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-halloween-carnival-central.json",
-      "en": {
-        "headline": "Hongkong Land opens 15-day Halloween carnival with installations in Central",
-        "dek": "Four large light installations including a giant eyeball appear at Statue Square Garden from today until 31 October; most areas are free to enter."
-      },
-      "zh": {
-        "headline": "置地公司中環萬聖節狂歡祭今日啟動 皇后像廣場設四大裝置",
-        "dek": "活動由今日至31日一連15天舉行，巨型眼球等裝置於下午四時起亮燈，大部分區域免費開放。"
-      }
-    },
-    {
-      "id": "2026-10-17-ka-ying-rising-everest-second",
-      "published_at": "2026-10-17T19:05:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "horse-racing",
-        "ka-ying-rising",
-        "the-everest",
-        "hkjc"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-ka-ying-rising-everest-second.json",
-      "en": {
-        "headline": "Ka Ying Rising finishes second in The Everest, ending 21-race winning streak",
-        "dek": "The Hong Kong-trained sprinter, ridden by Zac Purton, was beaten by a neck by I Wish I Win at Randwick on Saturday."
-      },
-      "zh": {
-        "headline": "「嘉應高昇」澳洲珠穆朗瑪峰錦標屈居第二 連勝紀錄告終",
-        "dek": "由潘頓策騎、大衛希斯訓練的短途馬王自第十一檔出發，以一頸位之差不敵「動心」，跨季21連勝終止。"
-      }
-    },
-    {
-      "id": "2026-10-17-sha-tin-ketamine-seizure",
-      "published_at": "2026-10-17T19:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "drugs",
-        "sha-tin",
-        "ketamine",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-sha-tin-ketamine-seizure.json",
-      "en": {
-        "headline": "Police seize 32 kg of ketamine worth over HK$12 million in Sha Tin public housing raid",
-        "dek": "Officers arrested a 28-year-old man and two 15-year-old girls after finding the drugs packed with old clothes; the three are due in court on Monday."
-      },
-      "zh": {
-        "headline": "警方沙田公屋檢獲約32公斤氯胺酮 拘28歲男及兩名15歲少女",
-        "dek": "毒品調查科周五下午行動中起出市值逾1200萬元懷疑氯胺酮，三人將於周一在屯門裁判法院提堂。"
-      }
-    },
-    {
-      "id": "2026-10-17-tsui-ping-north-hammer-damage",
-      "published_at": "2026-10-17T19:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "kwun-tong",
-        "criminal-damage",
-        "tsui-ping-north"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-tsui-ping-north-hammer-damage.json",
-      "en": {
-        "headline": "Police arrest 75-year-old man over hammer damage and faeces at Tsui Ping North Estate",
-        "dek": "A resident was detained after staff found five smashed windows and faeces on the door of a shared kitchen in Tsui Mei House this morning."
-      },
-      "zh": {
-        "headline": "觀塘翠屏北邨七旬翁被捕 涉鐵錘砸共用廚房五窗兼大門塗糞",
-        "dek": "今早約八時屋邨職員發現翠楣樓共用廚房五道玻璃窗被毀及大門有糞便污漬，警方拘捕75歲陳姓男子並檢獲鐵錘。"
       }
     }
   ]
