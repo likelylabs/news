@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T15:20:49+08:00",
+  "updated_at": "2026-10-20T15:20:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -229,6 +229,30 @@
       "id": "2026-10-20-lifestyle-orlando-variations-city-hall",
       "first_seen": "2026-10-20T13:20:00+08:00",
       "headline_en": "Sean Shibe and Ema Nikolovska perform Orlando Variations at City Hall tonight"
+    },
+    {
+      "key": "tuen-mun-river-terminal-worker-fall-oct20",
+      "id": "2026-10-20-tuen-mun-river-terminal-worker-fall",
+      "first_seen": "2026-10-20T15:20:00+08:00",
+      "headline_en": "Worker falls unconscious from cargo ship deck at Tuen Mun River Trade Terminal"
+    },
+    {
+      "key": "to-kwa-wan-restaurant-burglary-oct20",
+      "id": "2026-10-20-to-kwa-wan-restaurant-burglary",
+      "first_seen": "2026-10-20T15:20:00+08:00",
+      "headline_en": "Staff find pried-open rear door at To Kwa Wan restaurant, losses still being counted"
+    },
+    {
+      "key": "yuen-long-highway-police-vehicle-fire-oct20",
+      "id": "2026-10-20-yuen-long-highway-police-vehicle-fire",
+      "first_seen": "2026-10-20T15:20:00+08:00",
+      "headline_en": "Police transport vehicle catches fire on Yuen Long Highway, no injuries"
+    },
+    {
+      "key": "tsim-sha-tsui-liquid-splashing-bail-denied",
+      "id": "2026-10-20-tsim-sha-tsui-liquid-bail-denied",
+      "first_seen": "2026-10-20T15:20:00+08:00",
+      "headline_en": "Court remands man charged over liquid-splashing incidents in Tsim Sha Tsui"
     }
   ]
 }
