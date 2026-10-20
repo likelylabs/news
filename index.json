@@ -1,8 +1,122 @@
 {
-  "generated_at": "2026-10-21T03:14:36+08:00",
+  "generated_at": "2026-10-21T07:04:41+08:00",
   "live_window_hours": 72,
   "count": 87,
   "articles": [
+    {
+      "id": "2026-10-21-dh-beauty-raids-elravie",
+      "published_at": "2026-10-21T07:10:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "department-of-health",
+        "beauty",
+        "unregistered-drugs",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-dh-beauty-raids-elravie.json",
+      "en": {
+        "headline": "Health officials raid beauty premises and seize unregistered injections",
+        "dek": "Department of Health seized more than 100 vials of suspected Part 1 poisons and 20 vials of a product claiming to contain human tissue; a woman was arrested."
+      },
+      "zh": {
+        "headline": "衞生署突擊搜查美容院檢獲未註冊針劑 女子被捕",
+        "dek": "衞生署檢獲逾100支懷疑第1部毒藥針劑及20支聲稱含人類組織的產品；一名38歲女子因涉嫌非法管有及人體器官交易被捕。"
+      }
+    },
+    {
+      "id": "2026-10-21-lifestyle-happy-wednesday-oktoberfest",
+      "published_at": "2026-10-21T07:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "oktoberfest",
+        "happy-valley",
+        "racing",
+        "hkjc"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-lifestyle-happy-wednesday-oktoberfest.json",
+      "en": {
+        "headline": "Happy Wednesday Oktoberfest and Beerfest continues at Happy Valley tonight",
+        "dek": "The Hong Kong Jockey Club’s midweek racing night at Happy Valley Racecourse features Bavarian-themed entertainment on 7, 14 and 21 October."
+      },
+      "zh": {
+        "headline": "快活谷快樂星期三Oktoberfest及Beerfest今晚繼續",
+        "dek": "香港賽馬會於快活谷馬場的周三賽馬夜，在十月七日、十四日及二十一日舉行巴伐利亞主題活動。"
+      }
+    },
+    {
+      "id": "2026-10-21-loop-second-land-tender",
+      "published_at": "2026-10-21T07:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "loop",
+        "hsitp",
+        "land-tender",
+        "innovation",
+        "northern-metropolis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-loop-second-land-tender.json",
+      "en": {
+        "headline": "Loop Hong Kong Park second land tender draws nine bids",
+        "dek": "The operator said frontier technology firms and major conglomerates submitted offers for three laboratory and office parcels in the first phase."
+      },
+      "zh": {
+        "headline": "河套香港園區第二批土地招標接獲九份標書",
+        "dek": "園區公司表示，投標者包括前沿科技企業及大型綜合企業，涉及三幅主要作實驗室及辦公室用途的第一期地塊。"
+      }
+    },
+    {
+      "id": "2026-10-21-tuen-mun-knife-attack",
+      "published_at": "2026-10-21T07:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "tuen-mun",
+        "assault",
+        "police",
+        "wounding"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-tuen-mun-knife-attack.json",
+      "en": {
+        "headline": "Man injured in suspected knife attack near Tuen Mun convenience store",
+        "dek": "Police found a 61-year-old man with abdomen and hand injuries outside a store on Yan Oi Tong Circuit; a fruit knife was recovered and no arrests have been made."
+      },
+      "zh": {
+        "headline": "屯門便利店附近男子疑遭刀襲受傷",
+        "dek": "警方在仁愛堂街便利店外發現61歲男子腹部及手部受傷，現場檢獲水果刀，暫無人被捕。"
+      }
+    },
+    {
+      "id": "2026-10-21-wong-chuk-hang-temple-fire",
+      "published_at": "2026-10-21T07:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "temple",
+        "wong-chuk-hang",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-wong-chuk-hang-temple-fire.json",
+      "en": {
+        "headline": "Fire at Wong Chuk Hang temple suspected caused by incense",
+        "dek": "Firefighters extinguished a blaze at Tai Wong Ye Temple on Nam Long Shan Road in about 10 minutes; no one was injured."
+      },
+      "zh": {
+        "headline": "黃竹坑大王爺廟起火 懷疑香火誤燒鐵架",
+        "dek": "消防約10分鐘撲熄南朗山道大王爺廟火警，無人受傷。"
+      }
+    },
     {
       "id": "2026-10-21-lifestyle-st-stephens-285-homes",
       "published_at": "2026-10-21T03:15:00+08:00",
@@ -1824,117 +1938,6 @@
       "zh": {
         "headline": "天文台重陽節早上發出黃色火災危險警告",
         "dek": "天文台於上午8時15分發出黃色火災危險警告，表示火災危險性頗高，市民及登山人士應提高警覺。"
-      }
-    },
-    {
-      "id": "2026-10-18-emsd-tai-zoom-78-buildings",
-      "published_at": "2026-10-18T07:03:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "emsd",
-        "lifts",
-        "fire-safety",
-        "tai-zoom"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-emsd-tai-zoom-78-buildings.json",
-      "en": {
-        "headline": "EMSD finds 78 private buildings with missing lift door frames by Tai Zoom",
-        "dek": "Inspections as of Saturday afternoon identified the additional cases beyond two public estates; the contractor will pay for all remedial work under supervision."
-      },
-      "zh": {
-        "headline": "機電署確認臺日升降機78幢私樓缺門框組件",
-        "dek": "截至周六下午巡查，除兩個租置屋邨外共78幢私人樓宇未裝耐火門框，補裝費用由承辦商承擔，署方已動員商會協助加快工程。"
-      }
-    },
-    {
-      "id": "2026-10-18-lifestyle-sham-shui-po-monkey",
-      "published_at": "2026-10-18T07:03:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "sham-shui-po",
-        "animal",
-        "spca"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-lifestyle-sham-shui-po-monkey.json",
-      "en": {
-        "headline": "Passers-by report wild monkey foaming at mouth in Sham Shui Po",
-        "dek": "Two people saw the animal near an oil station on Tai Po Road around 1am and called police and the SPCA; staff arrived after it had climbed a tree and left."
-      },
-      "zh": {
-        "headline": "深水埔野猴口吐白泡 途人報案愛協到場時已爬樹離開",
-        "dek": "凌晨約一時，兩名途人在大埔道338號油站對開發現野猴口吐白泡，報案及通知愛協，人員抵達時猴子已爬樹離去。"
-      }
-    },
-    {
-      "id": "2026-10-18-hko-wednesday-very-hot-forecast",
-      "published_at": "2026-10-18T03:20:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "hot-weather",
-        "el-nino",
-        "forecast"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-hko-wednesday-very-hot-forecast.json",
-      "en": {
-        "headline": "Observatory forecasts very hot weather on Wednesday, possibly record late date",
-        "dek": "Under the influence of a strong El Niño and a strengthening anticyclone, the maximum temperature on 21 October could reach 33 degrees or above at the Observatory."
-      },
-      "zh": {
-        "headline": "天文台料下周三日間酷熱 或破年內最遲酷熱紀錄",
-        "dek": "受超強厄爾尼諾及高空反氣旋影響，風勢微弱，若周三最高氣溫達33度或以上將刷新最遲酷熱日子紀錄。"
-      }
-    },
-    {
-      "id": "2026-10-18-lifestyle-hk-china-tattoo-exhibition",
-      "published_at": "2026-10-18T03:20:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "tattoo",
-        "sheung-wan",
-        "exhibition",
-        "ai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-lifestyle-hk-china-tattoo-exhibition.json",
-      "en": {
-        "headline": "Hong Kong China International Tattoo Exhibition runs through Sunday at SoHo House",
-        "dek": "More than 60 local and international artists are showing work at the three-day event in Sheung Wan, which includes an AI try-on system and a competition on the final day."
-      },
-      "zh": {
-        "headline": "香港中國國際紋身展2026於上環SoHo House舉行至周日",
-        "dek": "超過60位本地及國際紋身師參展，設AI試紋身系統，周日有比賽，門票由200元起。"
-      }
-    },
-    {
-      "id": "2026-10-18-tin-shui-wai-saltwater-pipe-burst",
-      "published_at": "2026-10-18T03:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tin-shui-wai",
-        "water-supplies",
-        "pipe-burst",
-        "yuen-long"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-tin-shui-wai-saltwater-pipe-burst.json",
-      "en": {
-        "headline": "Saltwater pipe bursts in Tin Shui Wai, spraying two storeys high",
-        "dek": "The Water Supplies Department said flushing water to Tin Yuet Estate and part of Tin Chung Court was suspended and expected to resume at 7.30am on Sunday."
-      },
-      "zh": {
-        "headline": "天水圍爆鹹水管水柱噴兩層樓高 天悅邨及天頌苑停沖廁水",
-        "dek": "水務署指涉事為直徑150毫米鹹水供水管，天悅邨及部分天頌苑沖廁水暫停，預計周日早上7時半恢復。"
       }
     }
   ]
