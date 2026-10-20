@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T17:12:17+08:00",
+  "updated_at": "2026-10-20T19:05:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -277,6 +277,24 @@
       "id": "2026-10-20-asian-para-games-tt-silver",
       "first_seen": "2026-10-20T17:10:00+08:00",
       "headline_en": "Jiao Jinshan takes silver in women's class 7 singles at Asian Para Games"
+    },
+    {
+      "key": "new-clear-water-bay-road-bus-collision-oct20",
+      "id": "2026-10-20-new-clear-water-bay-road-bus-collision",
+      "first_seen": "2026-10-20T19:05:00+08:00",
+      "headline_en": "School bus rear-ends KMB double-decker on New Clear Water Bay Road, eight injured"
+    },
+    {
+      "key": "paul-chan-apec-geopolitical-risks-oct20",
+      "id": "2026-10-20-paul-chan-apec-geopolitical-risks",
+      "first_seen": "2026-10-20T19:05:00+08:00",
+      "headline_en": "Paul Chan warns geopolitical uncertainty poses downside risks at APEC meeting"
+    },
+    {
+      "key": "france-yellow-travel-alert-oct20",
+      "id": "2026-10-20-france-yellow-travel-alert",
+      "first_seen": "2026-10-20T19:05:00+08:00",
+      "headline_en": "Government issues yellow travel alert for France amid ongoing protests"
     }
   ]
 }
