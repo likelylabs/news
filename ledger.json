@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T19:05:28+08:00",
+  "updated_at": "2026-10-20T21:12:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -295,6 +295,30 @@
       "id": "2026-10-20-france-yellow-travel-alert",
       "first_seen": "2026-10-20T19:05:00+08:00",
       "headline_en": "Government issues yellow travel alert for France amid ongoing protests"
+    },
+    {
+      "key": "election-committee-nominations-close-oct20",
+      "id": "2026-10-20-election-committee-nominations-close",
+      "first_seen": "2026-10-20T21:12:00+08:00",
+      "headline_en": "Election Committee nomination period ends with 1,155 forms received"
+    },
+    {
+      "key": "china-mobile-q3-results-oct20",
+      "id": "2026-10-20-china-mobile-q3-results",
+      "first_seen": "2026-10-20T21:12:00+08:00",
+      "headline_en": "China Mobile first three quarters profit falls nearly 8 per cent"
+    },
+    {
+      "key": "hang-seng-falls-1-3-percent-oct20",
+      "id": "2026-10-20-hang-seng-index-falls",
+      "first_seen": "2026-10-20T21:12:00+08:00",
+      "headline_en": "Hang Seng Index falls 1.3 per cent to close at 23,867"
+    },
+    {
+      "key": "international-mediation-court-anniversary-oct20",
+      "id": "2026-10-20-mediation-court-anniversary",
+      "first_seen": "2026-10-20T21:12:00+08:00",
+      "headline_en": "John Lee addresses International Mediation Court on its first anniversary"
     }
   ]
 }
