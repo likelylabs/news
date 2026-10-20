@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-20T23:22:06+08:00",
+  "generated_at": "2026-10-21T03:14:36+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-10-21-lifestyle-st-stephens-285-homes",
+      "published_at": "2026-10-21T03:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "central-market",
+        "jackie-pullinger",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-lifestyle-st-stephens-285-homes.json",
+      "en": {
+        "headline": "St Stephen’s Society exhibition on Kowloon Walled City stories closes today at Central…",
+        "dek": "The multimedia show featuring artwork by residents of the charity and founder Jackie Pullinger’s decades of work runs until tonight on the first floor of Central Market."
+      },
+      "zh": {
+        "headline": "聖士提芬會「285個家」展覽今日於中環街市閉幕",
+        "dek": "展覽展出受助居民作品及創辦人白嘉玲（Jackie Pullinger）逾五十年服務香港的故事，即日至今晚十時於中環街市一樓舉行。"
+      }
+    },
     {
       "id": "2026-10-20-child-sex-sentencing-report",
       "published_at": "2026-10-20T23:18:00+08:00",
@@ -1912,72 +1935,6 @@
       "zh": {
         "headline": "天水圍爆鹹水管水柱噴兩層樓高 天悅邨及天頌苑停沖廁水",
         "dek": "水務署指涉事為直徑150毫米鹹水供水管，天悅邨及部分天頌苑沖廁水暫停，預計周日早上7時半恢復。"
-      }
-    },
-    {
-      "id": "2026-10-18-amoy-plaza-staged-robbery",
-      "published_at": "2026-10-18T01:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "ngau-tau-kok",
-        "amoy-plaza",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-amoy-plaza-staged-robbery.json",
-      "en": {
-        "headline": "Restaurant manager arrested after staging Amoy Plaza cash snatch report",
-        "dek": "Police said a 22-year-old woman handed about HK$11,000 in company takings to a friend in a stairwell before reporting a robbery."
-      },
-      "zh": {
-        "headline": "淘大商場梯間「搶劫」原來是預先安排 食肆經理被捕",
-        "dek": "警方指22歲女子與友人約定後交出約一萬一千元公司現金，再報案指被搶走，閉路電視顯示過程不符。"
-      }
-    },
-    {
-      "id": "2026-10-18-mark-six-rollover",
-      "published_at": "2026-10-18T01:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "mark-six",
-        "lottery",
-        "hkjc"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-mark-six-rollover.json",
-      "en": {
-        "headline": "Mark Six first prize rolls over after no winner in 111th draw",
-        "dek": "The Hong Kong Jockey Club said the winning numbers were 3, 13, 27, 29, 30 and 40, with special number 9, and the jackpot will carry forward."
-      },
-      "zh": {
-        "headline": "六合彩第111期頭獎無人中 基金滾存至下期",
-        "dek": "馬會公布中獎號碼為3、13、27、29、30及40，特別號碼9，下期頭獎估計約一千九百萬元。"
-      }
-    },
-    {
-      "id": "2026-10-18-tst-brawl-sun-yee-on-arrests",
-      "published_at": "2026-10-18T01:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "tsim-sha-tsui",
-        "triad",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-tst-brawl-sun-yee-on-arrests.json",
-      "en": {
-        "headline": "Police arrest two men linked to Sun Yee On after Granville Road brawl",
-        "dek": "Officers recovered a chopper and rattan cane after a Friday evening fight in Tsim Sha Tsui that left one man injured."
-      },
-      "zh": {
-        "headline": "尖沙咀加連威老道打鬥 警方拘捕兩名新義安相關男子",
-        "dek": "周五傍晚十多名男女在街頭混戰，一名男子受傷，警方在現場檢獲開山刀及藤條。"
       }
     }
   ]
