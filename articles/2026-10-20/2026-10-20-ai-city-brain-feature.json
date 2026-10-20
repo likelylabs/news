@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-20-ai-city-brain-feature",
+  "published_at": "2026-10-20T09:11:00+08:00",
+  "category": "technology",
+  "tags": ["ai", "city-management", "government", "extreme-weather"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "ai-city-brain-scmp-oct20",
+  "en": {
+    "headline": "Hong Kong plans AI city brain system linking weather and infrastructure data",
+    "dek": "The government aims to connect databases on landslides, drainage, weather and public complaints, drawing lessons from mainland systems while scholars urge against direct copying.",
+    "body": [
+      "Hong Kong is developing an artificial intelligence-powered urban management system, often called an AI city brain, that would link separate government databases covering landslide monitoring, fallen trees, water pipes, weather information and public complaints, according to a South China Morning Post report published on Tuesday.",
+      "Chief Secretary Eric Chan has previously said the system is intended to give authorities a fuller picture of the city for day-to-day management and emergency response. Extreme weather handling is expected to be the first scenario used to test the platform. The government has said it is examining approaches used in mainland cities.",
+      "One example cited is Hangzhou’s long-running AI urban system, which during Severe Typhoon Dolphin in August automatically sent alerts and personalised safety guidance every minute to more than 110,000 delivery riders and helped direct them to nearby shelters. Scholars have cautioned that Hong Kong should not simply copy mainland formulas without adapting them to local conditions.",
+      "The project was outlined in the Chief Executive’s Policy Address. A task force is examining the platform, with integration of existing emergency monitoring systems planned in an early phase. Officials have stressed that the system is for city management and is not intended for crime detection or personal surveillance."
+    ]
+  },
+  "zh": {
+    "headline": "港府計劃建AI城市大腦 連接天氣基建及投訴數據",
+    "dek": "政府擬將山泥傾瀉監測、排水、天氣及市民投訴等資料庫連成一體，參考內地經驗，學者則提醒不宜直接抄襲。",
+    "body": [
+      "根據南華早報周二的報道，香港正開發一套人工智能驅動的城市管理系統，常被稱為AI城市大腦，計劃將山泥傾瀉監測、塌樹、水管、天氣資料及市民投訴等分散的政府數據庫連接起來。",
+      "政務司司長陳國基早前表示，系統旨在讓當局掌握更全面的城市狀況，以應付日常管理及緊急應變。極端天氣處理預期會是首個測試場景。政府指正研究內地城市的做法。",
+      "報道引述杭州長期運作的AI城市系統為例，在八月超強颱風「海豚」期間，系統每分鐘向超過11萬名外送員發出自動警報及個人化安全指引，並協助他們前往附近庇護所。學者則提醒，香港不應直接照搬內地模式，需因應本地情況調整。",
+      "項目已在行政長官施政報告中提出。專責小組正研究平台，早期階段計劃整合現有緊急監察系統。官員強調系統用於城市管理，不會用於偵查罪案或個人監察。"
+    ]
+  }
+}

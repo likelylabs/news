@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T07:49:50+08:00",
+  "updated_at": "2026-10-20T09:11:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -169,6 +169,18 @@
       "id": "2026-10-20-lifestyle-hkdi-leslie-grace-70",
       "first_seen": "2026-10-20T07:05:00+08:00",
       "headline_en": "HKDI free exhibition displays rare photographs of Leslie Cheung until mid-November"
+    },
+    {
+      "key": "ai-city-brain-scmp-oct20",
+      "id": "2026-10-20-ai-city-brain-feature",
+      "first_seen": "2026-10-20T09:11:00+08:00",
+      "headline_en": "Hong Kong plans AI city brain system linking weather and infrastructure data"
+    },
+    {
+      "key": "lifestyle-mega-show-creative-oct20",
+      "id": "2026-10-20-lifestyle-mega-show-creative-design",
+      "first_seen": "2026-10-20T09:11:00+08:00",
+      "headline_en": "Hong Kong Creative & Design Exhibition opens at HKCEC as part of MEGA SHOW"
     }
   ]
 }
