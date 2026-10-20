@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-10-20T21:06:03+08:00",
+  "generated_at": "2026-10-20T23:22:06+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-10-20-child-sex-sentencing-report",
+      "published_at": "2026-10-20T23:18:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "courts",
+        "sentencing",
+        "child-protection",
+        "research"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-child-sex-sentencing-report.json",
+      "en": {
+        "headline": "Report finds average sentences for child sex offences remain well below maximum",
+        "dek": "University of Hong Kong research analysing 401 judgments from 1990 to 2025 found average prison terms for the gravest child sex crimes ranged from under five to under ten years."
+      },
+      "zh": {
+        "headline": "研究指涉兒童性罪行平均判刑遠低於最高刑罰",
+        "dek": "港大法律學院分析1990至2025年401份判決，發現最嚴重兒童性罪行平均判刑介乎四年半至不足十年，遠低於終身監禁的法定最高刑。"
+      }
+    },
+    {
+      "id": "2026-10-20-hkia-september-traffic",
+      "published_at": "2026-10-20T23:18:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "airport",
+        "hkia",
+        "traffic",
+        "awards"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-hkia-september-traffic.json",
+      "en": {
+        "headline": "Hong Kong airport passenger traffic rises 10.2 per cent in September",
+        "dek": "Hong Kong International Airport handled 4.86 million passengers last month, driven by transfer traffic, and received three best-airport awards."
+      },
+      "zh": {
+        "headline": "香港國際機場九月客運量按年升百分之十點二",
+        "dek": "機場管理局周二公布，九月處理486萬人次旅客，按年升百分之十點二，主要由轉機旅客帶動，並獲三項最佳機場殊榮。"
+      }
+    },
+    {
+      "id": "2026-10-20-iomed-malaysia-dispute",
+      "published_at": "2026-10-20T23:18:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "iomed",
+        "mediation",
+        "malaysia",
+        "legal"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-iomed-malaysia-dispute.json",
+      "en": {
+        "headline": "IOMed settles Malaysian infrastructure dispute on first anniversary",
+        "dek": "The Hong Kong-based International Organisation for Mediation resolved a construction dispute in Malaysia on Tuesday, its second successful case since launching operations."
+      },
+      "zh": {
+        "headline": "國際調解院成立一周年 成功調解馬來西亞基建爭議",
+        "dek": "總部設於香港的國際調解院周二成功調解一宗馬來西亞基建爭議，為機構自運作以來第二宗成功個案。"
+      }
+    },
+    {
+      "id": "2026-10-20-tai-po-fire-report-due",
+      "published_at": "2026-10-20T23:18:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "tai-po",
+        "fire",
+        "inquiry",
+        "wang-fuk-court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-tai-po-fire-report-due.json",
+      "en": {
+        "headline": "Tai Po fire inquiry report to be submitted to government on Thursday",
+        "dek": "Sources say the independent committee investigating the Wang Fuk Court blaze that killed 168 people will deliver its final report on Thursday, with a redacted public version expected next week."
+      },
+      "zh": {
+        "headline": "大埔宏福苑大火調查報告周四交政府",
+        "dek": "消息指調查委員會將於周四向政府提交最終報告，涉及168人死亡的火災，公開版本最早下周發布，部分內容或因刑事調查而被遮蔽。"
+      }
+    },
     {
       "id": "2026-10-20-china-mobile-q3-results",
       "published_at": "2026-10-20T21:12:00+08:00",
@@ -1890,72 +1978,6 @@
       "zh": {
         "headline": "尖沙咀加連威老道打鬥 警方拘捕兩名新義安相關男子",
         "dek": "周五傍晚十多名男女在街頭混戰，一名男子受傷，警方在現場檢獲開山刀及藤條。"
-      }
-    },
-    {
-      "id": "2026-10-17-emsd-lift-landing-door-review",
-      "published_at": "2026-10-17T23:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "emsd",
-        "lifts",
-        "fire-safety",
-        "taizoom"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-emsd-lift-landing-door-review.json",
-      "en": {
-        "headline": "EMSD orders all lift contractors to review 10 years of landing door works",
-        "dek": "Contractors must confirm fire-resisting performance of landing doors and frames fitted between October 2017 and October 2026 and file declarations by 15 November."
-      },
-      "zh": {
-        "headline": "機電署要求全港升降機承辦商審視十年來層站門抗火效能",
-        "dek": "承辦商須於11月15日前交回聲明書，確認2017年10月至2026年10月期間更換或增設的層站門及門框符合耐火規格。"
-      }
-    },
-    {
-      "id": "2026-10-17-fsd-apec-meeting-inspections",
-      "published_at": "2026-10-17T23:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fsd",
-        "apec",
-        "fire-services",
-        "hkcec"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-fsd-apec-meeting-inspections.json",
-      "en": {
-        "headline": "Fire Services Department steps up inspections ahead of APEC finance meeting",
-        "dek": "Special patrols and enforcement will cover the Convention and Exhibition Centre, MTR stations, chemical suppliers and petrol stations before the 20-21 October gathering."
-      },
-      "zh": {
-        "headline": "消防處為APEC財長會議加強巡查及執法",
-        "dek": "特別安排涵蓋會議展覽中心、港鐵站、化工供應商及油站等，確保10月20至21日會議順利舉行。"
-      }
-    },
-    {
-      "id": "2026-10-17-legco-ai-debate-analysis",
-      "published_at": "2026-10-17T23:20:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "legco",
-        "ai",
-        "five-year-plan",
-        "starry-lee"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-legco-ai-debate-analysis.json",
-      "en": {
-        "headline": "Legislative Council uses AI for first time to analyse five-year plan debate",
-        "dek": "President Starry Lee said the tool processed about 450,000 words of remarks from 88 lawmakers, with livelihood protection taking nearly 30 per cent of coverage."
-      },
-      "zh": {
-        "headline": "立法會首次以人工智能分析五年規劃及施政報告辯論發言",
-        "dek": "李慧琼指秘書處分析約45萬字逐字紀錄，完善民生保障環節佔整體篇幅近三成，人才及北部都會區最受關注。"
       }
     }
   ]
