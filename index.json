@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-10-20T15:21:45+08:00",
+  "generated_at": "2026-10-20T17:11:15+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-10-20-asian-para-games-foil-silver",
+      "published_at": "2026-10-20T17:10:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "para-games",
+        "fencing",
+        "nagoya",
+        "medal"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-asian-para-games-foil-silver.json",
+      "en": {
+        "headline": "SAR women's foil team claims silver at Asian Para Games",
+        "dek": "Hong Kong’s squad finished second after a 12-30 loss to the national team in Nagoya on Tuesday under the new 30-point format."
+      },
+      "zh": {
+        "headline": "香港女子花劍隊亞殘運會奪銀",
+        "dek": "港隊周二在名古屋以12比30不敵國家隊，在新賽制下取得銀牌。"
+      }
+    },
+    {
+      "id": "2026-10-20-asian-para-games-tt-silver",
+      "published_at": "2026-10-20T17:10:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "para-games",
+        "table-tennis",
+        "nagoya",
+        "medal"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-asian-para-games-tt-silver.json",
+      "en": {
+        "headline": "Jiao Jinshan takes silver in women's class 7 singles at Asian Para Games",
+        "dek": "The Hong Kong paddler lost 2-3 to Wang Rui of the national team in the final after winning two games to level the match."
+      },
+      "zh": {
+        "headline": "焦瑾珊亞殘運女子7級單打奪銀",
+        "dek": "港隊球手周二決賽以2比3不敵國家隊王睿，在多局拉鋸後取得銀牌。"
+      }
+    },
+    {
+      "id": "2026-10-20-hzmb-half-marathon-record",
+      "published_at": "2026-10-20T17:10:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "marathon",
+        "hzmb",
+        "platinum",
+        "running"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-hzmb-half-marathon-record.json",
+      "en": {
+        "headline": "Hong Kong-Zhuhai-Macao Bridge half marathon draws record 10,000 entries",
+        "dek": "The November 15 race has been upgraded to World Athletics Platinum status, the first such road race in Hong Kong."
+      },
+      "zh": {
+        "headline": "港珠澳大橋半馬拉松逾萬人報名破紀錄",
+        "dek": "11月15日賽事升格世界田徑聯會白金級，為本港首個獲此認證的馬拉松。"
+      }
+    },
+    {
+      "id": "2026-10-20-suzhou-dongshan-ipo",
+      "published_at": "2026-10-20T17:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "ipo",
+        "hkex",
+        "electronics",
+        "listing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-suzhou-dongshan-ipo.json",
+      "en": {
+        "headline": "Suzhou Dongshan seeks up to US$1.36 billion in Hong Kong IPO",
+        "dek": "The circuit board maker’s offering trails earlier expectations amid concerns over potential US trade restrictions on its optical modules business."
+      },
+      "zh": {
+        "headline": "東山精密計劃在港招股集資最多13.6億美元",
+        "dek": "印刷電路板製造商發售規模低於早前預期，市場憂慮其光模塊業務或受美國貿易限制影響。"
+      }
+    },
     {
       "id": "2026-10-20-to-kwa-wan-restaurant-burglary",
       "published_at": "2026-10-20T15:20:00+08:00",
@@ -1849,73 +1937,6 @@
       "zh": {
         "headline": "觀塘翠屏北邨七旬翁被捕 涉鐵錘砸共用廚房五窗兼大門塗糞",
         "dek": "今早約八時屋邨職員發現翠楣樓共用廚房五道玻璃窗被毀及大門有糞便污漬，警方拘捕75歲陳姓男子並檢獲鐵錘。"
-      }
-    },
-    {
-      "id": "2026-10-17-amoy-plaza-cash-robbery",
-      "published_at": "2026-10-17T17:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "robbery",
-        "ngau-tau-kok",
-        "amoy-plaza"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-amoy-plaza-cash-robbery.json",
-      "en": {
-        "headline": "Woman robbed of HK$11,000 cash in Amoy Plaza stairwell in Ngau Tau Kok",
-        "dek": "A 22-year-old woman was pushed from behind and had cash snatched late on Friday night while heading to an ATM; police are seeking a man in a grey sweatshirt."
-      },
-      "zh": {
-        "headline": "牛頭角淘大商場梯間女子被搶走約一萬一千元現金",
-        "dek": "二十二歲女子周五晚約十一時在商場梯間被男從後推撞並搶走現金，警方正追緝穿灰色長袖衛衣男子。"
-      }
-    },
-    {
-      "id": "2026-10-17-iphone-duo-credit-card-reports",
-      "published_at": "2026-10-17T17:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "iphone",
-        "credit-card",
-        "apple",
-        "hsbc"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-iphone-duo-credit-card-reports.json",
-      "en": {
-        "headline": "Police receive over 100 reports of credit card charges linked to iPhone Duo pre-orders",
-        "dek": "Complaints of duplicate or unauthorised transactions began after Apple opened online pre-orders at 8pm on Friday, with sums running into the millions of dollars."
-      },
-      "zh": {
-        "headline": "警方接獲逾百宗iPhone Duo預購信用卡扣款舉報",
-        "dek": "蘋果周五晚八時開放摺疊式手機預購後，市民紛紛反映重複或未經授權交易，涉及金額達數百萬元。"
-      }
-    },
-    {
-      "id": "2026-10-17-yau-tong-role-x-theft-arrest",
-      "published_at": "2026-10-17T17:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "theft",
-        "yau-tong",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-yau-tong-role-x-theft-arrest.json",
-      "en": {
-        "headline": "Husband arrested after wife reports theft of Rolex and handbags worth HK$450,000 in Yau…",
-        "dek": "A 40-year-old man was detained after his 34-year-old wife reported that a Rolex watch and three designer bags had gone missing from their Ocean One flat on Saturday morning."
-      },
-      "zh": {
-        "headline": "油塘丈夫被拘 妻報稱家中勞力士及手袋失竊涉約四十五萬元",
-        "dek": "三十四歲女子今早報稱油塘Ocean One單位內勞力士手錶及三個名牌手袋失竊，警方拘捕其四十歲丈夫。"
       }
     }
   ]
