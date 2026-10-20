@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T11:11:25+08:00",
+  "updated_at": "2026-10-20T13:20:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -199,6 +199,36 @@
       "id": "2026-10-20-lifestyle-palace-museum-windows-heaven",
       "first_seen": "2026-10-20T11:12:00+08:00",
       "headline_en": "Hong Kong Palace Museum opens Eastern Orthodox art exhibition tomorrow"
+    },
+    {
+      "key": "asian-para-games-table-tennis-bronze-oct20",
+      "id": "2026-10-20-asian-para-games-paddlers-bronze",
+      "first_seen": "2026-10-20T13:20:00+08:00",
+      "headline_en": "SAR para paddlers claim multiple bronzes at Asian Para Games"
+    },
+    {
+      "key": "hk-pension-index-asia-second-2026",
+      "id": "2026-10-20-hk-pension-system-asia-rank",
+      "first_seen": "2026-10-20T13:20:00+08:00",
+      "headline_en": "Hong Kong ranks second in Asia for pension systems in new index"
+    },
+    {
+      "key": "tai-lam-unauthorised-works-fine-oct20",
+      "id": "2026-10-20-tai-lam-illegal-structure-fine",
+      "first_seen": "2026-10-20T13:20:00+08:00",
+      "headline_en": "Tai Lam property owner fined HK$255,800 for ignoring removal order"
+    },
+    {
+      "key": "red-flags-southern-beaches-oct20",
+      "id": "2026-10-20-southern-beaches-red-flags",
+      "first_seen": "2026-10-20T13:20:00+08:00",
+      "headline_en": "Red flags hoisted at Stanley, Shek O and Big Wave Bay beaches"
+    },
+    {
+      "key": "lifestyle-orlando-variations-city-hall",
+      "id": "2026-10-20-lifestyle-orlando-variations-city-hall",
+      "first_seen": "2026-10-20T13:20:00+08:00",
+      "headline_en": "Sean Shibe and Ema Nikolovska perform Orlando Variations at City Hall tonight"
     }
   ]
 }
