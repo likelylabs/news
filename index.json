@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-10-20T11:11:25+08:00",
+  "generated_at": "2026-10-20T13:11:56+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-10-20-asian-para-games-paddlers-bronze",
+      "published_at": "2026-10-20T13:20:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "para-games",
+        "table-tennis",
+        "nagoya",
+        "medals",
+        "hong-kong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-asian-para-games-paddlers-bronze.json",
+      "en": {
+        "headline": "SAR para paddlers claim multiple bronzes at Asian Para Games",
+        "dek": "Hong Kong table tennis athletes secured several bronze medals on Tuesday in Nagoya, with some still in contention for higher places later in the day."
+      },
+      "zh": {
+        "headline": "香港殘疾人乒乓球選手名古屋亞殘運會奪多面銅牌",
+        "dek": "香港乒乓球運動員周二在名古屋取得多面銅牌，部分選手仍有機會在稍後比賽爭奪更高名次。"
+      }
+    },
+    {
+      "id": "2026-10-20-hk-pension-system-asia-rank",
+      "published_at": "2026-10-20T13:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "mpf",
+        "pension",
+        "finance",
+        "ranking",
+        "retirement"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-hk-pension-system-asia-rank.json",
+      "en": {
+        "headline": "Hong Kong ranks second in Asia for pension systems in new index",
+        "dek": "The city’s Mandatory Provident Fund system scored 71.2 and retained a B grade in the Marsh CFA Institute Global Pension Index, placing 16th worldwide out of 55 systems."
+      },
+      "zh": {
+        "headline": "香港退休保障制度亞洲排名第二 僅次於新加坡",
+        "dek": "本港強積金制度在Marsh CFA Institute全球退休金指數中取得71.2分，維持B級評級，在55個制度中排名全球第16。"
+      }
+    },
+    {
+      "id": "2026-10-20-lifestyle-orlando-variations-city-hall",
+      "published_at": "2026-10-20T13:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "concert",
+        "city-hall",
+        "classical",
+        "central"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-lifestyle-orlando-variations-city-hall.json",
+      "en": {
+        "headline": "Sean Shibe and Ema Nikolovska perform Orlando Variations at City Hall tonight",
+        "dek": "The Scottish guitarist and mezzo-soprano bring their programme inspired by Virginia Woolf’s novel to Hong Kong City Hall Concert Hall at 7:30pm, with tickets from HK$180."
+      },
+      "zh": {
+        "headline": "蕭恩施貝與艾瑪·妮歌露芙絲嘉今晚大會堂演出《奧蘭多變奏曲》",
+        "dek": "蘇格蘭結他家與女中音將維珍妮亞·吳爾芙小說啟發的曲目帶到中環香港大會堂音樂廳，晚上7時30分開始，票價由180元起。"
+      }
+    },
+    {
+      "id": "2026-10-20-southern-beaches-red-flags",
+      "published_at": "2026-10-20T13:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "beaches",
+        "lcsd",
+        "swimming",
+        "southern-district"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-southern-beaches-red-flags.json",
+      "en": {
+        "headline": "Red flags hoisted at Stanley, Shek O and Big Wave Bay beaches",
+        "dek": "The Leisure and Cultural Services Department said big waves prompted the red flags on Tuesday and advised beachgoers not to swim at the three Southern District beaches."
+      },
+      "zh": {
+        "headline": "赤柱、石澳及大浪灣泳灘因大浪懸掛紅旗",
+        "dek": "康文署表示周二因大浪在三個南區泳灘懸掛紅旗，呼籲泳客不要下水。"
+      }
+    },
+    {
+      "id": "2026-10-20-tai-lam-illegal-structure-fine",
+      "published_at": "2026-10-20T13:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "buildings",
+        "illegal-structure",
+        "tuen-mun",
+        "enforcement"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-tai-lam-illegal-structure-fine.json",
+      "en": {
+        "headline": "Tai Lam property owner fined HK$255,800 for ignoring removal order",
+        "dek": "The Buildings Department said the owner of a detached house was prosecuted after repeatedly failing to demolish unauthorised structures covering more than 170 square metres."
+      },
+      "zh": {
+        "headline": "大欖獨立屋業主拒拆僭建罰款25.58萬元",
+        "dek": "屋宇署表示，一名獨立屋業主多次未遵從清拆令，涉事僭建物總面積逾170平方米，上周五在屯門裁判法院被定罪罰款。"
+      }
+    },
     {
       "id": "2026-10-20-dim-sum-bonds-sovereign-push",
       "published_at": "2026-10-20T11:12:00+08:00",
@@ -1783,183 +1896,6 @@
       "zh": {
         "headline": "西貢蛋家灣中年婦行山突吐血抽筋 直升機救起送東區醫院",
         "dek": "16名女子今早由黃石碼頭出發，其中一名中年婦近蛋家灣時不適，清醒由政府飛行服務隊直升機送院。"
-      }
-    },
-    {
-      "id": "2026-10-17-ha-fmc-holiday-service",
-      "published_at": "2026-10-17T13:11:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "hospital-authority",
-        "family-medicine",
-        "chung-yeung",
-        "clinic"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-ha-fmc-holiday-service.json",
-      "en": {
-        "headline": "Hospital Authority to open 15 family medicine clinics on Chung Yeung holiday Monday",
-        "dek": "Services will run from 9am to 1pm and 2pm to 5pm on 19 October; patients can book by phone, eHealth or HA Go."
-      },
-      "zh": {
-        "headline": "醫管局公布重陽節翌日15間家庭醫學診所提供門診服務",
-        "dek": "十月十九日公眾假期上午九時至一時及下午二時至五時開放，市民可經電話、醫健通或HA Go預約。"
-      }
-    },
-    {
-      "id": "2026-10-17-ngong-shuen-chau-barge-fire",
-      "published_at": "2026-10-17T13:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "ngong-shuen-chau",
-        "fsd",
-        "vessel"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-ngong-shuen-chau-barge-fire.json",
-      "en": {
-        "headline": "Fire on moored barge at Ngong Shuen Chau extinguished after about 90 minutes",
-        "dek": "Firefighters put out a blaze on a pontoon near Ang Yan Road by 11:18am on Saturday; 15 people were evacuated and no injuries were reported."
-      },
-      "zh": {
-        "headline": "昂船洲貲船起火約九十分鐘後救熄 十五人疏散無人傷",
-        "dek": "消防今早近十時接報昂船洲昂運路對開貲船火警，十一時十八分大致救熄，呼籲受煙霧影響市民留室內關窗。"
-      }
-    },
-    {
-      "id": "2026-10-17-to-kwa-wan-hammer-assault",
-      "published_at": "2026-10-17T13:11:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "to-kwa-wan",
-        "assault",
-        "robbery"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-to-kwa-wan-hammer-assault.json",
-      "en": {
-        "headline": "Six people assault woman with hammers and steal cash and phone in To Kwa Wan",
-        "dek": "A 43-year-old woman was injured in the hands and feet after being attacked at her flat on Wing Yiu Street this morning; police are hunting the suspects who knew her."
-      },
-      "zh": {
-        "headline": "土瓜灣唐樓女子遭六人持錘施襲 掠走三千元及手機",
-        "dek": "今早約七時永耀街一單位女住戶被認識人士持錘毆打，手腳受傷送伊利沙伯醫院，警方列襲擊及盜竊追查。"
-      }
-    },
-    {
-      "id": "2026-10-17-yellow-fire-danger-warning",
-      "published_at": "2026-10-17T13:11:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "fire-danger",
-        "warning",
-        "chung-yeung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-yellow-fire-danger-warning.json",
-      "en": {
-        "headline": "Observatory issues yellow fire danger warning as risk remains high",
-        "dek": "The Hong Kong Observatory raised the yellow fire danger warning at 9:45am on Saturday, urging the public to prevent fires and hikers to stay vigilant."
-      },
-      "zh": {
-        "headline": "天文台發出黃色火災危險警告 指火險頗高",
-        "dek": "天文台今日上午9時45分發出黃色火災危險警告，呼籲市民防止火災發生，遠足人士亦須提高警覺。"
-      }
-    },
-    {
-      "id": "2026-10-17-999-service-upgrades-tang",
-      "published_at": "2026-10-17T11:25:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "999",
-        "emergency",
-        "ai",
-        "tang-ping-keung",
-        "fsd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-999-service-upgrades-tang.json",
-      "en": {
-        "headline": "Tang says 999 upgrades will add real-time video and AI prioritisation by 2028",
-        "dek": "Callers could use WhatsApp or WeChat to send live images of incidents, with information shared instantly to the Fire Services Department."
-      },
-      "zh": {
-        "headline": "鄧炳強：999將增實時視像及人工智能分流 目標2028年啟用",
-        "dek": "市民日後可用WhatsApp或微信拍攝現場，報案資訊即時傳送消防處，火警等優先處理。"
-      }
-    },
-    {
-      "id": "2026-10-17-fanling-boy-sudden-death",
-      "published_at": "2026-10-17T11:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "fanling",
-        "sudden-death",
-        "child"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-fanling-boy-sudden-death.json",
-      "en": {
-        "headline": "11-year-old boy found unconscious at Fanling home later confirmed dead",
-        "dek": "Police received a report from the boy's father at about 6am on Saturday; ambulance officers confirmed death at the scene and investigations continue."
-      },
-      "zh": {
-        "headline": "粉嶺欣翠花園11歲男童家中昏迷 當場證實不治",
-        "dek": "今早約6時父親報案，救護員到場證實男童明顯死亡，警方正在調查死因。"
-      }
-    },
-    {
-      "id": "2026-10-17-huanggang-port-chung-yeung-traffic",
-      "published_at": "2026-10-17T11:25:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "huanggang",
-        "border",
-        "chung-yeung",
-        "tang-ping-keung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-huanggang-port-chung-yeung-traffic.json",
-      "en": {
-        "headline": "Security chief expects Huanggang port to exceed 100,000 daily crossings over Chung Yeung",
-        "dek": "Daily traffic has averaged over 80,000 since the new port opened, with Friday topping 92,000; waiting times remain under 15 minutes."
-      },
-      "zh": {
-        "headline": "鄧炳強料重陽長假新皇崗口岸高峰日過關人次破10萬",
-        "dek": "新口岸近日日均逾8萬人次，周五超過9.2萬，等候時間一般少於5分鐘，效率較舊口岸提升至少四倍。"
-      }
-    },
-    {
-      "id": "2026-10-17-yau-ma-tei-oil-attacks",
-      "published_at": "2026-10-17T11:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "yau-ma-tei",
-        "criminal-damage",
-        "restaurant"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-yau-ma-tei-oil-attacks.json",
-      "en": {
-        "headline": "Police investigate oil attacks on two Yau Ma Tei restaurants within 38 minutes",
-        "dek": "Red oil hit a Portland Street cha chaan teng and black oil a Bowring Street dim sum shop early Saturday; no arrests and no injuries reported."
-      },
-      "zh": {
-        "headline": "油麻地兩食肆38分鐘內遭淋油 警列刑事毀壞追查",
-        "dek": "砵蘭街茶餐廳招牌染紅油，寶靈街點心店則被淋黑油，暫無人被捕，亦無人受傷。"
       }
     }
   ]
