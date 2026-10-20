@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-10-20T09:13:35+08:00",
+  "generated_at": "2026-10-20T11:10:40+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-10-20-dim-sum-bonds-sovereign-push",
+      "published_at": "2026-10-20T11:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "finance",
+        "bonds",
+        "apec",
+        "yuan",
+        "hkex"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-dim-sum-bonds-sovereign-push.json",
+      "en": {
+        "headline": "Hong Kong seeks more sovereign issuers for dim sum bond market",
+        "dek": "Analysts say the APEC Finance Ministers’ Meeting offers a chance to attract Asia-Pacific governments to the city’s offshore yuan bond market, where issuance has already reached 266.9 billion yuan this year."
+      },
+      "zh": {
+        "headline": "港府爭取更多主權發行人進入點心債市場",
+        "dek": "分析指APEC財長會議是吸引亞太政府發債的機會，今年點心債發行量已達2669億元人民幣。"
+      }
+    },
+    {
+      "id": "2026-10-20-lifestyle-palace-museum-windows-heaven",
+      "published_at": "2026-10-20T11:12:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "palace-museum",
+        "west-kowloon",
+        "art"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-lifestyle-palace-museum-windows-heaven.json",
+      "en": {
+        "headline": "Hong Kong Palace Museum opens Eastern Orthodox art exhibition tomorrow",
+        "dek": "About 100 icon paintings and treasures from Russia’s State Tretyakov Gallery go on display in Gallery 9 from 21 October until March 2027."
+      },
+      "zh": {
+        "headline": "香港故宮明日開展東正教藝術展",
+        "dek": "約100件來自俄羅斯特列季亞科夫美術館的聖像畫及珍寶，將於9號展廳展出至2027年3月。"
+      }
+    },
+    {
+      "id": "2026-10-20-mother-underweight-daughter-bond",
+      "published_at": "2026-10-20T11:12:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "child-neglect",
+        "west-kowloon",
+        "bond"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-mother-underweight-daughter-bond.json",
+      "en": {
+        "headline": "Mother placed on three-year bond after child neglect charge dropped",
+        "dek": "Prosecutors at West Kowloon Court dropped a child abuse charge against a 53-year-old woman earlier this month after her 12-year-old daughter lost four kilograms in a month in 2023."
+      },
+      "zh": {
+        "headline": "母親虐兒控罪撤銷 簽三年守行為三年",
+        "dek": "西九龍裁判法院本月較早時撤銷一名53歲女子的虐兒控罪，換取她同意簽下三年守行為令，涉事女兒於2023年一個月內體重下降四公斤。"
+      }
+    },
     {
       "id": "2026-10-20-ai-city-brain-feature",
       "published_at": "2026-10-20T09:11:00+08:00",
@@ -1892,96 +1960,6 @@
       "zh": {
         "headline": "油麻地兩食肆38分鐘內遭淋油 警列刑事毀壞追查",
         "dek": "砵蘭街茶餐廳招牌染紅油，寶靈街點心店則被淋黑油，暫無人被捕，亦無人受傷。"
-      }
-    },
-    {
-      "id": "2026-10-17-bus-fare-hike-applications-reviewed",
-      "published_at": "2026-10-17T09:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "bus",
-        "fare",
-        "citybus",
-        "kmb",
-        "legco"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-bus-fare-hike-applications-reviewed.json",
-      "en": {
-        "headline": "Transport bureau to review bus fare applications of up to 17.7 per cent carefully",
-        "dek": "Citybus seeks the largest rise while KMB asks for 16 per cent; lawmakers at Friday's panel meeting criticised the scale and raised service issues."
-      },
-      "zh": {
-        "headline": "運物局稱審慎處理巴士加價申請 加幅介乎8.1%至17.7%",
-        "dek": "城巴申請加價17.7%為最高，九巴申請16%，立法會交通事務委員會周五討論時議員批評加幅過高。"
-      }
-    },
-    {
-      "id": "2026-10-17-cfa-terence-arnold-appointment",
-      "published_at": "2026-10-17T09:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "court",
-        "judiciary",
-        "cfa",
-        "appointment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-cfa-terence-arnold-appointment.json",
-      "en": {
-        "headline": "Chief Executive accepts recommendation to appoint New Zealand judge to top court",
-        "dek": "Sir Terence Arnold would become the sixth non-permanent judge from other common law jurisdictions, subject to Legislative Council endorsement."
-      },
-      "zh": {
-        "headline": "行政長官接納推薦委任新西蘭法官為終審法院海外非常任法官",
-        "dek": "區諾德爵士將成為第六名來自其他普通法司法管轄區的非常任法官，仍待立法會通過。"
-      }
-    },
-    {
-      "id": "2026-10-17-hkex-t1-settlement-roadmap",
-      "published_at": "2026-10-17T09:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hkex",
-        "settlement",
-        "stock-market",
-        "t-plus-1"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-hkex-t1-settlement-roadmap.json",
-      "en": {
-        "headline": "HKEX targets T+1 settlement for cash market in second half of 2028",
-        "dek": "The exchange operator received broad support in consultation and will adopt a three-layer implementation framework, with Southbound Stock Connect following the same cycle."
-      },
-      "zh": {
-        "headline": "港交所目標2028年下半年實施港股現貨T+1結算周期",
-        "dek": "諮詢獲市場廣泛支持，將採三層實施方案，港股通同步過渡。"
-      }
-    },
-    {
-      "id": "2026-10-17-wine-dine-festival-returns",
-      "published_at": "2026-10-17T09:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "wine-dine",
-        "tourism",
-        "harbourfront",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-wine-dine-festival-returns.json",
-      "en": {
-        "headline": "Hong Kong Wine and Dine Festival returns to harbourfront from 29 October",
-        "dek": "The four-day event organised by the Tourism Board will feature more than 340 booths at Central Harbourfront and Tamar Park, with later hours on Friday and Saturday."
-      },
-      "zh": {
-        "headline": "香港美酒佳餚巡禮10月29日起重返中環海濱",
-        "dek": "旅發局主辦的四日盛事設逾340個攤位於中環海濱活動空間及添馬公園舉行，周五六延長至凌晨1時。"
       }
     }
   ]
