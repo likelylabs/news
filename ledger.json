@@ -1,1 +1,204 @@
-PLACEHOLDER_LEDGER
+{
+  "updated_at": "2026-10-20T11:12:00+08:00",
+  "retention_days": 5,
+  "covered": [
+    {
+      "key": "lifestyle-ppa-asia-1500-hong-kong-slam",
+      "id": "2026-10-19-lifestyle-ppa-asia-1500-hong-kong-slam",
+      "first_seen": "2026-10-19T03:20:00+08:00",
+      "headline_en": "PPA Asia 1500 Hang Seng Bank Hong Kong Slam begins at Kai Tak Arena"
+    },
+    {
+      "key": "emsd-taizoom-lifts-total-152",
+      "id": "2026-10-19-emsd-taizoom-lifts-152-buildings",
+      "first_seen": "2026-10-19T07:10:00+08:00",
+      "headline_en": "EMSD finds missing lift door components in 74 more Taizoom buildings, total reaches 152"
+    },
+    {
+      "key": "tsim-sha-tsui-porsche-drug-driving-arrest",
+      "id": "2026-10-19-tsim-sha-tsui-porsche-cannabis-arrest",
+      "first_seen": "2026-10-19T07:10:00+08:00",
+      "headline_en": "Police arrest Porsche driver in Tsim Sha Tsui after finding cannabis in car"
+    },
+    {
+      "key": "lifestyle-gloomie-museum-leonlollipop",
+      "id": "2026-10-19-lifestyle-gloomie-museum-harbour-city",
+      "first_seen": "2026-10-19T07:10:00+08:00",
+      "headline_en": "Local artist LeonLollipop’s Gloomie Museum exhibition runs at Harbour City until 25 October"
+    },
+    {
+      "key": "yellow-fire-danger-warning-oct19",
+      "id": "2026-10-19-yellow-fire-danger-warning",
+      "first_seen": "2026-10-19T09:25:00+08:00",
+      "headline_en": "Observatory issues Yellow Fire Danger Warning as risk stays high"
+    },
+    {
+      "key": "hung-hom-tai-wan-road-cocaine-arrest",
+      "id": "2026-10-19-hung-hom-cocaine-arrest",
+      "first_seen": "2026-10-19T09:25:00+08:00",
+      "headline_en": "Police arrest man after finding suspected cocaine in Hung Hom car"
+    },
+    {
+      "key": "lifestyle-lee-tung-avenue-lanterns-last-day",
+      "id": "2026-10-19-lifestyle-lee-tung-avenue-lanterns",
+      "first_seen": "2026-10-19T11:10:00+08:00",
+      "headline_en": "Lee Tung Avenue lantern display ends today after more than six weeks"
+    },
+    {
+      "key": "hkex-chung-yeung-holiday-closure",
+      "id": "2026-10-19-hkex-chung-yeung-holiday-closure",
+      "first_seen": "2026-10-19T11:10:00+08:00",
+      "headline_en": "Hong Kong stock market closed today for Chung Yeung Festival holiday"
+    },
+    {
+      "key": "yau-ma-tei-convenience-store-brick-robbery",
+      "id": "2026-10-19-yau-ma-tei-convenience-store-robbery",
+      "first_seen": "2026-10-19T13:15:00+08:00",
+      "headline_en": "Man robs Yau Ma Tei convenience store with brick, flees with cash"
+    },
+    {
+      "key": "iphone-duo-credit-card-fraud-oct19-update",
+      "id": "2026-10-19-iphone-duo-fraud-reports-rise-to-130",
+      "first_seen": "2026-10-19T13:15:00+08:00",
+      "headline_en": "Police receive 130 reports of suspected iPhone Duo credit card misuse, involving HK$5 million"
+    },
+    {
+      "key": "john-lee-aiib-zou-meeting-oct19",
+      "id": "2026-10-19-john-lee-meets-aiib-president",
+      "first_seen": "2026-10-19T13:15:00+08:00",
+      "headline_en": "John Lee meets AIIB President Zou Jiayi ahead of APEC finance meeting"
+    },
+    {
+      "key": "cultural-centre-backstage-fire-oct19",
+      "id": "2026-10-19-cultural-centre-backstage-fire",
+      "first_seen": "2026-10-19T15:20:00+08:00",
+      "headline_en": "Female staff member burned in Hong Kong Cultural Centre stage fire"
+    },
+    {
+      "key": "chung-yeung-crossings-1-32-million",
+      "id": "2026-10-19-chung-yeung-border-crossings-record",
+      "first_seen": "2026-10-19T15:20:00+08:00",
+      "headline_en": "Immigration records over 1.32 million crossings on Chung Yeung Sunday"
+    },
+    {
+      "key": "huanggang-port-inbound-peak-oct19",
+      "id": "2026-10-19-huanggang-port-inbound-peak",
+      "first_seen": "2026-10-19T17:07:00+08:00",
+      "headline_en": "Immigration Department prepares for first inbound peak at new Huanggang Port"
+    },
+    {
+      "key": "lifestyle-mills-tales-of-the-crawlers",
+      "id": "2026-10-19-lifestyle-mills-tales-of-the-crawlers",
+      "first_seen": "2026-10-19T17:07:00+08:00",
+      "headline_en": "The Mills hosts free Curious Creatures Showcase with rare species until 1 November"
+    },
+    {
+      "key": "hikers-heat-illness-chung-yeung-oct19",
+      "id": "2026-10-19-hikers-fall-ill-hot-weather-chung-yeung",
+      "first_seen": "2026-10-19T19:05:00+08:00",
+      "headline_en": "Five hikers fall ill amid hot weather on final day of Chung Yeung holiday"
+    },
+    {
+      "key": "legionnaires-three-community-cases-oct19",
+      "id": "2026-10-19-three-community-legionnaires-cases",
+      "first_seen": "2026-10-19T19:05:00+08:00",
+      "headline_en": "Centre for Health Protection records three new community Legionnaires’ disease cases"
+    },
+    {
+      "key": "lifestyle-flower-market-mini-games-ticket-stub",
+      "id": "2026-10-19-lifestyle-flower-market-mini-games-ticket-stub",
+      "first_seen": "2026-10-19T19:05:00+08:00",
+      "headline_en": "Flower Market hosts mini sports day and launches ticket-stub discounts with Mong Kok Stadium"
+    },
+    {
+      "key": "emsd-taizoom-lifts-total-338",
+      "id": "2026-10-19-emsd-taizoom-lifts-total-338",
+      "first_seen": "2026-10-19T22:40:00+08:00",
+      "headline_en": "EMSD finds missing lift door components in 186 more buildings, total reaches 338"
+    },
+    {
+      "key": "sai-ying-pun-hang-fai-fire-elderly",
+      "id": "2026-10-19-sai-ying-pun-hang-fai-fire",
+      "first_seen": "2026-10-19T22:40:00+08:00",
+      "headline_en": "Elderly man pulled unconscious from Sai Ying Pun flat after fire"
+    },
+    {
+      "key": "sai-wan-ho-dog-thrown-sea-arrest",
+      "id": "2026-10-19-sai-wan-ho-dog-sea-arrest",
+      "first_seen": "2026-10-19T22:40:00+08:00",
+      "headline_en": "Police arrest 59-year-old woman after dog allegedly thrown into sea in Sai Wan Ho"
+    },
+    {
+      "key": "sai-ying-pun-hang-fai-fire-death",
+      "id": "2026-10-20-sai-ying-pun-fire-death",
+      "first_seen": "2026-10-20T00:40:00+08:00",
+      "headline_en": "Elderly man dies after Sai Ying Pun flat fire"
+    },
+    {
+      "key": "six-year-old-girl-influenza-a-critical-oct19",
+      "id": "2026-10-20-six-year-old-influenza-critical",
+      "first_seen": "2026-10-20T00:40:00+08:00",
+      "headline_en": "Six-year-old girl in critical condition with influenza A shock"
+    },
+    {
+      "key": "apec-finance-ministers-meeting-oct20-21",
+      "id": "2026-10-20-apec-finance-ministers-meeting-opens",
+      "first_seen": "2026-10-20T03:15:00+08:00",
+      "headline_en": "APEC Finance Ministers’ Meeting opens in Hong Kong for two days"
+    },
+    {
+      "key": "lifestyle-lkf-monster-mash-halloween-2026",
+      "id": "2026-10-20-lifestyle-lkf-monster-mash-halloween",
+      "first_seen": "2026-10-20T03:15:00+08:00",
+      "headline_en": "Lan Kwai Fong Monster Mash Halloween events continue through October"
+    },
+    {
+      "key": "digital-policy-office-1823-monkey-response",
+      "id": "2026-10-20-digital-policy-office-1823-overnight",
+      "first_seen": "2026-10-20T07:05:00+08:00",
+      "headline_en": "Digital Policy Office reviews overnight staffing after unanswered 1823 call about injured monkey"
+    },
+    {
+      "key": "shau-kei-wan-bus-terminus-queue-fight",
+      "id": "2026-10-20-shau-kei-wan-bus-queue-fight",
+      "first_seen": "2026-10-20T07:05:00+08:00",
+      "headline_en": "Police arrest two men after queue dispute turns into fight at Shau Kei Wan bus terminus"
+    },
+    {
+      "key": "lifestyle-hkdi-leslie-cheung-grace-70",
+      "id": "2026-10-20-lifestyle-hkdi-leslie-grace-70",
+      "first_seen": "2026-10-20T07:05:00+08:00",
+      "headline_en": "HKDI free exhibition displays rare photographs of Leslie Cheung until mid-November"
+    },
+    {
+      "key": "ai-city-brain-scmp-oct20",
+      "id": "2026-10-20-ai-city-brain-feature",
+      "first_seen": "2026-10-20T09:11:00+08:00",
+      "headline_en": "Hong Kong plans AI city brain system linking weather and infrastructure data"
+    },
+    {
+      "key": "lifestyle-mega-show-creative-oct20",
+      "id": "2026-10-20-lifestyle-mega-show-creative-design",
+      "first_seen": "2026-10-20T09:11:00+08:00",
+      "headline_en": "Hong Kong Creative & Design Exhibition opens at HKCEC as part of MEGA SHOW"
+    },
+    {
+      "key": "mother-underweight-daughter-bond-oct20",
+      "id": "2026-10-20-mother-underweight-daughter-bond",
+      "first_seen": "2026-10-20T11:12:00+08:00",
+      "headline_en": "Mother placed on three-year bond after child neglect charge dropped"
+    },
+    {
+      "key": "dim-sum-bonds-sovereign-apec-oct20",
+      "id": "2026-10-20-dim-sum-bonds-sovereign-push",
+      "first_seen": "2026-10-20T11:12:00+08:00",
+      "headline_en": "Hong Kong seeks more sovereign issuers for dim sum bond market"
+    },
+    {
+      "key": "lifestyle-palace-museum-windows-heaven",
+      "id": "2026-10-20-lifestyle-palace-museum-windows-heaven",
+      "first_seen": "2026-10-20T11:12:00+08:00",
+      "headline_en": "Hong Kong Palace Museum opens Eastern Orthodox art exhibition tomorrow"
+    }
+  ]
+}
