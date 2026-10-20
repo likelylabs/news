@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T17:11:15+08:00",
+  "updated_at": "2026-10-20T17:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -253,6 +253,30 @@
       "id": "2026-10-20-tsim-sha-tsui-liquid-bail-denied",
       "first_seen": "2026-10-20T15:20:00+08:00",
       "headline_en": "Court remands man charged over liquid-splashing incidents in Tsim Sha Tsui"
+    },
+    {
+      "key": "asian-para-games-foil-team-silver-oct20",
+      "id": "2026-10-20-asian-para-games-foil-silver",
+      "first_seen": "2026-10-20T17:10:00+08:00",
+      "headline_en": "SAR women's foil team claims silver at Asian Para Games"
+    },
+    {
+      "key": "hzmb-half-marathon-record-registrations-oct20",
+      "id": "2026-10-20-hzmb-half-marathon-record",
+      "first_seen": "2026-10-20T17:10:00+08:00",
+      "headline_en": "Hong Kong-Zhuhai-Macao Bridge half marathon draws record 10,000 entries"
+    },
+    {
+      "key": "suzhou-dongshan-precision-hk-ipo-oct20",
+      "id": "2026-10-20-suzhou-dongshan-ipo",
+      "first_seen": "2026-10-20T17:10:00+08:00",
+      "headline_en": "Suzhou Dongshan seeks up to US$1.36 billion in Hong Kong IPO"
+    },
+    {
+      "key": "asian-para-games-tt-class7-silver-oct20",
+      "id": "2026-10-20-asian-para-games-tt-silver",
+      "first_seen": "2026-10-20T17:10:00+08:00",
+      "headline_en": "Jiao Jinshan takes silver in women's class 7 singles at Asian Para Games"
     }
   ]
 }
