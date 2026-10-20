@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-10-20T19:05:28+08:00",
+  "generated_at": "2026-10-20T21:06:03+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-10-20-china-mobile-q3-results",
+      "published_at": "2026-10-20T21:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "china-mobile",
+        "earnings",
+        "telecom",
+        "hkex"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-china-mobile-q3-results.json",
+      "en": {
+        "headline": "China Mobile first three quarters profit falls nearly 8 per cent",
+        "dek": "The company reported operating revenue of 780.3 billion yuan, down 1.8 per cent, and profit attributable to shareholders of 106.2 billion yuan for the nine months to 30 September."
+      },
+      "zh": {
+        "headline": "中國移動首三季盈利跌近八成",
+        "dek": "公司公佈截至九月底止九個月，營運收入七千八百零三億元人民幣，按年跌百分之一點八；股東應佔利潤一千零六十二億元人民幣，按年跌百分之七點九。"
+      }
+    },
+    {
+      "id": "2026-10-20-election-committee-nominations-close",
+      "published_at": "2026-10-20T21:12:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "election-committee",
+        "nominations",
+        "politics",
+        "november-election"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-election-committee-nominations-close.json",
+      "en": {
+        "headline": "Election Committee nomination period ends with 1,155 forms received",
+        "dek": "Returning officers received 1,115 candidate nomination forms and 40 from designated bodies by the 5pm close on Tuesday, with 31 of 36 elected subsectors set for contests on 22 November."
+      },
+      "zh": {
+        "headline": "選舉委員會提名期結束 共接獲十一百五十五份表格",
+        "dek": "提名期周二下午五時結束，選舉主任累計接獲一千一百一十五份候選人提名表格及四十份指定團體提名，三十一個界別分組將於十一月二十二日進行選舉。"
+      }
+    },
+    {
+      "id": "2026-10-20-hang-seng-index-falls",
+      "published_at": "2026-10-20T21:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hang-seng",
+        "stocks",
+        "market",
+        "hkex"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-hang-seng-index-falls.json",
+      "en": {
+        "headline": "Hang Seng Index falls 1.3 per cent to close at 23,867",
+        "dek": "Hong Kong stocks joined a regional retreat on Tuesday after Beijing left key lending rates unchanged and stronger mainland GDP data reduced expectations for further stimulus."
+      },
+      "zh": {
+        "headline": "恆生指數跌百分之一點三 收報二萬三千八百六十七點",
+        "dek": "周二港股隨區域市場回落，內地維持貸款利率不變及較強經濟數據令市場對進一步刺激預期降溫。"
+      }
+    },
+    {
+      "id": "2026-10-20-mediation-court-anniversary",
+      "published_at": "2026-10-20T21:12:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "mediation",
+        "john-lee",
+        "international",
+        "legal"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-mediation-court-anniversary.json",
+      "en": {
+        "headline": "John Lee addresses International Mediation Court on its first anniversary",
+        "dek": "The Chief Executive said the court had quickly become a trusted intergovernmental body and outlined measures in the Policy Address to position Hong Kong as a global mediation centre."
+      },
+      "zh": {
+        "headline": "李家超出席國際調解院成立一周年慶祝活動",
+        "dek": "行政長官指國際調解院迅速成為獲信賴的政府間機構，並重申施政報告中支援及合作措施，推動香港成為全球調解中心。"
+      }
+    },
     {
       "id": "2026-10-20-france-yellow-travel-alert",
       "published_at": "2026-10-20T19:05:00+08:00",
@@ -1868,51 +1956,6 @@
       "zh": {
         "headline": "立法會首次以人工智能分析五年規劃及施政報告辯論發言",
         "dek": "李慧琼指秘書處分析約45萬字逐字紀錄，完善民生保障環節佔整體篇幅近三成，人才及北部都會區最受關注。"
-      }
-    },
-    {
-      "id": "2026-10-17-iphone-duo-police-apple-criticism",
-      "published_at": "2026-10-17T21:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "iphone",
-        "credit-card",
-        "apple",
-        "fraud"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-iphone-duo-police-apple-criticism.json",
-      "en": {
-        "headline": "Police call repeat iPhone Duo credit-card reports extremely regrettable",
-        "dek": "More than 110 reports involving about HK$4.6 million have been logged; officers say Apple has still not enabled 3D Secure despite earlier advice."
-      },
-      "zh": {
-        "headline": "警方稱iPhone Duo信用卡舉報再現極度遺憾 批蘋果未啟用3DS",
-        "dek": "網絡安全及科技罪案調查科高級督察盧震綱指接獲逾110宗報案、涉款約460萬元，最大一宗近23萬元，暫未有人被捕。"
-      }
-    },
-    {
-      "id": "2026-10-17-law-visitor-target-confidence",
-      "published_at": "2026-10-17T21:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tourism",
-        "visitors",
-        "rosanna-law",
-        "culture-sports-tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-17/2026-10-17-law-visitor-target-confidence.json",
-      "en": {
-        "headline": "Law says she is confident Hong Kong will reach 53.8 million visitors this year",
-        "dek": "The culture, sports and tourism secretary cited double-digit growth in the first nine months and strong Golden Week arrivals, despite fewer short-haul visitors from higher fuel prices."
-      },
-      "zh": {
-        "headline": "羅淑佩稱有信心全年訪港旅客達5380萬人次",
-        "dek": "文化體育及旅遊局局長指首九個月錄得約4070萬人次、按年雙位數增長，國慶黃金周內地客超預期，惟短途市場受燃油價格影響。"
       }
     }
   ]
