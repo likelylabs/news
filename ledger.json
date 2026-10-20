@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T03:14:35+08:00",
+  "updated_at": "2026-10-21T07:10:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -343,6 +343,42 @@
       "id": "2026-10-20-child-sex-sentencing-report",
       "first_seen": "2026-10-20T23:18:00+08:00",
       "headline_en": "Report finds average sentences for child sex offences remain well below maximum"
+    },
+    {
+      "key": "lifestyle-st-stephens-285-homes-exhibition",
+      "id": "2026-10-21-lifestyle-st-stephens-285-homes",
+      "first_seen": "2026-10-21T03:15:00+08:00",
+      "headline_en": "St Stephen’s Society exhibition on Kowloon Walled City stories closes today at Central…"
+    },
+    {
+      "key": "loop-second-land-tender-nine-bids",
+      "id": "2026-10-21-loop-second-land-tender",
+      "first_seen": "2026-10-21T07:10:00+08:00",
+      "headline_en": "Loop Hong Kong Park second land tender draws nine bids"
+    },
+    {
+      "key": "dh-beauty-raids-elravie-human-tissue",
+      "id": "2026-10-21-dh-beauty-raids-elravie",
+      "first_seen": "2026-10-21T07:10:00+08:00",
+      "headline_en": "Health officials raid beauty premises and seize unregistered injections"
+    },
+    {
+      "key": "wong-chuk-hang-temple-fire-incense",
+      "id": "2026-10-21-wong-chuk-hang-temple-fire",
+      "first_seen": "2026-10-21T07:10:00+08:00",
+      "headline_en": "Fire at Wong Chuk Hang temple suspected caused by incense"
+    },
+    {
+      "key": "tuen-mun-knife-attack-convenience-store",
+      "id": "2026-10-21-tuen-mun-knife-attack",
+      "first_seen": "2026-10-21T07:10:00+08:00",
+      "headline_en": "Man injured in suspected knife attack near Tuen Mun convenience store"
+    },
+    {
+      "key": "lifestyle-happy-wednesday-oktoberfest-oct21",
+      "id": "2026-10-21-lifestyle-happy-wednesday-oktoberfest",
+      "first_seen": "2026-10-21T07:10:00+08:00",
+      "headline_en": "Happy Wednesday Oktoberfest and Beerfest continues at Happy Valley tonight"
     }
   ]
 }
