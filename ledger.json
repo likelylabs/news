@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T21:06:03+08:00",
+  "updated_at": "2026-10-20T23:18:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -319,6 +319,30 @@
       "id": "2026-10-20-mediation-court-anniversary",
       "first_seen": "2026-10-20T21:12:00+08:00",
       "headline_en": "John Lee addresses International Mediation Court on its first anniversary"
+    },
+    {
+      "key": "tai-po-fire-report-thursday",
+      "id": "2026-10-20-tai-po-fire-report-due",
+      "first_seen": "2026-10-20T23:18:00+08:00",
+      "headline_en": "Tai Po fire inquiry report to be submitted to government on Thursday"
+    },
+    {
+      "key": "iomed-malaysia-settlement-oct20",
+      "id": "2026-10-20-iomed-malaysia-dispute",
+      "first_seen": "2026-10-20T23:18:00+08:00",
+      "headline_en": "IOMed settles Malaysian infrastructure dispute on first anniversary"
+    },
+    {
+      "key": "hkia-september-traffic-growth",
+      "id": "2026-10-20-hkia-september-traffic",
+      "first_seen": "2026-10-20T23:18:00+08:00",
+      "headline_en": "Hong Kong airport passenger traffic rises 10.2 per cent in September"
+    },
+    {
+      "key": "child-sex-sentencing-report-oct20",
+      "id": "2026-10-20-child-sex-sentencing-report",
+      "first_seen": "2026-10-20T23:18:00+08:00",
+      "headline_en": "Report finds average sentences for child sex offences remain well below maximum"
     }
   ]
 }
