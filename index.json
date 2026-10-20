@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-20T07:49:50+08:00",
+  "generated_at": "2026-10-20T09:13:35+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-10-20-ai-city-brain-feature",
+      "published_at": "2026-10-20T09:11:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "ai",
+        "city-management",
+        "government",
+        "extreme-weather"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-ai-city-brain-feature.json",
+      "en": {
+        "headline": "Hong Kong plans AI city brain system linking weather and infrastructure data",
+        "dek": "The government aims to connect databases on landslides, drainage, weather and public complaints, drawing lessons from mainland systems while scholars urge against direct copying."
+      },
+      "zh": {
+        "headline": "港府計劃建AI城市大腦 連接天氣基建及投訴數據",
+        "dek": "政府擬將山泥傾瀉監測、排水、天氣及市民投訴等資料庫連成一體，參考內地經驗，學者則提醒不宜直接抄襲。"
+      }
+    },
+    {
+      "id": "2026-10-20-lifestyle-mega-show-creative-design",
+      "published_at": "2026-10-20T09:11:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "hkcec",
+        "wan-chai",
+        "creative",
+        "toys"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-20/2026-10-20-lifestyle-mega-show-creative-design.json",
+      "en": {
+        "headline": "Hong Kong Creative & Design Exhibition opens at HKCEC as part of MEGA SHOW",
+        "dek": "More than 300 creators from across Asia gather in Wan Chai until Friday for the new section covering cultural brands, IP licensing and trendy toys, with onsite registration at HK$20."
+      },
+      "zh": {
+        "headline": "香港文創設計展於會展開幕 與MEGA SHOW同期舉行",
+        "dek": "逾300位來自亞洲各地的創作者齊聚灣仔，至周五展出文創品牌、IP授權及潮流玩具，入場需現場登記繳付20元。"
+      }
+    },
     {
       "id": "2026-10-20-digital-policy-office-1823-overnight",
       "published_at": "2026-10-20T07:05:00+08:00",
