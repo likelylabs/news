@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-10-21T17:10:49+08:00",
+  "generated_at": "2026-10-21T19:05:22+08:00",
   "live_window_hours": 72,
-  "count": 98,
+  "count": 97,
   "articles": [
+    {
+      "id": "2026-10-21-hang-seng-closes-lower",
+      "published_at": "2026-10-21T19:03:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hang-seng",
+        "stocks",
+        "markets",
+        "hkex"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-hang-seng-closes-lower.json",
+      "en": {
+        "headline": "Hang Seng Index closes 0.9 percent lower at 23,651 after early gains reverse",
+        "dek": "The benchmark opened higher following Wall Street gains but ended Wednesday down 216 points, with the tech index also falling and CATL leading declines after results."
+      },
+      "zh": {
+        "headline": "恒指收跌216點報23651 早段升幅全數回吐",
+        "dek": "港股周三高開後轉跌，科技指數同步向下，寧德時代績後急挫逾一成，成交活躍。"
+      }
+    },
+    {
+      "id": "2026-10-21-investment-scams-crypto-loss",
+      "published_at": "2026-10-21T19:03:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "scam",
+        "investment",
+        "crypto",
+        "police",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-investment-scams-crypto-loss.json",
+      "en": {
+        "headline": "Police record more than 50 investment scams in a week, total losses exceed $30 million",
+        "dek": "A woman in her 60s lost over $4.5 million after buying cryptocurrency through a fraudster she met on a property platform who posed as an investment expert."
+      },
+      "zh": {
+        "headline": "過去一周逾50宗投資騙案 總損失逾三千萬 六旬婦失450萬",
+        "dek": "一名退休婦人在物業平台認識假冒投資專家的騙徒，多次購買泰達幣轉帳後損失超過450萬港元。"
+      }
+    },
+    {
+      "id": "2026-10-21-star-ferry-fare-increase",
+      "published_at": "2026-10-21T19:03:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "star-ferry",
+        "fare",
+        "exco",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-star-ferry-fare-increase.json",
+      "en": {
+        "headline": "Executive Council approves moderated Star Ferry fare rise from January 2027",
+        "dek": "Weekday adult fares on the Central and Wan Chai to Tsim Sha Tsui routes will rise by 60 cents to $1, with weekend increases of $1 to $1.80; the monthly ticket stays at $190."
+      },
+      "zh": {
+        "headline": "行會批准天星小輪加價 明年一月生效 平日加0.6至1元",
+        "dek": "中環及灣仔往返尖沙咀兩條航線平日成人票上限調至6元、周末8.3元，月票維持190元不變。"
+      }
+    },
     {
       "id": "2026-10-21-asian-para-games-boccia-gold",
       "published_at": "2026-10-21T17:10:00+08:00",
@@ -2105,93 +2172,6 @@
       "zh": {
         "headline": "屯門山景邨一對約70歲男女燒炭後證實死亡",
         "dek": "警方指今午約2時30分在景榮樓發現兩人昏迷，身旁有燒過的炭，送屯門醫院後不治。"
-      }
-    },
-    {
-      "id": "2026-10-18-fehd-halloween-dogs-reminder",
-      "published_at": "2026-10-18T17:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fehd",
-        "dogs",
-        "halloween",
-        "restaurants"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-fehd-halloween-dogs-reminder.json",
-      "en": {
-        "headline": "FEHD reminds public to check restaurant permits before taking dogs out for Halloween meals",
-        "dek": "The department said more than 990 restaurants currently hold permission for dogs, and both operators and owners must follow leash and other rules."
-      },
-      "zh": {
-        "headline": "食環署提醒市民萬聖節外出用膳前確認食肆是否准許狗隻進入",
-        "dek": "署方指目前逾990間食肆獲准容許狗隻，經營者及主人須遵守牽繩等規定。"
-      }
-    },
-    {
-      "id": "2026-10-18-ng-hon-mun-dies",
-      "published_at": "2026-10-18T17:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "npc",
-        "education",
-        "pui-kiu",
-        "obituary"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-ng-hon-mun-dies.json",
-      "en": {
-        "headline": "Former NPC deputy and educator Ng Hon-mun dies aged 100",
-        "dek": "The Pui Kiu Education Institution said its honorary chairman passed away peacefully on Sunday morning in the company of family."
-      },
-      "zh": {
-        "headline": "前港區人大代表兼教育家吳康民逝世 享年100歲",
-        "dek": "培僑教育機構表示，榮譽主席吳康民今早在家人陪伴下安詳辭世。"
-      }
-    },
-    {
-      "id": "2026-10-18-tang-smartview-mall-cctv",
-      "published_at": "2026-10-18T17:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "chris-tang",
-        "smartview",
-        "cctv",
-        "security"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-tang-smartview-mall-cctv.json",
-      "en": {
-        "headline": "Tang says talks to link private mall cameras to police SmartView network in final stage",
-        "dek": "The security chief told a television programme that live monitoring would be risk-based and focused on crime hotspots, as the force aims for 60,000 cameras by 2028."
-      },
-      "zh": {
-        "headline": "鄧炳強：私人商場閉路電視接駁「銳眼」系統進入最後商討階段",
-        "dek": "保安局局長在電視節目表示，實時接駁將視情況而定，優先犯罪黑點，目標2028年前安裝6萬支鏡頭。"
-      }
-    },
-    {
-      "id": "2026-10-18-tuen-mun-shan-king-charcoal",
-      "published_at": "2026-10-18T17:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tuen-mun",
-        "police",
-        "shan-king-estate"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-tuen-mun-shan-king-charcoal.json",
-      "en": {
-        "headline": "Two people in their 70s found unconscious after charcoal burning at Tuen Mun estate",
-        "dek": "Police said a man and a woman were taken to Tuen Mun Hospital after being discovered unresponsive in a flat at Shan King Estate around 2.30pm on Sunday."
-      },
-      "zh": {
-        "headline": "屯門山景邨一對約70歲男女燒炭昏迷 送院搶救",
-        "dek": "警方指今午約2時30分接報，景榮樓單位內一男一女昏迷，身旁有燒過的炭，已送屯門醫院。"
       }
     }
   ]
