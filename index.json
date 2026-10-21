@@ -1,8 +1,101 @@
 {
-  "generated_at": "2026-10-21T21:07:11+08:00",
+  "generated_at": "2026-10-21T23:24:24+08:00",
   "live_window_hours": 72,
-  "count": 95,
+  "count": 94,
   "articles": [
+    {
+      "id": "2026-10-21-child-flu-death",
+      "published_at": "2026-10-21T23:20:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "flu",
+        "vaccination",
+        "chp",
+        "children"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-child-flu-death.json",
+      "en": {
+        "headline": "Unvaccinated 12-year-old girl becomes second child flu death this season",
+        "dek": "The Centre for Health Protection said the girl died on Tuesday after developing influenza A complications, and urged the public to get vaccinated promptly."
+      },
+      "zh": {
+        "headline": "12歲未接種疫苗女童染甲流不治 成今季第二宗兒童死亡個案",
+        "dek": "衛生防護中心指女童周二不治，臨床診斷為甲型流感併發敗血性休克等，呼籲市民盡快接種疫苗。"
+      }
+    },
+    {
+      "id": "2026-10-21-media-powder-letters",
+      "published_at": "2026-10-21T23:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "media",
+        "threat",
+        "police",
+        "powder"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-media-powder-letters.json",
+      "en": {
+        "headline": "Two media outlets receive suspicious letters containing white powder from UK",
+        "dek": "Police and specialist teams responded after staff at HK01 and Ta Kung Wen Wei Media Group found powder believed to be crushed oatmeal in airmail letters."
+      },
+      "zh": {
+        "headline": "兩傳媒機構同日收英國寄出白色粉末信 警展開調查",
+        "dek": "《香港01》葵涌辦公室及大公文匯傳媒集團香港仔辦事處先後接獲內藏粉末的空郵信件，警方派員到場處理。"
+      }
+    },
+    {
+      "id": "2026-10-21-sai-wan-ho-teen-arrests",
+      "published_at": "2026-10-21T23:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "assault",
+        "sai-wan-ho",
+        "police",
+        "juveniles"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-sai-wan-ho-teen-arrests.json",
+      "en": {
+        "headline": "Police arrest four teenagers over viral Sai Wan Ho alley assault video",
+        "dek": "Officers held four local boys aged 13 to 17 after footage showed a younger boy being punched and slapped in a back alley early Monday."
+      },
+      "zh": {
+        "headline": "西灣河後巷童黨欺凌片 警拘4名13至17歲男童",
+        "dek": "警方表示，網上片段顯示一名男童周一凌晨約3時在西灣河後巷疑遭掌掰及推倒，東區警區隨後拘4名本地男童。"
+      }
+    },
+    {
+      "id": "2026-10-21-wine-dine-festival",
+      "published_at": "2026-10-21T23:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "wine",
+        "festival",
+        "harbourfront",
+        "hktb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-wine-dine-festival.json",
+      "en": {
+        "headline": "Hong Kong Wine and Dine Festival returns to harbourfront from 29 October",
+        "dek": "The Tourism Board’s four-day event at Central Harbourfront and Tamar Park will feature more than 340 booths from about 31 countries and regions."
+      },
+      "zh": {
+        "headline": "香港美酒佳餐巡禮10月29日起於中環海濱舉行",
+        "dek": "旅發局主辦的四日活動設逾340個攤位，匯聚約31個國家及地區的美酒美食，周五六開放至凌晨1時。"
+      }
+    },
     {
       "id": "2026-10-21-contractors-site-safety-ratings",
       "published_at": "2026-10-21T21:05:00+08:00",
@@ -2016,119 +2109,6 @@
       "zh": {
         "headline": "南豐紗廠萬聖節怪奇動物展覽免費開放至11月1日",
         "dek": "荃灣南豐紗廠與香港昆蟲教育及科普中心合作，展出非洲侏儒鼠、紫外光下會發光的帝王蠍等罕見生物，每日中午至晚上7時開放。"
-      }
-    },
-    {
-      "id": "2026-10-18-asian-para-games-officials-attendance",
-      "published_at": "2026-10-18T23:21:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-para-games",
-        "nagoya",
-        "liu-chun",
-        "sport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-asian-para-games-officials-attendance.json",
-      "en": {
-        "headline": "Liu and Chong attend Asian Para Games opening to support Hong Kong athletes",
-        "dek": "The undersecretary for culture, sports and tourism and the new commissioner for sports met the Hong Kong, China delegation in Nagoya and will watch events in the coming days."
-      },
-      "zh": {
-        "headline": "劉震及莊敏婷出席亞殘運開幕式為港隊打氣",
-        "dek": "文化體育及旅遊局副局長劉震和新任體育專員莊敏婷到名古屋與中國香港代表團見面，了解住宿及備戰情況，未來數日將到場館觀賽。"
-      }
-    },
-    {
-      "id": "2026-10-18-peak-lighting-project-review",
-      "published_at": "2026-10-18T23:21:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tourism-board",
-        "the-peak",
-        "lugard-road",
-        "environment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-peak-lighting-project-review.json",
-      "en": {
-        "headline": "Tourism Board to review Peak light trail after residents raise concerns",
-        "dek": "The board said it would conduct broader consultation to refine arrangements for the planned installations along Lugard and Harlech Roads, aiming for a better balance with environmental protection and local needs."
-      },
-      "zh": {
-        "headline": "旅發局就山頂燈影項目進行更廣泛諮詢 檢視安排",
-        "dek": "局方表示明白並重視居民意見，會繼續緊密溝通，檢視盧吉道及夏力道一帶燈影效果項目的整體安排，務求在旅遊發展、環境保護及居民需要之間取得更適切平衡。"
-      }
-    },
-    {
-      "id": "2026-10-18-customs-airport-drugs-seizure",
-      "published_at": "2026-10-18T21:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "airport",
-        "drugs",
-        "cocaine",
-        "cannabis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-customs-airport-drugs-seizure.json",
-      "en": {
-        "headline": "Customs seize cocaine and cannabis worth HK$6.8 million at airport, arrest two",
-        "dek": "Officers found about 5.4 kilograms of suspected cocaine and 17 kilograms of suspected cannabis buds in the luggage of two mainland passengers arriving on consecutive days."
-      },
-      "zh": {
-        "headline": "海關機場檢獲約680萬元可卡因及大麻花 拘兩名內地旅客",
-        "dek": "關員在連續兩日抵港的兩名內地旅客行李內，分別發現約5.4公斤懷疑可卡因及約17公斤懷疑大麻花。"
-      }
-    },
-    {
-      "id": "2026-10-18-long-win-bus-skycity-crash",
-      "published_at": "2026-10-18T21:10:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "bus",
-        "long-win",
-        "airport",
-        "skycity",
-        "accident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-long-win-bus-skycity-crash.json",
-      "en": {
-        "headline": "Long Win bus hits railing at Airport Skycity terminus, no one injured",
-        "dek": "Police said the bus appeared to have lost control at a turning point around 2.49pm on Sunday, damaging about 10 metres of railing and the front of the vehicle."
-      },
-      "zh": {
-        "headline": "龍運巴士航天城總站疑失控撞毀欄杆 車頭嚴重損毀無人受傷",
-        "dek": "警方指今午約2時49分接報，巴士在總站轉彎位撞毀約10米鐵欄，車頭泵把脫落，事件中無人受傷。"
-      }
-    },
-    {
-      "id": "2026-10-18-yuen-long-village-drug-raid",
-      "published_at": "2026-10-18T21:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "yuen-long",
-        "drugs",
-        "ketamine",
-        "cocaine"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-yuen-long-village-drug-raid.json",
-      "en": {
-        "headline": "Police arrest Pakistani couple over HK$22 million drug depot in Yuen Long village house",
-        "dek": "Officers seized about 10 kilograms of ketamine, 30 kilograms of cocaine and a small amount of methamphetamine after intercepting a man leaving the premises on a motorcycle."
-      },
-      "zh": {
-        "headline": "警方元朗村屋破毒倉 拘巴基斯坦裔夫婦檢逾2200萬元毒品",
-        "dek": "人員截查一名騎電單車離開的男子後，在村屋內檢獲約10公斤氯胺酮、約30公斤可卡因及少量冰毒。"
       }
     }
   ]
