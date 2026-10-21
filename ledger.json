@@ -1,1 +1,52 @@
-$(cat /tmp/clean_ledger.json)
+{
+  "covered": [
+    {
+      "key": "asian-para-games-boccia-bc4-gold-oct21",
+      "id": "2026-10-21-asian-para-games-boccia-gold",
+      "first_seen": "2026-10-21T17:10:00+08:00",
+      "headline_en": "Liu Huiyin takes Hong Kong’s first gold of the Asian Para Games in boccia"
+    },
+    {
+      "key": "peak-trail-light-project-suspended-oct21",
+      "id": "2026-10-21-peak-trail-lights-suspended",
+      "first_seen": "2026-10-21T17:10:00+08:00",
+      "headline_en": "Work on Peak trail lighting project suspended amid environmental concerns"
+    },
+    {
+      "key": "central-ifc-fake-1000-notes-arrest-oct21",
+      "id": "2026-10-21-central-fake-notes-arrest",
+      "first_seen": "2026-10-21T17:10:00+08:00",
+      "headline_en": "Man arrested after trying to open bank account with fake $1,000 notes in Central"
+    },
+    {
+      "key": "dss-expansion-170-non-local-students-oct21",
+      "id": "2026-10-21-dss-expansion-non-local-students",
+      "first_seen": "2026-10-21T17:10:00+08:00",
+      "headline_en": "48 Direct Subsidy Scheme schools approved for expansion, 170 non-local students enrolled"
+    },
+    {
+      "key": "asian-para-games-boccia-bc4-final-oct21",
+      "id": "2026-10-21-asian-para-games-boccia-final",
+      "first_seen": "2026-10-21T13:20:00+08:00",
+      "headline_en": "SAR boccia athletes set up all-Hong Kong women's BC4 final"
+    },
+    {
+      "key": "very-hot-weather-warning-oct21",
+      "id": "2026-10-21-very-hot-weather-warning",
+      "first_seen": "2026-10-21T09:11:00+08:00",
+      "headline_en": "Observatory issues Very Hot Weather Warning as temperatures climb"
+    },
+    {
+      "key": "apec-finance-ministers-conclude-oct21",
+      "id": "2026-10-21-apec-finance-ministers-conclude",
+      "first_seen": "2026-10-21T15:24:00+08:00",
+      "headline_en": "APEC finance ministers agree to strengthen policy coordination"
+    },
+    {
+      "key": "fire-services-impersonation-scam-oct21",
+      "id": "2026-10-21-fire-services-scam-clarification",
+      "first_seen": "2026-10-21T15:24:00+08:00",
+      "headline_en": "Fire Services clarifies it never requests advance payments for supplies"
+    }
+  ]
+}
