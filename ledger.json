@@ -1,6 +1,18 @@
 {
   "covered": [
     {
+      "key": "weather-outlook-oct22",
+      "id": "2026-10-22-dry-monsoon-hot-fine-thursday",
+      "first_seen": "2026-10-22T01:05:00+08:00",
+      "headline_en": "Dry northeast monsoon keeps Thursday hot and mainly fine"
+    },
+    {
+      "key": "lifestyle-food-carnival-kwai-chung-2026",
+      "id": "2026-10-22-food-carnival-kwai-chung-opens",
+      "first_seen": "2026-10-22T01:05:00+08:00",
+      "headline_en": "13th Hong Kong Food Carnival opens Saturday with 330 stalls"
+    },
+    {
       "key": "asian-para-games-boccia-bc4-gold-oct21",
       "id": "2026-10-21-asian-para-games-boccia-gold",
       "first_seen": "2026-10-21T17:10:00+08:00",
@@ -103,5 +115,5 @@
       "headline_en": "Hong Kong Wine and Dine Festival returns to harbourfront from 29 October"
     }
   ],
-  "updated_at": "2026-10-21T23:24:24+08:00"
+  "updated_at": "2026-10-22T01:05:00+08:00"
 }
