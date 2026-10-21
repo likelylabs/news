@@ -1,6 +1,30 @@
 {
   "covered": [
     {
+      "key": "hk-airlines-okinawa-cancellations-champi-oct22",
+      "id": "2026-10-22-hk-airlines-okinawa-cancellations",
+      "first_seen": "2026-10-22T03:15:00+08:00",
+      "headline_en": "Hong Kong Airlines cancels two Okinawa flights today as Typhoon Champi nears"
+    },
+    {
+      "key": "land-records-media-access-tightened-oct21",
+      "id": "2026-10-22-land-records-media-access",
+      "first_seen": "2026-10-22T03:15:00+08:00",
+      "headline_en": "Journalists raise concerns as government tightens media access to land records"
+    },
+    {
+      "key": "tai-po-fire-report-submission-oct22",
+      "id": "2026-10-22-tai-po-fire-report-due",
+      "first_seen": "2026-10-22T03:15:00+08:00",
+      "headline_en": "Independent committee set to submit Tai Po fire report to government today"
+    },
+    {
+      "key": "lifestyle-disgusting-food-museum-kai-tak",
+      "id": "2026-10-22-disgusting-food-museum",
+      "first_seen": "2026-10-22T03:15:00+08:00",
+      "headline_en": "Disgusting Food Museum continues at Kai Tak through late November"
+    },
+    {
       "key": "weather-outlook-oct22",
       "id": "2026-10-22-dry-monsoon-hot-fine-thursday",
       "first_seen": "2026-10-22T01:05:00+08:00",
@@ -115,5 +139,5 @@
       "headline_en": "Hong Kong Wine and Dine Festival returns to harbourfront from 29 October"
     }
   ],
-  "updated_at": "2026-10-22T01:03:18+08:00"
+  "updated_at": "2026-10-22T03:15:00+08:00"
 }
