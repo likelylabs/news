@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-10-22T03:16:42+08:00",
+  "generated_at": "2026-10-22T07:05:25+08:00",
   "live_window_hours": 72,
-  "count": 99,
+  "count": 101,
   "articles": [
+    {
+      "id": "2026-10-22-christies-1935-chinese-art-exhibition",
+      "published_at": "2026-10-22T07:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "christies",
+        "chinese-art",
+        "central"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-christies-1935-chinese-art-exhibition.json",
+      "en": {
+        "headline": "Christie’s opens commemorative show of 1935 Chinese art exhibition",
+        "dek": "Nearly 15 masterpieces that appeared in the landmark Royal Academy display are on view at The Henderson in Central until 6 November."
+      },
+      "zh": {
+        "headline": "佳士得展開1935年中國藝術展覽紀念展",
+        "dek": "近15件曾於倫敦皇家藝術學院展出的精品，即日起至11月6日於中環The Henderson公開展出。"
+      }
+    },
+    {
+      "id": "2026-10-22-hk-schools-paris-igem-withdrawal",
+      "published_at": "2026-10-22T07:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "igem",
+        "france",
+        "travel-alert",
+        "schools"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-hk-schools-paris-igem-withdrawal.json",
+      "en": {
+        "headline": "Hong Kong schools weigh Paris iGEM trip amid France travel alert",
+        "dek": "More than 30 schools and nearly 600 students and teachers had planned to attend the synthetic-biology competition next month; the Education Bureau says safety is the priority."
+      },
+      "zh": {
+        "headline": "港校評估巴黎iGEM行程 教育局強調學生安全優先",
+        "dek": "逾30間中學及大學、近600名師生原定下月赴巴黎參賽，政府已對法國發出黃色外遊警示，校方正重新評估。"
+      }
+    },
+    {
+      "id": "2026-10-22-rule-of-law-index-2026",
+      "published_at": "2026-10-22T07:05:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "rule-of-law",
+        "world-justice-project",
+        "doj",
+        "governance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-rule-of-law-index-2026.json",
+      "en": {
+        "headline": "Hong Kong holds 24th place in 2026 global Rule of Law Index",
+        "dek": "The World Justice Project ranks the city sixth in East Asia and the Pacific, with order and security rising to seventh worldwide, the Department of Justice said."
+      },
+      "zh": {
+        "headline": "香港法治指數維持全球第24位 秩序與安全升至第7",
+        "dek": "世界正義工程公布2026年指數，香港在東亞及太平洋區排第6，律政司指廉潔及秩序安全仍居全球十大。"
+      }
+    },
     {
       "id": "2026-10-22-disgusting-food-museum",
       "published_at": "2026-10-22T03:15:00+08:00",
@@ -2195,28 +2263,6 @@
       "zh": {
         "headline": "尖沙咀保時捷車內檢獲懷疑大麻 男司機涉藥駕被捕",
         "dek": "警方周日晚上約10時在碧仙桃道截查車輛，發現少量懷疑大麻，司機未能通過口腔液測試，涉嫌毒後駕駛被捕。"
-      }
-    },
-    {
-      "id": "2026-10-19-lifestyle-ppa-asia-1500-hong-kong-slam",
-      "published_at": "2026-10-19T03:20:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "lifestyle",
-        "pickleball",
-        "kai-tak",
-        "opening"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-19/2026-10-19-lifestyle-ppa-asia-1500-hong-kong-slam.json",
-      "en": {
-        "headline": "PPA Asia 1500 Hang Seng Bank Hong Kong Slam begins at Kai Tak Arena",
-        "dek": "The season-ending professional pickleball tournament runs until 25 October with a prize purse of US$1.1 million and players from more than 20 countries."
-      },
-      "zh": {
-        "headline": "PPA亞洲1500恒生銀行香港大滿貫今起啟德體藝館開打",
-        "dek": "賽事為PPA亞洲巡迴賽年度壓軸，至10月25日舉行，總獎金110萬美元，吸引逾20個國家及地區球手參與。"
       }
     }
   ]
