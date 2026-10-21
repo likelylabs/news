@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-21T13:20:06+08:00",
+  "generated_at": "2026-10-21T15:25:59+08:00",
   "live_window_hours": 72,
-  "count": 100,
+  "count": 94,
   "articles": [
+    {
+      "id": "2026-10-21-apec-finance-ministers-conclude",
+      "published_at": "2026-10-21T15:24:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "apec",
+        "finance",
+        "economy",
+        "hong-kong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-apec-finance-ministers-conclude.json",
+      "en": {
+        "headline": "APEC finance ministers agree to strengthen policy coordination",
+        "dek": "The two-day meeting in Hong Kong wrapped up with a joint statement and a policy paper on digital infrastructure financing, according to Chinese Finance Minister Lan Foan."
+      },
+      "zh": {
+        "headline": "APEC財長會議結束 同意加強宏觀政策協調",
+        "dek": "會議周三在香港閉幕，中國財政部部長藍佛安表示成員同意加強宏觀經濟溝通協調，並發表聯合聲明及數字基礎設施融資政策文件。"
+      }
+    },
+    {
+      "id": "2026-10-21-fire-services-scam-clarification",
+      "published_at": "2026-10-21T15:24:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "scam",
+        "fire-services",
+        "warning",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-fire-services-scam-clarification.json",
+      "en": {
+        "headline": "Fire Services clarifies it never requests advance payments for supplies",
+        "dek": "The department issued a statement after reports of a fraudster posing as an officer who asked a clinic to pay a deposit for electric wheelchairs."
+      },
+      "zh": {
+        "headline": "消防處澄清絕不會要求商戶墊支代購物品",
+        "dek": "部門周三發聲明，指有騙徒假冒消防人員向物理治療診所要求墊付電動輪椅訂金，處方強調絕無此事。"
+      }
+    },
     {
       "id": "2026-10-21-accenture-ai-survey",
       "published_at": "2026-10-21T13:20:00+08:00",
@@ -2057,180 +2101,6 @@
       "zh": {
         "headline": "屯門山景邨一對約70歲男女燒炭昏迷 送院搶救",
         "dek": "警方指今午約2時30分接報，景榮樓單位內一男一女昏迷，身旁有燒過的炭，已送屯門醫院。"
-      }
-    },
-    {
-      "id": "2026-10-18-aberdeen-centre-supermarket-fire",
-      "published_at": "2026-10-18T15:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "aberdeen",
-        "fire",
-        "fire-services"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-aberdeen-centre-supermarket-fire.json",
-      "en": {
-        "headline": "Firefighters extinguish smoke at Aberdeen Centre supermarket kitchen, no injuries",
-        "dek": "The Fire Services Department said the blaze at the ParknShop on Nam Ning Street had been put out by the time crews arrived around 11am on Sunday."
-      },
-      "zh": {
-        "headline": "香港仔中心超市廚房冒濃煙 消防到場火已熄無人受傷",
-        "dek": "消防處指南寧街13至23號百佳超級市場今早約11時接報，到場時火勢已熄，只剩殘煙，無人受傷亦毋須疏散。"
-      }
-    },
-    {
-      "id": "2026-10-18-chan-imf-hk-growth-outlook",
-      "published_at": "2026-10-18T15:25:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "economy",
-        "imf",
-        "paul-chan",
-        "gdp"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-chan-imf-hk-growth-outlook.json",
-      "en": {
-        "headline": "Chan says Hong Kong remains optimistic on growth after IMF upgrades forecast to 3.8 per…",
-        "dek": "The Financial Secretary, writing after the IMF and World Bank meetings in Bangkok, noted the city’s unique position amid AI disruption and global energy price pressures."
-      },
-      "zh": {
-        "headline": "陳茂波指香港對增長仍樂觀 IMF上調預測至3.8%仍保持政府區間",
-        "dek": "財政司司長出席曼谷IMF年會後在博客指，全球受AI擾亂及中東衝突能源價格壓力影響，香港具獨特橋梁優勢。"
-      }
-    },
-    {
-      "id": "2026-10-18-lam-gba-dispute-resolution-summit",
-      "published_at": "2026-10-18T15:25:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "gba",
-        "justice",
-        "arbitration"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-lam-gba-dispute-resolution-summit.json",
-      "en": {
-        "headline": "Lam says Hong Kong will form task force to speed Greater Bay Area rule alignment",
-        "dek": "The Secretary for Justice told a dispute resolution summit that the group is expected to start work with the mainland early next year."
-      },
-      "zh": {
-        "headline": "林定國指將成立專組加快粵港澳大灣區規則衡接",
-        "dek": "律政司司長在大灣區爭議解決峰會表示，專組預計今年底或明年初成立，明年初與內地展開工作。"
-      }
-    },
-    {
-      "id": "2026-10-18-lifestyle-st-stephens-285-homes",
-      "published_at": "2026-10-18T15:25:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "central",
-        "heritage"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-lifestyle-st-stephens-285-homes.json",
-      "en": {
-        "headline": "St Stephen’s Society opens multimedia exhibition on Jackie Pullinger’s 60 years in Hong…",
-        "dek": "The show at Central Market runs until 21 October and uses found objects to recreate scenes from Kowloon Walled City and other neighbourhoods."
-      },
-      "zh": {
-        "headline": "聖士提芬會中環街市開《285個家》展 回望潘靈卓在港60年",
-        "dek": "多媒體藝術展至10月21日於中環街市一樓舉行，以旧鐵皮、電線等香港拾得物重現九龍城寨及幸福營生活場景。"
-      }
-    },
-    {
-      "id": "2026-10-18-workweek-weather-outlook-oct20-24",
-      "published_at": "2026-10-18T15:25:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "forecast",
-        "workweek",
-        "chung-yeung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-workweek-weather-outlook-oct20-24.json",
-      "en": {
-        "headline": "Observatory forecasts mainly fine and dry weather for the work week after Chung Yeung",
-        "dek": "With Monday a public holiday, the coming work stretch from Tuesday is expected to be mainly fine and dry, turning very hot midweek under an anticyclone aloft."
-      },
-      "zh": {
-        "headline": "天文台料重陽假期後下周工作天大致天晴乾燥 星期三或醒熱",
-        "dek": "星期一為公眾假期，天文台預測星期二起工作周大致天晴乾燥，星期三受高空反氣旋影響日間醒熱。"
-      }
-    },
-    {
-      "id": "2026-10-18-lifestyle-gloomie-museum",
-      "published_at": "2026-10-18T13:25:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "tsim-sha-tsui",
-        "art",
-        "harbour-city"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-lifestyle-gloomie-museum.json",
-      "en": {
-        "headline": "LeonLollipop’s first solo show Gloomie Museum runs at Harbour City until 25 October",
-        "dek": "The exhibition features the artist’s 100th Gloomie portrait, a feline Mona Lisa, plus sculptures of cat soldiers inspired by the Terracotta Army."
-      },
-      "zh": {
-        "headline": "LeonLollipop首個個人展「Gloomie Museum托腮貓藝術館」於海港城展至10月25日",
-        "dek": "展覽包括藝術家第100幅Gloomie肖像「Gloomie Lisa」蒙娜麗莎貓，以及兵馬俑造型貓士兵雕塑。"
-      }
-    },
-    {
-      "id": "2026-10-18-oases-next-batch-strategic-enterprises",
-      "published_at": "2026-10-18T13:25:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "oases",
-        "investment",
-        "pharma",
-        "i-t"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-oases-next-batch-strategic-enterprises.json",
-      "en": {
-        "headline": "OASES to announce next batch of 10 to 20 strategic enterprises on Thursday",
-        "dek": "Director-general Peter Yan said the intake would be split evenly between mainland and overseas firms, including top pharmaceutical companies, with many valued above HK$100 billion."
-      },
-      "zh": {
-        "headline": "引進辦周四公布新一批十多至二十間重點企業",
-        "dek": "主任任景信指新一批內地與海外企業各佔約一半，包括頂尖藥廠，不少市值逾千億元。"
-      }
-    },
-    {
-      "id": "2026-10-18-sham-shui-po-man-found-hanged",
-      "published_at": "2026-10-18T13:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "sham-shui-po",
-        "police",
-        "death"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-sham-shui-po-man-found-hanged.json",
-      "en": {
-        "headline": "Man found hanged in Sham Shui Po estate room dies at hospital",
-        "dek": "Police said a 33-year-old man was discovered by family at Fu Cheong Estate around 6:10am and was pronounced dead after being taken to Caritas Medical Centre."
-      },
-      "zh": {
-        "headline": "深水埗富昌邨33歲男子被發現上吊 送院後不治",
-        "dek": "警方指今早約6時10分，家人在富盈樓發現事主，解下後報案，送明愛醫院後證實死亡，現場沒有遺書。"
       }
     }
   ]
