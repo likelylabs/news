@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T09:14:15+08:00",
+  "updated_at": "2026-10-21T09:11:00+08:00",
   "retention_days": 5,
   "covered": [
     {
@@ -379,6 +379,36 @@
       "id": "2026-10-21-lifestyle-happy-wednesday-oktoberfest",
       "first_seen": "2026-10-21T07:10:00+08:00",
       "headline_en": "Happy Wednesday Oktoberfest and Beerfest continues at Happy Valley tonight"
+    },
+    {
+      "key": "very-hot-weather-warning-oct21",
+      "id": "2026-10-21-very-hot-weather-warning",
+      "first_seen": "2026-10-21T09:11:00+08:00",
+      "headline_en": "Observatory issues Very Hot Weather Warning as temperatures climb"
+    },
+    {
+      "key": "ting-kau-bridge-suspected-jump-death",
+      "id": "2026-10-21-ting-kau-bridge-death",
+      "first_seen": "2026-10-21T09:11:00+08:00",
+      "headline_en": "Man dies after being rescued from sea near Ting Kau Bridge"
+    },
+    {
+      "key": "sai-wan-ho-alley-assault-four-arrests",
+      "id": "2026-10-21-sai-wan-ho-alley-arrests",
+      "first_seen": "2026-10-21T09:11:00+08:00",
+      "headline_en": "Police arrest four boys over Sai Wan Ho alley assault video"
+    },
+    {
+      "key": "kwai-fong-bicycle-arson-arrest",
+      "id": "2026-10-21-kwai-fong-arson-bicycle",
+      "first_seen": "2026-10-21T09:11:00+08:00",
+      "headline_en": "14-year-old arrested after child’s bicycle set alight in Kwai Fong Estate"
+    },
+    {
+      "key": "lifestyle-cityuhk-power-of-play",
+      "id": "2026-10-21-lifestyle-cityuhk-power-of-play",
+      "first_seen": "2026-10-21T09:11:00+08:00",
+      "headline_en": "CityUHK’s Power of Play exhibition on gaming history closes this weekend"
     }
   ]
 }
