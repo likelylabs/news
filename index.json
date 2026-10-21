@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-10-21T11:11:31+08:00",
+  "generated_at": "2026-10-21T13:12:27+08:00",
   "live_window_hours": 72,
-  "count": 94,
+  "count": 98,
   "articles": [
+    {
+      "id": "2026-10-21-accenture-ai-survey",
+      "published_at": "2026-10-21T13:20:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "ai",
+        "business",
+        "survey",
+        "accenture"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-accenture-ai-survey.json",
+      "en": {
+        "headline": "Only 3% of Hong Kong firms fully integrate AI into workflows, survey finds",
+        "dek": "Accenture polled 150 companies and released results on Wednesday, finding strong interest but hurdles including resistance to change and outdated infrastructure."
+      },
+      "zh": {
+        "headline": "調查指僅3%港企將人工智能全面融入工作流程",
+        "dek": "埃森哲周三公布對150家企業的調查結果，指企業有強烈採用意欲，但面臨組織變革阻力及數碼基建過時等障礙。"
+      }
+    },
+    {
+      "id": "2026-10-21-asian-para-games-boccia-final",
+      "published_at": "2026-10-21T13:20:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-para-games",
+        "boccia",
+        "para-athletes"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-asian-para-games-boccia-final.json",
+      "en": {
+        "headline": "SAR boccia athletes set up all-Hong Kong women's BC4 final",
+        "dek": "Cheung Yuen and Vivian Lau both advanced on Wednesday morning, guaranteeing Hong Kong gold and silver in the event at the Asian Para Games."
+      },
+      "zh": {
+        "headline": "港隊女子BC4硬地滾球決賽全港對決",
+        "dek": "張苑及劉詠嫻周三上午先後晉級，確保港隊在亞殘運會該項目奪得金銀牌。"
+      }
+    },
+    {
+      "id": "2026-10-21-hang-seng-opens-higher",
+      "published_at": "2026-10-21T13:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hang-seng",
+        "stocks",
+        "markets",
+        "hkex"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-hang-seng-opens-higher.json",
+      "en": {
+        "headline": "Hang Seng Index opens 1.14% higher at 24,139",
+        "dek": "Hong Kong stocks rose at the open on Wednesday following gains on Wall Street, with the benchmark topping 24,000 points."
+      },
+      "zh": {
+        "headline": "恒生指數高開271點報24139",
+        "dek": "港股周三高開，跟隨美股升勢，基準指數重上24000點。"
+      }
+    },
+    {
+      "id": "2026-10-21-lifestyle-food-carnival-kwai-chung",
+      "published_at": "2026-10-21T13:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "kwai-chung",
+        "carnival",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-lifestyle-food-carnival-kwai-chung.json",
+      "en": {
+        "headline": "Hong Kong Food Carnival opens Saturday at Kwai Chung Sports Ground",
+        "dek": "The 13th edition runs 24 October to 1 November with more than 330 booths, a new Southeast Asian food zone and a Beyblade tournament."
+      },
+      "zh": {
+        "headline": "第13屆香港美食嘉年華周六葵涌運動場開幕",
+        "dek": "活動由10月24日至11月1日舉行，設逾330個攤位、全新東南亞美食區及爆旋陀螺賽事。"
+      }
+    },
     {
       "id": "2026-10-21-aberdeen-tunnel-collision",
       "published_at": "2026-10-21T11:10:00+08:00",
