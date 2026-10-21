@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-21T19:05:22+08:00",
+  "generated_at": "2026-10-21T21:07:11+08:00",
   "live_window_hours": 72,
-  "count": 97,
+  "count": 95,
   "articles": [
+    {
+      "id": "2026-10-21-contractors-site-safety-ratings",
+      "published_at": "2026-10-21T21:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "construction",
+        "safety",
+        "legco",
+        "development-bureau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-contractors-site-safety-ratings.json",
+      "en": {
+        "headline": "16 contractors rated poor or very poor on site safety from 2021 to 2025",
+        "dek": "Secretary for Development Bernadette Linn told the Legislative Council that one contractor was rated poor and 15 very poor in quarterly reports, with 2023 seeing the highest number."
+      },
+      "zh": {
+        "headline": "2021至2025年有16間承建商工地安全被評欠佳或極差",
+        "dek": "發展局局長甫漢豪書面回覆立法會，指過去五年有一間承建商評為欠佳、十五間極差，2023年極差數目最多。"
+      }
+    },
+    {
+      "id": "2026-10-21-shkp-sierra-sea-flats-sold",
+      "published_at": "2026-10-21T21:05:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "property",
+        "shkp",
+        "sierra-sea",
+        "housing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-shkp-sierra-sea-flats-sold.json",
+      "en": {
+        "headline": "SHKP sells all 128 Sierra Sea flats offered in latest price list",
+        "dek": "Agents said the New Territories project in Shap Sze Heung found buyers for the full batch by late afternoon on Wednesday, with units priced from about $5.47 million after discounts."
+      },
+      "zh": {
+        "headline": "新地西沙SIERRA SEA最新價單128伙全數沽清",
+        "dek": "代理指，十四鄉項目周三下午展開銷售，傍晚前全數售出，折實售價由約547萬至987萬元。"
+      }
+    },
     {
       "id": "2026-10-21-hang-seng-closes-lower",
       "published_at": "2026-10-21T19:03:00+08:00",
@@ -2085,93 +2129,6 @@
       "zh": {
         "headline": "警方元朗村屋破毒倉 拘巴基斯坦裔夫婦檢逾2200萬元毒品",
         "dek": "人員截查一名騎電單車離開的男子後，在村屋內檢獲約10公斤氯胺酮、約30公斤可卡因及少量冰毒。"
-      }
-    },
-    {
-      "id": "2026-10-18-ho-man-tin-helper-baby-arrest",
-      "published_at": "2026-10-18T19:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "ho-man-tin",
-        "police",
-        "domestic-helper",
-        "child"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-ho-man-tin-helper-baby-arrest.json",
-      "en": {
-        "headline": "Police arrest Filipino domestic helper over alleged slapping of five-month-old baby in…",
-        "dek": "The father reported the case at Queen Elizabeth Hospital after reviewing home CCTV that showed the helper striking the infant three times in the early hours."
-      },
-      "zh": {
-        "headline": "何文田菲傭涉掌摑5個月大女嬰被捕 父親翻查閉路電視揭發",
-        "dek": "父親今早在伊利沙伯醫院報案，指閉路電視顯示外傭凌晨兩至四時三次掌摑女嬰。"
-      }
-    },
-    {
-      "id": "2026-10-18-nine-year-old-pneumococcal-death",
-      "published_at": "2026-10-18T19:15:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "chp",
-        "pneumococcal",
-        "child",
-        "tuen-mun-hospital"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-nine-year-old-pneumococcal-death.json",
-      "en": {
-        "headline": "Centre for Health Protection investigates death of nine-year-old boy from invasive…",
-        "dek": "The previously healthy boy developed fever and cough from 10 October, was transferred to intensive care on the 14th and died the following day at Tuen Mun Hospital."
-      },
-      "zh": {
-        "headline": "衞生防護中心調查九歲男童染侵入性肺炎球菌病死亡個案",
-        "dek": "男童10月10日起發燒咳嗽，14日轉送屯門醫院兒童深切治療部，翌日不治。"
-      }
-    },
-    {
-      "id": "2026-10-18-san-tin-dogs-poisoned",
-      "published_at": "2026-10-18T19:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "san-tin",
-        "police",
-        "animal-cruelty",
-        "yuen-long"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-san-tin-dogs-poisoned.json",
-      "en": {
-        "headline": "Police investigate five dogs found dead near San Tin fishponds as possible animal cruelty",
-        "dek": "Officers were called around 11.35am on Sunday after animal volunteers reported four black dogs dumped beside a rubbish heap, with a fifth carcass found nearby."
-      },
-      "zh": {
-        "headline": "新田魚塘旁發現五隻唐狗屍體 警方列作殘酷對待動物調查",
-        "dek": "今早約11時35分動物義工報案，四隻黑狗棄於垃圾堆，附近再發現第五隻。"
-      }
-    },
-    {
-      "id": "2026-10-18-tuen-mun-shan-king-charcoal-deaths",
-      "published_at": "2026-10-18T19:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tuen-mun",
-        "police",
-        "shan-king-estate"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-18/2026-10-18-tuen-mun-shan-king-charcoal-deaths.json",
-      "en": {
-        "headline": "Two people in their 70s die after charcoal burning at Tuen Mun estate",
-        "dek": "Police said a man and woman found unconscious around 2.30pm on Sunday at Shan King Estate were later confirmed dead at Tuen Mun Hospital."
-      },
-      "zh": {
-        "headline": "屯門山景邨一對約70歲男女燒炭後證實死亡",
-        "dek": "警方指今午約2時30分在景榮樓發現兩人昏迷，身旁有燒過的炭，送屯門醫院後不治。"
       }
     }
   ]
