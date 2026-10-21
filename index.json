@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-10-21T09:16:51+08:00",
+  "generated_at": "2026-10-21T11:09:45+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 94,
   "articles": [
+    {
+      "id": "2026-10-21-aberdeen-tunnel-collision",
+      "published_at": "2026-10-21T11:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "aberdeen",
+        "tunnel",
+        "accident",
+        "traffic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-aberdeen-tunnel-collision.json",
+      "en": {
+        "headline": "Three vehicles collide inside Aberdeen Tunnel, no injuries",
+        "dek": "A coach and two private cars were involved in the Wan Chai-bound tube around 8 a.m.; one car was badly damaged and a lane was briefly closed."
+      },
+      "zh": {
+        "headline": "香港仔隧道三車相撞 無人受傷",
+        "dek": "早上近8時，往灣仔方向管道內兩架私家車相撞後再撞旅遊巴，一車嚴重損毀，慢線一度封閉。"
+      }
+    },
+    {
+      "id": "2026-10-21-san-po-kong-truck-overturn",
+      "published_at": "2026-10-21T11:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "san-po-kong",
+        "accident",
+        "truck",
+        "prince-edward-road"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-san-po-kong-truck-overturn.json",
+      "en": {
+        "headline": "Box truck overturns after hitting barrier in San Po Kong, driver injured",
+        "dek": "The vehicle struck an impact-absorbing barrier near Rhythm Garden around 4 a.m. on Prince Edward Road East; the driver climbed out with head and limb injuries."
+      },
+      "zh": {
+        "headline": "新蒲崗貨車撞欄翻側 司機受傷",
+        "dek": "凌晨約4時，太子道東往觀塘方向近采頤花園，貨車失控撞風琴式防撞欄後翻側，司機頭部及手腳受傷清醒送院。"
+      }
+    },
+    {
+      "id": "2026-10-21-tin-shui-wai-woman-fall",
+      "published_at": "2026-10-21T11:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tin-shui-wai",
+        "death",
+        "police",
+        "housing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-tin-shui-wai-woman-fall.json",
+      "en": {
+        "headline": "Woman dies after falling from Tin Shui Wai public housing block",
+        "dek": "A woman was found on the pavement outside Shengzhen House at Tin Shing Court around 8 a.m.; ambulance crews confirmed she had died at the scene."
+      },
+      "zh": {
+        "headline": "天水圍天盛苑女子墮樓 當場死亡",
+        "dek": "早上約8時07分，天盛苑盛珍閣一名女子墮樓，倒臥大廈對開行人路上，救護員到場證實已死亡。"
+      }
+    },
+    {
+      "id": "2026-10-21-yuen-long-highway-dump-truck",
+      "published_at": "2026-10-21T11:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "yuen-long",
+        "accident",
+        "highway",
+        "traffic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-21/2026-10-21-yuen-long-highway-dump-truck.json",
+      "en": {
+        "headline": "Dump truck collides with lorry on Yuen Long Highway, driver injured",
+        "dek": "The collision near Fuk Hang Tsuen around 9:20 a.m. left the lorry driver briefly trapped; some lanes towards Yuen Long remain closed."
+      },
+      "zh": {
+        "headline": "元朗公路泥頭車與貨車相撞 司機受傷",
+        "dek": "早上約9時20分，往元朗方向近福亨村發生碰撞，貨車司機一度被困，部分行車線仍然封閉。"
+      }
+    },
     {
       "id": "2026-10-21-kwai-fong-arson-bicycle",
       "published_at": "2026-10-21T09:11:00+08:00",
