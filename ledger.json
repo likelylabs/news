@@ -1,1 +1,12 @@
-PLACEHOLDER_LEDGER
+{
+  "updated_at": "2026-10-21T13:20:00+08:00",
+  "retention_days": 5,
+  "covered": [
+    {
+      "key": "lifestyle-ppa-asia-1500-hong-kong-slam",
+      "id": "2026-10-19-lifestyle-ppa-asia-1500-hong-kong-slam",
+      "first_seen": "2026-10-19T03:20:00+08:00",
+      "headline_en": "PPA Asia 1500 Hang Seng Bank Hong Kong Slam begins at Kai Tak Arena"
+    }
+  ]
+}
