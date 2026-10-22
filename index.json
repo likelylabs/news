@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-22T07:29:12+08:00",
+  "generated_at": "2026-10-22T09:13:13+08:00",
   "live_window_hours": 72,
-  "count": 98,
+  "count": 99,
   "articles": [
+    {
+      "id": "2026-10-22-beauty-jabs-cadaver-skin-warning",
+      "published_at": "2026-10-22T09:12:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "department-of-health",
+        "beauty",
+        "pharmaceuticals",
+        "regulation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-beauty-jabs-cadaver-skin-warning.json",
+      "en": {
+        "headline": "Health officials warn of risks from cadaver-derived beauty injections after raids",
+        "dek": "The Department of Health seized unregistered Elravie Re2O products that claim to contain human tissue and arrested a woman, citing lack of clinical safety data."
+      },
+      "zh": {
+        "headline": "衞生署警告屍皮針有公共衞生風險 突擊搜查後拘捕女子",
+        "dek": "署方在四間美容處所檢獲未經註冊的Elravie Re2O針劑，聲稱含人類組織，並指產品缺乏臨床安全數據。"
+      }
+    },
     {
       "id": "2026-10-22-christies-1935-chinese-art-exhibition",
       "published_at": "2026-10-22T07:05:00+08:00",
