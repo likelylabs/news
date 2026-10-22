@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-23-red-fire-danger-warning",
+  "published_at": "2026-10-23T07:10:00+08:00",
+  "category": "weather",
+  "tags": ["fire-danger", "hko", "dry-weather", "warning"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "red-fire-danger-warning-oct23",
+  "en": {
+    "headline": "Observatory issues Red Fire Danger Warning amid dry conditions",
+    "dek": "The Hong Kong Observatory raised the warning at 6 a.m. on Friday, stating the fire risk is extreme and urging the public to take extra precautions.",
+    "body": [
+      "The Hong Kong Observatory issued a Red Fire Danger Warning at 6 a.m. on Friday as dry weather continued across the territory.",
+      "The Observatory said the fire risk is extreme and the countryside is extremely vulnerable to fire. It reminded the public to be extra alert and to ensure necessary fire precautions are taken.",
+      "The warning follows several days of fine, hot and very dry conditions under a northeast monsoon. No tropical cyclone signal is in force for Hong Kong, with Severe Typhoon Champi remaining well to the east.",
+      "Members of the public planning outdoor activities were advised to avoid lighting fires and to report any hill fires immediately to the authorities."
+    ]
+  },
+  "zh": {
+    "headline": "天文台發出紅色火災危險警告 天氣乾燥火險極高",
+    "dek": "香港天文台周五上午6時發出紅色火災危險警告，指火災危險性極高，提醒市民提高警覺並採取防火措施。",
+    "body": [
+      "香港天文台於周五上午6時發出紅色火災危險警告，本港持續受乾燥天氣影響。",
+      "天文台表示，現時火災危險性極高，郊野極易發生火警，呼籲市民特別提高警覺，並確保採取適當防火措施。",
+      "警告在連續數日天晴炎熱及非常乾燥的東北季候風影響下發出。本港目前沒有熱帶氣旋警告信號生效，強颱風薔琶仍遠離本港以東海域。",
+      "天文台提醒計劃到郊野活動的市民避免生火，如發現山火應即時報警。"
+    ]
+  }
+}
