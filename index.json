@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-10-22T19:07:04+08:00",
+  "generated_at": "2026-10-22T21:08:37+08:00",
   "live_window_hours": 72,
-  "count": 101,
+  "count": 104,
   "articles": [
+    {
+      "id": "2026-10-22-asian-para-games-chan-yui-lam-gold",
+      "published_at": "2026-10-22T21:06:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-para-games",
+        "swimming",
+        "medals",
+        "nagoya",
+        "sport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-asian-para-games-chan-yui-lam-gold.json",
+      "en": {
+        "headline": "Chan Yui-lam takes Hong Kong’s second gold at Asian Para Games",
+        "dek": "The swimmer won the women’s 100 metres butterfly S14 in 1 minute 5.19 seconds, with teammate Lau Chiu-kee claiming bronze."
+      },
+      "zh": {
+        "headline": "亞殘運陳睿琳女子蝶泳奪金 港隊再添金牌",
+        "dek": "她以1分05.19秒勝出女子S14級100米蝶泳，隊友劉肖儀得銅牌，是港隊本屆第二面金牌。"
+      }
+    },
+    {
+      "id": "2026-10-22-chow-tai-fook-interim-profit-alert",
+      "published_at": "2026-10-22T21:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "chow-tai-fook",
+        "jewellery",
+        "profit",
+        "retail",
+        "gold"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-chow-tai-fook-interim-profit-alert.json",
+      "en": {
+        "headline": "Chow Tai Fook expects interim profit to rise 90 to 100 percent",
+        "dek": "The jewellery group attributed the increase mainly to fair value gains on gold loan contracts and improved sales in core markets."
+      },
+      "zh": {
+        "headline": "周大福發盈喜 料中期盈利升約九成至一倍",
+        "dek": "集團指升幅主要來自黃金貸款合約重估帶來的公允價值收益，以及核心市場銷售改善。"
+      }
+    },
+    {
+      "id": "2026-10-22-oases-seventh-batch-18-firms",
+      "published_at": "2026-10-22T21:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "oases",
+        "investment",
+        "innovation",
+        "strategic-enterprises",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-oases-seventh-batch-18-firms.json",
+      "en": {
+        "headline": "OASES welcomes seventh batch of 18 strategic enterprises",
+        "dek": "The firms are expected to add to a cumulative HK$84 billion in investment and about 27,000 jobs from 142 strategic partners to date."
+      },
+      "zh": {
+        "headline": "引進辦公布第七批18家重點企業",
+        "dek": "連同過往批次，142家重點企業預計帶來約840億港元投資及約2.7萬個職位。"
+      }
+    },
     {
       "id": "2026-10-22-asian-para-games-table-tennis-medals",
       "published_at": "2026-10-22T19:05:00+08:00",
