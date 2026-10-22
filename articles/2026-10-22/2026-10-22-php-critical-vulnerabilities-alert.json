@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-22-php-critical-vulnerabilities-alert",
+  "published_at": "2026-10-22T23:21:00+08:00",
+  "category": "technology",
+  "tags": ["cybersecurity", "php", "digital-policy-office", "hkcert"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "php-critical-vulnerabilities-alert-oct22",
+  "en": {
+    "headline": "Digital Policy Office urges immediate patches for critical PHP vulnerabilities",
+    "dek": "The office issued a security alert to government departments and public organisations after two critical flaws in the widely used web language were disclosed.",
+    "body": [
+      "The Digital Policy Office said on Thursday it was attaching great importance to critical security vulnerabilities found in PHP, a programming language widely used in the backend of websites worldwide.",
+      "The office has issued a security alert to all government bureaus, departments and public organisations, asking them to review their information systems immediately and complete patching as soon as possible. Systems that cannot be patched promptly should be taken offline or isolated to reduce the risk of intrusion.",
+      "It has already completed the required patching for the web content hosting service that hosts government bureau and department homepages. As of Thursday, the office had received no reports of related cybersecurity incidents.",
+      "The Hong Kong Computer Emergency Response Team Coordination Centre also issued a security bulletin and media message. The centre said remote attackers could exploit the vulnerabilities to execute unauthorised code, and urged organisations to inventory all systems that may use PHP, including those embedded in appliances, and apply patches or seek vendor advice."
+    ]
+  },
+  "zh": {
+    "headline": "數字辦呼籲即時修補PHP嚴重安全漏洞",
+    "dek": "數字政策辦公室向政府部門及公營機構發出保安警報，要求全面檢視系統並盡快完成修補。",
+    "body": [
+      "數字政策辦公室周四表示，高度關注廣泛用於全球網站後端的程式語言PHP所存在的嚴重安全漏洞。",
+      "數字辦已向所有政府決策局、部門及公營機構發出保安警報，要求即時全面檢視資訊系統是否受影響，並必須盡快完成修補；否則相關系統須暫時離線或隔離，以降低被惡意入侵的風險。",
+      "數字辦已為託管所有政府決策局及部門主頁的網站寄存服務完成所需修補。截至目前，並未接獲任何相關網絡保安事故報告。",
+      "香港網絡安全事故協調中心同日發布保安公告，指遠端攻擊者可利用漏洞執行未經授權程式碼，呼籲機構盤點所有可能使用PHP的產品及系統，包括內嵌於設備的組件，並盡快升級或向供應商確認修補安排。"
+    ]
+  }
+}

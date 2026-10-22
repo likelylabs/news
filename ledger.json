@@ -1,6 +1,24 @@
 {
   "covered": [
     {
+      "key": "php-critical-vulnerabilities-alert-oct22",
+      "id": "2026-10-22-php-critical-vulnerabilities-alert",
+      "first_seen": "2026-10-22T23:21:00+08:00",
+      "headline_en": "Digital Policy Office urges immediate patches for critical PHP vulnerabilities"
+    },
+    {
+      "key": "taizoom-missing-door-frames-confined-oct22",
+      "id": "2026-10-22-taizoom-lift-frames-confined",
+      "first_seen": "2026-10-22T23:21:00+08:00",
+      "headline_en": "Authorities say missing lift fire door frames confined to Taizoom"
+    },
+    {
+      "key": "mtr-thank-you-day-half-fare-oct24",
+      "id": "2026-10-22-mtr-thank-you-day-half-fare",
+      "first_seen": "2026-10-22T23:21:00+08:00",
+      "headline_en": "MTR to offer half-fare travel on Thank You Day this Saturday"
+    },
+    {
       "key": "oases-seventh-batch-18-firms",
       "id": "2026-10-22-oases-seventh-batch-18-firms",
       "first_seen": "2026-10-22T21:06:00+08:00",
@@ -277,5 +295,5 @@
       "headline_en": "Hong Kong Wine and Dine Festival returns to harbourfront from 29 October"
     }
   ],
-  "updated_at": "2026-10-22T21:09:34+08:00"
+  "updated_at": "2026-10-22T23:21:00+08:00"
 }
