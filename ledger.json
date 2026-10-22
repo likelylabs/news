@@ -1,6 +1,30 @@
 {
   "covered": [
     {
+      "key": "hang-seng-closes-down-3pct-oct22",
+      "id": "2026-10-22-hang-seng-closes-down-3pct",
+      "first_seen": "2026-10-22T19:05:00+08:00",
+      "headline_en": "Hang Seng Index closes 3.03 percent lower at 22934.68"
+    },
+    {
+      "key": "unemployment-rate-3-9-jul-sep-2026",
+      "id": "2026-10-22-unemployment-rate-3-9",
+      "first_seen": "2026-10-22T19:05:00+08:00",
+      "headline_en": "Unemployment rate rises to 3.9 percent in July to September"
+    },
+    {
+      "key": "september-cpi-1-9-underlying-2-1",
+      "id": "2026-10-22-september-cpi-1-9",
+      "first_seen": "2026-10-22T19:05:00+08:00",
+      "headline_en": "September inflation rises to 1.9 percent, underlying rate at 2.1 percent"
+    },
+    {
+      "key": "asian-para-games-table-tennis-medals-oct22",
+      "id": "2026-10-22-asian-para-games-table-tennis-medals",
+      "first_seen": "2026-10-22T19:05:00+08:00",
+      "headline_en": "Hong Kong adds silver and three bronze medals in para table tennis"
+    },
+    {
       "key": "tuen-mun-kmb-collision-oct22",
       "id": "2026-10-22-tuen-mun-kmb-collision",
       "first_seen": "2026-10-22T17:07:00+08:00",
@@ -235,5 +259,5 @@
       "headline_en": "Hong Kong Wine and Dine Festival returns to harbourfront from 29 October"
     }
   ],
-  "updated_at": "2026-10-22T17:11:04+08:00"
+  "updated_at": "2026-10-22T19:05:00+08:00"
 }
