@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-10-22T15:20:54+08:00",
+  "generated_at": "2026-10-22T17:09:50+08:00",
   "live_window_hours": 72,
-  "count": 99,
+  "count": 100,
   "articles": [
+    {
+      "id": "2026-10-22-hk-express-taiwan-flights-cancel",
+      "published_at": "2026-10-22T17:07:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "hk-express",
+        "typhoon",
+        "champi",
+        "flights",
+        "taiwan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-hk-express-taiwan-flights-cancel.json",
+      "en": {
+        "headline": "HK Express cancels 10 Taiwan flights on Friday as Typhoon Champi approaches",
+        "dek": "The budget carrier will scrap six Hong Kong–Taipei services and cancel or defer others to Taichung and Kaohsiung, offering free rebooking or refunds to affected passengers."
+      },
+      "zh": {
+        "headline": "香港快運周五取消10班台灣航班 因超強颱風薔琵逼近",
+        "dek": "快運宣布取消六班往返台北航班，另有台中及高雄航班取消或改期至周六，受影響旅客可免費改期或退款。"
+      }
+    },
+    {
+      "id": "2026-10-22-scaffold-net-standard-update",
+      "published_at": "2026-10-22T17:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "scaffolding",
+        "fire-safety",
+        "buildings-department",
+        "tai-po-fire",
+        "construction"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-scaffold-net-standard-update.json",
+      "en": {
+        "headline": "Buildings Department applies tighter national standard for scaffold safety nets",
+        "dek": "From 1 September, contractors must test nets manufactured under GB 5725-2025, which sets a two-second limit on afterflame and afterglow for dip-coated nets."
+      },
+      "zh": {
+        "headline": "屋宇署採用更嚴格棚網國標 浸漬塗覆網阻燃要求收緊至兩秒",
+        "dek": "自9月1日起，承建商須按GB 5725-2025新標準測試新製棚網，浸漬塗覆網的續燃及陰燃時間上限由四秒收緊至兩秒。"
+      }
+    },
+    {
+      "id": "2026-10-22-tuen-mun-kmb-collision",
+      "published_at": "2026-10-22T17:07:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "kmb",
+        "tuen-mun",
+        "accident",
+        "buses"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-tuen-mun-kmb-collision.json",
+      "en": {
+        "headline": "Nine injured as two KMB double-deckers collide in Tuen Mun",
+        "dek": "A route 258D bus struck the rear of a route 66M bus near Shan King Estate on Ming Kum Road shortly after 8am, with both drivers among the casualties."
+      },
+      "zh": {
+        "headline": "屯門兩九巴相撞九人受傷",
+        "dek": "早上約8時15分，258D線紅色九巴在鳴琴路山景邨對開撞向停在燈位的66M線金色九巴車尾，兩名車長在內共九人輕傷。"
+      }
+    },
     {
       "id": "2026-10-22-flu-vaccination-rates-drop",
       "published_at": "2026-10-22T15:30:00+08:00",
@@ -2178,51 +2246,6 @@
       "zh": {
         "headline": "衞生防護中心錄得三宗社區感染退伍軍人病個案",
         "dek": "個案涉及三名44至67歲男子，居於大埔及葵青，屬散發個案，與早前個案無流行病學關連，今年累計160宗。"
-      }
-    },
-    {
-      "id": "2026-10-19-huanggang-port-inbound-peak",
-      "published_at": "2026-10-19T17:07:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "immigration",
-        "huanggang-port",
-        "border",
-        "chung-yeung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-19/2026-10-19-huanggang-port-inbound-peak.json",
-      "en": {
-        "headline": "Immigration Department prepares for first inbound peak at new Huanggang Port",
-        "dek": "Officials expect heavy return traffic this afternoon and evening on the final day of the Chung Yeung holiday and are urging early registration for co-location clearance."
-      },
-      "zh": {
-        "headline": "入境處料新皇崗口岸下午至晚上迎首個入境高峰 籲預先登記合作查驗",
-        "dek": "重陽節長周末最後一日，入境處預計下午至傍晚回港人流增多，會靈活調配人手，並呼籲合資格市民預先登記合作查驗e道。"
-      }
-    },
-    {
-      "id": "2026-10-19-lifestyle-mills-tales-of-the-crawlers",
-      "published_at": "2026-10-19T17:07:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "tsuen-wan",
-        "halloween",
-        "the-mills"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-19/2026-10-19-lifestyle-mills-tales-of-the-crawlers.json",
-      "en": {
-        "headline": "The Mills hosts free Curious Creatures Showcase with rare species until 1 November",
-        "dek": "The Tsuen Wan venue has transformed Mill 6 into an ecological Halloween display featuring the African pygmy mouse and emperor scorpion among other unusual animals."
-      },
-      "zh": {
-        "headline": "南豐紗廠免費「萬聖節怪奇動物展覽」展至11月1日 多種珍稀生物首次亮相",
-        "dek": "荃灣南豐紗廠六廠地下化身奇蟲樂園，展出非洲侎儒鼠、帝王蠍等罕見物種，入場免費。"
       }
     }
   ]
