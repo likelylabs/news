@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-22T09:13:13+08:00",
+  "generated_at": "2026-10-22T09:13:28+08:00",
   "live_window_hours": 72,
-  "count": 99,
+  "count": 100,
   "articles": [
     {
       "id": "2026-10-22-beauty-jabs-cadaver-skin-warning",
@@ -24,6 +24,29 @@
       "zh": {
         "headline": "衞生署警告屍皮針有公共衞生風險 突擊搜查後拘捕女子",
         "dek": "署方在四間美容處所檢獲未經註冊的Elravie Re2O針劑，聲稱含人類組織，並指產品缺乏臨床安全數據。"
+      }
+    },
+    {
+      "id": "2026-10-22-ocean-park-halloween-fest",
+      "published_at": "2026-10-22T09:12:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "ocean-park",
+        "halloween",
+        "events",
+        "wong-chuk-hang"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-ocean-park-halloween-fest.json",
+      "en": {
+        "headline": "Ocean Park’s Halloween Fest continues with night-time haunted experiences through early…",
+        "dek": "The Grave Rave season includes Under the Castle and other attractions on designated evenings until 1 November, according to the park."
+      },
+      "zh": {
+        "headline": "海洋公園哈囉喂全園祭持續 指定晚間驚嚇體驗至11月1日",
+        "dek": "主題「詭魅墓會」日間活動每日開放至11月1日，夜間鬼屋等體驗於指定日子舉行。"
       }
     },
     {
