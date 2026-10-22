@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-10-22T21:09:34+08:00",
+  "generated_at": "2026-10-22T23:24:30+08:00",
   "live_window_hours": 72,
   "count": 104,
   "articles": [
+    {
+      "id": "2026-10-22-mtr-thank-you-day-half-fare",
+      "published_at": "2026-10-22T23:21:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "fares",
+        "thank-you-day",
+        "octopus"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-mtr-thank-you-day-half-fare.json",
+      "en": {
+        "headline": "MTR to offer half-fare travel on Thank You Day this Saturday",
+        "dek": "Passengers using Octopus, JoyYou Card or QR codes on most of the network, including East Rail Line border crossings, will pay half fare on 24 October."
+      },
+      "zh": {
+        "headline": "港鐵本周六感謝日提供半價乘車",
+        "dek": "乘客使用八達通、樂悠咗或二維碼乘搭大部分網絡，包括東鐵綫過境車程，24日可享半價車費。"
+      }
+    },
+    {
+      "id": "2026-10-22-php-critical-vulnerabilities-alert",
+      "published_at": "2026-10-22T23:21:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "cybersecurity",
+        "php",
+        "digital-policy-office",
+        "hkcert"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-php-critical-vulnerabilities-alert.json",
+      "en": {
+        "headline": "Digital Policy Office urges immediate patches for critical PHP vulnerabilities",
+        "dek": "The office issued a security alert to government departments and public organisations after two critical flaws in the widely used web language were disclosed."
+      },
+      "zh": {
+        "headline": "數字辦呼籲即時修補PHP嚴重安全漏洞",
+        "dek": "數字政策辦公室向政府部門及公營機構發出保安警報，要求全面檢視系統並盡快完成修補。"
+      }
+    },
+    {
+      "id": "2026-10-22-taizoom-lift-frames-confined",
+      "published_at": "2026-10-22T23:21:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifts",
+        "taizoom",
+        "emsd",
+        "fire-safety",
+        "buildings"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-taizoom-lift-frames-confined.json",
+      "en": {
+        "headline": "Authorities say missing lift fire door frames confined to Taizoom",
+        "dek": "Inspections found no similar omissions among other contractors after 338 buildings serviced by Taizoom Elevator were confirmed to lack the components."
+      },
+      "zh": {
+        "headline": "機電署指升降機缺失防火門框僅限臺日電梯",
+        "dek": "當局表示，除臺日電梯外，其他承辦商維修的升降機未發現同類缺失防火門框組件的情況。"
+      }
+    },
     {
       "id": "2026-10-22-asian-para-games-chan-yui-lam-gold",
       "published_at": "2026-10-22T21:06:00+08:00",
@@ -2267,72 +2334,6 @@
       "zh": {
         "headline": "六歲女童染甲型流感併發休克 情況危殆",
         "dek": "衞生防護中心錄得一宗兒童感染流感嚴重個案，一名健康良好的六歲女童因甲型流感併發休克，留醫兒童深切治療部，情況危殆。"
-      }
-    },
-    {
-      "id": "2026-10-19-emsd-taizoom-lifts-total-338",
-      "published_at": "2026-10-19T22:40:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "emsd",
-        "taizoom",
-        "lifts",
-        "fire-safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-19/2026-10-19-emsd-taizoom-lifts-total-338.json",
-      "en": {
-        "headline": "EMSD finds missing lift door components in 186 more buildings, total reaches 338",
-        "dek": "The Electrical and Mechanical Services Department has completed checks on all Taizoom-installed lifts, identifying 338 buildings lacking fire-safety door frame parts."
-      },
-      "zh": {
-        "headline": "機電署再發現186幢大廈升降機缺門框組件 累計338幢",
-        "dek": "機電署完成臺中電梯所有安裝工程檢查，共338幢大廈升降機缺少防火門框組件。"
-      }
-    },
-    {
-      "id": "2026-10-19-sai-wan-ho-dog-sea-arrest",
-      "published_at": "2026-10-19T22:40:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "animal-cruelty",
-        "sai-wan-ho",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-19/2026-10-19-sai-wan-ho-dog-sea-arrest.json",
-      "en": {
-        "headline": "Police arrest 59-year-old woman after dog allegedly thrown into sea in Sai Wan Ho",
-        "dek": "Officers detained the woman on Saturday near Chai Wan on suspicion of animal cruelty following a Thursday incident in which a dog was thrown into the water and retrieved."
-      },
-      "zh": {
-        "headline": "西灣河疑掟狗落海 59歲女子涉虐畜被捕",
-        "dek": "警方周六在柴灣拘捕一名59歲本地女子，涉上周四在太安街海濱將狗扔下海後撈起帶走，她已獲准保釋。"
-      }
-    },
-    {
-      "id": "2026-10-19-sai-ying-pun-hang-fai-fire",
-      "published_at": "2026-10-19T22:40:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "sai-ying-pun",
-        "elderly",
-        "incident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-19/2026-10-19-sai-ying-pun-hang-fai-fire.json",
-      "en": {
-        "headline": "Elderly man pulled unconscious from Sai Ying Pun flat after fire",
-        "dek": "Firefighters extinguished a blaze at Hang Fai Building on Pok Fu Lam Road around 9:54pm, after a man in his 70s was found unconscious and about 60 residents were evacuated."
-      },
-      "zh": {
-        "headline": "西營盤恆輝大廈火警 七旬男子昏迷送院 約60人疏散",
-        "dek": "消防員約晚上九時五十四分將薄扶林道恆輝大廈火警救熄，一名七十多歲男子昏迷送瑪麗醫院，約六十名住客疏散。"
       }
     }
   ]
