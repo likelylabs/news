@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-10-22T13:12:24+08:00",
+  "generated_at": "2026-10-22T15:20:19+08:00",
   "live_window_hours": 72,
-  "count": 101,
+  "count": 99,
   "articles": [
+    {
+      "id": "2026-10-22-flu-vaccination-rates-drop",
+      "published_at": "2026-10-22T15:30:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "influenza",
+        "vaccination",
+        "children",
+        "centre-for-health-protection"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-flu-vaccination-rates-drop.json",
+      "en": {
+        "headline": "Health official warns of longer flu season as child vaccination rates fall",
+        "dek": "Edwin Tsui said more than 900,000 doses have been given this season, about 10 percent fewer than the same period last year, with rates down across age groups."
+      },
+      "zh": {
+        "headline": "衛生防護中心總監警告流感季或較去年長 兒童接種率下跌",
+        "dek": "徐樂堅指接種計劃至今已打逾90萬劑，較去年同期少約一成，各年齡組別接種率均下降。"
+      }
+    },
+    {
+      "id": "2026-10-22-victoria-park-wild-boar",
+      "published_at": "2026-10-22T15:30:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "wild-boar",
+        "victoria-park",
+        "causeway-bay",
+        "afcd",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-victoria-park-wild-boar.json",
+      "en": {
+        "headline": "Wild boar captured in Victoria Park after morning sighting",
+        "dek": "Agriculture, Fisheries and Conservation Department staff used a tranquiliser dart to remove the one-metre animal from the Causeway Bay park after police secured the area."
+      },
+      "zh": {
+        "headline": "維多利亞公園野豬出沒 漁護署施麻醉搶後運走",
+        "dek": "今早約7時一頭約1米長野豬閱入銅鑼灣維園，警方持盾戒備，漁農自然護理署人員於上午用麻醉搶將其捕獲運走。"
+      }
+    },
+    {
+      "id": "2026-10-22-yau-tong-indecent-exposure-arrest",
+      "published_at": "2026-10-22T15:30:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "yau-tong",
+        "schools",
+        "indecent-exposure"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-yau-tong-indecent-exposure-arrest.json",
+      "en": {
+        "headline": "Man arrested over alleged indecent exposure to five schoolgirls in Yau Tong",
+        "dek": "Police detained a 26-year-old man after two incidents involving secondary school students near a playground and estate in the district."
+      },
+      "zh": {
+        "headline": "油塘第三隊十六歲男涉向五名女學生露體被捕",
+        "dek": "警方拘捕一名26歲男子，涉兩度在鯉魚門道遊樂場及油麗邨附近向中學女學生暴露臀部。"
+      }
+    },
     {
       "id": "2026-10-22-hang-seng-half-day-drop",
       "published_at": "2026-10-22T13:15:00+08:00",
@@ -2155,118 +2223,6 @@
       "zh": {
         "headline": "南豐紗廠免費「萬聖節怪奇動物展覽」展至11月1日 多種珍稀生物首次亮相",
         "dek": "荃灣南豐紗廠六廠地下化身奇蟲樂園，展出非洲侎儒鼠、帝王蠍等罕見物種，入場免費。"
-      }
-    },
-    {
-      "id": "2026-10-19-chung-yeung-border-crossings-record",
-      "published_at": "2026-10-19T15:20:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "immigration",
-        "huanggang-port",
-        "border",
-        "chung-yeung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-19/2026-10-19-chung-yeung-border-crossings-record.json",
-      "en": {
-        "headline": "Immigration records over 1.32 million crossings on Chung Yeung Sunday",
-        "dek": "Huanggang Port handled its highest daily total since reopening, with more than 152,000 trips, as overall traffic across all control points exceeded 1.32 million."
-      },
-      "zh": {
-        "headline": "重陽節全日逾132萬人次出入境 新皇崗口岸15.2萬創開通新高",
-        "dek": "入境處指星期日各口岸合共錄得超過132.2萬人次，其中皇崗口岸約15.2萬人次為啟用以來最多。"
-      }
-    },
-    {
-      "id": "2026-10-19-cultural-centre-backstage-fire",
-      "published_at": "2026-10-19T15:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "tsim-sha-tsui",
-        "cultural-centre",
-        "incident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-19/2026-10-19-cultural-centre-backstage-fire.json",
-      "en": {
-        "headline": "Female staff member burned in Hong Kong Cultural Centre stage fire",
-        "dek": "Firefighters extinguished a blaze behind the Grand Theatre stage around 11:38am after a female employee in her 20s suffered burns to her face and arms."
-      },
-      "zh": {
-        "headline": "尖沙咀文化中心主劇場後台火警 女職員面手燒傷送院",
-        "dek": "消防員約15分鐘將火救熄，一名二十多歲女職員面部及手臂燒傷，清醒送伊利沙伯醫院治理。"
-      }
-    },
-    {
-      "id": "2026-10-19-iphone-duo-fraud-reports-rise-to-130",
-      "published_at": "2026-10-19T13:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "fraud",
-        "iphone",
-        "credit-card",
-        "cybercrime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-19/2026-10-19-iphone-duo-fraud-reports-rise-to-130.json",
-      "en": {
-        "headline": "Police receive 130 reports of suspected iPhone Duo credit card misuse, involving HK$5…",
-        "dek": "As of 9am on Monday, the number of people reporting unauthorised charges for online smartphone purchases has risen, with cases handed to the cybercrime unit."
-      },
-      "zh": {
-        "headline": "警接130人報稱信用卡被盜用買iPhone Duo 涉款約500萬元",
-        "dek": "警方周一表示截至上午九時，共接獲130宗懷疑信用卡被盜用於網上購買智能電話的報案，涉及金額約500萬元，案件交由網絡安全及科技罪案調查科跟進。"
-      }
-    },
-    {
-      "id": "2026-10-19-john-lee-meets-aiib-president",
-      "published_at": "2026-10-19T13:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "john-lee",
-        "aiib",
-        "apec",
-        "finance",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-19/2026-10-19-john-lee-meets-aiib-president.json",
-      "en": {
-        "headline": "John Lee meets AIIB President Zou Jiayi ahead of APEC finance meeting",
-        "dek": "The Chief Executive welcomed the bank chief to Hong Kong and discussed stronger regional financial co-operation and support for an AIIB office in the city."
-      },
-      "zh": {
-        "headline": "李家超禮賓府會晤亞投行行長鄒加怡 歡迎出席APEC財長會議",
-        "dek": "行政長官歡迎鄒加怡率團來港，雙方就加強區域金融合作交流，並全力支持亞投行在港設立辦事處。"
-      }
-    },
-    {
-      "id": "2026-10-19-yau-ma-tei-convenience-store-robbery",
-      "published_at": "2026-10-19T13:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "yau-ma-tei",
-        "robbery",
-        "jordan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-19/2026-10-19-yau-ma-tei-convenience-store-robbery.json",
-      "en": {
-        "headline": "Man robs Yau Ma Tei convenience store with brick, flees with cash",
-        "dek": "Police are hunting a man in his 50s who threatened a female staff member at a Jordan Road shop around 4am on Monday and took several thousand dollars."
-      },
-      "zh": {
-        "headline": "油麻地便利店遭男子持磚行劫 奪數千元現金逃去",
-        "dek": "一名五十多歲男子周一凌晨約四時半闖入佐敦道便利店，以磚頭威脅女職員從收銀機取走數千元現金後逃逸，警方正追緝。"
       }
     }
   ]
