@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-10-22T17:11:04+08:00",
+  "generated_at": "2026-10-22T19:07:04+08:00",
   "live_window_hours": 72,
-  "count": 100,
+  "count": 101,
   "articles": [
+    {
+      "id": "2026-10-22-asian-para-games-table-tennis-medals",
+      "published_at": "2026-10-22T19:05:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-para-games",
+        "table-tennis",
+        "medals",
+        "sport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-asian-para-games-table-tennis-medals.json",
+      "en": {
+        "headline": "Hong Kong adds silver and three bronze medals in para table tennis",
+        "dek": "Lam Yan-yu and Wong Hon-lam took silver in mixed doubles XD20, while three other pairs secured bronze after losing in the semi-finals."
+      },
+      "zh": {
+        "headline": "亞殘運乒乓球港隊奪一銀三銅",
+        "dek": "林恩羽與黃瀚林混合雙打XD20級得銀牌，另三對組合在四強失利後獲銅牌。"
+      }
+    },
+    {
+      "id": "2026-10-22-hang-seng-closes-down-3pct",
+      "published_at": "2026-10-22T19:05:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hang-seng",
+        "stocks",
+        "markets",
+        "tech"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-hang-seng-closes-down-3pct.json",
+      "en": {
+        "headline": "Hang Seng Index closes 3.03 percent lower at 22934.68",
+        "dek": "The benchmark fell 717 points as the Hang Seng Tech Index dropped 5.03 percent, with Alibaba, Meituan and Xiaomi among the heaviest blue-chip losers."
+      },
+      "zh": {
+        "headline": "恒生指數收報22934.68點 全日跌3.03%",
+        "dek": "恒指收跌717點，恒生科技指數挫5.03%，阿里巴巴、美團及小米等藍籌科技股領跌。"
+      }
+    },
+    {
+      "id": "2026-10-22-september-cpi-1-9",
+      "published_at": "2026-10-22T19:05:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "inflation",
+        "cpi",
+        "statistics",
+        "prices"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-september-cpi-1-9.json",
+      "en": {
+        "headline": "September inflation rises to 1.9 percent, underlying rate at 2.1 percent",
+        "dek": "The Composite CPI increased more than in August, driven mainly by faster rises in transport fares and package tour charges, the Census and Statistics Department said."
+      },
+      "zh": {
+        "headline": "9月綜合消費物價指數按年升1.9% 基本通脹率2.1%",
+        "dek": "升幅較8月擴大，主要因進出香港交通費及套裝旅遊費用升幅加快，統計處公布。"
+      }
+    },
+    {
+      "id": "2026-10-22-unemployment-rate-3-9",
+      "published_at": "2026-10-22T19:05:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "unemployment",
+        "labour",
+        "statistics",
+        "census"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-22/2026-10-22-unemployment-rate-3-9.json",
+      "en": {
+        "headline": "Unemployment rate rises to 3.9 percent in July to September",
+        "dek": "The seasonally adjusted rate edged up 0.1 percentage point from the previous three-month period, with underemployment also rising to 2.0 percent."
+      },
+      "zh": {
+        "headline": "7至9月失業率升至3.9% 就業不足率升至2%",
+        "dek": "經季節性調整失業率較前一三個月期微升0.1個百分點，失業人數增至15.5萬人。"
+      }
+    },
     {
       "id": "2026-10-22-hk-express-taiwan-flights-cancel",
       "published_at": "2026-10-22T17:07:00+08:00",
@@ -2176,76 +2264,6 @@
       "zh": {
         "headline": "西營盤恆輝大廈火警 七旬男子昏迷送院 約60人疏散",
         "dek": "消防員約晚上九時五十四分將薄扶林道恆輝大廈火警救熄，一名七十多歲男子昏迷送瑪麗醫院，約六十名住客疏散。"
-      }
-    },
-    {
-      "id": "2026-10-19-hikers-fall-ill-hot-weather-chung-yeung",
-      "published_at": "2026-10-19T19:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "hiking",
-        "heat",
-        "chung-yeung",
-        "sai-kung",
-        "emergency"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-19/2026-10-19-hikers-fall-ill-hot-weather-chung-yeung.json",
-      "en": {
-        "headline": "Five hikers fall ill amid hot weather on final day of Chung Yeung holiday",
-        "dek": "Emergency services assisted five people in separate incidents, including an airlift from Sai Kung, as temperatures stayed high across the city."
-      },
-      "zh": {
-        "headline": "重陽假期最後一日炎熱天氣下五名行山人士不適需救援",
-        "dek": "多宗獨立事件中五人需要緊急協助，包括西貢一名女子由飛行服務隊直升機接送入院，當日氣溫持續偏高。"
-      }
-    },
-    {
-      "id": "2026-10-19-lifestyle-flower-market-mini-games-ticket-stub",
-      "published_at": "2026-10-19T19:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "flower-market",
-        "mong-kok",
-        "sports",
-        "discount",
-        "chung-yeung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-19/2026-10-19-lifestyle-flower-market-mini-games-ticket-stub.json",
-      "en": {
-        "headline": "Flower Market hosts mini sports day and launches ticket-stub discounts with Mong Kok…",
-        "dek": "More than 50 shops joined the pilot scheme offering up to 25 per cent off with specified Hong Kong Premier League match stubs, while free activity booths ran outside the stadium on Monday."
-      },
-      "zh": {
-        "headline": "花墟舉辦細運會並推出與旺角大球場票尾優惠試點",
-        "dek": "超過五十間商戶參與試點，憑指定港超聯賽事票尾可享低至七五折，周一在球場外設免費運動體驗攤位。"
-      }
-    },
-    {
-      "id": "2026-10-19-three-community-legionnaires-cases",
-      "published_at": "2026-10-19T19:05:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "legionnaires",
-        "chp",
-        "health",
-        "tai-po",
-        "kwai-tsing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-19/2026-10-19-three-community-legionnaires-cases.json",
-      "en": {
-        "headline": "Centre for Health Protection records three new community Legionnaires’ disease cases",
-        "dek": "The cases involved three men aged 44 to 67 living in Tai Po and Kwai Tsing; they are considered sporadic with no links to earlier cases, bringing the year’s total to 160."
-      },
-      "zh": {
-        "headline": "衞生防護中心錄得三宗社區感染退伍軍人病個案",
-        "dek": "個案涉及三名44至67歲男子，居於大埔及葵青，屬散發個案，與早前個案無流行病學關連，今年累計160宗。"
       }
     }
   ]
