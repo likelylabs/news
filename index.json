@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-10-23T01:04:57+08:00",
+  "generated_at": "2026-10-23T07:06:53+08:00",
   "live_window_hours": 72,
-  "count": 105,
+  "count": 103,
   "articles": [
+    {
+      "id": "2026-10-23-hk-gov-condemns-uk-report",
+      "published_at": "2026-10-23T07:10:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "uk-report",
+        "national-security",
+        "government",
+        "sino-british"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-hk-gov-condemns-uk-report.json",
+      "en": {
+        "headline": "Hong Kong government condemns UK six-monthly report as interference",
+        "dek": "The government said the report contained false and misleading remarks and urged Britain to stop interfering in Hong Kong affairs which are internal matters of China."
+      },
+      "zh": {
+        "headline": "特區政府強烈譴責英國半年報告 斥干預香港事務",
+        "dek": "政府指報告內容失實及抹黑，強調《中英聯合聲明》沒有賦予英國干預回歸後香港事務的權利，英國對香港無主權、無治權及無監督權。"
+      }
+    },
+    {
+      "id": "2026-10-23-mplus-myths-monsters",
+      "published_at": "2026-10-23T07:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "mplus",
+        "west-kowloon",
+        "art"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-mplus-myths-monsters.json",
+      "en": {
+        "headline": "M+ presents Myths and Monsters survey of Asian fantasy art",
+        "dek": "The exhibition is described as the first major survey exploring two centuries of Asian fantasy visual culture, featuring more than 400 works across fine art, film, fashion and games."
+      },
+      "zh": {
+        "headline": "M+呈獻《神話與怪物》亞洲幻想藝術大型展覽",
+        "dek": "展覽被形容為首個全面探討兩個世紀亞洲幻想視覺文化的大型調查，展出逾400件跨越純藝術、電影、時裝及遊戲的作品。"
+      }
+    },
+    {
+      "id": "2026-10-23-red-fire-danger-warning",
+      "published_at": "2026-10-23T07:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "fire-danger",
+        "hko",
+        "dry-weather",
+        "warning"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-red-fire-danger-warning.json",
+      "en": {
+        "headline": "Observatory issues Red Fire Danger Warning amid dry conditions",
+        "dek": "The Hong Kong Observatory raised the warning at 6 a.m. on Friday, stating the fire risk is extreme and urging the public to take extra precautions."
+      },
+      "zh": {
+        "headline": "天文台發出紅色火災危險警告 天氣乾燥火險極高",
+        "dek": "香港天文台周五上午6時發出紅色火災危險警告，指火災危險性極高，提醒市民提高警覺並採取防火措施。"
+      }
+    },
     {
       "id": "2026-10-23-cfs-malachite-green-tuna",
       "published_at": "2026-10-23T01:05:00+08:00",
@@ -2241,121 +2308,6 @@
       "zh": {
         "headline": "香港文創設計展於會展開幕 與MEGA SHOW同期舉行",
         "dek": "逾300位來自亞洲各地的創作者齊聚灣仔，至周五展出文創品牌、IP授權及潮流玩具，入場需現場登記繳付20元。"
-      }
-    },
-    {
-      "id": "2026-10-20-digital-policy-office-1823-overnight",
-      "published_at": "2026-10-20T07:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "1823",
-        "digital-policy-office",
-        "sham-shui-po",
-        "animal",
-        "hotline"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-digital-policy-office-1823-overnight.json",
-      "en": {
-        "headline": "Digital Policy Office reviews overnight staffing after unanswered 1823 call about…",
-        "dek": "The office said a call at about 1:56am on Monday reporting a dying monkey in Sham Shui Po was logged and referred to the Agriculture, Fisheries and Conservation Department, while earlier calls went to voicemail."
-      },
-      "zh": {
-        "headline": "數字辦檢討1823深宵人手 回應未接聽罵死猴子報案",
-        "dek": "數字政策辦公室表示，周一凌晨約時56分有市民致電1823報告深水埗大埔道有罵死猴子，職員已記錄並即時轉介漁農自然護理署，另有較早來電因當值人員忙碌而轉往留言信箱。"
-      }
-    },
-    {
-      "id": "2026-10-20-lifestyle-hkdi-leslie-grace-70",
-      "published_at": "2026-10-20T07:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "leslie-cheung",
-        "tseung-kwan-o",
-        "hkdi"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-lifestyle-hkdi-leslie-grace-70.json",
-      "en": {
-        "headline": "HKDI free exhibition displays rare photographs of Leslie Cheung until mid-November",
-        "dek": "The Hong Kong Design Institute and the Hong Kong Institute of Professional Photographers present previously unpublished archival images of the late singer alongside student works and a limited-edition vinyl, open…"
-      },
-      "zh": {
-        "headline": "香港知專設計學院免費展覽展出張國榮罕見照片 至11月中",
-        "dek": "香港知專設計學院與香港專業攝影師公會合辦「風華70・設計共鳴 哥哥紀念展」，展出多幅首次公開的八、九十年代張國榮珍藏照片，並有學生作品及限量黑膠，需網上預先登記入場。"
-      }
-    },
-    {
-      "id": "2026-10-20-shau-kei-wan-bus-queue-fight",
-      "published_at": "2026-10-20T07:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "shau-kei-wan",
-        "bus",
-        "fight",
-        "chung-yeung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-shau-kei-wan-bus-queue-fight.json",
-      "en": {
-        "headline": "Police arrest two men after queue dispute turns into fight at Shau Kei Wan bus terminus",
-        "dek": "Officers detained a 68-year-old man and a 50-year-old man on suspicion of fighting in a public place after a brawl broke out among passengers waiting for a Citybus Route 9 service on Monday morning."
-      },
-      "zh": {
-        "headline": "筱箕灣巴士總站排隊糾紛爆衝突 兩男子涉公眾地方打鬥被捕",
-        "dek": "警方周一早上在城巴9號線往石澳方向站頭接報，其後拘捕一名68歲男子及一名50歲男子，涉嫌在公眾地方打鬥。"
-      }
-    },
-    {
-      "id": "2026-10-20-apec-finance-ministers-meeting-opens",
-      "published_at": "2026-10-20T03:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "apec",
-        "finance",
-        "wan-chai",
-        "hkcec",
-        "economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-apec-finance-ministers-meeting-opens.json",
-      "en": {
-        "headline": "APEC Finance Ministers’ Meeting opens in Hong Kong for two days",
-        "dek": "About 500 delegates from 21 economies gather at the Hong Kong Convention and Exhibition Centre in Wan Chai, the first time the city has hosted the annual gathering."
-      },
-      "zh": {
-        "headline": "APEC財長會議今起兩日在香港會展舉行",
-        "dek": "約500名來自21個經濟體的代表齊聚灣仔香港會議展覽中心，這是香港首次主辦這項年度財長會議。"
-      }
-    },
-    {
-      "id": "2026-10-20-lifestyle-lkf-monster-mash-halloween",
-      "published_at": "2026-10-20T03:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "halloween",
-        "lan-kwai-fong",
-        "central",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-lifestyle-lkf-monster-mash-halloween.json",
-      "en": {
-        "headline": "Lan Kwai Fong Monster Mash Halloween events continue through October",
-        "dek": "The district’s street parties and decorations run until the end of the month, with the next major activation on Saturday evening."
-      },
-      "zh": {
-        "headline": "蘭桂坊怪物巡禮萬聖節活動持續至月底",
-        "dek": "區內街頭派對及佈置將延續至十月底，下一次主要活動定於本周六晚上舉行。"
       }
     }
   ]
