@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-23T15:22:48+08:00",
+  "generated_at": "2026-10-23T15:26:33+08:00",
   "live_window_hours": 72,
-  "count": 100,
+  "count": 102,
   "articles": [
+    {
+      "id": "2026-10-23-chinalco-treasury-centre",
+      "published_at": "2026-10-23T15:45:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "chinalco",
+        "treasury",
+        "invest-hk",
+        "offshore",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-chinalco-treasury-centre.json",
+      "en": {
+        "headline": "Chinalco sets up corporate treasury centre in Hong Kong",
+        "dek": "The state-owned aluminium giant will use the new entity to manage offshore funds, financing and risk, highlighting the city’s role as a hub."
+      },
+      "zh": {
+        "headline": "中鋁集團在港設立企業財資中心",
+        "dek": "這家國有鋁業巨頭將透過新實體管理離岸資金、融資及風險，突顯香港作為財資中心樞紐的角色。"
+      }
+    },
+    {
+      "id": "2026-10-23-fire-safety-legislative-reforms",
+      "published_at": "2026-10-23T15:45:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "fire-safety",
+        "tai-po-fire",
+        "chris-tang",
+        "legislation",
+        "security"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-fire-safety-legislative-reforms.json",
+      "en": {
+        "headline": "Security chief says legislative reforms on fire safety are forthcoming",
+        "dek": "Chris Tang told a radio programme that administrative measures already taken would be followed by legislative changes after the Tai Po fire report."
+      },
+      "zh": {
+        "headline": "保安局長指消防安全立法改革即將推出",
+        "dek": "鄧炳強在電台節目表示，過去一年已採取行政措施，隨大埔火災報告提交後將有立法改革。"
+      }
+    },
     {
       "id": "2026-10-23-champi-hk-taiwan-flights-disruption",
       "published_at": "2026-10-23T15:25:00+08:00",
