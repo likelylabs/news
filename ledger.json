@@ -1,1 +1,29 @@
-PLACEHOLDER_LEDGER
+{
+  "covered": [
+    {
+      "key": "fire-safety-legislative-reforms-oct23",
+      "id": "2026-10-23-fire-safety-legislative-reforms",
+      "first_seen": "2026-10-23T15:45:00+08:00",
+      "headline_en": "Security chief says legislative reforms on fire safety are forthcoming"
+    },
+    {
+      "key": "chinalco-treasury-centre-hk-oct23",
+      "id": "2026-10-23-chinalco-treasury-centre",
+      "first_seen": "2026-10-23T15:45:00+08:00",
+      "headline_en": "Chinalco sets up corporate treasury centre in Hong Kong"
+    },
+    {
+      "key": "wong-tai-sin-child-abuse-arrests-oct23",
+      "id": "2026-10-23-wong-tai-sin-child-abuse-arrests",
+      "first_seen": "2026-10-23T15:25:00+08:00",
+      "headline_en": "Police arrest two women over alleged child abuse after girl's video plea"
+    },
+    {
+      "key": "champi-hk-taiwan-flights-oct23",
+      "id": "2026-10-23-champi-hk-taiwan-flights-disruption",
+      "first_seen": "2026-10-23T15:25:00+08:00",
+      "headline_en": "More than 70 Hong Kong-Taiwan flights cancelled as Super Typhoon Champi approaches"
+    }
+  ],
+  "updated_at": "2026-10-23T15:45:00+08:00"
+}
