@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-10-23T19:04:12+08:00",
+  "generated_at": "2026-10-23T21:07:49+08:00",
   "live_window_hours": 72,
   "count": 103,
   "articles": [
+    {
+      "id": "2026-10-23-hang-seng-close-up",
+      "published_at": "2026-10-23T21:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hang-seng",
+        "stocks",
+        "market",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-hang-seng-close-up.json",
+      "en": {
+        "headline": "Hang Seng Index closes 0.69 per cent higher at 23,093",
+        "dek": "Hong Kong stocks rebounded on Friday, with the benchmark rising 158 points on turnover of about HK$250 billion after earlier fluctuations."
+      },
+      "zh": {
+        "headline": "恒生指數收報23093點 升0.69%",
+        "dek": "港股周五反彈，恒指升158點，全日成交約2498億元，早段曾波動後回升。"
+      }
+    },
+    {
+      "id": "2026-10-23-imported-dengue-cases",
+      "published_at": "2026-10-23T21:06:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "dengue",
+        "chp",
+        "mosquito"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-imported-dengue-cases.json",
+      "en": {
+        "headline": "Two imported dengue cases recorded in the past week",
+        "dek": "The Centre for Health Protection said the patients had visited India and Bangladesh, bringing this year's total to 36 cases, mostly imported."
+      },
+      "zh": {
+        "headline": "過去一周新增兩宗外地傳入登革熱個案",
+        "dek": "衛生防護中心表示，兩名病人分別到過印度及孟加拉國，今年累計36宗，大多為輸入個案。"
+      }
+    },
+    {
+      "id": "2026-10-23-tuen-mun-neuroscience-centre",
+      "published_at": "2026-10-23T21:06:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "hospital",
+        "tuen-mun",
+        "neuroscience"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-tuen-mun-neuroscience-centre.json",
+      "en": {
+        "headline": "Tuen Mun Hospital opens neuroscience centre for integrated care",
+        "dek": "The centre co-locates wards, operating theatres and rehabilitation on one floor, introducing advanced technologies including magnetic resonance-guided focused ultrasound."
+      },
+      "zh": {
+        "headline": "屯門醫院神經醫學中心開幕 提供跨專科綜合服務",
+        "dek": "中心將病房、手術室及復康設施集中同一樓層，並引入磁波刀及術中磁力共振等先進科技。"
+      }
+    },
+    {
+      "id": "2026-10-23-weekend-weather-outlook",
+      "published_at": "2026-10-23T21:06:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "weekend",
+        "hko",
+        "forecast",
+        "dry"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-weekend-weather-outlook.json",
+      "en": {
+        "headline": "Fine and very dry weekend ahead with large day-night temperature gap",
+        "dek": "The Observatory forecasts fine and hot conditions on Saturday with a high near 32 degrees, followed by mainly fine and dry weather on Sunday."
+      },
+      "zh": {
+        "headline": "周末天晴非常乾燥 日夜溫差仍然較大",
+        "dek": "天文台預測周六天晴炎熱，最高氣溫約32度，周日大致天晴及乾燥。"
+      }
+    },
     {
       "id": "2026-10-23-community-pharmacy-programme-pairing",
       "published_at": "2026-10-23T19:03:00+08:00",
@@ -317,28 +406,6 @@
       "zh": {
         "headline": "消息指大埔火災報告點名四個政府部門須負責",
         "dek": "獨立委員會周四提交的報告據悉點名房屋局獨立審查組等四個部門失職，但沒有點名個別官員。"
-      }
-    },
-    {
-      "id": "2026-10-23-weekend-weather-outlook",
-      "published_at": "2026-10-23T13:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weekend",
-        "forecast",
-        "hko",
-        "dry-weather"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-weekend-weather-outlook.json",
-      "en": {
-        "headline": "Fine and very dry weather expected over the weekend",
-        "dek": "The Hong Kong Observatory forecasts mainly fine and hot conditions on Saturday and Sunday, with low humidity and light to moderate winds."
-      },
-      "zh": {
-        "headline": "周末天氣天晴及非常乾燥 日間炎熱",
-        "dek": "天文台預測周六及周日大致天晴，日間炎熱及乾燥，濕度偏低，風力及後轉弱。"
       }
     },
     {
@@ -2246,72 +2313,6 @@
       "zh": {
         "headline": "李家超出席國際調解院成立一周年慶祝活動",
         "dek": "行政長官指國際調解院迅速成為獲信賴的政府間機構，並重申施政報告中支援及合作措施，推動香港成為全球調解中心。"
-      }
-    },
-    {
-      "id": "2026-10-20-france-yellow-travel-alert",
-      "published_at": "2026-10-20T19:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "travel",
-        "france",
-        "alert",
-        "security-bureau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-france-yellow-travel-alert.json",
-      "en": {
-        "headline": "Government issues yellow travel alert for France amid ongoing protests",
-        "dek": "The Security Bureau raised a yellow alert for France on Tuesday, citing continued demonstrations that have led to violent clashes and damage, and advised Hong Kong residents to avoid crowds and protest areas."
-      },
-      "zh": {
-        "headline": "港府對法國發出黃色外遊警示 呼籲港人避開示威區域",
-        "dek": "鉴於法國多地持續示威造成暴力衝突及破壞，特區政府周二對法國發出黃色外遊警示，呼籲港人提高警覺並避開人群聚集地方。"
-      }
-    },
-    {
-      "id": "2026-10-20-new-clear-water-bay-road-bus-collision",
-      "published_at": "2026-10-20T19:05:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "accident",
-        "bus",
-        "ngau-chi-wan",
-        "students"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-new-clear-water-bay-road-bus-collision.json",
-      "en": {
-        "headline": "School bus rear-ends KMB double-decker on New Clear Water Bay Road, eight injured",
-        "dek": "A school bus carrying students collided with the rear of a 290A bus near Choi Wan Estate around 4pm on Tuesday, leaving eight people with minor injuries including two pupils."
-      },
-      "zh": {
-        "headline": "新清水灣道校巴落斜撞九巴車尾 八人受輕傷包括兩學童",
-        "dek": "週二下午約4時，一輛接載學童的校巴在彩雲邨對開往黃大仙方向疑收刾不及，撞向停駐的290A線九巴車尾，造成八人輕傷，包括兩名小學生。"
-      }
-    },
-    {
-      "id": "2026-10-20-paul-chan-apec-geopolitical-risks",
-      "published_at": "2026-10-20T19:05:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "apec",
-        "finance",
-        "paul-chan",
-        "geopolitics"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-paul-chan-apec-geopolitical-risks.json",
-      "en": {
-        "headline": "Paul Chan warns geopolitical uncertainty poses downside risks at APEC meeting",
-        "dek": "Hong Kong’s financial secretary told APEC finance ministers that while Asia’s growth is outpacing the world, concentration in AI-related assets and geopolitical disruptions require fiscal prudence and closer cooperation."
-      },
-      "zh": {
-        "headline": "陳茂波APEC財長會警告地緣政治不確定性帶來下行風險",
-        "dek": "財政司司長陳茂波周二在香港舉行的APEC財長會議上指，亞太增長領先全球，但地緣政治不確定性及過度集中於AI相關資產或放大市場修正，需要財政審慎及更緊密合作。"
       }
     }
   ]
