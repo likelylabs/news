@@ -1,6 +1,30 @@
 {
   "covered": [
     {
+      "key": "hsbc-redcoin-payme-launch-oct23",
+      "id": "2026-10-23-hsbc-redcoin-payme-launch",
+      "first_seen": "2026-10-23T11:10:00+08:00",
+      "headline_en": "HSBC launches RedCoin stablecoin for PayMe users"
+    },
+    {
+      "key": "customs-airport-cannabis-seizures-oct22",
+      "id": "2026-10-23-customs-cannabis-airport",
+      "first_seen": "2026-10-23T11:10:00+08:00",
+      "headline_en": "Customs seizes 8kg of cannabis at airport, two men arrested"
+    },
+    {
+      "key": "air-quality-serious-levels-oct23",
+      "id": "2026-10-23-air-quality-health-risk",
+      "first_seen": "2026-10-23T11:10:00+08:00",
+      "headline_en": "Air quality reaches serious levels, experts urge elderly to stay indoors"
+    },
+    {
+      "key": "lifestyle-lkf-halloween-monster-mash-2026",
+      "id": "2026-10-23-lifestyle-lkf-halloween-monster-mash",
+      "first_seen": "2026-10-23T11:10:00+08:00",
+      "headline_en": "Lan Kwai Fong Monster Mash returns for three Halloween Saturdays"
+    },
+    {
       "key": "php-critical-vulnerabilities-alert-oct22",
       "id": "2026-10-22-php-critical-vulnerabilities-alert",
       "first_seen": "2026-10-22T23:21:00+08:00",
@@ -331,5 +355,5 @@
       "headline_en": "M+ presents Myths and Monsters survey of Asian fantasy art"
     }
   ],
-  "updated_at": "2026-10-23T07:28:53+08:00"
+  "updated_at": "2026-10-23T11:10:00+08:00"
 }
