@@ -1,0 +1,27 @@
+{
+  "id": "2026-10-23-weekend-weather-outlook",
+  "published_at": "2026-10-23T13:10:00+08:00",
+  "category": "weather",
+  "tags": ["weekend", "forecast", "hko", "dry-weather"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "weekend-weather-outlook-oct24-25",
+  "en": {
+    "headline": "Fine and very dry weather expected over the weekend",
+    "dek": "The Hong Kong Observatory forecasts mainly fine and hot conditions on Saturday and Sunday, with low humidity and light to moderate winds.",
+    "body": [
+      "The Hong Kong Observatory expects fine weather over the weekend, with hot and very dry conditions during the day on Saturday.",
+      "According to the nine-day forecast updated on Friday morning, Saturday will see temperatures ranging from 25 to 32 degrees Celsius, with relative humidity between 30 and 70 per cent, and north to northwesterly winds of force 4, occasionally force 5 on high ground.",
+      "Sunday is forecast to be mainly fine and dry during the day, with temperatures of 26 to 31 degrees and humidity of 45 to 80 per cent under north to northeasterly winds of force 3 to 4. Significant rainfall probability remains low on both days."
+    ]
+  },
+  "zh": {
+    "headline": "周末天氣天晴及非常乾燥 日間炎熱",
+    "dek": "天文台預測周六及周日大致天晴，日間炎熱及乾燥，濕度偏低，風力及後轉弱。",
+    "body": [
+      "香港天文台預計周末天氣天晴，周六日間炎熱及非常乾燥。",
+      "根據周五早上更新的九天天氣預報，周六氣溫介乎25至32度，相對濕度30至70%，吹北至西北風4級，高地間中5級。",
+      "周日大致天晴，日間乾燥，氣溫26至31度，濕度45至80%，吹北至東北風3至4級。兩日顯著降雨概率均低。"
+    ]
+  }
+}
