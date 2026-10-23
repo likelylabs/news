@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-24T03:21:42+08:00",
+  "generated_at": "2026-10-24T03:25:14+08:00",
   "live_window_hours": 72,
-  "count": 104,
+  "count": 107,
   "articles": [
+    {
+      "id": "2026-10-24-hk-gold-refineries-deals",
+      "published_at": "2026-10-24T03:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "gold",
+        "finance",
+        "refineries",
+        "business"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-hk-gold-refineries-deals.json",
+      "en": {
+        "headline": "Hong Kong seals deals for local gold refineries to boost trading hub",
+        "dek": "Agreements with Swiss and mainland firms will allow refining in the city, completing a full gold trading ecosystem as storage capacity targets expand."
+      },
+      "zh": {
+        "headline": "香港簽協議引入本地黃金精煉廠 推進交易中心",
+        "dek": "與瑞士及內地公司達成協議，將在港設立精煉設施，完善黃金交易生態，並配合倉儲擴容目標。"
+      }
+    },
+    {
+      "id": "2026-10-24-lifestyle-the-weeknd-kai-tak",
+      "published_at": "2026-10-24T03:25:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "music",
+        "concert",
+        "kai-tak"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-lifestyle-the-weeknd-kai-tak.json",
+      "en": {
+        "headline": "The Weeknd opens four-night Kai Tak Stadium run tonight",
+        "dek": "The Canadian artist begins the Hong Kong leg of his After Hours Til Dawn tour at Kai Tak Stadium, with shows continuing over the next two weekends."
+      },
+      "zh": {
+        "headline": "The Weeknd今晚在啟德主場館展開四晚巡演",
+        "dek": "加拿大歌手在啟德主場館開始After Hours Til Dawn巡演香港站，未來兩個周末繼續演出。"
+      }
+    },
+    {
+      "id": "2026-10-24-ura-taizoom-lift-advice",
+      "published_at": "2026-10-24T03:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "ura",
+        "lifts",
+        "fire-safety",
+        "taizoom"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-ura-taizoom-lift-advice.json",
+      "en": {
+        "headline": "URA advises against hiring Taizoom for lift subsidy scheme",
+        "dek": "The Urban Renewal Authority said it has lost confidence in the contractor after inspections found missing fire-safety components in lifts at hundreds of buildings."
+      },
+      "zh": {
+        "headline": "市建局建議補貼計劃業主避免聘用臺日電梯",
+        "dek": "市建局表示，因檢查發現數百幢大廈升降機欠缺防火組件，已對承辦商失去信心。"
+      }
+    },
     {
       "id": "2026-10-24-customs-airport-cannabis-seizure",
       "published_at": "2026-10-24T03:20:00+08:00",
