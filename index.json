@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-10-23T21:07:49+08:00",
+  "generated_at": "2026-10-23T23:28:57+08:00",
   "live_window_hours": 72,
-  "count": 103,
+  "count": 98,
   "articles": [
+    {
+      "id": "2026-10-23-finance-committee-newborn-bonus-funding",
+      "published_at": "2026-10-23T23:27:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "newborn-bonus",
+        "finance-committee",
+        "birth-rate",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-finance-committee-newborn-bonus-funding.json",
+      "en": {
+        "headline": "Finance Committee approves HK$1.6 billion to extend newborn baby bonus",
+        "dek": "Lawmakers approved extra funding to prolong the scheme by three years and raise the second-child payment to HK$30,000, as set out in the Policy Address."
+      },
+      "zh": {
+        "headline": "財委會通過16億元額外撥款延長新生嬰兒獎勵金計劃",
+        "dek": "立法會議員批准增撥款項，把計劃延長三年，並把第二名子女獎勵金提高至3萬元，落實施政報告措施。"
+      }
+    },
+    {
+      "id": "2026-10-23-severe-paediatric-influenza-3yo",
+      "published_at": "2026-10-23T23:27:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "influenza",
+        "chp",
+        "paediatric",
+        "tuen-mun"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-severe-paediatric-influenza-3yo.json",
+      "en": {
+        "headline": "Three-year-old boy critically ill with influenza complications",
+        "dek": "The Centre for Health Protection said the child, who has a chronic illness and visited the United States during the incubation period, remains in intensive care at Tuen Mun Hospital."
+      },
+      "zh": {
+        "headline": "三歲男童感染流感併發嚴重併發症情況危殆",
+        "dek": "衞生防護中心表示，這名有長期病患的男童潛伏期曾到美國，目前仍在屯門醫院兒童深切治療部留醫。"
+      }
+    },
+    {
+      "id": "2026-10-23-strong-monsoon-signal",
+      "published_at": "2026-10-23T23:27:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "monsoon",
+        "hko",
+        "warning",
+        "wind"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-strong-monsoon-signal.json",
+      "en": {
+        "headline": "Observatory maintains Strong Monsoon Signal with northerly winds",
+        "dek": "The Hong Kong Observatory said strong winds exceeding 40 kilometres per hour from the north are expected, with occasional gale-force gusts, and advised precautions."
+      },
+      "zh": {
+        "headline": "天文台維持強烈季候風信號 預期北風強勁",
+        "dek": "香港天文台表示，預期北風平均風速超過每小時40公里，陣風間中達烈風程度，並提醒市民採取預防措施。"
+      }
+    },
+    {
+      "id": "2026-10-23-tong-nga-ting-flagbearer",
+      "published_at": "2026-10-23T23:27:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-para-games",
+        "fencing",
+        "flagbearer",
+        "nagoya"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-tong-nga-ting-flagbearer.json",
+      "en": {
+        "headline": "Para fencer Tong Nga-ting named flagbearer for Asian Para Games closing",
+        "dek": "The China Hong Kong Paralympic Committee said Tong, who has won three medals in Nagoya, will carry the flag at Saturday’s closing ceremony."
+      },
+      "zh": {
+        "headline": "殘疾人劍擊選手湯雅婷獲委任亞殘運閉幕禮持旗手",
+        "dek": "中國香港殘疾人奧委會宣布，在名古屋奪得三面獎牌的湯雅婷將於周六閉幕禮擔任持旗手。"
+      }
+    },
     {
       "id": "2026-10-23-hang-seng-close-up",
       "published_at": "2026-10-23T21:06:00+08:00",
@@ -362,28 +454,6 @@
       "zh": {
         "headline": "全城萬聖節Cosplay活動本周末五區繼續舉行",
         "dek": "旅發局首個萬聖節月於中環、啟德、蘭桂坊、旺角及尖東舉行街頭派對，本周六有活動。"
-      }
-    },
-    {
-      "id": "2026-10-23-strong-monsoon-signal",
-      "published_at": "2026-10-23T13:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "monsoon",
-        "hko",
-        "warning",
-        "winds"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-strong-monsoon-signal.json",
-      "en": {
-        "headline": "Observatory issues Strong Monsoon Signal as northerly winds strengthen",
-        "dek": "The Hong Kong Observatory raised the signal at 9:45 a.m. on Friday, warning of strong winds from the north with occasional gale-force gusts."
-      },
-      "zh": {
-        "headline": "天文台發出強烈季候風信號 預料吹偏北強風",
-        "dek": "香港天文台周五上午9時45分發出信號，指本港將吹偏北強風，平均風速每小時超過40公里，陣風間中達烈風程度。"
       }
     },
     {
@@ -2137,182 +2207,6 @@
       "zh": {
         "headline": "聖士提芬會「285個家」展覽今日於中環街市閉幕",
         "dek": "展覽展出受助居民作品及創辦人白嘉玲（Jackie Pullinger）逾五十年服務香港的故事，即日至今晚十時於中環街市一樓舉行。"
-      }
-    },
-    {
-      "id": "2026-10-20-child-sex-sentencing-report",
-      "published_at": "2026-10-20T23:18:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "courts",
-        "sentencing",
-        "child-protection",
-        "research"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-child-sex-sentencing-report.json",
-      "en": {
-        "headline": "Report finds average sentences for child sex offences remain well below maximum",
-        "dek": "University of Hong Kong research analysing 401 judgments from 1990 to 2025 found average prison terms for the gravest child sex crimes ranged from under five to under ten years."
-      },
-      "zh": {
-        "headline": "研究指涉兒童性罪行平均判刑遠低於最高刑罰",
-        "dek": "港大法律學院分析1990至2025年401份判決，發現最嚴重兒童性罪行平均判刑介乎四年半至不足十年，遠低於終身監禁的法定最高刑。"
-      }
-    },
-    {
-      "id": "2026-10-20-hkia-september-traffic",
-      "published_at": "2026-10-20T23:18:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "airport",
-        "hkia",
-        "traffic",
-        "awards"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-hkia-september-traffic.json",
-      "en": {
-        "headline": "Hong Kong airport passenger traffic rises 10.2 per cent in September",
-        "dek": "Hong Kong International Airport handled 4.86 million passengers last month, driven by transfer traffic, and received three best-airport awards."
-      },
-      "zh": {
-        "headline": "香港國際機場九月客運量按年升百分之十點二",
-        "dek": "機場管理局周二公布，九月處理486萬人次旅客，按年升百分之十點二，主要由轉機旅客帶動，並獲三項最佳機場殊榮。"
-      }
-    },
-    {
-      "id": "2026-10-20-iomed-malaysia-dispute",
-      "published_at": "2026-10-20T23:18:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "iomed",
-        "mediation",
-        "malaysia",
-        "legal"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-iomed-malaysia-dispute.json",
-      "en": {
-        "headline": "IOMed settles Malaysian infrastructure dispute on first anniversary",
-        "dek": "The Hong Kong-based International Organisation for Mediation resolved a construction dispute in Malaysia on Tuesday, its second successful case since launching operations."
-      },
-      "zh": {
-        "headline": "國際調解院成立一周年 成功調解馬來西亞基建爭議",
-        "dek": "總部設於香港的國際調解院周二成功調解一宗馬來西亞基建爭議，為機構自運作以來第二宗成功個案。"
-      }
-    },
-    {
-      "id": "2026-10-20-tai-po-fire-report-due",
-      "published_at": "2026-10-20T23:18:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "tai-po",
-        "fire",
-        "inquiry",
-        "wang-fuk-court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-tai-po-fire-report-due.json",
-      "en": {
-        "headline": "Tai Po fire inquiry report to be submitted to government on Thursday",
-        "dek": "Sources say the independent committee investigating the Wang Fuk Court blaze that killed 168 people will deliver its final report on Thursday, with a redacted public version expected next week."
-      },
-      "zh": {
-        "headline": "大埔宏福苑大火調查報告周四交政府",
-        "dek": "消息指調查委員會將於周四向政府提交最終報告，涉及168人死亡的火災，公開版本最早下周發布，部分內容或因刑事調查而被遮蔽。"
-      }
-    },
-    {
-      "id": "2026-10-20-china-mobile-q3-results",
-      "published_at": "2026-10-20T21:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "china-mobile",
-        "earnings",
-        "telecom",
-        "hkex"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-china-mobile-q3-results.json",
-      "en": {
-        "headline": "China Mobile first three quarters profit falls nearly 8 per cent",
-        "dek": "The company reported operating revenue of 780.3 billion yuan, down 1.8 per cent, and profit attributable to shareholders of 106.2 billion yuan for the nine months to 30 September."
-      },
-      "zh": {
-        "headline": "中國移動首三季盈利跌近八成",
-        "dek": "公司公佈截至九月底止九個月，營運收入七千八百零三億元人民幣，按年跌百分之一點八；股東應佔利潤一千零六十二億元人民幣，按年跌百分之七點九。"
-      }
-    },
-    {
-      "id": "2026-10-20-election-committee-nominations-close",
-      "published_at": "2026-10-20T21:12:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "election-committee",
-        "nominations",
-        "politics",
-        "november-election"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-election-committee-nominations-close.json",
-      "en": {
-        "headline": "Election Committee nomination period ends with 1,155 forms received",
-        "dek": "Returning officers received 1,115 candidate nomination forms and 40 from designated bodies by the 5pm close on Tuesday, with 31 of 36 elected subsectors set for contests on 22 November."
-      },
-      "zh": {
-        "headline": "選舉委員會提名期結束 共接獲十一百五十五份表格",
-        "dek": "提名期周二下午五時結束，選舉主任累計接獲一千一百一十五份候選人提名表格及四十份指定團體提名，三十一個界別分組將於十一月二十二日進行選舉。"
-      }
-    },
-    {
-      "id": "2026-10-20-hang-seng-index-falls",
-      "published_at": "2026-10-20T21:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "stocks",
-        "market",
-        "hkex"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-hang-seng-index-falls.json",
-      "en": {
-        "headline": "Hang Seng Index falls 1.3 per cent to close at 23,867",
-        "dek": "Hong Kong stocks joined a regional retreat on Tuesday after Beijing left key lending rates unchanged and stronger mainland GDP data reduced expectations for further stimulus."
-      },
-      "zh": {
-        "headline": "恆生指數跌百分之一點三 收報二萬三千八百六十七點",
-        "dek": "周二港股隨區域市場回落，內地維持貸款利率不變及較強經濟數據令市場對進一步刺激預期降溫。"
-      }
-    },
-    {
-      "id": "2026-10-20-mediation-court-anniversary",
-      "published_at": "2026-10-20T21:12:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "mediation",
-        "john-lee",
-        "international",
-        "legal"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-mediation-court-anniversary.json",
-      "en": {
-        "headline": "John Lee addresses International Mediation Court on its first anniversary",
-        "dek": "The Chief Executive said the court had quickly become a trusted intergovernmental body and outlined measures in the Policy Address to position Hong Kong as a global mediation centre."
-      },
-      "zh": {
-        "headline": "李家超出席國際調解院成立一周年慶祝活動",
-        "dek": "行政長官指國際調解院迅速成為獲信賴的政府間機構，並重申施政報告中支援及合作措施，推動香港成為全球調解中心。"
       }
     }
   ]
