@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-10-23T13:12:52+08:00",
+  "generated_at": "2026-10-23T15:21:39+08:00",
   "live_window_hours": 72,
-  "count": 107,
+  "count": 100,
   "articles": [
+    {
+      "id": "2026-10-23-champi-hk-taiwan-flights-disruption",
+      "published_at": "2026-10-23T15:25:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "typhoon",
+        "champi",
+        "flights",
+        "taiwan",
+        "airport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-champi-hk-taiwan-flights-disruption.json",
+      "en": {
+        "headline": "More than 70 Hong Kong-Taiwan flights cancelled as Super Typhoon Champi approaches",
+        "dek": "As of Friday afternoon, services by Cathay Pacific, HK Express and others to Taoyuan, Kaohsiung and Taichung have been scrapped, with the storm’s peak impact lasting through the night."
+      },
+      "zh": {
+        "headline": "超強颱風薔琵逼近 逾70班港台航班取消",
+        "dek": "截至周五下午，國泰、香港快運等航空公司往返桃園、高雄及台中的航班已取消，風暴高峰影響持續至晚間。"
+      }
+    },
+    {
+      "id": "2026-10-23-wong-tai-sin-child-abuse-arrests",
+      "published_at": "2026-10-23T15:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "child-abuse",
+        "wong-tai-sin",
+        "police",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-wong-tai-sin-child-abuse-arrests.json",
+      "en": {
+        "headline": "Police arrest two women over alleged child abuse after girl's video plea",
+        "dek": "An 11-year-old girl in Wong Tai Sin was found with swollen limbs after posting videos seeking help; her grandmother and a domestic helper have been detained."
+      },
+      "zh": {
+        "headline": "警方黃大仙拘兩女涉虐兒 十一歲女童拍片求救",
+        "dek": "一名十一歲女童在社交媒體上載影片求救後，被發現手腳紅腫；其外祖母及一名印尼外傭已被警方拘捕。"
+      }
+    },
     {
       "id": "2026-10-23-customs-sha-tau-kok-seizure",
       "published_at": "2026-10-23T13:10:00+08:00",
@@ -2195,207 +2240,6 @@
       "zh": {
         "headline": "東山精密計劃在港招股集資最多13.6億美元",
         "dek": "印刷電路板製造商發售規模低於早前預期，市場憂慮其光模塊業務或受美國貿易限制影響。"
-      }
-    },
-    {
-      "id": "2026-10-20-to-kwa-wan-restaurant-burglary",
-      "published_at": "2026-10-20T15:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "burglary",
-        "to-kwa-wan",
-        "restaurant",
-        "kowloon-city"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-to-kwa-wan-restaurant-burglary.json",
-      "en": {
-        "headline": "Staff find pried-open rear door at To Kwa Wan restaurant, losses still being counted",
-        "dek": "Police are treating a report of a broken rear door and signs of searching inside a ground-floor eatery on Ma Hang Chung Road as a burglary."
-      },
-      "zh": {
-        "headline": "土瓜灣食肆後門被撬開 職員發現搜掠痕迹列爆竊案",
-        "dek": "土瓜灣馬坑涌道寶光大廈地下一間食肆職員周二上午發現後門被撬毀，店內有搜掠痕迹，警方列作爆竊案調查，損失有待點算。"
-      }
-    },
-    {
-      "id": "2026-10-20-tsim-sha-tsui-liquid-bail-denied",
-      "published_at": "2026-10-20T15:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "indecent-assault",
-        "tsim-sha-tsui",
-        "mtr"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-tsim-sha-tsui-liquid-bail-denied.json",
-      "en": {
-        "headline": "Court remands man charged over liquid-splashing incidents in Tsim Sha Tsui",
-        "dek": "A 26-year-old IT technician surnamed Cheng was denied bail after being charged with indecent assault and causing grievous bodily harm relating to alleged attacks on women on escalators."
-      },
-      "zh": {
-        "headline": "尖沙咀淋液案26歲男被控猥褻侵犯 法庭拒絕保釋還押",
-        "dek": "一名26歲資訊科技技術員鄭姓男子因涉嫌在尖沙咀向女子淋潑不明液體，被控猥褻侵犯及傷人，西九龍裁判法院拒絕保釋申請，將他還押。"
-      }
-    },
-    {
-      "id": "2026-10-20-tuen-mun-river-terminal-worker-fall",
-      "published_at": "2026-10-20T15:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "accident",
-        "industrial",
-        "tuen-mun",
-        "hospital"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-tuen-mun-river-terminal-worker-fall.json",
-      "en": {
-        "headline": "Worker falls unconscious from cargo ship deck at Tuen Mun River Trade Terminal",
-        "dek": "A man in his fifties was taken to Tuen Mun Hospital after falling about 1.5 metres onto a ship deck around noon on Tuesday."
-      },
-      "zh": {
-        "headline": "屯門內河碼頭貨船工人從高處墮甲板昏迷送院",
-        "dek": "一名五十多歲男工人周二中午約十二時在屯門內河碼頭貨船上從約1.5米高處墮下甲板，當場昏迷，送屯門醫院搶救。"
-      }
-    },
-    {
-      "id": "2026-10-20-yuen-long-highway-police-vehicle-fire",
-      "published_at": "2026-10-20T15:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "police",
-        "yuen-long",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-yuen-long-highway-police-vehicle-fire.json",
-      "en": {
-        "headline": "Police transport vehicle catches fire on Yuen Long Highway, no injuries",
-        "dek": "Firefighters put out a blaze in a police personnel carrier near Long Tin Road around 11am on Tuesday after reports of smoke while it was travelling towards Sheung Shui."
-      },
-      "zh": {
-        "headline": "元朗公路警車行駛中起火 消防救熄無人傷",
-        "dek": "周二上午約十一時，元朗公路往上水方向近朗天路一輛運送警員的警車懷疑起火，消防出動兩條喉及煙帽隊灌救，約十六分鐘後救熄，無人受傷。"
-      }
-    },
-    {
-      "id": "2026-10-20-asian-para-games-paddlers-bronze",
-      "published_at": "2026-10-20T13:20:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "para-games",
-        "table-tennis",
-        "nagoya",
-        "medals",
-        "hong-kong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-asian-para-games-paddlers-bronze.json",
-      "en": {
-        "headline": "SAR para paddlers claim multiple bronzes at Asian Para Games",
-        "dek": "Hong Kong table tennis athletes secured several bronze medals on Tuesday in Nagoya, with some still in contention for higher places later in the day."
-      },
-      "zh": {
-        "headline": "香港殘疾人乒乓球選手名古屋亞殘運會奪多面銅牌",
-        "dek": "香港乒乓球運動員周二在名古屋取得多面銅牌，部分選手仍有機會在稍後比賽爭奪更高名次。"
-      }
-    },
-    {
-      "id": "2026-10-20-hk-pension-system-asia-rank",
-      "published_at": "2026-10-20T13:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "mpf",
-        "pension",
-        "finance",
-        "ranking",
-        "retirement"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-hk-pension-system-asia-rank.json",
-      "en": {
-        "headline": "Hong Kong ranks second in Asia for pension systems in new index",
-        "dek": "The city’s Mandatory Provident Fund system scored 71.2 and retained a B grade in the Marsh CFA Institute Global Pension Index, placing 16th worldwide out of 55 systems."
-      },
-      "zh": {
-        "headline": "香港退休保障制度亞洲排名第二 僅次於新加坡",
-        "dek": "本港強積金制度在Marsh CFA Institute全球退休金指數中取得71.2分，維持B級評級，在55個制度中排名全球第16。"
-      }
-    },
-    {
-      "id": "2026-10-20-lifestyle-orlando-variations-city-hall",
-      "published_at": "2026-10-20T13:20:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "concert",
-        "city-hall",
-        "classical",
-        "central"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-lifestyle-orlando-variations-city-hall.json",
-      "en": {
-        "headline": "Sean Shibe and Ema Nikolovska perform Orlando Variations at City Hall tonight",
-        "dek": "The Scottish guitarist and mezzo-soprano bring their programme inspired by Virginia Woolf’s novel to Hong Kong City Hall Concert Hall at 7:30pm, with tickets from HK$180."
-      },
-      "zh": {
-        "headline": "蕭恩施貝與艾瑪·妮歌露芙絲嘉今晚大會堂演出《奧蘭多變奏曲》",
-        "dek": "蘇格蘭結他家與女中音將維珍妮亞·吳爾芙小說啟發的曲目帶到中環香港大會堂音樂廳，晚上7時30分開始，票價由180元起。"
-      }
-    },
-    {
-      "id": "2026-10-20-southern-beaches-red-flags",
-      "published_at": "2026-10-20T13:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "beaches",
-        "lcsd",
-        "swimming",
-        "southern-district"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-southern-beaches-red-flags.json",
-      "en": {
-        "headline": "Red flags hoisted at Stanley, Shek O and Big Wave Bay beaches",
-        "dek": "The Leisure and Cultural Services Department said big waves prompted the red flags on Tuesday and advised beachgoers not to swim at the three Southern District beaches."
-      },
-      "zh": {
-        "headline": "赤柱、石澳及大浪灣泳灘因大浪懸掛紅旗",
-        "dek": "康文署表示周二因大浪在三個南區泳灘懸掛紅旗，呼籲泳客不要下水。"
-      }
-    },
-    {
-      "id": "2026-10-20-tai-lam-illegal-structure-fine",
-      "published_at": "2026-10-20T13:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "buildings",
-        "illegal-structure",
-        "tuen-mun",
-        "enforcement"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-tai-lam-illegal-structure-fine.json",
-      "en": {
-        "headline": "Tai Lam property owner fined HK$255,800 for ignoring removal order",
-        "dek": "The Buildings Department said the owner of a detached house was prosecuted after repeatedly failing to demolish unauthorised structures covering more than 170 square metres."
-      },
-      "zh": {
-        "headline": "大欖獨立屋業主拒拆僭建罰款25.58萬元",
-        "dek": "屋宇署表示，一名獨立屋業主多次未遵從清拆令，涉事僭建物總面積逾170平方米，上周五在屯門裁判法院被定罪罰款。"
       }
     }
   ]
