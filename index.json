@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-10-24T01:07:15+08:00",
+  "generated_at": "2026-10-24T03:21:42+08:00",
   "live_window_hours": 72,
-  "count": 101,
+  "count": 104,
   "articles": [
+    {
+      "id": "2026-10-24-customs-airport-cannabis-seizure",
+      "published_at": "2026-10-24T03:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "drugs",
+        "airport",
+        "cannabis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-customs-airport-cannabis-seizure.json",
+      "en": {
+        "headline": "Customs seizes 5.4 kg of cannabis buds at airport, two men charged",
+        "dek": "Hong Kong Customs arrested two mainland passengers arriving from Vietnam and Thailand and seized suspected cannabis buds valued at about HK$1.1 million."
+      },
+      "zh": {
+        "headline": "海關機場檢5.4公斤大麻花 兩男同控販毒",
+        "dek": "香港海關在機場拘捕兩名分別從越南及泰國抵港的內地男旅客，檢獲估計市值約110萬元的懷疑大麻花。"
+      }
+    },
+    {
+      "id": "2026-10-24-lifestyle-big-c-kolour-tsuen-wan-closing",
+      "published_at": "2026-10-24T03:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "retail",
+        "food",
+        "tsuen-wan",
+        "closing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-lifestyle-big-c-kolour-tsuen-wan-closing.json",
+      "en": {
+        "headline": "Big C to close its Kolour Tsuen Wan store in early November",
+        "dek": "The Thai supermarket chain confirmed the branch will shut after its lease ends, leaving the Tsuen Wan district without a Big C outlet for now."
+      },
+      "zh": {
+        "headline": "Big C荃灣千色匯店11月上旬結業",
+        "dek": "泰國連鎖超市確認荃灣千色匯分店因租約期滿將於11月上旬結束營業，荃灣區暫時再無Big C門市。"
+      }
+    },
+    {
+      "id": "2026-10-24-lifestyle-halloween-monster-mash-central",
+      "published_at": "2026-10-24T03:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "halloween",
+        "central",
+        "event",
+        "family"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-lifestyle-halloween-monster-mash-central.json",
+      "en": {
+        "headline": "Monster Mash Fest brings family Halloween activities to Central today",
+        "dek": "Hongkong Land’s Halloween in Central event holds a free family day on Chater Road with costumes, face painting and a themed bouncy castle."
+      },
+      "zh": {
+        "headline": "中環大小怪獸嘉年華今日舉行親子萬聖節活動",
+        "dek": "置地公司「萬聖狂歡祭．中環」於遮打道舉辦免費親子日，設服裝攤位、臉部彩繪及主題彈跳城堡。"
+      }
+    },
+    {
+      "id": "2026-10-24-white-powder-letters-media-library",
+      "published_at": "2026-10-24T03:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "media",
+        "suspicious-letters",
+        "yau-ma-tei"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-white-powder-letters-media-library.json",
+      "en": {
+        "headline": "Police say white powder in letters to media and library poses no blast risk",
+        "dek": "Four reports of letters containing white powder sent to three media outlets and a public library were classified as the discovery of suspicious items after checks found no explosive danger."
+      },
+      "zh": {
+        "headline": "警方指傳媒及圖書館粉末信無爆炸危險",
+        "dek": "三間傳媒機構及一間公共圖書館接獲藏有白色粉末的信件，經爆炸品處理課檢查後相信無爆炸危險，案件暫列發現可疑物品。"
+      }
+    },
     {
       "id": "2026-10-24-lifestyle-gloomie-museum-harbour-city",
       "published_at": "2026-10-24T01:04:00+08:00",
@@ -2253,29 +2343,6 @@
       "zh": {
         "headline": "黃竹坑大王爺廟起火 懷疑香火誤燒鐵架",
         "dek": "消防約10分鐘撲熄南朗山道大王爺廟火警，無人受傷。"
-      }
-    },
-    {
-      "id": "2026-10-21-lifestyle-st-stephens-285-homes",
-      "published_at": "2026-10-21T03:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "central-market",
-        "jackie-pullinger",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-lifestyle-st-stephens-285-homes.json",
-      "en": {
-        "headline": "St Stephen’s Society exhibition on Kowloon Walled City stories closes today at Central…",
-        "dek": "The multimedia show featuring artwork by residents of the charity and founder Jackie Pullinger’s decades of work runs until tonight on the first floor of Central Market."
-      },
-      "zh": {
-        "headline": "聖士提芬會「285個家」展覽今日於中環街市閉幕",
-        "dek": "展覽展出受助居民作品及創辦人白嘉玲（Jackie Pullinger）逾五十年服務香港的故事，即日至今晚十時於中環街市一樓舉行。"
       }
     }
   ]
