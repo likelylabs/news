@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-10-24T03:25:14+08:00",
+  "generated_at": "2026-10-24T07:05:42+08:00",
   "live_window_hours": 72,
-  "count": 107,
+  "count": 109,
   "articles": [
+    {
+      "id": "2026-10-24-legco-land-records-subcommittee",
+      "published_at": "2026-10-24T07:05:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "legco",
+        "land-records",
+        "journalism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-legco-land-records-subcommittee.json",
+      "en": {
+        "headline": "Legco sets up subcommittee to review tighter land records access rules",
+        "dek": "Lawmakers endorsed a subcommittee at the House Committee meeting on Friday to examine proposed restrictions under the Land Titles Regulation after concerns from some legislators and the Journalists Association."
+      },
+      "zh": {
+        "headline": "立法會成立小組委員會審議收緊土地查冊安排",
+        "dek": "立法會內務委員會周五通過成立小組委員會，研究《業權規例》下擬議的土地紀錄查閱限制，此前部分議員及記者協會提出關注。"
+      }
+    },
+    {
+      "id": "2026-10-24-lifestyle-tst-east-halloween-beats",
+      "published_at": "2026-10-24T07:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "halloween",
+        "tsim-sha-tsui",
+        "event",
+        "music"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-lifestyle-tst-east-halloween-beats.json",
+      "en": {
+        "headline": "TST East Halloween Beats holds free cosplay DJ party today",
+        "dek": "Sino Group’s Tsim Sha Tsui Centre and Empire Centre stage the Movie Magic themed event at Mody Road Garden from 4pm to 10pm, with Hong Kong Tourism Board support."
+      },
+      "zh": {
+        "headline": "尖東萬聖節音樂盛事今日舉行免費變裝DJ派對",
+        "dek": "信和集團旗下尖沙咀中心及帝國中心主辦的活動，以電影狂想曲為主題，於麼地道花園下午4時至晚上10時舉行，並獲旅遊發展局支持。"
+      }
+    },
     {
       "id": "2026-10-24-hk-gold-refineries-deals",
       "published_at": "2026-10-24T03:25:00+08:00",
