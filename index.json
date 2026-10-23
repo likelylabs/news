@@ -1,8 +1,119 @@
 {
-  "generated_at": "2026-10-23T11:12:55+08:00",
+  "generated_at": "2026-10-23T13:12:52+08:00",
   "live_window_hours": 72,
-  "count": 102,
+  "count": 107,
   "articles": [
+    {
+      "id": "2026-10-23-customs-sha-tau-kok-seizure",
+      "published_at": "2026-10-23T13:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "cigarettes",
+        "sha-tau-kok",
+        "counterfeit"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-customs-sha-tau-kok-seizure.json",
+      "en": {
+        "headline": "Customs seizes HK$4.6 million in illicit cigarettes and counterfeits in Sha Tau Kok",
+        "dek": "Officers arrested a 50-year-old saleswoman after raiding a Chung Ying Street shop and finding about 720,000 suspected duty-not-paid cigarettes plus counterfeit goods."
+      },
+      "zh": {
+        "headline": "海關沙頭角檢獲約460萬元私煙及冒牌貨 拘捕一名女子",
+        "dek": "海關周三在中英街一間零售店檢獲約72萬支懷疑私煙及約2700件懷疑冒牌物品，並拘捕一名50歲女售貨員。"
+      }
+    },
+    {
+      "id": "2026-10-23-lifestyle-halloween-cosplay-events",
+      "published_at": "2026-10-23T13:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "halloween",
+        "cosplay",
+        "events",
+        "hktb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-lifestyle-halloween-cosplay-events.json",
+      "en": {
+        "headline": "Citywide Halloween cosplay events continue across five districts this weekend",
+        "dek": "The Hong Kong Tourism Board’s first Halloween Month features street parties in Central, Kai Tak, Lan Kwai Fong, Mong Kok and Tsim Sha Tsui East on Saturday."
+      },
+      "zh": {
+        "headline": "全城萬聖節Cosplay活動本周末五區繼續舉行",
+        "dek": "旅發局首個萬聖節月於中環、啟德、蘭桂坊、旺角及尖東舉行街頭派對，本周六有活動。"
+      }
+    },
+    {
+      "id": "2026-10-23-strong-monsoon-signal",
+      "published_at": "2026-10-23T13:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "monsoon",
+        "hko",
+        "warning",
+        "winds"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-strong-monsoon-signal.json",
+      "en": {
+        "headline": "Observatory issues Strong Monsoon Signal as northerly winds strengthen",
+        "dek": "The Hong Kong Observatory raised the signal at 9:45 a.m. on Friday, warning of strong winds from the north with occasional gale-force gusts."
+      },
+      "zh": {
+        "headline": "天文台發出強烈季候風信號 預料吹偏北強風",
+        "dek": "香港天文台周五上午9時45分發出信號，指本港將吹偏北強風，平均風速每小時超過40公里，陣風間中達烈風程度。"
+      }
+    },
+    {
+      "id": "2026-10-23-tai-po-fire-report-details",
+      "published_at": "2026-10-23T13:10:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "tai-po-fire",
+        "inquiry",
+        "accountability",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-tai-po-fire-report-details.json",
+      "en": {
+        "headline": "Sources say Tai Po fire report names four government bodies for accountability",
+        "dek": "The independent committee’s report, submitted on Thursday, is understood to highlight the Housing Bureau’s Independent Checking Unit among others, without naming individual officials."
+      },
+      "zh": {
+        "headline": "消息指大埔火災報告點名四個政府部門須負責",
+        "dek": "獨立委員會周四提交的報告據悉點名房屋局獨立審查組等四個部門失職，但沒有點名個別官員。"
+      }
+    },
+    {
+      "id": "2026-10-23-weekend-weather-outlook",
+      "published_at": "2026-10-23T13:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weekend",
+        "forecast",
+        "hko",
+        "dry-weather"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-weekend-weather-outlook.json",
+      "en": {
+        "headline": "Fine and very dry weather expected over the weekend",
+        "dek": "The Hong Kong Observatory forecasts mainly fine and hot conditions on Saturday and Sunday, with low humidity and light to moderate winds."
+      },
+      "zh": {
+        "headline": "周末天氣天晴及非常乾燥 日間炎熱",
+        "dek": "天文台預測周六及周日大致天晴，日間炎熱及乾燥，濕度偏低，風力及後轉弱。"
+      }
+    },
     {
       "id": "2026-10-23-air-quality-health-risk",
       "published_at": "2026-10-23T11:10:00+08:00",
