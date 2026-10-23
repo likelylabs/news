@@ -1,27 +1,27 @@
 {
   "id": "2026-10-23-strong-monsoon-signal",
-  "published_at": "2026-10-23T13:10:00+08:00",
+  "published_at": "2026-10-23T23:27:00+08:00",
   "category": "weather",
-  "tags": ["monsoon", "hko", "warning", "winds"],
+  "tags": ["weather", "monsoon", "hko", "warning", "wind"],
   "breaking": false,
   "ai_generated": true,
   "story_key": "strong-monsoon-signal-oct23",
   "en": {
-    "headline": "Observatory issues Strong Monsoon Signal as northerly winds strengthen",
-    "dek": "The Hong Kong Observatory raised the signal at 9:45 a.m. on Friday, warning of strong winds from the north with occasional gale-force gusts.",
+    "headline": "Observatory maintains Strong Monsoon Signal with northerly winds",
+    "dek": "The Hong Kong Observatory said strong winds exceeding 40 kilometres per hour from the north are expected, with occasional gale-force gusts, and advised precautions.",
     "body": [
-      "The Hong Kong Observatory issued the Strong Monsoon Signal at 9:45 a.m. on Friday, stating that strong winds with mean speeds exceeding 40 kilometres per hour are expected from the north.",
-      "The Observatory said gusts will occasionally reach gale force. Residents not well sheltered from the north were advised to take precautions against strong gusty winds, including securing flower pots and loose outdoor objects.",
-      "People engaged in water sports or maritime work were urged to heighten vigilance against strong winds and waves, while those near the coast should stay away from the shoreline. Drivers on highways and flyovers should also remain alert to sudden gusts."
+      "The Hong Kong Observatory said the Strong Monsoon Signal remains in force, with strong winds of mean speeds exceeding 40 kilometres per hour expected from the north.",
+      "According to the Observatory, gusts will occasionally reach gale force. People in areas not well sheltered from the north were advised to take precautions against strong gusty winds, and to bring flower pots and other loose objects indoors.",
+      "Those planning water sports or operations at sea were told to take special care, as conditions are particularly rough over offshore waters. The signal was updated by the Observatory on Friday morning."
     ]
   },
   "zh": {
-    "headline": "天文台發出強烈季候風信號 預料吹偏北強風",
-    "dek": "香港天文台周五上午9時45分發出信號，指本港將吹偏北強風，平均風速每小時超過40公里，陣風間中達烈風程度。",
+    "headline": "天文台維持強烈季候風信號 預期北風強勁",
+    "dek": "香港天文台表示，預期北風平均風速超過每小時40公里，陣風間中達烈風程度，並提醒市民採取預防措施。",
     "body": [
-      "香港天文台於周五上午9時45分發出強烈季候風信號，預料本港吹偏北強風，平均風速每小時超過四十公里。",
-      "天文台表示，陣風間中可達烈風程度。未受偏北風良好遮蔽的市民應採取預防措施，避免強陣風吹走花盆及其他戶外物品。",
-      "從事水上運動或海上工作的人士應提高警覺，留意大風大浪風險；在海邊活動的市民應遠離岸邊。公路及高架道路駕駛者亦需注意陣風。"
+      "香港天文台表示，強烈季候風信號現正生效，預期北風強勁，平均風速超過每小時40公里。",
+      "天文台指，陣風間中會達烈風程度。未有充分北面屏障的地方，市民應注意強陣風，並把花盆及其他易被吹走的物件移入室內。",
+      "計劃進行水上活動或海上作業的人士應特別小心，離岸水域情況尤其惡劣。天文台於周五早上更新了相關資訊。"
     ]
   }
 }
