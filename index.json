@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-10-23T15:27:02+08:00",
+  "generated_at": "2026-10-23T17:09:02+08:00",
   "live_window_hours": 72,
-  "count": 102,
+  "count": 104,
   "articles": [
+    {
+      "id": "2026-10-23-asian-para-games-paddlers-medals",
+      "published_at": "2026-10-23T17:10:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-para-games",
+        "table-tennis",
+        "medals",
+        "nagoya"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-asian-para-games-paddlers-medals.json",
+      "en": {
+        "headline": "Hong Kong paddlers claim silver and bronze at Asian Para Games",
+        "dek": "Chiu Kan-shan and Wong Yue-ching took silver in women's doubles while Ho Ka-sing and Wong Chi-yin secured bronze in men's doubles in Nagoya on Friday."
+      },
+      "zh": {
+        "headline": "港隊乒乓選手於亞殘運再添銀銅牌",
+        "dek": "趙君山與黃宇晴在女子雙打奪銀，何嘉成與黃志賢在男子雙打獲銅，賽事周五在名古屋舉行。"
+      }
+    },
+    {
+      "id": "2026-10-23-hottest-frost-solar-term",
+      "published_at": "2026-10-23T17:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "temperature",
+        "solar-term",
+        "hko",
+        "record"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-hottest-frost-solar-term.json",
+      "en": {
+        "headline": "Hong Kong records hottest Frost solar term on record at 32.1 degrees",
+        "dek": "The Observatory said the temperature at its headquarters reached 32.1 Celsius by 2.30pm on Friday, breaking the previous mark for the traditional calendar period."
+      },
+      "zh": {
+        "headline": "本港錄得有紀錄以來最熱霜降 天文台總部下午達32.1度",
+        "dek": "天文台表示，周五下午2時半總部氣溫達32.1度，打破該節氣的歷史最高紀錄。"
+      }
+    },
+    {
+      "id": "2026-10-23-red-fire-danger-warning",
+      "published_at": "2026-10-23T17:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "fire-danger",
+        "hko",
+        "warning"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-red-fire-danger-warning.json",
+      "en": {
+        "headline": "Observatory maintains Red Fire Danger Warning as risk remains extreme",
+        "dek": "The Hong Kong Observatory issued the warning at 6am on Friday, advising the public to take extra fire precautions amid dry conditions."
+      },
+      "zh": {
+        "headline": "天文台維持紅色火災危險警告 火險極高",
+        "dek": "香港天文台周五上午6時發出警告，提醒市民在乾燥天氣下特別提高警覺並採取防火措施。"
+      }
+    },
     {
       "id": "2026-10-23-chinalco-treasury-centre",
       "published_at": "2026-10-23T15:45:00+08:00",
@@ -339,28 +407,6 @@
       "zh": {
         "headline": "M+呈獻《神話與怪物》亞洲幻想藝術大型展覽",
         "dek": "展覽被形容為首個全面探討兩個世紀亞洲幻想視覺文化的大型調查，展出逾400件跨越純藝術、電影、時裝及遊戲的作品。"
-      }
-    },
-    {
-      "id": "2026-10-23-red-fire-danger-warning",
-      "published_at": "2026-10-23T07:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "fire-danger",
-        "hko",
-        "dry-weather",
-        "warning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-red-fire-danger-warning.json",
-      "en": {
-        "headline": "Observatory issues Red Fire Danger Warning amid dry conditions",
-        "dek": "The Hong Kong Observatory raised the warning at 6 a.m. on Friday, stating the fire risk is extreme and urging the public to take extra precautions."
-      },
-      "zh": {
-        "headline": "天文台發出紅色火災危險警告 天氣乾燥火險極高",
-        "dek": "香港天文台周五上午6時發出紅色火災危險警告，指火災危險性極高，提醒市民提高警覺並採取防火措施。"
       }
     },
     {
