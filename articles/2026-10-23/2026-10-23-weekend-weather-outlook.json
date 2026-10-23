@@ -1,27 +1,29 @@
 {
   "id": "2026-10-23-weekend-weather-outlook",
-  "published_at": "2026-10-23T13:10:00+08:00",
+  "published_at": "2026-10-23T21:06:00+08:00",
   "category": "weather",
-  "tags": ["weekend", "forecast", "hko", "dry-weather"],
+  "tags": ["weather", "weekend", "hko", "forecast", "dry"],
   "breaking": false,
   "ai_generated": true,
   "story_key": "weekend-weather-outlook-oct24-25",
   "en": {
-    "headline": "Fine and very dry weather expected over the weekend",
-    "dek": "The Hong Kong Observatory forecasts mainly fine and hot conditions on Saturday and Sunday, with low humidity and light to moderate winds.",
+    "headline": "Fine and very dry weekend ahead with large day-night temperature gap",
+    "dek": "The Observatory forecasts fine and hot conditions on Saturday with a high near 32 degrees, followed by mainly fine and dry weather on Sunday.",
     "body": [
-      "The Hong Kong Observatory expects fine weather over the weekend, with hot and very dry conditions during the day on Saturday.",
-      "According to the nine-day forecast updated on Friday morning, Saturday will see temperatures ranging from 25 to 32 degrees Celsius, with relative humidity between 30 and 70 per cent, and north to northwesterly winds of force 4, occasionally force 5 on high ground.",
-      "Sunday is forecast to be mainly fine and dry during the day, with temperatures of 26 to 31 degrees and humidity of 45 to 80 per cent under north to northeasterly winds of force 3 to 4. Significant rainfall probability remains low on both days."
+      "The Hong Kong Observatory said a dry northeast monsoon would continue to affect the territory over the weekend, bringing fine and very dry weather.",
+      "On Saturday, conditions are expected to be fine and hot during the day, with temperatures ranging from about 25 to 32 degrees Celsius. Northerly winds of force 4 are forecast, occasionally reaching force 5 on high ground, and relative humidity is expected to fall as low as 30 per cent.",
+      "Sunday is forecast to be mainly fine and dry, with temperatures between 26 and 31 degrees. Winds will ease to north to northeasterly force 3 to 4. The Observatory noted that the difference between day and night temperatures would remain relatively large.",
+      "Rain probability is low for both days. The Red Fire Danger Warning remained in force on Friday amid the dry conditions, and the public is advised to take fire precautions."
     ]
   },
   "zh": {
-    "headline": "周末天氣天晴及非常乾燥 日間炎熱",
-    "dek": "天文台預測周六及周日大致天晴，日間炎熱及乾燥，濕度偏低，風力及後轉弱。",
+    "headline": "周末天晴非常乾燥 日夜溫差仍然較大",
+    "dek": "天文台預測周六天晴炎熱，最高氣溫約32度，周日大致天晴及乾燥。",
     "body": [
-      "香港天文台預計周末天氣天晴，周六日間炎熱及非常乾燥。",
-      "根據周五早上更新的九天天氣預報，周六氣溫介乎25至32度，相對濕度30至70%，吹北至西北風4級，高地間中5級。",
-      "周日大致天晴，日間乾燥，氣溫26至31度，濕度45至80%，吹北至東北風3至4級。兩日顯著降雨概率均低。"
+      "香港天文台表示，乾燥的東北季候風會繼續影響本港，周末天氣天晴及非常乾燥。",
+      "周六預計天晴，日間炎熱，氣溫約介乎25至32度。吹北風4級，高地間中達5級，相對濕度可低至百分之30。",
+      "周日大致天晴及日間乾燥，氣溫約26至31度，吹北至東北風3至4級。天文台指出日夜溫差仍然較大。",
+      "兩日顯著降雨概率均低。周五紅色火災危險警告仍生效，市民在乾燥天氣下應提高防火警覺。"
     ]
   }
 }
