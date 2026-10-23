@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-10-23T17:09:02+08:00",
+  "generated_at": "2026-10-23T19:04:12+08:00",
   "live_window_hours": 72,
-  "count": 104,
+  "count": 103,
   "articles": [
+    {
+      "id": "2026-10-23-community-pharmacy-programme-pairing",
+      "published_at": "2026-10-23T19:03:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "pharmacy",
+        "primary-care",
+        "hhb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-community-pharmacy-programme-pairing.json",
+      "en": {
+        "headline": "Health Bureau to start patient pairing with community pharmacies",
+        "dek": "The first phase of the Community Pharmacy Programme will pilot pairing arrangements in four districts by the end of October, with 20 designated pharmacies."
+      },
+      "zh": {
+        "headline": "醫衞局月底啟動社區藥房病人配對安排",
+        "dek": "社區藥房計劃首階段將於十月底在東區、油尖旺、沙田及元朗試行，共20間指定藥房。"
+      }
+    },
+    {
+      "id": "2026-10-23-degree-subdegree-pay-gap",
+      "published_at": "2026-10-23T19:03:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "graduates",
+        "salary",
+        "survey",
+        "hkbu"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-degree-subdegree-pay-gap.json",
+      "en": {
+        "headline": "Degree holders’ starting pay advantage over sub-degree graduates narrows",
+        "dek": "A Baptist University survey found the gap between bachelor’s and sub-degree starting salaries fell to HK$2,500 this year from HK$3,000 last year."
+      },
+      "zh": {
+        "headline": "調查指學位與副學位畢業生起薪差距收窄至2500元",
+        "dek": "浸會大學大灣區薪酬調查顯示，本科與副學位畢業生平均起薪差距由去年3000元降至今年2500元。"
+      }
+    },
+    {
+      "id": "2026-10-23-lifestyle-kui-lee-sauce-closing",
+      "published_at": "2026-10-23T19:03:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "heritage",
+        "northern-metropolis",
+        "closing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-23/2026-10-23-lifestyle-kui-lee-sauce-closing.json",
+      "en": {
+        "headline": "Traditional sauce maker Kui Lee to close after 90 years",
+        "dek": "The family business, established in 1936, will shut its Wan Chai shop once remaining stock is sold after its Kwu Tung factory was cleared for the Northern Metropolis."
+      },
+      "zh": {
+        "headline": "經營九十年醬園鉅利將結業 古洞廠房因北都收地停產",
+        "dek": "1936年成立的家族醬園，在古洞廠房因北部都會區收地清拆後，灣仔零售店售罄存貨即永久結業。"
+      }
+    },
     {
       "id": "2026-10-23-asian-para-games-paddlers-medals",
       "published_at": "2026-10-23T17:10:00+08:00",
@@ -2244,94 +2312,6 @@
       "zh": {
         "headline": "陳茂波APEC財長會警告地緣政治不確定性帶來下行風險",
         "dek": "財政司司長陳茂波周二在香港舉行的APEC財長會議上指，亞太增長領先全球，但地緣政治不確定性及過度集中於AI相關資產或放大市場修正，需要財政審慎及更緊密合作。"
-      }
-    },
-    {
-      "id": "2026-10-20-asian-para-games-foil-silver",
-      "published_at": "2026-10-20T17:10:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "para-games",
-        "fencing",
-        "nagoya",
-        "medal"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-asian-para-games-foil-silver.json",
-      "en": {
-        "headline": "SAR women's foil team claims silver at Asian Para Games",
-        "dek": "Hong Kong’s squad finished second after a 12-30 loss to the national team in Nagoya on Tuesday under the new 30-point format."
-      },
-      "zh": {
-        "headline": "香港女子花劍隊亞殘運會奪銀",
-        "dek": "港隊周二在名古屋以12比30不敵國家隊，在新賽制下取得銀牌。"
-      }
-    },
-    {
-      "id": "2026-10-20-asian-para-games-tt-silver",
-      "published_at": "2026-10-20T17:10:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "para-games",
-        "table-tennis",
-        "nagoya",
-        "medal"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-asian-para-games-tt-silver.json",
-      "en": {
-        "headline": "Jiao Jinshan takes silver in women's class 7 singles at Asian Para Games",
-        "dek": "The Hong Kong paddler lost 2-3 to Wang Rui of the national team in the final after winning two games to level the match."
-      },
-      "zh": {
-        "headline": "焦瑾珊亞殘運女子7級單打奪銀",
-        "dek": "港隊球手周二決賽以2比3不敵國家隊王睿，在多局拉鋸後取得銀牌。"
-      }
-    },
-    {
-      "id": "2026-10-20-hzmb-half-marathon-record",
-      "published_at": "2026-10-20T17:10:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "marathon",
-        "hzmb",
-        "platinum",
-        "running"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-hzmb-half-marathon-record.json",
-      "en": {
-        "headline": "Hong Kong-Zhuhai-Macao Bridge half marathon draws record 10,000 entries",
-        "dek": "The November 15 race has been upgraded to World Athletics Platinum status, the first such road race in Hong Kong."
-      },
-      "zh": {
-        "headline": "港珠澳大橋半馬拉松逾萬人報名破紀錄",
-        "dek": "11月15日賽事升格世界田徑聯會白金級，為本港首個獲此認證的馬拉松。"
-      }
-    },
-    {
-      "id": "2026-10-20-suzhou-dongshan-ipo",
-      "published_at": "2026-10-20T17:10:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "ipo",
-        "hkex",
-        "electronics",
-        "listing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-20/2026-10-20-suzhou-dongshan-ipo.json",
-      "en": {
-        "headline": "Suzhou Dongshan seeks up to US$1.36 billion in Hong Kong IPO",
-        "dek": "The circuit board maker’s offering trails earlier expectations amid concerns over potential US trade restrictions on its optical modules business."
-      },
-      "zh": {
-        "headline": "東山精密計劃在港招股集資最多13.6億美元",
-        "dek": "印刷電路板製造商發售規模低於早前預期，市場憂慮其光模塊業務或受美國貿易限制影響。"
       }
     }
   ]
