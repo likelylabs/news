@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-24T23:24:25+08:00",
+  "generated_at": "2026-10-25T01:05:50+08:00",
   "live_window_hours": 72,
   "count": 92,
   "articles": [
+    {
+      "id": "2026-10-25-lifestyle-halloween-month-sunday",
+      "published_at": "2026-10-25T01:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "halloween",
+        "central",
+        "kai-tak",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-25/2026-10-25-lifestyle-halloween-month-sunday.json",
+      "en": {
+        "headline": "Halloween Month events continue across the city on Sunday",
+        "dek": "Special party trams run on designated evenings and Kai Tak Sports Park hosts a market and cosplay activities through the weekend under the Tourism Board campaign."
+      },
+      "zh": {
+        "headline": "萬聖月活動周日繼續 全城多區有節慶安排",
+        "dek": "特別派對電車於指定晚間行走，啟德體育園周末舉行市集及Cosplay活動，屬旅發局首辦萬聖月計劃一部分。"
+      }
+    },
+    {
+      "id": "2026-10-25-maritime-aviation-training-fund",
+      "published_at": "2026-10-25T01:05:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "maritime",
+        "aviation",
+        "talent",
+        "mable-chan",
+        "training"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-25/2026-10-25-maritime-aviation-training-fund.json",
+      "en": {
+        "headline": "Maritime and Aviation Training Fund commitment reaches HK$500 million",
+        "dek": "Transport and Logistics Bureau secretary Mable Chan said the fund has supported more than 24,000 students and practitioners by September after successive top-ups."
+      },
+      "zh": {
+        "headline": "海事及空運人才培訓基金承擔總額達五億港元",
+        "dek": "運輸及物流局局長陳美寶表示，基金經多次注資後，截至九月已惠及超過二萬四千名學生及從業員。"
+      }
+    },
     {
       "id": "2026-10-24-peak-lighting-stands-removed",
       "published_at": "2026-10-24T23:20:00+08:00",
@@ -2027,48 +2073,6 @@
       "zh": {
         "headline": "大埔宏福苑大火調查委員會料今日提交報告",
         "dek": "消息指法官領導的委員會將於周四把報告交予政府，經遮蓋後的版本最早下星期公開。"
-      }
-    },
-    {
-      "id": "2026-10-22-dry-monsoon-hot-fine-thursday",
-      "published_at": "2026-10-22T01:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "observatory",
-        "heat",
-        "monsoon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-22/2026-10-22-dry-monsoon-hot-fine-thursday.json",
-      "en": {
-        "headline": "Dry northeast monsoon keeps Thursday hot and mainly fine",
-        "dek": "Overnight cloud and isolated rain give way to hot, dry conditions with urban highs around 32 degrees as Super Typhoon Champi stays far to the southeast."
-      },
-      "zh": {
-        "headline": "乾燥東北季候風持續 星期四炎熱大致天晴",
-        "dek": "晚間部分時間多雲有一兩陣雨，日間轉為炎熱乾燥，市區最高氣溫約32度，超強颱風薔琵仍遠離本港。"
-      }
-    },
-    {
-      "id": "2026-10-22-food-carnival-kwai-chung-opens",
-      "published_at": "2026-10-22T01:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "food",
-        "festival",
-        "kwai-chung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-22/2026-10-22-food-carnival-kwai-chung-opens.json",
-      "en": {
-        "headline": "13th Hong Kong Food Carnival opens Saturday with 330 stalls",
-        "dek": "The nine-day event at Kwai Chung Sports Ground runs from 24 October to 1 November, adding a Southeast Asian zone and Beyblade battles alongside $6 entry and evening free admission."
-      },
-      "zh": {
-        "headline": "第13屆香港美食嘉年華星期六葵涌開幕",
-        "dek": "一連九日設逾330個攤位，新增東南亞美食區及爆旋陀螺街霸戰，入場費6元，晚上7時起免費。"
       }
     }
   ]
