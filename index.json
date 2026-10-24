@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-24T21:06:53+08:00",
+  "generated_at": "2026-10-24T23:24:25+08:00",
   "live_window_hours": 72,
-  "count": 95,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-10-24-peak-lighting-stands-removed",
+      "published_at": "2026-10-24T23:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "peak",
+        "tourism",
+        "lighting",
+        "environment",
+        "lugard-road"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-peak-lighting-stands-removed.json",
+      "en": {
+        "headline": "Two projector stands removed from Peak lighting project after outcry",
+        "dek": "Commissioner for Tourism Ann Chan inspected the Lugard Road site Saturday morning, and the metal stands that held industrial projectors were gone by afternoon, leaving only their foundations."
+      },
+      "zh": {
+        "headline": "山頂光影項目兩座投影機支架已拆除 居民早前反對",
+        "dek": "旅遊事務專員陳慧茜周六早上視察盧吉道及夏力道一帶，下午大型金屬支架已被移除，只剩地基。"
+      }
+    },
     {
       "id": "2026-10-24-asian-games-sha-tin-bus-parade",
       "published_at": "2026-10-24T21:05:00+08:00",
@@ -2046,99 +2069,6 @@
       "zh": {
         "headline": "第13屆香港美食嘉年華星期六葵涌開幕",
         "dek": "一連九日設逾330個攤位，新增東南亞美食區及爆旋陀螺街霸戰，入場費6元，晚上7時起免費。"
-      }
-    },
-    {
-      "id": "2026-10-21-child-flu-death",
-      "published_at": "2026-10-21T23:20:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "flu",
-        "vaccination",
-        "chp",
-        "children"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-child-flu-death.json",
-      "en": {
-        "headline": "Unvaccinated 12-year-old girl becomes second child flu death this season",
-        "dek": "The Centre for Health Protection said the girl died on Tuesday after developing influenza A complications, and urged the public to get vaccinated promptly."
-      },
-      "zh": {
-        "headline": "12歲未接種疫苗女童染甲流不治 成今季第二宗兒童死亡個案",
-        "dek": "衛生防護中心指女童周二不治，臨床診斷為甲型流感併發敗血性休克等，呼籲市民盡快接種疫苗。"
-      }
-    },
-    {
-      "id": "2026-10-21-media-powder-letters",
-      "published_at": "2026-10-21T23:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "media",
-        "threat",
-        "police",
-        "powder"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-media-powder-letters.json",
-      "en": {
-        "headline": "Two media outlets receive suspicious letters containing white powder from UK",
-        "dek": "Police and specialist teams responded after staff at HK01 and Ta Kung Wen Wei Media Group found powder believed to be crushed oatmeal in airmail letters."
-      },
-      "zh": {
-        "headline": "兩傳媒機構同日收英國寄出白色粉末信 警展開調查",
-        "dek": "《香港01》葵涌辦公室及大公文匯傳媒集團香港仔辦事處先後接獲內藏粉末的空郵信件，警方派員到場處理。"
-      }
-    },
-    {
-      "id": "2026-10-21-sai-wan-ho-teen-arrests",
-      "published_at": "2026-10-21T23:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "assault",
-        "sai-wan-ho",
-        "police",
-        "juveniles"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-sai-wan-ho-teen-arrests.json",
-      "en": {
-        "headline": "Police arrest four teenagers over viral Sai Wan Ho alley assault video",
-        "dek": "Officers held four local boys aged 13 to 17 after footage showed a younger boy being punched and slapped in a back alley early Monday."
-      },
-      "zh": {
-        "headline": "西灣河後巷童黨欺凌片 警拘4名13至17歲男童",
-        "dek": "警方表示，網上片段顯示一名男童周一凌晨約3時在西灣河後巷疑遭掌掰及推倒，東區警區隨後拘4名本地男童。"
-      }
-    },
-    {
-      "id": "2026-10-21-wine-dine-festival",
-      "published_at": "2026-10-21T23:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "wine",
-        "festival",
-        "harbourfront",
-        "hktb"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-wine-dine-festival.json",
-      "en": {
-        "headline": "Hong Kong Wine and Dine Festival returns to harbourfront from 29 October",
-        "dek": "The Tourism Board’s four-day event at Central Harbourfront and Tamar Park will feature more than 340 booths from about 31 countries and regions."
-      },
-      "zh": {
-        "headline": "香港美酒佳餐巡禮10月29日起於中環海濱舉行",
-        "dek": "旅發局主辦的四日活動設逾340個攤位，匯聚約31個國家及地區的美酒美食，周五六開放至凌晨1時。"
       }
     }
   ]
