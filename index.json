@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-10-25T06:36:28+08:00",
+  "generated_at": "2026-10-25T07:05:29+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-10-25-lifestyle-hk-food-carnival",
+      "published_at": "2026-10-25T07:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "festival",
+        "kwai-chung",
+        "carnival"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-25/2026-10-25-lifestyle-hk-food-carnival.json",
+      "en": {
+        "headline": "Hong Kong Food Carnival continues at Kwai Chung Sports Ground",
+        "dek": "The nine-day event organised by the Chinese Manufacturers’ Association features more than 330 booths across seven zones, with entry at HK$6 and free admission after 7 p.m."
+      },
+      "zh": {
+        "headline": "香港美食嘉年華葵涌運動場進行中",
+        "dek": "中華廠商聯合會主辦的九日活動設超過330個攤位、七大主題區，入場費6元，晚上7時後免費。"
+      }
+    },
+    {
+      "id": "2026-10-25-yellow-fire-danger-warning",
+      "published_at": "2026-10-25T07:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "fire-danger",
+        "hko",
+        "yellow-warning"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-25/2026-10-25-yellow-fire-danger-warning.json",
+      "en": {
+        "headline": "Observatory issues Yellow Fire Danger Warning for Sunday",
+        "dek": "The Hong Kong Observatory raised the Yellow Fire Danger Warning at 6 a.m., indicating a high fire risk as dry conditions persist under the northeast monsoon."
+      },
+      "zh": {
+        "headline": "天文台發出黃色火災危險警告 周日火險頗高",
+        "dek": "天文台於周日早上6時發出黃色火災危險警告，表示火災危險性頗高，市民及行山人士應提高警覺。"
+      }
+    },
     {
       "id": "2026-10-25-lifestyle-wine-dine-festival-2026",
       "published_at": "2026-10-25T03:15:00+08:00",
@@ -1940,74 +1985,6 @@
       "zh": {
         "headline": "海洋公園哈囉喂全園祭持續 指定晚間驚嚇體驗至11月1日",
         "dek": "主題「詭魅墓會」日間活動每日開放至11月1日，夜間鬼屋等體驗於指定日子舉行。"
-      }
-    },
-    {
-      "id": "2026-10-22-christies-1935-chinese-art-exhibition",
-      "published_at": "2026-10-22T07:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "christies",
-        "chinese-art",
-        "central"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-22/2026-10-22-christies-1935-chinese-art-exhibition.json",
-      "en": {
-        "headline": "Christie’s opens commemorative show of 1935 Chinese art exhibition",
-        "dek": "Nearly 15 masterpieces that appeared in the landmark Royal Academy display are on view at The Henderson in Central until 6 November."
-      },
-      "zh": {
-        "headline": "佳士得展開1935年中國藝術展覽紀念展",
-        "dek": "近15件曾於倫敦皇家藝術學院展出的精品，即日起至11月6日於中環The Henderson公開展出。"
-      }
-    },
-    {
-      "id": "2026-10-22-hk-schools-paris-igem-withdrawal",
-      "published_at": "2026-10-22T07:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "igem",
-        "france",
-        "travel-alert",
-        "schools"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-22/2026-10-22-hk-schools-paris-igem-withdrawal.json",
-      "en": {
-        "headline": "Hong Kong schools weigh Paris iGEM trip amid France travel alert",
-        "dek": "More than 30 schools and nearly 600 students and teachers had planned to attend the synthetic-biology competition next month; the Education Bureau says safety is the priority."
-      },
-      "zh": {
-        "headline": "港校評估巴黎iGEM行程 教育局強調學生安全優先",
-        "dek": "逾30間中學及大學、近600名師生原定下月赴巴黎參賽，政府已對法國發出黃色外遊警示，校方正重新評估。"
-      }
-    },
-    {
-      "id": "2026-10-22-rule-of-law-index-2026",
-      "published_at": "2026-10-22T07:05:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "rule-of-law",
-        "world-justice-project",
-        "doj",
-        "governance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-22/2026-10-22-rule-of-law-index-2026.json",
-      "en": {
-        "headline": "Hong Kong holds 24th place in 2026 global Rule of Law Index",
-        "dek": "The World Justice Project ranks the city sixth in East Asia and the Pacific, with order and security rising to seventh worldwide, the Department of Justice said."
-      },
-      "zh": {
-        "headline": "香港法治指數維持全球第24位 秩序與安全升至第7",
-        "dek": "世界正義工程公布2026年指數，香港在東亞及太平洋區排第6，律政司指廉潔及秩序安全仍居全球十大。"
       }
     }
   ]
