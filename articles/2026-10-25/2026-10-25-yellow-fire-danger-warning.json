@@ -1,0 +1,27 @@
+{
+  "id": "2026-10-25-yellow-fire-danger-warning",
+  "published_at": "2026-10-25T07:05:00+08:00",
+  "category": "weather",
+  "tags": ["weather", "fire-danger", "hko", "yellow-warning"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "yellow-fire-danger-warning-oct25",
+  "en": {
+    "headline": "Observatory issues Yellow Fire Danger Warning for Sunday",
+    "dek": "The Hong Kong Observatory raised the Yellow Fire Danger Warning at 6 a.m., indicating a high fire risk as dry conditions persist under the northeast monsoon.",
+    "body": [
+      "The Hong Kong Observatory issued the Yellow Fire Danger Warning at 06:00 on Sunday, stating that the fire danger is high. The public is urged to take extra care to prevent fires from breaking out, and hikers are advised to remain vigilant.",
+      "The warning follows earlier Red Fire Danger Warnings that had been in force earlier in the week. Dry weather associated with the northeast monsoon continues to affect the region, with fine and dry conditions expected through the day and a large temperature range between day and night.",
+      "According to the Observatory, the general situation remains under the influence of a dry northeast monsoon, with generally fine weather over Guangdong today and tomorrow. No tropical cyclone warning signals are in force, as Tropical Storm Champi continues to weaken far to the northeast of Hong Kong."
+    ]
+  },
+  "zh": {
+    "headline": "天文台發出黃色火災危險警告 周日火險頗高",
+    "dek": "天文台於周日早上6時發出黃色火災危險警告，表示火災危險性頗高，市民及行山人士應提高警覺。",
+    "body": [
+      "香港天文台於周日早上6時發出黃色火災危險警告，指現時火災危險性頗高。天文台呼籲市民特別小心防止火警發生，行山人士亦應提高警覺。",
+      "本周較早前曾發出紅色火災危險警告。受乾燥東北季候風影響，本港天氣持續晴朗乾燥，日間與晚間溫差較大。",
+      "天文台表示，廣東地區今明兩日天色普遍良好。目前沒有熱帶氣旋警告信號生效，熱帶風暴薔琵正遠離香港並逐步減弱。"
+    ]
+  }
+}
