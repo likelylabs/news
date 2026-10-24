@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-24T07:16:43+08:00",
+  "generated_at": "2026-10-24T09:11:44+08:00",
   "live_window_hours": 72,
-  "count": 104,
+  "count": 100,
   "articles": [
+    {
+      "id": "2026-10-24-cs-dongguan-gba-talent-visit",
+      "published_at": "2026-10-24T09:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "gba",
+        "talent",
+        "dongguan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-cs-dongguan-gba-talent-visit.json",
+      "en": {
+        "headline": "Chief Secretary Chan departs for Dongguan GBA talent conference",
+        "dek": "Chan Kwok-ki leaves for Dongguan this afternoon to attend the opening of the fourth Greater Bay Area High-quality Talent Development Conference and related events on Sunday."
+      },
+      "zh": {
+        "headline": "政務司司長陳國基赴東莞出席大灣區人才大會",
+        "dek": "陳國基今天下午前往東莞，出席星期日舉行的第四屆粵港澳大灣區人才高質量發展大會暨相關創新創業大賽開幕儀式。"
+      }
+    },
     {
       "id": "2026-10-24-legco-land-records-subcommittee",
       "published_at": "2026-10-24T07:05:00+08:00",
@@ -2227,119 +2249,6 @@
       "zh": {
         "headline": "元朗公路泥頭車與貨車相撞 司機受傷",
         "dek": "早上約9時20分，往元朗方向近福亨村發生碰撞，貨車司機一度被困，部分行車線仍然封閉。"
-      }
-    },
-    {
-      "id": "2026-10-21-kwai-fong-arson-bicycle",
-      "published_at": "2026-10-21T09:11:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "arson",
-        "kwai-fong",
-        "youth",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-kwai-fong-arson-bicycle.json",
-      "en": {
-        "headline": "14-year-old arrested after child’s bicycle set alight in Kwai Fong Estate",
-        "dek": "Police found the boy nearby with burns to his face and forearm after a security guard extinguished the fire at a podium garden opposite Kwai Shun House late on Tuesday."
-      },
-      "zh": {
-        "headline": "葵芳邨小童單車遭縱火 14歲少年面部及前臂燒傷被捕",
-        "dek": "周二晚上約11時19分，葵信樓對開停車場平台花園有小童單車起火，保安員撲熄後報警，警方其後拘捕一名14歲少年。"
-      }
-    },
-    {
-      "id": "2026-10-21-lifestyle-cityuhk-power-of-play",
-      "published_at": "2026-10-21T09:11:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "cityuhk",
-        "gaming",
-        "shek-kip-mei"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-lifestyle-cityuhk-power-of-play.json",
-      "en": {
-        "headline": "CityUHK’s Power of Play exhibition on gaming history closes this weekend",
-        "dek": "The free interactive show at the Indra and Harry Banga Gallery runs until 25 October, tracing 5,000 years of play from ancient board games to modern esports."
-      },
-      "zh": {
-        "headline": "城大《游於藝乎》遊戲史展覽本周末閉幕",
-        "dek": "般哥展覽館免費互動展至10月25日止，追溯五千年遊戲文化，從古埃及桌遊到現代電競。"
-      }
-    },
-    {
-      "id": "2026-10-21-sai-wan-ho-alley-arrests",
-      "published_at": "2026-10-21T09:11:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "sai-wan-ho",
-        "assault",
-        "youth",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-sai-wan-ho-alley-arrests.json",
-      "en": {
-        "headline": "Police arrest four boys over Sai Wan Ho alley assault video",
-        "dek": "Eastern district officers detained four local boys aged 13 to 17 on suspicion of assault occasioning actual bodily harm and inciting others to join an illegal society."
-      },
-      "zh": {
-        "headline": "西灣河後巷毆人影片 警方拘捕四名13至17歲男童",
-        "dek": "東區警區拘捕四名本地男童，涉嫌襲擊致造成身體傷害及煽惑他人成為非法社團成員。"
-      }
-    },
-    {
-      "id": "2026-10-21-ting-kau-bridge-death",
-      "published_at": "2026-10-21T09:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "ting-kau-bridge",
-        "police",
-        "rescue",
-        "death"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-ting-kau-bridge-death.json",
-      "en": {
-        "headline": "Man dies after being rescued from sea near Ting Kau Bridge",
-        "dek": "Tsing Ma control area staff found an empty seven-seater on the hard shoulder towards Tuen Mun around 1 a.m.; marine police later pulled a 35-year-old man from the water."
-      },
-      "zh": {
-        "headline": "汀九橋男子疑墮海 水警救起後證實不治",
-        "dek": "青馬管制區職員約凌晨1時發現往屯門方向路肩有無人七人車，水警其後在附近海面救起35歲男子。"
-      }
-    },
-    {
-      "id": "2026-10-21-very-hot-weather-warning",
-      "published_at": "2026-10-21T09:11:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "heat",
-        "hko",
-        "very-hot-warning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-very-hot-weather-warning.json",
-      "en": {
-        "headline": "Observatory issues Very Hot Weather Warning as temperatures climb",
-        "dek": "The Hong Kong Observatory issued the warning at 6:45 a.m., forecasting urban highs around 33 degrees and extremely hot conditions in some New Territories areas."
-      },
-      "zh": {
-        "headline": "天文台發出酷熱天氣警告 市民慎防中暑",
-        "dek": "天文台於早上6時45分發出警告，預料市區最高約33度，新界部分地區更熱，局部極端酷熱。"
       }
     }
   ]
