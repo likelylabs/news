@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-10-24T13:13:40+08:00",
+  "generated_at": "2026-10-24T15:23:49+08:00",
   "live_window_hours": 72,
-  "count": 102,
+  "count": 100,
   "articles": [
+    {
+      "id": "2026-10-24-asian-para-games-boccia-gold",
+      "published_at": "2026-10-24T15:25:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-para-games",
+        "boccia",
+        "medals"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-asian-para-games-boccia-gold.json",
+      "en": {
+        "headline": "Hong Kong boccia pair win gold on Asian Para Games final day",
+        "dek": "Leung Yuk-wing and Cheung Yuen beat China 9-0 in the mixed BC4 doubles, while the team also took two bronzes."
+      },
+      "zh": {
+        "headline": "亞殘運硬地滾球 梁育榮張沅9比0勝中國組合奪金",
+        "dek": "港隊在最後比賽日再添一金兩銅，硬地滾球項目表現突出。"
+      }
+    },
+    {
+      "id": "2026-10-24-cross-border-credit-card-fraud-bust",
+      "published_at": "2026-10-24T15:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "fraud",
+        "credit-card",
+        "shenzhen",
+        "cross-border"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-cross-border-credit-card-fraud-bust.json",
+      "en": {
+        "headline": "Police and Shenzhen authorities bust cross-border credit card fraud syndicate",
+        "dek": "Thirty-three people were arrested in a joint operation over at least 60 cases involving more than HK$1.8 million, targeting Hong Kong visitors in Shenzhen."
+      },
+      "zh": {
+        "headline": "警方聯同深圳公安搞破跨境信用卡詐騙集團 拘33人",
+        "dek": "行動涉最少60宗案件，騙款逾180萬港元，專門針對赴深圳熱門地點的香港市民。"
+      }
+    },
+    {
+      "id": "2026-10-24-customs-illicit-cigarettes-9months",
+      "published_at": "2026-10-24T15:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "illicit-cigarettes",
+        "smuggling",
+        "chan-tsz-tat"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-customs-illicit-cigarettes-9months.json",
+      "en": {
+        "headline": "Customs seizes 600 million illicit cigarettes in first nine months",
+        "dek": "Commissioner Chan Tsz-tat said the haul nearly matched the 2025 annual total, with 200 million sticks intercepted en route to other destinations."
+      },
+      "zh": {
+        "headline": "海關首九個月檢獲六億支私煙 接近去年全年總量",
+        "dek": "海關關長陳子達表示，其中2億支原擬運往其他地方，因接獲情報在港截獲。"
+      }
+    },
+    {
+      "id": "2026-10-24-hiv-testing-website-email-misuse",
+      "published_at": "2026-10-24T15:25:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "department-of-health",
+        "hiv",
+        "cybersecurity",
+        "scam"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-hiv-testing-website-email-misuse.json",
+      "en": {
+        "headline": "Health Department investigates suspected misuse of HIV testing website email",
+        "dek": "Fake emails and messages claimed recipients faced HIV infection risk. No data loss or leakage has been found so far, and the site is suspended."
+      },
+      "zh": {
+        "headline": "衛生署HIV測試網站電郵戶口疑被不當使用 暫無資料外洩",
+        "dek": "冒充署方發出電郵或短訊稱收件人有感染風險，網站已暫停運作，市民可致電愛滋熱線預約檢測。"
+      }
+    },
     {
       "id": "2026-10-24-kwai-chung-slope-rat-infestation",
       "published_at": "2026-10-24T13:10:00+08:00",
@@ -2161,140 +2251,6 @@
       "zh": {
         "headline": "消防處澄清絕不會要求商戶墊支代購物品",
         "dek": "部門周三發聲明，指有騙徒假冒消防人員向物理治療診所要求墊付電動輪椅訂金，處方強調絕無此事。"
-      }
-    },
-    {
-      "id": "2026-10-21-accenture-ai-survey",
-      "published_at": "2026-10-21T13:20:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "ai",
-        "business",
-        "survey",
-        "accenture"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-accenture-ai-survey.json",
-      "en": {
-        "headline": "Only 3% of Hong Kong firms fully integrate AI into workflows, survey finds",
-        "dek": "Accenture polled 150 companies and released results on Wednesday, finding strong interest but hurdles including resistance to change and outdated infrastructure."
-      },
-      "zh": {
-        "headline": "調查指僅3%港企將人工智能全面融入工作流程",
-        "dek": "埃森哲周三公布對150家企業的調查結果，指企業有強烈採用意欲，但面臨組織變革阻力及數碼基建過時等障礙。"
-      }
-    },
-    {
-      "id": "2026-10-21-asian-para-games-boccia-final",
-      "published_at": "2026-10-21T13:20:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-para-games",
-        "boccia",
-        "para-athletes"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-asian-para-games-boccia-final.json",
-      "en": {
-        "headline": "SAR boccia athletes set up all-Hong Kong women's BC4 final",
-        "dek": "Cheung Yuen and Vivian Lau both advanced on Wednesday morning, guaranteeing Hong Kong gold and silver in the event at the Asian Para Games."
-      },
-      "zh": {
-        "headline": "港隊女子BC4硬地滾球決賽全港對決",
-        "dek": "張苑及劉詠嫻周三上午先後晉級，確保港隊在亞殘運會該項目奪得金銀牌。"
-      }
-    },
-    {
-      "id": "2026-10-21-esls-catering-vetting-progress",
-      "published_at": "2026-10-21T13:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "labour",
-        "catering",
-        "esls",
-        "employment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-esls-catering-vetting-progress.json",
-      "en": {
-        "headline": "Catering labour import applications drop under tighter vetting rules",
-        "dek": "Labour Department figures show 93 applications failed the new manning ratio since June, while completed cases in September mostly finished within four months."
-      },
-      "zh": {
-        "headline": "餐飲業輸入勞工申請在收緊審批後減少",
-        "dek": "勞工處數據顯示，自六月起有93宗申請因未能符合人手比例而被拒，九月完成審批的個案大部分在四個月內處理完畢。"
-      }
-    },
-    {
-      "id": "2026-10-21-hang-seng-opens-higher",
-      "published_at": "2026-10-21T13:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "stocks",
-        "markets",
-        "hkex"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-hang-seng-opens-higher.json",
-      "en": {
-        "headline": "Hang Seng Index opens 1.14% higher at 24,139",
-        "dek": "Hong Kong stocks rose at the open on Wednesday following gains on Wall Street, with the benchmark topping 24,000 points."
-      },
-      "zh": {
-        "headline": "恒生指數高開271點報24139",
-        "dek": "港股周三高開，跟隨美股升勢，基準指數重上24000點。"
-      }
-    },
-    {
-      "id": "2026-10-21-lifestyle-food-carnival-kwai-chung",
-      "published_at": "2026-10-21T13:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "kwai-chung",
-        "carnival",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-lifestyle-food-carnival-kwai-chung.json",
-      "en": {
-        "headline": "Hong Kong Food Carnival opens Saturday at Kwai Chung Sports Ground",
-        "dek": "The 13th edition runs 24 October to 1 November with more than 330 booths, a new Southeast Asian food zone and a Beyblade tournament."
-      },
-      "zh": {
-        "headline": "第13屆香港美食嘉年華周六葵涌運動場開幕",
-        "dek": "活動由10月24日至11月1日舉行，設逾330個攤位、全新東南亞美食區及爆旋陀螺賽事。"
-      }
-    },
-    {
-      "id": "2026-10-21-lifestyle-halloween-central-installations",
-      "published_at": "2026-10-21T13:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "halloween",
-        "central",
-        "events",
-        "statue-square"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-lifestyle-halloween-central-installations.json",
-      "en": {
-        "headline": "Halloween installations light up Statue Square Gardens through end of October",
-        "dek": "Hongkong Land’s free display at Statue Square Gardens South runs nightly until 31 October, with a family day scheduled on Chater Road this Saturday."
-      },
-      "zh": {
-        "headline": "皇后像廣場花園萬聖節裝置亮燈至月底",
-        "dek": "置地公司在皇后像廣場花園南設免費裝置，每晚亮燈至10月31日，本周六遮打道將舉辦家庭日活動。"
       }
     }
   ]
