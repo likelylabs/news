@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-10-25T01:05:50+08:00",
+  "generated_at": "2026-10-25T03:15:14+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-10-25-lifestyle-wine-dine-festival-2026",
+      "published_at": "2026-10-25T03:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "wine",
+        "food",
+        "festival",
+        "central",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-25/2026-10-25-lifestyle-wine-dine-festival-2026.json",
+      "en": {
+        "headline": "Hong Kong Wine and Dine Festival returns at Central Harbourfront from 29 October",
+        "dek": "The four-day event features more than 340 booths from 31 countries and regions, with star chefs and a new Coffee Village section, running into the early hours on Friday and Saturday."
+      },
+      "zh": {
+        "headline": "香港美酒佳餚巡禮10月29日起中環海濱舉行",
+        "dek": "四日活動設超過340個來自31個國家及地區的攤位，有星級廚師及新增咖啡園專區，周五六延至凌晨1時。"
+      }
+    },
     {
       "id": "2026-10-25-lifestyle-halloween-month-sunday",
       "published_at": "2026-10-25T01:05:00+08:00",
@@ -1984,95 +2008,6 @@
       "zh": {
         "headline": "香港法治指數維持全球第24位 秩序與安全升至第7",
         "dek": "世界正義工程公布2026年指數，香港在東亞及太平洋區排第6，律政司指廉潔及秩序安全仍居全球十大。"
-      }
-    },
-    {
-      "id": "2026-10-22-disgusting-food-museum",
-      "published_at": "2026-10-22T03:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "kai-tak",
-        "food",
-        "museum"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-22/2026-10-22-disgusting-food-museum.json",
-      "en": {
-        "headline": "Disgusting Food Museum continues at Kai Tak through late November",
-        "dek": "The Swedish exhibition at AIRSIDE’s GATE33 Gallery displays more than 80 unusual foods from 35 countries and includes a tasting bar for visitors who want to try them."
-      },
-      "zh": {
-        "headline": "嘔心食物博物館啟德展期至11月底",
-        "dek": "瑞典展覽在啟德AIRSIDE GATE33藝文館展出超過80款來自35個國家的奇特食物，並設試食吧供參觀者挑戰。"
-      }
-    },
-    {
-      "id": "2026-10-22-hk-airlines-okinawa-cancellations",
-      "published_at": "2026-10-22T03:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "aviation",
-        "typhoon",
-        "okinawa",
-        "hong-kong-airlines"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-22/2026-10-22-hk-airlines-okinawa-cancellations.json",
-      "en": {
-        "headline": "Hong Kong Airlines cancels two Okinawa flights today as Typhoon Champi nears",
-        "dek": "The carrier has axed HX658 and HX659 between Hong Kong and Okinawa on Thursday and warned that Taipei services may face delays or cancellations through Saturday."
-      },
-      "zh": {
-        "headline": "港航取消今日兩班沖繩航班 薔琶影響台北航線或受阻",
-        "dek": "香港航空宣布取消周四往返香港與沖繩的HX658及HX659，並指明日起至周六往返台北航班可能延誤或取消。"
-      }
-    },
-    {
-      "id": "2026-10-22-land-records-media-access",
-      "published_at": "2026-10-22T03:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "land-records",
-        "media",
-        "legco",
-        "development-bureau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-22/2026-10-22-land-records-media-access.json",
-      "en": {
-        "headline": "Journalists raise concerns as government tightens media access to land records",
-        "dek": "Subsidiary legislation tabled at the Legislative Council would require journalists to apply for searches on public-interest grounds, with the Land Registrar deciding case by case."
-      },
-      "zh": {
-        "headline": "政府收緊土地查冊安排 傳媒及議員表示關注",
-        "dek": "相關附屬法例已提交立法會先訂立後審議，傳媒若以公眾利益為由查冊須個別申請，由土地註冊處處長考慮。"
-      }
-    },
-    {
-      "id": "2026-10-22-tai-po-fire-report-due",
-      "published_at": "2026-10-22T03:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tai-po",
-        "fire",
-        "inquiry",
-        "accountability"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-22/2026-10-22-tai-po-fire-report-due.json",
-      "en": {
-        "headline": "Independent committee set to submit Tai Po fire report to government today",
-        "dek": "Sources said the judge-led panel investigating the Wang Fuk Court blaze that killed 168 people will deliver its findings on Thursday, with a redacted version expected later."
-      },
-      "zh": {
-        "headline": "大埔宏福苑大火調查委員會料今日提交報告",
-        "dek": "消息指法官領導的委員會將於周四把報告交予政府，經遮蓋後的版本最早下星期公開。"
       }
     }
   ]
