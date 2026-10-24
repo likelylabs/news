@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-24T17:11:44+08:00",
+  "generated_at": "2026-10-24T19:05:03+08:00",
   "live_window_hours": 72,
-  "count": 97,
+  "count": 95,
   "articles": [
+    {
+      "id": "2026-10-24-ce-para-games-medal-haul",
+      "published_at": "2026-10-24T19:03:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "asian-para-games",
+        "medals",
+        "john-lee"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-ce-para-games-medal-haul.json",
+      "en": {
+        "headline": "Chief Executive congratulates Hong Kong athletes on 41-medal Para Games haul",
+        "dek": "Hong Kong, China finished the Asian Para Games in Nagoya with three gold, 14 silver and 24 bronze medals, including a women’s sabre team silver on the final day."
+      },
+      "zh": {
+        "headline": "行政長官恭賀港隊亞殘運奪41面獎牌",
+        "dek": "香港代表團在名古屋亞殘運以3金14銀24銅完結，最終日女子佩劍團體賽再添一銀。"
+      }
+    },
     {
       "id": "2026-10-24-fan-kam-road-bus-stop-crash",
       "published_at": "2026-10-24T17:10:00+08:00",
@@ -2115,73 +2137,6 @@
       "zh": {
         "headline": "新地西沙SIERRA SEA最新價單128伙全數沽清",
         "dek": "代理指，十四鄉項目周三下午展開銷售，傍晚前全數售出，折實售價由約547萬至987萬元。"
-      }
-    },
-    {
-      "id": "2026-10-21-hang-seng-closes-lower",
-      "published_at": "2026-10-21T19:03:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "stocks",
-        "markets",
-        "hkex"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-hang-seng-closes-lower.json",
-      "en": {
-        "headline": "Hang Seng Index closes 0.9 percent lower at 23,651 after early gains reverse",
-        "dek": "The benchmark opened higher following Wall Street gains but ended Wednesday down 216 points, with the tech index also falling and CATL leading declines after results."
-      },
-      "zh": {
-        "headline": "恒指收跌216點報23651 早段升幅全數回吐",
-        "dek": "港股周三高開後轉跌，科技指數同步向下，寧德時代績後急挫逾一成，成交活躍。"
-      }
-    },
-    {
-      "id": "2026-10-21-investment-scams-crypto-loss",
-      "published_at": "2026-10-21T19:03:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "scam",
-        "investment",
-        "crypto",
-        "police",
-        "fraud"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-investment-scams-crypto-loss.json",
-      "en": {
-        "headline": "Police record more than 50 investment scams in a week, total losses exceed $30 million",
-        "dek": "A woman in her 60s lost over $4.5 million after buying cryptocurrency through a fraudster she met on a property platform who posed as an investment expert."
-      },
-      "zh": {
-        "headline": "過去一周逾50宗投資騙案 總損失逾三千萬 六旬婦失450萬",
-        "dek": "一名退休婦人在物業平台認識假冒投資專家的騙徒，多次購買泰達幣轉帳後損失超過450萬港元。"
-      }
-    },
-    {
-      "id": "2026-10-21-star-ferry-fare-increase",
-      "published_at": "2026-10-21T19:03:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "star-ferry",
-        "fare",
-        "exco",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-star-ferry-fare-increase.json",
-      "en": {
-        "headline": "Executive Council approves moderated Star Ferry fare rise from January 2027",
-        "dek": "Weekday adult fares on the Central and Wan Chai to Tsim Sha Tsui routes will rise by 60 cents to $1, with weekend increases of $1 to $1.80; the monthly ticket stays at $190."
-      },
-      "zh": {
-        "headline": "行會批准天星小輪加價 明年一月生效 平日加0.6至1元",
-        "dek": "中環及灣仔往返尖沙咀兩條航線平日成人票上限調至6元、周末8.3元，月票維持190元不變。"
       }
     }
   ]
