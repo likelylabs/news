@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-24-hiv-testing-website-email-misuse",
+  "published_at": "2026-10-24T15:25:00+08:00",
+  "category": "health",
+  "tags": ["health", "department-of-health", "hiv", "cybersecurity", "scam"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "hiv-testing-website-email-misuse-oct24",
+  "en": {
+    "headline": "Health Department investigates suspected misuse of HIV testing website email",
+    "dek": "Fake emails and messages claimed recipients faced HIV infection risk. No data loss or leakage has been found so far, and the site is suspended.",
+    "body": [
+      "The Department of Health said the email account linked to its HIV testing service website was suspected of being improperly used to send emails or short messages falsely claiming that recipients faced a risk of HIV infection and should seek testing promptly.",
+      "The department discovered the situation on Friday night and immediately worked with the outsourced service provider to check the network system. No data loss or leakage has been identified so far. The matter has been reported to police and the Digital Policy Office.",
+      "The HIV testing service website has been suspended from Saturday until cybersecurity experts complete a full investigation and confirm there is no system risk. During the suspension, members of the public can still call the AIDS Hotline to book free, anonymous and confidential HIV antibody tests.",
+      "The department stressed that the messages were not sent by it and that it does not notify individuals in this manner. Anyone receiving such emails or messages should not click links or provide personal information, and should contact police if they have already done so or suspect fraud."
+    ]
+  },
+  "zh": {
+    "headline": "衛生署HIV測試網站電郵戶口疑被不當使用 暫無資料外洩",
+    "dek": "冒充署方發出電郵或短訊稱收件人有感染風險，網站已暫停運作，市民可致電愛滋熱線預約檢測。",
+    "body": [
+      "衛生署表示，其HIV測試服務網站的電郵戶口懷疑被不正當使用，冒充署方向市民發出電郵或短訊，聲稱收件人有感染愛滋病病毒的風險，須盡快求醫和接受檢測。",
+      "署方於周五晚上發現情況後，即時與外判服務供應商全面檢查網絡系統，暫時沒有發現資料遺失或外洩，已向警方報案及通報數字政策辦公室。",
+      "HIV測試服務網站由周六起暫停運作，直至網絡安全專家完成全面調查及審視，確認沒有系統安全風險。暫停期間，市民仍可致電愛滋熱線預約免費、不記名及保密的愛滋病病毒抗體測試。",
+      "署方強調，該等電郵或短訊並非由衛生署發出，署方亦不會以此方式通知個別人士。市民如收到可疑訊息，切勿點擊連結或提供個人資料；如已提供資料或懷疑受騙，應聯絡警方。"
+    ]
+  }
+}
