@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-10-24T11:11:15+08:00",
+  "generated_at": "2026-10-24T13:12:21+08:00",
   "live_window_hours": 72,
-  "count": 99,
+  "count": 102,
   "articles": [
+    {
+      "id": "2026-10-24-kwai-chung-slope-rat-infestation",
+      "published_at": "2026-10-24T13:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "hygiene",
+        "kwai-chung",
+        "fehd",
+        "lcsd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-kwai-chung-slope-rat-infestation.json",
+      "en": {
+        "headline": "Kwai Chung slope becomes rat haven as departments step up control",
+        "dek": "The Food and Environmental Hygiene Department has received three complaints this year about rats on a slope near Tai Lung Street Rest Garden, and joined the Leisure and Cultural Services Department in inspections on…"
+      },
+      "zh": {
+        "headline": "葵涌大隴街斜坡現鼠患 部門加強防治",
+        "dek": "食環署今年接獲 3 宗相關投訴，周五應康文署要求到場視察並提供技術意見。"
+      }
+    },
+    {
+      "id": "2026-10-24-polar-tensor-crypto-office",
+      "published_at": "2026-10-24T13:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "crypto",
+        "finance",
+        "regulation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-polar-tensor-crypto-office.json",
+      "en": {
+        "headline": "Crypto platform on alert lists opens Causeway Bay office",
+        "dek": "Polar Tensor, listed by Hong Kong and Canadian regulators, opened an office at One Hysan Avenue in August, prompting experts to call for scrutiny of its marketing."
+      },
+      "zh": {
+        "headline": "列入監管警示名單的加密貨幣平台在銅鑼灣開設辦公室",
+        "dek": "Polar Tensor 於 8 月在希慎道壹號開設辦公室，專家促請加強監察其推廣手法。"
+      }
+    },
+    {
+      "id": "2026-10-24-ride-hailing-exam-and-platforms",
+      "published_at": "2026-10-24T13:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "ride-hailing",
+        "taxi",
+        "buses",
+        "mable-chan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-ride-hailing-exam-and-platforms.json",
+      "en": {
+        "headline": "Transport chief says 16,000 have applied for taxi and ride-hailing exam",
+        "dek": "Mable Chan expects the first batch of ride-hailing platform licences to be announced from late November to early December, while noting the government will scrutinise bus fare applications."
+      },
+      "zh": {
+        "headline": "運輸局局長指的士及網約車綜合筆試已有 1.6 萬人報考",
+        "dek": "陳美寶表示，網約車平台牌照首批結果料於 11 月底至 12 月初公布，並會審慎考慮巴士加價申請。"
+      }
+    },
     {
       "id": "2026-10-24-private-secondary-schools-growth",
       "published_at": "2026-10-24T11:10:00+08:00",
