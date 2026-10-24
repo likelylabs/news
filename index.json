@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-24T15:24:28+08:00",
+  "generated_at": "2026-10-24T17:10:40+08:00",
   "live_window_hours": 72,
-  "count": 98,
+  "count": 97,
   "articles": [
+    {
+      "id": "2026-10-24-fan-kam-road-bus-stop-crash",
+      "published_at": "2026-10-24T17:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "accident",
+        "pat-heung",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-fan-kam-road-bus-stop-crash.json",
+      "en": {
+        "headline": "Private car mounts pavement at Fan Kam Road bus stop, injuring three",
+        "dek": "A green convertible struck a minibus and then a bus stop in Pat Heung this morning, leaving a man, a woman and a six-year-old girl with minor injuries."
+      },
+      "zh": {
+        "headline": "粉錦公路私家車劍上巴士站 撞傷3名候車途人包括6歲女童",
+        "dek": "今早約8時43分，一輛開篷跑車在八鄉打石湖巴士站附近撞及小巴後衝上行人路，3名候車市民擦傷送院。"
+      }
+    },
+    {
+      "id": "2026-10-24-hku-information-day-new-courses",
+      "published_at": "2026-10-24T17:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "hku",
+        "university",
+        "admissions"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-hku-information-day-new-courses.json",
+      "en": {
+        "headline": "HKU holds undergraduate information day highlighting AI and new programmes",
+        "dek": "The campus event runs until 6 p.m. under the theme Shape a More Sustainable World with AI, and the university has proposed two new bachelor’s programmes for 2027-28."
+      },
+      "zh": {
+        "headline": "港大本科入學資訊日今日舉行 聚焦AI跨學科應用並推介新課程",
+        "dek": "活動以「啟航未來·AI共創可持續世界」為主題，校方計劃於2027-28學年推出文學士精英及機器人工程學兩項新本科課程，正待審批。"
+      }
+    },
+    {
+      "id": "2026-10-24-huanggang-echannel-registration-station",
+      "published_at": "2026-10-24T17:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "immigration",
+        "huanggang",
+        "cross-border"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-24/2026-10-24-huanggang-echannel-registration-station.json",
+      "en": {
+        "headline": "Immigration Department opens new e-Channel registration station at Huanggang port",
+        "dek": "The station on the departure level lets parents register children aged 7 to 17 on the spot for cooperative inspection e-Channels, with the director inspecting operations on Saturday."
+      },
+      "zh": {
+        "headline": "皇崗口岸5樓離境層增設e-道登記站 方便家長即場為子女登記",
+        "dek": "入境處今日表示，新登記站協助未用手機應用程式登記的市民及7至17歲子女，完成後可使用合作查驗e-道，處長郭俊峯到場視察。"
+      }
+    },
     {
       "id": "2026-10-24-asian-para-games-boccia-gold",
       "published_at": "2026-10-24T15:25:00+08:00",
@@ -2116,97 +2182,6 @@
       "zh": {
         "headline": "行會批准天星小輪加價 明年一月生效 平日加0.6至1元",
         "dek": "中環及灣仔往返尖沙咀兩條航線平日成人票上限調至6元、周末8.3元，月票維持190元不變。"
-      }
-    },
-    {
-      "id": "2026-10-21-asian-para-games-boccia-gold",
-      "published_at": "2026-10-21T17:10:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-para-games",
-        "boccia",
-        "para-athletes",
-        "medal"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-asian-para-games-boccia-gold.json",
-      "en": {
-        "headline": "Liu Huiyin takes Hong Kong’s first gold of the Asian Para Games in boccia",
-        "dek": "She defeated teammate Zhang Yuan 7-2 in the women’s BC4 final, securing gold and silver for the SAR as the team added more medals on Wednesday."
-      },
-      "zh": {
-        "headline": "劉慧茵奪亞殘運港隊首金 硬地滾球女子BC4擊敗張沅",
-        "dek": "她在決賽以7比2擊敗隊友張沅，為港隊包辦該項目金銀牌，同日硬地滾球隊再添多面獎牌。"
-      }
-    },
-    {
-      "id": "2026-10-21-central-fake-notes-arrest",
-      "published_at": "2026-10-21T17:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "counterfeit",
-        "central",
-        "bank",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-central-fake-notes-arrest.json",
-      "en": {
-        "headline": "Man arrested after trying to open bank account with fake $1,000 notes in Central",
-        "dek": "Police said a man in his 70s from the mainland was held after bank staff in IFC Tower 2 spotted seven suspected counterfeit notes around midday on Wednesday."
-      },
-      "zh": {
-        "headline": "中環國金男子持7張偽千元鈔開戶被捕",
-        "dek": "警方指一名約70歲內地男子周三中午在國際金融中心二期銀行被揭發，職員發現鈔票質感有異後報警。"
-      }
-    },
-    {
-      "id": "2026-10-21-dss-expansion-non-local-students",
-      "published_at": "2026-10-21T17:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "dss",
-        "non-local-students",
-        "edb"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-dss-expansion-non-local-students.json",
-      "en": {
-        "headline": "48 Direct Subsidy Scheme schools approved for expansion, 170 non-local students enrolled",
-        "dek": "The Education Bureau said the number of self-financed non-local students on student visas is up 13% this year, describing the pilot as off to a good start."
-      },
-      "zh": {
-        "headline": "48間直資學校獲批擴容 本學年170名非本地生入讀",
-        "dek": "教育局指持學生簽證以自資模式入讀的非本地生較去年增13%，形容試點計劃開局良好。"
-      }
-    },
-    {
-      "id": "2026-10-21-peak-trail-lights-suspended",
-      "published_at": "2026-10-21T17:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "peak",
-        "tourism",
-        "environment",
-        "hktb",
-        "lighting"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-21/2026-10-21-peak-trail-lights-suspended.json",
-      "en": {
-        "headline": "Work on Peak trail lighting project suspended amid environmental concerns",
-        "dek": "The Tourism Board’s installations along Lugard and Harlech Roads have stopped, with the project’s future uncertain after complaints about damage to trees and the hillside."
-      },
-      "zh": {
-        "headline": "山頂步行徑燈影項目工程暫停 環境關注升溫",
-        "dek": "旅發局在盧吉道及夏力道的燈光裝置工程已停止，項目未來未明，市民憂慮損樹及破壞山徑環境。"
       }
     }
   ]
