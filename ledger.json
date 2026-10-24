@@ -1,1 +1,251 @@
-PLACEHOLDER_FOR_LEDGER
+{
+  "covered": [
+    {
+      "key": "fire-safety-legislative-reforms-oct23",
+      "id": "2026-10-23-fire-safety-legislative-reforms",
+      "first_seen": "2026-10-23T15:45:00+08:00",
+      "headline_en": "Security chief says legislative reforms on fire safety are forthcoming"
+    },
+    {
+      "key": "chinalco-treasury-centre-hk-oct23",
+      "id": "2026-10-23-chinalco-treasury-centre",
+      "first_seen": "2026-10-23T15:45:00+08:00",
+      "headline_en": "Chinalco sets up corporate treasury centre in Hong Kong"
+    },
+    {
+      "key": "wong-tai-sin-child-abuse-arrests-oct23",
+      "id": "2026-10-23-wong-tai-sin-child-abuse-arrests",
+      "first_seen": "2026-10-23T15:25:00+08:00",
+      "headline_en": "Police arrest two women over alleged child abuse after girl's video plea"
+    },
+    {
+      "key": "champi-hk-taiwan-flights-oct23",
+      "id": "2026-10-23-champi-hk-taiwan-flights-disruption",
+      "first_seen": "2026-10-23T15:25:00+08:00",
+      "headline_en": "More than 70 Hong Kong-Taiwan flights cancelled as Super Typhoon Champi approaches"
+    },
+    {
+      "key": "hottest-frost-solar-term-oct23",
+      "id": "2026-10-23-hottest-frost-solar-term",
+      "first_seen": "2026-10-23T17:10:00+08:00",
+      "headline_en": "Hong Kong records hottest Frost solar term on record at 32.1 degrees"
+    },
+    {
+      "key": "red-fire-danger-warning-oct23",
+      "id": "2026-10-23-red-fire-danger-warning",
+      "first_seen": "2026-10-23T17:10:00+08:00",
+      "headline_en": "Observatory maintains Red Fire Danger Warning as risk remains extreme"
+    },
+    {
+      "key": "asian-para-games-paddlers-medals-oct23",
+      "id": "2026-10-23-asian-para-games-paddlers-medals",
+      "first_seen": "2026-10-23T17:10:00+08:00",
+      "headline_en": "Hong Kong paddlers claim silver and bronze at Asian Para Games"
+    },
+    {
+      "key": "lifestyle-kui-lee-sauce-closing",
+      "id": "2026-10-23-lifestyle-kui-lee-sauce-closing",
+      "first_seen": "2026-10-23T19:03:00+08:00",
+      "headline_en": "Traditional sauce maker Kui Lee to close after 90 years"
+    },
+    {
+      "key": "community-pharmacy-programme-pairing-oct23",
+      "id": "2026-10-23-community-pharmacy-programme-pairing",
+      "first_seen": "2026-10-23T19:03:00+08:00",
+      "headline_en": "Health Bureau to start patient pairing with community pharmacies"
+    },
+    {
+      "key": "degree-subdegree-starting-pay-gap-oct23",
+      "id": "2026-10-23-degree-subdegree-pay-gap",
+      "first_seen": "2026-10-23T19:03:00+08:00",
+      "headline_en": "Degree holders’ starting pay advantage over sub-degree graduates narrows"
+    },
+    {
+      "key": "weekend-weather-outlook-oct24-25",
+      "id": "2026-10-23-weekend-weather-outlook",
+      "first_seen": "2026-10-23T21:06:00+08:00",
+      "headline_en": "Fine and very dry weekend ahead with large day-night temperature gap"
+    },
+    {
+      "key": "hang-seng-close-up-oct23",
+      "id": "2026-10-23-hang-seng-close-up",
+      "first_seen": "2026-10-23T21:06:00+08:00",
+      "headline_en": "Hang Seng Index closes 0.69 per cent higher at 23,093"
+    },
+    {
+      "key": "imported-dengue-cases-oct23",
+      "id": "2026-10-23-imported-dengue-cases",
+      "first_seen": "2026-10-23T21:06:00+08:00",
+      "headline_en": "Two imported dengue cases recorded in the past week"
+    },
+    {
+      "key": "tuen-mun-neuroscience-centre-opening-oct23",
+      "id": "2026-10-23-tuen-mun-neuroscience-centre",
+      "first_seen": "2026-10-23T21:06:00+08:00",
+      "headline_en": "Tuen Mun Hospital opens neuroscience centre for integrated care"
+    },
+    {
+      "key": "strong-monsoon-signal-oct23",
+      "id": "2026-10-23-strong-monsoon-signal",
+      "first_seen": "2026-10-23T23:27:00+08:00",
+      "headline_en": "Observatory maintains Strong Monsoon Signal with northerly winds"
+    },
+    {
+      "key": "tong-nga-ting-flagbearer-para-games",
+      "id": "2026-10-23-tong-nga-ting-flagbearer",
+      "first_seen": "2026-10-23T23:27:00+08:00",
+      "headline_en": "Para fencer Tong Nga-ting named flagbearer for Asian Para Games closing"
+    },
+    {
+      "key": "severe-paediatric-influenza-3yo-oct23",
+      "id": "2026-10-23-severe-paediatric-influenza-3yo",
+      "first_seen": "2026-10-23T23:27:00+08:00",
+      "headline_en": "Three-year-old boy critically ill with influenza complications"
+    },
+    {
+      "key": "finance-committee-newborn-bonus-funding-oct23",
+      "id": "2026-10-23-finance-committee-newborn-bonus-funding",
+      "first_seen": "2026-10-23T23:27:00+08:00",
+      "headline_en": "Finance Committee approves HK$1.6 billion to extend newborn baby bonus"
+    },
+    {
+      "key": "mtr-thank-you-day-half-fare-oct24",
+      "id": "2026-10-24-mtr-thank-you-day-half-fare",
+      "first_seen": "2026-10-24T01:04:00+08:00",
+      "headline_en": "MTR offers half-price fares on Thank You Day today"
+    },
+    {
+      "key": "red-fire-danger-warning-continues-oct24",
+      "id": "2026-10-24-red-fire-danger-warning-continues",
+      "first_seen": "2026-10-24T01:04:00+08:00",
+      "headline_en": "Observatory keeps Red Fire Danger Warning in force"
+    },
+    {
+      "key": "lifestyle-gloomie-museum-harbour-city",
+      "id": "2026-10-24-lifestyle-gloomie-museum-harbour-city",
+      "first_seen": "2026-10-24T01:04:00+08:00",
+      "headline_en": "Gloomie Museum exhibition at Harbour City runs until 25 October"
+    },
+    {
+      "key": "customs-airport-cannabis-seizure-oct23",
+      "id": "2026-10-24-customs-airport-cannabis-seizure",
+      "first_seen": "2026-10-24T03:20:00+08:00",
+      "headline_en": "Customs seizes 5.4 kg of cannabis buds at airport, two men charged"
+    },
+    {
+      "key": "white-powder-letters-media-library-oct23",
+      "id": "2026-10-24-white-powder-letters-media-library",
+      "first_seen": "2026-10-24T03:20:00+08:00",
+      "headline_en": "Police say white powder in letters to media and library poses no blast risk"
+    },
+    {
+      "key": "lifestyle-big-c-kolour-tsuen-wan-closing",
+      "id": "2026-10-24-lifestyle-big-c-kolour-tsuen-wan-closing",
+      "first_seen": "2026-10-24T03:20:00+08:00",
+      "headline_en": "Big C to close its Kolour Tsuen Wan store in early November"
+    },
+    {
+      "key": "lifestyle-halloween-monster-mash-central-oct24",
+      "id": "2026-10-24-lifestyle-halloween-monster-mash-central",
+      "first_seen": "2026-10-24T03:20:00+08:00",
+      "headline_en": "Monster Mash Fest brings family Halloween activities to Central today"
+    },
+    {
+      "key": "ura-taizoom-elevator-advice-oct23",
+      "id": "2026-10-24-ura-taizoom-lift-advice",
+      "first_seen": "2026-10-24T03:25:00+08:00",
+      "headline_en": "URA advises against hiring Taizoom for lift subsidy scheme"
+    },
+    {
+      "key": "gold-refineries-local-production-oct23",
+      "id": "2026-10-24-hk-gold-refineries-deals",
+      "first_seen": "2026-10-24T03:25:00+08:00",
+      "headline_en": "Hong Kong seals deals for local gold refineries to boost trading hub"
+    },
+    {
+      "key": "lifestyle-the-weeknd-kai-tak-shows",
+      "id": "2026-10-24-lifestyle-the-weeknd-kai-tak",
+      "first_seen": "2026-10-24T03:25:00+08:00",
+      "headline_en": "The Weeknd opens four-night Kai Tak Stadium run tonight"
+    },
+    {
+      "key": "legco-land-records-subcommittee-oct23",
+      "id": "2026-10-24-legco-land-records-subcommittee",
+      "first_seen": "2026-10-24T07:05:00+08:00",
+      "headline_en": "Legco sets up subcommittee to review tighter land records access rules"
+    },
+    {
+      "key": "lifestyle-tst-east-halloween-beats",
+      "id": "2026-10-24-lifestyle-tst-east-halloween-beats",
+      "first_seen": "2026-10-24T07:05:00+08:00",
+      "headline_en": "TST East Halloween Beats holds free cosplay DJ party today"
+    },
+    {
+      "key": "cs-dongguan-gba-talent-conference-oct24",
+      "id": "2026-10-24-cs-dongguan-gba-talent-visit",
+      "first_seen": "2026-10-24T09:15:00+08:00",
+      "headline_en": "Chief Secretary Chan departs for Dongguan GBA talent conference"
+    },
+    {
+      "key": "private-secondary-schools-growth-oct24",
+      "id": "2026-10-24-private-secondary-schools-growth",
+      "first_seen": "2026-10-24T11:10:00+08:00",
+      "headline_en": "Private secondary schools rise 56 per cent in five years"
+    },
+    {
+      "key": "tuen-mun-on-ting-girl-knife-oct24",
+      "id": "2026-10-24-tuen-mun-on-ting-girl-knife-incident",
+      "first_seen": "2026-10-24T11:10:00+08:00",
+      "headline_en": "Father arrested after nine-year-old girl injured in Tuen Mun knife incident"
+    },
+    {
+      "key": "shek-kip-mei-park-cat-poison-arrest-oct24",
+      "id": "2026-10-24-shek-kip-mei-park-cat-poison-arrest",
+      "first_seen": "2026-10-24T11:10:00+08:00",
+      "headline_en": "Man arrested over suspected poisoning of stray cats in Shek Kip Mei Park"
+    },
+    {
+      "key": "transport-ride-hailing-exam-permits-oct24",
+      "id": "2026-10-24-ride-hailing-exam-and-platforms",
+      "first_seen": "2026-10-24T13:10:00+08:00",
+      "headline_en": "Transport chief says 16,000 have applied for taxi and ride-hailing exam"
+    },
+    {
+      "key": "kwai-chung-tai-lung-street-rats-oct24",
+      "id": "2026-10-24-kwai-chung-slope-rat-infestation",
+      "first_seen": "2026-10-24T13:10:00+08:00",
+      "headline_en": "Kwai Chung slope becomes rat haven as departments step up control"
+    },
+    {
+      "key": "polar-tensor-crypto-office-alert-list-oct24",
+      "id": "2026-10-24-polar-tensor-crypto-office",
+      "first_seen": "2026-10-24T13:10:00+08:00",
+      "headline_en": "Crypto platform on alert lists opens Causeway Bay office"
+    },
+    {
+      "key": "customs-illicit-cigarettes-9months-oct24",
+      "id": "2026-10-24-customs-illicit-cigarettes-9months",
+      "first_seen": "2026-10-24T15:25:00+08:00",
+      "headline_en": "Customs seizes 600 million illicit cigarettes in first nine months"
+    },
+    {
+      "key": "cross-border-credit-card-fraud-bust-oct24",
+      "id": "2026-10-24-cross-border-credit-card-fraud-bust",
+      "first_seen": "2026-10-24T15:25:00+08:00",
+      "headline_en": "Police and Shenzhen authorities bust cross-border credit card fraud syndicate"
+    },
+    {
+      "key": "hiv-testing-website-email-misuse-oct24",
+      "id": "2026-10-24-hiv-testing-website-email-misuse",
+      "first_seen": "2026-10-24T15:25:00+08:00",
+      "headline_en": "Health Department investigates suspected misuse of HIV testing website email"
+    },
+    {
+      "key": "asian-para-games-boccia-gold-oct24",
+      "id": "2026-10-24-asian-para-games-boccia-gold",
+      "first_seen": "2026-10-24T15:25:00+08:00",
+      "headline_en": "Hong Kong boccia pair win gold on Asian Para Games final day"
+    }
+  ],
+  "updated_at": "2026-10-24T15:25:00+08:00"
+}
