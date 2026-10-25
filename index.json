@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-10-25T09:14:57+08:00",
+  "generated_at": "2026-10-25T11:09:35+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-10-25-lifestyle-cityu-power-of-play-closing",
+      "published_at": "2026-10-25T11:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "cityu",
+        "games",
+        "kowloon-tong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-25/2026-10-25-lifestyle-cityu-power-of-play-closing.json",
+      "en": {
+        "headline": "CityU Power of Play exhibition closes today after three-month run",
+        "dek": "The free show at the Indra and Harry Banga Gallery explores 5,000 years of games from ancient Egypt to esports, with advance online booking required."
+      },
+      "zh": {
+        "headline": "城大「游於藝乎」展覽今日結束 探索五千年遊戲史",
+        "dek": "般哥展覽館免費展覽由七月四日起舉行，涵蓋從古埃及到電競的遊戲歷史、藝術與科技，需網上預約。"
+      }
+    },
+    {
+      "id": "2026-10-25-school-bullying-cases-rise",
+      "published_at": "2026-10-25T11:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "schools",
+        "bullying",
+        "youth"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-25/2026-10-25-school-bullying-cases-rise.json",
+      "en": {
+        "headline": "Schools handle average of 496 bullying cases a year, up 32 per cent",
+        "dek": "Education Bureau figures show public schools averaged 496 cases annually from 2022 to 2025, compared with 377 in the previous three years."
+      },
+      "zh": {
+        "headline": "公營中小學年均處理496宗欺凌個案 較前三年增三成二",
+        "dek": "教育局數據顯示，2022至2025學年公營學校年均處理496宗欺凌個案，較2019至2022學年的377宗上升32%。"
+      }
+    },
     {
       "id": "2026-10-25-hong-kong-open-final-round",
       "published_at": "2026-10-25T09:12:00+08:00",
