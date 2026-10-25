@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-25T11:09:54+08:00",
+  "generated_at": "2026-10-25T13:13:01+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-10-25-kwun-tong-falling-banana",
+      "published_at": "2026-10-25T13:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "kwun-tong",
+        "falling-object",
+        "police",
+        "injury"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-25/2026-10-25-kwun-tong-falling-banana.json",
+      "en": {
+        "headline": "Woman struck by falling banana while exercising in Kwun Tong estate",
+        "dek": "A woman exercising on a fitness bicycle at Po Pui Court was hit on the head by a banana that fell from above at 7:55 a.m., remaining conscious as she was taken to hospital."
+      },
+      "zh": {
+        "headline": "觀塘寶珮苑晨運婦被高空墮下香蕉砸中頭部送院",
+        "dek": "周日早上約7時55分，一名婦人在寶珮苑寶瑛閣對開休憩處踏健身單車時，遭從高處墮下的香蕉砸中頭部，清醒由救護車送院。"
+      }
+    },
+    {
+      "id": "2026-10-25-mpf-full-portability-phase-one",
+      "published_at": "2026-10-25T13:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "mpf",
+        "portability",
+        "mpfa",
+        "employees"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-25/2026-10-25-mpf-full-portability-phase-one.json",
+      "en": {
+        "headline": "MPF full portability first phase starts 21 December, covering about one million employees",
+        "dek": "The Mandatory Provident Fund Schemes Authority says employees who joined or changed jobs after 1 May 2025 can transfer employer contributions once a calendar year from that date."
+      },
+      "zh": {
+        "headline": "強積金全自由行首階段12月21日實施 涵蓋約100萬僱員",
+        "dek": "積金局主席劉麥嘉軒表示，2025年5月1日或之後入職或轉職的僱員，可由該日起每個公曆年一次轉移僱主強制性供款的全數累算權益。"
+      }
+    },
+    {
+      "id": "2026-10-25-surrogacy-influencer-enforcement-referral",
+      "published_at": "2026-10-25T13:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "surrogacy",
+        "enforcement",
+        "health",
+        "influencer"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-25/2026-10-25-surrogacy-influencer-enforcement-referral.json",
+      "en": {
+        "headline": "Council refers suspected commercial surrogacy case involving mainland influencer to…",
+        "dek": "The Council on Human Reproductive Technology said commercial surrogacy and related advertising are prohibited under the Human Reproductive Technology Ordinance."
+      },
+      "zh": {
+        "headline": "人類生殖科技管理局轉介疑涉商業代孕個案予執法部門",
+        "dek": "管理局表示，根據《人類生殖科技條例》，商業代母安排及分發有關廣告屬違法。"
+      }
+    },
     {
       "id": "2026-10-25-lifestyle-cityu-power-of-play-closing",
       "published_at": "2026-10-25T11:10:00+08:00",
@@ -1983,52 +2049,6 @@
       "zh": {
         "headline": "警務處周五為朱振國舉行最高榮譽喪禮",
         "dek": "2005年執勤遭割頸後臥床21年的高級警員朱振國9月離世，警隊周五於紅磡世界殯儀館舉行最高規格喪禮，其後安葬浩園。"
-      }
-    },
-    {
-      "id": "2026-10-22-peng-kanglong-ink-exhibition",
-      "published_at": "2026-10-22T11:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "ink",
-        "tai-kwun",
-        "central"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-22/2026-10-22-peng-kanglong-ink-exhibition.json",
-      "en": {
-        "headline": "Peng Kanglong ink exhibition begins second rotation at Tai Kwun",
-        "dek": "INKstudio’s solo show of nearly 40 works by the contemporary ink artist runs its second rotation from today until 28 November."
-      },
-      "zh": {
-        "headline": "彭康隆水墨個展第二階段於大館墨齋展開",
-        "dek": "近40件作品的個展「迷路只為看花開」第二輪替今日起至11月28日於中環大館展出。"
-      }
-    },
-    {
-      "id": "2026-10-22-shimao-tung-chung-hotels-sale",
-      "published_at": "2026-10-22T11:10:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "shimao",
-        "hotels",
-        "lantau",
-        "real-estate",
-        "debt"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-22/2026-10-22-shimao-tung-chung-hotels-sale.json",
-      "en": {
-        "headline": "Receivers sell Shimao’s Tung Chung hotels for HK$2.7 billion",
-        "dek": "The Sheraton and Four Points by Sheraton complex on Lantau, with 1,219 rooms, is sold to a buyer linked to Malaysian developer ParkCity."
-      },
-      "zh": {
-        "headline": "世茂東涌喜來登酒店銀主盤以27億元出售",
-        "dek": "大嶼山雙品牌酒店共1,219間客房，售予與馬來西亞發展商ParkCity有關的買家，預計年底前完成。"
       }
     }
   ]
