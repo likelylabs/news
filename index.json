@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-25T13:13:01+08:00",
+  "generated_at": "2026-10-25T15:19:31+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-10-25-workweek-weather-outlook-oct26-30",
+      "published_at": "2026-10-25T15:20:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "forecast",
+        "workweek"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-25/2026-10-25-workweek-weather-outlook-oct26-30.json",
+      "en": {
+        "headline": "Work week starts mainly fine, turning windier and cloudier midweek",
+        "dek": "The Hong Kong Observatory forecasts mainly fine conditions on Monday under a northeast monsoon, with increasing cloud and occasional light rain later in the week."
+      },
+      "zh": {
+        "headline": "下周初大致天晴 周中風勢轉大雲量增多",
+        "dek": "天文台預測周一在東北季候風下大致天晴，周中起風勢增強，雲量逐漸增多，間中有微雨。"
+      }
+    },
     {
       "id": "2026-10-25-kwun-tong-falling-banana",
       "published_at": "2026-10-25T13:15:00+08:00",
@@ -1982,73 +2004,6 @@
       "zh": {
         "headline": "油塘26歲男涉向五名女學生露體被捕",
         "dek": "警方拘捕一名26歲男子，涉兩度在鯉魚門道遊樂場及油麗邨附近向中學女學生暴露臀部。"
-      }
-    },
-    {
-      "id": "2026-10-22-hang-seng-half-day-drop",
-      "published_at": "2026-10-22T13:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "stocks",
-        "markets",
-        "china"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-22/2026-10-22-hang-seng-half-day-drop.json",
-      "en": {
-        "headline": "Hang Seng Index drops more than 600 points by midday",
-        "dek": "The benchmark fell below 23,000 points in the morning session as technology and financial shares weighed on the market."
-      },
-      "zh": {
-        "headline": "恒生指數半日跌逾600點失守23000點",
-        "dek": "港股周四上午重挫，科技及金融股拖累，恒指半日報約22972點，較上日收市跌近680點。"
-      }
-    },
-    {
-      "id": "2026-10-22-tai-po-fire-report-submitted",
-      "published_at": "2026-10-22T13:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tai-po",
-        "fire",
-        "inquiry",
-        "wang-fuk-court",
-        "accountability"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-22/2026-10-22-tai-po-fire-report-submitted.json",
-      "en": {
-        "headline": "Independent committee submits Tai Po fire report to Chief Executive",
-        "dek": "The judge-led panel delivered its two-volume findings on the Wang Fuk Court blaze that killed 168 people, with John Lee pledging swift reforms and accountability."
-      },
-      "zh": {
-        "headline": "大埔宏福苑火災獨立委員會向特首提交報告",
-        "dek": "法官領導的委員會周四早上把報告交予李家超，特首表示短期內公布全面改革及追究責任，公開版本須先經法律審視。"
-      }
-    },
-    {
-      "id": "2026-10-22-zhu-chun-kwok-highest-honour-funeral",
-      "published_at": "2026-10-22T13:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "funeral",
-        "zhu-chun-kwok",
-        "honour"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-22/2026-10-22-zhu-chun-kwok-highest-honour-funeral.json",
-      "en": {
-        "headline": "Police to hold highest honour funeral for senior officer Zhu Chun-kwok",
-        "dek": "The force will conduct the ceremony on Friday for the officer who was stabbed while on duty in 2005 and died in September after 21 years."
-      },
-      "zh": {
-        "headline": "警務處周五為朱振國舉行最高榮譽喪禮",
-        "dek": "2005年執勤遭割頸後臥床21年的高級警員朱振國9月離世，警隊周五於紅磡世界殯儀館舉行最高規格喪禮，其後安葬浩園。"
       }
     }
   ]
