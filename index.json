@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-10-25T07:06:14+08:00",
+  "generated_at": "2026-10-25T09:14:57+08:00",
   "live_window_hours": 72,
   "count": 88,
   "articles": [
+    {
+      "id": "2026-10-25-hong-kong-open-final-round",
+      "published_at": "2026-10-25T09:12:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "golf",
+        "hong-kong-open",
+        "fanling"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-25/2026-10-25-hong-kong-open-final-round.json",
+      "en": {
+        "headline": "Four players share lead into final round of Link Hong Kong Open",
+        "dek": "Thomas Pieters, John Catlin, Anirban Lahiri and Caleb Surratt are tied at 14 under after 54 holes at the Hong Kong Golf Club in Fanling."
+      },
+      "zh": {
+        "headline": "香港公開賽決賽日四名球員並列領先",
+        "dek": "湯瑪斯·彼特斯、約翰·卡特林、阿尼爾班·拉希瑞及卡勒伯·蘇拉特在粉嶺香港高爾夫球會三輪後同以低於標準十四桿並列榜首。"
+      }
+    },
+    {
+      "id": "2026-10-25-lifestyle-innocarnival-2026",
+      "published_at": "2026-10-25T09:12:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "technology",
+        "science-park",
+        "exhibition",
+        "family"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-25/2026-10-25-lifestyle-innocarnival-2026.json",
+      "en": {
+        "headline": "InnoCarnival 2026 continues at Science Park through 1 November",
+        "dek": "The nine-day free event organised by the Innovation and Technology Commission features aerospace exhibits, workshops and interactive games under the theme Lead with I&T Dream to Fly High."
+      },
+      "zh": {
+        "headline": "創新科技嘉年華2026科學園進行中 至11月1日",
+        "dek": "創新科技署主辦的九日免費活動以「創科領航 夢想高飛」為主題，設航天專區、工作坊及互動遊戲。"
+      }
+    },
     {
       "id": "2026-10-25-lifestyle-hk-food-carnival",
       "published_at": "2026-10-25T07:05:00+08:00",
@@ -1939,52 +1984,6 @@
       "zh": {
         "headline": "世茂東涌喜來登酒店銀主盤以27億元出售",
         "dek": "大嶼山雙品牌酒店共1,219間客房，售予與馬來西亞發展商ParkCity有關的買家，預計年底前完成。"
-      }
-    },
-    {
-      "id": "2026-10-22-beauty-jabs-cadaver-skin-warning",
-      "published_at": "2026-10-22T09:12:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "department-of-health",
-        "beauty",
-        "pharmaceuticals",
-        "regulation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-22/2026-10-22-beauty-jabs-cadaver-skin-warning.json",
-      "en": {
-        "headline": "Health officials warn of risks from cadaver-derived beauty injections after raids",
-        "dek": "The Department of Health seized unregistered Elravie Re2O products that claim to contain human tissue and arrested a woman, citing lack of clinical safety data."
-      },
-      "zh": {
-        "headline": "衞生署警告屍皮針有公共衞生風險 突擊搜查後拘捕女子",
-        "dek": "署方在四間美容處所檢獲未經註冊的Elravie Re2O針劑，聲稱含人類組織，並指產品缺乏臨床安全數據。"
-      }
-    },
-    {
-      "id": "2026-10-22-ocean-park-halloween-fest",
-      "published_at": "2026-10-22T09:12:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "ocean-park",
-        "halloween",
-        "events",
-        "wong-chuk-hang"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-22/2026-10-22-ocean-park-halloween-fest.json",
-      "en": {
-        "headline": "Ocean Park’s Halloween Fest continues with night-time haunted experiences through early…",
-        "dek": "The Grave Rave season includes Under the Castle and other attractions on designated evenings until 1 November, according to the park."
-      },
-      "zh": {
-        "headline": "海洋公園哈囉喂全園祭持續 指定晚間驚嚇體驗至11月1日",
-        "dek": "主題「詭魅墓會」日間活動每日開放至11月1日，夜間鬼屋等體驗於指定日子舉行。"
       }
     }
   ]
