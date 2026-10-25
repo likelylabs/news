@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-10-26T06:42:31+08:00",
+  "generated_at": "2026-10-26T07:07:17+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-10-26-mid-levels-jewellery-theft",
+      "published_at": "2026-10-26T07:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "mid-levels",
+        "robbery",
+        "jewellery",
+        "robinson-road"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-mid-levels-jewellery-theft.json",
+      "en": {
+        "headline": "Police hunt former domestic helper after HK$600,000 jewellery theft in Mid-Levels",
+        "dek": "A 56-year-old woman reported necklaces, bracelets and rings missing from her Robinson Road flat on Sunday evening; police are seeking a 37-year-old former helper who held a Hong Kong identity card."
+      },
+      "zh": {
+        "headline": "半山羅便臣道單位失竊約60萬元首飾 警追紗37歲前外傭",
+        "dek": "56歲女戶主周日傍晚報案指羅便臣道單位內頸鏈、手鏈及戒指等首飾失蹤，警方正追紗一名37歲持香港身份證的前菲律賓籍外傭。"
+      }
+    },
+    {
+      "id": "2026-10-26-mong-kok-raid-fall-death",
+      "published_at": "2026-10-26T07:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "mong-kok",
+        "police",
+        "fall",
+        "reclamation-street"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-mong-kok-raid-fall-death.json",
+      "en": {
+        "headline": "Man dies after fall during police raid on Mong Kok tenement unit",
+        "dek": "Organised Crime and Triad Bureau officers broke into a flat on Reclamation Street on Sunday night; a man believed to have tried to climb out a window was found unconscious and later died, and 21 people were taken for…"
+      },
+      "zh": {
+        "headline": "旺角新填地街警方行動期間男子疑爬窗墮樓不治 21人被帶走調查",
+        "dek": "有組織罪案及三合會調查科人員周日晚上破門搜查新填地街唐樓單位，一名男子懷疑企圖爬窗離開時失足墮樓，送廣華醫院搶救後不治，警方帶走21人調查。"
+      }
+    },
+    {
+      "id": "2026-10-26-tai-po-three-car-crash",
+      "published_at": "2026-10-26T07:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "tai-po",
+        "traffic-accident",
+        "ting-kok-road"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-tai-po-three-car-crash.json",
+      "en": {
+        "headline": "Two injured in three-car crash on Tai Po Ting Kok Road after wrong-way vehicle",
+        "dek": "A private car travelling the wrong way collided head-on with another near Lei Pik Shan early Sunday, causing a third vehicle to hit the rear; two drivers were taken to hospital."
+      },
+      "zh": {
+        "headline": "大埔汀角路三車相撞兩人受傷 有司機疑逆線行駛",
+        "dek": "周日凌晨約1時，大埔汀角路近犁壁山有私家車疑逆線行駛，與對向車輛迎頭相撞，尾隨車輛再撞前車車尾，兩名司機受傷送院。"
+      }
+    },
     {
       "id": "2026-10-26-lifestyle-tai-kwun-framed-halloween",
       "published_at": "2026-10-26T03:15:00+08:00",
