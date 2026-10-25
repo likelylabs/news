@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-26T01:04:16+08:00",
+  "generated_at": "2026-10-26T03:17:30+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-10-26-lifestyle-tai-kwun-framed-halloween",
+      "published_at": "2026-10-26T03:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "tai-kwun",
+        "halloween",
+        "central",
+        "culture"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-lifestyle-tai-kwun-framed-halloween.json",
+      "en": {
+        "headline": "Tai Kwun stages FRAMED Halloween nights in Central later this week",
+        "dek": "The heritage compound will host free art-inspired costume events in the Prison Yard on 30 and 31 October from 7pm to 10pm."
+      },
+      "zh": {
+        "headline": "大館下周舉行FRAMED藝裝萬聖夜",
+        "dek": "中環大館將於10月30及31日晚上7時至10時在監獄操場免費舉辦藝術服裝主題活動，邀請訪客化身活藝術品。"
+      }
+    },
     {
       "id": "2026-10-26-lifestyle-outdoor-tech-light-expo",
       "published_at": "2026-10-26T01:05:00+08:00",
@@ -1843,72 +1866,6 @@
       "zh": {
         "headline": "M+呈獻《神話與怪物》亞洲幻想藝術大型展覽",
         "dek": "展覽被形容為首個全面探討兩個世紀亞洲幻想視覺文化的大型調查，展出逾400件跨越純藝術、電影、時裝及遊戲的作品。"
-      }
-    },
-    {
-      "id": "2026-10-23-cfs-malachite-green-tuna",
-      "published_at": "2026-10-23T01:05:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "food-safety",
-        "cfs",
-        "tuna",
-        "malachite-green"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-cfs-malachite-green-tuna.json",
-      "en": {
-        "headline": "Centre for Food Safety finds malachite green in imported bluefin tuna sample",
-        "dek": "The sample tested under the routine surveillance programme contained 1.74 parts per billion of the prohibited substance, and the importer has been notified."
-      },
-      "zh": {
-        "headline": "食安中心在進口藍鰕吞拿魚樣本檢出孔雀石綠",
-        "dek": "樣本含孔雀石綠1.74十億分率，中心已知會進口商並追查來源及分銷情況。"
-      }
-    },
-    {
-      "id": "2026-10-23-fan-chi-yuen-sentenced",
-      "published_at": "2026-10-23T01:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "sexual-offences",
-        "high-court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-fan-chi-yuen-sentenced.json",
-      "en": {
-        "headline": "Tertiary student sentenced to 10 years for sexual offences against underage girls",
-        "dek": "High Court Judge Andrew Chan noted the 22-year-old showed no remorse after one 14-year-old victim took her own life following an attempted rape."
-      },
-      "zh": {
-        "headline": "大專生承認性侵未成年少女等12罪 判監10年",
-        "dek": "高等法院法官陳慶偉指22歲被告范致遠毫無悔意，其中一名14歲受害人遭企圖強奸後輕生。"
-      }
-    },
-    {
-      "id": "2026-10-23-link-hong-kong-open-free-entry",
-      "published_at": "2026-10-23T01:05:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "lifestyle",
-        "golf",
-        "hong-kong-open",
-        "fanling",
-        "sport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-link-hong-kong-open-free-entry.json",
-      "en": {
-        "headline": "Link Hong Kong Open offers free public admission for opening rounds",
-        "dek": "The 65th edition continues at Hong Kong Golf Club in Fanling through Sunday, with free entry on Thursday and Friday and complimentary access for under-18s all week."
-      },
-      "zh": {
-        "headline": "領展香港高爾夫球公開賽首兩日免費開放公眾入場",
-        "dek": "第65屆賽事在粉嶺香港哥爾夫球會舉行至周日，周四及周五免費入場，18歲或以下人士全周免費。"
       }
     }
   ]
