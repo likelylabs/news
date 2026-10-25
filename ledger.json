@@ -1,6 +1,24 @@
 {
   "covered": [
     {
+      "key": "workweek-weather-outlook-oct26-30",
+      "id": "2026-10-25-workweek-weather-outlook-oct26-30",
+      "first_seen": "2026-10-25T15:20:00+08:00",
+      "headline_en": "Work week starts mainly fine, turning windier and cloudier midweek"
+    },
+    {
+      "key": "aiib-northern-metropolis-interest",
+      "id": "2026-10-25-aiib-northern-metropolis-interest",
+      "first_seen": "2026-10-25T15:20:00+08:00",
+      "headline_en": "AIIB expresses interest in financing Northern Metropolis projects"
+    },
+    {
+      "key": "talent-schemes-690k-applications-320k-arrivals",
+      "id": "2026-10-25-talent-schemes-arrivals",
+      "first_seen": "2026-10-25T15:20:00+08:00",
+      "headline_en": "Talent schemes draw 690,000 applications with 320,000 arrivals"
+    },
+    {
       "key": "kwun-tong-po-pui-falling-banana",
       "id": "2026-10-25-kwun-tong-falling-banana",
       "first_seen": "2026-10-25T13:15:00+08:00",
@@ -37,5 +55,5 @@
       "headline_en": "Observatory issues Yellow Fire Danger Warning for Sunday"
     }
   ],
-  "updated_at": "2026-10-25T15:19:31+08:00"
+  "updated_at": "2026-10-25T15:20:00+08:00"
 }
