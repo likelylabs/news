@@ -1,1 +1,191 @@
-PLACEHOLDER_LEDGER
+{
+  "covered": [
+    {
+      "key": "tuen-mun-por-lo-shan-hill-fire",
+      "id": "2026-10-25-tuen-mun-hill-fire",
+      "first_seen": "2026-10-25T19:05:00+08:00",
+      "headline_en": "Firefighters battle hill fire near Tuen Mun residential estates"
+    },
+    {
+      "key": "louie-shum-stock-commentator-death",
+      "id": "2026-10-25-louie-shum-death",
+      "first_seen": "2026-10-25T19:05:00+08:00",
+      "headline_en": "Veteran stock commentator Louie Shum dies at 66"
+    },
+    {
+      "key": "oases-strategic-enterprises-hk28bn",
+      "id": "2026-10-25-oases-strategic-enterprises-investment",
+      "first_seen": "2026-10-25T19:05:00+08:00",
+      "headline_en": "First six batches of key enterprises invest HK$28.3 billion"
+    },
+    {
+      "key": "workweek-weather-outlook-oct26-30",
+      "id": "2026-10-25-workweek-weather-outlook-oct26-30",
+      "first_seen": "2026-10-25T15:20:00+08:00",
+      "headline_en": "Work week starts mainly fine, turning windier and cloudier midweek"
+    },
+    {
+      "key": "aiib-northern-metropolis-interest",
+      "id": "2026-10-25-aiib-northern-metropolis-interest",
+      "first_seen": "2026-10-25T15:20:00+08:00",
+      "headline_en": "AIIB expresses interest in financing Northern Metropolis projects"
+    },
+    {
+      "key": "talent-schemes-690k-applications-320k-arrivals",
+      "id": "2026-10-25-talent-schemes-arrivals",
+      "first_seen": "2026-10-25T15:20:00+08:00",
+      "headline_en": "Talent schemes draw 690,000 applications with 320,000 arrivals"
+    },
+    {
+      "key": "kwun-tong-po-pui-falling-banana",
+      "id": "2026-10-25-kwun-tong-falling-banana",
+      "first_seen": "2026-10-25T13:15:00+08:00",
+      "headline_en": "Woman struck by falling banana while exercising in Kwun Tong estate"
+    },
+    {
+      "key": "mpf-full-portability-dec21-phase-one",
+      "id": "2026-10-25-mpf-full-portability-phase-one",
+      "first_seen": "2026-10-25T13:15:00+08:00",
+      "headline_en": "MPF full portability first phase starts 21 December, covering about one million employees"
+    },
+    {
+      "key": "hong-kong-surrogacy-influencer-referral",
+      "id": "2026-10-25-surrogacy-influencer-enforcement-referral",
+      "first_seen": "2026-10-25T13:15:00+08:00",
+      "headline_en": "Council refers suspected commercial surrogacy case involving mainland influencer to enforcement"
+    },
+    {
+      "key": "lifestyle-cityu-power-of-play-closing",
+      "id": "2026-10-25-lifestyle-cityu-power-of-play-closing",
+      "first_seen": "2026-10-25T11:10:00+08:00",
+      "headline_en": "CityU Power of Play exhibition closes today after three-month run"
+    },
+    {
+      "key": "school-bullying-cases-rise",
+      "id": "2026-10-25-school-bullying-cases-rise",
+      "first_seen": "2026-10-25T11:10:00+08:00",
+      "headline_en": "Schools handle average of 496 bullying cases a year, up 32 per cent"
+    },
+    {
+      "key": "yellow-fire-danger-warning",
+      "id": "2026-10-25-yellow-fire-danger-warning",
+      "first_seen": "2026-10-25T07:05:00+08:00",
+      "headline_en": "Observatory issues Yellow Fire Danger Warning for Sunday"
+    },
+    {
+      "key": "lifestyle-halloween-month-sunday-events",
+      "id": "2026-10-25-lifestyle-halloween-month-sunday",
+      "first_seen": "2026-10-25T01:05:00+08:00",
+      "headline_en": "Halloween Month events continue across the city on Sunday"
+    },
+    {
+      "key": "lifestyle-hk-food-carnival-2026",
+      "id": "2026-10-25-lifestyle-hk-food-carnival",
+      "first_seen": "2026-10-25T07:05:00+08:00",
+      "headline_en": "Hong Kong Food Carnival continues at Kwai Chung Sports Ground"
+    },
+    {
+      "key": "lifestyle-innocarnival-2026",
+      "id": "2026-10-25-lifestyle-innocarnival-2026",
+      "first_seen": "2026-10-25T09:12:00+08:00",
+      "headline_en": "InnoCarnival 2026 continues at Science Park through 1 November"
+    },
+    {
+      "key": "lifestyle-wine-dine-festival-2026",
+      "id": "2026-10-25-lifestyle-wine-dine-festival-2026",
+      "first_seen": "2026-10-25T03:15:00+08:00",
+      "headline_en": "Hong Kong Wine and Dine Festival returns at Central Harbourfront from 29 October"
+    },
+    {
+      "key": "hong-kong-open-final-round-oct25",
+      "id": "2026-10-25-hong-kong-open-final-round",
+      "first_seen": "2026-10-25T09:12:00+08:00",
+      "headline_en": "Four players share lead into final round of Link Hong Kong Open"
+    },
+    {
+      "key": "maritime-aviation-training-fund-oct24",
+      "id": "2026-10-25-maritime-aviation-training-fund",
+      "first_seen": "2026-10-25T01:05:00+08:00",
+      "headline_en": "Maritime and Aviation Training Fund commitment reaches HK$500 million"
+    },
+    {
+      "key": "customs-airport-cocaine-seizure-oct25",
+      "id": "2026-10-25-customs-airport-cocaine-seizure",
+      "first_seen": "2026-10-25T21:05:00+08:00",
+      "headline_en": "Customs seize 2.2kg suspected cocaine at airport, charge mainland man"
+    },
+    {
+      "key": "huanggang-overnight-congestion-oct25",
+      "id": "2026-10-25-huanggang-overnight-congestion",
+      "first_seen": "2026-10-25T21:05:00+08:00",
+      "headline_en": "Huanggang checkpoint sees overnight queues after concert and Halloween events"
+    },
+    {
+      "key": "hong-kong-open-catlin-win-oct25",
+      "id": "2026-10-25-hong-kong-open-catlin-win",
+      "first_seen": "2026-10-25T21:05:00+08:00",
+      "headline_en": "John Catlin wins Hong Kong Open by five shots at Fanling"
+    },
+    {
+      "key": "hk-express-power-bank-overheat-jeju",
+      "id": "2026-10-25-hk-express-power-bank-jeju",
+      "first_seen": "2026-10-25T23:22:00+08:00",
+      "headline_en": "HK Express passenger suffers minor burn after power bank overheats on Jeju flight"
+    },
+    {
+      "key": "yau-ma-tei-temple-street-unit-fire",
+      "id": "2026-10-25-yau-ma-tei-temple-street-fire",
+      "first_seen": "2026-10-25T23:22:00+08:00",
+      "headline_en": "Firefighters extinguish unit fire in Yau Ma Tei Temple Street tong lau"
+    },
+    {
+      "key": "ap-lei-chau-care-home-choking-death",
+      "id": "2026-10-25-ap-lei-chau-elderly-choking-death",
+      "first_seen": "2026-10-25T23:22:00+08:00",
+      "headline_en": "91-year-old man dies after suspected choking at Ap Lei Chau care home"
+    },
+    {
+      "key": "lifestyle-outdoor-tech-light-expo-2026",
+      "id": "2026-10-26-lifestyle-outdoor-tech-light-expo",
+      "first_seen": "2026-10-26T01:05:00+08:00",
+      "headline_en": "Outdoor and Tech Light Expo opens today at AsiaWorld-Expo"
+    },
+    {
+      "key": "lifestyle-tai-kwun-framed-halloween",
+      "id": "2026-10-26-lifestyle-tai-kwun-framed-halloween",
+      "first_seen": "2026-10-26T03:15:00+08:00",
+      "headline_en": "Tai Kwun stages FRAMED Halloween nights in Central later this week"
+    },
+    {
+      "key": "mong-kok-reclamation-street-raid-fall-death",
+      "id": "2026-10-26-mong-kok-raid-fall-death",
+      "first_seen": "2026-10-26T07:05:00+08:00",
+      "headline_en": "Man dies after fall during police raid on Mong Kok tenement unit"
+    },
+    {
+      "key": "mid-levels-robinson-road-jewellery-theft",
+      "id": "2026-10-26-mid-levels-jewellery-theft",
+      "first_seen": "2026-10-26T07:05:00+08:00",
+      "headline_en": "Police hunt former domestic helper after HK$600,000 jewellery theft in Mid-Levels"
+    },
+    {
+      "key": "tai-po-ting-kok-road-three-car-crash",
+      "id": "2026-10-26-tai-po-three-car-crash",
+      "first_seen": "2026-10-26T07:05:00+08:00",
+      "headline_en": "Two injured in three-car crash on Tai Po Ting Kok Road after wrong-way vehicle"
+    },
+    {
+      "key": "yuen-long-fairview-park-burglary",
+      "id": "2026-10-26-yuen-long-fairview-park-burglary",
+      "first_seen": "2026-10-26T07:10:00+08:00",
+      "headline_en": "Woman loses HK$349,000 in jewellery and cash after Yuen Long village house burglary"
+    },
+    {
+      "key": "lok-ma-chau-mai-po-hanging-death",
+      "id": "2026-10-26-lok-ma-chau-hanging-death",
+      "first_seen": "2026-10-26T07:10:00+08:00",
+      "headline_en": "Man found hanged at Lok Ma Chau village house, confirmed dead at scene"
+    }
+  ],
+  "updated_at": "2026-10-26T07:10:00+08:00"
+}
