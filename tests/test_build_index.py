@@ -173,6 +173,38 @@ class BuildIndexTests(unittest.TestCase):
         self.assertIn("invalid JSON", stderr)
         self.assertEqual(self.snapshot(), before)
 
+    def test_unescaped_quotes_in_body_are_repaired_and_written_back(self):
+        art = article("quoted-speech")
+        art["en"]["body"][0] = 'He said "we will explore ways for cooperation," then left.'
+        path = self.write_article(art)
+        raw = json.dumps(art, ensure_ascii=False, indent=2).replace('\\"', '"')
+        path.write_text(raw, encoding="utf-8")
+        with self.assertRaises(json.JSONDecodeError):
+            json.loads(raw)
+
+        status, stdout, stderr = self.run_build()
+        self.assertEqual(status, 0, stderr)
+        self.assertIn("escaped unescaped double quotes", stdout)
+        self.assertEqual(json.loads(path.read_text(encoding="utf-8")), art)
+        self.assertEqual(json.loads(self.index.read_text(encoding="utf-8"))["count"], 1)
+
+    def test_check_rejects_unescaped_quotes_without_writing(self):
+        art = article("quoted-speech")
+        art["zh"]["body"][1] = 'Officials said "yes" today.'
+        path = self.write_article(art)
+        path.write_text(json.dumps(art, ensure_ascii=False, indent=2).replace('\\"', '"'), encoding="utf-8")
+        before = self.snapshot()
+        status, _, stderr = self.run_build("--check")
+        self.assertEqual(status, 1)
+        self.assertIn("build would repair", stderr)
+        self.assertEqual(self.snapshot(), before)
+
+    def test_quote_repair_is_a_no_op_on_valid_json(self):
+        text = json.dumps(article(), ensure_ascii=False, indent=2)
+        self.assertIsNone(build_index.repair_unescaped_quotes(text))
+        quoted = json.dumps({"body": ['a "b", c', '"d"']}, indent=2)
+        self.assertIsNone(build_index.repair_unescaped_quotes(quoted))
+
     def test_check_rejects_raw_inputs_that_build_would_normalize(self):
         for changes in ({"tags": ["i&t"]}, {"tags": ["same", "same"]},
                         {"tags": ["a", "b", "c", "d", "e", "f", "g"]},

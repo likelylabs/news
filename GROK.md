@@ -496,6 +496,10 @@ for every article, and with extra care on a breaking one:
    every article** — nothing new goes live, from this run or any later one,
    until it is fixed. If you write the file with code, use
    `ensure_ascii=False`.
+   **Escape quotation marks inside text.** Quoted speech in a body
+   paragraph must be written `\"like this\"` (or use curly “ ” / 「」).
+   A bare `"` ends the string early and makes the file invalid JSON. The
+   Action can repair simple cases, but `--check` still reports them.
 11. **Re-verify the Pre-flight checklist.** If any required item is still
     missing, write and include it before the final commit. If the run would
     otherwise publish nothing, find and publish at least one current

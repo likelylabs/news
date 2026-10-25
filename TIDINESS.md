@@ -63,7 +63,9 @@ mechanical repairs do not change identity, timestamps, body, or news flags.
 The index builder normalizes ASCII tag spelling (for example `i&t` → `i-t`),
 removes duplicate tags in order, and keeps at most six (retaining `lifestyle`
 when present). It also trims overlong headlines and deks to their display
-caps. Every repair is printed in the build log and written back to the source
+caps, and escapes bare ASCII double quotes inside string values (quoted
+speech typed as `"` instead of `\"`), which otherwise make the file invalid
+JSON. Every repair is printed in the build log and written back to the source
 article so article and index agree.
 
 Repairs are applied only after **every article passes validation**. Invalid

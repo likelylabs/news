@@ -126,6 +126,72 @@ def normalize_tags(art):
     return [f"tags {tags!r} → {normalized!r}"]
 
 
+def repair_unescaped_quotes(text):
+    """Escape bare ASCII double quotes inside JSON string values.
+
+    The writer's most common slip is quoting speech with a raw `"` inside a
+    body paragraph, which ends the string early and makes the whole file
+    invalid JSON. A quote that would close a string is treated as closing
+    only when what follows is structural: `:`, `}`, `]`, or `,` followed by
+    another string/value. Any other quote is escaped. Returns the repaired
+    text, or None if nothing was changed. The caller still has to parse and
+    validate the result; a wrong guess simply fails as before.
+    """
+    out = []
+    in_string = False
+    escaped = False
+    changed = False
+    n = len(text)
+    for i, ch in enumerate(text):
+        if not in_string:
+            out.append(ch)
+            if ch == '"':
+                in_string = True
+            continue
+        if escaped:
+            escaped = False
+        elif ch == "\\":
+            escaped = True
+        elif ch == '"':
+            j = i + 1
+            while j < n and text[j] in " \t\r\n":
+                j += 1
+            nxt = text[j] if j < n else ""
+            closes = nxt in ":}]" or nxt == ""
+            if nxt == ",":
+                k = j + 1
+                while k < n and text[k] in " \t\r\n":
+                    k += 1
+                closes = k < n and text[k] in '"{[]}'
+            if closes:
+                in_string = False
+            else:
+                out.append("\\")
+                changed = True
+        out.append(ch)
+    return "".join(out) if changed else None
+
+
+def load_article(path):
+    """Parse an article, repairing bare inner quotes if that is the only fault.
+
+    Returns (art, note). note is None for clean files and a description of
+    the repair otherwise. Raises json.JSONDecodeError (the original error)
+    when the file is invalid and the repair does not produce valid JSON.
+    """
+    text = path.read_text(encoding="utf-8")
+    try:
+        return json.loads(text), None
+    except json.JSONDecodeError as original:
+        repaired = repair_unescaped_quotes(text)
+        if repaired is None:
+            raise
+        try:
+            return json.loads(repaired), f"escaped unescaped double quotes ({original})"
+        except json.JSONDecodeError:
+            raise original from None
+
+
 def valid_timestamp(value):
     if not isinstance(value, str) or not DT_RE.fullmatch(value):
         return False
@@ -241,15 +307,18 @@ def main(argv=None):
     for path in sorted(ARTICLES_DIR.glob("*/*.json")):
         expected_date = path.parent.name
         try:
-            art = json.loads(path.read_text(encoding="utf-8"))
+            art, json_note = load_article(path)
         except json.JSONDecodeError as e:
             all_problems.append(err(path, f"invalid JSON: {e}"))
+            continue
+        if json_note and args.check:
+            all_problems.append(err(path, f"invalid JSON (build would repair: {json_note})"))
             continue
 
         # Normalize only during builds. Hold all rewrites in memory until
         # the entire corpus passes, keeping failed runs read-only.
         if not args.check:
-            notes = normalize_lengths(art) + normalize_tags(art)
+            notes = ([json_note] if json_note else []) + normalize_lengths(art) + normalize_tags(art)
             if notes:
                 pending_writes.append((path, json.dumps(art, ensure_ascii=False, indent=2) + "\n"))
                 normalized.extend(f"{path.relative_to(REPO)}: {n}" for n in notes)
