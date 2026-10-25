@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-10-26T07:07:17+08:00",
+  "generated_at": "2026-10-26T07:11:00+08:00",
   "live_window_hours": 72,
   "count": 86,
   "articles": [
+    {
+      "id": "2026-10-26-lok-ma-chau-hanging-death",
+      "published_at": "2026-10-26T07:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lok-ma-chau",
+        "mai-po",
+        "death"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-lok-ma-chau-hanging-death.json",
+      "en": {
+        "headline": "Man found hanged at Lok Ma Chau village house, confirmed dead at scene",
+        "dek": "Police responded to a report about 11pm on Sunday that a 35-year-old man surnamed Sin had hanged himself with a rope in a room; no suicide note was found and the cause of death is pending autopsy."
+      },
+      "zh": {
+        "headline": "落馬洲米埔村屋35歲男子疑上吊 現場證實不治",
+        "dek": "周日晚上約11時，有人報案指青山公路米埔段一村屋有男子上吊，消防到場解下35歲冼姓男子後證實死亡，現場無遺書，死因待驗屍確定。"
+      }
+    },
+    {
+      "id": "2026-10-26-yuen-long-fairview-park-burglary",
+      "published_at": "2026-10-26T07:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "yuen-long",
+        "burglary",
+        "fairview-park"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-yuen-long-fairview-park-burglary.json",
+      "en": {
+        "headline": "Woman loses HK$349,000 in jewellery and cash after Yuen Long village house burglary",
+        "dek": "A 68-year-old resident of a Fairview Park house on Pinery Road South reported a door prised open late on Sunday, with watches, gold and cash missing; police have classified the case as burglary."
+      },
+      "zh": {
+        "headline": "元朗錦繡花園村屋遭爆竊 68歲女戶主失約34.9萬元財物",
+        "dek": "周日晚上約11時，松濤南路一間村屋68歲侯姓女住戶報案指門被撓開，屋內有搜掠痕跡，失物包括手錶、金粒、頸鏈及現金，警方列爆竊案跟進。"
+      }
+    },
     {
       "id": "2026-10-26-mid-levels-jewellery-theft",
       "published_at": "2026-10-26T07:05:00+08:00",
@@ -1886,51 +1928,6 @@
       "zh": {
         "headline": "蘭桂坊怪物巡禮夜重臨 三個星期六舉行",
         "dek": "活動於10月17、24及31日晚上7時至11時舉行，設有DJ、化妝及街頭表演。"
-      }
-    },
-    {
-      "id": "2026-10-23-hk-gov-condemns-uk-report",
-      "published_at": "2026-10-23T07:10:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "uk-report",
-        "national-security",
-        "government",
-        "sino-british"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-hk-gov-condemns-uk-report.json",
-      "en": {
-        "headline": "Hong Kong government condemns UK six-monthly report as interference",
-        "dek": "The government said the report contained false and misleading remarks and urged Britain to stop interfering in Hong Kong affairs which are internal matters of China."
-      },
-      "zh": {
-        "headline": "特區政府強烈譴責英國半年報告 斥干預香港事務",
-        "dek": "政府指報告內容失實及抹黑，強調《中英聯合聲明》沒有賦予英國干預回歸後香港事務的權利，英國對香港無主權、無治權及無監督權。"
-      }
-    },
-    {
-      "id": "2026-10-23-mplus-myths-monsters",
-      "published_at": "2026-10-23T07:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "mplus",
-        "west-kowloon",
-        "art"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-mplus-myths-monsters.json",
-      "en": {
-        "headline": "M+ presents Myths and Monsters survey of Asian fantasy art",
-        "dek": "The exhibition is described as the first major survey exploring two centuries of Asian fantasy visual culture, featuring more than 400 works across fine art, film, fashion and games."
-      },
-      "zh": {
-        "headline": "M+呈獻《神話與怪物》亞洲幻想藝術大型展覽",
-        "dek": "展覽被形容為首個全面探討兩個世紀亞洲幻想視覺文化的大型調查，展出逾400件跨越純藝術、電影、時裝及遊戲的作品。"
       }
     }
   ]
