@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-25T23:01:13+08:00",
+  "generated_at": "2026-10-25T23:25:02+08:00",
   "live_window_hours": 72,
   "count": 84,
   "articles": [
+    {
+      "id": "2026-10-25-ap-lei-chau-elderly-choking-death",
+      "published_at": "2026-10-25T23:22:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "ap-lei-chau",
+        "elderly",
+        "choking",
+        "care-home"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-25/2026-10-25-ap-lei-chau-elderly-choking-death.json",
+      "en": {
+        "headline": "91-year-old man dies after suspected choking at Ap Lei Chau care home",
+        "dek": "Staff at a home on Lee Chi Road reported that a resident surnamed Kwok lost consciousness while eating wonton vermicelli on Sunday afternoon; he was taken to Queen Mary Hospital but later died."
+      },
+      "zh": {
+        "headline": "鴨脳洲院舍91歲翁疑食雲吞米線鯁喉 送院搶救後不治",
+        "dek": "周日下午約5時43分利枝道院舍職員報案，指姓郭院友進食時疑鯁喉昏迷，送往瑪麗醫院後宣告不治，死因待驗屍確定。"
+      }
+    },
+    {
+      "id": "2026-10-25-hk-express-power-bank-jeju",
+      "published_at": "2026-10-25T23:22:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "hk-express",
+        "aviation",
+        "power-bank",
+        "jeju"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-25/2026-10-25-hk-express-power-bank-jeju.json",
+      "en": {
+        "headline": "HK Express passenger suffers minor burn after power bank overheats on Jeju flight",
+        "dek": "Crew placed the device in a fire containment bag and submerged it in water after smoke appeared under a seat as the aircraft approached the airport, and the plane landed safely."
+      },
+      "zh": {
+        "headline": "香港快運飛濟州航班行動電源過熱冒煙 女乘客拇指輕微灼傷",
+        "dek": "飛機接近濟州機場時，座位下方行動電源冒煙，機組人員即時放入防火袋並浸水，航班安全降落，傷者拒絕救護車自行求醫。"
+      }
+    },
+    {
+      "id": "2026-10-25-yau-ma-tei-temple-street-fire",
+      "published_at": "2026-10-25T23:22:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "yau-ma-tei",
+        "temple-street",
+        "fire",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-25/2026-10-25-yau-ma-tei-temple-street-fire.json",
+      "en": {
+        "headline": "Firefighters extinguish unit fire in Yau Ma Tei Temple Street tong lau",
+        "dek": "The blaze in a flat at 107-109 Temple Street was put out in about 17 minutes on Sunday evening after reports of smoke, with no injuries reported and a cooking stove initially suspected."
+      },
+      "zh": {
+        "headline": "油麻地廟街唐樓單位起火 消防約17分鐘撲熄無人傷",
+        "dek": "周日晚上約9時38分廟街107至109號樓上單位冒煙，消防開喉及煙帽隊灌救，約17分鐘將火撲熄，初步懷疑煮食爐肇禍。"
+      }
+    },
     {
       "id": "2026-10-25-customs-airport-cocaine-seizure",
       "published_at": "2026-10-25T21:05:00+08:00",
@@ -1820,73 +1886,6 @@
       "zh": {
         "headline": "領展香港高爾夫球公開賽首兩日免費開放公眾入場",
         "dek": "第65屆賽事在粉嶺香港哥爾夫球會舉行至周日，周四及周五免費入場，18歲或以下人士全周免費。"
-      }
-    },
-    {
-      "id": "2026-10-22-mtr-thank-you-day-half-fare",
-      "published_at": "2026-10-22T23:21:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "fares",
-        "thank-you-day",
-        "octopus"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-22/2026-10-22-mtr-thank-you-day-half-fare.json",
-      "en": {
-        "headline": "MTR to offer half-fare travel on Thank You Day this Saturday",
-        "dek": "Passengers using Octopus, JoyYou Card or QR codes on most of the network, including East Rail Line border crossings, will pay half fare on 24 October."
-      },
-      "zh": {
-        "headline": "港鐵本周六感謝日提供半價乘車",
-        "dek": "乘客使用八達通、樂悠咗或二維碼乘搭大部分網絡，包括東鐵綫過境車程，24日可享半價車費。"
-      }
-    },
-    {
-      "id": "2026-10-22-php-critical-vulnerabilities-alert",
-      "published_at": "2026-10-22T23:21:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "cybersecurity",
-        "php",
-        "digital-policy-office",
-        "hkcert"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-22/2026-10-22-php-critical-vulnerabilities-alert.json",
-      "en": {
-        "headline": "Digital Policy Office urges immediate patches for critical PHP vulnerabilities",
-        "dek": "The office issued a security alert to government departments and public organisations after two critical flaws in the widely used web language were disclosed."
-      },
-      "zh": {
-        "headline": "數字辦呼籲即時修補PHP嚴重安全漏洞",
-        "dek": "數字政策辦公室向政府部門及公營機構發出保安警報，要求全面檢視系統並盡快完成修補。"
-      }
-    },
-    {
-      "id": "2026-10-22-taizoom-lift-frames-confined",
-      "published_at": "2026-10-22T23:21:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifts",
-        "taizoom",
-        "emsd",
-        "fire-safety",
-        "buildings"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-22/2026-10-22-taizoom-lift-frames-confined.json",
-      "en": {
-        "headline": "Authorities say missing lift fire door frames confined to Taizoom",
-        "dek": "Inspections found no similar omissions among other contractors after 338 buildings serviced by Taizoom Elevator were confirmed to lack the components."
-      },
-      "zh": {
-        "headline": "機電署指升降機缺失防火門框僅限臺日電梯",
-        "dek": "當局表示，除臺日電梯外，其他承辦商維修的升降機未發現同類缺失防火門框組件的情況。"
       }
     }
   ]
