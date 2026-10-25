@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-25T23:25:47+08:00",
+  "generated_at": "2026-10-26T01:04:16+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-10-26-lifestyle-outdoor-tech-light-expo",
+      "published_at": "2026-10-26T01:05:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "asiaworld-expo",
+        "lighting",
+        "hktdc"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-lifestyle-outdoor-tech-light-expo.json",
+      "en": {
+        "headline": "Outdoor and Tech Light Expo opens today at AsiaWorld-Expo",
+        "dek": "The HKTDC fair runs through Thursday for industry visitors, featuring smart outdoor lighting solutions and concurrent with the autumn lighting fair starting tomorrow."
+      },
+      "zh": {
+        "headline": "香港國際戶外及科技照明博覽今日亞洲博覽館開幕",
+        "dek": "貿發局主辦的業界展覽至周四舉行，展示智能戶外照明方案，入場限18歲或以上業內人士，明日起同期有秋季燈飾展。"
+      }
+    },
     {
       "id": "2026-10-25-ap-lei-chau-elderly-choking-death",
       "published_at": "2026-10-25T23:22:00+08:00",
