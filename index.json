@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-26T19:08:00+08:00",
+  "generated_at": "2026-10-26T21:05:29+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-10-26-shek-kwu-chau-fire-extinguished",
+      "published_at": "2026-10-26T21:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "shek-kwu-chau",
+        "fire",
+        "waste-management",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-shek-kwu-chau-fire-extinguished.json",
+      "en": {
+        "headline": "Shek Kwu Chau waste facility fire largely extinguished after four hours",
+        "dek": "Firefighters brought the No. 3 alarm blaze at I·PARK1 under control by mid-afternoon, with about 930 people evacuated and one worker treated for discomfort."
+      },
+      "zh": {
+        "headline": "石鼓洲焚化設施三級火約四小時後大致救熄",
+        "dek": "消防下午將I·PARK1三級火受控並大致救熄，約930人自行疏散，一人不適送院。"
+      }
+    },
     {
       "id": "2026-10-26-civil-service-training-plan",
       "published_at": "2026-10-26T19:04:00+08:00",
