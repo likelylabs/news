@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-10-26T09:17:05+08:00",
+  "generated_at": "2026-10-26T11:11:09+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-10-26-cmpr-li-zili-innovation",
+      "published_at": "2026-10-26T11:08:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "cmpr",
+        "medical-regulation",
+        "li-zili",
+        "health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-cmpr-li-zili-innovation.json",
+      "en": {
+        "headline": "Medical products regulator head pledges independent path, not mini-FDA",
+        "dek": "Li Zili says the new centre will use Hong Kong’s strategic position and mainland drug pipelines to earn global trust while focusing on areas such as rare diseases."
+      },
+      "zh": {
+        "headline": "藥械監管總監李自力強調獨立路線 非縮小版FDA",
+        "dek": "李自力表示，新中心將善用香港策略位置及內地藥品研發管線，建立國際信任，並聚焦罕見病等領域。"
+      }
+    },
+    {
+      "id": "2026-10-26-ia-premium-financing-oversight",
+      "published_at": "2026-10-26T11:08:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "insurance",
+        "premium-financing",
+        "ia",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-ia-premium-financing-oversight.json",
+      "en": {
+        "headline": "Insurance Authority moves to tighten oversight of premium financing market",
+        "dek": "The regulator says aggressive marketing and high leverage have drawn middle-class buyers into arrangements once limited to high-net-worth clients, and a joint inspection with the HKMA continues."
+      },
+      "zh": {
+        "headline": "保監局加強保費融資市場監管 指高槓桿及進取推廣存風險",
+        "dek": "監管局表示，進取市場推廣及高槓桿吸引中產買家，與金管局聯合查察預計年底完成。"
+      }
+    },
+    {
+      "id": "2026-10-26-lifestyle-henderson-wine-dine-pavilion",
+      "published_at": "2026-10-26T11:08:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "wine-dine-festival",
+        "henderson-land",
+        "central"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-lifestyle-henderson-wine-dine-pavilion.json",
+      "en": {
+        "headline": "Henderson Land marks 50 years with first pavilion at Wine and Dine Festival",
+        "dek": "The developer will open a 2,000-square-foot space designed by Zaha Hadid Architects at the Central Harbourfront from 29 October, featuring limited dishes from 12 group restaurants."
+      },
+      "zh": {
+        "headline": "恒基地產50周年首設展館參與美酒佳餚巡禮",
+        "dek": "發展商將於10月29日起在中環海濱設立約2000平方呎空間，由Zaha Hadid Architects設計，集合旗下12間餐廳限定菜式。"
+      }
+    },
     {
       "id": "2026-10-26-hkust-medical-school-leung",
       "published_at": "2026-10-26T09:20:00+08:00",
@@ -1926,97 +1993,6 @@
       "zh": {
         "headline": "消息指大埔火災報告點名四個政府部門須負責",
         "dek": "獨立委員會周四提交的報告據悉點名房屋局獨立審查組等四個部門失職，但沒有點名個別官員。"
-      }
-    },
-    {
-      "id": "2026-10-23-air-quality-health-risk",
-      "published_at": "2026-10-23T11:10:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "air-quality",
-        "aqhi",
-        "pollution",
-        "health",
-        "epd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-air-quality-health-risk.json",
-      "en": {
-        "headline": "Air quality reaches serious levels, experts urge elderly to stay indoors",
-        "dek": "The Environmental Protection Department recorded serious and very high health risk levels at several stations amid elevated ozone, with conditions expected to persist for a few more days."
-      },
-      "zh": {
-        "headline": "空氣質素達嚴重水平 專家建議長者留在室內",
-        "dek": "環保署多個監測站錄得嚴重及甚高健康風險級別，主因臭氧水平上升，料情況未來數日持續。"
-      }
-    },
-    {
-      "id": "2026-10-23-customs-cannabis-airport",
-      "published_at": "2026-10-23T11:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "drugs",
-        "airport",
-        "cannabis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-customs-cannabis-airport.json",
-      "en": {
-        "headline": "Customs seizes 8kg of cannabis at airport, two men arrested",
-        "dek": "Two incoming passengers from Bangkok were arrested on Thursday after officers found about 8 kilograms of suspected cannabis buds valued at roughly HK$1.7 million in their luggage."
-      },
-      "zh": {
-        "headline": "海關機場檢獲8公斤大麻花 兩名男子被捕",
-        "dek": "兩名從曼谷抵港的入境乘客周四被截獲，行李內藏約8公斤懷疑大麻花，市值約170萬港元。"
-      }
-    },
-    {
-      "id": "2026-10-23-hsbc-redcoin-payme-launch",
-      "published_at": "2026-10-23T11:10:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hsbc",
-        "stablecoin",
-        "payme",
-        "fintech",
-        "digital-assets"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-hsbc-redcoin-payme-launch.json",
-      "en": {
-        "headline": "HSBC launches RedCoin stablecoin for PayMe users",
-        "dek": "The Hong Kong dollar-backed stablecoin is rolling out in stages from Friday for more than 3.3 million PayMe users, supporting peer-to-peer and merchant payments."
-      },
-      "zh": {
-        "headline": "滙豐推出RedCoin穩定幣供PayMe用戶使用",
-        "dek": "港元穩定幣由周五起分階段向逾330萬名PayMe用戶推出，支援個人對個人及商戶付款。"
-      }
-    },
-    {
-      "id": "2026-10-23-lifestyle-lkf-halloween-monster-mash",
-      "published_at": "2026-10-23T11:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "halloween",
-        "lan-kwai-fong",
-        "events",
-        "cosplay"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-lifestyle-lkf-halloween-monster-mash.json",
-      "en": {
-        "headline": "Lan Kwai Fong Monster Mash returns for three Halloween Saturdays",
-        "dek": "The district’s cosplay and street party events run on 17, 24 and 31 October from 7pm to 11pm, with DJs, face painting and roaming performances."
-      },
-      "zh": {
-        "headline": "蘭桂坊怪物巡禮夜重臨 三個星期六舉行",
-        "dek": "活動於10月17、24及31日晚上7時至11時舉行，設有DJ、化妝及街頭表演。"
       }
     }
   ]
