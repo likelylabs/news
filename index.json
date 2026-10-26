@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-26T17:13:28+08:00",
+  "generated_at": "2026-10-26T19:07:23+08:00",
   "live_window_hours": 72,
   "count": 90,
   "articles": [
+    {
+      "id": "2026-10-26-civil-service-training-plan",
+      "published_at": "2026-10-26T19:04:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "civil-service",
+        "training",
+        "legco",
+        "ingrid-yeung"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-civil-service-training-plan.json",
+      "en": {
+        "headline": "Civil Service Bureau outlines five-year training plan with AI and patriotic education",
+        "dek": "Secretary for the Civil Service Ingrid Yeung told lawmakers the Continuous Learning Scheme for senior officials will expand to mid-level managers within two years."
+      },
+      "zh": {
+        "headline": "公務員事務局闡述五年培訓計劃 加強愛國及人工智能教育",
+        "dek": "公務員事務局局長楊何蓓茵向立法會議員表示，持續學習計劃將於兩年內由高級公務員推展至中級管理人員。"
+      }
+    },
+    {
+      "id": "2026-10-26-eco-expo-asia-opens",
+      "published_at": "2026-10-26T19:04:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "eco-expo",
+        "asiaworld-expo",
+        "environment",
+        "hktdc"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-eco-expo-asia-opens.json",
+      "en": {
+        "headline": "Eco Expo Asia 2026 opens at AsiaWorld-Expo with new ASEAN Pavilion",
+        "dek": "The four-day trade fair, co-organised by the HKTDC and the Environment and Ecology Bureau, runs until 29 October under the theme Connecting the World for a Sustainable Future."
+      },
+      "zh": {
+        "headline": "國際環保博覽2026今起亞洲國際博覽館開幕 設東盟展館",
+        "dek": "由貿發局與環境及生態局合辦的四日展會以「連接世界 共建可持續未來」為主題，展期至29日，最後一日設公眾日免費入場。"
+      }
+    },
+    {
+      "id": "2026-10-26-hang-seng-close-up-118",
+      "published_at": "2026-10-26T19:04:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hang-seng",
+        "stocks",
+        "property",
+        "oil"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-hang-seng-close-up-118.json",
+      "en": {
+        "headline": "Hang Seng closes up 118 points as property and oil stocks lead",
+        "dek": "The index ended Monday at 23,211.81, a 0.51 per cent gain, with mainland banks and oil counters strong while technology and AI hardware shares lagged."
+      },
+      "zh": {
+        "headline": "港股高收 118點 地產內銀及三桶油造好",
+        "dek": "恒生指數周一收報23211點，升幅0.51%，地產及內銀股領先，科技及人工智能硬件股份則偏弱。"
+      }
+    },
     {
       "id": "2026-10-26-asian-games-athletes-honoured",
       "published_at": "2026-10-26T17:10:00+08:00",
@@ -1941,74 +2007,6 @@
       "zh": {
         "headline": "周末天晴非常乾燥 日夜溫差仍然較大",
         "dek": "天文台預測周六天晴炎熱，最高氣溫約32度，周日大致天晴及乾燥。"
-      }
-    },
-    {
-      "id": "2026-10-23-community-pharmacy-programme-pairing",
-      "published_at": "2026-10-23T19:03:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "pharmacy",
-        "primary-care",
-        "hhb"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-community-pharmacy-programme-pairing.json",
-      "en": {
-        "headline": "Health Bureau to start patient pairing with community pharmacies",
-        "dek": "The first phase of the Community Pharmacy Programme will pilot pairing arrangements in four districts by the end of October, with 20 designated pharmacies."
-      },
-      "zh": {
-        "headline": "醫衞局月底啟動社區藥房病人配對安排",
-        "dek": "社區藥房計劃首階段將於十月底在東區、油尖旺、沙田及元朗試行，共20間指定藥房。"
-      }
-    },
-    {
-      "id": "2026-10-23-degree-subdegree-pay-gap",
-      "published_at": "2026-10-23T19:03:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "graduates",
-        "salary",
-        "survey",
-        "hkbu"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-degree-subdegree-pay-gap.json",
-      "en": {
-        "headline": "Degree holders’ starting pay advantage over sub-degree graduates narrows",
-        "dek": "A Baptist University survey found the gap between bachelor’s and sub-degree starting salaries fell to HK$2,500 this year from HK$3,000 last year."
-      },
-      "zh": {
-        "headline": "調查指學位與副學位畢業生起薪差距收窄至2500元",
-        "dek": "浸會大學大灣區薪酬調查顯示，本科與副學位畢業生平均起薪差距由去年3000元降至今年2500元。"
-      }
-    },
-    {
-      "id": "2026-10-23-lifestyle-kui-lee-sauce-closing",
-      "published_at": "2026-10-23T19:03:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "heritage",
-        "northern-metropolis",
-        "closing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-lifestyle-kui-lee-sauce-closing.json",
-      "en": {
-        "headline": "Traditional sauce maker Kui Lee to close after 90 years",
-        "dek": "The family business, established in 1936, will shut its Wan Chai shop once remaining stock is sold after its Kwu Tung factory was cleared for the Northern Metropolis."
-      },
-      "zh": {
-        "headline": "經營九十年醬園鉅利將結業 古洞廠房因北都收地停產",
-        "dek": "1936年成立的家族醬園，在古洞廠房因北部都會區收地清拆後，灣仔零售店售罄存貨即永久結業。"
       }
     }
   ]
