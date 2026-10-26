@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-10-26T15:25:15+08:00",
+  "generated_at": "2026-10-26T17:12:48+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-10-26-asian-games-athletes-honoured",
+      "published_at": "2026-10-26T17:10:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "asian-games",
+        "john-lee",
+        "sports",
+        "medals"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-asian-games-athletes-honoured.json",
+      "en": {
+        "headline": "Lee honours Hong Kong athletes for record Asian Games medal haul",
+        "dek": "Chief Executive John Lee presented certificates to top performers at a Monday ceremony after the team won 11 golds and 54 medals in total at the Aichi-Nagoya Games."
+      },
+      "zh": {
+        "headline": "李家超嘉許亞運港隊創紀錄獎牌表現",
+        "dek": "行政長官周一舉行嘉許禮，向名古屋亞運表現卓越的運動員頒發證書，港隊共奪11金、54面獎牌。"
+      }
+    },
+    {
+      "id": "2026-10-26-child-covid-vaccine-arrival",
+      "published_at": "2026-10-26T17:10:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "covid-vaccine",
+        "children",
+        "chp",
+        "vaccination"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-child-covid-vaccine-arrival.json",
+      "en": {
+        "headline": "COVID vaccine for children arrives, free jabs start Thursday",
+        "dek": "The Centre for Health Protection said the Spikevax XFG mRNA vaccine for ages six months to 11 years is in Hong Kong, with booking opening at noon tomorrow."
+      },
+      "zh": {
+        "headline": "供兒童接種新冠疫苗抵港 周四起免費接種",
+        "dek": "衛生防護中心表示，供6個月至11歲兒童使用的Spikevax XFG疫苗已運抵本港，市民可明日中午起預約。"
+      }
+    },
+    {
+      "id": "2026-10-26-customs-river-smuggling-pharma",
+      "published_at": "2026-10-26T17:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "smuggling",
+        "pharmaceuticals",
+        "macau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-customs-river-smuggling-pharma.json",
+      "en": {
+        "headline": "Customs seize HK$33 million in suspected smuggled goods from river boats",
+        "dek": "Officers intercepted two vessels bound for Macau on October 9 and 13, finding about 740,000 suspected pharmaceutical items among the undeclared cargo."
+      },
+      "zh": {
+        "headline": "海關破兩宗內河船走私案 檢值約3300萬元貨物",
+        "dek": "海關本月9日及13日抽查兩艘往澳門的內河船，檢獲包括約74萬件懷疑藥劑製品在內的未列艙單貨物。"
+      }
+    },
+    {
+      "id": "2026-10-26-northern-metropolis-marathon-arrangements",
+      "published_at": "2026-10-26T17:10:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "marathon",
+        "northern-metropolis",
+        "transport",
+        "fanling"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-northern-metropolis-marathon-arrangements.json",
+      "en": {
+        "headline": "Northern Metropolis Marathon draws 15,000 as traffic plans announced",
+        "dek": "The Heung Yee Kuk’s first marathon on 1 November will close sections of roads including Lung Shan Tunnel and Fanling Bypass, with early MTR services arranged."
+      },
+      "zh": {
+        "headline": "北都馬拉松吸引約1.5萬人 當局公布交通安排",
+        "dek": "鄉議局11月1日首辦北部都會區馬拉松，龍山隧道及粉嶺繞道部分路段將臨時封閉，港鐵提早開出首班車。"
+      }
+    },
     {
       "id": "2026-10-26-sfc-tokenised-funds-secondary-trading",
       "published_at": "2026-10-26T15:20:00+08:00",
@@ -1921,120 +2009,6 @@
       "zh": {
         "headline": "經營九十年醬園鉅利將結業 古洞廠房因北都收地停產",
         "dek": "1936年成立的家族醬園，在古洞廠房因北部都會區收地清拆後，灣仔零售店售罄存貨即永久結業。"
-      }
-    },
-    {
-      "id": "2026-10-23-asian-para-games-paddlers-medals",
-      "published_at": "2026-10-23T17:10:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-para-games",
-        "table-tennis",
-        "medals",
-        "nagoya"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-asian-para-games-paddlers-medals.json",
-      "en": {
-        "headline": "Hong Kong paddlers claim silver and bronze at Asian Para Games",
-        "dek": "Chiu Kan-shan and Wong Yue-ching took silver in women's doubles while Ho Ka-sing and Wong Chi-yin secured bronze in men's doubles in Nagoya on Friday."
-      },
-      "zh": {
-        "headline": "港隊乒乓選手於亞殘運再添銀銅牌",
-        "dek": "趙君山與黃宇晴在女子雙打奪銀，何嘉成與黃志賢在男子雙打獲銅，賽事周五在名古屋舉行。"
-      }
-    },
-    {
-      "id": "2026-10-23-hottest-frost-solar-term",
-      "published_at": "2026-10-23T17:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "temperature",
-        "solar-term",
-        "hko",
-        "record"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-hottest-frost-solar-term.json",
-      "en": {
-        "headline": "Hong Kong records hottest Frost solar term on record at 32.1 degrees",
-        "dek": "The Observatory said the temperature at its headquarters reached 32.1 Celsius by 2.30pm on Friday, breaking the previous mark for the traditional calendar period."
-      },
-      "zh": {
-        "headline": "本港錄得有紀錄以來最熱霜降 天文台總部下午達32.1度",
-        "dek": "天文台表示，周五下午2時半總部氣溫達32.1度，打破該節氣的歷史最高紀錄。"
-      }
-    },
-    {
-      "id": "2026-10-23-red-fire-danger-warning",
-      "published_at": "2026-10-23T17:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "fire-danger",
-        "hko",
-        "warning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-red-fire-danger-warning.json",
-      "en": {
-        "headline": "Observatory maintains Red Fire Danger Warning as risk remains extreme",
-        "dek": "The Hong Kong Observatory issued the warning at 6am on Friday, advising the public to take extra fire precautions amid dry conditions."
-      },
-      "zh": {
-        "headline": "天文台維持紅色火災危險警告 火險極高",
-        "dek": "香港天文台周五上午6時發出警告，提醒市民在乾燥天氣下特別提高警覺並採取防火措施。"
-      }
-    },
-    {
-      "id": "2026-10-23-chinalco-treasury-centre",
-      "published_at": "2026-10-23T15:45:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "chinalco",
-        "treasury",
-        "invest-hk",
-        "offshore",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-chinalco-treasury-centre.json",
-      "en": {
-        "headline": "Chinalco sets up corporate treasury centre in Hong Kong",
-        "dek": "The state-owned aluminium giant will use the new entity to manage offshore funds, financing and risk, highlighting the city’s role as a hub."
-      },
-      "zh": {
-        "headline": "中鋁集團在港設立企業財資中心",
-        "dek": "這家國有鋁業巨頭將透過新實體管理離岸資金、融資及風險，突顯香港作為財資中心樞紐的角色。"
-      }
-    },
-    {
-      "id": "2026-10-23-fire-safety-legislative-reforms",
-      "published_at": "2026-10-23T15:45:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "fire-safety",
-        "tai-po-fire",
-        "chris-tang",
-        "legislation",
-        "security"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-fire-safety-legislative-reforms.json",
-      "en": {
-        "headline": "Security chief says legislative reforms on fire safety are forthcoming",
-        "dek": "Chris Tang told a radio programme that administrative measures already taken would be followed by legislative changes after the Tai Po fire report."
-      },
-      "zh": {
-        "headline": "保安局長指消防安全立法改革即將推出",
-        "dek": "鄧炳強在電台節目表示，過去一年已採取行政措施，隨大埔火災報告提交後將有立法改革。"
       }
     }
   ]
