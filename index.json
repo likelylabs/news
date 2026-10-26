@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-26T11:11:09+08:00",
+  "generated_at": "2026-10-26T11:17:35+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-10-26-lifestyle-mplus-myths-monsters",
+      "published_at": "2026-10-26T11:25:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "m-plus",
+        "exhibition",
+        "west-kowloon",
+        "fantasy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-lifestyle-mplus-myths-monsters.json",
+      "en": {
+        "headline": "M+ Myths and Monsters exhibition continues through April at West Kowloon",
+        "dek": "The special show tracing 200 years of fantasy imagery across Asia, from 19th-century mythology to manga and digital culture, remains on view at the museum until 4 April 2027."
+      },
+      "zh": {
+        "headline": "M+「神話與怪獸」展覽延續至明年4月 西九展出亞洲奇幻視覺文化",
+        "dek": "博物館特別展覽橫跨200年亞洲奇幻影像，由十九世紀神話到漫畫及數碼文化，展期至2027年4月4日。"
+      }
+    },
+    {
+      "id": "2026-10-26-yuen-long-warehouse-dog-bite",
+      "published_at": "2026-10-26T11:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "yuen-long",
+        "dog-attack",
+        "pok-oi-hospital"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-yuen-long-warehouse-dog-bite.json",
+      "en": {
+        "headline": "Warehouse worker bitten by dog after chase by three animals in Yuen Long",
+        "dek": "A 26-year-old man suffered a minor calf wound around 8am on Monday when one of three warehouse dogs bit him near Kam Tin Road; Agriculture, Fisheries and Conservation Department staff took the dog for checks."
+      },
+      "zh": {
+        "headline": "元朗貨倉男工被三隻倉狗追趕咬傷小腿送院",
+        "dek": "周一早上約8時，26歲男倉務員在錦壐路附近被三隻狗追趕，其中一隻咬傷左小腿，傷勢輕微，漁護署人員已將涉事狗隻帶走檢查。"
+      }
+    },
     {
       "id": "2026-10-26-cmpr-li-zili-innovation",
       "published_at": "2026-10-26T11:08:00+08:00",
