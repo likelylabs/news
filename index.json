@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T21:05:29+08:00",
+  "generated_at": "2026-10-26T21:06:07+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 87,
   "articles": [
     {
       "id": "2026-10-26-shek-kwu-chau-fire-extinguished",
       "published_at": "2026-10-26T21:05:00+08:00",
-      "updated_at": null,
+      "updated_at": "2026-10-26T21:10:00+08:00",
       "category": "community",
       "tags": [
         "shek-kwu-chau",
@@ -1940,95 +1940,6 @@
       "zh": {
         "headline": "殘疾人劍擊選手湯雅婷獲委任亞殘運閉幕禮持旗手",
         "dek": "中國香港殘疾人奧委會宣布，在名古屋奪得三面獎牌的湯雅婷將於周六閉幕禮擔任持旗手。"
-      }
-    },
-    {
-      "id": "2026-10-23-hang-seng-close-up",
-      "published_at": "2026-10-23T21:06:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "stocks",
-        "market",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-hang-seng-close-up.json",
-      "en": {
-        "headline": "Hang Seng Index closes 0.69 per cent higher at 23,093",
-        "dek": "Hong Kong stocks rebounded on Friday, with the benchmark rising 158 points on turnover of about HK$250 billion after earlier fluctuations."
-      },
-      "zh": {
-        "headline": "恒生指數收報23093點 升0.69%",
-        "dek": "港股周五反彈，恒指升158點，全日成交約2498億元，早段曾波動後回升。"
-      }
-    },
-    {
-      "id": "2026-10-23-imported-dengue-cases",
-      "published_at": "2026-10-23T21:06:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "dengue",
-        "chp",
-        "mosquito"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-imported-dengue-cases.json",
-      "en": {
-        "headline": "Two imported dengue cases recorded in the past week",
-        "dek": "The Centre for Health Protection said the patients had visited India and Bangladesh, bringing this year's total to 36 cases, mostly imported."
-      },
-      "zh": {
-        "headline": "過去一周新增兩宗外地傳入登革熱個案",
-        "dek": "衛生防護中心表示，兩名病人分別到過印度及孟加拉國，今年累計36宗，大多為輸入個案。"
-      }
-    },
-    {
-      "id": "2026-10-23-tuen-mun-neuroscience-centre",
-      "published_at": "2026-10-23T21:06:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "hospital",
-        "tuen-mun",
-        "neuroscience"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-tuen-mun-neuroscience-centre.json",
-      "en": {
-        "headline": "Tuen Mun Hospital opens neuroscience centre for integrated care",
-        "dek": "The centre co-locates wards, operating theatres and rehabilitation on one floor, introducing advanced technologies including magnetic resonance-guided focused ultrasound."
-      },
-      "zh": {
-        "headline": "屯門醫院神經醫學中心開幕 提供跨專科綜合服務",
-        "dek": "中心將病房、手術室及復康設施集中同一樓層，並引入磁波刀及術中磁力共振等先進科技。"
-      }
-    },
-    {
-      "id": "2026-10-23-weekend-weather-outlook",
-      "published_at": "2026-10-23T21:06:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "weekend",
-        "hko",
-        "forecast",
-        "dry"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-weekend-weather-outlook.json",
-      "en": {
-        "headline": "Fine and very dry weekend ahead with large day-night temperature gap",
-        "dek": "The Observatory forecasts fine and hot conditions on Saturday with a high near 32 degrees, followed by mainly fine and dry weather on Sunday."
-      },
-      "zh": {
-        "headline": "周末天晴非常乾燥 日夜溫差仍然較大",
-        "dek": "天文台預測周六天晴炎熱，最高氣溫約32度，周日大致天晴及乾燥。"
       }
     }
   ]
