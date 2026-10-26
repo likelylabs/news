@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-26T11:18:30+08:00",
+  "generated_at": "2026-10-26T13:14:00+08:00",
   "live_window_hours": 72,
   "count": 91,
   "articles": [
+    {
+      "id": "2026-10-26-belt-road-green-innovation-conference",
+      "published_at": "2026-10-26T13:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "belt-and-road",
+        "green-finance",
+        "john-lee",
+        "environment"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-belt-road-green-innovation-conference.json",
+      "en": {
+        "headline": "Lee says Hong Kong can mobilise multi-currency capital for green projects",
+        "dek": "At the first Belt and Road Green Innovation Conference held in the city, the Chief Executive announced a green technology bridgehead plan and a supercharging demonstration station for next year."
+      },
+      "zh": {
+        "headline": "李家超：香港可跨貨幣動員資本支持綠色發展",
+        "dek": "一帶一路綠色創新大會首度在港舉行，行政長官宣布明年推出綠色科技橋頭堡計劃及超級充電技術示範站。"
+      }
+    },
+    {
+      "id": "2026-10-26-cuhk-acupuncture-tinnitus-study",
+      "published_at": "2026-10-26T13:15:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "cuhk",
+        "acupuncture",
+        "tinnitus",
+        "chinese-medicine"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-cuhk-acupuncture-tinnitus-study.json",
+      "en": {
+        "headline": "CUHK study finds electroacupuncture eases tinnitus in middle-aged adults",
+        "dek": "A trial of 90 patients aged 50 to 70, commissioned by Pok Oi Hospital, reported lower loudness scores and more than half moving from moderate to mild after five weeks of treatment."
+      },
+      "zh": {
+        "headline": "中大研究：電針可減輕中老年耳鳴困擾",
+        "dek": "博愛醫院委託中大中醫學院進行的研究招募90名50至70歲患者，五周療程後耳鳴響度評分下降，逾半由中度改善至輕度。"
+      }
+    },
+    {
+      "id": "2026-10-26-wah-fu-estate-phase1-early-2034",
+      "published_at": "2026-10-26T13:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "wah-fu-estate",
+        "redevelopment",
+        "public-housing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-wah-fu-estate-phase1-early-2034.json",
+      "en": {
+        "headline": "New Wah Fu Estate phase one set to finish six years early in 2034",
+        "dek": "Housing Authority paper to Southern District Council says earlier land release allows about 1,760 units in three blocks by the second half of 2034 for phase-three residents."
+      },
+      "zh": {
+        "headline": "新華富邨第一期預計提早六年於2034年落成",
+        "dek": "房委會向南區區議會提交文件，指華安樓及華樂樓用地可提早釋放，第一期約1760個單位預計2034年下半年入伙，供第三期居民使用。"
+      }
+    },
     {
       "id": "2026-10-26-lifestyle-mplus-myths-monsters",
       "published_at": "2026-10-26T11:25:00+08:00",
@@ -1970,73 +2036,6 @@
       "zh": {
         "headline": "警方黃大仙拘兩女涉虐兒 十一歲女童拍片求救",
         "dek": "一名十一歲女童在社交媒體上載影片求救後，被發現手腳紅腫；其外祖母及一名印尼外傭已被警方拘捕。"
-      }
-    },
-    {
-      "id": "2026-10-23-customs-sha-tau-kok-seizure",
-      "published_at": "2026-10-23T13:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "cigarettes",
-        "sha-tau-kok",
-        "counterfeit"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-customs-sha-tau-kok-seizure.json",
-      "en": {
-        "headline": "Customs seizes HK$4.6 million in illicit cigarettes and counterfeits in Sha Tau Kok",
-        "dek": "Officers arrested a 50-year-old saleswoman after raiding a Chung Ying Street shop and finding about 720,000 suspected duty-not-paid cigarettes plus counterfeit goods."
-      },
-      "zh": {
-        "headline": "海關沙頭角檢獲約460萬元私煙及冒牌貨 拘捕一名女子",
-        "dek": "海關周三在中英街一間零售店檢獲約72萬支懷疑私煙及約2700件懷疑冒牌物品，並拘捕一名50歲女售貨員。"
-      }
-    },
-    {
-      "id": "2026-10-23-lifestyle-halloween-cosplay-events",
-      "published_at": "2026-10-23T13:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "halloween",
-        "cosplay",
-        "events",
-        "hktb"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-lifestyle-halloween-cosplay-events.json",
-      "en": {
-        "headline": "Citywide Halloween cosplay events continue across five districts this weekend",
-        "dek": "The Hong Kong Tourism Board’s first Halloween Month features street parties in Central, Kai Tak, Lan Kwai Fong, Mong Kok and Tsim Sha Tsui East on Saturday."
-      },
-      "zh": {
-        "headline": "全城萬聖節Cosplay活動本周末五區繼續舉行",
-        "dek": "旅發局首個萬聖節月於中環、啟德、蘭桂坊、旺角及尖東舉行街頭派對，本周六有活動。"
-      }
-    },
-    {
-      "id": "2026-10-23-tai-po-fire-report-details",
-      "published_at": "2026-10-23T13:10:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "tai-po-fire",
-        "inquiry",
-        "accountability",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-tai-po-fire-report-details.json",
-      "en": {
-        "headline": "Sources say Tai Po fire report names four government bodies for accountability",
-        "dek": "The independent committee’s report, submitted on Thursday, is understood to highlight the Housing Bureau’s Independent Checking Unit among others, without naming individual officials."
-      },
-      "zh": {
-        "headline": "消息指大埔火災報告點名四個政府部門須負責",
-        "dek": "獨立委員會周四提交的報告據悉點名房屋局獨立審查組等四個部門失職，但沒有點名個別官員。"
       }
     }
   ]
