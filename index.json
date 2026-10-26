@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-26T13:14:00+08:00",
+  "generated_at": "2026-10-26T15:24:02+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 93,
   "articles": [
+    {
+      "id": "2026-10-26-sfc-tokenised-funds-secondary-trading",
+      "published_at": "2026-10-26T15:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "sfc",
+        "tokenisation",
+        "finance",
+        "digital-assets"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-sfc-tokenised-funds-secondary-trading.json",
+      "en": {
+        "headline": "SFC clears first secondary trading of tokenised public funds",
+        "dek": "Two ChinaAMC tokenised money market funds began around-the-clock secondary trading on a licensed virtual asset platform on Monday, in a first for public funds."
+      },
+      "zh": {
+        "headline": "證監會批准首批代幣化基金二級市場交易",
+        "dek": "兩隻華夏基金代幣化貨幣市場基金周一起於持牌虛擬資產平台提供全日制二級市場交易，屬公募基金首次。"
+      }
+    },
+    {
+      "id": "2026-10-26-shek-kwu-chau-incinerator-fire",
+      "published_at": "2026-10-26T15:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "shek-kwu-chau",
+        "fire",
+        "waste-management",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-shek-kwu-chau-incinerator-fire.json",
+      "en": {
+        "headline": "Firefighters battle level-three fire at Shek Kwu Chau waste facility",
+        "dek": "A fire broke out at the Integrated Waste Management Facility Phase 1 on an artificial island near Shek Kwu Chau on Monday afternoon, with no injuries reported as crews fought the blaze."
+      },
+      "zh": {
+        "headline": "石鼓洲焚化設施三級火 消防灌救暫無傷亡",
+        "dek": "周一中午石鼓洲附近人工島上的綜合廢物管理設施第一期發生火警，消防升為三級，暫未接獲受傷報告。"
+      }
+    },
     {
       "id": "2026-10-26-belt-road-green-innovation-conference",
       "published_at": "2026-10-26T13:15:00+08:00",
