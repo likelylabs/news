@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-10-27T01:04:15+08:00",
+  "generated_at": "2026-10-27T03:20:05+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 82,
   "articles": [
+    {
+      "id": "2026-10-27-hk-electric-november-fuel-cut",
+      "published_at": "2026-10-27T03:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hk-electric",
+        "electricity",
+        "fuel-charge",
+        "tariff"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-hk-electric-november-fuel-cut.json",
+      "en": {
+        "headline": "HK Electric cuts November fuel adjustment charge by 4.2 cents",
+        "dek": "The average net tariff falls 2.2 per cent to 183 cents per kilowatt-hour, reflecting fuel costs from July to September under the deferral mechanism."
+      },
+      "zh": {
+        "headline": "港燈下調11月燃料調整費4.2仙 淨電費跌2.2%",
+        "dek": "11月平均淨電費為每度183仙，主要反映7至9月燃料成本；中電同期則上調1.2仙至47.4仙。"
+      }
+    },
+    {
+      "id": "2026-10-27-jardine-house-gondola-rescue",
+      "published_at": "2026-10-27T03:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "jardine-house",
+        "central",
+        "fire-services",
+        "industrial-accident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-jardine-house-gondola-rescue.json",
+      "en": {
+        "headline": "Firefighters rescue two workers stranded on Jardine House facade after gondola fault",
+        "dek": "The suspended platform malfunctioned around 6:15pm on Monday evening, leaving the men dangling from harnesses near the 30th and 40th floors until about 8pm."
+      },
+      "zh": {
+        "headline": "中環怡和大廈吊船故障 兩工人被困半空消防游繩救出",
+        "dek": "周一傍晚約6時15分吊船疑故障下墜，兩名外牆維修工人分別困於約30樓及40樓高度，靠安全帶牽引，至約晚上8時獲救。"
+      }
+    },
+    {
+      "id": "2026-10-27-lifestyle-evoke-festival",
+      "published_at": "2026-10-27T03:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "halloween",
+        "music",
+        "hung-hom",
+        "harbourfront"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-lifestyle-evoke-festival.json",
+      "en": {
+        "headline": "EVOKE Festival stages open-air electronic music on Hung Hom harbourfront this Halloween",
+        "dek": "The event runs from 4pm to 10:30pm on 31 October at the New Hung Hom Harbourfront, with an after-party continuing until 4am."
+      },
+      "zh": {
+        "headline": "EVOKE音樂節萬聖節登陸紅磡新海濱 主打戶外電音",
+        "dek": "活動於10月31日下午4時至晚上10時30分在紅磡新海濱舉行，之後派對延至凌晨4時。"
+      }
+    },
     {
       "id": "2026-10-27-mplus-myths-monsters-exhibition",
       "published_at": "2026-10-27T01:05:00+08:00",
@@ -1756,96 +1823,6 @@
       "zh": {
         "headline": "市建局建議補貼計劃業主避免聘用臺日電梯",
         "dek": "市建局表示，因檢查發現數百幢大廈升降機欠缺防火組件，已對承辦商失去信心。"
-      }
-    },
-    {
-      "id": "2026-10-24-customs-airport-cannabis-seizure",
-      "published_at": "2026-10-24T03:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "drugs",
-        "airport",
-        "cannabis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-customs-airport-cannabis-seizure.json",
-      "en": {
-        "headline": "Customs seizes 5.4 kg of cannabis buds at airport, two men charged",
-        "dek": "Hong Kong Customs arrested two mainland passengers arriving from Vietnam and Thailand and seized suspected cannabis buds valued at about HK$1.1 million."
-      },
-      "zh": {
-        "headline": "海關機場檢5.4公斤大麻花 兩男同控販毒",
-        "dek": "香港海關在機場拘捕兩名分別從越南及泰國抵港的內地男旅客，檢獲估計市值約110萬元的懷疑大麻花。"
-      }
-    },
-    {
-      "id": "2026-10-24-lifestyle-big-c-kolour-tsuen-wan-closing",
-      "published_at": "2026-10-24T03:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "retail",
-        "food",
-        "tsuen-wan",
-        "closing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-lifestyle-big-c-kolour-tsuen-wan-closing.json",
-      "en": {
-        "headline": "Big C to close its Kolour Tsuen Wan store in early November",
-        "dek": "The Thai supermarket chain confirmed the branch will shut after its lease ends, leaving the Tsuen Wan district without a Big C outlet for now."
-      },
-      "zh": {
-        "headline": "Big C荃灣千色匯店11月上旬結業",
-        "dek": "泰國連鎖超市確認荃灣千色匯分店因租約期滿將於11月上旬結束營業，荃灣區暫時再無Big C門市。"
-      }
-    },
-    {
-      "id": "2026-10-24-lifestyle-halloween-monster-mash-central",
-      "published_at": "2026-10-24T03:20:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "halloween",
-        "central",
-        "event",
-        "family"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-lifestyle-halloween-monster-mash-central.json",
-      "en": {
-        "headline": "Monster Mash Fest brings family Halloween activities to Central today",
-        "dek": "Hongkong Land’s Halloween in Central event holds a free family day on Chater Road with costumes, face painting and a themed bouncy castle."
-      },
-      "zh": {
-        "headline": "中環大小怪獸嘉年華今日舉行親子萬聖節活動",
-        "dek": "置地公司「萬聖狂歡祭．中環」於遮打道舉辦免費親子日，設服裝攤位、臉部彩繪及主題彈跳城堡。"
-      }
-    },
-    {
-      "id": "2026-10-24-white-powder-letters-media-library",
-      "published_at": "2026-10-24T03:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "media",
-        "suspicious-letters",
-        "yau-ma-tei"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-white-powder-letters-media-library.json",
-      "en": {
-        "headline": "Police say white powder in letters to media and library poses no blast risk",
-        "dek": "Four reports of letters containing white powder sent to three media outlets and a public library were classified as the discovery of suspicious items after checks found no explosive danger."
-      },
-      "zh": {
-        "headline": "警方指傳媒及圖書館粉末信無爆炸危險",
-        "dek": "三間傳媒機構及一間公共圖書館接獲藏有白色粉末的信件，經爆炸品處理課檢查後相信無爆炸危險，案件暫列發現可疑物品。"
       }
     }
   ]
