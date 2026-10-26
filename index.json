@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-10-26T07:13:31+08:00",
+  "generated_at": "2026-10-26T09:17:05+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-10-26-hkust-medical-school-leung",
+      "published_at": "2026-10-26T09:20:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "hkust",
+        "medical-school",
+        "education",
+        "haematology"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-hkust-medical-school-leung.json",
+      "en": {
+        "headline": "Former HKU medicine vice-dean joins HKUST medical school as senior associate dean",
+        "dek": "Anskar Leung Yu-hung, a haematology professor who has researched acute myeloid leukaemia, is among the academics formally joining the city’s third medical school."
+      },
+      "zh": {
+        "headline": "前港大醫學院副院長梁如鴻加入科大醫學院出任高級副院長",
+        "dek": "血液學教授梁如鴻長期研究急性髓系白血病，成為正式加入本港第三所醫學院的學者之一。"
+      }
+    },
+    {
+      "id": "2026-10-26-interpol-silver-notice-ga",
+      "published_at": "2026-10-26T09:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "interpol",
+        "police",
+        "financial-crime",
+        "hong-kong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-interpol-silver-notice-ga.json",
+      "en": {
+        "headline": "Interpol seeks silver notice approval at Hong Kong general assembly",
+        "dek": "The organisation will ask member countries to endorse a new system for tracing criminals’ assets during its first assembly hosted in the city next month."
+      },
+      "zh": {
+        "headline": "國際刑警將於香港大會尋求通過銀通知追蹤犯罪資產",
+        "dek": "組織將於下月首次在港舉行的全體大會上，請成員國批准新系統，協助追查跨司法管轄區的犯罪資產。"
+      }
+    },
+    {
+      "id": "2026-10-26-lifestyle-halloween-central-installations",
+      "published_at": "2026-10-26T09:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "halloween",
+        "central",
+        "statue-square",
+        "hongkong-land"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-lifestyle-halloween-central-installations.json",
+      "en": {
+        "headline": "Hongkong Land lights up Statue Square with Halloween installations through month end",
+        "dek": "Four large free installations, including a giant eyeball over the fountain, illuminate nightly until 31 October as part of the Central event."
+      },
+      "zh": {
+        "headline": "置地公司於皇后像廣場設置萬聖裝置至月底",
+        "dek": "包括噴水池旁巨型眼球在內的四個大型免費裝置每晚亮燈，活動至10月31日。"
+      }
+    },
+    {
+      "id": "2026-10-26-polyu-student-ratio",
+      "published_at": "2026-10-26T09:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "polyu",
+        "education",
+        "internationalisation",
+        "students"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-polyu-student-ratio.json",
+      "en": {
+        "headline": "PolyU aims for 50-50 overseas to mainland student ratio among non-locals",
+        "dek": "President Teng Jin-guang said the university enrolled about 1,000 non-local students this year at a 40-60 split and plans new hostels to support greater internationalisation."
+      },
+      "zh": {
+        "headline": "理大目標非本地生海外與內地比例達五五分",
+        "dek": "校長滕錦光表示，今年取錄約1000名非本地生，海外與內地生約四六分，並計劃興建新宿舍支援國際化。"
+      }
+    },
     {
       "id": "2026-10-26-lok-ma-chau-hanging-death",
       "published_at": "2026-10-26T07:10:00+08:00",
