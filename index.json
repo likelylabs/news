@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-26T15:24:02+08:00",
+  "generated_at": "2026-10-26T15:25:15+08:00",
   "live_window_hours": 72,
-  "count": 93,
+  "count": 91,
   "articles": [
     {
       "id": "2026-10-26-sfc-tokenised-funds-secondary-trading",
@@ -2035,51 +2035,6 @@
       "zh": {
         "headline": "保安局長指消防安全立法改革即將推出",
         "dek": "鄧炳強在電台節目表示，過去一年已採取行政措施，隨大埔火災報告提交後將有立法改革。"
-      }
-    },
-    {
-      "id": "2026-10-23-champi-hk-taiwan-flights-disruption",
-      "published_at": "2026-10-23T15:25:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "typhoon",
-        "champi",
-        "flights",
-        "taiwan",
-        "airport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-champi-hk-taiwan-flights-disruption.json",
-      "en": {
-        "headline": "More than 70 Hong Kong-Taiwan flights cancelled as Super Typhoon Champi approaches",
-        "dek": "As of Friday afternoon, services by Cathay Pacific, HK Express and others to Taoyuan, Kaohsiung and Taichung have been scrapped, with the storm’s peak impact lasting through the night."
-      },
-      "zh": {
-        "headline": "超強颱風薔琵逼近 逾70班港台航班取消",
-        "dek": "截至周五下午，國泰、香港快運等航空公司往返桃園、高雄及台中的航班已取消，風暴高峰影響持續至晚間。"
-      }
-    },
-    {
-      "id": "2026-10-23-wong-tai-sin-child-abuse-arrests",
-      "published_at": "2026-10-23T15:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "child-abuse",
-        "wong-tai-sin",
-        "police",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-wong-tai-sin-child-abuse-arrests.json",
-      "en": {
-        "headline": "Police arrest two women over alleged child abuse after girl's video plea",
-        "dek": "An 11-year-old girl in Wong Tai Sin was found with swollen limbs after posting videos seeking help; her grandmother and a domestic helper have been detained."
-      },
-      "zh": {
-        "headline": "警方黃大仙拘兩女涉虐兒 十一歲女童拍片求救",
-        "dek": "一名十一歲女童在社交媒體上載影片求救後，被發現手腳紅腫；其外祖母及一名印尼外傭已被警方拘捕。"
       }
     }
   ]
