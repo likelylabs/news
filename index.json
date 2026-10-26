@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-26T21:06:07+08:00",
+  "generated_at": "2026-10-26T23:28:32+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-10-26-aviation-gba-cooperation",
+      "published_at": "2026-10-26T23:30:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "aviation",
+        "greater-bay-area",
+        "hkia",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-aviation-gba-cooperation.json",
+      "en": {
+        "headline": "Lawmaker calls for closer Greater Bay Area airport cooperation",
+        "dek": "Kenneth Fok said Hong Kong International Airport passenger numbers remain below pre-pandemic levels and urged government-to-government deals with mainland airports."
+      },
+      "zh": {
+        "headline": "議員促加強大灣區機場合作",
+        "dek": "霍啟剛表示香港國際機場客運量仍未回復疫前水平，呼籲政府與內地機場進行政府間協議。"
+      }
+    },
+    {
+      "id": "2026-10-26-gflis-bankers-gather",
+      "published_at": "2026-10-26T23:30:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "finance",
+        "hkma",
+        "summit",
+        "investment"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-26/2026-10-26-gflis-bankers-gather.json",
+      "en": {
+        "headline": "HKMA says 280 global financial leaders to gather in Hong Kong next week",
+        "dek": "Eddie Yue said the fifth Global Financial Leaders’ Investment Summit from 2 to 4 November will focus on rethinking the playbook for markets and technology."
+      },
+      "zh": {
+        "headline": "金管局：約280位國際金融領袖下周聚港",
+        "dek": "余偉文表示，第五屆國際金融領袖投資峰會將於11月2日至4日舉行，主題圍繞市場與科技的「思變圖新」。"
+      }
+    },
     {
       "id": "2026-10-26-shek-kwu-chau-fire-extinguished",
       "published_at": "2026-10-26T21:05:00+08:00",
@@ -1848,98 +1892,6 @@
       "zh": {
         "headline": "天文台維持紅色火災危險警告",
         "dek": "香港天文台表示，紅色火災危險警告仍然生效，顯示在乾燥東北季候風影響下火災危險性極高。"
-      }
-    },
-    {
-      "id": "2026-10-23-finance-committee-newborn-bonus-funding",
-      "published_at": "2026-10-23T23:27:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "newborn-bonus",
-        "finance-committee",
-        "birth-rate",
-        "legco"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-finance-committee-newborn-bonus-funding.json",
-      "en": {
-        "headline": "Finance Committee approves HK$1.6 billion to extend newborn baby bonus",
-        "dek": "Lawmakers approved extra funding to prolong the scheme by three years and raise the second-child payment to HK$30,000, as set out in the Policy Address."
-      },
-      "zh": {
-        "headline": "財委會通過16億元額外撥款延長新生嬰兒獎勵金計劃",
-        "dek": "立法會議員批准增撥款項，把計劃延長三年，並把第二名子女獎勵金提高至3萬元，落實施政報告措施。"
-      }
-    },
-    {
-      "id": "2026-10-23-severe-paediatric-influenza-3yo",
-      "published_at": "2026-10-23T23:27:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "influenza",
-        "chp",
-        "paediatric",
-        "tuen-mun"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-severe-paediatric-influenza-3yo.json",
-      "en": {
-        "headline": "Three-year-old boy critically ill with influenza complications",
-        "dek": "The Centre for Health Protection said the child, who has a chronic illness and visited the United States during the incubation period, remains in intensive care at Tuen Mun Hospital."
-      },
-      "zh": {
-        "headline": "三歲男童感染流感併發嚴重併發症情況危殆",
-        "dek": "衞生防護中心表示，這名有長期病患的男童潛伏期曾到美國，目前仍在屯門醫院兒童深切治療部留醫。"
-      }
-    },
-    {
-      "id": "2026-10-23-strong-monsoon-signal",
-      "published_at": "2026-10-23T23:27:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "monsoon",
-        "hko",
-        "warning",
-        "wind"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-strong-monsoon-signal.json",
-      "en": {
-        "headline": "Observatory maintains Strong Monsoon Signal with northerly winds",
-        "dek": "The Hong Kong Observatory said strong winds exceeding 40 kilometres per hour from the north are expected, with occasional gale-force gusts, and advised precautions."
-      },
-      "zh": {
-        "headline": "天文台維持強烈季候風信號 預期北風強勁",
-        "dek": "香港天文台表示，預期北風平均風速超過每小時40公里，陣風間中達烈風程度，並提醒市民採取預防措施。"
-      }
-    },
-    {
-      "id": "2026-10-23-tong-nga-ting-flagbearer",
-      "published_at": "2026-10-23T23:27:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-para-games",
-        "fencing",
-        "flagbearer",
-        "nagoya"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-23/2026-10-23-tong-nga-ting-flagbearer.json",
-      "en": {
-        "headline": "Para fencer Tong Nga-ting named flagbearer for Asian Para Games closing",
-        "dek": "The China Hong Kong Paralympic Committee said Tong, who has won three medals in Nagoya, will carry the flag at Saturday’s closing ceremony."
-      },
-      "zh": {
-        "headline": "殘疾人劍擊選手湯雅婷獲委任亞殘運閉幕禮持旗手",
-        "dek": "中國香港殘疾人奧委會宣布，在名古屋奪得三面獎牌的湯雅婷將於周六閉幕禮擔任持旗手。"
       }
     }
   ]
