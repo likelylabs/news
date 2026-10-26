@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-26T23:28:32+08:00",
+  "generated_at": "2026-10-27T01:03:34+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-10-27-mplus-myths-monsters-exhibition",
+      "published_at": "2026-10-27T01:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "m-plus",
+        "west-kowloon",
+        "art"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-mplus-myths-monsters-exhibition.json",
+      "en": {
+        "headline": "M+ surveys two centuries of Asian fantasy art until next April",
+        "dek": "More than 400 works fill the West Kowloon museum’s special exhibition on myths, monsters and popular culture, open since mid-October."
+      },
+      "zh": {
+        "headline": "M+「神話與怪獸」展出逾400件亞洲奇幻作品 展期至明年四月",
+        "dek": "西九文化區博物館特別展覽自十月中開放，涵蓋十九至二十一世紀神話、怪獸及流行文化。"
+      }
+    },
     {
       "id": "2026-10-26-aviation-gba-cooperation",
       "published_at": "2026-10-26T23:30:00+08:00",
