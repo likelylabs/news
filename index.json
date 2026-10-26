@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T01:03:34+08:00",
+  "generated_at": "2026-10-27T01:04:15+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 83,
   "articles": [
     {
       "id": "2026-10-27-mplus-myths-monsters-exhibition",
       "published_at": "2026-10-27T01:05:00+08:00",
-      "updated_at": null,
+      "updated_at": "2026-10-27T01:06:00+08:00",
       "category": "culture",
       "tags": [
         "lifestyle",
@@ -1846,75 +1846,6 @@
       "zh": {
         "headline": "警方指傳媒及圖書館粉末信無爆炸危險",
         "dek": "三間傳媒機構及一間公共圖書館接獲藏有白色粉末的信件，經爆炸品處理課檢查後相信無爆炸危險，案件暫列發現可疑物品。"
-      }
-    },
-    {
-      "id": "2026-10-24-lifestyle-gloomie-museum-harbour-city",
-      "published_at": "2026-10-24T01:04:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "art",
-        "harbour-city",
-        "tsim-sha-tsui"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-lifestyle-gloomie-museum-harbour-city.json",
-      "en": {
-        "headline": "Gloomie Museum exhibition at Harbour City runs until 25 October",
-        "dek": "Local artist Leon Lai’s first solo show featuring his Gloomie cat character is open at Gallery by the Harbour until Sunday, with paintings and sculptures reinterpreting art history and Hong Kong scenes."
-      },
-      "zh": {
-        "headline": "海港城Gloomie Museum展覽延至25日",
-        "dek": "本地藝術家Leon Lai首個個人展覽以Gloomie貓為主題，在海港城Gallery by the Harbour展出至周日，以畫作及雕塑重現藝術史與香港場景。"
-      }
-    },
-    {
-      "id": "2026-10-24-mtr-thank-you-day-half-fare",
-      "published_at": "2026-10-24T01:04:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "fares",
-        "thank-you-day",
-        "octopus",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-mtr-thank-you-day-half-fare.json",
-      "en": {
-        "headline": "MTR offers half-price fares on Thank You Day today",
-        "dek": "Passengers using Octopus or QR codes on the MTR, Light Rail and selected buses receive a 50 per cent discount on every fare-paying trip on 24 October."
-      },
-      "zh": {
-        "headline": "港鐵感謝日今推行車費半價優惠",
-        "dek": "乘客今日以八達通或二維碼乘搭港鐵、輕鐵及指定巴士，每程付費車程可享半價優惠，包括東鐵綫過境車程。"
-      }
-    },
-    {
-      "id": "2026-10-24-red-fire-danger-warning-continues",
-      "published_at": "2026-10-24T01:04:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "fire-danger",
-        "hko",
-        "warning",
-        "dry"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-red-fire-danger-warning-continues.json",
-      "en": {
-        "headline": "Observatory keeps Red Fire Danger Warning in force",
-        "dek": "The Hong Kong Observatory said the Red Fire Danger Warning remains in force, indicating extreme fire risk under the dry northeast monsoon."
-      },
-      "zh": {
-        "headline": "天文台維持紅色火災危險警告",
-        "dek": "香港天文台表示，紅色火災危險警告仍然生效，顯示在乾燥東北季候風影響下火災危險性極高。"
       }
     }
   ]
