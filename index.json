@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-27T07:57:41+08:00",
+  "generated_at": "2026-10-27T09:28:12+08:00",
   "live_window_hours": 72,
   "count": 80,
   "articles": [
+    {
+      "id": "2026-10-27-hung-hom-harbourfront-revised-plan",
+      "published_at": "2026-10-27T09:26:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "hung-hom",
+        "harbourfront",
+        "development",
+        "legco",
+        "development-bureau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-hung-hom-harbourfront-revised-plan.json",
+      "en": {
+        "headline": "Development Bureau proposes twin landmark towers and more homes at Hung Hom harbourfront",
+        "dek": "The revised plan raises total floor area by 3 per cent to 206,500 square metres, with residential share at 62 per cent, and cancels four waterfront residential blocks for open space."
+      },
+      "zh": {
+        "headline": "發展局建議紅礎海濱建雙塔地標 增加住宅比例",
+        "dek": "修訂方案將總樓面增至約20.65萬平方米，住宅佔約62%，臨海四幢住宅改作公眾休憩用地，目標2029年初交地。"
+      }
+    },
     {
       "id": "2026-10-27-huanggang-port-traffic-measures",
       "published_at": "2026-10-27T07:02:00+08:00",
@@ -1757,28 +1780,6 @@
       "zh": {
         "headline": "屯門安定邨9歲女童持刀 父奪刀時傷及女兒 涉傷人被捕",
         "dek": "警方稱，今日凌晨一名男子在安定邨嘗試從女兒手中奪刀時，9歲女童胸口受傷送院，案件暫列傷人。"
-      }
-    },
-    {
-      "id": "2026-10-24-cs-dongguan-gba-talent-visit",
-      "published_at": "2026-10-24T09:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "gba",
-        "talent",
-        "dongguan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-cs-dongguan-gba-talent-visit.json",
-      "en": {
-        "headline": "Chief Secretary Chan departs for Dongguan GBA talent conference",
-        "dek": "Chan Kwok-ki leaves for Dongguan this afternoon to attend the opening of the fourth Greater Bay Area High-quality Talent Development Conference and related events on Sunday."
-      },
-      "zh": {
-        "headline": "政務司司長陳國基赴東莞出席大灣區人才大會",
-        "dek": "陳國基今天下午前往東莞，出席星期日舉行的第四屆粵港澳大灣區人才高質量發展大會暨相關創新創業大賽開幕儀式。"
       }
     }
   ]
