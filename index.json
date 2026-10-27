@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-10-27T11:08:49+08:00",
+  "generated_at": "2026-10-27T13:10:29+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-10-27-cuhk-hung-shui-kiu-bid",
+      "published_at": "2026-10-27T13:09:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "cuhk",
+        "northern-metropolis",
+        "hung-shui-kiu",
+        "university",
+        "education"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-cuhk-hung-shui-kiu-bid.json",
+      "en": {
+        "headline": "CUHK to bid for land in Hung Shui Kiu University Town",
+        "dek": "Vice-Chancellor Dennis Lo said the university plans to compete for one of the first sites, citing expansion opportunities despite staggered tenders and high costs."
+      },
+      "zh": {
+        "headline": "中大擬競投洪水橋大學城首批土地",
+        "dek": "校長盧煜明表示大學計劃競投其中一個首批校舍用地，認為是擴大校園的機會，惟分批招標及成本高昂構成挑戰。"
+      }
+    },
+    {
+      "id": "2026-10-27-hsbc-q3-profit-up-32",
+      "published_at": "2026-10-27T13:09:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hsbc",
+        "banking",
+        "profit",
+        "share-buyback"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-hsbc-q3-profit-up-32.json",
+      "en": {
+        "headline": "HSBC third-quarter pretax profit rises 32 per cent to US$9.6 billion",
+        "dek": "The result matched analyst expectations. The bank also announced a further share buy-back of up to US$1 billion and a third interim dividend of 10 US cents."
+      },
+      "zh": {
+        "headline": "滙豐第三季除稅前利潤增32%至96億美元",
+        "dek": "業績大致符合市場預期，銀行宣布最多10億美元股份回購及每股0.1美元第三次中期息。"
+      }
+    },
+    {
+      "id": "2026-10-27-privacy-commissioner-data-breaches",
+      "published_at": "2026-10-27T13:09:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "privacy",
+        "data-breach",
+        "scam",
+        "pcpd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-privacy-commissioner-data-breaches.json",
+      "en": {
+        "headline": "Privacy watchdog investigates data breaches at three firms affecting over 1,600",
+        "dek": "The Office of the Privacy Commissioner confirmed notifications from Hong Kong Airlines, YOHO Hong Kong and Broadway Photo, and has received 23 complaints so far."
+      },
+      "zh": {
+        "headline": "私隱專員公署調查三間公司資料外洩 涉逾1600名市民",
+        "dek": "公署證實接獲香港航空、友和香港及百老滙通報，至今共收到23宗投訴及20宗查詢，已展開調查。"
+      }
+    },
     {
       "id": "2026-10-27-airport-cannabis-seizure",
       "published_at": "2026-10-27T11:10:00+08:00",
@@ -1780,140 +1847,6 @@
       "zh": {
         "headline": "衛生署HIV測試網站電郵戶口疑被不當使用 暫無資料外洩",
         "dek": "冒充署方發出電郵或短訊稱收件人有感染風險，網站已暫停運作，市民可致電愛滋熱線預約檢測。"
-      }
-    },
-    {
-      "id": "2026-10-24-kwai-chung-slope-rat-infestation",
-      "published_at": "2026-10-24T13:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "hygiene",
-        "kwai-chung",
-        "fehd",
-        "lcsd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-kwai-chung-slope-rat-infestation.json",
-      "en": {
-        "headline": "Kwai Chung slope becomes rat haven as departments step up control",
-        "dek": "The Food and Environmental Hygiene Department has received three complaints this year about rats on a slope near Tai Lung Street Rest Garden, and joined the Leisure and Cultural Services Department in inspections on…"
-      },
-      "zh": {
-        "headline": "葵涌大隴街斜坡現鼠患 部門加強防治",
-        "dek": "食環署今年接獲 3 宗相關投訴，周五應康文署要求到場視察並提供技術意見。"
-      }
-    },
-    {
-      "id": "2026-10-24-polar-tensor-crypto-office",
-      "published_at": "2026-10-24T13:10:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "crypto",
-        "finance",
-        "regulation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-polar-tensor-crypto-office.json",
-      "en": {
-        "headline": "Crypto platform on alert lists opens Causeway Bay office",
-        "dek": "Polar Tensor, listed by Hong Kong and Canadian regulators, opened an office at One Hysan Avenue in August, prompting experts to call for scrutiny of its marketing."
-      },
-      "zh": {
-        "headline": "列入監管警示名單的加密貨幣平台在銅鑼灣開設辦公室",
-        "dek": "Polar Tensor 於 8 月在希慎道壹號開設辦公室，專家促請加強監察其推廣手法。"
-      }
-    },
-    {
-      "id": "2026-10-24-ride-hailing-exam-and-platforms",
-      "published_at": "2026-10-24T13:10:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "ride-hailing",
-        "taxi",
-        "buses",
-        "mable-chan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-ride-hailing-exam-and-platforms.json",
-      "en": {
-        "headline": "Transport chief says 16,000 have applied for taxi and ride-hailing exam",
-        "dek": "Mable Chan expects the first batch of ride-hailing platform licences to be announced from late November to early December, while noting the government will scrutinise bus fare applications."
-      },
-      "zh": {
-        "headline": "運輸局局長指的士及網約車綜合筆試已有 1.6 萬人報考",
-        "dek": "陳美寶表示，網約車平台牌照首批結果料於 11 月底至 12 月初公布，並會審慎考慮巴士加價申請。"
-      }
-    },
-    {
-      "id": "2026-10-24-private-secondary-schools-growth",
-      "published_at": "2026-10-24T11:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "private-schools",
-        "edb",
-        "schools"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-private-secondary-schools-growth.json",
-      "en": {
-        "headline": "Private secondary schools rise 56 per cent in five years",
-        "dek": "The Education Bureau said the number of private secondary schools grew from 16 to 25 between 2021-22 and 2025-26, citing a stronger economy and changing parental preferences."
-      },
-      "zh": {
-        "headline": "私營中學五年間增逾五成 教育局指經濟及家長偏好轉變",
-        "dek": "教育局數字顯示，私營中學由2021-22學年的16間增至2025-26學年的25間，增幅達56.3%。"
-      }
-    },
-    {
-      "id": "2026-10-24-shek-kip-mei-park-cat-poison-arrest",
-      "published_at": "2026-10-24T11:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "animal-cruelty",
-        "shek-kip-mei",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-shek-kip-mei-park-cat-poison-arrest.json",
-      "en": {
-        "headline": "Man arrested over suspected poisoning of stray cats in Shek Kip Mei Park",
-        "dek": "Police arrested a 34-year-old man early on Saturday after volunteers said they caught him placing suspected rat poison in cat food at Shek Kip Mei Park."
-      },
-      "zh": {
-        "headline": "石砫尾公園疑投毒害貓 34歲男涉殘酷對待動物被捕",
-        "dek": "警方今日凌晨在石砫尾公園拘捕一名34歲男子，身上檢獲懷疑老鼠藥及一把約14厘米長的生果刀。"
-      }
-    },
-    {
-      "id": "2026-10-24-tuen-mun-on-ting-girl-knife-incident",
-      "published_at": "2026-10-24T11:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "tuen-mun",
-        "wounding",
-        "child"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-tuen-mun-on-ting-girl-knife-incident.json",
-      "en": {
-        "headline": "Father arrested after nine-year-old girl injured in Tuen Mun knife incident",
-        "dek": "Police said a man was taken in for investigation after his nine-year-old daughter was injured in the chest while he tried to take a knife from her early on Saturday at On Ting Estate."
-      },
-      "zh": {
-        "headline": "屯門安定邨9歲女童持刀 父奪刀時傷及女兒 涉傷人被捕",
-        "dek": "警方稱，今日凌晨一名男子在安定邨嘗試從女兒手中奪刀時，9歲女童胸口受傷送院，案件暫列傷人。"
       }
     }
   ]
