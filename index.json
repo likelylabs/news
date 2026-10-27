@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-27T21:08:29+08:00",
+  "generated_at": "2026-10-27T23:31:17+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-10-27-housing-officer-misconduct-plea",
+      "published_at": "2026-10-27T23:28:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "icac",
+        "housing",
+        "public-housing",
+        "misconduct"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-housing-officer-misconduct-plea.json",
+      "en": {
+        "headline": "Housing officer admits misconduct for falsely claiming approvals",
+        "dek": "A 36-year-old Housing Department estate officer pleaded guilty at West Kowloon Magistrates’ Courts to misconduct in public office after failing to submit two applications."
+      },
+      "zh": {
+        "headline": "房署主任承認公職人員行為失當 誝稱加戶及活動申請獲批",
+        "dek": "36歲房屋事務主任在西九龍裁判法院承認控罪，案件押後至11月10日判刑，須賠償約3.4萬元。"
+      }
+    },
+    {
+      "id": "2026-10-27-shau-kei-wan-water-restored",
+      "published_at": "2026-10-27T23:28:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "water-supply",
+        "shau-kei-wan",
+        "eastern-district",
+        "pipe-burst"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-shau-kei-wan-water-restored.json",
+      "en": {
+        "headline": "Water supply resumes in Shau Kei Wan and parts of Sai Wan Ho from 9.30pm",
+        "dek": "The Water Supplies Department said emergency repairs to the damaged main on Shau Kei Wan Road were completed, with supply returning progressively from 9.30pm on Tuesday."
+      },
+      "zh": {
+        "headline": "筱箕灣及部分西灣河食水供應晚上九時半起陸續恢復",
+        "dek": "水務署表示，筱箕灣道受損食水管的緊急維修工程已完成，周二晚上九時半起供水陸續恢復正常。"
+      }
+    },
     {
       "id": "2026-10-27-lee-northern-metropolis-university-towns",
       "published_at": "2026-10-27T21:04:00+08:00",
@@ -1755,29 +1799,6 @@
       "zh": {
         "headline": "海事及空運人才培訓基金承擔總額達五億港元",
         "dek": "運輸及物流局局長陳美寶表示，基金經多次注資後，截至九月已惠及超過二萬四千名學生及從業員。"
-      }
-    },
-    {
-      "id": "2026-10-24-peak-lighting-stands-removed",
-      "published_at": "2026-10-24T23:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "peak",
-        "tourism",
-        "lighting",
-        "environment",
-        "lugard-road"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-peak-lighting-stands-removed.json",
-      "en": {
-        "headline": "Two projector stands removed from Peak lighting project after outcry",
-        "dek": "Commissioner for Tourism Ann Chan inspected the Lugard Road site Saturday morning, and the metal stands that held industrial projectors were gone by afternoon, leaving only their foundations."
-      },
-      "zh": {
-        "headline": "山頂光影項目兩座投影機支架已拆除 居民早前反對",
-        "dek": "旅遊事務專員陳慧茜周六早上視察盧吉道及夏力道一帶，下午大型金屬支架已被移除，只剩地基。"
       }
     }
   ]
