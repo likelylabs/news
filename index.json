@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-27T13:10:29+08:00",
+  "generated_at": "2026-10-27T15:22:03+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-10-27-shau-kei-wan-pipe-burst",
+      "published_at": "2026-10-27T15:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "water-supply",
+        "shau-kei-wan",
+        "eastern-district",
+        "pipe-burst"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-shau-kei-wan-pipe-burst.json",
+      "en": {
+        "headline": "Pipe burst cuts water to parts of Eastern district after Shau Kei Wan works",
+        "dek": "Supply was suspended from 11am in Sai Wan Ho, Shau Kei Wan, Aldrich Bay and nearby areas; authorities aim to restore it before midnight. An elderly care-home resident was injured."
+      },
+      "zh": {
+        "headline": "笮箕灣道路工程爆水管 東區部分地區停水至午夜前",
+        "dek": "水務署自上午11時起暫停西灣河、笮箕灣、愛秩序灣及阿公岩道至香島一帶食水供應，目標午夜前恢復。安老院舍一名院友腳傷。"
+      }
+    },
+    {
+      "id": "2026-10-27-tko-wounding-illicit-fuel",
+      "published_at": "2026-10-27T15:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "tseung-kwan-o",
+        "wounding",
+        "illicit-fuel"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-tko-wounding-illicit-fuel.json",
+      "en": {
+        "headline": "Police arrest three over Tseung Kwan O wounding possibly linked to illicit fuel",
+        "dek": "The three men, aged 16 to 19 and with suspected triad backgrounds, were arrested after a 35-year-old driver was stabbed last week at the industrial estate."
+      },
+      "zh": {
+        "headline": "將軍澳工業區傷人案 警拘三名涉三合會背景青年",
+        "dek": "三名16至19歲男子涉嫌串謀意圖傷人被捕，事主為35歲輕型貨車司機，上周三在駿日街遭襲，車上檢獲約120公升懷疑私油。"
+      }
+    },
     {
       "id": "2026-10-27-cuhk-hung-shui-kiu-bid",
       "published_at": "2026-10-27T13:09:00+08:00",
