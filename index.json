@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T09:28:12+08:00",
+  "generated_at": "2026-10-27T09:29:16+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 82,
   "articles": [
     {
       "id": "2026-10-27-hung-hom-harbourfront-revised-plan",
@@ -24,6 +24,51 @@
       "zh": {
         "headline": "發展局建議紅礎海濱建雙塔地標 增加住宅比例",
         "dek": "修訂方案將總樓面增至約20.65萬平方米，住宅佔約62%，臨海四幢住宅改作公眾休憩用地，目標2029年初交地。"
+      }
+    },
+    {
+      "id": "2026-10-27-lifestyle-wine-dine-festival-maxims",
+      "published_at": "2026-10-27T09:26:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "wine-dine-festival",
+        "central",
+        "food",
+        "hktb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-lifestyle-wine-dine-festival-maxims.json",
+      "en": {
+        "headline": "Hong Kong Wine & Dine Festival returns to Central Harbourfront from 29 October",
+        "dek": "The four-day event organised by the Tourism Board features more than 340 booths, new country pavilions and a Maxim’s food street marking the group’s 70th anniversary."
+      },
+      "zh": {
+        "headline": "香港美酒佳養巡禮10月29日起中環海濱舉行",
+        "dek": "旅發局主辦的四日活動設逾340攤位，首設澳洲、加拿大及韓國展館，並有美心集團70周年美食街。"
+      }
+    },
+    {
+      "id": "2026-10-27-romance-scam-engineer-8-5m",
+      "published_at": "2026-10-27T09:26:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "scam",
+        "romance-scam",
+        "police",
+        "cyberdefender"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-romance-scam-engineer-8-5m.json",
+      "en": {
+        "headline": "Middle-aged engineer loses HK$8.5 million in online romance scam",
+        "dek": "Police said at least 18 romance scam reports were received in the past week with total losses exceeding HK$13 million, including this case involving a fake Taiwanese dancer."
+      },
+      "zh": {
+        "headline": "中年工程師墮網上情緣騙局 損失逾850萬元",
+        "dek": "警方表示過去一周接獲至少18宗網上情緣騙案，總損失逾1,300萬元，其中一宗涉假冒台灣舞者。"
       }
     },
     {
