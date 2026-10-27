@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-10-27T15:22:03+08:00",
+  "generated_at": "2026-10-27T17:09:20+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 84,
   "articles": [
+    {
+      "id": "2026-10-27-hang-seng-close-down-170",
+      "published_at": "2026-10-27T17:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hang-seng",
+        "stock-market",
+        "hsbc"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-hang-seng-close-down-170.json",
+      "en": {
+        "headline": "Hang Seng closes down 170 points at 23041 after high open",
+        "dek": "The index finished 0.73 per cent lower with turnover of HK$178.3 billion. HSBC shares fell more than 5 per cent after third-quarter results while tech and property stocks also weakened."
+      },
+      "zh": {
+        "headline": "恒指收跌170點報23041點",
+        "dek": "指數高開低走，全日成交約1783億元。滙控季績後挫逾5%，科技及內房股偏弱，智譜逆市升近9%。"
+      }
+    },
+    {
+      "id": "2026-10-27-kwai-chung-road-accident",
+      "published_at": "2026-10-27T17:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "kwai-chung",
+        "accident",
+        "traffic",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-kwai-chung-road-accident.json",
+      "en": {
+        "headline": "Three-vehicle crash on Kwai Chung Road injures at least nine including pregnant woman",
+        "dek": "Police said a light goods vehicle, a medium goods vehicle and a green minibus collided near Yam Hop Hing Industrial Building shortly after 9.11am; the injured were treated and taken to hospital while lanes were closed."
+      },
+      "zh": {
+        "headline": "葵涌道三車相撞至少九人受傷包括孕婦",
+        "dek": "警方表示上午約9時11分接報，輕型貨車、中型貨車及綠色專線小巴在任合興工業大廈對開相撞，傷者送院，部分行車線封閉。"
+      }
+    },
+    {
+      "id": "2026-10-27-mtr-lam-tin-linked-faults",
+      "published_at": "2026-10-27T17:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "lam-tin",
+        "kwun-tong-line",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-mtr-lam-tin-linked-faults.json",
+      "en": {
+        "headline": "MTR says linked faults caused two Lam Tin disruptions in mid-October",
+        "dek": "Preliminary findings point to a failed insulating component that sparked a fire on 13 October and an overloaded connection the next morning; the operator must submit a full report within a month."
+      },
+      "zh": {
+        "headline": "港鐵指藍田站兩次事故由相關故障引致",
+        "dek": "初步調查顯示10月13日絕緣膠失效引致短路起火，翌日接地開關未重置令電纜過載冒煙；政府要求一個月內提交詳細報告。"
+      }
+    },
     {
       "id": "2026-10-27-shau-kei-wan-pipe-burst",
       "published_at": "2026-10-27T15:20:00+08:00",
@@ -1801,96 +1866,6 @@
       "zh": {
         "headline": "皇崗口岸5樓離境層增設e-道登記站 方便家長即場為子女登記",
         "dek": "入境處今日表示，新登記站協助未用手機應用程式登記的市民及7至17歲子女，完成後可使用合作查驗e-道，處長郭俊峯到場視察。"
-      }
-    },
-    {
-      "id": "2026-10-24-asian-para-games-boccia-gold",
-      "published_at": "2026-10-24T15:25:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-para-games",
-        "boccia",
-        "medals"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-asian-para-games-boccia-gold.json",
-      "en": {
-        "headline": "Hong Kong boccia pair win gold on Asian Para Games final day",
-        "dek": "Leung Yuk-wing and Cheung Yuen beat China 9-0 in the mixed BC4 doubles, while the team also took two bronzes."
-      },
-      "zh": {
-        "headline": "亞殘運硬地滾球 梁育榮張沅9比0勝中國組合奪金",
-        "dek": "港隊在最後比賽日再添一金兩銅，硬地滾球項目表現突出。"
-      }
-    },
-    {
-      "id": "2026-10-24-cross-border-credit-card-fraud-bust",
-      "published_at": "2026-10-24T15:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "fraud",
-        "credit-card",
-        "shenzhen",
-        "cross-border"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-cross-border-credit-card-fraud-bust.json",
-      "en": {
-        "headline": "Police and Shenzhen authorities bust cross-border credit card fraud syndicate",
-        "dek": "Thirty-three people were arrested in a joint operation over at least 60 cases involving more than HK$1.8 million, targeting Hong Kong visitors in Shenzhen."
-      },
-      "zh": {
-        "headline": "警方聯同深圳公安搞破跨境信用卡詐騙集團 拘33人",
-        "dek": "行動涉最少60宗案件，騙款逾180萬港元，專門針對赴深圳熱門地點的香港市民。"
-      }
-    },
-    {
-      "id": "2026-10-24-customs-illicit-cigarettes-9months",
-      "published_at": "2026-10-24T15:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "illicit-cigarettes",
-        "smuggling",
-        "chan-tsz-tat"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-customs-illicit-cigarettes-9months.json",
-      "en": {
-        "headline": "Customs seizes 600 million illicit cigarettes in first nine months",
-        "dek": "Commissioner Chan Tsz-tat said the haul nearly matched the 2025 annual total, with 200 million sticks intercepted en route to other destinations."
-      },
-      "zh": {
-        "headline": "海關首九個月檢獲六億支私煙 接近去年全年總量",
-        "dek": "海關關長陳子達表示，其中2億支原擬運往其他地方，因接獲情報在港截獲。"
-      }
-    },
-    {
-      "id": "2026-10-24-hiv-testing-website-email-misuse",
-      "published_at": "2026-10-24T15:25:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "department-of-health",
-        "hiv",
-        "cybersecurity",
-        "scam"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-hiv-testing-website-email-misuse.json",
-      "en": {
-        "headline": "Health Department investigates suspected misuse of HIV testing website email",
-        "dek": "Fake emails and messages claimed recipients faced HIV infection risk. No data loss or leakage has been found so far, and the site is suspended."
-      },
-      "zh": {
-        "headline": "衛生署HIV測試網站電郵戶口疑被不當使用 暫無資料外洩",
-        "dek": "冒充署方發出電郵或短訊稱收件人有感染風險，網站已暫停運作，市民可致電愛滋熱線預約檢測。"
       }
     }
   ]
