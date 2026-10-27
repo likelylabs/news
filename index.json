@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-10-27T09:29:16+08:00",
+  "generated_at": "2026-10-27T11:08:49+08:00",
   "live_window_hours": 72,
-  "count": 82,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-10-27-airport-cannabis-seizure",
+      "published_at": "2026-10-27T11:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "airport",
+        "cannabis",
+        "drug-trafficking"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-airport-cannabis-seizure.json",
+      "en": {
+        "headline": "Customs seize 3kg of cannabis buds from Bangkok arrival at airport",
+        "dek": "A 56-year-old mainland man was arrested after officers found the suspected cannabis and other items in his carry-on baggage."
+      },
+      "zh": {
+        "headline": "海關機場截查曼谷抵港旅客 檢約3公斤大麻花",
+        "dek": "一名56歲內地男子被捕，人員在其手提行李發現懷疑大麻花及其他物品。"
+      }
+    },
+    {
+      "id": "2026-10-27-lifestyle-ocean-park-halloween",
+      "published_at": "2026-10-27T11:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "halloween",
+        "ocean-park",
+        "wong-chuk-hang",
+        "jackson-wang"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-lifestyle-ocean-park-halloween.json",
+      "en": {
+        "headline": "Ocean Park Halloween Fest continues through 1 November with Grave Rave experiences",
+        "dek": "Daytime access runs until 1 November while selected night sessions feature the Under the Castle haunted experience linked to Jackson Wang’s fantasy IP."
+      },
+      "zh": {
+        "headline": "海洋公園哈囉喂全園祭持續至11月1日 以詭魅墓會為主題",
+        "dek": "日間體驗至11月1日，指定晚間場次設有王嘉爾原創奇幻IP「Under the Castle」驚嚇體驗。"
+      }
+    },
+    {
+      "id": "2026-10-27-man-kam-to-illegal-petrol",
+      "published_at": "2026-10-27T11:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "fire-services",
+        "man-kam-to",
+        "illegal-fuel"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-man-kam-to-illegal-petrol.json",
+      "en": {
+        "headline": "Customs and firefighters dismantle illegal petrol station near Man Kam To homes",
+        "dek": "Officers seized about 1,560 litres of duty-not-paid petrol and arrested a 33-year-old man after finding a fenced shed on Man Kam To Road."
+      },
+      "zh": {
+        "headline": "海關消防搗破文錦渡民居附近非法加油站",
+        "dek": "人員在文錦渡路檢獲約1560公升未完稅汽油，並拘捕一名33歲男子。"
+      }
+    },
+    {
+      "id": "2026-10-27-tuen-mun-7eleven-theft",
+      "published_at": "2026-10-27T11:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "tuen-mun",
+        "theft",
+        "convenience-store"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-tuen-mun-7eleven-theft.json",
+      "en": {
+        "headline": "Police arrest 20-year-old over alleged HK$81,000 theft at Tuen Mun 7-Eleven",
+        "dek": "The employer reported the money missing on Monday evening after checking the cash balance and reviewing transaction records that showed transfers to electronic wallets."
+      },
+      "zh": {
+        "headline": "警方拘捕20歲男子 涉屯門7-Eleven盜竊逾8萬元",
+        "dek": "店主周一傍晚報案，指現金短少約8.1萬元，交易紀錄顯示有款項轉入電子錢包。"
+      }
+    },
     {
       "id": "2026-10-27-hung-hom-harbourfront-revised-plan",
       "published_at": "2026-10-27T09:26:00+08:00",
