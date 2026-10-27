@@ -1,1 +1,197 @@
-PLACEHOLDER_LEDGER
+{
+  "covered": [
+    {
+      "key": "tuen-mun-por-lo-shan-hill-fire",
+      "id": "2026-10-25-tuen-mun-hill-fire",
+      "first_seen": "2026-10-25T19:05:00+08:00",
+      "headline_en": "Firefighters battle hill fire near Tuen Mun residential estates"
+    },
+    {
+      "key": "northern-district-marathon-nov1-arrangements",
+      "id": "2026-10-26-northern-metropolis-marathon-arrangements",
+      "first_seen": "2026-10-26T17:10:00+08:00",
+      "headline_en": "Northern Metropolis Marathon draws 15,000 as traffic plans announced"
+    },
+    {
+      "key": "hang-seng-index-close-oct26",
+      "id": "2026-10-26-hang-seng-close-up-118",
+      "first_seen": "2026-10-26T19:04:00+08:00",
+      "headline_en": "Hang Seng closes up 118 points as property and oil stocks lead"
+    },
+    {
+      "key": "eco-expo-asia-2026-opens",
+      "id": "2026-10-26-eco-expo-asia-opens",
+      "first_seen": "2026-10-26T19:04:00+08:00",
+      "headline_en": "Eco Expo Asia 2026 opens at AsiaWorld-Expo with new ASEAN Pavilion"
+    },
+    {
+      "key": "civil-service-five-year-training-plan",
+      "id": "2026-10-26-civil-service-training-plan",
+      "first_seen": "2026-10-26T19:04:00+08:00",
+      "headline_en": "Civil Service Bureau outlines five-year training plan with AI and patriotic education"
+    },
+    {
+      "key": "shek-kwu-chau-fire-largely-extinguished",
+      "id": "2026-10-26-shek-kwu-chau-fire-extinguished",
+      "first_seen": "2026-10-26T21:05:00+08:00",
+      "headline_en": "Shek Kwu Chau waste facility fire largely extinguished after four hours"
+    },
+    {
+      "key": "gflis-2026-nov",
+      "id": "2026-10-26-gflis-bankers-gather",
+      "first_seen": "2026-10-26T23:30:00+08:00",
+      "headline_en": "HKMA says 280 global financial leaders to gather in Hong Kong next week"
+    },
+    {
+      "key": "aviation-gba-cooperation-fok",
+      "id": "2026-10-26-aviation-gba-cooperation",
+      "first_seen": "2026-10-26T23:30:00+08:00",
+      "headline_en": "Lawmaker calls for closer Greater Bay Area airport cooperation"
+    },
+    {
+      "key": "lifestyle-mplus-myths-monsters",
+      "id": "2026-10-27-mplus-myths-monsters-exhibition",
+      "first_seen": "2026-10-27T01:05:00+08:00",
+      "headline_en": "M+ surveys two centuries of Asian fantasy art until next April"
+    },
+    {
+      "key": "jardine-house-gondola-rescue-oct26",
+      "id": "2026-10-27-jardine-house-gondola-rescue",
+      "first_seen": "2026-10-27T03:20:00+08:00",
+      "headline_en": "Firefighters rescue two workers stranded on Jardine House facade after gondola fault"
+    },
+    {
+      "key": "hk-electric-november-fuel-cut",
+      "id": "2026-10-27-hk-electric-november-fuel-cut",
+      "first_seen": "2026-10-27T03:20:00+08:00",
+      "headline_en": "HK Electric cuts November fuel adjustment charge by 4.2 cents"
+    },
+    {
+      "key": "lifestyle-evoke-festival-halloween",
+      "id": "2026-10-27-lifestyle-evoke-festival",
+      "first_seen": "2026-10-27T03:20:00+08:00",
+      "headline_en": "EVOKE Festival stages open-air electronic music on Hung Hom harbourfront this Halloween"
+    },
+    {
+      "key": "mong-kok-illicit-cigarettes-seizure-oct27",
+      "id": "2026-10-27-mong-kok-illicit-cigarettes",
+      "first_seen": "2026-10-27T07:02:00+08:00",
+      "headline_en": "Customs seize 120,000 illicit cigarettes in Mong Kok flat"
+    },
+    {
+      "key": "huanggang-port-traffic-management-overhaul",
+      "id": "2026-10-27-huanggang-port-traffic-measures",
+      "first_seen": "2026-10-27T07:02:00+08:00",
+      "headline_en": "Authorities step up traffic management at Huanggang Port after weekend gridlock"
+    },
+    {
+      "key": "lifestyle-halloween-in-central-2026",
+      "id": "2026-10-27-lifestyle-halloween-in-central",
+      "first_seen": "2026-10-27T07:02:00+08:00",
+      "headline_en": "Halloween installations light up Statue Square Gardens through 31 October"
+    },
+    {
+      "key": "hung-hom-harbourfront-revised-plan",
+      "id": "2026-10-27-hung-hom-harbourfront-revised-plan",
+      "first_seen": "2026-10-27T09:26:00+08:00",
+      "headline_en": "Development Bureau proposes twin landmark towers and more homes at Hung Hom harbourfront"
+    },
+    {
+      "key": "romance-scam-engineer-8-5m-oct",
+      "id": "2026-10-27-romance-scam-engineer-8-5m",
+      "first_seen": "2026-10-27T09:26:00+08:00",
+      "headline_en": "Middle-aged engineer loses HK$8.5 million in online romance scam"
+    },
+    {
+      "key": "lifestyle-wine-dine-festival-2026",
+      "id": "2026-10-27-lifestyle-wine-dine-festival-maxims",
+      "first_seen": "2026-10-27T09:26:00+08:00",
+      "headline_en": "Hong Kong Wine & Dine Festival returns to Central Harbourfront from 29 October"
+    },
+    {
+      "key": "man-kam-to-illegal-petrol-station-oct26",
+      "id": "2026-10-27-man-kam-to-illegal-petrol",
+      "first_seen": "2026-10-27T11:10:00+08:00",
+      "headline_en": "Customs and firefighters dismantle illegal petrol station near Man Kam To homes"
+    },
+    {
+      "key": "tuen-mun-7eleven-theft-oct26",
+      "id": "2026-10-27-tuen-mun-7eleven-theft",
+      "first_seen": "2026-10-27T11:10:00+08:00",
+      "headline_en": "Police arrest 20-year-old over alleged HK$81,000 theft at Tuen Mun 7-Eleven"
+    },
+    {
+      "key": "hk-airport-cannabis-seizure-oct26",
+      "id": "2026-10-27-airport-cannabis-seizure",
+      "first_seen": "2026-10-27T11:10:00+08:00",
+      "headline_en": "Customs seize 3kg of cannabis buds from Bangkok arrival at airport"
+    },
+    {
+      "key": "lifestyle-ocean-park-halloween-fest-2026",
+      "id": "2026-10-27-lifestyle-ocean-park-halloween",
+      "first_seen": "2026-10-27T11:10:00+08:00",
+      "headline_en": "Ocean Park Halloween Fest continues through 1 November with Grave Rave experiences"
+    },
+    {
+      "key": "privacy-commissioner-data-breaches-oct27",
+      "id": "2026-10-27-privacy-commissioner-data-breaches",
+      "first_seen": "2026-10-27T13:09:00+08:00",
+      "headline_en": "Privacy watchdog investigates data breaches at three firms affecting over 1,600"
+    },
+    {
+      "key": "cuhk-hung-shui-kiu-university-town-bid",
+      "id": "2026-10-27-cuhk-hung-shui-kiu-bid",
+      "first_seen": "2026-10-27T13:09:00+08:00",
+      "headline_en": "CUHK to bid for land in Hung Shui Kiu University Town"
+    },
+    {
+      "key": "hsbc-q3-2026-profit",
+      "id": "2026-10-27-hsbc-q3-profit-up-32",
+      "first_seen": "2026-10-27T13:09:00+08:00",
+      "headline_en": "HSBC third-quarter pretax profit rises 32 per cent to US$9.6 billion"
+    },
+    {
+      "key": "shau-kei-wan-pipe-burst-oct27",
+      "id": "2026-10-27-shau-kei-wan-pipe-burst",
+      "first_seen": "2026-10-27T15:20:00+08:00",
+      "headline_en": "Pipe burst cuts water to parts of Eastern district after Shau Kei Wan works"
+    },
+    {
+      "key": "tko-industrial-estate-wounding-oct21",
+      "id": "2026-10-27-tko-wounding-illicit-fuel",
+      "first_seen": "2026-10-27T15:20:00+08:00",
+      "headline_en": "Police arrest three over Tseung Kwan O wounding possibly linked to illicit fuel"
+    },
+    {
+      "key": "mtr-lam-tin-linked-faults-oct27",
+      "id": "2026-10-27-mtr-lam-tin-linked-faults",
+      "first_seen": "2026-10-27T17:10:00+08:00",
+      "headline_en": "MTR says linked faults caused two Lam Tin disruptions in mid-October"
+    },
+    {
+      "key": "kwai-chung-road-accident-oct27",
+      "id": "2026-10-27-kwai-chung-road-accident",
+      "first_seen": "2026-10-27T17:10:00+08:00",
+      "headline_en": "Three-vehicle crash on Kwai Chung Road injures at least nine including pregnant woman"
+    },
+    {
+      "key": "hang-seng-index-close-oct27",
+      "id": "2026-10-27-hang-seng-close-down-170",
+      "first_seen": "2026-10-27T17:10:00+08:00",
+      "headline_en": "Hang Seng closes down 170 points at 23041 after high open"
+    },
+    {
+      "key": "police-cross-border-white-plate-arrests-oct27",
+      "id": "2026-10-27-police-cross-border-white-plate-arrests",
+      "first_seen": "2026-10-27T21:04:00+08:00",
+      "headline_en": "Police arrest two drivers over cross-border illegal passenger services"
+    },
+    {
+      "key": "lee-northern-metropolis-university-towns-oct27",
+      "id": "2026-10-27-lee-northern-metropolis-university-towns",
+      "first_seen": "2026-10-27T21:04:00+08:00",
+      "headline_en": "John Lee says Northern Metropolis university towns aim to attract world's finest scholars"
+    }
+  ],
+  "updated_at": "2026-10-27T21:04:00+08:00"
+}
