@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-27T17:09:39+08:00",
+  "generated_at": "2026-10-27T21:07:36+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-10-27-lee-northern-metropolis-university-towns",
+      "published_at": "2026-10-27T21:04:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "john-lee",
+        "northern-metropolis",
+        "university",
+        "education",
+        "talent"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-lee-northern-metropolis-university-towns.json",
+      "en": {
+        "headline": "John Lee says Northern Metropolis university towns aim to attract world's finest scholars",
+        "dek": "Speaking at the Global University Presidents and Leaders Summit, the Chief Executive invited institutions to set up research platforms and strengthen industry-academia links."
+      },
+      "zh": {
+        "headline": "李家超：北都大學城旨在吸引全球頂尖學者及學生",
+        "dek": "行政長官在全球大學校長及領袖高峰會致辭，邀請機構設立研究平台，加強產學研聯繫，三個大學城連同周邊發展面積逾1000公頃。"
+      }
+    },
+    {
+      "id": "2026-10-27-police-cross-border-white-plate-arrests",
+      "published_at": "2026-10-27T21:04:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "white-plate",
+        "cross-border",
+        "huanggang",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-police-cross-border-white-plate-arrests.json",
+      "en": {
+        "headline": "Police arrest two drivers over cross-border illegal passenger services",
+        "dek": "Officers posing as passengers booked luxury seven-seaters via social media for trips to Shenzhen, leading to the arrest of a 33-year-old local man and a 27-year-old mainland man on a two-way permit."
+      },
+      "zh": {
+        "headline": "警方放蛇打擊跨境白牌車 拘捕本地及持雙程證司機",
+        "dek": "港島總區交通部人員喬裝乘客，經社交平台預約豪華七人車前往深圳，成功拘捕一名33歲本地男子及一名27歲持雙程證內地男子。"
+      }
+    },
     {
       "id": "2026-10-27-hang-seng-close-down-170",
       "published_at": "2026-10-27T17:10:00+08:00",
@@ -1732,140 +1778,6 @@
       "zh": {
         "headline": "山頂光影項目兩座投影機支架已拆除 居民早前反對",
         "dek": "旅遊事務專員陳慧茜周六早上視察盧吉道及夏力道一帶，下午大型金屬支架已被移除，只剩地基。"
-      }
-    },
-    {
-      "id": "2026-10-24-asian-games-sha-tin-bus-parade",
-      "published_at": "2026-10-24T21:05:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-games",
-        "sha-tin",
-        "bus-parade",
-        "athletes"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-asian-games-sha-tin-bus-parade.json",
-      "en": {
-        "headline": "Asian Games athletes to join Sha Tin bus parade next Tuesday",
-        "dek": "Gold medallists in rowing and windsurfing are among those who will meet residents during an open-top bus tour organised by the Sha Tin District Office and Festival Committee."
-      },
-      "zh": {
-        "headline": "亞運港隊運動員下周二參與沙田巴士巡遊與市民見面",
-        "dek": "賽艇金牌趙顯臻、滑浪風帆金牌黃梓豪等將出席，巡遊由沙田節委員會與沙田民政處合辦，當日亦派發紀念品。"
-      }
-    },
-    {
-      "id": "2026-10-24-mtr-train-odor-incident",
-      "published_at": "2026-10-24T21:05:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "tsuen-wan-line",
-        "tuen-ma-line",
-        "odor",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-mtr-train-odor-incident.json",
-      "en": {
-        "headline": "MTR sends trains for inspection after passengers report odors on two lines",
-        "dek": "Staff found no smell after passengers on the Tsuen Wan and Tuen Ma lines said they felt unwell around 9 p.m. on Friday, and the company has reported the matter to police."
-      },
-      "zh": {
-        "headline": "港鐵接獲乘客反映列車異味 已安排列車返廠檢查並報警",
-        "dek": "昨晚約9時，荃灣線油麻地站及屯馬線土瓜灣站有乘客反映列車有異味，部分人輕微不適，職員未發現異味，港鐵已報警。"
-      }
-    },
-    {
-      "id": "2026-10-24-ce-para-games-medal-haul",
-      "published_at": "2026-10-24T19:03:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "asian-para-games",
-        "medals",
-        "john-lee"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-ce-para-games-medal-haul.json",
-      "en": {
-        "headline": "Chief Executive congratulates Hong Kong athletes on 41-medal Para Games haul",
-        "dek": "Hong Kong, China finished the Asian Para Games in Nagoya with three gold, 14 silver and 24 bronze medals, including a women’s sabre team silver on the final day."
-      },
-      "zh": {
-        "headline": "行政長官恭賀港隊亞殘運奪41面獎牌",
-        "dek": "香港代表團在名古屋亞殘運以3金14銀24銅完結，最終日女子佩劍團體賽再添一銀。"
-      }
-    },
-    {
-      "id": "2026-10-24-fan-kam-road-bus-stop-crash",
-      "published_at": "2026-10-24T17:10:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "accident",
-        "pat-heung",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-fan-kam-road-bus-stop-crash.json",
-      "en": {
-        "headline": "Private car mounts pavement at Fan Kam Road bus stop, injuring three",
-        "dek": "A green convertible struck a minibus and then a bus stop in Pat Heung this morning, leaving a man, a woman and a six-year-old girl with minor injuries."
-      },
-      "zh": {
-        "headline": "粉錦公路私家車剷上巴士站 撞傷3名候車途人包括6歲女童",
-        "dek": "今早約8時43分，一輛開篷跑車在八鄉打石湖巴士站附近撞及小巴後衝上行人路，3名候車市民擦傷送院。"
-      }
-    },
-    {
-      "id": "2026-10-24-hku-information-day-new-courses",
-      "published_at": "2026-10-24T17:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "hku",
-        "university",
-        "admissions"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-hku-information-day-new-courses.json",
-      "en": {
-        "headline": "HKU holds undergraduate information day highlighting AI and new programmes",
-        "dek": "The campus event runs until 6 p.m. under the theme Shape a More Sustainable World with AI, and the university has proposed two new bachelor’s programmes for 2027-28."
-      },
-      "zh": {
-        "headline": "港大本科入學資訊日今日舉行 聚焦AI跨學科應用並推介新課程",
-        "dek": "活動以「啟航未來·AI共創可持續世界」為主題，校方計劃於2027-28學年推出文學士精英及機器人工程學兩項新本科課程，正待審批。"
-      }
-    },
-    {
-      "id": "2026-10-24-huanggang-echannel-registration-station",
-      "published_at": "2026-10-24T17:10:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "immigration",
-        "huanggang",
-        "cross-border"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-24/2026-10-24-huanggang-echannel-registration-station.json",
-      "en": {
-        "headline": "Immigration Department opens new e-Channel registration station at Huanggang port",
-        "dek": "The station on the departure level lets parents register children aged 7 to 17 on the spot for cooperative inspection e-Channels, with the director inspecting operations on Saturday."
-      },
-      "zh": {
-        "headline": "皇崗口岸5樓離境層增設e-道登記站 方便家長即場為子女登記",
-        "dek": "入境處今日表示，新登記站協助未用手機應用程式登記的市民及7至17歲子女，完成後可使用合作查驗e-道，處長郭俊峯到場視察。"
       }
     }
   ]
