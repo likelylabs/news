@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-27T23:31:17+08:00",
+  "generated_at": "2026-10-27T23:32:34+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-10-27-beautician-myanmar-scam-sentence",
+      "published_at": "2026-10-27T23:28:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "scam",
+        "myanmar",
+        "trafficking"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-beautician-myanmar-scam-sentence.json",
+      "en": {
+        "headline": "Beautician jailed four years for selling friends to Myanmar scam compound",
+        "dek": "District Court Judge Adriana Noelle Tse Ching described the defendant’s actions as vicious and inhumane after the two women were held for ransom."
+      },
+      "zh": {
+        "headline": "美容師誘騙友人賣至緬甸詐騙園區 判囚四年",
+        "dek": "區域法院法官謝沈智慧斥被告行為夕毒及泯滅人性，兩名事主被困近兩周後家人支付贖金才獲釋。"
+      }
+    },
+    {
+      "id": "2026-10-27-customs-speedboat-cigarettes",
+      "published_at": "2026-10-27T23:28:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "smuggling",
+        "cigarettes",
+        "sea"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-27/2026-10-27-customs-speedboat-cigarettes.json",
+      "en": {
+        "headline": "Customs seize HK$10 million in illicit cigarettes from speedboat in southeast waters",
+        "dek": "Officers intercepted a high-powered speedboat without navigation lights off the Ninepin Group early on Tuesday and arrested two mainland men."
+      },
+      "zh": {
+        "headline": "海關東南水域截大馬力快艇 檢約一千萬元私煙拘兩人",
+        "dek": "關員於果洲群島東南對開截停沒有開啟航行燈的快艇，拘捕兩名內地男子，檢獲約223萬支懷疑私煙。"
+      }
+    },
     {
       "id": "2026-10-27-housing-officer-misconduct-plea",
       "published_at": "2026-10-27T23:28:00+08:00",
