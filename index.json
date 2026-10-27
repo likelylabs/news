@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-10-28T03:18:50+08:00",
+  "generated_at": "2026-10-28T07:06:07+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-10-28-hung-hom-rat-infestation",
+      "published_at": "2026-10-28T07:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "hung-hom",
+        "rats",
+        "fehd",
+        "hygiene"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-hung-hom-rat-infestation.json",
+      "en": {
+        "headline": "Councillor inspects Hung Hom alley after footage shows rats beside restaurant",
+        "dek": "District councillor Lam Tak-shing visited the Baker Circle site with the Food and Environmental Hygiene Department on Tuesday and called for stepped-up patrols and rodent control."
+      },
+      "zh": {
+        "headline": "區議員視察紅碩貝克圓環後巷鼠患 要求加強滅鼠",
+        "dek": "林志成周二聯同食環署及商場管理人員到場，要求加強巡查後巷、垃圾房及排水渠，並定期滅鼠。"
+      }
+    },
+    {
+      "id": "2026-10-28-lifestyle-sham-shui-po-gas-tank-art",
+      "published_at": "2026-10-28T07:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "art",
+        "sham-shui-po",
+        "exhibition",
+        "sustainability"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-lifestyle-sham-shui-po-gas-tank-art.json",
+      "en": {
+        "headline": "Artists transform retired gas tanks into exhibition pieces in Sham Shui Po",
+        "dek": "More than 20 artists rework blue LPG cylinders that once fuelled Hong Kong kitchens into contemporary works at The Bridge+ space, opening Wednesday."
+      },
+      "zh": {
+        "headline": "深水埗藝術展將退役石油氣罐變藝術品 周三開幕",
+        "dek": "逾二十位藝術家把承載港人回憶的藍色石油氣罐重塑成當代作品，於The Bridge+空間展出至11月8日。"
+      }
+    },
+    {
+      "id": "2026-10-28-strong-monsoon-signal",
+      "published_at": "2026-10-28T07:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "monsoon",
+        "hko"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-strong-monsoon-signal.json",
+      "en": {
+        "headline": "Observatory issues Strong Monsoon Signal for easterly winds",
+        "dek": "The Hong Kong Observatory raised the signal at 4.45am on Wednesday, warning of mean winds exceeding 40 km/h from the east with occasional gale-force gusts."
+      },
+      "zh": {
+        "headline": "天文台發出強烈季候風信號 預料吹偏東強風",
+        "dek": "天文台周三凌晨四時四十五分發出信號，預料本港吹偏東強風，平均風速每小時超過四十公里，陣風間中達烈風程度。"
+      }
+    },
+    {
+      "id": "2026-10-28-tsing-yi-mtr-indecent-assault",
+      "published_at": "2026-10-28T07:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "tsing-yi",
+        "mtr",
+        "indecent-assault",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-tsing-yi-mtr-indecent-assault.json",
+      "en": {
+        "headline": "Police arrest 56-year-old man over indecent assault at Tsing Yi MTR station",
+        "dek": "Officers identified the suspect through CCTV after a woman reported being assaulted at the station on Sunday and detained him at a bus terminus on Tuesday."
+      },
+      "zh": {
+        "headline": "警方拘捕56歲男子 涉青衣港鐵站非禮",
+        "dek": "事主周日報案指在青衣站被非禮，警方經閉路電視鎖定嫌疑，周二在巴士總站拘捕他。"
+      }
+    },
     {
       "id": "2026-10-28-lifestyle-food-carnival-halloween",
       "published_at": "2026-10-28T03:20:00+08:00",
@@ -1884,51 +1972,6 @@
       "zh": {
         "headline": "創新科技嘉年華2026科學園進行中 至11月1日",
         "dek": "創新科技署主辦的九日免費活動以「創科領航 夢想高飛」為主題，設航天專區、工作坊及互動遊戲。"
-      }
-    },
-    {
-      "id": "2026-10-25-lifestyle-hk-food-carnival",
-      "published_at": "2026-10-25T07:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "festival",
-        "kwai-chung",
-        "carnival"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-25/2026-10-25-lifestyle-hk-food-carnival.json",
-      "en": {
-        "headline": "Hong Kong Food Carnival continues at Kwai Chung Sports Ground",
-        "dek": "The nine-day event organised by the Chinese Manufacturers’ Association features more than 330 booths across seven zones, with entry at HK$6 and free admission after 7 p.m."
-      },
-      "zh": {
-        "headline": "香港美食嘉年華葵涌運動場進行中",
-        "dek": "中華廠商聯合會主辦的九日活動設超過330個攤位、七大主題區，入場費6元，晚上7時後免費。"
-      }
-    },
-    {
-      "id": "2026-10-25-yellow-fire-danger-warning",
-      "published_at": "2026-10-25T07:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "fire-danger",
-        "hko",
-        "yellow-warning"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-25/2026-10-25-yellow-fire-danger-warning.json",
-      "en": {
-        "headline": "Observatory issues Yellow Fire Danger Warning for Sunday",
-        "dek": "The Hong Kong Observatory raised the Yellow Fire Danger Warning at 6 a.m., indicating a high fire risk as dry conditions persist under the northeast monsoon."
-      },
-      "zh": {
-        "headline": "天文台發出黃色火災危險警告 周日火險頗高",
-        "dek": "天文台於周日早上6時發出黃色火災危險警告，表示火災危險性頗高，市民及行山人士應提高警覺。"
       }
     }
   ]
