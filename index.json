@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-10-29T03:17:26+08:00",
+  "generated_at": "2026-10-29T07:04:11+08:00",
   "live_window_hours": 72,
-  "count": 96,
+  "count": 99,
   "articles": [
+    {
+      "id": "2026-10-29-lifestyle-lola-maria-wan-chai",
+      "published_at": "2026-10-29T07:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "wan-chai",
+        "spanish",
+        "opening"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-lifestyle-lola-maria-wan-chai.json",
+      "en": {
+        "headline": "Lola María opens second branch in Wan Chai on 3 November",
+        "dek": "Chef Edgard Sanuy Barahona’s Spanish eatery expands from Sheung Wan to Gresson Street, about nine months after the original opened."
+      },
+      "zh": {
+        "headline": "Lola María 11月3日於灣仔開第二分店",
+        "dek": "西班牙菜館由上環荷李活道擴展至灣仔機利臣街，距離首店開業約九個月。"
+      }
+    },
+    {
+      "id": "2026-10-29-medical-council-chow-hearing-postponed",
+      "published_at": "2026-10-29T07:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "medical-council",
+        "chow-tin-yu",
+        "hearing",
+        "inquest",
+        "queen-mary"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-medical-council-chow-hearing-postponed.json",
+      "en": {
+        "headline": "Medical Council postpones Chow Tin-yu disciplinary hearing pending inquest",
+        "dek": "The council adjourned the hearing into a Queen Mary Hospital anaesthetist pending a coroner’s inquest, citing overlapping evidence and the need for a fuller factual basis."
+      },
+      "zh": {
+        "headline": "醫委會押後周天瑜案紀律研訊 待死因庭完成後再排期",
+        "dek": "醫委會指紀律研訊與死因研訊涉及同一臨床事件及重疊證據，押後可避免裁決建基於不完整事實。"
+      }
+    },
+    {
+      "id": "2026-10-29-sha-tin-tai-po-flooding",
+      "published_at": "2026-10-29T07:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "flooding",
+        "sha-tin",
+        "tai-po",
+        "monsoon",
+        "high-tide"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-sha-tin-tai-po-flooding.json",
+      "en": {
+        "headline": "Minor flooding hits Sha Tin cycle track and Tai Po subway after high tide",
+        "dek": "Northeast monsoon and an astronomical high tide raised water levels slightly above normal on Wednesday night, submerging a riverside path and a pedestrian subway."
+      },
+      "zh": {
+        "headline": "東北季候風撞天文大潮 沙田單車徑及大埔行人隧道輕微水浸",
+        "dek": "周三晚水位較正常稍高，沙田城門河旁單車徑及大埔行人隧道出現積水，有市民需涉水或繞路。"
+      }
+    },
     {
       "id": "2026-10-29-mong-kok-jersey-shop-arrest",
       "published_at": "2026-10-29T03:20:00+08:00",
