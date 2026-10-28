@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-10-28T07:53:02+08:00",
+  "generated_at": "2026-10-28T09:14:47+08:00",
   "live_window_hours": 72,
   "count": 89,
   "articles": [
+    {
+      "id": "2026-10-28-customs-tsim-sha-tsui-herbs-misleading",
+      "published_at": "2026-10-28T09:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "tsim-sha-tsui",
+        "trade-descriptions",
+        "herbs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-customs-tsim-sha-tsui-herbs-misleading.json",
+      "en": {
+        "headline": "Customs arrests Tsim Sha Tsui salesman over untimely Chinese herb pricing",
+        "dek": "Officers detained a 30-year-old local man after he revealed the total price only after grinding selected herbal medicines into powder."
+      },
+      "zh": {
+        "headline": "海關拘捕尖沙咀藥房店員 涉中藥材磨粉後才開價",
+        "dek": "海關周二在尖沙咀一間藥房拘捕30歲本地男店員，指他在中藥材磨成粉末後才透露總價，涉嫌誤導性遺漏。"
+      }
+    },
+    {
+      "id": "2026-10-28-lifestyle-disgusting-food-museum-kai-tak",
+      "published_at": "2026-10-28T09:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "food",
+        "exhibition",
+        "kai-tak",
+        "quirky"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-lifestyle-disgusting-food-museum-kai-tak.json",
+      "en": {
+        "headline": "Disgusting Food Museum continues at Kai Tak AIRSIDE until late November",
+        "dek": "The Swedish exhibition displays more than 80 polarising foods from 35 countries with multi-sensory zones and a tasting bar at Gate33 Gallery."
+      },
+      "zh": {
+        "headline": "嘔心食物博物館啟德AIRSIDE展出至11月下旬",
+        "dek": "瑞典展覽在GATE33藝文館展出逾80款來自35國的爭議美食，設多感官體驗及試食吧，至11月26日。"
+      }
+    },
     {
       "id": "2026-10-28-hung-hom-rat-infestation",
       "published_at": "2026-10-28T07:05:00+08:00",
@@ -1927,51 +1972,6 @@
       "zh": {
         "headline": "公營中小學年均處理496宗欺凌個案 較前三年增三成二",
         "dek": "教育局數據顯示，2022至2025學年公營學校年均處理496宗欺凌個案，較2019至2022學年的377宗上升32%。"
-      }
-    },
-    {
-      "id": "2026-10-25-hong-kong-open-final-round",
-      "published_at": "2026-10-25T09:12:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "golf",
-        "hong-kong-open",
-        "fanling"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-25/2026-10-25-hong-kong-open-final-round.json",
-      "en": {
-        "headline": "Four players share lead into final round of Link Hong Kong Open",
-        "dek": "Thomas Pieters, John Catlin, Anirban Lahiri and Caleb Surratt are tied at 14 under after 54 holes at the Hong Kong Golf Club in Fanling."
-      },
-      "zh": {
-        "headline": "香港公開賽決賽日四名球員並列領先",
-        "dek": "湯瑪斯·彼特斯、約翰·卡特林、阿尼爾班·拉希瑞及卡勒伯·蘇拉特在粉嶺香港高爾夫球會三輪後同以低於標準十四桿並列榜首。"
-      }
-    },
-    {
-      "id": "2026-10-25-lifestyle-innocarnival-2026",
-      "published_at": "2026-10-25T09:12:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "technology",
-        "science-park",
-        "exhibition",
-        "family"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-25/2026-10-25-lifestyle-innocarnival-2026.json",
-      "en": {
-        "headline": "InnoCarnival 2026 continues at Science Park through 1 November",
-        "dek": "The nine-day free event organised by the Innovation and Technology Commission features aerospace exhibits, workshops and interactive games under the theme Lead with I&T Dream to Fly High."
-      },
-      "zh": {
-        "headline": "創新科技嘉年華2026科學園進行中 至11月1日",
-        "dek": "創新科技署主辦的九日免費活動以「創科領航 夢想高飛」為主題，設航天專區、工作坊及互動遊戲。"
       }
     }
   ]
