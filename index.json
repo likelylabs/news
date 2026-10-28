@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-28T21:06:23+08:00",
+  "generated_at": "2026-10-28T21:08:18+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-10-28-subdivided-flats-grace-registration",
+      "published_at": "2026-10-28T21:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "subdivided-flats",
+        "housing-bureau",
+        "grace-period",
+        "yau-tsim-mong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-subdivided-flats-grace-registration.json",
+      "en": {
+        "headline": "Housing Bureau says 70 per cent of subdivided flats registered for grace period",
+        "dek": "The bureau told the legislature that 75,070 units in about 21,000 flats have been registered, with nearly half in Kowloon, covering most of the estimated 110,000 citywide."
+      },
+      "zh": {
+        "headline": "房屋局：約七成分間單位已登記寬限期",
+        "dek": "局方向立法會表示，約 21,000 個單位內的 75,070 個分間單位已登記，其中近半位於九龍，涵蓋全市估計約 11 萬個的大部分。"
+      }
+    },
     {
       "id": "2026-10-28-chris-sun-ai-collaboration",
       "published_at": "2026-10-28T21:15:00+08:00",
