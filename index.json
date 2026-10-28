@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-28T21:09:11+08:00",
+  "generated_at": "2026-10-28T23:19:55+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 95,
   "articles": [
+    {
+      "id": "2026-10-28-hkia-iata-one-id",
+      "published_at": "2026-10-28T23:17:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "hkia",
+        "airport",
+        "iata",
+        "biometrics",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-hkia-iata-one-id.json",
+      "en": {
+        "headline": "Hong Kong International Airport becomes first in world to receive IATA One ID…",
+        "dek": "The Airport Authority said the certification recognises its Flight Token biometric system, which more than 80 per cent of departing passengers can use across departure checkpoints."
+      },
+      "zh": {
+        "headline": "香港國際機場成為全球首個獲IATA One ID認證的機場",
+        "dek": "機場管理局指，認證肯定「登機易」生物特徵系統，超過八成離境旅客可於各檢查站使用。"
+      }
+    },
+    {
+      "id": "2026-10-28-mpox-case-41yo",
+      "published_at": "2026-10-28T23:17:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "mpox",
+        "health",
+        "chp",
+        "monkeypox"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-mpox-case-41yo.json",
+      "en": {
+        "headline": "Centre for Health Protection investigates new mpox case in 41-year-old man",
+        "dek": "The patient, who reported high-risk sexual contact in Hong Kong and abroad, is in stable condition at Princess Margaret Hospital after testing positive."
+      },
+      "zh": {
+        "headline": "衞生防護中心調查一宗䆲歲男子猴痘確診個案",
+        "dek": "病人在潛伏期內曾於本港及外地有高風險性接觸，現於瑪嘉烈醫院接受隔離治療，情況穩定。"
+      }
+    },
+    {
+      "id": "2026-10-28-tsuen-wan-restaurant-fire",
+      "published_at": "2026-10-28T23:17:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tsuen-wan",
+        "fire",
+        "restaurant"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-tsuen-wan-restaurant-fire.json",
+      "en": {
+        "headline": "Fire at Tsuen Wan restaurant sends thick smoke into nearby streets",
+        "dek": "About 20 employees and diners evacuated a ground-floor restaurant in Hau Tei Square around 5.14pm after heavy smoke was reported; firefighters extinguished the blaze."
+      },
+      "zh": {
+        "headline": "荃灣鱽地坊餐廳起火 濃煙湧向附近街道",
+        "dek": "下午約5時14分，鱽地坊一間地舖餐廳冒出濃煙，約20名職員及食客疏散，消防到場將火救熄。"
+      }
+    },
     {
       "id": "2026-10-28-subdivided-flats-grace-registration",
       "published_at": "2026-10-28T21:20:00+08:00",
