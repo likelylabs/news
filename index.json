@@ -1,8 +1,51 @@
 {
-  "generated_at": "2026-10-28T11:11:56+08:00",
+  "generated_at": "2026-10-28T13:10:17+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-10-28-home-prices-september-rise",
+      "published_at": "2026-10-28T13:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "property",
+        "housing",
+        "rating-and-valuation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-home-prices-september-rise.json",
+      "en": {
+        "headline": "Private home prices rise for second straight month in September",
+        "dek": "The Rating and Valuation Department said the official index climbed 0.19 per cent to 320.8 while rents reached a new high after 11 months of gains."
+      },
+      "zh": {
+        "headline": "差估署指9月樓價連升兩個月 租金指數再創新高",
+        "dek": "私人住宅售價指數報320.8，按月升0.19%，按年升9.3%。租金指數連升11個月至212.2。"
+      }
+    },
+    {
+      "id": "2026-10-28-hung-hom-waterfront-revised-plan",
+      "published_at": "2026-10-28T13:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "hung-hom",
+        "development",
+        "harbourfront",
+        "lion-rock"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-hung-hom-waterfront-revised-plan.json",
+      "en": {
+        "headline": "Development Bureau says Hung Hom twin towers will not block Lion Rock view",
+        "dek": "Permanent Secretary Doris Ho said the revised waterfront plan includes a public viewing platform and about 200 yacht berths while increasing residential floor area."
+      },
+      "zh": {
+        "headline": "發展局指紅磡雙塔發展不會阻擋獅子山景觀",
+        "dek": "發展局常任秘書長何珮玲表示，修訂後的海濱計劃包括公眾觀景台及約200個遊艇泊位，並增加住宅樓面。"
+      }
+    },
     {
       "id": "2026-10-28-dongshan-precision-ipo-debut",
       "published_at": "2026-10-28T11:10:00+08:00",
