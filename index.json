@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-28T15:20:06+08:00",
+  "generated_at": "2026-10-28T17:08:58+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-10-28-wang-fuk-fire-report-reforms",
+      "published_at": "2026-10-28T17:20:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "tai-po",
+        "wang-fuk-court",
+        "fire",
+        "building-safety",
+        "bid-rigging"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-wang-fuk-fire-report-reforms.json",
+      "en": {
+        "headline": "Government to release Wang Fuk Court fire report and outline bid-rigging reforms on…",
+        "dek": "Sources say Chief Executive John Lee will announce criminal penalties for bid-rigging and other measures at a press conference as the independent committee's findings are made public."
+      },
+      "zh": {
+        "headline": "政府周四公布宏福苑火警報告並提出圍標刑事化改革",
+        "dek": "消息指行政長官李家超周四記者會公布獨立委員會調查結果，並闡述把樓宇維修圍標刑事化等措施。"
+      }
+    },
     {
       "id": "2026-10-28-hkust-third-medical-school-progress",
       "published_at": "2026-10-28T15:20:00+08:00",
