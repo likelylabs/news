@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-10-28T19:06:13+08:00",
+  "generated_at": "2026-10-28T21:06:23+08:00",
   "live_window_hours": 72,
   "count": 91,
   "articles": [
+    {
+      "id": "2026-10-28-chris-sun-ai-collaboration",
+      "published_at": "2026-10-28T21:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "ai",
+        "labour",
+        "chris-sun",
+        "workforce"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-chris-sun-ai-collaboration.json",
+      "en": {
+        "headline": "Labour chief says humans remain masters in AI-driven workplace",
+        "dek": "Chris Sun told a university summit that demand for AI practitioners combining technical and domain skills would rise three- to fourfold, rejecting zero-sum replacement fears."
+      },
+      "zh": {
+        "headline": "勞福局局長：人工智能時代人機協作 人類仍是主導",
+        "dek": "孫玉薚在大學峰會指，結合技術與專業知識的人工智能從業者需求將增三至四倍，並否定零和取代論。"
+      }
+    },
+    {
+      "id": "2026-10-28-lifestyle-muse-fest-carnival",
+      "published_at": "2026-10-28T21:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "museum",
+        "lcsd",
+        "carnival",
+        "tsim-sha-tsui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-lifestyle-muse-fest-carnival.json",
+      "en": {
+        "headline": "Museum Festival carnival brings nostalgic Hong Kong scenes to Tsim Sha Tsui this weekend",
+        "dek": "The free Fun at Museum Carnival on October 31 and November 1 at the Cultural Centre Piazza features a pixelated egg tart, a traditional Chinese medicine shop and other installations under the theme of collaging past…"
+      },
+      "zh": {
+        "headline": "香港博物館節周末嘉年華 尖沙咀重現懷舊香港場景",
+        "dek": "10月31日及11月1日文化中心露天廣場免費「繚Fun博物館嘉年華」，設像素蛋殿、傳統中藥舖等裝置，主題為拼貼今昔。"
+      }
+    },
+    {
+      "id": "2026-10-28-tai-po-missing-man-tung",
+      "published_at": "2026-10-28T21:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tai-po",
+        "missing-person",
+        "police",
+        "plover-cove"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-tai-po-missing-man-tung.json",
+      "en": {
+        "headline": "Police appeal for information on 80-year-old man missing in Tai Po",
+        "dek": "Tung Chung-yin was last seen at Wu Kau Tang in Plover Cove Country Park on Sunday, and his family reported him missing on Tuesday."
+      },
+      "zh": {
+        "headline": "警方呼籲提供大埔失踪80歲男子消息",
+        "dek": "董中賢上星期日最後於大埔船灣郊野公園烏蛟騰出現，家人周二報案。"
+      }
+    },
     {
       "id": "2026-10-28-company-redomiciliation-50",
       "published_at": "2026-10-28T19:02:00+08:00",
@@ -1951,72 +2018,6 @@
       "zh": {
         "headline": "油麻地廟街唐樓單位起火 消防約17分鐘撲熄無人傷",
         "dek": "周日晚上約9時38分廟街107至109號樓上單位冒煙，消防開喉及煙帽隊灌救，約17分鐘將火撲熄，初步懷疑煮食爐肇禍。"
-      }
-    },
-    {
-      "id": "2026-10-25-customs-airport-cocaine-seizure",
-      "published_at": "2026-10-25T21:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "airport",
-        "drugs",
-        "cocaine"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-25/2026-10-25-customs-airport-cocaine-seizure.json",
-      "en": {
-        "headline": "Customs seize 2.2kg suspected cocaine at airport, charge mainland man",
-        "dek": "A 39-year-old passenger from Penang was arrested after officers found the drugs in his carry-on baggage, and he will appear in court tomorrow."
-      },
-      "zh": {
-        "headline": "海關機場檢獲2.2公斤懷疑可卡因 拘捕內地漢",
-        "dek": "一名39歲從檳城抵港的男乘客手提行李藏毒被捕，已遭控以販運危險藥物，周一提堂。"
-      }
-    },
-    {
-      "id": "2026-10-25-hong-kong-open-catlin-win",
-      "published_at": "2026-10-25T21:05:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "golf",
-        "hong-kong-open",
-        "fanling"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-25/2026-10-25-hong-kong-open-catlin-win.json",
-      "en": {
-        "headline": "John Catlin wins Hong Kong Open by five shots at Fanling",
-        "dek": "The American closed with a six-under 64 to finish at 20 under, while local player Matthew Cheung tied for second in the best finish by a Hong Kong golfer in the event’s history."
-      },
-      "zh": {
-        "headline": "美國選手卡特林以五桿優勢贏得香港公開賽",
-        "dek": "他決賽日打出低於標準六桿的64桿，總成績低於標準二十桿；本地球員張雄熙並列亞軍，創港將歷來最佳成績。"
-      }
-    },
-    {
-      "id": "2026-10-25-huanggang-overnight-congestion",
-      "published_at": "2026-10-25T21:05:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "huanggang",
-        "border",
-        "traffic",
-        "halloween"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-25/2026-10-25-huanggang-overnight-congestion.json",
-      "en": {
-        "headline": "Huanggang checkpoint sees overnight queues after concert and Halloween events",
-        "dek": "Chief Secretary Chan Kwok-ki instructed departments to ensure smooth flow after footage showed long vehicle queues at the 24-hour crossing."
-      },
-      "zh": {
-        "headline": "皇崗口岸深夜至凌晨車流人流倍增 陳國基指示確保暢順",
-        "dek": "啟德演唱會及萬聖活動後大批旅客經新皇崗北返，網上片段見車輛輪候，政務司司長已視察並指示保安局跟進。"
       }
     }
   ]
