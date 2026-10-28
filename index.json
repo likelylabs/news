@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-10-28T13:10:17+08:00",
+  "generated_at": "2026-10-28T15:20:06+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-10-28-hkust-third-medical-school-progress",
+      "published_at": "2026-10-28T15:20:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "hkust",
+        "medical-school",
+        "education",
+        "northern-metropolis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-hkust-third-medical-school-progress.json",
+      "en": {
+        "headline": "HKUST says third medical school building tops out ahead of schedule",
+        "dek": "The university reported that its interim Medical Education and Research Complex at Clear Water Bay topped out last week, with faculty recruitment progressing and the first 50 students targeted for 2028/29."
+      },
+      "zh": {
+        "headline": "科大指第三所醫學院大樓提前平頂 籌建進入新階段",
+        "dek": "大學表示清水灣校園的醫學教研綜合大樓上星期平頂，師資招聘進展順利，目標2028/29學年錄取首批50名學生。"
+      }
+    },
+    {
+      "id": "2026-10-28-hongkong-post-record-deficit",
+      "published_at": "2026-10-28T15:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hongkong-post",
+        "deficit",
+        "mail",
+        "e-commerce"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-hongkong-post-record-deficit.json",
+      "en": {
+        "headline": "Hongkong Post posts record HK$905 million deficit for 2025-26",
+        "dek": "The postal service recorded its ninth consecutive annual loss as mail volumes fell by a third over five years, with the Postmaster General citing protectionism and rising costs."
+      },
+      "zh": {
+        "headline": "香港郵政2025/26年度錄得9.05億元赤字創紀錄",
+        "dek": "郵政署年報顯示連續第九年虧蝕，郵件量五年下跌三分之一，署長吳文傑指保護主義及成本上升構成挑戰。"
+      }
+    },
+    {
+      "id": "2026-10-28-ipark1-fire-construction-materials",
+      "published_at": "2026-10-28T15:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "ipark1",
+        "fire",
+        "epd",
+        "shek-kwu-chau",
+        "waste"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-ipark1-fire-construction-materials.json",
+      "en": {
+        "headline": "EPD says Shek Kwu Chau incinerator fire likely started in construction materials",
+        "dek": "The Environmental Protection Department said preliminary findings point to materials on the roof of the third incineration module, not operations or stored waste, and has suspended intake."
+      },
+      "zh": {
+        "headline": "環保署指石鼓洲焚化爐火警初步涉建築材料起火",
+        "dek": "署方表示初步資料顯示起火於第三焚化模組屋頂建築材料，並非運作或儲存廢物引起，設施已暫停接收廢物。"
+      }
+    },
+    {
+      "id": "2026-10-28-standard-chartered-q3-profit",
+      "published_at": "2026-10-28T15:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "standard-chartered",
+        "earnings",
+        "banking",
+        "hong-kong-exchanges"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-standard-chartered-q3-profit.json",
+      "en": {
+        "headline": "Standard Chartered third-quarter profit rises 46 per cent, lifts outlook",
+        "dek": "The note-issuing bank reported net profit of US$1.5 billion for the quarter to September 30, beating forecasts on stronger wealth and trade income, and raised full-year income growth guidance."
+      },
+      "zh": {
+        "headline": "渣打第三季純利升百分之四十六 上調全年收入指引",
+        "dek": "這家發鈔銀行截至9月30日止季度純利達15億美元，優於預期，受財富管理及貿易貸款帶動，並提高全年收入增長預測。"
+      }
+    },
     {
       "id": "2026-10-28-home-prices-september-rise",
       "published_at": "2026-10-28T13:10:00+08:00",
@@ -1905,138 +1994,6 @@
       "zh": {
         "headline": "屯門菠蘿山山火近屋苑 消防直升機灑水撲救",
         "dek": "周日下午屯門菠蘿山近山景邨一帶山火持續，消防處調派政府飛行服務隊直升機灑水協助，暫無人員受傷報告。"
-      }
-    },
-    {
-      "id": "2026-10-25-aiib-northern-metropolis-interest",
-      "published_at": "2026-10-25T15:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "aiib",
-        "northern-metropolis",
-        "paul-chan",
-        "infrastructure"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-25/2026-10-25-aiib-northern-metropolis-interest.json",
-      "en": {
-        "headline": "AIIB expresses interest in financing Northern Metropolis projects",
-        "dek": "Financial Secretary Paul Chan said the Asian Infrastructure Investment Bank is keen on infrastructure development in the Northern Metropolis and will explore cooperation when specific projects are identified."
-      },
-      "zh": {
-        "headline": "亞投行有興趣為北部都會區項目提供融資",
-        "dek": "財政司司長陳茂波表示，亞洲基礎設施投資銀行對北部都會區基建發展甚有興趣，當有具體項目時會探討合作方式。"
-      }
-    },
-    {
-      "id": "2026-10-25-talent-schemes-arrivals",
-      "published_at": "2026-10-25T15:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "talent",
-        "gba",
-        "eric-chan",
-        "immigration"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-25/2026-10-25-talent-schemes-arrivals.json",
-      "en": {
-        "headline": "Talent schemes draw 690,000 applications with 320,000 arrivals",
-        "dek": "Chief Secretary Eric Chan said Hong Kong received about 690,000 applications under various talent admission schemes by September, with 320,000 people already arriving."
-      },
-      "zh": {
-        "headline": "各項人才計劃接獲約69萬宗申請 32萬人已抵港",
-        "dek": "政務司司長陳國基表示，截至九月，特區政府各項人才計劃收到約69萬宗申請，約32萬人已抵港。"
-      }
-    },
-    {
-      "id": "2026-10-25-workweek-weather-outlook-oct26-30",
-      "published_at": "2026-10-25T15:20:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "forecast",
-        "workweek"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-25/2026-10-25-workweek-weather-outlook-oct26-30.json",
-      "en": {
-        "headline": "Work week starts mainly fine, turning windier and cloudier midweek",
-        "dek": "The Hong Kong Observatory forecasts mainly fine conditions on Monday under a northeast monsoon, with increasing cloud and occasional light rain later in the week."
-      },
-      "zh": {
-        "headline": "下周初大致天晴 周中風勢轉大雲量增多",
-        "dek": "天文台預測周一在東北季候風下大致天晴，周中起風勢增強，雲量逐漸增多，間中有微雨。"
-      }
-    },
-    {
-      "id": "2026-10-25-kwun-tong-falling-banana",
-      "published_at": "2026-10-25T13:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "kwun-tong",
-        "falling-object",
-        "police",
-        "injury"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-25/2026-10-25-kwun-tong-falling-banana.json",
-      "en": {
-        "headline": "Woman struck by falling banana while exercising in Kwun Tong estate",
-        "dek": "A woman exercising on a fitness bicycle at Po Pui Court was hit on the head by a banana that fell from above at 7:55 a.m., remaining conscious as she was taken to hospital."
-      },
-      "zh": {
-        "headline": "觀塘寶珮苑晨運婦被高空墮下香蕉砸中頭部送院",
-        "dek": "周日早上約7時55分，一名婦人在寶珮苑寶瑛閣對開休憩處踏健身單車時，遭從高處墮下的香蕉砸中頭部，清醒由救護車送院。"
-      }
-    },
-    {
-      "id": "2026-10-25-mpf-full-portability-phase-one",
-      "published_at": "2026-10-25T13:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "mpf",
-        "portability",
-        "mpfa",
-        "employees"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-25/2026-10-25-mpf-full-portability-phase-one.json",
-      "en": {
-        "headline": "MPF full portability first phase starts 21 December, covering about one million employees",
-        "dek": "The Mandatory Provident Fund Schemes Authority says employees who joined or changed jobs after 1 May 2025 can transfer employer contributions once a calendar year from that date."
-      },
-      "zh": {
-        "headline": "強積金全自由行首階段12月21日實施 涵蓋約100萬僱員",
-        "dek": "積金局主席劉麥嘉軒表示，2025年5月1日或之後入職或轉職的僱員，可由該日起每個公曆年一次轉移僱主強制性供款的全數累算權益。"
-      }
-    },
-    {
-      "id": "2026-10-25-surrogacy-influencer-enforcement-referral",
-      "published_at": "2026-10-25T13:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "surrogacy",
-        "enforcement",
-        "health",
-        "influencer"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-25/2026-10-25-surrogacy-influencer-enforcement-referral.json",
-      "en": {
-        "headline": "Council refers suspected commercial surrogacy case involving mainland influencer to…",
-        "dek": "The Council on Human Reproductive Technology said commercial surrogacy and related advertising are prohibited under the Human Reproductive Technology Ordinance."
-      },
-      "zh": {
-        "headline": "人類生殖科技管理局轉介疑涉商業代孕個案予執法部門",
-        "dek": "管理局表示，根據《人類生殖科技條例》，商業代母安排及分發有關廣告屬違法。"
       }
     }
   ]
