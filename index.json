@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-10-29T03:15:03+08:00",
+  "generated_at": "2026-10-29T03:16:51+08:00",
   "live_window_hours": 72,
-  "count": 95,
+  "count": 96,
   "articles": [
+    {
+      "id": "2026-10-29-mong-kok-jersey-shop-arrest",
+      "published_at": "2026-10-29T03:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "mong-kok",
+        "trade-descriptions",
+        "sportswear"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-mong-kok-jersey-shop-arrest.json",
+      "en": {
+        "headline": "Customs arrests Mong Kok jersey shop owner over delayed deliveries and refunds",
+        "dek": "A 50-year-old man was arrested on Wednesday after 38 customers reported paying for jerseys, printing and badges that were not supplied on time, involving about HK$67,000."
+      },
+      "zh": {
+        "headline": "旺角球衣店收錢不交貨不退款 海關拘捕50歲負責人",
+        "dek": "海關周三拘捕旺角一間球衣店50歲男負責人，截至周二接獲38名顧客投訴，涉及約6.7萬元，指付款後未能按時交貨或退款。"
+      }
+    },
     {
       "id": "2026-10-29-lifestyle-ifla-world-congress",
       "published_at": "2026-10-29T03:15:00+08:00",
