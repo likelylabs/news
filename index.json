@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-10-29T01:03:24+08:00",
+  "generated_at": "2026-10-29T03:15:03+08:00",
   "live_window_hours": 72,
-  "count": 94,
+  "count": 95,
   "articles": [
+    {
+      "id": "2026-10-29-lifestyle-ifla-world-congress",
+      "published_at": "2026-10-29T03:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "ifla",
+        "landscape",
+        "hung-hom",
+        "congress"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-lifestyle-ifla-world-congress.json",
+      "en": {
+        "headline": "International landscape architects congress opens in Hong Kong for the first time",
+        "dek": "More than 1,000 participants from over 80 countries and regions are attending the three-day event at Kerry Hotel in Hung Hom under the theme of shifting watersheds and coastlines."
+      },
+      "zh": {
+        "headline": "國際園境師聯盟世界大會首度在港舉行",
+        "dek": "超過1,000名來自80多個國家及地區的參與者出席在紅磚嘉里酒店舉行的三日活動，主題為變遷中的流域與海岸線。"
+      }
+    },
+    {
+      "id": "2026-10-29-samsung-appliances-exit-hk",
+      "published_at": "2026-10-29T03:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "samsung",
+        "appliances",
+        "business",
+        "retail"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-samsung-appliances-exit-hk.json",
+      "en": {
+        "headline": "Samsung ends large appliance sales in Hong Kong, shifts focus to TVs and mobiles",
+        "dek": "The company said it is concentrating resources on televisions, displays and mobile devices while maintaining after-sales support for products already sold."
+      },
+      "zh": {
+        "headline": "三星停售香港大型家電 資源轉向電視及流動裝置",
+        "dek": "三星香港表示正將資源集中於電視、顯示器及流動通訊裝置，並維持已售產品的售後及維修服務。"
+      }
+    },
+    {
+      "id": "2026-10-29-tai-po-knife-attack",
+      "published_at": "2026-10-29T03:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tai-po",
+        "police",
+        "knife-attack",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-tai-po-knife-attack.json",
+      "en": {
+        "headline": "Police hunt four suspects after Tai Po knife attack injures 41-year-old man",
+        "dek": "The man was attacked by four men, two with knives, outside a shop on Pak Shing Street on Wednesday evening; the case has been passed to the anti-triad unit."
+      },
+      "zh": {
+        "headline": "大埔男子遭四男持刀襲擊 警方追查四名疑犯",
+        "dek": "一名41歲男子周三傍晚在百盛街一商店外遭四名男子襲擊，其中兩人持約一吻長刀具，案件交由反黑組跟進。"
+      }
+    },
     {
       "id": "2026-10-29-civil-service-pensions-rise",
       "published_at": "2026-10-29T01:05:00+08:00",
@@ -2039,52 +2106,6 @@
       "zh": {
         "headline": "大埔汀角路三車相撞兩人受傷 有司機疑逆線行駛",
         "dek": "周日凌晨約1時，大埔汀角路近犁壁山有私家車疑逆線行駛，與對向車輛迎頭相撞，尾隨車輛再撞前車車尾，兩名司機受傷送院。"
-      }
-    },
-    {
-      "id": "2026-10-26-lifestyle-tai-kwun-framed-halloween",
-      "published_at": "2026-10-26T03:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "tai-kwun",
-        "halloween",
-        "central",
-        "culture"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-lifestyle-tai-kwun-framed-halloween.json",
-      "en": {
-        "headline": "Tai Kwun stages FRAMED Halloween nights in Central later this week",
-        "dek": "The heritage compound will host free art-inspired costume events in the Prison Yard on 30 and 31 October from 7pm to 10pm."
-      },
-      "zh": {
-        "headline": "大館下周舉行FRAMED藝裝萬聖夜",
-        "dek": "中環大館將於10月30及31日晚上7時至10時在監獄操場免費舉辦藝術服裝主題活動，邀請訪客化身活藝術品。"
-      }
-    },
-    {
-      "id": "2026-10-26-lifestyle-outdoor-tech-light-expo",
-      "published_at": "2026-10-26T01:05:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "asiaworld-expo",
-        "lighting",
-        "hktdc"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-lifestyle-outdoor-tech-light-expo.json",
-      "en": {
-        "headline": "Outdoor and Tech Light Expo opens today at AsiaWorld-Expo",
-        "dek": "The HKTDC fair runs through Thursday for industry visitors, featuring smart outdoor lighting solutions and concurrent with the autumn lighting fair starting tomorrow."
-      },
-      "zh": {
-        "headline": "香港國際戶外及科技照明博覽今日亞洲博覽館開幕",
-        "dek": "貿發局主辦的業界展覽至周四舉行，展示智能戶外照明方案，入場限18歲或以上業內人士，明日起同期有秋季燈飾展。"
       }
     }
   ]
