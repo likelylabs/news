@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-28T17:08:58+08:00",
+  "generated_at": "2026-10-28T19:06:13+08:00",
   "live_window_hours": 72,
   "count": 91,
   "articles": [
+    {
+      "id": "2026-10-28-company-redomiciliation-50",
+      "published_at": "2026-10-28T19:02:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "redomiciliation",
+        "financial-services",
+        "christopher-hui",
+        "funds"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-company-redomiciliation-50.json",
+      "en": {
+        "headline": "More than 50 companies have re-domiciled to Hong Kong, Hui says",
+        "dek": "The Financial Services and the Treasury Secretary said over 30 applications are still being processed since the regime took effect in May 2025, providing a clear path for overseas funds."
+      },
+      "zh": {
+        "headline": "許正宇：已促成逾50間公司遷冊來港 正處理逾30宗申請",
+        "dek": "財經事務及庫務局局長指，自去年5月制度落實後成效顯著，為海外基金落戶香港提供清晰路徑。"
+      }
+    },
+    {
+      "id": "2026-10-28-exports-september-surge",
+      "published_at": "2026-10-28T19:02:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "exports",
+        "trade",
+        "ai",
+        "census-and-statistics"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-exports-september-surge.json",
+      "en": {
+        "headline": "Hong Kong exports surge 64.9 per cent in September, fastest in over 40 years",
+        "dek": "The Census and Statistics Department said the value of total exports reached HK$762.6 billion, driven by AI-related electronics, marking the twentieth consecutive month of double-digit growth."
+      },
+      "zh": {
+        "headline": "香港9月出口按年升64.9% 創逾40年最快增速",
+        "dek": "政府統計處公布，9月整體出口貨值達7626億元，受人工智能相關電子產品帶動，連續第20個月錄得雙位數增長。"
+      }
+    },
+    {
+      "id": "2026-10-28-huanggang-halloween-weekend",
+      "published_at": "2026-10-28T19:02:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "huanggang",
+        "border",
+        "halloween",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-28/2026-10-28-huanggang-halloween-weekend.json",
+      "en": {
+        "headline": "Government prioritises public transport at Huanggang for Halloween weekend peak",
+        "dek": "Chief Secretary Chan Kwok-ki said northbound departures from 11pm to 2am from Friday will be the busiest period, with private cars potentially facing waits of over an hour."
+      },
+      "zh": {
+        "headline": "政府料萬聖節周末深宵皇崗北行最繁忙 公共交通優先放行",
+        "dek": "政務司司長陳國基表示，周五起一連三日晚上11時至凌晨2時將是新皇崗口岸北行出境高峰，私家車輪候或超過一小時。"
+      }
+    },
     {
       "id": "2026-10-28-wang-fuk-fire-report-reforms",
       "published_at": "2026-10-28T17:20:00+08:00",
@@ -1951,72 +2017,6 @@
       "zh": {
         "headline": "皇崗口岸深夜至凌晨車流人流倍增 陳國基指示確保暢順",
         "dek": "啟德演唱會及萬聖活動後大批旅客經新皇崗北返，網上片段見車輛輪候，政務司司長已視察並指示保安局跟進。"
-      }
-    },
-    {
-      "id": "2026-10-25-louie-shum-death",
-      "published_at": "2026-10-25T19:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "finance",
-        "stock-commentator",
-        "wan-chai",
-        "obituary"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-25/2026-10-25-louie-shum-death.json",
-      "en": {
-        "headline": "Veteran stock commentator Louie Shum dies at 66",
-        "dek": "Former Sincere Securities chief Louie Shum Chun-ying collapsed near a taxi rank in Wan Chai and died on Saturday night at Ruttonjee Hospital, his family confirmed."
-      },
-      "zh": {
-        "headline": "資深股評人沈振盈逝世 享年66歲",
-        "dek": "前訊匯證券行政總裁沈振盈（沈大師）周六晚在灣仔的士站附近暈倒，於律敦治醫院離世，家人周日證實。"
-      }
-    },
-    {
-      "id": "2026-10-25-oases-strategic-enterprises-investment",
-      "published_at": "2026-10-25T19:05:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "investment",
-        "oases",
-        "paul-chan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-25/2026-10-25-oases-strategic-enterprises-investment.json",
-      "en": {
-        "headline": "First six batches of key enterprises invest HK$28.3 billion",
-        "dek": "Financial Secretary Paul Chan said actual investment by the first six batches reached HK$28.3 billion by end-September, exceeding phased targets, with 142 firms now in total."
-      },
-      "zh": {
-        "headline": "首六批重點企業實際投資達283億元",
-        "dek": "財政司司長陳茂波表示，截至九月底首六批重點企業實際投資達283億港元、聘用逾1.03萬人，超階段目標；連同第七批合計142家。"
-      }
-    },
-    {
-      "id": "2026-10-25-tuen-mun-hill-fire",
-      "published_at": "2026-10-25T19:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tuen-mun",
-        "hill-fire",
-        "fire-services",
-        "helicopter"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-25/2026-10-25-tuen-mun-hill-fire.json",
-      "en": {
-        "headline": "Firefighters battle hill fire near Tuen Mun residential estates",
-        "dek": "Crews continued fighting a blaze on Por Lo Shan near Shan King Estate on Sunday afternoon, with a Government Flying Service helicopter dropping water and no injuries reported."
-      },
-      "zh": {
-        "headline": "屯門菠蘿山山火近屋苑 消防直升機灑水撲救",
-        "dek": "周日下午屯門菠蘿山近山景邨一帶山火持續，消防處調派政府飛行服務隊直升機灑水協助，暫無人員受傷報告。"
       }
     }
   ]
