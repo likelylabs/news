@@ -29,7 +29,11 @@ schema/example-article.json         an illustrative sample (not a live story)
 - `story_key` names the **event**, not the headline wording — so the same
   event written two different ways still collides. If a candidate's key is
   already in the ledger, **skip it.**
-- After publishing, append `{ "key", "id", "first_seen", "headline_en" }`.
+- **The automation never edits `ledger.json`.** `tools/prune.py` (run by
+  the Action on every push) rebuilds it from the article files — each
+  article's `story_key`, `id`, `published_at` and `en.headline` become its
+  `{ "key", "id", "first_seen", "headline_en" }` entry — and rewrites it in
+  the canonical `{"covered": [...]}` form even if it was damaged.
 - Old keys age out automatically (14-day retention) — don't prune by hand.
 
 ## index.json is generated — never hand-edit it
@@ -40,12 +44,13 @@ or edit it. Hand-editing it is the one sure way to desync the app from
 reality (tenet #5). If it ever looks wrong, re-run the Action — don't patch
 the file.
 
-## Articles are permanent; the ledger self-trims
+## Articles are permanent; the ledger maintains itself
 
 Article files are **never deleted**. Anything older than the 72h live
 window is served human-readably at `/archive/` (rendered at deploy time by
 `tools/build_archive.py` — output never committed). `tools/prune.py` (also
-run by the Action) now only trims ledger keys older than **14 days**. Don't
+run by the Action) rebuilds the ledger from the articles and trims keys
+older than **14 days**. Don't
 delete articles manually to "clean up", and never delete a live article to
 hide a mistake.
 
@@ -82,23 +87,20 @@ this mode reports repairable metadata too, so writers fix it before pushing.
    in the ledger.
 3. Verify facts (see GROK.md §3). Drop anything shaky.
 4. Write ≤5 valid article files to `articles/<date>/`.
-5. Append each to `ledger.json`.
+5. Leave `ledger.json` alone — the Action adds your articles to it.
 6. Run `python3 tools/build_index.py --check` if code execution is available;
    otherwise check the fields against the schema. Fix errors before committing.
-7. Commit article files + ledger.json — **not** index.json — as **one commit,
+7. Commit the article files — **not** index.json or ledger.json — as **one commit,
    pushed once**, at the end of the run.
 8. Nothing new? Commit nothing. No empty commits, no "no news today" placeholders.
 
 ## One commit, one push, per run
 
-The whole run lands together: every article file plus the `ledger.json`
-update, in a **single commit**, pushed **once**. Never commit article by
+The whole run lands together: every article file in a **single commit**, pushed **once**. Never commit article by
 article or push after each file.
 
 Each push triggers the index rebuild, so a run that pushes five times starts
-five rebuilds racing each other — and briefly leaves articles on `main` whose
-ledger entries haven't landed, which is exactly the state a sibling run reads
-when it dedups. The Action retries through the race (see
+five rebuilds racing each other. The Action retries through the race (see
 `.github/workflows/build-index.yml`), but not racing is better than
 recovering from one.
 

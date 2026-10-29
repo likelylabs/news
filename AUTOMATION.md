@@ -119,7 +119,7 @@ HOW THIS RUN MUST END — read this before anything else, it outranks every edit
 - NEVER end by describing what you found, by listing the stories you "will" publish, or by summarising a plan. A run that ends in a plan is a FAILED run, not a short one.
 - If you researched a story, write it. If you wrote a file, push it. Same turn, without waiting to be asked or to confirm.
 - WRITE AS YOU VERIFY. Write each article to its file the moment it clears the accuracy bar, instead of researching everything and writing at the end. A run that gets cut short then still has finished files to push.
-- RUNNING SHORT? CUT SCOPE, NEVER THE ENDING. If you are low on time, context or tool calls, stop researching immediately and finish what you already hold. ONE verified story — written, ledgered, committed, pushed — is a SUCCESSFUL run. Five researched and none pushed is a total loss. Always trade breadth for a completed push.
+- RUNNING SHORT? CUT SCOPE, NEVER THE ENDING. If you are low on time, context or tool calls, stop researching immediately and finish what you already hold. ONE verified story — written, committed, pushed — is a SUCCESSFUL run. Five researched and none pushed is a total loss. Always trade breadth for a completed push.
 
 KNOW THE TIME (establish this independently, before anything else): Determine the current Hong Kong date, weekday and clock time (HKT, UTC+8) from a live source — a web search, a dated page you just fetched, or an explicit UTC→HKT conversion. The scheduler that launched you may be in Pacific time or some other zone; NEVER read the current time off the scheduler's clock, off this automation's name (e.g. "2am"), or off the timestamps of previous runs. Use HKT for published_at, for "morning/lunch/afternoon", and for the weather cadence.
 
@@ -175,19 +175,18 @@ FORMAT — for each story, create a file at articles/<YYYY-MM-DD>/<id>.json matc
 - LOCK SCREENS: a push shows the headline as its title and the dek as its text (en or zh by the reader's language), and readers who opt into every update get one notification per run carrying one of its new stories, so write EVERY headline and dek to stand alone: most important fact first, a dek of about 180 characters or fewer (that is all a notification shows; 220 is only the schema maximum), no links or calls to action, no names of minors, victims or witnesses, no graphic detail, no unconfirmed figures, attribution to the primary source (never a radio station or broadcaster), no "Breaking"/"Urgent" label in either language (no 突發, 快訊 or 緊急).
 
 THEN:
-- RECONCILE THE LEDGER BEFORE YOU APPEND TO IT: check that every article file already on main for today and yesterday has a matching entry in ledger.json. A run that dies between writing its articles and updating the ledger leaves stories that dedup cannot see, and the next run re-reports them as new. If you find any, add their entries in this run's commit, using each article's own published_at as first_seen. A commit that only repairs the ledger is worth making even if you publish nothing else.
-- Append each published story to ledger.json under "covered" as {"key": story_key, "id": id, "first_seen": now in +08:00, "headline_en": en.headline}.
+- DO NOT EDIT ledger.json. It is read-only for you. The GitHub Action rebuilds it on every push from the article files themselves (story_key, id, published_at, en.headline), so each article you push IS its ledger entry. Hand-rewriting the ledger is what repeatedly broke publication (placeholder text, truncated lists). Make each story_key name the event so dedup works.
 - PREFLIGHT: if code execution is available, run `python3 tools/build_index.py --check` and fix all errors before committing. It validates without modifying articles or index.json. Otherwise check every field against schema/article.schema.json. The Action's safe tag normalization and display-length trimming are a fallback; invalid types or unrepairable articles still stop publication.
-- Commit the whole run AT ONCE — ONE commit, ONE push, at the very end: every article file you wrote this run PLUS the ledger.json update in a single commit. Do not commit article by article, do not push after each file, and do not push the ledger separately from the articles it describes. Each push kicks off the index rebuild, so a run that pushes five times races itself; one push per run is cheaper and never leaves an article on main whose ledger entry hasn't landed.
-- ONE commit is the target, but A PARTIAL RUN THAT LANDED BEATS A WHOLE RUN THAT VANISHED. If you genuinely cannot finish everything, commit and push the articles you HAVE written together with their ledger entries, rather than ending the turn holding unpushed work. Never stop while holding files. The index rebuild tolerates an extra push; it cannot recover work you never pushed.
-- VERIFY THE PUSH LANDED: after pushing, re-read main and confirm your commit is actually there and contains every article file you wrote plus the ledger update. A push that reports success but leaves files behind is the failure mode that silently drops a whole run's work. If something is missing, push ONE corrective commit containing exactly what is missing — never rewrite or re-push what already landed.
+- Commit the whole run AT ONCE — ONE commit, ONE push, at the very end: every article file you wrote this run in a single commit. Do not commit article by article or push after each file. Each push kicks off the index rebuild, so a run that pushes five times races itself; one push per run is cheaper.
+- ONE commit is the target, but A PARTIAL RUN THAT LANDED BEATS A WHOLE RUN THAT VANISHED. If you genuinely cannot finish everything, commit and push the articles you HAVE written, rather than ending the turn holding unpushed work. Never stop while holding files. The index rebuild tolerates an extra push; it cannot recover work you never pushed.
+- VERIFY THE PUSH LANDED: after pushing, re-read main and confirm your commit is actually there and contains every article file you wrote. A push that reports success but leaves files behind is the failure mode that silently drops a whole run's work. If something is missing, push ONE corrective commit containing exactly what is missing — never rewrite or re-push what already landed.
 - DO NOT create or edit index.json — a GitHub Action rebuilds it automatically. Just make sure every article file is valid JSON matching the schema.
 - A run that publishes nothing at all is far more often a broken run than a quiet news day — Hong Kong always has something on. Before you finish empty, go back and find one verified lifestyle / city-life piece. Only make no commit if you have genuinely done that and still have nothing that clears the accuracy bar, and then say why in your final output.
 
 BEFORE YOU STOP, confirm all five. If any is false, you are not finished — go and finish it:
   1. Every story you researched is either written and pushed, or deliberately dropped for a reason you can state.
   2. Every file you wrote is on main. Nothing is left unpushed in your workspace.
-  3. Every pushed article's ledger entry is in the SAME commit as the article.
+  3. You did not edit ledger.json (the Action maintains it).
   4. You re-read main and confirmed the commit is actually there.
   5. The report below is written.
 
@@ -195,7 +194,6 @@ REPORT — end EVERY run with this status block, including a run that published 
   HKT landing: <HH:MM> | nearest intended slot: <HH:MM> | drift: <none, or Nh Mm — flag SCHEDULE DRIFT if over 45m>
   Gap since last published article: <Nh Mm>
   Published: <N> news, <N> lifestyle, <N> weather
-  Ledger entries repaired: <N>
   Push verified on main: <yes / no>
   Anomalies: <schedule drift, long gap, connector or write errors, or "none">
 

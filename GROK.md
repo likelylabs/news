@@ -463,18 +463,15 @@ for every article, and with extra care on a breaking one:
    `12:00:00`); `ai_generated: true`. Leave `breaking` out (it defaults
    to `false`) unless the story clears the bar in §1c — `breaking: true`
    sends a push notification to readers' phones.
-9. **Append each published story to `ledger.json`** under `covered`, as
-   `{ "key": "<story_key>", "id": "<id>", "first_seen": "<now +08:00>",
-   "headline_en": "<en.headline>" }`.
-   **First, reconcile.** Check that every article file already on `main` for
-   today and yesterday has a matching ledger entry. A run that died between
-   writing its articles and updating the ledger left stories that dedup cannot
-   see, and they will be re-reported as new. Add any missing entries in this
-   run's commit, using each article's own `published_at` as `first_seen`. A
-   commit that only repairs the ledger is worth making on its own.
+9. **Do not edit `ledger.json` — it is read-only for you.** The GitHub
+   Action rebuilds it on every push from the article files themselves
+   (`story_key`, `id`, `published_at`, `en.headline`), and repairs it if it
+   is damaged. Each article you push *is* its ledger entry, so make its
+   `story_key` name the event (step 7). Hand-rewriting the ledger is what
+   repeatedly broke publication (placeholder text, truncated lists).
 10. **Never touch `index.json`.** You do **not** build the index. Once you
-   commit your article files and the ledger update, the repository's GitHub
-   Action validates every article against the schema, trims the ledger, and
+   commit your article files, the repository's GitHub Action validates
+   every article against the schema, rebuilds the ledger, and
    regenerates `index.json` automatically. Your only job is to make sure each
    article file is **valid JSON that matches `schema/article.schema.json`**
    before you commit. If your run environment can execute code, run
@@ -505,17 +502,14 @@ for every article, and with extra care on a breaking one:
     otherwise publish nothing, find and publish at least one current
     lifestyle / light / whimsical piece before finishing.
 12. **Commit the whole run at once — ONE commit, ONE push.** Every article
-    file you wrote this run *plus* the `ledger.json` update go in a **single
-    commit**, pushed **once**, at the very end. Do not commit article by
-    article, do not push after each file, and do not push the ledger
-    separately from the articles it describes. (Each push kicks off the index
-    rebuild, and a second push landing mid-rebuild is a race — the Action
-    recovers, but a one-push run is cheaper, and it never leaves an article on
-    `main` whose ledger entry hasn't landed yet.) See TIDINESS.md for the
+    file you wrote this run goes in a **single commit**, pushed **once**, at
+    the very end. Do not commit article by article or push after each file.
+    (Each push kicks off the index rebuild, and a second push landing
+    mid-rebuild is a race — the Action recovers, but a one-push run is
+    cheaper.) See TIDINESS.md for the
     message convention.
 13. **Verify the push, then report.** Re-read `main` and confirm your commit
-    is actually there and carries every article file you wrote plus the ledger
-    update — a push that reports success while leaving files behind is exactly
+    is actually there and carries every article file you wrote — a push that reports success while leaving files behind is exactly
     how a run's work disappears silently. If anything is missing, push **one**
     corrective commit containing only what is missing; never rewrite or
     re-push what already landed. Then end the run with a short status block,
@@ -525,7 +519,6 @@ for every article, and with extra care on a breaking one:
     HKT landing: <HH:MM> | nearest slot: <HH:MM> | drift: <none | Nh Mm>
     Gap since last published article: <Nh Mm>
     Published: <N> news, <N> lifestyle, <N> weather
-    Ledger entries repaired: <N>
     Push verified on main: <yes / no>
     Anomalies: <schedule drift, long gap, connector or write errors, or none>
     ```
@@ -535,7 +528,7 @@ for every article, and with extra care on a breaking one:
 
 **COMPLETION RULE (non-negotiable):**
 - Do not end your turn until you have successfully pushed one commit that
-  contains every new article file + the updated ledger.json, **and** every
+  contains every new article file, **and** every
   item that was due in the Pre-flight checklist has been published or
   confirmed already present, **and** the run is not empty.
 - A run that publishes news or lifestyle while leaving a due standing
@@ -558,13 +551,12 @@ for every article, and with extra care on a breaking one:
   run that gets cut short then still has finished files to push.
 - **Running short? Cut scope, never the ending.** If you are low on time,
   context or tool calls, stop researching immediately and finish what you
-  already hold. One verified story — written, ledgered, committed and
+  already hold. One verified story — written, committed and
   pushed — is a **successful run**. Five researched and none pushed is a
   total loss. Always trade breadth for a completed push.
 - **A partial run that landed beats a whole run that vanished.** One commit
   per run is the target (step 12), but if you genuinely cannot finish, push
-  the articles you have written together with their ledger entries rather
-  than ending the turn holding unpushed work. The index rebuild tolerates an
+  the articles you have written rather than ending the turn holding unpushed work. The index rebuild tolerates an
   extra push; it cannot recover work that was never pushed.
 - The push is not the end of the run. You are done only once you have
   **verified the commit landed on `main`** with every file it should carry,

@@ -9,10 +9,11 @@ tenets before changing anything.
 ## Pipeline
 
 - **Write path:** 9 scheduled **Grok** automations (web/X + GitHub
-  connector) write `articles/<date>/<id>.json` + append `ledger.json`. The
+  connector) write `articles/<date>/<id>.json` only. The
   brief is `GROK.md`; the paste-in prompt and schedule are in `AUTOMATION.md`.
 - **Enforce path:** the `build-index` GitHub Action validates every article,
-  trims the ledger, and regenerates `index.json`. Article files are permanent
+  rebuilds `ledger.json` from the articles (14-day window), and regenerates
+  `index.json`. Article files are permanent
   — never deleted. Rules in `TIDINESS.md`.
 - **Push path:** none in this repo. The radio app's weather Worker pulls the
   published `index.json` every 5 minutes and sends at most one notification
