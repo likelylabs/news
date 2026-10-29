@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-10-29T08:07:32+08:00",
+  "generated_at": "2026-10-29T09:17:24+08:00",
   "live_window_hours": 72,
-  "count": 94,
+  "count": 97,
   "articles": [
+    {
+      "id": "2026-10-29-hkma-base-rate-hold",
+      "published_at": "2026-10-29T09:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hkma",
+        "base-rate",
+        "fed",
+        "interest-rates",
+        "currency-peg"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-hkma-base-rate-hold.json",
+      "en": {
+        "headline": "HKMA holds base rate at 4.25 per cent after Fed decision",
+        "dek": "The Hong Kong Monetary Authority kept its base rate unchanged on Thursday, matching the US Federal Reserve’s hold of its target range at 3.75 to 4 per cent."
+      },
+      "zh": {
+        "headline": "金管局維持基本利率4.25厘 跟隨聯儲局按兵不動",
+        "dek": "香港金融管理局周四宣布維持基本利率於4.25厘不變，與美國聯儲局維持目標區間3.75至4厘的決定一致。"
+      }
+    },
+    {
+      "id": "2026-10-29-lifestyle-greater-bay-area-science-forum",
+      "published_at": "2026-10-29T09:15:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "lifestyle",
+        "science",
+        "greater-bay-area",
+        "nobel",
+        "forum",
+        "hong-kong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-lifestyle-greater-bay-area-science-forum.json",
+      "en": {
+        "headline": "Greater Bay Area Science Forum opens this weekend with Nobel winners",
+        "dek": "The three-day event, co-hosted by the governments of Guangdong, Hong Kong and Macau, will feature four Nobel laureates and parallel activities in Hong Kong and other cities."
+      },
+      "zh": {
+        "headline": "大灣區科學論壇本周末開幕 邀諾獎得主出席",
+        "dek": "由粵港澳三地政府合辦的三日論壇將於周六起舉行，包括四位諾貝爾獎得主參與，並在香港等地設有平行活動。"
+      }
+    },
+    {
+      "id": "2026-10-29-mong-kok-baccarat-gambling-raid",
+      "published_at": "2026-10-29T09:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "mong-kok",
+        "gambling",
+        "baccarat",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-mong-kok-baccarat-gambling-raid.json",
+      "en": {
+        "headline": "Police arrest six after raiding Mong Kok baccarat gambling den",
+        "dek": "Officers from the Mong Kok special duty squad busted a suspected illegal gambling establishment on Fa Yuen Street on Thursday, seizing a baccarat table, chips and cash."
+      },
+      "zh": {
+        "headline": "旺角花園街百家樂賭檔被搔 警拘6人",
+        "dek": "旺角特別職務隊周四突擊搜查花園街一個單位，搔破懷疑非法賭檔，檢獲百家樂枱、籌碼及現金，拘捕6人。"
+      }
+    },
     {
       "id": "2026-10-29-lifestyle-lola-maria-wan-chai",
       "published_at": "2026-10-29T07:05:00+08:00",
