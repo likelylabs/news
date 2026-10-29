@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-10-29T13:15:29+08:00",
+  "generated_at": "2026-10-29T15:26:52+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-10-29-cybersecurity-attack-defence-drill",
+      "published_at": "2026-10-29T15:25:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "cybersecurity",
+        "digital-policy-office",
+        "drill",
+        "sun-dong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-cybersecurity-attack-defence-drill.json",
+      "en": {
+        "headline": "Hong Kong launches 60-hour cybersecurity attack-and-defence drill",
+        "dek": "The Digital Policy Office’s three-day exercise involves 51 blue teams from government, public bodies and private firms for the first time, testing responses to simulated threats."
+      },
+      "zh": {
+        "headline": "香港網絡安全攻防演練展開 為期60小時",
+        "dek": "數字政策辦公室主辦的三日演練首次邀請私營企業加入防守方，共51支藍隊參與，測試應對模擬網絡威脅的能力。"
+      }
+    },
+    {
+      "id": "2026-10-29-lifestyle-assad-brothers-farewell",
+      "published_at": "2026-10-29T15:25:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "assad-brothers",
+        "asia-plus",
+        "city-hall",
+        "guitar"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-lifestyle-assad-brothers-farewell.json",
+      "en": {
+        "headline": "Assad Brothers bring 60-year farewell recital to City Hall tomorrow",
+        "dek": "The Brazilian classical guitar duo performs at 8pm on 30 October as part of the Asia+ Festival, joined by local guzheng player Wan Xing."
+      },
+      "zh": {
+        "headline": "阿薩德兄弟60年告別巡演明日大會堂上演",
+        "dek": "巴西古典結他二重奏周五晚八時在香港大會堂音樂廳演出，屬第四屆亞藝無疆藝術節節目，本地古筝演奏家萬幸同台。"
+      }
+    },
+    {
+      "id": "2026-10-29-winnie-ho-resigns-wang-fuk-report",
+      "published_at": "2026-10-29T15:25:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "wang-fuk",
+        "housing",
+        "resignation",
+        "john-lee",
+        "accountability"
+      ],
+      "breaking": true,
+      "path": "articles/2026-10-29/2026-10-29-winnie-ho-resigns-wang-fuk-report.json",
+      "en": {
+        "headline": "Housing Secretary Winnie Ho resigns as Wang Fuk fire report released",
+        "dek": "Chief Executive John Lee accepted the resignation with immediate effect and named Deputy Financial Secretary Michael Wong to act as housing secretary after officials bowed at a press conference."
+      },
+      "zh": {
+        "headline": "房屋局局長何永賢請辭 宏福苑火災報告公布",
+        "dek": "行政長官李家超接納何永賢即時請辭，由財政司副司長黃偉紎署理房屋局局長；官員在記者會上鞠躬致歉。"
+      }
+    },
     {
       "id": "2026-10-29-aberdeen-workers-platform-fall",
       "published_at": "2026-10-29T13:15:00+08:00",
@@ -1942,50 +2010,6 @@
       "zh": {
         "headline": "北都馬拉松吸引約1.5萬人 當局公布交通安排",
         "dek": "鄉議局11月1日首辦北部都會區馬拉松，龍山隧道及粉嶺繞道部分路段將臨時封閉，港鐵提早開出首班車。"
-      }
-    },
-    {
-      "id": "2026-10-26-sfc-tokenised-funds-secondary-trading",
-      "published_at": "2026-10-26T15:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "sfc",
-        "tokenisation",
-        "finance",
-        "digital-assets"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-sfc-tokenised-funds-secondary-trading.json",
-      "en": {
-        "headline": "SFC clears first secondary trading of tokenised public funds",
-        "dek": "Two ChinaAMC tokenised money market funds began around-the-clock secondary trading on a licensed virtual asset platform on Monday, in a first for public funds."
-      },
-      "zh": {
-        "headline": "證監會批准首批代幣化基金二級市場交易",
-        "dek": "兩隻華夏基金代幣化貨幣市場基金周一起於持牌虛擬資產平台提供全日制二級市場交易，屬公募基金首次。"
-      }
-    },
-    {
-      "id": "2026-10-26-shek-kwu-chau-incinerator-fire",
-      "published_at": "2026-10-26T15:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "shek-kwu-chau",
-        "fire",
-        "waste-management",
-        "fire-services"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-shek-kwu-chau-incinerator-fire.json",
-      "en": {
-        "headline": "Firefighters battle level-three fire at Shek Kwu Chau waste facility",
-        "dek": "A fire broke out at the Integrated Waste Management Facility Phase 1 on an artificial island near Shek Kwu Chau on Monday afternoon, with no injuries reported as crews fought the blaze."
-      },
-      "zh": {
-        "headline": "石鼓洲焚化設施三級火 消防灌救暫無傷亡",
-        "dek": "周一中午石鼓洲附近人工島上的綜合廢物管理設施第一期發生火警，消防升為三級，暫未接獲受傷報告。"
       }
     }
   ]
