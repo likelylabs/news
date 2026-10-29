@@ -73,10 +73,16 @@ speech typed as `"` instead of `\"`), which otherwise make the file invalid
 JSON. Every repair is printed in the build log and written back to the source
 article so article and index agree.
 
-Repairs are applied only after **every article passes validation**. Invalid
-JSON, wrong field types, empty tag strings or non-ASCII tags, unknown categories, invalid
-dates, and missing content still fail the build without changing articles or
-the index. The builder never drops a whole article to hide a validation error.
+Repairs are applied only to articles that pass validation. Invalid JSON
+(including placeholder or empty files), wrong field types, empty tag strings
+or non-ASCII tags, unknown categories, invalid dates, missing content and
+filename/id mismatches are **quarantined**: the Action leaves that file
+untouched and out of `index.json`, publishes every other article, and still
+turns the run red with an annotation naming the file. Nothing is hidden or
+deleted; the article goes live on the first build after it is fixed. If more
+than 10 files are bad at once (more likely a code or schema bug than a
+writer slip), the build refuses to publish a partial index and changes
+nothing.
 Use `python3 tools/build_index.py --check` for strict, read-only preflight;
 this mode reports repairable metadata too, so writers fix it before pushing.
 

@@ -2,9 +2,13 @@ name: build-news-index
 
 # The deterministic half of the pipeline (tenet #5, "one sanctioned write
 # path"). The news automation only writes article files + ledger.json; this
-# Action normalizes safe metadata, validates every article, trims the ledger,
-# and regenerates index.json. Unrepairable articles FAIL loudly and leave the
-# live index untouched until fixed. Article files are never deleted.
+# Action normalizes safe metadata, validates every article, rebuilds the
+# ledger, and regenerates index.json. An unrepairable article is QUARANTINED:
+# left out of the index (file untouched) while every other article publishes,
+# and the run still ends red with an annotation naming the file, so one
+# writer slip can't stall the whole feed. More than MAX_QUARANTINED bad files
+# at once (tools/build_index.py) falls back to the old strict failure.
+# Article files are never deleted.
 
 on:
   push:
@@ -71,18 +75,37 @@ jobs:
       # new tip, and recompute from that tree. The last attempt to land wins and
       # is correct by construction.
       #
-      # prune.py / build_index.py failures are NOT retried — the shell's -e
-      # aborts the run immediately, so a malformed article still fails loudly
-      # and leaves the live index untouched.
+      # Test and build_index.py failures are NOT retried — the shell's -e
+      # aborts the run immediately and leaves the live index untouched.
+      # build_index.py exit 3 means "published, but quarantined some files":
+      # we still commit and push, then the next step turns the run red.
+      # The ledger is dedup memory only (never read by the app), so a
+      # prune.py problem is a warning, never a reason to stall the index.
       - name: Prune, validate, rebuild index.json, and commit
         run: |
           git config user.name  "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
 
           for attempt in 1 2 3 4 5; do
+            # Each attempt rebuilds from a fresh tip; only the last one counts.
+            rm -f "$RUNNER_TEMP/quarantine.txt"
             python3 -m unittest discover -s tests -v
-            python3 tools/prune.py
-            python3 tools/build_index.py
+            if ! python3 tools/prune.py; then
+              echo "::warning title=Ledger rebuild failed::tools/prune.py failed; publishing the index anyway."
+              git checkout -- ledger.json 2>/dev/null || true
+            fi
+
+            status=0
+            python3 tools/build_index.py --quarantine 2> build-errors.txt || status=$?
+            cat build-errors.txt >&2
+            if [ "$status" -ne 0 ] && [ "$status" -ne 3 ]; then
+              exit "$status"
+            fi
+            if [ "$status" -eq 3 ]; then
+              mv build-errors.txt "$RUNNER_TEMP/quarantine.txt"
+            else
+              rm -f build-errors.txt
+            fi
 
             if [ -z "$(git status --porcelain)" ]; then
               echo "Nothing to commit — index already current."
@@ -103,4 +126,26 @@ jobs:
           done
 
           echo "::error::could not land the regenerated index after 5 attempts — main is being pushed to faster than the index can be rebuilt."
+          exit 1
+
+      # Runs only after the good articles are pushed. Annotates each bad file
+      # on the commit and fails the run so the problem stays visible.
+      # pages-deploy deploys after a failed build too, so the published
+      # articles still go live right away.
+      - name: Fail on quarantined articles
+        run: |
+          [ -f "$RUNNER_TEMP/quarantine.txt" ] || { echo "No quarantined articles."; exit 0; }
+          {
+            echo "## Quarantined articles"
+            echo "These files were left out of index.json. Everything else was published."
+            echo "Fix each file (or re-push it) and the next build picks it up."
+            echo '```'
+            cat "$RUNNER_TEMP/quarantine.txt"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+          grep '^  - ' "$RUNNER_TEMP/quarantine.txt" | sed 's/^  - //' | while IFS= read -r line; do
+            file="${line%%: *}"
+            file="${file#"$GITHUB_WORKSPACE/"}"
+            echo "::error file=${file},title=Article quarantined::${line#*: }"
+          done
           exit 1

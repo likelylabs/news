@@ -42,11 +42,15 @@ concurrency:
 
 jobs:
   deploy:
-    # workflow_dispatch + schedule: always eligible. workflow_run: only a
-    # successful production build on main (PR validation never publishes).
+    # workflow_dispatch + schedule: always eligible. workflow_run: a
+    # production build on main that succeeded, or failed (a failed build may
+    # still have pushed an index with bad articles quarantined, and deploying
+    # main's tip is always safe: it is only what is committed). PR validation
+    # never publishes.
     if: >-
       github.event_name != 'workflow_run' ||
-      (github.event.workflow_run.conclusion == 'success' &&
+      ((github.event.workflow_run.conclusion == 'success' ||
+        github.event.workflow_run.conclusion == 'failure') &&
        github.event.workflow_run.event != 'pull_request' &&
        github.event.workflow_run.head_branch == 'main')
     runs-on: ubuntu-latest
@@ -74,7 +78,8 @@ jobs:
         # index. Cannot loop on a healthy tree:
         #   - one-directional: entries that merely aged out are NOT drift
         #     (the daily build retires them, as before);
-        #   - a tree the validator rejects is warned about, never dispatched
+        #   - a tree the validator rejects outright (more bad files than the
+        #     quarantine cap) is warned about, never dispatched
         #     (a re-dispatch would only fail the same way every 30 min);
         #   - skipped on workflow_run, so a build can never re-trigger itself
         #     through this step. Never blocks the deploy (continue-on-error).
@@ -87,7 +92,14 @@ jobs:
           scratch="$RUNNER_TEMP/index-reconcile"
           mkdir -p "$scratch"
           cp -a articles tools "$scratch/"
-          if ! python3 "$scratch/tools/build_index.py" | sed 's/^/scratch build: /'; then
+          # --quarantine mirrors build-news-index: bad files are left out
+          # (exit 3) and the rest is compared, so one bad file can't stop
+          # the heal. Comparing like-for-like keeps it loop-free.
+          status=0
+          python3 "$scratch/tools/build_index.py" --quarantine | sed 's/^/scratch build: /' || status=${PIPESTATUS[0]}
+          if [ "$status" -eq 3 ]; then
+            echo "::warning title=Index reconcile::some articles are quarantined (see build-news-index); comparing the rest."
+          elif [ "$status" -ne 0 ]; then
             echo "::warning title=Index reconcile::articles/ fails validation — build-news-index would fail the same way; not dispatching. Fix the article."
             exit 0
           fi

@@ -9,6 +9,8 @@ the run must abort before committing.
 
 Stdlib only. Run from the repo root:  python3 tools/build_index.py
 Use --check for strict, read-only validation before publishing articles.
+Use --quarantine (the build-news-index Action) to leave up to
+MAX_QUARANTINED bad files out of the index, publish the rest, and exit 3.
 """
 import argparse
 import json
@@ -47,6 +49,13 @@ LANG_KEYS = {"headline", "dek", "body"}
 # still enforced by validation (truncation can't fix a too-short field).
 HEADLINE_MIN, HEADLINE_MAX = 8, 90
 DEK_MIN, DEK_MAX = 12, 220
+
+# --quarantine (the Action's build): leave up to this many bad article files
+# out of the index and publish the rest, so one writer slip can't stall the
+# whole feed. More than this at once smells like a code or schema bug, not a
+# writer slip, so the build stays strict and writes nothing.
+MAX_QUARANTINED = 10
+EXIT_QUARANTINED = 3
 
 
 def err(path, msg):
@@ -294,11 +303,17 @@ def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--check", action="store_true",
                         help="strictly validate original articles without normalizing or writing files")
+    parser.add_argument("--quarantine", action="store_true",
+                        help=f"leave up to {MAX_QUARANTINED} invalid articles out of the index, "
+                             f"publish the rest, and exit {EXIT_QUARANTINED}")
     args = parser.parse_args(argv)
+    if args.check and args.quarantine:
+        parser.error("--check and --quarantine are mutually exclusive")
     now = datetime.now(HKT)
     cutoff = now - timedelta(hours=LIVE_WINDOW_HOURS)
 
     all_problems = []
+    bad_paths = set()
     seen_ids = {}
     entries = []
     normalized = []
@@ -310,29 +325,33 @@ def main(argv=None):
             art, json_note = load_article(path)
         except json.JSONDecodeError as e:
             all_problems.append(err(path, f"invalid JSON: {e}"))
+            bad_paths.add(path)
             continue
         if json_note and args.check:
             all_problems.append(err(path, f"invalid JSON (build would repair: {json_note})"))
+            bad_paths.add(path)
             continue
 
-        # Normalize only during builds. Hold all rewrites in memory until
-        # the entire corpus passes, keeping failed runs read-only.
+        # Normalize only during builds.
+        notes = []
         if not args.check:
             notes = ([json_note] if json_note else []) + normalize_lengths(art) + normalize_tags(art)
-            if notes:
-                pending_writes.append((path, json.dumps(art, ensure_ascii=False, indent=2) + "\n"))
-                normalized.extend(f"{path.relative_to(REPO)}: {n}" for n in notes)
 
         problems = validate(art, path, expected_date)
-        all_problems += problems
+        if not problems and art["id"] in seen_ids:
+            problems = [err(path, f"duplicate id also in {seen_ids[art['id']]}")]
         if problems:
+            all_problems += problems
+            bad_paths.add(path)
             continue
 
         aid = art["id"]
-        if aid in seen_ids:
-            all_problems.append(err(path, f"duplicate id also in {seen_ids[aid]}"))
-            continue
         seen_ids[aid] = path
+        # Hold rewrites in memory until the corpus is accepted, keeping failed
+        # runs read-only. Bad articles never get a rewrite.
+        if notes:
+            pending_writes.append((path, json.dumps(art, ensure_ascii=False, indent=2) + "\n"))
+            normalized.extend(f"{path.relative_to(REPO)}: {n}" for n in notes)
 
         # Only articles inside the live window go into the index.
         pub_dt = datetime.fromisoformat(art["published_at"])
@@ -351,11 +370,21 @@ def main(argv=None):
             "zh": {"headline": art["zh"]["headline"], "dek": art["zh"]["dek"]},
         })
 
+    quarantined = False
     if all_problems:
-        print("VALIDATION FAILED — no files written:", file=sys.stderr)
+        if not args.quarantine or len(bad_paths) > MAX_QUARANTINED:
+            print("VALIDATION FAILED — no files written:", file=sys.stderr)
+            for p in all_problems:
+                print("  - " + p, file=sys.stderr)
+            if args.quarantine:
+                print(f"  ({len(bad_paths)} bad files exceeds the quarantine cap of "
+                      f"{MAX_QUARANTINED}; refusing to publish a partial index)", file=sys.stderr)
+            return 1
+        quarantined = True
+        print(f"QUARANTINED {len(bad_paths)} article file(s) — left out of index.json "
+              f"until fixed; every other article is published:", file=sys.stderr)
         for p in all_problems:
             print("  - " + p, file=sys.stderr)
-        return 1
 
     if args.check:
         print(f"Validated {len(seen_ids)} article(s); no files written.")
@@ -377,7 +406,7 @@ def main(argv=None):
     }
     INDEX_PATH.write_text(json.dumps(index, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"index.json rebuilt: {len(entries)} live article(s) within {LIVE_WINDOW_HOURS}h.")
-    return 0
+    return EXIT_QUARANTINED if quarantined else 0
 
 
 if __name__ == "__main__":

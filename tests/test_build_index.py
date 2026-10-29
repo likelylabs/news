@@ -173,6 +173,47 @@ class BuildIndexTests(unittest.TestCase):
         self.assertIn("invalid JSON", stderr)
         self.assertEqual(self.snapshot(), before)
 
+    def test_quarantine_publishes_valid_articles_and_leaves_bad_ones_untouched(self):
+        good = article("a-good")
+        good["tags"] = ["I&T"]
+        good_path = self.write_article(good)
+        placeholder = self.write_article(article("b-placeholder"))
+        placeholder.write_text("PLACEHOLDER1", encoding="utf-8")
+        invalid = article("c-invalid")
+        invalid["category"] = "gossip"
+        invalid["tags"] = ["I&T"]
+        invalid_path = self.write_article(invalid)
+        invalid_before = invalid_path.read_bytes()
+
+        status, stdout, stderr = self.run_build("--quarantine")
+        self.assertEqual(status, build_index.EXIT_QUARANTINED)
+        self.assertIn("QUARANTINED 2", stderr)
+        self.assertIn("b-placeholder", stderr)
+        self.assertIn("c-invalid", stderr)
+        index = json.loads(self.index.read_text(encoding="utf-8"))
+        self.assertEqual([a["id"] for a in index["articles"]], [good["id"]])
+        self.assertEqual(json.loads(good_path.read_text(encoding="utf-8"))["tags"], ["i-t"])
+        self.assertEqual(placeholder.read_text(encoding="utf-8"), "PLACEHOLDER1")
+        self.assertEqual(invalid_path.read_bytes(), invalid_before)
+
+    def test_quarantine_clean_corpus_exits_zero(self):
+        self.write_article(article())
+        self.assertEqual(self.run_build("--quarantine")[0], 0)
+
+    def test_quarantine_cap_falls_back_to_strict_failure(self):
+        self.write_article(article("good"))
+        for i in range(build_index.MAX_QUARANTINED + 1):
+            self.write_article(article(f"bad-{i}")).write_text("", encoding="utf-8")
+        before = self.snapshot()
+        status, _, stderr = self.run_build("--quarantine")
+        self.assertEqual(status, 1)
+        self.assertIn("quarantine cap", stderr)
+        self.assertEqual(self.snapshot(), before)
+
+    def test_check_and_quarantine_are_exclusive(self):
+        with contextlib.redirect_stderr(io.StringIO()), self.assertRaises(SystemExit):
+            build_index.main(["--check", "--quarantine"])
+
     def test_unescaped_quotes_in_body_are_repaired_and_written_back(self):
         art = article("quoted-speech")
         art["en"]["body"][0] = 'He said "we will explore ways for cooperation," then left.'

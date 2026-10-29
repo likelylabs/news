@@ -489,10 +489,16 @@ for every article, and with extra care on a breaking one:
    the same goes for any other non-ASCII text (「」, ℃, curly quotes, dashes).
    `schema/example-article.json` shows the form. Hand-typed escapes are one
    slip from broken: a single `\u20` typed where `20` was meant makes the
-   file invalid JSON, and **one invalid file blocks the index rebuild for
-   every article** — nothing new goes live, from this run or any later one,
-   until it is fixed. If you write the file with code, use
+   file invalid JSON, and **an invalid file never goes live**: the Action
+   quarantines it (leaves it out of the feed and turns the build red) until
+   someone fixes it. If you write the file with code, use
    `ensure_ascii=False`.
+   **Never push placeholder content.** Every file you commit must already
+   hold the finished article. Do not push `PLACEHOLDER` text, an empty file
+   or a stub to "fill in later" — runs on Oct 26, 27 and 29 did exactly
+   that and their stories stayed off the feed until a second commit
+   repaired them. If you cannot write a file in full, leave it out of the
+   commit.
    **Escape quotation marks inside text.** Quoted speech in a body
    paragraph must be written `\"like this\"` (or use curly “ ” / 「」).
    A bare `"` ends the string early and makes the file invalid JSON. The
