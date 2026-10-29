@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-10-30T03:15:27+08:00",
+  "generated_at": "2026-10-30T07:12:10+08:00",
   "live_window_hours": 72,
-  "count": 93,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-10-30-causeway-bay-dual-plate-prosecution",
+      "published_at": "2026-10-30T07:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "traffic",
+        "causeway-bay",
+        "dual-plate",
+        "careless-driving"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-30/2026-10-30-causeway-bay-dual-plate-prosecution.json",
+      "en": {
+        "headline": "Police to prosecute dual-plate driver for mounting Causeway Bay pavement",
+        "dek": "A 56-year-old man will face a careless driving charge after video showed his car turning onto the footpath outside Sogo, endangering pedestrians on 20 October."
+      },
+      "zh": {
+        "headline": "兩地牌車銅鑼灣鋳行人路 56歲司機將被控不小心駕駛",
+        "dek": "警方經調查後於23日識別司機，指車輛在軒尼詩道近東角道崇光外突然轉入行人路，嚴重危及途人。"
+      }
+    },
+    {
+      "id": "2026-10-30-lifestyle-kai-tak-halloween",
+      "published_at": "2026-10-30T07:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "halloween",
+        "kai-tak",
+        "event",
+        "family"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-30/2026-10-30-lifestyle-kai-tak-halloween.json",
+      "en": {
+        "headline": "Kai Tak Sports Park Halloween Party continues at Dining Cove through Saturday",
+        "dek": "The free family- and pet-friendly event at the waterfront includes cosplay, live music, a marketplace and light installations on 30 and 31 October from 2pm to 11pm."
+      },
+      "zh": {
+        "headline": "啟德體育園萬聖節派對美食海灣今明繼續",
+        "dek": "免費親子及寵物友善活動於10月30及31日下午2時至晚上11時舉行，設有cosplay、現場音樂、市集及燈光裝置。"
+      }
+    },
+    {
+      "id": "2026-10-30-sha-tau-kok-illegal-petrol",
+      "published_at": "2026-10-30T07:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "fire-services",
+        "sha-tau-kok",
+        "illegal-fuel",
+        "triad"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-30/2026-10-30-sha-tau-kok-illegal-petrol.json",
+      "en": {
+        "headline": "Police and firefighters bust suspected triad illegal petrol station in Sha Tau Kok",
+        "dek": "Officers seized about 2,400 litres of petrol worth roughly HK$90,000 near homes and will prosecute a 58-year-old man for fire safety and dangerous goods offences."
+      },
+      "zh": {
+        "headline": "警消搞破沙頭角懷疑三合會非法加油站 拖58歲男將檢控",
+        "dek": "執法人員檢獲約2400公升市值約9萬元汽油，站址鄰近民居且缺乏消防設備，對附近居民構成嚴重安全威脅。"
+      }
+    },
     {
       "id": "2026-10-30-lifestyle-spooky-halloween-wan-chai",
       "published_at": "2026-10-30T03:15:00+08:00",
@@ -1949,140 +2018,6 @@
       "zh": {
         "headline": "中年工程師墮網上情緣騙局 損失逾850萬元",
         "dek": "警方表示過去一周接獲至少18宗網上情緣騙案，總損失逾1,300萬元，其中一宗涉假冒台灣舞者。"
-      }
-    },
-    {
-      "id": "2026-10-27-huanggang-port-traffic-measures",
-      "published_at": "2026-10-27T07:02:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "huanggang-port",
-        "traffic",
-        "border",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-huanggang-port-traffic-measures.json",
-      "en": {
-        "headline": "Authorities step up traffic management at Huanggang Port after weekend gridlock",
-        "dek": "Police will open buffer zones and strengthen controls near the revamped crossing ahead of expected Halloween and concert peaks."
-      },
-      "zh": {
-        "headline": "當局加強皇崗口岸交通管理 應對周末擠塞",
-        "dek": "警方將視車流開設緩衝區並加強管制，以應對萬聖節及演唱會預期人流車流高峰。"
-      }
-    },
-    {
-      "id": "2026-10-27-lifestyle-halloween-in-central",
-      "published_at": "2026-10-27T07:02:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "halloween",
-        "central",
-        "statue-square",
-        "events"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-lifestyle-halloween-in-central.json",
-      "en": {
-        "headline": "Halloween installations light up Statue Square Gardens through 31 October",
-        "dek": "The Central takeover features nightly illuminated displays from 4pm to 11:30pm, with special events on Chater Road on selected dates including Halloween night."
-      },
-      "zh": {
-        "headline": "萬聖狂歡祭中環裝置亮燈至10月31日",
-        "dek": "皇后像廣場花園每晙4時至11時30分設有亮燈裝置，遮打道於包括萬聖節當晚在內的指定日子有特別活動。"
-      }
-    },
-    {
-      "id": "2026-10-27-mong-kok-illicit-cigarettes",
-      "published_at": "2026-10-27T07:02:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "mong-kok",
-        "illicit-cigarettes",
-        "smuggling"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-mong-kok-illicit-cigarettes.json",
-      "en": {
-        "headline": "Customs seize 120,000 illicit cigarettes in Mong Kok flat",
-        "dek": "Officers arrested a 46-year-old man after finding the stock in a subdivided unit used as a storage point."
-      },
-      "zh": {
-        "headline": "海關旺角破私煙倉 檢約12萬支私煙拘一人",
-        "dek": "海關周一在旺角一割房檢獲約12萬支懷疑私煙，市值約54萬元，一名46歲男子被捕並已落案起訴。"
-      }
-    },
-    {
-      "id": "2026-10-27-hk-electric-november-fuel-cut",
-      "published_at": "2026-10-27T03:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hk-electric",
-        "electricity",
-        "fuel-charge",
-        "tariff"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-hk-electric-november-fuel-cut.json",
-      "en": {
-        "headline": "HK Electric cuts November fuel adjustment charge by 4.2 cents",
-        "dek": "The average net tariff falls 2.2 per cent to 183 cents per kilowatt-hour, reflecting fuel costs from July to September under the deferral mechanism."
-      },
-      "zh": {
-        "headline": "港燈下調11月燃料調整費4.2仙 淨電費跌2.2%",
-        "dek": "11月平均淨電費為每度183仙，主要反映7至9月燃料成本；中電同期則上調1.2仙至47.4仙。"
-      }
-    },
-    {
-      "id": "2026-10-27-jardine-house-gondola-rescue",
-      "published_at": "2026-10-27T03:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "jardine-house",
-        "central",
-        "fire-services",
-        "industrial-accident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-jardine-house-gondola-rescue.json",
-      "en": {
-        "headline": "Firefighters rescue two workers stranded on Jardine House facade after gondola fault",
-        "dek": "The suspended platform malfunctioned around 6:15pm on Monday evening, leaving the men dangling from harnesses near the 30th and 40th floors until about 8pm."
-      },
-      "zh": {
-        "headline": "中環怡和大廈吊船故障 兩工人被困半空消防游繩救出",
-        "dek": "周一傍晚約6時15分吊船疑故障下墜，兩名外牆維修工人分別困於約30樓及40樓高度，靠安全帶牽引，至約晚上8時獲救。"
-      }
-    },
-    {
-      "id": "2026-10-27-lifestyle-evoke-festival",
-      "published_at": "2026-10-27T03:20:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "halloween",
-        "music",
-        "hung-hom",
-        "harbourfront"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-lifestyle-evoke-festival.json",
-      "en": {
-        "headline": "EVOKE Festival stages open-air electronic music on Hung Hom harbourfront this Halloween",
-        "dek": "The event runs from 4pm to 10:30pm on 31 October at the New Hung Hom Harbourfront, with an after-party continuing until 4am."
-      },
-      "zh": {
-        "headline": "EVOKE音樂節萬聖節登陸紅磡新海濱 主打戶外電音",
-        "dek": "活動於10月31日下午4時至晚上10時30分在紅磡新海濱舉行，之後派對延至凌晨4時。"
       }
     }
   ]
