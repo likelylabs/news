@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-29T23:22:31+08:00",
+  "generated_at": "2026-10-30T01:07:21+08:00",
   "live_window_hours": 72,
-  "count": 93,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-10-30-central-halloween-traffic",
+      "published_at": "2026-10-30T01:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "halloween",
+        "central",
+        "traffic",
+        "police",
+        "lan-kwai-fong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-30/2026-10-30-central-halloween-traffic.json",
+      "en": {
+        "headline": "Police set phased road closures in Central for Halloween",
+        "dek": "Roads around Lan Kwai Fong will close in stages from 2pm on Friday through early Saturday and Sunday to manage crowds."
+      },
+      "zh": {
+        "headline": "警方就萬聖節在中區分階段封路",
+        "dek": "蘭桂坊一帶道路將由周五下午二時起分階段封閉至周六及周日清晨，以配合人群管理。"
+      }
+    },
+    {
+      "id": "2026-10-30-lifestyle-tai-kwun-framed",
+      "published_at": "2026-10-30T01:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "tai-kwun",
+        "halloween",
+        "central",
+        "exhibition"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-30/2026-10-30-lifestyle-tai-kwun-framed.json",
+      "en": {
+        "headline": "Tai Kwun stages FRAMED Halloween night in former prison yard",
+        "dek": "The free event runs Friday and Saturday evenings, inviting visitors in art-inspired costumes to become living artworks among light installations."
+      },
+      "zh": {
+        "headline": "大館監獄庭園辦「藝裝萬聖夜」",
+        "dek": "免費活動周五六晚七時至十時舉行，歡迎以藝術靈感裝扮的訪客在燈光裝置中成為活的藝術品。"
+      }
+    },
     {
       "id": "2026-10-29-cfs-japan-dried-fish-saitama",
       "published_at": "2026-10-29T23:19:00+08:00",
@@ -2014,73 +2060,6 @@
       "zh": {
         "headline": "EVOKE音樂節萬聖節登陸紅磡新海濱 主打戶外電音",
         "dek": "活動於10月31日下午4時至晚上10時30分在紅磡新海濱舉行，之後派對延至凌晨4時。"
-      }
-    },
-    {
-      "id": "2026-10-27-mplus-myths-monsters-exhibition",
-      "published_at": "2026-10-27T01:05:00+08:00",
-      "updated_at": "2026-10-27T01:06:00+08:00",
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "m-plus",
-        "west-kowloon",
-        "art"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-mplus-myths-monsters-exhibition.json",
-      "en": {
-        "headline": "M+ surveys two centuries of Asian fantasy art until next April",
-        "dek": "More than 400 works fill the West Kowloon museum’s special exhibition on myths, monsters and popular culture, open since mid-October."
-      },
-      "zh": {
-        "headline": "M+「神話與怪獸」展出逾400件亞洲奇幻作品 展期至明年四月",
-        "dek": "西九文化區博物館特別展覽自十月中開放，涵蓋十九至二十一世紀神話、怪獸及流行文化。"
-      }
-    },
-    {
-      "id": "2026-10-26-aviation-gba-cooperation",
-      "published_at": "2026-10-26T23:30:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "aviation",
-        "greater-bay-area",
-        "hkia",
-        "legco"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-aviation-gba-cooperation.json",
-      "en": {
-        "headline": "Lawmaker calls for closer Greater Bay Area airport cooperation",
-        "dek": "Kenneth Fok said Hong Kong International Airport passenger numbers remain below pre-pandemic levels and urged government-to-government deals with mainland airports."
-      },
-      "zh": {
-        "headline": "議員促加強大灣區機場合作",
-        "dek": "霍啟剛表示香港國際機場客運量仍未回復疫前水平，呼籲政府與內地機場進行政府間協議。"
-      }
-    },
-    {
-      "id": "2026-10-26-gflis-bankers-gather",
-      "published_at": "2026-10-26T23:30:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "finance",
-        "hkma",
-        "summit",
-        "investment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-gflis-bankers-gather.json",
-      "en": {
-        "headline": "HKMA says 280 global financial leaders to gather in Hong Kong next week",
-        "dek": "Eddie Yue said the fifth Global Financial Leaders’ Investment Summit from 2 to 4 November will focus on rethinking the playbook for markets and technology."
-      },
-      "zh": {
-        "headline": "金管局：約280位國際金融領袖下周聚港",
-        "dek": "余偉文表示，第五屆國際金融領袖投資峰會將於11月2日至4日舉行，主題圍繞市場與科技的「思變圖新」。"
       }
     }
   ]
