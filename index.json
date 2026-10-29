@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-29T19:09:02+08:00",
+  "generated_at": "2026-10-29T21:10:18+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-10-29-chung-hom-kok-jewellery-theft",
+      "published_at": "2026-10-29T21:07:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "theft",
+        "jewellery",
+        "chung-hom-kok",
+        "police",
+        "southern-district"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-chung-hom-kok-jewellery-theft.json",
+      "en": {
+        "headline": "Police investigate HK$40 million jewellery theft from Chung Hom Kok home",
+        "dek": "A 56-year-old woman reported a pearl necklace valued at about HK$39 million and a diamond necklace worth HK$700,000 missing after returning from Britain."
+      },
+      "zh": {
+        "headline": "春碣角獨立屋報失近四千萬元珠寶 警方列盜竊調查",
+        "dek": "56歲女戶主返港後發現衣帽間內一條約值三千九百萬元珍珠頸鏈及一條七十萬元鑽石頸鏈失蹤，屋內無撬毀痕迹。"
+      }
+    },
+    {
+      "id": "2026-10-29-shenzhen-bay-extended-hours-halloween",
+      "published_at": "2026-10-29T21:07:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "border",
+        "shenzhen-bay",
+        "halloween",
+        "huanggang",
+        "cross-boundary"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-shenzhen-bay-extended-hours-halloween.json",
+      "en": {
+        "headline": "Shenzhen Bay Port to stay open until 2am Friday and Saturday nights",
+        "dek": "Passenger and coach clearance will be extended by two hours on 30 and 31 October to ease expected late-night pressure at Huanggang over the Halloween weekend."
+      },
+      "zh": {
+        "headline": "深圳灣口岸周五六晚延長通關至凌晨兩時 分流皇崗壓力",
+        "dek": "港府宣布十月三十及三十一日晚旅客及客車清關由午夜延長兩小時至翌日凌晨二時，以紓緩萬聖節周末深宵跨境人流車流。"
+      }
+    },
     {
       "id": "2026-10-29-abby-choi-trial-dna-officer",
       "published_at": "2026-10-29T19:05:00+08:00",
@@ -1991,28 +2037,6 @@
       "zh": {
         "headline": "金管局：約280位國際金融領袖下周聚港",
         "dek": "余偉文表示，第五屆國際金融領袖投資峰會將於11月2日至4日舉行，主題圍繞市場與科技的「思變圖新」。"
-      }
-    },
-    {
-      "id": "2026-10-26-shek-kwu-chau-fire-extinguished",
-      "published_at": "2026-10-26T21:05:00+08:00",
-      "updated_at": "2026-10-26T21:10:00+08:00",
-      "category": "community",
-      "tags": [
-        "shek-kwu-chau",
-        "fire",
-        "waste-management",
-        "fire-services"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-shek-kwu-chau-fire-extinguished.json",
-      "en": {
-        "headline": "Shek Kwu Chau waste facility fire largely extinguished after four hours",
-        "dek": "Firefighters brought the No. 3 alarm blaze at I·PARK1 under control by mid-afternoon, with about 930 people evacuated and one worker treated for discomfort."
-      },
-      "zh": {
-        "headline": "石鼓洲焚化設施三級火約四小時後大致救熄",
-        "dek": "消防下午將I·PARK1三級火受控並大致救熄，約930人自行疏散，一人不適送院。"
       }
     }
   ]
