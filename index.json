@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-29T17:16:18+08:00",
+  "generated_at": "2026-10-29T19:08:20+08:00",
   "live_window_hours": 72,
   "count": 90,
   "articles": [
+    {
+      "id": "2026-10-29-abby-choi-trial-dna-officer",
+      "published_at": "2026-10-29T19:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "abby-choi",
+        "court",
+        "high-court",
+        "dna"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-abby-choi-trial-dna-officer.json",
+      "en": {
+        "headline": "Police officer denies mishandling DNA samples in Abby Choi trial",
+        "dek": "Sergeant Lam Chun rejected claims in the High Court that samples from the victim’s ex-husband were not properly labelled or sealed before laboratory testing."
+      },
+      "zh": {
+        "headline": "蔡天鳳案審訊 警官否認不當處理DNA樣本",
+        "dek": "林警司在高等法院否認未妥善標示及密封被告鄧港智的口腔拭子樣本，亦否認逮捕時使用過度武力。"
+      }
+    },
+    {
+      "id": "2026-10-29-peak-light-show-cancelled",
+      "published_at": "2026-10-29T19:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tourism",
+        "the-peak",
+        "hktb",
+        "light-show"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-peak-light-show-cancelled.json",
+      "en": {
+        "headline": "Government drops Peak light installations after local concerns",
+        "dek": "The Tourism Board will remove all related equipment along Lugard Road and Harlech Road after officials concluded the scaled-down project no longer justified proceeding."
+      },
+      "zh": {
+        "headline": "政府決定不再推展山頂光影匯 旅發局將拆除裝置",
+        "dek": "當局綜合考慮地區意見及縮減後預期成效，認為無迫切需要繼續，旅發局會盡快拆除盧吉道及夏力道相關裝置並修復環境。"
+      }
+    },
+    {
+      "id": "2026-10-29-wong-tai-sin-water-pipe-burst",
+      "published_at": "2026-10-29T19:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "water",
+        "wong-tai-sin",
+        "pipe-burst",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-wong-tai-sin-water-pipe-burst.json",
+      "en": {
+        "headline": "Water supply cut at Upper Wong Tai Sin Estate after pipe burst",
+        "dek": "The Water Supplies Department expects fresh water to resume by 3am on Friday after a burst on Wong Tai Sin Road closed a stretch of the road and diverted several bus routes."
+      },
+      "zh": {
+        "headline": "黃大仙上邨爆水管全邨停水 料明凌晨三時恢復",
+        "dek": "黃大仙道近馬仔坑道水管爆裂，黃大仙上邨包括商場暫停食水供應，水務署調派水車，運輸署封閉一段路面，多條巴士改道。"
+      }
+    },
     {
       "id": "2026-10-29-banks-prime-rate-unchanged",
       "published_at": "2026-10-29T17:12:00+08:00",
@@ -1947,72 +2013,6 @@
       "zh": {
         "headline": "石鼓洲焚化設施三級火約四小時後大致救熄",
         "dek": "消防下午將I·PARK1三級火受控並大致救熄，約930人自行疏散，一人不適送院。"
-      }
-    },
-    {
-      "id": "2026-10-26-civil-service-training-plan",
-      "published_at": "2026-10-26T19:04:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "civil-service",
-        "training",
-        "legco",
-        "ingrid-yeung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-civil-service-training-plan.json",
-      "en": {
-        "headline": "Civil Service Bureau outlines five-year training plan with AI and patriotic education",
-        "dek": "Secretary for the Civil Service Ingrid Yeung told lawmakers the Continuous Learning Scheme for senior officials will expand to mid-level managers within two years."
-      },
-      "zh": {
-        "headline": "公務員事務局闡述五年培訓計劃 加強愛國及人工智能教育",
-        "dek": "公務員事務局局長楊何蓓茵向立法會議員表示，持續學習計劃將於兩年內由高級公務員推展至中級管理人員。"
-      }
-    },
-    {
-      "id": "2026-10-26-eco-expo-asia-opens",
-      "published_at": "2026-10-26T19:04:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "eco-expo",
-        "asiaworld-expo",
-        "environment",
-        "hktdc"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-eco-expo-asia-opens.json",
-      "en": {
-        "headline": "Eco Expo Asia 2026 opens at AsiaWorld-Expo with new ASEAN Pavilion",
-        "dek": "The four-day trade fair, co-organised by the HKTDC and the Environment and Ecology Bureau, runs until 29 October under the theme Connecting the World for a Sustainable Future."
-      },
-      "zh": {
-        "headline": "國際環保博覽2026今起亞洲國際博覽館開幕 設東盟展館",
-        "dek": "由貿發局與環境及生態局合辦的四日展會以「連接世界 共建可持續未來」為主題，展期至29日，最後一日設公眾日免費入場。"
-      }
-    },
-    {
-      "id": "2026-10-26-hang-seng-close-up-118",
-      "published_at": "2026-10-26T19:04:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "stocks",
-        "property",
-        "oil"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-hang-seng-close-up-118.json",
-      "en": {
-        "headline": "Hang Seng closes up 118 points as property and oil stocks lead",
-        "dek": "The index ended Monday at 23,211.81, a 0.51 per cent gain, with mainland banks and oil counters strong while technology and AI hardware shares lagged."
-      },
-      "zh": {
-        "headline": "港股高收 118點 地產內銀及三桶油造好",
-        "dek": "恒生指數周一收報23211點，升幅0.51%，地產及內銀股領先，科技及人工智能硬件股份則偏弱。"
       }
     }
   ]
