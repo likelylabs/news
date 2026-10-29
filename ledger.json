@@ -1,2 +1,32 @@
-PLACEHOLDER_FULL_LEDGER_WITH_APPEND
-// new entry appended: lifestyle-spooky-halloween-wan-chai
+[
+  {
+    "key": "sha-tau-kok-illegal-petrol-station",
+    "id": "2026-10-30-sha-tau-kok-illegal-petrol",
+    "first_seen": "2026-10-30T07:15:00+08:00",
+    "headline_en": "Police and firefighters bust suspected triad illegal petrol station in Sha Tau Kok"
+  },
+  {
+    "key": "causeway-bay-dual-plate-prosecution",
+    "id": "2026-10-30-causeway-bay-dual-plate-prosecution",
+    "first_seen": "2026-10-30T07:15:00+08:00",
+    "headline_en": "Police to prosecute dual-plate driver for mounting Causeway Bay pavement"
+  },
+  {
+    "key": "lifestyle-kai-tak-halloween-party",
+    "id": "2026-10-30-lifestyle-kai-tak-halloween",
+    "first_seen": "2026-10-30T07:15:00+08:00",
+    "headline_en": "Kai Tak Sports Park Halloween Party continues at Dining Cove through Saturday"
+  },
+  {
+    "key": "lifestyle-spooky-halloween-wan-chai",
+    "id": "2026-10-30-lifestyle-spooky-halloween-wan-chai",
+    "first_seen": "2026-10-30T03:15:00+08:00",
+    "headline_en": "Spooky Halloween music carnival returns to Wan Chai waterfront"
+  },
+  {
+    "key": "central-halloween-traffic",
+    "id": "2026-10-30-central-halloween-traffic",
+    "first_seen": "2026-10-30T01:05:00+08:00",
+    "headline_en": "Police set phased road closures in Central for Halloween"
+  }
+]
