@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-29T09:18:44+08:00",
+  "generated_at": "2026-10-29T11:10:09+08:00",
   "live_window_hours": 72,
-  "count": 97,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-10-29-illegal-parking-fines-mark-chong",
+      "published_at": "2026-10-29T11:08:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "illegal-parking",
+        "police",
+        "lawmaker",
+        "fines",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-illegal-parking-fines-mark-chong.json",
+      "en": {
+        "headline": "Lawmaker urges more checks as illegal parking fines top HK$70 million a year",
+        "dek": "Police issued more than 220,000 fixed-penalty tickets for metered parking offences in each of the past three years, generating at least HK$70 million annually, according to a government reply."
+      },
+      "zh": {
+        "headline": "議員促加強巡查 違泊「牛肉乾」年收逾7000萬元",
+        "dek": "政府書面回覆指，過去三年警方每年發出逾22萬張咪銘違泊定額罰款告票，每年至少帶來7000萬元收入。"
+      }
+    },
+    {
+      "id": "2026-10-29-ramon-lo-wan-chai-shops",
+      "published_at": "2026-10-29T11:08:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "property",
+        "wan-chai",
+        "retail",
+        "investor",
+        "shops"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-ramon-lo-wan-chai-shops.json",
+      "en": {
+        "headline": "Private equity veteran Ramon Lo buys two Wan Chai street shops for HK$32.5 million",
+        "dek": "Land Registry records show Smart Golden Co, directed by the Symphony Capital Partners executive, acquired the Swatow Street properties as shop values remain well below earlier peaks."
+      },
+      "zh": {
+        "headline": "私募老將羅文買入灣仔汕頭街兩地舖 涉3250萬元",
+        "dek": "土地註冊處紀錄顯示，盛匯資本合夥人羅文旗下公司購入灣仔汕頭街兩間地舖，區內舖價仍較高位低約三分之一。"
+      }
+    },
     {
       "id": "2026-10-29-hkma-base-rate-hold",
       "published_at": "2026-10-29T09:15:00+08:00",
@@ -2004,162 +2050,6 @@
       "zh": {
         "headline": "元朗貨倉男工被三隻倉狗追趕咬傷小腿送院",
         "dek": "周一早上約8時，26歲男倉務員在錦壐路附近被三隻狗追趕，其中一隻咬傷左小腿，傷勢輕微，漁護署人員已將涉事狗隻帶走檢查。"
-      }
-    },
-    {
-      "id": "2026-10-26-cmpr-li-zili-innovation",
-      "published_at": "2026-10-26T11:08:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "cmpr",
-        "medical-regulation",
-        "li-zili",
-        "health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-cmpr-li-zili-innovation.json",
-      "en": {
-        "headline": "Medical products regulator head pledges independent path, not mini-FDA",
-        "dek": "Li Zili says the new centre will use Hong Kong’s strategic position and mainland drug pipelines to earn global trust while focusing on areas such as rare diseases."
-      },
-      "zh": {
-        "headline": "藥械監管總監李自力強調獨立路線 非縮小版FDA",
-        "dek": "李自力表示，新中心將善用香港策略位置及內地藥品研發管線，建立國際信任，並聚焦罕見病等領域。"
-      }
-    },
-    {
-      "id": "2026-10-26-ia-premium-financing-oversight",
-      "published_at": "2026-10-26T11:08:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "insurance",
-        "premium-financing",
-        "ia",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-ia-premium-financing-oversight.json",
-      "en": {
-        "headline": "Insurance Authority moves to tighten oversight of premium financing market",
-        "dek": "The regulator says aggressive marketing and high leverage have drawn middle-class buyers into arrangements once limited to high-net-worth clients, and a joint inspection with the HKMA continues."
-      },
-      "zh": {
-        "headline": "保監局加強保費融資市場監管 指高槓桿及進取推廣存風險",
-        "dek": "監管局表示，進取市場推廣及高槓桿吸引中產買家，與金管局聯合查察預計年底完成。"
-      }
-    },
-    {
-      "id": "2026-10-26-lifestyle-henderson-wine-dine-pavilion",
-      "published_at": "2026-10-26T11:08:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "wine-dine-festival",
-        "henderson-land",
-        "central"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-lifestyle-henderson-wine-dine-pavilion.json",
-      "en": {
-        "headline": "Henderson Land marks 50 years with first pavilion at Wine and Dine Festival",
-        "dek": "The developer will open a 2,000-square-foot space designed by Zaha Hadid Architects at the Central Harbourfront from 29 October, featuring limited dishes from 12 group restaurants."
-      },
-      "zh": {
-        "headline": "恒基地產50周年首設展館參與美酒佳餚巡禮",
-        "dek": "發展商將於10月29日起在中環海濱設立約2000平方呎空間，由Zaha Hadid Architects設計，集合旗下12間餐廳限定菜式。"
-      }
-    },
-    {
-      "id": "2026-10-26-hkust-medical-school-leung",
-      "published_at": "2026-10-26T09:20:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "hkust",
-        "medical-school",
-        "education",
-        "haematology"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-hkust-medical-school-leung.json",
-      "en": {
-        "headline": "Former HKU medicine vice-dean joins HKUST medical school as senior associate dean",
-        "dek": "Anskar Leung Yu-hung, a haematology professor who has researched acute myeloid leukaemia, is among the academics formally joining the city’s third medical school."
-      },
-      "zh": {
-        "headline": "前港大醫學院副院長梁如鴻加入科大醫學院出任高級副院長",
-        "dek": "血液學教授梁如鴻長期研究急性髓系白血病，成為正式加入本港第三所醫學院的學者之一。"
-      }
-    },
-    {
-      "id": "2026-10-26-interpol-silver-notice-ga",
-      "published_at": "2026-10-26T09:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "interpol",
-        "police",
-        "financial-crime",
-        "hong-kong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-interpol-silver-notice-ga.json",
-      "en": {
-        "headline": "Interpol seeks silver notice approval at Hong Kong general assembly",
-        "dek": "The organisation will ask member countries to endorse a new system for tracing criminals’ assets during its first assembly hosted in the city next month."
-      },
-      "zh": {
-        "headline": "國際刑警將於香港大會尋求通過銀通知追蹤犯罪資產",
-        "dek": "組織將於下月首次在港舉行的全體大會上，請成員國批准新系統，協助追查跨司法管轄區的犯罪資產。"
-      }
-    },
-    {
-      "id": "2026-10-26-lifestyle-halloween-central-installations",
-      "published_at": "2026-10-26T09:20:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "halloween",
-        "central",
-        "statue-square",
-        "hongkong-land"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-lifestyle-halloween-central-installations.json",
-      "en": {
-        "headline": "Hongkong Land lights up Statue Square with Halloween installations through month end",
-        "dek": "Four large free installations, including a giant eyeball over the fountain, illuminate nightly until 31 October as part of the Central event."
-      },
-      "zh": {
-        "headline": "置地公司於皇后像廣場設置萬聖裝置至月底",
-        "dek": "包括噴水池旁巨型眼球在內的四個大型免費裝置每晚亮燈，活動至10月31日。"
-      }
-    },
-    {
-      "id": "2026-10-26-polyu-student-ratio",
-      "published_at": "2026-10-26T09:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "polyu",
-        "education",
-        "internationalisation",
-        "students"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-polyu-student-ratio.json",
-      "en": {
-        "headline": "PolyU aims for 50-50 overseas to mainland student ratio among non-locals",
-        "dek": "President Teng Jin-guang said the university enrolled about 1,000 non-local students this year at a 40-60 split and plans new hostels to support greater internationalisation."
-      },
-      "zh": {
-        "headline": "理大目標非本地生海外與內地比例達五五分",
-        "dek": "校長滕錦光表示，今年取錄約1000名非本地生，海外與內地生約四六分，並計劃興建新宿舍支援國際化。"
       }
     }
   ]
