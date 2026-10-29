@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-30T01:07:41+08:00",
+  "generated_at": "2026-10-30T03:15:27+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 93,
   "articles": [
+    {
+      "id": "2026-10-30-lifestyle-spooky-halloween-wan-chai",
+      "published_at": "2026-10-30T03:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "halloween",
+        "wan-chai",
+        "music",
+        "carnival"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-30/2026-10-30-lifestyle-spooky-halloween-wan-chai.json",
+      "en": {
+        "headline": "Spooky Halloween music carnival returns to Wan Chai waterfront",
+        "dek": "The three-day event at Wan Chai Harbourfront Event Space opens today with large installations and evening live music through Sunday."
+      },
+      "zh": {
+        "headline": "Spooky Halloween 音樂嘉年華重返灣仔海濱",
+        "dek": "為期三日的活動今日起於灣仔海濱活動空間舉行，設有大型裝置及晚間現場音樂，至周日結束。"
+      }
+    },
     {
       "id": "2026-10-30-central-halloween-traffic",
       "published_at": "2026-10-30T01:05:00+08:00",
