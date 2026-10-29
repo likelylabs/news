@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-29T21:10:18+08:00",
+  "generated_at": "2026-10-29T23:22:31+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 93,
   "articles": [
+    {
+      "id": "2026-10-29-cfs-japan-dried-fish-saitama",
+      "published_at": "2026-10-29T23:19:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "food-safety",
+        "japan",
+        "import",
+        "cfs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-cfs-japan-dried-fish-saitama.json",
+      "en": {
+        "headline": "Centre for Food Safety probes suspected Japan import ban breach on dried fish",
+        "dek": "A batch of dried fish product with almond processed in Saitama Prefecture after the 2023 order was sealed during inspection and has not entered the market."
+      },
+      "zh": {
+        "headline": "食安中心跟進疑違反日本水產輸入禁令的杏仁魚乾",
+        "dek": "一批在2023年命令生效後於埼玉縣加工的杏仁魚乾產品，在進口檢查中被發現並已標示封存，未流入市場。"
+      }
+    },
+    {
+      "id": "2026-10-29-hkia-aci-apac-meeting",
+      "published_at": "2026-10-29T23:19:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "hkia",
+        "aviation",
+        "airport-authority",
+        "aci"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-hkia-aci-apac-meeting.json",
+      "en": {
+        "headline": "Hong Kong International Airport hosts Airports Council regional meeting",
+        "dek": "Leaders from 20 airports discussed infrastructure investment, capacity and sustainability as the two-day Asia-Pacific and Middle East Regional Council session ended on Thursday."
+      },
+      "zh": {
+        "headline": "香港國際機場主辦國際機場協會亞太中東區域理事會會議",
+        "dek": "來自20個機場的領袖出席為期兩日的會議，周四圓滿結束，討論基建投資、擴容及可持續發展等議題。"
+      }
+    },
     {
       "id": "2026-10-29-chung-hom-kok-jewellery-theft",
       "published_at": "2026-10-29T21:07:00+08:00",
