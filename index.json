@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-29T11:11:21+08:00",
+  "generated_at": "2026-10-29T13:15:29+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-10-29-aberdeen-workers-platform-fall",
+      "published_at": "2026-10-29T13:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "accident",
+        "aberdeen",
+        "industrial",
+        "police",
+        "workers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-aberdeen-workers-platform-fall.json",
+      "en": {
+        "headline": "Two workers injured after falling from crane platform in Aberdeen",
+        "dek": "A 62-year-old man and a 57-year-old woman fell about six metres when the platform of a crane truck became unstable during exterior wall work on Shek Pai Wan Road on Thursday morning."
+      },
+      "zh": {
+        "headline": "香港仔兩工人從吊臂工作台墮下受傷",
+        "dek": "周四早上約10時16分，石排灣道香港仔漁業及海事分署附近，吊臂車工作台疑不穩，兩名工人從約六米高墮地，分別送瑪麗醫院。"
+      }
+    },
+    {
+      "id": "2026-10-29-wan-chai-acid-attack-sentencing",
+      "published_at": "2026-10-29T13:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "wan-chai",
+        "acid-attack",
+        "sentencing",
+        "high-court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-29/2026-10-29-wan-chai-acid-attack-sentencing.json",
+      "en": {
+        "headline": "Teen sentenced to eight years for acid attack on Singaporean tourist",
+        "dek": "High Court Judge Andrew Chan jailed the 19-year-old for throwing sulphuric acid at a 36-year-old woman in Wan Chai last June, causing burns over more than 10 per cent of her body."
+      },
+      "zh": {
+        "headline": "19歲男子向新加坡女子淋腐液 判囚8年",
+        "dek": "高等法院法官陳慶偉周四判處19歲男子監禁8年，他去年6月在灣仔向一名36歲新加坡女子淋潑硫酸，造成全身逾一成皮膚灼傷。"
+      }
+    },
     {
       "id": "2026-10-29-illegal-parking-fines-mark-chong",
       "published_at": "2026-10-29T11:08:00+08:00",
@@ -1940,116 +1986,6 @@
       "zh": {
         "headline": "石鼓洲焚化設施三級火 消防灌救暫無傷亡",
         "dek": "周一中午石鼓洲附近人工島上的綜合廢物管理設施第一期發生火警，消防升為三級，暫未接獲受傷報告。"
-      }
-    },
-    {
-      "id": "2026-10-26-belt-road-green-innovation-conference",
-      "published_at": "2026-10-26T13:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "belt-and-road",
-        "green-finance",
-        "john-lee",
-        "environment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-belt-road-green-innovation-conference.json",
-      "en": {
-        "headline": "Lee says Hong Kong can mobilise multi-currency capital for green projects",
-        "dek": "At the first Belt and Road Green Innovation Conference held in the city, the Chief Executive announced a green technology bridgehead plan and a supercharging demonstration station for next year."
-      },
-      "zh": {
-        "headline": "李家超：香港可跨貨幣動員資本支持綠色發展",
-        "dek": "一帶一路綠色創新大會首度在港舉行，行政長官宣布明年推出綠色科技橋頭堡計劃及超級充電技術示範站。"
-      }
-    },
-    {
-      "id": "2026-10-26-cuhk-acupuncture-tinnitus-study",
-      "published_at": "2026-10-26T13:15:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "cuhk",
-        "acupuncture",
-        "tinnitus",
-        "chinese-medicine"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-cuhk-acupuncture-tinnitus-study.json",
-      "en": {
-        "headline": "CUHK study finds electroacupuncture eases tinnitus in middle-aged adults",
-        "dek": "A trial of 90 patients aged 50 to 70, commissioned by Pok Oi Hospital, reported lower loudness scores and more than half moving from moderate to mild after five weeks of treatment."
-      },
-      "zh": {
-        "headline": "中大研究：電針可減輕中老年耳鳴困擾",
-        "dek": "博愛醫院委託中大中醫學院進行的研究招募90名50至70歲患者，五周療程後耳鳴響度評分下降，逾半由中度改善至輕度。"
-      }
-    },
-    {
-      "id": "2026-10-26-wah-fu-estate-phase1-early-2034",
-      "published_at": "2026-10-26T13:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "wah-fu-estate",
-        "redevelopment",
-        "public-housing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-wah-fu-estate-phase1-early-2034.json",
-      "en": {
-        "headline": "New Wah Fu Estate phase one set to finish six years early in 2034",
-        "dek": "Housing Authority paper to Southern District Council says earlier land release allows about 1,760 units in three blocks by the second half of 2034 for phase-three residents."
-      },
-      "zh": {
-        "headline": "新華富邨第一期預計提早六年於2034年落成",
-        "dek": "房委會向南區區議會提交文件，指華安樓及華樂樓用地可提早釋放，第一期約1760個單位預計2034年下半年入伙，供第三期居民使用。"
-      }
-    },
-    {
-      "id": "2026-10-26-lifestyle-mplus-myths-monsters",
-      "published_at": "2026-10-26T11:25:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "m-plus",
-        "exhibition",
-        "west-kowloon",
-        "fantasy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-lifestyle-mplus-myths-monsters.json",
-      "en": {
-        "headline": "M+ Myths and Monsters exhibition continues through April at West Kowloon",
-        "dek": "The special show tracing 200 years of fantasy imagery across Asia, from 19th-century mythology to manga and digital culture, remains on view at the museum until 4 April 2027."
-      },
-      "zh": {
-        "headline": "M+「神話與怪獸」展覽延續至明年4月 西九展出亞洲奇幻視覺文化",
-        "dek": "博物館特別展覽橫跨200年亞洲奇幻影像，由十九世紀神話到漫畫及數碼文化，展期至2027年4月4日。"
-      }
-    },
-    {
-      "id": "2026-10-26-yuen-long-warehouse-dog-bite",
-      "published_at": "2026-10-26T11:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "yuen-long",
-        "dog-attack",
-        "pok-oi-hospital"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-26/2026-10-26-yuen-long-warehouse-dog-bite.json",
-      "en": {
-        "headline": "Warehouse worker bitten by dog after chase by three animals in Yuen Long",
-        "dek": "A 26-year-old man suffered a minor calf wound around 8am on Monday when one of three warehouse dogs bit him near Kam Tin Road; Agriculture, Fisheries and Conservation Department staff took the dog for checks."
-      },
-      "zh": {
-        "headline": "元朗貨倉男工被三隻倉狗追趕咬傷小腿送院",
-        "dek": "周一早上約8時，26歲男倉務員在錦壐路附近被三隻狗追趕，其中一隻咬傷左小腿，傷勢輕微，漁護署人員已將涉事狗隻帶走檢查。"
       }
     }
   ]
