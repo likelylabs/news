@@ -1,1 +1,29 @@
-PLACEHOLDER_LEDGER
+{
+  "covered": [
+    {
+      "key": "lifestyle-spooky-halloween-2026",
+      "id": "2026-10-28-lifestyle-spooky-halloween",
+      "first_seen": "2026-10-28T01:10:00+08:00",
+      "headline_en": "Spooky Halloween music carnival returns to Wan Chai harbourfront this weekend"
+    },
+    {
+      "key": "wong-tai-sin-water-pipe-burst-oct29",
+      "id": "2026-10-29-wong-tai-sin-water-pipe-burst",
+      "first_seen": "2026-10-29T19:05:00+08:00",
+      "headline_en": "Water supply cut at Upper Wong Tai Sin Estate after pipe burst"
+    },
+    {
+      "key": "peak-light-show-cancelled-oct29",
+      "id": "2026-10-29-peak-light-show-cancelled",
+      "first_seen": "2026-10-29T19:05:00+08:00",
+      "headline_en": "Government drops Peak light installations after local concerns"
+    },
+    {
+      "key": "abby-choi-trial-dna-officer-oct29",
+      "id": "2026-10-29-abby-choi-trial-dna-officer",
+      "first_seen": "2026-10-29T19:05:00+08:00",
+      "headline_en": "Police officer denies mishandling DNA samples in Abby Choi trial"
+    }
+  ],
+  "updated_at": "2026-10-29T19:05:00+08:00"
+}
