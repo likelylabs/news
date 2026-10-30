@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-31T01:03:43+08:00",
+  "generated_at": "2026-10-31T03:18:27+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-10-31-lifestyle-museum-carnival-cultural-centre",
+      "published_at": "2026-10-31T03:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "tsim-sha-tsui",
+        "museum",
+        "free"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-lifestyle-museum-carnival-cultural-centre.json",
+      "en": {
+        "headline": "Leisure and Cultural Services Department opens Fun@Museum Carnival this weekend",
+        "dek": "The free event at Hong Kong Cultural Centre Piazza runs from 31 October to 1 November with themed installations and workshops under the Muse Fest HK 2026 theme."
+      },
+      "zh": {
+        "headline": "康文署周末舉行繽Fun博物館嘉年華",
+        "dek": "香港文化中心露天廣場10月31日至11月1日免費舉辦開幕活動，設主題裝置及工作坊。"
+      }
+    },
+    {
+      "id": "2026-10-31-weekend-weather-outlook-oct31-nov1",
+      "published_at": "2026-10-31T03:20:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "weekend",
+        "forecast"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-weekend-weather-outlook-oct31-nov1.json",
+      "en": {
+        "headline": "Observatory forecasts mainly fine Saturday and cloudier Sunday",
+        "dek": "Saturday will be mainly fine and dry by day with temperatures from 25 to 29 degrees, while Sunday brings more cloud and early rain patches."
+      },
+      "zh": {
+        "headline": "天文台預報周六大致天晴 周日多雲及有雨",
+        "dek": "周六日間大致天晴乾燥，氣溫25至29度；周日雲量增多，初時有一兩陣雨。"
+      }
+    },
     {
       "id": "2026-10-31-hkeaa-international-exam-data-leak",
       "published_at": "2026-10-31T01:10:00+08:00",
@@ -1915,117 +1959,6 @@
       "zh": {
         "headline": "元朗私家車與外賣電單車相撞 送遞員手腳擦傷送院",
         "dek": "周二晚約十時，馬田路右轉入告由路的私家車與電單車相撞，非華裔男送遞員被拋出後擦傷，送博愛醫院時清醒。"
-      }
-    },
-    {
-      "id": "2026-10-28-asian-games-parade",
-      "published_at": "2026-10-28T01:10:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "asian-games",
-        "sha-tin",
-        "athletes",
-        "parade"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-asian-games-parade.json",
-      "en": {
-        "headline": "Hong Kong Asian Games athletes greet residents in Sha Tin bus parade",
-        "dek": "Gold medallists in rowing and windsurfing joined teammates for an open-top bus tour organised with the Sha Tin Festival."
-      },
-      "zh": {
-        "headline": "亞運港隊運動員沙田開蓬巴士巡遊與居民見面",
-        "dek": "賽艇及滑浪風帆金牌得主聯同其他獎牌得主，參與沙田節委員會與民政處合辦的巡遊活動。"
-      }
-    },
-    {
-      "id": "2026-10-28-deliveroo-rider-hearing",
-      "published_at": "2026-10-28T01:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "court",
-        "employment",
-        "deliveroo",
-        "gig-economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-deliveroo-rider-hearing.json",
-      "en": {
-        "headline": "Court hears strike-out bid in Deliveroo rider’s compensation claim",
-        "dek": "A former rider who suffered brain injuries seeks employees’ compensation, while the platform’s liquidator argues there was no employment relationship."
-      },
-      "zh": {
-        "headline": "戶戶送前外送員工傷索償案 法庭聽取剔除申請",
-        "dek": "前外送員因交通意外頭部重創申請僱員補償，平台清盤人指雙方並無僱傭關係，法官押後裁決。"
-      }
-    },
-    {
-      "id": "2026-10-28-lifestyle-spooky-halloween",
-      "published_at": "2026-10-28T01:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "halloween",
-        "wan-chai",
-        "music",
-        "festival"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-lifestyle-spooky-halloween.json",
-      "en": {
-        "headline": "Spooky Halloween music carnival returns to Wan Chai harbourfront this weekend",
-        "dek": "Ne-Yo, MEOVV and local artists headline three nights of performances with large installations from 30 October."
-      },
-      "zh": {
-        "headline": "灣仔海濱「Spooky Halloween」音樂嘉年華本周末回歸",
-        "dek": "Ne-Yo、MEOVV及本地藝人將於10月30日起三晚演出，現場設大型裝置。"
-      }
-    },
-    {
-      "id": "2026-10-28-redotpay-ipo",
-      "published_at": "2026-10-28T01:10:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "crypto",
-        "ipo",
-        "redotpay",
-        "fintech"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-redotpay-ipo.json",
-      "en": {
-        "headline": "Hong Kong crypto payments firm RedotPay weighs confidential US IPO",
-        "dek": "Bloomberg reported the unicorn is considering a year-end filing and pre-IPO talks at a valuation of US$4 billion to US$5 billion."
-      },
-      "zh": {
-        "headline": "港產加密支付獨角獸RedotPay據報考慮年底前保密赴美上市",
-        "dek": "彭博引述知情人士稱，公司正商討上市前融資，估值或介乎40億至50億美元。"
-      }
-    },
-    {
-      "id": "2026-10-28-san-tin-technopole-funding",
-      "published_at": "2026-10-28T01:10:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "northern-metropolis",
-        "san-tin",
-        "legco",
-        "infrastructure"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-san-tin-technopole-funding.json",
-      "en": {
-        "headline": "Lawmakers question HK$27 billion funding request for San Tin Technopole works",
-        "dek": "The Development Bureau seeks approval for site formation, a wetland park and an effluent plant as part of the second stage of the border tech hub."
-      },
-      "zh": {
-        "headline": "議員關注新田科技城第二階段約272億元撥款申請",
-        "dek": "發展局向立法會申請撥款，涵蓋土地平整、三寶樹濕地保育公園及淨水設施，作為科技城第二階段工程。"
       }
     }
   ]
