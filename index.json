@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-10-30T09:15:41+08:00",
+  "generated_at": "2026-10-30T11:10:14+08:00",
   "live_window_hours": 72,
-  "count": 93,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-10-30-lifestyle-disneyland-halloween",
+      "published_at": "2026-10-30T11:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "halloween",
+        "disneyland",
+        "lantau",
+        "family"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-30/2026-10-30-lifestyle-disneyland-halloween.json",
+      "en": {
+        "headline": "Disney Halloween Time continues at Hong Kong Disneyland through Sunday",
+        "dek": "The villain-themed season runs until 1 November with stage shows and character appearances included in regular park admission."
+      },
+      "zh": {
+        "headline": "香港迪士尼樂園「Disney Halloween Time」延續至周日",
+        "dek": "以反派為主題的萬聖節季節活動至11月1日結束，舞台表演及角色亮相包含在一般入場門票內。"
+      }
+    },
+    {
+      "id": "2026-10-30-tai-wai-man-found-dead",
+      "published_at": "2026-10-30T11:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tai-wai",
+        "police",
+        "death",
+        "sha-tin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-30/2026-10-30-tai-wai-man-found-dead.json",
+      "en": {
+        "headline": "Man found dead in Tai Wai flat after family loses contact",
+        "dek": "Police received a report around 11pm on Thursday that a 35-year-old man had not been heard from; he was confirmed dead at the scene in Chun Shek Estate."
+      },
+      "zh": {
+        "headline": "大圍春石苑35歲男子在家中被發現死亡",
+        "dek": "警方周四晚約11時接報家屬失去聯絡，救護人員到場後證實該名男子已死亡，死因有待驗屍確定。"
+      }
+    },
     {
       "id": "2026-10-30-alex-lee-court-of-appeal",
       "published_at": "2026-10-30T09:13:00+08:00",
@@ -1928,163 +1973,6 @@
       "zh": {
         "headline": "私隱專員公署調查三間公司資料外洩 涉逾1600名市民",
         "dek": "公署證實接獲香港航空、友和香港及百老滙通報，至今共收到23宗投訴及20宗查詢，已展開調查。"
-      }
-    },
-    {
-      "id": "2026-10-27-airport-cannabis-seizure",
-      "published_at": "2026-10-27T11:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "airport",
-        "cannabis",
-        "drug-trafficking"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-airport-cannabis-seizure.json",
-      "en": {
-        "headline": "Customs seize 3kg of cannabis buds from Bangkok arrival at airport",
-        "dek": "A 56-year-old mainland man was arrested after officers found the suspected cannabis and other items in his carry-on baggage."
-      },
-      "zh": {
-        "headline": "海關機場截查曼谷抵港旅客 檢約3公斤大麻花",
-        "dek": "一名56歲內地男子被捕，人員在其手提行李發現懷疑大麻花及其他物品。"
-      }
-    },
-    {
-      "id": "2026-10-27-lifestyle-ocean-park-halloween",
-      "published_at": "2026-10-27T11:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "halloween",
-        "ocean-park",
-        "wong-chuk-hang",
-        "jackson-wang"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-lifestyle-ocean-park-halloween.json",
-      "en": {
-        "headline": "Ocean Park Halloween Fest continues through 1 November with Grave Rave experiences",
-        "dek": "Daytime access runs until 1 November while selected night sessions feature the Under the Castle haunted experience linked to Jackson Wang’s fantasy IP."
-      },
-      "zh": {
-        "headline": "海洋公園哈囉喂全園祭持續至11月1日 以詭魅墓會為主題",
-        "dek": "日間體驗至11月1日，指定晚間場次設有王嘉爾原創奇幻IP「Under the Castle」驚嚇體驗。"
-      }
-    },
-    {
-      "id": "2026-10-27-man-kam-to-illegal-petrol",
-      "published_at": "2026-10-27T11:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "fire-services",
-        "man-kam-to",
-        "illegal-fuel"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-man-kam-to-illegal-petrol.json",
-      "en": {
-        "headline": "Customs and firefighters dismantle illegal petrol station near Man Kam To homes",
-        "dek": "Officers seized about 1,560 litres of duty-not-paid petrol and arrested a 33-year-old man after finding a fenced shed on Man Kam To Road."
-      },
-      "zh": {
-        "headline": "海關消防搗破文錦渡民居附近非法加油站",
-        "dek": "人員在文錦渡路檢獲約1560公升未完稅汽油，並拘捕一名33歲男子。"
-      }
-    },
-    {
-      "id": "2026-10-27-tuen-mun-7eleven-theft",
-      "published_at": "2026-10-27T11:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "tuen-mun",
-        "theft",
-        "convenience-store"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-tuen-mun-7eleven-theft.json",
-      "en": {
-        "headline": "Police arrest 20-year-old over alleged HK$81,000 theft at Tuen Mun 7-Eleven",
-        "dek": "The employer reported the money missing on Monday evening after checking the cash balance and reviewing transaction records that showed transfers to electronic wallets."
-      },
-      "zh": {
-        "headline": "警方拘捕20歲男子 涉屯門7-Eleven盜竊逾8萬元",
-        "dek": "店主周一傍晚報案，指現金短少約8.1萬元，交易紀錄顯示有款項轉入電子錢包。"
-      }
-    },
-    {
-      "id": "2026-10-27-hung-hom-harbourfront-revised-plan",
-      "published_at": "2026-10-27T09:26:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "hung-hom",
-        "harbourfront",
-        "development",
-        "legco",
-        "development-bureau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-hung-hom-harbourfront-revised-plan.json",
-      "en": {
-        "headline": "Development Bureau proposes twin landmark towers and more homes at Hung Hom harbourfront",
-        "dek": "The revised plan raises total floor area by 3 per cent to 206,500 square metres, with residential share at 62 per cent, and cancels four waterfront residential blocks for open space."
-      },
-      "zh": {
-        "headline": "發展局建議紅礎海濱建雙塔地標 增加住宅比例",
-        "dek": "修訂方案將總樓面增至約20.65萬平方米，住宅佔約62%，臨海四幢住宅改作公眾休憩用地，目標2029年初交地。"
-      }
-    },
-    {
-      "id": "2026-10-27-lifestyle-wine-dine-festival-maxims",
-      "published_at": "2026-10-27T09:26:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "wine-dine-festival",
-        "central",
-        "food",
-        "hktb"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-lifestyle-wine-dine-festival-maxims.json",
-      "en": {
-        "headline": "Hong Kong Wine & Dine Festival returns to Central Harbourfront from 29 October",
-        "dek": "The four-day event organised by the Tourism Board features more than 340 booths, new country pavilions and a Maxim’s food street marking the group’s 70th anniversary."
-      },
-      "zh": {
-        "headline": "香港美酒佳養巡禮10月29日起中環海濱舉行",
-        "dek": "旅發局主辦的四日活動設逾340攤位，首設澳洲、加拿大及韓國展館，並有美心集團70周年美食街。"
-      }
-    },
-    {
-      "id": "2026-10-27-romance-scam-engineer-8-5m",
-      "published_at": "2026-10-27T09:26:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "scam",
-        "romance-scam",
-        "police",
-        "cyberdefender"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-romance-scam-engineer-8-5m.json",
-      "en": {
-        "headline": "Middle-aged engineer loses HK$8.5 million in online romance scam",
-        "dek": "Police said at least 18 romance scam reports were received in the past week with total losses exceeding HK$13 million, including this case involving a fake Taiwanese dancer."
-      },
-      "zh": {
-        "headline": "中年工程師墮網上情緣騙局 損失逾850萬元",
-        "dek": "警方表示過去一周接獲至少18宗網上情緣騙案，總損失逾1,300萬元，其中一宗涉假冒台灣舞者。"
       }
     }
   ]
