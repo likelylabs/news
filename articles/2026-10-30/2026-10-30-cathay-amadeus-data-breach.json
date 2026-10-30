@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-30-cathay-amadeus-data-breach",
+  "published_at": "2026-10-30T19:06:00+08:00",
+  "category": "technology",
+  "tags": ["cathay-pacific", "data-breach", "aviation", "privacy", "amadeus"],
+  "ai_generated": true,
+  "story_key": "cathay-amadeus-data-breach-oct30",
+  "en": {
+    "headline": "Cathay Pacific says 53000 bookings affected in Amadeus data breach",
+    "dek": "The airline said unauthorised access to a third-party system between 2023 and September this year exposed names and flight details, with some contact and document data also involved.",
+    "body": [
+      "Cathay Pacific said on Friday that around 53,000 bookings were affected by unauthorised access to reservation data held by its technology service provider Amadeus IT Group.",
+      "According to the airline, the access occurred between August 2023 and September 2026 using login credentials assigned to a system account. Most records contained booking references, passenger names and flight details. A smaller number potentially included email addresses, phone numbers, travel document information or frequent flyer numbers. Cathay said there was no evidence that financial or payment information was accessed.",
+      "The airline said it was notified by Amadeus on 28 October and received further details the following day. Amadeus has reset passwords and strengthened monitoring. Cathay stated that the incident has not affected its own systems or operations and that it has informed the relevant authorities. It will contact affected customers once analysis is complete and apologised for any concern or inconvenience.",
+      "Cathay is among multiple airlines worldwide that use Amadeus systems. The company said investigations continue and that no evidence has been identified so far that the affected data has been misused."
+    ]
+  },
+  "zh": {
+    "headline": "國泰指第三方系統遭未授權存取 約5.3萬宗預訂資料受影響",
+    "dek": "航空公司表示，Amadeus系統在2023年8月至今年9月期間遭使用登入憑證存取，主要涉及姓名及航班資料，部分個案或包括聯絡及證件資料。",
+    "body": [
+      "國泰航空周五表示，全球旅遊科技公司Amadeus IT Group系統遭未獲授權人士存取，約5.3萬宗與國泰相關的預訂資料受影響。",
+      "國泰引述Amadeus通報，指有人於2023年8月至2026年9月期間使用系統帳戶的登入憑證擅自存取旅遊訂位資料。大部分紀錄包含預訂參考編號、乘客姓名及航班資料；小部分或額外涉及電郵、電話、旅遊證件資料或飛行常客計劃號碼。國泰強調，目前未有證據顯示財務或付款相關資料被存取。",
+      "航空公司指，於10月28日接獲初步通報，翌日取得進一步詳情。Amadeus已重設密碼並加強系統監察及偵測。國泰表示事件對其本身系統及日常營運並無影響，已通知有關當局，並會在完成分析後個別聯絡受影響顧客，對造成的憂慮及不便表示歉意。",
+      "國泰指Amadeus服務全球數以百計航空公司。目前調查仍在進行，供應商尚未發現受影響資料遭不當使用的證據。"
+    ]
+  }
+}
