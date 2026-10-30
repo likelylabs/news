@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-30T13:12:30+08:00",
+  "generated_at": "2026-10-30T15:23:44+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-10-30-public-housing-building-control-unit",
+      "published_at": "2026-10-30T15:30:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "housing",
+        "tai-po",
+        "wang-fuk",
+        "reforms",
+        "buildings"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-30/2026-10-30-public-housing-building-control-unit.json",
+      "en": {
+        "headline": "Housing Bureau to replace checking unit with project-based control body",
+        "dek": "About 300 staff will move to the new Public Housing Building Control Unit, which will assign dedicated teams and liaison officers for each major maintenance project."
+      },
+      "zh": {
+        "headline": "房屋局以項目制管制組替代獨立審查組",
+        "dek": "約三百名職員將轉任新公營房屋樓宇管制組，每項大型維修工程會配對專責團隊及聯絡人員。"
+      }
+    },
     {
       "id": "2026-10-30-pag-evergrande-property-services-acquisition",
       "published_at": "2026-10-30T13:15:00+08:00",
@@ -1905,50 +1928,6 @@
       "zh": {
         "headline": "港鐵指藍田站兩次事故由相關故障引致",
         "dek": "初步調查顯示10月13日絕緣膠失效引致短路起火，翌日接地開關未重置令電纜過載冒煙；政府要求一個月內提交詳細報告。"
-      }
-    },
-    {
-      "id": "2026-10-27-shau-kei-wan-pipe-burst",
-      "published_at": "2026-10-27T15:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "water-supply",
-        "shau-kei-wan",
-        "eastern-district",
-        "pipe-burst"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-shau-kei-wan-pipe-burst.json",
-      "en": {
-        "headline": "Pipe burst cuts water to parts of Eastern district after Shau Kei Wan works",
-        "dek": "Supply was suspended from 11am in Sai Wan Ho, Shau Kei Wan, Aldrich Bay and nearby areas; authorities aim to restore it before midnight. An elderly care-home resident was injured."
-      },
-      "zh": {
-        "headline": "笮箕灣道路工程爆水管 東區部分地區停水至午夜前",
-        "dek": "水務署自上午11時起暫停西灣河、笮箕灣、愛秩序灣及阿公岩道至香島一帶食水供應，目標午夜前恢復。安老院舍一名院友腳傷。"
-      }
-    },
-    {
-      "id": "2026-10-27-tko-wounding-illicit-fuel",
-      "published_at": "2026-10-27T15:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "tseung-kwan-o",
-        "wounding",
-        "illicit-fuel"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-tko-wounding-illicit-fuel.json",
-      "en": {
-        "headline": "Police arrest three over Tseung Kwan O wounding possibly linked to illicit fuel",
-        "dek": "The three men, aged 16 to 19 and with suspected triad backgrounds, were arrested after a 35-year-old driver was stabbed last week at the industrial estate."
-      },
-      "zh": {
-        "headline": "將軍澳工業區傷人案 警拘三名涉三合會背景青年",
-        "dek": "三名16至19歲男子涉嫌串謀意圖傷人被捕，事主為35歲輕型貨車司機，上周三在駿日街遭襲，車上檢獲約120公升懷疑私油。"
       }
     }
   ]
