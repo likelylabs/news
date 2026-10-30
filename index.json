@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-10-30T21:08:18+08:00",
+  "generated_at": "2026-10-30T23:26:58+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-10-30-city-hall-sculptures-theft",
+      "published_at": "2026-10-30T23:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "city-hall",
+        "art",
+        "theft",
+        "central"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-30/2026-10-30-city-hall-sculptures-theft.json",
+      "en": {
+        "headline": "Police classify missing City Hall sculptures as theft",
+        "dek": "Officers were alerted Friday afternoon that works worth about HK$160,000 for the Microwave International New Media Arts Festival had gone missing from the Central venue."
+      },
+      "zh": {
+        "headline": "警方列香港大會堂雕塑失竊案為盜竊",
+        "dek": "警方周五下午接報，微波國際新媒體藝術節一批約值16萬元雕塑品於中環場地失蹤。"
+      }
+    },
+    {
+      "id": "2026-10-30-link-reit-top-sale",
+      "published_at": "2026-10-30T23:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "property",
+        "link-reit",
+        "mong-kok"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-30/2026-10-30-link-reit-top-sale.json",
+      "en": {
+        "headline": "Link REIT to sell Mong Kok T.O.P for HK$2.3 billion",
+        "dek": "The trust will dispose of its entire interest in 700 Nathan Road to Han Bliss Global, with completion expected in early 2027, and continue managing the property."
+      },
+      "zh": {
+        "headline": "領展以23億元出售旺角T.O.P物業",
+        "dek": "基金同意出售彌敦道700號全部權益予Han Bliss Global，交易預料2027年首季完成，其後繼續管理該物業。"
+      }
+    },
+    {
+      "id": "2026-10-30-primary-iit-curriculum-framework",
+      "published_at": "2026-10-30T23:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "curriculum",
+        "primary-school",
+        "edb",
+        "technology"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-30/2026-10-30-primary-iit-curriculum-framework.json",
+      "en": {
+        "headline": "Education Bureau releases primary information and innovation technology curriculum",
+        "dek": "All primary schools will introduce the new subject from the 2028/29 school year, covering five strands including programming and artificial intelligence, and it will not count toward secondary places allocation."
+      },
+      "zh": {
+        "headline": "教育局公布小學資訊與創新科技課程框架",
+        "dek": "全港小學將於2028/29學年起推行新科目，涵蓋編程及人工智能等五個範疇，不納入呈分試。"
+      }
+    },
     {
       "id": "2026-10-30-kmb-b10s-overnight-huanggang",
       "published_at": "2026-10-30T21:05:00+08:00",
