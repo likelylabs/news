@@ -2,18 +2,24 @@
   "id": "2026-10-30-united-christian-hospital-data-leak-report",
   "published_at": "2026-10-30T21:05:00+08:00",
   "category": "health",
-  "tags": ["privacy", "hospital", "data-breach", "ha", "united-christian"],
+  "tags": [
+    "privacy",
+    "hospital",
+    "data-breach",
+    "ha",
+    "united-christian"
+  ],
   "breaking": false,
   "ai_generated": true,
   "story_key": "united-christian-hospital-data-leak-pcpd-report-oct30",
   "en": {
-    "headline": "Privacy Commissioner finds Hospital Authority deficiencies in United Christian Hospital data leak",
+    "headline": "Privacy Commissioner finds Hospital Authority deficiencies in United Christian Hospital…",
     "dek": "The report on the April incident said inadequate contractor monitoring and access controls led to data of over 56,000 people reaching the dark web; an enforcement notice has been issued.",
     "body": [
       "The Office of the Privacy Commissioner for Personal Data published its investigation report on Friday into the data leak at United Christian Hospital. Privacy Commissioner Chung Lai-ling said deficiencies at the Hospital Authority were the main cause of the incident, in which data of 56,243 people were exposed on the dark web.",
-      "The affected individuals included 55,761 patients and 482 current or former staff of the Kowloon East Cluster. Personal data involved patients\u2019 names, Hong Kong identity card numbers, gender, dates of birth, hospital registration numbers, surgical procedure details and appointment dates, as well as staff names and ranks.",
-      "The Commissioner identified three main shortcomings: insufficient monitoring of the contractor\u2019s data access and activities; a lack of role-based access control in the contractor-managed system; and inadequate security risk assessments and audits. These led to a breach of the Personal Data (Privacy) Ordinance, and an enforcement notice was served on the Hospital Authority requiring corrective steps.",
-      "The Hospital Authority said it accepted the findings and recommendations and would follow up seriously. It described the case as an individual incident involving management of a contractor\u2019s access during maintenance of a peripheral medical system. Police earlier arrested a contractor staff member on suspicion of dishonest use of a computer. The Kowloon East Cluster has already implemented measures to strengthen system security and supervision of contractors."
+      "The affected individuals included 55,761 patients and 482 current or former staff of the Kowloon East Cluster. Personal data involved patients’ names, Hong Kong identity card numbers, gender, dates of birth, hospital registration numbers, surgical procedure details and appointment dates, as well as staff names and ranks.",
+      "The Commissioner identified three main shortcomings: insufficient monitoring of the contractor’s data access and activities; a lack of role-based access control in the contractor-managed system; and inadequate security risk assessments and audits. These led to a breach of the Personal Data (Privacy) Ordinance, and an enforcement notice was served on the Hospital Authority requiring corrective steps.",
+      "The Hospital Authority said it accepted the findings and recommendations and would follow up seriously. It described the case as an individual incident involving management of a contractor’s access during maintenance of a peripheral medical system. Police earlier arrested a contractor staff member on suspicion of dishonest use of a computer. The Kowloon East Cluster has already implemented measures to strengthen system security and supervision of contractors."
     ]
   },
   "zh": {
