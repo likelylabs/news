@@ -1,8 +1,51 @@
 {
-  "generated_at": "2026-10-30T11:10:14+08:00",
+  "generated_at": "2026-10-30T13:12:30+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-10-30-pag-evergrande-property-services-acquisition",
+      "published_at": "2026-10-30T13:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "property",
+        "evergrande",
+        "pag"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-30/2026-10-30-pag-evergrande-property-services-acquisition.json",
+      "en": {
+        "headline": "PAG agrees to buy 51 per cent of Evergrande Property Services for HK$4 billion",
+        "dek": "The private equity firm will take control of the listed unit at a discount, marking progress in liquidators' efforts to recover assets for China Evergrande creditors."
+      },
+      "zh": {
+        "headline": "PAG同意以40億元收購恒大物業51%股權",
+        "dek": "私募基金將以折讓價取得上市單位控制權，標誌着清盤人為中國恒大債權人追回資產的努力取得進展。"
+      }
+    },
+    {
+      "id": "2026-10-30-weekend-weather-outlook-oct31-nov1",
+      "published_at": "2026-10-30T13:15:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "weekend",
+        "hong-kong-observatory"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-30/2026-10-30-weekend-weather-outlook-oct31-nov1.json",
+      "en": {
+        "headline": "Observatory forecasts mainly fine Saturday, cloudier Sunday for Hong Kong",
+        "dek": "Saturday will be mainly fine and dry with highs around 29 degrees under an easterly airstream, while Sunday turns cloudier with a chance of light rain early."
+      },
+      "zh": {
+        "headline": "天文台預測周六大致天晴乾燥 周日雲量增多",
+        "dek": "周六受偏東氣流影響大致天晴乾燥，最高約29度；周日轉為大致多雲，初時或有一兩陣雨。"
+      }
+    },
     {
       "id": "2026-10-30-lifestyle-disneyland-halloween",
       "published_at": "2026-10-30T11:10:00+08:00",
@@ -1906,73 +1949,6 @@
       "zh": {
         "headline": "將軍澳工業區傷人案 警拘三名涉三合會背景青年",
         "dek": "三名16至19歲男子涉嫌串謀意圖傷人被捕，事主為35歲輕型貨車司機，上周三在駿日街遭襲，車上檢獲約120公升懷疑私油。"
-      }
-    },
-    {
-      "id": "2026-10-27-cuhk-hung-shui-kiu-bid",
-      "published_at": "2026-10-27T13:09:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "cuhk",
-        "northern-metropolis",
-        "hung-shui-kiu",
-        "university",
-        "education"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-cuhk-hung-shui-kiu-bid.json",
-      "en": {
-        "headline": "CUHK to bid for land in Hung Shui Kiu University Town",
-        "dek": "Vice-Chancellor Dennis Lo said the university plans to compete for one of the first sites, citing expansion opportunities despite staggered tenders and high costs."
-      },
-      "zh": {
-        "headline": "中大擬競投洪水橋大學城首批土地",
-        "dek": "校長盧煜明表示大學計劃競投其中一個首批校舍用地，認為是擴大校園的機會，惟分批招標及成本高昂構成挑戰。"
-      }
-    },
-    {
-      "id": "2026-10-27-hsbc-q3-profit-up-32",
-      "published_at": "2026-10-27T13:09:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hsbc",
-        "banking",
-        "profit",
-        "share-buyback"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-hsbc-q3-profit-up-32.json",
-      "en": {
-        "headline": "HSBC third-quarter pretax profit rises 32 per cent to US$9.6 billion",
-        "dek": "The result matched analyst expectations. The bank also announced a further share buy-back of up to US$1 billion and a third interim dividend of 10 US cents."
-      },
-      "zh": {
-        "headline": "滙豐第三季除稅前利潤增32%至96億美元",
-        "dek": "業績大致符合市場預期，銀行宣布最多10億美元股份回購及每股0.1美元第三次中期息。"
-      }
-    },
-    {
-      "id": "2026-10-27-privacy-commissioner-data-breaches",
-      "published_at": "2026-10-27T13:09:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "privacy",
-        "data-breach",
-        "scam",
-        "pcpd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-privacy-commissioner-data-breaches.json",
-      "en": {
-        "headline": "Privacy watchdog investigates data breaches at three firms affecting over 1,600",
-        "dek": "The Office of the Privacy Commissioner confirmed notifications from Hong Kong Airlines, YOHO Hong Kong and Broadway Photo, and has received 23 complaints so far."
-      },
-      "zh": {
-        "headline": "私隱專員公署調查三間公司資料外洩 涉逾1600名市民",
-        "dek": "公署證實接獲香港航空、友和香港及百老滙通報，至今共收到23宗投訴及20宗查詢，已展開調查。"
       }
     }
   ]
