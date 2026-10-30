@@ -2,24 +2,18 @@
   "id": "2026-10-30-united-christian-hospital-data-leak-report",
   "published_at": "2026-10-30T21:05:00+08:00",
   "category": "health",
-  "tags": [
-    "privacy",
-    "hospital",
-    "data-breach",
-    "ha",
-    "united-christian"
-  ],
+  "tags": ["privacy", "hospital", "data-breach", "ha", "united-christian"],
   "breaking": false,
   "ai_generated": true,
   "story_key": "united-christian-hospital-data-leak-pcpd-report-oct30",
   "en": {
-    "headline": "Privacy Commissioner finds Hospital Authority deficiencies in United Christian Hospital…",
+    "headline": "Privacy Commissioner finds Hospital Authority deficiencies in United Christian Hospital data leak",
     "dek": "The report on the April incident said inadequate contractor monitoring and access controls led to data of over 56,000 people reaching the dark web; an enforcement notice has been issued.",
     "body": [
       "The Office of the Privacy Commissioner for Personal Data published its investigation report on Friday into the data leak at United Christian Hospital. Privacy Commissioner Chung Lai-ling said deficiencies at the Hospital Authority were the main cause of the incident, in which data of 56,243 people were exposed on the dark web.",
-      "The affected individuals included 55,761 patients and 482 current or former staff of the Kowloon East Cluster. Personal data involved patients’ names, Hong Kong identity card numbers, gender, dates of birth, hospital registration numbers, surgical procedure details and appointment dates, as well as staff names and ranks.",
-      "The Commissioner identified three main shortcomings: insufficient monitoring of the contractor’s data access and activities; a lack of role-based access control in the contractor-managed system; and inadequate security risk assessments and audits. These led to a breach of the Personal Data (Privacy) Ordinance, and an enforcement notice was served on the Hospital Authority requiring corrective steps.",
-      "The Hospital Authority said it accepted the findings and recommendations and would follow up seriously. It described the case as an individual incident involving management of a contractor’s access during maintenance of a peripheral medical system. Police earlier arrested a contractor staff member on suspicion of dishonest use of a computer. The Kowloon East Cluster has already implemented measures to strengthen system security and supervision of contractors."
+      "The affected individuals included 55,761 patients and 482 current or former staff of the Kowloon East Cluster. Personal data involved patients\u2019 names, Hong Kong identity card numbers, gender, dates of birth, hospital registration numbers, surgical procedure details and appointment dates, as well as staff names and ranks.",
+      "The Commissioner identified three main shortcomings: insufficient monitoring of the contractor\u2019s data access and activities; a lack of role-based access control in the contractor-managed system; and inadequate security risk assessments and audits. These led to a breach of the Personal Data (Privacy) Ordinance, and an enforcement notice was served on the Hospital Authority requiring corrective steps.",
+      "The Hospital Authority said it accepted the findings and recommendations and would follow up seriously. It described the case as an individual incident involving management of a contractor\u2019s access during maintenance of a peripheral medical system. Police earlier arrested a contractor staff member on suspicion of dishonest use of a computer. The Kowloon East Cluster has already implemented measures to strengthen system security and supervision of contractors."
     ]
   },
   "zh": {
@@ -29,7 +23,7 @@
       "個人資料私隱專員公署周五公布基督教聯合醫院今年四月資料外洩事故的調查報告。私隱專員鍾麗玲表示，醫管局的缺失是事件主因，合共5萬6,243人的資料被外洩至暗網。",
       "受影響人士包括5萬5,761名病人及482名九龍東醫院聯網現職或離職員工。外洩資料涵蓋病人姓名、香港身份證號碼、性別、出生日期、醫院登記號碼、手術程序詳情及預約日期，以及員工姓名及職級。",
       "專員指出三大缺失：對承辦商存取資料及活動的監察不足、承辦商管理的系統欠缺以角色為本的存取管控，以及保安風險評估及審計不足。這些缺失違反《個人資料（私隱）條例》，公署已向醫管局送達執行通知，要求採取糾正措施。",
-      "醫管局表示接納調查結果及建議，並會嚴肃跟進。局方形容事件屬個別個案，涉及周邊醫療系統外判承辦商維護時的存取管理問題，導致部分資料被盜取。警方早前以不誠實使用電腦罪名拘捕一名承辦商職員。九龍東醫院聯網已採取措施加強系統保安及對承辦商的監管。"
+      "醫管局表示接納調查結果及建議，並會嚴肅跟進。局方形容事件屬個別個案，涉及周邊醫療系統外判承辦商維護時的存取管理問題，導致部分資料被盜取。警方早前以不誠實使用電腦罪名拘捕一名承辦商職員。九龍東醫院聯網已採取措施加強系統保安及對承辦商的監管。"
     ]
   }
 }
