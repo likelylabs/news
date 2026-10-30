@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-30T19:08:34+08:00",
+  "generated_at": "2026-10-30T21:07:40+08:00",
   "live_window_hours": 72,
   "count": 89,
   "articles": [
+    {
+      "id": "2026-10-30-kmb-b10s-overnight-huanggang",
+      "published_at": "2026-10-30T21:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "kmb",
+        "huanggang",
+        "halloween",
+        "overnight",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-30/2026-10-30-kmb-b10s-overnight-huanggang.json",
+      "en": {
+        "headline": "KMB adds overnight B10S route to Huanggang Port early Sunday",
+        "dek": "The new service will run from Kwai Fong to the border from 00:40 to 02:00 on 1 November to handle post-Halloween passenger demand, with extra NB73 trips also arranged."
+      },
+      "zh": {
+        "headline": "九巴周日凌晨增設B10S深宵線往皇崗口岸",
+        "dek": "新路線於11月1日凌晨0時40分至2時由葵芳開出，方便萬聖節活動後返回內地的乘客，同時加強NB73服務。"
+      }
+    },
+    {
+      "id": "2026-10-30-united-christian-hospital-data-leak-report",
+      "published_at": "2026-10-30T21:05:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "privacy",
+        "hospital",
+        "data-breach",
+        "ha",
+        "united-christian"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-30/2026-10-30-united-christian-hospital-data-leak-report.json",
+      "en": {
+        "headline": "Privacy Commissioner finds Hospital Authority deficiencies in United Christian Hospital…",
+        "dek": "The report on the April incident said inadequate contractor monitoring and access controls led to data of over 56,000 people reaching the dark web; an enforcement notice has been issued."
+      },
+      "zh": {
+        "headline": "私隱專員指醫管局缺失是聯合醫院資料外洩主因",
+        "dek": "調查報告指承辦商監察及存取管控不足，導致逾5.6萬人資料外洩至暗網；公署已向醫管局發出執行通知。"
+      }
+    },
     {
       "id": "2026-10-30-cathay-amadeus-data-breach",
       "published_at": "2026-10-30T19:06:00+08:00",
@@ -1954,52 +2000,6 @@
       "zh": {
         "headline": "筱箕灣及部分西灣河食水供應晚上九時半起陸續恢復",
         "dek": "水務署表示，筱箕灣道受損食水管的緊急維修工程已完成，周二晚上九時半起供水陸續恢復正常。"
-      }
-    },
-    {
-      "id": "2026-10-27-lee-northern-metropolis-university-towns",
-      "published_at": "2026-10-27T21:04:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "john-lee",
-        "northern-metropolis",
-        "university",
-        "education",
-        "talent"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-lee-northern-metropolis-university-towns.json",
-      "en": {
-        "headline": "John Lee says Northern Metropolis university towns aim to attract world's finest scholars",
-        "dek": "Speaking at the Global University Presidents and Leaders Summit, the Chief Executive invited institutions to set up research platforms and strengthen industry-academia links."
-      },
-      "zh": {
-        "headline": "李家超：北都大學城旨在吸引全球頂尖學者及學生",
-        "dek": "行政長官在全球大學校長及領袖高峰會致辭，邀請機構設立研究平台，加強產學研聯繫，三個大學城連同周邊發展面積逾1000公頃。"
-      }
-    },
-    {
-      "id": "2026-10-27-police-cross-border-white-plate-arrests",
-      "published_at": "2026-10-27T21:04:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "white-plate",
-        "cross-border",
-        "huanggang",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-police-cross-border-white-plate-arrests.json",
-      "en": {
-        "headline": "Police arrest two drivers over cross-border illegal passenger services",
-        "dek": "Officers posing as passengers booked luxury seven-seaters via social media for trips to Shenzhen, leading to the arrest of a 33-year-old local man and a 27-year-old mainland man on a two-way permit."
-      },
-      "zh": {
-        "headline": "警方放蛇打擊跨境白牌車 拘捕本地及持雙程證司機",
-        "dek": "港島總區交通部人員喬裝乘客，經社交平台預約豪華七人車前往深圳，成功拘捕一名33歲本地男子及一名27歲持雙程證內地男子。"
       }
     }
   ]

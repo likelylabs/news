@@ -2,28 +2,34 @@
   "id": "2026-10-30-united-christian-hospital-data-leak-report",
   "published_at": "2026-10-30T21:05:00+08:00",
   "category": "health",
-  "tags": ["privacy", "hospital", "data-breach", "ha", "united-christian"],
+  "tags": [
+    "privacy",
+    "hospital",
+    "data-breach",
+    "ha",
+    "united-christian"
+  ],
   "breaking": false,
   "ai_generated": true,
   "story_key": "united-christian-hospital-data-leak-pcpd-report-oct30",
   "en": {
-    "headline": "Privacy Commissioner finds Hospital Authority deficiencies in United Christian Hospital data leak",
+    "headline": "Privacy Commissioner finds Hospital Authority deficiencies in United Christian Hospital…",
     "dek": "The report on the April incident said inadequate contractor monitoring and access controls led to data of over 56,000 people reaching the dark web; an enforcement notice has been issued.",
     "body": [
       "The Office of the Privacy Commissioner for Personal Data published its investigation report on Friday into the data leak at United Christian Hospital. Privacy Commissioner Chung Lai-ling said deficiencies at the Hospital Authority were the main cause of the incident, in which data of 56,243 people were exposed on the dark web.",
-      "The affected individuals included 55,761 patients and 482 current or former staff of the Kowloon East Cluster. Personal data involved patients\u2019 names, Hong Kong identity card numbers, gender, dates of birth, hospital registration numbers, surgical procedure details and appointment dates, as well as staff names and ranks.",
-      "The Commissioner identified three main shortcomings: insufficient monitoring of the contractor\u2019s data access and activities; a lack of role-based access control in the contractor-managed system; and inadequate security risk assessments and audits. These led to a breach of the Personal Data (Privacy) Ordinance, and an enforcement notice was served on the Hospital Authority requiring corrective steps.",
-      "The Hospital Authority said it accepted the findings and recommendations and would follow up seriously. It described the case as an individual incident involving management of a contractor\u2019s access during maintenance of a peripheral medical system. Police earlier arrested a contractor staff member on suspicion of dishonest use of a computer. The Kowloon East Cluster has already implemented measures to strengthen system security and supervision of contractors."
+      "The affected individuals included 55,761 patients and 482 current or former staff of the Kowloon East Cluster. Personal data involved patients’ names, Hong Kong identity card numbers, gender, dates of birth, hospital registration numbers, surgical procedure details and appointment dates, as well as staff names and ranks.",
+      "The Commissioner identified three main shortcomings: insufficient monitoring of the contractor’s data access and activities; a lack of role-based access control in the contractor-managed system; and inadequate security risk assessments and audits. These led to a breach of the Personal Data (Privacy) Ordinance, and an enforcement notice was served on the Hospital Authority requiring corrective steps.",
+      "The Hospital Authority said it accepted the findings and recommendations and would follow up seriously. It described the case as an individual incident involving management of a contractor’s access during maintenance of a peripheral medical system. Police earlier arrested a contractor staff member on suspicion of dishonest use of a computer. The Kowloon East Cluster has already implemented measures to strengthen system security and supervision of contractors."
     ]
   },
   "zh": {
-    "headline": "\u79c1\u96b1\u5c08\u54e1\u6307\u91ab\u7ba1\u5c40\u7f3a\u5931\u662f\u806f\u5408\u91ab\u9662\u8cc7\u6599\u5916\u6d29\u4e3b\u56e0",
-    "dek": "\u8abf\u67e5\u5831\u544a\u6307\u627f\u8fa6\u5546\u76e3\u5bdf\u53ca\u5b58\u53d6\u7ba1\u63a7\u4e0d\u8db3\uff0c\u5c0e\u81f4\u903e5.6\u842c\u4eba\u8cc7\u6599\u5916\u6d29\u81f3\u6697\u7db2\uff1b\u516c\u7f72\u5df2\u5411\u91ab\u7ba1\u5c40\u767c\u51fa\u57f7\u884c\u901a\u77e5\u3002",
+    "headline": "私隱專員指醫管局缺失是聯合醫院資料外洩主因",
+    "dek": "調查報告指承辦商監察及存取管控不足，導致逾5.6萬人資料外洩至暗網；公署已向醫管局發出執行通知。",
     "body": [
-      "\u500b\u4eba\u8cc7\u6599\u79c1\u96b1\u5c08\u54e1\u516c\u7f72\u5468\u4e94\u516c\u5e03\u57fa\u7763\u6559\u806f\u5408\u91ab\u9662\u4eca\u5e74\u56db\u6708\u8cc7\u6599\u5916\u6d29\u4e8b\u6545\u7684\u8abf\u67e5\u5831\u544a\u3002\u79c1\u96b1\u5c08\u54e1\u937e\u9e97\u73b2\u8868\u793a\uff0c\u91ab\u7ba1\u5c40\u7684\u7f3a\u5931\u662f\u4e8b\u4ef6\u4e3b\u56e0\uff0c\u5408\u51715\u842c6,243\u4eba\u7684\u8cc7\u6599\u88ab\u5916\u6d29\u81f3\u6697\u7db2\u3002",
-      "\u53d7\u5f71\u97ff\u4eba\u58eb\u5305\u62ec5\u842c5,761\u540d\u75c5\u4eba\u53ca482\u540d\u4e5d\u9f8d\u6771\u91ab\u9662\u806f\u7db2\u73fe\u8077\u6216\u96e2\u8077\u54e1\u5de5\u3002\u5916\u6d29\u8cc7\u6599\u6db5\u84cb\u75c5\u4eba\u59d3\u540d\u3001\u9999\u6e2f\u8eab\u4efd\u8b49\u865f\u78bc\u3001\u6027\u5225\u3001\u51fa\u751f\u65e5\u671f\u3001\u91ab\u9662\u767b\u8a18\u865f\u78bc\u3001\u624b\u8853\u7a0b\u5e8f\u8a73\u60c5\u53ca\u9810\u7d04\u65e5\u671f\uff0c\u4ee5\u53ca\u54e1\u5de5\u59d3\u540d\u53ca\u8077\u7d1a\u3002",
-      "\u5c08\u54e1\u6307\u51fa\u4e09\u5927\u7f3a\u5931\uff1a\u5c0d\u627f\u8fa6\u5546\u5b58\u53d6\u8cc7\u6599\u53ca\u6d3b\u52d5\u7684\u76e3\u5bdf\u4e0d\u8db3\u3001\u627f\u8fa6\u5546\u7ba1\u7406\u7684\u7cfb\u7d71\u6b20\u7f3a\u4ee5\u89d2\u8272\u70ba\u672c\u7684\u5b58\u53d6\u7ba1\u63a7\uff0c\u4ee5\u53ca\u4fdd\u5b89\u98a8\u96aa\u8a55\u4f30\u53ca\u5be9\u8a08\u4e0d\u8db3\u3002\u9019\u4e9b\u7f3a\u5931\u9055\u53cd\u300a\u500b\u4eba\u8cc7\u6599\uff08\u79c1\u96b1\uff09\u689d\u4f8b\u300b\uff0c\u516c\u7f72\u5df2\u5411\u91ab\u7ba1\u5c40\u9001\u9054\u57f7\u884c\u901a\u77e5\uff0c\u8981\u6c42\u63a1\u53d6\u7cfe\u6b63\u63aa\u65bd\u3002",
-      "\u91ab\u7ba1\u5c40\u8868\u793a\u63a5\u7d0d\u8abf\u67e5\u7d50\u679c\u53ca\u5efa\u8b70\uff0c\u4e26\u6703\u56b4\u8083\u8ddf\u9032\u3002\u5c40\u65b9\u5f62\u5bb9\u4e8b\u4ef6\u5c6c\u500b\u5225\u500b\u6848\uff0c\u6d89\u53ca\u5468\u908a\u91ab\u7642\u7cfb\u7d71\u5916\u5224\u627f\u8fa6\u5546\u7dad\u8b77\u6642\u7684\u5b58\u53d6\u7ba1\u7406\u554f\u984c\uff0c\u5c0e\u81f4\u90e8\u5206\u8cc7\u6599\u88ab\u76dc\u53d6\u3002\u8b66\u65b9\u65e9\u524d\u4ee5\u4e0d\u8aa0\u5be6\u4f7f\u7528\u96fb\u8166\u7f6a\u540d\u62d8\u6355\u4e00\u540d\u627f\u8fa6\u5546\u8077\u54e1\u3002\u4e5d\u9f8d\u6771\u91ab\u9662\u806f\u7db2\u5df2\u63a1\u53d6\u63aa\u65bd\u52a0\u5f37\u7cfb\u7d71\u4fdd\u5b89\u53ca\u5c0d\u627f\u8fa6\u5546\u7684\u76e3\u7ba1\u3002"
+      "個人資料私隱專員公署周五公布基督教聯合醫院今年四月資料外洩事故的調查報告。私隱專員鍾麗玲表示，醫管局的缺失是事件主因，合共5萬6,243人的資料被外洩至暗網。",
+      "受影響人士包括5萬5,761名病人及482名九龍東醫院聯網現職或離職員工。外洩資料涵蓋病人姓名、香港身份證號碼、性別、出生日期、醫院登記號碼、手術程序詳情及預約日期，以及員工姓名及職級。",
+      "專員指出三大缺失：對承辦商存取資料及活動的監察不足、承辦商管理的系統欠缺以角色為本的存取管控，以及保安風險評估及審計不足。這些缺失違反《個人資料（私隱）條例》，公署已向醫管局送達執行通知，要求採取糾正措施。",
+      "醫管局表示接納調查結果及建議，並會嚴肃跟進。局方形容事件屬個別個案，涉及周邊醫療系統外判承辦商維護時的存取管理問題，導致部分資料被盜取。警方早前以不誠實使用電腦罪名拘捕一名承辦商職員。九龍東醫院聯網已採取措施加強系統保安及對承辦商的監管。"
     ]
   }
 }
