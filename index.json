@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-10-30T17:12:53+08:00",
+  "generated_at": "2026-10-30T19:08:34+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-10-30-cathay-amadeus-data-breach",
+      "published_at": "2026-10-30T19:06:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "cathay-pacific",
+        "data-breach",
+        "aviation",
+        "privacy",
+        "amadeus"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-30/2026-10-30-cathay-amadeus-data-breach.json",
+      "en": {
+        "headline": "Cathay Pacific says 53000 bookings affected in Amadeus data breach",
+        "dek": "The airline said unauthorised access to a third-party system between 2023 and September this year exposed names and flight details, with some contact and document data also involved."
+      },
+      "zh": {
+        "headline": "國泰指第三方系統遭未授權存取 約5.3萬宗預訂資料受影響",
+        "dek": "航空公司表示，Amadeus系統在2023年8月至今年9月期間遭使用登入憑證存取，主要涉及姓名及航班資料，部分個案或包括聯絡及證件資料。"
+      }
+    },
+    {
+      "id": "2026-10-30-election-committee-nominations-valid",
+      "published_at": "2026-10-30T19:06:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "election-committee",
+        "nominations",
+        "politics",
+        "voting"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-30/2026-10-30-election-committee-nominations-valid.json",
+      "en": {
+        "headline": "Candidate Eligibility Committee rules 1115 Election Committee nominations valid",
+        "dek": "The committee approved all ordinary election candidates for the 22 November poll, with 31 subsectors contested and five uncontested; ex-officio and nominated members were also confirmed."
+      },
+      "zh": {
+        "headline": "資審委裁定1115名選委會界別分組選舉候選人提名有效",
+        "dek": "委員會確認一般選舉候選人全部提名有效，11月22日選舉中31個界別有競爭、5個自動當選；當然委員及指定團體提名人亦獲確認。"
+      }
+    },
+    {
+      "id": "2026-10-30-fiscal-surplus-first-six-months",
+      "published_at": "2026-10-30T19:06:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "fiscal",
+        "government",
+        "budget",
+        "bonds",
+        "reserves"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-30/2026-10-30-fiscal-surplus-first-six-months.json",
+      "en": {
+        "headline": "Government records HK$16.2 billion surplus in first six months of fiscal year",
+        "dek": "The surplus for April to September was driven mainly by Silver Bonds proceeds; fiscal reserves stood at HK$681.7 billion at the end of September."
+      },
+      "zh": {
+        "headline": "政府本財政年度首六個月錄得162億元盈餘",
+        "dek": "四月至九月盈餘主要來自發行銀色債券所得收入；截至九月底財政儲備為6817億元。"
+      }
+    },
+    {
+      "id": "2026-10-30-imported-dengue-chikungunya-cases",
+      "published_at": "2026-10-30T19:06:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "dengue",
+        "chikungunya",
+        "chp",
+        "mosquitoes"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-30/2026-10-30-imported-dengue-chikungunya-cases.json",
+      "en": {
+        "headline": "Centre for Health Protection records four imported dengue and one chikungunya case",
+        "dek": "The four dengue patients had travelled to Vietnam, Malaysia and Singapore; the chikungunya case involved a 44-year-old woman who had been on the mainland. Year-to-date dengue total reaches 40."
+      },
+      "zh": {
+        "headline": "衞生防護中心錄得四宗外地傳入登革熱及一宗內地傳入基孔肯雅熱個案",
+        "dek": "四宗登革熱患者潛伏期內曾到越南、馬來西亞及新加坡；基孔肯雅熱個案涉及一名44歲曾到內地的女子。今年累計登革熱40宗。"
+      }
+    },
     {
       "id": "2026-10-30-abby-choi-kwong-kau-plea",
       "published_at": "2026-10-30T17:15:00+08:00",

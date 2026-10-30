@@ -1,36 +1,6 @@
 {
   "covered": [
     {
-      "key": "cfa-non-permanent-judge-ku-nord-oct16",
-      "id": "2026-10-16-cfa-ku-nord-appointment",
-      "first_seen": "2026-10-16T19:05:00+08:00",
-      "headline_en": "Chief Executive accepts recommendation to appoint former New Zealand judge as CFA…"
-    },
-    {
-      "key": "huanggang-chung-yeung-traffic-oct16",
-      "id": "2026-10-16-huanggang-chung-yeung-traffic",
-      "first_seen": "2026-10-16T19:05:00+08:00",
-      "headline_en": "Transport Department sets special arrangements at Huanggang control point for Chung Yeung"
-    },
-    {
-      "key": "imported-chikungunya-dengue-oct16",
-      "id": "2026-10-16-imported-chikungunya-dengue",
-      "first_seen": "2026-10-16T19:05:00+08:00",
-      "headline_en": "Centre for Health Protection records two imported chikungunya and one dengue case"
-    },
-    {
-      "key": "light-public-housing-all-projects-open-oct16",
-      "id": "2026-10-16-light-public-housing-all-open",
-      "first_seen": "2026-10-16T19:05:00+08:00",
-      "headline_en": "Housing Bureau opens applications for all 13 light public housing projects"
-    },
-    {
-      "key": "tai-yip-elevator-arrests-oct16",
-      "id": "2026-10-16-tai-yip-elevator-arrests",
-      "first_seen": "2026-10-16T19:05:00+08:00",
-      "headline_en": "Police arrest company director and two engineers over lift works deficiencies"
-    },
-    {
       "key": "hkex-t1-settlement-roadmap-oct16",
       "id": "2026-10-16-hkex-t1-settlement-2028",
       "first_seen": "2026-10-16T21:10:00+08:00",
@@ -2579,7 +2549,31 @@
       "id": "2026-10-30-ride-hailing-licence-deadline",
       "first_seen": "2026-10-30T17:15:00+08:00",
       "headline_en": "Ride-hailing licence applications close as platforms file with Transport Department"
+    },
+    {
+      "key": "cathay-amadeus-data-breach-oct30",
+      "id": "2026-10-30-cathay-amadeus-data-breach",
+      "first_seen": "2026-10-30T19:06:00+08:00",
+      "headline_en": "Cathay Pacific says 53000 bookings affected in Amadeus data breach"
+    },
+    {
+      "key": "election-committee-nominations-valid-oct30",
+      "id": "2026-10-30-election-committee-nominations-valid",
+      "first_seen": "2026-10-30T19:06:00+08:00",
+      "headline_en": "Candidate Eligibility Committee rules 1115 Election Committee nominations valid"
+    },
+    {
+      "key": "fiscal-surplus-first-six-months-oct30",
+      "id": "2026-10-30-fiscal-surplus-first-six-months",
+      "first_seen": "2026-10-30T19:06:00+08:00",
+      "headline_en": "Government records HK$16.2 billion surplus in first six months of fiscal year"
+    },
+    {
+      "key": "imported-dengue-chikungunya-oct30",
+      "id": "2026-10-30-imported-dengue-chikungunya-cases",
+      "first_seen": "2026-10-30T19:06:00+08:00",
+      "headline_en": "Centre for Health Protection records four imported dengue and one chikungunya case"
     }
   ],
-  "updated_at": "2026-10-30T17:12:52+08:00"
+  "updated_at": "2026-10-30T19:08:34+08:00"
 }
