@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-30T23:26:58+08:00",
+  "generated_at": "2026-10-31T01:03:43+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-10-31-hkeaa-international-exam-data-leak",
+      "published_at": "2026-10-31T01:10:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "education",
+        "privacy",
+        "data-breach",
+        "hkeaa",
+        "exams"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-hkeaa-international-exam-data-leak.json",
+      "en": {
+        "headline": "Examinations Authority reports data leak of 16900 mainland exam applicants",
+        "dek": "The Hong Kong Examinations and Assessment Authority said a cybersecurity incident on systems for two international exams exposed names, dates of birth and emails of about 16900 mainland residents."
+      },
+      "zh": {
+        "headline": "考評局公布國際考試系統資料外洩 涉約1.69萬名內地申請人",
+        "dek": "香港考試及評核局表示，周四發現部分國際考試資訊系統發生網絡安全事故，約1.69萬名申請兩項國際考試的內地居住人士姓名、出生日期及電郵地址外洩。"
+      }
+    },
+    {
+      "id": "2026-10-31-lifestyle-hkpm-art-plaza",
+      "published_at": "2026-10-31T01:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "west-kowloon",
+        "palace-museum",
+        "art"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-lifestyle-hkpm-art-plaza.json",
+      "en": {
+        "headline": "Hong Kong Palace Museum outdoor Art Plaza Project ends on Monday",
+        "dek": "The free public art exhibition of six large installations inspired by traditional Chinese gardens remains open at the Museum Plaza in West Kowloon until 2 November."
+      },
+      "zh": {
+        "headline": "香港故宮文化博物館戶外藝術廣場計劃周一結束",
+        "dek": "以傳統中國園林為靈感的六組大型裝置免費戶外展覽，將於11月2日在西九龍博物館廣場閉幕。"
+      }
+    },
     {
       "id": "2026-10-30-city-hall-sculptures-theft",
       "published_at": "2026-10-30T23:25:00+08:00",
@@ -1980,94 +2026,6 @@
       "zh": {
         "headline": "議員關注新田科技城第二階段約272億元撥款申請",
         "dek": "發展局向立法會申請撥款，涵蓋土地平整、三寶樹濕地保育公園及淨水設施，作為科技城第二階段工程。"
-      }
-    },
-    {
-      "id": "2026-10-27-beautician-myanmar-scam-sentence",
-      "published_at": "2026-10-27T23:28:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "scam",
-        "myanmar",
-        "trafficking"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-beautician-myanmar-scam-sentence.json",
-      "en": {
-        "headline": "Beautician jailed four years for selling friends to Myanmar scam compound",
-        "dek": "District Court Judge Adriana Noelle Tse Ching described the defendant’s actions as vicious and inhumane after the two women were held for ransom."
-      },
-      "zh": {
-        "headline": "美容師誘騙友人賣至緬甸詐騙園區 判囚四年",
-        "dek": "區域法院法官謝沈智慧斥被告行為夕毒及泯滅人性，兩名事主被困近兩周後家人支付贖金才獲釋。"
-      }
-    },
-    {
-      "id": "2026-10-27-customs-speedboat-cigarettes",
-      "published_at": "2026-10-27T23:28:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "smuggling",
-        "cigarettes",
-        "sea"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-customs-speedboat-cigarettes.json",
-      "en": {
-        "headline": "Customs seize HK$10 million in illicit cigarettes from speedboat in southeast waters",
-        "dek": "Officers intercepted a high-powered speedboat without navigation lights off the Ninepin Group early on Tuesday and arrested two mainland men."
-      },
-      "zh": {
-        "headline": "海關東南水域截大馬力快艇 檢約一千萬元私煙拘兩人",
-        "dek": "關員於果洲群島東南對開截停沒有開啟航行燈的快艇，拘捕兩名內地男子，檢獲約223萬支懷疑私煙。"
-      }
-    },
-    {
-      "id": "2026-10-27-housing-officer-misconduct-plea",
-      "published_at": "2026-10-27T23:28:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "icac",
-        "housing",
-        "public-housing",
-        "misconduct"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-housing-officer-misconduct-plea.json",
-      "en": {
-        "headline": "Housing officer admits misconduct for falsely claiming approvals",
-        "dek": "A 36-year-old Housing Department estate officer pleaded guilty at West Kowloon Magistrates’ Courts to misconduct in public office after failing to submit two applications."
-      },
-      "zh": {
-        "headline": "房署主任承認公職人員行為失當 誝稱加戶及活動申請獲批",
-        "dek": "36歲房屋事務主任在西九龍裁判法院承認控罪，案件押後至11月10日判刑，須賠償約3.4萬元。"
-      }
-    },
-    {
-      "id": "2026-10-27-shau-kei-wan-water-restored",
-      "published_at": "2026-10-27T23:28:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "water-supply",
-        "shau-kei-wan",
-        "eastern-district",
-        "pipe-burst"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-27/2026-10-27-shau-kei-wan-water-restored.json",
-      "en": {
-        "headline": "Water supply resumes in Shau Kei Wan and parts of Sai Wan Ho from 9.30pm",
-        "dek": "The Water Supplies Department said emergency repairs to the damaged main on Shau Kei Wan Road were completed, with supply returning progressively from 9.30pm on Tuesday."
-      },
-      "zh": {
-        "headline": "筱箕灣及部分西灣河食水供應晚上九時半起陸續恢復",
-        "dek": "水務署表示，筱箕灣道受損食水管的緊急維修工程已完成，周二晚上九時半起供水陸續恢復正常。"
       }
     }
   ]
