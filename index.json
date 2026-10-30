@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-10-31T03:18:27+08:00",
+  "generated_at": "2026-10-31T07:05:06+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-10-31-lifestyle-halloween-citywide-finale",
+      "published_at": "2026-10-31T07:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "halloween",
+        "cosplay",
+        "tourism",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-lifestyle-halloween-citywide-finale.json",
+      "en": {
+        "headline": "Citywide Halloween cosplay parties take place across five districts today",
+        "dek": "The Hong Kong Tourism Board’s first Halloween Month culminates on Saturday with free cosplay street parties and events in Central, Lan Kwai Fong, Mong Kok, Tsim Sha Tsui East and Kai Tak."
+      },
+      "zh": {
+        "headline": "旅發局萬聖節月壓軸 五區今日舉行Cosplay街頭派對",
+        "dek": "香港旅遊發展局首個萬聖節月今日進入高潮，中環、蘭桂坊、旺角、尖沙咀東及啟德五區同日舉辦Cosplay慶祝活動。"
+      }
+    },
+    {
+      "id": "2026-10-31-sheung-shui-engineer-impaled",
+      "published_at": "2026-10-31T07:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sheung-shui",
+        "industrial-accident",
+        "housing",
+        "safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-sheung-shui-engineer-impaled.json",
+      "en": {
+        "headline": "Engineer injured after falling onto rebar at Sheung Shui housing site",
+        "dek": "A 32-year-old structural engineer was taken to hospital after a vertical rebar pierced his lower jaw while he was inspecting work at a Housing Department site on Friday morning."
+      },
+      "zh": {
+        "headline": "工程師上水房署地盤檢查鋼筋時失平衡 下顎被鐵枝插穿送院",
+        "dek": "周五早上上水清曉路一房屋署公營房屋地盤發生工業意外，一名32歲結構工程師下顎被垂直鋼筋插穿，送往醫院治理。"
+      }
+    },
     {
       "id": "2026-10-31-lifestyle-museum-carnival-cultural-centre",
       "published_at": "2026-10-31T03:20:00+08:00",
@@ -1826,139 +1871,6 @@
       "zh": {
         "headline": "嘔心食物博物館啟德AIRSIDE展出至11月下旬",
         "dek": "瑞典展覽在GATE33藝文館展出逾80款來自35國的爭議美食，設多感官體驗及試食吧，至11月26日。"
-      }
-    },
-    {
-      "id": "2026-10-28-hung-hom-rat-infestation",
-      "published_at": "2026-10-28T07:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "hung-hom",
-        "rats",
-        "fehd",
-        "hygiene"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-hung-hom-rat-infestation.json",
-      "en": {
-        "headline": "Councillor inspects Hung Hom alley after footage shows rats beside restaurant",
-        "dek": "District councillor Lam Tak-shing visited the Baker Circle site with the Food and Environmental Hygiene Department on Tuesday and called for stepped-up patrols and rodent control."
-      },
-      "zh": {
-        "headline": "區議員視察紅碩貝克圓環後巷鼠患 要求加強滅鼠",
-        "dek": "林志成周二聯同食環署及商場管理人員到場，要求加強巡查後巷、垃圾房及排水渠，並定期滅鼠。"
-      }
-    },
-    {
-      "id": "2026-10-28-lifestyle-sham-shui-po-gas-tank-art",
-      "published_at": "2026-10-28T07:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "art",
-        "sham-shui-po",
-        "exhibition",
-        "sustainability"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-lifestyle-sham-shui-po-gas-tank-art.json",
-      "en": {
-        "headline": "Artists transform retired gas tanks into exhibition pieces in Sham Shui Po",
-        "dek": "More than 20 artists rework blue LPG cylinders that once fuelled Hong Kong kitchens into contemporary works at The Bridge+ space, opening Wednesday."
-      },
-      "zh": {
-        "headline": "深水埗藝術展將退役石油氣罐變藝術品 周三開幕",
-        "dek": "逾二十位藝術家把承載港人回憶的藍色石油氣罐重塑成當代作品，於The Bridge+空間展出至11月8日。"
-      }
-    },
-    {
-      "id": "2026-10-28-strong-monsoon-signal",
-      "published_at": "2026-10-28T07:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "monsoon",
-        "hko"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-strong-monsoon-signal.json",
-      "en": {
-        "headline": "Observatory issues Strong Monsoon Signal for easterly winds",
-        "dek": "The Hong Kong Observatory raised the signal at 4.45am on Wednesday, warning of mean winds exceeding 40 km/h from the east with occasional gale-force gusts."
-      },
-      "zh": {
-        "headline": "天文台發出強烈季候風信號 預料吹偏東強風",
-        "dek": "天文台周三凌晨四時四十五分發出信號，預料本港吹偏東強風，平均風速每小時超過四十公里，陣風間中達烈風程度。"
-      }
-    },
-    {
-      "id": "2026-10-28-tsing-yi-mtr-indecent-assault",
-      "published_at": "2026-10-28T07:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "tsing-yi",
-        "mtr",
-        "indecent-assault",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-tsing-yi-mtr-indecent-assault.json",
-      "en": {
-        "headline": "Police arrest 56-year-old man over indecent assault at Tsing Yi MTR station",
-        "dek": "Officers identified the suspect through CCTV after a woman reported being assaulted at the station on Sunday and detained him at a bus terminus on Tuesday."
-      },
-      "zh": {
-        "headline": "警方拘捕56歲男子 涉青衣港鐵站非禮",
-        "dek": "事主周日報案指在青衣站被非禮，警方經閉路電視鎖定嫌疑，周二在巴士總站拘捕他。"
-      }
-    },
-    {
-      "id": "2026-10-28-lifestyle-food-carnival-halloween",
-      "published_at": "2026-10-28T03:20:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "food",
-        "kwai-chung",
-        "halloween",
-        "carnival"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-lifestyle-food-carnival-halloween.json",
-      "en": {
-        "headline": "Hong Kong Food Carnival runs through 1 November with Halloween free entry",
-        "dek": "The 13th edition at Kwai Chung Sports Ground features more than 330 booths across seven zones, with free admission for those in Halloween attire on 30 and 31 October."
-      },
-      "zh": {
-        "headline": "第十三屆香港美食嘉年華葵涌舉行至11月1日 萬聖夜穿主題服可免費入場",
-        "dek": "廠商會主辦的嘉年華設逾330個撤位、七大主題區，10月30及31日穿至少兩件萬聖節元素服飾或妝容可免入場費。"
-      }
-    },
-    {
-      "id": "2026-10-28-yuen-long-delivery-rider-collision",
-      "published_at": "2026-10-28T03:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "yuen-long",
-        "accident",
-        "delivery-rider",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-yuen-long-delivery-rider-collision.json",
-      "en": {
-        "headline": "Food delivery rider injured in Yuen Long motorcycle collision",
-        "dek": "A non-Chinese male rider suffered hand and leg abrasions after his motorcycle collided with a private car at a junction on Tuesday night."
-      },
-      "zh": {
-        "headline": "元朗私家車與外賣電單車相撞 送遞員手腳擦傷送院",
-        "dek": "周二晚約十時，馬田路右轉入告由路的私家車與電單車相撞，非華裔男送遞員被拋出後擦傷，送博愛醫院時清醒。"
       }
     }
   ]
