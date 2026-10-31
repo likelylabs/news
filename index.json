@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-10-31T17:12:05+08:00",
+  "generated_at": "2026-10-31T17:14:23+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-10-31-sai-kung-campsite-charcoal-rescue",
+      "published_at": "2026-10-31T17:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sai-kung",
+        "rescue",
+        "campsite"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-sai-kung-campsite-charcoal-rescue.json",
+      "en": {
+        "headline": "Man rescued after charcoal burning at Sai Kung campsite",
+        "dek": "Police found a 30-year-old man unconscious in a tent at Tai Mong Tsai campsite early Saturday after a Threads post prompted a report; he later regained consciousness."
+      },
+      "zh": {
+        "headline": "西貢營地男子燒炭 網民報警救起",
+        "dek": "警方周六凌晨接報後在大網仔營地帳幕內發現30歲男子昏迷，旁邊有燒過的炭，送院後回復清醒。"
+      }
+    },
+    {
+      "id": "2026-10-31-sheung-shui-massage-sudden-death",
+      "published_at": "2026-10-31T17:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sheung-shui",
+        "sudden-death",
+        "health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-sheung-shui-massage-sudden-death.json",
+      "en": {
+        "headline": "Man dies after collapsing at Sheung Shui foot massage parlour",
+        "dek": "A 55-year-old man was found unconscious after a session at a San Hong Street shop late Friday and was certified dead at North District Hospital."
+      },
+      "zh": {
+        "headline": "上水男光顧足浴店後暈倒送院不治",
+        "dek": "55歲黃姓男子周五深夜在新康街一間足浴店完成按摩後被發現昏迷，送往北區醫院後證實不治。"
+      }
+    },
     {
       "id": "2026-10-31-kwai-chung-paper-baler-finger",
       "published_at": "2026-10-31T17:12:00+08:00",
