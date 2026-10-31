@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-01T01:14:30+08:00",
+  "generated_at": "2026-11-01T01:16:41+08:00",
   "live_window_hours": 72,
-  "count": 82,
+  "count": 84,
   "articles": [
+    {
+      "id": "2026-11-01-apec-abtc-stay-extended-to-90-days",
+      "published_at": "2026-11-01T01:20:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "immigration",
+        "apec",
+        "business",
+        "visa"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-apec-abtc-stay-extended-to-90-days.json",
+      "en": {
+        "headline": "Immigration Department extends APEC Business Travel Card stay to 90 days from today",
+        "dek": "Holders who have obtained pre-clearance from Hong Kong can now stay visa-free for up to 90 days, up from 60, aligning with the Mainland's implementation date."
+      },
+      "zh": {
+        "headline": "入境處由今日起將APEC商務旅遊證免簽逗留期延至90天",
+        "dek": "已獲香港特區預先審批的持證人最長免簽證逗留期限由60天延長至90天，與內地實施日期一致。"
+      }
+    },
+    {
+      "id": "2026-11-01-lifestyle-museum-festival-carnival",
+      "published_at": "2026-11-01T01:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "museum",
+        "carnival",
+        "cultural-centre",
+        "free"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-lifestyle-museum-festival-carnival.json",
+      "en": {
+        "headline": "Museum Festival carnival continues today at Cultural Centre with pixel egg tart",
+        "dek": "The free Fun@Museum Carnival runs through Sunday at the Hong Kong Cultural Centre Piazza as part of Muse Fest HK 2026, which continues across 17 museums until 30 November."
+      },
+      "zh": {
+        "headline": "博物館節嘉年華今日續在文化中心舉行 巨型像素蛋泒及格仔茶檔亮相",
+        "dek": "免費「繽Fun博物館嘉年華」今明兩日在香港文化中心露天廣場舉行，屬香港博物館節2026一部分，17間博物館活動延至11月30日。"
+      }
+    },
     {
       "id": "2026-11-01-hong-kong-legal-week-2026-opens",
       "published_at": "2026-11-01T01:01:00+08:00",
