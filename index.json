@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-31T13:11:54+08:00",
+  "generated_at": "2026-10-31T15:24:33+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-10-31-ngau-tau-kok-woman-phone-scam",
+      "published_at": "2026-10-31T15:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "scam",
+        "ngau-tau-kok",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-ngau-tau-kok-woman-phone-scam.json",
+      "en": {
+        "headline": "Woman aged 66 loses HK$2.7 million in phone scam over alleged money laundering",
+        "dek": "Police said the Ngau Tau Kok resident transferred the sum after a caller claimed her online insurance account was linked to money laundering."
+      },
+      "zh": {
+        "headline": "牛頭角66歲婦遇電騙損失270萬元",
+        "dek": "警方指事主接獲來電，聲稱其網上購買保險的戶口涉洗黑錢，遂按指示轉帳。"
+      }
+    },
+    {
+      "id": "2026-10-31-police-arrest-58-youth-triad",
+      "published_at": "2026-10-31T15:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "triad",
+        "youth"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-police-arrest-58-youth-triad.json",
+      "en": {
+        "headline": "Police arrest 58 including 10 students in anti-triad operation targeting youth",
+        "dek": "Officers said triad groups had lured teenagers with promises of quick money into drug trafficking, wounding and other crimes."
+      },
+      "zh": {
+        "headline": "警方反三合會行動拘58人 包括10名學生",
+        "dek": "有組織罪案及三合會調查科指，黑幫以揺快錢為餌誘騙青少年參與販毒傷人等罪行。"
+      }
+    },
+    {
+      "id": "2026-10-31-tuen-mun-yau-oi-assault-robbery",
+      "published_at": "2026-10-31T15:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "tuen-mun",
+        "robbery",
+        "assault"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-tuen-mun-yau-oi-assault-robbery.json",
+      "en": {
+        "headline": "Man assaulted in failed robbery bid at Tuen Mun Yau Oi Estate",
+        "dek": "A 33-year-old man was injured but lost no property after two men in white tops attacked him outside Oi Tak House early Saturday."
+      },
+      "zh": {
+        "headline": "屯門友愛邨男夜歸遭兩男襲擊企圖行劫不果",
+        "dek": "33歲事主口部及手部擦傷，財物無失，兩名身穿白色上衣男子逃去。"
+      }
+    },
     {
       "id": "2026-10-31-shau-kei-wan-wah-kwong-parade",
       "published_at": "2026-10-31T13:15:00+08:00",
@@ -1719,95 +1785,6 @@
       "zh": {
         "headline": "政府周四公布宏福苑火警報告並提出圍標刑事化改革",
         "dek": "消息指行政長官李家超周四記者會公布獨立委員會調查結果，並闡述把樓宇維修圍標刑事化等措施。"
-      }
-    },
-    {
-      "id": "2026-10-28-hkust-third-medical-school-progress",
-      "published_at": "2026-10-28T15:20:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "hkust",
-        "medical-school",
-        "education",
-        "northern-metropolis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-hkust-third-medical-school-progress.json",
-      "en": {
-        "headline": "HKUST says third medical school building tops out ahead of schedule",
-        "dek": "The university reported that its interim Medical Education and Research Complex at Clear Water Bay topped out last week, with faculty recruitment progressing and the first 50 students targeted for 2028/29."
-      },
-      "zh": {
-        "headline": "科大指第三所醫學院大樓提前平頂 籌建進入新階段",
-        "dek": "大學表示清水灣校園的醫學教研綜合大樓上星期平頂，師資招聘進展順利，目標2028/29學年錄取首批50名學生。"
-      }
-    },
-    {
-      "id": "2026-10-28-hongkong-post-record-deficit",
-      "published_at": "2026-10-28T15:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hongkong-post",
-        "deficit",
-        "mail",
-        "e-commerce"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-hongkong-post-record-deficit.json",
-      "en": {
-        "headline": "Hongkong Post posts record HK$905 million deficit for 2025-26",
-        "dek": "The postal service recorded its ninth consecutive annual loss as mail volumes fell by a third over five years, with the Postmaster General citing protectionism and rising costs."
-      },
-      "zh": {
-        "headline": "香港郵政2025/26年度錄得9.05億元赤字創紀錄",
-        "dek": "郵政署年報顯示連續第九年虧蝕，郵件量五年下跌三分之一，署長吳文傑指保護主義及成本上升構成挑戰。"
-      }
-    },
-    {
-      "id": "2026-10-28-ipark1-fire-construction-materials",
-      "published_at": "2026-10-28T15:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "ipark1",
-        "fire",
-        "epd",
-        "shek-kwu-chau",
-        "waste"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-ipark1-fire-construction-materials.json",
-      "en": {
-        "headline": "EPD says Shek Kwu Chau incinerator fire likely started in construction materials",
-        "dek": "The Environmental Protection Department said preliminary findings point to materials on the roof of the third incineration module, not operations or stored waste, and has suspended intake."
-      },
-      "zh": {
-        "headline": "環保署指石鼓洲焚化爐火警初步涉建築材料起火",
-        "dek": "署方表示初步資料顯示起火於第三焚化模組屋頂建築材料，並非運作或儲存廢物引起，設施已暫停接收廢物。"
-      }
-    },
-    {
-      "id": "2026-10-28-standard-chartered-q3-profit",
-      "published_at": "2026-10-28T15:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "standard-chartered",
-        "earnings",
-        "banking",
-        "hong-kong-exchanges"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-standard-chartered-q3-profit.json",
-      "en": {
-        "headline": "Standard Chartered third-quarter profit rises 46 per cent, lifts outlook",
-        "dek": "The note-issuing bank reported net profit of US$1.5 billion for the quarter to September 30, beating forecasts on stronger wealth and trade income, and raised full-year income growth guidance."
-      },
-      "zh": {
-        "headline": "渣打第三季純利升百分之四十六 上調全年收入指引",
-        "dek": "這家發鈔銀行截至9月30日止季度純利達15億美元，優於預期，受財富管理及貿易貸款帶動，並提高全年收入增長預測。"
       }
     }
   ]
