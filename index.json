@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-31T19:11:17+08:00",
+  "generated_at": "2026-10-31T19:12:08+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-10-31-british-baby-influenza-repatriation",
+      "published_at": "2026-10-31T19:20:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "influenza",
+        "hospital",
+        "repatriation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-british-baby-influenza-repatriation.json",
+      "en": {
+        "headline": "Family appeals for private aircraft to fly critically ill British baby home from Hong Kong",
+        "dek": "Nine-month-old Matthew suffered three cardiac arrests after contracting influenza A during a family visit and cannot travel on commercial flights while ventilated."
+      },
+      "zh": {
+        "headline": "英籍嬰兒染甲流危殆 家屬呼籲捐贈私人飛機送返英國",
+        "dek": "九個月大男嬰馬修在港探親期間感染甲型流感並三次心跳停止，因需呼吸機無法乘搭商業航班。"
+      }
+    },
+    {
+      "id": "2026-10-31-building-repairs-lists-applications",
+      "published_at": "2026-10-31T19:20:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "building-maintenance",
+        "bernadette-linn",
+        "tai-po-fire",
+        "development"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-building-repairs-lists-applications.json",
+      "en": {
+        "headline": "Linn says applications for new building repairs lists double or triple previous numbers",
+        "dek": "The development secretary said about 150 consultants and 350 contractors have applied for pre-qualified lists under the new Building Maintenance Support and Services Council."
+      },
+      "zh": {
+        "headline": "甯漢豪：新維修名單申請量為以往兩至三倍",
+        "dek": "發展局局長指約有150名顧問及350名承建商申請加入新樓宇維修支援及服務委員會的預審名單。"
+      }
+    },
     {
       "id": "2026-10-31-paul-chan-strongest-growth-five-years",
       "published_at": "2026-10-31T19:10:00+08:00",
