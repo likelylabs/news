@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-31T09:16:00+08:00",
+  "generated_at": "2026-10-31T11:12:52+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-10-31-lifestyle-spooky-halloween-wan-chai",
+      "published_at": "2026-10-31T11:12:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "halloween",
+        "wan-chai",
+        "music",
+        "festival"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-lifestyle-spooky-halloween-wan-chai.json",
+      "en": {
+        "headline": "Spooky Halloween music carnival returns to Wan Chai Harbourfront",
+        "dek": "The three-day event organised by Live Nation Electronic Asia runs through Sunday at the Wan Chai Harbourfront Event Space with 9-metre installations and live music."
+      },
+      "zh": {
+        "headline": "Spooky Halloween音樂嘉年華回歸灣仔海濱",
+        "dek": "由Live Nation Electronic Asia主辦的三日活動於灣仔海濱活動空間舉行至周日，設有9米高裝置及現場音樂。"
+      }
+    },
     {
       "id": "2026-10-31-lifestyle-discovery-bay-halloween-night-market",
       "published_at": "2026-10-31T09:28:00+08:00",
@@ -1805,118 +1828,6 @@
       "zh": {
         "headline": "發展局指紅磡雙塔發展不會阻擋獅子山景觀",
         "dek": "發展局常任秘書長何珮玲表示，修訂後的海濱計劃包括公眾觀景台及約200個遊艇泊位，並增加住宅樓面。"
-      }
-    },
-    {
-      "id": "2026-10-28-dongshan-precision-ipo-debut",
-      "published_at": "2026-10-28T11:10:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "ipo",
-        "hong-kong-exchanges",
-        "ai",
-        "pcb"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-dongshan-precision-ipo-debut.json",
-      "en": {
-        "headline": "Suzhou Dongshan Precision shares fall on Hong Kong IPO debut",
-        "dek": "The printed circuit board maker’s stock dropped as much as 6 per cent after raising about HK$9.9 billion in a listing that tested appetite for AI-related shares."
-      },
-      "zh": {
-        "headline": "東山精密港股上市首日股價下挫 最高跌約百分之六",
-        "dek": "這家印刷電路板製造商集資約99億港元後，股價較發行價一度下跌百分之六，反映投資者對人工智能相關股份的審慎態度。"
-      }
-    },
-    {
-      "id": "2026-10-28-lifestyle-wine-dine-festival",
-      "published_at": "2026-10-28T11:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "food",
-        "festival",
-        "central",
-        "wine"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-lifestyle-wine-dine-festival.json",
-      "en": {
-        "headline": "Hong Kong Wine and Dine Festival opens at Central Harbourfront on Thursday",
-        "dek": "The Tourism Board’s four-day event runs from 29 October to 1 November with international wine pavilions and local culinary offerings at the harbourfront and Tamar Park."
-      },
-      "zh": {
-        "headline": "香港美酒佳餐巡禮周四中環海濱開幕 為期四日",
-        "dek": "旅遊發展局主辦的活動由10月29日至11月1日在中環海濱活動空間及添馬公園舉行，設多國酒展及本地美食。"
-      }
-    },
-    {
-      "id": "2026-10-28-shau-kei-wan-water-restored",
-      "published_at": "2026-10-28T11:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "shau-kei-wan",
-        "water-supply",
-        "wsd",
-        "eastern-district"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-shau-kei-wan-water-restored.json",
-      "en": {
-        "headline": "Water supply resumes in Shau Kei Wan after main repair",
-        "dek": "The Water Supplies Department said service began returning from 9.30pm on Tuesday following emergency repairs to a pipe damaged during roadworks, which had affected about 10,000 premises."
-      },
-      "zh": {
-        "headline": "笹箕灣水管維修完成 供水周二晚上九時半起逐步恢復",
-        "dek": "水務署表示，緊急維修完成後，笹箕灣及部分西灣河用戶的食水供應由周二晚上九時半起陸續恢復，早前事故影響約一萬戶。"
-      }
-    },
-    {
-      "id": "2026-10-28-customs-tsim-sha-tsui-herbs-misleading",
-      "published_at": "2026-10-28T09:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "tsim-sha-tsui",
-        "trade-descriptions",
-        "herbs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-customs-tsim-sha-tsui-herbs-misleading.json",
-      "en": {
-        "headline": "Customs arrests Tsim Sha Tsui salesman over untimely Chinese herb pricing",
-        "dek": "Officers detained a 30-year-old local man after he revealed the total price only after grinding selected herbal medicines into powder."
-      },
-      "zh": {
-        "headline": "海關拘捕尖沙咀藥房店員 涉中藥材磨粉後才開價",
-        "dek": "海關周二在尖沙咀一間藥房拘捕30歲本地男店員，指他在中藥材磨成粉末後才透露總價，涉嫌誤導性遺漏。"
-      }
-    },
-    {
-      "id": "2026-10-28-lifestyle-disgusting-food-museum-kai-tak",
-      "published_at": "2026-10-28T09:20:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "food",
-        "exhibition",
-        "kai-tak",
-        "quirky"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-lifestyle-disgusting-food-museum-kai-tak.json",
-      "en": {
-        "headline": "Disgusting Food Museum continues at Kai Tak AIRSIDE until late November",
-        "dek": "The Swedish exhibition displays more than 80 polarising foods from 35 countries with multi-sensory zones and a tasting bar at Gate33 Gallery."
-      },
-      "zh": {
-        "headline": "嘔心食物博物館啟德AIRSIDE展出至11月下旬",
-        "dek": "瑞典展覽在GATE33藝文館展出逾80款來自35國的爭議美食，設多感官體驗及試食吧，至11月26日。"
       }
     }
   ]
