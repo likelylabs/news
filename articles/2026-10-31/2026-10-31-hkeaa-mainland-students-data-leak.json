@@ -1,0 +1,31 @@
+{
+  "id": "2026-10-31-hkeaa-mainland-students-data-leak",
+  "published_at": "2026-10-31T21:05:00+08:00",
+  "category": "community",
+  "tags": ["education", "data-privacy", "hkeaa", "cybersecurity"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "hkeaa-mainland-students-data-leak-oct30",
+  "en": {
+    "headline": "Exams authority reports leak of personal data for 16900 mainland applicants",
+    "dek": "The Hong Kong Examinations and Assessment Authority said names, birth dates and email addresses from two international exams were exposed after a system breach discovered on Thursday.",
+    "body": [
+      "The Hong Kong Examinations and Assessment Authority said it had discovered a cybersecurity incident involving personal data of about 16,900 mainland residents who applied for two international examinations.",
+      "The authority said the leaked information included names, dates of birth and email addresses. It reported the matter to police and notified the Office of the Privacy Commissioner for Personal Data, and would co-operate fully with investigations.",
+      "The system concerned was used only for a small number of international examinations. Separate systems handle the Hong Kong Diploma of Secondary Education Examination and the majority of other international exams, and there was no evidence those had been affected.",
+      "The authority apologised to those affected and said it would take all feasible measures to minimise the impact. It had notified the relevant examination organisers and was arranging to contact the individuals concerned. An enquiry hotline and email address had been set up.",
+      "The authority added that it would continue reviewing the security of its information systems, strengthen protections and monitoring, and take further steps based on the investigation findings."
+    ]
+  },
+  "zh": {
+    "headline": "考評局：約16900名內地考生資料外洩涉兩項國際考試",
+    "dek": "香港考試及評核局表示，周四發現資訊系統事故，外洩姓名、出生日期及電郵地址，文憑試系統未受影響。",
+    "body": [
+      "香港考試及評核局表示，發現涉及約16900名申請兩項國際考試的內地居住人士個人資料外洩事故。",
+      "考評局指，外洩資料包括姓名、出生日期及電郵地址。局方已報警並通報個人資料私隱專員公署，會全力配合調查。",
+      "涉事系統只用於個別小規模國際考試。香港中學文憑試及絕大部分國際考試使用獨立系統，目前未有證據顯示受到影響。",
+      "考評局向受影響人士致歉，並會採取一切可行措施減低影響。局方已通報相關考試主辦機構，正跟進通知受影響人士的安排，並設立查詢熱線及電郵。",
+      "考評局表示會繼續全面檢視資訊系統保安措施，加強防護及監察，並因應調查結果採取適當後續行動。"
+    ]
+  }
+}
