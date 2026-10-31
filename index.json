@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-31T15:24:33+08:00",
+  "generated_at": "2026-10-31T17:12:05+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-10-31-kwai-chung-paper-baler-finger",
+      "published_at": "2026-10-31T17:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "industrial-accident",
+        "kwai-chung",
+        "labour",
+        "safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-kwai-chung-paper-baler-finger.json",
+      "en": {
+        "headline": "Man has finger severed by cardboard baler at Kwai Chung paper plant",
+        "dek": "A 69-year-old worker was taken to Princess Margaret Hospital after the machine cut part of his right ring finger while he was compressing cardboard this morning."
+      },
+      "zh": {
+        "headline": "葵涌廢紙廠男工遭紙皮打包機切斷無名指",
+        "dek": "69歲曾姓工人今早操作機器壓縮紙皮時右手無名指上截被切斷，清醒送往瑪嘉烈醫院治理。"
+      }
+    },
+    {
+      "id": "2026-10-31-western-district-foreign-man-drowning",
+      "published_at": "2026-10-31T17:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tragedy",
+        "western-district",
+        "rescue",
+        "kennedy-town"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-western-district-foreign-man-drowning.json",
+      "en": {
+        "headline": "Elderly foreign man dies after rescue from Western District waters",
+        "dek": "Firefighters pulled an 80-year-old man from the sea near the China Merchants pier in Kennedy Town after a friend reported a text message about entering the water."
+      },
+      "zh": {
+        "headline": "西環外籍男留短訊後蹈海 救起送院不治",
+        "dek": "警方接報一名約80歲外籍男子發短訊稱在堅尼地城海傍蹈海，消防員於招商局碼頭對開救起，送院後不治。"
+      }
+    },
     {
       "id": "2026-10-31-ngau-tau-kok-woman-phone-scam",
       "published_at": "2026-10-31T15:25:00+08:00",
