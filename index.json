@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-31T19:12:08+08:00",
+  "generated_at": "2026-10-31T21:05:42+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-10-31-customs-airport-cannabis-turtles",
+      "published_at": "2026-10-31T21:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "airport",
+        "drugs",
+        "endangered-species"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-customs-airport-cannabis-turtles.json",
+      "en": {
+        "headline": "Customs seize 5kg cannabis and 10 endangered turtles at airport",
+        "dek": "Officers arrested a 37-year-old mainland man over cannabis buds worth about HK$1.1 million found in his suitcase after a Bangkok flight, and intercepted turtles in parcels from the United States."
+      },
+      "zh": {
+        "headline": "海關機場檢獲5公斤大麻花及10隻受管制活龜",
+        "dek": "37歲內地男旅客從曼谷抵港，手提行李藏約5公斤大麻花市值約110萬元被捕；另在美國包裹檢獲10隻懷疑瀕危活龜。"
+      }
+    },
+    {
+      "id": "2026-10-31-hkeaa-mainland-students-data-leak",
+      "published_at": "2026-10-31T21:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "data-privacy",
+        "hkeaa",
+        "cybersecurity"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-hkeaa-mainland-students-data-leak.json",
+      "en": {
+        "headline": "Exams authority reports leak of personal data for 16900 mainland applicants",
+        "dek": "The Hong Kong Examinations and Assessment Authority said names, birth dates and email addresses from two international exams were exposed after a system breach discovered on Thursday."
+      },
+      "zh": {
+        "headline": "考評局：約16900名內地考生資料外洩涉兩項國際考試",
+        "dek": "香港考試及評核局表示，周四發現資訊系統事故，外洩姓名、出生日期及電郵地址，文憑試系統未受影響。"
+      }
+    },
+    {
+      "id": "2026-10-31-sha-tau-kok-road-taxi-girl",
+      "published_at": "2026-10-31T21:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "traffic-accident",
+        "sha-tau-kok",
+        "police",
+        "taxi"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-sha-tau-kok-road-taxi-girl.json",
+      "en": {
+        "headline": "Six-year-old girl injured after taxi hits her on Sha Tau Kok Road",
+        "dek": "Police arrested a 44-year-old taxi driver on suspicion of dangerous driving causing grievous bodily harm after the girl was hit while crossing near Ma Mei Ha."
+      },
+      "zh": {
+        "headline": "沙頭角公路的士撞傷過路6歲女童 司機涉危駕被捕",
+        "dek": "警方指下午約5時45分接報，女童腳部及頭部受傷但清醒，44歲的士司機涉嫌危險駕駛引致他人身體受嚴重傷害被捕。"
+      }
+    },
     {
       "id": "2026-10-31-british-baby-influenza-repatriation",
       "published_at": "2026-10-31T19:20:00+08:00",
