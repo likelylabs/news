@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-10-31T21:05:42+08:00",
+  "generated_at": "2026-10-31T23:20:24+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 82,
   "articles": [
+    {
+      "id": "2026-10-31-kmb-huanggang-sign-collision",
+      "published_at": "2026-10-31T23:20:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "kmb",
+        "huanggang",
+        "transport",
+        "border"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-kmb-huanggang-sign-collision.json",
+      "en": {
+        "headline": "KMB bus hits overhead sign at new Huanggang port, no injuries",
+        "dek": "The Transport Department said it had asked franchise bus operators to strengthen driver training after a B11 double-decker entered the wrong lane on Saturday afternoon."
+      },
+      "zh": {
+        "headline": "九巴B11皇崗口岸撞天花指示牌 無人受傷",
+        "dek": "運輸署表示關注事件，已要求專營巴士營辦商加強車長駕駛及路線培訓，確保往返皇崗口岸交匯處暢順安全。"
+      }
+    },
+    {
+      "id": "2026-10-31-seven-year-old-influenza-a-critical",
+      "published_at": "2026-10-31T23:20:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "influenza",
+        "health",
+        "hospital",
+        "children"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-seven-year-old-influenza-a-critical.json",
+      "en": {
+        "headline": "Seven-year-old girl in critical condition with influenza A septic shock",
+        "dek": "The Centre for Health Protection said the child with underlying illness developed symptoms on 29 October and remains critically ill at Tuen Mun Hospital after testing positive for influenza A (H1)."
+      },
+      "zh": {
+        "headline": "7歲長期病患女童染甲流併發敗血性休克 情況危殆",
+        "dek": "衞生防護中心指女童10月29日起現病徵，在屯門醫院兒童深切治療部留醫，呼吸道樣本對甲型（H1）流感病毒呈陽性。"
+      }
+    },
+    {
+      "id": "2026-10-31-sorrento-austin-road-west-fall",
+      "published_at": "2026-10-31T23:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "accident",
+        "west-kowloon",
+        "police",
+        "fall"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-sorrento-austin-road-west-fall.json",
+      "en": {
+        "headline": "Man falls from platform at Sorrento and strikes foreign domestic helper",
+        "dek": "Police said both remained conscious after the man was suspected to have lost his footing at a barbecue at the West Kowloon residential clubhouse on Saturday evening."
+      },
+      "zh": {
+        "headline": "西九擎天半島男子疑酒後失足墮平台壓中外傭",
+        "dek": "警方指晚上約7時43分接報，柯士甸道西1號一名男子從高處墮下壓中途經女外傭，兩人清醒分別送院。"
+      }
+    },
     {
       "id": "2026-10-31-customs-airport-cannabis-turtles",
       "published_at": "2026-10-31T21:05:00+08:00",
@@ -1780,162 +1846,6 @@
       "zh": {
         "headline": "鑑賞家節於亞洲國際博覽館首次舉辦　為政府資助國際旗艦展覽",
         "dek": "Informa Markets指，11月4至6日活動涵蓋超級遊艇、超跑車及名貴首飾等，並有維多利亞港及大嶼山的公眾體驗環節。"
-      }
-    },
-    {
-      "id": "2026-10-28-hkia-iata-one-id",
-      "published_at": "2026-10-28T23:17:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "hkia",
-        "airport",
-        "iata",
-        "biometrics",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-hkia-iata-one-id.json",
-      "en": {
-        "headline": "Hong Kong International Airport becomes first in world to receive IATA One ID…",
-        "dek": "The Airport Authority said the certification recognises its Flight Token biometric system, which more than 80 per cent of departing passengers can use across departure checkpoints."
-      },
-      "zh": {
-        "headline": "香港國際機場成為全球首個獲IATA One ID認證的機場",
-        "dek": "機場管理局指，認證肯定「登機易」生物特徵系統，超過八成離境旅客可於各檢查站使用。"
-      }
-    },
-    {
-      "id": "2026-10-28-mpox-case-41yo",
-      "published_at": "2026-10-28T23:17:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "mpox",
-        "health",
-        "chp",
-        "monkeypox"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-mpox-case-41yo.json",
-      "en": {
-        "headline": "Centre for Health Protection investigates new mpox case in 41-year-old man",
-        "dek": "The patient, who reported high-risk sexual contact in Hong Kong and abroad, is in stable condition at Princess Margaret Hospital after testing positive."
-      },
-      "zh": {
-        "headline": "衞生防護中心調查一宗䆲歲男子猴痘確診個案",
-        "dek": "病人在潛伏期內曾於本港及外地有高風險性接觸，現於瑪嘉烈醫院接受隔離治療，情況穩定。"
-      }
-    },
-    {
-      "id": "2026-10-28-tsuen-wan-restaurant-fire",
-      "published_at": "2026-10-28T23:17:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tsuen-wan",
-        "fire",
-        "restaurant"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-tsuen-wan-restaurant-fire.json",
-      "en": {
-        "headline": "Fire at Tsuen Wan restaurant sends thick smoke into nearby streets",
-        "dek": "About 20 employees and diners evacuated a ground-floor restaurant in Hau Tei Square around 5.14pm after heavy smoke was reported; firefighters extinguished the blaze."
-      },
-      "zh": {
-        "headline": "荃灣鱽地坊餐廳起火 濃煙湧向附近街道",
-        "dek": "下午約5時14分，鱽地坊一間地舖餐廳冒出濃煙，約20名職員及食客疏散，消防到場將火救熄。"
-      }
-    },
-    {
-      "id": "2026-10-28-subdivided-flats-grace-registration",
-      "published_at": "2026-10-28T21:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "subdivided-flats",
-        "housing-bureau",
-        "grace-period",
-        "yau-tsim-mong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-subdivided-flats-grace-registration.json",
-      "en": {
-        "headline": "Housing Bureau says 70 per cent of subdivided flats registered for grace period",
-        "dek": "The bureau told the legislature that 75,070 units in about 21,000 flats have been registered, with nearly half in Kowloon, covering most of the estimated 110,000 citywide."
-      },
-      "zh": {
-        "headline": "房屋局：約七成分間單位已登記寬限期",
-        "dek": "局方向立法會表示，約 21,000 個單位內的 75,070 個分間單位已登記，其中近半位於九龍，涵蓋全市估計約 11 萬個的大部分。"
-      }
-    },
-    {
-      "id": "2026-10-28-chris-sun-ai-collaboration",
-      "published_at": "2026-10-28T21:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "ai",
-        "labour",
-        "chris-sun",
-        "workforce"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-chris-sun-ai-collaboration.json",
-      "en": {
-        "headline": "Labour chief says humans remain masters in AI-driven workplace",
-        "dek": "Chris Sun told a university summit that demand for AI practitioners combining technical and domain skills would rise three- to fourfold, rejecting zero-sum replacement fears."
-      },
-      "zh": {
-        "headline": "勞福局局長：人工智能時代人機協作 人類仍是主導",
-        "dek": "孫玉薚在大學峰會指，結合技術與專業知識的人工智能從業者需求將增三至四倍，並否定零和取代論。"
-      }
-    },
-    {
-      "id": "2026-10-28-lifestyle-muse-fest-carnival",
-      "published_at": "2026-10-28T21:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "museum",
-        "lcsd",
-        "carnival",
-        "tsim-sha-tsui"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-lifestyle-muse-fest-carnival.json",
-      "en": {
-        "headline": "Museum Festival carnival brings nostalgic Hong Kong scenes to Tsim Sha Tsui this weekend",
-        "dek": "The free Fun at Museum Carnival on October 31 and November 1 at the Cultural Centre Piazza features a pixelated egg tart, a traditional Chinese medicine shop and other installations under the theme of collaging past…"
-      },
-      "zh": {
-        "headline": "香港博物館節周末嘉年華 尖沙咀重現懷舊香港場景",
-        "dek": "10月31日及11月1日文化中心露天廣場免費「繚Fun博物館嘉年華」，設像素蛋殿、傳統中藥舖等裝置，主題為拼貼今昔。"
-      }
-    },
-    {
-      "id": "2026-10-28-tai-po-missing-man-tung",
-      "published_at": "2026-10-28T21:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tai-po",
-        "missing-person",
-        "police",
-        "plover-cove"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-tai-po-missing-man-tung.json",
-      "en": {
-        "headline": "Police appeal for information on 80-year-old man missing in Tai Po",
-        "dek": "Tung Chung-yin was last seen at Wu Kau Tang in Plover Cove Country Park on Sunday, and his family reported him missing on Tuesday."
-      },
-      "zh": {
-        "headline": "警方呼籲提供大埔失踪80歲男子消息",
-        "dek": "董中賢上星期日最後於大埔船灣郊野公園烏蛟騰出現，家人周二報案。"
       }
     }
   ]
