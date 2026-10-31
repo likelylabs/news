@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-10-31T07:55:34+08:00",
+  "generated_at": "2026-10-31T09:16:00+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-10-31-lifestyle-discovery-bay-halloween-night-market",
+      "published_at": "2026-10-31T09:28:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "halloween",
+        "discovery-bay",
+        "market",
+        "family"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-lifestyle-discovery-bay-halloween-night-market.json",
+      "en": {
+        "headline": "Discovery Bay holds Halloween Night Market and first cosplay parade today",
+        "dek": "The free Halloween Night Market runs from 2pm to 9pm at DB Plaza Open Piazza today, alongside the debut cosplay parade and costume contest from 3pm to 5pm."
+      },
+      "zh": {
+        "headline": "愉景灣今日舉辦萬聖節夜市及首屆Cosplay巡遊",
+        "dek": "免費萬聖節夜市今日下午2時至9時在愉景廣場露天廣場舉行，首屆Cosplay巡遊及服裝比賽則於下午3時至5時進行。"
+      }
+    },
+    {
+      "id": "2026-10-31-fitness-coach-admiralty-bomb-threat",
+      "published_at": "2026-10-31T09:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "court",
+        "mtr",
+        "admiralty",
+        "online-game"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-fitness-coach-admiralty-bomb-threat.json",
+      "en": {
+        "headline": "Fitness coach jailed nine months for Admiralty MTR bomb threat in online game",
+        "dek": "A 31-year-old man was sentenced at Eastern Magistrates' Courts on Friday after messages sent during a League of Legends match threatened to explode Admiralty station on Lunar New Year's Day."
+      },
+      "zh": {
+        "headline": "兼職健身教練網遊揚言年初一炸金鐘站 罪成判囚9個月",
+        "dek": "東區裁判法院周五裁定31歲男子一項威脅摧毀或損壞財產罪成，判囚9個月。他在《英雄聯盟》對戰期間發出訊息，揚言農曆新年初一在金鐘站放炸彈。"
+      }
+    },
     {
       "id": "2026-10-31-lifestyle-halloween-citywide-finale",
       "published_at": "2026-10-31T07:05:00+08:00",
