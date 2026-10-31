@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-10-31T23:20:24+08:00",
+  "generated_at": "2026-11-01T01:14:30+08:00",
   "live_window_hours": 72,
   "count": 82,
   "articles": [
+    {
+      "id": "2026-11-01-hong-kong-legal-week-2026-opens",
+      "published_at": "2026-11-01T01:01:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "legal",
+        "department-of-justice",
+        "conference",
+        "unidroit"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-hong-kong-legal-week-2026-opens.json",
+      "en": {
+        "headline": "Hong Kong Legal Week 2026 opens Monday with Unidroit Asia-Pacific office launch",
+        "dek": "The Department of Justice’s five-day flagship event begins on 2 November with the opening of Unidroit’s first office outside Rome."
+      },
+      "zh": {
+        "headline": "香港法律周2026星期一展開 揭幕國際統一私法協會亞太辦公室",
+        "dek": "律政司旗艦活動由11月2日起一連五日舉行，首日舉行私法協會亞太聯絡辦公室開幕典禮。"
+      }
+    },
+    {
+      "id": "2026-11-01-two-men-bagel-house-sai-ying-pun",
+      "published_at": "2026-11-01T01:01:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "sai-ying-pun",
+        "opening",
+        "bagel"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-two-men-bagel-house-sai-ying-pun.json",
+      "en": {
+        "headline": "Singapore bagel brand Two Men Bagel House soft-opens in Sai Ying Pun",
+        "dek": "The hand-rolled New York-style bagels from the Singapore chain that has run since 2014 have arrived at King’s Hill on Western Street."
+      },
+      "zh": {
+        "headline": "新加坡貝果品牌Two Men Bagel House西營盤軟開業",
+        "dek": "自2014年經營的新加坡連鎖店，手搓紐約風格貝果進駐西街King’s Hill。"
+      }
+    },
     {
       "id": "2026-10-31-kmb-huanggang-sign-collision",
       "published_at": "2026-10-31T23:20:00+08:00",
@@ -1802,50 +1847,6 @@
       "zh": {
         "headline": "大埔男子遭四男持刀襲擊 警方追查四名疑犯",
         "dek": "一名41歲男子周三傍晚在百盛街一商店外遭四名男子襲擊，其中兩人持約一吻長刀具，案件交由反黑組跟進。"
-      }
-    },
-    {
-      "id": "2026-10-29-civil-service-pensions-rise",
-      "published_at": "2026-10-29T01:05:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "civil-service",
-        "pensions",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-29/2026-10-29-civil-service-pensions-rise.json",
-      "en": {
-        "headline": "Civil service pensions rise 2.1 per cent under adjustment mechanism",
-        "dek": "Secretary for the Civil Service Ingrid Yeung said the increase adds about HK$370 a month on average, with new retirees averaging HK$20,200 monthly."
-      },
-      "zh": {
-        "headline": "公務員退休金按機制增2.1%　平均每月多約370元",
-        "dek": "公務員事務局局長楊何蓓茵指，調整後平均每人每月額外支付約370元，上年度退休人員平均每月退休金約2.02萬元。"
-      }
-    },
-    {
-      "id": "2026-10-29-lifestyle-festival-of-connoisseurs",
-      "published_at": "2026-10-29T01:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "asiaworld-expo",
-        "luxury",
-        "yachts"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-29/2026-10-29-lifestyle-festival-of-connoisseurs.json",
-      "en": {
-        "headline": "Festival of Connoisseurs debuts at AsiaWorld-Expo as first government-funded…",
-        "dek": "Informa Markets said the 4-6 November event covers superyachts, supercars, fine jewellery and more, with linked public experiences on Victoria Harbour and Lantau."
-      },
-      "zh": {
-        "headline": "鑑賞家節於亞洲國際博覽館首次舉辦　為政府資助國際旗艦展覽",
-        "dek": "Informa Markets指，11月4至6日活動涵蓋超級遊艇、超跑車及名貴首飾等，並有維多利亞港及大嶼山的公眾體驗環節。"
       }
     }
   ]
