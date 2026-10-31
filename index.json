@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-01T01:18:04+08:00",
+  "generated_at": "2026-11-01T03:14:12+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-11-01-alice-mak-taipo-fire-apology",
+      "published_at": "2026-11-01T03:14:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "tai-po-fire",
+        "accountability",
+        "alice-mak",
+        "building-management",
+        "home-affairs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-alice-mak-taipo-fire-apology.json",
+      "en": {
+        "headline": "Mak apologises to Tai Po fire victims as accountability team member",
+        "dek": "Home and Youth Affairs Secretary Alice Mak said she would follow the Chief Executive’s instructions on reforms and Building Management Ordinance amendments."
+      },
+      "zh": {
+        "headline": "麥美娟作為問責團隊一員向宏福苑災民及社會致歉",
+        "dek": "民政及青年事務局局長表示會遵從行政長官指示，緊守崗位做好制度改革及《建築物管理條例》修訂工作。"
+      }
+    },
+    {
+      "id": "2026-11-01-lifestyle-agape-garden-tko-closing",
+      "published_at": "2026-11-01T03:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "tseung-kwan-o",
+        "closing",
+        "social-enterprise"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-lifestyle-agape-garden-tko-closing.json",
+      "en": {
+        "headline": "Social enterprise Agape Garden to close Tseung Kwan O shop in early December",
+        "dek": "The operator said the Housing Department notified it that the shop space would be reclaimed, following a similar closure of its Shek Kip Mei branch last year."
+      },
+      "zh": {
+        "headline": "社企膳心小館將軍澳店不獲房署續租 12月上旬結業",
+        "dek": "營運者稱接獲房屋署書面通知收回舖位，繼去年石硤尾店結業後，這是僅餘分店。"
+      }
+    },
     {
       "id": "2026-11-01-apec-abtc-stay-extended-to-90-days",
       "published_at": "2026-11-01T01:20:00+08:00",
