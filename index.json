@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-01T03:14:12+08:00",
+  "generated_at": "2026-11-01T07:04:09+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-11-01-lifestyle-mark-six-halloween-snowball-rollover",
+      "published_at": "2026-11-01T07:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "lottery",
+        "mark-six",
+        "jockey-club"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-lifestyle-mark-six-halloween-snowball-rollover.json",
+      "en": {
+        "headline": "Mark Six Halloween Snowball first prize rolls over to HK$108 million jackpot",
+        "dek": "No one claimed the top prize in Saturday’s draw, so the estimated first-division fund for Thursday’s draw reaches HK$108 million."
+      },
+      "zh": {
+        "headline": "六合彩萬聖節金多寶頭獎無人中 周四頭獎基金料達 1.08億",
+        "dek": "周六攪珠無人獨中頭獎，馬會估計周四攪珠頭獎基金可達 1.08億元。"
+      }
+    },
     {
       "id": "2026-11-01-alice-mak-taipo-fire-apology",
       "published_at": "2026-11-01T03:14:00+08:00",
@@ -1849,95 +1871,6 @@
       "zh": {
         "headline": "東北季候風撞天文大潮 沙田單車徑及大埔行人隧道輕微水浸",
         "dek": "周三晚水位較正常稍高，沙田城門河旁單車徑及大埔行人隧道出現積水，有市民需涉水或繞路。"
-      }
-    },
-    {
-      "id": "2026-10-29-mong-kok-jersey-shop-arrest",
-      "published_at": "2026-10-29T03:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "mong-kok",
-        "trade-descriptions",
-        "sportswear"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-29/2026-10-29-mong-kok-jersey-shop-arrest.json",
-      "en": {
-        "headline": "Customs arrests Mong Kok jersey shop owner over delayed deliveries and refunds",
-        "dek": "A 50-year-old man was arrested on Wednesday after 38 customers reported paying for jerseys, printing and badges that were not supplied on time, involving about HK$67,000."
-      },
-      "zh": {
-        "headline": "旺角球衣店收錢不交貨不退款 海關拘捕50歲負責人",
-        "dek": "海關周三拘捕旺角一間球衣店50歲男負責人，截至周二接獲38名顧客投訴，涉及約6.7萬元，指付款後未能按時交貨或退款。"
-      }
-    },
-    {
-      "id": "2026-10-29-lifestyle-ifla-world-congress",
-      "published_at": "2026-10-29T03:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "ifla",
-        "landscape",
-        "hung-hom",
-        "congress"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-29/2026-10-29-lifestyle-ifla-world-congress.json",
-      "en": {
-        "headline": "International landscape architects congress opens in Hong Kong for the first time",
-        "dek": "More than 1,000 participants from over 80 countries and regions are attending the three-day event at Kerry Hotel in Hung Hom under the theme of shifting watersheds and coastlines."
-      },
-      "zh": {
-        "headline": "國際園境師聯盟世界大會首度在港舉行",
-        "dek": "超過1,000名來自80多個國家及地區的參與者出席在紅磚嘉里酒店舉行的三日活動，主題為變遷中的流域與海岸線。"
-      }
-    },
-    {
-      "id": "2026-10-29-samsung-appliances-exit-hk",
-      "published_at": "2026-10-29T03:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "samsung",
-        "appliances",
-        "business",
-        "retail"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-29/2026-10-29-samsung-appliances-exit-hk.json",
-      "en": {
-        "headline": "Samsung ends large appliance sales in Hong Kong, shifts focus to TVs and mobiles",
-        "dek": "The company said it is concentrating resources on televisions, displays and mobile devices while maintaining after-sales support for products already sold."
-      },
-      "zh": {
-        "headline": "三星停售香港大型家電 資源轉向電視及流動裝置",
-        "dek": "三星香港表示正將資源集中於電視、顯示器及流動通訊裝置，並維持已售產品的售後及維修服務。"
-      }
-    },
-    {
-      "id": "2026-10-29-tai-po-knife-attack",
-      "published_at": "2026-10-29T03:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tai-po",
-        "police",
-        "knife-attack",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-29/2026-10-29-tai-po-knife-attack.json",
-      "en": {
-        "headline": "Police hunt four suspects after Tai Po knife attack injures 41-year-old man",
-        "dek": "The man was attacked by four men, two with knives, outside a shop on Pak Shing Street on Wednesday evening; the case has been passed to the anti-triad unit."
-      },
-      "zh": {
-        "headline": "大埔男子遭四男持刀襲擊 警方追查四名疑犯",
-        "dek": "一名41歲男子周三傍晚在百盛街一商店外遭四名男子襲擊，其中兩人持約一吻長刀具，案件交由反黑組跟進。"
       }
     }
   ]
