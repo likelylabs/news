@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-10-31T17:14:23+08:00",
+  "generated_at": "2026-10-31T19:09:21+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-10-31-paul-chan-strongest-growth-five-years",
+      "published_at": "2026-10-31T19:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "economy",
+        "paul-chan",
+        "growth",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-paul-chan-strongest-growth-five-years.json",
+      "en": {
+        "headline": "Chan says Hong Kong may record strongest growth in five years",
+        "dek": "The financial secretary said first-half growth of 5.1 per cent and continued momentum into the third quarter could make 2026 the strongest full-year figure in five years."
+      },
+      "zh": {
+        "headline": "陳茂波：香港今年經濟增長或為五年來最強",
+        "dek": "財政司司長指上半年增長5.1%，第三季勢頭持續，有機會令2026年全年增長成為過去五年最強。"
+      }
+    },
+    {
+      "id": "2026-10-31-primary-schools-ai-curriculum",
+      "published_at": "2026-10-31T19:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "ai",
+        "primary-schools",
+        "curriculum"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-primary-schools-ai-curriculum.json",
+      "en": {
+        "headline": "Primary schools to introduce AI-focused technology subject from 2028",
+        "dek": "The Education Bureau announced a provisional curriculum framework for Information and Innovation Technology, covering AI and programming, to start in Primary 1 and 4 from the 2028/29 school year."
+      },
+      "zh": {
+        "headline": "小學2028/29學年起推行資訊與創新科技科 涵蓋人工智能",
+        "dek": "教育局公布課程框架擬定稿，小一及小四由2028/29學年開始推行，學生可學習簡單與人工智能系統對話。"
+      }
+    },
     {
       "id": "2026-10-31-sai-kung-campsite-charcoal-rescue",
       "published_at": "2026-10-31T17:14:00+08:00",
@@ -1782,95 +1826,6 @@
       "zh": {
         "headline": "警方呼籲提供大埔失踪80歲男子消息",
         "dek": "董中賢上星期日最後於大埔船灣郊野公園烏蛟騰出現，家人周二報案。"
-      }
-    },
-    {
-      "id": "2026-10-28-company-redomiciliation-50",
-      "published_at": "2026-10-28T19:02:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "redomiciliation",
-        "financial-services",
-        "christopher-hui",
-        "funds"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-company-redomiciliation-50.json",
-      "en": {
-        "headline": "More than 50 companies have re-domiciled to Hong Kong, Hui says",
-        "dek": "The Financial Services and the Treasury Secretary said over 30 applications are still being processed since the regime took effect in May 2025, providing a clear path for overseas funds."
-      },
-      "zh": {
-        "headline": "許正宇：已促成逾50間公司遷冊來港 正處理逾30宗申請",
-        "dek": "財經事務及庫務局局長指，自去年5月制度落實後成效顯著，為海外基金落戶香港提供清晰路徑。"
-      }
-    },
-    {
-      "id": "2026-10-28-exports-september-surge",
-      "published_at": "2026-10-28T19:02:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "exports",
-        "trade",
-        "ai",
-        "census-and-statistics"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-exports-september-surge.json",
-      "en": {
-        "headline": "Hong Kong exports surge 64.9 per cent in September, fastest in over 40 years",
-        "dek": "The Census and Statistics Department said the value of total exports reached HK$762.6 billion, driven by AI-related electronics, marking the twentieth consecutive month of double-digit growth."
-      },
-      "zh": {
-        "headline": "香港9月出口按年升64.9% 創逾40年最快增速",
-        "dek": "政府統計處公布，9月整體出口貨值達7626億元，受人工智能相關電子產品帶動，連續第20個月錄得雙位數增長。"
-      }
-    },
-    {
-      "id": "2026-10-28-huanggang-halloween-weekend",
-      "published_at": "2026-10-28T19:02:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "huanggang",
-        "border",
-        "halloween",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-huanggang-halloween-weekend.json",
-      "en": {
-        "headline": "Government prioritises public transport at Huanggang for Halloween weekend peak",
-        "dek": "Chief Secretary Chan Kwok-ki said northbound departures from 11pm to 2am from Friday will be the busiest period, with private cars potentially facing waits of over an hour."
-      },
-      "zh": {
-        "headline": "政府料萬聖節周末深宵皇崗北行最繁忙 公共交通優先放行",
-        "dek": "政務司司長陳國基表示，周五起一連三日晚上11時至凌晨2時將是新皇崗口岸北行出境高峰，私家車輪候或超過一小時。"
-      }
-    },
-    {
-      "id": "2026-10-28-wang-fuk-fire-report-reforms",
-      "published_at": "2026-10-28T17:20:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "tai-po",
-        "wang-fuk-court",
-        "fire",
-        "building-safety",
-        "bid-rigging"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-wang-fuk-fire-report-reforms.json",
-      "en": {
-        "headline": "Government to release Wang Fuk Court fire report and outline bid-rigging reforms on…",
-        "dek": "Sources say Chief Executive John Lee will announce criminal penalties for bid-rigging and other measures at a press conference as the independent committee's findings are made public."
-      },
-      "zh": {
-        "headline": "政府周四公布宏福苑火警報告並提出圍標刑事化改革",
-        "dek": "消息指行政長官李家超周四記者會公布獨立委員會調查結果，並闡述把樓宇維修圍標刑事化等措施。"
       }
     }
   ]
