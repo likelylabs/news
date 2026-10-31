@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-31T11:12:52+08:00",
+  "generated_at": "2026-10-31T13:11:54+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-10-31-shau-kei-wan-wah-kwong-parade",
+      "published_at": "2026-10-31T13:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "shau-kei-wan",
+        "festival",
+        "transport",
+        "parade",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-10-31/2026-10-31-shau-kei-wan-wah-kwong-parade.json",
+      "en": {
+        "headline": "Shau Kei Wan streets intermittently closed for Wah Kwong Festival parade",
+        "dek": "Transport Department advises drivers to avoid the area as roads close from 11am to 1pm today for the traditional celebration."
+      },
+      "zh": {
+        "headline": "筱箕灣華光先師寶誕巡遊 多條街道間歇封閉",
+        "dek": "運輸署指今日上午11時至下午1時實施封路，方便傳統巡遊，駕駛者應避免前往受影響區域。"
+      }
+    },
     {
       "id": "2026-10-31-lifestyle-spooky-halloween-wan-chai",
       "published_at": "2026-10-31T11:12:00+08:00",
@@ -1785,49 +1808,6 @@
       "zh": {
         "headline": "渣打第三季純利升百分之四十六 上調全年收入指引",
         "dek": "這家發鈔銀行截至9月30日止季度純利達15億美元，優於預期，受財富管理及貿易貸款帶動，並提高全年收入增長預測。"
-      }
-    },
-    {
-      "id": "2026-10-28-home-prices-september-rise",
-      "published_at": "2026-10-28T13:10:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "property",
-        "housing",
-        "rating-and-valuation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-home-prices-september-rise.json",
-      "en": {
-        "headline": "Private home prices rise for second straight month in September",
-        "dek": "The Rating and Valuation Department said the official index climbed 0.19 per cent to 320.8 while rents reached a new high after 11 months of gains."
-      },
-      "zh": {
-        "headline": "差估署指9月樓價連升兩個月 租金指數再創新高",
-        "dek": "私人住宅售價指數報320.8，按月升0.19%，按年升9.3%。租金指數連升11個月至212.2。"
-      }
-    },
-    {
-      "id": "2026-10-28-hung-hom-waterfront-revised-plan",
-      "published_at": "2026-10-28T13:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "hung-hom",
-        "development",
-        "harbourfront",
-        "lion-rock"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-28/2026-10-28-hung-hom-waterfront-revised-plan.json",
-      "en": {
-        "headline": "Development Bureau says Hung Hom twin towers will not block Lion Rock view",
-        "dek": "Permanent Secretary Doris Ho said the revised waterfront plan includes a public viewing platform and about 200 yacht berths while increasing residential floor area."
-      },
-      "zh": {
-        "headline": "發展局指紅磡雙塔發展不會阻擋獅子山景觀",
-        "dek": "發展局常任秘書長何珮玲表示，修訂後的海濱計劃包括公眾觀景台及約200個遊艇泊位，並增加住宅樓面。"
       }
     }
   ]
