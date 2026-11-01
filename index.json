@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-01T22:05:28+08:00",
+  "generated_at": "2026-11-02T00:20:25+08:00",
   "live_window_hours": 72,
   "count": 80,
   "articles": [
+    {
+      "id": "2026-11-02-liantang-port-100-million-crossings",
+      "published_at": "2026-11-02T00:20:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "liantang",
+        "heung-yuen-wai",
+        "border",
+        "crossings"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-liantang-port-100-million-crossings.json",
+      "en": {
+        "headline": "Liantang Port records over 100 million passenger crossings in six years",
+        "dek": "Shenzhen border authorities said the Heung Yuen Wai/Liantang checkpoint has handled more than 100 million inbound and outbound passenger trips and over 6 million vehicles since opening."
+      },
+      "zh": {
+        "headline": "蓮塘口岸開通六年累計出入境人次突破1億",
+        "dek": "深圳出入境邊防檢查總站表示，蓮塘/香園圍口岸自開通以來已查驗超過1億人次及600萬架次車輛。"
+      }
+    },
+    {
+      "id": "2026-11-02-lifestyle-hk-tennis-open-main-draw",
+      "published_at": "2026-11-02T00:20:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "lifestyle",
+        "tennis",
+        "victoria-park",
+        "wta"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-lifestyle-hk-tennis-open-main-draw.json",
+      "en": {
+        "headline": "Hong Kong Tennis Open main draw begins at Victoria Park",
+        "dek": "The Prudential Hong Kong Tennis Open main-draw matches start on Monday at Victoria Park Tennis Stadium, with Venus Williams among the players on the opening day schedule."
+      },
+      "zh": {
+        "headline": "香港網球公開賽正賽今日在維園開打",
+        "dek": "保誠香港網球公開賽單打正賽周一在維多利亞公園網球場展開，開幕日賽程包括維納斯·威廉姆斯的比賽。"
+      }
+    },
     {
       "id": "2026-11-01-bar-association-bid-rigging-report",
       "published_at": "2026-11-01T22:10:00+08:00",
@@ -1751,50 +1795,6 @@
       "zh": {
         "headline": "大館監獄庭園辦「藝裝萬聖夜」",
         "dek": "免費活動周五六晚七時至十時舉行，歡迎以藝術靈感裝扮的訪客在燈光裝置中成為活的藝術品。"
-      }
-    },
-    {
-      "id": "2026-10-29-cfs-japan-dried-fish-saitama",
-      "published_at": "2026-10-29T23:19:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "food-safety",
-        "japan",
-        "import",
-        "cfs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-29/2026-10-29-cfs-japan-dried-fish-saitama.json",
-      "en": {
-        "headline": "Centre for Food Safety probes suspected Japan import ban breach on dried fish",
-        "dek": "A batch of dried fish product with almond processed in Saitama Prefecture after the 2023 order was sealed during inspection and has not entered the market."
-      },
-      "zh": {
-        "headline": "食安中心跟進疑違反日本水產輸入禁令的杏仁魚乾",
-        "dek": "一批在2023年命令生效後於埼玉縣加工的杏仁魚乾產品，在進口檢查中被發現並已標示封存，未流入市場。"
-      }
-    },
-    {
-      "id": "2026-10-29-hkia-aci-apac-meeting",
-      "published_at": "2026-10-29T23:19:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "hkia",
-        "aviation",
-        "airport-authority",
-        "aci"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-29/2026-10-29-hkia-aci-apac-meeting.json",
-      "en": {
-        "headline": "Hong Kong International Airport hosts Airports Council regional meeting",
-        "dek": "Leaders from 20 airports discussed infrastructure investment, capacity and sustainability as the two-day Asia-Pacific and Middle East Regional Council session ended on Thursday."
-      },
-      "zh": {
-        "headline": "香港國際機場主辦國際機場協會亞太中東區域理事會會議",
-        "dek": "來自20個機場的領袖出席為期兩日的會議，周四圓滿結束，討論基建投資、擴容及可持續發展等議題。"
       }
     }
   ]
