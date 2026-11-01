@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-01T18:10:25+08:00",
+  "generated_at": "2026-11-01T20:07:07+08:00",
   "live_window_hours": 72,
   "count": 80,
   "articles": [
+    {
+      "id": "2026-11-01-airport-mainland-man-cannabis-9kg",
+      "published_at": "2026-11-01T20:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "drugs",
+        "airport",
+        "customs",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-airport-mainland-man-cannabis-9kg.json",
+      "en": {
+        "headline": "Police seize about 9kg of suspected cannabis from mainland man at airport",
+        "dek": "A 22-year-old man was arrested on Sunday morning after officers found roughly 30 packs of cannabis flowers in his luggage and backpack, with an estimated street value of HK$1.3 million."
+      },
+      "zh": {
+        "headline": "機場截查22歲內地男 檢約9公斤懷疑大麻花 市值130萬",
+        "dek": "西九龍反三合會人員周日早上在入境大堂截查，於男子行李箱及背包內檢獲約30包懷疑大麻花，他涉嫌販運危險藥物被捕。"
+      }
+    },
+    {
+      "id": "2026-11-01-lifestyle-museum-festival-carnival-ends",
+      "published_at": "2026-11-01T20:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "museum",
+        "culture",
+        "tsim-sha-tsui",
+        "festival"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-lifestyle-museum-festival-carnival-ends.json",
+      "en": {
+        "headline": "Hong Kong Museum Festival 2026 carnival ends today at Cultural Centre",
+        "dek": "The free two-day opening event at the Hong Kong Cultural Centre piazza featured pixelated old Hong Kong installations including a giant egg tart and a traditional medicine shop."
+      },
+      "zh": {
+        "headline": "香港博物館節2026開幕嘉年華今日結束 文化中心露天廣場",
+        "dek": "一連兩日免費活動以「拼貼今昔，香港故事」為主題，設有格仔茶檔、巨型像素蛋泒及傳統中藥舖等裝置。"
+      }
+    },
+    {
+      "id": "2026-11-01-tko-motorcycle-collision-arrest",
+      "published_at": "2026-11-01T20:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "traffic",
+        "tseung-kwan-o",
+        "accident",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-tko-motorcycle-collision-arrest.json",
+      "en": {
+        "headline": "Police arrest private car driver after motorcycle collision in Tseung Kwan O",
+        "dek": "A motorcyclist was trapped under a private car near King Lam Estate around noon on Sunday and later rescued conscious; the car driver was arrested on suspicion of dangerous driving."
+      },
+      "zh": {
+        "headline": "將軍澳私家車與電單車相撞 鐵騎士一度困車底 司機涉危駕被捕",
+        "dek": "周日中午佳景路近景林邨發生碰撞，電單車男司機被捲入車底獲救，清醒送院；私家車男司機涉嫌危險駕駛被捕。"
+      }
+    },
     {
       "id": "2026-11-01-customs-filipino-cocaine-airport",
       "published_at": "2026-11-01T18:15:00+08:00",
@@ -1726,72 +1795,6 @@
       "zh": {
         "headline": "深圳灣口岸周五六晚延長通關至凌晨兩時 分流皇崗壓力",
         "dek": "港府宣布十月三十及三十一日晚旅客及客車清關由午夜延長兩小時至翌日凌晨二時，以紓緩萬聖節周末深宵跨境人流車流。"
-      }
-    },
-    {
-      "id": "2026-10-29-abby-choi-trial-dna-officer",
-      "published_at": "2026-10-29T19:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "abby-choi",
-        "court",
-        "high-court",
-        "dna"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-29/2026-10-29-abby-choi-trial-dna-officer.json",
-      "en": {
-        "headline": "Police officer denies mishandling DNA samples in Abby Choi trial",
-        "dek": "Sergeant Lam Chun rejected claims in the High Court that samples from the victim’s ex-husband were not properly labelled or sealed before laboratory testing."
-      },
-      "zh": {
-        "headline": "蔡天鳳案審訊 警官否認不當處理DNA樣本",
-        "dek": "林警司在高等法院否認未妥善標示及密封被告鄧港智的口腔拭子樣本，亦否認逮捕時使用過度武力。"
-      }
-    },
-    {
-      "id": "2026-10-29-peak-light-show-cancelled",
-      "published_at": "2026-10-29T19:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tourism",
-        "the-peak",
-        "hktb",
-        "light-show"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-29/2026-10-29-peak-light-show-cancelled.json",
-      "en": {
-        "headline": "Government drops Peak light installations after local concerns",
-        "dek": "The Tourism Board will remove all related equipment along Lugard Road and Harlech Road after officials concluded the scaled-down project no longer justified proceeding."
-      },
-      "zh": {
-        "headline": "政府決定不再推展山頂光影匯 旅發局將拆除裝置",
-        "dek": "當局綜合考慮地區意見及縮減後預期成效，認為無迫切需要繼續，旅發局會盡快拆除盧吉道及夏力道相關裝置並修復環境。"
-      }
-    },
-    {
-      "id": "2026-10-29-wong-tai-sin-water-pipe-burst",
-      "published_at": "2026-10-29T19:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "water",
-        "wong-tai-sin",
-        "pipe-burst",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-29/2026-10-29-wong-tai-sin-water-pipe-burst.json",
-      "en": {
-        "headline": "Water supply cut at Upper Wong Tai Sin Estate after pipe burst",
-        "dek": "The Water Supplies Department expects fresh water to resume by 3am on Friday after a burst on Wong Tai Sin Road closed a stretch of the road and diverted several bus routes."
-      },
-      "zh": {
-        "headline": "黃大仙上邨爆水管全邨停水 料明凌晨三時恢復",
-        "dek": "黃大仙道近馬仔坑道水管爆裂，黃大仙上邨包括商場暫停食水供應，水務署調派水車，運輸署封閉一段路面，多條巴士改道。"
       }
     }
   ]
