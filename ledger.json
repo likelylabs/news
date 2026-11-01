@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "city-hall-chung-yeung-ceremony-2026",
-      "id": "2026-10-18-city-hall-chung-yeung-ceremony",
-      "first_seen": "2026-10-18T09:15:00+08:00",
-      "headline_en": "Government holds Chung Yeung ceremony at City Hall to honour wartime defenders"
-    },
-    {
-      "key": "yellow-fire-danger-warning-oct18",
-      "id": "2026-10-18-yellow-fire-danger-warning-oct18",
-      "first_seen": "2026-10-18T09:15:00+08:00",
-      "headline_en": "Observatory issues yellow fire danger warning on Chung Yeung morning"
-    },
-    {
       "key": "lifestyle-gloomie-museum-harbour-city",
       "id": "2026-10-18-lifestyle-gloomie-museum",
       "first_seen": "2026-10-18T13:25:00+08:00",
@@ -2501,7 +2489,19 @@
       "id": "2026-11-01-tko-bicycles-arson-po-ning-road",
       "first_seen": "2026-11-01T09:20:00+08:00",
       "headline_en": "Police treat fire that burned nine bicycles in Hang Hau as arson"
+    },
+    {
+      "key": "hong-kong-sixes-2026-finals-day",
+      "id": "2026-11-01-hong-kong-sixes-finals-day",
+      "first_seen": "2026-11-01T11:15:00+08:00",
+      "headline_en": "Hong Kong Sixes reaches finals day with Cup final set for afternoon"
+    },
+    {
+      "key": "yellow-fire-danger-warning-nov1",
+      "id": "2026-11-01-yellow-fire-danger-warning",
+      "first_seen": "2026-11-01T11:15:00+08:00",
+      "headline_en": "Observatory issues yellow fire danger warning as risk stays high"
     }
   ],
-  "updated_at": "2026-11-01T09:14:05+08:00"
+  "updated_at": "2026-11-01T11:09:48+08:00"
 }
