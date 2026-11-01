@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-01T20:07:29+08:00",
+  "generated_at": "2026-11-01T22:05:28+08:00",
   "live_window_hours": 72,
   "count": 80,
   "articles": [
+    {
+      "id": "2026-11-01-bar-association-bid-rigging-report",
+      "published_at": "2026-11-01T22:10:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "bar-association",
+        "bid-rigging",
+        "tai-po-fire",
+        "competition",
+        "building-management"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-bar-association-bid-rigging-report.json",
+      "en": {
+        "headline": "Bar Association backs criminalising bid-rigging and proposes about 50 law changes",
+        "dek": "The Hong Kong Bar Association's Tai Po fire task force report, released on Sunday, supports a dual civil-criminal track under the Competition Ordinance while urging clear definitions, and suggests dual-envelope…"
+      },
+      "zh": {
+        "headline": "大律師公會支持圍標刑事化 提約50項修例建議",
+        "dek": "大律師公會大埔火災法律研究小組周日發表報告，原則支持修訂《競爭條例》將圍標刑事化，並與現行民事執法雙軌並行，同時促請罪行元素定義清晰，並建議法團大型工程採雙信封投標。"
+      }
+    },
+    {
+      "id": "2026-11-01-flu-expert-rapid-deterioration",
+      "published_at": "2026-11-01T22:10:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "flu",
+        "influenza",
+        "health",
+        "paediatric",
+        "kwan-yat-wah"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-flu-expert-rapid-deterioration.json",
+      "en": {
+        "headline": "Expert says many flu patients deteriorating faster this season, research under way",
+        "dek": "Former Asian Society for Pediatric Infectious Diseases president Kwan Yat-wah noted higher influenza A activity and rapid worsening in some patients, including children with low blood pressure or encephalitis, and…"
+      },
+      "zh": {
+        "headline": "關日華指今季流感患者病情轉差較快 正研究病毒基因變化",
+        "dek": "亞洲兒童傳染病學會前會長關日華表示，近期甲型流感活躍，今季不少患者病情較快惡化，部分兒童出現血壓低、腦炎等，正研究是否與病毒基因改變有關。"
+      }
+    },
     {
       "id": "2026-11-01-airport-mainland-man-cannabis-9kg",
       "published_at": "2026-11-01T20:05:00+08:00",
@@ -1749,52 +1795,6 @@
       "zh": {
         "headline": "香港國際機場主辦國際機場協會亞太中東區域理事會會議",
         "dek": "來自20個機場的領袖出席為期兩日的會議，周四圓滿結束，討論基建投資、擴容及可持續發展等議題。"
-      }
-    },
-    {
-      "id": "2026-10-29-chung-hom-kok-jewellery-theft",
-      "published_at": "2026-10-29T21:07:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "theft",
-        "jewellery",
-        "chung-hom-kok",
-        "police",
-        "southern-district"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-29/2026-10-29-chung-hom-kok-jewellery-theft.json",
-      "en": {
-        "headline": "Police investigate HK$40 million jewellery theft from Chung Hom Kok home",
-        "dek": "A 56-year-old woman reported a pearl necklace valued at about HK$39 million and a diamond necklace worth HK$700,000 missing after returning from Britain."
-      },
-      "zh": {
-        "headline": "春碣角獨立屋報失近四千萬元珠寶 警方列盜竊調查",
-        "dek": "56歲女戶主返港後發現衣帽間內一條約值三千九百萬元珍珠頸鏈及一條七十萬元鑽石頸鏈失蹤，屋內無撬毀痕迹。"
-      }
-    },
-    {
-      "id": "2026-10-29-shenzhen-bay-extended-hours-halloween",
-      "published_at": "2026-10-29T21:07:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "border",
-        "shenzhen-bay",
-        "halloween",
-        "huanggang",
-        "cross-boundary"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-29/2026-10-29-shenzhen-bay-extended-hours-halloween.json",
-      "en": {
-        "headline": "Shenzhen Bay Port to stay open until 2am Friday and Saturday nights",
-        "dek": "Passenger and coach clearance will be extended by two hours on 30 and 31 October to ease expected late-night pressure at Huanggang over the Halloween weekend."
-      },
-      "zh": {
-        "headline": "深圳灣口岸周五六晚延長通關至凌晨兩時 分流皇崗壓力",
-        "dek": "港府宣布十月三十及三十一日晚旅客及客車清關由午夜延長兩小時至翌日凌晨二時，以紓緩萬聖節周末深宵跨境人流車流。"
       }
     }
   ]

@@ -1,24 +1,6 @@
 {
   "covered": [
     {
-      "key": "customs-airport-cocaine-cannabis-oct17-18",
-      "id": "2026-10-18-customs-airport-drugs-seizure",
-      "first_seen": "2026-10-18T21:10:00+08:00",
-      "headline_en": "Customs seize cocaine and cannabis worth HK$6.8 million at airport, arrest two"
-    },
-    {
-      "key": "long-win-bus-skycity-railing-crash-oct18",
-      "id": "2026-10-18-long-win-bus-skycity-crash",
-      "first_seen": "2026-10-18T21:10:00+08:00",
-      "headline_en": "Long Win bus hits railing at Airport Skycity terminus, no one injured"
-    },
-    {
-      "key": "yuen-long-village-house-drug-depot-oct17",
-      "id": "2026-10-18-yuen-long-village-drug-raid",
-      "first_seen": "2026-10-18T21:10:00+08:00",
-      "headline_en": "Police arrest Pakistani couple over HK$22 million drug depot in Yuen Long village house"
-    },
-    {
       "key": "asian-para-games-officials-attendance-oct18",
       "id": "2026-10-18-asian-para-games-officials-attendance",
       "first_seen": "2026-10-18T23:21:00+08:00",
@@ -2477,7 +2459,19 @@
       "id": "2026-11-01-tko-motorcycle-collision-arrest",
       "first_seen": "2026-11-01T20:05:00+08:00",
       "headline_en": "Police arrest private car driver after motorcycle collision in Tseung Kwan O"
+    },
+    {
+      "key": "bar-association-bid-rigging-report-nov1",
+      "id": "2026-11-01-bar-association-bid-rigging-report",
+      "first_seen": "2026-11-01T22:10:00+08:00",
+      "headline_en": "Bar Association backs criminalising bid-rigging and proposes about 50 law changes"
+    },
+    {
+      "key": "flu-expert-rapid-deterioration-nov1",
+      "id": "2026-11-01-flu-expert-rapid-deterioration",
+      "first_seen": "2026-11-01T22:10:00+08:00",
+      "headline_en": "Expert says many flu patients deteriorating faster this season, research under way"
     }
   ],
-  "updated_at": "2026-11-01T20:07:29+08:00"
+  "updated_at": "2026-11-01T22:05:28+08:00"
 }
