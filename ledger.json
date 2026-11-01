@@ -1,24 +1,6 @@
 {
   "covered": [
     {
-      "key": "lifestyle-gloomie-museum-harbour-city",
-      "id": "2026-10-18-lifestyle-gloomie-museum",
-      "first_seen": "2026-10-18T13:25:00+08:00",
-      "headline_en": "LeonLollipop’s first solo show Gloomie Museum runs at Harbour City until 25 October"
-    },
-    {
-      "key": "oases-next-batch-enterprises-oct22",
-      "id": "2026-10-18-oases-next-batch-strategic-enterprises",
-      "first_seen": "2026-10-18T13:25:00+08:00",
-      "headline_en": "OASES to announce next batch of 10 to 20 strategic enterprises on Thursday"
-    },
-    {
-      "key": "sham-shui-po-fu-cheong-suicide-oct18",
-      "id": "2026-10-18-sham-shui-po-man-found-hanged",
-      "first_seen": "2026-10-18T13:25:00+08:00",
-      "headline_en": "Man found hanged in Sham Shui Po estate room dies at hospital"
-    },
-    {
       "key": "aberdeen-centre-parknshop-smoke-oct18",
       "id": "2026-10-18-aberdeen-centre-supermarket-fire",
       "first_seen": "2026-10-18T15:25:00+08:00",
@@ -2519,7 +2501,19 @@
       "id": "2026-11-01-newspapers-price-increase",
       "first_seen": "2026-11-01T13:15:00+08:00",
       "headline_en": "Three Hong Kong newspapers raise cover prices by HK$3 this month"
+    },
+    {
+      "key": "mao-hamasaki-suspected-drugging-nov1",
+      "id": "2026-11-01-mao-hamasaki-suspected-drugging",
+      "first_seen": "2026-11-01T15:25:00+08:00",
+      "headline_en": "Police investigate suspected drink spiking after Japanese DJ hospitalised in Tsim Sha Tsui"
+    },
+    {
+      "key": "workweek-weather-outlook-nov2-6",
+      "id": "2026-11-01-workweek-weather-outlook-nov2-6",
+      "first_seen": "2026-11-01T15:25:00+08:00",
+      "headline_en": "Observatory forecasts mainly cloudy conditions with light rain patches for the work week"
     }
   ],
-  "updated_at": "2026-11-01T13:11:41+08:00"
+  "updated_at": "2026-11-01T15:24:40+08:00"
 }

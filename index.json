@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-01T13:11:42+08:00",
+  "generated_at": "2026-11-01T15:24:40+08:00",
   "live_window_hours": 72,
   "count": 83,
   "articles": [
+    {
+      "id": "2026-11-01-mao-hamasaki-suspected-drugging",
+      "published_at": "2026-11-01T15:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "tsim-sha-tsui",
+        "investigation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-mao-hamasaki-suspected-drugging.json",
+      "en": {
+        "headline": "Police investigate suspected drink spiking after Japanese DJ hospitalised in Tsim Sha Tsui",
+        "dek": "Former adult film actress Mao Hamasaki, now working as a DJ, is in intensive care after tests showed positive reactions to four types of drugs, police said."
+      },
+      "zh": {
+        "headline": "尖沙咀私竇打碟疑遭落藥 日籍DJ送ICU 警列施用毒藥調查",
+        "dek": "前日本AV女優濱崎真緒現以DJ身分在港工作，院方驗出體內對四種藥物呈陽性反應，警方正跟進。"
+      }
+    },
+    {
+      "id": "2026-11-01-workweek-weather-outlook-nov2-6",
+      "published_at": "2026-11-01T15:25:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "forecast",
+        "work-week"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-workweek-weather-outlook-nov2-6.json",
+      "en": {
+        "headline": "Observatory forecasts mainly cloudy conditions with light rain patches for the work week",
+        "dek": "The Hong Kong Observatory expects the easterly airstream to moderate on Monday, bringing sunny periods, before another airstream brings windier weather with light rain midweek."
+      },
+      "zh": {
+        "headline": "天文台預測本周工作日大致多雲 間中有微雨",
+        "dek": "天文台表示偏東氣流明日會緩和，帶來部分時間有陽光，其後另一股偏東氣流會令本周中期風勢較大及有一兩陣雨。"
+      }
+    },
     {
       "id": "2026-11-01-john-lee-scout-rally-youth",
       "published_at": "2026-11-01T13:15:00+08:00",
@@ -1818,52 +1862,6 @@
       "zh": {
         "headline": "房屋局局長何永賢請辭 宏福苑火災報告公布",
         "dek": "行政長官李家超接納何永賢即時請辭，由財政司副司長黃偉紎署理房屋局局長；官員在記者會上鞠躬致歉。"
-      }
-    },
-    {
-      "id": "2026-10-29-aberdeen-workers-platform-fall",
-      "published_at": "2026-10-29T13:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "accident",
-        "aberdeen",
-        "industrial",
-        "police",
-        "workers"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-29/2026-10-29-aberdeen-workers-platform-fall.json",
-      "en": {
-        "headline": "Two workers injured after falling from crane platform in Aberdeen",
-        "dek": "A 62-year-old man and a 57-year-old woman fell about six metres when the platform of a crane truck became unstable during exterior wall work on Shek Pai Wan Road on Thursday morning."
-      },
-      "zh": {
-        "headline": "香港仔兩工人從吊臂工作台墮下受傷",
-        "dek": "周四早上約10時16分，石排灣道香港仔漁業及海事分署附近，吊臂車工作台疑不穩，兩名工人從約六米高墮地，分別送瑪麗醫院。"
-      }
-    },
-    {
-      "id": "2026-10-29-wan-chai-acid-attack-sentencing",
-      "published_at": "2026-10-29T13:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "wan-chai",
-        "acid-attack",
-        "sentencing",
-        "high-court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-29/2026-10-29-wan-chai-acid-attack-sentencing.json",
-      "en": {
-        "headline": "Teen sentenced to eight years for acid attack on Singaporean tourist",
-        "dek": "High Court Judge Andrew Chan jailed the 19-year-old for throwing sulphuric acid at a 36-year-old woman in Wan Chai last June, causing burns over more than 10 per cent of her body."
-      },
-      "zh": {
-        "headline": "19歲男子向新加坡女子淋腐液 判囚8年",
-        "dek": "高等法院法官陳慶偉周四判處19歲男子監禁8年，他去年6月在灣仔向一名36歲新加坡女子淋潑硫酸，造成全身逾一成皮膚灼傷。"
       }
     }
   ]
