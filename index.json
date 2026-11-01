@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-01T11:09:49+08:00",
+  "generated_at": "2026-11-01T13:11:42+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-11-01-john-lee-scout-rally-youth",
+      "published_at": "2026-11-01T13:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "john-lee",
+        "youth",
+        "scouts",
+        "one-country-two-systems"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-john-lee-scout-rally-youth.json",
+      "en": {
+        "headline": "Lee tells scouts Hong Kong offers unlimited opportunities under One Country Two Systems",
+        "dek": "Chief Executive John Lee, as Chief Scout, outlined four expectations for young people at the Hong Kong Scout Association rally on Sunday."
+      },
+      "zh": {
+        "headline": "李家超以童軍總領袖身分籲青年把握一國兩制機遇",
+        "dek": "行政長官李家超周日出席香港童軍大會操，提出胸懷家國、放眼世界、錘鍊意志及助人為樂四點期望。"
+      }
+    },
+    {
+      "id": "2026-11-01-lifestyle-heritage-fiesta-2026",
+      "published_at": "2026-11-01T13:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "heritage",
+        "northern-metropolis",
+        "free"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-lifestyle-heritage-fiesta-2026.json",
+      "en": {
+        "headline": "Heritage Fiesta 2026 guided tours of Northern Metropolis buildings begin today",
+        "dek": "Free guided tours and open visits to 12 historic sites in the Northern Metropolis run until 31 December, organised by the Commissioner for Heritage's Office."
+      },
+      "zh": {
+        "headline": "2026古蹟周遊樂今日起辦北都歷史建築導賞",
+        "dek": "文物保育專員辦事處主辦的免費導賞團及參觀活動，涵蓋北部都會區12處歷史建築，持續至12月31日。"
+      }
+    },
+    {
+      "id": "2026-11-01-newspapers-price-increase",
+      "published_at": "2026-11-01T13:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "newspapers",
+        "media",
+        "prices",
+        "ming-pao"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-newspapers-price-increase.json",
+      "en": {
+        "headline": "Three Hong Kong newspapers raise cover prices by HK$3 this month",
+        "dek": "Ming Pao rose to HK$15 from Sunday, while the Hong Kong Economic Times and Hong Kong Economic Journal will follow on Monday."
+      },
+      "zh": {
+        "headline": "三份本地報章本月加價3元 明報今起調至15元",
+        "dek": "明報由周日每份12元加至15元，經濟日報及信報則由周一起分別加至15元及18元。"
+      }
+    },
     {
       "id": "2026-11-01-hong-kong-sixes-finals-day",
       "published_at": "2026-11-01T11:15:00+08:00",
