@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-02T02:03:32+08:00",
+  "generated_at": "2026-11-02T04:15:06+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-11-02-lifestyle-inter-island-festival-2026",
+      "published_at": "2026-11-02T04:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "festival",
+        "islands",
+        "peng-chau",
+        "culture"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-lifestyle-inter-island-festival-2026.json",
+      "en": {
+        "headline": "Inter-Island Festival returns for third edition across outlying islands",
+        "dek": "The month-long event under the theme ArchipelaGO!GO! runs from 1 to 29 November on Cheung Chau, Peng Chau, Mui Wo and Chi Ma Wan, with workshops, tours and exhibitions."
+      },
+      "zh": {
+        "headline": "第三屆船到橋頭生活節展開 以群島共生串連離島",
+        "dek": "活動由11月1日至29日在長洲、坪洲、梅窩及芝麻灣舉行，包括工作坊、導賞及展覽。"
+      }
+    },
+    {
+      "id": "2026-11-02-shek-kong-bmw-criminal-damage",
+      "published_at": "2026-11-02T04:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "shek-kong",
+        "yuen-long"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-shek-kong-bmw-criminal-damage.json",
+      "en": {
+        "headline": "Police treat Shek Kong road incident as criminal damage after object thrown at car",
+        "dek": "A 19-year-old driver reported that a man in black threw a hard object at his BMW near Route Twisk around 1am on Monday; officers are seeking the man."
+      },
+      "zh": {
+        "headline": "石崗荃錦公路有人向私家車擲物 警列刑事毀壞跟進",
+        "dek": "19歲司機指周一凌晨約時有黑衣男子向其寶馬擲硬物，警方正尋找涉事男子。"
+      }
+    },
     {
       "id": "2026-11-02-hk-fintech-week-opens",
       "published_at": "2026-11-02T02:15:00+08:00",
@@ -1748,29 +1793,6 @@
       "zh": {
         "headline": "警消搞破沙頭角懷疑三合會非法加油站 拖58歲男將檢控",
         "dek": "執法人員檢獲約2400公升市值約9萬元汽油，站址鄰近民居且缺乏消防設備，對附近居民構成嚴重安全威脅。"
-      }
-    },
-    {
-      "id": "2026-10-30-lifestyle-spooky-halloween-wan-chai",
-      "published_at": "2026-10-30T03:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "halloween",
-        "wan-chai",
-        "music",
-        "carnival"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-lifestyle-spooky-halloween-wan-chai.json",
-      "en": {
-        "headline": "Spooky Halloween music carnival returns to Wan Chai waterfront",
-        "dek": "The three-day event at Wan Chai Harbourfront Event Space opens today with large installations and evening live music through Sunday."
-      },
-      "zh": {
-        "headline": "Spooky Halloween 音樂嘉年華重返灣仔海濱",
-        "dek": "為期三日的活動今日起於灣仔海濱活動空間舉行，設有大型裝置及晚間現場音樂，至周日結束。"
       }
     }
   ]
