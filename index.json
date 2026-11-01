@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-11-01T15:25:30+08:00",
+  "generated_at": "2026-11-01T18:10:25+08:00",
   "live_window_hours": 72,
   "count": 80,
   "articles": [
+    {
+      "id": "2026-11-01-customs-filipino-cocaine-airport",
+      "published_at": "2026-11-01T18:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "customs",
+        "airport",
+        "drugs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-customs-filipino-cocaine-airport.json",
+      "en": {
+        "headline": "Customs seize about 6kg of suspected cocaine from Filipino passenger at airport",
+        "dek": "A 22-year-old woman arriving from Phnom Penh was arrested and charged with drug trafficking; the case is due in court on Monday."
+      },
+      "zh": {
+        "headline": "海關在機場檢獲約6公斤懷疑可卡因 拘菲籍女旅客",
+        "dek": "22歲女子由金邊抵港，已被控販運危險藥物，案件明日在西九龍裁判法院提堂。"
+      }
+    },
+    {
+      "id": "2026-11-01-hko-warmest-october-2026",
+      "published_at": "2026-11-01T18:15:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "record",
+        "el-nino"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-hko-warmest-october-2026.json",
+      "en": {
+        "headline": "Observatory says Hong Kong recorded its warmest October since 1884",
+        "dek": "Mean maximum, mean and mean minimum temperatures all set October records, attributed to an extremely strong El Nino and other factors."
+      },
+      "zh": {
+        "headline": "天文台：香港經歷1884年以來最暖10月",
+        "dek": "平均最高、平均及平均最低氣溫均打破歷來10月紀錄，天文台指與極強厄爾尼諾等有關。"
+      }
+    },
+    {
+      "id": "2026-11-01-lifestyle-wine-dine-festival-closes",
+      "published_at": "2026-11-01T18:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "festival",
+        "food",
+        "central",
+        "wine"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-lifestyle-wine-dine-festival-closes.json",
+      "en": {
+        "headline": "Hong Kong Wine and Dine Festival draws crowds on final day at Central Harbourfront",
+        "dek": "The four-day event organised by the Tourism Board ends today, with exhibitors reporting sales growth and Guangdong industry visitors attending."
+      },
+      "zh": {
+        "headline": "香港美酒佳餚巡禮閉幕日吸引大批市民遊客",
+        "dek": "旅發局主辦的四日活動今日結束，部分展商銷情錄得增長，廣東業界人士進場觀摩。"
+      }
+    },
+    {
+      "id": "2026-11-01-northern-metropolis-marathon-23-hospitalised",
+      "published_at": "2026-11-01T18:15:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "marathon",
+        "northern-metropolis",
+        "hospital"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-northern-metropolis-marathon-23-hospitalised.json",
+      "en": {
+        "headline": "Hospital Authority says 23 people hospitalised after Northern Metropolis Marathon",
+        "dek": "The Authority reported the figure as of 3:10pm on Sunday for the inaugural event that drew about 15,000 runners."
+      },
+      "zh": {
+        "headline": "醫管局稱北都馬拉松至少23人受傷入院",
+        "dek": "醫管局表示截至周日下午3時10分，有23人因賽事受傷入院治理，是次活動約有1.5萬人參與。"
+      }
+    },
     {
       "id": "2026-11-01-mao-hamasaki-suspected-drugging",
       "published_at": "2026-11-01T15:25:00+08:00",
@@ -1703,97 +1792,6 @@
       "zh": {
         "headline": "黃大仙上邨爆水管全邨停水 料明凌晨三時恢復",
         "dek": "黃大仙道近馬仔坑道水管爆裂，黃大仙上邨包括商場暫停食水供應，水務署調派水車，運輸署封閉一段路面，多條巴士改道。"
-      }
-    },
-    {
-      "id": "2026-10-29-banks-prime-rate-unchanged",
-      "published_at": "2026-10-29T17:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "banking",
-        "interest-rates",
-        "hsbc",
-        "standard-chartered",
-        "prime-rate"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-29/2026-10-29-banks-prime-rate-unchanged.json",
-      "en": {
-        "headline": "Major banks keep prime rates unchanged after HKMA holds base rate",
-        "dek": "HSBC, Bank of China Hong Kong and Standard Chartered maintained their best lending rates at current levels following the Monetary Authority’s decision to hold its base rate at 4.25 per cent."
-      },
-      "zh": {
-        "headline": "主要銀行維持最優惠利率不變 跟隨金管局按兵不動",
-        "dek": "滙豐、中銀香港及渣打在金管局維持基本利率於4.25厘後，分別保持最優惠利率於5厘及5.25厘。"
-      }
-    },
-    {
-      "id": "2026-10-29-ck-asset-montage-sales-pause",
-      "published_at": "2026-10-29T17:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "property",
-        "ck-asset",
-        "yuen-long",
-        "northern-metropolis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-29/2026-10-29-ck-asset-montage-sales-pause.json",
-      "en": {
-        "headline": "CK Asset pauses sales launch at Yuen Long Montage development",
-        "dek": "The developer confirmed the suspension of marketing for the 327-unit Northern Metropolis project but dismissed speculation that presale consent had been revoked."
-      },
-      "zh": {
-        "headline": "長實暫停元朗萬芎項目銷售安排",
-        "dek": "發展商確認暫停這個北部都會區327伙項目的市場推廣，但否認預售同意被撤銷的市場猜測。"
-      }
-    },
-    {
-      "id": "2026-10-29-northern-metropolis-marathon-traffic",
-      "published_at": "2026-10-29T17:12:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "marathon",
-        "northern-metropolis",
-        "traffic",
-        "police",
-        "road-closures"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-29/2026-10-29-northern-metropolis-marathon-traffic.json",
-      "en": {
-        "headline": "Police remind public of traffic measures for Northern Metropolis Marathon",
-        "dek": "Special road closures and public transport adjustments will take effect from Friday to facilitate the event on Sunday, with early MTR services planned."
-      },
-      "zh": {
-        "headline": "警方提醒北部都會區馬拉松特別交通安排",
-        "dek": "特別封路及公共交通調整將由周五起實施，以配合周日賽事，港鐵將提早開出首班車。"
-      }
-    },
-    {
-      "id": "2026-10-29-wang-fuk-report-recommendations",
-      "published_at": "2026-10-29T17:12:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "wang-fuk",
-        "housing",
-        "reforms",
-        "john-lee",
-        "building-maintenance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-29/2026-10-29-wang-fuk-report-recommendations.json",
-      "en": {
-        "headline": "Government outlines seven reform areas after Wang Fuk fire report",
-        "dek": "Chief Executive John Lee announced comprehensive changes covering bid-rigging, regulation and complaint handling following the independent committee's findings on the Tai Po tragedy."
-      },
-      "zh": {
-        "headline": "政府公布宏福苑火災報告後七大改革方向",
-        "dek": "行政長官李家超宣布全面改革，涵蓋圍標、監管及投訴機制，回應獨立委員會對大埔悲劇的調查結果。"
       }
     }
   ]
