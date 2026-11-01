@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-11-01T07:30:49+08:00",
+  "generated_at": "2026-11-01T09:14:05+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-11-01-northern-metropolis-marathon-starts",
+      "published_at": "2026-11-01T09:20:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "marathon",
+        "northern-metropolis",
+        "new-territories"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-northern-metropolis-marathon-starts.json",
+      "en": {
+        "headline": "First Northern Metropolis Marathon starts with about 15000 runners",
+        "dek": "The full marathon began at 6:30am from the Heung Yee Kuk building in Sha Tin, with routes including the Lung Shan Tunnel and a first-time finish on Fanling Bypass."
+      },
+      "zh": {
+        "headline": "首屆北部都會區馬拉松今早開跑 約1.5萬人參與",
+        "dek": "全馬賽事早上6時半在沙田石門新界鄉議局大樓起步，途經龍山隧道，並以首次開放的粉嶺繞道作終點。"
+      }
+    },
+    {
+      "id": "2026-11-01-sheung-wan-boy-father-abuse-arrest",
+      "published_at": "2026-11-01T09:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "child-abuse",
+        "sheung-wan",
+        "police",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-sheung-wan-boy-father-abuse-arrest.json",
+      "en": {
+        "headline": "Police arrest father after 14-year-old boy injured in Sheung Wan",
+        "dek": "A 35-year-old man was arrested on suspicion of ill-treatment of a child after the boy suffered injuries to his eyes, hands and forehead at a flat on Hospital Road."
+      },
+      "zh": {
+        "headline": "西營盤14歲男童疑遭父親管教受傷 35歲父涉虐兒被捕",
+        "dek": "警方凌晨接報後到醫院道18號調查，男童眼、手及額頭受傷清醒送院，父親涉嫌對所看管兒童虐待或忽略被捕。"
+      }
+    },
+    {
+      "id": "2026-11-01-tko-bicycles-arson-po-ning-road",
+      "published_at": "2026-11-01T09:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "arson",
+        "tseung-kwan-o",
+        "police",
+        "bicycle"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-01/2026-11-01-tko-bicycles-arson-po-ning-road.json",
+      "en": {
+        "headline": "Police treat fire that burned nine bicycles in Hang Hau as arson",
+        "dek": "Firefighters extinguished the blaze at a public bicycle parking bay on Po Ning Road shortly after 1am; no one was injured and no arrests have been made."
+      },
+      "zh": {
+        "headline": "將軍澳寶寧路公共單車泊位9輛單車焚毀 警列縱火案追查",
+        "dek": "凌晨約1時有途人發現單車起火，消防員將火救熄，現場9輛單車被毀，暫無人被捕。"
+      }
+    },
     {
       "id": "2026-11-01-lifestyle-mark-six-halloween-snowball-rollover",
       "published_at": "2026-11-01T07:05:00+08:00",
