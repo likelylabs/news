@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-02T00:20:43+08:00",
+  "generated_at": "2026-11-02T02:03:32+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-11-02-hk-fintech-week-opens",
+      "published_at": "2026-11-02T02:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "fintech",
+        "hkcec",
+        "event",
+        "technology"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-hk-fintech-week-opens.json",
+      "en": {
+        "headline": "Hong Kong FinTech Week x StartmeupHK opens at HKCEC",
+        "dek": "The five-day event, expected to draw over 45,000 participants from more than 120 economies, begins on Monday with the main conference at the Hong Kong Convention and Exhibition Centre."
+      },
+      "zh": {
+        "headline": "香港金融科技周x StartmeupHK今日開幕",
+        "dek": "為期五日的活動預計吸引來自超過120個經濟體逾4.5萬名與會者，主論壇周一在香港會議展覽中心展開。"
+      }
+    },
     {
       "id": "2026-11-02-liantang-port-100-million-crossings",
       "published_at": "2026-11-02T00:20:00+08:00",
@@ -1749,52 +1771,6 @@
       "zh": {
         "headline": "Spooky Halloween 音樂嘉年華重返灣仔海濱",
         "dek": "為期三日的活動今日起於灣仔海濱活動空間舉行，設有大型裝置及晚間現場音樂，至周日結束。"
-      }
-    },
-    {
-      "id": "2026-10-30-central-halloween-traffic",
-      "published_at": "2026-10-30T01:05:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "halloween",
-        "central",
-        "traffic",
-        "police",
-        "lan-kwai-fong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-central-halloween-traffic.json",
-      "en": {
-        "headline": "Police set phased road closures in Central for Halloween",
-        "dek": "Roads around Lan Kwai Fong will close in stages from 2pm on Friday through early Saturday and Sunday to manage crowds."
-      },
-      "zh": {
-        "headline": "警方就萬聖節在中區分階段封路",
-        "dek": "蘭桂坊一帶道路將由周五下午二時起分階段封閉至周六及周日清晨，以配合人群管理。"
-      }
-    },
-    {
-      "id": "2026-10-30-lifestyle-tai-kwun-framed",
-      "published_at": "2026-10-30T01:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "tai-kwun",
-        "halloween",
-        "central",
-        "exhibition"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-lifestyle-tai-kwun-framed.json",
-      "en": {
-        "headline": "Tai Kwun stages FRAMED Halloween night in former prison yard",
-        "dek": "The free event runs Friday and Saturday evenings, inviting visitors in art-inspired costumes to become living artworks among light installations."
-      },
-      "zh": {
-        "headline": "大館監獄庭園辦「藝裝萬聖夜」",
-        "dek": "免費活動周五六晚七時至十時舉行，歡迎以藝術靈感裝扮的訪客在燈光裝置中成為活的藝術品。"
       }
     }
   ]
