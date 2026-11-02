@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-02T18:11:24+08:00",
+  "generated_at": "2026-11-02T20:07:51+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 78,
   "articles": [
+    {
+      "id": "2026-11-02-hzmb-checkpoint-hit-and-run-arrest",
+      "published_at": "2026-11-02T20:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "tuen-mun",
+        "hzmb",
+        "traffic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-hzmb-checkpoint-hit-and-run-arrest.json",
+      "en": {
+        "headline": "Police arrest man after hit-and-run at Hong Kong-Zhuhai-Macao Bridge checkpoint",
+        "dek": "A man in his thirties was held in Tuen Mun after a car struck a barrier at the checkpoint overnight and officers intercepted the vehicle following a chase."
+      },
+      "zh": {
+        "headline": "私家車港珠澳大橋口岸撞閘不顧而去 警方屯門截車拘捕三十多歲男子",
+        "dek": "一輚私家車凌晨在港珠澳大橋口岸撞到檢查亭閘後逃走，警方早上在屯門截獲車輚，拘捕一名三十多歲男子。"
+      }
+    },
+    {
+      "id": "2026-11-02-sai-kung-house-burglary-440k",
+      "published_at": "2026-11-02T20:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "sai-kung",
+        "burglary",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-sai-kung-house-burglary-440k.json",
+      "en": {
+        "headline": "Burglars steal watches and jewellery worth HK$440,000 from Sai Kung house",
+        "dek": "A domestic helper discovered a pried-open window at a detached house in Nam Shan San Tsuen while the owners were overseas, with items including an H. Stern watch missing."
+      },
+      "zh": {
+        "headline": "西貢南山新村獨立屋遭撬窗爆竊 失約44萬元珠寶手錶",
+        "dek": "屋主一家身在海外，外傭清晨發現房間窗戶被撬，屋內有搜掠痕跡，損失包括一隻H.Stern手錶及其他首飾。"
+      }
+    },
     {
       "id": "2026-11-02-bmssc-industry-response",
       "published_at": "2026-11-02T18:10:00+08:00",
@@ -1701,97 +1745,6 @@
       "zh": {
         "headline": "私隱專員指醫管局缺失是聯合醫院資料外洩主因",
         "dek": "調查報告指承辦商監察及存取管控不足，導致逾5.6萬人資料外洩至暗網；公署已向醫管局發出執行通知。"
-      }
-    },
-    {
-      "id": "2026-10-30-cathay-amadeus-data-breach",
-      "published_at": "2026-10-30T19:06:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "cathay-pacific",
-        "data-breach",
-        "aviation",
-        "privacy",
-        "amadeus"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-cathay-amadeus-data-breach.json",
-      "en": {
-        "headline": "Cathay Pacific says 53000 bookings affected in Amadeus data breach",
-        "dek": "The airline said unauthorised access to a third-party system between 2023 and September this year exposed names and flight details, with some contact and document data also involved."
-      },
-      "zh": {
-        "headline": "國泰指第三方系統遭未授權存取 約5.3萬宗預訂資料受影響",
-        "dek": "航空公司表示，Amadeus系統在2023年8月至今年9月期間遭使用登入憑證存取，主要涉及姓名及航班資料，部分個案或包括聯絡及證件資料。"
-      }
-    },
-    {
-      "id": "2026-10-30-election-committee-nominations-valid",
-      "published_at": "2026-10-30T19:06:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "election-committee",
-        "nominations",
-        "politics",
-        "voting"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-election-committee-nominations-valid.json",
-      "en": {
-        "headline": "Candidate Eligibility Committee rules 1115 Election Committee nominations valid",
-        "dek": "The committee approved all ordinary election candidates for the 22 November poll, with 31 subsectors contested and five uncontested; ex-officio and nominated members were also confirmed."
-      },
-      "zh": {
-        "headline": "資審委裁定1115名選委會界別分組選舉候選人提名有效",
-        "dek": "委員會確認一般選舉候選人全部提名有效，11月22日選舉中31個界別有競爭、5個自動當選；當然委員及指定團體提名人亦獲確認。"
-      }
-    },
-    {
-      "id": "2026-10-30-fiscal-surplus-first-six-months",
-      "published_at": "2026-10-30T19:06:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "fiscal",
-        "government",
-        "budget",
-        "bonds",
-        "reserves"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-fiscal-surplus-first-six-months.json",
-      "en": {
-        "headline": "Government records HK$16.2 billion surplus in first six months of fiscal year",
-        "dek": "The surplus for April to September was driven mainly by Silver Bonds proceeds; fiscal reserves stood at HK$681.7 billion at the end of September."
-      },
-      "zh": {
-        "headline": "政府本財政年度首六個月錄得162億元盈餘",
-        "dek": "四月至九月盈餘主要來自發行銀色債券所得收入；截至九月底財政儲備為6817億元。"
-      }
-    },
-    {
-      "id": "2026-10-30-imported-dengue-chikungunya-cases",
-      "published_at": "2026-10-30T19:06:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "dengue",
-        "chikungunya",
-        "chp",
-        "mosquitoes"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-imported-dengue-chikungunya-cases.json",
-      "en": {
-        "headline": "Centre for Health Protection records four imported dengue and one chikungunya case",
-        "dek": "The four dengue patients had travelled to Vietnam, Malaysia and Singapore; the chikungunya case involved a 44-year-old woman who had been on the mainland. Year-to-date dengue total reaches 40."
-      },
-      "zh": {
-        "headline": "衞生防護中心錄得四宗外地傳入登革熱及一宗內地傳入基孔肯雅熱個案",
-        "dek": "四宗登革熱患者潛伏期內曾到越南、馬來西亞及新加坡；基孔肯雅熱個案涉及一名44歲曾到內地的女子。今年累計登革熱40宗。"
       }
     }
   ]
