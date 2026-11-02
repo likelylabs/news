@@ -1,8 +1,138 @@
 {
-  "generated_at": "2026-11-02T22:07:48+08:00",
+  "generated_at": "2026-11-03T02:04:48+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-11-03-customs-airport-cannabis-seizure-nov2",
+      "published_at": "2026-11-03T02:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "airport",
+        "drugs",
+        "cannabis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-customs-airport-cannabis-seizure-nov2.json",
+      "en": {
+        "headline": "Customs seize 5.1kg cannabis buds and other items at airport, arrest man",
+        "dek": "A 42-year-old mainland passenger from Bangkok was arrested after officers found suspected cannabis, Part I poisons and duty-not-paid cigarettes worth about HK$1.06 million."
+      },
+      "zh": {
+        "headline": "海關機場檢獲5.1公斤大麻花蕾等物品 拘捕一名男子",
+        "dek": "一名42歲內地旅客由曼谷抵港，海關在其手提行李發現懷疑大麻、第I部毒藥及未完稅香煙，市值約106萬元。"
+      }
+    },
+    {
+      "id": "2026-11-03-lifestyle-lucy-island-encore-concert",
+      "published_at": "2026-11-03T02:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "concert",
+        "music",
+        "tung-po"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-lifestyle-lucy-island-encore-concert.json",
+      "en": {
+        "headline": "Korean band LUCY holds Island encore concert at Kitty Woo Stadium tonight",
+        "dek": "The group performs at 7pm on Tuesday at Tung Po's Kitty Woo Stadium as part of its ninth concert tour encore, with tickets previously sold via Cityline."
+      },
+      "zh": {
+        "headline": "韓國樂隊LUCY今晚東蒲胡李名靜體育館舉行Island安可演唱會",
+        "dek": "樂隊周二晚上7時在東蒲體育館演出，作為第九次演唱會巡演安可場，門票早前經Cityline發售。"
+      }
+    },
+    {
+      "id": "2026-11-03-meta-pcpd-ai-glasses-meeting",
+      "published_at": "2026-11-03T02:15:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "meta",
+        "privacy",
+        "ai-glasses",
+        "pcpd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-meta-pcpd-ai-glasses-meeting.json",
+      "en": {
+        "headline": "Meta says it met Hong Kong privacy watchdog over AI glasses concerns",
+        "dek": "The company briefed media after the Privacy Commissioner warned that smart glasses could enable covert recording and excessive data collection processed by AI."
+      },
+      "zh": {
+        "headline": "Meta稱已就AI眼鏡私隱憂慮與私隱公署會面",
+        "dek": "公司在私隱專員警告智能眼鏡可能導致隱蔽攝錄及AI處理過量資料後，向傳媒簡報。"
+      }
+    },
+    {
+      "id": "2026-11-03-northern-metropolis-stray-animals-study",
+      "published_at": "2026-11-03T02:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "northern-metropolis",
+        "animals",
+        "stray",
+        "study"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-northern-metropolis-stray-animals-study.json",
+      "en": {
+        "headline": "Study links Northern Metropolis land clearance to higher stray animal intakes",
+        "dek": "Researchers found about 40 per cent of animals taken in by six rescue groups in the first half of the year came from the development area, with groups calling for policy review."
+      },
+      "zh": {
+        "headline": "研究指北部都會區收地與流浪動物接收量上升有關",
+        "dek": "研究發現今年上半年六個救援組織接收的動物中約四成來自發展區，團體呼籲檢討政策。"
+      }
+    },
+    {
+      "id": "2026-11-03-nsl-early-releases-tong-cheung",
+      "published_at": "2026-11-03T02:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "national-security",
+        "prison",
+        "early-release"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-nsl-early-releases-tong-cheung.json",
+      "en": {
+        "headline": "Sources say first national security law convict and three others released early",
+        "dek": "Reports citing sources said Leon Tong Ying-kit, former Apple Daily publisher Cheung Kim-hung, Wayland Chan and Andy Li were granted early release after high-profile convictions."
+      },
+      "zh": {
+        "headline": "消息指首名國安法定罪者及三人獲提早釋放",
+        "dek": "報道引述消息指唐英傑、前蘋果日報出版人張劍虹、陳梓華及李宇軒在高調定罪後獲提早釋放。"
+      }
+    },
+    {
+      "id": "2026-11-03-queen-mary-hospital-lifts-report-submitted",
+      "published_at": "2026-11-03T02:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "queen-mary-hospital",
+        "lifts",
+        "development-bureau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-queen-mary-hospital-lifts-report-submitted.json",
+      "en": {
+        "headline": "Development Bureau submits Queen Mary Hospital lifts investigation report",
+        "dek": "The bureau said it has given the report to the Chief Executive, who requested further details on rectification work, with 17 lifts repaired and seven now in use."
+      },
+      "zh": {
+        "headline": "發展局已向特首提交瑪麗醫院升降機調查報告",
+        "dek": "局方指已提交報告，特首要求提供執修及後續行動進一步資料，17部升降機完成執修，7部已開放使用。"
+      }
+    },
     {
       "id": "2026-11-02-aqua-chow-murder-trial-opens",
       "published_at": "2026-11-02T22:15:00+08:00",
@@ -1651,120 +1781,6 @@
       "zh": {
         "headline": "天文台預報周六大致天晴 周日多雲及有雨",
         "dek": "周六日間大致天晴乾燥，氣溫25至29度；周日雲量增多，初時有一兩陣雨。"
-      }
-    },
-    {
-      "id": "2026-10-31-hkeaa-international-exam-data-leak",
-      "published_at": "2026-10-31T01:10:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "education",
-        "privacy",
-        "data-breach",
-        "hkeaa",
-        "exams"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-31/2026-10-31-hkeaa-international-exam-data-leak.json",
-      "en": {
-        "headline": "Examinations Authority reports data leak of 16900 mainland exam applicants",
-        "dek": "The Hong Kong Examinations and Assessment Authority said a cybersecurity incident on systems for two international exams exposed names, dates of birth and emails of about 16900 mainland residents."
-      },
-      "zh": {
-        "headline": "考評局公布國際考試系統資料外洩 涉約1.69萬名內地申請人",
-        "dek": "香港考試及評核局表示，周四發現部分國際考試資訊系統發生網絡安全事故，約1.69萬名申請兩項國際考試的內地居住人士姓名、出生日期及電郵地址外洩。"
-      }
-    },
-    {
-      "id": "2026-10-31-lifestyle-hkpm-art-plaza",
-      "published_at": "2026-10-31T01:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "west-kowloon",
-        "palace-museum",
-        "art"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-31/2026-10-31-lifestyle-hkpm-art-plaza.json",
-      "en": {
-        "headline": "Hong Kong Palace Museum outdoor Art Plaza Project ends on Monday",
-        "dek": "The free public art exhibition of six large installations inspired by traditional Chinese gardens remains open at the Museum Plaza in West Kowloon until 2 November."
-      },
-      "zh": {
-        "headline": "香港故宮文化博物館戶外藝術廣場計劃周一結束",
-        "dek": "以傳統中國園林為靈感的六組大型裝置免費戶外展覽，將於11月2日在西九龍博物館廣場閉幕。"
-      }
-    },
-    {
-      "id": "2026-10-30-city-hall-sculptures-theft",
-      "published_at": "2026-10-30T23:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "city-hall",
-        "art",
-        "theft",
-        "central"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-city-hall-sculptures-theft.json",
-      "en": {
-        "headline": "Police classify missing City Hall sculptures as theft",
-        "dek": "Officers were alerted Friday afternoon that works worth about HK$160,000 for the Microwave International New Media Arts Festival had gone missing from the Central venue."
-      },
-      "zh": {
-        "headline": "警方列香港大會堂雕塑失竊案為盜竊",
-        "dek": "警方周五下午接報，微波國際新媒體藝術節一批約值16萬元雕塑品於中環場地失蹤。"
-      }
-    },
-    {
-      "id": "2026-10-30-link-reit-top-sale",
-      "published_at": "2026-10-30T23:25:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "property",
-        "link-reit",
-        "mong-kok"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-link-reit-top-sale.json",
-      "en": {
-        "headline": "Link REIT to sell Mong Kok T.O.P for HK$2.3 billion",
-        "dek": "The trust will dispose of its entire interest in 700 Nathan Road to Han Bliss Global, with completion expected in early 2027, and continue managing the property."
-      },
-      "zh": {
-        "headline": "領展以23億元出售旺角T.O.P物業",
-        "dek": "基金同意出售彌敦道700號全部權益予Han Bliss Global，交易預料2027年首季完成，其後繼續管理該物業。"
-      }
-    },
-    {
-      "id": "2026-10-30-primary-iit-curriculum-framework",
-      "published_at": "2026-10-30T23:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "curriculum",
-        "primary-school",
-        "edb",
-        "technology"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-primary-iit-curriculum-framework.json",
-      "en": {
-        "headline": "Education Bureau releases primary information and innovation technology curriculum",
-        "dek": "All primary schools will introduce the new subject from the 2028/29 school year, covering five strands including programming and artificial intelligence, and it will not count toward secondary places allocation."
-      },
-      "zh": {
-        "headline": "教育局公布小學資訊與創新科技課程框架",
-        "dek": "全港小學將於2028/29學年起推行新科目，涵蓋編程及人工智能等五個範疇，不納入呈分試。"
       }
     }
   ]
