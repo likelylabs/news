@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-03T02:04:48+08:00",
+  "generated_at": "2026-11-03T02:07:07+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 82,
   "articles": [
+    {
+      "id": "2026-11-03-hk-tennis-open-wang-xinyu-advances",
+      "published_at": "2026-11-03T02:40:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "tennis",
+        "wta",
+        "victoria-park",
+        "wang-xinyu"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-hk-tennis-open-wang-xinyu-advances.json",
+      "en": {
+        "headline": "Wang Xinyu advances at Hong Kong Tennis Open after straight-sets win",
+        "dek": "The sixth seed defeated wild-card Adithya Karunaratne 6-1, 6-1 in the first round at Victoria Park on Monday."
+      },
+      "zh": {
+        "headline": "王欣瑜保誠香港網球公開賽首輪直落兩盤晉級",
+        "dek": "六號種子周一在維多利亞公園以6-1、6-1擊敗香港外卡卡魯納拉特納，晉級次輪。"
+      }
+    },
+    {
+      "id": "2026-11-03-lifestyle-aziza-dave-holland-city-hall",
+      "published_at": "2026-11-03T02:40:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "jazz",
+        "concert",
+        "city-hall",
+        "central"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-lifestyle-aziza-dave-holland-city-hall.json",
+      "en": {
+        "headline": "Jazz quartet Aziza with Dave Holland performs at City Hall tonight",
+        "dek": "The supergroup of Holland, Chris Potter, Lionel Loueke and Eric Harland marks the 10th anniversary of its album with an 8pm concert at Hong Kong City Hall Concert Hall."
+      },
+      "zh": {
+        "headline": "爵士超級組合Aziza今晚香港大會堂演出 Dave Holland領軍",
+        "dek": "由Dave Holland、Chris Potter、Lionel Loueke及Eric Harland組成的四重奏，將於晚上8時在香港大會堂音樂廳演出，紀念專輯十周年。"
+      }
+    },
     {
       "id": "2026-11-03-customs-airport-cannabis-seizure-nov2",
       "published_at": "2026-11-03T02:15:00+08:00",
