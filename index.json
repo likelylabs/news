@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-02T10:12:05+08:00",
+  "generated_at": "2026-11-02T12:11:25+08:00",
   "live_window_hours": 72,
   "count": 77,
   "articles": [
+    {
+      "id": "2026-11-02-hsbc-ai-institute-northern-metropolis",
+      "published_at": "2026-11-02T12:08:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hsbc",
+        "ai",
+        "northern-metropolis",
+        "fintech",
+        "technology"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-hsbc-ai-institute-northern-metropolis.json",
+      "en": {
+        "headline": "HSBC plans AI and emerging technology institute in Northern Metropolis",
+        "dek": "The bank aims to open the centre in the first quarter of 2027 with HKUST as anchor partner, later relocating it to the Northern Metropolis."
+      },
+      "zh": {
+        "headline": "滙豐計劃在北部都會區成立人工智能研究院",
+        "dek": "銀行擬於2027年首季投入運作，以香港科技大學為主要學術夥伴，並於場地就緒後遷往北都。"
+      }
+    },
+    {
+      "id": "2026-11-02-icac-johnson-cleaning-bribes",
+      "published_at": "2026-11-02T12:08:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "icac",
+        "bribery",
+        "crime",
+        "kwun-tong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-icac-johnson-cleaning-bribes.json",
+      "en": {
+        "headline": "ICAC charges two former cleaning firm executives over HK$75 million bribes",
+        "dek": "The Independent Commission Against Corruption charged William Fung and Jimmy Lee with conspiracy to accept advantages linked to cleaning vehicle contracts."
+      },
+      "zh": {
+        "headline": "廉署起訴兩名前清潔公司高層涉收賄逾7500萬元",
+        "dek": "廉政公署控告封志宏及李細亮串謀使代理人接受利益，涉莊臣清潔公司採購清潔車輚及維修服務。"
+      }
+    },
     {
       "id": "2026-11-02-lifestyle-pizza-bar-daniele-cason",
       "published_at": "2026-11-02T10:15:00+08:00",
@@ -1681,51 +1726,6 @@
       "zh": {
         "headline": "天文台預測周六大致天晴乾燥 周日雲量增多",
         "dek": "周六受偏東氣流影響大致天晴乾燥，最高約29度；周日轉為大致多雲，初時或有一兩陣雨。"
-      }
-    },
-    {
-      "id": "2026-10-30-lifestyle-disneyland-halloween",
-      "published_at": "2026-10-30T11:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "halloween",
-        "disneyland",
-        "lantau",
-        "family"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-lifestyle-disneyland-halloween.json",
-      "en": {
-        "headline": "Disney Halloween Time continues at Hong Kong Disneyland through Sunday",
-        "dek": "The villain-themed season runs until 1 November with stage shows and character appearances included in regular park admission."
-      },
-      "zh": {
-        "headline": "香港迪士尼樂園「Disney Halloween Time」延續至周日",
-        "dek": "以反派為主題的萬聖節季節活動至11月1日結束，舞台表演及角色亮相包含在一般入場門票內。"
-      }
-    },
-    {
-      "id": "2026-10-30-tai-wai-man-found-dead",
-      "published_at": "2026-10-30T11:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tai-wai",
-        "police",
-        "death",
-        "sha-tin"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-tai-wai-man-found-dead.json",
-      "en": {
-        "headline": "Man found dead in Tai Wai flat after family loses contact",
-        "dek": "Police received a report around 11pm on Thursday that a 35-year-old man had not been heard from; he was confirmed dead at the scene in Chun Shek Estate."
-      },
-      "zh": {
-        "headline": "大圍春石苑35歲男子在家中被發現死亡",
-        "dek": "警方周四晚約11時接報家屬失去聯絡，救護人員到場後證實該名男子已死亡，死因有待驗屍確定。"
       }
     }
   ]

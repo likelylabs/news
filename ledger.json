@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "hkex-chung-yeung-holiday-closure",
-      "id": "2026-10-19-hkex-chung-yeung-holiday-closure",
-      "first_seen": "2026-10-19T11:10:00+08:00",
-      "headline_en": "Hong Kong stock market closed today for Chung Yeung Festival holiday"
-    },
-    {
-      "key": "lifestyle-lee-tung-avenue-lanterns-last-day",
-      "id": "2026-10-19-lifestyle-lee-tung-avenue-lanterns",
-      "first_seen": "2026-10-19T11:10:00+08:00",
-      "headline_en": "Lee Tung Avenue lantern display ends today after more than six weeks"
-    },
-    {
       "key": "iphone-duo-credit-card-fraud-oct19-update",
       "id": "2026-10-19-iphone-duo-fraud-reports-rise-to-130",
       "first_seen": "2026-10-19T13:15:00+08:00",
@@ -2465,7 +2453,19 @@
       "id": "2026-11-02-lifestyle-pizza-bar-daniele-cason",
       "first_seen": "2026-11-02T10:15:00+08:00",
       "headline_en": "The Pizza Bar by Daniele Cason opens at Mandarin Oriental Hong Kong"
+    },
+    {
+      "key": "hsbc-ai-institute-northern-metropolis",
+      "id": "2026-11-02-hsbc-ai-institute-northern-metropolis",
+      "first_seen": "2026-11-02T12:08:00+08:00",
+      "headline_en": "HSBC plans AI and emerging technology institute in Northern Metropolis"
+    },
+    {
+      "key": "icac-johnson-cleaning-bribes-nov2",
+      "id": "2026-11-02-icac-johnson-cleaning-bribes",
+      "first_seen": "2026-11-02T12:08:00+08:00",
+      "headline_en": "ICAC charges two former cleaning firm executives over HK$75 million bribes"
     }
   ],
-  "updated_at": "2026-11-02T10:12:05+08:00"
+  "updated_at": "2026-11-02T12:11:25+08:00"
 }
