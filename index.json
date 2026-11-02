@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-02T16:26:38+08:00",
+  "generated_at": "2026-11-02T18:11:24+08:00",
   "live_window_hours": 72,
   "count": 80,
   "articles": [
+    {
+      "id": "2026-11-02-bmssc-industry-response",
+      "published_at": "2026-11-02T18:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "building-maintenance",
+        "renovation",
+        "tai-po-fire",
+        "contractors"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-bmssc-industry-response.json",
+      "en": {
+        "headline": "Industry says new renovation council will draw legitimate contractors back",
+        "dek": "Representatives from the renovation sector said the Building Maintenance Support and Services Council’s integrity checks would help restore order and encourage qualified firms to return to the market."
+      },
+      "zh": {
+        "headline": "業界指新維修監察機構有助吸引合規承辦商重返市場",
+        "dek": "裝修業界代表表示，樓宇維修支援及服務委員會的誠信審查將有助恢復市場秩序，鼓勵合資格公司重新參與。"
+      }
+    },
+    {
+      "id": "2026-11-02-hkmao-governance-talent",
+      "published_at": "2026-11-02T18:10:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "hkmao",
+        "governance",
+        "one-country-two-systems",
+        "politics"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-hkmao-governance-talent.json",
+      "en": {
+        "headline": "HKMAO calls for stronger systems to bring in competent patriotic governance talent",
+        "dek": "The Hong Kong and Macau Affairs Office said in a People’s Daily article that Hong Kong should improve training, selection, appointment and management to build a governing team with integrity and competence."
+      },
+      "zh": {
+        "headline": "港澳辦文章促完善機制吸納德才兼備管治人才",
+        "dek": "國務院港澳辦理論學習組在《人民日報》發表文章，指香港應完善培養、選拔、任用和管理機制，建設有德有才的管治隊伍。"
+      }
+    },
     {
       "id": "2026-11-02-big-wave-bay-red-flag",
       "published_at": "2026-11-02T16:25:00+08:00",
@@ -1748,52 +1792,6 @@
       "zh": {
         "headline": "衞生防護中心錄得四宗外地傳入登革熱及一宗內地傳入基孔肯雅熱個案",
         "dek": "四宗登革熱患者潛伏期內曾到越南、馬來西亞及新加坡；基孔肯雅熱個案涉及一名44歲曾到內地的女子。今年累計登革熱40宗。"
-      }
-    },
-    {
-      "id": "2026-10-30-abby-choi-kwong-kau-plea",
-      "published_at": "2026-10-30T17:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "court",
-        "abby-choi",
-        "high-court",
-        "trial"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-abby-choi-kwong-kau-plea.json",
-      "en": {
-        "headline": "Kwong Kau pleads guilty to preventing lawful burial in Abby Choi murder trial",
-        "dek": "The 68-year-old former father-in-law of the slain socialite admitted the charge on Friday during the fifth week of the High Court trial; the murder allegation continues."
-      },
-      "zh": {
-        "headline": "蔡天鳳案鄺球改認阻止合法埋葬屍體罪",
-        "dek": "六十八歲前家翁周五在高等法院審訊第五周認罪，該項控罪他原先否認；謀殺控罪繼續審理。"
-      }
-    },
-    {
-      "id": "2026-10-30-ride-hailing-licence-deadline",
-      "published_at": "2026-10-30T17:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "ride-hailing",
-        "taxi",
-        "licensing",
-        "platforms"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-ride-hailing-licence-deadline.json",
-      "en": {
-        "headline": "Ride-hailing licence applications close as platforms file with Transport Department",
-        "dek": "The noon deadline passed on Friday with companies including DiDi, Gaode and Uber submitting for service licences under the new regime."
-      },
-      "zh": {
-        "headline": "網約車服務牌照申請中午截止 多間平台向運輸署遞交文件",
-        "dek": "周五中午申請期結束，滴滴、高德及Uber等公司已提交網約車服務牌照申請，新規管制度下首批牌照料十一月底起批出。"
       }
     }
   ]

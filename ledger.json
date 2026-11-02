@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "huanggang-port-inbound-peak-oct19",
-      "id": "2026-10-19-huanggang-port-inbound-peak",
-      "first_seen": "2026-10-19T17:07:00+08:00",
-      "headline_en": "Immigration Department prepares for first inbound peak at new Huanggang Port"
-    },
-    {
-      "key": "lifestyle-mills-tales-of-the-crawlers",
-      "id": "2026-10-19-lifestyle-mills-tales-of-the-crawlers",
-      "first_seen": "2026-10-19T17:07:00+08:00",
-      "headline_en": "The Mills hosts free Curious Creatures Showcase with rare species until 1 November"
-    },
-    {
       "key": "hikers-heat-illness-chung-yeung-oct19",
       "id": "2026-10-19-hikers-fall-ill-hot-weather-chung-yeung",
       "first_seen": "2026-10-19T19:05:00+08:00",
@@ -2471,7 +2459,19 @@
       "id": "2026-11-02-sfc-cybersecurity-framework",
       "first_seen": "2026-11-02T16:25:00+08:00",
       "headline_en": "SFC plans cybersecurity framework for licensed firms with stricter rules for higher risk"
+    },
+    {
+      "key": "bmssc-industry-response-nov2",
+      "id": "2026-11-02-bmssc-industry-response",
+      "first_seen": "2026-11-02T18:10:00+08:00",
+      "headline_en": "Industry says new renovation council will draw legitimate contractors back"
+    },
+    {
+      "key": "hkmao-governance-talent-article-nov2",
+      "id": "2026-11-02-hkmao-governance-talent",
+      "first_seen": "2026-11-02T18:10:00+08:00",
+      "headline_en": "HKMAO calls for stronger systems to bring in competent patriotic governance talent"
     }
   ],
-  "updated_at": "2026-11-02T16:26:38+08:00"
+  "updated_at": "2026-11-02T18:11:24+08:00"
 }
