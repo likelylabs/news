@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-02T14:15:31+08:00",
+  "generated_at": "2026-11-02T16:26:38+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-11-02-big-wave-bay-red-flag",
+      "published_at": "2026-11-02T16:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "beach",
+        "southern-district",
+        "red-flag",
+        "swimming"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-big-wave-bay-red-flag.json",
+      "en": {
+        "headline": "Red flag hoisted at Big Wave Bay Beach due to large waves",
+        "dek": "The Leisure and Cultural Services Department said the red flag was raised at Big Wave Bay Beach in Southern District on Monday morning because of big waves, advising beachgoers not to swim."
+      },
+      "zh": {
+        "headline": "大浪灣泳灘因大浪懸掛紅旗",
+        "dek": "康樂及文化事務署表示，因大浪於周一大浪灣泳灘懸掛紅旗，呼籲泳客不要游泳。"
+      }
+    },
+    {
+      "id": "2026-11-02-lifestyle-taksu-gamelan-concert",
+      "published_at": "2026-11-02T16:25:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "concert",
+        "sha-tin",
+        "asia-plus",
+        "gamelan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-lifestyle-taksu-gamelan-concert.json",
+      "en": {
+        "headline": "Hands Percussion brings Taksu gamelan concert to Sha Tin Town Hall this week",
+        "dek": "Malaysia’s Hands Percussion and Indonesia’s Gamelan Yuganada perform Taksu – The Spirit of Gamelan on 6 and 7 November as part of the Asia+ Festival, with the Hong Kong Children’s Choir joining."
+      },
+      "zh": {
+        "headline": "馬來西亞人人人鼓劇場《銅話鼓事》本周沙田大會堂上演",
+        "dek": "人人人鼓劇場與印尼甘美蘭樂團於11月6及7日在沙田大會堂演出《銅話鼓事》，香港兒童合唱團亦參與重新譯繹民謠，屬亞藝無疆藝術節節目。"
+      }
+    },
+    {
+      "id": "2026-11-02-sfc-cybersecurity-framework",
+      "published_at": "2026-11-02T16:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "sfc",
+        "fintech",
+        "cybersecurity",
+        "ai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-sfc-cybersecurity-framework.json",
+      "en": {
+        "headline": "SFC plans cybersecurity framework for licensed firms with stricter rules for higher risk",
+        "dek": "Chief Executive Officer Julia Leung outlined the plan at Hong Kong FinTech Week, saying the framework would set baseline requirements and enhanced measures for higher-risk licensed institutions."
+      },
+      "zh": {
+        "headline": "證監會擬為持牌機構制訂網絡保安架構 風險較高者須符合更高要求",
+        "dek": "行政總裁梁鳳儀在香港金融科技周表示，架構會為所有持牌機構訂定基線要求，並對風險較高機構實施加強措施，以應對人工智能相關威脅。"
+      }
+    },
     {
       "id": "2026-11-02-john-lee-beijing-shanghai-visit",
       "published_at": "2026-11-02T14:15:00+08:00",
@@ -1727,29 +1794,6 @@
       "zh": {
         "headline": "網約車服務牌照申請中午截止 多間平台向運輸署遞交文件",
         "dek": "周五中午申請期結束，滴滴、高德及Uber等公司已提交網約車服務牌照申請，新規管制度下首批牌照料十一月底起批出。"
-      }
-    },
-    {
-      "id": "2026-10-30-public-housing-building-control-unit",
-      "published_at": "2026-10-30T15:30:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "housing",
-        "tai-po",
-        "wang-fuk",
-        "reforms",
-        "buildings"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-public-housing-building-control-unit.json",
-      "en": {
-        "headline": "Housing Bureau to replace checking unit with project-based control body",
-        "dek": "About 300 staff will move to the new Public Housing Building Control Unit, which will assign dedicated teams and liaison officers for each major maintenance project."
-      },
-      "zh": {
-        "headline": "房屋局以項目制管制組替代獨立審查組",
-        "dek": "約三百名職員將轉任新公營房屋樓宇管制組，每項大型維修工程會配對專責團隊及聯絡人員。"
       }
     }
   ]
