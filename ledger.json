@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "hung-hom-tai-wan-road-cocaine-arrest",
-      "id": "2026-10-19-hung-hom-cocaine-arrest",
-      "first_seen": "2026-10-19T09:25:00+08:00",
-      "headline_en": "Police arrest man after finding suspected cocaine in Hung Hom car"
-    },
-    {
-      "key": "yellow-fire-danger-warning-oct19",
-      "id": "2026-10-19-yellow-fire-danger-warning",
-      "first_seen": "2026-10-19T09:25:00+08:00",
-      "headline_en": "Observatory issues Yellow Fire Danger Warning as risk stays high"
-    },
-    {
       "key": "hkex-chung-yeung-holiday-closure",
       "id": "2026-10-19-hkex-chung-yeung-holiday-closure",
       "first_seen": "2026-10-19T11:10:00+08:00",
@@ -2471,7 +2459,13 @@
       "id": "2026-11-02-wan-chai-driver-drugs-arrest",
       "first_seen": "2026-11-02T08:05:00+08:00",
       "headline_en": "Police arrest driver after finding suspected drugs in Wan Chai car"
+    },
+    {
+      "key": "lifestyle-pizza-bar-daniele-cason-opening",
+      "id": "2026-11-02-lifestyle-pizza-bar-daniele-cason",
+      "first_seen": "2026-11-02T10:15:00+08:00",
+      "headline_en": "The Pizza Bar by Daniele Cason opens at Mandarin Oriental Hong Kong"
     }
   ],
-  "updated_at": "2026-11-02T08:05:20+08:00"
+  "updated_at": "2026-11-02T10:12:05+08:00"
 }

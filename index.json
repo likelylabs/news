@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-02T08:05:20+08:00",
+  "generated_at": "2026-11-02T10:12:05+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 77,
   "articles": [
+    {
+      "id": "2026-11-02-lifestyle-pizza-bar-daniele-cason",
+      "published_at": "2026-11-02T10:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "central",
+        "mandarin-oriental",
+        "pizza",
+        "opening"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-lifestyle-pizza-bar-daniele-cason.json",
+      "en": {
+        "headline": "The Pizza Bar by Daniele Cason opens at Mandarin Oriental Hong Kong",
+        "dek": "The counter-style pizza omakase from the Tokyo venue ranked No. 2 by 50 Top Pizza in 2025 begins service on Monday at the hotel’s mezzanine in Central."
+      },
+      "zh": {
+        "headline": "文華東方酒店The Pizza Bar by Daniele Cason周一開業",
+        "dek": "來自東京、2025年獲50 Top Pizza評為全球第二的廚師發辦薄餅吧，周一於中環酒店夾層正式開業。"
+      }
+    },
     {
       "id": "2026-11-02-lifestyle-charlie-chocolate-factory",
       "published_at": "2026-11-02T08:05:00+08:00",
@@ -1702,73 +1726,6 @@
       "zh": {
         "headline": "大圍春石苑35歲男子在家中被發現死亡",
         "dek": "警方周四晚約11時接報家屬失去聯絡，救護人員到場後證實該名男子已死亡，死因有待驗屍確定。"
-      }
-    },
-    {
-      "id": "2026-10-30-alex-lee-court-of-appeal",
-      "published_at": "2026-10-30T09:13:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "judiciary",
-        "court-of-appeal",
-        "national-security",
-        "appointment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-alex-lee-court-of-appeal.json",
-      "en": {
-        "headline": "Court of First Instance judge Alex Lee appointed to Court of Appeal",
-        "dek": "The Chief Executive accepted the Judicial Officers Recommendation Commission’s advice; the appointment of the designated national security judge takes effect on 30 October."
-      },
-      "zh": {
-        "headline": "原訟庭法官李運騰獲委任為上訴庭法官",
-        "dek": "行政長官接納司法人員推薦委員會建議，指定國安法官的任命於10月30日起生效。"
-      }
-    },
-    {
-      "id": "2026-10-30-lifestyle-charlie-chocolate-factory-musical",
-      "published_at": "2026-10-30T09:13:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "musical",
-        "theatre",
-        "family",
-        "charlie-and-the-chocolate-factory"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-lifestyle-charlie-chocolate-factory-musical.json",
-      "en": {
-        "headline": "Charlie and the Chocolate Factory musical opens in Hong Kong in November",
-        "dek": "The Broadway production of Roald Dahl’s story, starring Daniel Plimpton as Willy Wonka, begins its Hong Kong run next month with an extended engagement."
-      },
-      "zh": {
-        "headline": "《查理與巧克力工廠》音樂劇十一月在港上演",
-        "dek": "百老匯製作改編羅爾德·達爾故事，由Daniel Plimpton飾演威利·旺卡，香港演出期已延長至十二月六日。"
-      }
-    },
-    {
-      "id": "2026-10-30-to-kwa-wan-security-guard-fall",
-      "published_at": "2026-10-30T09:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "accident",
-        "to-kwa-wan",
-        "police",
-        "fall"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-to-kwa-wan-security-guard-fall.json",
-      "en": {
-        "headline": "Security guard survives fall from To Kwa Wan rooftop after canopy breaks descent",
-        "dek": "A man remained conscious after falling from the rooftop of Tak Shing Mansion early Friday while inspecting a burst pipe, landing on a third-floor podium."
-      },
-      "zh": {
-        "headline": "土瓜灣保安從天台墮下 雨篷緩衝後仍有意識送院",
-        "dek": "一名保安清晨在德成大廈天台視察爆裂水管時意外墮下，跌至三樓平台，雨篷緩衝其墮落，仍有意識。"
       }
     }
   ]
