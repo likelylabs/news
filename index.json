@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-02T20:08:46+08:00",
+  "generated_at": "2026-11-02T22:07:48+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-11-02-aqua-chow-murder-trial-opens",
+      "published_at": "2026-11-02T22:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "murder",
+        "trial",
+        "tsim-sha-tsui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-aqua-chow-murder-trial-opens.json",
+      "en": {
+        "headline": "High Court opens murder trial of man accused of killing yoga instructor",
+        "dek": "Prosecutors told the jury that Alex Lo bought a knife and planned to kill his former girlfriend Aqua Chow at the Ritz-Carlton in 2022."
+      },
+      "zh": {
+        "headline": "高等法院開審瑜伽導師遭殺案 被告否認謀殺",
+        "dek": "控方告訴陪審團，被告羅俊明購入刀具，計劃於2022年在麗思卡爾頓酒店殺死前女友周慧賢。"
+      }
+    },
+    {
+      "id": "2026-11-02-gregory-wong-cfa-leave-refused",
+      "published_at": "2026-11-02T22:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "legco",
+        "riot",
+        "appeal"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-gregory-wong-cfa-leave-refused.json",
+      "en": {
+        "headline": "Court of Final Appeal refuses Gregory Wong leave to appeal LegCo riot conviction",
+        "dek": "The Appeal Committee found the actor had not raised reasonably arguable grounds to challenge his conviction and six-year-two-month sentence for the 2019 storming."
+      },
+      "zh": {
+        "headline": "終審法院拒絕黃秋生就立法會暴動案提出上訴許可",
+        "dek": "上訴委員會裁定演員未能提出合理可爭辯理由，挑戰其因2019年衝擊立法會被定罪及判囚六年兩個月。"
+      }
+    },
+    {
+      "id": "2026-11-02-tsuen-wan-road-minibus-collision",
+      "published_at": "2026-11-02T22:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "accident",
+        "kwai-chung",
+        "minibus",
+        "traffic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-tsuen-wan-road-minibus-collision.json",
+      "en": {
+        "headline": "Nine injured in three-vehicle collision on Tsuen Wan Road in Kwai Chung",
+        "dek": "Police said two private cars and a minibus collided near Kwai Shun Street Playground at about 7.29pm, leaving nine minibus passengers with minor injuries."
+      },
+      "zh": {
+        "headline": "荃灣路葵涌三車相撞九人受傷",
+        "dek": "警方表示，周一晚上約7時29分，兩輛私家車與一輛小巴在葵涌葵順街遊樂場附近相撞，小巴上九名乘客輕傷。"
+      }
+    },
     {
       "id": "2026-11-02-hzmb-checkpoint-hit-and-run-arrest",
       "published_at": "2026-11-02T20:10:00+08:00",
@@ -1699,52 +1765,6 @@
       "zh": {
         "headline": "教育局公布小學資訊與創新科技課程框架",
         "dek": "全港小學將於2028/29學年起推行新科目，涵蓋編程及人工智能等五個範疇，不納入呈分試。"
-      }
-    },
-    {
-      "id": "2026-10-30-kmb-b10s-overnight-huanggang",
-      "published_at": "2026-10-30T21:05:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "kmb",
-        "huanggang",
-        "halloween",
-        "overnight",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-kmb-b10s-overnight-huanggang.json",
-      "en": {
-        "headline": "KMB adds overnight B10S route to Huanggang Port early Sunday",
-        "dek": "The new service will run from Kwai Fong to the border from 00:40 to 02:00 on 1 November to handle post-Halloween passenger demand, with extra NB73 trips also arranged."
-      },
-      "zh": {
-        "headline": "九巴周日凌晨增設B10S深宵線往皇崗口岸",
-        "dek": "新路線於11月1日凌晨0時40分至2時由葵芳開出，方便萬聖節活動後返回內地的乘客，同時加強NB73服務。"
-      }
-    },
-    {
-      "id": "2026-10-30-united-christian-hospital-data-leak-report",
-      "published_at": "2026-10-30T21:05:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "privacy",
-        "hospital",
-        "data-breach",
-        "ha",
-        "united-christian"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-united-christian-hospital-data-leak-report.json",
-      "en": {
-        "headline": "Privacy Commissioner finds Hospital Authority deficiencies in United Christian Hospital…",
-        "dek": "The report on the April incident said inadequate contractor monitoring and access controls led to data of over 56,000 people reaching the dark web; an enforcement notice has been issued."
-      },
-      "zh": {
-        "headline": "私隱專員指醫管局缺失是聯合醫院資料外洩主因",
-        "dek": "調查報告指承辦商監察及存取管控不足，導致逾5.6萬人資料外洩至暗網；公署已向醫管局發出執行通知。"
       }
     }
   ]
