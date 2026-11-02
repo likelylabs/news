@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-02T12:11:25+08:00",
+  "generated_at": "2026-11-02T14:15:31+08:00",
   "live_window_hours": 72,
-  "count": 77,
+  "count": 78,
   "articles": [
+    {
+      "id": "2026-11-02-john-lee-beijing-shanghai-visit",
+      "published_at": "2026-11-02T14:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "john-lee",
+        "beijing",
+        "shanghai",
+        "ciie",
+        "symposium"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-john-lee-beijing-shanghai-visit.json",
+      "en": {
+        "headline": "John Lee to visit Beijing and Shanghai for symposium and CIIE",
+        "dek": "The Chief Executive departs tomorrow for the 29th Beijing-Hong Kong Economic Cooperation Symposium and the ninth China International Import Expo, returning on November 6."
+      },
+      "zh": {
+        "headline": "李家超明赴北京上海出席京港洽談會及進博會",
+        "dek": "行政長官周二出發，出席第29屆京港經濟合作研討洽談會及第9屆中國國際進口博覽會，預計11月6日返港。"
+      }
+    },
+    {
+      "id": "2026-11-02-sun-dong-world-internet-conference",
+      "published_at": "2026-11-02T14:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "sun-dong",
+        "internet",
+        "wuzhen",
+        "technology"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-sun-dong-world-internet-conference.json",
+      "en": {
+        "headline": "Sun Dong departs for World Internet Conference in Wuzhen",
+        "dek": "The Secretary for Innovation, Technology and Industry left for Zhejiang on Monday afternoon to attend the summit, where he will speak at forums on AI agents and cross-strait internet development."
+      },
+      "zh": {
+        "headline": "孫東啟程赴烏鎮出席世界互聯網大會峰會",
+        "dek": "創新科技及工業局局長周一下午出發前往浙江，將出席峰會並在智能體及兩岸港澳互聯網發展論壇致辭。"
+      }
+    },
+    {
+      "id": "2026-11-02-unidroit-asia-pacific-office-opens",
+      "published_at": "2026-11-02T14:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "legal",
+        "unidroit",
+        "legal-week",
+        "john-lee"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-unidroit-asia-pacific-office-opens.json",
+      "en": {
+        "headline": "UNIDROIT opens first Asia-Pacific liaison office in Hong Kong",
+        "dek": "Chief Executive John Lee welcomed the institute’s first overseas presence as Hong Kong Legal Week 2026 began, calling the city an ideal home for regional private-law work."
+      },
+      "zh": {
+        "headline": "國際統一私法協會亞太聯絡辦正式在港開幕",
+        "dek": "行政長官李家超歡迎協會百年來首個海外辦公室落戶香港，並為法律周2026揭幕，形容本港是推動區域私法工作的理想地點。"
+      }
+    },
     {
       "id": "2026-11-02-hsbc-ai-institute-northern-metropolis",
       "published_at": "2026-11-02T12:08:00+08:00",
@@ -1683,49 +1750,6 @@
       "zh": {
         "headline": "房屋局以項目制管制組替代獨立審查組",
         "dek": "約三百名職員將轉任新公營房屋樓宇管制組，每項大型維修工程會配對專責團隊及聯絡人員。"
-      }
-    },
-    {
-      "id": "2026-10-30-pag-evergrande-property-services-acquisition",
-      "published_at": "2026-10-30T13:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "property",
-        "evergrande",
-        "pag"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-pag-evergrande-property-services-acquisition.json",
-      "en": {
-        "headline": "PAG agrees to buy 51 per cent of Evergrande Property Services for HK$4 billion",
-        "dek": "The private equity firm will take control of the listed unit at a discount, marking progress in liquidators' efforts to recover assets for China Evergrande creditors."
-      },
-      "zh": {
-        "headline": "PAG同意以40億元收購恒大物業51%股權",
-        "dek": "私募基金將以折讓價取得上市單位控制權，標誌着清盤人為中國恒大債權人追回資產的努力取得進展。"
-      }
-    },
-    {
-      "id": "2026-10-30-weekend-weather-outlook-oct31-nov1",
-      "published_at": "2026-10-30T13:15:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "weekend",
-        "hong-kong-observatory"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-30/2026-10-30-weekend-weather-outlook-oct31-nov1.json",
-      "en": {
-        "headline": "Observatory forecasts mainly fine Saturday, cloudier Sunday for Hong Kong",
-        "dek": "Saturday will be mainly fine and dry with highs around 29 degrees under an easterly airstream, while Sunday turns cloudier with a chance of light rain early."
-      },
-      "zh": {
-        "headline": "天文台預測周六大致天晴乾燥 周日雲量增多",
-        "dek": "周六受偏東氣流影響大致天晴乾燥，最高約29度；周日轉為大致多雲，初時或有一兩陣雨。"
       }
     }
   ]
