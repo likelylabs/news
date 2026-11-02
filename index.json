@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-02T07:43:09+08:00",
+  "generated_at": "2026-11-02T08:04:45+08:00",
   "live_window_hours": 72,
-  "count": 77,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-11-02-lifestyle-charlie-chocolate-factory",
+      "published_at": "2026-11-02T08:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "musical",
+        "cultural-centre",
+        "tsim-sha-tsui",
+        "theatre"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-lifestyle-charlie-chocolate-factory.json",
+      "en": {
+        "headline": "Charlie and the Chocolate Factory musical opens at Cultural Centre this week",
+        "dek": "The Broadway production of the Roald Dahl story runs from 4 November to 6 December at the Grand Theatre, performed in English with Chinese surtitles."
+      },
+      "zh": {
+        "headline": "《朱古力獎門人》音樂劇本周於文化中心開演",
+        "dek": "百老匯版羅爾德·達爾故事改編音樂劇由11月4日至12月6日在香港文化中心大劇院上演，英語演出配繁體中文字幕。"
+      }
+    },
+    {
+      "id": "2026-11-02-wan-chai-driver-drugs-arrest",
+      "published_at": "2026-11-02T08:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "wan-chai",
+        "drugs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-02/2026-11-02-wan-chai-driver-drugs-arrest.json",
+      "en": {
+        "headline": "Police arrest driver after finding suspected drugs in Wan Chai car",
+        "dek": "Officers stopped a private car near 221 Gloucester Road early Monday and seized small amounts of suspected methamphetamine, cocaine and cannabis; a 34-year-old man was arrested for trafficking."
+      },
+      "zh": {
+        "headline": "警灣仔截查私家車檢懷疑毒品 拘34歲男司機",
+        "dek": "警方周一凌晨在告士打道221號對開截查一輞私家車，檢獲少量懷疑冰毒、可卡因及大麻花，34歲非華裔男司機涉嫌販運危險藥物被捕。"
+      }
+    },
     {
       "id": "2026-11-02-lifestyle-inter-island-festival-2026",
       "published_at": "2026-11-02T04:15:00+08:00",
