@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-03T12:11:27+08:00",
+  "generated_at": "2026-11-03T12:12:41+08:00",
   "live_window_hours": 72,
-  "count": 82,
+  "count": 84,
   "articles": [
     {
       "id": "2026-11-03-parking-meters-system-malfunction",
@@ -45,6 +45,50 @@
       "zh": {
         "headline": "國務院決定免去何永賢房屋局局長職務",
         "dek": "何永賢上月為大埔宏福苑火災承擔政治責任請辭，財政司副司長黃偉綸兼任署理局長。"
+      }
+    },
+    {
+      "id": "2026-11-03-ho-wing-yin-housing-secretary-removal",
+      "published_at": "2026-11-03T12:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "housing",
+        "tai-po-fire",
+        "principal-official"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-ho-wing-yin-housing-secretary-removal.json",
+      "en": {
+        "headline": "Central Government removes Winnie Ho as Housing Secretary",
+        "dek": "The State Council approved the removal on Tuesday following her resignation to take political responsibility for the Wang Fuk Court fire."
+      },
+      "zh": {
+        "headline": "國務院決定免去何永賢房屋局局長職務",
+        "dek": "中央人民政府周二根據行政長官建議，正式免去何永賢房屋局局長一職，她早前為宏福苑火災承擔政治責任請辭。"
+      }
+    },
+    {
+      "id": "2026-11-03-parking-meter-system-outage",
+      "published_at": "2026-11-03T12:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "parking",
+        "meters",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-parking-meter-system-outage.json",
+      "en": {
+        "headline": "Parking meter system fails across Hong Kong, police hold off enforcement",
+        "dek": "Transport officials said the operator reported the outage at about 8.20am; Secretary Chen Mei-bo confirmed police would not ticket roadside meter spaces until repairs are complete."
+      },
+      "zh": {
+        "headline": "全港咪錶泊車系統故障 陳美寶稱未完全復修前警方暫不執法",
+        "dek": "運輸署今早約8時20分接獲營辦商報告系統故障，正緊急搶修；運輸及物流局局長表示警方在系統完全復修前不會對路旁咪錶位執法。"
       }
     },
     {
