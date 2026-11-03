@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-03T12:12:41+08:00",
+  "generated_at": "2026-11-03T14:13:41+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-11-03-parking-meters-restored",
+      "published_at": "2026-11-03T14:20:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "parking",
+        "transport-department",
+        "mable-chan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-parking-meters-restored.json",
+      "en": {
+        "headline": "Parking meter system restored after nearly four-hour outage",
+        "dek": "Transport Department says the citywide system is back to normal after emergency repairs; no evidence of attack, and operator must submit a report within 24 hours."
+      },
+      "zh": {
+        "headline": "全港咪錶泊車系統已恢復正常運作",
+        "dek": "運輸署指營運商緊急搶修後系統復常，暫無證據顯示遭攻擊，並要求盡快提交報告。"
+      }
+    },
+    {
+      "id": "2026-11-03-red-flags-three-beaches",
+      "published_at": "2026-11-03T14:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "beaches",
+        "leisure",
+        "safety",
+        "southern-district"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-red-flags-three-beaches.json",
+      "en": {
+        "headline": "Red flags hoisted at Stanley, Big Wave Bay and Clear Water Bay beaches",
+        "dek": "Leisure and Cultural Services Department cites big waves; beachgoers advised not to swim at the three sites in Southern and Sai Kung districts."
+      },
+      "zh": {
+        "headline": "赤柱正灘、大浪灣及清水灣第二灣泳灘懸掛紅旗",
+        "dek": "康文署因大浪關係懸掛紅旗，呼籲市民勿在港島南區及西貢區這三個泳灘游泳。"
+      }
+    },
+    {
+      "id": "2026-11-03-yuen-long-councillor-sentenced",
+      "published_at": "2026-11-03T14:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "court",
+        "yuen-long",
+        "district-council"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-yuen-long-councillor-sentenced.json",
+      "en": {
+        "headline": "Yuen Long district councillor jailed 2.5 years for sex with 13-year-old",
+        "dek": "District Court judge notes lack of remorse in sentencing Sei Chun-hing over an offence from more than a decade ago; he was acquitted of a related indecent-assault count."
+      },
+      "zh": {
+        "headline": "元朗區議員施振興因與13歲女童發生性行為判囚兩年半",
+        "dek": "區域法院法官指被告缺乏悔意；事件發生於十多年前，另控非禮則被裁定罪名不成立。"
+      }
+    },
     {
       "id": "2026-11-03-parking-meters-system-malfunction",
       "published_at": "2026-11-03T12:25:00+08:00",
@@ -1845,29 +1911,6 @@
       "zh": {
         "headline": "屯門友愛邨男夜歸遭兩男襲擊企圖行劫不果",
         "dek": "33歲事主口部及手部擦傷，財物無失，兩名身穿白色上衣男子逃去。"
-      }
-    },
-    {
-      "id": "2026-10-31-shau-kei-wan-wah-kwong-parade",
-      "published_at": "2026-10-31T13:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "shau-kei-wan",
-        "festival",
-        "transport",
-        "parade",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-31/2026-10-31-shau-kei-wan-wah-kwong-parade.json",
-      "en": {
-        "headline": "Shau Kei Wan streets intermittently closed for Wah Kwong Festival parade",
-        "dek": "Transport Department advises drivers to avoid the area as roads close from 11am to 1pm today for the traditional celebration."
-      },
-      "zh": {
-        "headline": "筱箕灣華光先師寶誕巡遊 多條街道間歇封閉",
-        "dek": "運輸署指今日上午11時至下午1時實施封路，方便傳統巡遊，駕駛者應避免前往受影響區域。"
       }
     }
   ]
