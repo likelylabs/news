@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-03T08:05:30+08:00",
+  "generated_at": "2026-11-03T10:12:45+08:00",
   "live_window_hours": 72,
   "count": 81,
   "articles": [
+    {
+      "id": "2026-11-03-lifestyle-lola-maria-wan-chai-opening",
+      "published_at": "2026-11-03T10:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "wan-chai",
+        "opening",
+        "spanish"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-lifestyle-lola-maria-wan-chai-opening.json",
+      "en": {
+        "headline": "Spanish restaurant Lola María opens second branch in Wan Chai today",
+        "dek": "Chef Edgard Sanuy Barahona's second Hong Kong outlet on Gresson Street offers Spanish tapas and exclusive local dishes, following the Sheung Wan original."
+      },
+      "zh": {
+        "headline": "西班牙餐廳Lola María今日灣仔開設第二分店",
+        "dek": "主廚Edgard Sanuy Barahona在機利臣街的新店提供西班牙小食及灣仔限定菜式，繼上環荷李活道首店後擴展。"
+      }
+    },
+    {
+      "id": "2026-11-03-northern-metropolis-marathon-complaints",
+      "published_at": "2026-11-03T10:20:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "marathon",
+        "northern-metropolis",
+        "sport",
+        "heung-yee-kuk"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-northern-metropolis-marathon-complaints.json",
+      "en": {
+        "headline": "Runners criticise inaugural Northern Metropolis Marathon arrangements",
+        "dek": "Participants reported water shortages, hot conditions, uneven terrain and a long post-race walk after the event drew about 15,000 runners on Sunday."
+      },
+      "zh": {
+        "headline": "跑手批評首屆北部都會區馬拉松安排",
+        "dek": "約1.5萬名跑手周日參賽後，反映缺水、天氣炎熱、路況不平及賽後取回物品需長途步行。"
+      }
+    },
     {
       "id": "2026-11-03-hung-shui-kiu-hit-and-run-death",
       "published_at": "2026-11-03T08:15:00+08:00",
@@ -1758,52 +1803,6 @@
       "zh": {
         "headline": "Spooky Halloween音樂嘉年華回歸灣仔海濱",
         "dek": "由Live Nation Electronic Asia主辦的三日活動於灣仔海濱活動空間舉行至周日，設有9米高裝置及現場音樂。"
-      }
-    },
-    {
-      "id": "2026-10-31-lifestyle-discovery-bay-halloween-night-market",
-      "published_at": "2026-10-31T09:28:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "halloween",
-        "discovery-bay",
-        "market",
-        "family"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-31/2026-10-31-lifestyle-discovery-bay-halloween-night-market.json",
-      "en": {
-        "headline": "Discovery Bay holds Halloween Night Market and first cosplay parade today",
-        "dek": "The free Halloween Night Market runs from 2pm to 9pm at DB Plaza Open Piazza today, alongside the debut cosplay parade and costume contest from 3pm to 5pm."
-      },
-      "zh": {
-        "headline": "愉景灣今日舉辦萬聖節夜市及首屆Cosplay巡遊",
-        "dek": "免費萬聖節夜市今日下午2時至9時在愉景廣場露天廣場舉行，首屆Cosplay巡遊及服裝比賽則於下午3時至5時進行。"
-      }
-    },
-    {
-      "id": "2026-10-31-fitness-coach-admiralty-bomb-threat",
-      "published_at": "2026-10-31T09:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "court",
-        "mtr",
-        "admiralty",
-        "online-game"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-31/2026-10-31-fitness-coach-admiralty-bomb-threat.json",
-      "en": {
-        "headline": "Fitness coach jailed nine months for Admiralty MTR bomb threat in online game",
-        "dek": "A 31-year-old man was sentenced at Eastern Magistrates' Courts on Friday after messages sent during a League of Legends match threatened to explode Admiralty station on Lunar New Year's Day."
-      },
-      "zh": {
-        "headline": "兼職健身教練網遊揚言年初一炸金鐘站 罪成判囚9個月",
-        "dek": "東區裁判法院周五裁定31歲男子一項威脅摧毀或損壞財產罪成，判囚9個月。他在《英雄聯盟》對戰期間發出訊息，揚言農曆新年初一在金鐘站放炸彈。"
       }
     }
   ]

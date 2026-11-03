@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "ai-city-brain-scmp-oct20",
-      "id": "2026-10-20-ai-city-brain-feature",
-      "first_seen": "2026-10-20T09:11:00+08:00",
-      "headline_en": "Hong Kong plans AI city brain system linking weather and infrastructure data"
-    },
-    {
-      "key": "lifestyle-mega-show-creative-oct20",
-      "id": "2026-10-20-lifestyle-mega-show-creative-design",
-      "first_seen": "2026-10-20T09:11:00+08:00",
-      "headline_en": "Hong Kong Creative & Design Exhibition opens at HKCEC as part of MEGA SHOW"
-    },
-    {
       "key": "dim-sum-bonds-sovereign-apec-oct20",
       "id": "2026-10-20-dim-sum-bonds-sovereign-push",
       "first_seen": "2026-10-20T11:12:00+08:00",
@@ -2489,7 +2477,19 @@
       "id": "2026-11-03-mao-hamasaki-drugging-arrest",
       "first_seen": "2026-11-03T08:15:00+08:00",
       "headline_en": "Police arrest 61-year-old man over suspected drugging of DJ Mao Hamasaki in Tsim Sha Tsui"
+    },
+    {
+      "key": "lifestyle-lola-maria-wan-chai-opening",
+      "id": "2026-11-03-lifestyle-lola-maria-wan-chai-opening",
+      "first_seen": "2026-11-03T10:20:00+08:00",
+      "headline_en": "Spanish restaurant Lola María opens second branch in Wan Chai today"
+    },
+    {
+      "key": "northern-metropolis-marathon-runner-complaints",
+      "id": "2026-11-03-northern-metropolis-marathon-complaints",
+      "first_seen": "2026-11-03T10:20:00+08:00",
+      "headline_en": "Runners criticise inaugural Northern Metropolis Marathon arrangements"
     }
   ],
-  "updated_at": "2026-11-03T08:05:30+08:00"
+  "updated_at": "2026-11-03T10:12:45+08:00"
 }
