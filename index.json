@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-04T02:03:25+08:00",
+  "generated_at": "2026-11-04T04:17:40+08:00",
   "live_window_hours": 72,
-  "count": 82,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-11-04-lifestyle-lola-maria-wan-chai",
+      "published_at": "2026-11-04T04:16:00+08:00",
+      "updated_at": "2026-11-04T04:18:00+08:00",
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "wan-chai",
+        "restaurant",
+        "opening"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-04/2026-11-04-lifestyle-lola-maria-wan-chai.json",
+      "en": {
+        "headline": "Spanish restaurant Lola María opens second branch on Gresson Street in Wan Chai",
+        "dek": "Chef Edgard Sanuy Barahona’s new outlet began service on 3 November, adding Wan Chai-exclusive dishes alongside the Sheung Wan original’s menu."
+      },
+      "zh": {
+        "headline": "西班牙餐廳Lola María於灣仔機利臣街開設第二分店",
+        "dek": "主廚Edgard Sanuy Barahona的新店於11月3日開始營業，在上環原店菜式以外加入灣仔限定菜式。"
+      }
+    },
     {
       "id": "2026-11-04-lifestyle-charlie-chocolate-factory",
       "published_at": "2026-11-04T02:20:00+08:00",
@@ -1791,52 +1814,6 @@
       "zh": {
         "headline": "六合彩萬聖節金多寶頭獎無人中 周四頭獎基金料達 1.08億",
         "dek": "周六攪珠無人獨中頭獎，馬會估計周四攪珠頭獎基金可達 1.08億元。"
-      }
-    },
-    {
-      "id": "2026-11-01-alice-mak-taipo-fire-apology",
-      "published_at": "2026-11-01T03:14:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "tai-po-fire",
-        "accountability",
-        "alice-mak",
-        "building-management",
-        "home-affairs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-alice-mak-taipo-fire-apology.json",
-      "en": {
-        "headline": "Mak apologises to Tai Po fire victims as accountability team member",
-        "dek": "Home and Youth Affairs Secretary Alice Mak said she would follow the Chief Executive’s instructions on reforms and Building Management Ordinance amendments."
-      },
-      "zh": {
-        "headline": "麥美娟作為問責團隊一員向宏福苑災民及社會致歉",
-        "dek": "民政及青年事務局局長表示會遵從行政長官指示，緊守崗位做好制度改革及《建築物管理條例》修訂工作。"
-      }
-    },
-    {
-      "id": "2026-11-01-lifestyle-agape-garden-tko-closing",
-      "published_at": "2026-11-01T03:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "tseung-kwan-o",
-        "closing",
-        "social-enterprise"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-lifestyle-agape-garden-tko-closing.json",
-      "en": {
-        "headline": "Social enterprise Agape Garden to close Tseung Kwan O shop in early December",
-        "dek": "The operator said the Housing Department notified it that the shop space would be reclaimed, following a similar closure of its Shek Kip Mei branch last year."
-      },
-      "zh": {
-        "headline": "社企膳心小館將軍澳店不獲房署續租 12月上旬結業",
-        "dek": "營運者稱接獲房屋署書面通知收回舖位，繼去年石硤尾店結業後，這是僅餘分店。"
       }
     }
   ]
