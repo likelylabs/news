@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-11-03T18:11:04+08:00",
+  "generated_at": "2026-11-03T20:22:58+08:00",
   "live_window_hours": 72,
   "count": 84,
   "articles": [
+    {
+      "id": "2026-11-03-bid-rigging-task-force-tang",
+      "published_at": "2026-11-03T20:25:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "bid-rigging",
+        "tai-po-fire",
+        "security",
+        "icac"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-bid-rigging-task-force-tang.json",
+      "en": {
+        "headline": "Tang says joint task force will seek bid-rigging clues at owners’ meetings",
+        "dek": "Security Secretary tells lawmakers officers will use surveillance and attend corporation meetings to intervene early in building maintenance cases."
+      },
+      "zh": {
+        "headline": "鄧炳強稱特遣隊會到業主大會尋找圍標線索",
+        "dek": "保安局局長向立法會議員表示，執法人員會出席業主立案法團會議並以監視等方式及早介入樓宇維修個案。"
+      }
+    },
+    {
+      "id": "2026-11-03-qs-asia-university-rankings",
+      "published_at": "2026-11-03T20:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "university",
+        "qs-rankings",
+        "hku",
+        "cityu"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-qs-asia-university-rankings.json",
+      "en": {
+        "headline": "Five Hong Kong universities in Asia’s top 10 as HKU retains first place",
+        "dek": "QS Asia rankings place City University fourth and Chinese University fifth, with three local institutions in the top five for the first time in more than a decade."
+      },
+      "zh": {
+        "headline": "QS亞洲大學排名港五校入十強 港大蟬聯榜首",
+        "dek": "城大升至第四、中大第五，本港三間大學相隔逾十年再同時位列亞洲五強。"
+      }
+    },
+    {
+      "id": "2026-11-03-retail-sales-september",
+      "published_at": "2026-11-03T20:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "retail",
+        "economy",
+        "census-statistics",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-retail-sales-september.json",
+      "en": {
+        "headline": "Hong Kong retail sales rise 6.4 per cent in September, 17th straight month of growth",
+        "dek": "Provisional figures show total sales value at HK$33.4 billion, with online sales up 12 per cent and jewellery leading category gains."
+      },
+      "zh": {
+        "headline": "本港9月零售業銷貨值按年升6.4% 連升17個月",
+        "dek": "臨時估計總銷貨價值334億元，網上銷售升12%，珠寶鐘錶等類別升幅顯著。"
+      }
+    },
+    {
+      "id": "2026-11-03-triathlon-traffic-arrangements",
+      "published_at": "2026-11-03T20:25:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "triathlon",
+        "central",
+        "wan-chai",
+        "traffic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-triathlon-traffic-arrangements.json",
+      "en": {
+        "headline": "Special traffic arrangements for World Triathlon Cup in Central and Wan Chai",
+        "dek": "Transport Department says Expo Drive will close from Wednesday and further road closures will apply near the harbourfront on Saturday and Sunday."
+      },
+      "zh": {
+        "headline": "三項鐵人世界盃中區及灣仔分階段實施特別交通安排",
+        "dek": "運輸署指博覽道由周三起封閉，周六及周日中環海濱及灣仔北一帶將進一步封路改道。"
+      }
+    },
     {
       "id": "2026-11-03-airport-single-checkin-hangzhou-wuhan",
       "published_at": "2026-11-03T18:10:00+08:00",
@@ -1784,94 +1876,6 @@
       "zh": {
         "headline": "沙頭角公路的士撞傷過路6歲女童 司機涉危駕被捕",
         "dek": "警方指下午約5時45分接報，女童腳部及頭部受傷但清醒，44歲的士司機涉嫌危險駕駛引致他人身體受嚴重傷害被捕。"
-      }
-    },
-    {
-      "id": "2026-10-31-british-baby-influenza-repatriation",
-      "published_at": "2026-10-31T19:20:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "influenza",
-        "hospital",
-        "repatriation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-31/2026-10-31-british-baby-influenza-repatriation.json",
-      "en": {
-        "headline": "Family appeals for private aircraft to fly critically ill British baby home from Hong Kong",
-        "dek": "Nine-month-old Matthew suffered three cardiac arrests after contracting influenza A during a family visit and cannot travel on commercial flights while ventilated."
-      },
-      "zh": {
-        "headline": "英籍嬰兒染甲流危殆 家屬呼籲捐贈私人飛機送返英國",
-        "dek": "九個月大男嬰馬修在港探親期間感染甲型流感並三次心跳停止，因需呼吸機無法乘搭商業航班。"
-      }
-    },
-    {
-      "id": "2026-10-31-building-repairs-lists-applications",
-      "published_at": "2026-10-31T19:20:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "building-maintenance",
-        "bernadette-linn",
-        "tai-po-fire",
-        "development"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-31/2026-10-31-building-repairs-lists-applications.json",
-      "en": {
-        "headline": "Linn says applications for new building repairs lists double or triple previous numbers",
-        "dek": "The development secretary said about 150 consultants and 350 contractors have applied for pre-qualified lists under the new Building Maintenance Support and Services Council."
-      },
-      "zh": {
-        "headline": "甯漢豪：新維修名單申請量為以往兩至三倍",
-        "dek": "發展局局長指約有150名顧問及350名承建商申請加入新樓宇維修支援及服務委員會的預審名單。"
-      }
-    },
-    {
-      "id": "2026-10-31-paul-chan-strongest-growth-five-years",
-      "published_at": "2026-10-31T19:10:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "economy",
-        "paul-chan",
-        "growth",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-31/2026-10-31-paul-chan-strongest-growth-five-years.json",
-      "en": {
-        "headline": "Chan says Hong Kong may record strongest growth in five years",
-        "dek": "The financial secretary said first-half growth of 5.1 per cent and continued momentum into the third quarter could make 2026 the strongest full-year figure in five years."
-      },
-      "zh": {
-        "headline": "陳茂波：香港今年經濟增長或為五年來最強",
-        "dek": "財政司司長指上半年增長5.1%，第三季勢頭持續，有機會令2026年全年增長成為過去五年最強。"
-      }
-    },
-    {
-      "id": "2026-10-31-primary-schools-ai-curriculum",
-      "published_at": "2026-10-31T19:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "ai",
-        "primary-schools",
-        "curriculum"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-31/2026-10-31-primary-schools-ai-curriculum.json",
-      "en": {
-        "headline": "Primary schools to introduce AI-focused technology subject from 2028",
-        "dek": "The Education Bureau announced a provisional curriculum framework for Information and Innovation Technology, covering AI and programming, to start in Primary 1 and 4 from the 2028/29 school year."
-      },
-      "zh": {
-        "headline": "小學2028/29學年起推行資訊與創新科技科 涵蓋人工智能",
-        "dek": "教育局公布課程框架擬定稿，小一及小四由2028/29學年開始推行，學生可學習簡單與人工智能系統對話。"
       }
     }
   ]
