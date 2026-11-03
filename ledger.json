@@ -1,24 +1,6 @@
 {
   "covered": [
     {
-      "key": "dim-sum-bonds-sovereign-apec-oct20",
-      "id": "2026-10-20-dim-sum-bonds-sovereign-push",
-      "first_seen": "2026-10-20T11:12:00+08:00",
-      "headline_en": "Hong Kong seeks more sovereign issuers for dim sum bond market"
-    },
-    {
-      "key": "lifestyle-palace-museum-windows-heaven",
-      "id": "2026-10-20-lifestyle-palace-museum-windows-heaven",
-      "first_seen": "2026-10-20T11:12:00+08:00",
-      "headline_en": "Hong Kong Palace Museum opens Eastern Orthodox art exhibition tomorrow"
-    },
-    {
-      "key": "mother-underweight-daughter-bond-oct20",
-      "id": "2026-10-20-mother-underweight-daughter-bond",
-      "first_seen": "2026-10-20T11:12:00+08:00",
-      "headline_en": "Mother placed on three-year bond after child neglect charge dropped"
-    },
-    {
       "key": "asian-para-games-table-tennis-bronze-oct20",
       "id": "2026-10-20-asian-para-games-paddlers-bronze",
       "first_seen": "2026-10-20T13:20:00+08:00",
@@ -2489,7 +2471,19 @@
       "id": "2026-11-03-northern-metropolis-marathon-complaints",
       "first_seen": "2026-11-03T10:20:00+08:00",
       "headline_en": "Runners criticise inaugural Northern Metropolis Marathon arrangements"
+    },
+    {
+      "key": "parking-meters-system-malfunction-nov3",
+      "id": "2026-11-03-parking-meters-system-malfunction",
+      "first_seen": "2026-11-03T12:25:00+08:00",
+      "headline_en": "Parking meter system fails across Hong Kong, police hold off enforcement"
+    },
+    {
+      "key": "state-council-removes-ho-wing-yin-housing",
+      "id": "2026-11-03-state-council-removes-ho-housing",
+      "first_seen": "2026-11-03T12:25:00+08:00",
+      "headline_en": "State Council removes Ho Wing-yin as Housing Bureau Secretary"
     }
   ],
-  "updated_at": "2026-11-03T10:29:52+08:00"
+  "updated_at": "2026-11-03T12:11:27+08:00"
 }

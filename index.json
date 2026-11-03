@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-03T10:29:52+08:00",
+  "generated_at": "2026-11-03T12:11:27+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 82,
   "articles": [
+    {
+      "id": "2026-11-03-parking-meters-system-malfunction",
+      "published_at": "2026-11-03T12:25:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "parking",
+        "transport-department",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-parking-meters-system-malfunction.json",
+      "en": {
+        "headline": "Parking meter system fails across Hong Kong, police hold off enforcement",
+        "dek": "Transport Department says emergency repairs are under way after the operator reported a malfunction at 8.20am; Secretary Mable Chan says police will not ticket roadside spaces until fixed."
+      },
+      "zh": {
+        "headline": "全港咪錶泊車系統故障 警方暫不執法路旁泊位",
+        "dek": "運輸署接獲營運商早上約8時20分報告系統故障，正緊急搶修；陳美寶指未完全復修前警方不會就路旁咪錶位執法。"
+      }
+    },
+    {
+      "id": "2026-11-03-state-council-removes-ho-housing",
+      "published_at": "2026-11-03T12:25:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "housing",
+        "tai-po-fire",
+        "government",
+        "accountability"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-state-council-removes-ho-housing.json",
+      "en": {
+        "headline": "State Council removes Ho Wing-yin as Housing Bureau Secretary",
+        "dek": "The formal removal follows her resignation last week to take political responsibility for the Tai Po fire, with Michael Wong acting in the post."
+      },
+      "zh": {
+        "headline": "國務院決定免去何永賢房屋局局長職務",
+        "dek": "何永賢上月為大埔宏福苑火災承擔政治責任請辭，財政司副司長黃偉綸兼任署理局長。"
+      }
+    },
     {
       "id": "2026-11-03-lifestyle-lola-maria-wan-chai-opening",
       "published_at": "2026-11-03T10:20:00+08:00",
@@ -1780,29 +1824,6 @@
       "zh": {
         "headline": "筱箕灣華光先師寶誕巡遊 多條街道間歇封閉",
         "dek": "運輸署指今日上午11時至下午1時實施封路，方便傳統巡遊，駕駛者應避免前往受影響區域。"
-      }
-    },
-    {
-      "id": "2026-10-31-lifestyle-spooky-halloween-wan-chai",
-      "published_at": "2026-10-31T11:12:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "halloween",
-        "wan-chai",
-        "music",
-        "festival"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-31/2026-10-31-lifestyle-spooky-halloween-wan-chai.json",
-      "en": {
-        "headline": "Spooky Halloween music carnival returns to Wan Chai Harbourfront",
-        "dek": "The three-day event organised by Live Nation Electronic Asia runs through Sunday at the Wan Chai Harbourfront Event Space with 9-metre installations and live music."
-      },
-      "zh": {
-        "headline": "Spooky Halloween音樂嘉年華回歸灣仔海濱",
-        "dek": "由Live Nation Electronic Asia主辦的三日活動於灣仔海濱活動空間舉行至周日，設有9米高裝置及現場音樂。"
       }
     }
   ]
