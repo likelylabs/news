@@ -1,1 +1,31 @@
-PLACEHOLDER
+{
+  "id": "2026-11-03-proxy-votes-defer-nov3",
+  "published_at": "2026-11-03T22:15:00+08:00",
+  "category": "politics",
+  "tags": ["politics", "housing", "tai-po-fire", "buildings-management", "legco"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "buildings-management-proxy-votes-defer-nov3",
+  "en": {
+    "headline": "Government defers proxy-vote caps for owners’ meetings after consultation",
+    "dek": "Home and Youth Affairs Bureau says more than half of 550 submissions opposed limits, so it will first strengthen spot checks and verification following the Tai Po fire.",
+    "body": [
+      "The Home and Youth Affairs Bureau has decided not to introduce a cap on the number of proxy votes one person may hold at owners’ corporation meetings for the time being, citing a lack of consensus after public consultation.",
+      "The bureau received 550 written submissions during a one-month consultation in August on proposed amendments to the Buildings Management Ordinance. More than 50 per cent opposed a numerical limit on proxies, and nearly 70 per cent rejected restricting who may act as an authorised representative. The bureau also took into account recommendations from the independent commission that examined the Wang Fuk Court fire in Tai Po, which killed 168 people.",
+      "Officials said no broad agreement was reached on the threshold for any limit or on how excess proxies would be identified and handled. Many respondents argued that stronger spot checks and verification of proxy documents would be more effective. The bureau will therefore prioritise those measures while continuing to study the feasibility of a cap and the introduction of electronic proxy votes.",
+      "On large-scale maintenance projects the bureau proposed a tiered system of personal-voting thresholds according to the value of works. More than 60 per cent of submissions supported the idea. The bureau will apply the tiers only to the personal-voting requirement; the quorum for meetings will remain at 10 per cent of owners, to avoid the risk of meetings failing for lack of numbers.",
+      "The revised proposals were submitted to the Legislative Council on Tuesday as part of the government’s response to the Tai Po fire and wider concerns about building management."
+    ]
+  },
+  "zh": {
+    "headline": "民青局暫不設業主大會授權票上限 諮詢未達共識",
+    "dek": "局方指550份意見中逾半反對設上限，將先加強抽查核實；措施與大埔宏福苑火災後的大廈管理改革有關。",
+    "body": [
+      "民政及青年事務局表示，由於公眾諮詢未能就授權票上限達成廣泛共識，現階段暫不設立每人可持有授權票數目的上限。",
+      "局方八月進行了為期一個月的《建築物管理條例》修訂諮詢，共接獲550份書面意見。超過五成意見反對設授權票上限，近七成反對限制授權代表只限親屬或其他業主。局方同時考慮了大埔宏福苑火災獨立委員會的建議；該場火災造成168人死亡。",
+      "當局指，社會對上限門檻以及如何識別及處理超出數目的授權票均未有共識，不少意見認為加強抽查及核實才是治本之策。因此局方會先從強制抽查及核實入手，同時繼續研究設上限的可行性，並探討引入電子授權票。",
+      "對於大型維修工程，局方建議按工程價值引入親自投票門檻分級制，超過六成意見表示支持。局方決定分級制只適用於親自投票要求，會議法定人數則維持業主總數百分之十，以免因門檻過高而流會。",
+      "有關修訂建議周二提交立法會，屬政府回應宏福苑火災及大廈管理問題的其中一環。"
+    ]
+  }
+}
