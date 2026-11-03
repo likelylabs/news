@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-03T22:10:13+08:00",
+  "generated_at": "2026-11-03T22:11:29+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 84,
   "articles": [
+    {
+      "id": "2026-11-03-john-lee-begins-beijing-visit",
+      "published_at": "2026-11-03T22:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "john-lee",
+        "beijing",
+        "northern-metropolis",
+        "cooperation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-john-lee-begins-beijing-visit.json",
+      "en": {
+        "headline": "John Lee begins Beijing visit, meets municipal leaders on Northern Metropolis",
+        "dek": "Chief Executive tours the Beijing Municipal Administrative Center and meets Yin Li and Yin Yong to discuss co-operation under the 15th Five-Year Plan."
+      },
+      "zh": {
+        "headline": "李家超展開北京訪問 晤尹力尹勇談北部都會區合作",
+        "dek": "行政長官參觀北京城市副中心並與北京市委書記尹力及市長尹勇會面，討論十五五規劃下的合作。"
+      }
+    },
+    {
+      "id": "2026-11-03-jordan-water-interruption",
+      "published_at": "2026-11-03T22:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "water",
+        "jordan",
+        "wsd",
+        "yau-tsim-mong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-jordan-water-interruption.json",
+      "en": {
+        "headline": "Water supply to three buildings in Jordan interrupted after pipe bursts",
+        "dek": "Water Supplies Department expects drinking water to Highview Terrace and Hong Yuen Court to resume around 6am on Wednesday after a main burst on Tak Shing Street."
+      },
+      "zh": {
+        "headline": "佐敦德成街食水管爆裂 高景臺及康源閣三座大廈暫停供水",
+        "dek": "水務署指維修鹹水管期間食水管突然爆裂，預計周三早上約六時恢復高景臺及康源閣食水供應。"
+      }
+    },
+    {
+      "id": "2026-11-03-proxy-votes-defer-nov3",
+      "published_at": "2026-11-03T22:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "housing",
+        "tai-po-fire",
+        "buildings-management",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-proxy-votes-defer-nov3.json",
+      "en": {
+        "headline": "Government defers proxy-vote caps for owners’ meetings after consultation",
+        "dek": "Home and Youth Affairs Bureau says more than half of 550 submissions opposed limits, so it will first strengthen spot checks and verification following the Tai Po fire."
+      },
+      "zh": {
+        "headline": "民青局暫不設業主大會授權票上限 諮詢未達共識",
+        "dek": "局方指550份意見中逾半反對設上限，將先加強抽查核實；措施與大埔宏福苑火災後的大廈管理改革有關。"
+      }
+    },
     {
       "id": "2026-11-03-bid-rigging-task-force-tang",
       "published_at": "2026-11-03T20:25:00+08:00",
