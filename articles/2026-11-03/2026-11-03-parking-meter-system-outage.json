@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-03-parking-meter-system-outage",
+  "published_at": "2026-11-03T12:15:00+08:00",
+  "category": "transport",
+  "tags": ["transport", "parking", "meters", "police"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "parking-meter-system-outage-nov3",
+  "en": {
+    "headline": "Parking meter system fails across Hong Kong, police hold off enforcement",
+    "dek": "Transport officials said the operator reported the outage at about 8.20am; Secretary Chen Mei-bo confirmed police would not ticket roadside meter spaces until repairs are complete.",
+    "body": [
+      "The Transport Department said on Tuesday that Hong Kong's on-street parking meter system had gone out of service, with urgent repairs under way after the operator reported the fault at about 8.20am.",
+      "Secretary for Transport and Logistics Chen Mei-bo said the bureau took the incident seriously. She confirmed that the department had contacted the police, who would not enforce parking rules at roadside meter spaces until the system was fully restored. Preliminary checks found no indication of a malicious attack.",
+      "Some meters had begun working again by late morning, while others remained offline. The department has instructed the operator, Hong Kong Telecommunications, to complete repairs quickly, investigate the cause thoroughly and submit a report, ideally within 24 hours.",
+      "Motorists can call the service hotline at 2332 3700 for enquiries. The disruption affects the networked meters that handle short-stay kerbside parking citywide."
+    ]
+  },
+  "zh": {
+    "headline": "全港咪錶泊車系統故障 陳美寶稱未完全復修前警方暫不執法",
+    "dek": "運輸署今早約8時20分接獲營辦商報告系統故障，正緊急搶修；運輸及物流局局長表示警方在系統完全復修前不會對路旁咪錶位執法。",
+    "body": [
+      "運輸署今日表示，接獲營辦商報告全港路旁咪錶泊車系統出現故障，正進行緊急搶修。報告時間約為上午8時20分。",
+      "運輸及物流局局長陳美寶表示高度重視事件。她指運輸署已聯絡警方，在系統未完全復修前，警方不會就路旁咪錶泊車位執法。初步調查暫未發現涉及惡意攻擊。",
+      "部分咪錶已恢復運作，部分仍故障。署方已要求營辦商香港電訊盡快修復、徹查原因並提交報告，期望初步報告可於24小時內交到。",
+      "駕駛人士如有查詢可致電服務熱線2332 3700。事件影響全城使用電子系統的路旁短期泊車咪錶。"
+    ]
+  }
+}
