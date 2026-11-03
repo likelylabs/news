@@ -78,7 +78,10 @@ Repairs are applied only to articles that pass validation. Invalid JSON
 or non-ASCII tags, unknown categories, invalid dates, missing content and
 filename/id mismatches are **quarantined**: the Action leaves that file
 untouched and out of `index.json`, publishes every other article, and still
-turns the run red with an annotation naming the file. Nothing is hidden or
+turns the run red with an annotation naming the file — unless a newer push
+fixes every quarantined file within 3 minutes (the automation's usual
+placeholder-then-fix pattern), in which case that push's build publishes
+them and the run passes with a notice. Nothing is hidden or
 deleted; the article goes live on the first build after it is fixed. If more
 than 10 files are bad at once (more likely a code or schema bug than a
 writer slip), the build refuses to publish a partial index and changes

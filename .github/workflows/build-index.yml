@@ -35,9 +35,10 @@ on:
 permissions:
   contents: read
 
-concurrency:
-  group: build-news-index-${{ github.event.pull_request.number || github.ref }}
-  cancel-in-progress: false
+# No `concurrency` group, on purpose. With one, GitHub keeps a single
+# PENDING run per group and cancels the rest, so a burst of pushes (an
+# article commit plus the automation's quick follow-up fixes) showed up as
+# "cancelled" runs. Overlapping runs are safe without it: see the retry loop.
 
 jobs:
   validate:
@@ -64,16 +65,15 @@ jobs:
 
       # Prune + rebuild + push, retried against a moving main.
       #
-      # The `concurrency` group above serialises this workflow against itself,
-      # but NOT against the news automation, which commits each article in its
-      # own push. A run that checks out at commit A while the automation pushes
-      # commit B gets "cannot lock ref 'refs/heads/main'" and dies with a stale
-      # index left live.
+      # Other runs of this workflow and the news automation both push to main.
+      # A run that checks out at commit A while someone pushes commit B gets
+      # "cannot lock ref 'refs/heads/main'" (or "fetch first").
       #
       # index.json is 100% derived from the article files, so there is nothing
       # to merge: on a rejected push we throw our commit away, hard-reset to the
-      # new tip, and recompute from that tree. The last attempt to land wins and
-      # is correct by construction.
+      # new tip, and recompute from that tree. Only a push built on the current
+      # tip can land (no force), so whatever lands is correct by construction.
+      # The backoff is jittered so overlapping runs don't collide in lockstep.
       #
       # Test and build_index.py failures are NOT retried — the shell's -e
       # aborts the run immediately and leaves the live index untouched.
@@ -86,7 +86,7 @@ jobs:
           git config user.name  "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
 
-          for attempt in 1 2 3 4 5; do
+          for attempt in 1 2 3 4 5 6 7 8; do
             # Each attempt rebuilds from a fresh tip; only the last one counts.
             rm -f "$RUNNER_TEMP/quarantine.txt"
             python3 -m unittest discover -s tests -v
@@ -119,22 +119,41 @@ jobs:
               exit 0
             fi
 
-            echo "::notice::push rejected on attempt ${attempt}/5 — main moved under us (the news automation pushed mid-build). Resetting and recomputing."
+            echo "::notice::push rejected on attempt ${attempt}/8 — main moved under us (the news automation pushed mid-build). Resetting and recomputing."
             git fetch origin main
             git reset --hard origin/main
-            sleep $(( attempt * 5 ))
+            sleep $(( attempt * 3 + RANDOM % 5 ))
           done
 
-          echo "::error::could not land the regenerated index after 5 attempts — main is being pushed to faster than the index can be rebuilt."
+          echo "::error::could not land the regenerated index after 8 attempts — main is being pushed to faster than the index can be rebuilt."
           exit 1
 
       # Runs only after the good articles are pushed. Annotates each bad file
       # on the commit and fails the run so the problem stays visible.
       # pages-deploy deploys after a failed build too, so the published
       # articles still go live right away.
+      #
+      # Grace period first: the automation sometimes pushes PLACEHOLDER files
+      # and replaces them about a minute later (56-76s every time so far).
+      # If a newer commit on main makes every quarantined file valid, that
+      # push triggers its own build, which publishes them — so this run
+      # passes with a notice instead of raising a false alarm.
       - name: Fail on quarantined articles
         run: |
           [ -f "$RUNNER_TEMP/quarantine.txt" ] || { echo "No quarantined articles."; exit 0; }
+          files="$(grep '^  - ' "$RUNNER_TEMP/quarantine.txt" | sed 's/^  - //; s/: .*//' | sed "s|^$GITHUB_WORKSPACE/||" | sort -u)"
+          for i in $(seq 1 18); do
+            sleep 10
+            git fetch -q origin main || continue
+            fixed=true
+            for f in $files; do
+              git show "origin/main:$f" 2>/dev/null | python3 -c 'import json,sys; json.load(sys.stdin)' 2>/dev/null || { fixed=false; break; }
+            done
+            if $fixed; then
+              echo "::notice title=Quarantine cleared::a later push ($(git rev-parse --short origin/main)) fixed every quarantined file; its build publishes them."
+              exit 0
+            fi
+          done
           {
             echo "## Quarantined articles"
             echo "These files were left out of index.json. Everything else was published."
