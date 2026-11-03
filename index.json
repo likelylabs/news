@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-03T14:13:41+08:00",
+  "generated_at": "2026-11-03T16:23:37+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-11-03-global-financial-leaders-summit",
+      "published_at": "2026-11-03T16:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "finance",
+        "summit",
+        "he-lifeng",
+        "john-lee",
+        "hkma"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-global-financial-leaders-summit.json",
+      "en": {
+        "headline": "He Lifeng and John Lee address Global Financial Leaders’ Investment Summit",
+        "dek": "Vice-Premier pledged continued support for Hong Kong as a free open financial centre and more offshore yuan liquidity; Lee said the five-year plan offers investors certainty."
+      },
+      "zh": {
+        "headline": "何立峰與李家超在國際金融領袖投資峰會致辭",
+        "dek": "副總理表示將繼續支持香港作為自由開放金融中心並增加離岸人民幣流動性；李家超指五年規劃為投資者提供確定性。"
+      }
+    },
+    {
+      "id": "2026-11-03-lifestyle-charlie-chocolate-factory",
+      "published_at": "2026-11-03T16:25:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "musical",
+        "theatre",
+        "tsim-sha-tsui",
+        "family"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-lifestyle-charlie-chocolate-factory.json",
+      "en": {
+        "headline": "Broadway musical Charlie and the Chocolate Factory opens in Hong Kong tomorrow",
+        "dek": "The production based on Roald Dahl’s novel runs at Hong Kong Cultural Centre Grand Theatre from 4 November to 6 December, tickets from HK$388."
+      },
+      "zh": {
+        "headline": "百老匯音樂劇《朱古力獎門人》明日香港開演",
+        "dek": "改編自羅爾德·達爾小說的製作由11月4日至12月6日在香港文化中心大劇院上演，票價由388港元起。"
+      }
+    },
     {
       "id": "2026-11-03-parking-meters-restored",
       "published_at": "2026-11-03T14:20:00+08:00",
@@ -1845,72 +1891,6 @@
       "zh": {
         "headline": "西環外籍男留短訊後蹈海 救起送院不治",
         "dek": "警方接報一名約80歲外籍男子發短訊稱在堅尼地城海傍蹈海，消防員於招商局碼頭對開救起，送院後不治。"
-      }
-    },
-    {
-      "id": "2026-10-31-ngau-tau-kok-woman-phone-scam",
-      "published_at": "2026-10-31T15:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "scam",
-        "ngau-tau-kok",
-        "fraud"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-31/2026-10-31-ngau-tau-kok-woman-phone-scam.json",
-      "en": {
-        "headline": "Woman aged 66 loses HK$2.7 million in phone scam over alleged money laundering",
-        "dek": "Police said the Ngau Tau Kok resident transferred the sum after a caller claimed her online insurance account was linked to money laundering."
-      },
-      "zh": {
-        "headline": "牛頭角66歲婦遇電騙損失270萬元",
-        "dek": "警方指事主接獲來電，聲稱其網上購買保險的戶口涉洗黑錢，遂按指示轉帳。"
-      }
-    },
-    {
-      "id": "2026-10-31-police-arrest-58-youth-triad",
-      "published_at": "2026-10-31T15:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "triad",
-        "youth"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-31/2026-10-31-police-arrest-58-youth-triad.json",
-      "en": {
-        "headline": "Police arrest 58 including 10 students in anti-triad operation targeting youth",
-        "dek": "Officers said triad groups had lured teenagers with promises of quick money into drug trafficking, wounding and other crimes."
-      },
-      "zh": {
-        "headline": "警方反三合會行動拘58人 包括10名學生",
-        "dek": "有組織罪案及三合會調查科指，黑幫以揺快錢為餌誘騙青少年參與販毒傷人等罪行。"
-      }
-    },
-    {
-      "id": "2026-10-31-tuen-mun-yau-oi-assault-robbery",
-      "published_at": "2026-10-31T15:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "tuen-mun",
-        "robbery",
-        "assault"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-31/2026-10-31-tuen-mun-yau-oi-assault-robbery.json",
-      "en": {
-        "headline": "Man assaulted in failed robbery bid at Tuen Mun Yau Oi Estate",
-        "dek": "A 33-year-old man was injured but lost no property after two men in white tops attacked him outside Oi Tak House early Saturday."
-      },
-      "zh": {
-        "headline": "屯門友愛邨男夜歸遭兩男襲擊企圖行劫不果",
-        "dek": "33歲事主口部及手部擦傷，財物無失，兩名身穿白色上衣男子逃去。"
       }
     }
   ]
