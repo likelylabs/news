@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-03T22:11:29+08:00",
+  "generated_at": "2026-11-04T00:05:47+08:00",
   "live_window_hours": 72,
   "count": 84,
   "articles": [
+    {
+      "id": "2026-11-04-bno-uk-settlement-exemption",
+      "published_at": "2026-11-04T00:03:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "bno",
+        "uk",
+        "immigration",
+        "settlement"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-04/2026-11-04-bno-uk-settlement-exemption.json",
+      "en": {
+        "headline": "UK exempts Hong Kong BN(O) visa holders from proposed 10-year settlement wait",
+        "dek": "British Home Secretary Shabana Mahmood confirmed BN(O) applicants keep their five-year path to settlement but face stricter English-language and criminality requirements."
+      },
+      "zh": {
+        "headline": "英國豁免BNO簽證持有人 不受擬議十年定居期影響",
+        "dek": "內政大臣沙巴娜·馬哈茂德確認BNO申請人維持五年定居途徑，但仍須符合更嚴格的英語及品行要求。"
+      }
+    },
+    {
+      "id": "2026-11-04-lifestyle-odium-zero-premiere",
+      "published_at": "2026-11-04T00:03:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "animation",
+        "film",
+        "culture",
+        "premiere"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-04/2026-11-04-lifestyle-odium-zero-premiere.json",
+      "en": {
+        "headline": "Local animation Odium Zero holds Hong Kong premiere ahead of cinema screenings",
+        "dek": "The AI-assisted sci-fi work supported by the Cultural and Creative Industries Development Agency screened its extended first episode on Monday, with special screenings starting 7 November."
+      },
+      "zh": {
+        "headline": "本地動畫《無涯之約》舉行香港首映 11月7日起特別放映",
+        "dek": "文創產業發展處支持的人工智能輔助科幻動畫周一首映加長版第一話，本周五起在指定戲院進行特別放映。"
+      }
+    },
+    {
+      "id": "2026-11-04-measles-travel-advisory",
+      "published_at": "2026-11-04T00:03:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "measles",
+        "chp",
+        "travel",
+        "vaccination"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-04/2026-11-04-measles-travel-advisory.json",
+      "en": {
+        "headline": "Health officials urge measles precautions for travellers amid global outbreaks",
+        "dek": "The Centre for Health Protection says Hong Kong has recorded nine measles cases this year, mostly imported, and advises checking vaccination status before travel."
+      },
+      "zh": {
+        "headline": "衛生防護中心籲外遊市民防麻疹 今年本港錄9宗個案",
+        "dek": "中心指本港今年暫錄9宗麻疹，六宗與輸入有關，呼籲計劃外遊者出發前查閱目的地疫情並確保已接種兩劑疫苗。"
+      }
+    },
     {
       "id": "2026-11-03-john-lee-begins-beijing-visit",
       "published_at": "2026-11-03T22:15:00+08:00",
@@ -1813,72 +1882,6 @@
       "zh": {
         "headline": "新加坡貝果品牌Two Men Bagel House西營盤軟開業",
         "dek": "自2014年經營的新加坡連鎖店，手搓紐約風格貝果進駐西街King’s Hill。"
-      }
-    },
-    {
-      "id": "2026-10-31-kmb-huanggang-sign-collision",
-      "published_at": "2026-10-31T23:20:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "kmb",
-        "huanggang",
-        "transport",
-        "border"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-31/2026-10-31-kmb-huanggang-sign-collision.json",
-      "en": {
-        "headline": "KMB bus hits overhead sign at new Huanggang port, no injuries",
-        "dek": "The Transport Department said it had asked franchise bus operators to strengthen driver training after a B11 double-decker entered the wrong lane on Saturday afternoon."
-      },
-      "zh": {
-        "headline": "九巴B11皇崗口岸撞天花指示牌 無人受傷",
-        "dek": "運輸署表示關注事件，已要求專營巴士營辦商加強車長駕駛及路線培訓，確保往返皇崗口岸交匯處暢順安全。"
-      }
-    },
-    {
-      "id": "2026-10-31-seven-year-old-influenza-a-critical",
-      "published_at": "2026-10-31T23:20:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "influenza",
-        "health",
-        "hospital",
-        "children"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-31/2026-10-31-seven-year-old-influenza-a-critical.json",
-      "en": {
-        "headline": "Seven-year-old girl in critical condition with influenza A septic shock",
-        "dek": "The Centre for Health Protection said the child with underlying illness developed symptoms on 29 October and remains critically ill at Tuen Mun Hospital after testing positive for influenza A (H1)."
-      },
-      "zh": {
-        "headline": "7歲長期病患女童染甲流併發敗血性休克 情況危殆",
-        "dek": "衞生防護中心指女童10月29日起現病徵，在屯門醫院兒童深切治療部留醫，呼吸道樣本對甲型（H1）流感病毒呈陽性。"
-      }
-    },
-    {
-      "id": "2026-10-31-sorrento-austin-road-west-fall",
-      "published_at": "2026-10-31T23:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "accident",
-        "west-kowloon",
-        "police",
-        "fall"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-31/2026-10-31-sorrento-austin-road-west-fall.json",
-      "en": {
-        "headline": "Man falls from platform at Sorrento and strikes foreign domestic helper",
-        "dek": "Police said both remained conscious after the man was suspected to have lost his footing at a barbecue at the West Kowloon residential clubhouse on Saturday evening."
-      },
-      "zh": {
-        "headline": "西九擎天半島男子疑酒後失足墮平台壓中外傭",
-        "dek": "警方指晚上約7時43分接報，柯士甸道西1號一名男子從高處墮下壓中途經女外傭，兩人清醒分別送院。"
       }
     }
   ]
