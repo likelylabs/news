@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-03T16:23:59+08:00",
+  "generated_at": "2026-11-03T18:11:04+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 84,
   "articles": [
+    {
+      "id": "2026-11-03-airport-single-checkin-hangzhou-wuhan",
+      "published_at": "2026-11-03T18:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "airport",
+        "aviation",
+        "hangzhou",
+        "wuhan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-airport-single-checkin-hangzhou-wuhan.json",
+      "en": {
+        "headline": "Hong Kong airport launches single check-in for Hangzhou and Wuhan flights",
+        "dek": "Passengers from the two mainland cities can now check baggage through to overseas destinations via Hong Kong even when changing airlines."
+      },
+      "zh": {
+        "headline": "香港機場啟動杭州武漢聯動一張機票行李直掛服務",
+        "dek": "由杭州或武漢出發經香港飛往海外的旅客，即使轉乘不同航空公司，亦可一次辦理登機手續，行李直掛目的地。"
+      }
+    },
+    {
+      "id": "2026-11-03-gdp-q3-advance-estimates",
+      "published_at": "2026-11-03T18:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "economy",
+        "gdp",
+        "census-statistics"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-gdp-q3-advance-estimates.json",
+      "en": {
+        "headline": "Hong Kong economy grows 5.2% in third quarter, fastest nine-month pace in five years",
+        "dek": "Advance estimates show real GDP up 5.2% year on year in Q3 and 1.9% on a seasonally adjusted basis, driven by exports and domestic demand."
+      },
+      "zh": {
+        "headline": "本港第三季經濟預估按年增長5.2% 首三季增速創五年最快",
+        "dek": "預先估計數字顯示實質本地生產總值按年升5.2%，經季節調整後按季升1.9%，由出口及內部需求帶動。"
+      }
+    },
+    {
+      "id": "2026-11-03-hang-seng-close-up",
+      "published_at": "2026-11-03T18:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "stocks",
+        "hang-seng",
+        "markets"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-03/2026-11-03-hang-seng-close-up.json",
+      "en": {
+        "headline": "Hang Seng Index closes up 132 points for third consecutive gain",
+        "dek": "The benchmark ended at 23,525.97 on Tuesday, rising 0.57% on turnover of more than HK$236 billion as consumer and gaming stocks led gains."
+      },
+      "zh": {
+        "headline": "恒生指數高收132點 連升三日",
+        "dek": "周二收報23525.97點，升幅近0.6%，成交額逾2364億元，消費及博彩股帶動升勢。"
+      }
+    },
     {
       "id": "2026-11-03-global-financial-leaders-summit",
       "published_at": "2026-11-03T16:25:00+08:00",
@@ -1805,92 +1872,6 @@
       "zh": {
         "headline": "小學2028/29學年起推行資訊與創新科技科 涵蓋人工智能",
         "dek": "教育局公布課程框架擬定稿，小一及小四由2028/29學年開始推行，學生可學習簡單與人工智能系統對話。"
-      }
-    },
-    {
-      "id": "2026-10-31-sai-kung-campsite-charcoal-rescue",
-      "published_at": "2026-10-31T17:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "sai-kung",
-        "rescue",
-        "campsite"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-31/2026-10-31-sai-kung-campsite-charcoal-rescue.json",
-      "en": {
-        "headline": "Man rescued after charcoal burning at Sai Kung campsite",
-        "dek": "Police found a 30-year-old man unconscious in a tent at Tai Mong Tsai campsite early Saturday after a Threads post prompted a report; he later regained consciousness."
-      },
-      "zh": {
-        "headline": "西貢營地男子燒炭 網民報警救起",
-        "dek": "警方周六凌晨接報後在大網仔營地帳幕內發現30歲男子昏迷，旁邊有燒過的炭，送院後回復清醒。"
-      }
-    },
-    {
-      "id": "2026-10-31-sheung-shui-massage-sudden-death",
-      "published_at": "2026-10-31T17:14:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "sheung-shui",
-        "sudden-death",
-        "health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-31/2026-10-31-sheung-shui-massage-sudden-death.json",
-      "en": {
-        "headline": "Man dies after collapsing at Sheung Shui foot massage parlour",
-        "dek": "A 55-year-old man was found unconscious after a session at a San Hong Street shop late Friday and was certified dead at North District Hospital."
-      },
-      "zh": {
-        "headline": "上水男光顧足浴店後暈倒送院不治",
-        "dek": "55歲黃姓男子周五深夜在新康街一間足浴店完成按摩後被發現昏迷，送往北區醫院後證實不治。"
-      }
-    },
-    {
-      "id": "2026-10-31-kwai-chung-paper-baler-finger",
-      "published_at": "2026-10-31T17:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "industrial-accident",
-        "kwai-chung",
-        "labour",
-        "safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-31/2026-10-31-kwai-chung-paper-baler-finger.json",
-      "en": {
-        "headline": "Man has finger severed by cardboard baler at Kwai Chung paper plant",
-        "dek": "A 69-year-old worker was taken to Princess Margaret Hospital after the machine cut part of his right ring finger while he was compressing cardboard this morning."
-      },
-      "zh": {
-        "headline": "葵涌廢紙廠男工遭紙皮打包機切斷無名指",
-        "dek": "69歲曾姓工人今早操作機器壓縮紙皮時右手無名指上截被切斷，清醒送往瑪嘉烈醫院治理。"
-      }
-    },
-    {
-      "id": "2026-10-31-western-district-foreign-man-drowning",
-      "published_at": "2026-10-31T17:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tragedy",
-        "western-district",
-        "rescue",
-        "kennedy-town"
-      ],
-      "breaking": false,
-      "path": "articles/2026-10-31/2026-10-31-western-district-foreign-man-drowning.json",
-      "en": {
-        "headline": "Elderly foreign man dies after rescue from Western District waters",
-        "dek": "Firefighters pulled an 80-year-old man from the sea near the China Merchants pier in Kennedy Town after a friend reported a text message about entering the water."
-      },
-      "zh": {
-        "headline": "西環外籍男留短訊後蹈海 救起送院不治",
-        "dek": "警方接報一名約80歲外籍男子發短訊稱在堅尼地城海傍蹈海，消防員於招商局碼頭對開救起，送院後不治。"
       }
     }
   ]
