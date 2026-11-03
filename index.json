@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-04T00:05:47+08:00",
+  "generated_at": "2026-11-04T02:03:25+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 82,
   "articles": [
+    {
+      "id": "2026-11-04-lifestyle-charlie-chocolate-factory",
+      "published_at": "2026-11-04T02:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "theatre",
+        "musical",
+        "tsim-sha-tsui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-04/2026-11-04-lifestyle-charlie-chocolate-factory.json",
+      "en": {
+        "headline": "Charlie and the Chocolate Factory musical opens at Hong Kong Cultural Centre",
+        "dek": "The Broadway adaptation of Roald Dahl’s story begins its Hong Kong run today at the Grand Theatre, with performances through 6 December."
+      },
+      "zh": {
+        "headline": "《朱古力獎門人》音樂劇今起於香港文化中心上演",
+        "dek": "改編自羅爾德·達爾作品的百老匯音樂劇，由今日起至十二月六日於尖沙咀香港文化中心大劇院公演。"
+      }
+    },
+    {
+      "id": "2026-11-04-parking-meter-outage",
+      "published_at": "2026-11-04T02:20:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "parking",
+        "transport-department",
+        "hkt"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-04/2026-11-04-parking-meter-outage.json",
+      "en": {
+        "headline": "Software update triggers four-hour parking meter outage across Hong Kong",
+        "dek": "Transport Department says about 11,000 meters failed after an early software update on Tuesday; system restored by 12.15pm with full refunds arranged."
+      },
+      "zh": {
+        "headline": "凌晨軟件更新致全港咪錶系統故障約四小時",
+        "dek": "運輸署指約一萬一千個咪錶受影響，系統於下午十二時十五分恢復，營運商將安排全數退款。"
+      }
+    },
     {
       "id": "2026-11-04-bno-uk-settlement-exemption",
       "published_at": "2026-11-04T00:03:00+08:00",
@@ -1792,96 +1837,6 @@
       "zh": {
         "headline": "社企膳心小館將軍澳店不獲房署續租 12月上旬結業",
         "dek": "營運者稱接獲房屋署書面通知收回舖位，繼去年石硤尾店結業後，這是僅餘分店。"
-      }
-    },
-    {
-      "id": "2026-11-01-apec-abtc-stay-extended-to-90-days",
-      "published_at": "2026-11-01T01:20:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "immigration",
-        "apec",
-        "business",
-        "visa"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-apec-abtc-stay-extended-to-90-days.json",
-      "en": {
-        "headline": "Immigration Department extends APEC Business Travel Card stay to 90 days from today",
-        "dek": "Holders who have obtained pre-clearance from Hong Kong can now stay visa-free for up to 90 days, up from 60, aligning with the Mainland's implementation date."
-      },
-      "zh": {
-        "headline": "入境處由今日起將APEC商務旅遊證免簽逗留期延至90天",
-        "dek": "已獲香港特區預先審批的持證人最長免簽證逗留期限由60天延長至90天，與內地實施日期一致。"
-      }
-    },
-    {
-      "id": "2026-11-01-lifestyle-museum-festival-carnival",
-      "published_at": "2026-11-01T01:20:00+08:00",
-      "updated_at": "2026-11-01T01:25:00+08:00",
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "museum",
-        "carnival",
-        "cultural-centre",
-        "free"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-lifestyle-museum-festival-carnival.json",
-      "en": {
-        "headline": "Museum Festival carnival continues today at Cultural Centre with pixel egg tart",
-        "dek": "The free Fun@Museum Carnival runs through Sunday at the Hong Kong Cultural Centre Piazza as part of Muse Fest HK 2026, which continues across 17 museums until 30 November."
-      },
-      "zh": {
-        "headline": "博物館節嘉年華今日續在文化中心舉行 巨型像素蛋撻及格仔茶檔亮相",
-        "dek": "免費「繽Fun博物館嘉年華」今明兩日在香港文化中心露天廣場舉行，屬香港博物館節2026一部分，17間博物館活動延至11月30日。"
-      }
-    },
-    {
-      "id": "2026-11-01-hong-kong-legal-week-2026-opens",
-      "published_at": "2026-11-01T01:01:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "legal",
-        "department-of-justice",
-        "conference",
-        "unidroit"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-hong-kong-legal-week-2026-opens.json",
-      "en": {
-        "headline": "Hong Kong Legal Week 2026 opens Monday with Unidroit Asia-Pacific office launch",
-        "dek": "The Department of Justice’s five-day flagship event begins on 2 November with the opening of Unidroit’s first office outside Rome."
-      },
-      "zh": {
-        "headline": "香港法律周2026星期一展開 揭幕國際統一私法協會亞太辦公室",
-        "dek": "律政司旗艦活動由11月2日起一連五日舉行，首日舉行私法協會亞太聯絡辦公室開幕典禮。"
-      }
-    },
-    {
-      "id": "2026-11-01-two-men-bagel-house-sai-ying-pun",
-      "published_at": "2026-11-01T01:01:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "sai-ying-pun",
-        "opening",
-        "bagel"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-two-men-bagel-house-sai-ying-pun.json",
-      "en": {
-        "headline": "Singapore bagel brand Two Men Bagel House soft-opens in Sai Ying Pun",
-        "dek": "The hand-rolled New York-style bagels from the Singapore chain that has run since 2014 have arrived at King’s Hill on Western Street."
-      },
-      "zh": {
-        "headline": "新加坡貝果品牌Two Men Bagel House西營盤軟開業",
-        "dek": "自2014年經營的新加坡連鎖店，手搓紐約風格貝果進駐西街King’s Hill。"
       }
     }
   ]
