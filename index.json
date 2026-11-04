@@ -1,8 +1,55 @@
 {
-  "generated_at": "2026-11-04T12:11:12+08:00",
+  "generated_at": "2026-11-04T14:16:29+08:00",
   "live_window_hours": 72,
-  "count": 82,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-11-04-huanggang-restricted-management",
+      "published_at": "2026-11-04T14:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "huanggang",
+        "border",
+        "security-bureau",
+        "northern-link"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-04/2026-11-04-huanggang-restricted-management.json",
+      "en": {
+        "headline": "Tang says restricted management at Huanggang port maximises limited space",
+        "dek": "Security Bureau chief says the Hong Kong side of the rebuilt port uses closed-area controls like other land borders, with weekday crossings averaging over 86,000."
+      },
+      "zh": {
+        "headline": "鄧炳強指皇崗口岸港方禁區式管理最有效運用有限空間",
+        "dek": "保安局局長表示，重建後皇崗口岸港方口岸區實施禁區式管理，平日日均出入境人次平均超過8萬6千人。"
+      }
+    },
+    {
+      "id": "2026-11-04-po-pin-chau-reservation-results",
+      "published_at": "2026-11-04T14:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "sai-kung",
+        "po-pin-chau",
+        "reservation",
+        "afcd",
+        "hiking"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-04/2026-11-04-po-pin-chau-reservation-results.json",
+      "en": {
+        "headline": "Po Pin Chau reservation trial held daily visitors to about 950 during National Day",
+        "dek": "Environment secretary says the pilot scheme on the High Island Geo-Trail section successfully controlled numbers and improved order at the viewing platform."
+      },
+      "zh": {
+        "headline": "破邊洲預約制試行國慶期間日均到訪約950人",
+        "dek": "環境及生態局局長表示，萬宜地質步道破邊洲段試行預約制有效控制人數，觀景台最高人流減逾三成。"
+      }
+    },
     {
       "id": "2026-11-04-hang-seng-opens-lower",
       "published_at": "2026-11-04T12:10:00+08:00",
@@ -1774,72 +1821,6 @@
       "zh": {
         "headline": "天文台預測本周工作日大致多雲 間中有微雨",
         "dek": "天文台表示偏東氣流明日會緩和，帶來部分時間有陽光，其後另一股偏東氣流會令本周中期風勢較大及有一兩陣雨。"
-      }
-    },
-    {
-      "id": "2026-11-01-john-lee-scout-rally-youth",
-      "published_at": "2026-11-01T13:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "john-lee",
-        "youth",
-        "scouts",
-        "one-country-two-systems"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-john-lee-scout-rally-youth.json",
-      "en": {
-        "headline": "Lee tells scouts Hong Kong offers unlimited opportunities under One Country Two Systems",
-        "dek": "Chief Executive John Lee, as Chief Scout, outlined four expectations for young people at the Hong Kong Scout Association rally on Sunday."
-      },
-      "zh": {
-        "headline": "李家超以童軍總領袖身分籲青年把握一國兩制機遇",
-        "dek": "行政長官李家超周日出席香港童軍大會操，提出胸懷家國、放眼世界、錘鍊意志及助人為樂四點期望。"
-      }
-    },
-    {
-      "id": "2026-11-01-lifestyle-heritage-fiesta-2026",
-      "published_at": "2026-11-01T13:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "heritage",
-        "northern-metropolis",
-        "free"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-lifestyle-heritage-fiesta-2026.json",
-      "en": {
-        "headline": "Heritage Fiesta 2026 guided tours of Northern Metropolis buildings begin today",
-        "dek": "Free guided tours and open visits to 12 historic sites in the Northern Metropolis run until 31 December, organised by the Commissioner for Heritage's Office."
-      },
-      "zh": {
-        "headline": "2026古蹟周遊樂今日起辦北都歷史建築導賞",
-        "dek": "文物保育專員辦事處主辦的免費導賞團及參觀活動，涵蓋北部都會區12處歷史建築，持續至12月31日。"
-      }
-    },
-    {
-      "id": "2026-11-01-newspapers-price-increase",
-      "published_at": "2026-11-01T13:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "newspapers",
-        "media",
-        "prices",
-        "ming-pao"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-newspapers-price-increase.json",
-      "en": {
-        "headline": "Three Hong Kong newspapers raise cover prices by HK$3 this month",
-        "dek": "Ming Pao rose to HK$15 from Sunday, while the Hong Kong Economic Times and Hong Kong Economic Journal will follow on Monday."
-      },
-      "zh": {
-        "headline": "三份本地報章本月加價3元 明報今起調至15元",
-        "dek": "明報由周日每份12元加至15元，經濟日報及信報則由周一起分別加至15元及18元。"
       }
     }
   ]
