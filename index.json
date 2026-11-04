@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-04T16:23:41+08:00",
+  "generated_at": "2026-11-04T18:10:35+08:00",
   "live_window_hours": 72,
-  "count": 82,
+  "count": 84,
   "articles": [
+    {
+      "id": "2026-11-04-icac-hkex-tong-charges",
+      "published_at": "2026-11-04T18:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "icac",
+        "hkex",
+        "crime",
+        "court",
+        "sfc"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-04/2026-11-04-icac-hkex-tong-charges.json",
+      "en": {
+        "headline": "ICAC charges former HKEX vice-president and mother over confidential access",
+        "dek": "Geoffrey Tong and his mother face one count of dishonest computer access after share trades yielded profits exceeding HK$500,000, the ICAC said."
+      },
+      "zh": {
+        "headline": "廉署起訴前港交所副總裁及其母親涉不誠實取用內部系統",
+        "dek": "董柏涵與母親梁耀珍被控一項為不誠實目的取用電腦罪，其後股票交易獲利逾50萬港元，廉署表示。"
+      }
+    },
+    {
+      "id": "2026-11-04-police-strongjab-money-laundering",
+      "published_at": "2026-11-04T18:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "crime",
+        "money-laundering",
+        "scam",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-04/2026-11-04-police-strongjab-money-laundering.json",
+      "en": {
+        "headline": "Police arrest 11 in Strongjab operation against money-laundering syndicate",
+        "dek": "Officers detained eight men and three women aged 19 to 43 over a network that processed about HK$70 million linked to 85 scam cases."
+      },
+      "zh": {
+        "headline": "警方「猛刺」行動拘11人 破洗黑錢集團涉85宗騙案",
+        "dek": "警方拘捕8男3女，年齡介乎19至43歲，集團涉嫌處理約7000萬元犯罪得益，牽涉85宗騙案損失逾2400萬元。"
+      }
+    },
     {
       "id": "2026-11-04-hang-seng-closes-higher",
       "published_at": "2026-11-04T16:25:00+08:00",
