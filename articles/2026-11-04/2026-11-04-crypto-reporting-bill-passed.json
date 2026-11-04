@@ -1,1 +1,27 @@
-PLACEHOLDER
+{
+  "id": "2026-11-04-crypto-reporting-bill-passed",
+  "published_at": "2026-11-04T22:15:00+08:00",
+  "category": "business",
+  "tags": ["business", "finance", "crypto", "legco", "tax", "carf"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "inland-revenue-carf-crs-bill-passed",
+  "en": {
+    "headline": "LegCo passes crypto-asset reporting bill to boost tax transparency",
+    "dek": "The Inland Revenue Amendment Bill implements the OECD's Crypto-Asset Reporting Framework from 2027 and updated Common Reporting Standard from 2028.",
+    "body": [
+      "The Legislative Council on Wednesday passed the Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Bill 2026, aligning Hong Kong with international standards on automatic exchange of tax information.",
+      "The bill implements the Crypto-Asset Reporting Framework published by the Organisation for Economic Co-operation and Development in 2023. Crypto-asset service providers meeting nexus rules with Hong Kong will collect specified information starting next year, enabling the Inland Revenue Department to exchange it with partner jurisdictions from 2028. Amendments to the Common Reporting Standard, covering digital financial products and enhanced reporting requirements, take effect in 2028, with exchanges beginning in 2029.",
+      "Secretary for Financial Services and the Treasury Christopher Hui said the measures would maintain Hong Kong's reputation as a financial centre and strengthen confidence among crypto-asset service providers, institutions and users. The Inland Revenue Department will issue guidance and set up a dedicated team to support the industry."
+    ]
+  },
+  "zh": {
+    "headline": "立法會通過加密資產申報修訂條例 提升稅務透明度",
+    "dek": "《稅務（修訂）（加密資產申報框架及經修訂共同申報標準）條例草案》通過，CARF由2027年起實施，經修訂CRS由2028年起生效。",
+    "body": [
+      "立法會周三通過《稅務（修訂）（加密資產申報框架及經修訂共同申報標準）條例草案》，使香港與國際自動交換稅務資訊標準接軌。",
+      "條例落實經濟合作與發展組織2023年公布的加密資產申報框架。符合與香港聯繫準則的加密資產服務提供者，將由明年起收集指定資訊，讓稅務局由2028年起與夥伴稅務管轄區交換。共同申報標準的修訂涵蓋數碼金融產品及加強申報要求，將於2028年生效，並由2029年起開始交換。",
+      "財經事務及庫務局局長許正宇表示，有關措施有助維持香港作為金融中心的聲譽，並加強加密資產服務提供者、機構及用戶的信心。稅務局將發出指引，並成立專責團隊支援業界。"
+    ]
+  }
+}
