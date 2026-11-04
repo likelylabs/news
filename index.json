@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-04T22:14:48+08:00",
+  "generated_at": "2026-11-05T02:05:56+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-11-05-hk-wine-spirits-fair-opens",
+      "published_at": "2026-11-05T02:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "exhibition",
+        "wan-chai",
+        "hktdc",
+        "wine"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-05/2026-11-05-hk-wine-spirits-fair-opens.json",
+      "en": {
+        "headline": "HKTDC Wine and Spirits Fair opens today at HKCEC with over 620 exhibitors",
+        "dek": "The 18th edition runs until Saturday, with a public tasting zone open on the final day for visitors aged 18 and above."
+      },
+      "zh": {
+        "headline": "香港國際美酒展今日在會展開幕 逾620間參展商參與",
+        "dek": "第18屆展覽至周六結束，最後一天設公眾品酒區，18歲或以上人士可入場。"
+      }
+    },
     {
       "id": "2026-11-04-crypto-reporting-bill-passed",
       "published_at": "2026-11-04T22:15:00+08:00",
@@ -1786,50 +1810,6 @@
       "zh": {
         "headline": "香港金融科技周x StartmeupHK今日開幕",
         "dek": "為期五日的活動預計吸引來自超過120個經濟體逾4.5萬名與會者，主論壇周一在香港會議展覽中心展開。"
-      }
-    },
-    {
-      "id": "2026-11-02-liantang-port-100-million-crossings",
-      "published_at": "2026-11-02T00:20:00+08:00",
-      "updated_at": "2026-11-02T00:25:00+08:00",
-      "category": "transport",
-      "tags": [
-        "liantang",
-        "heung-yuen-wai",
-        "border",
-        "crossings"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-02/2026-11-02-liantang-port-100-million-crossings.json",
-      "en": {
-        "headline": "Liantang Port records over 100 million passenger crossings in six years",
-        "dek": "Shenzhen border authorities said the Heung Yuen Wai/Liantang checkpoint has handled more than 100 million inbound and outbound passenger trips and over 6 million vehicles since opening."
-      },
-      "zh": {
-        "headline": "蓮塘口岸開通六年累計出入境人次突破1億",
-        "dek": "深圳出入境邊防檢查總站表示，蓮塘/香園圍口岸自開通以來已查驗超過1億人次及600萬架次車輛。"
-      }
-    },
-    {
-      "id": "2026-11-02-lifestyle-hk-tennis-open-main-draw",
-      "published_at": "2026-11-02T00:20:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "lifestyle",
-        "tennis",
-        "victoria-park",
-        "wta"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-02/2026-11-02-lifestyle-hk-tennis-open-main-draw.json",
-      "en": {
-        "headline": "Hong Kong Tennis Open main draw begins at Victoria Park",
-        "dek": "The Prudential Hong Kong Tennis Open main-draw matches start on Monday at Victoria Park Tennis Stadium, with Venus Williams among the players on the opening day schedule."
-      },
-      "zh": {
-        "headline": "香港網球公開賽正賽今日在維園開打",
-        "dek": "保誠香港網球公開賽單打正賽周一在維多利亞公園網球場展開，開幕日賽程包括維納斯·威廉姆斯的比賽。"
       }
     }
   ]
