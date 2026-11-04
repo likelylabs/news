@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-04T20:23:23+08:00",
+  "generated_at": "2026-11-04T22:13:50+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 78,
   "articles": [
     {
       "id": "2026-11-04-causeway-bay-bollards-installation",
@@ -1760,52 +1760,6 @@
       "zh": {
         "headline": "香港網球公開賽正賽今日在維園開打",
         "dek": "保誠香港網球公開賽單打正賽周一在維多利亞公園網球場展開，開幕日賽程包括維納斯·威廉姆斯的比賽。"
-      }
-    },
-    {
-      "id": "2026-11-01-bar-association-bid-rigging-report",
-      "published_at": "2026-11-01T22:10:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "bar-association",
-        "bid-rigging",
-        "tai-po-fire",
-        "competition",
-        "building-management"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-bar-association-bid-rigging-report.json",
-      "en": {
-        "headline": "Bar Association backs criminalising bid-rigging and proposes about 50 law changes",
-        "dek": "The Hong Kong Bar Association's Tai Po fire task force report, released on Sunday, supports a dual civil-criminal track under the Competition Ordinance while urging clear definitions, and suggests dual-envelope…"
-      },
-      "zh": {
-        "headline": "大律師公會支持圍標刑事化 提約50項修例建議",
-        "dek": "大律師公會大埔火災法律研究小組周日發表報告，原則支持修訂《競爭條例》將圍標刑事化，並與現行民事執法雙軌並行，同時促請罪行元素定義清晰，並建議法團大型工程採雙信封投標。"
-      }
-    },
-    {
-      "id": "2026-11-01-flu-expert-rapid-deterioration",
-      "published_at": "2026-11-01T22:10:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "flu",
-        "influenza",
-        "health",
-        "paediatric",
-        "kwan-yat-wah"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-flu-expert-rapid-deterioration.json",
-      "en": {
-        "headline": "Expert says many flu patients deteriorating faster this season, research under way",
-        "dek": "Former Asian Society for Pediatric Infectious Diseases president Kwan Yat-wah noted higher influenza A activity and rapid worsening in some patients, including children with low blood pressure or encephalitis, and…"
-      },
-      "zh": {
-        "headline": "關日華指今季流感患者病情轉差較快 正研究病毒基因變化",
-        "dek": "亞洲兒童傳染病學會前會長關日華表示，近期甲型流感活躍，今季不少患者病情較快惡化，部分兒童出現血壓低、腦炎等，正研究是否與病毒基因改變有關。"
       }
     }
   ]
