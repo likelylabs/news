@@ -1,30 +1,6 @@
 {
   "covered": [
     {
-      "key": "aberdeen-tunnel-three-vehicle-collision",
-      "id": "2026-10-21-aberdeen-tunnel-collision",
-      "first_seen": "2026-10-21T11:10:00+08:00",
-      "headline_en": "Three vehicles collide inside Aberdeen Tunnel, no injuries"
-    },
-    {
-      "key": "san-po-kong-box-truck-overturn",
-      "id": "2026-10-21-san-po-kong-truck-overturn",
-      "first_seen": "2026-10-21T11:10:00+08:00",
-      "headline_en": "Box truck overturns after hitting barrier in San Po Kong, driver injured"
-    },
-    {
-      "key": "tin-shui-wai-woman-fall-death",
-      "id": "2026-10-21-tin-shui-wai-woman-fall",
-      "first_seen": "2026-10-21T11:10:00+08:00",
-      "headline_en": "Woman dies after falling from Tin Shui Wai public housing block"
-    },
-    {
-      "key": "yuen-long-highway-dump-truck-collision",
-      "id": "2026-10-21-yuen-long-highway-dump-truck",
-      "first_seen": "2026-10-21T11:10:00+08:00",
-      "headline_en": "Dump truck collides with lorry on Yuen Long Highway, driver injured"
-    },
-    {
       "key": "accenture-ai-integration-survey-oct21",
       "id": "2026-10-21-accenture-ai-survey",
       "first_seen": "2026-10-21T13:20:00+08:00",
@@ -2435,7 +2411,25 @@
       "id": "2026-11-04-lifestyle-arts-in-the-park-2026",
       "first_seen": "2026-11-04T10:12:00+08:00",
       "headline_en": "Arts in the Park returns to Causeway Bay with fairy-tale giant puppets"
+    },
+    {
+      "key": "hang-seng-opens-lower-nov4",
+      "id": "2026-11-04-hang-seng-opens-lower",
+      "first_seen": "2026-11-04T12:10:00+08:00",
+      "headline_en": "Hang Seng Index opens 0.32 percent lower at 23,452"
+    },
+    {
+      "key": "lifestyle-hong-kong-gourmet-month-2026",
+      "id": "2026-11-04-lifestyle-hong-kong-gourmet-month",
+      "first_seen": "2026-11-04T12:10:00+08:00",
+      "headline_en": "Hong Kong Tourism Board launches Gourmet Month with over 400 venues"
+    },
+    {
+      "key": "paul-chan-summit-capital-nov4",
+      "id": "2026-11-04-paul-chan-capital-growth",
+      "first_seen": "2026-11-04T12:10:00+08:00",
+      "headline_en": "Chan says Hong Kong offers businesses growth and long-term capital"
     }
   ],
-  "updated_at": "2026-11-04T10:13:04+08:00"
+  "updated_at": "2026-11-04T12:11:12+08:00"
 }

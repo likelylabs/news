@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-04T10:13:04+08:00",
+  "generated_at": "2026-11-04T12:11:12+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 82,
   "articles": [
+    {
+      "id": "2026-11-04-hang-seng-opens-lower",
+      "published_at": "2026-11-04T12:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hang-seng",
+        "stocks",
+        "market",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-04/2026-11-04-hang-seng-opens-lower.json",
+      "en": {
+        "headline": "Hang Seng Index opens 0.32 percent lower at 23,452",
+        "dek": "The benchmark dropped 74 points in early trading on Wednesday as technology and consumer shares weighed on sentiment."
+      },
+      "zh": {
+        "headline": "恒生指數低開0.32% 報23452點",
+        "dek": "周三早段恒指下跌74點，科技及消費股拖累氣氛，投資者關注美國中期選舉結果。"
+      }
+    },
+    {
+      "id": "2026-11-04-lifestyle-hong-kong-gourmet-month",
+      "published_at": "2026-11-04T12:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "tourism",
+        "dining",
+        "hktb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-04/2026-11-04-lifestyle-hong-kong-gourmet-month.json",
+      "en": {
+        "headline": "Hong Kong Tourism Board launches Gourmet Month with over 400 venues",
+        "dek": "The month-long campaign running through 30 November features limited-time menus and promotions at restaurants and bars across the city."
+      },
+      "zh": {
+        "headline": "旅發局推出香港美食月 逾400間餐廳酒吧參與",
+        "dek": "為期一個月的活動至11月30日止，全城餐廳及酒吧推出限定菜單及優惠。"
+      }
+    },
+    {
+      "id": "2026-11-04-paul-chan-capital-growth",
+      "published_at": "2026-11-04T12:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "finance",
+        "paul-chan",
+        "summit",
+        "investment"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-04/2026-11-04-paul-chan-capital-growth.json",
+      "en": {
+        "headline": "Chan says Hong Kong offers businesses growth and long-term capital",
+        "dek": "Financial Secretary tells investors at the Global Financial Leaders’ Investment Summit that the city connects capital across corporate life cycles."
+      },
+      "zh": {
+        "headline": "陳茂波稱香港為企業提供增長機會及長期資本",
+        "dek": "財政司司長在國際金融領袖投資峰會向投資者表示，香港可連接企業不同階段所需的資本。"
+      }
+    },
     {
       "id": "2026-11-04-lifestyle-arts-in-the-park-2026",
       "published_at": "2026-11-04T10:12:00+08:00",
@@ -1773,50 +1840,6 @@
       "zh": {
         "headline": "三份本地報章本月加價3元 明報今起調至15元",
         "dek": "明報由周日每份12元加至15元，經濟日報及信報則由周一起分別加至15元及18元。"
-      }
-    },
-    {
-      "id": "2026-11-01-hong-kong-sixes-finals-day",
-      "published_at": "2026-11-01T11:15:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "cricket",
-        "hong-kong-sixes",
-        "mong-kok"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-hong-kong-sixes-finals-day.json",
-      "en": {
-        "headline": "Hong Kong Sixes reaches finals day with Cup final set for afternoon",
-        "dek": "Afghanistan and Australia meet in the Cup final at Mission Road Ground, while classification matches continue through the morning."
-      },
-      "zh": {
-        "headline": "香港六人板球賽決賽日 阿富汗對澳洲爭冠",
-        "dek": "阿富汗與澳洲將在旺角美善道運動場進行盃賽決賽，分類賽繼續在上午舉行。"
-      }
-    },
-    {
-      "id": "2026-11-01-yellow-fire-danger-warning",
-      "published_at": "2026-11-01T11:15:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "fire-danger",
-        "hko",
-        "sunday"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-yellow-fire-danger-warning.json",
-      "en": {
-        "headline": "Observatory issues yellow fire danger warning as risk stays high",
-        "dek": "The Hong Kong Observatory raised the yellow fire danger warning at 9:45am on Sunday, urging the public to take precautions and hikers to stay vigilant."
-      },
-      "zh": {
-        "headline": "天文台發出黃色火災危險警告 火警風險高",
-        "dek": "天文台周日上午9時45分發出黃色火災危險警告，提醒市民小心防火，郊遊人士提高警覺。"
       }
     }
   ]
