@@ -1,8 +1,79 @@
 {
-  "generated_at": "2026-11-04T18:10:35+08:00",
+  "generated_at": "2026-11-04T20:22:52+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-11-04-causeway-bay-bollards-installation",
+      "published_at": "2026-11-04T20:21:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "causeway-bay",
+        "safety",
+        "bollards",
+        "sogo",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-04/2026-11-04-causeway-bay-bollards-installation.json",
+      "en": {
+        "headline": "Anti-ram bollards installation begins outside Sogo in Causeway Bay",
+        "dek": "Workers had installed four fixed bollards by Wednesday afternoon along the pavement outside the department store as part of a HK$5 million project against vehicle-ramming risks."
+      },
+      "zh": {
+        "headline": "銅鑼灣崇光百貨外防撞柱安裝工程展開",
+        "dek": "周三下午工人已在百貨公司外行人路安裝四支固定防撞柱，屬約500萬元項目，旨在防範車輛衝撞風險。"
+      }
+    },
+    {
+      "id": "2026-11-04-choi-rejects-uni-internship-reform",
+      "published_at": "2026-11-04T20:21:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "education",
+        "christine-choi",
+        "university",
+        "legco",
+        "ai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-04/2026-11-04-choi-rejects-uni-internship-reform.json",
+      "en": {
+        "headline": "Choi rejects push for year-long university internships amid AI shifts",
+        "dek": "Education secretary tells LegCo that reforming four-year degrees into three years of study plus one of full-time internships would risk turning higher education into vocational training."
+      },
+      "zh": {
+        "headline": "蔡若蓮反對大學改「三加一」強制一年實習",
+        "dek": "教育局局長在立法會表示，將四年制改為三年課堂加一年全職實習，有違大學價值，易令高等教育淪為職業訓練。"
+      }
+    },
+    {
+      "id": "2026-11-04-ehealth-electronic-amd",
+      "published_at": "2026-11-04T20:21:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "ehealth",
+        "end-of-life",
+        "medical-directives",
+        "chris-sun"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-04/2026-11-04-ehealth-electronic-amd.json",
+      "en": {
+        "headline": "Electronic advance medical directives to go live on eHealth next year",
+        "dek": "Secretary for Labour and Welfare Chris Sun said in a written reply that residents will be able to create, store and revoke directives electronically on the platform in phases, with the same legal effect as paper."
+      },
+      "zh": {
+        "headline": "預設醫療指示明年可在醫健通電子化訂立",
+        "dek": "勞工及福利局局長孫玉菡書面回覆指，市民可分階段在平台訂立、儲存及撤銷指示，電子版與紙本具同等法律效力。"
+      }
+    },
     {
       "id": "2026-11-04-icac-hkex-tong-charges",
       "published_at": "2026-11-04T18:10:00+08:00",
@@ -1735,164 +1806,6 @@
       "zh": {
         "headline": "關日華指今季流感患者病情轉差較快 正研究病毒基因變化",
         "dek": "亞洲兒童傳染病學會前會長關日華表示，近期甲型流感活躍，今季不少患者病情較快惡化，部分兒童出現血壓低、腦炎等，正研究是否與病毒基因改變有關。"
-      }
-    },
-    {
-      "id": "2026-11-01-airport-mainland-man-cannabis-9kg",
-      "published_at": "2026-11-01T20:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "drugs",
-        "airport",
-        "customs",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-airport-mainland-man-cannabis-9kg.json",
-      "en": {
-        "headline": "Police seize about 9kg of suspected cannabis from mainland man at airport",
-        "dek": "A 22-year-old man was arrested on Sunday morning after officers found roughly 30 packs of cannabis flowers in his luggage and backpack, with an estimated street value of HK$1.3 million."
-      },
-      "zh": {
-        "headline": "機場截查22歲內地男 檢約9公斤懷疑大麻花 市值130萬",
-        "dek": "西九龍反三合會人員周日早上在入境大堂截查，於男子行李箱及背包內檢獲約30包懷疑大麻花，他涉嫌販運危險藥物被捕。"
-      }
-    },
-    {
-      "id": "2026-11-01-lifestyle-museum-festival-carnival-ends",
-      "published_at": "2026-11-01T20:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "museum",
-        "culture",
-        "tsim-sha-tsui",
-        "festival"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-lifestyle-museum-festival-carnival-ends.json",
-      "en": {
-        "headline": "Hong Kong Museum Festival 2026 carnival ends today at Cultural Centre",
-        "dek": "The free two-day opening event at the Hong Kong Cultural Centre piazza featured pixelated old Hong Kong installations including a giant egg tart and a traditional medicine shop."
-      },
-      "zh": {
-        "headline": "香港博物館節2026開幕嘉年華今日結束 文化中心露天廣場",
-        "dek": "一連兩日免費活動以「拼貼今昔，香港故事」為主題，設有格仔茶檔、巨型像素蛋撻及傳統中藥舖等裝置。"
-      }
-    },
-    {
-      "id": "2026-11-01-tko-motorcycle-collision-arrest",
-      "published_at": "2026-11-01T20:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "traffic",
-        "tseung-kwan-o",
-        "accident",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-tko-motorcycle-collision-arrest.json",
-      "en": {
-        "headline": "Police arrest private car driver after motorcycle collision in Tseung Kwan O",
-        "dek": "A motorcyclist was trapped under a private car near King Lam Estate around noon on Sunday and later rescued conscious; the car driver was arrested on suspicion of dangerous driving."
-      },
-      "zh": {
-        "headline": "將軍澳私家車與電單車相撞 鐵騎士一度困車底 司機涉危駕被捕",
-        "dek": "周日中午佳景路近景林邨發生碰撞，電單車男司機被捲入車底獲救，清醒送院；私家車男司機涉嫌危險駕駛被捕。"
-      }
-    },
-    {
-      "id": "2026-11-01-customs-filipino-cocaine-airport",
-      "published_at": "2026-11-01T18:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "customs",
-        "airport",
-        "drugs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-customs-filipino-cocaine-airport.json",
-      "en": {
-        "headline": "Customs seize about 6kg of suspected cocaine from Filipino passenger at airport",
-        "dek": "A 22-year-old woman arriving from Phnom Penh was arrested and charged with drug trafficking; the case is due in court on Monday."
-      },
-      "zh": {
-        "headline": "海關在機場檢獲約6公斤懷疑可卡因 拘菲籍女旅客",
-        "dek": "22歲女子由金邊抵港，已被控販運危險藥物，案件明日在西九龍裁判法院提堂。"
-      }
-    },
-    {
-      "id": "2026-11-01-hko-warmest-october-2026",
-      "published_at": "2026-11-01T18:15:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "record",
-        "el-nino"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-hko-warmest-october-2026.json",
-      "en": {
-        "headline": "Observatory says Hong Kong recorded its warmest October since 1884",
-        "dek": "Mean maximum, mean and mean minimum temperatures all set October records, attributed to an extremely strong El Nino and other factors."
-      },
-      "zh": {
-        "headline": "天文台：香港經歷1884年以來最暖10月",
-        "dek": "平均最高、平均及平均最低氣溫均打破歷來10月紀錄，天文台指與極強厄爾尼諾等有關。"
-      }
-    },
-    {
-      "id": "2026-11-01-lifestyle-wine-dine-festival-closes",
-      "published_at": "2026-11-01T18:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "festival",
-        "food",
-        "central",
-        "wine"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-lifestyle-wine-dine-festival-closes.json",
-      "en": {
-        "headline": "Hong Kong Wine and Dine Festival draws crowds on final day at Central Harbourfront",
-        "dek": "The four-day event organised by the Tourism Board ends today, with exhibitors reporting sales growth and Guangdong industry visitors attending."
-      },
-      "zh": {
-        "headline": "香港美酒佳餚巡禮閉幕日吸引大批市民遊客",
-        "dek": "旅發局主辦的四日活動今日結束，部分展商銷情錄得增長，廣東業界人士進場觀摩。"
-      }
-    },
-    {
-      "id": "2026-11-01-northern-metropolis-marathon-23-hospitalised",
-      "published_at": "2026-11-01T18:15:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "marathon",
-        "northern-metropolis",
-        "hospital"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-northern-metropolis-marathon-23-hospitalised.json",
-      "en": {
-        "headline": "Hospital Authority says 23 people hospitalised after Northern Metropolis Marathon",
-        "dek": "The Authority reported the figure as of 3:10pm on Sunday for the inaugural event that drew about 15,000 runners."
-      },
-      "zh": {
-        "headline": "醫管局稱北都馬拉松至少23人受傷入院",
-        "dek": "醫管局表示截至周日下午3時10分，有23人因賽事受傷入院治理，是次活動約有1.5萬人參與。"
       }
     }
   ]
