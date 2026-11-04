@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-04T04:37:12+08:00",
+  "generated_at": "2026-11-04T08:05:44+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-11-04-richland-gardens-fire",
+      "published_at": "2026-11-04T08:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "fire",
+        "kowloon-bay",
+        "richland-gardens",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-04/2026-11-04-richland-gardens-fire.json",
+      "en": {
+        "headline": "Fire at Richland Gardens in Kowloon Bay evacuates about 150 residents",
+        "dek": "Three people were taken to hospital for suspected smoke inhalation after a blaze broke out in a low-floor unit early on Wednesday."
+      },
+      "zh": {
+        "headline": "九龍灣麗晶花園單位火警 約150名住客疏散",
+        "dek": "周三凌晨低層單位起火，三人懷疑吸入濃煙送院，消防正調查起火原因。"
+      }
+    },
+    {
+      "id": "2026-11-04-sei-chun-hing-sentenced",
+      "published_at": "2026-11-04T08:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "court",
+        "district-council",
+        "yuen-long",
+        "sentencing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-04/2026-11-04-sei-chun-hing-sentenced.json",
+      "en": {
+        "headline": "Yuen Long district councillor sentenced to 2.5 years for unlawful sex with minor",
+        "dek": "The District Court imposed the term on Tuesday after Sei Chun-hing was convicted of intercourse with a girl under 16 in 2011."
+      },
+      "zh": {
+        "headline": "元朗區議員施駿興非法性交罪成判囚兩年半",
+        "dek": "區域法院周二判刑，施駿興早前被裁定2011年與未滿16歲女童性交罪成。"
+      }
+    },
+    {
+      "id": "2026-11-04-winnie-ho-formal-removal",
+      "published_at": "2026-11-04T08:05:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "housing",
+        "winnie-ho",
+        "tai-po-fire",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-04/2026-11-04-winnie-ho-formal-removal.json",
+      "en": {
+        "headline": "Central Government approves removal of housing chief Winnie Ho",
+        "dek": "The State Council accepted Chief Executive John Lee’s recommendation on Tuesday, formalising Ho’s departure after she resigned over the Tai Po fire."
+      },
+      "zh": {
+        "headline": "中央政府批准免去何永賢房屋局局長職務",
+        "dek": "國務院周二根據行政長官李家超建議正式免職，何永賢早前因大埔宏福苑火災請辭承擔政治責任。"
+      }
+    },
     {
       "id": "2026-11-04-lifestyle-lola-maria-wan-chai",
       "published_at": "2026-11-04T04:16:00+08:00",
@@ -1792,28 +1861,6 @@
       "zh": {
         "headline": "將軍澳寶寧路公共單車泊位9輛單車焚毀 警列縱火案追查",
         "dek": "凌晨約1時有途人發現單車起火，消防員將火救熄，現場9輛單車被毀，暫無人被捕。"
-      }
-    },
-    {
-      "id": "2026-11-01-lifestyle-mark-six-halloween-snowball-rollover",
-      "published_at": "2026-11-01T07:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "lottery",
-        "mark-six",
-        "jockey-club"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-01/2026-11-01-lifestyle-mark-six-halloween-snowball-rollover.json",
-      "en": {
-        "headline": "Mark Six Halloween Snowball first prize rolls over to HK$108 million jackpot",
-        "dek": "No one claimed the top prize in Saturday’s draw, so the estimated first-division fund for Thursday’s draw reaches HK$108 million."
-      },
-      "zh": {
-        "headline": "六合彩萬聖節金多寶頭獎無人中 周四頭獎基金料達 1.08億",
-        "dek": "周六攪珠無人獨中頭獎，馬會估計周四攪珠頭獎基金可達 1.08億元。"
       }
     }
   ]
