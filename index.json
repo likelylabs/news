@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-05T02:05:56+08:00",
+  "generated_at": "2026-11-05T04:16:13+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 78,
   "articles": [
+    {
+      "id": "2026-11-05-being-human-festival-opens",
+      "published_at": "2026-11-05T04:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "hku",
+        "festival",
+        "tai-hang",
+        "arts"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-05/2026-11-05-being-human-festival-opens.json",
+      "en": {
+        "headline": "HKU Faculty of Arts launches inaugural Being Human Festival",
+        "dek": "The free public programme runs until 15 November with workshops, performances and talks under the theme Crossroads at venues including Tai Hang."
+      },
+      "zh": {
+        "headline": "港大文學院首辦「人文藝術節」今日起至15日",
+        "dek": "主題「十字路口」的免費公眾活動包括工作坊、表演及對談，場地涵蓋大坑等地。"
+      }
+    },
     {
       "id": "2026-11-05-hk-wine-spirits-fair-opens",
       "published_at": "2026-11-05T02:15:00+08:00",
@@ -1743,73 +1767,6 @@
       "zh": {
         "headline": "警灣仔截查私家車檢懷疑毒品 拘34歲男司機",
         "dek": "警方周一凌晨在告士打道221號對開截查一輛私家車，檢獲少量懷疑冰毒、可卡因及大麻花，34歲非華裔男司機涉嫌販運危險藥物被捕。"
-      }
-    },
-    {
-      "id": "2026-11-02-lifestyle-inter-island-festival-2026",
-      "published_at": "2026-11-02T04:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "festival",
-        "islands",
-        "peng-chau",
-        "culture"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-02/2026-11-02-lifestyle-inter-island-festival-2026.json",
-      "en": {
-        "headline": "Inter-Island Festival returns for third edition across outlying islands",
-        "dek": "The month-long event under the theme ArchipelaGO!GO! runs from 1 to 29 November on Cheung Chau, Peng Chau, Mui Wo and Chi Ma Wan, with workshops, tours and exhibitions."
-      },
-      "zh": {
-        "headline": "第三屆船到橋頭生活節展開 以群島共生串連離島",
-        "dek": "活動由11月1日至29日在長洲、坪洲、梅窩及芝麻灣舉行，包括工作坊、導賞及展覽。"
-      }
-    },
-    {
-      "id": "2026-11-02-shek-kong-bmw-criminal-damage",
-      "published_at": "2026-11-02T04:15:00+08:00",
-      "updated_at": "2026-11-02T04:20:00+08:00",
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "shek-kong",
-        "yuen-long"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-02/2026-11-02-shek-kong-bmw-criminal-damage.json",
-      "en": {
-        "headline": "Police treat Shek Kong road incident as criminal damage after object thrown at car",
-        "dek": "A 19-year-old driver reported that a man in black threw a hard object at his BMW near Route Twisk around 1am on Monday; officers are seeking the man."
-      },
-      "zh": {
-        "headline": "石崗荃錦公路有人向私家車擲物 警列刑事毀壞跟進",
-        "dek": "19歲司機指周一凌晨約1時有黑衣男子向其寶馬擲硬物，警方正尋找涉事男子。"
-      }
-    },
-    {
-      "id": "2026-11-02-hk-fintech-week-opens",
-      "published_at": "2026-11-02T02:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "fintech",
-        "hkcec",
-        "event",
-        "technology"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-02/2026-11-02-hk-fintech-week-opens.json",
-      "en": {
-        "headline": "Hong Kong FinTech Week x StartmeupHK opens at HKCEC",
-        "dek": "The five-day event, expected to draw over 45,000 participants from more than 120 economies, begins on Monday with the main conference at the Hong Kong Convention and Exhibition Centre."
-      },
-      "zh": {
-        "headline": "香港金融科技周x StartmeupHK今日開幕",
-        "dek": "為期五日的活動預計吸引來自超過120個經濟體逾4.5萬名與會者，主論壇周一在香港會議展覽中心展開。"
       }
     }
   ]
