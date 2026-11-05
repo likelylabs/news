@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-06T02:04:39+08:00",
+  "generated_at": "2026-11-06T04:17:28+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 77,
   "articles": [
+    {
+      "id": "2026-11-06-lifestyle-ich-mart-cultural-centre",
+      "published_at": "2026-11-06T04:17:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "heritage",
+        "cultural-centre",
+        "workshop",
+        "festival"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-06/2026-11-06-lifestyle-ich-mart-cultural-centre.json",
+      "en": {
+        "headline": "Intangible Cultural Heritage Mart opens this weekend at Cultural Centre",
+        "dek": "The free three-day event at Hong Kong Cultural Centre Piazza A and B features workshops, lion dance, martial arts and traditional music from 6 to 8 November."
+      },
+      "zh": {
+        "headline": "非物質文化遺產市集周末在文化中心舉行",
+        "dek": "一連三日免費活動於香港文化中心露天廣場A及B區舉行，設有工作坊、舞獅、武術及傳統音樂表演。"
+      }
+    },
+    {
+      "id": "2026-11-06-sha-tin-worker-fatal-accident",
+      "published_at": "2026-11-06T04:17:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "accident",
+        "labour",
+        "sha-tin",
+        "construction",
+        "safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-06/2026-11-06-sha-tin-worker-fatal-accident.json",
+      "en": {
+        "headline": "61-year-old worker dies after being struck by vehicle at Sha Tin site",
+        "dek": "The Labour Department is investigating after a female worker was run over by a grab lorry while washing vehicle tyres at a construction site entrance near Pok Hong Estate on Thursday."
+      },
+      "zh": {
+        "headline": "沙田工地女工被抓斗貨車輻毙 勞工處展開調查",
+        "dek": "一名61歲女工周四上午在沙田路近博康邨地盤出入口沖洗車胎時，被抓斗貨車輻過身亡，勞工處已發出暫時停工通知書。"
+      }
+    },
     {
       "id": "2026-11-06-smartview-ai-facial-recognition",
       "published_at": "2026-11-06T02:15:00+08:00",
@@ -1721,181 +1767,6 @@
       "zh": {
         "headline": "警方拘捕61歲男子 涉尖沙咀懷疑落藥前AV女優濱崎真緒",
         "dek": "本地男子周一在中環被捕，涉嫌意圖傷害而施用毒藥；事件於11月1日凌晨在麼地道場地發生。"
-      }
-    },
-    {
-      "id": "2026-11-03-hk-tennis-open-wang-xinyu-advances",
-      "published_at": "2026-11-03T02:40:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "tennis",
-        "wta",
-        "victoria-park",
-        "wang-xinyu"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-hk-tennis-open-wang-xinyu-advances.json",
-      "en": {
-        "headline": "Wang Xinyu advances at Hong Kong Tennis Open after straight-sets win",
-        "dek": "The sixth seed defeated wild-card Adithya Karunaratne 6-1, 6-1 in the first round at Victoria Park on Monday."
-      },
-      "zh": {
-        "headline": "王欣瑜保誠香港網球公開賽首輪直落兩盤晉級",
-        "dek": "六號種子周一在維多利亞公園以6-1、6-1擊敗香港外卡卡魯納拉特納，晉級次輪。"
-      }
-    },
-    {
-      "id": "2026-11-03-lifestyle-aziza-dave-holland-city-hall",
-      "published_at": "2026-11-03T02:40:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "jazz",
-        "concert",
-        "city-hall",
-        "central"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-lifestyle-aziza-dave-holland-city-hall.json",
-      "en": {
-        "headline": "Jazz quartet Aziza with Dave Holland performs at City Hall tonight",
-        "dek": "The supergroup of Holland, Chris Potter, Lionel Loueke and Eric Harland marks the 10th anniversary of its album with an 8pm concert at Hong Kong City Hall Concert Hall."
-      },
-      "zh": {
-        "headline": "爵士超級組合Aziza今晚香港大會堂演出 Dave Holland領軍",
-        "dek": "由Dave Holland、Chris Potter、Lionel Loueke及Eric Harland組成的四重奏，將於晚上8時在香港大會堂音樂廳演出，紀念專輯十周年。"
-      }
-    },
-    {
-      "id": "2026-11-03-customs-airport-cannabis-seizure-nov2",
-      "published_at": "2026-11-03T02:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "airport",
-        "drugs",
-        "cannabis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-customs-airport-cannabis-seizure-nov2.json",
-      "en": {
-        "headline": "Customs seize 5.1kg cannabis buds and other items at airport, arrest man",
-        "dek": "A 42-year-old mainland passenger from Bangkok was arrested after officers found suspected cannabis, Part I poisons and duty-not-paid cigarettes worth about HK$1.06 million."
-      },
-      "zh": {
-        "headline": "海關機場檢獲5.1公斤大麻花蕾等物品 拘捕一名男子",
-        "dek": "一名42歲內地旅客由曼谷抵港，海關在其手提行李發現懷疑大麻、第I部毒藥及未完稅香煙，市值約106萬元。"
-      }
-    },
-    {
-      "id": "2026-11-03-lifestyle-lucy-island-encore-concert",
-      "published_at": "2026-11-03T02:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "concert",
-        "music",
-        "tung-po"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-lifestyle-lucy-island-encore-concert.json",
-      "en": {
-        "headline": "Korean band LUCY holds Island encore concert at Kitty Woo Stadium tonight",
-        "dek": "The group performs at 7pm on Tuesday at Tung Po's Kitty Woo Stadium as part of its ninth concert tour encore, with tickets previously sold via Cityline."
-      },
-      "zh": {
-        "headline": "韓國樂隊LUCY今晚東蒲胡李名靜體育館舉行Island安可演唱會",
-        "dek": "樂隊周二晚上7時在東蒲體育館演出，作為第九次演唱會巡演安可場，門票早前經Cityline發售。"
-      }
-    },
-    {
-      "id": "2026-11-03-meta-pcpd-ai-glasses-meeting",
-      "published_at": "2026-11-03T02:15:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "meta",
-        "privacy",
-        "ai-glasses",
-        "pcpd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-meta-pcpd-ai-glasses-meeting.json",
-      "en": {
-        "headline": "Meta says it met Hong Kong privacy watchdog over AI glasses concerns",
-        "dek": "The company briefed media after the Privacy Commissioner warned that smart glasses could enable covert recording and excessive data collection processed by AI."
-      },
-      "zh": {
-        "headline": "Meta稱已就AI眼鏡私隱憂慮與私隱公署會面",
-        "dek": "公司在私隱專員警告智能眼鏡可能導致隱蔽攝錄及AI處理過量資料後，向傳媒簡報。"
-      }
-    },
-    {
-      "id": "2026-11-03-northern-metropolis-stray-animals-study",
-      "published_at": "2026-11-03T02:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "northern-metropolis",
-        "animals",
-        "stray",
-        "study"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-northern-metropolis-stray-animals-study.json",
-      "en": {
-        "headline": "Study links Northern Metropolis land clearance to higher stray animal intakes",
-        "dek": "Researchers found about 40 per cent of animals taken in by six rescue groups in the first half of the year came from the development area, with groups calling for policy review."
-      },
-      "zh": {
-        "headline": "研究指北部都會區收地與流浪動物接收量上升有關",
-        "dek": "研究發現今年上半年六個救援組織接收的動物中約四成來自發展區，團體呼籲檢討政策。"
-      }
-    },
-    {
-      "id": "2026-11-03-nsl-early-releases-tong-cheung",
-      "published_at": "2026-11-03T02:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "national-security",
-        "prison",
-        "early-release"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-nsl-early-releases-tong-cheung.json",
-      "en": {
-        "headline": "Sources say first national security law convict and three others released early",
-        "dek": "Reports citing sources said Leon Tong Ying-kit, former Apple Daily publisher Cheung Kim-hung, Wayland Chan and Andy Li were granted early release after high-profile convictions."
-      },
-      "zh": {
-        "headline": "消息指首名國安法定罪者及三人獲提早釋放",
-        "dek": "報道引述消息指唐英傑、前蘋果日報出版人張劍虹、陳梓華及李宇軒在高調定罪後獲提早釋放。"
-      }
-    },
-    {
-      "id": "2026-11-03-queen-mary-hospital-lifts-report-submitted",
-      "published_at": "2026-11-03T02:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "queen-mary-hospital",
-        "lifts",
-        "development-bureau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-queen-mary-hospital-lifts-report-submitted.json",
-      "en": {
-        "headline": "Development Bureau submits Queen Mary Hospital lifts investigation report",
-        "dek": "The bureau said it has given the report to the Chief Executive, who requested further details on rectification work, with 17 lifts repaired and seven now in use."
-      },
-      "zh": {
-        "headline": "發展局已向特首提交瑪麗醫院升降機調查報告",
-        "dek": "局方指已提交報告，特首要求提供執修及後續行動進一步資料，17部升降機完成執修，7部已開放使用。"
       }
     }
   ]
