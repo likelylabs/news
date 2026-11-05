@@ -1,24 +1,6 @@
 {
   "covered": [
     {
-      "key": "cfs-malachite-green-bluefin-tuna-oct22",
-      "id": "2026-10-23-cfs-malachite-green-tuna",
-      "first_seen": "2026-10-23T01:05:00+08:00",
-      "headline_en": "Centre for Food Safety finds malachite green in imported bluefin tuna sample"
-    },
-    {
-      "key": "fan-chi-yuen-sentenced-10-years",
-      "id": "2026-10-23-fan-chi-yuen-sentenced",
-      "first_seen": "2026-10-23T01:05:00+08:00",
-      "headline_en": "Tertiary student sentenced to 10 years for sexual offences against underage girls"
-    },
-    {
-      "key": "lifestyle-link-hong-kong-open-2026",
-      "id": "2026-10-23-link-hong-kong-open-free-entry",
-      "first_seen": "2026-10-23T01:05:00+08:00",
-      "headline_en": "Link Hong Kong Open offers free public admission for opening rounds"
-    },
-    {
       "key": "hk-gov-condemns-uk-six-monthly-report-oct23",
       "id": "2026-10-23-hk-gov-condemns-uk-report",
       "first_seen": "2026-10-23T07:10:00+08:00",
@@ -2333,7 +2315,13 @@
       "id": "2026-11-06-yuen-long-infant-unconscious-helper-arrest",
       "first_seen": "2026-11-06T00:05:00+08:00",
       "headline_en": "Domestic helper arrested after five-month-old baby found unconscious in Yuen Long"
+    },
+    {
+      "key": "smartview-facial-recognition-expansion-nov6",
+      "id": "2026-11-06-smartview-ai-facial-recognition",
+      "first_seen": "2026-11-06T02:15:00+08:00",
+      "headline_en": "Police to introduce AI facial recognition on SmartView CCTV this month"
     }
   ],
-  "updated_at": "2026-11-06T00:04:54+08:00"
+  "updated_at": "2026-11-06T02:04:39+08:00"
 }
