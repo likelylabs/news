@@ -43,7 +43,10 @@ permissions:
 jobs:
   validate:
     if: github.event_name == 'pull_request'
-    runs-on: ubuntu-latest
+    # Pinned, not ubuntu-latest: the jump to 26.04 (Nov 2026) brought a newer
+    # Python whose datetime parsing differed and stalled every build. Bump
+    # deliberately, after running tests/ on the new image's Python.
+    runs-on: ubuntu-26.04
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v7
@@ -54,7 +57,10 @@ jobs:
 
   build:
     if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
-    runs-on: ubuntu-latest
+    # Pinned, not ubuntu-latest: the jump to 26.04 (Nov 2026) brought a newer
+    # Python whose datetime parsing differed and stalled every build. Bump
+    # deliberately, after running tests/ on the new image's Python.
+    runs-on: ubuntu-26.04
     timeout-minutes: 10
     permissions:
       contents: write

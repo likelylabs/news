@@ -205,10 +205,12 @@ def valid_timestamp(value):
     if not isinstance(value, str) or not DT_RE.fullmatch(value):
         return False
     try:
-        datetime.fromisoformat(value)
+        parsed = datetime.fromisoformat(value)
     except ValueError:
         return False
-    return True
+    # Python 3.14+ accepts T24:00:00 as next-day midnight; require the value
+    # to round-trip so validation doesn't depend on the runner's Python.
+    return parsed.isoformat() == value
 
 
 def validate_localized(lang, obj, path):
