@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-05T04:16:13+08:00",
+  "generated_at": "2026-11-05T08:05:34+08:00",
   "live_window_hours": 72,
   "count": 78,
   "articles": [
+    {
+      "id": "2026-11-05-hk-optical-fair-day-two",
+      "published_at": "2026-11-05T08:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "wan-chai",
+        "hktdc",
+        "optical"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-05/2026-11-05-hk-optical-fair-day-two.json",
+      "en": {
+        "headline": "Hong Kong Optical Fair continues with seminars and smart eyewear displays",
+        "dek": "The three-day trade event at HKCEC features more than 600 exhibitors from 14 countries, with programmes on functional eyewear running today."
+      },
+      "zh": {
+        "headline": "香港國際眼鏡展續展 智能眼鏡及功能鏡片成焦點",
+        "dek": "為期三日的商貿展在會展舉行，逾600間來自14個國家及地區的參展商參與，今日有功能眼鏡研討環節。"
+      }
+    },
+    {
+      "id": "2026-11-05-north-point-truck-pedestrian-arrest",
+      "published_at": "2026-11-05T08:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "transport",
+        "north-point",
+        "accident",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-05/2026-11-05-north-point-truck-pedestrian-arrest.json",
+      "en": {
+        "headline": "Driver arrested after FEHD contractor truck hits pedestrian in North Point",
+        "dek": "A 45-year-old man was detained on suspicion of dangerous driving causing serious injury after his medium goods vehicle struck a 60-year-old woman on King's Road late Wednesday."
+      },
+      "zh": {
+        "headline": "北角食環署外判貨車撞途人 45歲司機涉危駕被捕",
+        "dek": "一名45歲男子涉嫌危險駕駛引致他人身體受嚴重傷害被捕，其駕駛的中型貨車周三深夜在英皇道撞倒一名60歲女途人。"
+      }
+    },
     {
       "id": "2026-11-05-being-human-festival-opens",
       "published_at": "2026-11-05T04:20:00+08:00",
@@ -1722,51 +1768,6 @@
       "zh": {
         "headline": "文華東方酒店The Pizza Bar by Daniele Cason周一開業",
         "dek": "來自東京、2025年獲50 Top Pizza評為全球第二的廚師發辦薄餅吧，周一於中環酒店夾層正式開業。"
-      }
-    },
-    {
-      "id": "2026-11-02-lifestyle-charlie-chocolate-factory",
-      "published_at": "2026-11-02T08:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "musical",
-        "cultural-centre",
-        "tsim-sha-tsui",
-        "theatre"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-02/2026-11-02-lifestyle-charlie-chocolate-factory.json",
-      "en": {
-        "headline": "Charlie and the Chocolate Factory musical opens at Cultural Centre this week",
-        "dek": "The Broadway production of the Roald Dahl story runs from 4 November to 6 December at the Grand Theatre, performed in English with Chinese surtitles."
-      },
-      "zh": {
-        "headline": "《朱古力獎門人》音樂劇本周於文化中心開演",
-        "dek": "百老匯版羅爾德·達爾故事改編音樂劇由11月4日至12月6日在香港文化中心大劇院上演，英語演出配繁體中文字幕。"
-      }
-    },
-    {
-      "id": "2026-11-02-wan-chai-driver-drugs-arrest",
-      "published_at": "2026-11-02T08:05:00+08:00",
-      "updated_at": "2026-11-02T08:10:00+08:00",
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "wan-chai",
-        "drugs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-02/2026-11-02-wan-chai-driver-drugs-arrest.json",
-      "en": {
-        "headline": "Police arrest driver after finding suspected drugs in Wan Chai car",
-        "dek": "Officers stopped a private car near 221 Gloucester Road early Monday and seized small amounts of suspected methamphetamine, cocaine and cannabis; a 34-year-old man was arrested for trafficking."
-      },
-      "zh": {
-        "headline": "警灣仔截查私家車檢懷疑毒品 拘34歲男司機",
-        "dek": "警方周一凌晨在告士打道221號對開截查一輛私家車，檢獲少量懷疑冰毒、可卡因及大麻花，34歲非華裔男司機涉嫌販運危險藥物被捕。"
       }
     }
   ]
