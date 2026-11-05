@@ -1,24 +1,6 @@
 {
   "covered": [
     {
-      "key": "hk-express-taiwan-flights-cancel-champi-oct22",
-      "id": "2026-10-22-hk-express-taiwan-flights-cancel",
-      "first_seen": "2026-10-22T17:07:00+08:00",
-      "headline_en": "HK Express cancels 10 Taiwan flights on Friday as Typhoon Champi approaches"
-    },
-    {
-      "key": "scaffold-net-standard-gb5725-2025",
-      "id": "2026-10-22-scaffold-net-standard-update",
-      "first_seen": "2026-10-22T17:07:00+08:00",
-      "headline_en": "Buildings Department applies tighter national standard for scaffold safety nets"
-    },
-    {
-      "key": "tuen-mun-kmb-collision-oct22",
-      "id": "2026-10-22-tuen-mun-kmb-collision",
-      "first_seen": "2026-10-22T17:07:00+08:00",
-      "headline_en": "Nine injured as two KMB double-deckers collide in Tuen Mun"
-    },
-    {
       "key": "asian-para-games-table-tennis-medals-oct22",
       "id": "2026-10-22-asian-para-games-table-tennis-medals",
       "first_seen": "2026-10-22T19:05:00+08:00",
@@ -2357,7 +2339,19 @@
       "id": "2026-11-05-yuen-long-rooftop-assault-arrest",
       "first_seen": "2026-11-05T16:25:00+08:00",
       "headline_en": "Man arrested after Yuen Long rooftop standoff following alleged assault"
+    },
+    {
+      "key": "customs-illicit-cigarettes-retail-crackdown-nov5",
+      "id": "2026-11-05-customs-illicit-cigarettes-retail",
+      "first_seen": "2026-11-05T18:11:00+08:00",
+      "headline_en": "Customs raids seven illicit cigarette retail points, arrests 10"
+    },
+    {
+      "key": "fish-enjoy-boat-pilot-launch-nov5",
+      "id": "2026-11-05-fish-enjoy-boat-pilot-launch",
+      "first_seen": "2026-11-05T18:11:00+08:00",
+      "headline_en": "AFCD launches dual-use fishing boat pilot for leisure tours"
     }
   ],
-  "updated_at": "2026-11-05T16:25:35+08:00"
+  "updated_at": "2026-11-05T18:22:03+08:00"
 }

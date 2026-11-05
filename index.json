@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-05T16:25:35+08:00",
+  "generated_at": "2026-11-05T18:22:03+08:00",
   "live_window_hours": 72,
   "count": 80,
   "articles": [
+    {
+      "id": "2026-11-05-customs-illicit-cigarettes-retail",
+      "published_at": "2026-11-05T18:11:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "customs",
+        "illicit-cigarettes",
+        "enforcement",
+        "retail"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-05/2026-11-05-customs-illicit-cigarettes-retail.json",
+      "en": {
+        "headline": "Customs raids seven illicit cigarette retail points, arrests 10",
+        "dek": "Officers posing as customers seized about 128,000 sticks worth HK$580,000 during a three-day territory-wide operation targeting newsstands and stalls."
+      },
+      "zh": {
+        "headline": "海關搗破七個私煙零售點 拘捕十人",
+        "dek": "關員喬裝顧客三日全港行動，檢獲約12.8萬支懷疑未完稅香煙，市值約58萬元。"
+      }
+    },
+    {
+      "id": "2026-11-05-fish-enjoy-boat-pilot-launch",
+      "published_at": "2026-11-05T18:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "fisheries",
+        "aberdeen",
+        "leisure",
+        "afcd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-05/2026-11-05-fish-enjoy-boat-pilot-launch.json",
+      "en": {
+        "headline": "AFCD launches dual-use fishing boat pilot for leisure tours",
+        "dek": "Two modified vessels will offer guided trips from Aberdeen where visitors can watch net hauling and learn about local fish species."
+      },
+      "zh": {
+        "headline": "漁護署推「漁＋樂」漁船計劃 示範船載客出海",
+        "dek": "兩艘改裝漁船將於香港仔水域提供導賞團，讓市民近距離觀看起網及認識本地魚種。"
+      }
+    },
     {
       "id": "2026-11-05-cathay-pacific-discretionary-bonus",
       "published_at": "2026-11-05T16:25:00+08:00",
@@ -1775,50 +1821,6 @@
       "zh": {
         "headline": "西貢南山新村獨立屋遭撬窗爆竊 失約44萬元珠寶手錶",
         "dek": "屋主一家身在海外，外傭清晨發現房間窗戶被撬，屋內有搜掠痕跡，損失包括一隻H.Stern手錶及其他首飾。"
-      }
-    },
-    {
-      "id": "2026-11-02-bmssc-industry-response",
-      "published_at": "2026-11-02T18:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "building-maintenance",
-        "renovation",
-        "tai-po-fire",
-        "contractors"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-02/2026-11-02-bmssc-industry-response.json",
-      "en": {
-        "headline": "Industry says new renovation council will draw legitimate contractors back",
-        "dek": "Representatives from the renovation sector said the Building Maintenance Support and Services Council’s integrity checks would help restore order and encourage qualified firms to return to the market."
-      },
-      "zh": {
-        "headline": "業界指新維修監察機構有助吸引合規承辦商重返市場",
-        "dek": "裝修業界代表表示，樓宇維修支援及服務委員會的誠信審查將有助恢復市場秩序，鼓勵合資格公司重新參與。"
-      }
-    },
-    {
-      "id": "2026-11-02-hkmao-governance-talent",
-      "published_at": "2026-11-02T18:10:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "hkmao",
-        "governance",
-        "one-country-two-systems",
-        "politics"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-02/2026-11-02-hkmao-governance-talent.json",
-      "en": {
-        "headline": "HKMAO calls for stronger systems to bring in competent patriotic governance talent",
-        "dek": "The Hong Kong and Macau Affairs Office said in a People’s Daily article that Hong Kong should improve training, selection, appointment and management to build a governing team with integrity and competence."
-      },
-      "zh": {
-        "headline": "港澳辦文章促完善機制吸納德才兼備管治人才",
-        "dek": "國務院港澳辦理論學習組在《人民日報》發表文章，指香港應完善培養、選拔、任用和管理機制，建設有德有才的管治隊伍。"
       }
     }
   ]
