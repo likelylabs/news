@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-05T18:22:03+08:00",
+  "generated_at": "2026-11-05T20:23:34+08:00",
   "live_window_hours": 72,
   "count": 80,
   "articles": [
+    {
+      "id": "2026-11-05-crime-stats-first-three-quarters",
+      "published_at": "2026-11-05T20:21:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "fraud",
+        "police",
+        "statistics",
+        "security"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-05/2026-11-05-crime-stats-first-three-quarters.json",
+      "en": {
+        "headline": "Overall crime rises 2.1 percent in first three quarters, driven by fraud",
+        "dek": "Secretary for Security Chris Tang said 68,015 cases were recorded from January to September, with fraud accounting for nearly half at 34,679 cases."
+      },
+      "zh": {
+        "headline": "首三季罪案升2.1% 詐騙案帶動整體上升",
+        "dek": "保安局局長鄧炳強表示，今年1月至9月錄得68015宗罪案，詐騙案佔近一半，共34679宗。"
+      }
+    },
+    {
+      "id": "2026-11-05-doj-lawtech-funding-scheme",
+      "published_at": "2026-11-05T20:21:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "justice",
+        "law",
+        "funding",
+        "legal"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-05/2026-11-05-doj-lawtech-funding-scheme.json",
+      "en": {
+        "headline": "Department of Justice launches HK$20,000 lawtech subscription scheme",
+        "dek": "Small law firms and newly qualified barristers can claim up to HK$20,000 for one-year subscriptions to designated legal technology services until 29 January."
+      },
+      "zh": {
+        "headline": "律政司推出兩萬元法律科技訂購資助計劃",
+        "dek": "中小型律師事務所及年資較淺大律師可獲最多兩萬元資助，訂購一年指定法律科技服務，申請期至明年1月29日。"
+      }
+    },
     {
       "id": "2026-11-05-customs-illicit-cigarettes-retail",
       "published_at": "2026-11-05T18:11:00+08:00",
@@ -1777,50 +1823,6 @@
       "zh": {
         "headline": "荃灣路葵涌三車相撞九人受傷",
         "dek": "警方表示，周一晚上約7時29分，兩輛私家車與一輛小巴在葵涌葵順街遊樂場附近相撞，小巴上九名乘客輕傷。"
-      }
-    },
-    {
-      "id": "2026-11-02-hzmb-checkpoint-hit-and-run-arrest",
-      "published_at": "2026-11-02T20:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "tuen-mun",
-        "hzmb",
-        "traffic"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-02/2026-11-02-hzmb-checkpoint-hit-and-run-arrest.json",
-      "en": {
-        "headline": "Police arrest man after hit-and-run at Hong Kong-Zhuhai-Macao Bridge checkpoint",
-        "dek": "A man in his thirties was held in Tuen Mun after a car struck a barrier at the checkpoint overnight and officers intercepted the vehicle following a chase."
-      },
-      "zh": {
-        "headline": "私家車港珠澳大橋口岸撞閘不顧而去 警方屯門截車拘捕三十多歲男子",
-        "dek": "一輛私家車凌晨在港珠澳大橋口岸撞到檢查亭閘後逃走，警方早上在屯門截獲車輛，拘捕一名三十多歲男子。"
-      }
-    },
-    {
-      "id": "2026-11-02-sai-kung-house-burglary-440k",
-      "published_at": "2026-11-02T20:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "sai-kung",
-        "burglary",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-02/2026-11-02-sai-kung-house-burglary-440k.json",
-      "en": {
-        "headline": "Burglars steal watches and jewellery worth HK$440,000 from Sai Kung house",
-        "dek": "A domestic helper discovered a pried-open window at a detached house in Nam Shan San Tsuen while the owners were overseas, with items including an H. Stern watch missing."
-      },
-      "zh": {
-        "headline": "西貢南山新村獨立屋遭撬窗爆竊 失約44萬元珠寶手錶",
-        "dek": "屋主一家身在海外，外傭清晨發現房間窗戶被撬，屋內有搜掠痕跡，損失包括一隻H.Stern手錶及其他首飾。"
       }
     }
   ]
