@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-11-05T22:12:03+08:00",
+  "generated_at": "2026-11-06T00:04:54+08:00",
   "live_window_hours": 72,
   "count": 82,
   "articles": [
+    {
+      "id": "2026-11-06-lifestyle-mplus-at-night-five-with-us",
+      "published_at": "2026-11-06T00:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "west-kowloon",
+        "music",
+        "mplus",
+        "event"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-06/2026-11-06-lifestyle-mplus-at-night-five-with-us.json",
+      "en": {
+        "headline": "M+ at Night returns Friday with RubberBand and live performances",
+        "dek": "The museum’s evening programme on 6 November features Cantopop group RubberBand, indie band Goodnight Lillie and the Recycled Orchestra of Cateura until midnight."
+      },
+      "zh": {
+        "headline": "M+夜不同周五回歸 RubberBand等樂隊演出",
+        "dek": "西九文化區M+周五晚上舉行夜不同活動，至午夜有RubberBand、Goodnight Lillie及Recycled Orchestra of Cateura演出。"
+      }
+    },
+    {
+      "id": "2026-11-06-nsd-mong-kok-seditious-books-arrest",
+      "published_at": "2026-11-06T00:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "national-security",
+        "mong-kok",
+        "books"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-06/2026-11-06-nsd-mong-kok-seditious-books-arrest.json",
+      "en": {
+        "headline": "National Security Department arrests 34-year-old man over seditious book imports",
+        "dek": "Police detained a local company director in Mong Kok on Thursday on suspicion of importing publications with seditious intention under the Safeguarding National Security Ordinance."
+      },
+      "zh": {
+        "headline": "國安處旺角拘捕34歲男子 涉輸入煽動書籍",
+        "dek": "警方周四在旺角拘捕一名本地公司董事，涉嫌違反《維護國家安全條例》輸入具煽動意圖的刊物。"
+      }
+    },
+    {
+      "id": "2026-11-06-yuen-long-infant-unconscious-helper-arrest",
+      "published_at": "2026-11-06T00:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "yuen-long",
+        "child-abuse",
+        "domestic-helper"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-06/2026-11-06-yuen-long-infant-unconscious-helper-arrest.json",
+      "en": {
+        "headline": "Domestic helper arrested after five-month-old baby found unconscious in Yuen Long",
+        "dek": "Police detained a domestic helper on suspicion of child abuse after a five-month-old girl was found unconscious at a village house in Ha San Wai on Thursday evening."
+      },
+      "zh": {
+        "headline": "元朗五個月大女嬰昏迷送院 外傭涉虐兒被捕",
+        "dek": "周四晚上元朗下新圍村一名五個月大女嬰被發現昏迷，警方以涉嫌虐兒拘捕一名外傭。"
+      }
+    },
     {
       "id": "2026-11-05-apm-kwun-tong-grandmother-sentenced",
       "published_at": "2026-11-05T22:10:00+08:00",
@@ -1803,72 +1873,6 @@
       "zh": {
         "headline": "發展局已向特首提交瑪麗醫院升降機調查報告",
         "dek": "局方指已提交報告，特首要求提供執修及後續行動進一步資料，17部升降機完成執修，7部已開放使用。"
-      }
-    },
-    {
-      "id": "2026-11-02-aqua-chow-murder-trial-opens",
-      "published_at": "2026-11-02T22:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "murder",
-        "trial",
-        "tsim-sha-tsui"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-02/2026-11-02-aqua-chow-murder-trial-opens.json",
-      "en": {
-        "headline": "High Court opens murder trial of man accused of killing yoga instructor",
-        "dek": "Prosecutors told the jury that Alex Lo bought a knife and planned to kill his former girlfriend Aqua Chow at the Ritz-Carlton in 2022."
-      },
-      "zh": {
-        "headline": "高等法院開審瑜伽導師遭殺案 被告否認謀殺",
-        "dek": "控方告訴陪審團，被告羅俊明購入刀具，計劃於2022年在麗思卡爾頓酒店殺死前女友周慧賢。"
-      }
-    },
-    {
-      "id": "2026-11-02-gregory-wong-cfa-leave-refused",
-      "published_at": "2026-11-02T22:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "legco",
-        "riot",
-        "appeal"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-02/2026-11-02-gregory-wong-cfa-leave-refused.json",
-      "en": {
-        "headline": "Court of Final Appeal refuses Gregory Wong leave to appeal LegCo riot conviction",
-        "dek": "The Appeal Committee found the actor had not raised reasonably arguable grounds to challenge his conviction and six-year-two-month sentence for the 2019 storming."
-      },
-      "zh": {
-        "headline": "終審法院拒絕黃秋生就立法會暴動案提出上訴許可",
-        "dek": "上訴委員會裁定演員未能提出合理可爭辯理由，挑戰其因2019年衝擊立法會被定罪及判囚六年兩個月。"
-      }
-    },
-    {
-      "id": "2026-11-02-tsuen-wan-road-minibus-collision",
-      "published_at": "2026-11-02T22:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "accident",
-        "kwai-chung",
-        "minibus",
-        "traffic"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-02/2026-11-02-tsuen-wan-road-minibus-collision.json",
-      "en": {
-        "headline": "Nine injured in three-vehicle collision on Tsuen Wan Road in Kwai Chung",
-        "dek": "Police said two private cars and a minibus collided near Kwai Shun Street Playground at about 7.29pm, leaving nine minibus passengers with minor injuries."
-      },
-      "zh": {
-        "headline": "荃灣路葵涌三車相撞九人受傷",
-        "dek": "警方表示，周一晚上約7時29分，兩輛私家車與一輛小巴在葵涌葵順街遊樂場附近相撞，小巴上九名乘客輕傷。"
       }
     }
   ]
