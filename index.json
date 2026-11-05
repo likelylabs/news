@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-05T08:57:24+08:00",
+  "generated_at": "2026-11-05T10:14:36+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-11-05-havf-audio-visual-festival",
+      "published_at": "2026-11-05T10:14:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "kowloon-tong",
+        "audio",
+        "technology",
+        "festival"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-05/2026-11-05-havf-audio-visual-festival.json",
+      "en": {
+        "headline": "HAVF home audio-visual festival opens tomorrow at Kowloon Tong InnoCentre",
+        "dek": "The free two-day event features LG, Sony and other brands demonstrating televisions, soundbars and home cinema systems from 6 to 7 November."
+      },
+      "zh": {
+        "headline": "HAVF視聽娛樂祭明起於九龍塘創新中心舉行",
+        "dek": "為期兩日的免費活動將於11月6日至7日舉行，現場有LG、Sony等品牌示範電視、Soundbar及家庭影院系統。"
+      }
+    },
     {
       "id": "2026-11-05-sheung-shui-tile-assault-arrest",
       "published_at": "2026-11-05T08:15:00+08:00",
