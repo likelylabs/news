@@ -1,24 +1,6 @@
 {
   "covered": [
     {
-      "key": "hang-seng-half-day-drop-oct22",
-      "id": "2026-10-22-hang-seng-half-day-drop",
-      "first_seen": "2026-10-22T13:15:00+08:00",
-      "headline_en": "Hang Seng Index drops more than 600 points by midday"
-    },
-    {
-      "key": "tai-po-fire-report-submitted-oct22",
-      "id": "2026-10-22-tai-po-fire-report-submitted",
-      "first_seen": "2026-10-22T13:15:00+08:00",
-      "headline_en": "Independent committee submits Tai Po fire report to Chief Executive"
-    },
-    {
-      "key": "zhu-chun-kwok-highest-honour-funeral-oct22",
-      "id": "2026-10-22-zhu-chun-kwok-highest-honour-funeral",
-      "first_seen": "2026-10-22T13:15:00+08:00",
-      "headline_en": "Police to hold highest honour funeral for senior officer Zhu Chun-kwok"
-    },
-    {
       "key": "flu-vaccination-rates-drop-oct22",
       "id": "2026-10-22-flu-vaccination-rates-drop",
       "first_seen": "2026-10-22T15:30:00+08:00",
@@ -2351,7 +2333,19 @@
       "id": "2026-11-05-joshua-wong-sentenced-10-years",
       "first_seen": "2026-11-05T12:15:00+08:00",
       "headline_en": "High Court sentences Joshua Wong to 10 years for foreign collusion"
+    },
+    {
+      "key": "sha-tin-road-worker-killed-nov05",
+      "id": "2026-11-05-sha-tin-road-worker-killed",
+      "first_seen": "2026-11-05T14:15:00+08:00",
+      "headline_en": "Female road worker killed by dump truck in Sha Tin"
+    },
+    {
+      "key": "tsa-2026-report-released",
+      "id": "2026-11-05-tsa-2026-report-released",
+      "first_seen": "2026-11-05T14:15:00+08:00",
+      "headline_en": "Education Bureau says TSA student performance remains steady"
     }
   ],
-  "updated_at": "2026-11-05T12:11:41+08:00"
+  "updated_at": "2026-11-05T14:15:20+08:00"
 }

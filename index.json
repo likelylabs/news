@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-05T12:11:41+08:00",
+  "generated_at": "2026-11-05T14:15:20+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 78,
   "articles": [
+    {
+      "id": "2026-11-05-sha-tin-road-worker-killed",
+      "published_at": "2026-11-05T14:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "transport",
+        "sha-tin",
+        "accident",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-05/2026-11-05-sha-tin-road-worker-killed.json",
+      "en": {
+        "headline": "Female road worker killed by dump truck in Sha Tin",
+        "dek": "A woman died after a dump truck struck and ran over her at a road-widening site on Sha Tin Road near Pok Hong Estate on Thursday morning. Police are investigating."
+      },
+      "zh": {
+        "headline": "沙田路修路女工遭泥頭車輾斃",
+        "dek": "周四早上沙田路近博康邨路面擴闊工地，一名女工遭泥頭車撞倒輾過後當場死亡，警方正調查。"
+      }
+    },
+    {
+      "id": "2026-11-05-tsa-2026-report-released",
+      "published_at": "2026-11-05T14:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "tsa",
+        "hkeaa",
+        "students",
+        "assessment"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-05/2026-11-05-tsa-2026-report-released.json",
+      "en": {
+        "headline": "Education Bureau says TSA student performance remains steady",
+        "dek": "Primary 3 and Secondary 3 results in Chinese, English and Mathematics were generally stable this year and aligned with previous assessments, the bureau said after receiving the HKEAA report."
+      },
+      "zh": {
+        "headline": "教育局：系統評估學生中英數表現保持平穩",
+        "dek": "考評局提交的2026年全港性系統評估報告顯示，小三及中三學生在中、英、數科表現大致平穩，與上次結果相若。"
+      }
+    },
     {
       "id": "2026-11-05-joshua-wong-sentenced-10-years",
       "published_at": "2026-11-05T12:15:00+08:00",
@@ -1725,73 +1771,6 @@
       "zh": {
         "headline": "證監會擬為持牌機構制訂網絡保安架構 風險較高者須符合更高要求",
         "dek": "行政總裁梁鳳儀在香港金融科技周表示，架構會為所有持牌機構訂定基線要求，並對風險較高機構實施加強措施，以應對人工智能相關威脅。"
-      }
-    },
-    {
-      "id": "2026-11-02-john-lee-beijing-shanghai-visit",
-      "published_at": "2026-11-02T14:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "john-lee",
-        "beijing",
-        "shanghai",
-        "ciie",
-        "symposium"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-02/2026-11-02-john-lee-beijing-shanghai-visit.json",
-      "en": {
-        "headline": "John Lee to visit Beijing and Shanghai for symposium and CIIE",
-        "dek": "The Chief Executive departs tomorrow for the 29th Beijing-Hong Kong Economic Cooperation Symposium and the ninth China International Import Expo, returning on November 6."
-      },
-      "zh": {
-        "headline": "李家超明赴北京上海出席京港洽談會及進博會",
-        "dek": "行政長官周二出發，出席第29屆京港經濟合作研討洽談會及第9屆中國國際進口博覽會，預計11月6日返港。"
-      }
-    },
-    {
-      "id": "2026-11-02-sun-dong-world-internet-conference",
-      "published_at": "2026-11-02T14:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "sun-dong",
-        "internet",
-        "wuzhen",
-        "technology"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-02/2026-11-02-sun-dong-world-internet-conference.json",
-      "en": {
-        "headline": "Sun Dong departs for World Internet Conference in Wuzhen",
-        "dek": "The Secretary for Innovation, Technology and Industry left for Zhejiang on Monday afternoon to attend the summit, where he will speak at forums on AI agents and cross-strait internet development."
-      },
-      "zh": {
-        "headline": "孫東啟程赴烏鎮出席世界互聯網大會峰會",
-        "dek": "創新科技及工業局局長周一下午出發前往浙江，將出席峰會並在智能體及兩岸港澳互聯網發展論壇致辭。"
-      }
-    },
-    {
-      "id": "2026-11-02-unidroit-asia-pacific-office-opens",
-      "published_at": "2026-11-02T14:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "legal",
-        "unidroit",
-        "legal-week",
-        "john-lee"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-02/2026-11-02-unidroit-asia-pacific-office-opens.json",
-      "en": {
-        "headline": "UNIDROIT opens first Asia-Pacific liaison office in Hong Kong",
-        "dek": "Chief Executive John Lee welcomed the institute’s first overseas presence as Hong Kong Legal Week 2026 began, calling the city an ideal home for regional private-law work."
-      },
-      "zh": {
-        "headline": "國際統一私法協會亞太聯絡辦正式在港開幕",
-        "dek": "行政長官李家超歡迎協會百年來首個海外辦公室落戶香港，並為法律周2026揭幕，形容本港是推動區域私法工作的理想地點。"
       }
     }
   ]
