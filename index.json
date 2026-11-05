@@ -1,8 +1,123 @@
 {
-  "generated_at": "2026-11-05T14:15:20+08:00",
+  "generated_at": "2026-11-05T16:25:35+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-11-05-cathay-pacific-discretionary-bonus",
+      "published_at": "2026-11-05T16:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "cathay-pacific",
+        "aviation",
+        "bonus",
+        "staff"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-05/2026-11-05-cathay-pacific-discretionary-bonus.json",
+      "en": {
+        "headline": "Cathay Pacific to pay one-month discretionary bonus to eligible Hong Kong staff",
+        "dek": "Eligible Hong Kong-based employees will receive the 2026 bonus equivalent to one month of qualifying pay on 7 January, the airline said in an internal message."
+      },
+      "zh": {
+        "headline": "國泰向香港合資格員工發放一個月酌情花紅",
+        "dek": "航空公司在內部訊息中表示，常駐香港的合資格員工將於明年1月7日獲發相當於一個月合資格薪酬的2026年度酌情花紅。"
+      }
+    },
+    {
+      "id": "2026-11-05-edmond-ma-misconduct-warning",
+      "published_at": "2026-11-05T16:25:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "medical-council",
+        "doctor",
+        "chp",
+        "misconduct"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-05/2026-11-05-edmond-ma-misconduct-warning.json",
+      "en": {
+        "headline": "CHP infection control head issued warning over driving conviction",
+        "dek": "The Medical Council ordered a warning letter for Dr Edmond Ma Siu-keung after he failed to report a 2024 dangerous-driving conviction within 28 days."
+      },
+      "zh": {
+        "headline": "衛生防護中心感染控制主管因危駕定罪被醫委會發警告信",
+        "dek": "馬紹強醫生因未在28日內向醫委會申報2024年危險駕駛定罪，周四紀律研訊後被下令發出警告信。"
+      }
+    },
+    {
+      "id": "2026-11-05-federated-hermes-hk-office",
+      "published_at": "2026-11-05T16:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "finance",
+        "asset-management",
+        "hong-kong",
+        "office"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-05/2026-11-05-federated-hermes-hk-office.json",
+      "en": {
+        "headline": "Federated Hermes opens Hong Kong office in Central",
+        "dek": "The US asset manager, which manages US$884 billion, has set up in the Nexxus Building after two years of preparation to deepen Asia-Pacific ties."
+      },
+      "zh": {
+        "headline": "Federated Hermes在中環開設香港辦公室",
+        "dek": "這家管理8840億美元資產的美國資產管理公司經過兩年籌備後，在Nexxus大廈設立辦事處，加強亞太聯繫。"
+      }
+    },
+    {
+      "id": "2026-11-05-hang-seng-closes-up-nov5",
+      "published_at": "2026-11-05T16:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "hang-seng",
+        "stocks",
+        "market",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-05/2026-11-05-hang-seng-closes-up-nov5.json",
+      "en": {
+        "headline": "Hang Seng Index closes 3.67 percent higher at 24796.98",
+        "dek": "Hong Kong stocks rose nearly 880 points on Thursday, with the Hang Seng Tech Index gaining 5.55 percent amid broad strength in technology shares."
+      },
+      "zh": {
+        "headline": "恒生指數收市升3.67%報24796.98點",
+        "dek": "港股周四上升近880點，恒生科技指數升5.55%，科網股普遍造好。"
+      }
+    },
+    {
+      "id": "2026-11-05-yuen-long-rooftop-assault-arrest",
+      "published_at": "2026-11-05T16:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "yuen-long",
+        "arrest",
+        "assault"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-05/2026-11-05-yuen-long-rooftop-assault-arrest.json",
+      "en": {
+        "headline": "Man arrested after Yuen Long rooftop standoff following alleged assault",
+        "dek": "Police detained a 39-year-old man on suspicion of wounding after he was persuaded from a rooftop on Kik Yeung Road, where a woman had been injured earlier."
+      },
+      "zh": {
+        "headline": "元朗男子危坐天台後被捕 涉傷人",
+        "dek": "警方在擊壤路勸服一名39歲男子離開天台後，以涉嫌傷人拘捕他；一名50歲女子較早時頸手受傷送院。"
+      }
+    },
     {
       "id": "2026-11-05-sha-tin-road-worker-killed",
       "published_at": "2026-11-05T14:15:00+08:00",
@@ -1704,73 +1819,6 @@
       "zh": {
         "headline": "港澳辦文章促完善機制吸納德才兼備管治人才",
         "dek": "國務院港澳辦理論學習組在《人民日報》發表文章，指香港應完善培養、選拔、任用和管理機制，建設有德有才的管治隊伍。"
-      }
-    },
-    {
-      "id": "2026-11-02-big-wave-bay-red-flag",
-      "published_at": "2026-11-02T16:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "beach",
-        "southern-district",
-        "red-flag",
-        "swimming"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-02/2026-11-02-big-wave-bay-red-flag.json",
-      "en": {
-        "headline": "Red flag hoisted at Big Wave Bay Beach due to large waves",
-        "dek": "The Leisure and Cultural Services Department said the red flag was raised at Big Wave Bay Beach in Southern District on Monday morning because of big waves, advising beachgoers not to swim."
-      },
-      "zh": {
-        "headline": "大浪灣泳灘因大浪懸掛紅旗",
-        "dek": "康樂及文化事務署表示，因大浪於周一大浪灣泳灘懸掛紅旗，呼籲泳客不要游泳。"
-      }
-    },
-    {
-      "id": "2026-11-02-lifestyle-taksu-gamelan-concert",
-      "published_at": "2026-11-02T16:25:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "concert",
-        "sha-tin",
-        "asia-plus",
-        "gamelan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-02/2026-11-02-lifestyle-taksu-gamelan-concert.json",
-      "en": {
-        "headline": "Hands Percussion brings Taksu gamelan concert to Sha Tin Town Hall this week",
-        "dek": "Malaysia’s Hands Percussion and Indonesia’s Gamelan Yuganada perform Taksu – The Spirit of Gamelan on 6 and 7 November as part of the Asia+ Festival, with the Hong Kong Children’s Choir joining."
-      },
-      "zh": {
-        "headline": "馬來西亞人人人鼓劇場《銅話鼓事》本周沙田大會堂上演",
-        "dek": "人人人鼓劇場與印尼甘美蘭樂團於11月6及7日在沙田大會堂演出《銅話鼓事》，香港兒童合唱團亦參與重新譯繹民謠，屬亞藝無疆藝術節節目。"
-      }
-    },
-    {
-      "id": "2026-11-02-sfc-cybersecurity-framework",
-      "published_at": "2026-11-02T16:25:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "sfc",
-        "fintech",
-        "cybersecurity",
-        "ai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-02/2026-11-02-sfc-cybersecurity-framework.json",
-      "en": {
-        "headline": "SFC plans cybersecurity framework for licensed firms with stricter rules for higher risk",
-        "dek": "Chief Executive Officer Julia Leung outlined the plan at Hong Kong FinTech Week, saying the framework would set baseline requirements and enhanced measures for higher-risk licensed institutions."
-      },
-      "zh": {
-        "headline": "證監會擬為持牌機構制訂網絡保安架構 風險較高者須符合更高要求",
-        "dek": "行政總裁梁鳳儀在香港金融科技周表示，架構會為所有持牌機構訂定基線要求，並對風險較高機構實施加強措施，以應對人工智能相關威脅。"
       }
     }
   ]
