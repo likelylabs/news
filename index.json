@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-06T12:11:45+08:00",
+  "generated_at": "2026-11-06T14:16:32+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 78,
   "articles": [
+    {
+      "id": "2026-11-06-exchange-fund-q3-earnings",
+      "published_at": "2026-11-06T14:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "finance",
+        "hkma",
+        "exchange-fund",
+        "markets"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-06/2026-11-06-exchange-fund-q3-earnings.json",
+      "en": {
+        "headline": "Exchange Fund posts HK$18.6 billion third-quarter income",
+        "dek": "The Hong Kong Monetary Authority said investment income dropped sharply year on year amid market volatility, though Hong Kong equities returned to profit."
+      },
+      "zh": {
+        "headline": "外匯基金第三季投資收入186億元",
+        "dek": "金管局表示第三季投資收入按年大幅下跌，但港股轉虧為盈。"
+      }
+    },
+    {
+      "id": "2026-11-06-immigration-fake-id-syndicate",
+      "published_at": "2026-11-06T14:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "immigration",
+        "illegal-workers",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-06/2026-11-06-immigration-fake-id-syndicate.json",
+      "en": {
+        "headline": "Immigration Department breaks cross-border fake identity syndicate, 15 held",
+        "dek": "Officers arrested two ringleaders who were later sentenced to 29 and 42 months in jail after a scheme that supplied forged Hong Kong identity cards to illegal workers."
+      },
+      "zh": {
+        "headline": "入境處破跨境偽證黑工集團 拘15人",
+        "dek": "兩名主腦因安排偽造香港身份證及住宿予非法勞工，分別被判囚29及42個月。"
+      }
+    },
+    {
+      "id": "2026-11-06-privacy-commissioner-land-records",
+      "published_at": "2026-11-06T14:25:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "privacy",
+        "land-records",
+        "government",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-06/2026-11-06-privacy-commissioner-land-records.json",
+      "en": {
+        "headline": "Privacy commissioner supports tighter land records access rules",
+        "dek": "Ada Chung said misuse of land registry data for doxxing is worsening and journalists have no blanket exemption under the proposed arrangements."
+      },
+      "zh": {
+        "headline": "私隱專員支持收緊土地查冊安排",
+        "dek": "鍾麗玲表示土地登記冊資料被用於起底的情況有惡化跡象，傳媒亦無全面豁免。"
+      }
+    },
     {
       "id": "2026-11-06-lifestyle-yut-lok-fishing-boats",
       "published_at": "2026-11-06T12:10:00+08:00",
@@ -1723,94 +1789,6 @@
       "zh": {
         "headline": "元朗區議員施振興因與13歲女童發生性行為判囚兩年半",
         "dek": "區域法院法官指被告缺乏悔意；事件發生於十多年前，另控非禮則被裁定罪名不成立。"
-      }
-    },
-    {
-      "id": "2026-11-03-parking-meters-system-malfunction",
-      "published_at": "2026-11-03T12:25:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "parking",
-        "transport-department",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-parking-meters-system-malfunction.json",
-      "en": {
-        "headline": "Parking meter system fails across Hong Kong, police hold off enforcement",
-        "dek": "Transport Department says emergency repairs are under way after the operator reported a malfunction at 8.20am; Secretary Mable Chan says police will not ticket roadside spaces until fixed."
-      },
-      "zh": {
-        "headline": "全港咪錶泊車系統故障 警方暫不執法路旁泊位",
-        "dek": "運輸署接獲營運商早上約8時20分報告系統故障，正緊急搶修；陳美寶指未完全復修前警方不會就路旁咪錶位執法。"
-      }
-    },
-    {
-      "id": "2026-11-03-state-council-removes-ho-housing",
-      "published_at": "2026-11-03T12:25:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "housing",
-        "tai-po-fire",
-        "government",
-        "accountability"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-state-council-removes-ho-housing.json",
-      "en": {
-        "headline": "State Council removes Ho Wing-yin as Housing Bureau Secretary",
-        "dek": "The formal removal follows her resignation last week to take political responsibility for the Tai Po fire, with Michael Wong acting in the post."
-      },
-      "zh": {
-        "headline": "國務院決定免去何永賢房屋局局長職務",
-        "dek": "何永賢上月為大埔宏福苑火災承擔政治責任請辭，財政司副司長黃偉綸兼任署理局長。"
-      }
-    },
-    {
-      "id": "2026-11-03-ho-wing-yin-housing-secretary-removal",
-      "published_at": "2026-11-03T12:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "housing",
-        "tai-po-fire",
-        "principal-official"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-ho-wing-yin-housing-secretary-removal.json",
-      "en": {
-        "headline": "Central Government removes Winnie Ho as Housing Secretary",
-        "dek": "The State Council approved the removal on Tuesday following her resignation to take political responsibility for the Wang Fuk Court fire."
-      },
-      "zh": {
-        "headline": "國務院決定免去何永賢房屋局局長職務",
-        "dek": "中央人民政府周二根據行政長官建議，正式免去何永賢房屋局局長一職，她早前為宏福苑火災承擔政治責任請辭。"
-      }
-    },
-    {
-      "id": "2026-11-03-parking-meter-system-outage",
-      "published_at": "2026-11-03T12:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "parking",
-        "meters",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-parking-meter-system-outage.json",
-      "en": {
-        "headline": "Parking meter system fails across Hong Kong, police hold off enforcement",
-        "dek": "Transport officials said the operator reported the outage at about 8.20am; Secretary Chen Mei-bo confirmed police would not ticket roadside meter spaces until repairs are complete."
-      },
-      "zh": {
-        "headline": "全港咪錶泊車系統故障 陳美寶稱未完全復修前警方暫不執法",
-        "dek": "運輸署今早約8時20分接獲營辦商報告系統故障，正緊急搶修；運輸及物流局局長表示警方在系統完全復修前不會對路旁咪錶位執法。"
       }
     }
   ]
