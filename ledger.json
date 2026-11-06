@@ -1,30 +1,6 @@
 {
   "covered": [
     {
-      "key": "air-quality-serious-levels-oct23",
-      "id": "2026-10-23-air-quality-health-risk",
-      "first_seen": "2026-10-23T11:10:00+08:00",
-      "headline_en": "Air quality reaches serious levels, experts urge elderly to stay indoors"
-    },
-    {
-      "key": "customs-airport-cannabis-seizures-oct22",
-      "id": "2026-10-23-customs-cannabis-airport",
-      "first_seen": "2026-10-23T11:10:00+08:00",
-      "headline_en": "Customs seizes 8kg of cannabis at airport, two men arrested"
-    },
-    {
-      "key": "hsbc-redcoin-payme-launch-oct23",
-      "id": "2026-10-23-hsbc-redcoin-payme-launch",
-      "first_seen": "2026-10-23T11:10:00+08:00",
-      "headline_en": "HSBC launches RedCoin stablecoin for PayMe users"
-    },
-    {
-      "key": "lifestyle-lkf-halloween-monster-mash-2026",
-      "id": "2026-10-23-lifestyle-lkf-halloween-monster-mash",
-      "first_seen": "2026-10-23T11:10:00+08:00",
-      "headline_en": "Lan Kwai Fong Monster Mash returns for three Halloween Saturdays"
-    },
-    {
       "key": "customs-sha-tau-kok-cigarettes-oct22",
       "id": "2026-10-23-customs-sha-tau-kok-seizure",
       "first_seen": "2026-10-23T13:10:00+08:00",
@@ -2351,7 +2327,19 @@
       "id": "2026-11-06-lee-garden-eight-law-firm",
       "first_seen": "2026-11-06T10:12:00+08:00",
       "headline_en": "Law firm reportedly to move from Central to Hysan Lee Garden Eight"
+    },
+    {
+      "key": "lifestyle-yut-lok-fishing-boat-experience",
+      "id": "2026-11-06-lifestyle-yut-lok-fishing-boats",
+      "first_seen": "2026-11-06T12:10:00+08:00",
+      "headline_en": "Modified fishing boats begin passenger trips under leisure fishery scheme"
+    },
+    {
+      "key": "weekend-weather-outlook-nov7-8",
+      "id": "2026-11-06-weekend-weather-outlook",
+      "first_seen": "2026-11-06T12:10:00+08:00",
+      "headline_en": "Windy weekend ahead with mainly cloudy skies and occasional rain patches"
     }
   ],
-  "updated_at": "2026-11-06T10:15:34+08:00"
+  "updated_at": "2026-11-06T12:11:45+08:00"
 }
