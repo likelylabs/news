@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-11-06T14:16:32+08:00",
+  "generated_at": "2026-11-06T16:26:20+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 77,
   "articles": [
+    {
+      "id": "2026-11-06-helper-indecent-assault-sentencing",
+      "published_at": "2026-11-06T16:30:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "court",
+        "indecent-assault",
+        "domestic-helper"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-06/2026-11-06-helper-indecent-assault-sentencing.json",
+      "en": {
+        "headline": "Court jails domestic helper five months for indecent assault",
+        "dek": "Kowloon City Court sentenced a 45-year-old helper on three counts after convicting her of offences against her former employer’s daughter."
+      },
+      "zh": {
+        "headline": "外傭非禮僱主女兒罪成 判囚五個月",
+        "dek": "九龍城裁判法院周五判處一名45歲外傭三項非禮罪成，入獄五個月。"
+      }
+    },
+    {
+      "id": "2026-11-06-lifestyle-blue-lock-exhibition-airside",
+      "published_at": "2026-11-06T16:30:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "anime",
+        "kai-tak",
+        "airside"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-06/2026-11-06-lifestyle-blue-lock-exhibition-airside.json",
+      "en": {
+        "headline": "Blue Lock anime exhibition opens at AIRSIDE as first overseas stop",
+        "dek": "The official EGOIST EXHIBITION runs from 6 to 24 November at the Kai Tak mall, with immersive displays and limited merchandise."
+      },
+      "zh": {
+        "headline": "《藍色監獄》官方展覽登陸啟德AIRSIDE 成海外首站",
+        "dek": "EGOIST EXHIBITION今日起至24日於AIRSIDE舉行，設沉浸式展區及限定商品，每日11時至21時開放。"
+      }
+    },
+    {
+      "id": "2026-11-06-mtr-siu-ho-wan-signal-fault",
+      "published_at": "2026-11-06T16:30:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "mtr",
+        "airport-express",
+        "tung-chung"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-06/2026-11-06-mtr-siu-ho-wan-signal-fault.json",
+      "en": {
+        "headline": "Signal fault briefly disrupts Airport Express and Tung Chung Line",
+        "dek": "The Transport Department said services on both lines were affected near Siu Ho Wan Depot from about 13:37 and had been restored by 14:03."
+      },
+      "zh": {
+        "headline": "小蠣灣車廠附近信號故障 機場快線及東涌線一度受影響",
+        "dek": "運輸署表示下午約1時37分接獲港鐵通知，兩線服務受影響，至約2時03分事故已妥善處理，班次逐步回復正常。"
+      }
+    },
+    {
+      "id": "2026-11-06-prince-edward-water-heater-gas-leak",
+      "published_at": "2026-11-06T16:30:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "safety",
+        "emsd",
+        "prince-edward"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-06/2026-11-06-prince-edward-water-heater-gas-leak.json",
+      "en": {
+        "headline": "EMSD finds gas leak at internal pipe connection in Prince Edward water heater",
+        "dek": "The Electrical and Mechanical Services Department said a preliminary inspection showed a leak at the hose connection of an approved gas water heater that had passed a check in July 2025."
+      },
+      "zh": {
+        "headline": "機電署指太子熱水爐內部喉管接駁位漏氣",
+        "dek": "署方初步檢驗發現批准型號的煤氣熱水爐內部喉管接駁位置出現氣體洩漏，該爐去年7月檢查時並無異常。"
+      }
+    },
     {
       "id": "2026-11-06-exchange-fund-q3-earnings",
       "published_at": "2026-11-06T14:25:00+08:00",
@@ -1677,118 +1766,6 @@
       "zh": {
         "headline": "恒生指數高收132點 連升三日",
         "dek": "周二收報23525.97點，升幅近0.6%，成交額逾2364億元，消費及博彩股帶動升勢。"
-      }
-    },
-    {
-      "id": "2026-11-03-global-financial-leaders-summit",
-      "published_at": "2026-11-03T16:25:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "finance",
-        "summit",
-        "he-lifeng",
-        "john-lee",
-        "hkma"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-global-financial-leaders-summit.json",
-      "en": {
-        "headline": "He Lifeng and John Lee address Global Financial Leaders’ Investment Summit",
-        "dek": "Vice-Premier pledged continued support for Hong Kong as a free open financial centre and more offshore yuan liquidity; Lee said the five-year plan offers investors certainty."
-      },
-      "zh": {
-        "headline": "何立峰與李家超在國際金融領袖投資峰會致辭",
-        "dek": "副總理表示將繼續支持香港作為自由開放金融中心並增加離岸人民幣流動性；李家超指五年規劃為投資者提供確定性。"
-      }
-    },
-    {
-      "id": "2026-11-03-lifestyle-charlie-chocolate-factory",
-      "published_at": "2026-11-03T16:25:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "musical",
-        "theatre",
-        "tsim-sha-tsui",
-        "family"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-lifestyle-charlie-chocolate-factory.json",
-      "en": {
-        "headline": "Broadway musical Charlie and the Chocolate Factory opens in Hong Kong tomorrow",
-        "dek": "The production based on Roald Dahl’s novel runs at Hong Kong Cultural Centre Grand Theatre from 4 November to 6 December, tickets from HK$388."
-      },
-      "zh": {
-        "headline": "百老匯音樂劇《朱古力獎門人》明日香港開演",
-        "dek": "改編自羅爾德·達爾小說的製作由11月4日至12月6日在香港文化中心大劇院上演，票價由388港元起。"
-      }
-    },
-    {
-      "id": "2026-11-03-parking-meters-restored",
-      "published_at": "2026-11-03T14:20:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "parking",
-        "transport-department",
-        "mable-chan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-parking-meters-restored.json",
-      "en": {
-        "headline": "Parking meter system restored after nearly four-hour outage",
-        "dek": "Transport Department says the citywide system is back to normal after emergency repairs; no evidence of attack, and operator must submit a report within 24 hours."
-      },
-      "zh": {
-        "headline": "全港咪錶泊車系統已恢復正常運作",
-        "dek": "運輸署指營運商緊急搶修後系統復常，暫無證據顯示遭攻擊，並要求盡快提交報告。"
-      }
-    },
-    {
-      "id": "2026-11-03-red-flags-three-beaches",
-      "published_at": "2026-11-03T14:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "beaches",
-        "leisure",
-        "safety",
-        "southern-district"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-red-flags-three-beaches.json",
-      "en": {
-        "headline": "Red flags hoisted at Stanley, Big Wave Bay and Clear Water Bay beaches",
-        "dek": "Leisure and Cultural Services Department cites big waves; beachgoers advised not to swim at the three sites in Southern and Sai Kung districts."
-      },
-      "zh": {
-        "headline": "赤柱正灘、大浪灣及清水灣第二灣泳灘懸掛紅旗",
-        "dek": "康文署因大浪關係懸掛紅旗，呼籲市民勿在港島南區及西貢區這三個泳灘游泳。"
-      }
-    },
-    {
-      "id": "2026-11-03-yuen-long-councillor-sentenced",
-      "published_at": "2026-11-03T14:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "court",
-        "yuen-long",
-        "district-council"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-yuen-long-councillor-sentenced.json",
-      "en": {
-        "headline": "Yuen Long district councillor jailed 2.5 years for sex with 13-year-old",
-        "dek": "District Court judge notes lack of remorse in sentencing Sei Chun-hing over an offence from more than a decade ago; he was acquitted of a related indecent-assault count."
-      },
-      "zh": {
-        "headline": "元朗區議員施振興因與13歲女童發生性行為判囚兩年半",
-        "dek": "區域法院法官指被告缺乏悔意；事件發生於十多年前，另控非禮則被裁定罪名不成立。"
       }
     }
   ]
