@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-06T20:25:39+08:00",
+  "generated_at": "2026-11-06T22:11:02+08:00",
   "live_window_hours": 72,
-  "count": 77,
+  "count": 78,
   "articles": [
+    {
+      "id": "2026-11-06-sha-tin-chap-wai-kon-pipe-leak",
+      "published_at": "2026-11-06T22:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "sha-tin",
+        "water-supplies",
+        "bus",
+        "traffic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-06/2026-11-06-sha-tin-chap-wai-kon-pipe-leak.json",
+      "en": {
+        "headline": "Water pipe leak closes Sha Tin road near City One Station",
+        "dek": "The Water Supplies Department is carrying out emergency repairs on Chap Wai Kon Street, with all lanes towards Shek Mun closed since Friday morning and 21 bus routes diverted."
+      },
+      "zh": {
+        "headline": "沙田插桅杆街近第一城站水管急修封路",
+        "dek": "水務署正於插桅杆街往石門方向進行緊急維修，該段全線自周五早上封閉，至少21條巴士路線須改道。"
+      }
+    },
     {
       "id": "2026-11-06-bid-rigging-arrests-28",
       "published_at": "2026-11-06T20:30:00+08:00",
