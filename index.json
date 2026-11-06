@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-07T02:04:27+08:00",
+  "generated_at": "2026-11-07T04:17:09+08:00",
   "live_window_hours": 72,
-  "count": 75,
+  "count": 73,
   "articles": [
+    {
+      "id": "2026-11-07-lifestyle-repulse-bay-motoring-classics",
+      "published_at": "2026-11-07T04:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "cars",
+        "repulse-bay",
+        "event",
+        "motoring"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-07/2026-11-07-lifestyle-repulse-bay-motoring-classics.json",
+      "en": {
+        "headline": "Repulse Bay Motoring Classics brings rare cars to south side today",
+        "dek": "The Peninsula-inspired garden party at The Repulse Bay Arcade runs from 2pm to 6:30pm, with classic icons and regional debuts on show."
+      },
+      "zh": {
+        "headline": "影灣園名車盛會今午淺水灣舉行 展出經典名車",
+        "dek": "半島酒店集團風格的花園派對於影灣園購物商場下午2時至6時30分舉行，展出經典名車及地區首發車款。"
+      }
+    },
     {
       "id": "2026-11-07-lifestyle-around-the-island-race",
       "published_at": "2026-11-07T02:10:00+08:00",
@@ -1650,74 +1673,6 @@
       "zh": {
         "headline": "中央政府批准免去何永賢房屋局局長職務",
         "dek": "國務院周二根據行政長官李家超建議正式免職，何永賢早前因大埔宏福苑火災請辭承擔政治責任。"
-      }
-    },
-    {
-      "id": "2026-11-04-lifestyle-lola-maria-wan-chai",
-      "published_at": "2026-11-04T04:16:00+08:00",
-      "updated_at": "2026-11-04T04:18:00+08:00",
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "wan-chai",
-        "restaurant",
-        "opening"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-04/2026-11-04-lifestyle-lola-maria-wan-chai.json",
-      "en": {
-        "headline": "Spanish restaurant Lola María opens second branch on Gresson Street in Wan Chai",
-        "dek": "Chef Edgard Sanuy Barahona’s new outlet began service on 3 November, adding Wan Chai-exclusive dishes alongside the Sheung Wan original’s menu."
-      },
-      "zh": {
-        "headline": "西班牙餐廳Lola María於灣仔機利臣街開設第二分店",
-        "dek": "主廚Edgard Sanuy Barahona的新店於11月3日開始營業，在上環原店菜式以外加入灣仔限定菜式。"
-      }
-    },
-    {
-      "id": "2026-11-04-lifestyle-charlie-chocolate-factory",
-      "published_at": "2026-11-04T02:20:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "theatre",
-        "musical",
-        "tsim-sha-tsui"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-04/2026-11-04-lifestyle-charlie-chocolate-factory.json",
-      "en": {
-        "headline": "Charlie and the Chocolate Factory musical opens at Hong Kong Cultural Centre",
-        "dek": "The Broadway adaptation of Roald Dahl’s story begins its Hong Kong run today at the Grand Theatre, with performances through 6 December."
-      },
-      "zh": {
-        "headline": "《朱古力獎門人》音樂劇今起於香港文化中心上演",
-        "dek": "改編自羅爾德·達爾作品的百老匯音樂劇，由今日起至十二月六日於尖沙咀香港文化中心大劇院公演。"
-      }
-    },
-    {
-      "id": "2026-11-04-parking-meter-outage",
-      "published_at": "2026-11-04T02:20:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "parking",
-        "transport-department",
-        "hkt"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-04/2026-11-04-parking-meter-outage.json",
-      "en": {
-        "headline": "Software update triggers four-hour parking meter outage across Hong Kong",
-        "dek": "Transport Department says about 11,000 meters failed after an early software update on Tuesday; system restored by 12.15pm with full refunds arranged."
-      },
-      "zh": {
-        "headline": "凌晨軟件更新致全港咪錶系統故障約四小時",
-        "dek": "運輸署指約一萬一千個咪錶受影響，系統於下午十二時十五分恢復，營運商將安排全數退款。"
       }
     }
   ]
