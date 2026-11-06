@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-06T08:05:02+08:00",
+  "generated_at": "2026-11-06T09:00:14+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 76,
   "articles": [
     {
       "id": "2026-11-06-lifestyle-lantau-yacht-club-boat-show",
@@ -1745,73 +1745,6 @@
       "zh": {
         "headline": "跑手批評首屆北部都會區馬拉松安排",
         "dek": "約1.5萬名跑手周日參賽後，反映缺水、天氣炎熱、路況不平及賽後取回物品需長途步行。"
-      }
-    },
-    {
-      "id": "2026-11-03-hung-shui-kiu-hit-and-run-death",
-      "published_at": "2026-11-03T08:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "yuen-long",
-        "traffic",
-        "accident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-hung-shui-kiu-hit-and-run-death.json",
-      "en": {
-        "headline": "Woman in her 50s dies after suspected hit-and-run on Castle Peak Road in Hung Shui Kiu",
-        "dek": "Police said a passer-by found the woman unconscious in a planter near Chung Uk Tsuen Light Rail Stop at about 11.14pm on Monday; a male driver was later arrested."
-      },
-      "zh": {
-        "headline": "洪水橋青山公路疑撞人後不顧而去 五十多歲女子死亡 男司機被捕",
-        "dek": "警方表示，周一晚上約11時14分，途人在鐘屋村輕鐵站附近花槽發現女子昏迷，送院後不治；男司機其後被捕。"
-      }
-    },
-    {
-      "id": "2026-11-03-lifestyle-super-terminal-expo-opens",
-      "published_at": "2026-11-03T08:15:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "lifestyle",
-        "expo",
-        "airport",
-        "asiaworld-expo",
-        "technology"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-lifestyle-super-terminal-expo-opens.json",
-      "en": {
-        "headline": "Super Terminal Expo opens at AsiaWorld-Expo focusing on future transport hubs",
-        "dek": "The three-day event organised by Informa Markets runs from 3 to 5 November with Hong Kong International Airport as principal partner, covering terminal design, automation and low-altitude economy."
-      },
-      "zh": {
-        "headline": "超級樞紐博覽會今起亞洲國際博覽館舉行 聚焦未來交通樞紐",
-        "dek": "Informa Markets主辦的三日活動由11月3日至5日舉行，香港國際機場為主要夥伴，涵蓋終端設計、自動化及低空經濟。"
-      }
-    },
-    {
-      "id": "2026-11-03-mao-hamasaki-drugging-arrest",
-      "published_at": "2026-11-03T08:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "tsim-sha-tsui",
-        "drugs",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-mao-hamasaki-drugging-arrest.json",
-      "en": {
-        "headline": "Police arrest 61-year-old man over suspected drugging of DJ Mao Hamasaki in Tsim Sha Tsui",
-        "dek": "The local man was held in Central on Monday on suspicion of administering poison with intent to injure after the former Japanese actress collapsed at a Mody Road venue on 1 November."
-      },
-      "zh": {
-        "headline": "警方拘捕61歲男子 涉尖沙咀懷疑落藥前AV女優濱崎真緒",
-        "dek": "本地男子周一在中環被捕，涉嫌意圖傷害而施用毒藥；事件於11月1日凌晨在麼地道場地發生。"
       }
     }
   ]
