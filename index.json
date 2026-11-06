@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-06T04:17:56+08:00",
+  "generated_at": "2026-11-06T08:05:02+08:00",
   "live_window_hours": 72,
-  "count": 77,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-11-06-lifestyle-lantau-yacht-club-boat-show",
+      "published_at": "2026-11-06T08:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "yachts",
+        "discovery-bay",
+        "festival",
+        "event"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-06/2026-11-06-lifestyle-lantau-yacht-club-boat-show.json",
+      "en": {
+        "headline": "Lantau Yacht Club Boat Show opens today as public part of Festival of Connoisseurs",
+        "dek": "The free-admission event at Discovery Bay runs until 8 November with more than 30 yachts on display and marine technology booths, linked to the AsiaWorld-Expo luxury exhibition."
+      },
+      "zh": {
+        "headline": "大嶼山遊艇會船展今日開幕 屬鑑賞家盛典公開部分",
+        "dek": "愉景灣活動至8日免費入場（需預先登記），展出逾30艘遊艇及海事科技，並與亞洲國際博覽館奢華展覽相連。"
+      }
+    },
+    {
+      "id": "2026-11-06-shau-kei-wan-water-asphalt",
+      "published_at": "2026-11-06T08:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "water",
+        "shau-kei-wan",
+        "infrastructure",
+        "health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-06/2026-11-06-shau-kei-wan-water-asphalt.json",
+      "en": {
+        "headline": "Water Supplies Department says Shau Kei Wan black particles are asphalt and meet standards",
+        "dek": "The department said samples from affected areas contained trace asphalt from pipe linings raised during post-repair flushing, but all met Hong Kong drinking water standards and supply has cleared."
+      },
+      "zh": {
+        "headline": "水務署指筲箕灣食水黑點為瀝青 化驗符合標準",
+        "dek": "署方表示受影響地區樣本含維修後沖洗揚起的微量瀝青，但全部符合香港食水標準，供水已回復清澈。"
+      }
+    },
     {
       "id": "2026-11-06-lifestyle-ich-mart-cultural-centre",
       "published_at": "2026-11-06T04:17:00+08:00",
