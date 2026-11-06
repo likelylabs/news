@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-07T00:03:40+08:00",
+  "generated_at": "2026-11-07T00:03:52+08:00",
   "live_window_hours": 72,
-  "count": 72,
+  "count": 73,
   "articles": [
+    {
+      "id": "2026-11-07-belchers-helper-alleged-ill-treatment",
+      "published_at": "2026-11-07T00:03:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "domestic-helper",
+        "kennedy-town"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-07/2026-11-07-belchers-helper-alleged-ill-treatment.json",
+      "en": {
+        "headline": "Police arrest domestic helper over alleged ill-treatment of child at Belcher's",
+        "dek": "A 37-year-old Philippine helper was arrested after the mother of a four-year-old girl reported suspected mistreatment at a Kennedy Town flat; the child has no visible injuries."
+      },
+      "zh": {
+        "headline": "堅尼地城寶翠園外傭涉虐兒被捕 疑向女童食物吐痰",
+        "dek": "警方周五早上接獲四歲女童母親報案，指懷疑女兒被不恰當對待，拘捕37歲菲傭；女童無表面傷，毋須送院。"
+      }
+    },
     {
       "id": "2026-11-06-sha-tin-chap-wai-kon-pipe-leak",
       "published_at": "2026-11-06T22:10:00+08:00",
