@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-06T18:11:39+08:00",
+  "generated_at": "2026-11-06T18:15:32+08:00",
   "live_window_hours": 72,
-  "count": 76,
+  "count": 78,
   "articles": [
+    {
+      "id": "2026-11-06-cold-front-temperature-drop",
+      "published_at": "2026-11-06T18:20:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "forecast",
+        "monsoon",
+        "temperature"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-06/2026-11-06-cold-front-temperature-drop.json",
+      "en": {
+        "headline": "Observatory expects temperatures to fall to 18 degrees next week",
+        "dek": "A cold front is forecast to cross the south China coast on Monday, bringing stronger northerly winds and appreciably cooler mornings from Tuesday."
+      },
+      "zh": {
+        "headline": "天文台料下周氣溫顯著下降 市區最低或見18度",
+        "dek": "一道冷鋒預料周一初時橫過華南沿岸，轉吹偏北強風，周二起早上明顯較涼。"
+      }
+    },
+    {
+      "id": "2026-11-06-hkex-q3-profit-decline",
+      "published_at": "2026-11-06T18:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "finance",
+        "markets",
+        "hkex",
+        "stocks"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-06/2026-11-06-hkex-q3-profit-decline.json",
+      "en": {
+        "headline": "HKEX posts first quarterly profit decline in over two years",
+        "dek": "Net profit for the third quarter fell 1 per cent year on year to HK$4.86 billion as cash market turnover moderated, though nine-month results remained at record levels."
+      },
+      "zh": {
+        "headline": "港交所第三季盈利按年下跌 為逾兩年來首次",
+        "dek": "第三季股東應佔淨利潤按年跌約1%至48.6億元，現金市場成交量回落，惟首九個月業績仍創新高。"
+      }
+    },
     {
       "id": "2026-11-06-hang-seng-close-down",
       "published_at": "2026-11-06T18:15:00+08:00",
