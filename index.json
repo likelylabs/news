@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-07T00:03:52+08:00",
+  "generated_at": "2026-11-07T02:04:27+08:00",
   "live_window_hours": 72,
-  "count": 73,
+  "count": 75,
   "articles": [
+    {
+      "id": "2026-11-07-lifestyle-around-the-island-race",
+      "published_at": "2026-11-07T02:10:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "lifestyle",
+        "sport",
+        "sailing",
+        "harbour",
+        "event"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-07/2026-11-07-lifestyle-around-the-island-race.json",
+      "en": {
+        "headline": "Around the Island Race sets sail Saturday with 1,500 sailors",
+        "dek": "The Royal Hong Kong Yacht Club event sends fleets on a 45-kilometre circumnavigation of Hong Kong Island in pursuit format."
+      },
+      "zh": {
+        "headline": "環島帆船賽周六開賽 約1500名水手參與",
+        "dek": "皇家香港遊艇會主辦的賽事以追逐形式，讓各組別完成約45公里環繞香港島航程。"
+      }
+    },
+    {
+      "id": "2026-11-07-lifestyle-world-triathlon-cup-hong-kong",
+      "published_at": "2026-11-07T02:10:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "lifestyle",
+        "sport",
+        "triathlon",
+        "central",
+        "event"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-07/2026-11-07-lifestyle-world-triathlon-cup-hong-kong.json",
+      "en": {
+        "headline": "World Triathlon Cup returns to Central waterfront this weekend",
+        "dek": "Elite women race at 8:45am and men at 10:30am on Saturday over a sprint course along Lung Wo Road, with a mixed relay on Sunday."
+      },
+      "zh": {
+        "headline": "世界三項鐵人盃本周末重返中環海濱",
+        "dek": "周六精英女子賽上午8時日分、男子賽上午10時30分於龍和道短程賽道展開，周日有混合接力。"
+      }
+    },
     {
       "id": "2026-11-07-belchers-helper-alleged-ill-treatment",
       "published_at": "2026-11-07T00:03:00+08:00",
