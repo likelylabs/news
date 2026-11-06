@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-06T18:15:32+08:00",
+  "generated_at": "2026-11-06T20:25:39+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 77,
   "articles": [
+    {
+      "id": "2026-11-06-bid-rigging-arrests-28",
+      "published_at": "2026-11-06T20:30:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "icac",
+        "bid-rigging",
+        "tai-po"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-06/2026-11-06-bid-rigging-arrests-28.json",
+      "en": {
+        "headline": "Joint task force arrests 28 in first bid-rigging operation after Tai Po fire",
+        "dek": "Secretary for Security Chris Tang said the suspected triad-linked syndicate targeted at least 20 buildings with awarded and pending contracts worth about HK$200 million."
+      },
+      "zh": {
+        "headline": "聯合特遣隊首次行動瓦解圍標集團 拘28人",
+        "dek": "保安局局長鄧炳強表示，涉案集團疑與三合會有關，針對最少20幢樓宇，已批及待批合約共約兩億元。"
+      }
+    },
+    {
+      "id": "2026-11-06-cfs-chicken-doxycycline",
+      "published_at": "2026-11-06T20:30:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "food",
+        "health",
+        "cfs",
+        "recall",
+        "import"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-06/2026-11-06-cfs-chicken-doxycycline.json",
+      "en": {
+        "headline": "CFS detects excess doxycycline in imported frozen chicken legs",
+        "dek": "A sample of the Cheng brand product from China contained 180 parts per billion, above the 100 ppb legal limit; the importer has begun a recall."
+      },
+      "zh": {
+        "headline": "食安中心檢出進口冷藏雞腿強力霉素超標",
+        "dek": "中國進口「城字」牌雞帶骨全腿樣本含量達每公斤180十億分，高於法例上限100十億分；進口商已展開回收。"
+      }
+    },
+    {
+      "id": "2026-11-06-customs-airport-cannabis-women",
+      "published_at": "2026-11-06T20:30:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "customs",
+        "airport",
+        "drugs",
+        "cannabis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-06/2026-11-06-customs-airport-cannabis-women.json",
+      "en": {
+        "headline": "Customs seize 7kg of suspected cannabis at airport, arrest two mainland women",
+        "dek": "Two women aged 50 and 54 arriving from Bangkok were each found with about 3.5 kilograms in their carry-on bags; the estimated value is HK$1.4 million."
+      },
+      "zh": {
+        "headline": "海關機場檢約7公斤懷疑大麻花 拘兩名內地女子",
+        "dek": "兩名分別50歲及54歲、從曼谷抵港的女子手提行李各藏約3.5公斤，市值估計約140萬元。"
+      }
+    },
     {
       "id": "2026-11-06-cold-front-temperature-drop",
       "published_at": "2026-11-06T18:20:00+08:00",
@@ -1696,98 +1765,6 @@
       "zh": {
         "headline": "民青局暫不設業主大會授權票上限 諮詢未達共識",
         "dek": "局方指550份意見中逾半反對設上限，將先加強抽查核實；措施與大埔宏福苑火災後的大廈管理改革有關。"
-      }
-    },
-    {
-      "id": "2026-11-03-bid-rigging-task-force-tang",
-      "published_at": "2026-11-03T20:25:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "bid-rigging",
-        "tai-po-fire",
-        "security",
-        "icac"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-bid-rigging-task-force-tang.json",
-      "en": {
-        "headline": "Tang says joint task force will seek bid-rigging clues at owners’ meetings",
-        "dek": "Security Secretary tells lawmakers officers will use surveillance and attend corporation meetings to intervene early in building maintenance cases."
-      },
-      "zh": {
-        "headline": "鄧炳強稱特遣隊會到業主大會尋找圍標線索",
-        "dek": "保安局局長向立法會議員表示，執法人員會出席業主立案法團會議並以監視等方式及早介入樓宇維修個案。"
-      }
-    },
-    {
-      "id": "2026-11-03-qs-asia-university-rankings",
-      "published_at": "2026-11-03T20:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "university",
-        "qs-rankings",
-        "hku",
-        "cityu"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-qs-asia-university-rankings.json",
-      "en": {
-        "headline": "Five Hong Kong universities in Asia’s top 10 as HKU retains first place",
-        "dek": "QS Asia rankings place City University fourth and Chinese University fifth, with three local institutions in the top five for the first time in more than a decade."
-      },
-      "zh": {
-        "headline": "QS亞洲大學排名港五校入十強 港大蟬聯榜首",
-        "dek": "城大升至第四、中大第五，本港三間大學相隔逾十年再同時位列亞洲五強。"
-      }
-    },
-    {
-      "id": "2026-11-03-retail-sales-september",
-      "published_at": "2026-11-03T20:25:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "retail",
-        "economy",
-        "census-statistics",
-        "tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-retail-sales-september.json",
-      "en": {
-        "headline": "Hong Kong retail sales rise 6.4 per cent in September, 17th straight month of growth",
-        "dek": "Provisional figures show total sales value at HK$33.4 billion, with online sales up 12 per cent and jewellery leading category gains."
-      },
-      "zh": {
-        "headline": "本港9月零售業銷貨值按年升6.4% 連升17個月",
-        "dek": "臨時估計總銷貨價值334億元，網上銷售升12%，珠寶鐘錶等類別升幅顯著。"
-      }
-    },
-    {
-      "id": "2026-11-03-triathlon-traffic-arrangements",
-      "published_at": "2026-11-03T20:25:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "triathlon",
-        "central",
-        "wan-chai",
-        "traffic"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-03/2026-11-03-triathlon-traffic-arrangements.json",
-      "en": {
-        "headline": "Special traffic arrangements for World Triathlon Cup in Central and Wan Chai",
-        "dek": "Transport Department says Expo Drive will close from Wednesday and further road closures will apply near the harbourfront on Saturday and Sunday."
-      },
-      "zh": {
-        "headline": "三項鐵人世界盃中區及灣仔分階段實施特別交通安排",
-        "dek": "運輸署指博覽道由周三起封閉，周六及周日中環海濱及灣仔北一帶將進一步封路改道。"
       }
     }
   ]
