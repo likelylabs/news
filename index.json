@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-07T22:16:43+08:00",
+  "generated_at": "2026-11-08T00:04:12+08:00",
   "live_window_hours": 72,
-  "count": 70,
+  "count": 73,
   "articles": [
+    {
+      "id": "2026-11-08-cold-front-northeast-monsoon-outlook",
+      "published_at": "2026-11-08T00:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "monsoon",
+        "cold-front"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-cold-front-northeast-monsoon-outlook.json",
+      "en": {
+        "headline": "Observatory forecasts cooler weather from Monday as cold front and northeast monsoon…",
+        "dek": "The Hong Kong Observatory said a cold front will cross the South China coast early Monday, followed by an intense northeast monsoon that will bring appreciably lower temperatures, with urban minima around 18 degrees…"
+      },
+      "zh": {
+        "headline": "天文台料下周一冷鋒及強烈東北季候風抵港 氣溫顯著下降",
+        "dek": "香港天文台表示，一道冷鋒將於下周一初時橫過華南沿岸，隨後強烈東北季候風令氣溫明顯下降，下周二市區最低氣溫約18度。"
+      }
+    },
+    {
+      "id": "2026-11-08-lifestyle-mplus-fifth-anniversary-free-admission",
+      "published_at": "2026-11-08T00:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "mplus",
+        "exhibition",
+        "west-kowloon",
+        "free"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-lifestyle-mplus-fifth-anniversary-free-admission.json",
+      "en": {
+        "headline": "M+ opens designated exhibitions free today for fifth anniversary",
+        "dek": "The museum at West Kowloon offers free admission to most galleries from 10am to 8pm on Sunday, excluding two special exhibitions, as part of its anniversary celebrations."
+      },
+      "zh": {
+        "headline": "M+五周年今日指定展覽免費開放",
+        "dek": "西九文化區M+今日（8日）上午10時至晚上8時免費開放指定展覽，特別展覽除外，最後入場時間為晚上7時。"
+      }
+    },
+    {
+      "id": "2026-11-08-shau-kei-wan-football-chest-collapse",
+      "published_at": "2026-11-08T00:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "shau-kei-wan",
+        "sport",
+        "health",
+        "emergency"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-shau-kei-wan-football-chest-collapse.json",
+      "en": {
+        "headline": "Man in intensive care after football strikes chest at Shau Kei Wan playground",
+        "dek": "A 27-year-old man collapsed during a game at around 5pm on Saturday after the ball hit his chest; bystanders used an AED and performed CPR before he was taken to hospital."
+      },
+      "zh": {
+        "headline": "筱箕灣男子踢波疑被球擊中胸口昏迷 留醫深切治療部",
+        "dek": "一名27歲男子周六下午約5時在配水庫遊樂場踢球時疑被足球擊中胸口後失去知覺，在場人士以AED及心肺復甦法急救後送院。"
+      }
+    },
     {
       "id": "2026-11-07-customs-airport-endangered-turtles-seizure",
       "published_at": "2026-11-07T22:15:00+08:00",
