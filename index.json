@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-11-07T14:15:15+08:00",
+  "generated_at": "2026-11-07T16:26:34+08:00",
   "live_window_hours": 72,
   "count": 70,
   "articles": [
+    {
+      "id": "2026-11-07-craft-beer-machine-scam-arrests",
+      "published_at": "2026-11-07T16:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "crime",
+        "scam",
+        "fraud",
+        "elderly"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-07/2026-11-07-craft-beer-machine-scam-arrests.json",
+      "en": {
+        "headline": "Police arrest three in craft beer machine investment scam involving over HK$4 million",
+        "dek": "Commercial Crime Bureau officers detained a director, office manager and recruiter after six mostly elderly victims reported losses from a scheme promising 60 per cent annual returns."
+      },
+      "zh": {
+        "headline": "手工啤酒機投資騙案警拘3人 至少6名長者涉款逾400萬",
+        "dek": "商罪科昨日行動拘捕公司董事、辦事處負責人及招攬者，初步接觰6名多為長者的受害人，合共投資超過400萬元。"
+      }
+    },
+    {
+      "id": "2026-11-07-nancy-ip-unesco-prize",
+      "published_at": "2026-11-07T16:25:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "hkust",
+        "technology",
+        "health",
+        "education"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-07/2026-11-07-nancy-ip-unesco-prize.json",
+      "en": {
+        "headline": "HKUST president Nancy Ip receives UNESCO life sciences research prize",
+        "dek": "The neuroscientist was honoured in Paris yesterday for work on Alzheimer’s biomarkers and blood tests that enable earlier diagnosis, becoming the sixth Chinese recipient of the award."
+      },
+      "zh": {
+        "headline": "科大校長葉玉如獲教科文組織生命科學研究獎",
+        "dek": "頒獎儀式昨日在巴黎舉行，表揚她在阿爾茨海默症生物標記及早期血液檢測方面的貢獻，成為第六位獲獎的中國科學家。"
+      }
+    },
+    {
+      "id": "2026-11-07-youth-development-summit-lee",
+      "published_at": "2026-11-07T16:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "youth",
+        "forum",
+        "education",
+        "wan-chai",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-07/2026-11-07-youth-development-summit-lee.json",
+      "en": {
+        "headline": "John Lee urges youth to stay curious at third development summit",
+        "dek": "More than 3,300 people registered for the flagship forum at the Convention and Exhibition Centre, where the Chief Executive said the first five-year plan would expand opportunities."
+      },
+      "zh": {
+        "headline": "青年發展高峰論壇開幕 李家超籲青年保持好奇心勇於開拓",
+        "dek": "第三屆論壇在灣仔會展舉行，逾3300人登記參加，行政長官以視像致辭指首個五年規劃將提升青年機遇。"
+      }
+    },
     {
       "id": "2026-11-07-central-bmw-illegal-left-turn-driver",
       "published_at": "2026-11-07T14:20:00+08:00",
@@ -1528,76 +1596,6 @@
       "zh": {
         "headline": "警方「猛刺」行動拘11人 破洗黑錢集團涉85宗騙案",
         "dek": "警方拘捕8男3女，年齡介乎19至43歲，集團涉嫌處理約7000萬元犯罪得益，牽涉85宗騙案損失逾2400萬元。"
-      }
-    },
-    {
-      "id": "2026-11-04-hang-seng-closes-higher",
-      "published_at": "2026-11-04T16:25:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "stocks",
-        "market",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-04/2026-11-04-hang-seng-closes-higher.json",
-      "en": {
-        "headline": "Hang Seng Index closes 1.67 percent higher at 23,919.50",
-        "dek": "The benchmark recovered from an early drop to finish 393.53 points up on Wednesday, with the day’s high matching the close."
-      },
-      "zh": {
-        "headline": "恒生指數收升1.67% 報23919.50點",
-        "dek": "周三恒指由早段低開回升，全日升393.53點，高位與收市水平相同。"
-      }
-    },
-    {
-      "id": "2026-11-04-red-flags-beaches-big-waves",
-      "published_at": "2026-11-04T16:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "beaches",
-        "swimming",
-        "safety",
-        "sai-kung",
-        "southern-district",
-        "leisure"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-04/2026-11-04-red-flags-beaches-big-waves.json",
-      "en": {
-        "headline": "Red flags hoisted at four beaches over big waves",
-        "dek": "Leisure and Cultural Services Department warns swimmers away from Stanley Main Beach, Big Wave Bay, Silverstrand and Clear Water Bay Second Beach on Wednesday."
-      },
-      "zh": {
-        "headline": "四個泳灘因大浪懸掛紅旗",
-        "dek": "康文署周三表示，赤柱正灘、大浪灣、銀線灣及清水灣第二灘因大浪懸掛紅旗，呼籲泳客勿下水。"
-      }
-    },
-    {
-      "id": "2026-11-04-ticket-scalping-regulation-reply",
-      "published_at": "2026-11-04T16:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "culture",
-        "events",
-        "tickets",
-        "scalping",
-        "legco",
-        "rosanna-law"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-04/2026-11-04-ticket-scalping-regulation-reply.json",
-      "en": {
-        "headline": "Law says government must balance market and fans on ticket scalping rules",
-        "dek": "Culture secretary tells LegCo that any tighter controls on consignment tickets or real-name systems will be studied carefully so as not to deter event organisers."
-      },
-      "zh": {
-        "headline": "羅淑佩指打擊黃牛須平衡市場運作與觀眾體驗",
-        "dek": "文化體育及旅遊局局長書面回覆立法會，指任何收緊內部門票比例或實名制安排均須審慎考慮，以免令主辦單位卻步。"
       }
     }
   ]
