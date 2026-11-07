@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-07T20:24:53+08:00",
+  "generated_at": "2026-11-07T22:15:59+08:00",
   "live_window_hours": 72,
   "count": 70,
   "articles": [
+    {
+      "id": "2026-11-07-customs-airport-endangered-turtles-seizure",
+      "published_at": "2026-11-07T22:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "wildlife",
+        "airport",
+        "endangered"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-07/2026-11-07-customs-airport-endangered-turtles-seizure.json",
+      "en": {
+        "headline": "Customs seize five suspected endangered turtles in US package at airport",
+        "dek": "Officers found the live turtles, valued at about HK$50,000, inside a parcel from the United States declared as toy model gift boxes; the case has been referred to the Agriculture, Fisheries and Conservation Department."
+      },
+      "zh": {
+        "headline": "海關機場檢獲5隻懷疑瀕危活龜 藏美國進口玩具模型包裹",
+        "dek": "關員在一個報稱載有玩具模型禮盒的美國進口包裹中發現活龜，估計市值約5萬元，案件已轉交漁護署跟進。"
+      }
+    },
+    {
+      "id": "2026-11-07-police-cross-border-unlicensed-taxi-arrest",
+      "published_at": "2026-11-07T22:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "crime",
+        "transport",
+        "cross-border"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-07/2026-11-07-police-cross-border-unlicensed-taxi-arrest.json",
+      "en": {
+        "headline": "Police arrest mainland driver in cross-border unlicensed taxi sting",
+        "dek": "Island District officers posed as passengers for a Wong Chuk Hang to Guangzhou service priced at 1,500 yuan and detained a 42-year-old two-way permit holder on three charges."
+      },
+      "zh": {
+        "headline": "警放蛇打擊跨境白牌車 拘42歲雙程證內地司機",
+        "dek": "港島總區交通部警員喬裝乘客，預約由黃竹坑前往廣州的服務，中介開價人民幣1500元，成功拕捕一名42歲持雙程證男子，涉三項罪名。"
+      }
+    },
+    {
+      "id": "2026-11-07-tuen-mun-battery-truck-fire",
+      "published_at": "2026-11-07T22:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "tuen-mun",
+        "fire-services",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-07/2026-11-07-tuen-mun-battery-truck-fire.json",
+      "en": {
+        "headline": "Firefighters extinguish battery fire in Tuen Mun truck under bridge",
+        "dek": "A medium goods vehicle carrying batteries caught fire on Chun Wan Road beneath the Qing Tian Road flyover at about 6:13pm; the blaze was out by 6:36pm with no injuries reported."
+      },
+      "zh": {
+        "headline": "屯門貨車貨斗電池起火 消防撲熄無人受傷",
+        "dek": "一輚中型貨車傍晚約6時13分在震環路青田路橋底往建生方向行駛時，貨斗內電池突然起火，消防於6時36分將火救熄，無人受傷。"
+      }
+    },
     {
       "id": "2026-11-07-strong-monsoon-signal",
       "published_at": "2026-11-07T20:35:00+08:00",
@@ -1519,76 +1585,6 @@
       "zh": {
         "headline": "香港國際美酒展今日在會展開幕 逾620間參展商參與",
         "dek": "第18屆展覽至周六結束，最後一天設公眾品酒區，18歲或以上人士可入場。"
-      }
-    },
-    {
-      "id": "2026-11-04-crypto-reporting-bill-passed",
-      "published_at": "2026-11-04T22:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "finance",
-        "crypto",
-        "legco",
-        "tax",
-        "carf"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-04/2026-11-04-crypto-reporting-bill-passed.json",
-      "en": {
-        "headline": "LegCo passes crypto-asset reporting bill to boost tax transparency",
-        "dek": "The Inland Revenue Amendment Bill implements the OECD's Crypto-Asset Reporting Framework from 2027 and updated Common Reporting Standard from 2028."
-      },
-      "zh": {
-        "headline": "立法會通過加密資產申報修訂條例 提升稅務透明度",
-        "dek": "《稅務（修訂）（加密資產申報框架及經修訂共同申報標準）條例草案》通過，CARF由2027年起實施，經修訂CRS由2028年起生效。"
-      }
-    },
-    {
-      "id": "2026-11-04-university-presidents-forum-opens",
-      "published_at": "2026-11-04T22:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "education",
-        "hkust",
-        "university",
-        "forum",
-        "chan-kwok-ki"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-04/2026-11-04-university-presidents-forum-opens.json",
-      "en": {
-        "headline": "World Class University Presidents Forum opens at HKUST",
-        "dek": "Acting Chief Executive Chan Kwok-ki officiates at the two-day event bringing together leaders from about 50 top universities to discuss higher education innovation."
-      },
-      "zh": {
-        "headline": "世界頂尖大學校長論壇在科大開幕",
-        "dek": "署理行政長官陳國基主禮為期兩日的論壇，匯聚約50所頂尖大學領導，共商高等教育創新發展。"
-      }
-    },
-    {
-      "id": "2026-11-04-youth-olympics-poon-gold",
-      "published_at": "2026-11-04T22:15:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "youth-olympics",
-        "wushu",
-        "poon-hao-ran",
-        "dakar"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-04/2026-11-04-youth-olympics-poon-gold.json",
-      "en": {
-        "headline": "Poon Hao-ran claims Hong Kong's first Youth Olympics gold in wushu",
-        "dek": "The 15-year-old wushu athlete scored 18.720 in the men's combined Taijiquan and Taijishan final in Dakar, marking the city's historic first gold at the Games."
-      },
-      "zh": {
-        "headline": "潘浩然青奧武術奪金 港隊史上首面青年奧運金牌",
-        "dek": "15歲武術運動員在達喀爾男子太極拳太極扇全能決賽以18.720分奪金，為香港在青年奧運取得歷史上首面金牌。"
       }
     }
   ]

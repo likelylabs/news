@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "asian-games-sha-tin-bus-parade-oct27",
-      "id": "2026-10-24-asian-games-sha-tin-bus-parade",
-      "first_seen": "2026-10-24T21:05:00+08:00",
-      "headline_en": "Asian Games athletes to join Sha Tin bus parade next Tuesday"
-    },
-    {
-      "key": "mtr-train-odor-tsuen-wan-tuen-ma-oct23",
-      "id": "2026-10-24-mtr-train-odor-incident",
-      "first_seen": "2026-10-24T21:05:00+08:00",
-      "headline_en": "MTR sends trains for inspection after passengers report odors on two lines"
-    },
-    {
       "key": "peak-lighting-projector-stands-removed-oct24",
       "id": "2026-10-24-peak-lighting-stands-removed",
       "first_seen": "2026-10-24T23:20:00+08:00",
@@ -2249,7 +2237,25 @@
       "id": "2026-11-07-tin-shui-wai-kingswood-fire",
       "first_seen": "2026-11-07T20:35:00+08:00",
       "headline_en": "Woman found unconscious after unit fire in Tin Shui Wai estate"
+    },
+    {
+      "key": "customs-airport-endangered-turtles-seizure-nov7",
+      "id": "2026-11-07-customs-airport-endangered-turtles-seizure",
+      "first_seen": "2026-11-07T22:15:00+08:00",
+      "headline_en": "Customs seize five suspected endangered turtles in US package at airport"
+    },
+    {
+      "key": "police-cross-border-unlicensed-taxi-arrest-nov7",
+      "id": "2026-11-07-police-cross-border-unlicensed-taxi-arrest",
+      "first_seen": "2026-11-07T22:15:00+08:00",
+      "headline_en": "Police arrest mainland driver in cross-border unlicensed taxi sting"
+    },
+    {
+      "key": "tuen-mun-battery-truck-fire-nov7",
+      "id": "2026-11-07-tuen-mun-battery-truck-fire",
+      "first_seen": "2026-11-07T22:15:00+08:00",
+      "headline_en": "Firefighters extinguish battery fire in Tuen Mun truck under bridge"
     }
   ],
-  "updated_at": "2026-11-07T20:24:53+08:00"
+  "updated_at": "2026-11-07T22:15:59+08:00"
 }
