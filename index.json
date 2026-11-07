@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-08T02:04:28+08:00",
+  "generated_at": "2026-11-08T04:17:14+08:00",
   "live_window_hours": 72,
   "count": 74,
   "articles": [
+    {
+      "id": "2026-11-08-lifestyle-blue-lock-egoist-exhibition",
+      "published_at": "2026-11-08T04:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "anime",
+        "kai-tak",
+        "airside"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-lifestyle-blue-lock-egoist-exhibition.json",
+      "en": {
+        "headline": "Blue Lock Egoist exhibition continues at AIRSIDE in Kai Tak",
+        "dek": "The first overseas stop of the official anime exhibition runs daily until 24 November at the Kai Tak venue, with life-size displays and original artwork."
+      },
+      "zh": {
+        "headline": "藍色監獄Egoist展繼續於啟德AIRSIDE舉行",
+        "dek": "官方動畫展海外首站即日起至11月24日於啟德場地每日開放，設有等身展示及原畫。"
+      }
+    },
     {
       "id": "2026-11-08-lifestyle-sa-sa-ladies-purse-day",
       "published_at": "2026-11-08T02:10:00+08:00",
@@ -1650,30 +1673,6 @@
       "zh": {
         "headline": "港大文學院首辦「人文藝術節」今日起至15日",
         "dek": "主題「十字路口」的免費公眾活動包括工作坊、表演及對談，場地涵蓋大坑等地。"
-      }
-    },
-    {
-      "id": "2026-11-05-hk-wine-spirits-fair-opens",
-      "published_at": "2026-11-05T02:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "exhibition",
-        "wan-chai",
-        "hktdc",
-        "wine"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-05/2026-11-05-hk-wine-spirits-fair-opens.json",
-      "en": {
-        "headline": "HKTDC Wine and Spirits Fair opens today at HKCEC with over 620 exhibitors",
-        "dek": "The 18th edition runs until Saturday, with a public tasting zone open on the final day for visitors aged 18 and above."
-      },
-      "zh": {
-        "headline": "香港國際美酒展今日在會展開幕 逾620間參展商參與",
-        "dek": "第18屆展覽至周六結束，最後一天設公眾品酒區，18歲或以上人士可入場。"
       }
     }
   ]
