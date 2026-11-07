@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-11-07T08:10:35+08:00",
+  "generated_at": "2026-11-07T10:12:28+08:00",
   "live_window_hours": 72,
   "count": 72,
   "articles": [
+    {
+      "id": "2026-11-07-yuen-long-paper-warehouse-fire",
+      "published_at": "2026-11-07T10:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "yuen-long",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-07/2026-11-07-yuen-long-paper-warehouse-fire.json",
+      "en": {
+        "headline": "No. 3 alarm fire at Yuen Long paper offerings warehouse leaves 12 evacuated",
+        "dek": "Firefighters brought a blaze at a Pak Sha Tsuen warehouse under control early Saturday after it was upgraded to No. 3 alarm; no injuries were reported."
+      },
+      "zh": {
+        "headline": "元朗白沙村紙紮倉庫三級火 12人自行疏散無人受傷",
+        "dek": "消防處指周五晚上白沙村一間存放紙紮品的倉庫起火，凌晨升級至三級火警後於今早受控，無人受傷。"
+      }
+    },
     {
       "id": "2026-11-07-lifestyle-cornershop-busking-festival",
       "published_at": "2026-11-07T08:05:00+08:00",
@@ -1626,30 +1647,6 @@
       "zh": {
         "headline": "陳茂波稱香港為企業提供增長機會及長期資本",
         "dek": "財政司司長在國際金融領袖投資峰會向投資者表示，香港可連接企業不同階段所需的資本。"
-      }
-    },
-    {
-      "id": "2026-11-04-lifestyle-arts-in-the-park-2026",
-      "published_at": "2026-11-04T10:12:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "arts",
-        "causeway-bay",
-        "victoria-park",
-        "festival"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-04/2026-11-04-lifestyle-arts-in-the-park-2026.json",
-      "en": {
-        "headline": "Arts in the Park returns to Causeway Bay with fairy-tale giant puppets",
-        "dek": "The free two-day youth arts festival at Victoria Park on 14 and 15 November features an illuminated night parade and a finale with ten four-metre puppets."
-      },
-      "zh": {
-        "headline": "渣打藝趣嘉年華重返銅鑼灣 童話巨型木偶亮相維園",
-        "dek": "11月14及15日免費兩日青年藝術節於維多利亞公園舉行，包括夜間燈飾巡遊及十個四米高巨型木偶壓軸巡遊。"
       }
     }
   ]
