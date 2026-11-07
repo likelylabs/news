@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T08:05:45+08:00",
+  "generated_at": "2026-11-07T08:06:02+08:00",
   "live_window_hours": 72,
-  "count": 71,
+  "count": 72,
   "articles": [
     {
       "id": "2026-11-07-lifestyle-cornershop-busking-festival",
@@ -24,6 +24,29 @@
       "zh": {
         "headline": "Cornershop街頭音樂節重返尖沙咀 本周六起免費本地演出",
         "dek": "赫德道The Cornershop一連四個星期六舉辦免費現場音樂，今日下午先有開幕活動，晚上兩節由本地音樂人演出。"
+      }
+    },
+    {
+      "id": "2026-11-07-lifestyle-hk-phil-mahler-8",
+      "published_at": "2026-11-07T08:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "music",
+        "hk-phil",
+        "concert",
+        "tsim-sha-tsui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-07/2026-11-07-lifestyle-hk-phil-mahler-8.json",
+      "en": {
+        "headline": "HK Phil opens new music director era with Mahler Symphony No. 8",
+        "dek": "Tarmo Peltokoski conducts the orchestra’s first performance of the Symphony of a Thousand at the Cultural Centre this weekend, with multiple choirs and soloists."
+      },
+      "zh": {
+        "headline": "港樂新音樂總監以馬勒第八交響曲揭幕",
+        "dek": "貝托祺本周末於文化中心指揮樂團首演《千人交響曲》，聯同多支合唱團及聲樂家演出。"
       }
     },
     {
