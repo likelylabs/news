@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-08T00:04:12+08:00",
+  "generated_at": "2026-11-08T02:04:28+08:00",
   "live_window_hours": 72,
-  "count": 73,
+  "count": 74,
   "articles": [
+    {
+      "id": "2026-11-08-lifestyle-sa-sa-ladies-purse-day",
+      "published_at": "2026-11-08T02:10:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "lifestyle",
+        "racing",
+        "sha-tin",
+        "hkjc",
+        "fashion"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-lifestyle-sa-sa-ladies-purse-day.json",
+      "en": {
+        "headline": "Sa Sa Ladies' Purse Day returns to Sha Tin Racecourse today",
+        "dek": "The Hong Kong Jockey Club stages the annual raceday at Sha Tin on Sunday, with the feature Ladies' Purse over 1,800 metres and fashion and performance events in the Parade Ring."
+      },
+      "zh": {
+        "headline": "莎莎婦女銀袋日今日重返沙田馬場",
+        "dek": "香港賽馬會周日在沙田舉行年度賽馬日，焦點為一千八百米婦女銀袋賽，亮相圈設時裝及表演活動。"
+      }
+    },
     {
       "id": "2026-11-08-cold-front-northeast-monsoon-outlook",
       "published_at": "2026-11-08T00:05:00+08:00",
