@@ -1,8 +1,51 @@
 {
-  "generated_at": "2026-11-07T18:11:45+08:00",
+  "generated_at": "2026-11-07T20:24:53+08:00",
   "live_window_hours": 72,
-  "count": 71,
+  "count": 70,
   "articles": [
+    {
+      "id": "2026-11-07-strong-monsoon-signal",
+      "published_at": "2026-11-07T20:35:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "monsoon",
+        "wind"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-07/2026-11-07-strong-monsoon-signal.json",
+      "en": {
+        "headline": "Observatory issues Strong Monsoon Signal for easterly winds",
+        "dek": "The Hong Kong Observatory raised the Strong Monsoon Signal at 20:00, warning of mean winds exceeding 40 km/h from the east with occasional gale-force gusts."
+      },
+      "zh": {
+        "headline": "天文台發出強烈季候風信號 東風強風間中烈風",
+        "dek": "香港天文台晚上8時發出強烈季候風信號，預料本港吹東風，平均風速超過每小時40公里，陣風間中達烈風程度。"
+      }
+    },
+    {
+      "id": "2026-11-07-tin-shui-wai-kingswood-fire",
+      "published_at": "2026-11-07T20:35:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "tin-shui-wai",
+        "police",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-07/2026-11-07-tin-shui-wai-kingswood-fire.json",
+      "en": {
+        "headline": "Woman found unconscious after unit fire in Tin Shui Wai estate",
+        "dek": "Firefighters extinguished a blaze at Kingswood Villas Locwood Court Block 14 after a 5:39pm report; a woman was found unconscious in a stairwell and taken to hospital, with about 100 people evacuated."
+      },
+      "zh": {
+        "headline": "天水圍嘉湖山莊樂湖居單位起火 女子昏迷送院",
+        "dek": "警方下午約5時39分接報嘉湖山莊樂湖居14座單位冒煙，消防約6時07分將火救熄；搜救期間發現一名女子在梯間昏迷，送天水圍醫院治理，約100人自行疏散。"
+      }
+    },
     {
       "id": "2026-11-07-flu-colder-weather-children-warning",
       "published_at": "2026-11-07T18:10:00+08:00",
@@ -1546,77 +1589,6 @@
       "zh": {
         "headline": "潘浩然青奧武術奪金 港隊史上首面青年奧運金牌",
         "dek": "15歲武術運動員在達喀爾男子太極拳太極扇全能決賽以18.720分奪金，為香港在青年奧運取得歷史上首面金牌。"
-      }
-    },
-    {
-      "id": "2026-11-04-causeway-bay-bollards-installation",
-      "published_at": "2026-11-04T20:21:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "causeway-bay",
-        "safety",
-        "bollards",
-        "sogo",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-04/2026-11-04-causeway-bay-bollards-installation.json",
-      "en": {
-        "headline": "Anti-ram bollards installation begins outside Sogo in Causeway Bay",
-        "dek": "Workers had installed four fixed bollards by Wednesday afternoon along the pavement outside the department store as part of a HK$5 million project against vehicle-ramming risks."
-      },
-      "zh": {
-        "headline": "銅鑼灣崇光百貨外防撞柱安裝工程展開",
-        "dek": "周三下午工人已在百貨公司外行人路安裝四支固定防撞柱，屬約500萬元項目，旨在防範車輛衝撞風險。"
-      }
-    },
-    {
-      "id": "2026-11-04-choi-rejects-uni-internship-reform",
-      "published_at": "2026-11-04T20:21:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "education",
-        "christine-choi",
-        "university",
-        "legco",
-        "ai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-04/2026-11-04-choi-rejects-uni-internship-reform.json",
-      "en": {
-        "headline": "Choi rejects push for year-long university internships amid AI shifts",
-        "dek": "Education secretary tells LegCo that reforming four-year degrees into three years of study plus one of full-time internships would risk turning higher education into vocational training."
-      },
-      "zh": {
-        "headline": "蔡若蓮反對大學改「三加一」強制一年實習",
-        "dek": "教育局局長在立法會表示，將四年制改為三年課堂加一年全職實習，有違大學價值，易令高等教育淪為職業訓練。"
-      }
-    },
-    {
-      "id": "2026-11-04-ehealth-electronic-amd",
-      "published_at": "2026-11-04T20:21:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "ehealth",
-        "end-of-life",
-        "medical-directives",
-        "chris-sun"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-04/2026-11-04-ehealth-electronic-amd.json",
-      "en": {
-        "headline": "Electronic advance medical directives to go live on eHealth next year",
-        "dek": "Secretary for Labour and Welfare Chris Sun said in a written reply that residents will be able to create, store and revoke directives electronically on the platform in phases, with the same legal effect as paper."
-      },
-      "zh": {
-        "headline": "預設醫療指示明年可在醫健通電子化訂立",
-        "dek": "勞工及福利局局長孫玉菡書面回覆指，市民可分階段在平台訂立、儲存及撤銷指示，電子版與紙本具同等法律效力。"
       }
     }
   ]
