@@ -1,24 +1,6 @@
 {
   "covered": [
     {
-      "key": "private-secondary-schools-growth-oct24",
-      "id": "2026-10-24-private-secondary-schools-growth",
-      "first_seen": "2026-10-24T11:10:00+08:00",
-      "headline_en": "Private secondary schools rise 56 per cent in five years"
-    },
-    {
-      "key": "shek-kip-mei-park-cat-poison-arrest-oct24",
-      "id": "2026-10-24-shek-kip-mei-park-cat-poison-arrest",
-      "first_seen": "2026-10-24T11:10:00+08:00",
-      "headline_en": "Man arrested over suspected poisoning of stray cats in Shek Kip Mei Park"
-    },
-    {
-      "key": "tuen-mun-on-ting-girl-knife-oct24",
-      "id": "2026-10-24-tuen-mun-on-ting-girl-knife-incident",
-      "first_seen": "2026-10-24T11:10:00+08:00",
-      "headline_en": "Father arrested after nine-year-old girl injured in Tuen Mun knife incident"
-    },
-    {
       "key": "kwai-chung-tai-lung-street-rats-oct24",
       "id": "2026-10-24-kwai-chung-slope-rat-infestation",
       "first_seen": "2026-10-24T13:10:00+08:00",
@@ -2267,7 +2249,19 @@
       "id": "2026-11-07-yuen-long-paper-warehouse-fire",
       "first_seen": "2026-11-07T10:15:00+08:00",
       "headline_en": "No. 3 alarm fire at Yuen Long paper offerings warehouse leaves 12 evacuated"
+    },
+    {
+      "key": "govt-rebuts-ten-countries-wong-statement-nov7",
+      "id": "2026-11-07-govt-rebuts-ten-countries-wong-statement",
+      "first_seen": "2026-11-07T12:12:00+08:00",
+      "headline_en": "Government strongly rejects joint statement by 10 countries on Wong case"
+    },
+    {
+      "key": "prince-edward-kam-wah-cafe-fire-nov7",
+      "id": "2026-11-07-prince-edward-kam-wah-cafe-fire",
+      "first_seen": "2026-11-07T12:12:00+08:00",
+      "headline_en": "Fire at Prince Edward's Kam Wah Cafe injures kitchen worker"
     }
   ],
-  "updated_at": "2026-11-07T10:12:43+08:00"
+  "updated_at": "2026-11-07T12:12:39+08:00"
 }

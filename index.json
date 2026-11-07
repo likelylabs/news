@@ -1,8 +1,51 @@
 {
-  "generated_at": "2026-11-07T10:12:43+08:00",
+  "generated_at": "2026-11-07T12:12:39+08:00",
   "live_window_hours": 72,
-  "count": 72,
+  "count": 71,
   "articles": [
+    {
+      "id": "2026-11-07-govt-rebuts-ten-countries-wong-statement",
+      "published_at": "2026-11-07T12:12:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "national-security",
+        "joshua-wong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-07/2026-11-07-govt-rebuts-ten-countries-wong-statement.json",
+      "en": {
+        "headline": "Government strongly rejects joint statement by 10 countries on Wong case",
+        "dek": "The HKSAR Government said the statement by the US, UK, France and seven other nations distorted facts and interfered in judicial independence regarding Joshua Wong's sentencing."
+      },
+      "zh": {
+        "headline": "特區政府嚴正反駁十國就黃之鋒案聯合聲明",
+        "dek": "特區政府指美、英、法及另外七國的聲明刻意歪曲事實及干預司法獨立，強烈不滿並堅決反對。"
+      }
+    },
+    {
+      "id": "2026-11-07-prince-edward-kam-wah-cafe-fire",
+      "published_at": "2026-11-07T12:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "prince-edward",
+        "restaurant",
+        "food"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-07/2026-11-07-prince-edward-kam-wah-cafe-fire.json",
+      "en": {
+        "headline": "Fire at Prince Edward's Kam Wah Cafe injures kitchen worker",
+        "dek": "Firefighters extinguished a blaze at the 50-year-old cha chaan teng on Bute Street in about 27 minutes; a worker burned his hand fighting the flames before the cafe opened."
+      },
+      "zh": {
+        "headline": "太子弼街金華冰廳早上起火 廚工撲救灼傷手部",
+        "dek": "消防早上約6時54分接報，約27分鐘將火救熄；五名職員疏散，一名廚工試圖滅火時手部被油煙灼傷，現場敷治後無大礙。"
+      }
+    },
     {
       "id": "2026-11-07-yuen-long-paper-warehouse-fire",
       "published_at": "2026-11-07T10:15:00+08:00",
@@ -1580,73 +1623,6 @@
       "zh": {
         "headline": "破邊洲預約制試行國慶期間日均到訪約950人",
         "dek": "環境及生態局局長表示，萬宜地質步道破邊洲段試行預約制有效控制人數，觀景台最高人流減逾三成。"
-      }
-    },
-    {
-      "id": "2026-11-04-hang-seng-opens-lower",
-      "published_at": "2026-11-04T12:10:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "stocks",
-        "market",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-04/2026-11-04-hang-seng-opens-lower.json",
-      "en": {
-        "headline": "Hang Seng Index opens 0.32 percent lower at 23,452",
-        "dek": "The benchmark dropped 74 points in early trading on Wednesday as technology and consumer shares weighed on sentiment."
-      },
-      "zh": {
-        "headline": "恒生指數低開0.32% 報23452點",
-        "dek": "周三早段恒指下跌74點，科技及消費股拖累氣氛，投資者關注美國中期選舉結果。"
-      }
-    },
-    {
-      "id": "2026-11-04-lifestyle-hong-kong-gourmet-month",
-      "published_at": "2026-11-04T12:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "tourism",
-        "dining",
-        "hktb"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-04/2026-11-04-lifestyle-hong-kong-gourmet-month.json",
-      "en": {
-        "headline": "Hong Kong Tourism Board launches Gourmet Month with over 400 venues",
-        "dek": "The month-long campaign running through 30 November features limited-time menus and promotions at restaurants and bars across the city."
-      },
-      "zh": {
-        "headline": "旅發局推出香港美食月 逾400間餐廳酒吧參與",
-        "dek": "為期一個月的活動至11月30日止，全城餐廳及酒吧推出限定菜單及優惠。"
-      }
-    },
-    {
-      "id": "2026-11-04-paul-chan-capital-growth",
-      "published_at": "2026-11-04T12:10:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "finance",
-        "paul-chan",
-        "summit",
-        "investment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-04/2026-11-04-paul-chan-capital-growth.json",
-      "en": {
-        "headline": "Chan says Hong Kong offers businesses growth and long-term capital",
-        "dek": "Financial Secretary tells investors at the Global Financial Leaders’ Investment Summit that the city connects capital across corporate life cycles."
-      },
-      "zh": {
-        "headline": "陳茂波稱香港為企業提供增長機會及長期資本",
-        "dek": "財政司司長在國際金融領袖投資峰會向投資者表示，香港可連接企業不同階段所需的資本。"
       }
     }
   ]
