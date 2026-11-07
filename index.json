@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-07T12:14:34+08:00",
+  "generated_at": "2026-11-07T14:15:15+08:00",
   "live_window_hours": 72,
-  "count": 71,
+  "count": 70,
   "articles": [
+    {
+      "id": "2026-11-07-central-bmw-illegal-left-turn-driver",
+      "published_at": "2026-11-07T14:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "traffic",
+        "central",
+        "driving"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-07/2026-11-07-central-bmw-illegal-left-turn-driver.json",
+      "en": {
+        "headline": "Police identify 60-year-old driver in Central BMW illegal left turn",
+        "dek": "Island District traffic investigators have located the local male driver of a dual-plate BMW filmed reversing near Pedder Street after an illegal turn on 23 October."
+      },
+      "zh": {
+        "headline": "中環寶馬違例左轉 警鎖定60歲本地男司機",
+        "dek": "港島總區交通調查組已鎖定10月23日在畢打街違例左轉後倒車的兩地牌寶馬本地男司機，案件列作不小心駕駛跟進。"
+      }
+    },
     {
       "id": "2026-11-07-govt-rebuts-ten-countries-wong-statement",
       "published_at": "2026-11-07T12:12:00+08:00",
@@ -1576,53 +1598,6 @@
       "zh": {
         "headline": "羅淑佩指打擊黃牛須平衡市場運作與觀眾體驗",
         "dek": "文化體育及旅遊局局長書面回覆立法會，指任何收緊內部門票比例或實名制安排均須審慎考慮，以免令主辦單位卻步。"
-      }
-    },
-    {
-      "id": "2026-11-04-huanggang-restricted-management",
-      "published_at": "2026-11-04T14:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "huanggang",
-        "border",
-        "security-bureau",
-        "northern-link"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-04/2026-11-04-huanggang-restricted-management.json",
-      "en": {
-        "headline": "Tang says restricted management at Huanggang port maximises limited space",
-        "dek": "Security Bureau chief says the Hong Kong side of the rebuilt port uses closed-area controls like other land borders, with weekday crossings averaging over 86,000."
-      },
-      "zh": {
-        "headline": "鄧炳強指皇崗口岸港方禁區式管理最有效運用有限空間",
-        "dek": "保安局局長表示，重建後皇崗口岸港方口岸區實施禁區式管理，平日日均出入境人次平均超過8萬6千人。"
-      }
-    },
-    {
-      "id": "2026-11-04-po-pin-chau-reservation-results",
-      "published_at": "2026-11-04T14:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "sai-kung",
-        "po-pin-chau",
-        "reservation",
-        "afcd",
-        "hiking"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-04/2026-11-04-po-pin-chau-reservation-results.json",
-      "en": {
-        "headline": "Po Pin Chau reservation trial held daily visitors to about 950 during National Day",
-        "dek": "Environment secretary says the pilot scheme on the High Island Geo-Trail section successfully controlled numbers and improved order at the viewing platform."
-      },
-      "zh": {
-        "headline": "破邊洲預約制試行國慶期間日均到訪約950人",
-        "dek": "環境及生態局局長表示，萬宜地質步道破邊洲段試行預約制有效控制人數，觀景台最高人流減逾三成。"
       }
     }
   ]
