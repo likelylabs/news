@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-07T16:27:08+08:00",
+  "generated_at": "2026-11-07T18:11:45+08:00",
   "live_window_hours": 72,
-  "count": 70,
+  "count": 71,
   "articles": [
+    {
+      "id": "2026-11-07-flu-colder-weather-children-warning",
+      "published_at": "2026-11-07T18:10:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "flu",
+        "children",
+        "vaccination",
+        "weather"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-07/2026-11-07-flu-colder-weather-children-warning.json",
+      "en": {
+        "headline": "Paediatric expert warns colder weather may prolong flu season for children",
+        "dek": "Dr Mike Kwan said the current flu wave could merge with the winter season as temperatures drop next week, and urged parents to vaccinate children soon."
+      },
+      "zh": {
+        "headline": "兒科專家警告天氣轉涼或延長流感季 籲家長儘快為子女接種",
+        "dek": "關日華指下周氣溫下降，今季流感或與冬季流感合併，本港已錄得29宗兒童流感嚴重個案，其中兩人死亡。"
+      }
+    },
+    {
+      "id": "2026-11-07-mtr-tung-chung-west-columns-halt",
+      "published_at": "2026-11-07T18:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "tung-chung",
+        "construction",
+        "safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-07/2026-11-07-mtr-tung-chung-west-columns-halt.json",
+      "en": {
+        "headline": "MTR orders halt to unauthorised column repairs at Tung Chung West station",
+        "dek": "Routine October inspections found unapproved filling works on platform-level columns; the operator says the issue does not affect structural safety and has ordered a full review."
+      },
+      "zh": {
+        "headline": "港鐵東涌西站支柱未批修補工序叫停 強調不涉結構安全",
+        "dek": "十月恒常巡查發現月台層部分支柱頂部有未經批准的物料填補工序，港鐵已指示總承建商停工並提交報告。"
+      }
+    },
+    {
+      "id": "2026-11-07-tsing-yi-qing-ya-yuan-fall-death",
+      "published_at": "2026-11-07T18:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tsing-yi",
+        "police",
+        "fall",
+        "death"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-07/2026-11-07-tsing-yi-qing-ya-yuan-fall-death.json",
+      "en": {
+        "headline": "Woman dies after fall from Tsing Yi residential building",
+        "dek": "Police and firefighters responded to a report at about 8:28am at Qing Ya Yuan; the woman, believed to be in her late forties, was confirmed dead at the scene."
+      },
+      "zh": {
+        "headline": "青衣青雅苑女子墮樓當場不治",
+        "dek": "警方早上約8時28分接報，青雅苑有女子從高處墮下，救護員到場證實當場死亡，年齡約48至50歲。"
+      }
+    },
     {
       "id": "2026-11-07-craft-beer-machine-scam-arrests",
       "published_at": "2026-11-07T16:25:00+08:00",
@@ -1550,52 +1617,6 @@
       "zh": {
         "headline": "預設醫療指示明年可在醫健通電子化訂立",
         "dek": "勞工及福利局局長孫玉菡書面回覆指，市民可分階段在平台訂立、儲存及撤銷指示，電子版與紙本具同等法律效力。"
-      }
-    },
-    {
-      "id": "2026-11-04-icac-hkex-tong-charges",
-      "published_at": "2026-11-04T18:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "icac",
-        "hkex",
-        "crime",
-        "court",
-        "sfc"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-04/2026-11-04-icac-hkex-tong-charges.json",
-      "en": {
-        "headline": "ICAC charges former HKEX vice-president and mother over confidential access",
-        "dek": "Geoffrey Tong and his mother face one count of dishonest computer access after share trades yielded profits exceeding HK$500,000, the ICAC said."
-      },
-      "zh": {
-        "headline": "廉署起訴前港交所副總裁及其母親涉不誠實取用內部系統",
-        "dek": "董柏涵與母親梁耀珍被控一項為不誠實目的取用電腦罪，其後股票交易獲利逾50萬港元，廉署表示。"
-      }
-    },
-    {
-      "id": "2026-11-04-police-strongjab-money-laundering",
-      "published_at": "2026-11-04T18:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "crime",
-        "money-laundering",
-        "scam",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-04/2026-11-04-police-strongjab-money-laundering.json",
-      "en": {
-        "headline": "Police arrest 11 in Strongjab operation against money-laundering syndicate",
-        "dek": "Officers detained eight men and three women aged 19 to 43 over a network that processed about HK$70 million linked to 85 scam cases."
-      },
-      "zh": {
-        "headline": "警方「猛刺」行動拘11人 破洗黑錢集團涉85宗騙案",
-        "dek": "警方拘捕8男3女，年齡介乎19至43歲，集團涉嫌處理約7000萬元犯罪得益，牽涉85宗騙案損失逾2400萬元。"
       }
     }
   ]
