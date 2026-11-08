@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-11-08T14:21:33+08:00",
+  "generated_at": "2026-11-08T16:26:32+08:00",
   "live_window_hours": 72,
-  "count": 71,
+  "count": 69,
   "articles": [
+    {
+      "id": "2026-11-08-lau-fau-shan-ketamine-seizure",
+      "published_at": "2026-11-08T16:35:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "yuen-long",
+        "drugs",
+        "police",
+        "transitional-housing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-lau-fau-shan-ketamine-seizure.json",
+      "en": {
+        "headline": "Police seize 20kg of ketamine from transitional housing unit in Lau Fau Shan",
+        "dek": "Officers raided a unit in Yuen Long and arrested a 31-year-old man; the drugs and packaging tools were valued at about HK$8 million."
+      },
+      "zh": {
+        "headline": "流浮山過渡性房屋單位作毒品倉 警檢800萬氯胺酮拘一男",
+        "dek": "警方在元朗流浮山深灣路一個過渡性房屋單位檢獲約20公斤氯胺酮，拘捕31歲本地男子，市值約800萬元。"
+      }
+    },
+    {
+      "id": "2026-11-08-ma-on-shan-paragliding-accident",
+      "published_at": "2026-11-08T16:35:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "ma-on-shan",
+        "accident",
+        "rescue",
+        "paragliding"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-ma-on-shan-paragliding-accident.json",
+      "en": {
+        "headline": "Three injured after paraglider lands on hikers at Ma On Shan campsite",
+        "dek": "A woman and two teenagers were hurt when a paraglider hit them while landing at Ngong Ping campsite around noon on Sunday; a helicopter took them to hospital."
+      },
+      "zh": {
+        "headline": "馬鞍山昂平營地滑翔傘降落撞傷三人 直升機送院",
+        "dek": "周日中午一名女子與兩名青少年在馬鞍山昂平營地被降落的滑翔傘撞傷，政府飛行服務隊直升機將他們送往醫院治理。"
+      }
+    },
+    {
+      "id": "2026-11-08-tin-shui-wai-kingswood-fire-death",
+      "published_at": "2026-11-08T16:35:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tin-shui-wai",
+        "fire",
+        "kingswood-villas"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-tin-shui-wai-kingswood-fire-death.json",
+      "en": {
+        "headline": "67-year-old woman dies after aromatherapy fire at Kingswood Villas",
+        "dek": "A woman found unconscious with burns after a flat fire in Tin Shui Wai on Saturday evening died early Sunday morning; police said the blaze was caused by an aromatherapy item igniting nearby objects."
+      },
+      "zh": {
+        "headline": "天水圍嘉湖山莊香薰火警 67歲婦抢救不治",
+        "dek": "天水圍嘉湖山莊樂湖居一單位周六傍晚疑因香薰燃點雜物起火，67歲女戶主昏迷送院，延至周日凌晨證實不治。"
+      }
+    },
     {
       "id": "2026-11-08-building-repairs-bureau-staffing",
       "published_at": "2026-11-08T14:20:00+08:00",
@@ -1482,121 +1547,6 @@
       "zh": {
         "headline": "漁護署推「漁＋樂」漁船計劃 示範船載客出海",
         "dek": "兩艘改裝漁船將於香港仔水域提供導賞團，讓市民近距離觀看起網及認識本地魚種。"
-      }
-    },
-    {
-      "id": "2026-11-05-cathay-pacific-discretionary-bonus",
-      "published_at": "2026-11-05T16:25:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "cathay-pacific",
-        "aviation",
-        "bonus",
-        "staff"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-05/2026-11-05-cathay-pacific-discretionary-bonus.json",
-      "en": {
-        "headline": "Cathay Pacific to pay one-month discretionary bonus to eligible Hong Kong staff",
-        "dek": "Eligible Hong Kong-based employees will receive the 2026 bonus equivalent to one month of qualifying pay on 7 January, the airline said in an internal message."
-      },
-      "zh": {
-        "headline": "國泰向香港合資格員工發放一個月酌情花紅",
-        "dek": "航空公司在內部訊息中表示，常駐香港的合資格員工將於明年1月7日獲發相當於一個月合資格薪酬的2026年度酌情花紅。"
-      }
-    },
-    {
-      "id": "2026-11-05-edmond-ma-misconduct-warning",
-      "published_at": "2026-11-05T16:25:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "medical-council",
-        "doctor",
-        "chp",
-        "misconduct"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-05/2026-11-05-edmond-ma-misconduct-warning.json",
-      "en": {
-        "headline": "CHP infection control head issued warning over driving conviction",
-        "dek": "The Medical Council ordered a warning letter for Dr Edmond Ma Siu-keung after he failed to report a 2024 dangerous-driving conviction within 28 days."
-      },
-      "zh": {
-        "headline": "衛生防護中心感染控制主管因危駕定罪被醫委會發警告信",
-        "dek": "馬紹強醫生因未在28日內向醫委會申報2024年危險駕駛定罪，周四紀律研訊後被下令發出警告信。"
-      }
-    },
-    {
-      "id": "2026-11-05-federated-hermes-hk-office",
-      "published_at": "2026-11-05T16:25:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "finance",
-        "asset-management",
-        "hong-kong",
-        "office"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-05/2026-11-05-federated-hermes-hk-office.json",
-      "en": {
-        "headline": "Federated Hermes opens Hong Kong office in Central",
-        "dek": "The US asset manager, which manages US$884 billion, has set up in the Nexxus Building after two years of preparation to deepen Asia-Pacific ties."
-      },
-      "zh": {
-        "headline": "Federated Hermes在中環開設香港辦公室",
-        "dek": "這家管理8840億美元資產的美國資產管理公司經過兩年籌備後，在Nexxus大廈設立辦事處，加強亞太聯繫。"
-      }
-    },
-    {
-      "id": "2026-11-05-hang-seng-closes-up-nov5",
-      "published_at": "2026-11-05T16:25:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "hang-seng",
-        "stocks",
-        "market",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-05/2026-11-05-hang-seng-closes-up-nov5.json",
-      "en": {
-        "headline": "Hang Seng Index closes 3.67 percent higher at 24796.98",
-        "dek": "Hong Kong stocks rose nearly 880 points on Thursday, with the Hang Seng Tech Index gaining 5.55 percent amid broad strength in technology shares."
-      },
-      "zh": {
-        "headline": "恒生指數收市升3.67%報24796.98點",
-        "dek": "港股周四上升近880點，恒生科技指數升5.55%，科網股普遍造好。"
-      }
-    },
-    {
-      "id": "2026-11-05-yuen-long-rooftop-assault-arrest",
-      "published_at": "2026-11-05T16:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "yuen-long",
-        "arrest",
-        "assault"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-05/2026-11-05-yuen-long-rooftop-assault-arrest.json",
-      "en": {
-        "headline": "Man arrested after Yuen Long rooftop standoff following alleged assault",
-        "dek": "Police detained a 39-year-old man on suspicion of wounding after he was persuaded from a rooftop on Kik Yeung Road, where a woman had been injured earlier."
-      },
-      "zh": {
-        "headline": "元朗男子危坐天台後被捕 涉傷人",
-        "dek": "警方在擊壤路勸服一名39歲男子離開天台後，以涉嫌傷人拘捕他；一名50歲女子較早時頸手受傷送院。"
       }
     }
   ]
