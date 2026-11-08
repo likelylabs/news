@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-09T00:03:18+08:00",
+  "generated_at": "2026-11-09T00:03:31+08:00",
   "live_window_hours": 72,
-  "count": 70,
+  "count": 71,
   "articles": [
+    {
+      "id": "2026-11-09-lifestyle-victoria-park-v-mart",
+      "published_at": "2026-11-09T00:02:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "victoria-park",
+        "market",
+        "causeway-bay"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-lifestyle-victoria-park-v-mart.json",
+      "en": {
+        "headline": "V Mart creative market continues at Victoria Park through November",
+        "dek": "The free cultural and creative arts market runs on weekends and public holidays in Victoria Park until 29 November as part of a check-in campaign with Windsor House."
+      },
+      "zh": {
+        "headline": "維園V Mart文創市集周末及假日繼續 至11月底",
+        "dek": "維多利亞公園的免費文化創意市集於11月1日至29日期間的周六、日及公眾假期舉行，屬皇室堡打卡有禮活動一部分。"
+      }
+    },
     {
       "id": "2026-11-09-tung-chung-west-columns-defects",
       "published_at": "2026-11-09T00:02:00+08:00",
