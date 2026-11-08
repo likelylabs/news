@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-08T14:20:42+08:00",
+  "generated_at": "2026-11-08T14:21:18+08:00",
   "live_window_hours": 72,
-  "count": 69,
+  "count": 70,
   "articles": [
+    {
+      "id": "2026-11-08-workweek-weather-outlook-nov9-13",
+      "published_at": "2026-11-08T14:20:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "cold-front",
+        "monsoon",
+        "observatory"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-workweek-weather-outlook-nov9-13.json",
+      "en": {
+        "headline": "Work week turns cooler and dry after Monday cold front",
+        "dek": "The Observatory forecasts a cold front crossing early Monday, with appreciably lower temperatures midweek and mainly fine, very dry conditions before some showers later."
+      },
+      "zh": {
+        "headline": "冷鋒周一抵港 工作周氣溫顯著下降轉乾燥",
+        "dek": "天文台預料冷鋒周一初時橫過廣東沿岸，隨後強烈東北季候風令氣溫明顯下降，中期大致晴朗非常乾燥。"
+      }
+    },
     {
       "id": "2026-11-08-lifestyle-intangible-cultural-heritage-mart",
       "published_at": "2026-11-08T12:11:00+08:00",
