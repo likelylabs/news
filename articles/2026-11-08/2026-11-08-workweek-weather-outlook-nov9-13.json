@@ -1,1 +1,28 @@
-PLACEHOLDER
+{
+  "id": "2026-11-08-workweek-weather-outlook-nov9-13",
+  "published_at": "2026-11-08T14:20:00+08:00",
+  "category": "weather",
+  "tags": ["weather", "cold-front", "monsoon", "observatory"],
+  "ai_generated": true,
+  "story_key": "workweek-weather-outlook-nov9-13",
+  "en": {
+    "headline": "Work week turns cooler and dry after Monday cold front",
+    "dek": "The Observatory forecasts a cold front crossing early Monday, with appreciably lower temperatures midweek and mainly fine, very dry conditions before some showers later.",
+    "body": [
+      "The Hong Kong Observatory said a cold front is expected to move across the coast of Guangdong early on Monday, followed by an intense northeast monsoon that will strengthen northerly winds and bring appreciably lower temperatures over the region.",
+      "According to the nine-day forecast updated on Sunday, Monday will be cooler with one or two rain patches in the morning before becoming fine and dry, with temperatures ranging from 19 to 26 degrees Celsius and strong north winds at times. Tuesday is expected to be cool in the morning and mainly fine and very dry, with a range of 16 to 23 degrees.",
+      "Wednesday and Thursday should remain mainly fine and dry under moderate northeast to easterly winds, with temperatures rising gradually to around 19-26 degrees and 22-27 degrees respectively. Friday is forecast to have sunny periods and one or two showers at night, with a range of 23 to 27 degrees. The Observatory noted that upper-air disturbances may bring showers to southern China towards the latter part of the week.",
+      "The Yellow Fire Danger Warning remains in force, indicating a high fire risk. Members of the public, especially those in rural areas or engaging in outdoor activities, are advised to take precautions against fire."
+    ]
+  },
+  "zh": {
+    "headline": "冷鋒周一抵港 工作周氣溫顯著下降轉乾燥",
+    "dek": "天文台預料冷鋒周一初時橫過廣東沿岸，隨後強烈東北季候風令氣溫明顯下降，中期大致晴朗非常乾燥。",
+    "body": [
+      "香港天文台表示，一道冷鋒預料將於周一初時橫過廣東沿岸，受相關強烈東北季候風影響，該區北風增強，氣溫將顯著下降。",
+      "根據周日更新的九天天氣預報，周一早上天氣較涼並有一兩陣雨，日間漸轉天晴乾燥，氣溫介乎19至26度，離岸及高地風力較強。周二早上清涼，大致天晴及日間非常乾燥，氣溫約16至23度。",
+      "周三及周四預計大致天晴乾燥，吹東北至東風，氣溫逐步回升至約19至26度及22至27度。周五部分時間有陽光，晚上或有一兩陣驟雨，氣溫23至27度。天文台指高空擾動可能在本周後期為華南帶來驟雨。",
+      "黃色火災危險警告仍然生效，火災危險性頗高。市民特別是郊區或戶外活動人士應提高警惕，防止火警。"
+    ]
+  }
+}
