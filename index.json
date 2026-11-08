@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-08T10:18:11+08:00",
+  "generated_at": "2026-11-08T12:12:26+08:00",
   "live_window_hours": 72,
-  "count": 70,
+  "count": 72,
   "articles": [
+    {
+      "id": "2026-11-08-lifestyle-intangible-cultural-heritage-mart",
+      "published_at": "2026-11-08T12:11:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "heritage",
+        "culture",
+        "tsim-sha-tsui",
+        "cultural-centre"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-lifestyle-intangible-cultural-heritage-mart.json",
+      "en": {
+        "headline": "Intangible Cultural Heritage Mart runs its final day at the Cultural Centre",
+        "dek": "The free three-day event at Hong Kong Cultural Centre Piazza A and B continues until 6pm today under the theme of crafts in connection and tradition in continuation."
+      },
+      "zh": {
+        "headline": "非物質文化遺產市集今日最後一天於文化中心舉行",
+        "dek": "尖沙咀香港文化中心露天廣場A及B區的免費三日活動今日中午12時至下午6時繼續，主題為連藝融通、續寫傳統。"
+      }
+    },
+    {
+      "id": "2026-11-08-yellow-fire-danger-warning",
+      "published_at": "2026-11-08T12:11:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "fire-danger",
+        "observatory"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-yellow-fire-danger-warning.json",
+      "en": {
+        "headline": "Observatory issues Yellow Fire Danger Warning as risk rises",
+        "dek": "The Hong Kong Observatory raised the Yellow Fire Danger Warning at 9:45 a.m. on Sunday, saying the fire risk is high and urging the public and hikers to take precautions."
+      },
+      "zh": {
+        "headline": "天文台發出黃色火災危險警告 火險頗高",
+        "dek": "香港天文台周日上午9時45分發出黃色火災危險警告，表示火災危險性頗高，呼籲市民及行山人士提高警覺。"
+      }
+    },
     {
       "id": "2026-11-08-firefighter-tracking-upgrade",
       "published_at": "2026-11-08T10:15:00+08:00",
