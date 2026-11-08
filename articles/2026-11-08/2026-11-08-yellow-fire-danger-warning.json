@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-08-yellow-fire-danger-warning",
+  "published_at": "2026-11-08T12:11:00+08:00",
+  "category": "weather",
+  "tags": ["weather", "fire-danger", "observatory"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "yellow-fire-danger-warning-nov8",
+  "en": {
+    "headline": "Observatory issues Yellow Fire Danger Warning as risk rises",
+    "dek": "The Hong Kong Observatory raised the Yellow Fire Danger Warning at 9:45 a.m. on Sunday, saying the fire risk is high and urging the public and hikers to take precautions.",
+    "body": [
+      "The Hong Kong Observatory issued a Yellow Fire Danger Warning at 9:45 a.m. on Sunday, stating that the fire risk is high.",
+      "The Observatory said the warning indicates a high fire danger situation and urged people to prevent fires from breaking out. Hikers were advised to remain vigilant.",
+      "The Strong Monsoon Signal that had been in force was cancelled at the same time, the Observatory said. No other weather warnings were reported in force at the time of the update.",
+      "Residents were reminded to take necessary fire precautions in dry or windy conditions. The Observatory continues to monitor the situation."
+    ]
+  },
+  "zh": {
+    "headline": "天文台發出黃色火災危險警告 火險頗高",
+    "dek": "香港天文台周日上午9時45分發出黃色火災危險警告，表示火災危險性頗高，呼籲市民及行山人士提高警覺。",
+    "body": [
+      "香港天文台於周日上午9時45分發出黃色火災危險警告，表示火災危險性頗高。",
+      "天文台表示，黃色警告顯示火災危險情況頗高，呼籲市民防止火災發生，行山人士亦應保持警覺。",
+      "天文台同時表示，之前生效的強烈季候風信號已於同一時間取消。更新時並無其他天氣警告生效。",
+      "市民在乾燥或有風的情況下應採取必要的防火措施。天文台會繼續監察情況。"
+    ]
+  }
+}
