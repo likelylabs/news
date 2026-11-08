@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-08T16:26:32+08:00",
+  "generated_at": "2026-11-08T18:12:22+08:00",
   "live_window_hours": 72,
   "count": 69,
   "articles": [
+    {
+      "id": "2026-11-08-cheung-sha-wan-child-left-alone",
+      "published_at": "2026-11-08T18:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "child-abuse",
+        "cheung-sha-wan",
+        "police",
+        "lai-tsui-court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-cheung-sha-wan-child-left-alone.json",
+      "en": {
+        "headline": "Mother arrested after 10-year-old left alone overnight in Cheung Sha Wan",
+        "dek": "Police arrested a 43-year-old woman on suspicion of cruelty to a child after her grandfather found the girl alone at home in Lai Tsui Court; the child was taken to hospital for checks."
+      },
+      "zh": {
+        "headline": "長沙灣麗翠苑10歲女童通宵獨留家中 43歲母親涉虐兒被捕",
+        "dek": "警方周日拘捕一名43歲女子，涉嫌對所看管兒童虐待或忽略；其69歲祖父發現孫女獨留麗柏閣單位，女童已送院檢查。"
+      }
+    },
+    {
+      "id": "2026-11-08-pik-uk-prison-inmate-assault",
+      "published_at": "2026-11-08T18:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "prison",
+        "assault",
+        "correctional-services",
+        "sai-kung"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-pik-uk-prison-inmate-assault.json",
+      "en": {
+        "headline": "Correctional officer injured after inmate assault at Pik Uk Prison",
+        "dek": "A 23-year-old male inmate attacked a staff member outside his cell early on Sunday; the officer suffered facial injuries and both were sent to hospital, with the case referred to police."
+      },
+      "zh": {
+        "headline": "壁屋監獄 23歲男囚情緒失控襲擊懲教人員 雙雙送院",
+        "dek": "周日早上約7時，一名因盜竊罪服刑的23歲男囚在囚室外突然情緒失控襲擊懲教人員，職員面部受傷，兩人均送公立醫院，事件轉交警方調查。"
+      }
+    },
     {
       "id": "2026-11-08-lau-fau-shan-ketamine-seizure",
       "published_at": "2026-11-08T16:35:00+08:00",
@@ -1501,52 +1545,6 @@
       "zh": {
         "headline": "律政司推出兩萬元法律科技訂購資助計劃",
         "dek": "中小型律師事務所及年資較淺大律師可獲最多兩萬元資助，訂購一年指定法律科技服務，申請期至明年1月29日。"
-      }
-    },
-    {
-      "id": "2026-11-05-customs-illicit-cigarettes-retail",
-      "published_at": "2026-11-05T18:11:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "customs",
-        "illicit-cigarettes",
-        "enforcement",
-        "retail"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-05/2026-11-05-customs-illicit-cigarettes-retail.json",
-      "en": {
-        "headline": "Customs raids seven illicit cigarette retail points, arrests 10",
-        "dek": "Officers posing as customers seized about 128,000 sticks worth HK$580,000 during a three-day territory-wide operation targeting newsstands and stalls."
-      },
-      "zh": {
-        "headline": "海關搗破七個私煙零售點 拘捕十人",
-        "dek": "關員喬裝顧客三日全港行動，檢獲約12.8萬支懷疑未完稅香煙，市值約58萬元。"
-      }
-    },
-    {
-      "id": "2026-11-05-fish-enjoy-boat-pilot-launch",
-      "published_at": "2026-11-05T18:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "fisheries",
-        "aberdeen",
-        "leisure",
-        "afcd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-05/2026-11-05-fish-enjoy-boat-pilot-launch.json",
-      "en": {
-        "headline": "AFCD launches dual-use fishing boat pilot for leisure tours",
-        "dek": "Two modified vessels will offer guided trips from Aberdeen where visitors can watch net hauling and learn about local fish species."
-      },
-      "zh": {
-        "headline": "漁護署推「漁＋樂」漁船計劃 示範船載客出海",
-        "dek": "兩艘改裝漁船將於香港仔水域提供導賞團，讓市民近距離觀看起網及認識本地魚種。"
       }
     }
   ]
