@@ -1,24 +1,6 @@
 {
   "covered": [
     {
-      "key": "customs-airport-cocaine-seizure-oct25",
-      "id": "2026-10-25-customs-airport-cocaine-seizure",
-      "first_seen": "2026-10-25T21:05:00+08:00",
-      "headline_en": "Customs seize 2.2kg suspected cocaine at airport, charge mainland man"
-    },
-    {
-      "key": "hong-kong-open-catlin-win-oct25",
-      "id": "2026-10-25-hong-kong-open-catlin-win",
-      "first_seen": "2026-10-25T21:05:00+08:00",
-      "headline_en": "John Catlin wins Hong Kong Open by five shots at Fanling"
-    },
-    {
-      "key": "huanggang-overnight-congestion-oct25",
-      "id": "2026-10-25-huanggang-overnight-congestion",
-      "first_seen": "2026-10-25T21:05:00+08:00",
-      "headline_en": "Huanggang checkpoint sees overnight queues after concert and Halloween events"
-    },
-    {
       "key": "ap-lei-chau-care-home-choking-death",
       "id": "2026-10-25-ap-lei-chau-elderly-choking-death",
       "first_seen": "2026-10-25T23:22:00+08:00",
@@ -2255,7 +2237,19 @@
       "id": "2026-11-08-to-kwa-wan-supermarket-burglary",
       "first_seen": "2026-11-08T20:25:00+08:00",
       "headline_en": "Police investigate HK$520,000 cash theft from To Kwa Wan supermarket"
+    },
+    {
+      "key": "customs-airport-shark-fin-seizure-nov7",
+      "id": "2026-11-08-customs-airport-shark-fin-seizure",
+      "first_seen": "2026-11-08T22:15:00+08:00",
+      "headline_en": "Customs seize 31kg dried shark fins at airport, charge mainland woman"
+    },
+    {
+      "key": "lifestyle-wong-tai-sin-cultural-festival-2026",
+      "id": "2026-11-08-lifestyle-wong-tai-sin-cultural-festival",
+      "first_seen": "2026-11-08T22:15:00+08:00",
+      "headline_en": "Wong Tai Sin Faith and Customs Culture Festival runs through next Sunday"
     }
   ],
-  "updated_at": "2026-11-08T20:27:23+08:00"
+  "updated_at": "2026-11-08T22:12:11+08:00"
 }

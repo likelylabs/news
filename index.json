@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-08T20:27:23+08:00",
+  "generated_at": "2026-11-08T22:12:11+08:00",
   "live_window_hours": 72,
   "count": 69,
   "articles": [
+    {
+      "id": "2026-11-08-customs-airport-shark-fin-seizure",
+      "published_at": "2026-11-08T22:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "airport",
+        "endangered-species",
+        "afcd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-customs-airport-shark-fin-seizure.json",
+      "en": {
+        "headline": "Customs seize 31kg dried shark fins at airport, charge mainland woman",
+        "dek": "A 51-year-old woman from the mainland arriving from Brazil was arrested after officers found about 31 kilograms of suspected controlled dried shark fins in her checked baggage, valued at HK$130,000."
+      },
+      "zh": {
+        "headline": "海關機場檢獲約31公斤乾魚翅 內地女旅客被控非法進口",
+        "dek": "一名51歲內地女旅客從巴西經埃塞俄比亞抵港，海關在其寄艙行李檢獲約31公斤懷疑受管制乾魚翅，市值約13萬元，已交漁護署落案檢控。"
+      }
+    },
+    {
+      "id": "2026-11-08-lifestyle-wong-tai-sin-cultural-festival",
+      "published_at": "2026-11-08T22:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "heritage",
+        "wong-tai-sin",
+        "culture",
+        "sik-sik-yuen"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-lifestyle-wong-tai-sin-cultural-festival.json",
+      "en": {
+        "headline": "Wong Tai Sin Faith and Customs Culture Festival runs through next Sunday",
+        "dek": "The fifth edition of the festival at Sik Sik Yuen Wong Tai Sin Temple opened today under the theme of inheritance and crossing, with free workshops, talks and guided tours until 15 November."
+      },
+      "zh": {
+        "headline": "第五屆黃大仙信俗文化節今日開幕 至15日舉行",
+        "dek": "嗇色園黃大仙祠舉辦第五屆信俗文化節，主題「傳承與穿越：承『仙』啟後」，設講座、工作坊及導賞，免費入場至11月15日。"
+      }
+    },
     {
       "id": "2026-11-08-claire-liu-hong-kong-tennis-open",
       "published_at": "2026-11-08T20:25:00+08:00",
@@ -1497,52 +1542,6 @@
       "zh": {
         "headline": "元朗五個月大女嬰昏迷送院 外傭涉虐兒被捕",
         "dek": "周四晚上元朗下新圍村一名五個月大女嬰被發現昏迷，警方以涉嫌虐兒拘捕一名外傭。"
-      }
-    },
-    {
-      "id": "2026-11-05-apm-kwun-tong-grandmother-sentenced",
-      "published_at": "2026-11-05T22:10:00+08:00",
-      "updated_at": "2026-11-05T22:20:00+08:00",
-      "category": "crime",
-      "tags": [
-        "crime",
-        "court",
-        "kwun-tong",
-        "assault",
-        "sentencing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-05/2026-11-05-apm-kwun-tong-grandmother-sentenced.json",
-      "en": {
-        "headline": "Kwun Tong grandmother jailed 20 days for slapping five-year-old",
-        "dek": "Leung Lai-ha, 68, admitted assaulting a girl at APM mall after a basketball dispute involving her grandson and was sentenced by the magistrate on Thursday."
-      },
-      "zh": {
-        "headline": "觀塘APM商場婆婆摑五歲女童判監20日",
-        "dek": "68歲梁麗霞承認在孫兒與女童爭籃球後襲擊對方，周四被裁判官判監20日兼罰款3000元。"
-      }
-    },
-    {
-      "id": "2026-11-05-xin-ding-xin-water-fraud-guilty",
-      "published_at": "2026-11-05T22:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "court",
-        "fraud",
-        "government",
-        "procurement"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-05/2026-11-05-xin-ding-xin-water-fraud-guilty.json",
-      "en": {
-        "headline": "Director and firm plead guilty in HK$52.9m bottled water contract fraud",
-        "dek": "Lui Tsz-chung and Xin Ding Xin Trade admitted submitting altered certificates to win a government contract supplying drinking water to civil servants."
-      },
-      "zh": {
-        "headline": "內地公司及董事承認政府瓶裝水合約詐騙 涉5290萬元",
-        "dek": "雷子聰及鑫鼎鑫商貿承認向政府物流署提交經改動證書，以取得向公務員供應飲用水的合約。"
       }
     }
   ]
