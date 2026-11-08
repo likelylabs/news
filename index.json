@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-09T00:03:05+08:00",
+  "generated_at": "2026-11-09T00:03:18+08:00",
   "live_window_hours": 72,
-  "count": 69,
+  "count": 70,
   "articles": [
+    {
+      "id": "2026-11-09-tung-chung-west-columns-defects",
+      "published_at": "2026-11-09T00:02:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "tung-chung",
+        "construction",
+        "buildings-department"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-tung-chung-west-columns-defects.json",
+      "en": {
+        "headline": "Lawmakers call MTR column defects at Tung Chung West unimaginable",
+        "dek": "About 30 concrete columns at the station under construction failed to reach the ceiling, but officials say temporary supports mean there is no structural risk and the 2029 opening target holds."
+      },
+      "zh": {
+        "headline": "議員稱東涌西站支柱欠妥「難以想像」 屋宇署指暫無結構風險",
+        "dek": "興建中的東涌西站約30條混凝土柱未能灌至天花，但屋宇署指樓板臨時支撐仍在，不構成結構危險，2029年通車目標維持。"
+      }
+    },
     {
       "id": "2026-11-08-customs-airport-shark-fin-seizure",
       "published_at": "2026-11-08T22:15:00+08:00",
