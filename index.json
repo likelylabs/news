@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-08T14:21:18+08:00",
+  "generated_at": "2026-11-08T14:21:33+08:00",
   "live_window_hours": 72,
-  "count": 70,
+  "count": 71,
   "articles": [
+    {
+      "id": "2026-11-08-building-repairs-bureau-staffing",
+      "published_at": "2026-11-08T14:20:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "building-repairs",
+        "development-bureau",
+        "tai-po",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-building-repairs-bureau-staffing.json",
+      "en": {
+        "headline": "Building repairs bureau to hire about 90 staff initially, Ning says",
+        "dek": "Development Secretary Bernadette Linn said the new non-statutory bureau will start operations by year end and begin services in January, with staff phased in through mid-next year."
+      },
+      "zh": {
+        "headline": "樓宇維修支援及服務局初期聘約90人 年底運作",
+        "dek": "發展局局長甯漢豪指新局年底前開始運作，明年1月推出服務，人員明年中前陸續就位。"
+      }
+    },
     {
       "id": "2026-11-08-workweek-weather-outlook-nov9-13",
       "published_at": "2026-11-08T14:20:00+08:00",
