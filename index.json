@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-08T18:12:22+08:00",
+  "generated_at": "2026-11-08T20:27:23+08:00",
   "live_window_hours": 72,
   "count": 69,
   "articles": [
+    {
+      "id": "2026-11-08-claire-liu-hong-kong-tennis-open",
+      "published_at": "2026-11-08T20:25:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "tennis",
+        "hong-kong-open",
+        "wta",
+        "victoria-park"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-claire-liu-hong-kong-tennis-open.json",
+      "en": {
+        "headline": "Claire Liu wins Hong Kong Tennis Open for first WTA title",
+        "dek": "American Claire Liu defeated Philippine rising star Alexandra Eala 6-3, 6-0 in the final at Victoria Park on Sunday, claiming her maiden WTA 250 title in one hour and 33 minutes."
+      },
+      "zh": {
+        "headline": "美國劉婧文擊敗伊雅娜 奪香港網球公開賽冠軍",
+        "dek": "周日維多利亞公園決賽，美國球手劉婧文以6-3、6-0直落兩盤擊敗菲律賓新星伊雅娜，首奪WTA巡迴賽冠軍，比賽歷時1小時33分。"
+      }
+    },
+    {
+      "id": "2026-11-08-to-kwa-wan-supermarket-burglary",
+      "published_at": "2026-11-08T20:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "burglary",
+        "to-kwa-wan",
+        "police",
+        "kowloon-city"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-to-kwa-wan-supermarket-burglary.json",
+      "en": {
+        "headline": "Police investigate HK$520,000 cash theft from To Kwa Wan supermarket",
+        "dek": "Staff at a budget supermarket on Tam Kung Road found the rear gate forced and two safes emptied of about HK$520,000; Kowloon City detectives are following up with no arrests yet."
+      },
+      "zh": {
+        "headline": "土瓜灣友誠超市爆竊 失約52萬元現金 警正跟進",
+        "dek": "周日早上超市職員發現後門被撬，兩個夾萬內約52萬元現金被盜；案件交九龍城警區刑偵隊跟進，暫未有人被捕。"
+      }
+    },
     {
       "id": "2026-11-08-cheung-sha-wan-child-left-alone",
       "published_at": "2026-11-08T18:15:00+08:00",
@@ -1499,52 +1543,6 @@
       "zh": {
         "headline": "內地公司及董事承認政府瓶裝水合約詐騙 涉5290萬元",
         "dek": "雷子聰及鑫鼎鑫商貿承認向政府物流署提交經改動證書，以取得向公務員供應飲用水的合約。"
-      }
-    },
-    {
-      "id": "2026-11-05-crime-stats-first-three-quarters",
-      "published_at": "2026-11-05T20:21:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "fraud",
-        "police",
-        "statistics",
-        "security"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-05/2026-11-05-crime-stats-first-three-quarters.json",
-      "en": {
-        "headline": "Overall crime rises 2.1 percent in first three quarters, driven by fraud",
-        "dek": "Secretary for Security Chris Tang said 68,015 cases were recorded from January to September, with fraud accounting for nearly half at 34,679 cases."
-      },
-      "zh": {
-        "headline": "首三季罪案升2.1% 詐騙案帶動整體上升",
-        "dek": "保安局局長鄧炳強表示，今年1月至9月錄得68015宗罪案，詐騙案佔近一半，共34679宗。"
-      }
-    },
-    {
-      "id": "2026-11-05-doj-lawtech-funding-scheme",
-      "published_at": "2026-11-05T20:21:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "justice",
-        "law",
-        "funding",
-        "legal"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-05/2026-11-05-doj-lawtech-funding-scheme.json",
-      "en": {
-        "headline": "Department of Justice launches HK$20,000 lawtech subscription scheme",
-        "dek": "Small law firms and newly qualified barristers can claim up to HK$20,000 for one-year subscriptions to designated legal technology services until 29 January."
-      },
-      "zh": {
-        "headline": "律政司推出兩萬元法律科技訂購資助計劃",
-        "dek": "中小型律師事務所及年資較淺大律師可獲最多兩萬元資助，訂購一年指定法律科技服務，申請期至明年1月29日。"
       }
     }
   ]
