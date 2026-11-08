@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-09T00:03:31+08:00",
+  "generated_at": "2026-11-09T02:04:52+08:00",
   "live_window_hours": 72,
-  "count": 71,
+  "count": 70,
   "articles": [
+    {
+      "id": "2026-11-09-lifestyle-blue-lock-exhibition-airside",
+      "published_at": "2026-11-09T02:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "kai-tak",
+        "anime",
+        "airside"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-lifestyle-blue-lock-exhibition-airside.json",
+      "en": {
+        "headline": "Blue Lock anime exhibition runs at AIRSIDE in Kai Tak until 24 November",
+        "dek": "The official animation exhibition’s first overseas stop features life-size displays, a recreated Z-team locker room and a Hong Kong-exclusive pop-up store."
+      },
+      "zh": {
+        "headline": "藍色監獄動畫展於啟德AIRSIDE舉行至11月24日",
+        "dek": "官方動畫展海外首站設等身展示、1:1還原Z隊更衣室及香港限定快閃店。"
+      }
+    },
+    {
+      "id": "2026-11-09-ta-kwu-ling-university-town-expansion",
+      "published_at": "2026-11-09T02:10:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "northern-metropolis",
+        "university-town",
+        "development-bureau",
+        "hkapa",
+        "ta-kwu-ling"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-ta-kwu-ling-university-town-expansion.json",
+      "en": {
+        "headline": "Development Bureau proposes expanding Ta Kwu Ling university town to 75 hectares",
+        "dek": "A paper submitted to the North District Council nearly doubles the campus area and reserves about seven hectares for a second Hong Kong Academy for Performing Arts campus."
+      },
+      "zh": {
+        "headline": "發展局建議打鼓嶺大學城擴至75公頃 預留演藝學院第二校舍",
+        "dek": "提交北區區議會的文件顯示，校園區面積接近倍增，約7公頃預留予香港演藝學院第二校舍。"
+      }
+    },
     {
       "id": "2026-11-09-lifestyle-victoria-park-v-mart",
       "published_at": "2026-11-09T00:02:00+08:00",
@@ -1516,76 +1562,6 @@
       "zh": {
         "headline": "警方銳眼計劃本月加入人工智能人臉識別",
         "dek": "行動部高級警司梁銘亮表示，系統已測試協助尋回失智長者及偵破行劫案，並有多個商場同意今年內接入，目標2028年約六萬支鏡頭。"
-      }
-    },
-    {
-      "id": "2026-11-06-lifestyle-mplus-at-night-five-with-us",
-      "published_at": "2026-11-06T00:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "west-kowloon",
-        "music",
-        "mplus",
-        "event"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-lifestyle-mplus-at-night-five-with-us.json",
-      "en": {
-        "headline": "M+ at Night returns Friday with RubberBand and live performances",
-        "dek": "The museum’s evening programme on 6 November features Cantopop group RubberBand, indie band Goodnight Lillie and the Recycled Orchestra of Cateura until midnight."
-      },
-      "zh": {
-        "headline": "M+夜不同周五回歸 RubberBand等樂隊演出",
-        "dek": "西九文化區M+周五晚上舉行夜不同活動，至午夜有RubberBand、Goodnight Lillie及Recycled Orchestra of Cateura演出。"
-      }
-    },
-    {
-      "id": "2026-11-06-nsd-mong-kok-seditious-books-arrest",
-      "published_at": "2026-11-06T00:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "national-security",
-        "mong-kok",
-        "books"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-nsd-mong-kok-seditious-books-arrest.json",
-      "en": {
-        "headline": "National Security Department arrests 34-year-old man over seditious book imports",
-        "dek": "Police detained a local company director in Mong Kok on Thursday on suspicion of importing publications with seditious intention under the Safeguarding National Security Ordinance."
-      },
-      "zh": {
-        "headline": "國安處旺角拘捕34歲男子 涉輸入煽動書籍",
-        "dek": "警方周四在旺角拘捕一名本地公司董事，涉嫌違反《維護國家安全條例》輸入具煽動意圖的刊物。"
-      }
-    },
-    {
-      "id": "2026-11-06-yuen-long-infant-unconscious-helper-arrest",
-      "published_at": "2026-11-06T00:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "yuen-long",
-        "child-abuse",
-        "domestic-helper"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-yuen-long-infant-unconscious-helper-arrest.json",
-      "en": {
-        "headline": "Domestic helper arrested after five-month-old baby found unconscious in Yuen Long",
-        "dek": "Police detained a domestic helper on suspicion of child abuse after a five-month-old girl was found unconscious at a village house in Ha San Wai on Thursday evening."
-      },
-      "zh": {
-        "headline": "元朗五個月大女嬰昏迷送院 外傭涉虐兒被捕",
-        "dek": "周四晚上元朗下新圍村一名五個月大女嬰被發現昏迷，警方以涉嫌虐兒拘捕一名外傭。"
       }
     }
   ]
