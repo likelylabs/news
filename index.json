@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-08T08:05:38+08:00",
+  "generated_at": "2026-11-08T10:18:11+08:00",
   "live_window_hours": 72,
-  "count": 73,
+  "count": 70,
   "articles": [
+    {
+      "id": "2026-11-08-firefighter-tracking-upgrade",
+      "published_at": "2026-11-08T10:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire-services",
+        "tai-po",
+        "safety",
+        "equipment"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-firefighter-tracking-upgrade.json",
+      "en": {
+        "headline": "Firefighters receive upgraded tracking devices after Tai Po fire inquiry",
+        "dek": "The Fire Services Department has issued 2,000 new two-in-one devices costing HK$8.4 million that allow teammates to detect a distress signal within 500 metres."
+      },
+      "zh": {
+        "headline": "大埔火後消防處向約2000名消防員派發升級定位裝置",
+        "dek": "消防處耗資840萬元購置新式二合一裝置，讓隊友可在500米範圍內偵測求救訊號，無需額外手提接收器。"
+      }
+    },
+    {
+      "id": "2026-11-08-lifestyle-sham-shui-po-diwali-carnival",
+      "published_at": "2026-11-08T10:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "festival",
+        "sham-shui-po",
+        "community",
+        "diwali"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-lifestyle-sham-shui-po-diwali-carnival.json",
+      "en": {
+        "headline": "Sham Shui Po Diwali Carnival returns to Cheung Sha Wan waterfront today",
+        "dek": "The free community event at Townplace Pier runs from 3pm to 10pm with lantern displays, wishing water lamps, henna art and stage performances."
+      },
+      "zh": {
+        "headline": "深水埗排燈節嘉年華今日重返長沙灣海濱",
+        "dek": "本舍碼頭免費社區活動下午3時至晚上10時舉行，設燈籠展示、許願水燈、海娜手繪及舞台表演。"
+      }
+    },
     {
       "id": "2026-11-08-lifestyle-blue-lock-egoist-exhibition",
       "published_at": "2026-11-08T04:20:00+08:00",
@@ -1533,122 +1578,6 @@
       "zh": {
         "headline": "高等法院判黃之鋒串謀勾結外國勢力罪名成立 判監10年",
         "dek": "30歲的黃之鋒早前承認控罪，新刑期與現正服刑的顛覆罪刑期同期執行，他原定明年1月刑滿。"
-      }
-    },
-    {
-      "id": "2026-11-05-havf-audio-visual-festival",
-      "published_at": "2026-11-05T10:14:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "kowloon-tong",
-        "audio",
-        "technology",
-        "festival"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-05/2026-11-05-havf-audio-visual-festival.json",
-      "en": {
-        "headline": "HAVF home audio-visual festival opens tomorrow at Kowloon Tong InnoCentre",
-        "dek": "The free two-day event features LG, Sony and other brands demonstrating televisions, soundbars and home cinema systems from 6 to 7 November."
-      },
-      "zh": {
-        "headline": "HAVF視聽娛樂祭明起於九龍塘創新中心舉行",
-        "dek": "為期兩日的免費活動將於11月6日至7日舉行，現場有LG、Sony等品牌示範電視、Soundbar及家庭影院系統。"
-      }
-    },
-    {
-      "id": "2026-11-05-sheung-shui-tile-assault-arrest",
-      "published_at": "2026-11-05T08:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "sheung-shui",
-        "assault",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-05/2026-11-05-sheung-shui-tile-assault-arrest.json",
-      "en": {
-        "headline": "Man arrested after alleged tile assault in Sheung Shui",
-        "dek": "A 53-year-old man was detained on suspicion of wounding after police said he used a tile to strike a 48-year-old man late Wednesday night in Sheung Shui."
-      },
-      "zh": {
-        "headline": "上水醉漢涉用瓷磚襲擊途人被捕",
-        "dek": "一名53歲男子涉嫌傷人被捕，警方指他周三深夜在上水以瓷磚襲擊一名48歲男子，傷者面嘴受傷送院。"
-      }
-    },
-    {
-      "id": "2026-11-05-vtc-2027-applications-open",
-      "published_at": "2026-11-05T08:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "education",
-        "vtc",
-        "admissions",
-        "students"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-05/2026-11-05-vtc-2027-applications-open.json",
-      "en": {
-        "headline": "VTC opens applications for 2027/28 programmes with expanded places",
-        "dek": "The Vocational Training Council begins accepting applications today for about 140 full-time programmes, increasing overall study places by more than 10 percent to over 14,000."
-      },
-      "zh": {
-        "headline": "職業訓練局今日起接受2027/28學年課程申請 學額增逾一成",
-        "dek": "職訓局今日起接受約140項全日制課程報名，整體學額增加超過一成至逾14,000個，方便中六學生規劃升學。"
-      }
-    },
-    {
-      "id": "2026-11-05-hk-optical-fair-day-two",
-      "published_at": "2026-11-05T08:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "wan-chai",
-        "hktdc",
-        "optical"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-05/2026-11-05-hk-optical-fair-day-two.json",
-      "en": {
-        "headline": "Hong Kong Optical Fair continues with seminars and smart eyewear displays",
-        "dek": "The three-day trade event at HKCEC features more than 600 exhibitors from 14 countries, with programmes on functional eyewear running today."
-      },
-      "zh": {
-        "headline": "香港國際眼鏡展續展 智能眼鏡及功能鏡片成焦點",
-        "dek": "為期三日的商貿展在會展舉行，逾600間來自14個國家及地區的參展商參與，今日有功能眼鏡研討環節。"
-      }
-    },
-    {
-      "id": "2026-11-05-north-point-truck-pedestrian-arrest",
-      "published_at": "2026-11-05T08:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "transport",
-        "north-point",
-        "accident",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-05/2026-11-05-north-point-truck-pedestrian-arrest.json",
-      "en": {
-        "headline": "Driver arrested after FEHD contractor truck hits pedestrian in North Point",
-        "dek": "A 45-year-old man was detained on suspicion of dangerous driving causing serious injury after his medium goods vehicle struck a 60-year-old woman on King's Road late Wednesday."
-      },
-      "zh": {
-        "headline": "北角食環署外判貨車撞途人 45歲司機涉危駕被捕",
-        "dek": "一名45歲男子涉嫌危險駕駛引致他人身體受嚴重傷害被捕，其駕駛的中型貨車周三深夜在英皇道撞倒一名60歲女途人。"
       }
     }
   ]
