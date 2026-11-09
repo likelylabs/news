@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-09T16:32:20+08:00",
+  "generated_at": "2026-11-09T18:11:53+08:00",
   "live_window_hours": 72,
-  "count": 66,
+  "count": 69,
   "articles": [
+    {
+      "id": "2026-11-09-ocean-park-tower-malfunction",
+      "published_at": "2026-11-09T18:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "ocean-park",
+        "accident",
+        "southern",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-ocean-park-tower-malfunction.json",
+      "en": {
+        "headline": "Ocean Park Tower halts mid-air, stranding about 40 visitors",
+        "dek": "A mechanical fault stopped the observation cabin at about 3.30pm on Monday; one visitor felt unwell and was brought down by firefighters, with no injuries reported."
+      },
+      "zh": {
+        "headline": "海洋公園摩天塔機件故障 約40人一度被困半空",
+        "dek": "星期一約下午3時半觀光塔停於半空，一名遊客感到不適由消防人員游繩帶離，暫未有人受傷。"
+      }
+    },
+    {
+      "id": "2026-11-09-robots-in-community-pilot",
+      "published_at": "2026-11-09T18:15:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "ai",
+        "robots",
+        "community",
+        "digital-policy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-robots-in-community-pilot.json",
+      "en": {
+        "headline": "Digital Policy Office opens applications for robot community pilot",
+        "dek": "Eligible groups may borrow the humanoid Smart Bot free of charge for public events between 15 December and 28 February; the deadline is noon on 20 November."
+      },
+      "zh": {
+        "headline": "數字辦「機器人走入社區」試驗計劃接受申請",
+        "dek": "合資格機構可免費借用人形機器人「友智寶」參與12月15日至2月28日的免費社區活動，截止時間為11月20日正午。"
+      }
+    },
+    {
+      "id": "2026-11-09-tai-zoom-elevator-missing-frames",
+      "published_at": "2026-11-09T18:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "emsd",
+        "elevators",
+        "safety",
+        "housing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-tai-zoom-elevator-missing-frames.json",
+      "en": {
+        "headline": "EMSD finds 720 Tai Zoom lifts missing door-frame parts",
+        "dek": "Director Pang Kwok-ying said about 90 per cent of the contractor’s installations lacked required components; remedial work on two estates is due mid-month and private buildings within two to three months."
+      },
+      "zh": {
+        "headline": "機電署發現臺日720部升降機未裝門框組件",
+        "dek": "潘國英指佔該公司安裝總數約九成；兩個租置屋邨執修要求本月中完成，私樓預計兩至三個月內完成。"
+      }
+    },
     {
       "id": "2026-11-09-hang-seng-close-down-33",
       "published_at": "2026-11-09T16:35:00+08:00",
