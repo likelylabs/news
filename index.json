@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-09T18:11:53+08:00",
+  "generated_at": "2026-11-09T20:28:27+08:00",
   "live_window_hours": 72,
-  "count": 69,
+  "count": 68,
   "articles": [
+    {
+      "id": "2026-11-09-icac-yen-fraud-sentencing",
+      "published_at": "2026-11-09T20:26:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "icac",
+        "fraud",
+        "court",
+        "banking"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-icac-yen-fraud-sentencing.json",
+      "en": {
+        "headline": "Five sentenced in ICAC probe of 400 million yen investment fraud",
+        "dek": "District Court sentenced three defendants today to between 33 and 54 months; ICAC is seeking three more foreign suspects in the case involving fake Standard Chartered documents."
+      },
+      "zh": {
+        "headline": "廉署揭4億日圓投資詐騙案 五人判囚最高54個月 另通緝三人",
+        "dek": "區域法院今日判處三名被告介乎33至54個月監禁；廉署正通緝另外三名外籍涉案人士，案件涉及偽造渣打銀行文件。"
+      }
+    },
+    {
+      "id": "2026-11-09-lee-afc-president-meeting",
+      "published_at": "2026-11-09T20:26:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "football",
+        "john-lee",
+        "five-year-plan",
+        "kai-tak"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-lee-afc-president-meeting.json",
+      "en": {
+        "headline": "John Lee meets AFC president and outlines five-year sports strategy",
+        "dek": "The Chief Executive told Shaikh Salman bin Ebrahim Al Khalifa that Hong Kong would strengthen support for team sports and seek more top international football events with Kai Tak Sports Park."
+      },
+      "zh": {
+        "headline": "李家超會晤亞洲足協會長 介紹五年規劃體育策略",
+        "dek": "行政長官向Shaikh Salman bin Ebrahim Al Khalifa表示，政府將加強隊際運動支援，並期待藉助啟德體育園帶來更多頂級國際足球盛事。"
+      }
+    },
+    {
+      "id": "2026-11-09-tdc-bip-asia-forum-3000",
+      "published_at": "2026-11-09T20:26:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "tdc",
+        "ip",
+        "innovation",
+        "wan-chai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-tdc-bip-asia-forum-3000.json",
+      "en": {
+        "headline": "TDC expects more than 3,000 at Business of IP Asia Forum",
+        "dek": "The two-day event at the Convention and Exhibition Centre on 19 and 20 November will focus on IP commercialisation and run alongside Entrepreneur Day with over 370 startups."
+      },
+      "zh": {
+        "headline": "貿發局預期亞洲知識產權營商論壇逾3000人參與",
+        "dek": "兩日活動將於11月19及20日在灣仔會議展覽中心舉行，聚焦知識產權商業化，並與創業日同步，後者有逾370間初創企業。"
+      }
+    },
     {
       "id": "2026-11-09-ocean-park-tower-malfunction",
       "published_at": "2026-11-09T18:15:00+08:00",
@@ -1453,95 +1522,6 @@
       "zh": {
         "headline": "海關機場檢約7公斤懷疑大麻花 拘兩名內地女子",
         "dek": "兩名分別50歲及54歲、從曼谷抵港的女子手提行李各藏約3.5公斤，市值估計約140萬元。"
-      }
-    },
-    {
-      "id": "2026-11-06-cold-front-temperature-drop",
-      "published_at": "2026-11-06T18:20:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "forecast",
-        "monsoon",
-        "temperature"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-cold-front-temperature-drop.json",
-      "en": {
-        "headline": "Observatory expects temperatures to fall to 18 degrees next week",
-        "dek": "A cold front is forecast to cross the south China coast on Monday, bringing stronger northerly winds and appreciably cooler mornings from Tuesday."
-      },
-      "zh": {
-        "headline": "天文台料下周氣溫顯著下降 市區最低或見18度",
-        "dek": "一道冷鋒預料周一初時橫過華南沿岸，轉吹偏北強風，周二起早上明顯較涼。"
-      }
-    },
-    {
-      "id": "2026-11-06-hkex-q3-profit-decline",
-      "published_at": "2026-11-06T18:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "finance",
-        "markets",
-        "hkex",
-        "stocks"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-hkex-q3-profit-decline.json",
-      "en": {
-        "headline": "HKEX posts first quarterly profit decline in over two years",
-        "dek": "Net profit for the third quarter fell 1 per cent year on year to HK$4.86 billion as cash market turnover moderated, though nine-month results remained at record levels."
-      },
-      "zh": {
-        "headline": "港交所第三季盈利按年下跌 為逾兩年來首次",
-        "dek": "第三季股東應佔淨利潤按年跌約1%至48.6億元，現金市場成交量回落，惟首九個月業績仍創新高。"
-      }
-    },
-    {
-      "id": "2026-11-06-hang-seng-close-down",
-      "published_at": "2026-11-06T18:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "finance",
-        "markets",
-        "hang-seng",
-        "stocks"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-hang-seng-close-down.json",
-      "en": {
-        "headline": "Hang Seng Index closes 1.27 per cent lower at 24,481",
-        "dek": "The benchmark fell 315 points on Friday amid a regional tech sell-off, though it still recorded a 5.1 per cent weekly gain."
-      },
-      "zh": {
-        "headline": "恒生指數收市跌1.27% 報 24481點",
-        "dek": "受區內科技股拖累影響，恒指周五跌315點，但全周仍累升5.1%。"
-      }
-    },
-    {
-      "id": "2026-11-06-lifestyle-soft-thunder-central",
-      "published_at": "2026-11-06T18:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "central",
-        "bakery",
-        "opening"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-lifestyle-soft-thunder-central.json",
-      "en": {
-        "headline": "Soft Thunder opens Central branch with exclusive banoffee egg tart",
-        "dek": "The local bakery’s third outlet at Man Yee Building began trading today, offering a limited banana-toffee tart and tiramisu cloud latte alongside its usual range."
-      },
-      "zh": {
-        "headline": "Soft Thunder中環分店今日開業 推限定香蕉太妃蛋撕",
-        "dek": "本地洪焙店第三間分店進駐萬宜大廈，新推香蕉太妃蛋撕及提拉米蘇雲朵拿鐵。"
       }
     }
   ]
