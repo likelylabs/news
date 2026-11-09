@@ -1,1 +1,29 @@
-PLACEHOLDER
+{
+  "id": "2026-11-10-strong-monsoon-signal-cooling",
+  "published_at": "2026-11-10T02:04:00+08:00",
+  "category": "weather",
+  "tags": ["weather", "hko", "monsoon", "temperature", "fire-danger"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "strong-monsoon-signal-nov9-cooling",
+  "en": {
+    "headline": "Observatory keeps Strong Monsoon Signal in force as temperatures fall toward 16 degrees",
+    "dek": "The Hong Kong Observatory said strong northerly winds continued under the signal issued Monday morning, with urban lows around 16 degrees expected Tuesday and a Red Fire Danger Warning still active.",
+    "body": [
+      "The Hong Kong Observatory said the Strong Monsoon Signal remained in force early Tuesday, with strong northerly winds expected and gusts occasionally reaching gale force.",
+      "The signal was issued at 6.10am on Monday as a cold front crossed the Guangdong coast, bringing an intense northeast monsoon. In the past hour ending late Monday, maximum sustained winds at Waglan Island and Cheung Chau reached 65 and 53 kilometres per hour respectively, with gusts of 75 kilometres per hour. The Observatory advised people in exposed areas to secure flower pots and other loose objects, and urged small-craft owners to ensure boats are safe. Sea conditions may be rough, especially offshore.",
+      "Urban temperatures were forecast to fall to around 16 degrees Celsius on Tuesday morning, one to two degrees lower in the New Territories. The cooler, dry conditions are expected to persist into Wednesday before the monsoon moderates later in the week. A Red Fire Danger Warning, indicating extreme fire risk, also remained in force after being issued at 6.10am on Monday.",
+      "The Observatory reminded the public to take precautions against the strong winds and to look after the elderly and those with chronic illnesses as temperatures drop."
+    ]
+  },
+  "zh": {
+    "headline": "強烈季候風信號持續生效 氣溫將降至約16度",
+    "dek": "天文台表示，周一清晨發出的強烈季候風信號仍然生效，預料偏北強風持續，周二早上市區最低約16度，紅色火災危險警告亦維持。",
+    "body": [
+      "香港天文台表示，強烈季候風信號於周二凌晨仍然生效，預料本港吹偏北強風，平均風速每小時超過40公里，陣風間中達烈風程度。",
+      "信號於周一清晨6時10分發出，當時一道冷鋒橫過廣東沿岸，隨後強烈東北季候風影響該區。截至周一深夜，橫瀾島及長洲錄得最高持續風速分別為每小時65及53公里，最高陣風每小時75公里。天文台提醒身處當風地方的市民採取預防措施，將花盆及易被吹走的物件搬入室內；小艇艇戶應確保船隻安全。海面可能有大浪，市民應遠離岸邊及避免水上活動，離岸海域風浪尤其大。",
+      "預料周二早上市區最低氣溫約16度，新界再低一兩度。清涼乾燥天氣將持續至周三，其後季候風緩和，氣溫回升。紅色火災危險警告於周一清晨6時10分發出後仍然生效，表示火災危險性極高。",
+      "天文台提醒市民留意強風及降溫，並關顧長者及慢性病患者。"
+    ]
+  }
+}
