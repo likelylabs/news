@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-10T02:06:17+08:00",
+  "generated_at": "2026-11-10T04:22:24+08:00",
   "live_window_hours": 72,
-  "count": 69,
+  "count": 68,
   "articles": [
+    {
+      "id": "2026-11-10-ferrari-f40-repulse-bay-arrest",
+      "published_at": "2026-11-10T04:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "repulse-bay",
+        "traffic",
+        "southern"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-ferrari-f40-repulse-bay-arrest.json",
+      "en": {
+        "headline": "Police arrest 38-year-old over Ferrari F40 near-miss with Citybus in Repulse Bay",
+        "dek": "A local man was arrested on Monday on suspicion of dangerous driving after a classic Ferrari F40 pulled out from a side road into the path of a Citybus on Saturday evening."
+      },
+      "zh": {
+        "headline": "淺水灣法拉利F40險撞城巴 38歲司機涉危駕被捕",
+        "dek": "警方周一在香港仔拘捕一名38歲本地男子，涉嫌與周六晚上淺水灣道一宗法拉利F40未讓路險撞城巴事件有關。"
+      }
+    },
+    {
+      "id": "2026-11-10-tai-mo-shan-hiker-death",
+      "published_at": "2026-11-10T04:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "hiking",
+        "tai-mo-shan",
+        "police",
+        "health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-tai-mo-shan-hiker-death.json",
+      "en": {
+        "headline": "Man dies after collapsing while hiking on Tai Mo Shan",
+        "dek": "Police and firefighters responded after a man reported chest pain on Tai Mo Shan on Monday; he was airlifted to hospital but pronounced dead."
+      },
+      "zh": {
+        "headline": "男子大帽山行山胸口痛昏迷 送院後不治",
+        "dek": "周一中午一名男子在大帽山行山時胸口痛，政府飛行服務隊直升機將他送院，最終不治。"
+      }
+    },
     {
       "id": "2026-11-10-cheung-shun-street-falling-table",
       "published_at": "2026-11-10T02:04:00+08:00",
@@ -1473,75 +1519,6 @@
       "zh": {
         "headline": "港樂新音樂總監以馬勒第八交響曲揭幕",
         "dek": "貝托祺本周末於文化中心指揮樂團首演《千人交響曲》，聯同多支合唱團及聲樂家演出。"
-      }
-    },
-    {
-      "id": "2026-11-07-lifestyle-repulse-bay-motoring-classics",
-      "published_at": "2026-11-07T04:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "cars",
-        "repulse-bay",
-        "event",
-        "motoring"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-07/2026-11-07-lifestyle-repulse-bay-motoring-classics.json",
-      "en": {
-        "headline": "Repulse Bay Motoring Classics brings rare cars to south side today",
-        "dek": "The Peninsula-inspired garden party at The Repulse Bay Arcade runs from 2pm to 6:30pm, with classic icons and regional debuts on show."
-      },
-      "zh": {
-        "headline": "影灣園名車盛會今午淺水灣舉行 展出經典名車",
-        "dek": "半島酒店集團風格的花園派對於影灣園購物商場下午2時至6時30分舉行，展出經典名車及地區首發車款。"
-      }
-    },
-    {
-      "id": "2026-11-07-lifestyle-around-the-island-race",
-      "published_at": "2026-11-07T02:10:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "lifestyle",
-        "sport",
-        "sailing",
-        "harbour",
-        "event"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-07/2026-11-07-lifestyle-around-the-island-race.json",
-      "en": {
-        "headline": "Around the Island Race sets sail Saturday with 1,500 sailors",
-        "dek": "The Royal Hong Kong Yacht Club event sends fleets on a 45-kilometre circumnavigation of Hong Kong Island in pursuit format."
-      },
-      "zh": {
-        "headline": "環島帆船賽周六開賽 約1500名水手參與",
-        "dek": "皇家香港遊艇會主辦的賽事以追逐形式，讓各組別完成約45公里環繞香港島航程。"
-      }
-    },
-    {
-      "id": "2026-11-07-lifestyle-world-triathlon-cup-hong-kong",
-      "published_at": "2026-11-07T02:10:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "lifestyle",
-        "sport",
-        "triathlon",
-        "central",
-        "event"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-07/2026-11-07-lifestyle-world-triathlon-cup-hong-kong.json",
-      "en": {
-        "headline": "World Triathlon Cup returns to Central waterfront this weekend",
-        "dek": "Elite women race at 8:45am and men at 10:30am on Saturday over a sprint course along Lung Wo Road, with a mixed relay on Sunday."
-      },
-      "zh": {
-        "headline": "世界三項鐵人盃本周末重返中環海濱",
-        "dek": "周六精英女子賽上午8時日分、男子賽上午10時30分於龍和道短程賽道展開，周日有混合接力。"
       }
     }
   ]
