@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-09T10:15:44+08:00",
+  "generated_at": "2026-11-09T12:12:03+08:00",
   "live_window_hours": 72,
   "count": 68,
   "articles": [
+    {
+      "id": "2026-11-09-coolest-morning-23-2c-autumn",
+      "published_at": "2026-11-09T12:15:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "cold-front",
+        "temperature"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-coolest-morning-23-2c-autumn.json",
+      "en": {
+        "headline": "Observatory records coolest autumn morning so far at 23.2 degrees",
+        "dek": "The Observatory recorded 23.2C at 7:40am on Monday, the lowest since autumn began, as the cold front and strong monsoon bring further cooling tonight to about 19C urban."
+      },
+      "zh": {
+        "headline": "天文台錄得今年入秋以來最低23.2度 今晚市區約19度",
+        "dek": "天文台今早7時40分錄得23.2度，為今年入秋以來最低；冷鋒及強烈季候風影響下，今晚市區最低約19度。"
+      }
+    },
+    {
+      "id": "2026-11-09-tung-chung-west-columns-stronger-concrete",
+      "published_at": "2026-11-09T12:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "tung-chung",
+        "construction",
+        "buildings-department"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-tung-chung-west-columns-stronger-concrete.json",
+      "en": {
+        "headline": "Experts say high-strength concrete can fix defective columns at Tung Chung West station",
+        "dek": "Engineering lawmaker Aaron Bok says non-shrink grout can fill gaps in about 30 columns where concrete failed to reach the ceiling, calling the work a basic mistake."
+      },
+      "zh": {
+        "headline": "專家稱高強度混凝土可修復東涌西站欠妥支柱",
+        "dek": "工程界議員卜國明指可用無收縮灌漿填充約30條支柱缺口，混凝土未灌至天花屬基本失誤。"
+      }
+    },
     {
       "id": "2026-11-09-lifestyle-frieren-exhibition-mong-kok",
       "published_at": "2026-11-09T10:15:00+08:00",
@@ -1476,51 +1520,6 @@
       "zh": {
         "headline": "私隱專員支持收緊土地查冊安排",
         "dek": "鍾麗玲表示土地登記冊資料被用於起底的情況有惡化跡象，傳媒亦無全面豁免。"
-      }
-    },
-    {
-      "id": "2026-11-06-lifestyle-yut-lok-fishing-boats",
-      "published_at": "2026-11-06T12:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "fishing",
-        "aberdeen",
-        "leisure",
-        "tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-lifestyle-yut-lok-fishing-boats.json",
-      "en": {
-        "headline": "Modified fishing boats begin passenger trips under leisure fishery scheme",
-        "dek": "The Agriculture, Fisheries and Conservation Department said two converted vessels started operating experience tours from Aberdeen on Thursday, allowing passengers to watch hauling and taste the catch."
-      },
-      "zh": {
-        "headline": "改裝漁船開展休閒漁業體驗團 市民可出海觀起網",
-        "dek": "漁護署表示兩艘符合載客安全規格的改裝漁船周四起於香港仔營運體驗團，讓乘客近距離觀看起網並試食漁獲。"
-      }
-    },
-    {
-      "id": "2026-11-06-weekend-weather-outlook",
-      "published_at": "2026-11-06T12:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "weekend",
-        "monsoon",
-        "forecast"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-weekend-weather-outlook.json",
-      "en": {
-        "headline": "Windy weekend ahead with mainly cloudy skies and occasional rain patches",
-        "dek": "The Observatory said Saturday and Sunday will see east to northeast winds of force 5 to 6, occasionally stronger offshore, with temperatures between 25 and 28 degrees."
-      },
-      "zh": {
-        "headline": "周末風勢頗大 大致多雲間中有雨",
-        "dek": "天文台表示周六日吹東至東北風5至6級，離岸及高地間中更強，氣溫介乎25至28度。"
       }
     }
   ]
