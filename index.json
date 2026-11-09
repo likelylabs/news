@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-09T20:28:27+08:00",
+  "generated_at": "2026-11-09T22:12:51+08:00",
   "live_window_hours": 72,
-  "count": 68,
+  "count": 65,
   "articles": [
+    {
+      "id": "2026-11-09-northern-metropolis-development-bill",
+      "published_at": "2026-11-09T22:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "legco",
+        "northern-metropolis",
+        "development"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-northern-metropolis-development-bill.json",
+      "en": {
+        "headline": "Legco resumes second reading of Northern Metropolis Development Bill on Wednesday",
+        "dek": "The bills committee finished scrutiny after 12 meetings and about 30 hours, and the bill could complete passage this week if supported."
+      },
+      "zh": {
+        "headline": "立法會周三恢復二讀《北部都會區發展條例草案》",
+        "dek": "法案委員會完成約30小時審議，若獲支持，本周內可完成三讀程序。"
+      }
+    },
     {
       "id": "2026-11-09-icac-yen-fraud-sentencing",
       "published_at": "2026-11-09T20:26:00+08:00",
@@ -1430,98 +1452,6 @@
       "zh": {
         "headline": "堅尼地城寶翠園外傭涉虐兒被捕 疑向女童食物吐痰",
         "dek": "警方周五早上接獲四歲女童母親報案，指懷疑女兒被不恰當對待，拘捕37歲菲傭；女童無表面傷，毋須送院。"
-      }
-    },
-    {
-      "id": "2026-11-06-sha-tin-chap-wai-kon-pipe-leak",
-      "published_at": "2026-11-06T22:10:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "sha-tin",
-        "water-supplies",
-        "bus",
-        "traffic"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-sha-tin-chap-wai-kon-pipe-leak.json",
-      "en": {
-        "headline": "Water pipe leak closes Sha Tin road near City One Station",
-        "dek": "The Water Supplies Department is carrying out emergency repairs on Chap Wai Kon Street, with all lanes towards Shek Mun closed since Friday morning and 21 bus routes diverted."
-      },
-      "zh": {
-        "headline": "沙田插桅杆街近第一城站水管急修封路",
-        "dek": "水務署正於插桅杆街往石門方向進行緊急維修，該段全線自周五早上封閉，至少21條巴士路線須改道。"
-      }
-    },
-    {
-      "id": "2026-11-06-bid-rigging-arrests-28",
-      "published_at": "2026-11-06T20:30:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "icac",
-        "bid-rigging",
-        "tai-po"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-bid-rigging-arrests-28.json",
-      "en": {
-        "headline": "Joint task force arrests 28 in first bid-rigging operation after Tai Po fire",
-        "dek": "Secretary for Security Chris Tang said the suspected triad-linked syndicate targeted at least 20 buildings with awarded and pending contracts worth about HK$200 million."
-      },
-      "zh": {
-        "headline": "聯合特遣隊首次行動瓦解圍標集團 拘28人",
-        "dek": "保安局局長鄧炳強表示，涉案集團疑與三合會有關，針對最少20幢樓宇，已批及待批合約共約兩億元。"
-      }
-    },
-    {
-      "id": "2026-11-06-cfs-chicken-doxycycline",
-      "published_at": "2026-11-06T20:30:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "food",
-        "health",
-        "cfs",
-        "recall",
-        "import"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-cfs-chicken-doxycycline.json",
-      "en": {
-        "headline": "CFS detects excess doxycycline in imported frozen chicken legs",
-        "dek": "A sample of the Cheng brand product from China contained 180 parts per billion, above the 100 ppb legal limit; the importer has begun a recall."
-      },
-      "zh": {
-        "headline": "食安中心檢出進口冷藏雞腿強力霉素超標",
-        "dek": "中國進口「城字」牌雞帶骨全腿樣本含量達每公斤180十億分，高於法例上限100十億分；進口商已展開回收。"
-      }
-    },
-    {
-      "id": "2026-11-06-customs-airport-cannabis-women",
-      "published_at": "2026-11-06T20:30:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "customs",
-        "airport",
-        "drugs",
-        "cannabis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-customs-airport-cannabis-women.json",
-      "en": {
-        "headline": "Customs seize 7kg of suspected cannabis at airport, arrest two mainland women",
-        "dek": "Two women aged 50 and 54 arriving from Bangkok were each found with about 3.5 kilograms in their carry-on bags; the estimated value is HK$1.4 million."
-      },
-      "zh": {
-        "headline": "海關機場檢約7公斤懷疑大麻花 拘兩名內地女子",
-        "dek": "兩名分別50歲及54歲、從曼谷抵港的女子手提行李各藏約3.5公斤，市值估計約140萬元。"
       }
     }
   ]
