@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-09T22:12:51+08:00",
+  "generated_at": "2026-11-10T00:04:10+08:00",
   "live_window_hours": 72,
-  "count": 65,
+  "count": 67,
   "articles": [
+    {
+      "id": "2026-11-10-lifestyle-bad-breakfast-sheung-wan",
+      "published_at": "2026-11-10T00:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "sheung-wan",
+        "cafe",
+        "opening"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-lifestyle-bad-breakfast-sheung-wan.json",
+      "en": {
+        "headline": "Bad & Breakfast greasy-spoon cafe to open on Wing Lok Street in Sheung Wan",
+        "dek": "The outlet, a sequel to a Yau Ma Tei bar, will serve full English breakfast sets from HK$58 and cocktails at night starting this week."
+      },
+      "zh": {
+        "headline": "上環永樂街將開英式早餐咖啡店Bad & Breakfast",
+        "dek": "油麻地酒吧延續項目本周開業，全日英式早餐套餐由58元起，晚間供應雞尾酒。"
+      }
+    },
+    {
+      "id": "2026-11-10-margaret-ng-bar-judicial-review",
+      "published_at": "2026-11-10T00:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "legal",
+        "bar-association"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-margaret-ng-bar-judicial-review.json",
+      "en": {
+        "headline": "Bar Association tells High Court tribunal erred in clearing Margaret Ng",
+        "dek": "Senior counsel argued the disciplinary panel overlooked the likelihood that Ng’s 2019 unlawful assembly conviction brought the profession into disrepute."
+      },
+      "zh": {
+        "headline": "大律師公會向高院指紀律審裁組錯判吳霧儀無失當",
+        "dek": "資深大律師陳詞指審裁組忽略吳霧儀2019年非法集結定罪可能令專業蒙羞。"
+      }
+    },
+    {
+      "id": "2026-11-10-mtr-tung-chung-west-noncompliance-notice",
+      "published_at": "2026-11-10T00:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "tung-chung",
+        "construction",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-mtr-tung-chung-west-noncompliance-notice.json",
+      "en": {
+        "headline": "MTR issues non-compliance notice over Tung Chung West station columns",
+        "dek": "The operator said it issued the notice on Monday after about 30 columns were found substandard and is awaiting a remedial proposal from contractors."
+      },
+      "zh": {
+        "headline": "港鐵向東涌西站承建商發出不合規通知",
+        "dek": "港鐵表示周一就約30條欠妥支柱向承建商發出通知，正等候全面報告及補救方案。"
+      }
+    },
     {
       "id": "2026-11-09-northern-metropolis-development-bill",
       "published_at": "2026-11-09T22:15:00+08:00",
@@ -1430,28 +1496,6 @@
       "zh": {
         "headline": "世界三項鐵人盃本周末重返中環海濱",
         "dek": "周六精英女子賽上午8時日分、男子賽上午10時30分於龍和道短程賽道展開，周日有混合接力。"
-      }
-    },
-    {
-      "id": "2026-11-07-belchers-helper-alleged-ill-treatment",
-      "published_at": "2026-11-07T00:03:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "domestic-helper",
-        "kennedy-town"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-07/2026-11-07-belchers-helper-alleged-ill-treatment.json",
-      "en": {
-        "headline": "Police arrest domestic helper over alleged ill-treatment of child at Belcher's",
-        "dek": "A 37-year-old Philippine helper was arrested after the mother of a four-year-old girl reported suspected mistreatment at a Kennedy Town flat; the child has no visible injuries."
-      },
-      "zh": {
-        "headline": "堅尼地城寶翠園外傭涉虐兒被捕 疑向女童食物吐痰",
-        "dek": "警方周五早上接獲四歲女童母親報案，指懷疑女兒被不恰當對待，拘捕37歲菲傭；女童無表面傷，毋須送院。"
       }
     }
   ]
