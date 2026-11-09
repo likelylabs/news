@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-11-09T14:19:32+08:00",
+  "generated_at": "2026-11-09T16:32:20+08:00",
   "live_window_hours": 72,
-  "count": 70,
+  "count": 66,
   "articles": [
+    {
+      "id": "2026-11-09-hang-seng-close-down-33",
+      "published_at": "2026-11-09T16:35:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "finance",
+        "hang-seng"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-hang-seng-close-down-33.json",
+      "en": {
+        "headline": "Hang Seng closes down 33 points at 24449",
+        "dek": "The index ended at 24,449 after trading between 24,437 and 24,733, edging lower from Friday's close of 24,482."
+      },
+      "zh": {
+        "headline": "恆指收市跌33點報24449",
+        "dek": "指數全日高見24733、低見24437，最終收報24449點，較上日收市24482點微跌。"
+      }
+    },
+    {
+      "id": "2026-11-09-legco-research-nonbinding-motions",
+      "published_at": "2026-11-09T16:35:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "legco",
+        "legislation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-legco-research-nonbinding-motions.json",
+      "en": {
+        "headline": "Legco to require research for non-binding motions from next year",
+        "dek": "Legislative Council President Starry Lee said lawmakers must submit research findings and recommendations when raising motions without legislative effect, to make debates more evidence-based."
+      },
+      "zh": {
+        "headline": "立法會明年起非立法效力議案須附研究",
+        "dek": "立法會主席李慧瓊表示，議員提出無立法效力的議案時須提交研究結果及建議，讓政府及公眾更易理解意圖，促進以證據為本的討論。"
+      }
+    },
+    {
+      "id": "2026-11-09-north-point-citybus-driver-arrest",
+      "published_at": "2026-11-09T16:35:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "accident",
+        "north-point",
+        "citybus",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-north-point-citybus-driver-arrest.json",
+      "en": {
+        "headline": "Police arrest Citybus driver after pedestrian dies in North Point",
+        "dek": "A man was struck by a Citybus at about 8am on King's Road near Tin Chong Street; he was pronounced dead at Eastern Hospital at 8.54am and the driver has been arrested."
+      },
+      "zh": {
+        "headline": "北角城巴撞倒途人致死 司機被捕",
+        "dek": "今早約8時，一名男子在北角英皇道近電廠街遭城巴撞倒，送東區醫院後於8時54分證實死亡，城巴司機已被捕。"
+      }
+    },
     {
       "id": "2026-11-09-lifestyle-muji-25th-anniversary-exhibition",
       "published_at": "2026-11-09T14:20:00+08:00",
@@ -1411,161 +1475,6 @@
       "zh": {
         "headline": "Soft Thunder中環分店今日開業 推限定香蕉太妃蛋撕",
         "dek": "本地洪焙店第三間分店進駐萬宜大廈，新推香蕉太妃蛋撕及提拉米蘇雲朵拿鐵。"
-      }
-    },
-    {
-      "id": "2026-11-06-helper-indecent-assault-sentencing",
-      "published_at": "2026-11-06T16:30:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "court",
-        "indecent-assault",
-        "domestic-helper"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-helper-indecent-assault-sentencing.json",
-      "en": {
-        "headline": "Court jails domestic helper five months for indecent assault",
-        "dek": "Kowloon City Court sentenced a 45-year-old helper on three counts after convicting her of offences against her former employer’s daughter."
-      },
-      "zh": {
-        "headline": "外傭非禮僱主女兒罪成 判囚五個月",
-        "dek": "九龍城裁判法院周五判處一名45歲外傭三項非禮罪成，入獄五個月。"
-      }
-    },
-    {
-      "id": "2026-11-06-lifestyle-blue-lock-exhibition-airside",
-      "published_at": "2026-11-06T16:30:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "anime",
-        "kai-tak",
-        "airside"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-lifestyle-blue-lock-exhibition-airside.json",
-      "en": {
-        "headline": "Blue Lock anime exhibition opens at AIRSIDE as first overseas stop",
-        "dek": "The official EGOIST EXHIBITION runs from 6 to 24 November at the Kai Tak mall, with immersive displays and limited merchandise."
-      },
-      "zh": {
-        "headline": "《藍色監獄》官方展覽登陸啟德AIRSIDE 成海外首站",
-        "dek": "EGOIST EXHIBITION今日起至24日於AIRSIDE舉行，設沉浸式展區及限定商品，每日11時至21時開放。"
-      }
-    },
-    {
-      "id": "2026-11-06-mtr-siu-ho-wan-signal-fault",
-      "published_at": "2026-11-06T16:30:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "mtr",
-        "airport-express",
-        "tung-chung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-mtr-siu-ho-wan-signal-fault.json",
-      "en": {
-        "headline": "Signal fault briefly disrupts Airport Express and Tung Chung Line",
-        "dek": "The Transport Department said services on both lines were affected near Siu Ho Wan Depot from about 13:37 and had been restored by 14:03."
-      },
-      "zh": {
-        "headline": "小蠣灣車廠附近信號故障 機場快線及東涌線一度受影響",
-        "dek": "運輸署表示下午約1時37分接獲港鐵通知，兩線服務受影響，至約2時03分事故已妥善處理，班次逐步回復正常。"
-      }
-    },
-    {
-      "id": "2026-11-06-prince-edward-water-heater-gas-leak",
-      "published_at": "2026-11-06T16:30:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "safety",
-        "emsd",
-        "prince-edward"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-prince-edward-water-heater-gas-leak.json",
-      "en": {
-        "headline": "EMSD finds gas leak at internal pipe connection in Prince Edward water heater",
-        "dek": "The Electrical and Mechanical Services Department said a preliminary inspection showed a leak at the hose connection of an approved gas water heater that had passed a check in July 2025."
-      },
-      "zh": {
-        "headline": "機電署指太子熱水爐內部喉管接駁位漏氣",
-        "dek": "署方初步檢驗發現批准型號的煤氣熱水爐內部喉管接駁位置出現氣體洩漏，該爐去年7月檢查時並無異常。"
-      }
-    },
-    {
-      "id": "2026-11-06-exchange-fund-q3-earnings",
-      "published_at": "2026-11-06T14:25:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "finance",
-        "hkma",
-        "exchange-fund",
-        "markets"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-exchange-fund-q3-earnings.json",
-      "en": {
-        "headline": "Exchange Fund posts HK$18.6 billion third-quarter income",
-        "dek": "The Hong Kong Monetary Authority said investment income dropped sharply year on year amid market volatility, though Hong Kong equities returned to profit."
-      },
-      "zh": {
-        "headline": "外匯基金第三季投資收入186億元",
-        "dek": "金管局表示第三季投資收入按年大幅下跌，但港股轉虧為盈。"
-      }
-    },
-    {
-      "id": "2026-11-06-immigration-fake-id-syndicate",
-      "published_at": "2026-11-06T14:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "immigration",
-        "illegal-workers",
-        "fraud"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-immigration-fake-id-syndicate.json",
-      "en": {
-        "headline": "Immigration Department breaks cross-border fake identity syndicate, 15 held",
-        "dek": "Officers arrested two ringleaders who were later sentenced to 29 and 42 months in jail after a scheme that supplied forged Hong Kong identity cards to illegal workers."
-      },
-      "zh": {
-        "headline": "入境處破跨境偽證黑工集團 拘15人",
-        "dek": "兩名主腦因安排偽造香港身份證及住宿予非法勞工，分別被判囚29及42個月。"
-      }
-    },
-    {
-      "id": "2026-11-06-privacy-commissioner-land-records",
-      "published_at": "2026-11-06T14:25:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "privacy",
-        "land-records",
-        "government",
-        "legco"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-privacy-commissioner-land-records.json",
-      "en": {
-        "headline": "Privacy commissioner supports tighter land records access rules",
-        "dek": "Ada Chung said misuse of land registry data for doxxing is worsening and journalists have no blanket exemption under the proposed arrangements."
-      },
-      "zh": {
-        "headline": "私隱專員支持收緊土地查冊安排",
-        "dek": "鍾麗玲表示土地登記冊資料被用於起底的情況有惡化跡象，傳媒亦無全面豁免。"
       }
     }
   ]

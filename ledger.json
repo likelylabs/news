@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "sfc-tokenised-mmf-secondary-trading",
-      "id": "2026-10-26-sfc-tokenised-funds-secondary-trading",
-      "first_seen": "2026-10-26T15:20:00+08:00",
-      "headline_en": "SFC clears first secondary trading of tokenised public funds"
-    },
-    {
-      "key": "shek-kwu-chau-ipark1-level3-fire",
-      "id": "2026-10-26-shek-kwu-chau-incinerator-fire",
-      "first_seen": "2026-10-26T15:20:00+08:00",
-      "headline_en": "Firefighters battle level-three fire at Shek Kwu Chau waste facility"
-    },
-    {
       "key": "asian-games-athletes-honoured-oct26",
       "id": "2026-10-26-asian-games-athletes-honoured",
       "first_seen": "2026-10-26T17:10:00+08:00",
@@ -2201,7 +2189,25 @@
       "id": "2026-11-09-paul-chan-afrc-forum-ipo",
       "first_seen": "2026-11-09T14:20:00+08:00",
       "headline_en": "Chan says firms accelerating supply-chain diversification amid geopolitical uncertainty"
+    },
+    {
+      "key": "hang-seng-index-close-nov9",
+      "id": "2026-11-09-hang-seng-close-down-33",
+      "first_seen": "2026-11-09T16:35:00+08:00",
+      "headline_en": "Hang Seng closes down 33 points at 24449"
+    },
+    {
+      "key": "legco-research-requirement-nonbinding-motions",
+      "id": "2026-11-09-legco-research-nonbinding-motions",
+      "first_seen": "2026-11-09T16:35:00+08:00",
+      "headline_en": "Legco to require research for non-binding motions from next year"
+    },
+    {
+      "key": "north-point-citybus-driver-arrest-nov9",
+      "id": "2026-11-09-north-point-citybus-driver-arrest",
+      "first_seen": "2026-11-09T16:35:00+08:00",
+      "headline_en": "Police arrest Citybus driver after pedestrian dies in North Point"
     }
   ],
-  "updated_at": "2026-11-09T14:19:32+08:00"
+  "updated_at": "2026-11-09T16:32:20+08:00"
 }
