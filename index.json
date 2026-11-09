@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-09T12:12:03+08:00",
+  "generated_at": "2026-11-09T14:19:32+08:00",
   "live_window_hours": 72,
-  "count": 68,
+  "count": 70,
   "articles": [
+    {
+      "id": "2026-11-09-lifestyle-muji-25th-anniversary-exhibition",
+      "published_at": "2026-11-09T14:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "central",
+        "muji",
+        "shopping"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-lifestyle-muji-25th-anniversary-exhibition.json",
+      "en": {
+        "headline": "MUJI marks 25 years in Hong Kong with Central exhibition and Ferris-wheel installation",
+        "dek": "The free “Origin. From MUJI” display runs until 29 November on the first floor of Man Yee Building, featuring a large Ferris-wheel structure and brand milestones."
+      },
+      "zh": {
+        "headline": "無印良品香港25周年 中環萬宜大廈展出巨型摩天輪裝置",
+        "dek": "「原點．源於 無印良品」主題展覽即日起至11月29日於萬宜大廈商場1樓中庭舉行，設大型摩天輪打卡點，免費入場。"
+      }
+    },
+    {
+      "id": "2026-11-09-paul-chan-afrc-forum-ipo",
+      "published_at": "2026-11-09T14:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "finance",
+        "ipo",
+        "ai",
+        "accounting"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-paul-chan-afrc-forum-ipo.json",
+      "en": {
+        "headline": "Chan says firms accelerating supply-chain diversification amid geopolitical uncertainty",
+        "dek": "The Financial Secretary told the AFRC Regional Regulatory Forum that Hong Kong saw 121 new listings in the first 10 months raising over HK$400 billion, up 40 per cent on all of last year."
+      },
+      "zh": {
+        "headline": "陳茂波：地緣政治不確定下企業加速供應鏈多元化",
+        "dek": "財政司司長在會財局區域監管論壇表示，今年首十個月本港有121宗新股上市，集資逾4000億元，較去年全年增四成。"
+      }
+    },
     {
       "id": "2026-11-09-coolest-morning-23-2c-autumn",
       "published_at": "2026-11-09T12:15:00+08:00",
