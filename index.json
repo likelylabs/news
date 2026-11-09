@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-10T02:05:13+08:00",
+  "generated_at": "2026-11-10T02:06:17+08:00",
   "live_window_hours": 72,
-  "count": 67,
+  "count": 69,
   "articles": [
+    {
+      "id": "2026-11-10-cheung-shun-street-falling-table",
+      "published_at": "2026-11-10T02:04:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "lai-chi-kok",
+        "falling-object",
+        "sham-shui-po"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-cheung-shun-street-falling-table.json",
+      "en": {
+        "headline": "Woman injured after folding table falls from Cheung Sha Wan building",
+        "dek": "Police arrested a 33-year-old man on suspicion of allowing an object to fall after a table dropped onto a car and grazed a 32-year-old woman’s hand on Monday evening."
+      },
+      "zh": {
+        "headline": "長沙灣大廈摺檯墮下傷女子 33歲男子涉容許物件墮下被捕",
+        "dek": "警方表示，周一傍晚一張摺檯從長沙灣長順街工廈墮下，撞及私家車並擦傷32歲女子手部，一名33歲男子已被捕。"
+      }
+    },
+    {
+      "id": "2026-11-10-strong-monsoon-signal-cooling",
+      "published_at": "2026-11-10T02:04:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "monsoon",
+        "temperature",
+        "fire-danger"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-strong-monsoon-signal-cooling.json",
+      "en": {
+        "headline": "Observatory keeps Strong Monsoon Signal in force as temperatures fall toward 16 degrees",
+        "dek": "The Hong Kong Observatory said strong northerly winds continued under the signal issued Monday morning, with urban lows around 16 degrees expected Tuesday and a Red Fire Danger Warning still active."
+      },
+      "zh": {
+        "headline": "強烈季候風信號持續生效 氣溫將降至約16度",
+        "dek": "天文台表示，周一清晨發出的強烈季候風信號仍然生效，預料偏北強風持續，周二早上市區最低約16度，紅色火災危險警告亦維持。"
+      }
+    },
     {
       "id": "2026-11-10-lifestyle-bad-breakfast-sheung-wan",
       "published_at": "2026-11-10T00:05:00+08:00",
