@@ -1,8 +1,55 @@
 {
-  "generated_at": "2026-11-09T07:51:00+08:00",
+  "generated_at": "2026-11-09T08:06:57+08:00",
   "live_window_hours": 72,
   "count": 68,
   "articles": [
+    {
+      "id": "2026-11-09-ransomware-cases-rise-ai-attacks",
+      "published_at": "2026-11-09T08:05:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "cybercrime",
+        "police",
+        "ransomware",
+        "ai",
+        "interpol"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-ransomware-cases-rise-ai-attacks.json",
+      "en": {
+        "headline": "Police record nearly 18 per cent rise in ransomware cases as AI aids attacks",
+        "dek": "Technology crime fell overall in the first nine months, but ransomware rose while police used their AI engine in an Interpol operation that took down more than 50,000 malicious sites."
+      },
+      "zh": {
+        "headline": "警方錄得勒索軟件個案近升一成八 人工智能助攻",
+        "dek": "首九個月科技罪案整體下跌，惟勒索軟件上升；警方以自主AI引擎聯同國際刑警行動，下架逾5萬個惡意網站。"
+      }
+    },
+    {
+      "id": "2026-11-09-strong-monsoon-signal-cold-front",
+      "published_at": "2026-11-09T08:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "monsoon",
+        "cold-front",
+        "fire-danger"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-strong-monsoon-signal-cold-front.json",
+      "en": {
+        "headline": "Strong Monsoon Signal and Red Fire Danger Warning in force as cold front arrives",
+        "dek": "The Observatory raised both signals at 06:10 HKT; northerly winds exceed 40 km/h with gusts to gale force, and temperatures will fall to about 16C by Tuesday morning."
+      },
+      "zh": {
+        "headline": "強烈季候風信號及紅色火災危險警告生效 冷鋒抵港",
+        "dek": "天文台於清晨6時10分發出兩項警告；偏北強風平均超過每小時40公里，陣風達烈風，周二早上市區最低約16度。"
+      }
+    },
     {
       "id": "2026-11-09-lifestyle-arts-in-the-park-2026",
       "published_at": "2026-11-09T04:30:00+08:00",
@@ -1471,51 +1518,6 @@
       "zh": {
         "headline": "有消息指律師行將由中環遷往希慎利園八期",
         "dek": "市場消息稱胡關李羅律師行預留約3.9萬平方英尺，結束在怡和大廈超過50年的租用。"
-      }
-    },
-    {
-      "id": "2026-11-06-lifestyle-lantau-yacht-club-boat-show",
-      "published_at": "2026-11-06T08:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "yachts",
-        "discovery-bay",
-        "festival",
-        "event"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-lifestyle-lantau-yacht-club-boat-show.json",
-      "en": {
-        "headline": "Lantau Yacht Club Boat Show opens today as public part of Festival of Connoisseurs",
-        "dek": "The free-admission event at Discovery Bay runs until 8 November with more than 30 yachts on display and marine technology booths, linked to the AsiaWorld-Expo luxury exhibition."
-      },
-      "zh": {
-        "headline": "大嶼山遊艇會船展今日開幕 屬鑑賞家盛典公開部分",
-        "dek": "愉景灣活動至8日免費入場（需預先登記），展出逾30艘遊艇及海事科技，並與亞洲國際博覽館奢華展覽相連。"
-      }
-    },
-    {
-      "id": "2026-11-06-shau-kei-wan-water-asphalt",
-      "published_at": "2026-11-06T08:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "water",
-        "shau-kei-wan",
-        "infrastructure",
-        "health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-shau-kei-wan-water-asphalt.json",
-      "en": {
-        "headline": "Water Supplies Department says Shau Kei Wan black particles are asphalt and meet standards",
-        "dek": "The department said samples from affected areas contained trace asphalt from pipe linings raised during post-repair flushing, but all met Hong Kong drinking water standards and supply has cleared."
-      },
-      "zh": {
-        "headline": "水務署指筲箕灣食水黑點為瀝青 化驗符合標準",
-        "dek": "署方表示受影響地區樣本含維修後沖洗揚起的微量瀝青，但全部符合香港食水標準，供水已回復清澈。"
       }
     }
   ]
