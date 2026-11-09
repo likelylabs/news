@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-09T08:06:57+08:00",
+  "generated_at": "2026-11-09T10:15:23+08:00",
   "live_window_hours": 72,
-  "count": 68,
+  "count": 66,
   "articles": [
+    {
+      "id": "2026-11-09-north-point-citybus-pedestrian-death",
+      "published_at": "2026-11-09T10:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "accident",
+        "north-point",
+        "citybus",
+        "police",
+        "kings-road"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-09/2026-11-09-north-point-citybus-pedestrian-death.json",
+      "en": {
+        "headline": "Man dies after being struck by Citybus while crossing in North Point",
+        "dek": "A man in his forties was hit by a Citybus at about 8:17am on King's Road near Tin Chong Street; he was pronounced dead at Eastern Hospital at 8:54am."
+      },
+      "zh": {
+        "headline": "北角男途人疑過路遭城巴撞飛 送院後不治",
+        "dek": "今早約8時17分，一名約40歲男子在北角英皇道近電廠街橫過馬路時遭城巴撞倒，送東區醫院後於8時54分證實死亡。"
+      }
+    },
     {
       "id": "2026-11-09-ransomware-cases-rise-ai-attacks",
       "published_at": "2026-11-09T08:05:00+08:00",
@@ -1452,72 +1475,6 @@
       "zh": {
         "headline": "周末風勢頗大 大致多雲間中有雨",
         "dek": "天文台表示周六日吹東至東北風5至6級，離岸及高地間中更強，氣溫介乎25至28度。"
-      }
-    },
-    {
-      "id": "2026-11-06-emperor-theatre-relief",
-      "published_at": "2026-11-06T10:12:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "culture",
-        "heritage",
-        "north-point",
-        "restoration"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-emperor-theatre-relief.json",
-      "en": {
-        "headline": "New World removes Emperor Theatre relief over collapse risk, studies restoration",
-        "dek": "The developer said the 8-metre Chan Mi Dong Zhuo artwork on the Grade 1 North Point building had structural problems and was removed with Buildings Department approval."
-      },
-      "zh": {
-        "headline": "新世界因倒塌風險移除皇都戲院浮雕 正研究修復",
-        "dek": "發展商表示北角一級歷史建築正門8米高「蟬迷董卓」浮雕有結構問題，已獲屋宇署批准移除並妥善存放。"
-      }
-    },
-    {
-      "id": "2026-11-06-guess-who-scam-arrests",
-      "published_at": "2026-11-06T10:12:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "fraud",
-        "elderly"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-guess-who-scam-arrests.json",
-      "en": {
-        "headline": "Police arrest nine over guess-who phone scams targeting elderly, recover all funds",
-        "dek": "West Kowloon officers dismantled a syndicate in an operation from mid-October to 4 November, seizing phones after six victims aged 73 to 86 lost about HK$325,000."
-      },
-      "zh": {
-        "headline": "警方破「猜猜我是誰」電騙集團 拘9人起回全數逾32萬元",
-        "dek": "西九龍總區10月中至11月4日行動，針對6名73至86歲長者，損失約32.5萬元已全數追回。"
-      }
-    },
-    {
-      "id": "2026-11-06-lee-garden-eight-law-firm",
-      "published_at": "2026-11-06T10:12:00+08:00",
-      "updated_at": "2026-11-06T10:16:00+08:00",
-      "category": "business",
-      "tags": [
-        "business",
-        "property",
-        "causeway-bay",
-        "office"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-06/2026-11-06-lee-garden-eight-law-firm.json",
-      "en": {
-        "headline": "Law firm reportedly to move from Central to Hysan Lee Garden Eight",
-        "dek": "Market sources say Woo Kwan Lee & Lo has reserved about 39,000 square feet in the Causeway Bay development after more than 50 years in Jardine House."
-      },
-      "zh": {
-        "headline": "有消息指律師行將由中環遷往希慎利園八期",
-        "dek": "市場消息稱胡關李羅律師行預留約3.9萬平方英尺，結束在怡和大廈超過50年的租用。"
       }
     }
   ]

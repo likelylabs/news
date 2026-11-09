@@ -1,30 +1,6 @@
 {
   "covered": [
     {
-      "key": "hkust-medical-school-leung-appointment",
-      "id": "2026-10-26-hkust-medical-school-leung",
-      "first_seen": "2026-10-26T09:20:00+08:00",
-      "headline_en": "Former HKU medicine vice-dean joins HKUST medical school as senior associate dean"
-    },
-    {
-      "key": "interpol-silver-notice-ga-hong-kong",
-      "id": "2026-10-26-interpol-silver-notice-ga",
-      "first_seen": "2026-10-26T09:20:00+08:00",
-      "headline_en": "Interpol seeks silver notice approval at Hong Kong general assembly"
-    },
-    {
-      "key": "lifestyle-halloween-central-installations",
-      "id": "2026-10-26-lifestyle-halloween-central-installations",
-      "first_seen": "2026-10-26T09:20:00+08:00",
-      "headline_en": "Hongkong Land lights up Statue Square with Halloween installations through month end"
-    },
-    {
-      "key": "polyu-50-50-student-ratio",
-      "id": "2026-10-26-polyu-student-ratio",
-      "first_seen": "2026-10-26T09:20:00+08:00",
-      "headline_en": "PolyU aims for 50-50 overseas to mainland student ratio among non-locals"
-    },
-    {
       "key": "cmpr-li-zili-comments-oct26",
       "id": "2026-10-26-cmpr-li-zili-innovation",
       "first_seen": "2026-10-26T11:08:00+08:00",
@@ -2231,7 +2207,13 @@
       "id": "2026-11-09-strong-monsoon-signal-cold-front",
       "first_seen": "2026-11-09T08:05:00+08:00",
       "headline_en": "Strong Monsoon Signal and Red Fire Danger Warning in force as cold front arrives"
+    },
+    {
+      "key": "north-point-citybus-pedestrian-death",
+      "id": "2026-11-09-north-point-citybus-pedestrian-death",
+      "first_seen": "2026-11-09T10:15:00+08:00",
+      "headline_en": "Man dies after being struck by Citybus while crossing in North Point"
     }
   ],
-  "updated_at": "2026-11-09T08:06:57+08:00"
+  "updated_at": "2026-11-09T10:15:23+08:00"
 }
