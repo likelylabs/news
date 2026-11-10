@@ -1,8 +1,122 @@
 {
-  "generated_at": "2026-11-10T20:26:42+08:00",
+  "generated_at": "2026-11-10T22:11:54+08:00",
   "live_window_hours": 72,
-  "count": 77,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-11-10-afcd-cheung-chau-dogs",
+      "published_at": "2026-11-10T22:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "afcd",
+        "cheung-chau",
+        "dogs",
+        "animal-welfare",
+        "public-safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-afcd-cheung-chau-dogs.json",
+      "en": {
+        "headline": "AFCD captures two unchipped mongrels on Cheung Chau after resident complaints",
+        "dek": "The dogs were found unsupervised near Tung Tai San Tsuen and Cheung Kwai Estate on Monday and taken to an animal management centre for observation."
+      },
+      "zh": {
+        "headline": "漁護署在長洲捕捉兩隻無晶片無人看管唐狗",
+        "dek": "署方周一在東堤新邨及長貴邨一帶展開特別行動，兩隻唐狗已送往動物管理中心觀察。"
+      }
+    },
+    {
+      "id": "2026-11-10-alibaba-thead-hk-ipo",
+      "published_at": "2026-11-10T22:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "alibaba",
+        "ipo",
+        "technology",
+        "chips",
+        "ai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-alibaba-thead-hk-ipo.json",
+      "en": {
+        "headline": "Alibaba chip unit T-Head files confidential application for Hong Kong IPO",
+        "dek": "The company said T-Head submitted a Form A1 application on 11 September after the stock exchange cleared the proposed spin-off, with deal size still undecided."
+      },
+      "zh": {
+        "headline": "阿里巴巴晶片單位平頭哥提交香港上市機密申請",
+        "dek": "公司表示平頭哥於九月十一日提交A1表格申請，港交所已批准分拆，集資規模仍未敲定。"
+      }
+    },
+    {
+      "id": "2026-11-10-cfs-uk-poultry-import-suspension",
+      "published_at": "2026-11-10T22:20:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "food-safety",
+        "poultry",
+        "bird-flu",
+        "import",
+        "cfs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-cfs-uk-poultry-import-suspension.json",
+      "en": {
+        "headline": "Centre for Food Safety suspends poultry imports from North Lincolnshire in UK",
+        "dek": "The move follows a World Organisation for Animal Health notification of highly pathogenic H5N1 avian influenza in the area, with the suspension taking immediate effect."
+      },
+      "zh": {
+        "headline": "食安中心暫停英國林肯郡北林肯郡禽肉及禽類產品進口",
+        "dek": "措施因應世界動物衞生組織通報當地爆發高致病性H5N1禽流感而即時生效，以保障本港公眾健康。"
+      }
+    },
+    {
+      "id": "2026-11-10-red-fire-danger-continues",
+      "published_at": "2026-11-10T22:20:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "fire-danger",
+        "dry"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-red-fire-danger-continues.json",
+      "en": {
+        "headline": "Red Fire Danger Warning remains in force with extreme fire risk",
+        "dek": "The Hong Kong Observatory said the warning, issued at 6.10am on Monday, continues as relative humidity stays low and conditions remain dry."
+      },
+      "zh": {
+        "headline": "紅色火災危險警告仍然生效 火災危險性極高",
+        "dek": "天文台指警告自周一上午六時十分發出後持續，相對濕度偏低，天氣乾燥。"
+      }
+    },
+    {
+      "id": "2026-11-10-sun-site-smoking-inspections",
+      "published_at": "2026-11-10T22:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "labour",
+        "smoking",
+        "construction",
+        "safety",
+        "sun-yuk-han"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-sun-site-smoking-inspections.json",
+      "en": {
+        "headline": "Labour chief says 7300 construction sites inspected under smoking ban, 84 fixed…",
+        "dek": "Sun Yuk-han said most of the inspections since the July 17 ban were surprise checks and that contractors faced five summonses over failure to take reasonable steps."
+      },
+      "zh": {
+        "headline": "孫玉菡稱地盤禁煙後巡查7300個工地 發出84張定額罰款",
+        "dek": "勞工及福利局局長表示大部分為突擊檢查，並向承建商發出五張告票，涉四宗未採取合理步驟個案。"
+      }
+    },
     {
       "id": "2026-11-10-hkma-capital-rules-northern-metropolis",
       "published_at": "2026-11-10T20:30:00+08:00",
@@ -1683,49 +1797,6 @@
       "zh": {
         "headline": "屯門貨車貨斗電池起火 消防撲熄無人受傷",
         "dek": "一輛中型貨車傍晚約6時13分在震寰路青田路橋底往建生方向行駛時，貨斗內電池突然起火，消防於6時36分將火救熄，無人受傷。"
-      }
-    },
-    {
-      "id": "2026-11-07-strong-monsoon-signal",
-      "published_at": "2026-11-07T20:35:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "monsoon",
-        "wind"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-07/2026-11-07-strong-monsoon-signal.json",
-      "en": {
-        "headline": "Observatory issues Strong Monsoon Signal for easterly winds",
-        "dek": "The Hong Kong Observatory raised the Strong Monsoon Signal at 20:00, warning of mean winds exceeding 40 km/h from the east with occasional gale-force gusts."
-      },
-      "zh": {
-        "headline": "天文台發出強烈季候風信號 東風強風間中烈風",
-        "dek": "香港天文台晚上8時發出強烈季候風信號，預料本港吹東風，平均風速超過每小時40公里，陣風間中達烈風程度。"
-      }
-    },
-    {
-      "id": "2026-11-07-tin-shui-wai-kingswood-fire",
-      "published_at": "2026-11-07T20:35:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "tin-shui-wai",
-        "police",
-        "fire-services"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-07/2026-11-07-tin-shui-wai-kingswood-fire.json",
-      "en": {
-        "headline": "Woman found unconscious after unit fire in Tin Shui Wai estate",
-        "dek": "Firefighters extinguished a blaze at Kingswood Villas Locwood Court Block 14 after a 5:39pm report; a woman was found unconscious in a stairwell and taken to hospital, with about 100 people evacuated."
-      },
-      "zh": {
-        "headline": "天水圍嘉湖山莊樂湖居單位起火 女子昏迷送院",
-        "dek": "警方下午約5時39分接報嘉湖山莊樂湖居14座單位冒煙，消防約6時07分將火救熄；搜救期間發現一名女子在梯間昏迷，送天水圍醫院治理，約100人自行疏散。"
       }
     }
   ]
