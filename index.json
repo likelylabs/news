@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-11-10T12:12:52+08:00",
+  "generated_at": "2026-11-10T14:18:09+08:00",
   "live_window_hours": 72,
-  "count": 71,
+  "count": 75,
   "articles": [
+    {
+      "id": "2026-11-10-civil-servants-family-care-leave",
+      "published_at": "2026-11-10T14:25:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "civil-service",
+        "leave",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-civil-servants-family-care-leave.json",
+      "en": {
+        "headline": "Civil servants to receive 12 hours of family care leave a year from January",
+        "dek": "The Civil Service Bureau detailed the new entitlement in a paper to the Legislative Council panel, allowing flexible hourly leave for family matters with streamlined approval."
+      },
+      "zh": {
+        "headline": "公務員明年一月起每年可享12小時照顧家庭假",
+        "dek": "公務員事務局向立法會事務委員會提交文件，詳細說明新假期安排，容許靈活按小時計假處理家庭事務，申請程序簡化。"
+      }
+    },
+    {
+      "id": "2026-11-10-paragliding-registration-support",
+      "published_at": "2026-11-10T14:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "paragliding",
+        "safety",
+        "ma-on-shan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-paragliding-registration-support.json",
+      "en": {
+        "headline": "Paragliding association open to compulsory registration after self-taught pilot injures…",
+        "dek": "The Hong Kong China Paragliding Association said it supports real-name registration if it improves safety, after a pilot known to lack formal training struck three hikers at Ma On Shan on Sunday."
+      },
+      "zh": {
+        "headline": "滑翔傘協會支持強制登記 自學飛手撞傷行山人士後",
+        "dek": "中國香港滑翔傘總會表示，若有助提升安全，樂見強制實名登記；周日一名已知缺乏正式訓練的飛手在馬鞍山昂平撞傷三名行山人士。"
+      }
+    },
+    {
+      "id": "2026-11-10-strong-monsoon-cancelled",
+      "published_at": "2026-11-10T14:25:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "monsoon",
+        "fire-danger"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-strong-monsoon-cancelled.json",
+      "en": {
+        "headline": "Observatory cancels Strong Monsoon Signal after morning winds ease",
+        "dek": "The Hong Kong Observatory cancelled the Strong Monsoon Signal at 11:45am on Tuesday, while the Red Fire Danger Warning remains in force with extreme fire risk."
+      },
+      "zh": {
+        "headline": "天文台上午11時45分取消強烈季候風信號",
+        "dek": "天文台周二上午11時45分取消強烈季候風信號，紅色火災危險警告仍然生效，火災危險性極高。"
+      }
+    },
+    {
+      "id": "2026-11-10-tsuen-wan-claw-shop-red-oil",
+      "published_at": "2026-11-10T14:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "tsuen-wan",
+        "criminal-damage"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-tsuen-wan-claw-shop-red-oil.json",
+      "en": {
+        "headline": "Police investigate criminal damage after red liquid thrown in Tsuen Wan claw machine shop",
+        "dek": "Two black-clad men entered a claw machine shop on Hoi On Street early on Tuesday and splashed red liquid on machines, the floor and walls before fleeing, police said."
+      },
+      "zh": {
+        "headline": "荃灣夾公仔店遭淋紅色液體 警方列刑事毀壞跟進",
+        "dek": "周二凌晨兩名黑衣男子進入享和街夾公仔店，向機台、地面及牆壁淋潑紅色液體後逃去，警方正在調查。"
+      }
+    },
     {
       "id": "2026-11-10-lifestyle-tsim-sha-tsui-cultural-centre-rats",
       "published_at": "2026-11-10T12:20:00+08:00",
