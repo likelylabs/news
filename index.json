@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-11-10T04:22:24+08:00",
+  "generated_at": "2026-11-10T08:06:59+08:00",
   "live_window_hours": 72,
-  "count": 68,
+  "count": 70,
   "articles": [
+    {
+      "id": "2026-11-10-harris-ho-yog-foil-gold",
+      "published_at": "2026-11-10T08:15:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "fencing",
+        "youth-olympics",
+        "harris-ho",
+        "dakar"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-harris-ho-yog-foil-gold.json",
+      "en": {
+        "headline": "Harris Ho wins Hong Kong's first Youth Olympics individual fencing gold",
+        "dek": "The 17-year-old foil specialist beat Japan's Masashi Maeda 15-8 in the Dakar final, giving the city its second gold of the Games and its first individual fencing title at the Youth Olympics."
+      },
+      "zh": {
+        "headline": "何承謙摘青奧男子花劍金牌 香港劍擊首個人金",
+        "dek": "17歲何承謙在達喀爾決賽以十五比八擊敗日本前田將志，為香港摘下青奧第二金，亦是香港劍擊青奧首個人金牌。"
+      }
+    },
+    {
+      "id": "2026-11-10-hko-autumn-low-17-8",
+      "published_at": "2026-11-10T08:15:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "monsoon",
+        "temperature",
+        "fire-danger"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-hko-autumn-low-17-8.json",
+      "en": {
+        "headline": "Observatory records 17.8 degrees, lowest of the autumn so far",
+        "dek": "The Hong Kong Observatory said the temperature at its headquarters fell to 17.8 degrees at 5.30am on Tuesday, with the Strong Monsoon Signal and Red Fire Danger Warning still in force."
+      },
+      "zh": {
+        "headline": "天文台清晨錄得十七點八度 入秋以來最低",
+        "dek": "天文台表示周二清晨五時半總部氣溫降至十七點八度，強烈季候風信號及紅色火災危險警告仍然生效。"
+      }
+    },
+    {
+      "id": "2026-11-10-lifestyle-muji-25th-exhibition",
+      "published_at": "2026-11-10T08:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "central",
+        "exhibition",
+        "muji",
+        "opening"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-lifestyle-muji-25th-exhibition.json",
+      "en": {
+        "headline": "MUJI marks 25 years in Hong Kong with free exhibition at Man Yee Building",
+        "dek": "The exhibition runs until 29 November in the first-floor atrium of the Central mall, featuring a large Ferris-wheel installation and a reaction game for app members."
+      },
+      "zh": {
+        "headline": "無印良品香港二十五周年 中環萬宜大廈免費展覽至十一月二十九日",
+        "dek": "「原點．源於 無印良品」展覽在中環萬宜大廈商場一樓中庭舉行，設巨型摩天輪裝置，會員可參與反應遊戲。"
+      }
+    },
+    {
+      "id": "2026-11-10-yau-ma-tei-taxi-pedestrians",
+      "published_at": "2026-11-10T08:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "yau-ma-tei",
+        "taxi",
+        "traffic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-yau-ma-tei-taxi-pedestrians.json",
+      "en": {
+        "headline": "Two men injured, one unconscious, after taxi hits them in Yau Ma Tei",
+        "dek": "Police said a taxi turning from Shanghai Street into Pak Hoi Street struck two men outside a barbecue restaurant early on Monday; both were taken to Queen Elizabeth Hospital."
+      },
+      "zh": {
+        "headline": "油麻地的士轉灣撞倒兩男子 一人昏迷送院",
+        "dek": "警方表示，週一清晨約十二時半，一輛的士由上海街轉入北海街時撞倒兩名男子，其中一人昏迷，兩人送伊利沙伯醫院。"
+      }
+    },
     {
       "id": "2026-11-10-ferrari-f40-repulse-bay-arrest",
       "published_at": "2026-11-10T04:20:00+08:00",
@@ -1473,52 +1565,6 @@
       "zh": {
         "headline": "元朗白沙村紙紮倉庫三級火 12人自行疏散無人受傷",
         "dek": "消防處指周五晚上白沙村一間存放紙紮品的倉庫起火，凌晨升級至三級火警後於今早受控，無人受傷。"
-      }
-    },
-    {
-      "id": "2026-11-07-lifestyle-cornershop-busking-festival",
-      "published_at": "2026-11-07T08:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "music",
-        "tsim-sha-tsui",
-        "event",
-        "free"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-07/2026-11-07-lifestyle-cornershop-busking-festival.json",
-      "en": {
-        "headline": "Cornershop Busking Festival returns to Tsim Sha Tsui with free local music",
-        "dek": "The free Saturday series at The Cornershop on Hart Avenue opens today with an afternoon gathering followed by two evening sets of Hong Kong artists."
-      },
-      "zh": {
-        "headline": "Cornershop街頭音樂節重返尖沙咀 本周六起免費本地演出",
-        "dek": "赫德道The Cornershop一連四個星期六舉辦免費現場音樂，今日下午先有開幕活動，晚上兩節由本地音樂人演出。"
-      }
-    },
-    {
-      "id": "2026-11-07-lifestyle-hk-phil-mahler-8",
-      "published_at": "2026-11-07T08:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "music",
-        "hk-phil",
-        "concert",
-        "tsim-sha-tsui"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-07/2026-11-07-lifestyle-hk-phil-mahler-8.json",
-      "en": {
-        "headline": "HK Phil opens new music director era with Mahler Symphony No. 8",
-        "dek": "Tarmo Peltokoski conducts the orchestra’s first performance of the Symphony of a Thousand at the Cultural Centre this weekend, with multiple choirs and soloists."
-      },
-      "zh": {
-        "headline": "港樂新音樂總監以馬勒第八交響曲揭幕",
-        "dek": "貝托祺本周末於文化中心指揮樂團首演《千人交響曲》，聯同多支合唱團及聲樂家演出。"
       }
     }
   ]
