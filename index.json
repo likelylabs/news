@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-11T02:05:43+08:00",
+  "generated_at": "2026-11-11T02:06:08+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-11-11-lifestyle-tai-wo-plaza-rat",
+      "published_at": "2026-11-11T02:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "rats",
+        "tai-po",
+        "community",
+        "tai-wo"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-lifestyle-tai-wo-plaza-rat.json",
+      "en": {
+        "headline": "Motionless rat filmed lying on the floor inside Tai Wo Plaza in Tai Po",
+        "dek": "A video shared in a local Facebook group on Tuesday showed a rat lying still with its eyes open as shoppers walked past, drawing comments about the mall's hygiene."
+      },
+      "zh": {
+        "headline": "大埔太和廣場老鼠躺地一動不動 途人淡定走過",
+        "dek": "周二有網民在Facebook群組上載影片，顯示一隻老鼠躺在太和廣場地面，雙目打開，女學生拍攝期間其他途人照常經過。"
+      }
+    },
     {
       "id": "2026-11-11-afcd-captures-nuisance-monkeys",
       "published_at": "2026-11-11T02:15:00+08:00",
