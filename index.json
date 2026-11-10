@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-10T16:26:26+08:00",
+  "generated_at": "2026-11-10T16:27:23+08:00",
   "live_window_hours": 72,
-  "count": 71,
+  "count": 73,
   "articles": [
+    {
+      "id": "2026-11-10-minibus-drug-driving-arrest",
+      "published_at": "2026-11-10T16:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "minibus",
+        "drug-driving",
+        "yau-tong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-minibus-drug-driving-arrest.json",
+      "en": {
+        "headline": "Police arrest 44-year-old minibus driver over suspected drug driving with passengers",
+        "dek": "Officers stopped a route 117B minibus in Sau Mau Ping after a tailing operation; the driver tested positive for methamphetamine and seven passengers were removed safely."
+      },
+      "zh": {
+        "headline": "警方拘捕44歲小巴司機涉載客時毒後駕駛",
+        "dek": "人員尾隨一輒117B專線小巴至秀茂坪截停，司機口腔液測試呈冰毒陽性，車上7名乘客被安全帶離。"
+      }
+    },
+    {
+      "id": "2026-11-10-mortgage-insurance-october-low",
+      "published_at": "2026-11-10T16:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "property",
+        "mortgage",
+        "hkmc"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-mortgage-insurance-october-low.json",
+      "en": {
+        "headline": "New mortgage insurance approvals and drawdowns hit multi-year lows in October",
+        "dek": "The Hong Kong Mortgage Corporation recorded 701 new approvals in October, the lowest in nearly 11 years, while new drawdowns fell more than 40 per cent."
+      },
+      "zh": {
+        "headline": "十月新批按保及新取用按保宗數創逾十年新低",
+        "dek": "按揭證券公司數字顯示，十月新批按保701宗，近十一年最低；新取用按保宗數及金額大跌逾四成。"
+      }
+    },
     {
       "id": "2026-11-10-civil-servants-family-care-leave",
       "published_at": "2026-11-10T14:25:00+08:00",
