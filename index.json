@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-10T22:37:24+08:00",
+  "generated_at": "2026-11-11T00:04:50+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-11-11-lifestyle-design-hkg-launch",
+      "published_at": "2026-11-11T00:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "design",
+        "exhibition",
+        "peak",
+        "culture"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-lifestyle-design-hkg-launch.json",
+      "en": {
+        "headline": "Design@HKG opens two-week citywide programme with Peak bubble installation",
+        "dek": "Hong Kong Design Centre's rebranded flagship runs until 24 November with more than 40 free and ticketed activations, including a multi-sensory inflatable at Peak Galleria."
+      },
+      "zh": {
+        "headline": "設計@HKG揭幕 山頂吹氣裝置免費開放至11月24日",
+        "dek": "香港設計中心旗艦活動一連兩周於全港舉行逾40項設計項目，山頂廣場多感官裝置毋須預約免費入場。"
+      }
+    },
+    {
+      "id": "2026-11-11-tuen-mun-novo-land-assault",
+      "published_at": "2026-11-11T00:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "tuen-mun",
+        "assault",
+        "domestic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-tuen-mun-novo-land-assault.json",
+      "en": {
+        "headline": "Police hunt 38-year-old man after kitchen-knife assault at Tuen Mun NOVO LAND",
+        "dek": "A 23-year-old woman sustained a forehead wound and leg bruises in an alleged attack by her partner early on Tuesday; officers seized a 20cm knife and classified the case as assault occasioning actual bodily harm."
+      },
+      "zh": {
+        "headline": "屯門NOVO LAND廚刀襲擊案 警方追緝38歲男子",
+        "dek": "23歲女子前額有約2厘米刀傷及腳部瘀傷，案件列作襲擊致造成身體傷害，屯門警區刑事調查隊第一隊跟進，暫未有人被捕。"
+      }
+    },
     {
       "id": "2026-11-10-afcd-cheung-chau-dogs",
       "published_at": "2026-11-10T22:20:00+08:00",
