@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-11T02:06:08+08:00",
+  "generated_at": "2026-11-11T04:15:42+08:00",
   "live_window_hours": 72,
   "count": 80,
   "articles": [
+    {
+      "id": "2026-11-11-lifestyle-arts-in-the-park-2026",
+      "published_at": "2026-11-11T04:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "festival",
+        "arts",
+        "causeway-bay",
+        "victoria-park"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-lifestyle-arts-in-the-park-2026.json",
+      "en": {
+        "headline": "Standard Chartered Arts in the Park returns to Causeway Bay this weekend with…",
+        "dek": "The free outdoor youth arts festival runs 14-15 November at Victoria Park, featuring illuminated night and grand finale parades with giant puppets."
+      },
+      "zh": {
+        "headline": "渣打藝趣嘉年華本周末重臨銅鑼灣 童話主題巨型木偶巡遊免費開放",
+        "dek": "活動於11月14至15日在維多利亞公園舉行，夜光巡遊及壓軸巡遊將有巨型木偶帶領青年表演者遊行。"
+      }
+    },
     {
       "id": "2026-11-11-lifestyle-tai-wo-plaza-rat",
       "published_at": "2026-11-11T02:20:00+08:00",
@@ -1780,29 +1803,6 @@
       "zh": {
         "headline": "藍色監獄Egoist展繼續於啟德AIRSIDE舉行",
         "dek": "官方動畫展海外首站即日起至11月24日於啟德場地每日開放，設有等身展示及原畫。"
-      }
-    },
-    {
-      "id": "2026-11-08-lifestyle-sa-sa-ladies-purse-day",
-      "published_at": "2026-11-08T02:10:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "lifestyle",
-        "racing",
-        "sha-tin",
-        "hkjc",
-        "fashion"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-08/2026-11-08-lifestyle-sa-sa-ladies-purse-day.json",
-      "en": {
-        "headline": "Sa Sa Ladies' Purse Day returns to Sha Tin Racecourse today",
-        "dek": "The Hong Kong Jockey Club stages the annual raceday at Sha Tin on Sunday, with the feature Ladies' Purse over 1,800 metres and fashion and performance events in the Parade Ring."
-      },
-      "zh": {
-        "headline": "莎莎婦女銀袋日今日重返沙田馬場",
-        "dek": "香港賽馬會周日在沙田舉行年度賽馬日，焦點為一千八百米婦女銀袋賽，亮相圈設時裝及表演活動。"
       }
     }
   ]
