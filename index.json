@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-10T22:11:54+08:00",
+  "generated_at": "2026-11-10T22:37:24+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 79,
   "articles": [
     {
       "id": "2026-11-10-afcd-cheung-chau-dogs",
@@ -70,6 +70,29 @@
       "zh": {
         "headline": "食安中心暫停英國林肯郡北林肯郡禽肉及禽類產品進口",
         "dek": "措施因應世界動物衞生組織通報當地爆發高致病性H5N1禽流感而即時生效，以保障本港公眾健康。"
+      }
+    },
+    {
+      "id": "2026-11-10-lifestyle-polyu-henceforth-exhibition",
+      "published_at": "2026-11-10T22:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "design",
+        "polyu",
+        "tsim-sha-tsui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-lifestyle-polyu-henceforth-exhibition.json",
+      "en": {
+        "headline": "PolyU students open speculative furniture exhibition on Hong Kong’s future in Tsim Sha…",
+        "dek": "Henceforth… Hong Kong… runs free at The Grid in Heath Mall from 10 to 24 November, with nine pieces exploring density, ageing and resources over the next 50 years."
+      },
+      "zh": {
+        "headline": "理大設計學生尖沙咀展出構想未來香港的家具作品",
+        "dek": "「今後香港」展覽即日起至十一月二十四日在希慎道商場The Grid免費舉行，九件作品探討未來五十年密度、人口老化與資源問題。"
       }
     },
     {
@@ -1622,6 +1645,29 @@
       }
     },
     {
+      "id": "2026-11-08-dss-schools-expo-dormitory-code",
+      "published_at": "2026-11-08T08:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "dss",
+        "dormitory",
+        "schools",
+        "expo"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-08/2026-11-08-dss-schools-expo-dormitory-code.json",
+      "en": {
+        "headline": "DSS schools expo draws over 15,000 as council publishes dormitory code",
+        "dek": "The annual Direct Subsidy Scheme schools expo at Kowloon Shangri-La drew 20 per cent more visitors than last year, while three operators have applied for a voluntary white list under a new operating code."
+      },
+      "zh": {
+        "headline": "直資校聯展逾1.5萬人次入場 議會公布宿舍營運守則",
+        "dek": "香港直資學校聯展昨日在九龍香格里拉舉行，全日逾1.5萬人次，較去年增兩成；直資議會同日公布宿舍營運守則，白名單暫收3個申請。"
+      }
+    },
+    {
       "id": "2026-11-08-lifestyle-blue-lock-egoist-exhibition",
       "published_at": "2026-11-08T04:20:00+08:00",
       "updated_at": null,
@@ -1731,72 +1777,6 @@
       "zh": {
         "headline": "筱箕灣男子踢波疑被球擊中胸口昏迷 留醫深切治療部",
         "dek": "一名27歲男子周六下午約5時在配水庫遊樂場踢球時疑被足球擊中胸口後失去知覺，在場人士以AED及心肺復甦法急救後送院。"
-      }
-    },
-    {
-      "id": "2026-11-07-customs-airport-endangered-turtles-seizure",
-      "published_at": "2026-11-07T22:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "wildlife",
-        "airport",
-        "endangered"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-07/2026-11-07-customs-airport-endangered-turtles-seizure.json",
-      "en": {
-        "headline": "Customs seize five suspected endangered turtles in US package at airport",
-        "dek": "Officers found the live turtles, valued at about HK$50,000, inside a parcel from the United States declared as toy model gift boxes; the case has been referred to the Agriculture, Fisheries and Conservation Department."
-      },
-      "zh": {
-        "headline": "海關機場檢獲5隻懷疑瀕危活龜 藏美國進口玩具模型包裹",
-        "dek": "關員在一個報稱載有玩具模型禮盒的美國進口包裹中發現活龜，估計市值約5萬元，案件已轉交漁護署跟進。"
-      }
-    },
-    {
-      "id": "2026-11-07-police-cross-border-unlicensed-taxi-arrest",
-      "published_at": "2026-11-07T22:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "crime",
-        "transport",
-        "cross-border"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-07/2026-11-07-police-cross-border-unlicensed-taxi-arrest.json",
-      "en": {
-        "headline": "Police arrest mainland driver in cross-border unlicensed taxi sting",
-        "dek": "Island District officers posed as passengers for a Wong Chuk Hang to Guangzhou service priced at 1,500 yuan and detained a 42-year-old two-way permit holder on three charges."
-      },
-      "zh": {
-        "headline": "警放蛇打擊跨境白牌車 拘42歲雙程證內地司機",
-        "dek": "港島總區交通部警員喬裝乘客，預約由黃竹坑前往廣州的服務，中介開價人民幣1500元，成功拘捕一名42歲持雙程證男子，涉三項罪名。"
-      }
-    },
-    {
-      "id": "2026-11-07-tuen-mun-battery-truck-fire",
-      "published_at": "2026-11-07T22:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "tuen-mun",
-        "fire-services",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-07/2026-11-07-tuen-mun-battery-truck-fire.json",
-      "en": {
-        "headline": "Firefighters extinguish battery fire in Tuen Mun truck under bridge",
-        "dek": "A medium goods vehicle carrying batteries caught fire on Chun Wan Road beneath the Qing Tian Road flyover at about 6:13pm; the blaze was out by 6:36pm with no injuries reported."
-      },
-      "zh": {
-        "headline": "屯門貨車貨斗電池起火 消防撲熄無人受傷",
-        "dek": "一輛中型貨車傍晚約6時13分在震寰路青田路橋底往建生方向行駛時，貨斗內電池突然起火，消防於6時36分將火救熄，無人受傷。"
       }
     }
   ]
