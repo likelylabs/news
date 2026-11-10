@@ -1,24 +1,6 @@
 {
   "covered": [
     {
-      "key": "hang-seng-index-close-oct27",
-      "id": "2026-10-27-hang-seng-close-down-170",
-      "first_seen": "2026-10-27T17:10:00+08:00",
-      "headline_en": "Hang Seng closes down 170 points at 23041 after high open"
-    },
-    {
-      "key": "kwai-chung-road-accident-oct27",
-      "id": "2026-10-27-kwai-chung-road-accident",
-      "first_seen": "2026-10-27T17:10:00+08:00",
-      "headline_en": "Three-vehicle crash on Kwai Chung Road injures at least nine including pregnant woman"
-    },
-    {
-      "key": "mtr-lam-tin-linked-faults-oct27",
-      "id": "2026-10-27-mtr-lam-tin-linked-faults",
-      "first_seen": "2026-10-27T17:10:00+08:00",
-      "headline_en": "MTR says linked faults caused two Lam Tin disruptions in mid-October"
-    },
-    {
       "key": "lee-northern-metropolis-university-towns-oct27",
       "id": "2026-10-27-lee-northern-metropolis-university-towns",
       "first_seen": "2026-10-27T21:04:00+08:00",
@@ -2213,7 +2195,25 @@
       "id": "2026-11-10-victoria-harbour-race-traffic",
       "first_seen": "2026-11-10T16:25:00+08:00",
       "headline_en": "Special traffic arrangements for Victoria Harbour Race in Wan Chai and Tsim Sha Tsui"
+    },
+    {
+      "key": "hang-seng-close-up-nov10",
+      "id": "2026-11-10-hang-seng-close-up-108",
+      "first_seen": "2026-11-10T18:15:00+08:00",
+      "headline_en": "Hang Seng Index closes up 108 points at 24557 as financial and AI stocks gain"
+    },
+    {
+      "key": "northern-link-full-agreement-nov10",
+      "id": "2026-11-10-northern-link-full-project-agreement",
+      "first_seen": "2026-11-10T18:15:00+08:00",
+      "headline_en": "Government and MTR sign full Northern Link project agreement with construction cost at HK$86.2 billion"
+    },
+    {
+      "key": "yuen-long-demolition-accident-fines-nov10",
+      "id": "2026-11-10-yuen-long-demolition-contractors-fined",
+      "first_seen": "2026-11-10T18:15:00+08:00",
+      "headline_en": "Contractors fined up to HK$155,000 over fatal Yuen Long village house demolition accident"
     }
   ],
-  "updated_at": "2026-11-10T16:28:10+08:00"
+  "updated_at": "2026-11-10T18:13:01+08:00"
 }

@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-10T16:28:10+08:00",
+  "generated_at": "2026-11-10T18:13:02+08:00",
   "live_window_hours": 72,
   "count": 75,
   "articles": [
+    {
+      "id": "2026-11-10-hang-seng-close-up-108",
+      "published_at": "2026-11-10T18:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hang-seng",
+        "stocks",
+        "market",
+        "hsbc"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-hang-seng-close-up-108.json",
+      "en": {
+        "headline": "Hang Seng Index closes up 108 points at 24557 as financial and AI stocks gain",
+        "dek": "The benchmark rose 0.44 per cent on Tuesday, with HSBC climbing more than 4 per cent while the Hang Seng Tech Index gained 1.08 per cent."
+      },
+      "zh": {
+        "headline": "港股高收108點報24557 金融及AI股造好滙控升逾4%",
+        "dek": "恒生指數周二升0.44%，滙控升逾百分之四，恒生科技指數升1.08%。"
+      }
+    },
+    {
+      "id": "2026-11-10-northern-link-full-project-agreement",
+      "published_at": "2026-11-10T18:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "northern-metropolis",
+        "rail",
+        "infrastructure"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-northern-link-full-project-agreement.json",
+      "en": {
+        "headline": "Government and MTR sign full Northern Link project agreement with construction cost at…",
+        "dek": "The Chief Executive in Council approved the financial arrangement for Part 2 on Tuesday, bringing the entire project 28 per cent below the original estimate and targeting opening by 2034."
+      },
+      "zh": {
+        "headline": "政府與港鐵簽訂北環線全線項目協議 建造成本預算總計862億",
+        "dek": "行政長官會同行政會議周二批准第二部分財務安排，整個項目建造成本較原先估算減少兩成八，目標二〇三四年或之前開通。"
+      }
+    },
+    {
+      "id": "2026-11-10-yuen-long-demolition-contractors-fined",
+      "published_at": "2026-11-10T18:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "labour",
+        "safety",
+        "yuen-long",
+        "court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-yuen-long-demolition-contractors-fined.json",
+      "en": {
+        "headline": "Contractors fined up to HK$155,000 over fatal Yuen Long village house demolition accident",
+        "dek": "The Labour Department prosecuted three parties after a female worker was killed when a brick wall collapsed during clearance work in November last year."
+      },
+      "zh": {
+        "headline": "元朗拆卸村屋致命意外 工程公司及承建商被罰13萬至15.5萬",
+        "dek": "勞工處就去年十一月一名女工在人手清理工作時遭磚牆倒塌壓斃事件提出檢控，粉嶺裁判法院周二判罰三方。"
+      }
+    },
     {
       "id": "2026-11-10-lifestyle-symphony-of-lights-farewell",
       "published_at": "2026-11-10T16:25:00+08:00",
@@ -1614,73 +1680,6 @@
       "zh": {
         "headline": "天水圍嘉湖山莊樂湖居單位起火 女子昏迷送院",
         "dek": "警方下午約5時39分接報嘉湖山莊樂湖居14座單位冒煙，消防約6時07分將火救熄；搜救期間發現一名女子在梯間昏迷，送天水圍醫院治理，約100人自行疏散。"
-      }
-    },
-    {
-      "id": "2026-11-07-flu-colder-weather-children-warning",
-      "published_at": "2026-11-07T18:10:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "flu",
-        "children",
-        "vaccination",
-        "weather"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-07/2026-11-07-flu-colder-weather-children-warning.json",
-      "en": {
-        "headline": "Paediatric expert warns colder weather may prolong flu season for children",
-        "dek": "Dr Mike Kwan said the current flu wave could merge with the winter season as temperatures drop next week, and urged parents to vaccinate children soon."
-      },
-      "zh": {
-        "headline": "兒科專家警告天氣轉涼或延長流感季 籲家長儘快為子女接種",
-        "dek": "關日華指下周氣溫下降，今季流感或與冬季流感合併，本港已錄得29宗兒童流感嚴重個案，其中兩人死亡。"
-      }
-    },
-    {
-      "id": "2026-11-07-mtr-tung-chung-west-columns-halt",
-      "published_at": "2026-11-07T18:10:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "tung-chung",
-        "construction",
-        "safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-07/2026-11-07-mtr-tung-chung-west-columns-halt.json",
-      "en": {
-        "headline": "MTR orders halt to unauthorised column repairs at Tung Chung West station",
-        "dek": "Routine October inspections found unapproved filling works on platform-level columns; the operator says the issue does not affect structural safety and has ordered a full review."
-      },
-      "zh": {
-        "headline": "港鐵東涌西站支柱未批修補工序叫停 強調不涉結構安全",
-        "dek": "十月恒常巡查發現月台層部分支柱頂部有未經批准的物料填補工序，港鐵已指示總承建商停工並提交報告。"
-      }
-    },
-    {
-      "id": "2026-11-07-tsing-yi-qing-ya-yuan-fall-death",
-      "published_at": "2026-11-07T18:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tsing-yi",
-        "police",
-        "fall",
-        "death"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-07/2026-11-07-tsing-yi-qing-ya-yuan-fall-death.json",
-      "en": {
-        "headline": "Woman dies after fall from Tsing Yi residential building",
-        "dek": "Police and firefighters responded to a report at about 8:28am at Qing Ya Yuan; the woman, believed to be in her late forties, was confirmed dead at the scene."
-      },
-      "zh": {
-        "headline": "青衣青雅苑女子墮樓當場不治",
-        "dek": "警方早上約8時28分接報，青雅苑有女子從高處墮下，救護員到場證實當場死亡，年齡約48至50歲。"
       }
     }
   ]
