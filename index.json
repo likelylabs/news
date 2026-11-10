@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-10T16:27:23+08:00",
+  "generated_at": "2026-11-10T16:27:44+08:00",
   "live_window_hours": 72,
-  "count": 73,
+  "count": 75,
   "articles": [
+    {
+      "id": "2026-11-10-lifestyle-symphony-of-lights-farewell",
+      "published_at": "2026-11-10T16:25:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "harbour",
+        "tourism",
+        "symphony-of-lights"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-lifestyle-symphony-of-lights-farewell.json",
+      "en": {
+        "headline": "Symphony of Lights to end after 22 years with final show on 18 November",
+        "dek": "The Hong Kong Tourism Board said the last performance will include a fireworks element on the evening the WinterFest begins, with other light projects to follow next year."
+      },
+      "zh": {
+        "headline": "幻彩詠香江22年歷史將於11月18日作最後一場演出",
+        "dek": "旅發局主席林建岳表示，最後一場會加插煙火元素，當晚亦是繽紛冬日巡禮揭幕日，其他光影項目明年推出。"
+      }
+    },
     {
       "id": "2026-11-10-minibus-drug-driving-arrest",
       "published_at": "2026-11-10T16:25:00+08:00",
@@ -46,6 +69,29 @@
       "zh": {
         "headline": "十月新批按保及新取用按保宗數創逾十年新低",
         "dek": "按揭證券公司數字顯示，十月新批按保701宗，近十一年最低；新取用按保宗數及金額大跌逾四成。"
+      }
+    },
+    {
+      "id": "2026-11-10-victoria-harbour-race-traffic",
+      "published_at": "2026-11-10T16:25:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "traffic",
+        "wan-chai",
+        "tsim-sha-tsui",
+        "harbour-race"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-victoria-harbour-race-traffic.json",
+      "en": {
+        "headline": "Special traffic arrangements for Victoria Harbour Race in Wan Chai and Tsim Sha Tsui",
+        "dek": "The Transport Department said Expo Drive East will close on Sunday and several ferry and water taxi services will be suspended from Saturday to support the November 15 race."
+      },
+      "zh": {
+        "headline": "維港泳周日舉行 灣仔北及尖沙咀實施特別交通安排",
+        "dek": "運輸署表示，金紫荊廣場外一段博覽道東周日臨時封閉，多條渡輪及水上的士航線周六日起暫停服務。"
       }
     },
     {
