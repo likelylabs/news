@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-10T08:06:59+08:00",
+  "generated_at": "2026-11-10T10:16:47+08:00",
   "live_window_hours": 72,
-  "count": 70,
+  "count": 71,
   "articles": [
+    {
+      "id": "2026-11-10-lifestyle-yasuhito-kawasaki-ceramics",
+      "published_at": "2026-11-10T10:16:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "tai-kwun",
+        "exhibition",
+        "ceramics",
+        "central"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-lifestyle-yasuhito-kawasaki-ceramics.json",
+      "en": {
+        "headline": "Japanese artist Yasuhito Kawasaki shows miniature ceramics at Tai Kwun",
+        "dek": "The exhibition of gentle paintings and palm-sized ceramic sculptures runs at Touch Gallery in Block 3 until 28 November."
+      },
+      "zh": {
+        "headline": "日本藝術家川崎康仁大館觸摸藝廊展出微型陶瓷",
+        "dek": "展覽以溫柔繪畫及掌上陶瓷雕塑為主，在大館第三座觸摸藝廊展至十一月二十八日。"
+      }
+    },
+    {
+      "id": "2026-11-10-strong-monsoon-cheung-chau-winds",
+      "published_at": "2026-11-10T10:16:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "monsoon",
+        "fire-danger",
+        "cheung-chau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-strong-monsoon-cheung-chau-winds.json",
+      "en": {
+        "headline": "Strong Monsoon Signal remains in force with northerly gusts to 72 km/h",
+        "dek": "The Hong Kong Observatory said the signal continues, with Cheung Chau recording 52 km/h sustained winds and 72 km/h gusts in the hour to 7.30am."
+      },
+      "zh": {
+        "headline": "強烈季候風信號持續 長洲陣風達每小時72公里",
+        "dek": "天文台表示信號仍然生效，今早七時半前一小時長洲錄得持續風速52公里、陣風72公里。"
+      }
+    },
     {
       "id": "2026-11-10-harris-ho-yog-foil-gold",
       "published_at": "2026-11-10T08:15:00+08:00",
@@ -1544,27 +1590,6 @@
       "zh": {
         "headline": "太子弼街金華冰廳早上起火 廚工撲救灼傷手部",
         "dek": "消防早上約6時54分接報，約27分鐘將火救熄；五名職員疏散，一名廚工試圖滅火時手部被油煙灼傷，現場敷治後無大礙。"
-      }
-    },
-    {
-      "id": "2026-11-07-yuen-long-paper-warehouse-fire",
-      "published_at": "2026-11-07T10:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "yuen-long",
-        "fire-services"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-07/2026-11-07-yuen-long-paper-warehouse-fire.json",
-      "en": {
-        "headline": "No. 3 alarm fire at Yuen Long paper offerings warehouse leaves 12 evacuated",
-        "dek": "Firefighters brought a blaze at a Pak Sha Tsuen warehouse under control early Saturday after it was upgraded to No. 3 alarm; no injuries were reported."
-      },
-      "zh": {
-        "headline": "元朗白沙村紙紮倉庫三級火 12人自行疏散無人受傷",
-        "dek": "消防處指周五晚上白沙村一間存放紙紮品的倉庫起火，凌晨升級至三級火警後於今早受控，無人受傷。"
       }
     }
   ]
