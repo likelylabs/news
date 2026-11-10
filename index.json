@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-11T00:04:50+08:00",
+  "generated_at": "2026-11-11T02:05:43+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-11-11-afcd-captures-nuisance-monkeys",
+      "published_at": "2026-11-11T02:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "afcd",
+        "monkeys",
+        "cross-harbour-tunnel",
+        "community",
+        "wildlife"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-afcd-captures-nuisance-monkeys.json",
+      "en": {
+        "headline": "AFCD captures several nuisance monkeys near Cross Harbour Tunnel bus interchange",
+        "dek": "The Agriculture, Fisheries and Conservation Department said dedicated teams caught multiple aggressive monkeys that had been snatching food and items from people over the past two weeks."
+      },
+      "zh": {
+        "headline": "漁護署在城門隧道轉車站及郝德傑道捕捉多隻滋事猴子",
+        "dek": "漁農自然護理署表示過去兩星期專責隊伍成功捕獲多隻具攻擊性、經常搶奪市民食物及物品的猴子，並增設大型捕捉籠。"
+      }
+    },
     {
       "id": "2026-11-11-lifestyle-design-hkg-launch",
       "published_at": "2026-11-11T00:10:00+08:00",
@@ -1757,72 +1780,6 @@
       "zh": {
         "headline": "莎莎婦女銀袋日今日重返沙田馬場",
         "dek": "香港賽馬會周日在沙田舉行年度賽馬日，焦點為一千八百米婦女銀袋賽，亮相圈設時裝及表演活動。"
-      }
-    },
-    {
-      "id": "2026-11-08-cold-front-northeast-monsoon-outlook",
-      "published_at": "2026-11-08T00:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "monsoon",
-        "cold-front"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-08/2026-11-08-cold-front-northeast-monsoon-outlook.json",
-      "en": {
-        "headline": "Observatory forecasts cooler weather from Monday as cold front and northeast monsoon…",
-        "dek": "The Hong Kong Observatory said a cold front will cross the South China coast early Monday, followed by an intense northeast monsoon that will bring appreciably lower temperatures, with urban minima around 18 degrees…"
-      },
-      "zh": {
-        "headline": "天文台料下周一冷鋒及強烈東北季候風抵港 氣溫顯著下降",
-        "dek": "香港天文台表示，一道冷鋒將於下周一初時橫過華南沿岸，隨後強烈東北季候風令氣溫明顯下降，下周二市區最低氣溫約18度。"
-      }
-    },
-    {
-      "id": "2026-11-08-lifestyle-mplus-fifth-anniversary-free-admission",
-      "published_at": "2026-11-08T00:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "mplus",
-        "exhibition",
-        "west-kowloon",
-        "free"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-08/2026-11-08-lifestyle-mplus-fifth-anniversary-free-admission.json",
-      "en": {
-        "headline": "M+ opens designated exhibitions free today for fifth anniversary",
-        "dek": "The museum at West Kowloon offers free admission to most galleries from 10am to 8pm on Sunday, excluding two special exhibitions, as part of its anniversary celebrations."
-      },
-      "zh": {
-        "headline": "M+五周年今日指定展覽免費開放",
-        "dek": "西九文化區M+今日（8日）上午10時至晚上8時免費開放指定展覽，特別展覽除外，最後入場時間為晚上7時。"
-      }
-    },
-    {
-      "id": "2026-11-08-shau-kei-wan-football-chest-collapse",
-      "published_at": "2026-11-08T00:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "shau-kei-wan",
-        "sport",
-        "health",
-        "emergency"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-08/2026-11-08-shau-kei-wan-football-chest-collapse.json",
-      "en": {
-        "headline": "Man in intensive care after football strikes chest at Shau Kei Wan playground",
-        "dek": "A 27-year-old man collapsed during a game at around 5pm on Saturday after the ball hit his chest; bystanders used an AED and performed CPR before he was taken to hospital."
-      },
-      "zh": {
-        "headline": "筱箕灣男子踢波疑被球擊中胸口昏迷 留醫深切治療部",
-        "dek": "一名27歲男子周六下午約5時在配水庫遊樂場踢球時疑被足球擊中胸口後失去知覺，在場人士以AED及心肺復甦法急救後送院。"
       }
     }
   ]
