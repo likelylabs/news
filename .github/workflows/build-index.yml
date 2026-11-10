@@ -141,21 +141,31 @@ jobs:
       #
       # Grace period first: the automation sometimes pushes PLACEHOLDER files
       # and replaces them about a minute later (56-76s every time so far).
-      # If a newer commit on main makes every quarantined file valid, that
-      # push triggers its own build, which publishes them — so this run
-      # passes with a notice instead of raising a false alarm.
+      # If a newer commit on main makes every quarantined file pass the real
+      # validator (build_index.py run on that commit, not just a JSON parse:
+      # a parseable file with a bad category once slipped through for two
+      # days), that push triggers its own build, which publishes them — so
+      # this run passes with a notice instead of raising a false alarm.
       - name: Fail on quarantined articles
         run: |
           [ -f "$RUNNER_TEMP/quarantine.txt" ] || { echo "No quarantined articles."; exit 0; }
-          files="$(grep '^  - ' "$RUNNER_TEMP/quarantine.txt" | sed 's/^  - //; s/: .*//' | sed "s|^$GITHUB_WORKSPACE/||" | sort -u)"
+          bad_files() {  # $1 = build_index stderr, $2 = repo root to strip
+            sed -n 's/^  - //p' "$1" | sed 's/: .*//' | sed "s|^$2/||" | sort -u
+          }
+          bad_files "$RUNNER_TEMP/quarantine.txt" "$GITHUB_WORKSPACE" > "$RUNNER_TEMP/bad.txt"
+          built="$(git rev-parse HEAD)"
+          tip="$RUNNER_TEMP/tip"
           for i in $(seq 1 18); do
             sleep 10
             git fetch -q origin main || continue
-            fixed=true
-            for f in $files; do
-              git show "origin/main:$f" 2>/dev/null | python3 -c 'import json,sys; json.load(sys.stdin)' 2>/dev/null || { fixed=false; break; }
-            done
-            if $fixed; then
+            # Nothing newer than what we built (our own [skip ci] commit
+            # aside) means nothing can have fixed the files yet.
+            git diff --quiet "$built" origin/main -- articles && continue
+            rm -rf "$tip" && mkdir -p "$tip"
+            git archive origin/main articles tools | tar -x -C "$tip"
+            python3 "$tip/tools/build_index.py" --quarantine > /dev/null 2> "$RUNNER_TEMP/tip.err" || true
+            bad_files "$RUNNER_TEMP/tip.err" "$tip" > "$RUNNER_TEMP/tip-bad.txt"
+            if [ -z "$(comm -12 "$RUNNER_TEMP/bad.txt" "$RUNNER_TEMP/tip-bad.txt")" ]; then
               echo "::notice title=Quarantine cleared::a later push ($(git rev-parse --short origin/main)) fixed every quarantined file; its build publishes them."
               exit 0
             fi
