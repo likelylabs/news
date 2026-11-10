@@ -1,30 +1,6 @@
 {
   "covered": [
     {
-      "key": "hk-airport-cannabis-seizure-oct26",
-      "id": "2026-10-27-airport-cannabis-seizure",
-      "first_seen": "2026-10-27T11:10:00+08:00",
-      "headline_en": "Customs seize 3kg of cannabis buds from Bangkok arrival at airport"
-    },
-    {
-      "key": "lifestyle-ocean-park-halloween-fest-2026",
-      "id": "2026-10-27-lifestyle-ocean-park-halloween",
-      "first_seen": "2026-10-27T11:10:00+08:00",
-      "headline_en": "Ocean Park Halloween Fest continues through 1 November with Grave Rave experiences"
-    },
-    {
-      "key": "man-kam-to-illegal-petrol-station-oct26",
-      "id": "2026-10-27-man-kam-to-illegal-petrol",
-      "first_seen": "2026-10-27T11:10:00+08:00",
-      "headline_en": "Customs and firefighters dismantle illegal petrol station near Man Kam To homes"
-    },
-    {
-      "key": "tuen-mun-7eleven-theft-oct26",
-      "id": "2026-10-27-tuen-mun-7eleven-theft",
-      "first_seen": "2026-10-27T11:10:00+08:00",
-      "headline_en": "Police arrest 20-year-old over alleged HK$81,000 theft at Tuen Mun 7-Eleven"
-    },
-    {
       "key": "cuhk-hung-shui-kiu-university-town-bid",
       "id": "2026-10-27-cuhk-hung-shui-kiu-bid",
       "first_seen": "2026-10-27T13:09:00+08:00",
@@ -2207,7 +2183,19 @@
       "id": "2026-11-10-strong-monsoon-cheung-chau-winds",
       "first_seen": "2026-11-10T10:16:00+08:00",
       "headline_en": "Strong Monsoon Signal remains in force with northerly gusts to 72 km/h"
+    },
+    {
+      "key": "lifestyle-tsim-sha-tsui-cultural-centre-rats",
+      "id": "2026-11-10-lifestyle-tsim-sha-tsui-cultural-centre-rats",
+      "first_seen": "2026-11-10T12:20:00+08:00",
+      "headline_en": "Officials step up rodent control at Tsim Sha Tsui Cultural Centre after night videos"
+    },
+    {
+      "key": "strong-monsoon-red-fire-danger-nov10",
+      "id": "2026-11-10-strong-monsoon-red-fire-danger",
+      "first_seen": "2026-11-10T12:20:00+08:00",
+      "headline_en": "Strong Monsoon Signal and Red Fire Danger Warning remain in force"
     }
   ],
-  "updated_at": "2026-11-10T10:49:41+08:00"
+  "updated_at": "2026-11-10T12:12:52+08:00"
 }

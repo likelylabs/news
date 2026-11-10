@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-10T10:49:41+08:00",
+  "generated_at": "2026-11-10T12:12:52+08:00",
   "live_window_hours": 72,
   "count": 71,
   "articles": [
+    {
+      "id": "2026-11-10-lifestyle-tsim-sha-tsui-cultural-centre-rats",
+      "published_at": "2026-11-10T12:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "tsim-sha-tsui",
+        "rats",
+        "fehd",
+        "cultural-centre"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-lifestyle-tsim-sha-tsui-cultural-centre-rats.json",
+      "en": {
+        "headline": "Officials step up rodent control at Tsim Sha Tsui Cultural Centre after night videos",
+        "dek": "The Leisure and Cultural Services Department said it received five complaints in two weeks and placed traps after footage showed groups of rats on the viewing platform."
+      },
+      "zh": {
+        "headline": "尖沙咀文化中心夜間現鼠群 康文署加強滅鼠",
+        "dek": "康文署表示過去兩周接獲五宗投訴，並在網上影片顯示觀景台有鼠群後放置捕鼠器。"
+      }
+    },
+    {
+      "id": "2026-11-10-strong-monsoon-red-fire-danger",
+      "published_at": "2026-11-10T12:20:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "monsoon",
+        "fire-danger"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-10/2026-11-10-strong-monsoon-red-fire-danger.json",
+      "en": {
+        "headline": "Strong Monsoon Signal and Red Fire Danger Warning remain in force",
+        "dek": "The Hong Kong Observatory said northerly winds continued, with extreme fire risk and temperatures recovering after a 17.5-degree low."
+      },
+      "zh": {
+        "headline": "強烈季候風信號及紅色火災危險警告持續生效",
+        "dek": "天文台表示偏北強風持續，火災危險極高，清晨最低十七點五度後氣溫回升。"
+      }
+    },
     {
       "id": "2026-11-10-lifestyle-yasuhito-kawasaki-ceramics",
       "published_at": "2026-11-10T10:16:00+08:00",
@@ -1547,49 +1592,6 @@
       "zh": {
         "headline": "中環寶馬違例左轉 警鎖定60歲本地男司機",
         "dek": "港島總區交通調查組已鎖定10月23日在畢打街違例左轉後倒車的兩地牌寶馬本地男司機，案件列作不小心駕駛跟進。"
-      }
-    },
-    {
-      "id": "2026-11-07-govt-rebuts-ten-countries-wong-statement",
-      "published_at": "2026-11-07T12:12:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "national-security",
-        "joshua-wong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-07/2026-11-07-govt-rebuts-ten-countries-wong-statement.json",
-      "en": {
-        "headline": "Government strongly rejects joint statement by 10 countries on Wong case",
-        "dek": "The HKSAR Government said the statement by the US, UK, France and seven other nations distorted facts and interfered in judicial independence regarding Joshua Wong's sentencing."
-      },
-      "zh": {
-        "headline": "特區政府嚴正反駁十國就黃之鋒案聯合聲明",
-        "dek": "特區政府指美、英、法及另外七國的聲明刻意歪曲事實及干預司法獨立，強烈不滿並堅決反對。"
-      }
-    },
-    {
-      "id": "2026-11-07-prince-edward-kam-wah-cafe-fire",
-      "published_at": "2026-11-07T12:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "prince-edward",
-        "restaurant",
-        "food"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-07/2026-11-07-prince-edward-kam-wah-cafe-fire.json",
-      "en": {
-        "headline": "Fire at Prince Edward's Kam Wah Cafe injures kitchen worker",
-        "dek": "Firefighters extinguished a blaze at the 50-year-old cha chaan teng on Bute Street in about 27 minutes; a worker burned his hand fighting the flames before the cafe opened."
-      },
-      "zh": {
-        "headline": "太子弼街金華冰廳早上起火 廚工撲救灼傷手部",
-        "dek": "消防早上約6時54分接報，約27分鐘將火救熄；五名職員疏散，一名廚工試圖滅火時手部被油煙灼傷，現場敷治後無大礙。"
       }
     }
   ]
