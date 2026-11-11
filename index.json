@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-11T10:14:14+08:00",
+  "generated_at": "2026-11-11T12:13:29+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 82,
   "articles": [
+    {
+      "id": "2026-11-11-mong-kok-charger-fire",
+      "published_at": "2026-11-11T12:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "mong-kok",
+        "fire",
+        "community",
+        "police",
+        "safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-mong-kok-charger-fire.json",
+      "en": {
+        "headline": "Firefighters put out Mong Kok flat fire linked to charger, several people treated",
+        "dek": "Firefighters extinguished a Mong Kok flat fire linked to a charger within half an hour, with more than twenty residents evacuated and several people feeling unwell from smoke."
+      },
+      "zh": {
+        "headline": "旺角新填地街單位疑充電器起火 消防灌救多人疏散",
+        "dek": "旺角永福大廈一住宅單位今早七時許疑充電器短路冒煙起火，消防半小時內將火救熄，約二十五人自行疏散，數人包括嬰兒感到不適。"
+      }
+    },
+    {
+      "id": "2026-11-11-western-harbourfront-man-dies",
+      "published_at": "2026-11-11T12:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "waterfront",
+        "police",
+        "rescue",
+        "hospital",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-western-harbourfront-man-dies.json",
+      "en": {
+        "headline": "Man dies after being pulled from the sea at Western Harbourfront",
+        "dek": "A man in his forties was found floating near the piers opposite the Western Wholesale Food Market early Wednesday and later died in hospital, police said."
+      },
+      "zh": {
+        "headline": "西環海濱長廊男子墮海 送院搶救不治",
+        "dek": "一名年約四十歲南亞裔男子今早在西區副食品批發市場對開海面被發現載浮載沉，獲救後送瑪麗醫院，惜不治。"
+      }
+    },
     {
       "id": "2026-11-11-northern-link-project-agreement",
       "published_at": "2026-11-11T10:15:00+08:00",
@@ -1801,95 +1847,6 @@
       "zh": {
         "headline": "冷鋒周一抵港 工作周氣溫顯著下降轉乾燥",
         "dek": "天文台預料冷鋒周一初時橫過廣東沿岸，隨後強烈東北季候風令氣溫明顯下降，中期大致晴朗非常乾燥。"
-      }
-    },
-    {
-      "id": "2026-11-08-lifestyle-intangible-cultural-heritage-mart",
-      "published_at": "2026-11-08T12:11:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "heritage",
-        "culture",
-        "tsim-sha-tsui",
-        "cultural-centre"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-08/2026-11-08-lifestyle-intangible-cultural-heritage-mart.json",
-      "en": {
-        "headline": "Intangible Cultural Heritage Mart runs its final day at the Cultural Centre",
-        "dek": "The free three-day event at Hong Kong Cultural Centre Piazza A and B continues until 6pm today under the theme of crafts in connection and tradition in continuation."
-      },
-      "zh": {
-        "headline": "非物質文化遺產市集今日最後一天於文化中心舉行",
-        "dek": "尖沙咀香港文化中心露天廣場A及B區的免費三日活動今日中午12時至下午6時繼續，主題為連藝融通、續寫傳統。"
-      }
-    },
-    {
-      "id": "2026-11-08-yellow-fire-danger-warning",
-      "published_at": "2026-11-08T12:11:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "fire-danger",
-        "observatory"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-08/2026-11-08-yellow-fire-danger-warning.json",
-      "en": {
-        "headline": "Observatory issues Yellow Fire Danger Warning as risk rises",
-        "dek": "The Hong Kong Observatory raised the Yellow Fire Danger Warning at 9:45 a.m. on Sunday, saying the fire risk is high and urging the public and hikers to take precautions."
-      },
-      "zh": {
-        "headline": "天文台發出黃色火災危險警告 火險頗高",
-        "dek": "香港天文台周日上午9時45分發出黃色火災危險警告，表示火災危險性頗高，呼籲市民及行山人士提高警覺。"
-      }
-    },
-    {
-      "id": "2026-11-08-firefighter-tracking-upgrade",
-      "published_at": "2026-11-08T10:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire-services",
-        "tai-po",
-        "safety",
-        "equipment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-08/2026-11-08-firefighter-tracking-upgrade.json",
-      "en": {
-        "headline": "Firefighters receive upgraded tracking devices after Tai Po fire inquiry",
-        "dek": "The Fire Services Department has issued 2,000 new two-in-one devices costing HK$8.4 million that allow teammates to detect a distress signal within 500 metres."
-      },
-      "zh": {
-        "headline": "大埔火後消防處向約2000名消防員派發升級定位裝置",
-        "dek": "消防處耗資840萬元購置新式二合一裝置，讓隊友可在500米範圍內偵測求救訊號，無需額外手提接收器。"
-      }
-    },
-    {
-      "id": "2026-11-08-lifestyle-sham-shui-po-diwali-carnival",
-      "published_at": "2026-11-08T10:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "festival",
-        "sham-shui-po",
-        "community",
-        "diwali"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-08/2026-11-08-lifestyle-sham-shui-po-diwali-carnival.json",
-      "en": {
-        "headline": "Sham Shui Po Diwali Carnival returns to Cheung Sha Wan waterfront today",
-        "dek": "The free community event at Townplace Pier runs from 3pm to 10pm with lantern displays, wishing water lamps, henna art and stage performances."
-      },
-      "zh": {
-        "headline": "深水埗排燈節嘉年華今日重返長沙灣海濱",
-        "dek": "本舍碼頭免費社區活動下午3時至晚上10時舉行，設燈籠展示、許願水燈、海娜手繪及舞台表演。"
       }
     }
   ]
