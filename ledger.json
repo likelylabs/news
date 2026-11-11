@@ -1,24 +1,6 @@
 {
   "covered": [
     {
-      "key": "hkia-iata-one-id-certification",
-      "id": "2026-10-28-hkia-iata-one-id",
-      "first_seen": "2026-10-28T23:17:00+08:00",
-      "headline_en": "Hong Kong International Airport becomes first in world to receive IATA One ID…"
-    },
-    {
-      "key": "mpox-case-41yo-oct28",
-      "id": "2026-10-28-mpox-case-41yo",
-      "first_seen": "2026-10-28T23:17:00+08:00",
-      "headline_en": "Centre for Health Protection investigates new mpox case in 41-year-old man"
-    },
-    {
-      "key": "tsuen-wan-restaurant-fire-oct28",
-      "id": "2026-10-28-tsuen-wan-restaurant-fire",
-      "first_seen": "2026-10-28T23:17:00+08:00",
-      "headline_en": "Fire at Tsuen Wan restaurant sends thick smoke into nearby streets"
-    },
-    {
       "key": "civil-service-pensions-rise-oct28",
       "id": "2026-10-29-civil-service-pensions-rise",
       "first_seen": "2026-10-29T01:05:00+08:00",
@@ -2219,7 +2201,25 @@
       "id": "2026-11-11-police-thundernet-money-laundering",
       "first_seen": "2026-11-11T22:20:00+08:00",
       "headline_en": "Police arrest 22 after dismantling cross-border money laundering syndicate"
+    },
+    {
+      "key": "education-bureau-vaping-school-tsuen-wan-nov11",
+      "id": "2026-11-12-education-bureau-vaping-school",
+      "first_seen": "2026-11-12T00:05:00+08:00",
+      "headline_en": "Education Bureau urges school to strengthen values education after vaping video"
+    },
+    {
+      "key": "lifestyle-arts-in-the-park-2026",
+      "id": "2026-11-12-lifestyle-arts-in-the-park-2026",
+      "first_seen": "2026-11-12T00:05:00+08:00",
+      "headline_en": "Arts in the Park returns to Causeway Bay with fairy-tale parades this weekend"
+    },
+    {
+      "key": "red-fire-danger-warning-cancelled-nov11",
+      "id": "2026-11-12-red-fire-danger-warning-cancelled",
+      "first_seen": "2026-11-12T00:05:00+08:00",
+      "headline_en": "Hong Kong Observatory cancels Red Fire Danger Warning"
     }
   ],
-  "updated_at": "2026-11-11T22:14:06+08:00"
+  "updated_at": "2026-11-12T00:04:47+08:00"
 }

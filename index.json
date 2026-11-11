@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-11T22:14:06+08:00",
+  "generated_at": "2026-11-12T00:04:48+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-11-12-education-bureau-vaping-school",
+      "published_at": "2026-11-12T00:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "school",
+        "vaping",
+        "tsuen-wan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-education-bureau-vaping-school.json",
+      "en": {
+        "headline": "Education Bureau urges school to strengthen values education after vaping video",
+        "dek": "The bureau contacted Po Leung Kuk Yao Ling Sun College in Tsuen Wan after a video of students in uniform appeared to show vaping inside a toilet cubicle."
+      },
+      "zh": {
+        "headline": "教育局促荃灣中學加強價值教育 因應學生疑在校內吸電子煙影片",
+        "dek": "教育局聯絡保良局耀靈中學，因一段顯示身穿校服學生在廁格內疑吸食電子煙的影片在網上流傳。"
+      }
+    },
+    {
+      "id": "2026-11-12-lifestyle-arts-in-the-park-2026",
+      "published_at": "2026-11-12T00:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "festival",
+        "arts",
+        "causeway-bay",
+        "youth"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-lifestyle-arts-in-the-park-2026.json",
+      "en": {
+        "headline": "Arts in the Park returns to Causeway Bay with fairy-tale parades this weekend",
+        "dek": "The free outdoor youth arts festival organised by the Hong Kong Youth Arts Foundation runs on 14 and 15 November, featuring giant puppets and night and finale parades."
+      },
+      "zh": {
+        "headline": "藝術在公園本周末重臨銅鑼灣 童話主題遊行登場",
+        "dek": "香港青年藝術協會舉辦的免費戶外青年藝術節於11月14及15日舉行，設巨型木偶及夜間與壓軸遊行。"
+      }
+    },
+    {
+      "id": "2026-11-12-red-fire-danger-warning-cancelled",
+      "published_at": "2026-11-12T00:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "fire-danger"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-red-fire-danger-warning-cancelled.json",
+      "en": {
+        "headline": "Hong Kong Observatory cancels Red Fire Danger Warning",
+        "dek": "The Observatory lifted the Red Fire Danger Warning late on Wednesday after it had been in force since early Monday, with the fire risk no longer extreme."
+      },
+      "zh": {
+        "headline": "天文台取消紅色火災危險警告",
+        "dek": "天文台周三深夜取消自周一起生效的紅色火災危險警告，火災危險性已不再處於極高程度。"
+      }
+    },
     {
       "id": "2026-11-11-mega-fans-expo-cancelled",
       "published_at": "2026-11-11T22:20:00+08:00",
@@ -1921,95 +1987,6 @@
       "zh": {
         "headline": "發展局建議打鼓嶺大學城擴至75公頃 預留演藝學院第二校舍",
         "dek": "提交北區區議會的文件顯示，校園區面積接近倍增，約7公頃預留予香港演藝學院第二校舍。"
-      }
-    },
-    {
-      "id": "2026-11-09-lifestyle-victoria-park-v-mart",
-      "published_at": "2026-11-09T00:02:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "victoria-park",
-        "market",
-        "causeway-bay"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-lifestyle-victoria-park-v-mart.json",
-      "en": {
-        "headline": "V Mart creative market continues at Victoria Park through November",
-        "dek": "The free cultural and creative arts market runs on weekends and public holidays in Victoria Park until 29 November as part of a check-in campaign with Windsor House."
-      },
-      "zh": {
-        "headline": "維園V Mart文創市集周末及假日繼續 至11月底",
-        "dek": "維多利亞公園的免費文化創意市集於11月1日至29日期間的周六、日及公眾假期舉行，屬皇室堡打卡有禮活動一部分。"
-      }
-    },
-    {
-      "id": "2026-11-09-tung-chung-west-columns-defects",
-      "published_at": "2026-11-09T00:02:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "tung-chung",
-        "construction",
-        "buildings-department"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-tung-chung-west-columns-defects.json",
-      "en": {
-        "headline": "Lawmakers call MTR column defects at Tung Chung West unimaginable",
-        "dek": "About 30 concrete columns at the station under construction failed to reach the ceiling, but officials say temporary supports mean there is no structural risk and the 2029 opening target holds."
-      },
-      "zh": {
-        "headline": "議員稱東涌西站支柱欠妥「難以想像」 屋宇署指暫無結構風險",
-        "dek": "興建中的東涌西站約30條混凝土柱未能灌至天花，但屋宇署指樓板臨時支撐仍在，不構成結構危險，2029年通車目標維持。"
-      }
-    },
-    {
-      "id": "2026-11-08-customs-airport-shark-fin-seizure",
-      "published_at": "2026-11-08T22:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "airport",
-        "endangered-species",
-        "afcd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-08/2026-11-08-customs-airport-shark-fin-seizure.json",
-      "en": {
-        "headline": "Customs seize 31kg dried shark fins at airport, charge mainland woman",
-        "dek": "A 51-year-old woman from the mainland arriving from Brazil was arrested after officers found about 31 kilograms of suspected controlled dried shark fins in her checked baggage, valued at HK$130,000."
-      },
-      "zh": {
-        "headline": "海關機場檢獲約31公斤乾魚翅 內地女旅客被控非法進口",
-        "dek": "一名51歲內地女旅客從巴西經埃塞俄比亞抵港，海關在其寄艙行李檢獲約31公斤懷疑受管制乾魚翅，市值約13萬元，已交漁護署落案檢控。"
-      }
-    },
-    {
-      "id": "2026-11-08-lifestyle-wong-tai-sin-cultural-festival",
-      "published_at": "2026-11-08T22:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "heritage",
-        "wong-tai-sin",
-        "culture",
-        "sik-sik-yuen"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-08/2026-11-08-lifestyle-wong-tai-sin-cultural-festival.json",
-      "en": {
-        "headline": "Wong Tai Sin Faith and Customs Culture Festival runs through next Sunday",
-        "dek": "The fifth edition of the festival at Sik Sik Yuen Wong Tai Sin Temple opened today under the theme of inheritance and crossing, with free workshops, talks and guided tours until 15 November."
-      },
-      "zh": {
-        "headline": "第五屆黃大仙信俗文化節今日開幕 至15日舉行",
-        "dek": "嗇色園黃大仙祠舉辦第五屆信俗文化節，主題「傳承與穿越：承『仙』啟後」，設講座、工作坊及導賞，免費入場至11月15日。"
       }
     }
   ]
