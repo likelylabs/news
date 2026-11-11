@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-12T00:04:48+08:00",
+  "generated_at": "2026-11-12T02:10:53+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-11-12-airport-apron-shuttle-brake",
+      "published_at": "2026-11-12T02:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "airport",
+        "transport",
+        "accident",
+        "injury"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-airport-apron-shuttle-brake.json",
+      "en": {
+        "headline": "Five passengers suffer minor injuries after airport apron shuttle brakes suddenly",
+        "dek": "A shuttle bus carrying travellers from the apron to the passenger terminal at Hong Kong International Airport made an abrupt stop late on Wednesday evening."
+      },
+      "zh": {
+        "headline": "機場停機坪穿梭巴士疑急煞 五人輕傷送院",
+        "dek": "香港國際機場一輛接載旅客由停機坪前往客運大樓的穿梭巴士周三晚上突然煞停，五名乘客受傷。"
+      }
+    },
+    {
+      "id": "2026-11-12-lifestyle-wan-chai-sikh-temple-lights",
+      "published_at": "2026-11-12T02:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "wan-chai",
+        "festival",
+        "culture",
+        "temple"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-lifestyle-wan-chai-sikh-temple-lights.json",
+      "en": {
+        "headline": "Wan Chai Sikh temple lights up in blue for Bandi Chhor Divas until 24 November",
+        "dek": "Khalsa Diwan Sikh Temple on Queen's Road East is illuminated nightly with cascading blue lights to mark the festival, drawing residents and photographers."
+      },
+      "zh": {
+        "headline": "灣仔錫克教廟亮起藍燈慶祝囚徒解放日 至11月24日",
+        "dek": "位於皇后大道東的Khalsa Diwan錫克教廟每晚以藍色燈飾點亮外牆，慶祝Bandi Chhor Divas及排燈節，吸引市民及攝影愛好者到場。"
+      }
+    },
+    {
+      "id": "2026-11-12-tai-hang-man-hanging",
+      "published_at": "2026-11-12T02:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tai-hang",
+        "police",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-tai-hang-man-hanging.json",
+      "en": {
+        "headline": "21-year-old man found dead in Tai Hang flat after being discovered hanging",
+        "dek": "Police said the mainland tenant was found by the flat owner on Wednesday evening at a unit on Sun Chun Street; a note was recovered at the scene."
+      },
+      "zh": {
+        "headline": "大坑21歲內地男子單位內上吊亡 業主揭發",
+        "dek": "警方表示，事主為持雙程證來港的張姓男子，周三晚上約九時五十分被業主在新村街39號單位發現，現場檢獲遺書。"
+      }
+    },
     {
       "id": "2026-11-12-education-bureau-vaping-school",
       "published_at": "2026-11-12T00:05:00+08:00",
@@ -1941,52 +2007,6 @@
       "zh": {
         "headline": "渣打藝趣嘉年華下周末重臨銅鑼灣 童話巨型木偶巡遊",
         "dek": "免費戶外青年藝術節於11月14至15日在維園舉行，設夜光及壓軸巡遊，巨型木偶帶領隊伍。"
-      }
-    },
-    {
-      "id": "2026-11-09-lifestyle-blue-lock-exhibition-airside",
-      "published_at": "2026-11-09T02:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "kai-tak",
-        "anime",
-        "airside"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-lifestyle-blue-lock-exhibition-airside.json",
-      "en": {
-        "headline": "Blue Lock anime exhibition runs at AIRSIDE in Kai Tak until 24 November",
-        "dek": "The official animation exhibition’s first overseas stop features life-size displays, a recreated Z-team locker room and a Hong Kong-exclusive pop-up store."
-      },
-      "zh": {
-        "headline": "藍色監獄動畫展於啟德AIRSIDE舉行至11月24日",
-        "dek": "官方動畫展海外首站設等身展示、1:1還原Z隊更衣室及香港限定快閃店。"
-      }
-    },
-    {
-      "id": "2026-11-09-ta-kwu-ling-university-town-expansion",
-      "published_at": "2026-11-09T02:10:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "northern-metropolis",
-        "university-town",
-        "development-bureau",
-        "hkapa",
-        "ta-kwu-ling"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-ta-kwu-ling-university-town-expansion.json",
-      "en": {
-        "headline": "Development Bureau proposes expanding Ta Kwu Ling university town to 75 hectares",
-        "dek": "A paper submitted to the North District Council nearly doubles the campus area and reserves about seven hectares for a second Hong Kong Academy for Performing Arts campus."
-      },
-      "zh": {
-        "headline": "發展局建議打鼓嶺大學城擴至75公頃 預留演藝學院第二校舍",
-        "dek": "提交北區區議會的文件顯示，校園區面積接近倍增，約7公頃預留予香港演藝學院第二校舍。"
       }
     }
   ]
