@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-11-11T18:12:12+08:00",
+  "generated_at": "2026-11-11T20:25:56+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-11-11-cfs-korea-netherlands-poultry",
+      "published_at": "2026-11-11T20:30:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "food-safety",
+        "cfs",
+        "bird-flu",
+        "import",
+        "health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-cfs-korea-netherlands-poultry.json",
+      "en": {
+        "headline": "Centre for Food Safety suspends poultry imports from more areas in Korea and the…",
+        "dek": "The centre acted after notifications of highly pathogenic avian influenza outbreaks in Jangheung-gun, Yeoju and Gelderland."
+      },
+      "zh": {
+        "headline": "食安中心暫停進口韓國及荷蘭更多地區禽肉及禽蛋",
+        "dek": "中心因應長興郡、驊州及海爾德蘭省爆發高致病性禽流感而採取行動。"
+      }
+    },
+    {
+      "id": "2026-11-11-cfs-meadows-milk-colony",
+      "published_at": "2026-11-11T20:30:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "food-safety",
+        "cfs",
+        "health",
+        "milk"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-cfs-meadows-milk-colony.json",
+      "en": {
+        "headline": "Centre for Food Safety finds colony count over limit in Meadows milk sample",
+        "dek": "The affected batch of Australian UHT skimmed milk remains in the importer's warehouse and has not entered the market."
+      },
+      "zh": {
+        "headline": "食安中心抽查Meadows脫脂奶菌落超標 產品未流出市面",
+        "dek": "受影響批次的澳洲超高溫處理脫脂奶仍存於進口商貨倉，沒有流入市場。"
+      }
+    },
+    {
+      "id": "2026-11-11-tko-garage-owner-death",
+      "published_at": "2026-11-11T20:30:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "accident",
+        "tseung-kwan-o",
+        "police",
+        "hospital",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-tko-garage-owner-death.json",
+      "en": {
+        "headline": "72-year-old garage owner dies after car falls on him in Tseung Kwan O",
+        "dek": "Police said the man was trapped under a private car he was repairing in Upper Village and later died in hospital."
+      },
+      "zh": {
+        "headline": "將軍澳上村七旬車房東主修車遭壓 送院不治",
+        "dek": "警方表示，事主在上村維修私家車期間遭車壓着，送院後不治。"
+      }
+    },
     {
       "id": "2026-11-11-hang-seng-close-down",
       "published_at": "2026-11-11T18:10:00+08:00",
@@ -1875,94 +1943,6 @@
       "zh": {
         "headline": "第五屆黃大仙信俗文化節今日開幕 至15日舉行",
         "dek": "嗇色園黃大仙祠舉辦第五屆信俗文化節，主題「傳承與穿越：承『仙』啟後」，設講座、工作坊及導賞，免費入場至11月15日。"
-      }
-    },
-    {
-      "id": "2026-11-08-claire-liu-hong-kong-tennis-open",
-      "published_at": "2026-11-08T20:25:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "tennis",
-        "hong-kong-open",
-        "wta",
-        "victoria-park"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-08/2026-11-08-claire-liu-hong-kong-tennis-open.json",
-      "en": {
-        "headline": "Claire Liu wins Hong Kong Tennis Open for first WTA title",
-        "dek": "American Claire Liu defeated Philippine rising star Alexandra Eala 6-3, 6-0 in the final at Victoria Park on Sunday, claiming her maiden WTA 250 title in one hour and 33 minutes."
-      },
-      "zh": {
-        "headline": "美國劉婧文擊敗伊雅娜 奪香港網球公開賽冠軍",
-        "dek": "周日維多利亞公園決賽，美國球手劉婧文以6-3、6-0直落兩盤擊敗菲律賓新星伊雅娜，首奪WTA巡迴賽冠軍，比賽歷時1小時33分。"
-      }
-    },
-    {
-      "id": "2026-11-08-to-kwa-wan-supermarket-burglary",
-      "published_at": "2026-11-08T20:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "burglary",
-        "to-kwa-wan",
-        "police",
-        "kowloon-city"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-08/2026-11-08-to-kwa-wan-supermarket-burglary.json",
-      "en": {
-        "headline": "Police investigate HK$520,000 cash theft from To Kwa Wan supermarket",
-        "dek": "Staff at a budget supermarket on Tam Kung Road found the rear gate forced and two safes emptied of about HK$520,000; Kowloon City detectives are following up with no arrests yet."
-      },
-      "zh": {
-        "headline": "土瓜灣友誠超市爆竊 失約52萬元現金 警正跟進",
-        "dek": "周日早上超市職員發現後門被撬，兩個夾萬內約52萬元現金被盜；案件交九龍城警區刑偵隊跟進，暫未有人被捕。"
-      }
-    },
-    {
-      "id": "2026-11-08-cheung-sha-wan-child-left-alone",
-      "published_at": "2026-11-08T18:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "child-abuse",
-        "cheung-sha-wan",
-        "police",
-        "lai-tsui-court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-08/2026-11-08-cheung-sha-wan-child-left-alone.json",
-      "en": {
-        "headline": "Mother arrested after 10-year-old left alone overnight in Cheung Sha Wan",
-        "dek": "Police arrested a 43-year-old woman on suspicion of cruelty to a child after her grandfather found the girl alone at home in Lai Tsui Court; the child was taken to hospital for checks."
-      },
-      "zh": {
-        "headline": "長沙灣麗翠苑10歲女童通宵獨留家中 43歲母親涉虐兒被捕",
-        "dek": "警方周日拘捕一名43歲女子，涉嫌對所看管兒童虐待或忽略；其69歲祖父發現孫女獨留麗柏閣單位，女童已送院檢查。"
-      }
-    },
-    {
-      "id": "2026-11-08-pik-uk-prison-inmate-assault",
-      "published_at": "2026-11-08T18:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "prison",
-        "assault",
-        "correctional-services",
-        "sai-kung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-08/2026-11-08-pik-uk-prison-inmate-assault.json",
-      "en": {
-        "headline": "Correctional officer injured after inmate assault at Pik Uk Prison",
-        "dek": "A 23-year-old male inmate attacked a staff member outside his cell early on Sunday; the officer suffered facial injuries and both were sent to hospital, with the case referred to police."
-      },
-      "zh": {
-        "headline": "壁屋監獄 23歲男囚情緒失控襲擊懲教人員 雙雙送院",
-        "dek": "周日早上約7時，一名因盜竊罪服刑的23歲男囚在囚室外突然情緒失控襲擊懲教人員，職員面部受傷，兩人均送公立醫院，事件轉交警方調查。"
       }
     }
   ]
