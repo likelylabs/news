@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-12T02:10:53+08:00",
+  "generated_at": "2026-11-12T07:12:32+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-11-12-happy-valley-woman-death",
+      "published_at": "2026-11-12T04:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "happy-valley",
+        "police",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-happy-valley-woman-death.json",
+      "en": {
+        "headline": "Woman dies after collapsing in Happy Valley flat, boyfriend reports",
+        "dek": "Police said the 47-year-old was found unconscious by her boyfriend at a unit on Leighton Road late on Wednesday evening and later died in hospital."
+      },
+      "zh": {
+        "headline": "跑馬地47歲女子單位暈倒送院不治",
+        "dek": "警方表示，事主的男友周三晚上發現她在禮頓道單位內暈倒，送院後證實不治。"
+      }
+    },
+    {
+      "id": "2026-11-12-yau-tsim-champion-raid",
+      "published_at": "2026-11-12T04:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "immigration",
+        "yau-tsim",
+        "crime",
+        "arrests"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-yau-tsim-champion-raid.json",
+      "en": {
+        "headline": "Police arrest 31 in Yau Tsim raid targeting illegal workers and vice",
+        "dek": "Officers and Immigration Department staff searched multiple locations in the district on Wednesday under operation CHAMPION, detaining people suspected of overstaying and illegal employment."
+      },
+      "zh": {
+        "headline": "油尖區打擊黑工及掃黃行動拘31人",
+        "dek": "油尖警區聯同入境處周三在區內展開代號「冠軍」行動，突擊搜查多處，拘捕涉嫌逾期居留及非法勞工的人士。"
+      }
+    },
     {
       "id": "2026-11-12-airport-apron-shuttle-brake",
       "published_at": "2026-11-12T02:15:00+08:00",
@@ -1984,29 +2028,6 @@
       "zh": {
         "headline": "強烈季候風信號及紅色火災危險警告生效 冷鋒抵港",
         "dek": "天文台於清晨6時10分發出兩項警告；偏北強風平均超過每小時40公里，陣風達烈風，周二早上市區最低約16度。"
-      }
-    },
-    {
-      "id": "2026-11-09-lifestyle-arts-in-the-park-2026",
-      "published_at": "2026-11-09T04:30:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "causeway-bay",
-        "victoria-park",
-        "arts"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-lifestyle-arts-in-the-park-2026.json",
-      "en": {
-        "headline": "Arts in the Park returns to Causeway Bay with fairy-tale puppets next weekend",
-        "dek": "The free outdoor youth arts festival runs 14-15 November at Victoria Park, featuring illuminated night and grand finale parades with giant puppets."
-      },
-      "zh": {
-        "headline": "渣打藝趣嘉年華下周末重臨銅鑼灣 童話巨型木偶巡遊",
-        "dek": "免費戶外青年藝術節於11月14至15日在維園舉行，設夜光及壓軸巡遊，巨型木偶帶領隊伍。"
       }
     }
   ]
