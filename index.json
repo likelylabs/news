@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-11-11T16:28:16+08:00",
+  "generated_at": "2026-11-11T18:12:12+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-11-11-hang-seng-close-down",
+      "published_at": "2026-11-11T18:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "hang-seng",
+        "stock-market",
+        "business",
+        "finance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-hang-seng-close-down.json",
+      "en": {
+        "headline": "Hang Seng Index closes down 241 points as tech shares slide",
+        "dek": "The benchmark fell 0.98 per cent to 24,315.92, with the Hang Seng Tech Index down 1.41 per cent amid pressure from higher US inflation expectations."
+      },
+      "zh": {
+        "headline": "恒生指數收市跌241點 科技股拖累",
+        "dek": "恒指全日跌0.98%報24315.92點，恒生科技指數跌1.41%，市場受美國通脹數據高於預期影響。"
+      }
+    },
+    {
+      "id": "2026-11-11-hk-digital-ai-ranking",
+      "published_at": "2026-11-11T18:10:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "ai",
+        "ranking",
+        "digital",
+        "innovation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-hk-digital-ai-ranking.json",
+      "en": {
+        "headline": "Hong Kong ranks 11th globally in digital and AI competitiveness",
+        "dek": "The city placed fourth in Asia in the IMD World Digital and AI Ranking 2026, with top rankings in workforce development, efficiency and several sub-factors."
+      },
+      "zh": {
+        "headline": "香港數碼及人工智能競爭力全球排名第11",
+        "dek": "國際管理發展學院公布的2026年世界數碼及人工智能排名中，香港在70個經濟體中排第11，亞洲第4，多項因素及子因素表現突出。"
+      }
+    },
+    {
+      "id": "2026-11-11-hk-international-police-academy",
+      "published_at": "2026-11-11T18:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "security",
+        "academy",
+        "training"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-hk-international-police-academy.json",
+      "en": {
+        "headline": "Hong Kong opens International Academy of Policing to train local and overseas officers",
+        "dek": "Chief Executive John Lee said the academy will train about 1,000 officers each year, including 200 from overseas, through programmes and leadership forums."
+      },
+      "zh": {
+        "headline": "香港國際警務學院正式成立 每年培訓約千名警務人員",
+        "dek": "行政長官李家超主持開幕典禮，學院目標每年培訓約1000名警務人員，當中包括約200名海外執法人員。"
+      }
+    },
+    {
+      "id": "2026-11-11-lifestyle-pokemon-30-festival-walk",
+      "published_at": "2026-11-11T18:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "pokemon",
+        "festival-walk",
+        "pop-up",
+        "entertainment"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-lifestyle-pokemon-30-festival-walk.json",
+      "en": {
+        "headline": "Festival Walk opens Pokémon 30th anniversary event with first Hong Kong Pokémon Center…",
+        "dek": "The free celebration runs from 11 November to 3 January at the Kowloon Tong mall, featuring installations, a time tunnel and the first official Pokémon Center pop-up store in the city."
+      },
+      "zh": {
+        "headline": "又一城Pokémon 30周年活動開幕 全港首個Pokémon Center Pop-Up登場",
+        "dek": "免費活動由11月11日至明年1月3日在九龍塘又一城舉行，設巨型裝置、時光隧道及全港首個官方Pokémon Center限時店。"
+      }
+    },
     {
       "id": "2026-11-11-cathay-airbus-orders",
       "published_at": "2026-11-11T16:25:00+08:00",
@@ -1873,71 +1963,6 @@
       "zh": {
         "headline": "壁屋監獄 23歲男囚情緒失控襲擊懲教人員 雙雙送院",
         "dek": "周日早上約7時，一名因盜竊罪服刑的23歲男囚在囚室外突然情緒失控襲擊懲教人員，職員面部受傷，兩人均送公立醫院，事件轉交警方調查。"
-      }
-    },
-    {
-      "id": "2026-11-08-lau-fau-shan-ketamine-seizure",
-      "published_at": "2026-11-08T16:35:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "yuen-long",
-        "drugs",
-        "police",
-        "transitional-housing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-08/2026-11-08-lau-fau-shan-ketamine-seizure.json",
-      "en": {
-        "headline": "Police seize 20kg of ketamine from transitional housing unit in Lau Fau Shan",
-        "dek": "Officers raided a unit in Yuen Long and arrested a 31-year-old man; the drugs and packaging tools were valued at about HK$8 million."
-      },
-      "zh": {
-        "headline": "流浮山過渡性房屋單位作毒品倉 警檢800萬氯胺酮拘一男",
-        "dek": "警方在元朗流浮山深灣路一個過渡性房屋單位檢獲約20公斤氯胺酮，拘捕31歲本地男子，市值約800萬元。"
-      }
-    },
-    {
-      "id": "2026-11-08-ma-on-shan-paragliding-accident",
-      "published_at": "2026-11-08T16:35:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "ma-on-shan",
-        "accident",
-        "rescue",
-        "paragliding"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-08/2026-11-08-ma-on-shan-paragliding-accident.json",
-      "en": {
-        "headline": "Three injured after paraglider lands on hikers at Ma On Shan campsite",
-        "dek": "A woman and two teenagers were hurt when a paraglider hit them while landing at Ngong Ping campsite around noon on Sunday; a helicopter took them to hospital."
-      },
-      "zh": {
-        "headline": "馬鞍山昂平營地滑翔傘降落撞傷三人 直升機送院",
-        "dek": "周日中午一名女子與兩名青少年在馬鞍山昂平營地被降落的滑翔傘撞傷，政府飛行服務隊直升機將他們送往醫院治理。"
-      }
-    },
-    {
-      "id": "2026-11-08-tin-shui-wai-kingswood-fire-death",
-      "published_at": "2026-11-08T16:35:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tin-shui-wai",
-        "fire",
-        "kingswood-villas"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-08/2026-11-08-tin-shui-wai-kingswood-fire-death.json",
-      "en": {
-        "headline": "67-year-old woman dies after aromatherapy fire at Kingswood Villas",
-        "dek": "A woman found unconscious with burns after a flat fire in Tin Shui Wai on Saturday evening died early Sunday morning; police said the blaze was caused by an aromatherapy item igniting nearby objects."
-      },
-      "zh": {
-        "headline": "天水圍嘉湖山莊香薰火警 67歲婦抢救不治",
-        "dek": "天水圍嘉湖山莊樂湖居一單位周六傍晚疑因香薰燃點雜物起火，67歲女戶主昏迷送院，延至周日凌晨證實不治。"
       }
     }
   ]
