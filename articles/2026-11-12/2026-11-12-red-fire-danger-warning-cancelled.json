@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-12-red-fire-danger-warning-cancelled",
+  "published_at": "2026-11-12T00:05:00+08:00",
+  "category": "weather",
+  "tags": ["weather", "hko", "fire-danger"],
+  "ai_generated": true,
+  "story_key": "red-fire-danger-warning-cancelled-nov11",
+  "en": {
+    "headline": "Hong Kong Observatory cancels Red Fire Danger Warning",
+    "dek": "The Observatory lifted the Red Fire Danger Warning late on Wednesday after it had been in force since early Monday, with the fire risk no longer extreme.",
+    "body": [
+      "The Hong Kong Observatory cancelled the Red Fire Danger Warning at 11pm on Wednesday, the agency said in its warning bulletin.",
+      "The warning had been issued at 6:10am on Monday, when the Observatory assessed the fire risk as extreme due to dry conditions under a northeast monsoon.",
+      "With the warning now lifted, the extreme fire danger level no longer applies. Residents are still advised to remain cautious with open flames and flammable materials during the dry season.",
+      "No other weather warnings were in force after the cancellation, according to the Observatory's latest update."
+    ]
+  },
+  "zh": {
+    "headline": "天文台取消紅色火災危險警告",
+    "dek": "天文台周三深夜取消自周一起生效的紅色火災危險警告，火災危險性已不再處於極高程度。",
+    "body": [
+      "香港天文台表示，紅色火災危險警告已於周三晚上11時取消。",
+      "該警告於周一早上6時10分發出，當時天文台評估在東北季候風影響下，火災危險性極高。",
+      "警告取消後，極高火災危險程度不再適用。市民在乾燥季節仍應小心使用明火及易燃物品。",
+      "根據天文台最新資訊，取消後目前沒有其他天氣警告生效。"
+    ]
+  }
+}
