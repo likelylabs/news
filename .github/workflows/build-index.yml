@@ -64,6 +64,7 @@ jobs:
     timeout-minutes: 10
     permissions:
       contents: write
+      actions: write   # dispatch pages-deploy after a self-heal build (below)
     steps:
       - uses: actions/checkout@v7
         with:
@@ -133,6 +134,20 @@ jobs:
 
           echo "::error::could not land the regenerated index after 8 attempts — main is being pushed to faster than the index can be rebuilt."
           exit 1
+
+      # pages-deploy normally starts on workflow_run when this workflow
+      # completes. But GitHub does not fire workflow_run for a run started
+      # with the built-in GITHUB_TOKEN, which is how pages-deploy's 30-min
+      # reconcile starts this build. On 2026-11-11 that left a rebuilt index
+      # on main undeployed for 30 min until an external watchdog deployed it.
+      # workflow_dispatch is exempt from that rule, so dispatch the deploy
+      # directly. Placed before the quarantine check so it runs even when
+      # that check turns the run red.
+      - name: Deploy after a self-heal build
+        if: github.event_name == 'workflow_dispatch' && github.actor == 'github-actions[bot]'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages-deploy.yml --repo "$GITHUB_REPOSITORY" --ref main
 
       # Runs only after the good articles are pushed. Annotates each bad file
       # on the commit and fails the run so the problem stays visible.
