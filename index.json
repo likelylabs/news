@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-11T08:44:39+08:00",
+  "generated_at": "2026-11-11T10:14:14+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 84,
   "articles": [
+    {
+      "id": "2026-11-11-northern-link-project-agreement",
+      "published_at": "2026-11-11T10:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "northern-metropolis",
+        "mtr",
+        "rail",
+        "infrastructure"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-northern-link-project-agreement.json",
+      "en": {
+        "headline": "Government and MTR sign Northern Link agreement as cost falls to HK$86.2 billion",
+        "dek": "The full main and spur lines are targeted to open by 2034 after the Executive Council approved the second-phase financial arrangements, 28 per cent below earlier estimates."
+      },
+      "zh": {
+        "headline": "政府與港鐵簽署北環線全線協議 建造成本降至862億元",
+        "dek": "行政長官會同行政會議批准第二部分財務安排後，主線及支線目標於2034年或之前同步開通，整體造價較原先估計低28%。"
+      }
+    },
+    {
+      "id": "2026-11-11-sai-kung-burglary-watches",
+      "published_at": "2026-11-11T10:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "sai-kung",
+        "burglary",
+        "police",
+        "watches"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-sai-kung-burglary-watches.json",
+      "en": {
+        "headline": "Police investigate Sai Kung burglary after watches and earrings worth HK$245,000 stolen",
+        "dek": "A 62-year-old woman reported the theft from her flat on Tuesday night; the case has been classified as burglary with no arrests so far."
+      },
+      "zh": {
+        "headline": "西貢住宅爆竊 失約24.5萬元手錶及耳環",
+        "dek": "62歲姓陳女子周二晚報案指北港坳路單位有財物失竊，警方初步點算兩隻手錶及一對耳環共值約24.5萬元，案件列作爆竊，暫未有人被捕。"
+      }
+    },
+    {
+      "id": "2026-11-11-sheung-shui-worker-truck-fall",
+      "published_at": "2026-11-11T10:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "sheung-shui",
+        "industrial-accident",
+        "police",
+        "hospital"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-sheung-shui-worker-truck-fall.json",
+      "en": {
+        "headline": "Worker injured after falling from truck while unloading goods in Sheung Shui",
+        "dek": "A 52-year-old man was taken conscious to North District Hospital after falling about one metre from a medium-sized truck early on Wednesday."
+      },
+      "zh": {
+        "headline": "上水工人搬貨時從貨車墮下受傷",
+        "dek": "52歲姓楊男子周三凌晨約2時在安樂門街從中型貨車墮下約一米，清醒送往北區醫院治理，案件列作工業意外。"
+      }
+    },
     {
       "id": "2026-11-11-hung-hom-waterfront-sea-rescue",
       "published_at": "2026-11-11T08:10:00+08:00",
