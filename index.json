@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-11T20:26:44+08:00",
+  "generated_at": "2026-11-11T22:14:06+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-11-11-mega-fans-expo-cancelled",
+      "published_at": "2026-11-11T22:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "event",
+        "cancellation",
+        "airport",
+        "immigration"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-mega-fans-expo-cancelled.json",
+      "en": {
+        "headline": "Organisers cancel Mega Fans Expo after Japanese performers denied entry",
+        "dek": "The three-day adult entertainment event at the Regal Airport Hotel and a preview scheduled for Thursday have been called off, with refunds to follow."
+      },
+      "zh": {
+        "headline": "近30名日本女優疑遭拒入境 Mega Fans Expo主辦方宣佈取消",
+        "dek": "原定富豪機場酒店舉行的三日成人展及周四預覽活動取消，主辦方稍後公布退款安排。"
+      }
+    },
+    {
+      "id": "2026-11-11-mpox-case-26yo",
+      "published_at": "2026-11-11T22:20:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "mpox",
+        "chp",
+        "disease"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-mpox-case-26yo.json",
+      "en": {
+        "headline": "Centre for Health Protection investigates new mpox case in 26-year-old man",
+        "dek": "The patient developed a rash and fever and reported high-risk sexual contact in Hong Kong with men met through social media platforms."
+      },
+      "zh": {
+        "headline": "衞生防護中心調查26歲男子確診猴痘個案",
+        "dek": "患者出現皮疹及發燒，潛伏期內曾與透過社交平台結識的男子有高風險性接觸。"
+      }
+    },
+    {
+      "id": "2026-11-11-police-thundernet-money-laundering",
+      "published_at": "2026-11-11T22:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "money-laundering",
+        "arrests",
+        "crime",
+        "fraud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-police-thundernet-money-laundering.json",
+      "en": {
+        "headline": "Police arrest 22 after dismantling cross-border money laundering syndicate",
+        "dek": "The two-day Thundernet operation seized more than 1,600 bank cards, HK$5.85 million in cash and over 200 phones linked to more than HK$150 million laundered."
+      },
+      "zh": {
+        "headline": "警方「雷網」行動搗破跨境洗黑錢集團 拘捕22人",
+        "dek": "兩日行動檢獲逾1600張銀行提款卡、約585萬元現金及逾200部手機，集團8至10月疑清洗逾1.5億元。"
+      }
+    },
     {
       "id": "2026-11-11-cfs-korea-netherlands-poultry",
       "published_at": "2026-11-11T20:30:00+08:00",
