@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-11T14:15:21+08:00",
+  "generated_at": "2026-11-11T14:15:44+08:00",
   "live_window_hours": 72,
-  "count": 82,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-11-11-li-ka-shing-histotripsy-kidney-trials",
+      "published_at": "2026-11-11T14:15:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "medical",
+        "li-ka-shing",
+        "technology",
+        "hospitals"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-li-ka-shing-histotripsy-kidney-trials.json",
+      "en": {
+        "headline": "Li Ka-shing funds Asia-first non-invasive kidney tumour trials in Hong Kong",
+        "dek": "The Li Ka Shing Foundation is funding 30 places at three private hospitals for histotripsy clinical trials treating kidney cancer without surgical incisions."
+      },
+      "zh": {
+        "headline": "李嘉誠資助組織碎化技術腎癌臨床試驗 香港成亞洲首個城市",
+        "dek": "李嘉誠基金會向三間私家醫院提供合共30個名額，以組織碎化技術（Histotripsy）進行腎臟癌無創治療臨床試驗。"
+      }
+    },
+    {
+      "id": "2026-11-11-lifestyle-happy-wednesday-music-dine",
+      "published_at": "2026-11-11T14:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "racing",
+        "happy-valley",
+        "music",
+        "food"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-lifestyle-happy-wednesday-music-dine.json",
+      "en": {
+        "headline": "Happy Wednesday Music and Dine Festival returns to Happy Valley tonight",
+        "dek": "The Hong Kong Jockey Club’s themed race night at Happy Valley Racecourse features live music, special drinks and food from 6pm, with public enclosure entry at HK$10."
+      },
+      "zh": {
+        "headline": "跑馬地Happy Wednesday音樂美食節今晚舉行",
+        "dek": "香港賽馬會跑馬地馬場主題賽馬夜今晚六時開始，啤酒園有現場音樂、特色飲品及美食，公眾席入場費10元。"
+      }
+    },
+    {
+      "id": "2026-11-11-one-stanley-steel-investigation-update",
+      "published_at": "2026-11-11T14:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "buildings",
+        "development",
+        "stanley",
+        "investigation",
+        "safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-one-stanley-steel-investigation-update.json",
+      "en": {
+        "headline": "Buildings Department finds One Stanley steel work does not match approved plans",
+        "dek": "Development Secretary Bernadette Linn said the investigation is largely complete and the department will consult the Justice Department on possible prosecution."
+      },
+      "zh": {
+        "headline": "屋宇署指赤柱ONE STANLEY鋼筋配置與圖則不符 將徵詢律政司檢控意見",
+        "dek": "發展局局長甯漢豪表示調查大致完成，署方已勒令抽查屋苑其他單位，並計劃要求承建商灌注混凝土前拍照或錄像記錄鋼筋。"
+      }
+    },
     {
       "id": "2026-11-11-mong-kok-charger-fire",
       "published_at": "2026-11-11T12:12:00+08:00",
