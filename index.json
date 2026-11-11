@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-11T14:15:44+08:00",
+  "generated_at": "2026-11-11T16:26:37+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-11-11-cathay-airbus-orders",
+      "published_at": "2026-11-11T16:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "cathay",
+        "aviation",
+        "airbus",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-cathay-airbus-orders.json",
+      "en": {
+        "headline": "Cathay Group orders 14 more Airbus aircraft for fleet expansion",
+        "dek": "The order covers 11 A330-900s and three A321neos, bringing planned new deliveries from 2026 to 120 and total investment commitments above HK$150 billion."
+      },
+      "zh": {
+        "headline": "國泰集團再訂購14架空中巴士飛機擴充機隊",
+        "dek": "新訂單包括11架A330-900及3架A321neo，使2026年起新飛機交付總數達120架，十年投資承諾超過1500億元。"
+      }
+    },
+    {
+      "id": "2026-11-11-sexual-offences-bill",
+      "published_at": "2026-11-11T16:25:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "legislation",
+        "security",
+        "sexual-offences",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-sexual-offences-bill.json",
+      "en": {
+        "headline": "Government to gazette sexual offences amendment bill on Friday",
+        "dek": "The Security Bureau said the bill will modernise Hong Kong’s laws and strengthen victim protection, with first and second readings set for 25 November."
+      },
+      "zh": {
+        "headline": "政府周五刊憲性罪行修訂條例草案",
+        "dek": "保安局表示草案將現代化香港性罪行法例並加強受害人保護，11月25日提交立法會首讀及二讀。"
+      }
+    },
+    {
+      "id": "2026-11-11-ura-to-kwa-wan-tenders",
+      "published_at": "2026-11-11T16:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "ura",
+        "property",
+        "to-kwa-wan",
+        "redevelopment"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-11/2026-11-11-ura-to-kwa-wan-tenders.json",
+      "en": {
+        "headline": "URA receives three tenders for final To Kwa Wan redevelopment plot",
+        "dek": "CK Asset, China Overseas Land & Investment and a Sino Land-Great Eagle consortium submitted bids for the To Kwa Wan Road/Wing Kwong Street project after the noon deadline."
+      },
+      "zh": {
+        "headline": "市建局土瓜灣道／榮光街項目截收三份標書",
+        "dek": "長實、中海外及信和與鷹君合組財團在周三中午截標時入標，該項目為土瓜灣小區重建最後一個地盤。"
+      }
+    },
     {
       "id": "2026-11-11-li-ka-shing-histotripsy-kidney-trials",
       "published_at": "2026-11-11T14:15:00+08:00",
@@ -1872,50 +1938,6 @@
       "zh": {
         "headline": "天水圍嘉湖山莊香薰火警 67歲婦抢救不治",
         "dek": "天水圍嘉湖山莊樂湖居一單位周六傍晚疑因香薰燃點雜物起火，67歲女戶主昏迷送院，延至周日凌晨證實不治。"
-      }
-    },
-    {
-      "id": "2026-11-08-building-repairs-bureau-staffing",
-      "published_at": "2026-11-08T14:20:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "building-repairs",
-        "development-bureau",
-        "tai-po",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-08/2026-11-08-building-repairs-bureau-staffing.json",
-      "en": {
-        "headline": "Building repairs bureau to hire about 90 staff initially, Ning says",
-        "dek": "Development Secretary Bernadette Linn said the new non-statutory bureau will start operations by year end and begin services in January, with staff phased in through mid-next year."
-      },
-      "zh": {
-        "headline": "樓宇維修支援及服務局初期聘約90人 年底運作",
-        "dek": "發展局局長甯漢豪指新局年底前開始運作，明年1月推出服務，人員明年中前陸續就位。"
-      }
-    },
-    {
-      "id": "2026-11-08-workweek-weather-outlook-nov9-13",
-      "published_at": "2026-11-08T14:20:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "cold-front",
-        "monsoon",
-        "observatory"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-08/2026-11-08-workweek-weather-outlook-nov9-13.json",
-      "en": {
-        "headline": "Work week turns cooler and dry after Monday cold front",
-        "dek": "The Observatory forecasts a cold front crossing early Monday, with appreciably lower temperatures midweek and mainly fine, very dry conditions before some showers later."
-      },
-      "zh": {
-        "headline": "冷鋒周一抵港 工作周氣溫顯著下降轉乾燥",
-        "dek": "天文台預料冷鋒周一初時橫過廣東沿岸，隨後強烈東北季候風令氣溫明顯下降，中期大致晴朗非常乾燥。"
       }
     }
   ]
