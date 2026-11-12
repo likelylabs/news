@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-11-12T10:13:49+08:00",
+  "generated_at": "2026-11-12T12:15:11+08:00",
   "live_window_hours": 72,
-  "count": 93,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-11-12-education-amendment-bill-gazette",
+      "published_at": "2026-11-12T12:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "education",
+        "legislation",
+        "teachers",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-education-amendment-bill-gazette.json",
+      "en": {
+        "headline": "Education Amendment Bill to be gazetted tomorrow with teacher practice certificate rules",
+        "dek": "The bill will require teachers at all schools to hold a practice certificate lasting up to three years and introduce safeguards for national security convictions."
+      },
+      "zh": {
+        "headline": "《2026年教育（修訂）條例草案》明日刊憲 引入教師執業證明書",
+        "dek": "草案規定所有學校教師須持有有效期不超逾三個學年的執業證明書，並設立機制處理干犯國安罪行人士的註冊事宜。"
+      }
+    },
+    {
+      "id": "2026-11-12-kai-tak-concert-rail-advice",
+      "published_at": "2026-11-12T12:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "kai-tak",
+        "mtr",
+        "concert",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-kai-tak-concert-rail-advice.json",
+      "en": {
+        "headline": "Transport Department urges Kai Tak concertgoers to use railway and avoid illegal hire cars",
+        "dek": "Officials reminded spectators at the coming Kai Tak Stadium shows to plan their departure by MTR and warned that illegal cross-boundary hire cars may lack valid insurance."
+      },
+      "zh": {
+        "headline": "運輸署呼籲啟德演唱會觀眾乘搭鐵路 避免乘坐非法過境出租車",
+        "dek": "運輸署提醒即將在啟德主場館舉行的演唱會觀眾，散場時應乘搭港鐵，並警告非法過境出租車的第三者保險可能無效。"
+      }
+    },
+    {
+      "id": "2026-11-12-lifestyle-gourmet-month-2026",
+      "published_at": "2026-11-12T12:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "tourism",
+        "gourmet"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-lifestyle-gourmet-month-2026.json",
+      "en": {
+        "headline": "Hong Kong Tourism Board runs Gourmet Month with more than 400 restaurants through November",
+        "dek": "The campaign offers limited-time menus and late-night deals at hundreds of outlets after the Wine and Dine Festival, including Michelin-starred venues."
+      },
+      "zh": {
+        "headline": "旅發局推出香港美食月 逾400間食肆至月底提供限定菜單",
+        "dek": "活動在美酒佳餚巡禮後舉行，涵蓋米芝蓮星級餐廳至地區食肆，並設深夜飲食指南，部分商戶延長營業時間。"
+      }
+    },
+    {
+      "id": "2026-11-12-sun-yat-sen-160-ceremony",
+      "published_at": "2026-11-12T12:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "sun-yat-sen",
+        "ceremony",
+        "john-lee",
+        "patriotism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-sun-yat-sen-160-ceremony.json",
+      "en": {
+        "headline": "John Lee officiates at ceremony for 160th anniversary of Sun Yat-sen birth",
+        "dek": "The government held the official commemoration at Sun Yat Sen Memorial Park this morning, with senior officials and central government representatives in attendance."
+      },
+      "zh": {
+        "headline": "李家超主禮孫中山先生誕辰160周年紀念儀式",
+        "dek": "政府今早在中山紀念公園舉行官方紀念儀式，行政長官李家超主持並致辭，多名高層官員及中央駐港機構代表出席。"
+      }
+    },
     {
       "id": "2026-11-12-customs-chung-ying-frozen-meat",
       "published_at": "2026-11-12T10:15:00+08:00",
@@ -1982,119 +2070,6 @@
       "zh": {
         "headline": "陳茂波：地緣政治不確定下企業加速供應鏈多元化",
         "dek": "財政司司長在會財局區域監管論壇表示，今年首十個月本港有121宗新股上市，集資逾4000億元，較去年全年增四成。"
-      }
-    },
-    {
-      "id": "2026-11-09-coolest-morning-23-2c-autumn",
-      "published_at": "2026-11-09T12:15:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "cold-front",
-        "temperature"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-coolest-morning-23-2c-autumn.json",
-      "en": {
-        "headline": "Observatory records coolest autumn morning so far at 23.2 degrees",
-        "dek": "The Observatory recorded 23.2C at 7:40am on Monday, the lowest since autumn began, as the cold front and strong monsoon bring further cooling tonight to about 19C urban."
-      },
-      "zh": {
-        "headline": "天文台錄得今年入秋以來最低23.2度 今晚市區約19度",
-        "dek": "天文台今早7時40分錄得23.2度，為今年入秋以來最低；冷鋒及強烈季候風影響下，今晚市區最低約19度。"
-      }
-    },
-    {
-      "id": "2026-11-09-tung-chung-west-columns-stronger-concrete",
-      "published_at": "2026-11-09T12:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "tung-chung",
-        "construction",
-        "buildings-department"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-tung-chung-west-columns-stronger-concrete.json",
-      "en": {
-        "headline": "Experts say high-strength concrete can fix defective columns at Tung Chung West station",
-        "dek": "Engineering lawmaker Aaron Bok says non-shrink grout can fill gaps in about 30 columns where concrete failed to reach the ceiling, calling the work a basic mistake."
-      },
-      "zh": {
-        "headline": "專家稱高強度混凝土可修復東涌西站欠妥支柱",
-        "dek": "工程界議員卜國明指可用無收縮灌漿填充約30條支柱缺口，混凝土未灌至天花屬基本失誤。"
-      }
-    },
-    {
-      "id": "2026-11-09-lifestyle-frieren-exhibition-mong-kok",
-      "published_at": "2026-11-09T10:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "anime",
-        "mong-kok",
-        "incubase"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-lifestyle-frieren-exhibition-mong-kok.json",
-      "en": {
-        "headline": "Frieren anime exhibition to open at Mong Kok INCUBASE Arena on 24 November",
-        "dek": "The official Beyond Journey's End exhibition runs until 3 January at Chong Hing Square basement, with early-bird tickets on sale until 23 November."
-      },
-      "zh": {
-        "headline": "《葬送的芙莉蓮》特展11月24日起於旺角創興廣場舉行",
-        "dek": "官方動畫展於創興廣場地庫INCUBASE Arena展出至明年1月3日，早鳥票售至11月23日。"
-      }
-    },
-    {
-      "id": "2026-11-09-north-point-citybus-pedestrian-death",
-      "published_at": "2026-11-09T10:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "accident",
-        "north-point",
-        "citybus",
-        "police",
-        "kings-road"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-north-point-citybus-pedestrian-death.json",
-      "en": {
-        "headline": "Man dies after being struck by Citybus while crossing in North Point",
-        "dek": "A man in his forties was hit by a Citybus at about 8:17am on King's Road near Tin Chong Street; he was pronounced dead at Eastern Hospital at 8:54am."
-      },
-      "zh": {
-        "headline": "北角男途人疑過路遭城巴撞飛 送院後不治",
-        "dek": "今早約8時17分，一名約40歲男子在北角英皇道近電廠街橫過馬路時遭城巴撞倒，送東區醫院後於8時54分證實死亡。"
-      }
-    },
-    {
-      "id": "2026-11-09-north-point-fehd-truck-pedestrian-death",
-      "published_at": "2026-11-09T10:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "accident",
-        "north-point",
-        "fehd",
-        "police",
-        "dangerous-driving"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-north-point-fehd-truck-pedestrian-death.json",
-      "en": {
-        "headline": "Woman dies four days after being hit by FEHD contractor truck in North Point",
-        "dek": "The 60-year-old pedestrian, surnamed Ng, was struck on 4 November near the Sunbeam Theatre; the 45-year-old driver has been arrested on suspicion of dangerous driving causing death."
-      },
-      "zh": {
-        "headline": "北角食環外判貨車撞倒60歲女途人 留醫四日不治 司機涉危駕致死被捕",
-        "dek": "姓吳女子上月4日晚在新光戲院對開被撞，周日中午證實死亡；45歲姓林司機涉危險駕駛引致他人死亡，已保釋候查。"
       }
     }
   ]
