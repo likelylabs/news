@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-12T07:51:25+08:00",
+  "generated_at": "2026-11-12T08:05:09+08:00",
   "live_window_hours": 72,
   "count": 90,
   "articles": [
+    {
+      "id": "2026-11-12-tsim-sha-tsui-taxi-driver-assault-arrest",
+      "published_at": "2026-11-12T08:03:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "assault",
+        "taxi",
+        "tsim-sha-tsui",
+        "arrests"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-tsim-sha-tsui-taxi-driver-assault-arrest.json",
+      "en": {
+        "headline": "Police arrest 29-year-old man for slapping Tsim Sha Tsui taxi driver",
+        "dek": "Officers detained the suspect in Wong Tai Sin on Wednesday afternoon on suspicion of common assault after a dispute over an automatic door early Tuesday."
+      },
+      "zh": {
+        "headline": "警方拘捕29歲男子 涉掌摑尖沙咀的士司機",
+        "dek": "警方周三下午在黃大仙區以涉嫌普通襲擊拘捕姓梁男子，案件源於周二凌晨因自動車門爭執。"
+      }
+    },
+    {
+      "id": "2026-11-12-wong-tai-sin-bmw-etomidate-chase",
+      "published_at": "2026-11-12T08:03:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "drugs",
+        "wong-tai-sin",
+        "arrests",
+        "etomidate"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-wong-tai-sin-bmw-etomidate-chase.json",
+      "en": {
+        "headline": "Driver flees after police stop BMW in Wong Tai Sin; 90 etomidate capsules seized",
+        "dek": "Traffic officers pursued the white car after it failed to give way at a zebra crossing; the driver abandoned the vehicle and escaped, police said."
+      },
+      "zh": {
+        "headline": "黃大仙寶馬拒停司機逃去 警檢90粒依托咪酯",
+        "dek": "交通警因車輛在斑馬線未讓路而追截，司機棄車逃走，警方其後在車上檢獲懷疑毒品。"
+      }
+    },
     {
       "id": "2026-11-12-happy-valley-woman-death",
       "published_at": "2026-11-12T04:20:00+08:00",
@@ -1981,53 +2027,6 @@
       "zh": {
         "headline": "北角食環外判貨車撞倒60歲女途人 留醫四日不治 司機涉危駕致死被捕",
         "dek": "姓吳女子上月4日晚在新光戲院對開被撞，周日中午證實死亡；45歲姓林司機涉危險駕駛引致他人死亡，已保釋候查。"
-      }
-    },
-    {
-      "id": "2026-11-09-ransomware-cases-rise-ai-attacks",
-      "published_at": "2026-11-09T08:05:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "cybercrime",
-        "police",
-        "ransomware",
-        "ai",
-        "interpol"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-ransomware-cases-rise-ai-attacks.json",
-      "en": {
-        "headline": "Police record nearly 18 per cent rise in ransomware cases as AI aids attacks",
-        "dek": "Technology crime fell overall in the first nine months, but ransomware rose while police used their AI engine in an Interpol operation that took down more than 50,000 malicious sites."
-      },
-      "zh": {
-        "headline": "警方錄得勒索軟件個案近升一成八 人工智能助攻",
-        "dek": "首九個月科技罪案整體下跌，惟勒索軟件上升；警方以自主AI引擎聯同國際刑警行動，下架逾5萬個惡意網站。"
-      }
-    },
-    {
-      "id": "2026-11-09-strong-monsoon-signal-cold-front",
-      "published_at": "2026-11-09T08:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "monsoon",
-        "cold-front",
-        "fire-danger"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-strong-monsoon-signal-cold-front.json",
-      "en": {
-        "headline": "Strong Monsoon Signal and Red Fire Danger Warning in force as cold front arrives",
-        "dek": "The Observatory raised both signals at 06:10 HKT; northerly winds exceed 40 km/h with gusts to gale force, and temperatures will fall to about 16C by Tuesday morning."
-      },
-      "zh": {
-        "headline": "強烈季候風信號及紅色火災危險警告生效 冷鋒抵港",
-        "dek": "天文台於清晨6時10分發出兩項警告；偏北強風平均超過每小時40公里，陣風達烈風，周二早上市區最低約16度。"
       }
     }
   ]
