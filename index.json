@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-13T02:02:53+08:00",
+  "generated_at": "2026-11-13T04:20:34+08:00",
   "live_window_hours": 72,
-  "count": 96,
+  "count": 94,
   "articles": [
+    {
+      "id": "2026-11-13-education-amendment-bill-gazetted",
+      "published_at": "2026-11-13T04:20:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "education",
+        "legco",
+        "teachers",
+        "national-security"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-education-amendment-bill-gazetted.json",
+      "en": {
+        "headline": "Government gazettes Education Amendment Bill requiring teacher practising certificates",
+        "dek": "The bill, published on Friday, requires all teachers including principals to hold registration and a practising certificate valid for no more than three school years, and bars those convicted of national security…"
+      },
+      "zh": {
+        "headline": "政府刊憲《2026年教育修訂條例草案》引入教師執業證明書",
+        "dek": "草案周五刊憲，規定所有學校教師包括校長須持有教師註冊及執業證明書，有效期不超逾三個學年，並設機制防止干犯國安罪行者任教。"
+      }
+    },
+    {
+      "id": "2026-11-13-kwun-tong-man-stabbed",
+      "published_at": "2026-11-13T04:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "assault",
+        "kwun-tong",
+        "investigation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-kwun-tong-man-stabbed.json",
+      "en": {
+        "headline": "Man stabbed in Kwun Tong collapses and is rushed to hospital",
+        "dek": "Police received a report around 1:17 am of a knife attack on Fuk Yan Street near Tung Yan Street; the victim regained consciousness after treatment."
+      },
+      "zh": {
+        "headline": "觀塘男子被斬傷昏迷送院 經搶救後清醒",
+        "dek": "警方凌晨1時17分左右接獲福仁街近同仁街傷人報案，傷者左前臂受傷流血後昏迷，送伊利沙伯醫院後回復清醒，凶徒在逃。"
+      }
+    },
     {
       "id": "2026-11-13-lifestyle-bigbang-cosmos-kai-tak",
       "published_at": "2026-11-13T02:05:00+08:00",
@@ -2075,98 +2119,6 @@
       "zh": {
         "headline": "油麻地的士轉灣撞倒兩男子 一人昏迷送院",
         "dek": "警方表示，週一清晨約十二時半，一輛的士由上海街轉入北海街時撞倒兩名男子，其中一人昏迷，兩人送伊利沙伯醫院。"
-      }
-    },
-    {
-      "id": "2026-11-10-ferrari-f40-repulse-bay-arrest",
-      "published_at": "2026-11-10T04:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "repulse-bay",
-        "traffic",
-        "southern"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-ferrari-f40-repulse-bay-arrest.json",
-      "en": {
-        "headline": "Police arrest 38-year-old over Ferrari F40 near-miss with Citybus in Repulse Bay",
-        "dek": "A local man was arrested on Monday on suspicion of dangerous driving after a classic Ferrari F40 pulled out from a side road into the path of a Citybus on Saturday evening."
-      },
-      "zh": {
-        "headline": "淺水灣法拉利F40險撞城巴 38歲司機涉危駕被捕",
-        "dek": "警方周一在香港仔拘捕一名38歲本地男子，涉嫌與周六晚上淺水灣道一宗法拉利F40未讓路險撞城巴事件有關。"
-      }
-    },
-    {
-      "id": "2026-11-10-tai-mo-shan-hiker-death",
-      "published_at": "2026-11-10T04:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "hiking",
-        "tai-mo-shan",
-        "police",
-        "health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-tai-mo-shan-hiker-death.json",
-      "en": {
-        "headline": "Man dies after collapsing while hiking on Tai Mo Shan",
-        "dek": "Police and firefighters responded after a man reported chest pain on Tai Mo Shan on Monday; he was airlifted to hospital but pronounced dead."
-      },
-      "zh": {
-        "headline": "男子大帽山行山胸口痛昏迷 送院後不治",
-        "dek": "周一中午一名男子在大帽山行山時胸口痛，政府飛行服務隊直升機將他送院，最終不治。"
-      }
-    },
-    {
-      "id": "2026-11-10-cheung-shun-street-falling-table",
-      "published_at": "2026-11-10T02:04:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "lai-chi-kok",
-        "falling-object",
-        "sham-shui-po"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-cheung-shun-street-falling-table.json",
-      "en": {
-        "headline": "Woman injured after folding table falls from Cheung Sha Wan building",
-        "dek": "Police arrested a 33-year-old man on suspicion of allowing an object to fall after a table dropped onto a car and grazed a 32-year-old woman’s hand on Monday evening."
-      },
-      "zh": {
-        "headline": "長沙灣大廈摺檯墮下傷女子 33歲男子涉容許物件墮下被捕",
-        "dek": "警方表示，周一傍晚一張摺檯從長沙灣長順街工廈墮下，撞及私家車並擦傷32歲女子手部，一名33歲男子已被捕。"
-      }
-    },
-    {
-      "id": "2026-11-10-strong-monsoon-signal-cooling",
-      "published_at": "2026-11-10T02:04:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "monsoon",
-        "temperature",
-        "fire-danger"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-strong-monsoon-signal-cooling.json",
-      "en": {
-        "headline": "Observatory keeps Strong Monsoon Signal in force as temperatures fall toward 16 degrees",
-        "dek": "The Hong Kong Observatory said strong northerly winds continued under the signal issued Monday morning, with urban lows around 16 degrees expected Tuesday and a Red Fire Danger Warning still active."
-      },
-      "zh": {
-        "headline": "強烈季候風信號持續生效 氣溫將降至約16度",
-        "dek": "天文台表示，周一清晨發出的強烈季候風信號仍然生效，預料偏北強風持續，周二早上市區最低約16度，紅色火災危險警告亦維持。"
       }
     }
   ]

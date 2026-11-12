@@ -1,12 +1,6 @@
 {
   "covered": [
     {
-      "key": "lifestyle-spooky-halloween-wan-chai",
-      "id": "2026-10-30-lifestyle-spooky-halloween-wan-chai",
-      "first_seen": "2026-10-30T03:15:00+08:00",
-      "headline_en": "Spooky Halloween music carnival returns to Wan Chai waterfront"
-    },
-    {
       "key": "causeway-bay-dual-plate-prosecution",
       "id": "2026-10-30-causeway-bay-dual-plate-prosecution",
       "first_seen": "2026-10-30T07:15:00+08:00",
@@ -2225,7 +2219,19 @@
       "id": "2026-11-13-lifestyle-bigbang-cosmos-kai-tak",
       "first_seen": "2026-11-13T02:05:00+08:00",
       "headline_en": "BigBang opens 20th-anniversary Cosmos tour at Kai Tak Stadium today"
+    },
+    {
+      "key": "education-amendment-bill-gazetted-nov13",
+      "id": "2026-11-13-education-amendment-bill-gazetted",
+      "first_seen": "2026-11-13T04:20:00+08:00",
+      "headline_en": "Government gazettes Education Amendment Bill requiring teacher practising certificates"
+    },
+    {
+      "key": "kwun-tong-man-stabbed-nov13",
+      "id": "2026-11-13-kwun-tong-man-stabbed",
+      "first_seen": "2026-11-13T04:20:00+08:00",
+      "headline_en": "Man stabbed in Kwun Tong collapses and is rushed to hospital"
     }
   ],
-  "updated_at": "2026-11-13T02:02:53+08:00"
+  "updated_at": "2026-11-13T04:20:33+08:00"
 }
