@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-12T22:14:13+08:00",
+  "generated_at": "2026-11-13T00:06:44+08:00",
   "live_window_hours": 72,
-  "count": 96,
+  "count": 95,
   "articles": [
+    {
+      "id": "2026-11-13-chow-sang-sang-data-breach",
+      "published_at": "2026-11-13T00:04:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "data-breach",
+        "privacy",
+        "chow-sang-sang",
+        "pcpd",
+        "jewellery"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-chow-sang-sang-data-breach.json",
+      "en": {
+        "headline": "Chow Sang Sang detects unauthorised system access with customer and staff data possibly…",
+        "dek": "The jeweller said it first identified the incident on 9 November and has reported it to the Privacy Commissioner and police."
+      },
+      "zh": {
+        "headline": "周生生發現系統遭未授權存取 部分客戶及員工資料或曾被提取",
+        "dek": "珠寶集團表示11月9日首次識別事件，已向私隱專員公署及警方通報，並正通知可能受影響人士。"
+      }
+    },
+    {
+      "id": "2026-11-13-connaught-place-murder-reclassification",
+      "published_at": "2026-11-13T00:04:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "murder",
+        "central",
+        "assault",
+        "investigation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-connaught-place-murder-reclassification.json",
+      "en": {
+        "headline": "Police reclassify Central wounding case as murder after man dies",
+        "dek": "A 41-year-old foreign man who was found injured outside Connaught Place on 7 November was certified dead on Thursday, and two men previously charged remain remanded."
+      },
+      "zh": {
+        "headline": "警方將中環傷人案改列謀殺案 䇩歲外籍男子證實不治",
+        "dek": "11月7日在康樂廣場對開倒地受傷的41歲外籍男子於周四下午證實死亡，兩名早前被捕男子仍還押候審。"
+      }
+    },
+    {
+      "id": "2026-11-13-sogo-membership-data-breach",
+      "published_at": "2026-11-13T00:04:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "data-breach",
+        "privacy",
+        "sogo",
+        "pcpd",
+        "retail"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-sogo-membership-data-breach.json",
+      "en": {
+        "headline": "Sogo reports membership system breach potentially affecting 820000 members",
+        "dek": "The department store said unauthorised access occurred in November, with the Privacy Commissioner investigating after notification on Thursday."
+      },
+      "zh": {
+        "headline": "崇光百貨會員系統遭未授權存取 或影響約82萬名會員資料",
+        "dek": "百貨公司表示11月發現會員系統部分資料被未授權人士取得，私隱專員公署周四接獲通報後已展開調查。"
+      }
+    },
     {
       "id": "2026-11-12-fehd-operation-thunderbolt",
       "published_at": "2026-11-12T22:15:00+08:00",
@@ -2075,94 +2144,6 @@
       "zh": {
         "headline": "強烈季候風信號持續生效 氣溫將降至約16度",
         "dek": "天文台表示，周一清晨發出的強烈季候風信號仍然生效，預料偏北強風持續，周二早上市區最低約16度，紅色火災危險警告亦維持。"
-      }
-    },
-    {
-      "id": "2026-11-10-lifestyle-bad-breakfast-sheung-wan",
-      "published_at": "2026-11-10T00:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "sheung-wan",
-        "cafe",
-        "opening"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-lifestyle-bad-breakfast-sheung-wan.json",
-      "en": {
-        "headline": "Bad & Breakfast greasy-spoon cafe to open on Wing Lok Street in Sheung Wan",
-        "dek": "The outlet, a sequel to a Yau Ma Tei bar, will serve full English breakfast sets from HK$58 and cocktails at night starting this week."
-      },
-      "zh": {
-        "headline": "上環永樂街將開英式早餐咖啡店Bad & Breakfast",
-        "dek": "油麻地酒吧延續項目本周開業，全日英式早餐套餐由58元起，晚間供應雞尾酒。"
-      }
-    },
-    {
-      "id": "2026-11-10-margaret-ng-bar-judicial-review",
-      "published_at": "2026-11-10T00:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "legal",
-        "bar-association"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-margaret-ng-bar-judicial-review.json",
-      "en": {
-        "headline": "Bar Association tells High Court tribunal erred in clearing Margaret Ng",
-        "dek": "Senior counsel argued the disciplinary panel overlooked the likelihood that Ng’s 2019 unlawful assembly conviction brought the profession into disrepute."
-      },
-      "zh": {
-        "headline": "大律師公會向高院指紀律審裁組錯判吳霧儀無失當",
-        "dek": "資深大律師陳詞指審裁組忽略吳霧儀2019年非法集結定罪可能令專業蒙羞。"
-      }
-    },
-    {
-      "id": "2026-11-10-mtr-tung-chung-west-noncompliance-notice",
-      "published_at": "2026-11-10T00:05:00+08:00",
-      "updated_at": "2026-11-10T00:05:00+08:00",
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "tung-chung",
-        "construction",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-mtr-tung-chung-west-noncompliance-notice.json",
-      "en": {
-        "headline": "MTR issues non-compliance notice over Tung Chung West station columns",
-        "dek": "The operator said it issued the notice on Monday after about 30 columns were found substandard and is awaiting a remedial proposal from contractors."
-      },
-      "zh": {
-        "headline": "港鐵向東涌西站承建商發出不合規通知",
-        "dek": "港鐵表示周一就約30條欠妥支柱向承建商發出通知，正等候全面報告及補救方案。"
-      }
-    },
-    {
-      "id": "2026-11-09-northern-metropolis-development-bill",
-      "published_at": "2026-11-09T22:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "legco",
-        "northern-metropolis",
-        "development"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-northern-metropolis-development-bill.json",
-      "en": {
-        "headline": "Legco resumes second reading of Northern Metropolis Development Bill on Wednesday",
-        "dek": "The bills committee finished scrutiny after 12 meetings and about 30 hours, and the bill could complete passage this week if supported."
-      },
-      "zh": {
-        "headline": "立法會周三恢復二讀《北部都會區發展條例草案》",
-        "dek": "法案委員會完成約30小時審議，若獲支持，本周內可完成三讀程序。"
       }
     }
   ]

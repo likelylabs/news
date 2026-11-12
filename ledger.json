@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "cfs-japan-saitama-dried-fish-oct29",
-      "id": "2026-10-29-cfs-japan-dried-fish-saitama",
-      "first_seen": "2026-10-29T23:19:00+08:00",
-      "headline_en": "Centre for Food Safety probes suspected Japan import ban breach on dried fish"
-    },
-    {
-      "key": "hkia-aci-regional-council-meeting-oct29",
-      "id": "2026-10-29-hkia-aci-apac-meeting",
-      "first_seen": "2026-10-29T23:19:00+08:00",
-      "headline_en": "Hong Kong International Airport hosts Airports Council regional meeting"
-    },
-    {
       "key": "central-halloween-traffic-oct30",
       "id": "2026-10-30-central-halloween-traffic",
       "first_seen": "2026-10-30T01:05:00+08:00",
@@ -2225,7 +2213,25 @@
       "id": "2026-11-12-lifestyle-hkphil-symphony-under-stars",
       "first_seen": "2026-11-12T22:15:00+08:00",
       "headline_en": "Hong Kong Philharmonic stages free outdoor Symphony Under the Stars on Friday"
+    },
+    {
+      "key": "chow-sang-sang-unauthorized-access-nov12",
+      "id": "2026-11-13-chow-sang-sang-data-breach",
+      "first_seen": "2026-11-13T00:04:00+08:00",
+      "headline_en": "Chow Sang Sang detects unauthorised system access with customer and staff data possibly extracted"
+    },
+    {
+      "key": "connaught-place-wounding-reclassified-murder-nov12",
+      "id": "2026-11-13-connaught-place-murder-reclassification",
+      "first_seen": "2026-11-13T00:04:00+08:00",
+      "headline_en": "Police reclassify Central wounding case as murder after man dies"
+    },
+    {
+      "key": "sogo-membership-data-breach-nov12",
+      "id": "2026-11-13-sogo-membership-data-breach",
+      "first_seen": "2026-11-13T00:04:00+08:00",
+      "headline_en": "Sogo reports membership system breach potentially affecting 820000 members"
     }
   ],
-  "updated_at": "2026-11-12T22:14:13+08:00"
+  "updated_at": "2026-11-13T00:06:44+08:00"
 }
