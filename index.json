@@ -1,8 +1,55 @@
 {
-  "generated_at": "2026-11-12T16:27:05+08:00",
+  "generated_at": "2026-11-12T18:13:23+08:00",
   "live_window_hours": 72,
-  "count": 95,
+  "count": 94,
   "articles": [
+    {
+      "id": "2026-11-12-customs-endangered-species-seizure",
+      "published_at": "2026-11-12T18:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "smuggling",
+        "endangered-species",
+        "wildlife",
+        "enforcement"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-customs-endangered-species-seizure.json",
+      "en": {
+        "headline": "Customs seize HK$100 million in suspected endangered species from containers",
+        "dek": "Officers inspected four containers declared as seafood and bound for South Korea on 24 October, finding shark fins, skins and other regulated items."
+      },
+      "zh": {
+        "headline": "海關破遠洋船走私案 檢獲約值一億元瀕危物種",
+        "dek": "海關上月24日檢查四個原定運往韓國、報稱載有海鮮的貨櫃，檢獲受管制鯊魚翅、鱷魚皮、海馬等。"
+      }
+    },
+    {
+      "id": "2026-11-12-police-fake-ticket-arrests",
+      "published_at": "2026-11-12T18:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "fraud",
+        "concert",
+        "arrests",
+        "money-laundering",
+        "kai-tak"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-police-fake-ticket-arrests.json",
+      "en": {
+        "headline": "Police arrest 10 in crackdown on fake concert ticket syndicate",
+        "dek": "Officers detained six men and four women aged 18 to 46 after a two-day operation targeting social-media sales of forged tickets and related money laundering."
+      },
+      "zh": {
+        "headline": "警方破獲假門票集團拘10人 傭儡戶口處理逾8100萬元",
+        "dek": "秀茂坪警區展開「瀚濤」行動，拘6男4女，年齢18至46歲，涉嫌串謀詐騙、以欺騙手段取得財產及洗黑錢。"
+      }
+    },
     {
       "id": "2026-11-12-icac-kai-tak-hospital-bribes",
       "published_at": "2026-11-12T16:25:00+08:00",
@@ -2074,70 +2121,6 @@
       "zh": {
         "headline": "機電署發現臺日720部升降機未裝門框組件",
         "dek": "潘國英指佔該公司安裝總數約九成；兩個租置屋邨執修要求本月中完成，私樓預計兩至三個月內完成。"
-      }
-    },
-    {
-      "id": "2026-11-09-hang-seng-close-down-33",
-      "published_at": "2026-11-09T16:35:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "finance",
-        "hang-seng"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-hang-seng-close-down-33.json",
-      "en": {
-        "headline": "Hang Seng closes down 33 points at 24449",
-        "dek": "The index ended at 24,449 after trading between 24,437 and 24,733, edging lower from Friday's close of 24,482."
-      },
-      "zh": {
-        "headline": "恆指收市跌33點報24449",
-        "dek": "指數全日高見24733、低見24437，最終收報24449點，較上日收市24482點微跌。"
-      }
-    },
-    {
-      "id": "2026-11-09-legco-research-nonbinding-motions",
-      "published_at": "2026-11-09T16:35:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "legco",
-        "legislation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-legco-research-nonbinding-motions.json",
-      "en": {
-        "headline": "Legco to require research for non-binding motions from next year",
-        "dek": "Legislative Council President Starry Lee said lawmakers must submit research findings and recommendations when raising motions without legislative effect, to make debates more evidence-based."
-      },
-      "zh": {
-        "headline": "立法會明年起非立法效力議案須附研究",
-        "dek": "立法會主席李慧瓊表示，議員提出無立法效力的議案時須提交研究結果及建議，讓政府及公眾更易理解意圖，促進以證據為本的討論。"
-      }
-    },
-    {
-      "id": "2026-11-09-north-point-citybus-driver-arrest",
-      "published_at": "2026-11-09T16:35:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "accident",
-        "north-point",
-        "citybus",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-north-point-citybus-driver-arrest.json",
-      "en": {
-        "headline": "Police arrest Citybus driver after pedestrian dies in North Point",
-        "dek": "A man was struck by a Citybus at about 8am on King's Road near Tin Chong Street; he was pronounced dead at Eastern Hospital at 8.54am and the driver has been arrested."
-      },
-      "zh": {
-        "headline": "北角城巴撞倒途人致死 司機被捕",
-        "dek": "今早約8時，一名男子在北角英皇道近電廠街遭城巴撞倒，送東區醫院後於8時54分證實死亡，城巴司機已被捕。"
       }
     }
   ]

@@ -1,30 +1,6 @@
 {
   "covered": [
     {
-      "key": "banks-prime-rate-unchanged-oct29",
-      "id": "2026-10-29-banks-prime-rate-unchanged",
-      "first_seen": "2026-10-29T17:12:00+08:00",
-      "headline_en": "Major banks keep prime rates unchanged after HKMA holds base rate"
-    },
-    {
-      "key": "ck-asset-montage-sales-pause-oct29",
-      "id": "2026-10-29-ck-asset-montage-sales-pause",
-      "first_seen": "2026-10-29T17:12:00+08:00",
-      "headline_en": "CK Asset pauses sales launch at Yuen Long Montage development"
-    },
-    {
-      "key": "northern-metropolis-marathon-traffic-oct29",
-      "id": "2026-10-29-northern-metropolis-marathon-traffic",
-      "first_seen": "2026-10-29T17:12:00+08:00",
-      "headline_en": "Police remind public of traffic measures for Northern Metropolis Marathon"
-    },
-    {
-      "key": "wang-fuk-report-recommendations-oct29",
-      "id": "2026-10-29-wang-fuk-report-recommendations",
-      "first_seen": "2026-10-29T17:12:00+08:00",
-      "headline_en": "Government outlines seven reform areas after Wang Fuk fire report"
-    },
-    {
       "key": "abby-choi-trial-dna-officer-oct29",
       "id": "2026-10-29-abby-choi-trial-dna-officer",
       "first_seen": "2026-10-29T19:05:00+08:00",
@@ -2219,7 +2195,19 @@
       "id": "2026-11-12-northern-metropolis-development-bill-passed",
       "first_seen": "2026-11-12T16:25:00+08:00",
       "headline_en": "LegCo passes Northern Metropolis Development Bill to accelerate project"
+    },
+    {
+      "key": "customs-endangered-species-ocean-vessel-seizure-nov12",
+      "id": "2026-11-12-customs-endangered-species-seizure",
+      "first_seen": "2026-11-12T18:20:00+08:00",
+      "headline_en": "Customs seize HK$100 million in suspected endangered species from containers"
+    },
+    {
+      "key": "police-fake-ticket-syndicate-arrests-nov12",
+      "id": "2026-11-12-police-fake-ticket-arrests",
+      "first_seen": "2026-11-12T18:20:00+08:00",
+      "headline_en": "Police arrest 10 in crackdown on fake concert ticket syndicate"
     }
   ],
-  "updated_at": "2026-11-12T16:27:04+08:00"
+  "updated_at": "2026-11-12T18:13:23+08:00"
 }
