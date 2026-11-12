@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-12T18:13:59+08:00",
+  "generated_at": "2026-11-12T20:27:17+08:00",
   "live_window_hours": 72,
-  "count": 94,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-11-12-debt-restructuring-scam-arrest",
+      "published_at": "2026-11-12T20:30:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "fraud",
+        "scam",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-debt-restructuring-scam-arrest.json",
+      "en": {
+        "headline": "Police arrest woman over debt restructuring scam involving HK$4.9 million",
+        "dek": "A 45-year-old woman was charged with conspiracy to defraud after allegedly posing as bank staff and an accountant to collect cash from six victims in shared offices."
+      },
+      "zh": {
+        "headline": "警方破債務重組騙案拘45歲女子涉款490萬元",
+        "dek": "45歲女子被控串謀詐騙，涉嫌冒充銀行職員及會計師，在共享辦公室向六名受害人收取現金。"
+      }
+    },
+    {
+      "id": "2026-11-12-hko-special-tip-showers",
+      "published_at": "2026-11-12T20:30:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "hko",
+        "showers",
+        "thunderstorm",
+        "forecast"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-hko-special-tip-showers.json",
+      "en": {
+        "headline": "Observatory expects showers and squally thunderstorms from Friday afternoon",
+        "dek": "A special weather tip issued at 16:15 said an approaching upper-air disturbance would bring gradual showers from Friday afternoon, increasing with squally thunderstorms at night, and heavier rain at first on Saturday."
+      },
+      "zh": {
+        "headline": "天文台特別提示：周五下午起有駆雨 晚上有狂風雷暴",
+        "dek": "天文台於16時15分發出特別天氣提示，指高空擾動靠近，預料周五下午開始逐漸有幾陣駆雨，晚上駆雨增多及有幾陣狂風雷暴，周六初時雨勢頗大。"
+      }
+    },
+    {
+      "id": "2026-11-12-mary-hospital-lifts-report",
+      "published_at": "2026-11-12T20:30:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "hospital",
+        "buildings",
+        "investigation",
+        "mary-hospital"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-mary-hospital-lifts-report.json",
+      "en": {
+        "headline": "Development Bureau report cites four causes for Mary Hospital lift failures",
+        "dek": "The bureau submitted findings identifying shaft misalignment, guide rail deviations, unbalanced cabins and poor installation as main factors, with some matters referred for further investigation."
+      },
+      "zh": {
+        "headline": "發展局報告指瑪麗醫院升降機故障涉四主因",
+        "dek": "發展局向立法會提交調查報告，指出井道牆身偏差、導軌垂直度問題、機廂重心不平衡及安裝工藝欠妥為主要成因，部分事項已轉交執法部門調查。"
+      }
+    },
     {
       "id": "2026-11-12-customs-endangered-species-seizure",
       "published_at": "2026-11-12T18:20:00+08:00",
@@ -1985,142 +2051,6 @@
       "zh": {
         "headline": "立法會周三恢復二讀《北部都會區發展條例草案》",
         "dek": "法案委員會完成約30小時審議，若獲支持，本周內可完成三讀程序。"
-      }
-    },
-    {
-      "id": "2026-11-09-icac-yen-fraud-sentencing",
-      "published_at": "2026-11-09T20:26:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "icac",
-        "fraud",
-        "court",
-        "banking"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-icac-yen-fraud-sentencing.json",
-      "en": {
-        "headline": "Five sentenced in ICAC probe of 400 million yen investment fraud",
-        "dek": "District Court sentenced three defendants today to between 33 and 54 months; ICAC is seeking three more foreign suspects in the case involving fake Standard Chartered documents."
-      },
-      "zh": {
-        "headline": "廉署揭4億日圓投資詐騙案 五人判囚最高54個月 另通緝三人",
-        "dek": "區域法院今日判處三名被告介乎33至54個月監禁；廉署正通緝另外三名外籍涉案人士，案件涉及偽造渣打銀行文件。"
-      }
-    },
-    {
-      "id": "2026-11-09-lee-afc-president-meeting",
-      "published_at": "2026-11-09T20:26:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "football",
-        "john-lee",
-        "five-year-plan",
-        "kai-tak"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-lee-afc-president-meeting.json",
-      "en": {
-        "headline": "John Lee meets AFC president and outlines five-year sports strategy",
-        "dek": "The Chief Executive told Shaikh Salman bin Ebrahim Al Khalifa that Hong Kong would strengthen support for team sports and seek more top international football events with Kai Tak Sports Park."
-      },
-      "zh": {
-        "headline": "李家超會晤亞洲足協會長 介紹五年規劃體育策略",
-        "dek": "行政長官向Shaikh Salman bin Ebrahim Al Khalifa表示，政府將加強隊際運動支援，並期待藉助啟德體育園帶來更多頂級國際足球盛事。"
-      }
-    },
-    {
-      "id": "2026-11-09-tdc-bip-asia-forum-3000",
-      "published_at": "2026-11-09T20:26:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "tdc",
-        "ip",
-        "innovation",
-        "wan-chai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-tdc-bip-asia-forum-3000.json",
-      "en": {
-        "headline": "TDC expects more than 3,000 at Business of IP Asia Forum",
-        "dek": "The two-day event at the Convention and Exhibition Centre on 19 and 20 November will focus on IP commercialisation and run alongside Entrepreneur Day with over 370 startups."
-      },
-      "zh": {
-        "headline": "貿發局預期亞洲知識產權營商論壇逾3000人參與",
-        "dek": "兩日活動將於11月19及20日在灣仔會議展覽中心舉行，聚焦知識產權商業化，並與創業日同步，後者有逾370間初創企業。"
-      }
-    },
-    {
-      "id": "2026-11-09-ocean-park-tower-malfunction",
-      "published_at": "2026-11-09T18:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "ocean-park",
-        "accident",
-        "southern",
-        "fire-services"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-ocean-park-tower-malfunction.json",
-      "en": {
-        "headline": "Ocean Park Tower halts mid-air, stranding about 40 visitors",
-        "dek": "A mechanical fault stopped the observation cabin at about 3.30pm on Monday; one visitor felt unwell and was brought down by firefighters, with no injuries reported."
-      },
-      "zh": {
-        "headline": "海洋公園摩天塔機件故障 約40人一度被困半空",
-        "dek": "星期一約下午3時半觀光塔停於半空，一名遊客感到不適由消防人員游繩帶離，暫未有人受傷。"
-      }
-    },
-    {
-      "id": "2026-11-09-robots-in-community-pilot",
-      "published_at": "2026-11-09T18:15:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "ai",
-        "robots",
-        "community",
-        "digital-policy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-robots-in-community-pilot.json",
-      "en": {
-        "headline": "Digital Policy Office opens applications for robot community pilot",
-        "dek": "Eligible groups may borrow the humanoid Smart Bot free of charge for public events between 15 December and 28 February; the deadline is noon on 20 November."
-      },
-      "zh": {
-        "headline": "數字辦「機器人走入社區」試驗計劃接受申請",
-        "dek": "合資格機構可免費借用人形機器人「友智寶」參與12月15日至2月28日的免費社區活動，截止時間為11月20日正午。"
-      }
-    },
-    {
-      "id": "2026-11-09-tai-zoom-elevator-missing-frames",
-      "published_at": "2026-11-09T18:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "emsd",
-        "elevators",
-        "safety",
-        "housing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-tai-zoom-elevator-missing-frames.json",
-      "en": {
-        "headline": "EMSD finds 720 Tai Zoom lifts missing door-frame parts",
-        "dek": "Director Pang Kwok-ying said about 90 per cent of the contractor’s installations lacked required components; remedial work on two estates is due mid-month and private buildings within two to three months."
-      },
-      "zh": {
-        "headline": "機電署發現臺日720部升降機未裝門框組件",
-        "dek": "潘國英指佔該公司安裝總數約九成；兩個租置屋邨執修要求本月中完成，私樓預計兩至三個月內完成。"
       }
     }
   ]
