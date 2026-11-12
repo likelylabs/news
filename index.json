@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-13T00:06:44+08:00",
+  "generated_at": "2026-11-13T02:02:53+08:00",
   "live_window_hours": 72,
-  "count": 95,
+  "count": 96,
   "articles": [
+    {
+      "id": "2026-11-13-lifestyle-bigbang-cosmos-kai-tak",
+      "published_at": "2026-11-13T02:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "concert",
+        "kai-tak",
+        "music",
+        "bigbang"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-lifestyle-bigbang-cosmos-kai-tak.json",
+      "en": {
+        "headline": "BigBang opens 20th-anniversary Cosmos tour at Kai Tak Stadium today",
+        "dek": "The K-pop group performs the first of four shows at Kai Tak Stadium from 7 pm, with security checks opening from 11 am and merchandise available to ticket holders."
+      },
+      "zh": {
+        "headline": "BigBang今日啟德主場館展開20周年Cosmos巡迴",
+        "dek": "組合於晚上7時舉行四場中的首場演出，安檢站上午11時開放，周邊商品僅限當日門票持有人購買。"
+      }
+    },
     {
       "id": "2026-11-13-chow-sang-sang-data-breach",
       "published_at": "2026-11-13T00:04:00+08:00",

@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "central-halloween-traffic-oct30",
-      "id": "2026-10-30-central-halloween-traffic",
-      "first_seen": "2026-10-30T01:05:00+08:00",
-      "headline_en": "Police set phased road closures in Central for Halloween"
-    },
-    {
-      "key": "lifestyle-tai-kwun-framed-oct30",
-      "id": "2026-10-30-lifestyle-tai-kwun-framed",
-      "first_seen": "2026-10-30T01:05:00+08:00",
-      "headline_en": "Tai Kwun stages FRAMED Halloween night in former prison yard"
-    },
-    {
       "key": "lifestyle-spooky-halloween-wan-chai",
       "id": "2026-10-30-lifestyle-spooky-halloween-wan-chai",
       "first_seen": "2026-10-30T03:15:00+08:00",
@@ -2231,7 +2219,13 @@
       "id": "2026-11-13-sogo-membership-data-breach",
       "first_seen": "2026-11-13T00:04:00+08:00",
       "headline_en": "Sogo reports membership system breach potentially affecting 820000 members"
+    },
+    {
+      "key": "lifestyle-bigbang-cosmos-kai-tak-nov13",
+      "id": "2026-11-13-lifestyle-bigbang-cosmos-kai-tak",
+      "first_seen": "2026-11-13T02:05:00+08:00",
+      "headline_en": "BigBang opens 20th-anniversary Cosmos tour at Kai Tak Stadium today"
     }
   ],
-  "updated_at": "2026-11-13T00:06:44+08:00"
+  "updated_at": "2026-11-13T02:02:53+08:00"
 }
