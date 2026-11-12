@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-12T12:15:11+08:00",
+  "generated_at": "2026-11-12T14:17:16+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 95,
   "articles": [
+    {
+      "id": "2026-11-12-buildings-removal-orders-fines",
+      "published_at": "2026-11-12T14:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "buildings",
+        "enforcement",
+        "property",
+        "sha-tin",
+        "tuen-mun"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-buildings-removal-orders-fines.json",
+      "en": {
+        "headline": "Five property owners fined over HK$320,000 for ignoring removal orders",
+        "dek": "The Buildings Department said the convictions at Sha Tin and West Kowloon courts involved unauthorised walls, rooftop structures and other works."
+      },
+      "zh": {
+        "headline": "五名業主未遵清拆令共罰逾32萬元",
+        "dek": "屋宇署表示，沙田及西九龍裁判法院裁定的案件涉及僭建護土牆、天台搭建物及其他工程。"
+      }
+    },
+    {
+      "id": "2026-11-12-lifestyle-design-hkg-peak",
+      "published_at": "2026-11-12T14:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "peak",
+        "design",
+        "hong-kong-design-centre"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-lifestyle-design-hkg-peak.json",
+      "en": {
+        "headline": "Design at HKG runs Peak sensory installation until 24 November",
+        "dek": "The Hong Kong Design Centre's programme includes a free multi-sensory installation at the Peak and other citywide events through late November."
+      },
+      "zh": {
+        "headline": "設計@HKG山頂多感官裝置展至11月24日",
+        "dek": "香港設計中心主辦的活動包括山頂免費多感官裝置，以及全城其他設計項目，主要活動期至本月下旬。"
+      }
+    },
+    {
+      "id": "2026-11-12-m-mark-sports-events",
+      "published_at": "2026-11-12T14:20:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sports",
+        "badminton",
+        "basketball",
+        "squash",
+        "m-mark"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-m-mark-sports-events.json",
+      "en": {
+        "headline": "Three sports events receive M Mark status for November and December",
+        "dek": "The Major Sports Events Committee awarded recognition to the Hong Kong Open badminton, FIBA 3x3 basketball and Hong Kong Squash Open."
+      },
+      "zh": {
+        "headline": "三項體育盛事獲頒M品牌認可 涵蓋羽球籃球壁球",
+        "dek": "大型體育活動事務委員會向香港公開羽毛球錦標賽、FIBA 3x3世界巡迴賽及香港壁球公開賽授予認可。"
+      }
+    },
     {
       "id": "2026-11-12-education-amendment-bill-gazette",
       "published_at": "2026-11-12T12:15:00+08:00",
