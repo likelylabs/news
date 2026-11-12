@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-11-12T09:57:09+08:00",
+  "generated_at": "2026-11-12T10:13:49+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 93,
   "articles": [
+    {
+      "id": "2026-11-12-customs-chung-ying-frozen-meat",
+      "published_at": "2026-11-12T10:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "smuggling",
+        "food-safety",
+        "sha-tau-kok",
+        "arrests"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-customs-chung-ying-frozen-meat.json",
+      "en": {
+        "headline": "Customs seize over a tonne of smuggled frozen meat and food from Chung Ying Street route",
+        "dek": "Nine people were arrested after officers intercepted vans carrying roughly 570 kg of frozen meat and 500 kg of other food believed to have entered via Sha Tau Kok."
+      },
+      "zh": {
+        "headline": "海關破中英街走私凍肉案 檢逾噸貨拘9人",
+        "dek": "海關截查貨車，檢獲約570公斤凍肉及500公斤其他食品，相信經沙頭角中英街入境後分銷至街市及住宅，9人被捕。"
+      }
+    },
+    {
+      "id": "2026-11-12-lifestyle-oil-street-luofu-exhibition",
+      "published_at": "2026-11-12T10:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "north-point",
+        "art",
+        "oil-street"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-lifestyle-oil-street-luofu-exhibition.json",
+      "en": {
+        "headline": "Oil Street Art Space opens free Luofu exhibition with new works by three artists",
+        "dek": "The Leisure and Cultural Services Department exhibition reinterprets the historic mountain through painting, calligraphy and interactive installations, open from 11 November at 12 Oil Street."
+      },
+      "zh": {
+        "headline": "油街實現免費新展「羅浮香影」 三名本地藝術家重新演繹羅浮山",
+        "dek": "康文署主辦展覽由11月11日起在北角油街12號油街玻璃屋展出，作品涵蓋書法、屏風及互動裝置。"
+      }
+    },
+    {
+      "id": "2026-11-12-tseung-kwan-o-garage-owner-death",
+      "published_at": "2026-11-12T10:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tseung-kwan-o",
+        "accident",
+        "police",
+        "industrial"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-tseung-kwan-o-garage-owner-death.json",
+      "en": {
+        "headline": "72-year-old garage owner dies after car falls on him in Tseung Kwan O",
+        "dek": "Police said the man was crushed under a private car he was repairing when the jack apparently failed at a workshop in Sheung Tsuen on Wednesday afternoon."
+      },
+      "zh": {
+        "headline": "將軍澳上村72歲車房東主遭私家車壓死",
+        "dek": "警方表示，事主周三下午在穎禮路戶外修車場維修自己的私家車時，千斤頂疑故障，被車壓住送院後不治。"
+      }
+    },
     {
       "id": "2026-11-12-tsim-sha-tsui-taxi-driver-assault-arrest",
       "published_at": "2026-11-12T08:03:00+08:00",
