@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-12T14:17:16+08:00",
+  "generated_at": "2026-11-12T16:26:33+08:00",
   "live_window_hours": 72,
   "count": 95,
   "articles": [
+    {
+      "id": "2026-11-12-icac-kai-tak-hospital-bribes",
+      "published_at": "2026-11-12T16:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "icac",
+        "kai-tak",
+        "corruption",
+        "construction",
+        "bribery"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-icac-kai-tak-hospital-bribes.json",
+      "en": {
+        "headline": "ICAC charges Kai Tak Hospital site team leader over bribes from workers",
+        "dek": "A 52-year-old subcontractor team leader faces 10 counts of accepting advantages totalling HK$75,100 from five imported electrical workers."
+      },
+      "zh": {
+        "headline": "廉署起訴啟德醫院建築項目分判商工頭涉收賄",
+        "dek": "52歲分判商工頭面對10項代理人接受利益控罪，涉向五名輸入電工收取共75,100元。"
+      }
+    },
+    {
+      "id": "2026-11-12-northern-metropolis-development-bill-passed",
+      "published_at": "2026-11-12T16:25:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "northern-metropolis",
+        "legco",
+        "development",
+        "legislation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-12/2026-11-12-northern-metropolis-development-bill-passed.json",
+      "en": {
+        "headline": "LegCo passes Northern Metropolis Development Bill to accelerate project",
+        "dek": "Lawmakers unanimously approved the dedicated legislation on Thursday after two days of debate, with the Development Bureau saying it will streamline planning and land procedures."
+      },
+      "zh": {
+        "headline": "立法會三讀通過北部都會區發展條例草案 加快項目推進",
+        "dek": "議員經過兩日辯論後於周四一致通過這項專屬法例，發展局表示將有助簡化規劃及地政程序。"
+      }
+    },
     {
       "id": "2026-11-12-buildings-removal-orders-fines",
       "published_at": "2026-11-12T14:20:00+08:00",
@@ -2093,52 +2138,6 @@
       "zh": {
         "headline": "北角城巴撞倒途人致死 司機被捕",
         "dek": "今早約8時，一名男子在北角英皇道近電廠街遭城巴撞倒，送東區醫院後於8時54分證實死亡，城巴司機已被捕。"
-      }
-    },
-    {
-      "id": "2026-11-09-lifestyle-muji-25th-anniversary-exhibition",
-      "published_at": "2026-11-09T14:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "central",
-        "muji",
-        "shopping"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-lifestyle-muji-25th-anniversary-exhibition.json",
-      "en": {
-        "headline": "MUJI marks 25 years in Hong Kong with Central exhibition and Ferris-wheel installation",
-        "dek": "The free “Origin. From MUJI” display runs until 29 November on the first floor of Man Yee Building, featuring a large Ferris-wheel structure and brand milestones."
-      },
-      "zh": {
-        "headline": "無印良品香港25周年 中環萬宜大廈展出巨型摩天輪裝置",
-        "dek": "「原點．源於 無印良品」主題展覽即日起至11月29日於萬宜大廈商場1樓中庭舉行，設大型摩天輪打卡點，免費入場。"
-      }
-    },
-    {
-      "id": "2026-11-09-paul-chan-afrc-forum-ipo",
-      "published_at": "2026-11-09T14:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "finance",
-        "ipo",
-        "ai",
-        "accounting"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-09/2026-11-09-paul-chan-afrc-forum-ipo.json",
-      "en": {
-        "headline": "Chan says firms accelerating supply-chain diversification amid geopolitical uncertainty",
-        "dek": "The Financial Secretary told the AFRC Regional Regulatory Forum that Hong Kong saw 121 new listings in the first 10 months raising over HK$400 billion, up 40 per cent on all of last year."
-      },
-      "zh": {
-        "headline": "陳茂波：地緣政治不確定下企業加速供應鏈多元化",
-        "dek": "財政司司長在會財局區域監管論壇表示，今年首十個月本港有121宗新股上市，集資逾4000億元，較去年全年增四成。"
       }
     }
   ]
