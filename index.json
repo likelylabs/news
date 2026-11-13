@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-13T22:14:03+08:00",
+  "generated_at": "2026-11-14T00:08:06+08:00",
   "live_window_hours": 72,
-  "count": 98,
+  "count": 94,
   "articles": [
+    {
+      "id": "2026-11-14-lifestyle-chat-oh-haji-becoming-flowers",
+      "published_at": "2026-11-14T00:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "tsuen-wan",
+        "textile",
+        "chat"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-lifestyle-chat-oh-haji-becoming-flowers.json",
+      "en": {
+        "headline": "CHAT opens Oh Haji first Hong Kong solo exhibition in Tsuen Wan",
+        "dek": "The textile artist’s Becoming Flowers runs until 28 February at The Mills, exploring diasporic memory and female resilience through weaving, embroidery and dyeing."
+      },
+      "zh": {
+        "headline": "CHAT六廠荃灣開幕吳夏枝香港首個展",
+        "dek": "紡織藝術家《花自漫生》展期至明年2月28日，於南豐紗廠透過編織、刺繡及染色探索離散記憶與女性韌性。"
+      }
+    },
+    {
+      "id": "2026-11-14-weekend-weather-outlook-nov14-15",
+      "published_at": "2026-11-14T00:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "weekend",
+        "observatory",
+        "forecast"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-weekend-weather-outlook-nov14-15.json",
+      "en": {
+        "headline": "Observatory expects heavy early Saturday showers then mainly fine Sunday",
+        "dek": "Saturday begins with heavy showers and possible squally thunderstorms before easing with sunny periods, while Sunday is forecast mainly fine with temperatures up to 28 degrees."
+      },
+      "zh": {
+        "headline": "天文台預料周六初時雨勢頗大周日大致天晴",
+        "dek": "香港天文台預測周六初時有大驟雨及幾陣狂風雷暴，日間減弱下午有陽光；周日大致天晴，氣溫介乎22至28度。"
+      }
+    },
     {
       "id": "2026-11-13-imported-mpox-case-34yo",
       "published_at": "2026-11-13T22:15:00+08:00",
@@ -2067,143 +2112,6 @@
       "zh": {
         "headline": "屯門NOVO LAND廚刀襲擊案 警方追緝38歲男子",
         "dek": "23歲女子前額有約2厘米刀傷及腳部瘀傷，案件列作襲擊致造成身體傷害，屯門警區刑事調查隊第一隊跟進，暫未有人被捕。"
-      }
-    },
-    {
-      "id": "2026-11-10-afcd-cheung-chau-dogs",
-      "published_at": "2026-11-10T22:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "afcd",
-        "cheung-chau",
-        "dogs",
-        "animal-welfare",
-        "public-safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-afcd-cheung-chau-dogs.json",
-      "en": {
-        "headline": "AFCD captures two unchipped mongrels on Cheung Chau after resident complaints",
-        "dek": "The dogs were found unsupervised near Tung Tai San Tsuen and Cheung Kwai Estate on Monday and taken to an animal management centre for observation."
-      },
-      "zh": {
-        "headline": "漁護署在長洲捕捉兩隻無晶片無人看管唐狗",
-        "dek": "署方周一在東堤新邨及長貴邨一帶展開特別行動，兩隻唐狗已送往動物管理中心觀察。"
-      }
-    },
-    {
-      "id": "2026-11-10-alibaba-thead-hk-ipo",
-      "published_at": "2026-11-10T22:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "alibaba",
-        "ipo",
-        "technology",
-        "chips",
-        "ai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-alibaba-thead-hk-ipo.json",
-      "en": {
-        "headline": "Alibaba chip unit T-Head files confidential application for Hong Kong IPO",
-        "dek": "The company said T-Head submitted a Form A1 application on 11 September after the stock exchange cleared the proposed spin-off, with deal size still undecided."
-      },
-      "zh": {
-        "headline": "阿里巴巴晶片單位平頭哥提交香港上市機密申請",
-        "dek": "公司表示平頭哥於九月十一日提交A1表格申請，港交所已批准分拆，集資規模仍未敲定。"
-      }
-    },
-    {
-      "id": "2026-11-10-cfs-uk-poultry-import-suspension",
-      "published_at": "2026-11-10T22:20:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "food-safety",
-        "poultry",
-        "bird-flu",
-        "import",
-        "cfs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-cfs-uk-poultry-import-suspension.json",
-      "en": {
-        "headline": "Centre for Food Safety suspends poultry imports from North Lincolnshire in UK",
-        "dek": "The move follows a World Organisation for Animal Health notification of highly pathogenic H5N1 avian influenza in the area, with the suspension taking immediate effect."
-      },
-      "zh": {
-        "headline": "食安中心暫停英國林肯郡北林肯郡禽肉及禽類產品進口",
-        "dek": "措施因應世界動物衞生組織通報當地爆發高致病性H5N1禽流感而即時生效，以保障本港公眾健康。"
-      }
-    },
-    {
-      "id": "2026-11-10-lifestyle-polyu-henceforth-exhibition",
-      "published_at": "2026-11-10T22:20:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "design",
-        "polyu",
-        "tsim-sha-tsui"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-lifestyle-polyu-henceforth-exhibition.json",
-      "en": {
-        "headline": "PolyU students open speculative furniture exhibition on Hong Kong’s future in Tsim Sha…",
-        "dek": "Henceforth… Hong Kong… runs free at The Grid in Heath Mall from 10 to 24 November, with nine pieces exploring density, ageing and resources over the next 50 years."
-      },
-      "zh": {
-        "headline": "理大設計學生尖沙咀展出構想未來香港的家具作品",
-        "dek": "「今後香港」展覽即日起至十一月二十四日在希慎道商場The Grid免費舉行，九件作品探討未來五十年密度、人口老化與資源問題。"
-      }
-    },
-    {
-      "id": "2026-11-10-red-fire-danger-continues",
-      "published_at": "2026-11-10T22:20:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "fire-danger",
-        "dry"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-red-fire-danger-continues.json",
-      "en": {
-        "headline": "Red Fire Danger Warning remains in force with extreme fire risk",
-        "dek": "The Hong Kong Observatory said the warning, issued at 6.10am on Monday, continues as relative humidity stays low and conditions remain dry."
-      },
-      "zh": {
-        "headline": "紅色火災危險警告仍然生效 火災危險性極高",
-        "dek": "天文台指警告自周一上午六時十分發出後持續，相對濕度偏低，天氣乾燥。"
-      }
-    },
-    {
-      "id": "2026-11-10-sun-site-smoking-inspections",
-      "published_at": "2026-11-10T22:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "labour",
-        "smoking",
-        "construction",
-        "safety",
-        "sun-yuk-han"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-sun-site-smoking-inspections.json",
-      "en": {
-        "headline": "Labour chief says 7300 construction sites inspected under smoking ban, 84 fixed…",
-        "dek": "Sun Yuk-han said most of the inspections since the July 17 ban were surprise checks and that contractors faced five summonses over failure to take reasonable steps."
-      },
-      "zh": {
-        "headline": "孫玉菡稱地盤禁煙後巡查7300個工地 發出84張定額罰款",
-        "dek": "勞工及福利局局長表示大部分為突擊檢查，並向承建商發出五張告票，涉四宗未採取合理步驟個案。"
       }
     }
   ]
