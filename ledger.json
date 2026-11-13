@@ -1,30 +1,6 @@
 {
   "covered": [
     {
-      "key": "cathay-amadeus-data-breach-oct30",
-      "id": "2026-10-30-cathay-amadeus-data-breach",
-      "first_seen": "2026-10-30T19:06:00+08:00",
-      "headline_en": "Cathay Pacific says 53000 bookings affected in Amadeus data breach"
-    },
-    {
-      "key": "election-committee-nominations-valid-oct30",
-      "id": "2026-10-30-election-committee-nominations-valid",
-      "first_seen": "2026-10-30T19:06:00+08:00",
-      "headline_en": "Candidate Eligibility Committee rules 1115 Election Committee nominations valid"
-    },
-    {
-      "key": "fiscal-surplus-first-six-months-oct30",
-      "id": "2026-10-30-fiscal-surplus-first-six-months",
-      "first_seen": "2026-10-30T19:06:00+08:00",
-      "headline_en": "Government records HK$16.2 billion surplus in first six months of fiscal year"
-    },
-    {
-      "key": "imported-dengue-chikungunya-oct30",
-      "id": "2026-10-30-imported-dengue-chikungunya-cases",
-      "first_seen": "2026-10-30T19:06:00+08:00",
-      "headline_en": "Centre for Health Protection records four imported dengue and one chikungunya case"
-    },
-    {
       "key": "kmb-b10s-overnight-route-nov1",
       "id": "2026-10-30-kmb-b10s-overnight-huanggang",
       "first_seen": "2026-10-30T21:05:00+08:00",
@@ -2261,7 +2237,31 @@
       "id": "2026-11-13-lifestyle-arts-in-the-park-2026",
       "first_seen": "2026-11-13T18:15:00+08:00",
       "headline_en": "Standard Chartered Arts in the Park returns to Causeway Bay this weekend"
+    },
+    {
+      "key": "capital-investment-entrant-scheme-5000-applications",
+      "id": "2026-11-13-capital-investment-scheme-5000",
+      "first_seen": "2026-11-13T20:25:00+08:00",
+      "headline_en": "New Capital Investment Entrant Scheme exceeds 5000 applications"
+    },
+    {
+      "key": "gdp-growth-forecast-4-8-2026",
+      "id": "2026-11-13-gdp-growth-forecast-4-8",
+      "first_seen": "2026-11-13T20:25:00+08:00",
+      "headline_en": "Government raises 2026 GDP growth forecast to 4.8 percent"
+    },
+    {
+      "key": "hkpo-symphony-under-stars-postponed-nov14",
+      "id": "2026-11-13-hkpo-symphony-stars-postponed",
+      "first_seen": "2026-11-13T20:25:00+08:00",
+      "headline_en": "Hong Kong Philharmonic postpones Symphony Under the Stars to Saturday"
+    },
+    {
+      "key": "tuen-mun-highway-truck-fire-nov13",
+      "id": "2026-11-13-tuen-mun-highway-truck-fire",
+      "first_seen": "2026-11-13T20:25:00+08:00",
+      "headline_en": "Truck catches fire on Tuen Mun Highway, driver escapes unhurt"
     }
   ],
-  "updated_at": "2026-11-13T18:13:54+08:00"
+  "updated_at": "2026-11-13T20:26:52+08:00"
 }

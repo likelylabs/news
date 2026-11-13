@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-11-13T18:13:54+08:00",
+  "generated_at": "2026-11-13T20:26:52+08:00",
   "live_window_hours": 72,
-  "count": 96,
+  "count": 97,
   "articles": [
+    {
+      "id": "2026-11-13-capital-investment-scheme-5000",
+      "published_at": "2026-11-13T20:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "investment",
+        "immigration",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-capital-investment-scheme-5000.json",
+      "en": {
+        "headline": "New Capital Investment Entrant Scheme exceeds 5000 applications",
+        "dek": "The Financial Services and the Treasury Bureau said applications as of end-October are expected to bring more than HK$150 billion in investment, with over 3000 already approved."
+      },
+      "zh": {
+        "headline": "新資本投資者入境計劃申請突破5000宗",
+        "dek": "財經事務及庫務局表示，至10月底申請料帶來超過1500億元投資，當中逾3000宗已獲正式批准。"
+      }
+    },
+    {
+      "id": "2026-11-13-gdp-growth-forecast-4-8",
+      "published_at": "2026-11-13T20:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "economy",
+        "gdp",
+        "forecast"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-gdp-growth-forecast-4-8.json",
+      "en": {
+        "headline": "Government raises 2026 GDP growth forecast to 4.8 percent",
+        "dek": "Government Economist Irina Fan said third-quarter growth reached 5.2 percent, with the first nine months expanding 5.1 percent, the fastest pace in five years."
+      },
+      "zh": {
+        "headline": "政府上調2026年全年經濟增長預測至4.8%",
+        "dek": "政府經濟顧問范婉兒表示，第三季經濟增長5.2%，首三季合共增長5.1%，為五年來同期最快。"
+      }
+    },
+    {
+      "id": "2026-11-13-hkpo-symphony-stars-postponed",
+      "published_at": "2026-11-13T20:25:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "culture",
+        "concert",
+        "central",
+        "weather"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-hkpo-symphony-stars-postponed.json",
+      "en": {
+        "headline": "Hong Kong Philharmonic postpones Symphony Under the Stars to Saturday",
+        "dek": "The outdoor concert at the Central Harbourfront, originally set for Friday evening, is delayed until 7:30pm on Saturday because of expected showers and thunderstorms."
+      },
+      "zh": {
+        "headline": "港樂因天氣將星夜交響曲延至周六舉行",
+        "dek": "原訂周五晚於中環海濱舉行的戶外音樂會，因預料驟雨及狂風雷暴，改期至周六晚上7時30分，原有門票仍然有效。"
+      }
+    },
+    {
+      "id": "2026-11-13-tuen-mun-highway-truck-fire",
+      "published_at": "2026-11-13T20:25:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "tuen-mun",
+        "fire",
+        "accident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-tuen-mun-highway-truck-fire.json",
+      "en": {
+        "headline": "Truck catches fire on Tuen Mun Highway, driver escapes unhurt",
+        "dek": "The fire broke out around 3:39pm on the Kowloon-bound lanes near Tuen Mun Town Plaza; firefighters extinguished it by about 4pm with no injuries reported."
+      },
+      "zh": {
+        "headline": "屯門公路貨車起火 司機及時逃生無人受傷",
+        "dek": "事發下午3時39分左右，往九龍方向近屯門市廣場路段，消防約4時將火勢救熄，部分行車線一度封閉。"
+      }
+    },
     {
       "id": "2026-11-13-hzmb-half-marathon-traffic",
       "published_at": "2026-11-13T18:15:00+08:00",
@@ -2096,72 +2184,6 @@
       "zh": {
         "headline": "葵涌物流中心男工連人帶叉車墮載貨台 頭部受傷送院",
         "dek": "65歲男工人於貨櫃碼頭南路和黃物流中心駕駛叉車時連人帶車由約1.3米高平台墮下，一度被困，清醒送瑪嘉烈醫院，警方調查中。"
-      }
-    },
-    {
-      "id": "2026-11-10-hang-seng-close-up-108",
-      "published_at": "2026-11-10T18:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "stocks",
-        "market",
-        "hsbc"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-hang-seng-close-up-108.json",
-      "en": {
-        "headline": "Hang Seng Index closes up 108 points at 24557 as financial and AI stocks gain",
-        "dek": "The benchmark rose 0.44 per cent on Tuesday, with HSBC climbing more than 4 per cent while the Hang Seng Tech Index gained 1.08 per cent."
-      },
-      "zh": {
-        "headline": "港股高收108點報24557 金融及AI股造好滙控升逾4%",
-        "dek": "恒生指數周二升0.44%，滙控升逾百分之四，恒生科技指數升1.08%。"
-      }
-    },
-    {
-      "id": "2026-11-10-northern-link-full-project-agreement",
-      "published_at": "2026-11-10T18:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "northern-metropolis",
-        "rail",
-        "infrastructure"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-northern-link-full-project-agreement.json",
-      "en": {
-        "headline": "Government and MTR sign full Northern Link project agreement with construction cost at…",
-        "dek": "The Chief Executive in Council approved the financial arrangement for Part 2 on Tuesday, bringing the entire project 28 per cent below the original estimate and targeting opening by 2034."
-      },
-      "zh": {
-        "headline": "政府與港鐵簽訂北環線全線項目協議 建造成本預算總計862億",
-        "dek": "行政長官會同行政會議周二批准第二部分財務安排，整個項目建造成本較原先估算減少兩成八，目標二〇三四年或之前開通。"
-      }
-    },
-    {
-      "id": "2026-11-10-yuen-long-demolition-contractors-fined",
-      "published_at": "2026-11-10T18:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "labour",
-        "safety",
-        "yuen-long",
-        "court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-yuen-long-demolition-contractors-fined.json",
-      "en": {
-        "headline": "Contractors fined up to HK$155,000 over fatal Yuen Long village house demolition accident",
-        "dek": "The Labour Department prosecuted three parties after a female worker was killed when a brick wall collapsed during clearance work in November last year."
-      },
-      "zh": {
-        "headline": "元朗拆卸村屋致命意外 工程公司及承建商被罰13萬至15.5萬",
-        "dek": "勞工處就去年十一月一名女工在人手清理工作時遭磚牆倒塌壓斃事件提出檢控，粉嶺裁判法院周二判罰三方。"
       }
     }
   ]
