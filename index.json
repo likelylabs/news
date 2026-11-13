@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-13T04:20:34+08:00",
+  "generated_at": "2026-11-13T08:05:59+08:00",
   "live_window_hours": 72,
-  "count": 94,
+  "count": 97,
   "articles": [
+    {
+      "id": "2026-11-13-customs-fanling-illicit-cigarettes",
+      "published_at": "2026-11-13T08:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "illicit-cigarettes",
+        "fanling",
+        "arrests"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-customs-fanling-illicit-cigarettes.json",
+      "en": {
+        "headline": "Customs seizes 250000 illicit cigarettes in Fanling, arrests five men",
+        "dek": "Officers found the cigarettes in vehicles at Wah Ming Estate on Thursday, with a market value of about HK$1.1 million; the five men aged 30 to 55 have been charged."
+      },
+      "zh": {
+        "headline": "海關粉嶺華明邨破兩宗私煙案 檢獲約25萬支拘5男",
+        "dek": "關員周四在華明邨發現涉案車輛，檢獲懷疑私煙市值約110萬元，五名30至55歲男子已被起訴。"
+      }
+    },
+    {
+      "id": "2026-11-13-lifestyle-airside-pixar-40th",
+      "published_at": "2026-11-13T08:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "kai-tak",
+        "pixar"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-lifestyle-airside-pixar-40th.json",
+      "en": {
+        "headline": "AIRSIDE opens Pixar 40th-anniversary exhibition in Kai Tak from today",
+        "dek": "The display runs until 3 January at the Kai Tak mall, with four themed zones, a six-metre Christmas tree and a pop-up store offering limited merchandise."
+      },
+      "zh": {
+        "headline": "啟德AIRSIDE今起展出Pixar 40周年特展至明年1月",
+        "dek": "商場設四大主題區、6米高聖誕樹及期間限定店，展期至2027年1月3日，每日上午10時至晚上10時開放。"
+      }
+    },
+    {
+      "id": "2026-11-13-police-illegal-ride-hailing-arrests",
+      "published_at": "2026-11-13T08:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "police",
+        "transport",
+        "ride-hailing",
+        "arrests",
+        "kai-tak"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-police-illegal-ride-hailing-arrests.json",
+      "en": {
+        "headline": "Police arrest 12 men in crackdown on illegal ride-hailing cars",
+        "dek": "Five local and seven mainland men were held between 27 October and Thursday; seven mainland suspects have been charged and remanded while police step up checks near Kai Tak concerts."
+      },
+      "zh": {
+        "headline": "警方兩周打擊白牌車拘12男 7名內地司機還押候審",
+        "dek": "上月27日至周四行動中拘捕5名本地及7名內地男子，扣查12輛私家車；因應啟德演唱會警方加強巡查。"
+      }
+    },
     {
       "id": "2026-11-13-education-amendment-bill-gazetted",
       "published_at": "2026-11-13T04:20:00+08:00",
