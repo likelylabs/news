@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "kmb-b10s-overnight-route-nov1",
-      "id": "2026-10-30-kmb-b10s-overnight-huanggang",
-      "first_seen": "2026-10-30T21:05:00+08:00",
-      "headline_en": "KMB adds overnight B10S route to Huanggang Port early Sunday"
-    },
-    {
-      "key": "united-christian-hospital-data-leak-pcpd-report-oct30",
-      "id": "2026-10-30-united-christian-hospital-data-leak-report",
-      "first_seen": "2026-10-30T21:05:00+08:00",
-      "headline_en": "Privacy Commissioner finds Hospital Authority deficiencies in United Christian Hospital data leak"
-    },
-    {
       "key": "city-hall-sculptures-theft-oct30",
       "id": "2026-10-30-city-hall-sculptures-theft",
       "first_seen": "2026-10-30T23:25:00+08:00",
@@ -2261,7 +2249,25 @@
       "id": "2026-11-13-tuen-mun-highway-truck-fire",
       "first_seen": "2026-11-13T20:25:00+08:00",
       "headline_en": "Truck catches fire on Tuen Mun Highway, driver escapes unhurt"
+    },
+    {
+      "key": "imported-mpox-case-34yo-nov13",
+      "id": "2026-11-13-imported-mpox-case-34yo",
+      "first_seen": "2026-11-13T22:15:00+08:00",
+      "headline_en": "Centre for Health Protection investigates imported mpox case in 34-year-old man"
+    },
+    {
+      "key": "mai-po-h5-avian-flu-samples-nov13",
+      "id": "2026-11-13-mai-po-h5-avian-flu-samples",
+      "first_seen": "2026-11-13T22:15:00+08:00",
+      "headline_en": "H5 avian flu virus detected in two Mai Po Nature Reserve samples"
+    },
+    {
+      "key": "paediatric-influenza-death-14-month-nov13",
+      "id": "2026-11-13-paediatric-influenza-death-14-month",
+      "first_seen": "2026-11-13T22:15:00+08:00",
+      "headline_en": "14-month-old girl dies from influenza A, third child fatality this season"
     }
   ],
-  "updated_at": "2026-11-13T20:26:52+08:00"
+  "updated_at": "2026-11-13T22:14:03+08:00"
 }

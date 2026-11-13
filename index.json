@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-13T20:26:52+08:00",
+  "generated_at": "2026-11-13T22:14:03+08:00",
   "live_window_hours": 72,
-  "count": 97,
+  "count": 98,
   "articles": [
+    {
+      "id": "2026-11-13-imported-mpox-case-34yo",
+      "published_at": "2026-11-13T22:15:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "mpox",
+        "chp",
+        "imported"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-imported-mpox-case-34yo.json",
+      "en": {
+        "headline": "Centre for Health Protection investigates imported mpox case in 34-year-old man",
+        "dek": "The man developed fever and a spreading rash earlier this week after high-risk sexual contact outside Hong Kong and is now in stable condition in isolation."
+      },
+      "zh": {
+        "headline": "衞生防護中心調查34歲男子猴痘輸入個案",
+        "dek": "病人本周較早時出現發燒及皮疹蔓延，潛伏期內離港期間與其他男子有高風險性接觸，現時隔離情況穩定。"
+      }
+    },
+    {
+      "id": "2026-11-13-mai-po-h5-avian-flu-samples",
+      "published_at": "2026-11-13T22:15:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "avian-flu",
+        "mai-po",
+        "afcd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-mai-po-h5-avian-flu-samples.json",
+      "en": {
+        "headline": "H5 avian flu virus detected in two Mai Po Nature Reserve samples",
+        "dek": "The Agriculture, Fisheries and Conservation Department said University of Hong Kong researchers confirmed the highly pathogenic virus in environmental samples collected on Wednesday."
+      },
+      "zh": {
+        "headline": "米埔自然護理區兩環境樣本驗出H5高致病性禽流感病毒",
+        "dek": "漁護署表示，香港大學研究團隊確認周三收集的環境樣本帶有H5病毒。"
+      }
+    },
+    {
+      "id": "2026-11-13-paediatric-influenza-death-14-month",
+      "published_at": "2026-11-13T22:15:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "influenza",
+        "children",
+        "chp"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-paediatric-influenza-death-14-month.json",
+      "en": {
+        "headline": "14-month-old girl dies from influenza A, third child fatality this season",
+        "dek": "The Centre for Health Protection said the previously healthy toddler, who developed fever and convulsions in late October, died today after multi-organ failure."
+      },
+      "zh": {
+        "headline": "14個月大女童感染甲型流感不治 今年第三宗兒童死亡個案",
+        "dek": "衞生防護中心表示，早前健康的女童上月底發燒抽搐後，今日因多重器官衰竭離世。"
+      }
+    },
     {
       "id": "2026-11-13-capital-investment-scheme-5000",
       "published_at": "2026-11-13T20:25:00+08:00",
@@ -2138,52 +2204,6 @@
       "zh": {
         "headline": "孫玉菡稱地盤禁煙後巡查7300個工地 發出84張定額罰款",
         "dek": "勞工及福利局局長表示大部分為突擊檢查，並向承建商發出五張告票，涉四宗未採取合理步驟個案。"
-      }
-    },
-    {
-      "id": "2026-11-10-hkma-capital-rules-northern-metropolis",
-      "published_at": "2026-11-10T20:30:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hkma",
-        "northern-metropolis",
-        "banking",
-        "finance",
-        "universities"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-hkma-capital-rules-northern-metropolis.json",
-      "en": {
-        "headline": "HKMA proposes lower capital charges for loans to Northern Metropolis university towns",
-        "dek": "The authority plans to designate 11 post-secondary institutions and three park companies as domestic public sector entities, with legislative amendments targeted for early next year."
-      },
-      "zh": {
-        "headline": "金管局擬修訂資本規則 降低北都大學城貸款資金成本",
-        "dek": "當局建議將11間專上院校及三間園區公司指定為本地公營單位，修訂案擬於2027年第一季提交立法會，第二季生效。"
-      }
-    },
-    {
-      "id": "2026-11-10-kwai-chung-forklift-fall",
-      "published_at": "2026-11-10T20:30:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "accident",
-        "labour",
-        "safety",
-        "kwai-chung",
-        "hospital"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-kwai-chung-forklift-fall.json",
-      "en": {
-        "headline": "Worker injured after forklift falls from platform at Kwai Chung logistics centre",
-        "dek": "A 65-year-old man remained conscious after the vehicle and he fell about 1.3 metres at a Hutchison facility; police are investigating."
-      },
-      "zh": {
-        "headline": "葵涌物流中心男工連人帶叉車墮載貨台 頭部受傷送院",
-        "dek": "65歲男工人於貨櫃碼頭南路和黃物流中心駕駛叉車時連人帶車由約1.3米高平台墮下，一度被困，清醒送瑪嘉烈醫院，警方調查中。"
       }
     }
   ]
