@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-14T04:19:41+08:00",
+  "generated_at": "2026-11-14T04:20:19+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 93,
   "articles": [
+    {
+      "id": "2026-11-14-amber-rainstorm-thunderstorm-warning",
+      "published_at": "2026-11-14T04:18:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "thunderstorm",
+        "observatory",
+        "rainstorm",
+        "amber"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-amber-rainstorm-thunderstorm-warning.json",
+      "en": {
+        "headline": "Observatory issues Amber Rainstorm Warning amid overnight thunderstorms",
+        "dek": "The Hong Kong Observatory raised the Amber Rainstorm Warning at 3:50am and maintained a Thunderstorm Warning valid until 5am as heavy showers affect the city."
+      },
+      "zh": {
+        "headline": "天文台發出黃色暴雨警告 雷暴警告維持至上午5時",
+        "dek": "香港天文台凌晨3時50分發出黃色暴雨警告信號，同時雷暴警告有效至上午5時，本港受大驟雨影響。"
+      }
+    },
+    {
+      "id": "2026-11-14-lifestyle-ich-wonder-play-fun-day",
+      "published_at": "2026-11-14T04:18:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "museum",
+        "tsuen-wan",
+        "heritage",
+        "family"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-lifestyle-ich-wonder-play-fun-day.json",
+      "en": {
+        "headline": "Sam Tung Uk Museum hosts free ICH Wonder Play Fun Day on Sunday",
+        "dek": "The Hong Kong Intangible Cultural Heritage Centre at Sam Tung Uk Museum offers free performances, workshops and activities from 11am to 6pm on 15 November."
+      },
+      "zh": {
+        "headline": "三棟屋博物館周日舉行非遺童遊同樂日 免費入場",
+        "dek": "香港非物質文化遺產中心（三棟屋博物館）周日上午11時至下午6時提供免費表演、工作坊及活動。"
+      }
+    },
     {
       "id": "2026-11-14-fanling-ping-che-warehouse-fire",
       "published_at": "2026-11-14T02:05:00+08:00",
@@ -2042,29 +2088,6 @@
       "zh": {
         "headline": "紅色火災危險警告持續 今早市區約18度新界更低",
         "dek": "天文台指警告自周一發出後仍然生效，火災危險性極高；今早市區約18度，新界部分地區輻射冷卻降至約11度。"
-      }
-    },
-    {
-      "id": "2026-11-11-lifestyle-arts-in-the-park-2026",
-      "published_at": "2026-11-11T04:20:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "festival",
-        "arts",
-        "causeway-bay",
-        "victoria-park"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-lifestyle-arts-in-the-park-2026.json",
-      "en": {
-        "headline": "Standard Chartered Arts in the Park returns to Causeway Bay this weekend with…",
-        "dek": "The free outdoor youth arts festival runs 14-15 November at Victoria Park, featuring illuminated night and grand finale parades with giant puppets."
-      },
-      "zh": {
-        "headline": "渣打藝趣嘉年華本周末重臨銅鑼灣 童話主題巨型木偶巡遊免費開放",
-        "dek": "活動於11月14至15日在維多利亞公園舉行，夜光巡遊及壓軸巡遊將有巨型木偶帶領青年表演者遊行。"
       }
     }
   ]
