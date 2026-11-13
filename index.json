@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-11-13T16:26:54+08:00",
+  "generated_at": "2026-11-13T18:13:54+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 96,
   "articles": [
+    {
+      "id": "2026-11-13-hzmb-half-marathon-traffic",
+      "published_at": "2026-11-13T18:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "hzmb",
+        "marathon",
+        "traffic",
+        "lantau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-hzmb-half-marathon-traffic.json",
+      "en": {
+        "headline": "Police announce special traffic plans for HZMB half marathon this weekend",
+        "dek": "Lane closures on the Hong Kong-Zhuhai-Macao Bridge Hong Kong section will begin Saturday afternoon, with temporary two-way running on part of the link road into Sunday."
+      },
+      "zh": {
+        "headline": "警方公布港珠澳大橋半馬周末特別交通安排",
+        "dek": "港珠澳大橋香港連接路周六下午起分段封路，部分路段周日改行雙程雙線，駕駛者需預留時間。"
+      }
+    },
+    {
+      "id": "2026-11-13-icac-deputy-commissioner-appointment",
+      "published_at": "2026-11-13T18:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "icac",
+        "appointment",
+        "government",
+        "anti-corruption"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-icac-deputy-commissioner-appointment.json",
+      "en": {
+        "headline": "ICAC appoints Choi Shu-keung as Deputy Commissioner from next Tuesday",
+        "dek": "Commissioner Woo Ying-ming announced that the current Director of Investigation (Government Sector) will also head the Operations Department, succeeding Ricky Yau who begins pre-retirement leave."
+      },
+      "zh": {
+        "headline": "廉署委任蔡樹強為副廉政專員 下周二起生效",
+        "dek": "廉政專員胡英明宣布，現任執行處（政府部門）處長蔡樹強將同時出任執行處首長，接替同日展開退休前休假的丘樹春。"
+      }
+    },
+    {
+      "id": "2026-11-13-laguna-city-face-recognition-review",
+      "published_at": "2026-11-13T18:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "privacy",
+        "pcpd",
+        "laguna-city",
+        "lam-tin",
+        "biometric"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-laguna-city-face-recognition-review.json",
+      "en": {
+        "headline": "Privacy Commissioner reviews face recognition plan at Laguna City estate",
+        "dek": "The office is examining a management company's proposal to install facial access gates affecting more than 8,000 households, after residents raised data concerns."
+      },
+      "zh": {
+        "headline": "私隱專員公署審查麗港城人面識別閘機計劃",
+        "dek": "公署主動檢視藍田麗港城管業處擬安裝人面識別門禁的計劃，涉及逾8000戶住戶的敏感生物辨識資料。"
+      }
+    },
+    {
+      "id": "2026-11-13-lifestyle-arts-in-the-park-2026",
+      "published_at": "2026-11-13T18:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "causeway-bay",
+        "parade",
+        "youth-arts",
+        "victoria-park"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-lifestyle-arts-in-the-park-2026.json",
+      "en": {
+        "headline": "Standard Chartered Arts in the Park returns to Causeway Bay this weekend",
+        "dek": "The free outdoor youth arts festival features illuminated night and grand finale parades with giant puppets, plus workshops and performances across Victoria Park on 14 and 15 November."
+      },
+      "zh": {
+        "headline": "渣打藝趣嘉年華周末重返銅鑼灣維園",
+        "dek": "香港青年藝術協會舉辦的免費戶外青年藝術活動本周六日舉行，設有燈光夜巡遊及盛大閉幕巡遊，維多利亞公園亦有工作坊及演出。"
+      }
+    },
     {
       "id": "2026-11-13-chai-wan-hing-wah-mother-stabbed",
       "published_at": "2026-11-13T16:25:00+08:00",
