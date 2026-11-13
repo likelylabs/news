@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-14T00:08:06+08:00",
+  "generated_at": "2026-11-14T02:03:19+08:00",
   "live_window_hours": 72,
   "count": 94,
   "articles": [
+    {
+      "id": "2026-11-14-fanling-ping-che-warehouse-fire",
+      "published_at": "2026-11-14T02:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "fanling",
+        "fire-services",
+        "north-district"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-fanling-ping-che-warehouse-fire.json",
+      "en": {
+        "headline": "Firefighters extinguish Fanling warehouse blaze after nearly two hours",
+        "dek": "The Fire Services Department said the fire at a Ping Che Road warehouse was largely put out by 9:58pm, with damping-down continuing and no injuries reported."
+      },
+      "zh": {
+        "headline": "粉嶺坪輋路貨倉火警近兩小時救熄 無人受傷",
+        "dek": "消防處表示，晚上約9時58分將火勢大致救熄，其後進行降溫及散煙，並救出兩名市民，均無受傷。"
+      }
+    },
+    {
+      "id": "2026-11-14-lifestyle-heritage-museum-fun-day",
+      "published_at": "2026-11-14T02:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "museum",
+        "sha-tin",
+        "family",
+        "heritage-museum"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-lifestyle-heritage-museum-fun-day.json",
+      "en": {
+        "headline": "Hong Kong Heritage Museum holds free Fun Day in Sha Tin today",
+        "dek": "The museum offers interactive activities, workshops and a free screening of a restored 1959 Cantonese opera film from 10am to 6:30pm with no advance booking required."
+      },
+      "zh": {
+        "headline": "香港文化博物館今日沙田舉行免費同樂日",
+        "dek": "館方上午10時至下午6時30分提供互動活動、工作坊及免費放映1959年修復版粵劇電影，毋須預先報名。"
+      }
+    },
     {
       "id": "2026-11-14-lifestyle-chat-oh-haji-becoming-flowers",
       "published_at": "2026-11-14T00:05:00+08:00",
@@ -2066,52 +2111,6 @@
       "zh": {
         "headline": "漁護署在城門隧道轉車站及郝德傑道捕捉多隻滋事猴子",
         "dek": "漁農自然護理署表示過去兩星期專責隊伍成功捕獲多隻具攻擊性、經常搶奪市民食物及物品的猴子，並增設大型捕捉籠。"
-      }
-    },
-    {
-      "id": "2026-11-11-lifestyle-design-hkg-launch",
-      "published_at": "2026-11-11T00:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "design",
-        "exhibition",
-        "peak",
-        "culture"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-lifestyle-design-hkg-launch.json",
-      "en": {
-        "headline": "Design@HKG opens two-week citywide programme with Peak bubble installation",
-        "dek": "Hong Kong Design Centre's rebranded flagship runs until 24 November with more than 40 free and ticketed activations, including a multi-sensory inflatable at Peak Galleria."
-      },
-      "zh": {
-        "headline": "設計@HKG揭幕 山頂吹氣裝置免費開放至11月24日",
-        "dek": "香港設計中心旗艦活動一連兩周於全港舉行逾40項設計項目，山頂廣場多感官裝置毋須預約免費入場。"
-      }
-    },
-    {
-      "id": "2026-11-11-tuen-mun-novo-land-assault",
-      "published_at": "2026-11-11T00:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "tuen-mun",
-        "assault",
-        "domestic"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-tuen-mun-novo-land-assault.json",
-      "en": {
-        "headline": "Police hunt 38-year-old man after kitchen-knife assault at Tuen Mun NOVO LAND",
-        "dek": "A 23-year-old woman sustained a forehead wound and leg bruises in an alleged attack by her partner early on Tuesday; officers seized a 20cm knife and classified the case as assault occasioning actual bodily harm."
-      },
-      "zh": {
-        "headline": "屯門NOVO LAND廚刀襲擊案 警方追緝38歲男子",
-        "dek": "23歲女子前額有約2厘米刀傷及腳部瘀傷，案件列作襲擊致造成身體傷害，屯門警區刑事調查隊第一隊跟進，暫未有人被捕。"
       }
     }
   ]

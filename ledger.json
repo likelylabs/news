@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "hkeaa-international-exam-data-leak",
-      "id": "2026-10-31-hkeaa-international-exam-data-leak",
-      "first_seen": "2026-10-31T01:10:00+08:00",
-      "headline_en": "Examinations Authority reports data leak of 16900 mainland exam applicants"
-    },
-    {
-      "key": "lifestyle-hkpm-art-plaza-closing",
-      "id": "2026-10-31-lifestyle-hkpm-art-plaza",
-      "first_seen": "2026-10-31T01:10:00+08:00",
-      "headline_en": "Hong Kong Palace Museum outdoor Art Plaza Project ends on Monday"
-    },
-    {
       "key": "lifestyle-fun-museum-carnival-2026",
       "id": "2026-10-31-lifestyle-museum-carnival-cultural-centre",
       "first_seen": "2026-10-31T03:20:00+08:00",
@@ -2261,7 +2249,19 @@
       "id": "2026-11-14-weekend-weather-outlook-nov14-15",
       "first_seen": "2026-11-14T00:05:00+08:00",
       "headline_en": "Observatory expects heavy early Saturday showers then mainly fine Sunday"
+    },
+    {
+      "key": "fanling-ping-che-warehouse-fire-nov13",
+      "id": "2026-11-14-fanling-ping-che-warehouse-fire",
+      "first_seen": "2026-11-14T02:05:00+08:00",
+      "headline_en": "Firefighters extinguish Fanling warehouse blaze after nearly two hours"
+    },
+    {
+      "key": "lifestyle-hk-heritage-museum-fun-day-nov14",
+      "id": "2026-11-14-lifestyle-heritage-museum-fun-day",
+      "first_seen": "2026-11-14T02:05:00+08:00",
+      "headline_en": "Hong Kong Heritage Museum holds free Fun Day in Sha Tin today"
     }
   ],
-  "updated_at": "2026-11-14T00:08:06+08:00"
+  "updated_at": "2026-11-14T02:03:18+08:00"
 }
