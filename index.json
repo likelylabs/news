@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-11-13T14:18:19+08:00",
+  "generated_at": "2026-11-13T16:26:54+08:00",
   "live_window_hours": 72,
-  "count": 96,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-11-13-chai-wan-hing-wah-mother-stabbed",
+      "published_at": "2026-11-13T16:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "chai-wan",
+        "assault"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-chai-wan-hing-wah-mother-stabbed.json",
+      "en": {
+        "headline": "Man arrested after mother injured in knife attack at Chai Wan estate",
+        "dek": "Police said a 31-year-old man called officers on Thursday evening after attacking his 63-year-old mother with two cleavers at Hing Wah Estate; she was taken to hospital conscious."
+      },
+      "zh": {
+        "headline": "柴灣興華邨男子持刀襲母被捕 傷者清醒送院",
+        "dek": "警方表示，31歲男子周四傍晚報案，稱在興華邨卓華樓住所用兩把菜刀襲擊63歲母親；母親多處受傷但清醒，送東區醫院治理。"
+      }
+    },
+    {
+      "id": "2026-11-13-ha-hos-newborn-mortgage-95",
+      "published_at": "2026-11-13T16:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "hos",
+        "newborns",
+        "mortgage",
+        "housing-authority"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-ha-hos-newborn-mortgage-95.json",
+      "en": {
+        "headline": "Housing Authority raises HOS mortgage ratio to 95 percent for families with newborns",
+        "dek": "The Subsidised Housing Committee approved the change for White Form applicants with children aged three or below, and shortened the resale restriction on 2022-2025 flats to 10 years."
+      },
+      "zh": {
+        "headline": "房委會通過新生嬰白表居屋按揭成數升至95%",
+        "dek": "資助房屋小組委員會周五通過措施，有三歲或以下子女的白表家庭由下期居屋起最高按揭成數調至95%，並將2022至2025年資助單位轉讓限制縮至10年。"
+      }
+    },
+    {
+      "id": "2026-11-13-hko-special-weather-tip-showers",
+      "published_at": "2026-11-13T16:25:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "showers",
+        "thunderstorm"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-hko-special-weather-tip-showers.json",
+      "en": {
+        "headline": "Observatory issues special tip as showers increase tonight with possible thunderstorms",
+        "dek": "The Hong Kong Observatory said upper-air disturbances will bring more showers this evening, with isolated squally thunderstorms and stronger winds, before heavier rain early on Saturday."
+      },
+      "zh": {
+        "headline": "天文台發特別天氣提示 今晚驟雨增多或有狂風雷暴",
+        "dek": "天文台上午11時45分發出提示，指高空擾動靠近，本港今晚驟雨逐漸增多，局部地區有狂風雷暴及較大風勢，周六初時雨勢頗大。"
+      }
+    },
+    {
+      "id": "2026-11-13-microsoft-365-outlook-outage",
+      "published_at": "2026-11-13T16:25:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "microsoft",
+        "outage",
+        "outlook"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-microsoft-365-outlook-outage.json",
+      "en": {
+        "headline": "Microsoft 365 outage disrupts Outlook and Teams for Hong Kong users",
+        "dek": "A global service disruption that began early Friday left some bankers and office workers unable to send or receive email or join meetings, with Microsoft attributing it to server issues."
+      },
+      "zh": {
+        "headline": "微軟365全球故障影響本港Outlook及Teams",
+        "dek": "周五凌晨起的服務中斷令部分本港金融業及辦公室用戶無法收發電郵或進行網上會議，微軟指與伺服器問題有關。"
+      }
+    },
     {
       "id": "2026-11-13-centre-medical-products-regulation-bill",
       "published_at": "2026-11-13T14:20:00+08:00",
@@ -1982,185 +2071,6 @@
       "zh": {
         "headline": "元朗拆卸村屋致命意外 工程公司及承建商被罰13萬至15.5萬",
         "dek": "勞工處就去年十一月一名女工在人手清理工作時遭磚牆倒塌壓斃事件提出檢控，粉嶺裁判法院周二判罰三方。"
-      }
-    },
-    {
-      "id": "2026-11-10-lifestyle-symphony-of-lights-farewell",
-      "published_at": "2026-11-10T16:25:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "harbour",
-        "tourism",
-        "symphony-of-lights"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-lifestyle-symphony-of-lights-farewell.json",
-      "en": {
-        "headline": "Symphony of Lights to end after 22 years with final show on 18 November",
-        "dek": "The Hong Kong Tourism Board said the last performance will include a fireworks element on the evening the WinterFest begins, with other light projects to follow next year."
-      },
-      "zh": {
-        "headline": "幻彩詠香江22年歷史將於11月18日作最後一場演出",
-        "dek": "旅發局主席林建岳表示，最後一場會加插煙火元素，當晚亦是繽紛冬日巡禮揭幕日，其他光影項目明年推出。"
-      }
-    },
-    {
-      "id": "2026-11-10-minibus-drug-driving-arrest",
-      "published_at": "2026-11-10T16:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "minibus",
-        "drug-driving",
-        "yau-tong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-minibus-drug-driving-arrest.json",
-      "en": {
-        "headline": "Police arrest 44-year-old minibus driver over suspected drug driving with passengers",
-        "dek": "Officers stopped a route 117B minibus in Sau Mau Ping after a tailing operation; the driver tested positive for methamphetamine and seven passengers were removed safely."
-      },
-      "zh": {
-        "headline": "警方拘捕44歲小巴司機涉載客時毒後駕駛",
-        "dek": "人員尾隨一輛117B專線小巴至秀茂坪截停，司機口腔液測試呈冰毒陽性，車上7名乘客被安全帶離。"
-      }
-    },
-    {
-      "id": "2026-11-10-mortgage-insurance-october-low",
-      "published_at": "2026-11-10T16:25:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "property",
-        "mortgage",
-        "hkmc"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-mortgage-insurance-october-low.json",
-      "en": {
-        "headline": "New mortgage insurance approvals and drawdowns hit multi-year lows in October",
-        "dek": "The Hong Kong Mortgage Corporation recorded 701 new approvals in October, the lowest in nearly 11 years, while new drawdowns fell more than 40 per cent."
-      },
-      "zh": {
-        "headline": "十月新批按保及新取用按保宗數創逾十年新低",
-        "dek": "按揭證券公司數字顯示，十月新批按保701宗，近十一年最低；新取用按保宗數及金額大跌逾四成。"
-      }
-    },
-    {
-      "id": "2026-11-10-victoria-harbour-race-traffic",
-      "published_at": "2026-11-10T16:25:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "traffic",
-        "wan-chai",
-        "tsim-sha-tsui",
-        "harbour-race"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-victoria-harbour-race-traffic.json",
-      "en": {
-        "headline": "Special traffic arrangements for Victoria Harbour Race in Wan Chai and Tsim Sha Tsui",
-        "dek": "The Transport Department said Expo Drive East will close on Sunday and several ferry and water taxi services will be suspended from Saturday to support the November 15 race."
-      },
-      "zh": {
-        "headline": "維港泳周日舉行 灣仔北及尖沙咀實施特別交通安排",
-        "dek": "運輸署表示，金紫荊廣場外一段博覽道東周日臨時封閉，多條渡輪及水上的士航線周六日起暫停服務。"
-      }
-    },
-    {
-      "id": "2026-11-10-civil-servants-family-care-leave",
-      "published_at": "2026-11-10T14:25:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "civil-service",
-        "leave",
-        "legco"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-civil-servants-family-care-leave.json",
-      "en": {
-        "headline": "Civil servants to receive 12 hours of family care leave a year from January",
-        "dek": "The Civil Service Bureau detailed the new entitlement in a paper to the Legislative Council panel, allowing flexible hourly leave for family matters with streamlined approval."
-      },
-      "zh": {
-        "headline": "公務員明年一月起每年可享12小時照顧家庭假",
-        "dek": "公務員事務局向立法會事務委員會提交文件，詳細說明新假期安排，容許靈活按小時計假處理家庭事務，申請程序簡化。"
-      }
-    },
-    {
-      "id": "2026-11-10-paragliding-registration-support",
-      "published_at": "2026-11-10T14:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "paragliding",
-        "safety",
-        "ma-on-shan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-paragliding-registration-support.json",
-      "en": {
-        "headline": "Paragliding association open to compulsory registration after self-taught pilot injures…",
-        "dek": "The Hong Kong China Paragliding Association said it supports real-name registration if it improves safety, after a pilot known to lack formal training struck three hikers at Ma On Shan on Sunday."
-      },
-      "zh": {
-        "headline": "滑翔傘協會支持強制登記 自學飛手撞傷行山人士後",
-        "dek": "中國香港滑翔傘總會表示，若有助提升安全，樂見強制實名登記；周日一名已知缺乏正式訓練的飛手在馬鞍山昂平撞傷三名行山人士。"
-      }
-    },
-    {
-      "id": "2026-11-10-strong-monsoon-cancelled",
-      "published_at": "2026-11-10T14:25:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "monsoon",
-        "fire-danger"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-strong-monsoon-cancelled.json",
-      "en": {
-        "headline": "Observatory cancels Strong Monsoon Signal after morning winds ease",
-        "dek": "The Hong Kong Observatory cancelled the Strong Monsoon Signal at 11:45am on Tuesday, while the Red Fire Danger Warning remains in force with extreme fire risk."
-      },
-      "zh": {
-        "headline": "天文台上午11時45分取消強烈季候風信號",
-        "dek": "天文台周二上午11時45分取消強烈季候風信號，紅色火災危險警告仍然生效，火災危險性極高。"
-      }
-    },
-    {
-      "id": "2026-11-10-tsuen-wan-claw-shop-red-oil",
-      "published_at": "2026-11-10T14:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "tsuen-wan",
-        "criminal-damage"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-tsuen-wan-claw-shop-red-oil.json",
-      "en": {
-        "headline": "Police investigate criminal damage after red liquid thrown in Tsuen Wan claw machine shop",
-        "dek": "Two black-clad men entered a claw machine shop on Hoi On Street early on Tuesday and splashed red liquid on machines, the floor and walls before fleeing, police said."
-      },
-      "zh": {
-        "headline": "荃灣夾公仔店遭淋紅色液體 警方列刑事毀壞跟進",
-        "dek": "周二凌晨兩名黑衣男子進入享和街夾公仔店，向機台、地面及牆壁淋潑紅色液體後逃去，警方正在調查。"
       }
     }
   ]
