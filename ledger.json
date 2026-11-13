@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "pag-evergrande-property-services-acquisition",
-      "id": "2026-10-30-pag-evergrande-property-services-acquisition",
-      "first_seen": "2026-10-30T13:15:00+08:00",
-      "headline_en": "PAG agrees to buy 51 per cent of Evergrande Property Services for HK$4 billion"
-    },
-    {
-      "key": "weekend-weather-outlook-oct31-nov1",
-      "id": "2026-10-30-weekend-weather-outlook-oct31-nov1",
-      "first_seen": "2026-10-30T13:15:00+08:00",
-      "headline_en": "Observatory forecasts mainly fine Saturday, cloudier Sunday for Hong Kong"
-    },
-    {
       "key": "public-housing-building-control-unit-oct30",
       "id": "2026-10-30-public-housing-building-control-unit",
       "first_seen": "2026-10-30T15:30:00+08:00",
@@ -2231,7 +2219,19 @@
       "id": "2026-11-13-weekend-weather-outlook-nov14-15",
       "first_seen": "2026-11-13T12:12:00+08:00",
       "headline_en": "Observatory forecasts heavy showers Saturday, sunnier Sunday for Hong Kong"
+    },
+    {
+      "key": "centre-medical-products-regulation-bill",
+      "id": "2026-11-13-centre-medical-products-regulation-bill",
+      "first_seen": "2026-11-13T14:20:00+08:00",
+      "headline_en": "Government gazettes bill to establish Centre for Medical Products Regulation"
+    },
+    {
+      "key": "lifestyle-symphony-of-lights-final-nov18",
+      "id": "2026-11-13-lifestyle-symphony-of-lights-final",
+      "first_seen": "2026-11-13T14:20:00+08:00",
+      "headline_en": "Symphony of Lights stages final show on 18 November after 22 years"
     }
   ],
-  "updated_at": "2026-11-13T12:13:51+08:00"
+  "updated_at": "2026-11-13T14:18:19+08:00"
 }

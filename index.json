@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-13T12:13:51+08:00",
+  "generated_at": "2026-11-13T14:18:19+08:00",
   "live_window_hours": 72,
   "count": 96,
   "articles": [
+    {
+      "id": "2026-11-13-centre-medical-products-regulation-bill",
+      "published_at": "2026-11-13T14:20:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "legco",
+        "regulation",
+        "medical-devices",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-centre-medical-products-regulation-bill.json",
+      "en": {
+        "headline": "Government gazettes bill to establish Centre for Medical Products Regulation",
+        "dek": "The Centre for Medical Products Regulation Bill was gazetted on Friday to give the new body statutory status and unify oversight of Chinese and Western medicines and future medical devices."
+      },
+      "zh": {
+        "headline": "政府刊憲《藥械監管中心條例草案》確立法定地位",
+        "dek": "《藥物及醫療器械監督管理中心條例草案》周五刊憲，確立藥械監管中心法定地位，並理順中西藥及未來醫療器械的規管架構。"
+      }
+    },
+    {
+      "id": "2026-11-13-lifestyle-symphony-of-lights-final",
+      "published_at": "2026-11-13T14:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "tourism",
+        "victoria-harbour",
+        "light-show",
+        "tsim-sha-tsui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-lifestyle-symphony-of-lights-final.json",
+      "en": {
+        "headline": "Symphony of Lights stages final show on 18 November after 22 years",
+        "dek": "The Hong Kong Tourism Board said the nightly Victoria Harbour light and music show will perform for the last time on 18 November with added pyrotechnic elements before seasonal displays take over."
+      },
+      "zh": {
+        "headline": "幻彩詠香江22年後11月18日最後匯演",
+        "dek": "香港旅遊發展局表示，每晚維港燈光音樂匯演將於11月18日舉行最後一場，並加入煙火元素，之後改以季節性光影活動取代。"
+      }
+    },
     {
       "id": "2026-11-13-lifestyle-arts-fringe-lamma",
       "published_at": "2026-11-13T12:12:00+08:00",
@@ -2115,51 +2161,6 @@
       "zh": {
         "headline": "荃灣夾公仔店遭淋紅色液體 警方列刑事毀壞跟進",
         "dek": "周二凌晨兩名黑衣男子進入享和街夾公仔店，向機台、地面及牆壁淋潑紅色液體後逃去，警方正在調查。"
-      }
-    },
-    {
-      "id": "2026-11-10-lifestyle-tsim-sha-tsui-cultural-centre-rats",
-      "published_at": "2026-11-10T12:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "tsim-sha-tsui",
-        "rats",
-        "fehd",
-        "cultural-centre"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-lifestyle-tsim-sha-tsui-cultural-centre-rats.json",
-      "en": {
-        "headline": "Officials step up rodent control at Tsim Sha Tsui Cultural Centre after night videos",
-        "dek": "The Leisure and Cultural Services Department said it received five complaints in two weeks and placed traps after footage showed groups of rats on the viewing platform."
-      },
-      "zh": {
-        "headline": "尖沙咀文化中心夜間現鼠群 康文署加強滅鼠",
-        "dek": "康文署表示過去兩周接獲五宗投訴，並在網上影片顯示觀景台有鼠群後放置捕鼠器。"
-      }
-    },
-    {
-      "id": "2026-11-10-strong-monsoon-red-fire-danger",
-      "published_at": "2026-11-10T12:20:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "monsoon",
-        "fire-danger"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-strong-monsoon-red-fire-danger.json",
-      "en": {
-        "headline": "Strong Monsoon Signal and Red Fire Danger Warning remain in force",
-        "dek": "The Hong Kong Observatory said northerly winds continued, with extreme fire risk and temperatures recovering after a 17.5-degree low."
-      },
-      "zh": {
-        "headline": "強烈季候風信號及紅色火災危險警告持續生效",
-        "dek": "天文台表示偏北強風持續，火災危險極高，清晨最低十七點五度後氣溫回升。"
       }
     }
   ]
