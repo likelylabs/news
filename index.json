@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-13T10:18:32+08:00",
+  "generated_at": "2026-11-13T12:13:51+08:00",
   "live_window_hours": 72,
-  "count": 93,
+  "count": 96,
   "articles": [
+    {
+      "id": "2026-11-13-lifestyle-arts-fringe-lamma",
+      "published_at": "2026-11-13T12:12:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "lamma",
+        "art",
+        "yung-shue-wan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-lifestyle-arts-fringe-lamma.json",
+      "en": {
+        "headline": "Arts Fringe Lamma displays works in Yung Shue Wan venues until 22 November",
+        "dek": "The open-air festival on Lamma Island runs from 12 to 22 November, with artworks hosted by cafes, restaurants and bars, and a portion of sales going to the Child Welfare Scheme."
+      },
+      "zh": {
+        "headline": "南丫島藝術邊緣節榕樹灣場地展出作品至11月22日",
+        "dek": "南丫島開放式藝術活動由11月12日至22日舉行，咖啡店、餐廳及酒吧展出作品，部分銷售收益捐予兒童福利計劃。"
+      }
+    },
+    {
+      "id": "2026-11-13-new-world-rights-issue-consideration",
+      "published_at": "2026-11-13T12:12:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "property",
+        "new-world",
+        "rights-issue",
+        "stock-market"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-new-world-rights-issue-consideration.json",
+      "en": {
+        "headline": "New World Development weighs rights issue of up to HK$25 billion",
+        "dek": "The developer, whose shares were halted Friday, is considering a rights issue after people familiar with the matter said Bain Capital decided against investing; the Cheng family plans to take part."
+      },
+      "zh": {
+        "headline": "新世界發展考慮供股集資最高250億元",
+        "dek": "股份周五停牌的發展商正考慮供股，據知情人士稱貝恩資本決定不投資；鄭氏家族計劃參與。"
+      }
+    },
+    {
+      "id": "2026-11-13-weekend-weather-outlook-nov14-15",
+      "published_at": "2026-11-13T12:12:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "weekend",
+        "forecast",
+        "thunderstorm"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-weekend-weather-outlook-nov14-15.json",
+      "en": {
+        "headline": "Observatory forecasts heavy showers Saturday, sunnier Sunday for Hong Kong",
+        "dek": "Heavy showers and a few squally thunderstorms are expected early on Saturday before easing, with sunny periods on Sunday and temperatures between 23 and 28 degrees."
+      },
+      "zh": {
+        "headline": "天文台料周六初時驟雨雷暴 周日有陽光",
+        "dek": "周六初時有大驟雨及幾陣狂風雷暴，日間雨勢減弱並轉好，周日有陽光，氣溫約23至28度。"
+      }
+    },
     {
       "id": "2026-11-13-hkust-canteen-rats-fehd",
       "published_at": "2026-11-13T10:16:00+08:00",

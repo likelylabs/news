@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "lifestyle-disneyland-halloween-time-2026",
-      "id": "2026-10-30-lifestyle-disneyland-halloween",
-      "first_seen": "2026-10-30T11:10:00+08:00",
-      "headline_en": "Disney Halloween Time continues at Hong Kong Disneyland through Sunday"
-    },
-    {
-      "key": "tai-wai-chun-shek-man-dead-oct29",
-      "id": "2026-10-30-tai-wai-man-found-dead",
-      "first_seen": "2026-10-30T11:10:00+08:00",
-      "headline_en": "Man found dead in Tai Wai flat after family loses contact"
-    },
-    {
       "key": "pag-evergrande-property-services-acquisition",
       "id": "2026-10-30-pag-evergrande-property-services-acquisition",
       "first_seen": "2026-10-30T13:15:00+08:00",
@@ -2225,7 +2213,25 @@
       "id": "2026-11-13-new-world-trading-halt",
       "first_seen": "2026-11-13T10:16:00+08:00",
       "headline_en": "New World Development suspends trading pending inside information"
+    },
+    {
+      "key": "lifestyle-arts-fringe-lamma-nov12-22",
+      "id": "2026-11-13-lifestyle-arts-fringe-lamma",
+      "first_seen": "2026-11-13T12:12:00+08:00",
+      "headline_en": "Arts Fringe Lamma displays works in Yung Shue Wan venues until 22 November"
+    },
+    {
+      "key": "new-world-rights-issue-consideration-nov13",
+      "id": "2026-11-13-new-world-rights-issue-consideration",
+      "first_seen": "2026-11-13T12:12:00+08:00",
+      "headline_en": "New World Development weighs rights issue of up to HK$25 billion"
+    },
+    {
+      "key": "weekend-weather-outlook-nov14-15",
+      "id": "2026-11-13-weekend-weather-outlook-nov14-15",
+      "first_seen": "2026-11-13T12:12:00+08:00",
+      "headline_en": "Observatory forecasts heavy showers Saturday, sunnier Sunday for Hong Kong"
     }
   ],
-  "updated_at": "2026-11-13T10:18:32+08:00"
+  "updated_at": "2026-11-13T12:13:51+08:00"
 }
