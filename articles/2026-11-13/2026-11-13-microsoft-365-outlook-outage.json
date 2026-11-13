@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-13-microsoft-365-outlook-outage",
+  "published_at": "2026-11-13T16:25:00+08:00",
+  "category": "technology",
+  "tags": ["technology", "microsoft", "outage", "outlook"],
+  "ai_generated": true,
+  "story_key": "microsoft-365-outlook-outage-nov13",
+  "en": {
+    "headline": "Microsoft 365 outage disrupts Outlook and Teams for Hong Kong users",
+    "dek": "A global service disruption that began early Friday left some bankers and office workers unable to send or receive email or join meetings, with Microsoft attributing it to server issues.",
+    "body": [
+      "Microsoft services including Outlook and Teams suffered a widespread disruption on Friday that affected users in Hong Kong and elsewhere, with reports of failed sign-ins and delayed messages lasting several hours.",
+      "The company said the issue stemmed from some servers becoming unexpectedly unavailable rather than a surge in traffic or a cyber attack. Outage-tracking sites recorded peak reports exceeding 100,000 globally for Outlook-related problems before numbers began to fall as Microsoft restarted affected systems.",
+      "In Hong Kong, some workers in the financial sector reported being locked out of email and collaboration tools during the morning, according to accounts from local media. Microsoft said it was applying alternate methods to restore capacity and that service was gradually improving in some areas, though full recovery times were not immediately confirmed.",
+      "The Hong Kong Information Technology Federation's honorary president Francis Fong advised users not to keep retrying logins and to use alternative communication channels in the meantime."
+    ]
+  },
+  "zh": {
+    "headline": "微軟365全球故障影響本港Outlook及Teams",
+    "dek": "周五凌晨起的服務中斷令部分本港金融業及辦公室用戶無法收發電郵或進行網上會議，微軟指與伺服器問題有關。",
+    "body": [
+      "微軟包括Outlook及Teams在內的服務周五出現大規模中斷，影響本港及其他地區用戶，有人反映無法登入或郵件延遲，持續數小時。",
+      "微軟表示問題源於部分伺服器意外無法正常運作，而非流量急增或網絡攻擊。故障追踪網站曾錄得全球逾10萬宗與Outlook相關的報告，其後隨微軟重啟系統而有所回落。",
+      "本港部分金融業從業員向傳媒表示，上午期間無法使用電郵及協作工具。微軟稱正採取替代方法恢復容量，部分地區服務逐漸改善，但全面恢復時間仍待確認。",
+      "香港資訊科技聯會榮譽會長方保驎建議用戶暫時不要反覆嘗試登入，可改用其他通訊工具。"
+    ]
+  }
+}
