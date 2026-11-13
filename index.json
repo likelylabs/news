@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-13T09:17:43+08:00",
+  "generated_at": "2026-11-13T10:18:32+08:00",
   "live_window_hours": 72,
   "count": 93,
   "articles": [
+    {
+      "id": "2026-11-13-hkust-canteen-rats-fehd",
+      "published_at": "2026-11-13T10:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "hygiene",
+        "hkust",
+        "fehd",
+        "rodent",
+        "campus"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-hkust-canteen-rats-fehd.json",
+      "en": {
+        "headline": "FEHD issues pest notices after rat spotted again at HKUST canteen",
+        "dek": "A large rat was filmed climbing conduits at a campus canteen on Thursday, the second sighting in under a month; the department found traces and issued notices to the university and operator."
+      },
+      "zh": {
+        "headline": "科大飯堂再有老鼠出沒 食環署發消除通知",
+        "dek": "周四影片顯示大型老鼠沿柱管爬行，不足一個月內第二次；署方巡查發現鼠跡，向大學及營運商發出消滅害蟲通知。"
+      }
+    },
+    {
+      "id": "2026-11-13-new-world-trading-halt",
+      "published_at": "2026-11-13T10:16:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "property",
+        "stock-market",
+        "new-world",
+        "trading-halt"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-13/2026-11-13-new-world-trading-halt.json",
+      "en": {
+        "headline": "New World Development suspends trading pending inside information",
+        "dek": "Shares and guaranteed bonds halted from 9 am Friday after the company requested suspension for an announcement on certain inside information; last traded at HK$4.87."
+      },
+      "zh": {
+        "headline": "新世界發展今早停牌 待公布內幕消息",
+        "dek": "股份及多隻擔保債券由周五上午9時起暫停交易，公司要求停牌以待發出若干內幕消息公告；停牌前報4.87元。"
+      }
+    },
     {
       "id": "2026-11-13-customs-fanling-illicit-cigarettes",
       "published_at": "2026-11-13T08:05:00+08:00",
@@ -2048,52 +2093,6 @@
       "zh": {
         "headline": "強烈季候風信號及紅色火災危險警告持續生效",
         "dek": "天文台表示偏北強風持續，火災危險極高，清晨最低十七點五度後氣溫回升。"
-      }
-    },
-    {
-      "id": "2026-11-10-lifestyle-yasuhito-kawasaki-ceramics",
-      "published_at": "2026-11-10T10:16:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "tai-kwun",
-        "exhibition",
-        "ceramics",
-        "central"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-lifestyle-yasuhito-kawasaki-ceramics.json",
-      "en": {
-        "headline": "Japanese artist Yasuhito Kawasaki shows miniature ceramics at Tai Kwun",
-        "dek": "The exhibition of gentle paintings and palm-sized ceramic sculptures runs at Touch Gallery in Block 3 until 28 November."
-      },
-      "zh": {
-        "headline": "日本藝術家川崎康仁大館觸摸藝廊展出微型陶瓷",
-        "dek": "展覽以溫柔繪畫及掌上陶瓷雕塑為主，在大館第三座觸摸藝廊展至十一月二十八日。"
-      }
-    },
-    {
-      "id": "2026-11-10-strong-monsoon-cheung-chau-winds",
-      "published_at": "2026-11-10T10:16:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "monsoon",
-        "fire-danger",
-        "cheung-chau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-10/2026-11-10-strong-monsoon-cheung-chau-winds.json",
-      "en": {
-        "headline": "Strong Monsoon Signal remains in force with northerly gusts to 72 km/h",
-        "dek": "The Hong Kong Observatory said the signal continues, with Cheung Chau recording 52 km/h sustained winds and 72 km/h gusts in the hour to 7.30am."
-      },
-      "zh": {
-        "headline": "強烈季候風信號持續 長洲陣風達每小時72公里",
-        "dek": "天文台表示信號仍然生效，今早七時半前一小時長洲錄得持續風速52公里、陣風72公里。"
       }
     }
   ]
