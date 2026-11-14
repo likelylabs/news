@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-14T16:26:38+08:00",
+  "generated_at": "2026-11-14T18:12:23+08:00",
   "live_window_hours": 72,
-  "count": 94,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-11-14-electronic-proxy-voting-trial",
+      "published_at": "2026-11-14T18:10:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "building-management",
+        "proxy-votes",
+        "alice-mak",
+        "bid-rigging"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-electronic-proxy-voting-trial.json",
+      "en": {
+        "headline": "Government to trial electronic proxy voting for estate meetings next year",
+        "dek": "Alice Mak said the platform would help overcome practical difficulties with a cap on proxy votes after consultation showed mixed views on the proposal."
+      },
+      "zh": {
+        "headline": "政府明年底前試行電子授權票平台 助克服上限操作困難",
+        "dek": "民政及青年事務局局長麥美娟表示，公眾諮詢顯示授權票設上限有實際困難，將透過電子平台先導計劃解決，並加強核實機制。"
+      }
+    },
+    {
+      "id": "2026-11-14-organ-donation-register-425000",
+      "published_at": "2026-11-14T18:10:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "organ-donation",
+        "health-bureau",
+        "lo-chung-mau",
+        "public-health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-organ-donation-register-425000.json",
+      "en": {
+        "headline": "Organ donation register reaches record 425000 but more than 2000 still waiting",
+        "dek": "Secretary for Health Lo Chung-mau said the figure is under 6 per cent of the population and urged more residents to register as over 2000 patients await transplants."
+      },
+      "zh": {
+        "headline": "中央器官捐贈名冊破42.5萬人創新高 仍有逾2000人等候",
+        "dek": "醫務衞生局局長盧寵茂表示，登記人數不足全港人口百分之六，籲更多市民登記，目前仍有逾2000名病人等候合適器官。"
+      }
+    },
     {
       "id": "2026-11-14-kwun-tong-van-hits-elderly-woman",
       "published_at": "2026-11-14T16:25:00+08:00",
@@ -2014,96 +2058,6 @@
       "zh": {
         "headline": "將軍澳上村七旬車房東主修車遭壓 送院不治",
         "dek": "警方表示，事主在上村維修私家車期間遭車壓着，送院後不治。"
-      }
-    },
-    {
-      "id": "2026-11-11-hang-seng-close-down",
-      "published_at": "2026-11-11T18:10:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "hang-seng",
-        "stock-market",
-        "business",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-hang-seng-close-down.json",
-      "en": {
-        "headline": "Hang Seng Index closes down 241 points as tech shares slide",
-        "dek": "The benchmark fell 0.98 per cent to 24,315.92, with the Hang Seng Tech Index down 1.41 per cent amid pressure from higher US inflation expectations."
-      },
-      "zh": {
-        "headline": "恒生指數收市跌241點 科技股拖累",
-        "dek": "恒指全日跌0.98%報24315.92點，恒生科技指數跌1.41%，市場受美國通脹數據高於預期影響。"
-      }
-    },
-    {
-      "id": "2026-11-11-hk-digital-ai-ranking",
-      "published_at": "2026-11-11T18:10:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "ai",
-        "ranking",
-        "digital",
-        "innovation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-hk-digital-ai-ranking.json",
-      "en": {
-        "headline": "Hong Kong ranks 11th globally in digital and AI competitiveness",
-        "dek": "The city placed fourth in Asia in the IMD World Digital and AI Ranking 2026, with top rankings in workforce development, efficiency and several sub-factors."
-      },
-      "zh": {
-        "headline": "香港數碼及人工智能競爭力全球排名第11",
-        "dek": "國際管理發展學院公布的2026年世界數碼及人工智能排名中，香港在70個經濟體中排第11，亞洲第4，多項因素及子因素表現突出。"
-      }
-    },
-    {
-      "id": "2026-11-11-hk-international-police-academy",
-      "published_at": "2026-11-11T18:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "security",
-        "academy",
-        "training"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-hk-international-police-academy.json",
-      "en": {
-        "headline": "Hong Kong opens International Academy of Policing to train local and overseas officers",
-        "dek": "Chief Executive John Lee said the academy will train about 1,000 officers each year, including 200 from overseas, through programmes and leadership forums."
-      },
-      "zh": {
-        "headline": "香港國際警務學院正式成立 每年培訓約千名警務人員",
-        "dek": "行政長官李家超主持開幕典禮，學院目標每年培訓約1000名警務人員，當中包括約200名海外執法人員。"
-      }
-    },
-    {
-      "id": "2026-11-11-lifestyle-pokemon-30-festival-walk",
-      "published_at": "2026-11-11T18:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "pokemon",
-        "festival-walk",
-        "pop-up",
-        "entertainment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-lifestyle-pokemon-30-festival-walk.json",
-      "en": {
-        "headline": "Festival Walk opens Pokémon 30th anniversary event with first Hong Kong Pokémon Center…",
-        "dek": "The free celebration runs from 11 November to 3 January at the Kowloon Tong mall, featuring installations, a time tunnel and the first official Pokémon Center pop-up store in the city."
-      },
-      "zh": {
-        "headline": "又一城Pokémon 30周年活動開幕 全港首個Pokémon Center Pop-Up登場",
-        "dek": "免費活動由11月11日至明年1月3日在九龍塘又一城舉行，設巨型裝置、時光隧道及全港首個官方Pokémon Center限時店。"
       }
     }
   ]
