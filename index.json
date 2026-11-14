@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-14T14:16:21+08:00",
+  "generated_at": "2026-11-14T16:26:38+08:00",
   "live_window_hours": 72,
   "count": 94,
   "articles": [
+    {
+      "id": "2026-11-14-kwun-tong-van-hits-elderly-woman",
+      "published_at": "2026-11-14T16:25:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "kwun-tong",
+        "accident",
+        "police",
+        "ngau-tau-kok"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-kwun-tong-van-hits-elderly-woman.json",
+      "en": {
+        "headline": "Driver arrested after van hits elderly woman at Ngau Tau Kok junction",
+        "dek": "Police said an 82-year-old woman was knocked down by a van at the Tung Ming Street and Ngau Tau Kok Road junction around noon and taken unconscious to Queen Elizabeth Hospital."
+      },
+      "zh": {
+        "headline": "牛頭角客貨車撞倒八旬婦 司機涉危駕被捕",
+        "dek": "警方表示，周六中午約12時，一輛客貨車在通明街與牛頭角道交界撞倒82歲凌姓老婦，傷者昏迷送伊利沙伯醫院，40歲司機涉危險駕駛被捕。"
+      }
+    },
+    {
+      "id": "2026-11-14-mtr-tung-chung-west-columns-ceo",
+      "published_at": "2026-11-14T16:25:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "tung-chung",
+        "construction",
+        "infrastructure"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-mtr-tung-chung-west-columns-ceo.json",
+      "en": {
+        "headline": "MTR chief says contractor performance on Tung Chung West columns is unacceptable",
+        "dek": "Jacob Kam said the company is following up seriously with the contractor on the unfinished concrete columns and that the target opening time remains unchanged for now."
+      },
+      "zh": {
+        "headline": "楊美珍指東涌西站柱問題不可接受 開通目標暫不變",
+        "dek": "港鐵行政總裁楊美珍表示，已嚴肅跟進承辦商就30多條混凝土柱未到頂的問題，當務之急是盡快查明原因及完成修復，目標開通時間暫時不變。"
+      }
+    },
+    {
+      "id": "2026-11-14-tuen-mun-fake-plate-car-hits-police",
+      "published_at": "2026-11-14T16:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "tuen-mun",
+        "police",
+        "traffic",
+        "fake-plate"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-tuen-mun-fake-plate-car-hits-police.json",
+      "en": {
+        "headline": "Man flees after private car with mismatched registration hits police vehicle in Tuen Mun",
+        "dek": "Police said officers stopped a private car in Shun Fung Wai early Saturday that then collided with a police vehicle and drove off; the registration did not match records."
+      },
+      "zh": {
+        "headline": "屯門假牌私家車撞警車後逃逸 警追緝男司機",
+        "dek": "警方表示，周六凌晨約1時2分在屯門順風圍截查一輛私家車時，男司機駕車撞向警車後逃去，車輛登記資料與行車證不符。"
+      }
+    },
     {
       "id": "2026-11-14-cannan-kindergarten-head-injury-claim-rejected",
       "published_at": "2026-11-14T14:15:00+08:00",
@@ -2038,72 +2104,6 @@
       "zh": {
         "headline": "又一城Pokémon 30周年活動開幕 全港首個Pokémon Center Pop-Up登場",
         "dek": "免費活動由11月11日至明年1月3日在九龍塘又一城舉行，設巨型裝置、時光隧道及全港首個官方Pokémon Center限時店。"
-      }
-    },
-    {
-      "id": "2026-11-11-cathay-airbus-orders",
-      "published_at": "2026-11-11T16:25:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "cathay",
-        "aviation",
-        "airbus",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-cathay-airbus-orders.json",
-      "en": {
-        "headline": "Cathay Group orders 14 more Airbus aircraft for fleet expansion",
-        "dek": "The order covers 11 A330-900s and three A321neos, bringing planned new deliveries from 2026 to 120 and total investment commitments above HK$150 billion."
-      },
-      "zh": {
-        "headline": "國泰集團再訂購14架空中巴士飛機擴充機隊",
-        "dek": "新訂單包括11架A330-900及3架A321neo，使2026年起新飛機交付總數達120架，十年投資承諾超過1500億元。"
-      }
-    },
-    {
-      "id": "2026-11-11-sexual-offences-bill",
-      "published_at": "2026-11-11T16:25:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "legislation",
-        "security",
-        "sexual-offences",
-        "legco"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-sexual-offences-bill.json",
-      "en": {
-        "headline": "Government to gazette sexual offences amendment bill on Friday",
-        "dek": "The Security Bureau said the bill will modernise Hong Kong’s laws and strengthen victim protection, with first and second readings set for 25 November."
-      },
-      "zh": {
-        "headline": "政府周五刊憲性罪行修訂條例草案",
-        "dek": "保安局表示草案將現代化香港性罪行法例並加強受害人保護，11月25日提交立法會首讀及二讀。"
-      }
-    },
-    {
-      "id": "2026-11-11-ura-to-kwa-wan-tenders",
-      "published_at": "2026-11-11T16:25:00+08:00",
-      "updated_at": "2026-11-11T16:30:00+08:00",
-      "category": "business",
-      "tags": [
-        "ura",
-        "property",
-        "to-kwa-wan",
-        "redevelopment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-ura-to-kwa-wan-tenders.json",
-      "en": {
-        "headline": "URA receives three tenders for final To Kwa Wan redevelopment plot",
-        "dek": "CK Asset, China Overseas Land & Investment and a Sino Land-Great Eagle consortium submitted bids for the To Kwa Wan Road/Wing Kwong Street project after the noon deadline."
-      },
-      "zh": {
-        "headline": "市建局土瓜灣道／榮光街項目截收三份標書",
-        "dek": "長實、中海外及信和與鷹君合組財團在周三中午截標時入標，該項目為土瓜灣小區重建最後一個地盤。"
       }
     }
   ]
