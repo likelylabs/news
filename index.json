@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-14T12:11:12+08:00",
+  "generated_at": "2026-11-14T14:15:58+08:00",
   "live_window_hours": 72,
-  "count": 96,
+  "count": 94,
   "articles": [
+    {
+      "id": "2026-11-14-cannan-kindergarten-head-injury-claim-rejected",
+      "published_at": "2026-11-14T14:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "school",
+        "kowloon-tong",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-cannan-kindergarten-head-injury-claim-rejected.json",
+      "en": {
+        "headline": "Kowloon Tong preschool rejects father's claim of on-campus head injury to toddler",
+        "dek": "Cannan Kindergarten said police reviewed CCTV footage and closed the case after finding no evidence the two-year-old was injured at the school."
+      },
+      "zh": {
+        "headline": "九龍塘幼稚園否認兩歲幼童校內受傷 警方查閱閉路電視後結案",
+        "dek": "迦南幼稚園表示，警方檢視閉路電視後未發現幼童在校內受傷證據，已結束調查，校方亦未收到支持指控的醫療報告。"
+      }
+    },
+    {
+      "id": "2026-11-14-cathay-pacific-us-ground-stop-delays",
+      "published_at": "2026-11-14T14:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "cathay",
+        "airport",
+        "transport",
+        "united-states"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-cathay-pacific-us-ground-stop-delays.json",
+      "en": {
+        "headline": "Cathay Pacific warns of delays after US ground stop hits Hong Kong-bound flights",
+        "dek": "The airline said two flights from the United States were delayed by a temporary nationwide grounding caused by air traffic communications issues, while other US services run on schedule."
+      },
+      "zh": {
+        "headline": "國泰指兩班美國返港航班延誤 其餘航班按原定時間運作",
+        "dek": "航空公司表示，受美國聯邦航空管理局因空中交通通訊問題實施的短暫全國停飛令影響，兩班航班延誤，並提醒可能出現進一步擠塞。"
+      }
+    },
+    {
+      "id": "2026-11-14-lifestyle-arts-in-the-park-night-parade",
+      "published_at": "2026-11-14T14:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "parade",
+        "causeway-bay",
+        "victoria-park",
+        "family"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-lifestyle-arts-in-the-park-night-parade.json",
+      "en": {
+        "headline": "Illuminated night parade lights up Causeway Bay as Arts in the Park continues",
+        "dek": "The free carnival at Victoria Park runs through Sunday with interactive stalls, while police close several roads from 5.30pm for the evening procession featuring giant lantern puppets."
+      },
+      "zh": {
+        "headline": "銅鑼灣藝趣嘉年華今晚亮燈巡遊 維園免費活動持續",
+        "dek": "維多利亞公園嘉年華有互動攤位，警方由傍晚約時半起封閉多條道路配合巨型花燈巡遊，周日另有日間巡遊。"
+      }
+    },
     {
       "id": "2026-11-14-hung-hom-woman-fall-death",
       "published_at": "2026-11-14T12:11:00+08:00",
@@ -2037,121 +2104,6 @@
       "zh": {
         "headline": "市建局土瓜灣道／榮光街項目截收三份標書",
         "dek": "長實、中海外及信和與鷹君合組財團在周三中午截標時入標，該項目為土瓜灣小區重建最後一個地盤。"
-      }
-    },
-    {
-      "id": "2026-11-11-li-ka-shing-histotripsy-kidney-trials",
-      "published_at": "2026-11-11T14:15:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "medical",
-        "li-ka-shing",
-        "technology",
-        "hospitals"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-li-ka-shing-histotripsy-kidney-trials.json",
-      "en": {
-        "headline": "Li Ka-shing funds Asia-first non-invasive kidney tumour trials in Hong Kong",
-        "dek": "The Li Ka Shing Foundation is funding 30 places at three private hospitals for histotripsy clinical trials treating kidney cancer without surgical incisions."
-      },
-      "zh": {
-        "headline": "李嘉誠資助組織碎化技術腎癌臨床試驗 香港成亞洲首個城市",
-        "dek": "李嘉誠基金會向三間私家醫院提供合共30個名額，以組織碎化技術（Histotripsy）進行腎臟癌無創治療臨床試驗。"
-      }
-    },
-    {
-      "id": "2026-11-11-lifestyle-happy-wednesday-music-dine",
-      "published_at": "2026-11-11T14:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "racing",
-        "happy-valley",
-        "music",
-        "food"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-lifestyle-happy-wednesday-music-dine.json",
-      "en": {
-        "headline": "Happy Wednesday Music and Dine Festival returns to Happy Valley tonight",
-        "dek": "The Hong Kong Jockey Club’s themed race night at Happy Valley Racecourse features live music, special drinks and food from 6pm, with public enclosure entry at HK$10."
-      },
-      "zh": {
-        "headline": "跑馬地Happy Wednesday音樂美食節今晚舉行",
-        "dek": "香港賽馬會跑馬地馬場主題賽馬夜今晚六時開始，啤酒園有現場音樂、特色飲品及美食，公眾席入場費10元。"
-      }
-    },
-    {
-      "id": "2026-11-11-one-stanley-steel-investigation-update",
-      "published_at": "2026-11-11T14:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "buildings",
-        "development",
-        "stanley",
-        "investigation",
-        "safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-one-stanley-steel-investigation-update.json",
-      "en": {
-        "headline": "Buildings Department finds One Stanley steel work does not match approved plans",
-        "dek": "Development Secretary Bernadette Linn said the investigation is largely complete and the department will consult the Justice Department on possible prosecution."
-      },
-      "zh": {
-        "headline": "屋宇署指赤柱ONE STANLEY鋼筋配置與圖則不符 將徵詢律政司檢控意見",
-        "dek": "發展局局長甯漢豪表示調查大致完成，署方已勒令抽查屋苑其他單位，並計劃要求承建商灌注混凝土前拍照或錄像記錄鋼筋。"
-      }
-    },
-    {
-      "id": "2026-11-11-mong-kok-charger-fire",
-      "published_at": "2026-11-11T12:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "mong-kok",
-        "fire",
-        "community",
-        "police",
-        "safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-mong-kok-charger-fire.json",
-      "en": {
-        "headline": "Firefighters put out Mong Kok flat fire linked to charger, several people treated",
-        "dek": "Firefighters extinguished a Mong Kok flat fire linked to a charger within half an hour, with more than twenty residents evacuated and several people feeling unwell from smoke."
-      },
-      "zh": {
-        "headline": "旺角新填地街單位疑充電器起火 消防灌救多人疏散",
-        "dek": "旺角永福大廈一住宅單位今早七時許疑充電器短路冒煙起火，消防半小時內將火救熄，約二十五人自行疏散，數人包括嬰兒感到不適。"
-      }
-    },
-    {
-      "id": "2026-11-11-western-harbourfront-man-dies",
-      "published_at": "2026-11-11T12:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "waterfront",
-        "police",
-        "rescue",
-        "hospital",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-western-harbourfront-man-dies.json",
-      "en": {
-        "headline": "Man dies after being pulled from the sea at Western Harbourfront",
-        "dek": "A man in his forties was found floating near the piers opposite the Western Wholesale Food Market early Wednesday and later died in hospital, police said."
-      },
-      "zh": {
-        "headline": "西環海濱長廊男子墮海 送院搶救不治",
-        "dek": "一名年約四十歲南亞裔男子今早在西區副食品批發市場對開海面被發現載浮載沉，獲救後送瑪麗醫院，惜不治。"
       }
     }
   ]
