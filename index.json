@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-14T22:15:12+08:00",
+  "generated_at": "2026-11-15T00:05:33+08:00",
   "live_window_hours": 72,
-  "count": 93,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-11-15-kwai-chung-minibus-driver-collapse",
+      "published_at": "2026-11-15T00:03:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "accident",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-15/2026-11-15-kwai-chung-minibus-driver-collapse.json",
+      "en": {
+        "headline": "Minibus driver dies after collapsing while boarding passengers in Kwai Chung",
+        "dek": "Police said a man in his 70s was found unconscious on a green minibus at Shek Yam Road around 5:54pm on Saturday and was certified dead at Yan Chai Hospital later that evening."
+      },
+      "zh": {
+        "headline": "葵涌綠Van司機上客期間暈倒 送院搶救後不治",
+        "dek": "警方表示，周六傍晚約5時54分，一名年約七旬男司機在石蔭路小巴站上客時被發現昏迷，送仁濟醫院後於晚上7時49分證實死亡。"
+      }
+    },
+    {
+      "id": "2026-11-15-lifestyle-ich-wonder-play-fun-day",
+      "published_at": "2026-11-15T00:03:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "heritage",
+        "museum",
+        "tsuen-wan",
+        "event"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-15/2026-11-15-lifestyle-ich-wonder-play-fun-day.json",
+      "en": {
+        "headline": "Intangible Cultural Heritage Centre hosts free ICH Wonder Play fun day today",
+        "dek": "The Leisure and Cultural Services Department’s Intangible Cultural Heritage Office is running performances, workshops and interactive games at Sam Tung Uk Museum in Tsuen Wan from 11am to 6pm."
+      },
+      "zh": {
+        "headline": "三棟屋非遺中心今辦「非遺童遊」同樂日 免費入場",
+        "dek": "康文署非物質文化遺產辦事處在荃灣三棟屋博物館舉辦，上午11時至下午6時設有廣東音樂、木偶戲表演及多項工作坊和互動遊戲。"
+      }
+    },
+    {
+      "id": "2026-11-15-police-ai-facial-recognition-smartview",
+      "published_at": "2026-11-15T00:03:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "police",
+        "smartview",
+        "facial-recognition",
+        "surveillance",
+        "technology"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-15/2026-11-15-police-ai-facial-recognition-smartview.json",
+      "en": {
+        "headline": "Police to activate AI facial recognition on SmartView network from Monday",
+        "dek": "Commissioner Joe Chow said the system would help identify people even if they wore masks, serving as protection for law-abiding residents and a deterrent against crime."
+      },
+      "zh": {
+        "headline": "警方周一在銳眼監控網絡啟用人工智能人臉識別",
+        "dek": "警務處處長周一鳴表示，技術即使有人戴口罩亦可協助識別，旨在保障守法市民並對犯罪起阻嚇作用。"
+      }
+    },
     {
       "id": "2026-11-14-kwun-tong-helper-assault-boy",
       "published_at": "2026-11-14T22:15:00+08:00",
@@ -1948,139 +2015,6 @@
       "zh": {
         "headline": "大坑21歲內地男子單位內上吊亡 業主揭發",
         "dek": "警方表示，事主為持雙程證來港的張姓男子，周三晚上約九時五十分被業主在新村街39號單位發現，現場檢獲遺書。"
-      }
-    },
-    {
-      "id": "2026-11-12-education-bureau-vaping-school",
-      "published_at": "2026-11-12T00:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "school",
-        "vaping",
-        "tsuen-wan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-education-bureau-vaping-school.json",
-      "en": {
-        "headline": "Education Bureau urges school to strengthen values education after vaping video",
-        "dek": "The bureau contacted Po Leung Kuk Yao Ling Sun College in Tsuen Wan after a video of students in uniform appeared to show vaping inside a toilet cubicle."
-      },
-      "zh": {
-        "headline": "教育局促荃灣中學加強價值教育 因應學生疑在校內吸電子煙影片",
-        "dek": "教育局聯絡保良局耀靈中學，因一段顯示身穿校服學生在廁格內疑吸食電子煙的影片在網上流傳。"
-      }
-    },
-    {
-      "id": "2026-11-12-lifestyle-arts-in-the-park-2026",
-      "published_at": "2026-11-12T00:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "festival",
-        "arts",
-        "causeway-bay",
-        "youth"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-lifestyle-arts-in-the-park-2026.json",
-      "en": {
-        "headline": "Arts in the Park returns to Causeway Bay with fairy-tale parades this weekend",
-        "dek": "The free outdoor youth arts festival organised by the Hong Kong Youth Arts Foundation runs on 14 and 15 November, featuring giant puppets and night and finale parades."
-      },
-      "zh": {
-        "headline": "藝術在公園本周末重臨銅鑼灣 童話主題遊行登場",
-        "dek": "香港青年藝術協會舉辦的免費戶外青年藝術節於11月14及15日舉行，設巨型木偶及夜間與壓軸遊行。"
-      }
-    },
-    {
-      "id": "2026-11-12-red-fire-danger-warning-cancelled",
-      "published_at": "2026-11-12T00:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "fire-danger"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-red-fire-danger-warning-cancelled.json",
-      "en": {
-        "headline": "Hong Kong Observatory cancels Red Fire Danger Warning",
-        "dek": "The Observatory lifted the Red Fire Danger Warning late on Wednesday after it had been in force since early Monday, with the fire risk no longer extreme."
-      },
-      "zh": {
-        "headline": "天文台取消紅色火災危險警告",
-        "dek": "天文台周三深夜取消自周一起生效的紅色火災危險警告，火災危險性已不再處於極高程度。"
-      }
-    },
-    {
-      "id": "2026-11-11-mega-fans-expo-cancelled",
-      "published_at": "2026-11-11T22:20:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "event",
-        "cancellation",
-        "airport",
-        "immigration"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-mega-fans-expo-cancelled.json",
-      "en": {
-        "headline": "Organisers cancel Mega Fans Expo after Japanese performers denied entry",
-        "dek": "The three-day adult entertainment event at the Regal Airport Hotel and a preview scheduled for Thursday have been called off, with refunds to follow."
-      },
-      "zh": {
-        "headline": "近30名日本女優疑遭拒入境 Mega Fans Expo主辦方宣佈取消",
-        "dek": "原定富豪機場酒店舉行的三日成人展及周四預覽活動取消，主辦方稍後公布退款安排。"
-      }
-    },
-    {
-      "id": "2026-11-11-mpox-case-26yo",
-      "published_at": "2026-11-11T22:20:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "mpox",
-        "chp",
-        "disease"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-mpox-case-26yo.json",
-      "en": {
-        "headline": "Centre for Health Protection investigates new mpox case in 26-year-old man",
-        "dek": "The patient developed a rash and fever and reported high-risk sexual contact in Hong Kong with men met through social media platforms."
-      },
-      "zh": {
-        "headline": "衞生防護中心調查26歲男子確診猴痘個案",
-        "dek": "患者出現皮疹及發燒，潛伏期內曾與透過社交平台結識的男子有高風險性接觸。"
-      }
-    },
-    {
-      "id": "2026-11-11-police-thundernet-money-laundering",
-      "published_at": "2026-11-11T22:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "money-laundering",
-        "arrests",
-        "crime",
-        "fraud"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-police-thundernet-money-laundering.json",
-      "en": {
-        "headline": "Police arrest 22 after dismantling cross-border money laundering syndicate",
-        "dek": "The two-day Thundernet operation seized more than 1,600 bank cards, HK$5.85 million in cash and over 200 phones linked to more than HK$150 million laundered."
-      },
-      "zh": {
-        "headline": "警方「雷網」行動搗破跨境洗黑錢集團 拘捕22人",
-        "dek": "兩日行動檢獲逾1600張銀行提款卡、約585萬元現金及逾200部手機，集團8至10月疑清洗逾1.5億元。"
       }
     }
   ]
