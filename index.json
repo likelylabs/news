@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-11-14T10:17:55+08:00",
+  "generated_at": "2026-11-14T12:11:12+08:00",
   "live_window_hours": 72,
-  "count": 93,
+  "count": 96,
   "articles": [
+    {
+      "id": "2026-11-14-hung-hom-woman-fall-death",
+      "published_at": "2026-11-14T12:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "hung-hom",
+        "accident",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-hung-hom-woman-fall-death.json",
+      "en": {
+        "headline": "Woman dies after falling onto Po Loi Street pavement in Hung Hom",
+        "dek": "Police said a 45-year-old woman was found on the ground outside 50 Po Loi Street shortly after 7:40am on Saturday and was certified dead at the scene."
+      },
+      "zh": {
+        "headline": "紅磡寶來街女子墮樓倒臥行人路 當場不治",
+        "dek": "警方表示，周六早上約7時40分接報，一名45歲女子倒臥寶來街50號對開行人路，經證實當場死亡。"
+      }
+    },
+    {
+      "id": "2026-11-14-kwun-tong-pool-incident",
+      "published_at": "2026-11-14T12:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "kwun-tong",
+        "swimming",
+        "accident",
+        "hospital"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-kwun-tong-pool-incident.json",
+      "en": {
+        "headline": "Woman in her 60s found unconscious at Kwun Tong swimming pool",
+        "dek": "Police said a woman in her sixties was discovered unresponsive beside the pool at about 8:10am on Saturday and was taken to United Christian Hospital."
+      },
+      "zh": {
+        "headline": "觀塘游泳池六旬女子疑遇溺昏迷送院",
+        "dek": "警方表示，周六早上約8時10分接報，一名六十多歲女泳客在觀塘游泳池昏迷不醒，已送聯合醫院搶救。"
+      }
+    },
+    {
+      "id": "2026-11-14-smartview-facial-recognition-launch",
+      "published_at": "2026-11-14T12:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "surveillance",
+        "facial-recognition",
+        "smartview"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-smartview-facial-recognition-launch.json",
+      "en": {
+        "headline": "Police to activate facial recognition on SmartView cameras from 16 November",
+        "dek": "Commissioner Chow said the facial recognition function of the SmartView programme would start next Monday and described it as protection for law-abiding citizens."
+      },
+      "zh": {
+        "headline": "警方銳眼計劃下周一啟動人面識別功能",
+        "dek": "警務處處長周一鳴表示，銳眼計劃的人面識別功能將於11月16日啟用，形容對良好市民屬保障，對作姦犯科者則屬監控。"
+      }
+    },
     {
       "id": "2026-11-14-elderly-man-youtube-investment-scam",
       "published_at": "2026-11-14T10:16:00+08:00",
