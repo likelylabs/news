@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-14T18:12:23+08:00",
+  "generated_at": "2026-11-14T20:25:38+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 94,
   "articles": [
+    {
+      "id": "2026-11-14-disneyland-qr-codes-stolen",
+      "published_at": "2026-11-14T20:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "disneyland",
+        "cybercrime",
+        "police",
+        "tickets",
+        "lantau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-disneyland-qr-codes-stolen.json",
+      "en": {
+        "headline": "Hong Kong Disneyland reports theft of 17000 ticket QR codes and suspends online sales",
+        "dek": "Police are investigating the case as access to a computer with criminal or dishonest intent after an IT worker found anomalies in the system."
+      },
+      "zh": {
+        "headline": "香港迪士尼樂園報告1.7萬個門票二維碼被盜 暫停網上售票",
+        "dek": "警方正以有犯罪或不誠實意圖而取用電腦調查，一名資訊科技人員發現系統異常後揭發事件。"
+      }
+    },
+    {
+      "id": "2026-11-14-fake-toyota-airbag-recall-messages",
+      "published_at": "2026-11-14T20:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "scam",
+        "transport-department",
+        "toyota",
+        "whatsapp",
+        "airbag"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-fake-toyota-airbag-recall-messages.json",
+      "en": {
+        "headline": "Transport Department warns public of fake Toyota airbag recall messages",
+        "dek": "Officials said the department does not send individual recall letters to owners and has referred the fraudulent WhatsApp notices to police."
+      },
+      "zh": {
+        "headline": "運輸署呼籲提防偽冒豐田安全氣袋召回信息",
+        "dek": "署方表示不會以信件通知個別車主召回事宜，並已將有關偽冒WhatsApp信息轉交警方跟進。"
+      }
+    },
     {
       "id": "2026-11-14-electronic-proxy-voting-trial",
       "published_at": "2026-11-14T18:10:00+08:00",
