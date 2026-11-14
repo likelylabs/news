@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-14T08:56:42+08:00",
+  "generated_at": "2026-11-14T10:17:55+08:00",
   "live_window_hours": 72,
   "count": 93,
   "articles": [
+    {
+      "id": "2026-11-14-elderly-man-youtube-investment-scam",
+      "published_at": "2026-11-14T10:16:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "scam",
+        "investment",
+        "police",
+        "cybercrime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-elderly-man-youtube-investment-scam.json",
+      "en": {
+        "headline": "Man in his 70s loses nearly HK$18 million in YouTube investment scam",
+        "dek": "Police said the victim was lured by an online advertisement into a fake cryptocurrency platform and transferred large sums of USDT and ether before realising he had been defrauded."
+      },
+      "zh": {
+        "headline": "七旬男子誤信YouTube投資廣告 損失近1800萬元",
+        "dek": "警方表示，事主今年6月見到廣告後被引入假虛擬貨幣平台，8至10月間轉出逾1800萬港元等值USDT及以太幣，最終無法提款。"
+      }
+    },
+    {
+      "id": "2026-11-14-lingnan-secondary-bullying-arrests",
+      "published_at": "2026-11-14T10:16:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "school",
+        "bullying",
+        "police",
+        "chai-wan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-lingnan-secondary-bullying-arrests.json",
+      "en": {
+        "headline": "Police arrest three teens over alleged assault at Lingnan Secondary School",
+        "dek": "Eastern District officers detained three boys aged 13 to 15 on suspicion of common assault after a reported incident involving a 13-year-old student with disabilities."
+      },
+      "zh": {
+        "headline": "警方拘捕三名少年 涉嶺南中學普通襲擊",
+        "dek": "東區警區反黑組周五拘捕三名13至15歲少年，涉嫌在杏花邨嶺南中學對一名有多重障礙的13歲男生作出普通襲擊。"
+      }
+    },
+    {
+      "id": "2026-11-14-sau-mau-ping-taxi-tour-bus-crash",
+      "published_at": "2026-11-14T10:16:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "accident",
+        "sau-mau-ping",
+        "taxi"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-sau-mau-ping-taxi-tour-bus-crash.json",
+      "en": {
+        "headline": "Taxi hits parked tour bus in Sau Mau Ping, two injured",
+        "dek": "A 64-year-old taxi driver and a 35-year-old passenger suffered injuries after their vehicle collided with a stationary coach on a wet Shun Lee Tsuen Road early Saturday."
+      },
+      "zh": {
+        "headline": "秀茂坪的士撞停泊旅遊巴 兩人受傷",
+        "dek": "周六凌晨一輛的士在雨濕的順利邨道撞向停泊旅遊巴，64歲司機及35歲乘客受傷送聯合醫院。"
+      }
+    },
     {
       "id": "2026-11-14-cardinal-chow-taipo-fire-masses",
       "published_at": "2026-11-14T08:05:00+08:00",
@@ -2021,72 +2087,6 @@
       "zh": {
         "headline": "西環海濱長廊男子墮海 送院搶救不治",
         "dek": "一名年約四十歲南亞裔男子今早在西區副食品批發市場對開海面被發現載浮載沉，獲救後送瑪麗醫院，惜不治。"
-      }
-    },
-    {
-      "id": "2026-11-11-northern-link-project-agreement",
-      "published_at": "2026-11-11T10:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "northern-metropolis",
-        "mtr",
-        "rail",
-        "infrastructure"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-northern-link-project-agreement.json",
-      "en": {
-        "headline": "Government and MTR sign Northern Link agreement as cost falls to HK$86.2 billion",
-        "dek": "The full main and spur lines are targeted to open by 2034 after the Executive Council approved the second-phase financial arrangements, 28 per cent below earlier estimates."
-      },
-      "zh": {
-        "headline": "政府與港鐵簽署北環線全線協議 建造成本降至862億元",
-        "dek": "行政長官會同行政會議批准第二部分財務安排後，主線及支線目標於2034年或之前同步開通，整體造價較原先估計低28%。"
-      }
-    },
-    {
-      "id": "2026-11-11-sai-kung-burglary-watches",
-      "published_at": "2026-11-11T10:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "sai-kung",
-        "burglary",
-        "police",
-        "watches"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-sai-kung-burglary-watches.json",
-      "en": {
-        "headline": "Police investigate Sai Kung burglary after watches and earrings worth HK$245,000 stolen",
-        "dek": "A 62-year-old woman reported the theft from her flat on Tuesday night; the case has been classified as burglary with no arrests so far."
-      },
-      "zh": {
-        "headline": "西貢住宅爆竊 失約24.5萬元手錶及耳環",
-        "dek": "62歲姓陳女子周二晚報案指北港坳路單位有財物失竊，警方初步點算兩隻手錶及一對耳環共值約24.5萬元，案件列作爆竊，暫未有人被捕。"
-      }
-    },
-    {
-      "id": "2026-11-11-sheung-shui-worker-truck-fall",
-      "published_at": "2026-11-11T10:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "sheung-shui",
-        "industrial-accident",
-        "police",
-        "hospital"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-sheung-shui-worker-truck-fall.json",
-      "en": {
-        "headline": "Worker injured after falling from truck while unloading goods in Sheung Shui",
-        "dek": "A 52-year-old man was taken conscious to North District Hospital after falling about one metre from a medium-sized truck early on Wednesday."
-      },
-      "zh": {
-        "headline": "上水工人搬貨時從貨車墮下受傷",
-        "dek": "52歲姓楊男子周三凌晨約2時在安樂門街從中型貨車墮下約一米，清醒送往北區醫院治理，案件列作工業意外。"
       }
     }
   ]
