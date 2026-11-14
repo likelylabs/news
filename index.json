@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-15T02:04:31+08:00",
+  "generated_at": "2026-11-15T04:18:04+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-11-15-hong-kong-maritime-week-opens",
+      "published_at": "2026-11-15T04:17:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "maritime",
+        "shipping",
+        "hkcec",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-15/2026-11-15-hong-kong-maritime-week-opens.json",
+      "en": {
+        "headline": "Hong Kong Maritime Week opens for 10th anniversary with over 60 events",
+        "dek": "The week-long programme starting today brings more than 18,000 participants and will see the government announce new partner ports."
+      },
+      "zh": {
+        "headline": "香港海運周十周年今日揭幕 逾60場活動吸引1.8萬人參與",
+        "dek": "為期七天的活動由今日起舉行，政府將公布新一批夥伴港口並簽署多項合作備忘錄。"
+      }
+    },
+    {
+      "id": "2026-11-15-lifestyle-discovery-bay-christmas-market",
+      "published_at": "2026-11-15T04:17:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "discovery-bay",
+        "market",
+        "christmas",
+        "handmade"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-15/2026-11-15-lifestyle-discovery-bay-christmas-market.json",
+      "en": {
+        "headline": "Handmade Hong Kong stages first Discovery Bay Christmas market this weekend",
+        "dek": "Local makers sell gifts and decorations at Discovery Bay Plaza from 11am to 6pm on Saturday and Sunday."
+      },
+      "zh": {
+        "headline": "手作香港在愉景灣廣場辦首個聖誕市集 本周末舉行",
+        "dek": "本地創作者於愉景灣廣場擺檔售賣禮品及裝飾，周六及日上午11時至下午6時開放。"
+      }
+    },
     {
       "id": "2026-11-15-lifestyle-arts-in-the-park-finale",
       "published_at": "2026-11-15T02:05:00+08:00",
@@ -1972,72 +2017,6 @@
       "zh": {
         "headline": "油尖區打擊黑工及掃黃行動拘31人",
         "dek": "油尖警區聯同入境處周三在區內展開代號「冠軍」行動，突擊搜查多處，拘捕涉嫌逾期居留及非法勞工的人士。"
-      }
-    },
-    {
-      "id": "2026-11-12-airport-apron-shuttle-brake",
-      "published_at": "2026-11-12T02:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "airport",
-        "transport",
-        "accident",
-        "injury"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-airport-apron-shuttle-brake.json",
-      "en": {
-        "headline": "Five passengers suffer minor injuries after airport apron shuttle brakes suddenly",
-        "dek": "A shuttle bus carrying travellers from the apron to the passenger terminal at Hong Kong International Airport made an abrupt stop late on Wednesday evening."
-      },
-      "zh": {
-        "headline": "機場停機坪穿梭巴士疑急煞 五人輕傷送院",
-        "dek": "香港國際機場一輛接載旅客由停機坪前往客運大樓的穿梭巴士周三晚上突然煞停，五名乘客受傷。"
-      }
-    },
-    {
-      "id": "2026-11-12-lifestyle-wan-chai-sikh-temple-lights",
-      "published_at": "2026-11-12T02:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "wan-chai",
-        "festival",
-        "culture",
-        "temple"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-lifestyle-wan-chai-sikh-temple-lights.json",
-      "en": {
-        "headline": "Wan Chai Sikh temple lights up in blue for Bandi Chhor Divas until 24 November",
-        "dek": "Khalsa Diwan Sikh Temple on Queen's Road East is illuminated nightly with cascading blue lights to mark the festival, drawing residents and photographers."
-      },
-      "zh": {
-        "headline": "灣仔錫克教廟亮起藍燈慶祝囚徒解放日 至11月24日",
-        "dek": "位於皇后大道東的Khalsa Diwan錫克教廟每晚以藍色燈飾點亮外牆，慶祝Bandi Chhor Divas及排燈節，吸引市民及攝影愛好者到場。"
-      }
-    },
-    {
-      "id": "2026-11-12-tai-hang-man-hanging",
-      "published_at": "2026-11-12T02:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tai-hang",
-        "police",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-tai-hang-man-hanging.json",
-      "en": {
-        "headline": "21-year-old man found dead in Tai Hang flat after being discovered hanging",
-        "dek": "Police said the mainland tenant was found by the flat owner on Wednesday evening at a unit on Sun Chun Street; a note was recovered at the scene."
-      },
-      "zh": {
-        "headline": "大坑21歲內地男子單位內上吊亡 業主揭發",
-        "dek": "警方表示，事主為持雙程證來港的張姓男子，周三晚上約九時五十分被業主在新村街39號單位發現，現場檢獲遺書。"
       }
     }
   ]
