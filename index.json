@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-14T20:25:38+08:00",
+  "generated_at": "2026-11-14T22:14:28+08:00",
   "live_window_hours": 72,
-  "count": 94,
+  "count": 93,
   "articles": [
+    {
+      "id": "2026-11-14-kwun-tong-helper-assault-boy",
+      "published_at": "2026-11-14T22:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "kwun-tong",
+        "police",
+        "domestic-helper",
+        "child"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-kwun-tong-helper-assault-boy.json",
+      "en": {
+        "headline": "Domestic helper arrested after allegedly slapping seven-year-old boy in Kwun Tong",
+        "dek": "Police said a 37-year-old Filipino helper was detained after the boy’s mother reported the incident at a Hip Wo Street flat; the child had no visible injuries."
+      },
+      "zh": {
+        "headline": "觀塘外傭涉掌摛七歲男童被捕 警方調查虐兒",
+        "dek": "警方表示，37歲菲律賓籍外傭在協和街單位涉嫌掌摛男童面部後被扣留調查，男童無表面傷痕。"
+      }
+    },
+    {
+      "id": "2026-11-14-mtr-northern-link-cash-pressure",
+      "published_at": "2026-11-14T22:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "mtr",
+        "northern-metropolis",
+        "northern-link",
+        "rail",
+        "infrastructure"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-mtr-northern-link-cash-pressure.json",
+      "en": {
+        "headline": "MTR warns of cash flow pressure despite Northern Link land grants",
+        "dek": "Chief executive Jeny Yeung said the rail-plus-property model has a long cycle for returns even as proceeds from eight new sites are expected to cover the Northern Link."
+      },
+      "zh": {
+        "headline": "港鐵警告北環線土地撥備下仍面臨現金流壓力",
+        "dek": "行政總裁楊美珍表示，鐵路加物業模式回報周期較長，即使八幅新地皮收益預計可覆蓋北環線建設及資產更新。"
+      }
+    },
     {
       "id": "2026-11-14-disneyland-qr-codes-stolen",
       "published_at": "2026-11-14T20:25:00+08:00",
@@ -2036,74 +2081,6 @@
       "zh": {
         "headline": "警方「雷網」行動搗破跨境洗黑錢集團 拘捕22人",
         "dek": "兩日行動檢獲逾1600張銀行提款卡、約585萬元現金及逾200部手機，集團8至10月疑清洗逾1.5億元。"
-      }
-    },
-    {
-      "id": "2026-11-11-cfs-korea-netherlands-poultry",
-      "published_at": "2026-11-11T20:30:00+08:00",
-      "updated_at": "2026-11-11T20:40:00+08:00",
-      "category": "health",
-      "tags": [
-        "food-safety",
-        "cfs",
-        "bird-flu",
-        "import",
-        "health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-cfs-korea-netherlands-poultry.json",
-      "en": {
-        "headline": "Centre for Food Safety suspends poultry imports from more areas in Korea and the…",
-        "dek": "The centre acted after notifications of highly pathogenic avian influenza outbreaks in Jangheung-gun, Yeoju and Gelderland."
-      },
-      "zh": {
-        "headline": "食安中心暫停進口韓國及荷蘭更多地區禽肉及禽蛋",
-        "dek": "中心因應長興郡、驪州及海爾德蘭省爆發高致病性禽流感而採取行動。"
-      }
-    },
-    {
-      "id": "2026-11-11-cfs-meadows-milk-colony",
-      "published_at": "2026-11-11T20:30:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "food-safety",
-        "cfs",
-        "health",
-        "milk"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-cfs-meadows-milk-colony.json",
-      "en": {
-        "headline": "Centre for Food Safety finds colony count over limit in Meadows milk sample",
-        "dek": "The affected batch of Australian UHT skimmed milk remains in the importer's warehouse and has not entered the market."
-      },
-      "zh": {
-        "headline": "食安中心抽查Meadows脫脂奶菌落超標 產品未流出市面",
-        "dek": "受影響批次的澳洲超高溫處理脫脂奶仍存於進口商貨倉，沒有流入市場。"
-      }
-    },
-    {
-      "id": "2026-11-11-tko-garage-owner-death",
-      "published_at": "2026-11-11T20:30:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "accident",
-        "tseung-kwan-o",
-        "police",
-        "hospital",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-11/2026-11-11-tko-garage-owner-death.json",
-      "en": {
-        "headline": "72-year-old garage owner dies after car falls on him in Tseung Kwan O",
-        "dek": "Police said the man was trapped under a private car he was repairing in Upper Village and later died in hospital."
-      },
-      "zh": {
-        "headline": "將軍澳上村七旬車房東主修車遭壓 送院不治",
-        "dek": "警方表示，事主在上村維修私家車期間遭車壓着，送院後不治。"
       }
     }
   ]
