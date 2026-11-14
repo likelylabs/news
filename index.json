@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-14T04:20:19+08:00",
+  "generated_at": "2026-11-14T08:06:28+08:00",
   "live_window_hours": 72,
-  "count": 93,
+  "count": 96,
   "articles": [
+    {
+      "id": "2026-11-14-cardinal-chow-taipo-fire-masses",
+      "published_at": "2026-11-14T08:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tai-po",
+        "fire",
+        "religion",
+        "wang-fuk-court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-cardinal-chow-taipo-fire-masses.json",
+      "en": {
+        "headline": "Cardinal Chow invites all parishes to hold masses for Tai Po fire victims on 26 November",
+        "dek": "The Bishop of Hong Kong asked parishes to offer a mass on the first anniversary of the Wang Fuk Court fire that killed 168 people."
+      },
+      "zh": {
+        "headline": "周守仁樞機籲各堂區11月26日為宏福苑亡者獻彌撒",
+        "dek": "天主教香港教區主教周守仁邀請各堂區在大埔宏福苑五級火一周年當日，為168名遇難者奉獻彌撒。"
+      }
+    },
+    {
+      "id": "2026-11-14-laguna-city-facial-recognition-privacy",
+      "published_at": "2026-11-14T08:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "privacy",
+        "lam-tin",
+        "housing",
+        "biometric"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-laguna-city-facial-recognition-privacy.json",
+      "en": {
+        "headline": "Privacy watchdog starts compliance check on Laguna City face recognition plan",
+        "dek": "The Office of the Privacy Commissioner for Personal Data is reviewing a proposed facial recognition entry system at the Lam Tin estate after residents raised concerns."
+      },
+      "zh": {
+        "headline": "私隱署就麗港城人面識別門禁計劃展開循規審查",
+        "dek": "個人資料私隱專員公署因藍田麗港城住戶關注，正審查物業管理公司擬引入的人面識別出入系統。"
+      }
+    },
+    {
+      "id": "2026-11-14-lifestyle-hk-open-badminton-kai-tak",
+      "published_at": "2026-11-14T08:05:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "lifestyle",
+        "badminton",
+        "kai-tak",
+        "sport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-14/2026-11-14-lifestyle-hk-open-badminton-kai-tak.json",
+      "en": {
+        "headline": "Hong Kong Open badminton moves to Kai Tak Arena for first time next week",
+        "dek": "The BWF Super 500 tournament runs from 17 to 22 November at the new venue with local players in the draws and tickets from HK$70."
+      },
+      "zh": {
+        "headline": "香港羽毛球公開賽下周首度移師啟德體藝館",
+        "dek": "世界羽聯超級500賽事11月17至22日於啟德舉行，本地球員出戰，門票由70元起。"
+      }
+    },
     {
       "id": "2026-11-14-amber-rainstorm-thunderstorm-warning",
       "published_at": "2026-11-14T04:18:00+08:00",
