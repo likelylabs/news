@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-15T08:00:21+08:00",
+  "generated_at": "2026-11-15T08:06:13+08:00",
   "live_window_hours": 72,
   "count": 88,
   "articles": [
+    {
+      "id": "2026-11-15-lifestyle-caritas-charity-bazaar-kowloon",
+      "published_at": "2026-11-15T08:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "caritas",
+        "charity",
+        "mong-kok",
+        "bazaar"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-15/2026-11-15-lifestyle-caritas-charity-bazaar-kowloon.json",
+      "en": {
+        "headline": "Caritas holds charity bazaars in Mong Kok and Cheung Chau today",
+        "dek": "The annual fundraising events run from 10am to 6pm at Fa Hui Park and until 5:30pm at Pak Tai Temple Playground under the Messengers of Hope theme."
+      },
+      "zh": {
+        "headline": "明愛慈善賣物會今日在旺角花墟及長洲舉行",
+        "dek": "年度籌款活動在花墟公園上午10時至下午6時舉行，長洲北帝廟遊樂場至下午5時30分，主題為希望的傳承者。"
+      }
+    },
+    {
+      "id": "2026-11-15-yellow-fire-danger-warning",
+      "published_at": "2026-11-15T08:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "fire-danger",
+        "hko"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-15/2026-11-15-yellow-fire-danger-warning.json",
+      "en": {
+        "headline": "Observatory issues Yellow Fire Danger Warning as risk rises",
+        "dek": "The Hong Kong Observatory raised the Yellow Fire Danger Warning at 6am on Sunday, warning that the fire risk is high."
+      },
+      "zh": {
+        "headline": "天文台今早發出黃色火災危險警告 火災風險顏高",
+        "dek": "香港天文台周日上午6時發出黃色火災危險警告，表示火災危險性顇高。"
+      }
+    },
     {
       "id": "2026-11-15-hong-kong-maritime-week-opens",
       "published_at": "2026-11-15T04:17:00+08:00",
@@ -1927,52 +1971,6 @@
       "zh": {
         "headline": "將軍澳上村72歲車房東主遭私家車壓死",
         "dek": "警方表示，事主周三下午在穎禮路戶外修車場維修自己的私家車時，千斤頂疑故障，被車壓住送院後不治。"
-      }
-    },
-    {
-      "id": "2026-11-12-tsim-sha-tsui-taxi-driver-assault-arrest",
-      "published_at": "2026-11-12T08:03:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "assault",
-        "taxi",
-        "tsim-sha-tsui",
-        "arrests"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-tsim-sha-tsui-taxi-driver-assault-arrest.json",
-      "en": {
-        "headline": "Police arrest 29-year-old man for slapping Tsim Sha Tsui taxi driver",
-        "dek": "Officers detained the suspect in Wong Tai Sin on Wednesday afternoon on suspicion of common assault after a dispute over an automatic door early Tuesday."
-      },
-      "zh": {
-        "headline": "警方拘捕29歲男子 涉掌摑尖沙咀的士司機",
-        "dek": "警方周三下午在黃大仙區以涉嫌普通襲擊拘捕姓梁男子，案件源於周二凌晨因自動車門爭執。"
-      }
-    },
-    {
-      "id": "2026-11-12-wong-tai-sin-bmw-etomidate-chase",
-      "published_at": "2026-11-12T08:03:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "drugs",
-        "wong-tai-sin",
-        "arrests",
-        "etomidate"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-wong-tai-sin-bmw-etomidate-chase.json",
-      "en": {
-        "headline": "Driver flees after police stop BMW in Wong Tai Sin; 90 etomidate capsules seized",
-        "dek": "Traffic officers pursued the white car after it failed to give way at a zebra crossing; the driver abandoned the vehicle and escaped, police said."
-      },
-      "zh": {
-        "headline": "黃大仙寶馬拒停司機逃去 警檢90粒依托咪酯",
-        "dek": "交通警因車輛在斑馬線未讓路而追截，司機棄車逃走，警方其後在車上檢獲懷疑毒品。"
       }
     }
   ]
