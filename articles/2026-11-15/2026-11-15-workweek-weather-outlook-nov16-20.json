@@ -1,1 +1,31 @@
-PLACEHOLDER
+{
+  "id": "2026-11-15-workweek-weather-outlook-nov16-20",
+  "published_at": "2026-11-15T14:15:00+08:00",
+  "category": "weather",
+  "tags": ["weather", "hko", "outlook", "workweek"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "workweek-weather-outlook-nov16-20",
+  "en": {
+    "headline": "Observatory forecasts cooler conditions later in the week after midweek cold front",
+    "dek": "A cold front is expected to cross the southern China coast on Wednesday, bringing appreciably lower temperatures by Thursday and Friday.",
+    "body": [
+      "The Hong Kong Observatory said a fresh easterly airstream would make conditions cloudier with a few rain patches over the coastal areas in the next couple of days, with higher humidity in the mornings and at night.",
+      "A cold front is expected to move across the coast of southern China on Wednesday. Winds will strengthen from the north and temperatures will fall appreciably over the region.",
+      "Under the influence of the associated northeast monsoon and a band of clouds, it will be generally cool in the morning and at night over the coast of Guangdong in the latter part of this week.",
+      "Monday is forecast mainly cloudy with one or two rain patches and bright periods during the day, with temperatures of 24 to 27 degrees. Tuesday will see similar conditions with morning rain patches and sunny intervals.",
+      "Wednesday brings a few rain patches, low visibility in some areas at first, and an appreciable temperature fall later, with the range dropping to 20 to 26 degrees as winds turn northerly. Thursday and Friday are expected to be mainly cloudy and cooler, with morning and night temperatures of 18 to 22 degrees and 17 to 20 degrees respectively."
+    ]
+  },
+  "zh": {
+    "headline": "天文台料周中冷鋒過境 周四五明顯轉涼",
+    "dek": "一道冷鋒預料周三橫過華南沿岸，周四及周五氣溫顯著下降，早晚天氣較涼。",
+    "body": [
+      "香港天文台表示，受一股清勁偏東氣流影響，未來一兩日廣東沿岸地區雲量較多，有一兩陣雨，早晚較為潮濕。",
+      "一道冷鋒預料周三橫過華南沿岸，風勢轉北並加強，地區氣溫顯著下降。",
+      "受相關東北季候風及雲帶影響，本周後期廣東沿岸早晚普遍較涼。",
+      "周一大致多雲，有一兩陣雨，日間部分時間天色明朗，氣溫24至27度。周二情況相近，早上有一兩陣雨，日間短暫有陽光。",
+      "周三大致多雲，有幾陣雨，初時部分地區能見度較低，稍後氣溫明顯下降至20至26度，風轉北。周四及周五大致多雲，天氣較涼，早晚氣溫分別約18至22度及17至20度。"
+    ]
+  }
+}
