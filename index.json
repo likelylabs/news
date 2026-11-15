@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-16T02:03:49+08:00",
+  "generated_at": "2026-11-16T04:19:59+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 84,
   "articles": [
+    {
+      "id": "2026-11-16-lifestyle-butter-bar-sai-kung",
+      "published_at": "2026-11-16T04:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "sai-kung",
+        "cafe",
+        "opening"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-lifestyle-butter-bar-sai-kung.json",
+      "en": {
+        "headline": "Butter Bar opens in Sai Kung focusing on flavoured butters and sourdough",
+        "dek": "The café at Dock 1A begins soft opening on 16 November, offering eight butter varieties with toast from a team linked to Clean Taps."
+      },
+      "zh": {
+        "headline": "西貢Butter Bar今日軟開幕 主打風味牛油配酸種多士",
+        "dek": "位於Dock 1A的咖啡館由Clean Taps團隊經營，提供八款牛油，包括招牌蘋果木煙燻口味。"
+      }
+    },
+    {
+      "id": "2026-11-16-tsuen-tak-garden-power-fault",
+      "published_at": "2026-11-16T04:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tsuen-wan",
+        "power",
+        "estate",
+        "clp"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-tsuen-tak-garden-power-fault.json",
+      "en": {
+        "headline": "Power fault cuts lifts and lobby lighting at Tsuen Tak Garden in Tsuen Wan",
+        "dek": "Police said about 30 residents walked down after a suspected switchboard fault affected five blocks late Sunday, with no injuries and CLP confirming its supply was normal."
+      },
+      "zh": {
+        "headline": "荃灣荃德花園電錶房總掣疑故障 五座大堂及升降機停電",
+        "dek": "警方指周日晚上約30名住戶因升降機停運自行下樓，無人受傷，中電證實其供電設備及供電正常。"
+      }
+    },
     {
       "id": "2026-11-16-lifestyle-bodw-2026",
       "published_at": "2026-11-16T02:05:00+08:00",
@@ -1834,29 +1879,6 @@
       "zh": {
         "headline": "觀塘男子被斬傷昏迷送院 經搶救後清醒",
         "dek": "警方凌晨1時17分左右接獲福仁街近同仁街傷人報案，傷者左前臂受傷流血後昏迷，送伊利沙伯醫院後回復清醒，凶徒在逃。"
-      }
-    },
-    {
-      "id": "2026-11-13-lifestyle-bigbang-cosmos-kai-tak",
-      "published_at": "2026-11-13T02:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "concert",
-        "kai-tak",
-        "music",
-        "bigbang"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-13/2026-11-13-lifestyle-bigbang-cosmos-kai-tak.json",
-      "en": {
-        "headline": "BigBang opens 20th-anniversary Cosmos tour at Kai Tak Stadium today",
-        "dek": "The K-pop group performs the first of four shows at Kai Tak Stadium from 7 pm, with security checks opening from 11 am and merchandise available to ticket holders."
-      },
-      "zh": {
-        "headline": "BigBang今日啟德主場館展開20周年Cosmos巡迴",
-        "dek": "組合於晚上7時舉行四場中的首場演出，安檢站上午11時開放，周邊商品僅限當日門票持有人購買。"
       }
     }
   ]
