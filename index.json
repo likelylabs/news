@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-15T22:13:51+08:00",
+  "generated_at": "2026-11-16T00:05:54+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-11-16-liberal-party-leadership-change",
+      "published_at": "2026-11-16T00:05:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "liberal-party",
+        "shiu-ka-fai",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-liberal-party-leadership-change.json",
+      "en": {
+        "headline": "Liberal Party re-elects Shiu Ka-fai as chairman and abolishes leader post",
+        "dek": "The party said Shiu continues as chairman while new standing vice-chairmen are named and the previous leader retains a central committee role."
+      },
+      "zh": {
+        "headline": "自由黨換屆取消黨魁一職 邵家輝連任主席",
+        "dek": "黨方表示邵家輝續任主席，並增設常務副主席，原黨魁保留中委職務。"
+      }
+    },
+    {
+      "id": "2026-11-16-lifestyle-hk-maritime-week-2026",
+      "published_at": "2026-11-16T00:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "maritime",
+        "events",
+        "hong-kong-maritime-week"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-lifestyle-hk-maritime-week-2026.json",
+      "en": {
+        "headline": "Hong Kong Maritime Week begins its tenth anniversary programme",
+        "dek": "The week-long event from 15 to 21 November features more than 60 activities by over 80 organisations, with the opening ceremony set for Monday."
+      },
+      "zh": {
+        "headline": "香港海運週十周年展開 一連七日活動吸引逾萬人參與",
+        "dek": "由15至21日舉行，超過80個機構合辦逾60場活動，開幕典禮周一舉行。"
+      }
+    },
+    {
+      "id": "2026-11-16-tai-po-fire-memorial-mass",
+      "published_at": "2026-11-16T00:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "tai-po",
+        "wang-fuk-court",
+        "memorial",
+        "catholic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-tai-po-fire-memorial-mass.json",
+      "en": {
+        "headline": "Hundreds attend Tai Po church mass marking Wang Fuk Court fire victims",
+        "dek": "The Immaculate Heart of Mary Church held a service on Sunday in memory of lives lost over the year including those from the fire, as the first anniversary approaches."
+      },
+      "zh": {
+        "headline": "大埔聖母無珨之心堂舉行追思彌撒 悼念全年亡者及宏福苑火災死難者",
+        "dek": "周日數百人參與彌撒，紀念全年離世者包括宏福苑火災中的逝者，周年將至。"
+      }
+    },
     {
       "id": "2026-11-15-wong-tai-sin-lung-wo-house-fire",
       "published_at": "2026-11-15T22:15:00+08:00",
@@ -1744,187 +1811,6 @@
       "zh": {
         "headline": "BigBang今日啟德主場館展開20周年Cosmos巡迴",
         "dek": "組合於晚上7時舉行四場中的首場演出，安檢站上午11時開放，周邊商品僅限當日門票持有人購買。"
-      }
-    },
-    {
-      "id": "2026-11-13-chow-sang-sang-data-breach",
-      "published_at": "2026-11-13T00:04:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "data-breach",
-        "privacy",
-        "chow-sang-sang",
-        "pcpd",
-        "jewellery"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-13/2026-11-13-chow-sang-sang-data-breach.json",
-      "en": {
-        "headline": "Chow Sang Sang detects unauthorised system access with customer and staff data possibly…",
-        "dek": "The jeweller said it first identified the incident on 9 November and has reported it to the Privacy Commissioner and police."
-      },
-      "zh": {
-        "headline": "周生生發現系統遭未授權存取 部分客戶及員工資料或曾被提取",
-        "dek": "珠寶集團表示11月9日首次識別事件，已向私隱專員公署及警方通報，並正通知可能受影響人士。"
-      }
-    },
-    {
-      "id": "2026-11-13-connaught-place-murder-reclassification",
-      "published_at": "2026-11-13T00:04:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "murder",
-        "central",
-        "assault",
-        "investigation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-13/2026-11-13-connaught-place-murder-reclassification.json",
-      "en": {
-        "headline": "Police reclassify Central wounding case as murder after man dies",
-        "dek": "A 41-year-old foreign man who was found injured outside Connaught Place on 7 November was certified dead on Thursday, and two men previously charged remain remanded."
-      },
-      "zh": {
-        "headline": "警方將中環傷人案改列謀殺案 䇩歲外籍男子證實不治",
-        "dek": "11月7日在康樂廣場對開倒地受傷的41歲外籍男子於周四下午證實死亡，兩名早前被捕男子仍還押候審。"
-      }
-    },
-    {
-      "id": "2026-11-13-sogo-membership-data-breach",
-      "published_at": "2026-11-13T00:04:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "data-breach",
-        "privacy",
-        "sogo",
-        "pcpd",
-        "retail"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-13/2026-11-13-sogo-membership-data-breach.json",
-      "en": {
-        "headline": "Sogo reports membership system breach potentially affecting 820000 members",
-        "dek": "The department store said unauthorised access occurred in November, with the Privacy Commissioner investigating after notification on Thursday."
-      },
-      "zh": {
-        "headline": "崇光百貨會員系統遭未授權存取 或影響約82萬名會員資料",
-        "dek": "百貨公司表示11月發現會員系統部分資料被未授權人士取得，私隱專員公署周四接獲通報後已展開調查。"
-      }
-    },
-    {
-      "id": "2026-11-12-fehd-operation-thunderbolt",
-      "published_at": "2026-11-12T22:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fehd",
-        "rodent",
-        "hygiene",
-        "kwun-tong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-fehd-operation-thunderbolt.json",
-      "en": {
-        "headline": "FEHD reports progress in Operation Thunderbolt targeting rodent hotspots",
-        "dek": "The department has inspected 1,373 locations since 4 November, capturing 103 live rats and sealing 199 hiding spots, with a night team catching over 50 rats in Kwun Tong."
-      },
-      "zh": {
-        "headline": "食環署「雷霆行動」核查逾千位置 觀塘夜間捕鼠逾50隻",
-        "dek": "行動自11月4日起核查1,373個地點，發現199個藏匿點，捕獲103隻活鼠，並在92個位置完成毒殺及封堵。"
-      }
-    },
-    {
-      "id": "2026-11-12-hairy-crab-inspections",
-      "published_at": "2026-11-12T22:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fehd",
-        "customs",
-        "food-safety",
-        "hairy-crab"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-hairy-crab-inspections.json",
-      "en": {
-        "headline": "FEHD and Customs inspect 50 hairy crab sellers with no contraventions found",
-        "dek": "Joint blitz operations since 9 November checked source documents and health certificates at premises across districts to ensure compliance with food and trade description laws."
-      },
-      "zh": {
-        "headline": "食環署與海關巡查50間大閘蟹銷售處所 未發現違規",
-        "dek": "自11月9日起的聯合突擊行動查核來源文件及衞生證明書，確保符合食物安全及商品說明規定。"
-      }
-    },
-    {
-      "id": "2026-11-12-hpv-catch-up-programme-ends",
-      "published_at": "2026-11-12T22:15:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "vaccination",
-        "hpv",
-        "chp",
-        "cervical-cancer"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-hpv-catch-up-programme-ends.json",
-      "en": {
-        "headline": "Health authorities urge completion of free HPV catch-up before year end",
-        "dek": "The one-off programme for females born between 2004 and 2008 ends on 31 December, after more than 74,000 doses have been administered."
-      },
-      "zh": {
-        "headline": "衞生防護中心籲合資格女性於年底前完成HPV疫苗免費補種",
-        "dek": "為2004至2008年出生女性而設的一次性補種計劃將於12月31日結束，至今已接種超過74,000劑。"
-      }
-    },
-    {
-      "id": "2026-11-12-immigration-repatriates-vietnamese",
-      "published_at": "2026-11-12T22:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "immigration",
-        "repatriation",
-        "vietnam",
-        "non-refoulement"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-immigration-repatriates-vietnamese.json",
-      "en": {
-        "headline": "Immigration Department repatriates 21 Vietnamese nationals including failed claimants",
-        "dek": "Twenty illegal immigrants and one overstayer were removed to Vietnam on Thursday, all unsubstantiated non-refoulement claimants, some of whom had served prison sentences."
-      },
-      "zh": {
-        "headline": "入境處強制遣返21名越南籍免遣返聲請不獲確立人士",
-        "dek": "周四遣返20名非法入境者及一名逾期逗留人士至越南，全部為聲請不獲確立者，部分曾服刑。"
-      }
-    },
-    {
-      "id": "2026-11-12-lifestyle-hkphil-symphony-under-stars",
-      "published_at": "2026-11-12T22:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "music",
-        "hkphil",
-        "central",
-        "concert"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-lifestyle-hkphil-symphony-under-stars.json",
-      "en": {
-        "headline": "Hong Kong Philharmonic stages free outdoor Symphony Under the Stars on Friday",
-        "dek": "Music Director Tarmo Peltokoski leads the orchestra at the Central Harbourfront Event Space from 7.30 pm, with a programme that includes Saint-Saëns and a fireworks finale."
-      },
-      "zh": {
-        "headline": "港樂周五中環海濱呈獻免費「星夜交響曲」",
-        "dek": "音樂總監貝托祺於晚上7時30分帶領樂團演出，曲目包括聖桑《動物嘉年華》及煙火收結的《1812序曲》。"
       }
     }
   ]
