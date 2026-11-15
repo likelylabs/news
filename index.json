@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-15T14:24:00+08:00",
+  "generated_at": "2026-11-15T16:25:06+08:00",
   "live_window_hours": 72,
   "count": 85,
   "articles": [
+    {
+      "id": "2026-11-15-victoria-harbour-swim-135-injured",
+      "published_at": "2026-11-15T16:30:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "victoria-harbour",
+        "swim",
+        "injuries"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-15/2026-11-15-victoria-harbour-swim-135-injured.json",
+      "en": {
+        "headline": "About 135 swimmers treated for light injuries after Victoria Harbour Swim",
+        "dek": "Organisers said the injuries were mainly minor abrasions and cramps among roughly 3700 participants, after the final leisure group was cancelled due to strong currents."
+      },
+      "zh": {
+        "headline": "維港泳約135名參加者受輕傷 主要為擦傷及抽筋",
+        "dek": "主辦單位表示，約3700人參與的賽事中，傷者多屬輕微擦傷及抽筋，優悠組最後一組因水流急已取消。"
+      }
+    },
+    {
+      "id": "2026-11-15-wan-chai-taxi-britons-injured",
+      "published_at": "2026-11-15T16:30:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "taxi",
+        "wan-chai",
+        "accident",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-15/2026-11-15-wan-chai-taxi-britons-injured.json",
+      "en": {
+        "headline": "Police arrest taxi driver after two Britons suffer head injuries in Wan Chai",
+        "dek": "A 65-year-old man and a 58-year-old woman were struck while crossing Hennessy Road early Sunday; the driver faces a dangerous driving allegation."
+      },
+      "zh": {
+        "headline": "灣仔的士撞傷兩名英籍遊客 司機涉危險駕駛被捕",
+        "dek": "一名65歲男子及58歲女子凌晨在軒尼詩道過路時被撞，頭部受傷送院，的士司機被警方拘捕。"
+      }
+    },
     {
       "id": "2026-11-15-lifestyle-elderly-day-2026",
       "published_at": "2026-11-15T14:15:00+08:00",
@@ -1857,51 +1902,6 @@
       "zh": {
         "headline": "警方破獲假門票集團拘10人 傀儡戶口處理逾8100萬元",
         "dek": "秀茂坪警區展開「瀚濤」行動，拘捕6男4女，年齡18至46歲，涉嫌串謀詐騙、以欺騙手段取得財產及洗黑錢。"
-      }
-    },
-    {
-      "id": "2026-11-12-icac-kai-tak-hospital-bribes",
-      "published_at": "2026-11-12T16:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "icac",
-        "kai-tak",
-        "corruption",
-        "construction",
-        "bribery"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-icac-kai-tak-hospital-bribes.json",
-      "en": {
-        "headline": "ICAC charges Kai Tak Hospital site team leader over bribes from workers",
-        "dek": "A 52-year-old subcontractor team leader faces 10 counts of accepting advantages totalling HK$75,100 from five imported electrical workers."
-      },
-      "zh": {
-        "headline": "廉署起訴啟德醫院建築項目分判商工頭涉收賄",
-        "dek": "52歲分判商工頭面對10項代理人接受利益控罪，涉向五名輸入電工收取共75,100元。"
-      }
-    },
-    {
-      "id": "2026-11-12-northern-metropolis-development-bill-passed",
-      "published_at": "2026-11-12T16:25:00+08:00",
-      "updated_at": "2026-11-12T16:30:00+08:00",
-      "category": "politics",
-      "tags": [
-        "northern-metropolis",
-        "legco",
-        "development",
-        "legislation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-northern-metropolis-development-bill-passed.json",
-      "en": {
-        "headline": "LegCo passes Northern Metropolis Development Bill to accelerate project",
-        "dek": "Lawmakers unanimously approved the dedicated legislation on Thursday after two days of debate, with the Development Bureau saying it will streamline planning and land procedures."
-      },
-      "zh": {
-        "headline": "立法會三讀通過北部都會區發展條例草案 加快項目推進",
-        "dek": "議員經過兩日辯論後於周四一致通過這項專屬法例，發展局表示將有助簡化規劃及地政程序。"
       }
     }
   ]
