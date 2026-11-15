@@ -105,6 +105,11 @@ jobs:
             status=0
             python3 tools/build_index.py --quarantine 2> build-errors.txt || status=$?
             cat build-errors.txt >&2
+            # Stubs the automation never filled in: skipped, not published,
+            # never deleted. Yellow, not red (see PLACEHOLDER_RE).
+            sed -n 's/^PLACEHOLDER SKIPPED: //p' build-errors.txt | sed "s|^$GITHUB_WORKSPACE/||" | while IFS= read -r f; do
+              echo "::warning file=${f},title=Placeholder skipped::holds only PLACEHOLDER text, not an article. Not published; the story is not in the ledger, so a later run can cover it."
+            done
             if [ "$status" -ne 0 ] && [ "$status" -ne 3 ]; then
               exit "$status"
             fi

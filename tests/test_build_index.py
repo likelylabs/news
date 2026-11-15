@@ -177,8 +177,8 @@ class BuildIndexTests(unittest.TestCase):
         good = article("a-good")
         good["tags"] = ["I&T"]
         good_path = self.write_article(good)
-        placeholder = self.write_article(article("b-placeholder"))
-        placeholder.write_text("PLACEHOLDER1", encoding="utf-8")
+        placeholder = self.write_article(article("b-truncated"))
+        placeholder.write_text('{"id": ', encoding="utf-8")
         invalid = article("c-invalid")
         invalid["category"] = "gossip"
         invalid["tags"] = ["I&T"]
@@ -188,13 +188,44 @@ class BuildIndexTests(unittest.TestCase):
         status, stdout, stderr = self.run_build("--quarantine")
         self.assertEqual(status, build_index.EXIT_QUARANTINED)
         self.assertIn("QUARANTINED 2", stderr)
-        self.assertIn("b-placeholder", stderr)
+        self.assertIn("b-truncated", stderr)
         self.assertIn("c-invalid", stderr)
         index = json.loads(self.index.read_text(encoding="utf-8"))
         self.assertEqual([a["id"] for a in index["articles"]], [good["id"]])
         self.assertEqual(json.loads(good_path.read_text(encoding="utf-8"))["tags"], ["i-t"])
-        self.assertEqual(placeholder.read_text(encoding="utf-8"), "PLACEHOLDER1")
+        self.assertEqual(placeholder.read_text(encoding="utf-8"), '{"id": ')
         self.assertEqual(invalid_path.read_bytes(), invalid_before)
+
+    def test_quarantine_skips_placeholder_stubs_without_failing(self):
+        good = self.write_article(article("a-good"))
+        stubs = []
+        for i, content in enumerate(("PLACEHOLDER", "PLACEHOLDER3\n", "", "  \n")):
+            stub = self.write_article(article(f"stub-{i}"))
+            stub.write_text(content, encoding="utf-8")
+            stubs.append((stub, content))
+        status, _, stderr = self.run_build("--quarantine")
+        self.assertEqual(status, 0, stderr)
+        self.assertEqual(stderr.count(build_index.PLACEHOLDER_PREFIX), 4)
+        self.assertNotIn("QUARANTINED", stderr)
+        index = json.loads(self.index.read_text(encoding="utf-8"))
+        self.assertEqual([a["path"] for a in index["articles"]], [str(good.relative_to(self.repo))])
+        for stub, content in stubs:
+            self.assertEqual(stub.read_text(encoding="utf-8"), content)
+
+    def test_placeholder_stubs_stay_errors_in_strict_modes(self):
+        self.write_article(article()).write_text("PLACEHOLDER", encoding="utf-8")
+        for args in ((), ("--check",)):
+            with self.subTest(args=args):
+                status, _, stderr = self.run_build(*args)
+                self.assertEqual(status, 1)
+                self.assertIn("invalid JSON", stderr)
+
+    def test_placeholder_word_inside_real_json_is_not_a_stub(self):
+        art = article()
+        art["en"]["body"][0] = "PLACEHOLDER"
+        self.write_article(art)
+        self.assertEqual(self.run_build("--quarantine")[0], 0)
+        self.assertEqual(json.loads(self.index.read_text(encoding="utf-8"))["count"], 1)
 
     def test_quarantine_clean_corpus_exits_zero(self):
         self.write_article(article())
@@ -203,7 +234,7 @@ class BuildIndexTests(unittest.TestCase):
     def test_quarantine_cap_falls_back_to_strict_failure(self):
         self.write_article(article("good"))
         for i in range(build_index.MAX_QUARANTINED + 1):
-            self.write_article(article(f"bad-{i}")).write_text("", encoding="utf-8")
+            self.write_article(article(f"bad-{i}")).write_text("{", encoding="utf-8")
         before = self.snapshot()
         status, _, stderr = self.run_build("--quarantine")
         self.assertEqual(status, 1)

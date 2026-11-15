@@ -57,6 +57,13 @@ DEK_MIN, DEK_MAX = 12, 220
 MAX_QUARANTINED = 10
 EXIT_QUARANTINED = 3
 
+# A file holding only "PLACEHOLDER..." (or nothing) is a stub the automation
+# pushed and never filled in, not an article. --quarantine skips it with a
+# warning instead of failing; it is never indexed and never deleted (article
+# files are permanent). --check and the default mode still reject it.
+PLACEHOLDER_RE = re.compile(r"\s*(PLACEHOLDER\w*)?\s*")
+PLACEHOLDER_PREFIX = "PLACEHOLDER SKIPPED: "
+
 
 def err(path, msg):
     return f"{path}: {msg}"
@@ -321,8 +328,12 @@ def main(argv=None):
     normalized = []
     pending_writes = []
 
+    placeholders = []
     for path in sorted(ARTICLES_DIR.glob("*/*.json")):
         expected_date = path.parent.name
+        if args.quarantine and PLACEHOLDER_RE.fullmatch(path.read_text(encoding="utf-8")):
+            placeholders.append(path)
+            continue
         try:
             art, json_note = load_article(path)
         except json.JSONDecodeError as e:
@@ -371,6 +382,9 @@ def main(argv=None):
             "en": {"headline": art["en"]["headline"], "dek": art["en"]["dek"]},
             "zh": {"headline": art["zh"]["headline"], "dek": art["zh"]["dek"]},
         })
+
+    for path in placeholders:
+        print(f"{PLACEHOLDER_PREFIX}{path}", file=sys.stderr)
 
     quarantined = False
     if all_problems:

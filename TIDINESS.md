@@ -82,7 +82,10 @@ turns the run red with an annotation naming the file — unless a newer push
 fixes every quarantined file within 3 minutes (the automation's usual
 placeholder-then-fix pattern), in which case that push's build publishes
 them and the run passes with a notice. Nothing is hidden or
-deleted; the article goes live on the first build after it is fixed. If more
+deleted; the article goes live on the first build after it is fixed. A file holding only `PLACEHOLDER` text (or nothing) is a stub, not an
+article: the build skips it with a yellow warning instead of failing. It is
+never published and never deleted, and since it never reaches the ledger,
+a later run can still cover the story. `--check` still rejects it. If more
 than 10 files are bad at once (more likely a code or schema bug than a
 writer slip), the build refuses to publish a partial index and changes
 nothing.
