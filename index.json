@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-15T16:25:06+08:00",
+  "generated_at": "2026-11-15T18:12:14+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-11-15-hzmb-half-marathon-platinum",
+      "published_at": "2026-11-15T18:15:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "hzmb",
+        "marathon",
+        "running",
+        "platinum-label"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-15/2026-11-15-hzmb-half-marathon-platinum.json",
+      "en": {
+        "headline": "Thousands join Hong Kong-Zhuhai-Macao Bridge half marathon with Platinum Label status",
+        "dek": "The event on Sunday drew a record number of runners and featured a new 10km category, with Ethiopian athletes taking the overall titles."
+      },
+      "zh": {
+        "headline": "港珠澳大橋半馬吸引數千跑手 賽事獲白金標籤認證",
+        "dek": "周日舉行的港珠澳大橋（香港段）半馬拉松錄得破紀錄參加人數，並新增十公里組別，埃塞俄比亞選手奪得總冠軍。"
+      }
+    },
+    {
+      "id": "2026-11-15-ngau-tau-kok-estate-theft-810k",
+      "published_at": "2026-11-15T18:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "crime",
+        "theft",
+        "ngau-tau-kok",
+        "estate"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-15/2026-11-15-ngau-tau-kok-estate-theft-810k.json",
+      "en": {
+        "headline": "Woman reports HK$810,000 in gold and cash stolen from Ngau Tau Kok estate flat",
+        "dek": "Police are treating the case as theft after a 41-year-old resident said jewellery worth about HK$500,000 and HK$310,000 in cash had gone missing."
+      },
+      "zh": {
+        "headline": "牛頭角下邨女住戶報稱單位失約81萬元金器現金",
+        "dek": "警方列作盜竊案處理，41歲姓賴住戶指約值50萬元金器及31萬元現金不翼而飛。"
+      }
+    },
     {
       "id": "2026-11-15-victoria-harbour-swim-135-injured",
       "published_at": "2026-11-15T16:30:00+08:00",
