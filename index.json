@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-11-15T14:16:27+08:00",
+  "generated_at": "2026-11-15T14:20:58+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-11-15-lifestyle-elderly-day-2026",
+      "published_at": "2026-11-15T14:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "elderly",
+        "transport",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-15/2026-11-15-lifestyle-elderly-day-2026.json",
+      "en": {
+        "headline": "Elderly Day offers free public transport and venue discounts for seniors across Hong Kong",
+        "dek": "The annual event on Sunday gives people aged 65 and above free rides on MTR, buses and other services, with additional offers at attractions and shops."
+      },
+      "zh": {
+        "headline": "長者日今日舉行 65歲或以上可免費乘搭港鐵巴士等公共交通",
+        "dek": "年度活動周日展開，多間營辦商提供免費車資，景點及商戶亦有優惠。"
+      }
+    },
+    {
+      "id": "2026-11-15-victoria-harbour-swim-leisure-cancelled",
+      "published_at": "2026-11-15T14:15:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "victoria-harbour",
+        "swim",
+        "safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-15/2026-11-15-victoria-harbour-swim-leisure-cancelled.json",
+      "en": {
+        "headline": "Organisers cancel final leisure group of Victoria Harbour Swim over strong currents",
+        "dek": "The Hong Kong China Swimming Association said about 700 swimmers in the last leisure group did not enter the water and would receive refunds."
+      },
+      "zh": {
+        "headline": "維港泳優悠組最後一組因水流太急取消 約700人受影響",
+        "dek": "中國香港游泳總會表示，最後一組優悠組約700名泳手未有落水，將退還報名費。"
+      }
+    },
+    {
+      "id": "2026-11-15-wong-tai-sin-estate-fire-death",
+      "published_at": "2026-11-15T14:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "fire",
+        "wong-tai-sin",
+        "death"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-15/2026-11-15-wong-tai-sin-estate-fire-death.json",
+      "en": {
+        "headline": "Eighty-year-old woman dies in Wong Tai Sin estate fire as firefighters find body in unit",
+        "dek": "Fire Services said the blaze in a low-floor flat at Lung Kwong House was extinguished about 9:16am after reports of smoke and an explosion-like sound."
+      },
+      "zh": {
+        "headline": "黃大仙下邨火警奪命 八旬獨居女子在單位內被發現死亡",
+        "dek": "消防處表示，龍光樓低層單位火警約上午9時16分救熄，起火單位客廳發現一具女屍。"
+      }
+    },
+    {
+      "id": "2026-11-15-workweek-weather-outlook-nov16-20",
+      "published_at": "2026-11-15T14:15:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "outlook",
+        "workweek"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-15/2026-11-15-workweek-weather-outlook-nov16-20.json",
+      "en": {
+        "headline": "Observatory forecasts cooler conditions later in the week after midweek cold front",
+        "dek": "A cold front is expected to cross the southern China coast on Wednesday, bringing appreciably lower temperatures by Thursday and Friday."
+      },
+      "zh": {
+        "headline": "天文台料周中冷鋒過境 周四五明顯轉涼",
+        "dek": "一道冷鋒預料周三橫過華南沿岸，周四及周五氣溫顯著下降，早晚天氣較涼。"
+      }
+    },
+    {
+      "id": "2026-11-15-yuja-wang-programme-statement",
+      "published_at": "2026-11-15T14:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "culture",
+        "concert",
+        "yuja-wang",
+        "music"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-15/2026-11-15-yuja-wang-programme-statement.json",
+      "en": {
+        "headline": "Yuja Wang and Mahler Chamber Orchestra say programme change was notified weeks in advance",
+        "dek": "In a joint statement, the pianist and orchestra said the Hong Kong organiser chose not to inform audiences until the day of the concert."
+      },
+      "zh": {
+        "headline": "王羽佳與馬勒室樂團發表聯合聲明 指節目改動已提前數周通知",
+        "dek": "聲明表示，香港主辦方選擇直至演出當日才向觀眾公布有關改動。"
+      }
+    },
     {
       "id": "2026-11-15-airport-runway-painting-robots",
       "published_at": "2026-11-15T12:14:00+08:00",
@@ -1792,75 +1902,6 @@
       "zh": {
         "headline": "立法會三讀通過北部都會區發展條例草案 加快項目推進",
         "dek": "議員經過兩日辯論後於周四一致通過這項專屬法例，發展局表示將有助簡化規劃及地政程序。"
-      }
-    },
-    {
-      "id": "2026-11-12-buildings-removal-orders-fines",
-      "published_at": "2026-11-12T14:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "buildings",
-        "enforcement",
-        "property",
-        "sha-tin",
-        "tuen-mun"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-buildings-removal-orders-fines.json",
-      "en": {
-        "headline": "Five property owners fined over HK$320,000 for ignoring removal orders",
-        "dek": "The Buildings Department said the convictions at Sha Tin and West Kowloon courts involved unauthorised walls, rooftop structures and other works."
-      },
-      "zh": {
-        "headline": "五名業主未遵清拆令共罰逾32萬元",
-        "dek": "屋宇署表示，沙田及西九龍裁判法院裁定的案件涉及僭建護土牆、天台搭建物及其他工程。"
-      }
-    },
-    {
-      "id": "2026-11-12-lifestyle-design-hkg-peak",
-      "published_at": "2026-11-12T14:20:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "peak",
-        "design",
-        "hong-kong-design-centre"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-lifestyle-design-hkg-peak.json",
-      "en": {
-        "headline": "Design at HKG runs Peak sensory installation until 24 November",
-        "dek": "The Hong Kong Design Centre's programme includes a free multi-sensory installation at the Peak and other citywide events through late November."
-      },
-      "zh": {
-        "headline": "設計@HKG山頂多感官裝置展至11月24日",
-        "dek": "香港設計中心主辦的活動包括山頂免費多感官裝置，以及全城其他設計項目，主要活動期至本月下旬。"
-      }
-    },
-    {
-      "id": "2026-11-12-m-mark-sports-events",
-      "published_at": "2026-11-12T14:20:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sports",
-        "badminton",
-        "basketball",
-        "squash",
-        "m-mark"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-m-mark-sports-events.json",
-      "en": {
-        "headline": "Three sports events receive M Mark status for November and December",
-        "dek": "The Major Sports Events Committee awarded recognition to the Hong Kong Open badminton, FIBA 3x3 basketball and Hong Kong Squash Open."
-      },
-      "zh": {
-        "headline": "三項體育盛事獲頒M品牌認可 涵蓋羽球籃球壁球",
-        "dek": "大型體育活動事務委員會向香港公開羽毛球錦標賽、FIBA 3x3世界巡迴賽及香港壁球公開賽授予認可。"
       }
     }
   ]
