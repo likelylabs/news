@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-16T00:05:54+08:00",
+  "generated_at": "2026-11-16T02:03:49+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-11-16-lifestyle-bodw-2026",
+      "published_at": "2026-11-16T02:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "design",
+        "bodw",
+        "events",
+        "hong-kong-design-centre"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-lifestyle-bodw-2026.json",
+      "en": {
+        "headline": "Business of Design Week opens with Switzerland as partner country",
+        "dek": "The Hong Kong Design Centre’s annual event runs from 16 to 21 November under the theme Design in Dialogue, with the summit at HKCEC from 18 to 20 November."
+      },
+      "zh": {
+        "headline": "設計營商周展開 瑞士首次出任伙伴國家",
+        "dek": "香港設計中心主辦的年度盛事由16日至21日舉行，主題為「設計共話：從連繫到蛻變」，峰會18至20日在會展中心進行。"
+      }
+    },
+    {
+      "id": "2026-11-16-lifestyle-tai-kwun-clementi-talk",
+      "published_at": "2026-11-16T02:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "tai-kwun",
+        "history",
+        "talk",
+        "central"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-lifestyle-tai-kwun-clementi-talk.json",
+      "en": {
+        "headline": "Tai Kwun hosts talk on Sir Cecil Clementi and modern Hong Kong",
+        "dek": "Historian Graham Hutchings discusses his new biography of the former governor at JC Cube this evening, with free admission requiring prior registration."
+      },
+      "zh": {
+        "headline": "大館今晚舉行金文泰講座 探討其與現代香港形成",
+        "dek": "何傑明教授介紹其新著的前港督傳記，賽馬會立方晚上舉行，免費入場須預先登記。"
+      }
+    },
     {
       "id": "2026-11-16-liberal-party-leadership-change",
       "published_at": "2026-11-16T00:05:00+08:00",

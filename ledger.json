@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "liantang-port-100-million-crossings",
-      "id": "2026-11-02-liantang-port-100-million-crossings",
-      "first_seen": "2026-11-02T00:20:00+08:00",
-      "headline_en": "Liantang Port records over 100 million passenger crossings in six years"
-    },
-    {
-      "key": "lifestyle-hk-tennis-open-main-draw-starts",
-      "id": "2026-11-02-lifestyle-hk-tennis-open-main-draw",
-      "first_seen": "2026-11-02T00:20:00+08:00",
-      "headline_en": "Hong Kong Tennis Open main draw begins at Victoria Park"
-    },
-    {
       "key": "hk-fintech-week-2026-opens",
       "id": "2026-11-02-hk-fintech-week-opens",
       "first_seen": "2026-11-02T02:15:00+08:00",
@@ -2249,7 +2237,19 @@
       "id": "2026-11-16-tai-po-fire-memorial-mass",
       "first_seen": "2026-11-16T00:05:00+08:00",
       "headline_en": "Hundreds attend Tai Po church mass marking Wang Fuk Court fire victims"
+    },
+    {
+      "key": "lifestyle-bodw-2026-switzerland",
+      "id": "2026-11-16-lifestyle-bodw-2026",
+      "first_seen": "2026-11-16T02:05:00+08:00",
+      "headline_en": "Business of Design Week opens with Switzerland as partner country"
+    },
+    {
+      "key": "lifestyle-tai-kwun-clementi-talk",
+      "id": "2026-11-16-lifestyle-tai-kwun-clementi-talk",
+      "first_seen": "2026-11-16T02:05:00+08:00",
+      "headline_en": "Tai Kwun hosts talk on Sir Cecil Clementi and modern Hong Kong"
     }
   ],
-  "updated_at": "2026-11-16T00:05:54+08:00"
+  "updated_at": "2026-11-16T02:03:49+08:00"
 }
