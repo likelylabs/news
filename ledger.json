@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "bar-association-bid-rigging-report-nov1",
-      "id": "2026-11-01-bar-association-bid-rigging-report",
-      "first_seen": "2026-11-01T22:10:00+08:00",
-      "headline_en": "Bar Association backs criminalising bid-rigging and proposes about 50 law changes"
-    },
-    {
-      "key": "flu-expert-rapid-deterioration-nov1",
-      "id": "2026-11-01-flu-expert-rapid-deterioration",
-      "first_seen": "2026-11-01T22:10:00+08:00",
-      "headline_en": "Expert says many flu patients deteriorating faster this season, research under way"
-    },
-    {
       "key": "liantang-port-100-million-crossings",
       "id": "2026-11-02-liantang-port-100-million-crossings",
       "first_seen": "2026-11-02T00:20:00+08:00",
@@ -2231,7 +2219,19 @@
       "id": "2026-11-15-new-world-development-rights-issue",
       "first_seen": "2026-11-15T20:25:00+08:00",
       "headline_en": "New World Development proposes 1-for-11 rights issue to raise HK$24.9 billion"
+    },
+    {
+      "key": "wong-tai-sin-lung-wo-house-fire-nov15",
+      "id": "2026-11-15-wong-tai-sin-lung-wo-house-fire",
+      "first_seen": "2026-11-15T22:15:00+08:00",
+      "headline_en": "Second fire at Wong Tai Sin estate evening sees about 100 evacuated from Lung Wo House"
+    },
+    {
+      "key": "xia-baolong-shenzhen-briefing-nov15",
+      "id": "2026-11-15-xia-baolong-shenzhen-briefing",
+      "first_seen": "2026-11-15T22:15:00+08:00",
+      "headline_en": "Xia Baolong hears briefings on relevant work situations in Shenzhen"
     }
   ],
-  "updated_at": "2026-11-15T20:26:47+08:00"
+  "updated_at": "2026-11-15T22:13:50+08:00"
 }

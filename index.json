@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-15T20:26:47+08:00",
+  "generated_at": "2026-11-15T22:13:51+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-11-15-wong-tai-sin-lung-wo-house-fire",
+      "published_at": "2026-11-15T22:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "fire",
+        "wong-tai-sin",
+        "estate"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-15/2026-11-15-wong-tai-sin-lung-wo-house-fire.json",
+      "en": {
+        "headline": "Second fire at Wong Tai Sin estate evening sees about 100 evacuated from Lung Wo House",
+        "dek": "Police said the blaze in a unit was extinguished with no one taken to hospital, and believed it was related to cooking in the kitchen."
+      },
+      "zh": {
+        "headline": "黃大仙下邨龍和樓傍晚火警 約100人一度疏散無人送院",
+        "dek": "警方指單位火警已救熄，初步相信與廚房煮食有關，無人需要送院。"
+      }
+    },
+    {
+      "id": "2026-11-15-xia-baolong-shenzhen-briefing",
+      "published_at": "2026-11-15T22:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "xia-baolong",
+        "shenzhen",
+        "hkmao"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-15/2026-11-15-xia-baolong-shenzhen-briefing.json",
+      "en": {
+        "headline": "Xia Baolong hears briefings on relevant work situations in Shenzhen",
+        "dek": "The Hong Kong and Macao Affairs Office said the director attended the session on Sunday with Xu Qifang present, without disclosing the agenda."
+      },
+      "zh": {
+        "headline": "夏寶龍在深圳聽取有關工作情況匯報",
+        "dek": "港澳辦表示，主任周日在深圳聽取匯報，徐啟方出席，未有公布具體議程。"
+      }
+    },
     {
       "id": "2026-11-15-ap-liu-street-metal-fragment-injury",
       "published_at": "2026-11-15T20:25:00+08:00",
@@ -1881,72 +1925,6 @@
       "zh": {
         "headline": "港樂周五中環海濱呈獻免費「星夜交響曲」",
         "dek": "音樂總監貝托祺於晚上7時30分帶領樂團演出，曲目包括聖桑《動物嘉年華》及煙火收結的《1812序曲》。"
-      }
-    },
-    {
-      "id": "2026-11-12-debt-restructuring-scam-arrest",
-      "published_at": "2026-11-12T20:30:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "fraud",
-        "scam",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-debt-restructuring-scam-arrest.json",
-      "en": {
-        "headline": "Police arrest woman over debt restructuring scam involving HK$4.9 million",
-        "dek": "A 45-year-old woman was charged with conspiracy to defraud after allegedly posing as bank staff and an accountant to collect cash from six victims in shared offices."
-      },
-      "zh": {
-        "headline": "警方破債務重組騙案拘45歲女子涉款490萬元",
-        "dek": "45歲女子被控串謀詐騙，涉嫌冒充銀行職員及會計師，在共享辦公室向六名受害人收取現金。"
-      }
-    },
-    {
-      "id": "2026-11-12-hko-special-tip-showers",
-      "published_at": "2026-11-12T20:30:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "hko",
-        "showers",
-        "thunderstorm",
-        "forecast"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-hko-special-tip-showers.json",
-      "en": {
-        "headline": "Observatory expects showers and squally thunderstorms from Friday afternoon",
-        "dek": "A special weather tip issued at 16:15 said an approaching upper-air disturbance would bring gradual showers from Friday afternoon, increasing with squally thunderstorms at night, and heavier rain at first on Saturday."
-      },
-      "zh": {
-        "headline": "天文台特別提示：周五下午起有駆雨 晚上有狂風雷暴",
-        "dek": "天文台於16時15分發出特別天氣提示，指高空擾動靠近，預料周五下午開始逐漸有幾陣駆雨，晚上駆雨增多及有幾陣狂風雷暴，周六初時雨勢頗大。"
-      }
-    },
-    {
-      "id": "2026-11-12-mary-hospital-lifts-report",
-      "published_at": "2026-11-12T20:30:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "hospital",
-        "buildings",
-        "investigation",
-        "mary-hospital"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-12/2026-11-12-mary-hospital-lifts-report.json",
-      "en": {
-        "headline": "Development Bureau report cites four causes for Mary Hospital lift failures",
-        "dek": "The bureau submitted findings identifying shaft misalignment, guide rail deviations, unbalanced cabins and poor installation as main factors, with some matters referred for further investigation."
-      },
-      "zh": {
-        "headline": "發展局報告指瑪麗醫院升降機故障涉四主因",
-        "dek": "發展局向立法會提交調查報告，指出井道牆身偏差、導軌垂直度問題、機廂重心不平衡及安裝工藝欠妥為主要成因，部分事項已轉交執法部門調查。"
       }
     }
   ]
