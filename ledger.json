@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "hong-kong-sixes-2026-finals-day",
-      "id": "2026-11-01-hong-kong-sixes-finals-day",
-      "first_seen": "2026-11-01T11:15:00+08:00",
-      "headline_en": "Hong Kong Sixes reaches finals day with Cup final set for afternoon"
-    },
-    {
-      "key": "yellow-fire-danger-warning-nov1",
-      "id": "2026-11-01-yellow-fire-danger-warning",
-      "first_seen": "2026-11-01T11:15:00+08:00",
-      "headline_en": "Observatory issues yellow fire danger warning as risk stays high"
-    },
-    {
       "key": "john-lee-scout-rally-youth-nov1",
       "id": "2026-11-01-john-lee-scout-rally-youth",
       "first_seen": "2026-11-01T13:15:00+08:00",
@@ -2243,7 +2231,13 @@
       "id": "2026-11-15-lingnan-secondary-teens-assault-arrests",
       "first_seen": "2026-11-15T10:20:00+08:00",
       "headline_en": "Police arrest three teens over alleged assault on 13-year-old at Lingnan Secondary"
+    },
+    {
+      "key": "airport-runway-painting-robots",
+      "id": "2026-11-15-airport-runway-painting-robots",
+      "first_seen": "2026-11-15T12:14:00+08:00",
+      "headline_en": "Hong Kong airport first in world to use robots for runway painting"
     }
   ],
-  "updated_at": "2026-11-15T10:13:27+08:00"
+  "updated_at": "2026-11-15T12:14:29+08:00"
 }
