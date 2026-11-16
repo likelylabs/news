@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-16T14:18:21+08:00",
+  "generated_at": "2026-11-16T16:29:22+08:00",
   "live_window_hours": 72,
-  "count": 82,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-11-16-mainland-universities-dse-169",
+      "published_at": "2026-11-16T16:35:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "dse",
+        "mainland",
+        "universities"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-mainland-universities-dse-169.json",
+      "en": {
+        "headline": "Mainland universities admitting DSE students rise to 169",
+        "dek": "The Education Bureau welcomed the increase for the 2027-28 academic year, with applications opening from December 1."
+      },
+      "zh": {
+        "headline": "內地高校招收DSE生增至169所 下月開始報名",
+        "dek": "教育局歡迎數目增加至2027/28學年，學生可於12月1日起報名。"
+      }
+    },
+    {
+      "id": "2026-11-16-new-world-rights-issue",
+      "published_at": "2026-11-16T16:35:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "property",
+        "stock",
+        "new-world"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-new-world-rights-issue.json",
+      "en": {
+        "headline": "New World shares plunge after HK$24.9 billion rights issue",
+        "dek": "The developer offered 11 new shares for every existing one at a deep discount, with the Cheng family underwriting, as trading resumed on Monday."
+      },
+      "zh": {
+        "headline": "新世界供股集資249億元 復牌股價急挫近四成六",
+        "dek": "發展商按一供十一方式以低價配售新股，鄭氏家族包銷，周一復牌後股價大幅下跌。"
+      }
+    },
+    {
+      "id": "2026-11-16-police-facial-recognition-smartview",
+      "published_at": "2026-11-16T16:35:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "police",
+        "surveillance",
+        "ai",
+        "cctv",
+        "smartview"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-police-facial-recognition-smartview.json",
+      "en": {
+        "headline": "Police activate AI facial recognition on SmartView CCTV network",
+        "dek": "Commissioner Joe Chow said the system, starting Monday, would help identify suspects and deter crime, with authorisation required for use."
+      },
+      "zh": {
+        "headline": "警方啟用智慧监控系統AI人臉識別功能",
+        "dek": "警務處處長周一正式啟用，指可協助識別嫌疑人及阻嚇罪案，使用須經授權。"
+      }
+    },
     {
       "id": "2026-11-16-john-lee-shenzhen-apec-visit",
       "published_at": "2026-11-16T14:15:00+08:00",
@@ -1702,141 +1769,6 @@
       "zh": {
         "headline": "渣打藝趣嘉年華周末重返銅鑼灣維園",
         "dek": "香港青年藝術協會舉辦的免費戶外青年藝術活動本周六日舉行，設有燈光夜巡遊及盛大閉幕巡遊，維多利亞公園亦有工作坊及演出。"
-      }
-    },
-    {
-      "id": "2026-11-13-chai-wan-hing-wah-mother-stabbed",
-      "published_at": "2026-11-13T16:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "chai-wan",
-        "assault"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-13/2026-11-13-chai-wan-hing-wah-mother-stabbed.json",
-      "en": {
-        "headline": "Man arrested after mother injured in knife attack at Chai Wan estate",
-        "dek": "Police said a 31-year-old man called officers on Thursday evening after attacking his 63-year-old mother with two cleavers at Hing Wah Estate; she was taken to hospital conscious."
-      },
-      "zh": {
-        "headline": "柴灣興華邨男子持刀襲母被捕 傷者清醒送院",
-        "dek": "警方表示，31歲男子周四傍晚報案，稱在興華邨卓華樓住所用兩把菜刀襲擊63歲母親；母親多處受傷但清醒，送東區醫院治理。"
-      }
-    },
-    {
-      "id": "2026-11-13-ha-hos-newborn-mortgage-95",
-      "published_at": "2026-11-13T16:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "hos",
-        "newborns",
-        "mortgage",
-        "housing-authority"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-13/2026-11-13-ha-hos-newborn-mortgage-95.json",
-      "en": {
-        "headline": "Housing Authority raises HOS mortgage ratio to 95 percent for families with newborns",
-        "dek": "The Subsidised Housing Committee approved the change for White Form applicants with children aged three or below, and shortened the resale restriction on 2022-2025 flats to 10 years."
-      },
-      "zh": {
-        "headline": "房委會通過新生嬰白表居屋按揭成數升至95%",
-        "dek": "資助房屋小組委員會周五通過措施，有三歲或以下子女的白表家庭由下期居屋起最高按揭成數調至95%，並將2022至2025年資助單位轉讓限制縮至10年。"
-      }
-    },
-    {
-      "id": "2026-11-13-hko-special-weather-tip-showers",
-      "published_at": "2026-11-13T16:25:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "showers",
-        "thunderstorm"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-13/2026-11-13-hko-special-weather-tip-showers.json",
-      "en": {
-        "headline": "Observatory issues special tip as showers increase tonight with possible thunderstorms",
-        "dek": "The Hong Kong Observatory said upper-air disturbances will bring more showers this evening, with isolated squally thunderstorms and stronger winds, before heavier rain early on Saturday."
-      },
-      "zh": {
-        "headline": "天文台發特別天氣提示 今晚驟雨增多或有狂風雷暴",
-        "dek": "天文台上午11時45分發出提示，指高空擾動靠近，本港今晚驟雨逐漸增多，局部地區有狂風雷暴及較大風勢，周六初時雨勢頗大。"
-      }
-    },
-    {
-      "id": "2026-11-13-microsoft-365-outlook-outage",
-      "published_at": "2026-11-13T16:25:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "microsoft",
-        "outage",
-        "outlook"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-13/2026-11-13-microsoft-365-outlook-outage.json",
-      "en": {
-        "headline": "Microsoft 365 outage disrupts Outlook and Teams for Hong Kong users",
-        "dek": "A global service disruption that began early Friday left some bankers and office workers unable to send or receive email or join meetings, with Microsoft attributing it to server issues."
-      },
-      "zh": {
-        "headline": "微軟365全球故障影響本港Outlook及Teams",
-        "dek": "周五凌晨起的服務中斷令部分本港金融業及辦公室用戶無法收發電郵或進行網上會議，微軟指與伺服器問題有關。"
-      }
-    },
-    {
-      "id": "2026-11-13-centre-medical-products-regulation-bill",
-      "published_at": "2026-11-13T14:20:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "legco",
-        "regulation",
-        "medical-devices",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-13/2026-11-13-centre-medical-products-regulation-bill.json",
-      "en": {
-        "headline": "Government gazettes bill to establish Centre for Medical Products Regulation",
-        "dek": "The Centre for Medical Products Regulation Bill was gazetted on Friday to give the new body statutory status and unify oversight of Chinese and Western medicines and future medical devices."
-      },
-      "zh": {
-        "headline": "政府刊憲《藥械監管中心條例草案》確立法定地位",
-        "dek": "《藥物及醫療器械監督管理中心條例草案》周五刊憲，確立藥械監管中心法定地位，並理順中西藥及未來醫療器械的規管架構。"
-      }
-    },
-    {
-      "id": "2026-11-13-lifestyle-symphony-of-lights-final",
-      "published_at": "2026-11-13T14:20:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "tourism",
-        "victoria-harbour",
-        "light-show",
-        "tsim-sha-tsui"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-13/2026-11-13-lifestyle-symphony-of-lights-final.json",
-      "en": {
-        "headline": "Symphony of Lights stages final show on 18 November after 22 years",
-        "dek": "The Hong Kong Tourism Board said the nightly Victoria Harbour light and music show will perform for the last time on 18 November with added pyrotechnic elements before seasonal displays take over."
-      },
-      "zh": {
-        "headline": "幻彩詠香江22年後11月18日最後匯演",
-        "dek": "香港旅遊發展局表示，每晚維港燈光音樂匯演將於11月18日舉行最後一場，並加入煙火元素，之後改以季節性光影活動取代。"
       }
     }
   ]
