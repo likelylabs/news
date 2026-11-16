@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-16T08:06:04+08:00",
+  "generated_at": "2026-11-16T08:07:07+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 82,
   "articles": [
+    {
+      "id": "2026-11-16-hkmu-data-security-incident",
+      "published_at": "2026-11-16T08:06:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "hkmu",
+        "cybersecurity",
+        "data",
+        "education"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-hkmu-data-security-incident.json",
+      "en": {
+        "headline": "HKMU reports information security incident affecting possible data of about 5000 people",
+        "dek": "The university said it identified suspected unauthorised access on 4 November and notified staff and students the next day, while a report said data including HKID numbers was offered for sale."
+      },
+      "zh": {
+        "headline": "都會大學披露資訊安全事件 可能影響約5000人資料",
+        "dek": "大學表示11月4日發現疑似未經授權存取，翼日通知員工及學生，報道指包括身份證號碼等資料在暗網出售。"
+      }
+    },
+    {
+      "id": "2026-11-16-lifestyle-henceforth-furniture",
+      "published_at": "2026-11-16T08:06:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "design",
+        "tsim-sha-tsui",
+        "polyu"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-lifestyle-henceforth-furniture.json",
+      "en": {
+        "headline": "PolyU Design students show speculative furniture for future Hong Kong at free Tsim Sha…",
+        "dek": "The Henceforth… Hong Kong… show at The Grid in Heath Mall runs until 24 November, with touchable pieces and selected VR sessions exploring density and ageing."
+      },
+      "zh": {
+        "headline": "理大設計學生尖沙咀免費展覽展出未來香港推測家具",
+        "dek": "《今後…香港…》在慶方The Grid展出至11月24日，參觀者可觸摸及試坐，指定時段有VR體驗。"
+      }
+    },
+    {
+      "id": "2026-11-16-tuen-mun-drink-driving-arrest",
+      "published_at": "2026-11-16T08:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "tuen-mun",
+        "drink-driving",
+        "traffic",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-tuen-mun-drink-driving-arrest.json",
+      "en": {
+        "headline": "Police arrest man for drink driving after vehicle hits railing in Tuen Mun",
+        "dek": "Officers said the driver failed a breath test after the vehicle struck a two-metre railing on Tin King Road in the early hours, with no injuries reported."
+      },
+      "zh": {
+        "headline": "屯門田景路輕型貨車撞欄 41歲男司機涉醉駕被捕",
+        "dek": "警方指司機在凌晨未能通過酒精呼氣測試，車輛撞向約兩米長欄杆，事件中無人受傷。"
+      }
+    },
     {
       "id": "2026-11-16-lifestyle-butter-bar-sai-kung",
       "published_at": "2026-11-16T04:20:00+08:00",
