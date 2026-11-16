@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-17T02:03:06+08:00",
+  "generated_at": "2026-11-17T04:16:57+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 77,
   "articles": [
+    {
+      "id": "2026-11-17-lifestyle-fly-me-to-the-moon-exhibition",
+      "published_at": "2026-11-17T04:16:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "tsim-sha-tsui",
+        "avenue-of-stars",
+        "space"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-17/2026-11-17-lifestyle-fly-me-to-the-moon-exhibition.json",
+      "en": {
+        "headline": "Free outdoor space installations remain at Salisbury Garden until 22 November",
+        "dek": "Giant planet and aerospace displays form the free outdoor zone of the Fly Me to the Moon exhibition along the Tsim Sha Tsui waterfront."
+      },
+      "zh": {
+        "headline": "梳士巴利花園戶外太空裝置展延續至11月22日",
+        "dek": "「飛奔到月球」展覽的免費戶外區在尖沙咀海濱展示大型行星及航天藝術裝置。"
+      }
+    },
     {
       "id": "2026-11-17-lifestyle-li-ning-hk-open-badminton",
       "published_at": "2026-11-17T02:05:00+08:00",
@@ -1705,51 +1728,6 @@
       "zh": {
         "headline": "三棟屋博物館周日舉行非遺童遊同樂日 免費入場",
         "dek": "香港非物質文化遺產中心（三棟屋博物館）周日上午11時至下午6時提供免費表演、工作坊及活動。"
-      }
-    },
-    {
-      "id": "2026-11-14-fanling-ping-che-warehouse-fire",
-      "published_at": "2026-11-14T02:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "fanling",
-        "fire-services",
-        "north-district"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-14/2026-11-14-fanling-ping-che-warehouse-fire.json",
-      "en": {
-        "headline": "Firefighters extinguish Fanling warehouse blaze after nearly two hours",
-        "dek": "The Fire Services Department said the fire at a Ping Che Road warehouse was largely put out by 9:58pm, with damping-down continuing and no injuries reported."
-      },
-      "zh": {
-        "headline": "粉嶺坪輋路貨倉火警近兩小時救熄 無人受傷",
-        "dek": "消防處表示，晚上約9時58分將火勢大致救熄，其後進行降溫及散煙，並救出兩名市民，均無受傷。"
-      }
-    },
-    {
-      "id": "2026-11-14-lifestyle-heritage-museum-fun-day",
-      "published_at": "2026-11-14T02:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "museum",
-        "sha-tin",
-        "family",
-        "heritage-museum"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-14/2026-11-14-lifestyle-heritage-museum-fun-day.json",
-      "en": {
-        "headline": "Hong Kong Heritage Museum holds free Fun Day in Sha Tin today",
-        "dek": "The museum offers interactive activities, workshops and a free screening of a restored 1959 Cantonese opera film from 10am to 6:30pm with no advance booking required."
-      },
-      "zh": {
-        "headline": "香港文化博物館今日沙田舉行免費同樂日",
-        "dek": "館方上午10時至下午6時30分提供互動活動、工作坊及免費放映1959年修復版粵劇電影，毋須預先報名。"
       }
     }
   ]
