@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-16T20:32:19+08:00",
+  "generated_at": "2026-11-16T22:21:20+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 78,
   "articles": [
+    {
+      "id": "2026-11-16-ha-carpark-fees-increase",
+      "published_at": "2026-11-16T22:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "parking",
+        "housing-authority",
+        "fees",
+        "ev-charging"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-ha-carpark-fees-increase.json",
+      "en": {
+        "headline": "Housing Authority to raise carpark fees from January 2027",
+        "dek": "Monthly rates for private cars will rise by HK$130 to HK$150, with hourly charges up by HK$1, as the authority aligns with market levels and expands EV charging sharing."
+      },
+      "zh": {
+        "headline": "房委會明年一月起上調停車場收費",
+        "dek": "私家車月租加130至150元，時租加1元，以貼近市場水平，並擴展電動車充電共享區。"
+      }
+    },
+    {
+      "id": "2026-11-16-wang-fuk-fire-reform-steering-meeting",
+      "published_at": "2026-11-16T22:20:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "tai-po",
+        "fire",
+        "government",
+        "reform",
+        "wang-fuk-court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-wang-fuk-fire-reform-steering-meeting.json",
+      "en": {
+        "headline": "Tai Po fire reform steering committee holds first meeting",
+        "dek": "Chief Secretary Eric Chan urged departments to roll out ready measures immediately and complete legislative amendments at full speed."
+      },
+      "zh": {
+        "headline": "大埔火災改革督導委員會首次會議召開",
+        "dek": "政務司司長陳國基要求部門盡快推行已準備就緒的措施，並全速完成立法修訂準備工作。"
+      }
+    },
     {
       "id": "2026-11-16-abby-choi-trial-kwong-testimony",
       "published_at": "2026-11-16T20:30:00+08:00",
@@ -1703,72 +1749,6 @@
       "zh": {
         "headline": "天文台預料周六初時雨勢頗大周日大致天晴",
         "dek": "香港天文台預測周六初時有大驟雨及幾陣狂風雷暴，日間減弱下午有陽光；周日大致天晴，氣溫介乎22至28度。"
-      }
-    },
-    {
-      "id": "2026-11-13-imported-mpox-case-34yo",
-      "published_at": "2026-11-13T22:15:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "mpox",
-        "chp",
-        "imported"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-13/2026-11-13-imported-mpox-case-34yo.json",
-      "en": {
-        "headline": "Centre for Health Protection investigates imported mpox case in 34-year-old man",
-        "dek": "The man developed fever and a spreading rash earlier this week after high-risk sexual contact outside Hong Kong and is now in stable condition in isolation."
-      },
-      "zh": {
-        "headline": "衞生防護中心調查34歲男子猴痘輸入個案",
-        "dek": "病人本周較早時出現發燒及皮疹蔓延，潛伏期內離港期間與其他男子有高風險性接觸，現時隔離情況穩定。"
-      }
-    },
-    {
-      "id": "2026-11-13-mai-po-h5-avian-flu-samples",
-      "published_at": "2026-11-13T22:15:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "avian-flu",
-        "mai-po",
-        "afcd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-13/2026-11-13-mai-po-h5-avian-flu-samples.json",
-      "en": {
-        "headline": "H5 avian flu virus detected in two Mai Po Nature Reserve samples",
-        "dek": "The Agriculture, Fisheries and Conservation Department said University of Hong Kong researchers confirmed the highly pathogenic virus in environmental samples collected on Wednesday."
-      },
-      "zh": {
-        "headline": "米埔自然護理區兩環境樣本驗出H5高致病性禽流感病毒",
-        "dek": "漁護署表示，香港大學研究團隊確認周三收集的環境樣本帶有H5病毒。"
-      }
-    },
-    {
-      "id": "2026-11-13-paediatric-influenza-death-14-month",
-      "published_at": "2026-11-13T22:15:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "influenza",
-        "children",
-        "chp"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-13/2026-11-13-paediatric-influenza-death-14-month.json",
-      "en": {
-        "headline": "14-month-old girl dies from influenza A, third child fatality this season",
-        "dek": "The Centre for Health Protection said the previously healthy toddler, who developed fever and convulsions in late October, died today after multi-organ failure."
-      },
-      "zh": {
-        "headline": "14個月大女童感染甲型流感不治 今年第三宗兒童死亡個案",
-        "dek": "衞生防護中心表示，早前健康的女童上月底發燒抽搐後，今日因多重器官衰竭離世。"
       }
     }
   ]
