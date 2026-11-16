@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-16T12:12:35+08:00",
+  "generated_at": "2026-11-16T14:18:21+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 82,
   "articles": [
+    {
+      "id": "2026-11-16-john-lee-shenzhen-apec-visit",
+      "published_at": "2026-11-16T14:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "shenzhen",
+        "apec",
+        "government"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-john-lee-shenzhen-apec-visit.json",
+      "en": {
+        "headline": "John Lee to visit Shenzhen for APEC meetings from Tuesday",
+        "dek": "The Chief Executive will attend the CEO Summit and Economic Leaders’ Meeting over three days, saying APEC economies account for 87 per cent of Hong Kong’s external trade."
+      },
+      "zh": {
+        "headline": "李家超周二起赴深圳出席APEC會議一連三日",
+        "dek": "行政長官將出席工商峰會及經濟領袖會議，指APEC成員經濟體佔本港對外貿易達87%。"
+      }
+    },
+    {
+      "id": "2026-11-16-victoria-harbour-race-final-wave-cancelled",
+      "published_at": "2026-11-16T14:15:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "victoria-harbour",
+        "swimming",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-victoria-harbour-race-final-wave-cancelled.json",
+      "en": {
+        "headline": "Strong currents force organisers to cancel final wave of Victoria Harbour Race",
+        "dek": "About 700 leisure swimmers missed the last start on Sunday after currents strengthened, with organisers promising full refunds and a lawmaker who finished the course calling the decision responsible."
+      },
+      "zh": {
+        "headline": "維港泳因水流急取消最後一組優悠組約700人受影響",
+        "dek": "周日賽事最後一組優悠組因水流加強而取消，約700名泳手未能出發，主辦方承諾全額退款，有完成賽事的立法會議員指決定負責任。"
+      }
+    },
     {
       "id": "2026-11-16-bigbang-kai-tak-ticket-arrests",
       "published_at": "2026-11-16T12:15:00+08:00",

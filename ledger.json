@@ -1,24 +1,6 @@
 {
   "covered": [
     {
-      "key": "john-lee-beijing-shanghai-visit-nov3",
-      "id": "2026-11-02-john-lee-beijing-shanghai-visit",
-      "first_seen": "2026-11-02T14:15:00+08:00",
-      "headline_en": "John Lee to visit Beijing and Shanghai for symposium and CIIE"
-    },
-    {
-      "key": "sun-dong-wuzhen-world-internet-conference",
-      "id": "2026-11-02-sun-dong-world-internet-conference",
-      "first_seen": "2026-11-02T14:15:00+08:00",
-      "headline_en": "Sun Dong departs for World Internet Conference in Wuzhen"
-    },
-    {
-      "key": "unidroit-asia-pacific-liaison-office-opens",
-      "id": "2026-11-02-unidroit-asia-pacific-office-opens",
-      "first_seen": "2026-11-02T14:15:00+08:00",
-      "headline_en": "UNIDROIT opens first Asia-Pacific liaison office in Hong Kong"
-    },
-    {
       "key": "big-wave-bay-red-flag-nov2",
       "id": "2026-11-02-big-wave-bay-red-flag",
       "first_seen": "2026-11-02T16:25:00+08:00",
@@ -2249,7 +2231,19 @@
       "id": "2026-11-16-pan-qiaoxian-appeal-rejected",
       "first_seen": "2026-11-16T12:15:00+08:00",
       "headline_en": "High Court dismisses Pan Qiaoxian’s appeal in case linked to Abby Choi murder"
+    },
+    {
+      "key": "john-lee-shenzhen-apec-visit-nov17",
+      "id": "2026-11-16-john-lee-shenzhen-apec-visit",
+      "first_seen": "2026-11-16T14:15:00+08:00",
+      "headline_en": "John Lee to visit Shenzhen for APEC meetings from Tuesday"
+    },
+    {
+      "key": "victoria-harbour-race-final-wave-cancelled-nov15",
+      "id": "2026-11-16-victoria-harbour-race-final-wave-cancelled",
+      "first_seen": "2026-11-16T14:15:00+08:00",
+      "headline_en": "Strong currents force organisers to cancel final wave of Victoria Harbour Race"
     }
   ],
-  "updated_at": "2026-11-16T12:12:35+08:00"
+  "updated_at": "2026-11-16T14:18:20+08:00"
 }
