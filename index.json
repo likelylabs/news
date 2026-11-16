@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-16T22:21:39+08:00",
+  "generated_at": "2026-11-17T00:02:51+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-11-17-lifestyle-disney-christmas-hkdl",
+      "published_at": "2026-11-17T00:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "disneyland",
+        "christmas",
+        "family",
+        "lantau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-17/2026-11-17-lifestyle-disney-christmas-hkdl.json",
+      "en": {
+        "headline": "Hong Kong Disneyland starts A Disney Christmas season today",
+        "dek": "The resort begins its festive programme from 17 November to 3 January, with a new Winter Market in World of Frozen and a daytime castle show from Wednesday."
+      },
+      "zh": {
+        "headline": "香港迪士尼今日啟動奇妙聖誕季節",
+        "dek": "度假區由11月17日至明年1月3日舉辦節日活動，魔雪奇緣世界新增冬日市集，周三起有日間城堡演出。"
+      }
+    },
     {
       "id": "2026-11-16-ha-carpark-fees-increase",
       "published_at": "2026-11-16T22:20:00+08:00",
