@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-16T10:16:22+08:00",
+  "generated_at": "2026-11-16T12:12:35+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-11-16-bigbang-kai-tak-ticket-arrests",
+      "published_at": "2026-11-16T12:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "kai-tak",
+        "concert",
+        "tickets",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-bigbang-kai-tak-ticket-arrests.json",
+      "en": {
+        "headline": "Police arrest two men over fake and scalped BigBang tickets near Kai Tak",
+        "dek": "Officers said one suspect sold six counterfeit tickets for about HK$10,000 while another hawked two tickets above face value on Sunday, and the organiser invalidated the scalped ones."
+      },
+      "zh": {
+        "headline": "警方拘捕兩男 涉在啟德售賣BIGBANG演唱會假票及黃牛票",
+        "dek": "警方指一人涉嫌以約一萬元售出六張假門票，另一人則以高於面值價格兜售兩張門票，主辦方已將涉案黃牛票作廢。"
+      }
+    },
+    {
+      "id": "2026-11-16-pan-qiaoxian-appeal-rejected",
+      "published_at": "2026-11-16T12:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "abby-choi",
+        "appeal",
+        "crime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-pan-qiaoxian-appeal-rejected.json",
+      "en": {
+        "headline": "High Court dismisses Pan Qiaoxian’s appeal in case linked to Abby Choi murder",
+        "dek": "Temporary Judge Cheung Kit-yi rejected the appeal against conviction and sentence, ordering the woman to begin her six-month jail term immediately for conspiring to help a man flee."
+      },
+      "zh": {
+        "headline": "高院駁回潘巧賢上訴 須即時服刑六個月",
+        "dek": "暫委法官張潔宜裁定潘巧賢就串謀妨害司法公正的定罪及判刑上訴失敗，她須即時入獄服刑。"
+      }
+    },
     {
       "id": "2026-11-16-hkex-offshore-rmb-bond-index",
       "published_at": "2026-11-16T10:15:00+08:00",
@@ -1748,73 +1793,6 @@
       "zh": {
         "headline": "幻彩詠香江22年後11月18日最後匯演",
         "dek": "香港旅遊發展局表示，每晚維港燈光音樂匯演將於11月18日舉行最後一場，並加入煙火元素，之後改以季節性光影活動取代。"
-      }
-    },
-    {
-      "id": "2026-11-13-lifestyle-arts-fringe-lamma",
-      "published_at": "2026-11-13T12:12:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "lamma",
-        "art",
-        "yung-shue-wan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-13/2026-11-13-lifestyle-arts-fringe-lamma.json",
-      "en": {
-        "headline": "Arts Fringe Lamma displays works in Yung Shue Wan venues until 22 November",
-        "dek": "The open-air festival on Lamma Island runs from 12 to 22 November, with artworks hosted by cafes, restaurants and bars, and a portion of sales going to the Child Welfare Scheme."
-      },
-      "zh": {
-        "headline": "南丫島藝術邊緣節榕樹灣場地展出作品至11月22日",
-        "dek": "南丫島開放式藝術活動由11月12日至22日舉行，咖啡店、餐廳及酒吧展出作品，部分銷售收益捐予兒童福利計劃。"
-      }
-    },
-    {
-      "id": "2026-11-13-new-world-rights-issue-consideration",
-      "published_at": "2026-11-13T12:12:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "property",
-        "new-world",
-        "rights-issue",
-        "stock-market"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-13/2026-11-13-new-world-rights-issue-consideration.json",
-      "en": {
-        "headline": "New World Development weighs rights issue of up to HK$25 billion",
-        "dek": "The developer, whose shares were halted Friday, is considering a rights issue after people familiar with the matter said Bain Capital decided against investing; the Cheng family plans to take part."
-      },
-      "zh": {
-        "headline": "新世界發展考慮供股集資最高250億元",
-        "dek": "股份周五停牌的發展商正考慮供股，據知情人士稱貝恩資本決定不投資；鄭氏家族計劃參與。"
-      }
-    },
-    {
-      "id": "2026-11-13-weekend-weather-outlook-nov14-15",
-      "published_at": "2026-11-13T12:12:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "weekend",
-        "forecast",
-        "thunderstorm"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-13/2026-11-13-weekend-weather-outlook-nov14-15.json",
-      "en": {
-        "headline": "Observatory forecasts heavy showers Saturday, sunnier Sunday for Hong Kong",
-        "dek": "Heavy showers and a few squally thunderstorms are expected early on Saturday before easing, with sunny periods on Sunday and temperatures between 23 and 28 degrees."
-      },
-      "zh": {
-        "headline": "天文台料周六初時驟雨雷暴 周日有陽光",
-        "dek": "周六初時有大驟雨及幾陣狂風雷暴，日間雨勢減弱並轉好，周日有陽光，氣溫約23至28度。"
       }
     }
   ]
