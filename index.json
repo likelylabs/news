@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-11-16T20:29:45+08:00",
+  "generated_at": "2026-11-16T20:31:38+08:00",
   "live_window_hours": 72,
-  "count": 75,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-11-16-abby-choi-trial-kwong-testimony",
+      "published_at": "2026-11-16T20:30:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "court",
+        "abby-choi",
+        "crime",
+        "high-court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-abby-choi-trial-kwong-testimony.json",
+      "en": {
+        "headline": "Kwong Hong-kit tells court he planned to blame father in Abby Choi case",
+        "dek": "The defendant said he later abandoned the idea after lawyers urged him to tell the truth and wrote to his brother that lies would not work."
+      },
+      "zh": {
+        "headline": "鄔港傑庭上稱曾計劃將蔡天鳳案責任推給父親",
+        "dek": "被告指其後因律師要求說出真相而放棄，並寫信給弟弟稱說謊行不通。"
+      }
+    },
+    {
+      "id": "2026-11-16-green-shipping-corridor-piraeus",
+      "published_at": "2026-11-16T20:30:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "shipping",
+        "business",
+        "environment",
+        "greece",
+        "maritime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-green-shipping-corridor-piraeus.json",
+      "en": {
+        "headline": "John Lee announces green shipping corridor with Greece's Port of Piraeus",
+        "dek": "The Chief Executive said the new partnership is a significant step for decarbonising Asia-Europe routes, with further deals planned with mainland ports."
+      },
+      "zh": {
+        "headline": "李家超宣布與希臘比雷埃夫斯港建立綠色航運走廊",
+        "dek": "行政長官指新合作是推動亞歐航線減碳的重要一步，並將與內地港口簽署進一步協議。"
+      }
+    },
+    {
+      "id": "2026-11-16-lifestyle-rbhk-2026-opens",
+      "published_at": "2026-11-16T20:30:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "exhibition",
+        "hkcec",
+        "f-and-b"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-lifestyle-rbhk-2026-opens.json",
+      "en": {
+        "headline": "Restaurant Bar and Cafe Hong Kong 2026 opens at HKCEC",
+        "dek": "The three-day industry event for food and beverage professionals began on Monday with zones for specialty coffee, sake and eco-innovation."
+      },
+      "zh": {
+        "headline": "香港餐飲展2026於會展中心開幕",
+        "dek": "為期三日的餐飲業界活動周一展開，設有精品咖啡、清酒及生態創新專區。"
+      }
+    },
+    {
+      "id": "2026-11-16-sfc-ipo-bookbuilding-review",
+      "published_at": "2026-11-16T20:30:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "sfc",
+        "ipo",
+        "business",
+        "finance",
+        "hkex"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-16/2026-11-16-sfc-ipo-bookbuilding-review.json",
+      "en": {
+        "headline": "SFC to review IPO book-building process after fraud cases",
+        "dek": "Chief executive Julia Leung said the regulator would work with the stock exchange to tighten procedures and urged professionals to report red flags."
+      },
+      "zh": {
+        "headline": "證監會將檢討IPO簿記建檔流程以應對造假風險",
+        "dek": "行政總裁梁鳳儀表示會與港交所合作收緊程序，並呼籲業界舉報可疑情況。"
+      }
+    },
     {
       "id": "2026-11-16-hang-seng-close-up",
       "published_at": "2026-11-16T18:15:00+08:00",
