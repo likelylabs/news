@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-17T00:02:51+08:00",
+  "generated_at": "2026-11-17T02:03:06+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 78,
   "articles": [
+    {
+      "id": "2026-11-17-lifestyle-li-ning-hk-open-badminton",
+      "published_at": "2026-11-17T02:05:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "lifestyle",
+        "badminton",
+        "kai-tak",
+        "sport",
+        "hsbc"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-17/2026-11-17-lifestyle-li-ning-hk-open-badminton.json",
+      "en": {
+        "headline": "Li-Ning Hong Kong Open badminton starts at Kai Tak Arena today",
+        "dek": "The Super 500 tournament moves to the new venue for the first time, running until 22 November with a US$500,000 prize purse and outdoor game booths."
+      },
+      "zh": {
+        "headline": "李寧香港公開羽毛球錦標賽今日於啟德體藝館開幕",
+        "dek": "超級500賽事首度移師新場館，至22日完結，總獎金50萬美元，場外設遊戲攤位。"
+      }
+    },
     {
       "id": "2026-11-17-lifestyle-disney-christmas-hkdl",
       "published_at": "2026-11-17T00:05:00+08:00",
@@ -1727,51 +1750,6 @@
       "zh": {
         "headline": "香港文化博物館今日沙田舉行免費同樂日",
         "dek": "館方上午10時至下午6時30分提供互動活動、工作坊及免費放映1959年修復版粵劇電影，毋須預先報名。"
-      }
-    },
-    {
-      "id": "2026-11-14-lifestyle-chat-oh-haji-becoming-flowers",
-      "published_at": "2026-11-14T00:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "tsuen-wan",
-        "textile",
-        "chat"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-14/2026-11-14-lifestyle-chat-oh-haji-becoming-flowers.json",
-      "en": {
-        "headline": "CHAT opens Oh Haji first Hong Kong solo exhibition in Tsuen Wan",
-        "dek": "The textile artist’s Becoming Flowers runs until 28 February at The Mills, exploring diasporic memory and female resilience through weaving, embroidery and dyeing."
-      },
-      "zh": {
-        "headline": "CHAT六廠荃灣開幕吳夏枝香港首個展",
-        "dek": "紡織藝術家《花自漫生》展期至明年2月28日，於南豐紗廠透過編織、刺繡及染色探索離散記憶與女性韌性。"
-      }
-    },
-    {
-      "id": "2026-11-14-weekend-weather-outlook-nov14-15",
-      "published_at": "2026-11-14T00:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "weekend",
-        "observatory",
-        "forecast"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-14/2026-11-14-weekend-weather-outlook-nov14-15.json",
-      "en": {
-        "headline": "Observatory expects heavy early Saturday showers then mainly fine Sunday",
-        "dek": "Saturday begins with heavy showers and possible squally thunderstorms before easing with sunny periods, while Sunday is forecast mainly fine with temperatures up to 28 degrees."
-      },
-      "zh": {
-        "headline": "天文台預料周六初時雨勢頗大周日大致天晴",
-        "dek": "香港天文台預測周六初時有大驟雨及幾陣狂風雷暴，日間減弱下午有陽光；周日大致天晴，氣溫介乎22至28度。"
       }
     }
   ]
