@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-17-egl-tours-data-breach",
+  "published_at": "2026-11-17T12:15:00+08:00",
+  "category": "business",
+  "tags": ["business", "data-breach", "privacy", "travel", "egl"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "egl-tours-third-party-data-breach",
+  "en": {
+    "headline": "EGL Tours warns of customer data exposure via third-party supplier",
+    "dek": "The travel agency said names, identity-card numbers and travel-document details of some customers may have been accessed after a supplier reported unauthorised network access.",
+    "body": [
+      "EGL Tours said it was notified by a third-party technology service provider on 13 November that an unauthorised party had accessed its backend management system, potentially exposing personal data of a number of customers.",
+      "According to the company, the data that may have been involved include customers' names, contact details, identity-card numbers, travel-document numbers and dates of birth, along with some travel information. EGL Tours stressed that no credit-card or payment data were involved, as the company uses a separate bank payment system.",
+      "The agency has reported the incident to police and to the Office of the Privacy Commissioner for Personal Data. It said systems have resumed normal operation, no further abnormal access has been detected, and there is currently no evidence that the data have been misused.",
+      "EGL Holdings, the listed parent, disclosed the matter in a stock-exchange announcement on 16 November, noting that the total number of affected customers was still being verified and that a final investigation report from the supplier had not yet been received."
+    ]
+  },
+  "zh": {
+    "headline": "東瀛遊接供應商通知系統遭未授權存取 部分客戶證件資料或受影響",
+    "dek": "旅行社指第三方技術服務供應商於11月13日通知其後台系統曾遭未經授權存取，部分客戶姓名、身份證及旅遊證件資料可能涉及。",
+    "body": [
+      "東瀛遊表示，本月13日接獲第三方技術服務供應商通知，系統曾遭受未經授權的網絡存取，部分客戶的個人資料可能受影響。",
+      "公司指，可能涉及的資料包括客戶姓名、聯絡資料、身份證號碼、旅遊證件號碼及出生日期，連同若干出行資料。由於公司一直使用獨立的銀行付款系統，調查確認事件不涉及任何信用卡或付款相關資料。",
+      "東瀛遊已報警處理，並向個人資料私隱專員公署立案。公司表示相關系統已恢復正常運作，暫未再發現異常活動，亦暫無證據顯示相關資料遭不當使用。",
+      "東瀛遊控股在港交所公告中披露事件，指受影響客戶總數仍在核實，尚未收到供應商的最終調查報告。"
+    ]
+  }
+}
