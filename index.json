@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-18T04:25:42+08:00",
+  "generated_at": "2026-11-18T04:26:10+08:00",
   "live_window_hours": 72,
-  "count": 71,
+  "count": 72,
   "articles": [
+    {
+      "id": "2026-11-18-lifestyle-hk-winterfest-opens",
+      "published_at": "2026-11-18T04:25:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "winterfest",
+        "central",
+        "tourism",
+        "lights"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-18/2026-11-18-lifestyle-hk-winterfest-opens.json",
+      "en": {
+        "headline": "Hong Kong WinterFest opens today with multi-district wonderlands",
+        "dek": "The Tourism Board’s flagship event runs to 5 January with Winter Wonderlands in Central and Tsim Sha Tsui from tonight, and the final Symphony of Lights at 8pm."
+      },
+      "zh": {
+        "headline": "香港繽紛冬日巡禮今日開幕 冬日小鎮擴至多區",
+        "dek": "旅發局旗艦活動至1月5日，中環及尖沙咀冬日小鎮今晚起開放，幻彩詠香江晚上8時上演最後一場。"
+      }
+    },
     {
       "id": "2026-11-18-lifestyle-bigbang-cosmos-exhibition",
       "published_at": "2026-11-18T02:05:00+08:00",
