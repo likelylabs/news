@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "ho-wing-yin-formal-removal-nov3",
-      "id": "2026-11-03-ho-wing-yin-housing-secretary-removal",
-      "first_seen": "2026-11-03T12:15:00+08:00",
-      "headline_en": "Central Government removes Winnie Ho as Housing Secretary"
-    },
-    {
-      "key": "parking-meter-system-outage-nov3",
-      "id": "2026-11-03-parking-meter-system-outage",
-      "first_seen": "2026-11-03T12:15:00+08:00",
-      "headline_en": "Parking meter system fails across Hong Kong, police hold off enforcement"
-    },
-    {
       "key": "parking-meters-system-malfunction-nov3",
       "id": "2026-11-03-parking-meters-system-malfunction",
       "first_seen": "2026-11-03T12:25:00+08:00",
@@ -2249,7 +2237,13 @@
       "id": "2026-11-17-lifestyle-disgusting-food-museum",
       "first_seen": "2026-11-17T12:15:00+08:00",
       "headline_en": "Disgusting Food Museum continues at Airside until 26 November"
+    },
+    {
+      "key": "cannan-kindergarten-head-injury-investigation-update",
+      "id": "2026-11-17-cannan-kindergarten-head-injury-probe",
+      "first_seen": "2026-11-17T12:30:00+08:00",
+      "headline_en": "Police still probing two-year-old's head injury at Kowloon Tong kindergarten"
     }
   ],
-  "updated_at": "2026-11-17T12:14:16+08:00"
+  "updated_at": "2026-11-17T12:16:07+08:00"
 }

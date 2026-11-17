@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-17T12:14:16+08:00",
+  "generated_at": "2026-11-17T12:16:07+08:00",
   "live_window_hours": 72,
-  "count": 74,
+  "count": 75,
   "articles": [
+    {
+      "id": "2026-11-17-cannan-kindergarten-head-injury-probe",
+      "published_at": "2026-11-17T12:30:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "police",
+        "kowloon-tong",
+        "school"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-17/2026-11-17-cannan-kindergarten-head-injury-probe.json",
+      "en": {
+        "headline": "Police still probing two-year-old's head injury at Kowloon Tong kindergarten",
+        "dek": "Officers returned to Cannan Kindergarten on Waterloo Road on Monday to collect CCTV, the school said, after earlier claiming the case had been closed."
+      },
+      "zh": {
+        "headline": "九龍塘幼稚園兩歲男童頭部受傷警方仍在調查",
+        "dek": "迦南幼稚園（窩打老道）稱警方周一再返回學校取走閉路電視片段，較早前該校曾指案件已結。"
+      }
+    },
     {
       "id": "2026-11-17-egl-tours-data-breach",
       "published_at": "2026-11-17T12:15:00+08:00",
