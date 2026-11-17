@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-11-17T04:16:57+08:00",
+  "generated_at": "2026-11-17T10:24:06+08:00",
   "live_window_hours": 72,
-  "count": 77,
+  "count": 74,
   "articles": [
+    {
+      "id": "2026-11-17-customs-illicit-cigarettes-raid",
+      "published_at": "2026-11-17T10:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "crime",
+        "yuen-long",
+        "tsuen-wan"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-17/2026-11-17-customs-illicit-cigarettes-raid.json",
+      "en": {
+        "headline": "Customs dismantles two illicit cigarette warehouses, seizes HK$1.8 million worth",
+        "dek": "Officers arrested a 56-year-old woman and a 60-year-old man on Monday after raiding storage sites in Yuen Long and Tsuen Wan, seizing about 410,000 duty-not-paid cigarettes."
+      },
+      "zh": {
+        "headline": "海關搗破元朗及荃灣兩個私煙倉檢值180萬",
+        "dek": "周一行動中拘捕56歲女子及60歲男子，檢獲約41萬支未完稅香煙，市值約180萬元。"
+      }
+    },
+    {
+      "id": "2026-11-17-hang-seng-opens-lower",
+      "published_at": "2026-11-17T10:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "stock",
+        "hang-seng",
+        "market"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-17/2026-11-17-hang-seng-opens-lower.json",
+      "en": {
+        "headline": "Hang Seng Index opens 0.98 percent lower at 23,521",
+        "dek": "The benchmark fell 233 points at the open on Tuesday as tech shares came under pressure, with Baidu sliding after results."
+      },
+      "zh": {
+        "headline": "恒生指數低開0.98%報23521點",
+        "dek": "大市周二開市跌233點，科技股受壓，百度績後股價向下。"
+      }
+    },
+    {
+      "id": "2026-11-17-hung-hom-bay-centre-carpark-collapse",
+      "published_at": "2026-11-17T10:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "hung-hom",
+        "building",
+        "incident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-17/2026-11-17-hung-hom-bay-centre-carpark-collapse.json",
+      "en": {
+        "headline": "Ventilation duct collapses in Hung Hom Bay Centre carpark, damaging two cars",
+        "dek": "Police said a large duct and concrete fell from the ceiling late Monday night, crushing a Porsche and a Mercedes-Benz with no injuries."
+      },
+      "zh": {
+        "headline": "紅碩灣中心停車場風管塌下壓毀兩車無人受傷",
+        "dek": "警方指周一晚約10時41分大型風管連石屎從天花墮下，壓中一輛保時捷及一輛平治，無人受傷。"
+      }
+    },
+    {
+      "id": "2026-11-17-lifestyle-rimowa-aluminium-harbour-city",
+      "published_at": "2026-11-17T10:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "pop-up",
+        "harbour-city",
+        "design",
+        "tsim-sha-tsui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-17/2026-11-17-lifestyle-rimowa-aluminium-harbour-city.json",
+      "en": {
+        "headline": "RIMOWA aluminium pop-up continues at Harbour City until 22 November",
+        "dek": "The limited installation in Gateway Arcade traces more than a century of aluminium craftsmanship through four zones, open daily from 11am to 9pm."
+      },
+      "zh": {
+        "headline": "RIMOWA鋁製行李箱主題快閃展於海港城延續至22日",
+        "dek": "閘道廣場中庭的限時裝置以四個區域追溯逾百年鋁材工藝，每日上午11時至晚上9時開放。"
+      }
+    },
+    {
+      "id": "2026-11-17-tst-audi-roadblock-taxis",
+      "published_at": "2026-11-17T10:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "police",
+        "traffic",
+        "tsim-sha-tsui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-17/2026-11-17-tst-audi-roadblock-taxis.json",
+      "en": {
+        "headline": "White Audi reverses into four taxis while fleeing Tsim Sha Tsui roadblock",
+        "dek": "Police said the driver of a white Audi hit four taxis after being signalled to stop early Tuesday, then fled against traffic; one taxi driver was taken to hospital."
+      },
+      "zh": {
+        "headline": "尖沙咀私家車倒車撞四的士後逆線逃走",
+        "dek": "警方指白色Audi司機周二凌晨被截停時突然倒車，撞向四輛的士後逆線逃去，一名的士司機送院。"
+      }
+    },
     {
       "id": "2026-11-17-lifestyle-fly-me-to-the-moon-exhibition",
       "published_at": "2026-11-17T04:16:00+08:00",
@@ -1550,184 +1660,6 @@
       "zh": {
         "headline": "警方銳眼計劃下周一啟動人面識別功能",
         "dek": "警務處處長周一鳴表示，銳眼計劃的人面識別功能將於11月16日啟用，形容對良好市民屬保障，對作姦犯科者則屬監控。"
-      }
-    },
-    {
-      "id": "2026-11-14-elderly-man-youtube-investment-scam",
-      "published_at": "2026-11-14T10:16:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "scam",
-        "investment",
-        "police",
-        "cybercrime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-14/2026-11-14-elderly-man-youtube-investment-scam.json",
-      "en": {
-        "headline": "Man in his 70s loses nearly HK$18 million in YouTube investment scam",
-        "dek": "Police said the victim was lured by an online advertisement into a fake cryptocurrency platform and transferred large sums of USDT and ether before realising he had been defrauded."
-      },
-      "zh": {
-        "headline": "七旬男子誤信YouTube投資廣告 損失近1800萬元",
-        "dek": "警方表示，事主今年6月見到廣告後被引入假虛擬貨幣平台，8至10月間轉出逾1800萬港元等值USDT及以太幣，最終無法提款。"
-      }
-    },
-    {
-      "id": "2026-11-14-lingnan-secondary-bullying-arrests",
-      "published_at": "2026-11-14T10:16:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "school",
-        "bullying",
-        "police",
-        "chai-wan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-14/2026-11-14-lingnan-secondary-bullying-arrests.json",
-      "en": {
-        "headline": "Police arrest three teens over alleged assault at Lingnan Secondary School",
-        "dek": "Eastern District officers detained three boys aged 13 to 15 on suspicion of common assault after a reported incident involving a 13-year-old student with disabilities."
-      },
-      "zh": {
-        "headline": "警方拘捕三名少年 涉嶺南中學普通襲擊",
-        "dek": "東區警區反黑組周五拘捕三名13至15歲少年，涉嫌在杏花邨嶺南中學對一名有多重障礙的13歲男生作出普通襲擊。"
-      }
-    },
-    {
-      "id": "2026-11-14-sau-mau-ping-taxi-tour-bus-crash",
-      "published_at": "2026-11-14T10:16:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "accident",
-        "sau-mau-ping",
-        "taxi"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-14/2026-11-14-sau-mau-ping-taxi-tour-bus-crash.json",
-      "en": {
-        "headline": "Taxi hits parked tour bus in Sau Mau Ping, two injured",
-        "dek": "A 64-year-old taxi driver and a 35-year-old passenger suffered injuries after their vehicle collided with a stationary coach on a wet Shun Lee Tsuen Road early Saturday."
-      },
-      "zh": {
-        "headline": "秀茂坪的士撞停泊旅遊巴 兩人受傷",
-        "dek": "周六凌晨一輛的士在雨濕的順利邨道撞向停泊旅遊巴，64歲司機及35歲乘客受傷送聯合醫院。"
-      }
-    },
-    {
-      "id": "2026-11-14-cardinal-chow-taipo-fire-masses",
-      "published_at": "2026-11-14T08:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tai-po",
-        "fire",
-        "religion",
-        "wang-fuk-court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-14/2026-11-14-cardinal-chow-taipo-fire-masses.json",
-      "en": {
-        "headline": "Cardinal Chow invites all parishes to hold masses for Tai Po fire victims on 26 November",
-        "dek": "The Bishop of Hong Kong asked parishes to offer a mass on the first anniversary of the Wang Fuk Court fire that killed 168 people."
-      },
-      "zh": {
-        "headline": "周守仁樞機籲各堂區11月26日為宏福苑亡者獻彌撒",
-        "dek": "天主教香港教區主教周守仁邀請各堂區在大埔宏福苑五級火一周年當日，為168名遇難者奉獻彌撒。"
-      }
-    },
-    {
-      "id": "2026-11-14-laguna-city-facial-recognition-privacy",
-      "published_at": "2026-11-14T08:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "privacy",
-        "lam-tin",
-        "housing",
-        "biometric"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-14/2026-11-14-laguna-city-facial-recognition-privacy.json",
-      "en": {
-        "headline": "Privacy watchdog starts compliance check on Laguna City face recognition plan",
-        "dek": "The Office of the Privacy Commissioner for Personal Data is reviewing a proposed facial recognition entry system at the Lam Tin estate after residents raised concerns."
-      },
-      "zh": {
-        "headline": "私隱署就麗港城人面識別門禁計劃展開循規審查",
-        "dek": "個人資料私隱專員公署因藍田麗港城住戶關注，正審查物業管理公司擬引入的人面識別出入系統。"
-      }
-    },
-    {
-      "id": "2026-11-14-lifestyle-hk-open-badminton-kai-tak",
-      "published_at": "2026-11-14T08:05:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "lifestyle",
-        "badminton",
-        "kai-tak",
-        "sport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-14/2026-11-14-lifestyle-hk-open-badminton-kai-tak.json",
-      "en": {
-        "headline": "Hong Kong Open badminton moves to Kai Tak Arena for first time next week",
-        "dek": "The BWF Super 500 tournament runs from 17 to 22 November at the new venue with local players in the draws and tickets from HK$70."
-      },
-      "zh": {
-        "headline": "香港羽毛球公開賽下周首度移師啟德體藝館",
-        "dek": "世界羽聯超級500賽事11月17至22日於啟德舉行，本地球員出戰，門票由70元起。"
-      }
-    },
-    {
-      "id": "2026-11-14-amber-rainstorm-thunderstorm-warning",
-      "published_at": "2026-11-14T04:18:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "thunderstorm",
-        "observatory",
-        "rainstorm",
-        "amber"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-14/2026-11-14-amber-rainstorm-thunderstorm-warning.json",
-      "en": {
-        "headline": "Observatory issues Amber Rainstorm Warning amid overnight thunderstorms",
-        "dek": "The Hong Kong Observatory raised the Amber Rainstorm Warning at 3:50am and maintained a Thunderstorm Warning valid until 5am as heavy showers affect the city."
-      },
-      "zh": {
-        "headline": "天文台發出黃色暴雨警告 雷暴警告維持至上午5時",
-        "dek": "香港天文台凌晨3時50分發出黃色暴雨警告信號，同時雷暴警告有效至上午5時，本港受大驟雨影響。"
-      }
-    },
-    {
-      "id": "2026-11-14-lifestyle-ich-wonder-play-fun-day",
-      "published_at": "2026-11-14T04:18:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "museum",
-        "tsuen-wan",
-        "heritage",
-        "family"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-14/2026-11-14-lifestyle-ich-wonder-play-fun-day.json",
-      "en": {
-        "headline": "Sam Tung Uk Museum hosts free ICH Wonder Play Fun Day on Sunday",
-        "dek": "The Hong Kong Intangible Cultural Heritage Centre at Sam Tung Uk Museum offers free performances, workshops and activities from 11am to 6pm on 15 November."
-      },
-      "zh": {
-        "headline": "三棟屋博物館周日舉行非遺童遊同樂日 免費入場",
-        "dek": "香港非物質文化遺產中心（三棟屋博物館）周日上午11時至下午6時提供免費表演、工作坊及活動。"
       }
     }
   ]
