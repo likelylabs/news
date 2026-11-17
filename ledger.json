@@ -1,36 +1,6 @@
 {
   "covered": [
     {
-      "key": "parking-meters-system-malfunction-nov3",
-      "id": "2026-11-03-parking-meters-system-malfunction",
-      "first_seen": "2026-11-03T12:25:00+08:00",
-      "headline_en": "Parking meter system fails across Hong Kong, police hold off enforcement"
-    },
-    {
-      "key": "state-council-removes-ho-wing-yin-housing",
-      "id": "2026-11-03-state-council-removes-ho-housing",
-      "first_seen": "2026-11-03T12:25:00+08:00",
-      "headline_en": "State Council removes Ho Wing-yin as Housing Bureau Secretary"
-    },
-    {
-      "key": "parking-meter-system-restored-nov3",
-      "id": "2026-11-03-parking-meters-restored",
-      "first_seen": "2026-11-03T14:20:00+08:00",
-      "headline_en": "Parking meter system restored after nearly four-hour outage"
-    },
-    {
-      "key": "red-flags-stanley-big-wave-clear-water-nov3",
-      "id": "2026-11-03-red-flags-three-beaches",
-      "first_seen": "2026-11-03T14:20:00+08:00",
-      "headline_en": "Red flags hoisted at Stanley, Big Wave Bay and Clear Water Bay beaches"
-    },
-    {
-      "key": "yuen-long-district-councillor-sei-chun-hing-sentenced-nov3",
-      "id": "2026-11-03-yuen-long-councillor-sentenced",
-      "first_seen": "2026-11-03T14:20:00+08:00",
-      "headline_en": "Yuen Long district councillor jailed 2.5 years for sex with 13-year-old"
-    },
-    {
       "key": "global-financial-leaders-summit-nov3",
       "id": "2026-11-03-global-financial-leaders-summit",
       "first_seen": "2026-11-03T16:25:00+08:00",
@@ -2243,7 +2213,19 @@
       "id": "2026-11-17-cannan-kindergarten-head-injury-probe",
       "first_seen": "2026-11-17T12:30:00+08:00",
       "headline_en": "Police still probing two-year-old's head injury at Kowloon Tong kindergarten"
+    },
+    {
+      "key": "hang-seng-midday-lower-nov17",
+      "id": "2026-11-17-hang-seng-midday-lower",
+      "first_seen": "2026-11-17T14:30:00+08:00",
+      "headline_en": "Hang Seng Index down 182 points at midday on tech pressure"
+    },
+    {
+      "key": "tuen-mun-missing-man-chow-nov17",
+      "id": "2026-11-17-tuen-mun-missing-man-chow",
+      "first_seen": "2026-11-17T14:30:00+08:00",
+      "headline_en": "Police appeal for information on 77-year-old man missing in Tuen Mun"
     }
   ],
-  "updated_at": "2026-11-17T12:16:07+08:00"
+  "updated_at": "2026-11-17T14:28:44+08:00"
 }
