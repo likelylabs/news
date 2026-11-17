@@ -1,24 +1,6 @@
 {
   "covered": [
     {
-      "key": "airport-single-checkin-hangzhou-wuhan-nov3",
-      "id": "2026-11-03-airport-single-checkin-hangzhou-wuhan",
-      "first_seen": "2026-11-03T18:10:00+08:00",
-      "headline_en": "Hong Kong airport launches single check-in for Hangzhou and Wuhan flights"
-    },
-    {
-      "key": "gdp-q3-advance-estimates-nov3",
-      "id": "2026-11-03-gdp-q3-advance-estimates",
-      "first_seen": "2026-11-03T18:10:00+08:00",
-      "headline_en": "Hong Kong economy grows 5.2% in third quarter, fastest nine-month pace in five years"
-    },
-    {
-      "key": "hang-seng-close-up-nov3",
-      "id": "2026-11-03-hang-seng-close-up",
-      "first_seen": "2026-11-03T18:10:00+08:00",
-      "headline_en": "Hang Seng Index closes up 132 points for third consecutive gain"
-    },
-    {
       "key": "bid-rigging-task-force-tang-legco-nov3",
       "id": "2026-11-03-bid-rigging-task-force-tang",
       "first_seen": "2026-11-03T20:25:00+08:00",
@@ -2225,7 +2207,13 @@
       "id": "2026-11-17-kai-tin-estate-unit-fire",
       "first_seen": "2026-11-17T16:31:00+08:00",
       "headline_en": "Fire at Lam Tin public housing flat injures residents and forces evacuation"
+    },
+    {
+      "key": "hang-seng-closes-lower-nov17",
+      "id": "2026-11-17-hang-seng-closes-lower",
+      "first_seen": "2026-11-17T18:10:00+08:00",
+      "headline_en": "Hang Seng Index closes 1.03 percent lower at 23,508"
     }
   ],
-  "updated_at": "2026-11-17T16:33:04+08:00"
+  "updated_at": "2026-11-17T18:10:42+08:00"
 }

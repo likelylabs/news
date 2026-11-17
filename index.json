@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-17T16:33:05+08:00",
+  "generated_at": "2026-11-17T18:10:42+08:00",
   "live_window_hours": 72,
-  "count": 73,
+  "count": 72,
   "articles": [
+    {
+      "id": "2026-11-17-hang-seng-closes-lower",
+      "published_at": "2026-11-17T18:10:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "stock",
+        "hang-seng",
+        "market"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-17/2026-11-17-hang-seng-closes-lower.json",
+      "en": {
+        "headline": "Hang Seng Index closes 1.03 percent lower at 23,508",
+        "dek": "The benchmark fell 245 points on Tuesday as technology shares remained under pressure, with main-board turnover of about HK$198 billion."
+      },
+      "zh": {
+        "headline": "恒生指數收市跌1.03%報23508點",
+        "dek": "大市周二收市跌245點，科技股持續受壓，主板成交額約1981億元。"
+      }
+    },
     {
       "id": "2026-11-17-hko-cooler-weather-friday",
       "published_at": "2026-11-17T16:31:00+08:00",
@@ -1597,50 +1619,6 @@
       "zh": {
         "headline": "運輸署呼籲提防偽冒豐田安全氣袋召回信息",
         "dek": "署方表示不會以信件通知個別車主召回事宜，並已將有關偽冒WhatsApp信息轉交警方跟進。"
-      }
-    },
-    {
-      "id": "2026-11-14-electronic-proxy-voting-trial",
-      "published_at": "2026-11-14T18:10:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "building-management",
-        "proxy-votes",
-        "alice-mak",
-        "bid-rigging"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-14/2026-11-14-electronic-proxy-voting-trial.json",
-      "en": {
-        "headline": "Government to trial electronic proxy voting for estate meetings next year",
-        "dek": "Alice Mak said the platform would help overcome practical difficulties with a cap on proxy votes after consultation showed mixed views on the proposal."
-      },
-      "zh": {
-        "headline": "政府明年底前試行電子授權票平台 助克服上限操作困難",
-        "dek": "民政及青年事務局局長麥美娟表示，公眾諮詢顯示授權票設上限有實際困難，將透過電子平台先導計劃解決，並加強核實機制。"
-      }
-    },
-    {
-      "id": "2026-11-14-organ-donation-register-425000",
-      "published_at": "2026-11-14T18:10:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "organ-donation",
-        "health-bureau",
-        "lo-chung-mau",
-        "public-health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-14/2026-11-14-organ-donation-register-425000.json",
-      "en": {
-        "headline": "Organ donation register reaches record 425000 but more than 2000 still waiting",
-        "dek": "Secretary for Health Lo Chung-mau said the figure is under 6 per cent of the population and urged more residents to register as over 2000 patients await transplants."
-      },
-      "zh": {
-        "headline": "中央器官捐贈名冊破42.5萬人創新高 仍有逾2000人等候",
-        "dek": "醫務衞生局局長盧寵茂表示，登記人數不足全港人口百分之六，籲更多市民登記，目前仍有逾2000名病人等候合適器官。"
       }
     }
   ]
