@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-18T00:21:25+08:00",
+  "generated_at": "2026-11-18T02:03:45+08:00",
   "live_window_hours": 72,
-  "count": 73,
+  "count": 74,
   "articles": [
+    {
+      "id": "2026-11-18-lifestyle-bigbang-cosmos-exhibition",
+      "published_at": "2026-11-18T02:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "kowloon-tong",
+        "k-pop",
+        "festival-walk"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-18/2026-11-18-lifestyle-bigbang-cosmos-exhibition.json",
+      "en": {
+        "headline": "BIGBANG 20th anniversary media exhibition opens at Festival Walk today",
+        "dek": "The COSMOS show runs from 18 November to 27 December at the Kowloon Tong mall, with themed zones, holograms and official merchandise."
+      },
+      "zh": {
+        "headline": "BIGBANG二十周年媒體展《COSMOS》今日於又一城開幕",
+        "dek": "展覽由11月18日至12月27日在九龍塘又一城舉行，設主題展區、全息投影及官方周邊。"
+      }
+    },
     {
       "id": "2026-11-18-lifestyle-neomu-neomu-korean-popup",
       "published_at": "2026-11-18T00:20:00+08:00",
