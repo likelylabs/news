@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-17T23:04:05+08:00",
+  "generated_at": "2026-11-18T00:21:25+08:00",
   "live_window_hours": 72,
-  "count": 75,
+  "count": 73,
   "articles": [
+    {
+      "id": "2026-11-18-lifestyle-neomu-neomu-korean-popup",
+      "published_at": "2026-11-18T00:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "pop-up",
+        "lai-chi-kok",
+        "korean",
+        "illustration"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-18/2026-11-18-lifestyle-neomu-neomu-korean-popup.json",
+      "en": {
+        "headline": "Korean illustration pop-up continues at D2 Place in Lai Chi Kok",
+        "dek": "Eight Korean brands, several making their Hong Kong debut, sell plush toys, charms and stationery at the store until 22 November."
+      },
+      "zh": {
+        "headline": "韓國插畫品牌期間限定店續於荔枝角D2 Place開放",
+        "dek": "八個韓國品牌（部分為香港首度登場）於荔枝角D2 Place售賣毛公仔、掛飾及文具，至11月22日止。"
+      }
+    },
     {
       "id": "2026-11-17-abby-choi-trial-kwong-testimony",
       "published_at": "2026-11-17T23:05:00+08:00",
@@ -1616,73 +1639,6 @@
       "zh": {
         "headline": "渣打藝趣嘉年華壓軸巡遊今午銅鑼灣登場 十座四米童話木偶領軍",
         "dek": "香港青年藝術協會主辦的免費戶外嘉年華在維園繼續舉行，下午2時30分約500人隊伍由十座巨型木偶帶領出發。"
-      }
-    },
-    {
-      "id": "2026-11-15-kwai-chung-minibus-driver-collapse",
-      "published_at": "2026-11-15T00:03:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "accident",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-15/2026-11-15-kwai-chung-minibus-driver-collapse.json",
-      "en": {
-        "headline": "Minibus driver dies after collapsing while boarding passengers in Kwai Chung",
-        "dek": "Police said a man in his 70s was found unconscious on a green minibus at Shek Yam Road around 5:54pm on Saturday and was certified dead at Yan Chai Hospital later that evening."
-      },
-      "zh": {
-        "headline": "葵涌綠Van司機上客期間暈倒 送院搶救後不治",
-        "dek": "警方表示，周六傍晚約5時54分，一名年約七旬男司機在石蔭路小巴站上客時被發現昏迷，送仁濟醫院後於晚上7時49分證實死亡。"
-      }
-    },
-    {
-      "id": "2026-11-15-lifestyle-ich-wonder-play-fun-day",
-      "published_at": "2026-11-15T00:03:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "heritage",
-        "museum",
-        "tsuen-wan",
-        "event"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-15/2026-11-15-lifestyle-ich-wonder-play-fun-day.json",
-      "en": {
-        "headline": "Intangible Cultural Heritage Centre hosts free ICH Wonder Play fun day today",
-        "dek": "The Leisure and Cultural Services Department’s Intangible Cultural Heritage Office is running performances, workshops and interactive games at Sam Tung Uk Museum in Tsuen Wan from 11am to 6pm."
-      },
-      "zh": {
-        "headline": "三棟屋非遺中心今辦「非遺童遊」同樂日 免費入場",
-        "dek": "康文署非物質文化遺產辦事處在荃灣三棟屋博物館舉辦，上午11時至下午6時設有廣東音樂、木偶戲表演及多項工作坊和互動遊戲。"
-      }
-    },
-    {
-      "id": "2026-11-15-police-ai-facial-recognition-smartview",
-      "published_at": "2026-11-15T00:03:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "police",
-        "smartview",
-        "facial-recognition",
-        "surveillance",
-        "technology"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-15/2026-11-15-police-ai-facial-recognition-smartview.json",
-      "en": {
-        "headline": "Police to activate AI facial recognition on SmartView network from Monday",
-        "dek": "Commissioner Joe Chow said the system would help identify people even if they wore masks, serving as protection for law-abiding residents and a deterrent against crime."
-      },
-      "zh": {
-        "headline": "警方周一在銳眼監控網絡啟用人工智能人臉識別",
-        "dek": "警務處處長周一鳴表示，技術即使有人戴口罩亦可協助識別，旨在保障守法市民並對犯罪起阻嚇作用。"
       }
     }
   ]
