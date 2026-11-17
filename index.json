@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-11-17T18:10:42+08:00",
+  "generated_at": "2026-11-17T20:34:35+08:00",
   "live_window_hours": 72,
-  "count": 72,
+  "count": 74,
   "articles": [
+    {
+      "id": "2026-11-17-cuhk-medical-ovaries-removed",
+      "published_at": "2026-11-17T20:45:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "hospital",
+        "cuhk",
+        "sentinel-event"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-17/2026-11-17-cuhk-medical-ovaries-removed.json",
+      "en": {
+        "headline": "CUHK Medical Centre apologises after patient's ovaries removed by mistake",
+        "dek": "A 45-year-old woman had both ovaries taken out during a planned laparoscopic hysterectomy in September; the Department of Health listed it as a sentinel event."
+      },
+      "zh": {
+        "headline": "中大醫院誤切除病人卵巢 院方致歉",
+        "dek": "45歲女病人在計劃切除子宮及輸卵管的微創手術中卵巢被誤切，衞生署將事件列為嚴重醫療事故。"
+      }
+    },
+    {
+      "id": "2026-11-17-ipark1-fire-probe",
+      "published_at": "2026-11-17T20:45:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "environment",
+        "shek-kwu-chau",
+        "epd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-17/2026-11-17-ipark1-fire-probe.json",
+      "en": {
+        "headline": "Fire Services links Shek Kwu Chau incinerator blaze to smoking or welding",
+        "dek": "Investigators ruled out electrical faults, arson and spontaneous combustion after the October 26 No. 3 alarm at I.PARK1; the Environment Protection Department ordered tighter controls."
+      },
+      "zh": {
+        "headline": "消防指石鼓洲焚化廠火警或涉燒焊或吸煙",
+        "dek": "調查排除電力故障、縱火及化學自燃，環保署已責成承建商加強熱工序管理及收緊禁煙措施。"
+      }
+    },
+    {
+      "id": "2026-11-17-luxury-consignment-shops-closed",
+      "published_at": "2026-11-17T20:45:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "causeway-bay",
+        "consignment"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-17/2026-11-17-luxury-consignment-shops-closed.json",
+      "en": {
+        "headline": "Police receive 43 reports after two luxury consignment shops close",
+        "dek": "Officers are investigating alleged unpaid consignment proceeds involving about HK$16.6 million after shops in Causeway Bay and Admiralty ceased operations."
+      },
+      "zh": {
+        "headline": "兩間二手名牌寄賣店結業 警方接獲43人報案",
+        "dek": "涉及銅鑼灣及金鐘店舖，懷疑拖欠寄賣款項約1660萬元，重案組跟進。"
+      }
+    },
+    {
+      "id": "2026-11-17-unemployment-rate-3-8",
+      "published_at": "2026-11-17T20:45:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "labour",
+        "unemployment",
+        "census"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-17/2026-11-17-unemployment-rate-3-8.json",
+      "en": {
+        "headline": "Unemployment rate falls to 3.8 percent in August-October period",
+        "dek": "The seasonally adjusted jobless rate edged down 0.1 points while underemployment held at 2 percent, with total employment at 3.65 million."
+      },
+      "zh": {
+        "headline": "8至10月失業率回落至3.8%",
+        "dek": "經季節性調整失業率微跌0.1個百分點，就業不足率維持2%，總就業人數約365萬。"
+      }
+    },
     {
       "id": "2026-11-17-hang-seng-closes-lower",
       "published_at": "2026-11-17T18:10:00+08:00",
@@ -1573,52 +1661,6 @@
       "zh": {
         "headline": "港鐵警告北環線土地撥備下仍面臨現金流壓力",
         "dek": "行政總裁楊美珍表示，鐵路加物業模式回報周期較長，即使八幅新地皮收益預計可覆蓋北環線建設及資產更新。"
-      }
-    },
-    {
-      "id": "2026-11-14-disneyland-qr-codes-stolen",
-      "published_at": "2026-11-14T20:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "disneyland",
-        "cybercrime",
-        "police",
-        "tickets",
-        "lantau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-14/2026-11-14-disneyland-qr-codes-stolen.json",
-      "en": {
-        "headline": "Hong Kong Disneyland reports theft of 17000 ticket QR codes and suspends online sales",
-        "dek": "Police are investigating the case as access to a computer with criminal or dishonest intent after an IT worker found anomalies in the system."
-      },
-      "zh": {
-        "headline": "香港迪士尼樂園報告1.7萬個門票二維碼被盜 暫停網上售票",
-        "dek": "警方正以有犯罪或不誠實意圖而取用電腦調查，一名資訊科技人員發現系統異常後揭發事件。"
-      }
-    },
-    {
-      "id": "2026-11-14-fake-toyota-airbag-recall-messages",
-      "published_at": "2026-11-14T20:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "scam",
-        "transport-department",
-        "toyota",
-        "whatsapp",
-        "airbag"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-14/2026-11-14-fake-toyota-airbag-recall-messages.json",
-      "en": {
-        "headline": "Transport Department warns public of fake Toyota airbag recall messages",
-        "dek": "Officials said the department does not send individual recall letters to owners and has referred the fraudulent WhatsApp notices to police."
-      },
-      "zh": {
-        "headline": "運輸署呼籲提防偽冒豐田安全氣袋召回信息",
-        "dek": "署方表示不會以信件通知個別車主召回事宜，並已將有關偽冒WhatsApp信息轉交警方跟進。"
       }
     }
   ]
