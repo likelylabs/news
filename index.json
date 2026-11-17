@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-17T14:28:44+08:00",
+  "generated_at": "2026-11-17T16:33:05+08:00",
   "live_window_hours": 72,
-  "count": 74,
+  "count": 73,
   "articles": [
+    {
+      "id": "2026-11-17-hko-cooler-weather-friday",
+      "published_at": "2026-11-17T16:31:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "cold-front",
+        "temperature"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-17/2026-11-17-hko-cooler-weather-friday.json",
+      "en": {
+        "headline": "Observatory expects temperatures to fall to 15 degrees by Friday",
+        "dek": "A cold front will cross southern China from Wednesday, bringing northerly winds and cooler conditions, with urban lows of 15 to 16 degrees on Friday and Saturday."
+      },
+      "zh": {
+        "headline": "天文台料周五最低氣溫跌至15度",
+        "dek": "冷鋒周三稍後橫過華南沿岸，北風增強，周五及周六市區最低約15至16度，新界相當清涼。"
+      }
+    },
+    {
+      "id": "2026-11-17-kai-tin-estate-unit-fire",
+      "published_at": "2026-11-17T16:31:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "lam-tin",
+        "kai-tin",
+        "housing",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-17/2026-11-17-kai-tin-estate-unit-fire.json",
+      "en": {
+        "headline": "Fire at Lam Tin public housing flat injures residents and forces evacuation",
+        "dek": "Blaze at Kai Wong House in Kai Tin Estate started around 1:43pm; firefighters brought it under control in about 20 minutes with preliminary signs of an electrical fault."
+      },
+      "zh": {
+        "headline": "藍田啟田邨啟旺樓單位火警 居民疏散有人受傷",
+        "dek": "事發於下午約1時43分，消防員約20分鐘內將火救熄，初步懷疑電路故障或電源排插短路引起。"
+      }
+    },
     {
       "id": "2026-11-17-hang-seng-midday-lower",
       "published_at": "2026-11-17T14:30:00+08:00",
@@ -1596,72 +1641,6 @@
       "zh": {
         "headline": "中央器官捐贈名冊破42.5萬人創新高 仍有逾2000人等候",
         "dek": "醫務衞生局局長盧寵茂表示，登記人數不足全港人口百分之六，籲更多市民登記，目前仍有逾2000名病人等候合適器官。"
-      }
-    },
-    {
-      "id": "2026-11-14-kwun-tong-van-hits-elderly-woman",
-      "published_at": "2026-11-14T16:25:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "kwun-tong",
-        "accident",
-        "police",
-        "ngau-tau-kok"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-14/2026-11-14-kwun-tong-van-hits-elderly-woman.json",
-      "en": {
-        "headline": "Driver arrested after van hits elderly woman at Ngau Tau Kok junction",
-        "dek": "Police said an 82-year-old woman was knocked down by a van at the Tung Ming Street and Ngau Tau Kok Road junction around noon and taken unconscious to Queen Elizabeth Hospital."
-      },
-      "zh": {
-        "headline": "牛頭角客貨車撞倒八旬婦 司機涉危駕被捕",
-        "dek": "警方表示，周六中午約12時，一輛客貨車在通明街與牛頭角道交界撞倒82歲凌姓老婦，傷者昏迷送伊利沙伯醫院，40歲司機涉危險駕駛被捕。"
-      }
-    },
-    {
-      "id": "2026-11-14-mtr-tung-chung-west-columns-ceo",
-      "published_at": "2026-11-14T16:25:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "tung-chung",
-        "construction",
-        "infrastructure"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-14/2026-11-14-mtr-tung-chung-west-columns-ceo.json",
-      "en": {
-        "headline": "MTR chief says contractor performance on Tung Chung West columns is unacceptable",
-        "dek": "Jacob Kam said the company is following up seriously with the contractor on the unfinished concrete columns and that the target opening time remains unchanged for now."
-      },
-      "zh": {
-        "headline": "楊美珍指東涌西站柱問題不可接受 開通目標暫不變",
-        "dek": "港鐵行政總裁楊美珍表示，已嚴肅跟進承辦商就30多條混凝土柱未到頂的問題，當務之急是盡快查明原因及完成修復，目標開通時間暫時不變。"
-      }
-    },
-    {
-      "id": "2026-11-14-tuen-mun-fake-plate-car-hits-police",
-      "published_at": "2026-11-14T16:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "tuen-mun",
-        "police",
-        "traffic",
-        "fake-plate"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-14/2026-11-14-tuen-mun-fake-plate-car-hits-police.json",
-      "en": {
-        "headline": "Man flees after private car with mismatched registration hits police vehicle in Tuen Mun",
-        "dek": "Police said officers stopped a private car in Shun Fung Wai early Saturday that then collided with a police vehicle and drove off; the registration did not match records."
-      },
-      "zh": {
-        "headline": "屯門假牌私家車撞警車後逃逸 警追緝男司機",
-        "dek": "警方表示，周六凌晨約1時2分在屯門順風圍截查一輛私家車時，男司機駕車撞向警車後逃去，車輛登記資料與行車證不符。"
       }
     }
   ]

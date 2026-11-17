@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "global-financial-leaders-summit-nov3",
-      "id": "2026-11-03-global-financial-leaders-summit",
-      "first_seen": "2026-11-03T16:25:00+08:00",
-      "headline_en": "He Lifeng and John Lee address Global Financial Leaders’ Investment Summit"
-    },
-    {
-      "key": "lifestyle-charlie-chocolate-factory-hk",
-      "id": "2026-11-03-lifestyle-charlie-chocolate-factory",
-      "first_seen": "2026-11-03T16:25:00+08:00",
-      "headline_en": "Broadway musical Charlie and the Chocolate Factory opens in Hong Kong tomorrow"
-    },
-    {
       "key": "airport-single-checkin-hangzhou-wuhan-nov3",
       "id": "2026-11-03-airport-single-checkin-hangzhou-wuhan",
       "first_seen": "2026-11-03T18:10:00+08:00",
@@ -2225,7 +2213,19 @@
       "id": "2026-11-17-tuen-mun-missing-man-chow",
       "first_seen": "2026-11-17T14:30:00+08:00",
       "headline_en": "Police appeal for information on 77-year-old man missing in Tuen Mun"
+    },
+    {
+      "key": "hko-cooler-weekend-forecast-nov20-21",
+      "id": "2026-11-17-hko-cooler-weather-friday",
+      "first_seen": "2026-11-17T16:31:00+08:00",
+      "headline_en": "Observatory expects temperatures to fall to 15 degrees by Friday"
+    },
+    {
+      "key": "kai-tin-estate-kai-wong-house-fire-nov17",
+      "id": "2026-11-17-kai-tin-estate-unit-fire",
+      "first_seen": "2026-11-17T16:31:00+08:00",
+      "headline_en": "Fire at Lam Tin public housing flat injures residents and forces evacuation"
     }
   ],
-  "updated_at": "2026-11-17T14:28:44+08:00"
+  "updated_at": "2026-11-17T16:33:04+08:00"
 }
