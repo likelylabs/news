@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-18T14:19:37+08:00",
+  "generated_at": "2026-11-18T16:31:32+08:00",
   "live_window_hours": 72,
-  "count": 73,
+  "count": 74,
   "articles": [
+    {
+      "id": "2026-11-18-hailey-cheng-doxxing-charged",
+      "published_at": "2026-11-18T16:30:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "court",
+        "police",
+        "doxxing",
+        "privacy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-18/2026-11-18-hailey-cheng-doxxing-charged.json",
+      "en": {
+        "headline": "Police charge Hailey Cheng with four doxxing offences in MediSafe case",
+        "dek": "Officers charged the whistle-blower this morning with four counts of disclosing personal data without consent causing specified harm; the case goes to Eastern Magistrates’ Court this afternoon."
+      },
+      "zh": {
+        "headline": "藥倍安心風波吹哨者鄭曦琳涉起底罪被控四罪 今午東區裁判法院提堂",
+        "dek": "警方周三上午落案起訴鄭曦琳四項「未獲資料當事人同意下披露其個人資料而該披露造成指明傷害」罪，案件今午在東區裁判法院提堂。"
+      }
+    },
+    {
+      "id": "2026-11-18-hk-vietnam-moc-disputes",
+      "published_at": "2026-11-18T16:30:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "justice",
+        "vietnam",
+        "international-law",
+        "doj"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-18/2026-11-18-hk-vietnam-moc-disputes.json",
+      "en": {
+        "headline": "Hong Kong and Vietnam sign memorandum on international dispute resolution",
+        "dek": "Secretary for Justice Paul Lam and Vietnam’s Deputy Minister of Foreign Affairs Le Anh Tuan signed the pact on Wednesday to strengthen capacity-building on economic, commercial and investment disputes."
+      },
+      "zh": {
+        "headline": "港越簽署合作備忘錄 加強國際爭議解決能力建設",
+        "dek": "律政司司長林定國與越南外交部副部長黎英俊周三簽署備忘錄，框架涵蓋經濟、商業及投資領域的法律人員能力建設。"
+      }
+    },
+    {
+      "id": "2026-11-18-lei-yue-mun-toilet-gold",
+      "published_at": "2026-11-18T16:30:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "public-toilet",
+        "lei-yue-mun",
+        "awards",
+        "fehd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-18/2026-11-18-lei-yue-mun-toilet-gold.json",
+      "en": {
+        "headline": "Lei Yue Mun public toilet wins gold in 2026 Best Public Toilet Awards",
+        "dek": "The Hong Kong Toilet Association named the rebuilt Ling Nam Sun Tsuen facility in Kwun Tong the top toilet, citing its modern design and smart monitoring systems ahead of World Toilet Day."
+      },
+      "zh": {
+        "headline": "鯉魚門嶺南新村公廁奪得2026最佳公廁金獎",
+        "dek": "香港廁所協會周三公布結果，觀塘鯉魚門重建公廁憑現代設計及智慧監測系統獲金，適逢世界廁所日。"
+      }
+    },
     {
       "id": "2026-11-18-citi-hk-multimillionaires-2026",
       "published_at": "2026-11-18T14:20:00+08:00",
@@ -1596,51 +1665,6 @@
       "zh": {
         "headline": "牛頭角下邨女住戶報稱單位失約81萬元金器現金",
         "dek": "警方列作盜竊案處理，41歲姓賴住戶指約值50萬元金器及31萬元現金不翼而飛。"
-      }
-    },
-    {
-      "id": "2026-11-15-victoria-harbour-swim-135-injured",
-      "published_at": "2026-11-15T16:30:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "victoria-harbour",
-        "swim",
-        "injuries"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-15/2026-11-15-victoria-harbour-swim-135-injured.json",
-      "en": {
-        "headline": "About 135 swimmers treated for light injuries after Victoria Harbour Swim",
-        "dek": "Organisers said the injuries were mainly minor abrasions and cramps among roughly 3700 participants, after the final leisure group was cancelled due to strong currents."
-      },
-      "zh": {
-        "headline": "維港泳約135名參加者受輕傷 主要為擦傷及抽筋",
-        "dek": "主辦單位表示，約3700人參與的賽事中，傷者多屬輕微擦傷及抽筋，優悠組最後一組因水流急已取消。"
-      }
-    },
-    {
-      "id": "2026-11-15-wan-chai-taxi-britons-injured",
-      "published_at": "2026-11-15T16:30:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "taxi",
-        "wan-chai",
-        "accident",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-15/2026-11-15-wan-chai-taxi-britons-injured.json",
-      "en": {
-        "headline": "Police arrest taxi driver after two Britons suffer head injuries in Wan Chai",
-        "dek": "A 65-year-old man and a 58-year-old woman were struck while crossing Hennessy Road early Sunday; the driver faces a dangerous driving allegation."
-      },
-      "zh": {
-        "headline": "灣仔的士撞傷兩名英籍遊客 司機涉危險駕駛被捕",
-        "dek": "一名65歲男子及58歲女子凌晨在軒尼詩道過路時被撞，頭部受傷送院，的士司機被警方拘捕。"
       }
     }
   ]
