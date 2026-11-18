@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-18T16:31:32+08:00",
+  "generated_at": "2026-11-18T18:15:51+08:00",
   "live_window_hours": 72,
-  "count": 74,
+  "count": 75,
   "articles": [
+    {
+      "id": "2026-11-18-abby-choi-kwong-kau-responsibility",
+      "published_at": "2026-11-18T18:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "court",
+        "abby-choi",
+        "murder",
+        "trial"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-18/2026-11-18-abby-choi-kwong-kau-responsibility.json",
+      "en": {
+        "headline": "Kwong Kau tells High Court he alone dismembered Abby Choi's body",
+        "dek": "The former father-in-law of the slain socialite said he takes full responsibility for disposing of her remains and denied pressuring his elder son to match his evidence."
+      },
+      "zh": {
+        "headline": "鄔球高院稱獨自肢解蔡天鳳遺體並負全責",
+        "dek": "蔡天鳳前家翁指事發後決定獨自處理遺體，否認兩名兒子參與，亦否認施壓長子作供配合。"
+      }
+    },
+    {
+      "id": "2026-11-18-lifestyle-kai-tak-water-sports-opening",
+      "published_at": "2026-11-18T18:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "kai-tak",
+        "sport",
+        "water-sports",
+        "jockey-club"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-18/2026-11-18-lifestyle-kai-tak-water-sports-opening.json",
+      "en": {
+        "headline": "Jockey Club Kai Tak Water Sports Centre holds grand opening ceremony",
+        "dek": "The revitalised former fire station facility in Kai Tak hosted athletes and officials on Wednesday, with a parade showcasing dragon boating, rowing and kayaking."
+      },
+      "zh": {
+        "headline": "賽馬會啟德水上運動中心舉行開幕典禮",
+        "dek": "由舊啟德消防局活化而成的中心周三舉行開幕典禮，亞運獎牌得主出席，並有共融巡遊展示龍舟及賽艇。"
+      }
+    },
+    {
+      "id": "2026-11-18-pickleball-investment-scam-6m",
+      "published_at": "2026-11-18T18:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "scam",
+        "investment",
+        "pickleball"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-18/2026-11-18-pickleball-investment-scam-6m.json",
+      "en": {
+        "headline": "Retired executive loses over HK$6 million in pickleball group investment scam",
+        "dek": "Police said a former telecommunications senior manager was contacted via a sports platform pickleball group and transferred funds to a fake investment site for crypto and oil."
+      },
+      "zh": {
+        "headline": "退休電訊高層墮匹克球群組投資騙局損失逾600萬元",
+        "dek": "警方指事主在運動平台匹克球群組被私訊搭詔，誤信高回報加密貨幣及原油投資後轉賬至假網站，最終無法提款。"
+      }
+    },
     {
       "id": "2026-11-18-hailey-cheng-doxxing-charged",
       "published_at": "2026-11-18T16:30:00+08:00",
@@ -1619,52 +1688,6 @@
       "zh": {
         "headline": "新世界發展建議「1供11」供股 集資約249億元",
         "dek": "每股供股價0.9元，由周大福企業、匯豐及星展包銷，所得款項用於再融資及償債，股份周一復牌。"
-      }
-    },
-    {
-      "id": "2026-11-15-hzmb-half-marathon-platinum",
-      "published_at": "2026-11-15T18:15:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "hzmb",
-        "marathon",
-        "running",
-        "platinum-label"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-15/2026-11-15-hzmb-half-marathon-platinum.json",
-      "en": {
-        "headline": "Thousands join Hong Kong-Zhuhai-Macao Bridge half marathon with Platinum Label status",
-        "dek": "The event on Sunday drew a record number of runners and featured a new 10km category, with Ethiopian athletes taking the overall titles."
-      },
-      "zh": {
-        "headline": "港珠澳大橋半馬吸引數千跑手 賽事獲白金標籤認證",
-        "dek": "周日舉行的港珠澳大橋（香港段）半馬拉松錄得破紀錄參加人數，並新增十公里組別，埃塞俄比亞選手奪得總冠軍。"
-      }
-    },
-    {
-      "id": "2026-11-15-ngau-tau-kok-estate-theft-810k",
-      "published_at": "2026-11-15T18:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "crime",
-        "theft",
-        "ngau-tau-kok",
-        "estate"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-15/2026-11-15-ngau-tau-kok-estate-theft-810k.json",
-      "en": {
-        "headline": "Woman reports HK$810,000 in gold and cash stolen from Ngau Tau Kok estate flat",
-        "dek": "Police are treating the case as theft after a 41-year-old resident said jewellery worth about HK$500,000 and HK$310,000 in cash had gone missing."
-      },
-      "zh": {
-        "headline": "牛頭角下邨女住戶報稱單位失約81萬元金器現金",
-        "dek": "警方列作盜竊案處理，41歲姓賴住戶指約值50萬元金器及31萬元現金不翼而飛。"
       }
     }
   ]
