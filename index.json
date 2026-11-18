@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-18T08:06:39+08:00",
+  "generated_at": "2026-11-18T10:18:55+08:00",
   "live_window_hours": 72,
-  "count": 74,
+  "count": 75,
   "articles": [
+    {
+      "id": "2026-11-18-airport-authority-new-world-option",
+      "published_at": "2026-11-18T10:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "airport",
+        "new-world",
+        "property"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-18/2026-11-18-airport-authority-new-world-option.json",
+      "en": {
+        "headline": "Airport Authority option on New World shares faces dilution risk from rights issue",
+        "dek": "Analysts say the authority’s right to buy 750 million shares at HK$3 each, granted in the 11 Skies handover, could lose value after New World’s heavily discounted capital raising."
+      },
+      "zh": {
+        "headline": "機管局認購新世界期權或因供股而攤薄",
+        "dek": "分析指機管局以每股3元購入7.5億股的期權，可能因新世界大幅折讓供股而價值受影響，當局未確認有否反攤薄條款。"
+      }
+    },
     {
       "id": "2026-11-18-eac-crisis-management-elections",
       "published_at": "2026-11-18T08:10:00+08:00",
