@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-11-19T00:33:18+08:00",
+  "generated_at": "2026-11-19T02:06:16+08:00",
   "live_window_hours": 72,
-  "count": 73,
+  "count": 74,
   "articles": [
+    {
+      "id": "2026-11-19-baltic-pipeline-captain-charge-dropped",
+      "published_at": "2026-11-19T02:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "court",
+        "maritime",
+        "pipeline",
+        "shipping"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-19/2026-11-19-baltic-pipeline-captain-charge-dropped.json",
+      "en": {
+        "headline": "Hong Kong drops criminal damage charge against ship captain over Baltic pipeline",
+        "dek": "Prosecutors withdrew the case against Wan Wenguo after failing to contact mainland witnesses; he pleaded guilty to lesser offences and is expected to leave for the mainland."
+      },
+      "zh": {
+        "headline": "港方撤銷船長破壞波羅的海管道刑事控罪",
+        "dek": "控方因未能聯絡內地證人而撤銷針對萬文國的刑事毀壞控罪，他承認較輕微罪行後預計返回內地。"
+      }
+    },
+    {
+      "id": "2026-11-19-lifestyle-pingu-lcx-christmas",
+      "published_at": "2026-11-19T02:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "pingu",
+        "tsim-sha-tsui",
+        "christmas",
+        "lcx"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-19/2026-11-19-lifestyle-pingu-lcx-christmas.json",
+      "en": {
+        "headline": "Pingu Christmas ice village opens at Tsim Sha Tsui LCX today",
+        "dek": "The free NOOT NOOT festive installation runs until 3 January at Harbour City's Ocean Terminal third floor, with five photo spots and a limited shop."
+      },
+      "zh": {
+        "headline": "Pingu聖誕冰FUN小鎮今日登陸尖沙咀LCX",
+        "dek": "免費NOOT NOOT節慶裝置於海港城海運大廈三階展出至1月3日，設五大打卡位及限定店。"
+      }
+    },
+    {
+      "id": "2026-11-19-student-mortgage-scam-arrest",
+      "published_at": "2026-11-19T02:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "scam",
+        "mortgage",
+        "student"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-19/2026-11-19-student-mortgage-scam-arrest.json",
+      "en": {
+        "headline": "Police charge 19-year-old student over four mortgage scams totaling HK$3.4 million",
+        "dek": "Yau Tsim officers said the university student posed as a law firm employee, was recruited via Threads for HK$750 per job, and will appear at Kowloon City Magistrates' Courts today."
+      },
+      "zh": {
+        "headline": "警方起訴19歲大學生涉四宗按揭騙局共約340萬元",
+        "dek": "油尖警區指該名男學生假扮律師樓職員，透過Threads被招攬每次獲750元報酬，今日在九龍城裁判法院提堂。"
+      }
+    },
     {
       "id": "2026-11-19-ce-office-vehicle-wan-chai-pedestrian",
       "published_at": "2026-11-19T00:35:00+08:00",
@@ -1596,52 +1666,6 @@
       "zh": {
         "headline": "荃灣荃德花園電錶房總掣疑故障 五座大堂及升降機停電",
         "dek": "警方指周日晚上約30名住戶因升降機停運自行下樓，無人受傷，中電證實其供電設備及供電正常。"
-      }
-    },
-    {
-      "id": "2026-11-16-lifestyle-bodw-2026",
-      "published_at": "2026-11-16T02:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "design",
-        "bodw",
-        "events",
-        "hong-kong-design-centre"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-16/2026-11-16-lifestyle-bodw-2026.json",
-      "en": {
-        "headline": "Business of Design Week opens with Switzerland as partner country",
-        "dek": "The Hong Kong Design Centre’s annual event runs from 16 to 21 November under the theme Design in Dialogue, with the summit at HKCEC from 18 to 20 November."
-      },
-      "zh": {
-        "headline": "設計營商周展開 瑞士首次出任伙伴國家",
-        "dek": "香港設計中心主辦的年度盛事由16日至21日舉行，主題為「設計共話：從連繫到蛻變」，峰會18至20日在會展中心進行。"
-      }
-    },
-    {
-      "id": "2026-11-16-lifestyle-tai-kwun-clementi-talk",
-      "published_at": "2026-11-16T02:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "tai-kwun",
-        "history",
-        "talk",
-        "central"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-16/2026-11-16-lifestyle-tai-kwun-clementi-talk.json",
-      "en": {
-        "headline": "Tai Kwun hosts talk on Sir Cecil Clementi and modern Hong Kong",
-        "dek": "Historian Graham Hutchings discusses his new biography of the former governor at JC Cube this evening, with free admission requiring prior registration."
-      },
-      "zh": {
-        "headline": "大館今晚舉行金文泰講座 探討其與現代香港形成",
-        "dek": "何傑明教授介紹其新著的前港督傳記，賽馬會立方晚上舉行，免費入場須預先登記。"
       }
     }
   ]
