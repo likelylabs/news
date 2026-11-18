@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-18T10:18:55+08:00",
+  "generated_at": "2026-11-18T10:19:14+08:00",
   "live_window_hours": 72,
-  "count": 75,
+  "count": 76,
   "articles": [
     {
       "id": "2026-11-18-airport-authority-new-world-option",
@@ -23,6 +23,29 @@
       "zh": {
         "headline": "機管局認購新世界期權或因供股而攤薄",
         "dek": "分析指機管局以每股3元購入7.5億股的期權，可能因新世界大幅折讓供股而價值受影響，當局未確認有否反攤薄條款。"
+      }
+    },
+    {
+      "id": "2026-11-18-lifestyle-happy-wednesday-music-dine",
+      "published_at": "2026-11-18T10:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "happy-valley",
+        "racing",
+        "music",
+        "food"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-18/2026-11-18-lifestyle-happy-wednesday-music-dine.json",
+      "en": {
+        "headline": "Happy Wednesday Music and Dine Festival returns to Happy Valley tonight",
+        "dek": "The Hong Kong Jockey Club’s themed race night at Happy Valley Racecourse features live music by PENTHAÜS, food and drinks in the Beer Garden from 6pm."
+      },
+      "zh": {
+        "headline": "樂嚐星期三今晚重返跑馬地 啤酒園有現場音樂",
+        "dek": "香港賽馬會跑馬地馬場主題賽馬夜今晚6時起舉行，啤酒園有PENTHAÜS現場演出及美食飲品。"
       }
     },
     {
