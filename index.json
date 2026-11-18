@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-18T20:35:11+08:00",
+  "generated_at": "2026-11-19T00:33:18+08:00",
   "live_window_hours": 72,
-  "count": 76,
+  "count": 73,
   "articles": [
+    {
+      "id": "2026-11-19-ce-office-vehicle-wan-chai-pedestrian",
+      "published_at": "2026-11-19T00:35:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "wan-chai",
+        "accident",
+        "chief-executive"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-19/2026-11-19-ce-office-vehicle-wan-chai-pedestrian.json",
+      "en": {
+        "headline": "CE office vehicle strikes pedestrian in Wan Chai, woman declines hospital",
+        "dek": "The Chief Executive's Office said a vehicle turning from Gloucester Road into Fenwick Street about 5:48pm struck a pedestrian who crossed where no at-grade facility exists; she refused treatment and the case was…"
+      },
+      "zh": {
+        "headline": "特首辦車輛灣仔遇途人衝出馬路 事主拒絕送院",
+        "dek": "行政長官辦公室表示，車輛周三下午約5時48分於灣仔告士打道左轉分域街時，遇到途人在無過路設施路段突然衝出，司機即時煞車報警，事主拒絕送院。"
+      }
+    },
+    {
+      "id": "2026-11-19-lifestyle-symphony-of-lights-final",
+      "published_at": "2026-11-19T00:35:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "tourism",
+        "victoria-harbour",
+        "winterfest",
+        "culture"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-19/2026-11-19-lifestyle-symphony-of-lights-final.json",
+      "en": {
+        "headline": "Symphony of Lights stages final show over Victoria Harbour",
+        "dek": "The 22-year-old nightly spectacle ended Wednesday at 8pm with rooftop pyrotechnics as WinterFest launched with new district light shows."
+      },
+      "zh": {
+        "headline": "幻彩詠香江最後一場潙演添煙火告別維港",
+        "dek": "有二十二年歷史的潙演周三晚上八時上演最後一場，加入屋頂煙火，維多利亞港兩岸超過四十棟大廈配合演出，同時繁紛冬日巡禮啟動。"
+      }
+    },
     {
       "id": "2026-11-18-hang-seng-closes-down-nov18",
       "published_at": "2026-11-18T20:35:00+08:00",
@@ -1597,117 +1642,6 @@
       "zh": {
         "headline": "大館今晚舉行金文泰講座 探討其與現代香港形成",
         "dek": "何傑明教授介紹其新著的前港督傳記，賽馬會立方晚上舉行，免費入場須預先登記。"
-      }
-    },
-    {
-      "id": "2026-11-16-liberal-party-leadership-change",
-      "published_at": "2026-11-16T00:05:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "liberal-party",
-        "shiu-ka-fai",
-        "legco"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-16/2026-11-16-liberal-party-leadership-change.json",
-      "en": {
-        "headline": "Liberal Party re-elects Shiu Ka-fai as chairman and abolishes leader post",
-        "dek": "The party said Shiu continues as chairman while new standing vice-chairmen are named and the previous leader retains a central committee role."
-      },
-      "zh": {
-        "headline": "自由黨換屆取消黨魁一職 邵家輝連任主席",
-        "dek": "黨方表示邵家輝續任主席，並增設常務副主席，原黨魁保留中委職務。"
-      }
-    },
-    {
-      "id": "2026-11-16-lifestyle-hk-maritime-week-2026",
-      "published_at": "2026-11-16T00:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "maritime",
-        "events",
-        "hong-kong-maritime-week"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-16/2026-11-16-lifestyle-hk-maritime-week-2026.json",
-      "en": {
-        "headline": "Hong Kong Maritime Week begins its tenth anniversary programme",
-        "dek": "The week-long event from 15 to 21 November features more than 60 activities by over 80 organisations, with the opening ceremony set for Monday."
-      },
-      "zh": {
-        "headline": "香港海運週十周年展開 一連七日活動吸引逾萬人參與",
-        "dek": "由15至21日舉行，超過80個機構合辦逾60場活動，開幕典禮周一舉行。"
-      }
-    },
-    {
-      "id": "2026-11-16-tai-po-fire-memorial-mass",
-      "published_at": "2026-11-16T00:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "tai-po",
-        "wang-fuk-court",
-        "memorial",
-        "catholic"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-16/2026-11-16-tai-po-fire-memorial-mass.json",
-      "en": {
-        "headline": "Hundreds attend Tai Po church mass marking Wang Fuk Court fire victims",
-        "dek": "The Immaculate Heart of Mary Church held a service on Sunday in memory of lives lost over the year including those from the fire, as the first anniversary approaches."
-      },
-      "zh": {
-        "headline": "大埔聖母無珨之心堂舉行追思彌撒 悼念全年亡者及宏福苑火災死難者",
-        "dek": "周日數百人參與彌撒，紀念全年離世者包括宏福苑火災中的逝者，周年將至。"
-      }
-    },
-    {
-      "id": "2026-11-15-wong-tai-sin-lung-wo-house-fire",
-      "published_at": "2026-11-15T22:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "fire",
-        "wong-tai-sin",
-        "estate"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-15/2026-11-15-wong-tai-sin-lung-wo-house-fire.json",
-      "en": {
-        "headline": "Second fire at Wong Tai Sin estate evening sees about 100 evacuated from Lung Wo House",
-        "dek": "Police said the blaze in a unit was extinguished with no one taken to hospital, and believed it was related to cooking in the kitchen."
-      },
-      "zh": {
-        "headline": "黃大仙下邨龍和樓傍晚火警 約100人一度疏散無人送院",
-        "dek": "警方指單位火警已救熄，初步相信與廚房煮食有關，無人需要送院。"
-      }
-    },
-    {
-      "id": "2026-11-15-xia-baolong-shenzhen-briefing",
-      "published_at": "2026-11-15T22:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "xia-baolong",
-        "shenzhen",
-        "hkmao"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-15/2026-11-15-xia-baolong-shenzhen-briefing.json",
-      "en": {
-        "headline": "Xia Baolong hears briefings on relevant work situations in Shenzhen",
-        "dek": "The Hong Kong and Macao Affairs Office said the director attended the session on Sunday with Xu Qifang present, without disclosing the agenda."
-      },
-      "zh": {
-        "headline": "夏寶龍在深圳聽取有關工作情況匯報",
-        "dek": "港澳辦表示，主任周日在深圳聽取匯報，徐啟方出席，未有公布具體議程。"
       }
     }
   ]

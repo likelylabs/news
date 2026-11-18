@@ -1,24 +1,6 @@
 {
   "covered": [
     {
-      "key": "inland-revenue-carf-crs-bill-passed",
-      "id": "2026-11-04-crypto-reporting-bill-passed",
-      "first_seen": "2026-11-04T22:15:00+08:00",
-      "headline_en": "LegCo passes crypto-asset reporting bill to boost tax transparency"
-    },
-    {
-      "key": "world-class-university-presidents-forum-opens",
-      "id": "2026-11-04-university-presidents-forum-opens",
-      "first_seen": "2026-11-04T22:15:00+08:00",
-      "headline_en": "World Class University Presidents Forum opens at HKUST"
-    },
-    {
-      "key": "youth-olympics-poon-hao-ran-first-gold",
-      "id": "2026-11-04-youth-olympics-poon-gold",
-      "first_seen": "2026-11-04T22:15:00+08:00",
-      "headline_en": "Poon Hao-ran claims Hong Kong's first Youth Olympics gold in wushu"
-    },
-    {
       "key": "lifestyle-hk-wine-spirits-fair-2026",
       "id": "2026-11-05-hk-wine-spirits-fair-opens",
       "first_seen": "2026-11-05T02:15:00+08:00",
@@ -2207,7 +2189,19 @@
       "id": "2026-11-18-parking-meter-operator-indemnity",
       "first_seen": "2026-11-18T20:35:00+08:00",
       "headline_en": "Parking meter operator to pay HK$1.3 million over citywide outage"
+    },
+    {
+      "key": "ce-office-vehicle-pedestrian-wan-chai-nov18",
+      "id": "2026-11-19-ce-office-vehicle-wan-chai-pedestrian",
+      "first_seen": "2026-11-19T00:35:00+08:00",
+      "headline_en": "CE office vehicle strikes pedestrian in Wan Chai, woman declines hospital"
+    },
+    {
+      "key": "lifestyle-symphony-of-lights-final-nov18",
+      "id": "2026-11-19-lifestyle-symphony-of-lights-final",
+      "first_seen": "2026-11-19T00:35:00+08:00",
+      "headline_en": "Symphony of Lights stages final show over Victoria Harbour"
     }
   ],
-  "updated_at": "2026-11-18T20:35:11+08:00"
+  "updated_at": "2026-11-19T00:33:18+08:00"
 }
