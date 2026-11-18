@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-18T12:11:21+08:00",
+  "generated_at": "2026-11-18T14:19:37+08:00",
   "live_window_hours": 72,
-  "count": 77,
+  "count": 73,
   "articles": [
+    {
+      "id": "2026-11-18-citi-hk-multimillionaires-2026",
+      "published_at": "2026-11-18T14:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "wealth",
+        "citibank",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-18/2026-11-18-citi-hk-multimillionaires-2026.json",
+      "en": {
+        "headline": "Hong Kong multimillionaires rise 4 percent to 412000 Citibank report says",
+        "dek": "Citibank said the number of residents with at least HK$10 million in net assets reached 412000 by mid-June, up 4 percent year on year, with a median of HK$20 million."
+      },
+      "zh": {
+        "headline": "花旗報告：本港千萬富翁增至41.2萬人 按年升4%",
+        "dek": "花旗香港調查顯示，截至今年中，本港總資產淨值至少1000萬元的人士約有41.2萬人，較去年增加4%，中位數為2000萬元。"
+      }
+    },
+    {
+      "id": "2026-11-18-ho-ka-chun-upskirt-sentenced",
+      "published_at": "2026-11-18T14:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "court",
+        "police",
+        "lai-king",
+        "mtr"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-18/2026-11-18-ho-ka-chun-upskirt-sentenced.json",
+      "en": {
+        "headline": "Off-duty police officer sentenced to 120 hours community service for upskirt filming",
+        "dek": "Magistrate Raymond Wong at Shatin Magistrates’ Courts ordered the 39-year-old former officer Ho Ka-chun to complete the service after convicting him over the August 2025 incident at Lai King MTR station."
+      },
+      "zh": {
+        "headline": "時任男警港鐵站偷拍裙底罪成 判120小時社會服務令",
+        "dek": "沙田裁判法院裁判官黃國輝周三判處39歲前警員何家俊完成120小時社會服務令，案件涉2025年8月1日荔景港鐵站扶手電梯事件。"
+      }
+    },
     {
       "id": "2026-11-18-cold-front-crossing-hk",
       "published_at": "2026-11-18T12:15:00+08:00",
@@ -1596,139 +1641,6 @@
       "zh": {
         "headline": "灣仔的士撞傷兩名英籍遊客 司機涉危險駕駛被捕",
         "dek": "一名65歲男子及58歲女子凌晨在軒尼詩道過路時被撞，頭部受傷送院，的士司機被警方拘捕。"
-      }
-    },
-    {
-      "id": "2026-11-15-lifestyle-elderly-day-2026",
-      "published_at": "2026-11-15T14:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "elderly",
-        "transport",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-15/2026-11-15-lifestyle-elderly-day-2026.json",
-      "en": {
-        "headline": "Elderly Day offers free public transport and venue discounts for seniors across Hong Kong",
-        "dek": "The annual event on Sunday gives people aged 65 and above free rides on MTR, buses and other services, with additional offers at attractions and shops."
-      },
-      "zh": {
-        "headline": "長者日今日舉行 65歲或以上可免費乘搭港鐵巴士等公共交通",
-        "dek": "年度活動周日展開，多間營辦商提供免費車資，景點及商戶亦有優惠。"
-      }
-    },
-    {
-      "id": "2026-11-15-victoria-harbour-swim-leisure-cancelled",
-      "published_at": "2026-11-15T14:15:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "victoria-harbour",
-        "swim",
-        "safety"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-15/2026-11-15-victoria-harbour-swim-leisure-cancelled.json",
-      "en": {
-        "headline": "Organisers cancel final leisure group of Victoria Harbour Swim over strong currents",
-        "dek": "The Hong Kong China Swimming Association said about 700 swimmers in the last leisure group did not enter the water and would receive refunds."
-      },
-      "zh": {
-        "headline": "維港泳優悠組最後一組因水流太急取消 約700人受影響",
-        "dek": "中國香港游泳總會表示，最後一組優悠組約700名泳手未有落水，將退還報名費。"
-      }
-    },
-    {
-      "id": "2026-11-15-wong-tai-sin-estate-fire-death",
-      "published_at": "2026-11-15T14:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "fire",
-        "wong-tai-sin",
-        "death"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-15/2026-11-15-wong-tai-sin-estate-fire-death.json",
-      "en": {
-        "headline": "Eighty-year-old woman dies in Wong Tai Sin estate fire as firefighters find body in unit",
-        "dek": "Fire Services said the blaze in a low-floor flat at Lung Kwong House was extinguished about 9:16am after reports of smoke and an explosion-like sound."
-      },
-      "zh": {
-        "headline": "黃大仙下邨火警奪命 八旬獨居女子在單位內被發現死亡",
-        "dek": "消防處表示，龍光樓低層單位火警約上午9時16分救熄，起火單位客廳發現一具女屍。"
-      }
-    },
-    {
-      "id": "2026-11-15-workweek-weather-outlook-nov16-20",
-      "published_at": "2026-11-15T14:15:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "outlook",
-        "workweek"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-15/2026-11-15-workweek-weather-outlook-nov16-20.json",
-      "en": {
-        "headline": "Observatory forecasts cooler conditions later in the week after midweek cold front",
-        "dek": "A cold front is expected to cross the southern China coast on Wednesday, bringing appreciably lower temperatures by Thursday and Friday."
-      },
-      "zh": {
-        "headline": "天文台料周中冷鋒過境 周四五明顯轉涼",
-        "dek": "一道冷鋒預料周三橫過華南沿岸，周四及周五氣溫顯著下降，早晚天氣較涼。"
-      }
-    },
-    {
-      "id": "2026-11-15-yuja-wang-programme-statement",
-      "published_at": "2026-11-15T14:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "culture",
-        "concert",
-        "yuja-wang",
-        "music"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-15/2026-11-15-yuja-wang-programme-statement.json",
-      "en": {
-        "headline": "Yuja Wang and Mahler Chamber Orchestra say programme change was notified weeks in advance",
-        "dek": "In a joint statement, the pianist and orchestra said the Hong Kong organiser chose not to inform audiences until the day of the concert."
-      },
-      "zh": {
-        "headline": "王羽佳與馬勒室樂團發表聯合聲明 指節目改動已提前數周通知",
-        "dek": "聲明表示，香港主辦方選擇直至演出當日才向觀眾公布有關改動。"
-      }
-    },
-    {
-      "id": "2026-11-15-airport-runway-painting-robots",
-      "published_at": "2026-11-15T12:14:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "airport",
-        "robots",
-        "aviation",
-        "innovation",
-        "technology"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-15/2026-11-15-airport-runway-painting-robots.json",
-      "en": {
-        "headline": "Hong Kong airport first in world to use robots for runway painting",
-        "dek": "Airport Authority says machines in use since September cut centreline painting from three hours to one and save HK$400,000 a year in paint."
-      },
-      "zh": {
-        "headline": "香港機場全球首用機械人為跑道噴劃標識",
-        "dek": "機管局表示機械人九月起投入使用，中線噴劃由三小時縮至一小時，每年節省油漆開支約四十萬港元。"
       }
     }
   ]
