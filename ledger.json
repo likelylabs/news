@@ -1,24 +1,6 @@
 {
   "covered": [
     {
-      "key": "hang-seng-opens-lower-nov4",
-      "id": "2026-11-04-hang-seng-opens-lower",
-      "first_seen": "2026-11-04T12:10:00+08:00",
-      "headline_en": "Hang Seng Index opens 0.32 percent lower at 23,452"
-    },
-    {
-      "key": "lifestyle-hong-kong-gourmet-month-2026",
-      "id": "2026-11-04-lifestyle-hong-kong-gourmet-month",
-      "first_seen": "2026-11-04T12:10:00+08:00",
-      "headline_en": "Hong Kong Tourism Board launches Gourmet Month with over 400 venues"
-    },
-    {
-      "key": "paul-chan-summit-capital-nov4",
-      "id": "2026-11-04-paul-chan-capital-growth",
-      "first_seen": "2026-11-04T12:10:00+08:00",
-      "headline_en": "Chan says Hong Kong offers businesses growth and long-term capital"
-    },
-    {
       "key": "huanggang-port-restricted-area-management",
       "id": "2026-11-04-huanggang-restricted-management",
       "first_seen": "2026-11-04T14:15:00+08:00",
@@ -2207,7 +2189,19 @@
       "id": "2026-11-18-lifestyle-happy-wednesday-music-dine",
       "first_seen": "2026-11-18T10:20:00+08:00",
       "headline_en": "Happy Wednesday Music and Dine Festival returns to Happy Valley tonight"
+    },
+    {
+      "key": "cold-front-crossing-hk-nov18",
+      "id": "2026-11-18-cold-front-crossing-hk",
+      "first_seen": "2026-11-18T12:15:00+08:00",
+      "headline_en": "Cold front to cross Hong Kong later today, temperatures to fall to 15C"
+    },
+    {
+      "key": "mtr-island-line-signal-fault-nov18",
+      "id": "2026-11-18-mtr-island-line-signal-fault",
+      "first_seen": "2026-11-18T12:15:00+08:00",
+      "headline_en": "MTR Island Line signalling fault causes rush-hour delays near HKU"
     }
   ],
-  "updated_at": "2026-11-18T10:29:21+08:00"
+  "updated_at": "2026-11-18T12:11:21+08:00"
 }
