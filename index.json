@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-19T12:11:28+08:00",
+  "generated_at": "2026-11-19T14:15:46+08:00",
   "live_window_hours": 72,
-  "count": 76,
+  "count": 75,
   "articles": [
+    {
+      "id": "2026-11-19-hang-seng-midday-drop",
+      "published_at": "2026-11-19T14:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "hang-seng",
+        "stocks",
+        "market",
+        "tech"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-19/2026-11-19-hang-seng-midday-drop.json",
+      "en": {
+        "headline": "Hang Seng Index falls 439 points to 22855 at midday below 23000",
+        "dek": "The benchmark dropped 1.89 percent by noon as Tencent and Alibaba led losses among blue chips, with main board turnover near HK$123 billion."
+      },
+      "zh": {
+        "headline": "恒生指數半日跌439點失守23000點",
+        "dek": "恒指中午報22855點，跌1.89%，騰訊及阿里巴巴領跌藍籌，半日主板成交額近1234億元。"
+      }
+    },
+    {
+      "id": "2026-11-19-police-phone-scam-123-arrests",
+      "published_at": "2026-11-19T14:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "scam",
+        "fraud",
+        "phone-scam"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-19/2026-11-19-police-phone-scam-123-arrests.json",
+      "en": {
+        "headline": "Police arrest 123 in phone scam and money laundering operation",
+        "dek": "The Commercial Crime Bureau and districts cracked 108 cases involving about HK$68 million and raided two industrial building call centres in Hung Hom and Kwun Tong."
+      },
+      "zh": {
+        "headline": "警方打擊電話騙案及洗黑錢拘123人",
+        "dek": "商業罪案調查科聯同各警區偵破108宗案件涉款約6800萬元，搞破紅磡及觀塘兩間工廈詐騙電話操作中心。"
+      }
+    },
+    {
+      "id": "2026-11-19-star-ferry-car-park-to-close",
+      "published_at": "2026-11-19T14:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "central",
+        "parking",
+        "star-ferry",
+        "development"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-19/2026-11-19-star-ferry-car-park-to-close.json",
+      "en": {
+        "headline": "Star Ferry Car Park to cease operations and be demolished after new site opens",
+        "dek": "The Transport Department said the multi-storey car park on Edinburgh Place will close once public parking spaces at Central Site 3 enter service, with monthly rentals shifting from January."
+      },
+      "zh": {
+        "headline": "天星碼頭停車場將於新海濱泊車位啟用後停止營運並拆卸",
+        "dek": "運輸署表示，中環愛丁堡廣場的天星碼頭停車場待三號用地公眾泊車位投入服務後便會關閉拆卸，明年一月起季租改為月租。"
+      }
+    },
     {
       "id": "2026-11-19-cuhk-medical-centre-ovaries-removal",
       "published_at": "2026-11-19T12:15:00+08:00",
@@ -1622,95 +1691,6 @@
       "zh": {
         "headline": "警方啟用智慧监控系統AI人臉識別功能",
         "dek": "警務處處長周一正式啟用，指可協助識別嫌疑人及阻嚇罪案，使用須經授權。"
-      }
-    },
-    {
-      "id": "2026-11-16-john-lee-shenzhen-apec-visit",
-      "published_at": "2026-11-16T14:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "shenzhen",
-        "apec",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-16/2026-11-16-john-lee-shenzhen-apec-visit.json",
-      "en": {
-        "headline": "John Lee to visit Shenzhen for APEC meetings from Tuesday",
-        "dek": "The Chief Executive will attend the CEO Summit and Economic Leaders’ Meeting over three days, saying APEC economies account for 87 per cent of Hong Kong’s external trade."
-      },
-      "zh": {
-        "headline": "李家超周二起赴深圳出席APEC會議一連三日",
-        "dek": "行政長官將出席工商峰會及經濟領袖會議，指APEC成員經濟體佔本港對外貿易達87%。"
-      }
-    },
-    {
-      "id": "2026-11-16-victoria-harbour-race-final-wave-cancelled",
-      "published_at": "2026-11-16T14:15:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "victoria-harbour",
-        "swimming",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-16/2026-11-16-victoria-harbour-race-final-wave-cancelled.json",
-      "en": {
-        "headline": "Strong currents force organisers to cancel final wave of Victoria Harbour Race",
-        "dek": "About 700 leisure swimmers missed the last start on Sunday after currents strengthened, with organisers promising full refunds and a lawmaker who finished the course calling the decision responsible."
-      },
-      "zh": {
-        "headline": "維港泳因水流急取消最後一組優悠組約700人受影響",
-        "dek": "周日賽事最後一組優悠組因水流加強而取消，約700名泳手未能出發，主辦方承諾全額退款，有完成賽事的立法會議員指決定負責任。"
-      }
-    },
-    {
-      "id": "2026-11-16-bigbang-kai-tak-ticket-arrests",
-      "published_at": "2026-11-16T12:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "kai-tak",
-        "concert",
-        "tickets",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-16/2026-11-16-bigbang-kai-tak-ticket-arrests.json",
-      "en": {
-        "headline": "Police arrest two men over fake and scalped BigBang tickets near Kai Tak",
-        "dek": "Officers said one suspect sold six counterfeit tickets for about HK$10,000 while another hawked two tickets above face value on Sunday, and the organiser invalidated the scalped ones."
-      },
-      "zh": {
-        "headline": "警方拘捕兩男 涉在啟德售賣BIGBANG演唱會假票及黃牛票",
-        "dek": "警方指一人涉嫌以約一萬元售出六張假門票，另一人則以高於面值價格兜售兩張門票，主辦方已將涉案黃牛票作廢。"
-      }
-    },
-    {
-      "id": "2026-11-16-pan-qiaoxian-appeal-rejected",
-      "published_at": "2026-11-16T12:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "abby-choi",
-        "appeal",
-        "crime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-16/2026-11-16-pan-qiaoxian-appeal-rejected.json",
-      "en": {
-        "headline": "High Court dismisses Pan Qiaoxian’s appeal in case linked to Abby Choi murder",
-        "dek": "Temporary Judge Cheung Kit-yi rejected the appeal against conviction and sentence, ordering the woman to begin her six-month jail term immediately for conspiring to help a man flee."
-      },
-      "zh": {
-        "headline": "高院駁回潘巧賢上訴 須即時服刑六個月",
-        "dek": "暫委法官張潔宜裁定潘巧賢就串謀妨害司法公正的定罪及判刑上訴失敗，她須即時入獄服刑。"
       }
     }
   ]
