@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-20T04:22:12+08:00",
+  "generated_at": "2026-11-20T04:24:18+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-11-20-lifestyle-hong-kong-winterfest",
+      "published_at": "2026-11-20T04:45:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "central",
+        "winter",
+        "tourism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-lifestyle-hong-kong-winterfest.json",
+      "en": {
+        "headline": "Hong Kong WinterFest opens with winter wonderlands in Central and Tsim Sha Tsui",
+        "dek": "The Hong Kong Tourism Board’s annual festival began on 18 November with light installations and a Christmas town at Statue Square, running through 5 January."
+      },
+      "zh": {
+        "headline": "香港冬日節開幕 中環及尖沙咀冬日仙境亮相",
+        "dek": "旅發局年度旗艦活動「香港冬日節」于11月18日開幕，香港冬日仙境首次擴展至三大熱點，展期至明年1月5日。"
+      }
+    },
     {
       "id": "2026-11-20-cooler-weather-northeast-monsoon",
       "published_at": "2026-11-20T04:25:00+08:00",
