@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-11-19T20:27:47+08:00",
+  "generated_at": "2026-11-19T20:28:55+08:00",
   "live_window_hours": 72,
-  "count": 73,
+  "count": 76,
   "articles": [
+    {
+      "id": "2026-11-19-alibaba-q2-fy2026-results",
+      "published_at": "2026-11-19T20:30:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "alibaba",
+        "earnings",
+        "tech",
+        "cloud"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-19/2026-11-19-alibaba-q2-fy2026-results.json",
+      "en": {
+        "headline": "Alibaba reports 10 percent revenue rise and 92 percent jump in adjusted profit",
+        "dek": "The e-commerce group said cloud and AI revenue surged, though adjusted profit missed estimates and free cash flow stayed negative amid heavy infrastructure spending."
+      },
+      "zh": {
+        "headline": "阿里巴巴季度收入升10% 經調整純利大增92%",
+        "dek": "電商集團指雲端及人工智能收入急升，惟經調整盈利低於預期，基建投資下自由現金流仍為流出。"
+      }
+    },
+    {
+      "id": "2026-11-19-lifestyle-detour-2026-pmq",
+      "published_at": "2026-11-19T20:30:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "pmq",
+        "design",
+        "central",
+        "exhibition"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-19/2026-11-19-lifestyle-detour-2026-pmq.json",
+      "en": {
+        "headline": "deTour design festival opens Friday at PMQ with free entry through November 29",
+        "dek": "PMQ hosts the annual design event under the theme Better, Not Perfect, featuring 14 works by local and international creators plus a pop-up shop."
+      },
+      "zh": {
+        "headline": "deTour設計節周五於元創方開幕 免費入場至11月29日",
+        "dek": "PMQ元創方主辦年度設計盛事，主題「不完美，更美好」，展出14件本地及海外作品，並設快閃選物店。"
+      }
+    },
+    {
+      "id": "2026-11-19-yoga-instructor-murder-conviction",
+      "published_at": "2026-11-19T20:30:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "court",
+        "murder",
+        "high-court",
+        "hotel"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-19/2026-11-19-yoga-instructor-murder-conviction.json",
+      "en": {
+        "headline": "High Court jury convicts man of murdering yoga instructor ex-girlfriend",
+        "dek": "A unanimous High Court jury found Lo Chun-ming guilty of murdering Chow Wai-yin at the Ritz-Carlton hotel in 2022; sentencing is set for Friday."
+      },
+      "zh": {
+        "headline": "高院陪審團一致裁定前男友謀殺瑜伽導師罪成",
+        "dek": "高等法院陪審團周四一致裁定勞浚銘謀殺前女友周慧賢罪成，案發於2022年麗思卡爾頓酒店，判刑押後至周五。"
+      }
+    },
     {
       "id": "2026-11-19-hang-seng-close-down",
       "published_at": "2026-11-19T18:15:00+08:00",
