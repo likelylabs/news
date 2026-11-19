@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-19T20:28:55+08:00",
+  "generated_at": "2026-11-19T22:13:06+08:00",
   "live_window_hours": 72,
-  "count": 76,
+  "count": 75,
   "articles": [
+    {
+      "id": "2026-11-19-against-child-abuse-annual-figures",
+      "published_at": "2026-11-19T22:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "child-abuse",
+        "ngo",
+        "family",
+        "health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-19/2026-11-19-against-child-abuse-annual-figures.json",
+      "en": {
+        "headline": "Against Child Abuse records 216 suspected cases involving 241 children last year",
+        "dek": "Children aged three to five formed the largest group among the cases, with more than 70 per cent of alleged abusers being family members, the organisation said."
+      },
+      "zh": {
+        "headline": "防止虐待兒童會上年度錄得216宗懷疑虐兒個案涉241名兒童",
+        "dek": "3至5歲兒童佔最多，超過七成懷疑施虐者為家庭成員，機構指家長壓力大及缺乏管教支援是主因。"
+      }
+    },
+    {
+      "id": "2026-11-19-kwai-fong-minibus-stop-collapse-death",
+      "published_at": "2026-11-19T22:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "kwai-fong",
+        "medical",
+        "death",
+        "minibus"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-19/2026-11-19-kwai-fong-minibus-stop-collapse-death.json",
+      "en": {
+        "headline": "Man dies after collapsing at Kwai Fong minibus stop",
+        "dek": "Rescuers performed cardiopulmonary resuscitation on the man who fell unconscious near New Town Plaza before he was taken to Yan Chai Hospital, where he was certified dead."
+      },
+      "zh": {
+        "headline": "葵芳新都會廣場小巴站男子暈倒送院後不治",
+        "dek": "救援人員在行人路邊輪流為事主進行心外壓，其後送往仁濟醫院，最終證實不治。"
+      }
+    },
+    {
+      "id": "2026-11-19-new-world-agm-shareholder-backlash",
+      "published_at": "2026-11-19T22:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "new-world",
+        "property",
+        "rights-issue",
+        "agm"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-19/2026-11-19-new-world-agm-shareholder-backlash.json",
+      "en": {
+        "headline": "New World shareholders criticise rights issue at annual general meeting",
+        "dek": "Hundreds of investors queued outside the Hong Kong Convention and Exhibition Centre to question the HK$24.9 billion plan that would dilute their holdings unless they subscribe."
+      },
+      "zh": {
+        "headline": "新世界發展股東在股東周年大會批評供股計劃",
+        "dek": "數百名投資者在會展中心外排隊，質疑249億元供股若不全數認購將大幅攤薄持股。"
+      }
+    },
     {
       "id": "2026-11-19-alibaba-q2-fy2026-results",
       "published_at": "2026-11-19T20:30:00+08:00",
@@ -1630,97 +1699,6 @@
       "zh": {
         "headline": "大埔火災改革督導委員會首次會議召開",
         "dek": "政務司司長陳國基要求部門盡快推行已準備就緒的措施，並全速完成立法修訂準備工作。"
-      }
-    },
-    {
-      "id": "2026-11-16-abby-choi-trial-kwong-testimony",
-      "published_at": "2026-11-16T20:30:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "court",
-        "abby-choi",
-        "crime",
-        "high-court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-16/2026-11-16-abby-choi-trial-kwong-testimony.json",
-      "en": {
-        "headline": "Kwong Hong-kit tells court he planned to blame father in Abby Choi case",
-        "dek": "The defendant said he later abandoned the idea after lawyers urged him to tell the truth and wrote to his brother that lies would not work."
-      },
-      "zh": {
-        "headline": "鄺港傑庭上稱曾計劃將蔡天鳳案責任推給父親",
-        "dek": "被告指其後因律師要求說出真相而放棄，並寫信給弟弟稱說謊行不通。"
-      }
-    },
-    {
-      "id": "2026-11-16-green-shipping-corridor-piraeus",
-      "published_at": "2026-11-16T20:30:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "shipping",
-        "business",
-        "environment",
-        "greece",
-        "maritime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-16/2026-11-16-green-shipping-corridor-piraeus.json",
-      "en": {
-        "headline": "John Lee announces green shipping corridor with Greece's Port of Piraeus",
-        "dek": "The Chief Executive said the new partnership is a significant step for decarbonising Asia-Europe routes, with further deals planned with mainland ports."
-      },
-      "zh": {
-        "headline": "李家超宣布與希臘比雷埃夫斯港建立綠色航運走廊",
-        "dek": "行政長官指新合作是推動亞歐航線減碳的重要一步，並將與內地港口簽署進一步協議。"
-      }
-    },
-    {
-      "id": "2026-11-16-lifestyle-rbhk-2026-opens",
-      "published_at": "2026-11-16T20:30:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "exhibition",
-        "hkcec",
-        "f-and-b"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-16/2026-11-16-lifestyle-rbhk-2026-opens.json",
-      "en": {
-        "headline": "Restaurant Bar and Cafe Hong Kong 2026 opens at HKCEC",
-        "dek": "The three-day industry event for food and beverage professionals began on Monday with zones for specialty coffee, sake and eco-innovation."
-      },
-      "zh": {
-        "headline": "香港餐飲展2026於會展中心開幕",
-        "dek": "為期三日的餐飲業界活動周一展開，設有精品咖啡、清酒及生態創新專區。"
-      }
-    },
-    {
-      "id": "2026-11-16-sfc-ipo-bookbuilding-review",
-      "published_at": "2026-11-16T20:30:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "sfc",
-        "ipo",
-        "business",
-        "finance",
-        "hkex"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-16/2026-11-16-sfc-ipo-bookbuilding-review.json",
-      "en": {
-        "headline": "SFC to review IPO book-building process after fraud cases",
-        "dek": "Chief executive Julia Leung said the regulator would work with the stock exchange to tighten procedures and urged professionals to report red flags."
-      },
-      "zh": {
-        "headline": "證監會將檢討IPO簿記建檔流程以應對造假風險",
-        "dek": "行政總裁梁鳳儀表示會與港交所合作收緊程序，並呼籲業界舉報可疑情況。"
       }
     }
   ]
