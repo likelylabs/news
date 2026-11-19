@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-20T02:04:20+08:00",
+  "generated_at": "2026-11-20T04:22:12+08:00",
   "live_window_hours": 72,
   "count": 78,
   "articles": [
+    {
+      "id": "2026-11-20-cooler-weather-northeast-monsoon",
+      "published_at": "2026-11-20T04:25:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "temperature",
+        "monsoon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-cooler-weather-northeast-monsoon.json",
+      "en": {
+        "headline": "Observatory forecasts urban temperatures down to 14 degrees under northeast monsoon",
+        "dek": "The Hong Kong Observatory said cloudy skies with rain patches will bring appreciably cooler conditions today, with wind chill making it feel colder especially in the New Territories."
+      },
+      "zh": {
+        "headline": "天文台料強烈東北季候風下市區氣溫降至14度",
+        "dek": "香港天文台表示，受強烈東北季候風及雲雨帶影響，本港今日顯著轉涼，密雲有幾陣雨，風寒效應令體感更冷，新界部分地區及高地寒冷。"
+      }
+    },
+    {
+      "id": "2026-11-20-lifestyle-neomu-neomu-popup",
+      "published_at": "2026-11-20T04:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "lai-chi-kok",
+        "pop-up",
+        "korean"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-lifestyle-neomu-neomu-popup.json",
+      "en": {
+        "headline": "Korean illustration brands gather for limited pop-up at D2 Place in Lai Chi Kok",
+        "dek": "The neomu neomu pop-up brings eight Korean illustration brands, several making their Hong Kong debut, to D2 Place TWO until 22 November with plush toys, charms and stationery."
+      },
+      "zh": {
+        "headline": "韓國插畫品牌期間限定店登陸荔枝角D2 Place",
+        "dek": "neomu neomu韓國文創快閃店匯集八個韓國插畫品牌，部分首次來港，於荔枝角D2 Place二期地下展至11月22日，售賣毛絨玩具及文具。"
+      }
+    },
     {
       "id": "2026-11-20-lifestyle-ting-tai-sale",
       "published_at": "2026-11-20T02:05:00+08:00",
@@ -1722,52 +1767,6 @@
       "zh": {
         "headline": "尖沙咀私家車倒車撞四的士後逆線逃走",
         "dek": "警方指白色Audi司機周二凌晨被截停時突然倒車，撞向四輛的士後逆線逃去，一名的士司機送院。"
-      }
-    },
-    {
-      "id": "2026-11-17-lifestyle-fly-me-to-the-moon-exhibition",
-      "published_at": "2026-11-17T04:16:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "tsim-sha-tsui",
-        "avenue-of-stars",
-        "space"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-17/2026-11-17-lifestyle-fly-me-to-the-moon-exhibition.json",
-      "en": {
-        "headline": "Free outdoor space installations remain at Salisbury Garden until 22 November",
-        "dek": "Giant planet and aerospace displays form the free outdoor zone of the Fly Me to the Moon exhibition along the Tsim Sha Tsui waterfront."
-      },
-      "zh": {
-        "headline": "梳士巴利花園戶外太空裝置展延續至11月22日",
-        "dek": "「飛奔到月球」展覽的免費戶外區在尖沙咀海濱展示大型行星及航天藝術裝置。"
-      }
-    },
-    {
-      "id": "2026-11-17-lifestyle-li-ning-hk-open-badminton",
-      "published_at": "2026-11-17T02:05:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "lifestyle",
-        "badminton",
-        "kai-tak",
-        "sport",
-        "hsbc"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-17/2026-11-17-lifestyle-li-ning-hk-open-badminton.json",
-      "en": {
-        "headline": "Li-Ning Hong Kong Open badminton starts at Kai Tak Arena today",
-        "dek": "The Super 500 tournament moves to the new venue for the first time, running until 22 November with a US$500,000 prize purse and outdoor game booths."
-      },
-      "zh": {
-        "headline": "李寧香港公開羽毛球錦標賽今日於啟德體藝館開幕",
-        "dek": "超級500賽事首度移師新場館，至22日完結，總獎金50萬美元，場外設遊戲攤位。"
       }
     }
   ]
