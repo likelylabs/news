@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-19T16:27:51+08:00",
+  "generated_at": "2026-11-19T18:13:16+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 77,
   "articles": [
+    {
+      "id": "2026-11-19-hang-seng-close-down",
+      "published_at": "2026-11-19T18:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "hang-seng",
+        "stocks",
+        "market",
+        "tech"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-19/2026-11-19-hang-seng-close-down.json",
+      "en": {
+        "headline": "Hang Seng Index closes 453 points lower at 22841",
+        "dek": "The benchmark fell 1.95 percent for a third straight day as Tencent dropped nearly 7 percent after results and Alibaba slid about 6 percent."
+      },
+      "zh": {
+        "headline": "恒生指數收市跌453點報22841點",
+        "dek": "恒指連跌第三日，跌幅1.95%，騰訊績後急挫近7%，阿里巴巴跌約6%。"
+      }
+    },
+    {
+      "id": "2026-11-19-mark-six-hype-up-jackpot",
+      "published_at": "2026-11-19T18:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "mark-six",
+        "jockey-club",
+        "lottery",
+        "snowball"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-19/2026-11-19-mark-six-hype-up-jackpot.json",
+      "en": {
+        "headline": "Mark Six campaign could raise next Tuesday snowball jackpot to HK$80 million",
+        "dek": "The Jockey Club said the Hype Up. Jackpot Up. scheme for the lottery’s 50th anniversary will add a larger snowball if turnover reaches HK$70 million by Monday."
+      },
+      "zh": {
+        "headline": "六合彩「Hype Up. Jackpot Up.」活動可將下周二雪球獎金推高至8000萬",
+        "dek": "賽馬會指，為慶祝六合彩50周年推出的計劃，若周一前投注額達7000萬元，將增加較大雪球金額。"
+      }
+    },
     {
       "id": "2026-11-19-hsbc-redcoin-tokenised-fund",
       "published_at": "2026-11-19T16:25:00+08:00",
@@ -1693,73 +1739,6 @@
       "zh": {
         "headline": "薄扶林客貨車撞倒73歲婦人 司機涉危駕被捕",
         "dek": "警方指婦人在置富道行人過路線被撞後不省人事，送瑪麗醫院救治；事件約於上午8時發生。"
-      }
-    },
-    {
-      "id": "2026-11-16-mainland-universities-dse-169",
-      "published_at": "2026-11-16T16:35:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "dse",
-        "mainland",
-        "universities"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-16/2026-11-16-mainland-universities-dse-169.json",
-      "en": {
-        "headline": "Mainland universities admitting DSE students rise to 169",
-        "dek": "The Education Bureau welcomed the increase for the 2027-28 academic year, with applications opening from December 1."
-      },
-      "zh": {
-        "headline": "內地高校招收DSE生增至169所 下月開始報名",
-        "dek": "教育局歡迎數目增加至2027/28學年，學生可於12月1日起報名。"
-      }
-    },
-    {
-      "id": "2026-11-16-new-world-rights-issue",
-      "published_at": "2026-11-16T16:35:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "property",
-        "stock",
-        "new-world"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-16/2026-11-16-new-world-rights-issue.json",
-      "en": {
-        "headline": "New World shares plunge after HK$24.9 billion rights issue",
-        "dek": "The developer offered 11 new shares for every existing one at a deep discount, with the Cheng family underwriting, as trading resumed on Monday."
-      },
-      "zh": {
-        "headline": "新世界供股集資249億元 復牌股價急挫近四成六",
-        "dek": "發展商按一供十一方式以低價配售新股，鄭氏家族包銷，周一復牌後股價大幅下跌。"
-      }
-    },
-    {
-      "id": "2026-11-16-police-facial-recognition-smartview",
-      "published_at": "2026-11-16T16:35:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "police",
-        "surveillance",
-        "ai",
-        "cctv",
-        "smartview"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-16/2026-11-16-police-facial-recognition-smartview.json",
-      "en": {
-        "headline": "Police activate AI facial recognition on SmartView CCTV network",
-        "dek": "Commissioner Joe Chow said the system, starting Monday, would help identify suspects and deter crime, with authorisation required for use."
-      },
-      "zh": {
-        "headline": "警方啟用智慧监控系統AI人臉識別功能",
-        "dek": "警務處處長周一正式啟用，指可協助識別嫌疑人及阻嚇罪案，使用須經授權。"
       }
     }
   ]
