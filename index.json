@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-20T00:59:45+08:00",
+  "generated_at": "2026-11-20T02:04:01+08:00",
   "live_window_hours": 72,
-  "count": 77,
+  "count": 78,
   "articles": [
+    {
+      "id": "2026-11-20-lifestyle-ting-tai-sale",
+      "published_at": "2026-11-20T02:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "tsuen-wan",
+        "heritage",
+        "shopping"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-lifestyle-ting-tai-sale.json",
+      "en": {
+        "headline": "Tsuen Wan's long-shuttered Ting Tai shop opens briefly for kitchenware sale",
+        "dek": "The ground-floor unit on Sha Tsui Road linked to a 1949-era milk-tea brand held a two-hour pop-up sale of enamel pots and pans on Thursday afternoon."
+      },
+      "zh": {
+        "headline": "荃灣長年關閉的鼎泰店舖周四短暫開放廚具特賣",
+        "dek": "沙咀道地下舖位與 1949 年港式奶茶品牌相關，周四下午舉行兩小時倉庫式特賣，出售瑠瑪鍋和平底鑀。"
+      }
+    },
     {
       "id": "2026-11-20-building-maintenance-council-funding",
       "published_at": "2026-11-20T01:20:00+08:00",
