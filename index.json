@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-19T09:55:55+08:00",
+  "generated_at": "2026-11-19T10:21:17+08:00",
   "live_window_hours": 72,
-  "count": 73,
+  "count": 74,
   "articles": [
+    {
+      "id": "2026-11-19-lifestyle-petit-factory-kai-tak",
+      "published_at": "2026-11-19T10:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "kai-tak",
+        "christmas",
+        "exhibition",
+        "mall"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-19/2026-11-19-lifestyle-petit-factory-kai-tak.json",
+      "en": {
+        "headline": "PETIT FACTORY Christmas installation opens at Kai Tak Cullinan Sky Mall",
+        "dek": "The Korean brand's first Hong Kong Christmas theme features a 4.5-metre clock tower, starlight displays and pop-up shop until early January."
+      },
+      "zh": {
+        "headline": "啟德天璽天Mall呈獻PETIT FACTORY聖誕星光夢工場",
+        "dek": "韓國療癒系品牌首度登陸香港，設近4.5米鐘樓、星光裝置及快閃店，展期至1月3日。"
+      }
+    },
+    {
+      "id": "2026-11-19-vootic-obsessplanet-consignment-fraud",
+      "published_at": "2026-11-19T10:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "fraud",
+        "causeway-bay",
+        "admiralty"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-19/2026-11-19-vootic-obsessplanet-consignment-fraud.json",
+      "en": {
+        "headline": "Police receive 216 reports totaling HK$38 million over closed luxury consignment shops",
+        "dek": "Reports concerning Vootic in Causeway Bay and Obsessplanet in Admiralty rose sharply, with police classifying the cases as fraud and seeking a Japanese owner."
+      },
+      "zh": {
+        "headline": "警方接獲216宗報案涉款3800萬 兩間名牌寄賣店結業",
+        "dek": "銅鑼灣Vootic及金鐘樂星寄賣店結業後報案人數急增，警方暫列欺詐，正追緝日籍負責人。"
+      }
+    },
     {
       "id": "2026-11-19-cooler-weather-northeast-monsoon",
       "published_at": "2026-11-19T08:10:00+08:00",
@@ -1619,29 +1665,6 @@
       "zh": {
         "headline": "高院駁回潘巧賢上訴 須即時服刑六個月",
         "dek": "暫委法官張潔宜裁定潘巧賢就串謀妨害司法公正的定罪及判刑上訴失敗，她須即時入獄服刑。"
-      }
-    },
-    {
-      "id": "2026-11-16-hkex-offshore-rmb-bond-index",
-      "published_at": "2026-11-16T10:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "hkex",
-        "finance",
-        "rmb",
-        "dim-sum"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-16/2026-11-16-hkex-offshore-rmb-bond-index.json",
-      "en": {
-        "headline": "HKEX launches first offshore RMB bond index to track dim sum bonds",
-        "dek": "The exchange said the new benchmark, administered with Bloomberg, covers hundreds of bonds and supports future ETFs as Hong Kong builds its offshore yuan ecosystem."
-      },
-      "zh": {
-        "headline": "港交所推出首個離岸人民幣債券指數 追蹤點心債",
-        "dek": "港交所周一宣布推出與彭博合作編制的指數，作為香港點心債基準，支持日後ETF產品，推動離岸人民幣生態。"
       }
     }
   ]
