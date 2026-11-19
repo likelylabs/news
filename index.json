@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-19T10:21:17+08:00",
+  "generated_at": "2026-11-19T12:11:28+08:00",
   "live_window_hours": 72,
-  "count": 74,
+  "count": 76,
   "articles": [
+    {
+      "id": "2026-11-19-cuhk-medical-centre-ovaries-removal",
+      "published_at": "2026-11-19T12:15:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "hospital",
+        "cuhk",
+        "surgery",
+        "medical-error"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-19/2026-11-19-cuhk-medical-centre-ovaries-removal.json",
+      "en": {
+        "headline": "CUHK Medical Centre apologises after doctor removes patient's ovaries by mistake",
+        "dek": "The hospital said an experienced surgeon suffered a lapse in concentration during a September operation intended only to remove the uterus and fallopian tubes; the patient remains stable."
+      },
+      "zh": {
+        "headline": "中大醫院就醫生誤切病人卵巢致歉",
+        "dek": "院方指經驗豐富的外科醫生在九月手術中短暫失神，原計劃只切除子宮及輸卵管，病人情況穩定。"
+      }
+    },
+    {
+      "id": "2026-11-19-mtr-island-line-hku-signal-fault",
+      "published_at": "2026-11-19T12:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "island-line",
+        "signal-fault",
+        "hku",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-19/2026-11-19-mtr-island-line-hku-signal-fault.json",
+      "en": {
+        "headline": "MTR Island Line delayed again by HKU station signal fault",
+        "dek": "The operator said a signalling fault near HKU station added five to eight minutes to journeys for about an hour during Thursday morning rush hour before services returned to normal."
+      },
+      "zh": {
+        "headline": "港鐵港島綫香港大學站信號故障連續兩日影響繁忙時間",
+        "dek": "港鐵表示，周四早上香港大學站附近信號故障令整體車程額外增加五至八分鐘，約一小時後修復，服務陸續恢復正常。"
+      }
+    },
     {
       "id": "2026-11-19-lifestyle-petit-factory-kai-tak",
       "published_at": "2026-11-19T10:20:00+08:00",
