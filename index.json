@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-19T22:13:06+08:00",
+  "generated_at": "2026-11-20T00:40:24+08:00",
   "live_window_hours": 72,
   "count": 75,
   "articles": [
+    {
+      "id": "2026-11-20-cfs-poultry-suspension-norway-uk-nl",
+      "published_at": "2026-11-20T01:05:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "food-safety",
+        "poultry",
+        "avian-flu",
+        "cfs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-cfs-poultry-suspension-norway-uk-nl.json",
+      "en": {
+        "headline": "CFS suspends poultry imports from areas in Norway, Britain and Netherlands",
+        "dek": "The Centre for Food Safety acted after World Organisation for Animal Health notifications of highly pathogenic H5N1 outbreaks in the three locations."
+      },
+      "zh": {
+        "headline": "食安中心暫停挪威、英國及荷蘭部分地區禽肉產品進口",
+        "dek": "食物安全中心接獲世界動物衞生組織有關高致病性H5N1禽流感爆發的通知後，即時採取行動。"
+      }
+    },
+    {
+      "id": "2026-11-20-fortress-times-square-theft",
+      "published_at": "2026-11-20T01:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "theft",
+        "causeway-bay",
+        "fortress"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-fortress-times-square-theft.json",
+      "en": {
+        "headline": "Police hunt male staff member after HK$1.88 million camera theft at Times Square Fortress",
+        "dek": "Sixty-one cameras and 55 lenses went missing from the Causeway Bay electronics store; officers are seeking a man aged about 40 who works there."
+      },
+      "zh": {
+        "headline": "時代廣場豐澤失188萬元相機鏡頭 警追緝約40歲男職員",
+        "dek": "銅鑼灣電器店有61部相機及55個鏡頭不翼而飛，警方正追緝一名年約40歲的店舖職員。"
+      }
+    },
+    {
+      "id": "2026-11-20-lifestyle-dinosaur-fossil-exhibition",
+      "published_at": "2026-11-20T01:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "exhibition",
+        "kowloon",
+        "dinosaur"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-lifestyle-dinosaur-fossil-exhibition.json",
+      "en": {
+        "headline": "Dinosaur fossil exhibition featuring Port Island finds opens free at Kowloon Park",
+        "dek": "The show at the Hong Kong Heritage Discovery Centre runs until 12 May next year and includes a touchable femur plus 34 first-class protected fossils from the mainland."
+      },
+      "zh": {
+        "headline": "赤洲恐龍化石展今起九龍公園免費開放 可觸摸巨型股骨",
+        "dek": "香港文物探知館「見龍在田」展覽展至明年5月12日，展出港產化石及34組國家一級保護內地標本。"
+      }
+    },
     {
       "id": "2026-11-19-against-child-abuse-annual-figures",
       "published_at": "2026-11-19T22:15:00+08:00",
@@ -1630,75 +1699,6 @@
       "zh": {
         "headline": "李寧香港公開羽毛球錦標賽今日於啟德體藝館開幕",
         "dek": "超級500賽事首度移師新場館，至22日完結，總獎金50萬美元，場外設遊戲攤位。"
-      }
-    },
-    {
-      "id": "2026-11-17-lifestyle-disney-christmas-hkdl",
-      "published_at": "2026-11-17T00:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "disneyland",
-        "christmas",
-        "family",
-        "lantau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-17/2026-11-17-lifestyle-disney-christmas-hkdl.json",
-      "en": {
-        "headline": "Hong Kong Disneyland starts A Disney Christmas season today",
-        "dek": "The resort begins its festive programme from 17 November to 3 January, with a new Winter Market in World of Frozen and a daytime castle show from Wednesday."
-      },
-      "zh": {
-        "headline": "香港迪士尼今日啟動奇妙聖誕季節",
-        "dek": "度假區由11月17日至明年1月3日舉辦節日活動，魔雪奇緣世界新增冬日市集，周三起有日間城堡演出。"
-      }
-    },
-    {
-      "id": "2026-11-16-ha-carpark-fees-increase",
-      "published_at": "2026-11-16T22:20:00+08:00",
-      "updated_at": "2026-11-16T22:25:00+08:00",
-      "category": "community",
-      "tags": [
-        "housing",
-        "parking",
-        "housing-authority",
-        "fees",
-        "ev-charging"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-16/2026-11-16-ha-carpark-fees-increase.json",
-      "en": {
-        "headline": "Housing Authority to raise carpark fees from January 2027",
-        "dek": "Monthly rates for private cars will rise by HK$130 to HK$150, with hourly charges up by HK$1, as the authority aligns with market levels and expands EV charging sharing."
-      },
-      "zh": {
-        "headline": "房委會明年一月起上調停車場收費",
-        "dek": "私家車月租加130至150元，時租加1元，以貼近市場水平，並擴展電動車充電共享區。"
-      }
-    },
-    {
-      "id": "2026-11-16-wang-fuk-fire-reform-steering-meeting",
-      "published_at": "2026-11-16T22:20:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "tai-po",
-        "fire",
-        "government",
-        "reform",
-        "wang-fuk-court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-16/2026-11-16-wang-fuk-fire-reform-steering-meeting.json",
-      "en": {
-        "headline": "Tai Po fire reform steering committee holds first meeting",
-        "dek": "Chief Secretary Eric Chan urged departments to roll out ready measures immediately and complete legislative amendments at full speed."
-      },
-      "zh": {
-        "headline": "大埔火災改革督導委員會首次會議召開",
-        "dek": "政務司司長陳國基要求部門盡快推行已準備就緒的措施，並全速完成立法修訂準備工作。"
       }
     }
   ]
