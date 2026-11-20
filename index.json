@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-20T12:12:09+08:00",
+  "generated_at": "2026-11-20T12:16:42+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 77,
   "articles": [
     {
       "id": "2026-11-20-cheung-sha-wan-kaming-fire",
@@ -65,8 +65,8 @@
         "dek": "Saturday will turn fine and dry after a rather cool morning with urban temperatures of 15 to 22 degrees, while Sunday brings mainly cloudy skies and possible light rain later."
       },
       "zh": {
-        "headline": "天文台料周六早上清凉其後轉晴 周日大致多雲有微雨",
-        "dek": "周六漸轉天晴乾燥，早上相當清凉，市區氣溫15至22度；周日大致多雲，初時部分時間明朗，稍後有一兩陣微雨。"
+        "headline": "天文台料周六早上清冼其後轉晴 周日大致多雲有微雨",
+        "dek": "周六漸轉天晴乾燥，早上相當清冼，市區氣溫15至22度；周日大致多雲，初時部分時間明朗，稍後有一兩陣微雨。"
       }
     },
     {
@@ -1746,74 +1746,6 @@
       "zh": {
         "headline": "九龍塘幼稚園兩歲男童頭部受傷警方仍在調查",
         "dek": "迦南幼稚園（窩打老道）稱警方周一再返回學校取走閉路電視片段，較早前該校曾指案件已結。"
-      }
-    },
-    {
-      "id": "2026-11-17-egl-tours-data-breach",
-      "published_at": "2026-11-17T12:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "data-breach",
-        "privacy",
-        "travel",
-        "egl"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-17/2026-11-17-egl-tours-data-breach.json",
-      "en": {
-        "headline": "EGL Tours warns of customer data exposure via third-party supplier",
-        "dek": "The travel agency said names, identity-card numbers and travel-document details of some customers may have been accessed after a supplier reported unauthorised network access."
-      },
-      "zh": {
-        "headline": "東瀛遊接供應商通知系統遭未授權存取 部分客戶證件資料或受影響",
-        "dek": "旅行社指第三方技術服務供應商於11月13日通知其後台系統曾遭未經授權存取，部分客戶姓名、身份證及旅遊證件資料可能涉及。"
-      }
-    },
-    {
-      "id": "2026-11-17-kennedy-town-car-overturn",
-      "published_at": "2026-11-17T12:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "traffic",
-        "kennedy-town",
-        "accident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-17/2026-11-17-kennedy-town-car-overturn.json",
-      "en": {
-        "headline": "Private car hits railing and overturns in Kennedy Town, three unhurt",
-        "dek": "Police said the driver and two passengers climbed out after the car flipped onto its side near Smithfield Municipal Services Building early Tuesday; the driver's breath test read zero."
-      },
-      "zh": {
-        "headline": "堅尼地城私家車撞欄翻側 三人自行爬出幸無受傷",
-        "dek": "警方指周二凌晨事發於石山街近士美菲路市政大樓，司機及兩名乘客已自行爬出，酒精測試讀數為零。"
-      }
-    },
-    {
-      "id": "2026-11-17-lifestyle-disgusting-food-museum",
-      "published_at": "2026-11-17T12:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "food",
-        "kai-tak",
-        "airside"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-17/2026-11-17-lifestyle-disgusting-food-museum.json",
-      "en": {
-        "headline": "Disgusting Food Museum continues at Airside until 26 November",
-        "dek": "The Swedish pop-up at Gate33 Gallery in Kai Tak displays more than 80 polarising foods from around the world, with a tasting bar and a vomit bag included with every ticket."
-      },
-      "zh": {
-        "headline": "嘔心食物博物館於啟德AIRSIDE延續至11月26日",
-        "dek": "瑞典流行展覽在啟德AIRSIDE的GATE33藝文館展出逾80款爭議美食，門票附送嘔吐袋，並設試食吧。"
       }
     }
   ]
