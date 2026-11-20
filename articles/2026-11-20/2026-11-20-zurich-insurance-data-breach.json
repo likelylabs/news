@@ -1,0 +1,30 @@
+{
+  "id": "2026-11-20-zurich-insurance-data-breach",
+  "published_at": "2026-11-20T22:17:00+08:00",
+  "category": "business",
+  "tags": ["business", "data-breach", "zurich", "privacy", "insurance"],
+  "ai_generated": true,
+  "story_key": "zurich-insurance-data-breach-nov20",
+  "en": {
+    "headline": "Zurich Insurance reports unauthorised access to customer portal affecting over 38,000",
+    "dek": "The Privacy Commissioner for Personal Data said 38,453 people may have been affected; the company has taken its customer portal offline.",
+    "body": [
+      "Zurich Insurance (Hong Kong) has identified unauthorised access to its customer portal, the company said in a notice, and the Office of the Privacy Commissioner for Personal Data is investigating after being told that personal data of 38,453 people may have been affected.",
+      "The company said it detected the activity involving unauthorised access to the customer portal, took immediate action to contain it, strengthened security controls and launched an investigation with cybersecurity experts. As a precaution, it has temporarily taken the customer portal offline for system optimisation.",
+      "The Privacy Commissioner said it received reports from Zurich Life Insurance (Hong Kong) Limited, Zurich Insurance Company Limited and Zurich Assurance Ltd. Affected data may include names, Hong Kong identity card numbers, passport numbers, dates of birth, email addresses and telephone numbers.",
+      "Zurich said existing insurance coverage remains completely active and unaffected. It is notifying affected customers and has reported the matter to relevant regulatory authorities. The company urged customers to stay vigilant against suspicious emails, messages or calls.",
+      "The company said there was no evidence so far that bank account numbers, credit card details or login passwords were involved."
+    ]
+  },
+  "zh": {
+    "headline": "蘇黎世保險客戶平台遭未授權存取 私隱公署稱或影響逾3.8萬人",
+    "dek": "個人資料私隱專員公署表示，事件或影響38,453人的個人資料；公司已暫停客戶網上平台。",
+    "body": [
+      "蘇黎世保險（香港）在公告中表示，發現客戶網上平台遭到未經授權存取。個人資料私隱專員公署表示，已接獲通報，事件或影響38,453人的個人資料，並已展開調查。",
+      "公司表示，偵測到客戶網上平台有未經授權存取活動後，已立即採取措施遏止事件、加強保安，並聯同網絡安全專家展開全面調查。為加強防範，已暫時停用客戶網上平台進行系統維護。",
+      "私隱公署表示，接獲蘇黎世人壽保險（香港）有限公司、Zurich Insurance Company Limited及Zurich Assurance Ltd的通報。可能受影響的資料包括姓名、香港身份證號碼、護照號碼、出生日期、電郵地址及電話號碼。",
+      "蘇黎世表示，現有保單保障維持完全有效，不受影響。公司正通知受影響客戶，並已向相關監管機構通報。公司呼籲客戶提高警覺，慎防可疑電郵、訊息或來電。",
+      "公司表示，暫無證據顯示事件涉及銀行戶口號碼、信用卡資料或登入密碼。"
+    ]
+  }
+}
