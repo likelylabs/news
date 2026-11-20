@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-20T04:24:18+08:00",
+  "generated_at": "2026-11-20T08:04:49+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-11-20-lifestyle-big-picnic-discovery-bay",
+      "published_at": "2026-11-20T08:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "discovery-bay",
+        "music",
+        "festival"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-lifestyle-big-picnic-discovery-bay.json",
+      "en": {
+        "headline": "The Big Picnic returns to Discovery Bay beach after seven years",
+        "dek": "The festival runs 11 a.m. to 10 p.m. on Saturday at Tai Pak Beach with more than 24 live acts, food stalls and a makers market."
+      },
+      "zh": {
+        "headline": "The Big Picnic沙灘音樂節時隔七年重返愉景灣",
+        "dek": "活動周六上午11時至晚上10時於大白灣沙灘舉行，超過24組現場演出，並設美食攤檔及手作市集。"
+      }
+    },
+    {
+      "id": "2026-11-20-strong-monsoon-signal",
+      "published_at": "2026-11-20T08:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "monsoon",
+        "wind"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-strong-monsoon-signal.json",
+      "en": {
+        "headline": "Observatory issues Strong Monsoon Signal for northerly winds",
+        "dek": "The signal is in force from 4:45 a.m. with strong northerly winds expected and occasional gale-force gusts."
+      },
+      "zh": {
+        "headline": "天文台發出強烈季候風信號 吹偏北強風",
+        "dek": "信號於上午4時45分生效，預料平均風速每小時超過40公里，陣風間中達烈風程度。"
+      }
+    },
     {
       "id": "2026-11-20-lifestyle-hong-kong-winterfest",
       "published_at": "2026-11-20T04:45:00+08:00",
