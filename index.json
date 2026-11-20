@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-21T00:33:03+08:00",
+  "generated_at": "2026-11-21T02:04:16+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-11-21-lifestyle-rgc-ai-lectures-science-museum",
+      "published_at": "2026-11-21T02:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "science-museum",
+        "ai",
+        "education",
+        "tsim-sha-tsui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-21/2026-11-21-lifestyle-rgc-ai-lectures-science-museum.json",
+      "en": {
+        "headline": "Research Grants Council hosts free AI lectures at Science Museum today",
+        "dek": "Two Cantonese sessions on fact-checking and sports education run from 2:30 p.m. to 4:30 p.m. with free first-come seating."
+      },
+      "zh": {
+        "headline": "研資局與科學館今午舉辦免費人工智能公眾講座",
+        "dek": "兩場粵語講座分別談事實查核及體育教學，下午二時半至四時半於尖沙咀舉行，免費入場先到先得。"
+      }
+    },
     {
       "id": "2026-11-21-lifestyle-city-kids-christmas-fair",
       "published_at": "2026-11-21T00:32:00+08:00",
