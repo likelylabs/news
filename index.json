@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-20T12:17:39+08:00",
+  "generated_at": "2026-11-20T14:16:57+08:00",
   "live_window_hours": 72,
-  "count": 77,
+  "count": 78,
   "articles": [
+    {
+      "id": "2026-11-20-primary-one-discretionary-places",
+      "published_at": "2026-11-20T14:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "primary-school",
+        "admission",
+        "edb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-primary-one-discretionary-places.json",
+      "en": {
+        "headline": "Education Bureau says 56.5 per cent of Primary 1 applicants offered discretionary places",
+        "dek": "A record high success rate as total applications fall to 32,104 for September 2027 entry, with results due on Monday."
+      },
+      "zh": {
+        "headline": "教育局公布小一自行分配學位成功率56.5% 創逾二十年新高",
+        "dek": "申請人數跌至32,104人，18,148人獲派位，結果下周一公布，家長須於25或26日註冊。"
+      }
+    },
+    {
+      "id": "2026-11-20-yoga-instructor-murder-life-sentence",
+      "published_at": "2026-11-20T14:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "court",
+        "murder",
+        "high-court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-yoga-instructor-murder-life-sentence.json",
+      "en": {
+        "headline": "Court jails man for life over murder of yoga instructor ex-girlfriend",
+        "dek": "High Court judge says Lo Chun-ming had every intention to kill and sentences him after jury conviction yesterday."
+      },
+      "zh": {
+        "headline": "瑜伽導師被殺案 前男友謀殺罪成判終身監禁",
+        "dek": "高等法院法官指被告有殺害意圖，陪審團昨日一致裁定罪成後今日判刑。"
+      }
+    },
     {
       "id": "2026-11-20-cheung-sha-wan-kaming-fire",
       "published_at": "2026-11-20T12:11:00+08:00",
@@ -1724,28 +1768,6 @@
       "zh": {
         "headline": "77歲男子疑在屯門失蹤 警方呼籲提供資料",
         "dek": "鄒華順周一下午最後在青楊街露面，身高約1.68米，蓄短白髮，警方呼籲市民提供線索。"
-      }
-    },
-    {
-      "id": "2026-11-17-cannan-kindergarten-head-injury-probe",
-      "published_at": "2026-11-17T12:30:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "police",
-        "kowloon-tong",
-        "school"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-17/2026-11-17-cannan-kindergarten-head-injury-probe.json",
-      "en": {
-        "headline": "Police still probing two-year-old's head injury at Kowloon Tong kindergarten",
-        "dek": "Officers returned to Cannan Kindergarten on Waterloo Road on Monday to collect CCTV, the school said, after earlier claiming the case had been closed."
-      },
-      "zh": {
-        "headline": "九龍塘幼稚園兩歲男童頭部受傷警方仍在調查",
-        "dek": "迦南幼稚園（窩打老道）稱警方周一再返回學校取走閉路電視片段，較早前該校曾指案件已結。"
       }
     }
   ]
