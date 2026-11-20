@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-20T16:25:20+08:00",
+  "generated_at": "2026-11-20T18:10:38+08:00",
   "live_window_hours": 72,
   "count": 79,
   "articles": [
+    {
+      "id": "2026-11-20-ev-battery-recycling-levy",
+      "published_at": "2026-11-20T18:08:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "ev",
+        "recycling",
+        "environment",
+        "epd",
+        "levy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-ev-battery-recycling-levy.json",
+      "en": {
+        "headline": "Government proposes HK$6 per kg levy on EV battery suppliers from 2028",
+        "dek": "The Environmental Protection Department said the charge would start at about HK$3,000 for a typical private car battery and rise to about HK$15,000 by 2043."
+      },
+      "zh": {
+        "headline": "政府擬向電動車電池供應商徵費每公斤6元 料2028年起實施",
+        "dek": "環保署表示，一般私家車約500公斤電池初期徵費約3000元，至2043年逐步增至約15000元。"
+      }
+    },
+    {
+      "id": "2026-11-20-lifestyle-detour-2026-pmq",
+      "published_at": "2026-11-20T18:08:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "pmq",
+        "design",
+        "central",
+        "exhibition"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-lifestyle-detour-2026-pmq.json",
+      "en": {
+        "headline": "deTour 2026 design festival opens at PMQ with free admission through 29 November",
+        "dek": "Organised by PMQ under the theme Better, Not Perfect, the festival shows 14 works and runs 11 a.m. to 8 p.m. from Saturday, with shorter hours today."
+      },
+      "zh": {
+        "headline": "deTour 2026設計節於元創方開幕 免費入場至11月29日",
+        "dek": "由元創方主辦，主題「不完美，更美好」，展出14件作品；今日開放至下午3時，明日起至晚上8時。"
+      }
+    },
+    {
+      "id": "2026-11-20-northern-metropolis-ordinance-gazetted",
+      "published_at": "2026-11-20T18:08:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "northern-metropolis",
+        "legislation",
+        "development",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-northern-metropolis-ordinance-gazetted.json",
+      "en": {
+        "headline": "Northern Metropolis Development Ordinance gazetted after LegCo passage",
+        "dek": "The ordinance, passed on 12 November, provides a legal basis for faster planning, land and building measures, with subsidiary legislation targeted for early 2027."
+      },
+      "zh": {
+        "headline": "《北部都會區發展條例》刊憲 為北都發展提供法律基礎",
+        "dek": "條例經立法會11月12日三讀通過後今日刊憲，首批附屬法例計劃明年一月提交、首季生效。"
+      }
+    },
     {
       "id": "2026-11-20-north-point-boc-counterfeit-usd",
       "published_at": "2026-11-20T16:24:00+08:00",
@@ -1724,73 +1793,6 @@
       "zh": {
         "headline": "8至10月失業率回落至3.8%",
         "dek": "經季節性調整失業率微跌0.1個百分點，就業不足率維持2%，總就業人數約365萬。"
-      }
-    },
-    {
-      "id": "2026-11-17-hang-seng-closes-lower",
-      "published_at": "2026-11-17T18:10:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "stock",
-        "hang-seng",
-        "market"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-17/2026-11-17-hang-seng-closes-lower.json",
-      "en": {
-        "headline": "Hang Seng Index closes 1.03 percent lower at 23,508",
-        "dek": "The benchmark fell 245 points on Tuesday as technology shares remained under pressure, with main-board turnover of about HK$198 billion."
-      },
-      "zh": {
-        "headline": "恒生指數收市跌1.03%報23508點",
-        "dek": "大市周二收市跌245點，科技股持續受壓，主板成交額約1981億元。"
-      }
-    },
-    {
-      "id": "2026-11-17-hko-cooler-weather-friday",
-      "published_at": "2026-11-17T16:31:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "cold-front",
-        "temperature"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-17/2026-11-17-hko-cooler-weather-friday.json",
-      "en": {
-        "headline": "Observatory expects temperatures to fall to 15 degrees by Friday",
-        "dek": "A cold front will cross southern China from Wednesday, bringing northerly winds and cooler conditions, with urban lows of 15 to 16 degrees on Friday and Saturday."
-      },
-      "zh": {
-        "headline": "天文台料周五最低氣溫跌至15度",
-        "dek": "冷鋒周三稍後橫過華南沿岸，北風增強，周五及周六市區最低約15至16度，新界相當清涼。"
-      }
-    },
-    {
-      "id": "2026-11-17-kai-tin-estate-unit-fire",
-      "published_at": "2026-11-17T16:31:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "fire",
-        "lam-tin",
-        "kai-tin",
-        "housing",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-17/2026-11-17-kai-tin-estate-unit-fire.json",
-      "en": {
-        "headline": "Fire at Lam Tin public housing flat injures residents and forces evacuation",
-        "dek": "Blaze at Kai Wong House in Kai Tin Estate started around 1:43pm; firefighters brought it under control in about 20 minutes with preliminary signs of an electrical fault."
-      },
-      "zh": {
-        "headline": "藍田啟田邨啟旺樓單位火警 居民疏散有人受傷",
-        "dek": "事發於下午約1時43分，消防員約20分鐘內將火救熄，初步懷疑電路故障或電源排插短路引起。"
       }
     }
   ]
