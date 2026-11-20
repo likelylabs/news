@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-20T14:18:28+08:00",
+  "generated_at": "2026-11-20T16:25:20+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-11-20-north-point-boc-counterfeit-usd",
+      "published_at": "2026-11-20T16:24:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "counterfeit",
+        "north-point",
+        "bank"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-north-point-boc-counterfeit-usd.json",
+      "en": {
+        "headline": "Police arrest two over suspected counterfeit US dollar notes at North Point bank",
+        "dek": "A man and a woman were detained after Bank of China staff flagged 100 US$100 bills at a branch on King's Road on Friday morning."
+      },
+      "zh": {
+        "headline": "北角中銀職員揭百張百元美鈔疑偽鈔 警拘兩人",
+        "dek": "一男一女今早持100張100美元鈔票到英皇道分行，職員發現多張同編號後報警，兩人涉行使偽鈔被捕。"
+      }
+    },
+    {
+      "id": "2026-11-20-public-housing-waiting-time-4-4-years",
+      "published_at": "2026-11-20T16:24:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "housing",
+        "public-housing",
+        "housing-bureau",
+        "waiting-time"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-public-housing-waiting-time-4-4-years.json",
+      "en": {
+        "headline": "Housing Bureau says public housing composite waiting time falls to 4.4 years",
+        "dek": "The figure is the lowest in a decade and the first time below the 4.5-year target set for 2026-27, the bureau said on Friday."
+      },
+      "zh": {
+        "headline": "房屋局公布公屋綜合輪候時間降至4.4年 創十年新低",
+        "dek": "較6月底的4.8年減少0.4年，首次低於4.5年目標，亦是過去十年來最低。"
+      }
+    },
+    {
+      "id": "2026-11-20-sham-shui-po-suspicious-object",
+      "published_at": "2026-11-20T16:24:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "police",
+        "sham-shui-po",
+        "emergency"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-sham-shui-po-suspicious-object.json",
+      "en": {
+        "headline": "Explosive ordnance team clears suspicious object at Sham Shui Po construction site",
+        "dek": "Police said a worker reported a 200mm object opposite the sports ground around noon on Friday, and the site was later declared safe."
+      },
+      "zh": {
+        "headline": "深水埗運動場對開地盤發現可疑物體 爆炸品處理課到場後解封",
+        "dek": "工人中午約12時58分報案，指發現長約200毫米的物體，警方及爆炸品處理課到場調查後宣布安全。"
+      }
+    },
     {
       "id": "2026-11-20-primary-one-discretionary-places",
       "published_at": "2026-11-20T14:15:00+08:00",
@@ -1724,50 +1791,6 @@
       "zh": {
         "headline": "藍田啟田邨啟旺樓單位火警 居民疏散有人受傷",
         "dek": "事發於下午約1時43分，消防員約20分鐘內將火救熄，初步懷疑電路故障或電源排插短路引起。"
-      }
-    },
-    {
-      "id": "2026-11-17-hang-seng-midday-lower",
-      "published_at": "2026-11-17T14:30:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "stock",
-        "hang-seng",
-        "market"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-17/2026-11-17-hang-seng-midday-lower.json",
-      "en": {
-        "headline": "Hang Seng Index down 182 points at midday on tech pressure",
-        "dek": "The benchmark fell as much as 380 points before recovering to 23,571 at noon, with Baidu sliding nearly 7 percent after results."
-      },
-      "zh": {
-        "headline": "恒生指數半日跌182點 科技股受壓",
-        "dek": "大市曾跌逾380點，中午報23571點，百度績後急挫近7%，晶片股逆市反彈。"
-      }
-    },
-    {
-      "id": "2026-11-17-tuen-mun-missing-man-chow",
-      "published_at": "2026-11-17T14:30:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "tuen-mun",
-        "missing",
-        "community"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-17/2026-11-17-tuen-mun-missing-man-chow.json",
-      "en": {
-        "headline": "Police appeal for information on 77-year-old man missing in Tuen Mun",
-        "dek": "Chow Wah-shun was last seen on Monday afternoon in Tsing Yeung Street; officers described him as 1.68 metres tall with short white hair."
-      },
-      "zh": {
-        "headline": "77歲男子疑在屯門失蹤 警方呼籲提供資料",
-        "dek": "鄒華順周一下午最後在青楊街露面，身高約1.68米，蓄短白髮，警方呼籲市民提供線索。"
       }
     }
   ]

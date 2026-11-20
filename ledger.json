@@ -1,24 +1,6 @@
 {
   "covered": [
     {
-      "key": "exchange-fund-q3-earnings-nov6",
-      "id": "2026-11-06-exchange-fund-q3-earnings",
-      "first_seen": "2026-11-06T14:25:00+08:00",
-      "headline_en": "Exchange Fund posts HK$18.6 billion third-quarter income"
-    },
-    {
-      "key": "immigration-fake-id-illegal-workers-nov6",
-      "id": "2026-11-06-immigration-fake-id-syndicate",
-      "first_seen": "2026-11-06T14:25:00+08:00",
-      "headline_en": "Immigration Department breaks cross-border fake identity syndicate, 15 held"
-    },
-    {
-      "key": "privacy-commissioner-land-records-nov6",
-      "id": "2026-11-06-privacy-commissioner-land-records",
-      "first_seen": "2026-11-06T14:25:00+08:00",
-      "headline_en": "Privacy commissioner supports tighter land records access rules"
-    },
-    {
       "key": "helper-indecent-assault-sentencing-nov6",
       "id": "2026-11-06-helper-indecent-assault-sentencing",
       "first_seen": "2026-11-06T16:30:00+08:00",
@@ -2249,7 +2231,25 @@
       "id": "2026-11-20-yoga-instructor-murder-life-sentence",
       "first_seen": "2026-11-20T14:15:00+08:00",
       "headline_en": "Court jails man for life over murder of yoga instructor ex-girlfriend"
+    },
+    {
+      "key": "north-point-boc-counterfeit-usd-nov20",
+      "id": "2026-11-20-north-point-boc-counterfeit-usd",
+      "first_seen": "2026-11-20T16:24:00+08:00",
+      "headline_en": "Police arrest two over suspected counterfeit US dollar notes at North Point bank"
+    },
+    {
+      "key": "public-housing-composite-waiting-time-nov20",
+      "id": "2026-11-20-public-housing-waiting-time-4-4-years",
+      "first_seen": "2026-11-20T16:24:00+08:00",
+      "headline_en": "Housing Bureau says public housing composite waiting time falls to 4.4 years"
+    },
+    {
+      "key": "sham-shui-po-sports-ground-suspicious-object-nov20",
+      "id": "2026-11-20-sham-shui-po-suspicious-object",
+      "first_seen": "2026-11-20T16:24:00+08:00",
+      "headline_en": "Explosive ordnance team clears suspicious object at Sham Shui Po construction site"
     }
   ],
-  "updated_at": "2026-11-20T14:18:28+08:00"
+  "updated_at": "2026-11-20T16:25:20+08:00"
 }
