@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-21T04:34:04+08:00",
+  "generated_at": "2026-11-21T04:38:19+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 80,
   "articles": [
     {
       "id": "2026-11-21-lifestyle-big-picnic-discovery-bay",
@@ -47,6 +47,29 @@
       "zh": {
         "headline": "特區政府強烈譴責美中經濟與安全審議委員會報告",
         "dek": "政府形容報告失實偏頗，敦促美國立即停止干涉純屬中國內政的香港事務。"
+      }
+    },
+    {
+      "id": "2026-11-21-lifestyle-hk-china-tonga-rugby",
+      "published_at": "2026-11-21T04:20:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "lifestyle",
+        "sport",
+        "rugby",
+        "kai-tak",
+        "nations-cup"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-21/2026-11-21-lifestyle-hk-china-tonga-rugby.json",
+      "en": {
+        "headline": "Hong Kong China face Tonga in double-header at Kai Tak today",
+        "dek": "Women’s international at 2 p.m. and men’s Nations Cup fixture at 5 p.m. at Kai Tak Youth Sports Ground, with tickets from HK$100."
+      },
+      "zh": {
+        "headline": "港中國欖球隊今於啟德迎戰湯加 男女雙賽",
+        "dek": "女子國際賽下午二時開波，男子Nations Cup決賽圈下午五時，啟德青年運動場，門票由100元起。"
       }
     },
     {
