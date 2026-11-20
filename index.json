@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-21T04:22:16+08:00",
+  "generated_at": "2026-11-21T04:34:04+08:00",
   "live_window_hours": 72,
   "count": 79,
   "articles": [
+    {
+      "id": "2026-11-21-lifestyle-big-picnic-discovery-bay",
+      "published_at": "2026-11-21T04:35:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "discovery-bay",
+        "music",
+        "festival",
+        "lantau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-21/2026-11-21-lifestyle-big-picnic-discovery-bay.json",
+      "en": {
+        "headline": "The Big Picnic returns to Discovery Bay beach after seven-year break",
+        "dek": "The community music festival runs from 11 a.m. to 10 p.m. today at Tai Pak Beach, with more than 20 bands, food stalls and a kids zone."
+      },
+      "zh": {
+        "headline": "The Big Picnic時隔七年重返愉景灣大白灣沙灘",
+        "dek": "社區音樂節今日上午十一時至晚上十時於大白灣舉行，有逾二十支樂隊、美食攤檔及兒童專區。"
+      }
+    },
     {
       "id": "2026-11-21-govt-rejects-uscc-report",
       "published_at": "2026-11-21T04:20:00+08:00",
@@ -1775,29 +1799,6 @@
       "zh": {
         "headline": "天水圍67歲男子涉禁飛區放無人機被捕",
         "dek": "警方周二晚上約10時在天水圍拘捕該名本地男子，檢獲小型無人機，案件交元朗警區跟進。"
-      }
-    },
-    {
-      "id": "2026-11-18-lifestyle-hk-winterfest-opens",
-      "published_at": "2026-11-18T04:25:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "winterfest",
-        "central",
-        "tourism",
-        "lights"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-18/2026-11-18-lifestyle-hk-winterfest-opens.json",
-      "en": {
-        "headline": "Hong Kong WinterFest opens today with multi-district wonderlands",
-        "dek": "The Tourism Board’s flagship event runs to 5 January with Winter Wonderlands in Central and Tsim Sha Tsui from tonight, and the final Symphony of Lights at 8pm."
-      },
-      "zh": {
-        "headline": "香港繽紛冬日巡禮今日開幕 冬日小鎮擴至多區",
-        "dek": "旅發局旗艦活動至1月5日，中環及尖沙咀冬日小鎮今晚起開放，幻彩詠香江晚上8時上演最後一場。"
       }
     }
   ]
