@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-20T22:19:20+08:00",
+  "generated_at": "2026-11-21T00:33:03+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 78,
   "articles": [
+    {
+      "id": "2026-11-21-lifestyle-city-kids-christmas-fair",
+      "published_at": "2026-11-21T00:32:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "mid-levels",
+        "family",
+        "christmas",
+        "event"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-21/2026-11-21-lifestyle-city-kids-christmas-fair.json",
+      "en": {
+        "headline": "City Kids Christmas Fair returns to Mid-Levels campus today",
+        "dek": "The not-for-profit preschool opens its free annual fundraiser from 10 a.m. to 2 p.m. at the Grade II listed building on Borrett Road."
+      },
+      "zh": {
+        "headline": "City Kids聖誕嘉年華今午半山舉行 免費開放公眾參與",
+        "dek": "非牟利幼稚園於波老道二級歷史建築校園舉辦年度籌款活動，上午十時至下午二時，無需登記。"
+      }
+    },
     {
       "id": "2026-11-20-ai-risk-governance-working-group",
       "published_at": "2026-11-20T22:17:00+08:00",
@@ -1751,96 +1775,6 @@
       "zh": {
         "headline": "BIGBANG二十周年媒體展《COSMOS》今日於又一城開幕",
         "dek": "展覽由11月18日至12月27日在九龍塘又一城舉行，設主題展區、全息投影及官方周邊。"
-      }
-    },
-    {
-      "id": "2026-11-18-lifestyle-neomu-neomu-korean-popup",
-      "published_at": "2026-11-18T00:20:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "pop-up",
-        "lai-chi-kok",
-        "korean",
-        "illustration"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-18/2026-11-18-lifestyle-neomu-neomu-korean-popup.json",
-      "en": {
-        "headline": "Korean illustration pop-up continues at D2 Place in Lai Chi Kok",
-        "dek": "Eight Korean brands, several making their Hong Kong debut, sell plush toys, charms and stationery at the store until 22 November."
-      },
-      "zh": {
-        "headline": "韓國插畫品牌期間限定店續於荔枝角D2 Place開放",
-        "dek": "八個韓國品牌（部分為香港首度登場）於荔枝角D2 Place售賣毛公仔、掛飾及文具，至11月22日止。"
-      }
-    },
-    {
-      "id": "2026-11-17-abby-choi-trial-kwong-testimony",
-      "published_at": "2026-11-17T23:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "court",
-        "abby-choi",
-        "trial"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-17/2026-11-17-abby-choi-trial-kwong-testimony.json",
-      "en": {
-        "headline": "Abby Choi trial hears Kwong Kau claim he transferred HK$30 million for flat purchase",
-        "dek": "The former father-in-law told the High Court on Tuesday that the money went towards a Kadooria flat registered in his name, and that a large soup pot was intended as a planter."
-      },
-      "zh": {
-        "headline": "蔡天鳳案鄧球作供稱曾轉賬三千萬助購嘉道理山單位",
-        "dek": "前家翁周二在高等法院稱款項用於購買以他名義登記的單位，並指大湯煲是用來種植植物。"
-      }
-    },
-    {
-      "id": "2026-11-17-hoi-sham-park-teen-arrest",
-      "published_at": "2026-11-17T23:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "to-kwa-wan",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-17/2026-11-17-hoi-sham-park-teen-arrest.json",
-      "en": {
-        "headline": "Police arrest 17-year-old over alleged indecent act involving under-16 at Hoi Sham Park",
-        "dek": "Officers detained the youth on Tuesday after investigating videos that circulated online of behaviour at the To Kwa Wan park; the Education Bureau said it is concerned."
-      },
-      "zh": {
-        "headline": "警方拘捕17歲少年 涉向或歲以下兒童作出猾褲行為",
-        "dek": "九龍城警區刑事支援隊人員經調查後今日拘捕一名17歲少年，涉土瓜灣海心公園事件，教育局表示極度關注。"
-      }
-    },
-    {
-      "id": "2026-11-17-saf-blending-facility-mou",
-      "published_at": "2026-11-17T23:05:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "aviation",
-        "airport",
-        "saf",
-        "tuen-mun"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-17/2026-11-17-saf-blending-facility-mou.json",
-      "en": {
-        "headline": "Airport Authority signs MoU for Tuen Mun sustainable aviation fuel blending facility",
-        "dek": "The agreement with Towngas and EcoCeres advances discussions on a local blending plant to help meet the 2030 target for greener jet fuel."
-      },
-      "zh": {
-        "headline": "機管局與煤氣公司及怡斯萊簽備忘錄 磋商屯門建可持續航空燃料混合設施",
-        "dek": "三方同意繼續討論設計、興建及營運事宜，配合政府2030年可持續航空燃料使用目標。"
       }
     }
   ]
