@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-20-cold-weather-warning-nov20",
+  "published_at": "2026-11-20T12:11:00+08:00",
+  "category": "weather",
+  "tags": ["weather", "hko", "cold", "monsoon"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "cold-weather-warning-nov20",
+  "en": {
+    "headline": "Observatory issues Cold Weather Warning as urban temperatures fall toward 12 degrees",
+    "dek": "The Hong Kong Observatory raised the Cold Weather Warning at 11:15 a.m., forecasting cold conditions today and tomorrow with daytime urban lows around 12 degrees under the northeast monsoon.",
+    "body": [
+      "The Hong Kong Observatory issued a Cold Weather Warning at 11:15 a.m. on Friday, stating that cold weather is expected today and tomorrow under the influence of a strong northeast monsoon and a cloud band.",
+      "The Observatory said urban temperatures during the day would continue to fall to around 12 degrees Celsius, with the New Territories and higher ground one to two degrees lower. It noted that the morning low of 14.6 degrees recorded by 9:30 a.m. was the lowest of the autumn so far.",
+      "Strong northerly winds remain in force under the Strong Monsoon Signal, with mean speeds expected to exceed 40 kilometres per hour and occasional gale-force gusts. The Observatory reminded the public, especially those outdoors, the elderly and people with chronic illnesses, to take precautions against the cold and the wind-chill effect.",
+      "Looking ahead, the Observatory said conditions would gradually turn fine on Saturday while remaining rather cool in the morning, before cloud cover increases and winds strengthen over the following days with a slight rise in temperatures."
+    ]
+  },
+  "zh": {
+    "headline": "天文台發出寒冷天氣警告 市區日間氣溫料降至約12度",
+    "dek": "天文台上午11時15分發出寒冷天氣警告，預料今明兩日天氣寒冷，市區日間最低氣溫約12度，新界及高地再低一兩度。",
+    "body": [
+      "香港天文台周五上午11時15分發出寒冷天氣警告，指受強烈東北季候風及雲雨帶影響，本港今明兩日天氣寒冷。",
+      "天文台表示，日間市區氣溫將繼續下降至約12度，新界及高地再低一兩度。截至上午9時半錄得最低14.6度，為入秋以來最低紀錄。",
+      "強烈季候風信號仍然生效，預料吹偏北強風，平均風速每小時超遀40公里，陣風間中達烈風程度。天文台呼籲市民特別是戶外活動人士、長者及慢性病患者注意保暖，提防風寒效應。",
+      "天文台展望周六漸轉天晴，但早上仍然相當清凉，隨後一兩日雲量增多，風勢頗大，氣溫稍為回升。"
+    ]
+  }
+}
