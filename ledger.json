@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "lifestyle-yut-lok-fishing-boat-experience",
-      "id": "2026-11-06-lifestyle-yut-lok-fishing-boats",
-      "first_seen": "2026-11-06T12:10:00+08:00",
-      "headline_en": "Modified fishing boats begin passenger trips under leisure fishery scheme"
-    },
-    {
-      "key": "weekend-weather-outlook-nov7-8",
-      "id": "2026-11-06-weekend-weather-outlook",
-      "first_seen": "2026-11-06T12:10:00+08:00",
-      "headline_en": "Windy weekend ahead with mainly cloudy skies and occasional rain patches"
-    },
-    {
       "key": "exchange-fund-q3-earnings-nov6",
       "id": "2026-11-06-exchange-fund-q3-earnings",
       "first_seen": "2026-11-06T14:25:00+08:00",
@@ -2231,7 +2219,25 @@
       "id": "2026-11-20-oxfam-trailwalker-start",
       "first_seen": "2026-11-20T10:13:00+08:00",
       "headline_en": "Oxfam Trailwalker begins in Sai Kung with nearly 4800 participants"
+    },
+    {
+      "key": "cheung-sha-wan-kaming-factory-fire-nov20",
+      "id": "2026-11-20-cheung-sha-wan-kaming-fire",
+      "first_seen": "2026-11-20T12:11:00+08:00",
+      "headline_en": "Fire at Cheung Sha Wan factory building extinguished in 15 minutes, one person unwell"
+    },
+    {
+      "key": "cold-weather-warning-nov20",
+      "id": "2026-11-20-cold-weather-warning-nov20",
+      "first_seen": "2026-11-20T12:11:00+08:00",
+      "headline_en": "Observatory issues Cold Weather Warning as urban temperatures fall toward 12 degrees"
+    },
+    {
+      "key": "weekend-weather-outlook-nov21-22",
+      "id": "2026-11-20-weekend-weather-outlook-nov21-22",
+      "first_seen": "2026-11-20T12:11:00+08:00",
+      "headline_en": "Observatory forecasts cool Saturday morning then cloudier Sunday for Hong Kong"
     }
   ],
-  "updated_at": "2026-11-20T10:14:13+08:00"
+  "updated_at": "2026-11-20T12:12:09+08:00"
 }

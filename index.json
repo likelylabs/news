@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-20T10:14:13+08:00",
+  "generated_at": "2026-11-20T12:12:09+08:00",
   "live_window_hours": 72,
-  "count": 82,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-11-20-cheung-sha-wan-kaming-fire",
+      "published_at": "2026-11-20T12:11:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "fire",
+        "cheung-sha-wan",
+        "emergency"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-cheung-sha-wan-kaming-fire.json",
+      "en": {
+        "headline": "Fire at Cheung Sha Wan factory building extinguished in 15 minutes, one person unwell",
+        "dek": "Firefighters put out a blaze in an open-air canopy area at Kaming Factory Building on Castle Peak Road shortly after 10:30 a.m., with one person treated at the scene."
+      },
+      "zh": {
+        "headline": "長沙灣嘉名工廠大廈火警15分鐘撲熄 一人不適",
+        "dek": "消防今早約10時33分到場，約15分鐘內撲滅青山道688-690號嘉名工廠大廈露天簷篷位置火警，一人不適在場接受治理。"
+      }
+    },
+    {
+      "id": "2026-11-20-cold-weather-warning-nov20",
+      "published_at": "2026-11-20T12:11:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "cold",
+        "monsoon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-cold-weather-warning-nov20.json",
+      "en": {
+        "headline": "Observatory issues Cold Weather Warning as urban temperatures fall toward 12 degrees",
+        "dek": "The Hong Kong Observatory raised the Cold Weather Warning at 11:15 a.m., forecasting cold conditions today and tomorrow with daytime urban lows around 12 degrees under the northeast monsoon."
+      },
+      "zh": {
+        "headline": "天文台發出寒冷天氣警告 市區日間氣溫料降至約12度",
+        "dek": "天文台上午11時15分發出寒冷天氣警告，預料今明兩日天氣寒冷，市區日間最低氣溫約12度，新界及高地再低一兩度。"
+      }
+    },
+    {
+      "id": "2026-11-20-weekend-weather-outlook-nov21-22",
+      "published_at": "2026-11-20T12:11:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "weekend",
+        "temperature"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-weekend-weather-outlook-nov21-22.json",
+      "en": {
+        "headline": "Observatory forecasts cool Saturday morning then cloudier Sunday for Hong Kong",
+        "dek": "Saturday will turn fine and dry after a rather cool morning with urban temperatures of 15 to 22 degrees, while Sunday brings mainly cloudy skies and possible light rain later."
+      },
+      "zh": {
+        "headline": "天文台料周六早上清凉其後轉晴 周日大致多雲有微雨",
+        "dek": "周六漸轉天晴乾燥，早上相當清凉，市區氣溫15至22度；周日大致多雲，初時部分時間明朗，稍後有一兩陣微雨。"
+      }
+    },
     {
       "id": "2026-11-20-oxfam-trailwalker-start",
       "published_at": "2026-11-20T10:13:00+08:00",
@@ -1748,116 +1814,6 @@
       "zh": {
         "headline": "嘔心食物博物館於啟德AIRSIDE延續至11月26日",
         "dek": "瑞典流行展覽在啟德AIRSIDE的GATE33藝文館展出逾80款爭議美食，門票附送嘔吐袋，並設試食吧。"
-      }
-    },
-    {
-      "id": "2026-11-17-customs-illicit-cigarettes-raid",
-      "published_at": "2026-11-17T10:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "crime",
-        "yuen-long",
-        "tsuen-wan"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-17/2026-11-17-customs-illicit-cigarettes-raid.json",
-      "en": {
-        "headline": "Customs dismantles two illicit cigarette warehouses, seizes HK$1.8 million worth",
-        "dek": "Officers arrested a 56-year-old woman and a 60-year-old man on Monday after raiding storage sites in Yuen Long and Tsuen Wan, seizing about 410,000 duty-not-paid cigarettes."
-      },
-      "zh": {
-        "headline": "海關搗破元朗及荃灣兩個私煙倉檢值180萬",
-        "dek": "周一行動中拘捕56歲女子及60歲男子，檢獲約41萬支未完稅香煙，市值約180萬元。"
-      }
-    },
-    {
-      "id": "2026-11-17-hang-seng-opens-lower",
-      "published_at": "2026-11-17T10:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "stock",
-        "hang-seng",
-        "market"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-17/2026-11-17-hang-seng-opens-lower.json",
-      "en": {
-        "headline": "Hang Seng Index opens 0.98 percent lower at 23,521",
-        "dek": "The benchmark fell 233 points at the open on Tuesday as tech shares came under pressure, with Baidu sliding after results."
-      },
-      "zh": {
-        "headline": "恒生指數低開0.98%報23521點",
-        "dek": "大市周二開市跌233點，科技股受壓，百度績後股價向下。"
-      }
-    },
-    {
-      "id": "2026-11-17-hung-hom-bay-centre-carpark-collapse",
-      "published_at": "2026-11-17T10:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "hung-hom",
-        "building",
-        "incident"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-17/2026-11-17-hung-hom-bay-centre-carpark-collapse.json",
-      "en": {
-        "headline": "Ventilation duct collapses in Hung Hom Bay Centre carpark, damaging two cars",
-        "dek": "Police said a large duct and concrete fell from the ceiling late Monday night, crushing a Porsche and a Mercedes-Benz with no injuries."
-      },
-      "zh": {
-        "headline": "紅磡灣中心停車場風管塌下壓毀兩車無人受傷",
-        "dek": "警方指周一晚約10時41分大型風管連石屎從天花墮下，壓中一輛保時捷及一輛平治，無人受傷。"
-      }
-    },
-    {
-      "id": "2026-11-17-lifestyle-rimowa-aluminium-harbour-city",
-      "published_at": "2026-11-17T10:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "pop-up",
-        "harbour-city",
-        "design",
-        "tsim-sha-tsui"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-17/2026-11-17-lifestyle-rimowa-aluminium-harbour-city.json",
-      "en": {
-        "headline": "RIMOWA aluminium pop-up continues at Harbour City until 22 November",
-        "dek": "The limited installation in Gateway Arcade traces more than a century of aluminium craftsmanship through four zones, open daily from 11am to 9pm."
-      },
-      "zh": {
-        "headline": "RIMOWA鋁製行李箱主題快閃展於海港城延續至22日",
-        "dek": "閘道廣場中庭的限時裝置以四個區域追溯逾百年鋁材工藝，每日上午11時至晚上9時開放。"
-      }
-    },
-    {
-      "id": "2026-11-17-tst-audi-roadblock-taxis",
-      "published_at": "2026-11-17T10:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "police",
-        "traffic",
-        "tsim-sha-tsui"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-17/2026-11-17-tst-audi-roadblock-taxis.json",
-      "en": {
-        "headline": "White Audi reverses into four taxis while fleeing Tsim Sha Tsui roadblock",
-        "dek": "Police said the driver of a white Audi hit four taxis after being signalled to stop early Tuesday, then fled against traffic; one taxi driver was taken to hospital."
-      },
-      "zh": {
-        "headline": "尖沙咀私家車倒車撞四的士後逆線逃走",
-        "dek": "警方指白色Audi司機周二凌晨被截停時突然倒車，撞向四輛的士後逆線逃去，一名的士司機送院。"
       }
     }
   ]
