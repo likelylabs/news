@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-20T18:12:56+08:00",
+  "generated_at": "2026-11-20T20:29:59+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-11-20-marine-officer-domestic-worker-assault",
+      "published_at": "2026-11-20T20:26:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "court",
+        "police",
+        "domestic-worker"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-marine-officer-domestic-worker-assault.json",
+      "en": {
+        "headline": "Marine police officer admits assaulting domestic worker, remanded for sentencing",
+        "dek": "A 44-year-old suspended marine officer admitted 12 charges at Kwun Tong Magistrates’ Courts and will be sentenced on 15 December."
+      },
+      "zh": {
+        "headline": "休班水警認襲擊外傭12罪 還杰候判",
+        "dek": "44歲停職水警在觀塘裁判法院承認12項普通襲擊及襲擊致造成身體傷害罪，12月15日判刑。"
+      }
+    },
+    {
+      "id": "2026-11-20-peak-hermes-handbags-burglary",
+      "published_at": "2026-11-20T20:26:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "burglary",
+        "peak"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-20/2026-11-20-peak-hermes-handbags-burglary.json",
+      "en": {
+        "headline": "Police investigate Peak house burglary after four Hermès handbags reported stolen",
+        "dek": "Officers classified the case as burglary after a domestic helper reported a pried-open window at a detached house on Mount Austin Road on Thursday."
+      },
+      "zh": {
+        "headline": "山頂獨立屋遭爆竊 失約15萬元Hermès手袋",
+        "dek": "外傭周四下午報案指柯士甸山道獨立屋有窗戶被撓，警方列作爆竊跟進，暫未有人被捕。"
+      }
+    },
     {
       "id": "2026-11-20-ev-battery-recycling-levy",
       "published_at": "2026-11-20T18:08:00+08:00",
