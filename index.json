@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-22T02:04:09+08:00",
+  "generated_at": "2026-11-22T04:18:22+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 78,
   "articles": [
+    {
+      "id": "2026-11-22-lifestyle-detour-2026-pmq",
+      "published_at": "2026-11-22T04:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "central",
+        "pmq",
+        "design",
+        "exhibition"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-lifestyle-detour-2026-pmq.json",
+      "en": {
+        "headline": "deTour 2026 design festival continues at PMQ in Central",
+        "dek": "Free exhibition of 14 prototypes under the theme Better, Not Perfect runs until 29 November from 11am to 8pm."
+      },
+      "zh": {
+        "headline": "deTour 2026設計節於中環PMQ元創方繼續舉行",
+        "dek": "以「不完美，更美好」為主題的免費展覽展出14件原型作品，活動至11月29日，每日上午11時至晚上8時開放。"
+      }
+    },
     {
       "id": "2026-11-22-air-niugini-emergency-landing-davao",
       "published_at": "2026-11-22T02:05:00+08:00",
@@ -1755,76 +1779,6 @@
       "zh": {
         "headline": "DesignInspire創意設計博覽今日開放公眾參觀",
         "dek": "以Wander & Wonder為主題的免費設計展覽於灣仔會展舉行至11月21日，匯聚17個國家及地區逾200個參展商。"
-      }
-    },
-    {
-      "id": "2026-11-19-baltic-pipeline-captain-charge-dropped",
-      "published_at": "2026-11-19T02:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "court",
-        "maritime",
-        "pipeline",
-        "shipping"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-baltic-pipeline-captain-charge-dropped.json",
-      "en": {
-        "headline": "Hong Kong drops criminal damage charge against ship captain over Baltic pipeline",
-        "dek": "Prosecutors withdrew the case against Wan Wenguo after failing to contact mainland witnesses; he pleaded guilty to lesser offences and is expected to leave for the mainland."
-      },
-      "zh": {
-        "headline": "港方撤銷船長破壞波羅的海管道刑事控罪",
-        "dek": "控方因未能聯絡內地證人而撤銷針對萬文國的刑事毀壞控罪，他承認較輕微罪行後預計返回內地。"
-      }
-    },
-    {
-      "id": "2026-11-19-lifestyle-pingu-lcx-christmas",
-      "published_at": "2026-11-19T02:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "pingu",
-        "tsim-sha-tsui",
-        "christmas",
-        "lcx"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-lifestyle-pingu-lcx-christmas.json",
-      "en": {
-        "headline": "Pingu Christmas ice village opens at Tsim Sha Tsui LCX today",
-        "dek": "The free NOOT NOOT festive installation runs until 3 January at Harbour City's Ocean Terminal third floor, with five photo spots and a limited shop."
-      },
-      "zh": {
-        "headline": "Pingu聖誕冰FUN小鎮今日登陸尖沙咀LCX",
-        "dek": "免費NOOT NOOT節慶裝置於海港城海運大廈三階展出至1月3日，設五大打卡位及限定店。"
-      }
-    },
-    {
-      "id": "2026-11-19-student-mortgage-scam-arrest",
-      "published_at": "2026-11-19T02:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "scam",
-        "mortgage",
-        "student"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-student-mortgage-scam-arrest.json",
-      "en": {
-        "headline": "Police charge 19-year-old student over four mortgage scams totaling HK$3.4 million",
-        "dek": "Yau Tsim officers said the university student posed as a law firm employee, was recruited via Threads for HK$750 per job, and will appear at Kowloon City Magistrates' Courts today."
-      },
-      "zh": {
-        "headline": "警方起訴19歲大學生涉四宗按揭騙局共約340萬元",
-        "dek": "油尖警區指該名男學生假扮律師樓職員，透過Threads被招攬每次獲750元報酬，今日在九龍城裁判法院提堂。"
       }
     }
   ]
