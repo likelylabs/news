@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-22T00:03:58+08:00",
+  "generated_at": "2026-11-22T02:04:09+08:00",
   "live_window_hours": 72,
   "count": 80,
   "articles": [
+    {
+      "id": "2026-11-22-air-niugini-emergency-landing-davao",
+      "published_at": "2026-11-22T02:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "aviation",
+        "emergency",
+        "air-niugini",
+        "philippines"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-air-niugini-emergency-landing-davao.json",
+      "en": {
+        "headline": "Air Niugini flight from Hong Kong lands safely in Philippines after engine fire alert",
+        "dek": "All 146 passengers and crew evacuated uninjured after the Boeing 767 diverted to Davao early Saturday following a right-engine fire indication."
+      },
+      "zh": {
+        "headline": "香港起飛新幾內亞航空客機引擎火警 菲律賓達沃安全降落",
+        "dek": "波音767客機載有146人，因右引擎火警指示緊急降落達沃，全員經逃生滑梯撤離，無人受傷。"
+      }
+    },
+    {
+      "id": "2026-11-22-lifestyle-asian-ethnic-cultural-performances",
+      "published_at": "2026-11-22T02:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "tsim-sha-tsui",
+        "free-event",
+        "lcsd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-lifestyle-asian-ethnic-cultural-performances.json",
+      "en": {
+        "headline": "Free Asian Ethnic Cultural Performances carnival opens at Cultural Centre today",
+        "dek": "Performers from around 30 countries gather at the Tsim Sha Tsui piazza from 2pm to 6pm under the theme Blessings in Full Bloom."
+      },
+      "zh": {
+        "headline": "亞洲民族文化表演嘉年華今日尖沙咀文化中心免費舉行",
+        "dek": "約30個國家及地區表演者下午二時至六時在廣場演出，主題為「福滿綻放」。"
+      }
+    },
     {
       "id": "2026-11-22-election-committee-voting-day",
       "published_at": "2026-11-22T00:03:00+08:00",
@@ -1780,51 +1825,6 @@
       "zh": {
         "headline": "警方起訴19歲大學生涉四宗按揭騙局共約340萬元",
         "dek": "油尖警區指該名男學生假扮律師樓職員，透過Threads被招攬每次獲750元報酬，今日在九龍城裁判法院提堂。"
-      }
-    },
-    {
-      "id": "2026-11-19-ce-office-vehicle-wan-chai-pedestrian",
-      "published_at": "2026-11-19T00:35:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "wan-chai",
-        "accident",
-        "chief-executive"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-ce-office-vehicle-wan-chai-pedestrian.json",
-      "en": {
-        "headline": "CE office vehicle strikes pedestrian in Wan Chai, woman declines hospital",
-        "dek": "The Chief Executive's Office said a vehicle turning from Gloucester Road into Fenwick Street about 5:48pm struck a pedestrian who crossed where no at-grade facility exists; she refused treatment and the case was…"
-      },
-      "zh": {
-        "headline": "特首辦車輛灣仔遇途人衝出馬路 事主拒絕送院",
-        "dek": "行政長官辦公室表示，車輛周三下午約5時48分於灣仔告士打道左轉分域街時，遇到途人在無過路設施路段突然衝出，司機即時煞車報警，事主拒絕送院。"
-      }
-    },
-    {
-      "id": "2026-11-19-lifestyle-symphony-of-lights-final",
-      "published_at": "2026-11-19T00:35:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "tourism",
-        "victoria-harbour",
-        "winterfest",
-        "culture"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-lifestyle-symphony-of-lights-final.json",
-      "en": {
-        "headline": "Symphony of Lights stages final show over Victoria Harbour",
-        "dek": "The 22-year-old nightly spectacle ended Wednesday at 8pm with rooftop pyrotechnics as WinterFest launched with new district light shows."
-      },
-      "zh": {
-        "headline": "幻彩詠香江最後一場潙演添煙火告別維港",
-        "dek": "有二十二年歷史的潙演周三晚上八時上演最後一場，加入屋頂煙火，維多利亞港兩岸超過四十棟大廈配合演出，同時繁紛冬日巡禮啟動。"
       }
     }
   ]
