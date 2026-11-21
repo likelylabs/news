@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-21T22:13:30+08:00",
+  "generated_at": "2026-11-22T00:03:58+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-11-22-election-committee-voting-day",
+      "published_at": "2026-11-22T00:03:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "election",
+        "election-committee",
+        "voting",
+        "politics"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-election-committee-voting-day.json",
+      "en": {
+        "headline": "Election Committee subsector polls open today from 9am to 6pm",
+        "dek": "856 candidates contest 723 seats across 31 subsectors at five ordinary polling stations; voters must bring original HKID."
+      },
+      "zh": {
+        "headline": "選委會界別分組選舉今日舉行 投票時間上午九時至下午六時",
+        "dek": "856名候選人競逐31個界別分組723個席位，五個一般投票站開放，投票人須帶備香港身份證正本。"
+      }
+    },
+    {
+      "id": "2026-11-22-lifestyle-atsuko-okatsuka-big-bowl-tour",
+      "published_at": "2026-11-22T00:03:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "comedy",
+        "asiaworld-expo",
+        "lantau",
+        "performance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-lifestyle-atsuko-okatsuka-big-bowl-tour.json",
+      "en": {
+        "headline": "Atsuko Okatsuka performs Big Bowl Tour at AsiaWorld-Expo tonight",
+        "dek": "The comedian takes the stage at Runway 11 at 8pm, with seated tickets priced from HK$580 to HK$780."
+      },
+      "zh": {
+        "headline": "Atsuko Okatsuka今晚於亞洲博覽館上演Big Bowl Tour",
+        "dek": "喜劇演員晚上八時在11號館演出，座位票價由580港元至780港元。"
+      }
+    },
     {
       "id": "2026-11-21-lifestyle-asian-gaelic-games-2026",
       "published_at": "2026-11-21T22:15:00+08:00",
