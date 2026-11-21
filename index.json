@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-21T18:14:12+08:00",
+  "generated_at": "2026-11-21T20:25:37+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-11-21-election-committee-poll-inspection",
+      "published_at": "2026-11-21T20:25:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "election",
+        "election-committee",
+        "john-lee",
+        "politics",
+        "voting"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-21/2026-11-21-election-committee-poll-inspection.json",
+      "en": {
+        "headline": "Chief Executive inspects Wan Chai polling station ahead of Election Committee vote",
+        "dek": "John Lee visited Harbour Road Sports Centre this afternoon and urged eligible voters to cast ballots tomorrow in the contest for 723 seats."
+      },
+      "zh": {
+        "headline": "行政長官視察灣仔票站 選委會選舉明日舉行",
+        "dek": "李家超今午到港灣道體育館了解準備情況，呼籲合資格投票人明日踴躍投票，選出723名委員。"
+      }
+    },
+    {
+      "id": "2026-11-21-sports-law-body-hong-kong-base",
+      "published_at": "2026-11-21T20:25:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "justice",
+        "horace-cheung",
+        "dispute-resolution",
+        "headquarters"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-21/2026-11-21-sports-law-body-hong-kong-base.json",
+      "en": {
+        "headline": "Major regional sports law body to establish Hong Kong headquarters by year end",
+        "dek": "Deputy Secretary for Justice Horace Cheung said a major regional sports law organisation will set up its base in the city within this year."
+      },
+      "zh": {
+        "headline": "主要區域體育法律機構將於年底前在港設立總部",
+        "dek": "律政司副司長張國鈞表示，一個主要區域體育法律機構將於今年內在香港設立總部。"
+      }
+    },
     {
       "id": "2026-11-21-aiib-hong-kong-office",
       "published_at": "2026-11-21T18:13:00+08:00",
@@ -1779,75 +1825,6 @@
       "zh": {
         "headline": "咪錶營辦商就全城故障向政府賠償約130萬元",
         "dek": "運輸及物流局局長陳美寶在立法會表示，營辦商將向政府賠償約130萬元，並向受影響市民退還事故期間收費。"
-      }
-    },
-    {
-      "id": "2026-11-18-abby-choi-kwong-kau-responsibility",
-      "published_at": "2026-11-18T18:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "court",
-        "abby-choi",
-        "murder",
-        "trial"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-18/2026-11-18-abby-choi-kwong-kau-responsibility.json",
-      "en": {
-        "headline": "Kwong Kau tells High Court he alone dismembered Abby Choi's body",
-        "dek": "The former father-in-law of the slain socialite said he takes full responsibility for disposing of her remains and denied pressuring his elder son to match his evidence."
-      },
-      "zh": {
-        "headline": "鄔球高院稱獨自肢解蔡天鳳遺體並負全責",
-        "dek": "蔡天鳳前家翁指事發後決定獨自處理遺體，否認兩名兒子參與，亦否認施壓長子作供配合。"
-      }
-    },
-    {
-      "id": "2026-11-18-lifestyle-kai-tak-water-sports-opening",
-      "published_at": "2026-11-18T18:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "kai-tak",
-        "sport",
-        "water-sports",
-        "jockey-club"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-18/2026-11-18-lifestyle-kai-tak-water-sports-opening.json",
-      "en": {
-        "headline": "Jockey Club Kai Tak Water Sports Centre holds grand opening ceremony",
-        "dek": "The revitalised former fire station facility in Kai Tak hosted athletes and officials on Wednesday, with a parade showcasing dragon boating, rowing and kayaking."
-      },
-      "zh": {
-        "headline": "賽馬會啟德水上運動中心舉行開幕典禮",
-        "dek": "由舊啟德消防局活化而成的中心周三舉行開幕典禮，亞運獎牌得主出席，並有共融巡遊展示龍舟及賽艇。"
-      }
-    },
-    {
-      "id": "2026-11-18-pickleball-investment-scam-6m",
-      "published_at": "2026-11-18T18:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "scam",
-        "investment",
-        "pickleball"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-18/2026-11-18-pickleball-investment-scam-6m.json",
-      "en": {
-        "headline": "Retired executive loses over HK$6 million in pickleball group investment scam",
-        "dek": "Police said a former telecommunications senior manager was contacted via a sports platform pickleball group and transferred funds to a fake investment site for crypto and oil."
-      },
-      "zh": {
-        "headline": "退休電訊高層墮匹克球群組投資騙局損失逾600萬元",
-        "dek": "警方指事主在運動平台匹克球群組被私訊搭詔，誤信高回報加密貨幣及原油投資後轉賬至假網站，最終無法提款。"
       }
     }
   ]
