@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-21T09:37:34+08:00",
+  "generated_at": "2026-11-21T10:13:50+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-11-21-regional-flag-day",
+      "published_at": "2026-11-21T10:13:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "flag-day",
+        "charity",
+        "swd",
+        "fundraising"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-21/2026-11-21-regional-flag-day.json",
+      "en": {
+        "headline": "Three charities hold regional flag days across Hong Kong this morning",
+        "dek": "The Social Welfare Department said Alzheimer's Disease Association, Guide Dogs Association and Society for Abandoned Animals will sell flags until 12.30pm."
+      },
+      "zh": {
+        "headline": "三間慈善機構今早分區賣旗籌款至中午",
+        "dek": "社會福利署表示，香港認知障礙症協會、香港導盲犬協會及保護遺棄動物協會將於上午七時至中午十二時半賣旗。"
+      }
+    },
     {
       "id": "2026-11-21-cold-weather-warning-cancelled",
       "published_at": "2026-11-21T08:05:00+08:00",
