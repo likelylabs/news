@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-21T10:13:50+08:00",
+  "generated_at": "2026-11-21T12:14:29+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-11-21-sports-dispute-resolution-summit",
+      "published_at": "2026-11-21T12:12:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "legal",
+        "summit",
+        "justice",
+        "dispute-resolution"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-21/2026-11-21-sports-dispute-resolution-summit.json",
+      "en": {
+        "headline": "Sports dispute resolution summit set for 1 December with free registration",
+        "dek": "The Department of Justice, Law Society and Bar Association will co-host the event to promote Hong Kong as an international centre for sports dispute resolution."
+      },
+      "zh": {
+        "headline": "體育爭議解決高峰會十二月一日舉行 免費登記現已開放",
+        "dek": "律政司、律師會及大律師公會合辦高峰會，展現香港成為國際體育爭議解決中心的優勢，名額有限先到先得。"
+      }
+    },
+    {
+      "id": "2026-11-21-tourism-arrivals-first-10-months",
+      "published_at": "2026-11-21T12:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tourism",
+        "visitors",
+        "rosanna-law",
+        "apec",
+        "hotels"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-21/2026-11-21-tourism-arrivals-first-10-months.json",
+      "en": {
+        "headline": "Tourism chief confident visitor arrivals can exceed 55 million this year",
+        "dek": "Rosanna Law said Hong Kong recorded more than 45.8 million arrivals in the first 10 months, a 12 percent rise, and expects the full-year total to top the original 53.8 million target."
+      },
+      "zh": {
+        "headline": "羅淑佩料全年訪港旅客可突破5500萬人次",
+        "dek": "文化體育及旅遊局局長羅淑佩表示，今年首十個月錄得逾4580萬人次訪港旅客，按年升12%，有信心全年可超過原先5380萬目標。"
+      }
+    },
+    {
+      "id": "2026-11-21-west-kowloon-highway-motorcycle-pothole",
+      "published_at": "2026-11-21T12:12:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "accident",
+        "motorcycle",
+        "west-kowloon",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-21/2026-11-21-west-kowloon-highway-motorcycle-pothole.json",
+      "en": {
+        "headline": "Motorcyclist injured after hitting pothole on West Kowloon Highway",
+        "dek": "A 54-year-old rider was taken to Princess Margaret Hospital after his motorcycle overturned near V Walk on Friday afternoon; police are investigating."
+      },
+      "zh": {
+        "headline": "西九龍公路電單車轆坑洞翻側 鐵騎士受傷送院",
+        "dek": "54歲李姓男子周五下午於V Walk對開路段因路面殘缺人車倒地，清醒送瑪嘉烈醫院，警方調查中。"
+      }
+    },
     {
       "id": "2026-11-21-regional-flag-day",
       "published_at": "2026-11-21T10:13:00+08:00",
@@ -1754,51 +1823,6 @@
       "zh": {
         "headline": "港島線港大站附近信號故障 早高峰延誤近兩小時",
         "dek": "周三早上港大站附近信號設備故障令列車慢駛，來回行車時間多五至八分鐘，北角站出現人龍，約十時半修復後服務逐步回復。"
-      }
-    },
-    {
-      "id": "2026-11-18-airport-authority-new-world-option",
-      "published_at": "2026-11-18T10:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "airport",
-        "new-world",
-        "property"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-18/2026-11-18-airport-authority-new-world-option.json",
-      "en": {
-        "headline": "Airport Authority option on New World shares faces dilution risk from rights issue",
-        "dek": "Analysts say the authority’s right to buy 750 million shares at HK$3 each, granted in the 11 Skies handover, could lose value after New World’s heavily discounted capital raising."
-      },
-      "zh": {
-        "headline": "機管局認購新世界期權或因供股而攤薄",
-        "dek": "分析指機管局以每股3元購入7.5億股的期權，可能因新世界大幅折讓供股而價值受影響，當局未確認有否反攤薄條款。"
-      }
-    },
-    {
-      "id": "2026-11-18-lifestyle-happy-wednesday-music-dine",
-      "published_at": "2026-11-18T10:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "happy-valley",
-        "racing",
-        "music",
-        "food"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-18/2026-11-18-lifestyle-happy-wednesday-music-dine.json",
-      "en": {
-        "headline": "Happy Wednesday Music and Dine Festival returns to Happy Valley tonight",
-        "dek": "The Hong Kong Jockey Club’s themed race night at Happy Valley Racecourse features live music by PENTHAÜS, food and drinks in the Beer Garden from 6pm."
-      },
-      "zh": {
-        "headline": "樂嚐星期三今晚重返跑馬地 啤酒園有現場音樂",
-        "dek": "香港賽馬會跑馬地馬場主題賽馬夜今晚6時起舉行，啤酒園有PENTHAÜS現場演出及美食飲品。"
       }
     }
   ]
