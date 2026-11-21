@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-21T14:15:49+08:00",
+  "generated_at": "2026-11-21T16:30:13+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 78,
   "articles": [
+    {
+      "id": "2026-11-21-customs-airport-endangered-turtles-seizure",
+      "published_at": "2026-11-21T16:28:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "airport",
+        "endangered",
+        "turtles",
+        "wildlife"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-21/2026-11-21-customs-airport-endangered-turtles-seizure.json",
+      "en": {
+        "headline": "Customs seize four suspected endangered turtles in US parcel at airport",
+        "dek": "Officers found the live animals inside a package declared as a toy gift box; the case has been passed to the Agriculture, Fisheries and Conservation Department."
+      },
+      "zh": {
+        "headline": "海關機場檢獲四隻懷疑瀕危活龜 包裹由美國進口",
+        "dek": "人員在一件報稱為玩具禮盒的包裹內發現四隻活龜，估計市值約四千元，案件已轉交漁護署。"
+      }
+    },
+    {
+      "id": "2026-11-21-customs-kwun-tong-counterfeit-perfume-father",
+      "published_at": "2026-11-21T16:28:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "counterfeit",
+        "kwun-tong",
+        "perfume",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-21/2026-11-21-customs-kwun-tong-counterfeit-perfume-father.json",
+      "en": {
+        "headline": "Customs arrest 61-year-old over counterfeit perfume operation involving HK$6 million",
+        "dek": "A father was held after officers raided a Kwun Tong unit last week and seized about 800 suspected fake luxury items; his son remains overseas."
+      },
+      "zh": {
+        "headline": "海關破觀塘網店售冒牌香水案 拘61歲父親 兒子在逃",
+        "dek": "海關上周三突擊觀塘工廈單位，檢獲約800件懷疑冒牌香水及公仔，涉犯罪得益約600萬元。"
+      }
+    },
+    {
+      "id": "2026-11-21-police-southern-district-drone-traffic",
+      "published_at": "2026-11-21T16:28:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "police",
+        "drone",
+        "traffic",
+        "southern-district",
+        "enforcement"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-21/2026-11-21-police-southern-district-drone-traffic.json",
+      "en": {
+        "headline": "Police use drones to record 42 double-white-line offences in Southern District",
+        "dek": "Officers from the Hong Kong Island Traffic Unit targeted Stanley Gap Road and Victoria Road during Operation Torch today."
+      },
+      "zh": {
+        "headline": "警方南區以無人機執法 錄得42宗橫越雙白線",
+        "dek": "港島總區交通部今日展開「火炬」行動，於赤柱峽道及域多利道以高空錄影搜集證據。"
+      }
+    },
     {
       "id": "2026-11-21-algernon-yau-apec-consensus",
       "published_at": "2026-11-21T14:15:00+08:00",
@@ -1711,120 +1780,6 @@
       "zh": {
         "headline": "退休電訊高層墮匹克球群組投資騙局損失逾600萬元",
         "dek": "警方指事主在運動平台匹克球群組被私訊搭詔，誤信高回報加密貨幣及原油投資後轉賬至假網站，最終無法提款。"
-      }
-    },
-    {
-      "id": "2026-11-18-hailey-cheng-doxxing-charged",
-      "published_at": "2026-11-18T16:30:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "court",
-        "police",
-        "doxxing",
-        "privacy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-18/2026-11-18-hailey-cheng-doxxing-charged.json",
-      "en": {
-        "headline": "Police charge Hailey Cheng with four doxxing offences in MediSafe case",
-        "dek": "Officers charged the whistle-blower this morning with four counts of disclosing personal data without consent causing specified harm; the case goes to Eastern Magistrates’ Court this afternoon."
-      },
-      "zh": {
-        "headline": "藥倍安心風波吹哨者鄭曦琳涉起底罪被控四罪 今午東區裁判法院提堂",
-        "dek": "警方周三上午落案起訴鄭曦琳四項「未獲資料當事人同意下披露其個人資料而該披露造成指明傷害」罪，案件今午在東區裁判法院提堂。"
-      }
-    },
-    {
-      "id": "2026-11-18-hk-vietnam-moc-disputes",
-      "published_at": "2026-11-18T16:30:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "justice",
-        "vietnam",
-        "international-law",
-        "doj"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-18/2026-11-18-hk-vietnam-moc-disputes.json",
-      "en": {
-        "headline": "Hong Kong and Vietnam sign memorandum on international dispute resolution",
-        "dek": "Secretary for Justice Paul Lam and Vietnam’s Deputy Minister of Foreign Affairs Le Anh Tuan signed the pact on Wednesday to strengthen capacity-building on economic, commercial and investment disputes."
-      },
-      "zh": {
-        "headline": "港越簽署合作備忘錄 加強國際爭議解決能力建設",
-        "dek": "律政司司長林定國與越南外交部副部長黎英俊周三簽署備忘錄，框架涵蓋經濟、商業及投資領域的法律人員能力建設。"
-      }
-    },
-    {
-      "id": "2026-11-18-lei-yue-mun-toilet-gold",
-      "published_at": "2026-11-18T16:30:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "public-toilet",
-        "lei-yue-mun",
-        "awards",
-        "fehd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-18/2026-11-18-lei-yue-mun-toilet-gold.json",
-      "en": {
-        "headline": "Lei Yue Mun public toilet wins gold in 2026 Best Public Toilet Awards",
-        "dek": "The Hong Kong Toilet Association named the rebuilt Ling Nam Sun Tsuen facility in Kwun Tong the top toilet, citing its modern design and smart monitoring systems ahead of World Toilet Day."
-      },
-      "zh": {
-        "headline": "鯉魚門嶺南新村公廁奪得2026最佳公廁金獎",
-        "dek": "香港廁所協會周三公布結果，觀塘鯉魚門重建公廁憑現代設計及智慧監測系統獲金，適逢世界廁所日。"
-      }
-    },
-    {
-      "id": "2026-11-18-citi-hk-multimillionaires-2026",
-      "published_at": "2026-11-18T14:20:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "wealth",
-        "citibank",
-        "economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-18/2026-11-18-citi-hk-multimillionaires-2026.json",
-      "en": {
-        "headline": "Hong Kong multimillionaires rise 4 percent to 412000 Citibank report says",
-        "dek": "Citibank said the number of residents with at least HK$10 million in net assets reached 412000 by mid-June, up 4 percent year on year, with a median of HK$20 million."
-      },
-      "zh": {
-        "headline": "花旗報告：本港千萬富翁增至41.2萬人 按年升4%",
-        "dek": "花旗香港調查顯示，截至今年中，本港總資產淨值至少1000萬元的人士約有41.2萬人，較去年增加4%，中位數為2000萬元。"
-      }
-    },
-    {
-      "id": "2026-11-18-ho-ka-chun-upskirt-sentenced",
-      "published_at": "2026-11-18T14:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "court",
-        "police",
-        "lai-king",
-        "mtr"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-18/2026-11-18-ho-ka-chun-upskirt-sentenced.json",
-      "en": {
-        "headline": "Off-duty police officer sentenced to 120 hours community service for upskirt filming",
-        "dek": "Magistrate Raymond Wong at Shatin Magistrates’ Courts ordered the 39-year-old former officer Ho Ka-chun to complete the service after convicting him over the August 2025 incident at Lai King MTR station."
-      },
-      "zh": {
-        "headline": "時任男警港鐵站偷拍裙底罪成 判120小時社會服務令",
-        "dek": "沙田裁判法院裁判官黃國輝周三判處39歲前警員何家俊完成120小時社會服務令，案件涉2025年8月1日荔景港鐵站扶手電梯事件。"
       }
     }
   ]
