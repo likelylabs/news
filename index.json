@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-21T08:05:56+08:00",
+  "generated_at": "2026-11-21T09:37:34+08:00",
   "live_window_hours": 72,
-  "count": 82,
+  "count": 78,
   "articles": [
     {
       "id": "2026-11-21-cold-weather-warning-cancelled",
@@ -1776,96 +1776,6 @@
       "zh": {
         "headline": "樂嚐星期三今晚重返跑馬地 啤酒園有現場音樂",
         "dek": "香港賽馬會跑馬地馬場主題賽馬夜今晚6時起舉行，啤酒園有PENTHAÜS現場演出及美食飲品。"
-      }
-    },
-    {
-      "id": "2026-11-18-eac-crisis-management-elections",
-      "published_at": "2026-11-18T08:10:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "elections",
-        "eac",
-        "legco"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-18/2026-11-18-eac-crisis-management-elections.json",
-      "en": {
-        "headline": "Electoral Affairs Commission holds crisis meeting ahead of Sunday subsector vote",
-        "dek": "Chairman David Lok chaired the session on Tuesday evening to review cybersecurity, security risks and contingency plans for the November 22 elections."
-      },
-      "zh": {
-        "headline": "選管會舉行危機管理會議 為周日選委會選舉作準備",
-        "dek": "主席陸啟康周二傍晚主持會議，檢視網絡安全、保安風險及應變計劃，確保11月22日投票日順利。"
-      }
-    },
-    {
-      "id": "2026-11-18-hsbc-fake-documents-arrest",
-      "published_at": "2026-11-18T08:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "central",
-        "hsbc",
-        "fraud"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-18/2026-11-18-hsbc-fake-documents-arrest.json",
-      "en": {
-        "headline": "Two arrested at HSBC headquarters over suspected false documents for accounts",
-        "dek": "A 52-year-old man and a 53-year-old woman were detained on Tuesday afternoon after bank staff reported them at the Central building."
-      },
-      "zh": {
-        "headline": "中環滙豐總行兩人涉用假文件開戶被捕",
-        "dek": "52歲男子及53歲女子周二下午在皇后大道中滙豐總行被職員舉報後，涉嫌行使虛假文書被警方拘捕。"
-      }
-    },
-    {
-      "id": "2026-11-18-north-point-drug-arrest",
-      "published_at": "2026-11-18T08:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "north-point",
-        "drugs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-18/2026-11-18-north-point-drug-arrest.json",
-      "en": {
-        "headline": "Police arrest two men after seizing drugs from North Point car",
-        "dek": "Officers found about 43 grammes of suspected cocaine and ketamine in a private car outside Tanner Road on Tuesday night; the passenger tried to flee."
-      },
-      "zh": {
-        "headline": "北角私家車檢獲毒品 兩名男子被捕",
-        "dek": "警方周二晚上在丹拿道外一輛私家車內檢獲約43克懷疑可卡因及氯胺酮，35歲乘客試圖逃走被制服。"
-      }
-    },
-    {
-      "id": "2026-11-18-tin-shui-wai-drone-arrest",
-      "published_at": "2026-11-18T08:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "tin-shui-wai",
-        "drone",
-        "apec"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-18/2026-11-18-tin-shui-wai-drone-arrest.json",
-      "en": {
-        "headline": "Police arrest 67-year-old for flying drone in restricted zone in Tin Shui Wai",
-        "dek": "The man was detained on Tuesday night during the temporary no-fly zone set up for the APEC meetings in Shenzhen; a small drone was seized."
-      },
-      "zh": {
-        "headline": "天水圍67歲男子涉禁飛區放無人機被捕",
-        "dek": "警方周二晚上約10時在天水圍拘捕該名本地男子，檢獲小型無人機，案件交元朗警區跟進。"
       }
     }
   ]
