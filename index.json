@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-21T12:14:29+08:00",
+  "generated_at": "2026-11-21T14:15:49+08:00",
   "live_window_hours": 72,
   "count": 80,
   "articles": [
+    {
+      "id": "2026-11-21-algernon-yau-apec-consensus",
+      "published_at": "2026-11-21T14:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "apec",
+        "trade",
+        "algernon-yau",
+        "economy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-21/2026-11-21-algernon-yau-apec-consensus.json",
+      "en": {
+        "headline": "Commerce chief says China-US-Russia consensus positive for Hong Kong economy",
+        "dek": "Algernon Yau said the joint peace declaration from the APEC summit sends a positive message but urged cautious optimism as issues cannot be resolved overnight."
+      },
+      "zh": {
+        "headline": "商務局長指中美俄共識對香港經濟正面",
+        "dek": "姚英華表示，APEC峰會期間三國領袖發出的和平宣言釋放正面訊息，但問題不可能一跄而就，須保持審慎樂觀。"
+      }
+    },
+    {
+      "id": "2026-11-21-lifestyle-alex-fong-charity-swim",
+      "published_at": "2026-11-21T14:15:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "lifestyle",
+        "sport",
+        "charity",
+        "lantau",
+        "swimming"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-21/2026-11-21-lifestyle-alex-fong-charity-swim.json",
+      "en": {
+        "headline": "Alex Fong passes 14 km mark in Hong Kong to Macau charity swim",
+        "dek": "The former Olympian started from Peaked Hill on Lantau at about 9 a.m. and had exited Hong Kong waters by early afternoon, aiming to finish the 35 km crossing in about nine hours."
+      },
+      "zh": {
+        "headline": "方力申港澳慈善游已完成逾14公里 游出香港水域",
+        "dek": "前奧運泳手今早約九時由大嶼山雞翼角出發，中午已完成12公里並完成首次補給，下午初段已游出香港水域，目標約九小時橫渡35公里抵達澳門。"
+      }
+    },
     {
       "id": "2026-11-21-sports-dispute-resolution-summit",
       "published_at": "2026-11-21T12:12:00+08:00",
@@ -1779,50 +1825,6 @@
       "zh": {
         "headline": "時任男警港鐵站偷拍裙底罪成 判120小時社會服務令",
         "dek": "沙田裁判法院裁判官黃國輝周三判處39歲前警員何家俊完成120小時社會服務令，案件涉2025年8月1日荔景港鐵站扶手電梯事件。"
-      }
-    },
-    {
-      "id": "2026-11-18-cold-front-crossing-hk",
-      "published_at": "2026-11-18T12:15:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "cold-front",
-        "temperature"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-18/2026-11-18-cold-front-crossing-hk.json",
-      "en": {
-        "headline": "Cold front to cross Hong Kong later today, temperatures to fall to 15C",
-        "dek": "The Observatory said the front over northern Guangdong will bring rain patches and cooler weather, with urban lows of 15 to 16 degrees on Friday and Saturday."
-      },
-      "zh": {
-        "headline": "冷鋒稍後橫過本港 周五六市區最低約15至16度",
-        "dek": "天文台指廣東北部冷鋒今日稍後橫過沿岸，晚上氣溫下降至約21度，隨後顯著轉涼，高地風寒效應明顯。"
-      }
-    },
-    {
-      "id": "2026-11-18-mtr-island-line-signal-fault",
-      "published_at": "2026-11-18T12:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "island-line",
-        "delay",
-        "hku"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-18/2026-11-18-mtr-island-line-signal-fault.json",
-      "en": {
-        "headline": "MTR Island Line signalling fault causes rush-hour delays near HKU",
-        "dek": "A fault near HKU station forced slower running and added five to eight minutes to end-to-end journeys on Wednesday morning; services resumed after repairs around 10:30."
-      },
-      "zh": {
-        "headline": "港島線港大站附近信號故障 早高峰延誤近兩小時",
-        "dek": "周三早上港大站附近信號設備故障令列車慢駛，來回行車時間多五至八分鐘，北角站出現人龍，約十時半修復後服務逐步回復。"
       }
     }
   ]
