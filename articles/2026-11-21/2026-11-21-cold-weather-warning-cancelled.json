@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-21-cold-weather-warning-cancelled",
+  "published_at": "2026-11-21T08:05:00+08:00",
+  "category": "weather",
+  "tags": ["weather", "cold-weather", "hko", "temperature"],
+  "ai_generated": true,
+  "story_key": "cold-weather-warning-cancelled-nov21",
+  "en": {
+    "headline": "Observatory cancels Cold Weather Warning as temperatures ease",
+    "dek": "The Hong Kong Observatory cancelled the Cold Weather Warning at 6 a.m. today after it was issued on Friday morning.",
+    "body": [
+      "The Hong Kong Observatory cancelled the Cold Weather Warning at 6:00 a.m. on Saturday. The warning had been issued at 11:15 a.m. on Friday under the influence of an intense northeast monsoon.",
+      "The Observatory said the minimum temperature in urban areas today would be about 13 or 14 degrees Celsius, with a maximum around 21 degrees. Conditions would be mainly cloudy and dry with sunny periods during the day.",
+      "Winds would be moderate to fresh from the north, becoming easterly later. The Observatory expects mainly cloudy and windy weather with temperatures rising slightly over the next couple of days, before another northeast monsoon brings cooler conditions midweek next week.",
+      "Yesterday the Observatory recorded a minimum of 12.7 degrees Celsius at its Tsim Sha Tsui headquarters, the lowest so far this autumn."
+    ]
+  },
+  "zh": {
+    "headline": "天文台取消寒冷天氣警告 氣溫回升",
+    "dek": "香港天文台今早六時取消星期五上午發出的寒冷天氣警告。",
+    "body": [
+      "香港天文台於星期六上午六時正取消寒冷天氣警告。該警告於星期五上午十一時十五分在強烈東北季候風影響下發出。",
+      "天文台表示，今日市區最低氣溫約十三至十四度，最高約二十一度。天氣大致多雲及乾燥，日間部分時間有陽光。",
+      "風勢和緩至清勁偏北，稍後轉吹東風。天文台預料未來一兩日大致多雲及風勢頗大，氣溫略為回升，下周中期另一股東北季候風會令氣溫再度下降。",
+      "昨日天文台尖沙咀總部錄得最低氣溫十二點七度，是入秋以來最低。"
+    ]
+  }
+}
