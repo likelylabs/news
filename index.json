@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-21T04:40:04+08:00",
+  "generated_at": "2026-11-21T08:05:56+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 82,
   "articles": [
+    {
+      "id": "2026-11-21-cold-weather-warning-cancelled",
+      "published_at": "2026-11-21T08:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "cold-weather",
+        "hko",
+        "temperature"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-21/2026-11-21-cold-weather-warning-cancelled.json",
+      "en": {
+        "headline": "Observatory cancels Cold Weather Warning as temperatures ease",
+        "dek": "The Hong Kong Observatory cancelled the Cold Weather Warning at 6 a.m. today after it was issued on Friday morning."
+      },
+      "zh": {
+        "headline": "天文台取消寒冷天氣警告 氣溫回升",
+        "dek": "香港天文台今早六時取消星期五上午發出的寒冷天氣警告。"
+      }
+    },
+    {
+      "id": "2026-11-21-red-fire-danger-warning",
+      "published_at": "2026-11-21T08:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "fire-danger",
+        "hko",
+        "countryside"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-21/2026-11-21-red-fire-danger-warning.json",
+      "en": {
+        "headline": "Observatory issues Red Fire Danger Warning as risk turns extreme",
+        "dek": "The Hong Kong Observatory raised the fire danger warning to red at 6 a.m. today, warning of extreme fire risk in the countryside."
+      },
+      "zh": {
+        "headline": "天文台發出紅色火災危險警告 火警風險極高",
+        "dek": "香港天文台今早六時將火災危險警告提升至紅色，警告郊野火警風險極高。"
+      }
+    },
     {
       "id": "2026-11-21-lifestyle-big-picnic-discovery-bay",
       "published_at": "2026-11-21T04:35:00+08:00",

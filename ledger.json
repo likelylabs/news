@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "lifestyle-cornershop-busking-festival",
-      "id": "2026-11-07-lifestyle-cornershop-busking-festival",
-      "first_seen": "2026-11-07T08:05:00+08:00",
-      "headline_en": "Cornershop Busking Festival returns to Tsim Sha Tsui with free local music"
-    },
-    {
-      "key": "lifestyle-hk-phil-mahler-8",
-      "id": "2026-11-07-lifestyle-hk-phil-mahler-8",
-      "first_seen": "2026-11-07T08:05:00+08:00",
-      "headline_en": "HK Phil opens new music director era with Mahler Symphony No. 8"
-    },
-    {
       "key": "yuen-long-pak-sha-tsuen-paper-warehouse-fire-nov6",
       "id": "2026-11-07-yuen-long-paper-warehouse-fire",
       "first_seen": "2026-11-07T10:15:00+08:00",
@@ -2237,7 +2225,19 @@
       "id": "2026-11-21-lifestyle-big-picnic-discovery-bay",
       "first_seen": "2026-11-21T04:35:00+08:00",
       "headline_en": "The Big Picnic returns to Discovery Bay beach after seven-year break"
+    },
+    {
+      "key": "cold-weather-warning-cancelled-nov21",
+      "id": "2026-11-21-cold-weather-warning-cancelled",
+      "first_seen": "2026-11-21T08:05:00+08:00",
+      "headline_en": "Observatory cancels Cold Weather Warning as temperatures ease"
+    },
+    {
+      "key": "red-fire-danger-warning-nov21",
+      "id": "2026-11-21-red-fire-danger-warning",
+      "first_seen": "2026-11-21T08:05:00+08:00",
+      "headline_en": "Observatory issues Red Fire Danger Warning as risk turns extreme"
     }
   ],
-  "updated_at": "2026-11-21T04:40:04+08:00"
+  "updated_at": "2026-11-21T08:05:56+08:00"
 }
