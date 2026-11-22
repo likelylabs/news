@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "lifestyle-blue-lock-egoist-exhibition",
-      "id": "2026-11-08-lifestyle-blue-lock-egoist-exhibition",
-      "first_seen": "2026-11-08T04:20:00+08:00",
-      "headline_en": "Blue Lock Egoist exhibition continues at AIRSIDE in Kai Tak"
-    },
-    {
-      "key": "dss-expo-dormitory-code-nov7",
-      "id": "2026-11-08-dss-schools-expo-dormitory-code",
-      "first_seen": "2026-11-08T08:05:00+08:00",
-      "headline_en": "DSS schools expo draws over 15,000 as council publishes dormitory code"
-    },
-    {
       "key": "firefighter-tracking-upgrade-tai-po",
       "id": "2026-11-08-firefighter-tracking-upgrade",
       "first_seen": "2026-11-08T10:15:00+08:00",
@@ -2243,7 +2231,13 @@
       "id": "2026-11-22-lifestyle-detour-2026-pmq",
       "first_seen": "2026-11-22T04:20:00+08:00",
       "headline_en": "deTour 2026 design festival continues at PMQ in Central"
+    },
+    {
+      "key": "yellow-fire-danger-warning-nov22",
+      "id": "2026-11-22-yellow-fire-danger-warning",
+      "first_seen": "2026-11-22T08:05:00+08:00",
+      "headline_en": "Observatory issues Yellow Fire Danger Warning as risk rises"
     }
   ],
-  "updated_at": "2026-11-22T04:18:22+08:00"
+  "updated_at": "2026-11-22T08:06:20+08:00"
 }

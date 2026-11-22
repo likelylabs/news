@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-11-22T04:18:22+08:00",
+  "generated_at": "2026-11-22T08:06:20+08:00",
   "live_window_hours": 72,
   "count": 78,
   "articles": [
+    {
+      "id": "2026-11-22-yellow-fire-danger-warning",
+      "published_at": "2026-11-22T08:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "fire-danger",
+        "hko"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-yellow-fire-danger-warning.json",
+      "en": {
+        "headline": "Observatory issues Yellow Fire Danger Warning as risk rises",
+        "dek": "The Hong Kong Observatory raised the Yellow Fire Danger Warning at 6am on Sunday, advising the public and hikers to take precautions against fires."
+      },
+      "zh": {
+        "headline": "天文台發出黃色火災危險警告 火險頗高",
+        "dek": "香港天文台周日上午六時發出黃色火災危險警告，提醒市民及遠足人士採取防火措施，郊野火險頗高。"
+      }
+    },
     {
       "id": "2026-11-22-lifestyle-detour-2026-pmq",
       "published_at": "2026-11-22T04:20:00+08:00",
@@ -1756,29 +1777,6 @@
       "zh": {
         "headline": "香港貿發局創業日於會展開幕展示初創方案",
         "dek": "以「初創夢啟航」為主題的兩日活動至周五舉行，預計逾370家參展商，已登記訪客免費入場。"
-      }
-    },
-    {
-      "id": "2026-11-19-lifestyle-designinspire-public-opening",
-      "published_at": "2026-11-19T04:42:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "design",
-        "exhibition",
-        "wan-chai",
-        "hkcec"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-lifestyle-designinspire-public-opening.json",
-      "en": {
-        "headline": "DesignInspire opens to public today at Convention and Exhibition Centre",
-        "dek": "The free design exhibition under the Wander and Wonder theme runs until 21 November with over 200 exhibitors from 17 countries."
-      },
-      "zh": {
-        "headline": "DesignInspire創意設計博覽今日開放公眾參觀",
-        "dek": "以Wander & Wonder為主題的免費設計展覽於灣仔會展舉行至11月21日，匯聚17個國家及地區逾200個參展商。"
       }
     }
   ]
