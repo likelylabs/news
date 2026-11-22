@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-22T14:14:46+08:00",
+  "generated_at": "2026-11-22T16:24:34+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 77,
   "articles": [
+    {
+      "id": "2026-11-22-election-committee-turnout-3pm",
+      "published_at": "2026-11-22T16:23:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "election",
+        "election-committee",
+        "voting",
+        "turnout"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-election-committee-turnout-3pm.json",
+      "en": {
+        "headline": "Election Committee turnout reaches 95.60 per cent by 3pm",
+        "dek": "Official figures show 5,458 of 5,709 eligible electors have voted as of 3pm on Sunday, surpassing the final turnout of the previous election."
+      },
+      "zh": {
+        "headline": "選委會選舉截至下午3時投票率95.60%",
+        "dek": "選舉事務處公布，截至周日下午3時，5709名合資格投票人中已有5458人投票，累積投票率達95.60%，已超越上屆最終投票率。"
+      }
+    },
+    {
+      "id": "2026-11-22-tsim-sha-tsui-prat-avenue-crash",
+      "published_at": "2026-11-22T16:23:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "traffic",
+        "tsim-sha-tsui",
+        "arrest"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-tsim-sha-tsui-prat-avenue-crash.json",
+      "en": {
+        "headline": "Man arrested after car mounts pavement in Tsim Sha Tsui, killing one and injuring three",
+        "dek": "Police said a private car mounted the pavement on Prat Avenue at about 2.30pm on Sunday; one pedestrian died and three others were injured. A man has been arrested."
+      },
+      "zh": {
+        "headline": "尖沙咀寶勒巷私家車創上行人路 一死三傷 一男子被捕",
+        "dek": "警方表示，周日下午約2時半，一輞私家車在寶勒巷創上行人路，造成一名途人死亡、三人受傷。一名男子已被拘捕。"
+      }
+    },
     {
       "id": "2026-11-22-election-committee-turnout-1pm",
       "published_at": "2026-11-22T14:15:00+08:00",
@@ -1704,75 +1748,6 @@
       "zh": {
         "headline": "世界知識產權組織深化與港合作 陳茂波推融資及專利審查",
         "dek": "在亞洲知識產權營商論壇上，聯合國機構表示願協助本港處理爭議解決及商業化，財政司司長則闡述建設區域貿易中心的計劃。"
-      }
-    },
-    {
-      "id": "2026-11-19-hang-seng-midday-drop",
-      "published_at": "2026-11-19T14:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "hang-seng",
-        "stocks",
-        "market",
-        "tech"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-hang-seng-midday-drop.json",
-      "en": {
-        "headline": "Hang Seng Index falls 439 points to 22855 at midday below 23000",
-        "dek": "The benchmark dropped 1.89 percent by noon as Tencent and Alibaba led losses among blue chips, with main board turnover near HK$123 billion."
-      },
-      "zh": {
-        "headline": "恒生指數半日跌439點失守23000點",
-        "dek": "恒指中午報22855點，跌1.89%，騰訊及阿里巴巴領跌藍籌，半日主板成交額近1234億元。"
-      }
-    },
-    {
-      "id": "2026-11-19-police-phone-scam-123-arrests",
-      "published_at": "2026-11-19T14:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "scam",
-        "fraud",
-        "phone-scam"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-police-phone-scam-123-arrests.json",
-      "en": {
-        "headline": "Police arrest 123 in phone scam and money laundering operation",
-        "dek": "The Commercial Crime Bureau and districts cracked 108 cases involving about HK$68 million and raided two industrial building call centres in Hung Hom and Kwun Tong."
-      },
-      "zh": {
-        "headline": "警方打擊電話騙案及洗黑錢拘123人",
-        "dek": "商業罪案調查科聯同各警區偵破108宗案件涉款約6800萬元，搞破紅磡及觀塘兩間工廈詐騙電話操作中心。"
-      }
-    },
-    {
-      "id": "2026-11-19-star-ferry-car-park-to-close",
-      "published_at": "2026-11-19T14:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "central",
-        "parking",
-        "star-ferry",
-        "development"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-star-ferry-car-park-to-close.json",
-      "en": {
-        "headline": "Star Ferry Car Park to cease operations and be demolished after new site opens",
-        "dek": "The Transport Department said the multi-storey car park on Edinburgh Place will close once public parking spaces at Central Site 3 enter service, with monthly rentals shifting from January."
-      },
-      "zh": {
-        "headline": "天星碼頭停車場將於新海濱泊車位啟用後停止營運並拆卸",
-        "dek": "運輸署表示，中環愛丁堡廣場的天星碼頭停車場待三號用地公眾泊車位投入服務後便會關閉拆卸，明年一月起季租改為月租。"
       }
     }
   ]

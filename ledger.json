@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "workweek-weather-outlook-nov9-13",
-      "id": "2026-11-08-workweek-weather-outlook-nov9-13",
-      "first_seen": "2026-11-08T14:20:00+08:00",
-      "headline_en": "Work week turns cooler and dry after Monday cold front"
-    },
-    {
-      "key": "building-repairs-bureau-staffing-nov8",
-      "id": "2026-11-08-building-repairs-bureau-staffing",
-      "first_seen": "2026-11-08T14:20:00+08:00",
-      "headline_en": "Building repairs bureau to hire about 90 staff initially, Ning says"
-    },
-    {
       "key": "lau-fau-shan-transitional-housing-ketamine-seizure",
       "id": "2026-11-08-lau-fau-shan-ketamine-seizure",
       "first_seen": "2026-11-08T16:35:00+08:00",
@@ -2255,7 +2243,19 @@
       "id": "2026-11-22-workweek-weather-outlook-nov23-27",
       "first_seen": "2026-11-22T14:15:00+08:00",
       "headline_en": "Observatory forecasts cooler midweek as northeast monsoon arrives"
+    },
+    {
+      "key": "election-committee-turnout-3pm-nov22",
+      "id": "2026-11-22-election-committee-turnout-3pm",
+      "first_seen": "2026-11-22T16:23:00+08:00",
+      "headline_en": "Election Committee turnout reaches 95.60 per cent by 3pm"
+    },
+    {
+      "key": "tsim-sha-tsui-prat-avenue-crash-nov22",
+      "id": "2026-11-22-tsim-sha-tsui-prat-avenue-crash",
+      "first_seen": "2026-11-22T16:23:00+08:00",
+      "headline_en": "Man arrested after car mounts pavement in Tsim Sha Tsui, killing one and injuring three"
     }
   ],
-  "updated_at": "2026-11-22T14:14:46+08:00"
+  "updated_at": "2026-11-22T16:24:34+08:00"
 }
