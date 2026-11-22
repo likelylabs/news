@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "tung-chung-west-station-columns-defects",
-      "id": "2026-11-09-tung-chung-west-columns-defects",
-      "first_seen": "2026-11-09T00:02:00+08:00",
-      "headline_en": "Lawmakers call MTR column defects at Tung Chung West unimaginable"
-    },
-    {
-      "key": "lifestyle-victoria-park-v-mart-nov",
-      "id": "2026-11-09-lifestyle-victoria-park-v-mart",
-      "first_seen": "2026-11-09T00:02:00+08:00",
-      "headline_en": "V Mart creative market continues at Victoria Park through November"
-    },
-    {
       "key": "lifestyle-blue-lock-exhibition-airside",
       "id": "2026-11-09-lifestyle-blue-lock-exhibition-airside",
       "first_seen": "2026-11-09T02:10:00+08:00",
@@ -2249,7 +2237,19 @@
       "id": "2026-11-22-ho-man-tin-kings-park-hill-theft",
       "first_seen": "2026-11-22T22:15:00+08:00",
       "headline_en": "Police investigate theft of rings and cash worth about HK$250,000 from Ho Man Tin flat"
+    },
+    {
+      "key": "election-committee-counting-completed-results-nov22",
+      "id": "2026-11-23-election-committee-results-completed",
+      "first_seen": "2026-11-23T00:15:00+08:00",
+      "headline_en": "Election Committee counting completes with results published after record turnout"
+    },
+    {
+      "key": "golden-horse-hk-actors-wins-nov22",
+      "id": "2026-11-23-golden-horse-hk-wins",
+      "first_seen": "2026-11-23T00:15:00+08:00",
+      "headline_en": "Hong Kong actors Anson Kong and Angela Yuen win at Golden Horse Awards"
     }
   ],
-  "updated_at": "2026-11-22T22:15:32+08:00"
+  "updated_at": "2026-11-23T00:04:23+08:00"
 }

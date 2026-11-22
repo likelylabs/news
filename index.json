@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-22T22:15:32+08:00",
+  "generated_at": "2026-11-23T00:04:23+08:00",
   "live_window_hours": 72,
-  "count": 74,
+  "count": 76,
   "articles": [
+    {
+      "id": "2026-11-23-election-committee-results-completed",
+      "published_at": "2026-11-23T00:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "election",
+        "election-committee",
+        "voting",
+        "results"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-election-committee-results-completed.json",
+      "en": {
+        "headline": "Election Committee counting completes with results published after record turnout",
+        "dek": "The Electoral Affairs Commission said counting finished at 10.15pm on Sunday; Chief Executive John Lee congratulated the winners."
+      },
+      "zh": {
+        "headline": "選委會點票順利完成 結果已公布 投票率達98.79%",
+        "dek": "選舉管理委員會表示，點票工作於周日晚上10時15分完成；行政長官李家超恭賀所有當選人。"
+      }
+    },
+    {
+      "id": "2026-11-23-golden-horse-hk-wins",
+      "published_at": "2026-11-23T00:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "culture",
+        "film",
+        "awards",
+        "golden-horse",
+        "anson-kong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-golden-horse-hk-wins.json",
+      "en": {
+        "headline": "Hong Kong actors Anson Kong and Angela Yuen win at Golden Horse Awards",
+        "dek": "Mirror member Anson Kong took best supporting actor for We're Nothing at All, while Angela Yuen won best actress; We Are Born Good claimed best narrative feature."
+      },
+      "zh": {
+        "headline": "香港演員江⸹生及袁澧林奪金馬獎 善男信女獲最佳劇情片",
+        "dek": "Mirror成員江⸹生憑《我們不是什麼》奪最佳男配角，袁澧林奪最佳女主角；《善男信女》奪最佳劇情片。"
+      }
+    },
     {
       "id": "2026-11-22-chp-meningococcal-infection-case",
       "published_at": "2026-11-22T22:15:00+08:00",
