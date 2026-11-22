@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-22T16:24:46+08:00",
+  "generated_at": "2026-11-22T18:10:08+08:00",
   "live_window_hours": 72,
   "count": 77,
   "articles": [
+    {
+      "id": "2026-11-22-election-committee-turnout-5pm",
+      "published_at": "2026-11-22T18:07:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "election",
+        "election-committee",
+        "voting",
+        "turnout"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-election-committee-turnout-5pm.json",
+      "en": {
+        "headline": "Election Committee turnout reaches 98.37 per cent by 5pm",
+        "dek": "Official figures show 5,616 of 5,709 eligible electors have voted as of 5pm on Sunday, with polls set to close at 6pm."
+      },
+      "zh": {
+        "headline": "選委會選舉截至下午5時投票率98.37%",
+        "dek": "選舉事務處公布，截至周日下午5時，5709名合資格投票人中已有5616人投票，累積投票率達98.37%，投票站將於下午6時結束。"
+      }
+    },
+    {
+      "id": "2026-11-22-hong-kong-open-badminton-finals",
+      "published_at": "2026-11-22T18:07:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "sport",
+        "badminton",
+        "kai-tak",
+        "hong-kong-open"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-hong-kong-open-badminton-finals.json",
+      "en": {
+        "headline": "Malaysia wins two titles as Hong Kong Open badminton finals conclude",
+        "dek": "Anders Antonsen took the men's singles by walkover, Wang Zhiyi defended the women's singles, and Malaysian pairs claimed both doubles crowns at Kai Tak Arena."
+      },
+      "zh": {
+        "headline": "香港羽毛球公開賽決賽完結 馬來西亞奪兩項冠軍",
+        "dek": "安德斯·安東森因對手退賽獲男單冠軍，王祉怡衛冕女單，馬來西亞組合奪得男雙及女雙，賽事在啟德體育園舉行。"
+      }
+    },
+    {
+      "id": "2026-11-22-lifestyle-omart-megabox-opening",
+      "published_at": "2026-11-22T18:07:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "shopping",
+        "kowloon-bay",
+        "opening",
+        "megabox"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-lifestyle-omart-megabox-opening.json",
+      "en": {
+        "headline": "Omart warehouse supermarket opens at MegaBox with long queues",
+        "dek": "The membership-based store from OB Group occupies over 20,000 square feet on the 12th floor of MegaBox in Kowloon Bay and opened on Sunday."
+      },
+      "zh": {
+        "headline": "Omart倉儲式超市於九龍灣MegaBox開幕 門外排長龍",
+        "dek": "由OB Group營運的會員制超市佔用MegaBox 12樓逾2萬平方品空間，周日正式開業。"
+      }
+    },
     {
       "id": "2026-11-22-election-committee-turnout-3pm",
       "published_at": "2026-11-22T16:23:00+08:00",
@@ -1679,75 +1746,6 @@
       "zh": {
         "headline": "六合彩「Hype Up. Jackpot Up.」活動可將下周二雪球獎金推高至8000萬",
         "dek": "賽馬會指，為慶祝六合彩50周年推出的計劃，若周一前投注額達7000萬元，將增加較大雪球金額。"
-      }
-    },
-    {
-      "id": "2026-11-19-hsbc-redcoin-tokenised-fund",
-      "published_at": "2026-11-19T16:25:00+08:00",
-      "updated_at": "2026-11-19T16:35:00+08:00",
-      "category": "business",
-      "tags": [
-        "business",
-        "hsbc",
-        "stablecoin",
-        "tokenisation",
-        "finance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-hsbc-redcoin-tokenised-fund.json",
-      "en": {
-        "headline": "HSBC lets customers use RedCoin for tokenised HKD money market fund",
-        "dek": "Starting Thursday, customers can invest from HK$100 in a new tokenised share class of the HSBC Global Money Funds using the bank’s licensed stablecoin."
-      },
-      "zh": {
-        "headline": "滙豐容許客戶以RedCoin認購代幣化港元貨幣基金",
-        "dek": "由周四起，客戶可用最少100港元等值的滙豐穩定幣，認購滙豐環球貨幣基金港元的新代幣化股份類別。"
-      }
-    },
-    {
-      "id": "2026-11-19-john-lee-xi-apec-gba",
-      "published_at": "2026-11-19T16:25:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "apec",
-        "greater-bay-area",
-        "northern-metropolis",
-        "john-lee"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-john-lee-xi-apec-gba.json",
-      "en": {
-        "headline": "John Lee pledges deeper GBA integration and faster Northern Metropolis after meeting Xi",
-        "dek": "The Chief Executive outlined strategies for cross-border mobility and infrastructure after speaking with the Chinese President at the APEC summit in Shenzhen."
-      },
-      "zh": {
-        "headline": "李家超會晤習近平後承諾深化大灣區融合及加快北部都會區",
-        "dek": "行政長官在深圳亞太經合組織峰會後，闡述透過基建、規則銜接及跨境流動推進融合的策略。"
-      }
-    },
-    {
-      "id": "2026-11-19-wipo-ip-cooperation-hong-kong",
-      "published_at": "2026-11-19T16:25:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "ip",
-        "wipo",
-        "finance",
-        "innovation"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-wipo-ip-cooperation-hong-kong.json",
-      "en": {
-        "headline": "WIPO pledges deeper IP cooperation as Hong Kong expands financing and patent review",
-        "dek": "At the Business of IP Asia Forum, the UN agency said it would help the city on dispute resolution and commercialisation while the finance chief outlined plans for a regional trading centre."
-      },
-      "zh": {
-        "headline": "世界知識產權組織深化與港合作 陳茂波推融資及專利審查",
-        "dek": "在亞洲知識產權營商論壇上，聯合國機構表示願協助本港處理爭議解決及商業化，財政司司長則闡述建設區域貿易中心的計劃。"
       }
     }
   ]
