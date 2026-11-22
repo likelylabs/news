@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-22T10:14:40+08:00",
+  "generated_at": "2026-11-22T12:10:32+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 77,
   "articles": [
+    {
+      "id": "2026-11-22-election-committee-turnout-11am",
+      "published_at": "2026-11-22T12:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "election",
+        "election-committee",
+        "voting",
+        "turnout"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-election-committee-turnout-11am.json",
+      "en": {
+        "headline": "Election Committee turnout reaches 69.61 per cent by 11am",
+        "dek": "A total of 3,974 voters have cast ballots out of 5,709 eligible electors as of 11am on Sunday, according to official figures."
+      },
+      "zh": {
+        "headline": "選委會選舉截至上午11時投票率69.61%",
+        "dek": "選舉事務處公布，截至周日上午11時，5709名合資格投票人中已有3974人投票，累積投票率達69.61%。"
+      }
+    },
     {
       "id": "2026-11-22-election-committee-voting-underway",
       "published_at": "2026-11-22T10:13:00+08:00",
@@ -1731,52 +1753,6 @@
       "zh": {
         "headline": "港鐵港島綫香港大學站信號故障連續兩日影響繁忙時間",
         "dek": "港鐵表示，周四早上香港大學站附近信號故障令整體車程額外增加五至八分鐘，約一小時後修復，服務陸續恢復正常。"
-      }
-    },
-    {
-      "id": "2026-11-19-lifestyle-petit-factory-kai-tak",
-      "published_at": "2026-11-19T10:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "kai-tak",
-        "christmas",
-        "exhibition",
-        "mall"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-lifestyle-petit-factory-kai-tak.json",
-      "en": {
-        "headline": "PETIT FACTORY Christmas installation opens at Kai Tak Cullinan Sky Mall",
-        "dek": "The Korean brand's first Hong Kong Christmas theme features a 4.5-metre clock tower, starlight displays and pop-up shop until early January."
-      },
-      "zh": {
-        "headline": "啟德天璽天Mall呈獻PETIT FACTORY聖誕星光夢工場",
-        "dek": "韓國療癒系品牌首度登陸香港，設近4.5米鐘樓、星光裝置及快閃店，展期至1月3日。"
-      }
-    },
-    {
-      "id": "2026-11-19-vootic-obsessplanet-consignment-fraud",
-      "published_at": "2026-11-19T10:20:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "fraud",
-        "causeway-bay",
-        "admiralty"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-vootic-obsessplanet-consignment-fraud.json",
-      "en": {
-        "headline": "Police receive 216 reports totaling HK$38 million over closed luxury consignment shops",
-        "dek": "Reports concerning Vootic in Causeway Bay and Obsessplanet in Admiralty rose sharply, with police classifying the cases as fraud and seeking a Japanese owner."
-      },
-      "zh": {
-        "headline": "警方接獲216宗報案涉款3800萬 兩間名牌寄賣店結業",
-        "dek": "銅鑼灣Vootic及金鐘樂星寄賣店結業後報案人數急增，警方暫列欺詐，正追緝日籍負責人。"
       }
     }
   ]

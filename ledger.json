@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "firefighter-tracking-upgrade-tai-po",
-      "id": "2026-11-08-firefighter-tracking-upgrade",
-      "first_seen": "2026-11-08T10:15:00+08:00",
-      "headline_en": "Firefighters receive upgraded tracking devices after Tai Po fire inquiry"
-    },
-    {
-      "key": "lifestyle-sham-shui-po-diwali-carnival",
-      "id": "2026-11-08-lifestyle-sham-shui-po-diwali-carnival",
-      "first_seen": "2026-11-08T10:15:00+08:00",
-      "headline_en": "Sham Shui Po Diwali Carnival returns to Cheung Sha Wan waterfront today"
-    },
-    {
       "key": "lifestyle-intangible-cultural-heritage-mart-2026",
       "id": "2026-11-08-lifestyle-intangible-cultural-heritage-mart",
       "first_seen": "2026-11-08T12:11:00+08:00",
@@ -2255,7 +2243,13 @@
       "id": "2026-11-22-northeast-monsoon-midweek-cool",
       "first_seen": "2026-11-22T10:13:00+08:00",
       "headline_en": "Observatory expects cooler midweek weather as northeast monsoon arrives"
+    },
+    {
+      "key": "election-committee-turnout-11am-nov22",
+      "id": "2026-11-22-election-committee-turnout-11am",
+      "first_seen": "2026-11-22T12:15:00+08:00",
+      "headline_en": "Election Committee turnout reaches 69.61 per cent by 11am"
     }
   ],
-  "updated_at": "2026-11-22T10:14:40+08:00"
+  "updated_at": "2026-11-22T12:10:32+08:00"
 }
