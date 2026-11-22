@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-22T08:06:20+08:00",
+  "generated_at": "2026-11-22T08:32:51+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 75,
   "articles": [
     {
       "id": "2026-11-22-yellow-fire-danger-warning",
@@ -1710,73 +1710,6 @@
       "zh": {
         "headline": "警方接獲216宗報案涉款3800萬 兩間名牌寄賣店結業",
         "dek": "銅鑼灣Vootic及金鐘樂星寄賣店結業後報案人數急增，警方暫列欺詐，正追緝日籍負責人。"
-      }
-    },
-    {
-      "id": "2026-11-19-cooler-weather-northeast-monsoon",
-      "published_at": "2026-11-19T08:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "temperature",
-        "monsoon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-cooler-weather-northeast-monsoon.json",
-      "en": {
-        "headline": "Temperatures drop under northeast monsoon as Hong Kong turns cooler",
-        "dek": "The Observatory said morning readings were generally three to four degrees lower than yesterday, with urban lows around 18 degrees tonight and further falls expected tomorrow."
-      },
-      "zh": {
-        "headline": "東北季候風影響下香港氣溫下降天氣轉涼",
-        "dek": "天文台指今早各區氣溫普遍較昨日低三至四度，晚上市區最低約18度，明日進一步下降。"
-      }
-    },
-    {
-      "id": "2026-11-19-hku-histotripsy-kidney-cancer",
-      "published_at": "2026-11-19T08:10:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "cancer",
-        "hku",
-        "treatment"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-hku-histotripsy-kidney-cancer.json",
-      "en": {
-        "headline": "HKU completes Asia's first histotripsy treatments for kidney cancer",
-        "dek": "Two patients with early-stage tumours were treated without incision using focused ultrasound and discharged the next day without complications."
-      },
-      "zh": {
-        "headline": "港大完成亞洲首兩宗組織碎化技術治療腎癌",
-        "dek": "兩名早期腫瘤病人接受無創聚焦超聲波治療，翌日出院，未見併發症。"
-      }
-    },
-    {
-      "id": "2026-11-19-lifestyle-hktdc-entrepreneur-day",
-      "published_at": "2026-11-19T08:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "entrepreneurship",
-        "hktdc",
-        "wan-chai",
-        "exhibition"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-lifestyle-hktdc-entrepreneur-day.json",
-      "en": {
-        "headline": "HKTDC Entrepreneur Day opens at Convention Centre with startup showcases",
-        "dek": "The two-day event under the theme Where Start-up Dreams Take Flight runs until Friday with more than 370 exhibitors and free admission for registered visitors."
-      },
-      "zh": {
-        "headline": "香港貿發局創業日於會展開幕展示初創方案",
-        "dek": "以「初創夢啟航」為主題的兩日活動至周五舉行，預計逾370家參展商，已登記訪客免費入場。"
       }
     }
   ]
