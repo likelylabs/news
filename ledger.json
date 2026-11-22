@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "lifestyle-intangible-cultural-heritage-mart-2026",
-      "id": "2026-11-08-lifestyle-intangible-cultural-heritage-mart",
-      "first_seen": "2026-11-08T12:11:00+08:00",
-      "headline_en": "Intangible Cultural Heritage Mart runs its final day at the Cultural Centre"
-    },
-    {
-      "key": "yellow-fire-danger-warning-nov8",
-      "id": "2026-11-08-yellow-fire-danger-warning",
-      "first_seen": "2026-11-08T12:11:00+08:00",
-      "headline_en": "Observatory issues Yellow Fire Danger Warning as risk rises"
-    },
-    {
       "key": "workweek-weather-outlook-nov9-13",
       "id": "2026-11-08-workweek-weather-outlook-nov9-13",
       "first_seen": "2026-11-08T14:20:00+08:00",
@@ -2249,7 +2237,25 @@
       "id": "2026-11-22-election-committee-turnout-11am",
       "first_seen": "2026-11-22T12:15:00+08:00",
       "headline_en": "Election Committee turnout reaches 69.61 per cent by 11am"
+    },
+    {
+      "key": "election-committee-turnout-1pm",
+      "id": "2026-11-22-election-committee-turnout-1pm",
+      "first_seen": "2026-11-22T14:15:00+08:00",
+      "headline_en": "Election Committee turnout reaches 89.81 per cent by 1pm"
+    },
+    {
+      "key": "hk-chile-working-holiday-scheme",
+      "id": "2026-11-22-hk-chile-working-holiday-scheme",
+      "first_seen": "2026-11-22T14:15:00+08:00",
+      "headline_en": "Hong Kong-Chile working holiday scheme expected to start in first half of 2027"
+    },
+    {
+      "key": "workweek-weather-outlook-nov23-27",
+      "id": "2026-11-22-workweek-weather-outlook-nov23-27",
+      "first_seen": "2026-11-22T14:15:00+08:00",
+      "headline_en": "Observatory forecasts cooler midweek as northeast monsoon arrives"
     }
   ],
-  "updated_at": "2026-11-22T12:10:32+08:00"
+  "updated_at": "2026-11-22T14:14:46+08:00"
 }

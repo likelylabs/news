@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-22T12:10:32+08:00",
+  "generated_at": "2026-11-22T14:14:46+08:00",
   "live_window_hours": 72,
-  "count": 77,
+  "count": 78,
   "articles": [
+    {
+      "id": "2026-11-22-election-committee-turnout-1pm",
+      "published_at": "2026-11-22T14:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "election",
+        "election-committee",
+        "voting",
+        "turnout"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-election-committee-turnout-1pm.json",
+      "en": {
+        "headline": "Election Committee turnout reaches 89.81 per cent by 1pm",
+        "dek": "A total of 5,127 voters have cast ballots out of 5,709 eligible electors as of 1pm on Sunday, according to official figures."
+      },
+      "zh": {
+        "headline": "選委會選舉截至下午1時投票率89.81%",
+        "dek": "選舉事務處公布，截至周日下午1時，5709名合資格投票人中已有5127人投票，累積投票率達89.81%。"
+      }
+    },
+    {
+      "id": "2026-11-22-hk-chile-working-holiday-scheme",
+      "published_at": "2026-11-22T14:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "working-holiday",
+        "chile",
+        "labour",
+        "youth"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-hk-chile-working-holiday-scheme.json",
+      "en": {
+        "headline": "Hong Kong-Chile working holiday scheme expected to start in first half of 2027",
+        "dek": "Labour Secretary Chris Sun said the bilateral scheme, Hong Kong’s first with a Latin American country, will offer 100 places a year each way."
+      },
+      "zh": {
+        "headline": "港智工作假期計劃料明年上半年落實",
+        "dek": "勞工及福利局局長孫玉菡表示，這是香港與拉丁美洲國家首個工作假期安排，每年雙方各有100個名額。"
+      }
+    },
+    {
+      "id": "2026-11-22-workweek-weather-outlook-nov23-27",
+      "published_at": "2026-11-22T14:15:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "forecast",
+        "monsoon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-workweek-weather-outlook-nov23-27.json",
+      "en": {
+        "headline": "Observatory forecasts cooler midweek as northeast monsoon arrives",
+        "dek": "A fresh northeast monsoon is expected to reach the south China coast on Tuesday, bringing rain and lower temperatures through midweek."
+      },
+      "zh": {
+        "headline": "天文台料周二東北季候風抵港 本周中期轉涼有雨",
+        "dek": "一股清勁東北季候風預料周二抵達華南沿岸，本周中期氣溫下降及有幾陣雨，其後天氣逐漸好轉。"
+      }
+    },
     {
       "id": "2026-11-22-election-committee-turnout-11am",
       "published_at": "2026-11-22T12:15:00+08:00",
@@ -1707,52 +1773,6 @@
       "zh": {
         "headline": "天星碼頭停車場將於新海濱泊車位啟用後停止營運並拆卸",
         "dek": "運輸署表示，中環愛丁堡廣場的天星碼頭停車場待三號用地公眾泊車位投入服務後便會關閉拆卸，明年一月起季租改為月租。"
-      }
-    },
-    {
-      "id": "2026-11-19-cuhk-medical-centre-ovaries-removal",
-      "published_at": "2026-11-19T12:15:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "hospital",
-        "cuhk",
-        "surgery",
-        "medical-error"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-cuhk-medical-centre-ovaries-removal.json",
-      "en": {
-        "headline": "CUHK Medical Centre apologises after doctor removes patient's ovaries by mistake",
-        "dek": "The hospital said an experienced surgeon suffered a lapse in concentration during a September operation intended only to remove the uterus and fallopian tubes; the patient remains stable."
-      },
-      "zh": {
-        "headline": "中大醫院就醫生誤切病人卵巢致歉",
-        "dek": "院方指經驗豐富的外科醫生在九月手術中短暫失神，原計劃只切除子宮及輸卵管，病人情況穩定。"
-      }
-    },
-    {
-      "id": "2026-11-19-mtr-island-line-hku-signal-fault",
-      "published_at": "2026-11-19T12:15:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "mtr",
-        "island-line",
-        "signal-fault",
-        "hku",
-        "transport"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-mtr-island-line-hku-signal-fault.json",
-      "en": {
-        "headline": "MTR Island Line delayed again by HKU station signal fault",
-        "dek": "The operator said a signalling fault near HKU station added five to eight minutes to journeys for about an hour during Thursday morning rush hour before services returned to normal."
-      },
-      "zh": {
-        "headline": "港鐵港島綫香港大學站信號故障連續兩日影響繁忙時間",
-        "dek": "港鐵表示，周四早上香港大學站附近信號故障令整體車程額外增加五至八分鐘，約一小時後修復，服務陸續恢復正常。"
       }
     }
   ]
