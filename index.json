@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-22T20:24:44+08:00",
+  "generated_at": "2026-11-22T22:14:03+08:00",
   "live_window_hours": 72,
   "count": 77,
   "articles": [
+    {
+      "id": "2026-11-22-chp-meningococcal-infection-case",
+      "published_at": "2026-11-22T22:15:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "chp",
+        "disease",
+        "meningitis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-chp-meningococcal-infection-case.json",
+      "en": {
+        "headline": "CHP investigates invasive meningococcal infection in 74-year-old man",
+        "dek": "The Centre for Health Protection said the patient, who has an underlying illness, is in stable condition at Kwong Wah Hospital after no travel during the incubation period."
+      },
+      "zh": {
+        "headline": "衞生防護中心調查74歲男子感染侵入性腦膜炎雙球菌",
+        "dek": "中心指該名有長期病患的患者目前在廣華醫院情況穩定，潛伏期內沒有外遊，初步屬散發個案。"
+      }
+    },
+    {
+      "id": "2026-11-22-election-committee-results-emerging",
+      "published_at": "2026-11-22T22:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "election",
+        "election-committee",
+        "voting",
+        "results"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-election-committee-results-emerging.json",
+      "en": {
+        "headline": "Election Committee results begin to emerge after 98.79 per cent turnout",
+        "dek": "Counting continues at the Convention Centre; the Law Society president and General Chamber chief executive were not among those elected in their subsectors."
+      },
+      "zh": {
+        "headline": "選委會選舉點票結果陸續公布 投票率達98.79%",
+        "dek": "會展中央點票站繼續點票；律師會會長湯文龍及總商會總裁楊偉添在所屬界別落選。"
+      }
+    },
+    {
+      "id": "2026-11-22-ho-man-tin-kings-park-hill-theft",
+      "published_at": "2026-11-22T22:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "theft",
+        "ho-man-tin",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-ho-man-tin-kings-park-hill-theft.json",
+      "en": {
+        "headline": "Police investigate theft of rings and cash worth about HK$250,000 from Ho Man Tin flat",
+        "dek": "A 46-year-old woman reported that two rings and about HK$2,000 in cash were missing from her King's Park Hill residence after she discovered the loss on Sunday morning."
+      },
+      "zh": {
+        "headline": "何文田京士柏山單位失竊 兩戒指及現金共約25萬元",
+        "dek": "警方表示，46歲女住戶周日早上報稱寓所內兩枚戒指及約2000元現金不見，案件列作盜竊。"
+      }
+    },
     {
       "id": "2026-11-22-customs-airport-cannabis-seizure",
       "published_at": "2026-11-22T20:10:00+08:00",
@@ -1674,76 +1740,6 @@
       "zh": {
         "headline": "新世界發展股東在股東周年大會批評供股計劃",
         "dek": "數百名投資者在會展中心外排隊，質疑249億元供股若不全數認購將大幅攤薄持股。"
-      }
-    },
-    {
-      "id": "2026-11-19-alibaba-q2-fy2026-results",
-      "published_at": "2026-11-19T20:30:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "alibaba",
-        "earnings",
-        "tech",
-        "cloud"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-alibaba-q2-fy2026-results.json",
-      "en": {
-        "headline": "Alibaba reports 10 percent revenue rise and 92 percent jump in adjusted profit",
-        "dek": "The e-commerce group said cloud and AI revenue surged, though adjusted profit missed estimates and free cash flow stayed negative amid heavy infrastructure spending."
-      },
-      "zh": {
-        "headline": "阿里巴巴季度收入升10% 經調整純利大增92%",
-        "dek": "電商集團指雲端及人工智能收入急升，惟經調整盈利低於預期，基建投資下自由現金流仍為流出。"
-      }
-    },
-    {
-      "id": "2026-11-19-lifestyle-detour-2026-pmq",
-      "published_at": "2026-11-19T20:30:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "pmq",
-        "design",
-        "central",
-        "exhibition"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-lifestyle-detour-2026-pmq.json",
-      "en": {
-        "headline": "deTour design festival opens Friday at PMQ with free entry through November 29",
-        "dek": "PMQ hosts the annual design event under the theme Better, Not Perfect, featuring 14 works by local and international creators plus a pop-up shop."
-      },
-      "zh": {
-        "headline": "deTour設計節周五於元創方開幕 免費入場至11月29日",
-        "dek": "PMQ元創方主辦年度設計盛事，主題「不完美，更美好」，展出14件本地及海外作品，並設快閃選物店。"
-      }
-    },
-    {
-      "id": "2026-11-19-yoga-instructor-murder-conviction",
-      "published_at": "2026-11-19T20:30:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "court",
-        "murder",
-        "high-court",
-        "hotel"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-yoga-instructor-murder-conviction.json",
-      "en": {
-        "headline": "High Court jury convicts man of murdering yoga instructor ex-girlfriend",
-        "dek": "A unanimous High Court jury found Lo Chun-ming guilty of murdering Chow Wai-yin at the Ritz-Carlton hotel in 2022; sentencing is set for Friday."
-      },
-      "zh": {
-        "headline": "高院陪審團一致裁定前男友謀殺瑜伽導師罪成",
-        "dek": "高等法院陪審團周四一致裁定勞浚銘謀殺前女友周慧賢罪成，案發於2022年麗思卡爾頓酒店，判刑押後至周五。"
       }
     }
   ]
