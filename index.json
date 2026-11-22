@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-23T02:03:47+08:00",
+  "generated_at": "2026-11-23T04:18:51+08:00",
   "live_window_hours": 72,
   "count": 73,
   "articles": [
+    {
+      "id": "2026-11-23-lifestyle-causeway-bay-winter-wonderland",
+      "published_at": "2026-11-23T04:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "causeway-bay",
+        "winterfest",
+        "events",
+        "christmas"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-lifestyle-causeway-bay-winter-wonderland.json",
+      "en": {
+        "headline": "Causeway Bay Winter Wonderland opens 25 November with elf-themed lights",
+        "dek": "The Hong Kong Tourism Board said the Lee Gardens area will host light shows from 7pm to 10pm and an outdoor bar as part of the expanded WinterFest until 3 January."
+      },
+      "zh": {
+        "headline": "銅鑼灣冬日仙境25日開幕 精靈主題燈飾亮相利園區",
+        "dek": "旅發局表示，利園區將由晚上7時至10時有燈光表演，並設戶外酒吧，作為擴大版冬日巡禮的一部分，至1月3日結束。"
+      }
+    },
     {
       "id": "2026-11-23-one-stanley-extortion-report",
       "published_at": "2026-11-23T02:15:00+08:00",
@@ -1624,29 +1647,6 @@
       "zh": {
         "headline": "韓國插畫品牌期間限定店登陸荔枝角D2 Place",
         "dek": "neomu neomu韓國文創快閃店匯集八個韓國插畫品牌，部分首次來港，於荔枝角D2 Place二期地下展至11月22日，售賣毛絨玩具及文具。"
-      }
-    },
-    {
-      "id": "2026-11-20-lifestyle-ting-tai-sale",
-      "published_at": "2026-11-20T02:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "community",
-        "tsuen-wan",
-        "heritage",
-        "shopping"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-lifestyle-ting-tai-sale.json",
-      "en": {
-        "headline": "Tsuen Wan's long-shuttered Ting Tai shop opens briefly for kitchenware sale",
-        "dek": "The ground-floor unit on Sha Tsui Road linked to a 1949-era milk-tea brand held a two-hour pop-up sale of enamel pots and pans on Thursday afternoon."
-      },
-      "zh": {
-        "headline": "荃灣長年關閉的鼎泰店舖周四短暫開放廚具特賣",
-        "dek": "沙咀道地下舖位與1949年港式奶茶品牌相關，周四下午舉行兩小時倉庫式特賣，出售琺瑯鍋和平底鑊。"
       }
     }
   ]
