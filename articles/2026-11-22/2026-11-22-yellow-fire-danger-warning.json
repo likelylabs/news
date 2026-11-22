@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-22-yellow-fire-danger-warning",
+  "published_at": "2026-11-22T08:05:00+08:00",
+  "category": "weather",
+  "tags": ["weather", "fire-danger", "hko"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "yellow-fire-danger-warning-nov22",
+  "en": {
+    "headline": "Observatory issues Yellow Fire Danger Warning as risk rises",
+    "dek": "The Hong Kong Observatory raised the Yellow Fire Danger Warning at 6am on Sunday, advising the public and hikers to take precautions against fires.",
+    "body": [
+      "The Hong Kong Observatory issued a Yellow Fire Danger Warning at 6am on Sunday, 22 November, stating that the fire risk is high.",
+      "The Observatory said the countryside is vulnerable to fire and urged people to prevent fires from breaking out. Hikers were advised to remain vigilant.",
+      "The warning remains in force until further notice. The previous Red Fire Danger Warning, which indicated extreme risk, was cancelled late on Saturday night.",
+      "Officials reminded the public that lighting fires illegally in the countryside carries a maximum penalty of a HK$25,000 fine and one year's imprisonment."
+    ]
+  },
+  "zh": {
+    "headline": "天文台發出黃色火災危險警告 火險頗高",
+    "dek": "香港天文台周日上午六時發出黃色火災危險警告，提醒市民及遠足人士採取防火措施，郊野火險頗高。",
+    "body": [
+      "香港天文台於11月22日上午六時發出黃色火災危險警告，指現時火災危險性頗高。",
+      "天文台表示，郊野容易發生火警，呼籲市民小心防火，遠足人士亦應提高警覺，防止山火發生。",
+      "警告將持續生效，直至另行通知。此前於周六晚取消的紅色火災危險警告，曾指火險極高。",
+      "當局提醒，在郊野非法燃點火種，最高可被罰款二萬五千元及監禁一年。"
+    ]
+  }
+}
