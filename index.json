@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-22T08:32:51+08:00",
+  "generated_at": "2026-11-22T10:14:40+08:00",
   "live_window_hours": 72,
-  "count": 75,
+  "count": 78,
   "articles": [
+    {
+      "id": "2026-11-22-election-committee-voting-underway",
+      "published_at": "2026-11-22T10:13:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "election",
+        "election-committee",
+        "voting",
+        "chris-tang"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-election-committee-voting-underway.json",
+      "en": {
+        "headline": "Election Committee voting underway as Tang inspects polling stations",
+        "dek": "Polls opened at 9am on Sunday for 856 candidates contesting 723 seats; Security Secretary Chris Tang visited two stations this morning."
+      },
+      "zh": {
+        "headline": "選委會選舉投票進行中 鄧炳強巡視票站",
+        "dek": "周日上午九時開始投票，856名候選人競逐723席；保安局局長鄧炳強今早到訪兩個票站視察。"
+      }
+    },
+    {
+      "id": "2026-11-22-lifestyle-maritime-carnival-hkmm",
+      "published_at": "2026-11-22T10:13:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "central",
+        "maritime",
+        "free-event"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-lifestyle-maritime-carnival-hkmm.json",
+      "en": {
+        "headline": "Maritime Carnival continues at Hong Kong Maritime Museum this weekend",
+        "dek": "Free mini carnival and art container exhibition run at the museum's Anchor Plaza in Central, with free museum admission on 21 and 22 November."
+      },
+      "zh": {
+        "headline": "海事嘉年華於香港海事博物館繼續舉行",
+        "dek": "免費小型嘉年華及藝術貨櫃展覽於中環賽馬會海事廣場舉行，21及22日博物館免費開放。"
+      }
+    },
+    {
+      "id": "2026-11-22-northeast-monsoon-midweek-cool",
+      "published_at": "2026-11-22T10:13:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "monsoon",
+        "temperature"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-northeast-monsoon-midweek-cool.json",
+      "en": {
+        "headline": "Observatory expects cooler midweek weather as northeast monsoon arrives",
+        "dek": "A fresh northeast monsoon is forecast to reach the south China coast on Tuesday, bringing a few rain patches and lower temperatures."
+      },
+      "zh": {
+        "headline": "天文台料周二東北季候風抵港 本周中期轉涼有雨",
+        "dek": "一股清勁東北季候風預料周二抵達華南沿岸，本周中期氣溫下降及有幾陣雨。"
+      }
+    },
     {
       "id": "2026-11-22-yellow-fire-danger-warning",
       "published_at": "2026-11-22T08:05:00+08:00",
