@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-22T18:10:44+08:00",
+  "generated_at": "2026-11-22T20:24:44+08:00",
   "live_window_hours": 72,
   "count": 77,
   "articles": [
+    {
+      "id": "2026-11-22-customs-airport-cannabis-seizure",
+      "published_at": "2026-11-22T20:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "customs",
+        "drugs",
+        "airport",
+        "cannabis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-customs-airport-cannabis-seizure.json",
+      "en": {
+        "headline": "Customs seize 37.3kg cannabis in two airport drug cases, charge two men",
+        "dek": "Hong Kong Customs said officers seized about 37.3 kilograms of suspected cannabis buds valued at about HK$8 million in two cases at the airport."
+      },
+      "zh": {
+        "headline": "海關機場破兩宗藏毒案 檢37.3公斤大麻花 兩男被控",
+        "dek": "香港海關在機場兩宗案件中檢獲約37.3公斤懷疑大麻花，估計市值約800萬港元，兩名男子已被控。"
+      }
+    },
+    {
+      "id": "2026-11-22-election-committee-turnout-close-counting",
+      "published_at": "2026-11-22T20:10:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "election",
+        "election-committee",
+        "voting",
+        "turnout"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-22/2026-11-22-election-committee-turnout-close-counting.json",
+      "en": {
+        "headline": "Election Committee polls close with 98.79 per cent turnout as counting begins",
+        "dek": "Officials said 5,640 of 5,709 eligible electors voted by 6pm on Sunday; Electoral Affairs Commission chairman David Lok called the result encouraging."
+      },
+      "zh": {
+        "headline": "選委會選舉投票結束 投票率98.79% 點票展開",
+        "dek": "選舉事務處公布，截至周日傍晚6時共5640人投票，投票率達98.79%；選管會主席陸啟康指結果令人鼓舞。"
+      }
+    },
     {
       "id": "2026-11-22-election-committee-turnout-5pm",
       "published_at": "2026-11-22T18:07:00+08:00",
@@ -1700,52 +1744,6 @@
       "zh": {
         "headline": "高院陪審團一致裁定前男友謀殺瑜伽導師罪成",
         "dek": "高等法院陪審團周四一致裁定勞浚銘謀殺前女友周慧賢罪成，案發於2022年麗思卡爾頓酒店，判刑押後至周五。"
-      }
-    },
-    {
-      "id": "2026-11-19-hang-seng-close-down",
-      "published_at": "2026-11-19T18:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "hang-seng",
-        "stocks",
-        "market",
-        "tech"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-hang-seng-close-down.json",
-      "en": {
-        "headline": "Hang Seng Index closes 453 points lower at 22841",
-        "dek": "The benchmark fell 1.95 percent for a third straight day as Tencent dropped nearly 7 percent after results and Alibaba slid about 6 percent."
-      },
-      "zh": {
-        "headline": "恒生指數收市跌453點報22841點",
-        "dek": "恒指連跌第三日，跌幅1.95%，騰訊績後急挫近7%，阿里巴巴跌約6%。"
-      }
-    },
-    {
-      "id": "2026-11-19-mark-six-hype-up-jackpot",
-      "published_at": "2026-11-19T18:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "mark-six",
-        "jockey-club",
-        "lottery",
-        "snowball"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-mark-six-hype-up-jackpot.json",
-      "en": {
-        "headline": "Mark Six campaign could raise next Tuesday snowball jackpot to HK$80 million",
-        "dek": "The Jockey Club said the Hype Up. Jackpot Up. scheme for the lottery’s 50th anniversary will add a larger snowball if turnover reaches HK$70 million by Monday."
-      },
-      "zh": {
-        "headline": "六合彩「Hype Up. Jackpot Up.」活動可將下周二雪球獎金推高至8000萬",
-        "dek": "賽馬會指，為慶祝六合彩50周年推出的計劃，若周一前投注額達7000萬元，將增加較大雪球金額。"
       }
     }
   ]

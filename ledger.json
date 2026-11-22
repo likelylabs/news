@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "cheung-sha-wan-lai-tsui-court-child-alone-nov8",
-      "id": "2026-11-08-cheung-sha-wan-child-left-alone",
-      "first_seen": "2026-11-08T18:15:00+08:00",
-      "headline_en": "Mother arrested after 10-year-old left alone overnight in Cheung Sha Wan"
-    },
-    {
-      "key": "pik-uk-prison-inmate-assault-nov8",
-      "id": "2026-11-08-pik-uk-prison-inmate-assault",
-      "first_seen": "2026-11-08T18:15:00+08:00",
-      "headline_en": "Correctional officer injured after inmate assault at Pik Uk Prison"
-    },
-    {
       "key": "claire-liu-hong-kong-tennis-open-win",
       "id": "2026-11-08-claire-liu-hong-kong-tennis-open",
       "first_seen": "2026-11-08T20:25:00+08:00",
@@ -2255,7 +2243,19 @@
       "id": "2026-11-22-lifestyle-omart-megabox-opening",
       "first_seen": "2026-11-22T18:07:00+08:00",
       "headline_en": "Omart warehouse supermarket opens at MegaBox with long queues"
+    },
+    {
+      "key": "customs-airport-cannabis-seizure-nov22",
+      "id": "2026-11-22-customs-airport-cannabis-seizure",
+      "first_seen": "2026-11-22T20:10:00+08:00",
+      "headline_en": "Customs seize 37.3kg cannabis in two airport drug cases, charge two men"
+    },
+    {
+      "key": "election-committee-turnout-close-counting-nov22",
+      "id": "2026-11-22-election-committee-turnout-close-counting",
+      "first_seen": "2026-11-22T20:10:00+08:00",
+      "headline_en": "Election Committee polls close with 98.79 per cent turnout as counting begins"
     }
   ],
-  "updated_at": "2026-11-22T18:10:44+08:00"
+  "updated_at": "2026-11-22T20:24:44+08:00"
 }
