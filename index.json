@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-22T22:14:37+08:00",
+  "generated_at": "2026-11-22T22:15:32+08:00",
   "live_window_hours": 72,
-  "count": 77,
+  "count": 74,
   "articles": [
     {
       "id": "2026-11-22-chp-meningococcal-infection-case",
       "published_at": "2026-11-22T22:15:00+08:00",
-      "updated_at": "2026-11-22T22:20:00+08:00",
+      "updated_at": "2026-11-22T22:25:00+08:00",
       "category": "health",
       "tags": [
         "health",
@@ -1671,75 +1671,6 @@
       "zh": {
         "headline": "赤洲恐龍化石展今起九龍公園免費開放 可觸摸巨型股骨",
         "dek": "香港文物探知館「見龍在田」展覽展至明年5月12日，展出港產化石及34組國家一級保護內地標本。"
-      }
-    },
-    {
-      "id": "2026-11-19-against-child-abuse-annual-figures",
-      "published_at": "2026-11-19T22:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "child-abuse",
-        "ngo",
-        "family",
-        "health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-against-child-abuse-annual-figures.json",
-      "en": {
-        "headline": "Against Child Abuse records 216 suspected cases involving 241 children last year",
-        "dek": "Children aged three to five formed the largest group among the cases, with more than 70 per cent of alleged abusers being family members, the organisation said."
-      },
-      "zh": {
-        "headline": "防止虐待兒童會上年度錄得216宗懷疑虐兒個案涉241名兒童",
-        "dek": "3至5歲兒童佔最多，超過七成懷疑施虐者為家庭成員，機構指家長壓力大及缺乏管教支援是主因。"
-      }
-    },
-    {
-      "id": "2026-11-19-kwai-fong-minibus-stop-collapse-death",
-      "published_at": "2026-11-19T22:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "kwai-fong",
-        "medical",
-        "death",
-        "minibus"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-kwai-fong-minibus-stop-collapse-death.json",
-      "en": {
-        "headline": "Man dies after collapsing at Kwai Fong minibus stop",
-        "dek": "Rescuers performed cardiopulmonary resuscitation on the man who fell unconscious near New Town Plaza before he was taken to Yan Chai Hospital, where he was certified dead."
-      },
-      "zh": {
-        "headline": "葵芳新都會廣場小巴站男子暈倒送院後不治",
-        "dek": "救援人員在行人路邊輪流為事主進行心外壓，其後送往仁濟醫院，最終證實不治。"
-      }
-    },
-    {
-      "id": "2026-11-19-new-world-agm-shareholder-backlash",
-      "published_at": "2026-11-19T22:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "new-world",
-        "property",
-        "rights-issue",
-        "agm"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-19/2026-11-19-new-world-agm-shareholder-backlash.json",
-      "en": {
-        "headline": "New World shareholders criticise rights issue at annual general meeting",
-        "dek": "Hundreds of investors queued outside the Hong Kong Convention and Exhibition Centre to question the HK$24.9 billion plan that would dilute their holdings unless they subscribe."
-      },
-      "zh": {
-        "headline": "新世界發展股東在股東周年大會批評供股計劃",
-        "dek": "數百名投資者在會展中心外排隊，質疑249億元供股若不全數認購將大幅攤薄持股。"
       }
     }
   ]
