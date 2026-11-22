@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-23T00:04:23+08:00",
+  "generated_at": "2026-11-23T02:03:47+08:00",
   "live_window_hours": 72,
-  "count": 76,
+  "count": 73,
   "articles": [
+    {
+      "id": "2026-11-23-one-stanley-extortion-report",
+      "published_at": "2026-11-23T02:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "property",
+        "stanley",
+        "extortion",
+        "buildings"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-one-stanley-extortion-report.json",
+      "en": {
+        "headline": "One Stanley developer reports alleged extortion bid to police",
+        "dek": "K&K Property said it reported an alleged extortion attempt involving tens of millions of dollars to police on November 4, as investigations continue into substandard construction at the luxury estate."
+      },
+      "zh": {
+        "headline": "建灝地產稱遭勒索已報警 涉及One Stanley缺鋼筋事件",
+        "dek": "赤柱豪宅One Stanley發展商建灝地產發言人表示，公司於11月4日就一宗懷疑勒索案向警方報案，金額據悉達數千萬元。"
+      }
+    },
+    {
+      "id": "2026-11-23-tai-po-dog-cruelty-arrest",
+      "published_at": "2026-11-23T02:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "animals",
+        "tai-po",
+        "police",
+        "wilson-trail"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-tai-po-dog-cruelty-arrest.json",
+      "en": {
+        "headline": "Police arrest man after dog found hanging from tree on Tai Po trail",
+        "dek": "A 54-year-old man was arrested on Sunday evening on suspicion of cruelty to animals after his sister reported finding a dog hanging lifeless from a tree outside their stone hut on the Wilson Trail."
+      },
+      "zh": {
+        "headline": "大埔衞奕信徑唐狗被吊樹上死亡 警方拘捕54歲男子涉虐畜",
+        "dek": "一名57歲女子周日中午報案，指胞弟飼養的唐狗被吊在石屋外樹上氣絕，警方晚上以涉嫌殘酷對待動物拘捕54歲胞弟。"
+      }
+    },
     {
       "id": "2026-11-23-election-committee-results-completed",
       "published_at": "2026-11-23T00:15:00+08:00",
@@ -1601,121 +1647,6 @@
       "zh": {
         "headline": "荃灣長年關閉的鼎泰店舖周四短暫開放廚具特賣",
         "dek": "沙咀道地下舖位與1949年港式奶茶品牌相關，周四下午舉行兩小時倉庫式特賣，出售琺瑯鍋和平底鑊。"
-      }
-    },
-    {
-      "id": "2026-11-20-building-maintenance-council-funding",
-      "published_at": "2026-11-20T01:20:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "housing",
-        "tai-po-fire",
-        "development-bureau",
-        "building-maintenance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-building-maintenance-council-funding.json",
-      "en": {
-        "headline": "Building maintenance council to receive HK$413 million and hire 160 staff",
-        "dek": "The Development Bureau said the new body will complete registration next month and focus subsidies on 80 percent of older private buildings after the Tai Po fire."
-      },
-      "zh": {
-        "headline": "樓宇維修支援及服務局獲撥4.13億元 擬聘160人",
-        "dek": "發展局表示新機構下月完成註冊，資助將集中於八成樓齡30年或以上私樓，因應大埔宏福苑大火後改革。"
-      }
-    },
-    {
-      "id": "2026-11-20-mtr-hku-signal-faults-govt-probe",
-      "published_at": "2026-11-20T01:20:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "mtr",
-        "hku-station",
-        "emsd",
-        "island-line"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-mtr-hku-signal-faults-govt-probe.json",
-      "en": {
-        "headline": "Government probes repeated signal faults near HKU station after two-day delays",
-        "dek": "The Electrical and Mechanical Services Department has begun an investigation while officials demand a full report from the MTR on causes and improvements."
-      },
-      "zh": {
-        "headline": "港大站連兩日信號故障 政府促港鐵徹查機電署展開調查",
-        "dek": "機電工程署已派員到場調查，初步顯示不涉鐵路安全，政府要求港鐵全面報告成因及改善措施。"
-      }
-    },
-    {
-      "id": "2026-11-20-cfs-poultry-suspension-norway-uk-nl",
-      "published_at": "2026-11-20T01:05:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "food-safety",
-        "poultry",
-        "avian-flu",
-        "cfs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-cfs-poultry-suspension-norway-uk-nl.json",
-      "en": {
-        "headline": "CFS suspends poultry imports from areas in Norway, Britain and Netherlands",
-        "dek": "The Centre for Food Safety acted after World Organisation for Animal Health notifications of highly pathogenic H5N1 outbreaks in the three locations."
-      },
-      "zh": {
-        "headline": "食安中心暫停挪威、英國及荷蘭部分地區禽肉產品進口",
-        "dek": "食物安全中心接獲世界動物衞生組織有關高致病性H5N1禽流感爆發的通知後，即時採取行動。"
-      }
-    },
-    {
-      "id": "2026-11-20-fortress-times-square-theft",
-      "published_at": "2026-11-20T01:05:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "theft",
-        "causeway-bay",
-        "fortress"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-fortress-times-square-theft.json",
-      "en": {
-        "headline": "Police hunt male staff member after HK$1.88 million camera theft at Times Square Fortress",
-        "dek": "Sixty-one cameras and 55 lenses went missing from the Causeway Bay electronics store; officers are seeking a man aged about 40 who works there."
-      },
-      "zh": {
-        "headline": "時代廣場豐澤失188萬元相機鏡頭 警追緝約40歲男職員",
-        "dek": "銅鑼灣電器店有61部相機及55個鏡頭不翼而飛，警方正追緝一名年約40歲的店舖職員。"
-      }
-    },
-    {
-      "id": "2026-11-20-lifestyle-dinosaur-fossil-exhibition",
-      "published_at": "2026-11-20T01:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "exhibition",
-        "kowloon",
-        "dinosaur"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-lifestyle-dinosaur-fossil-exhibition.json",
-      "en": {
-        "headline": "Dinosaur fossil exhibition featuring Port Island finds opens free at Kowloon Park",
-        "dek": "The show at the Hong Kong Heritage Discovery Centre runs until 12 May next year and includes a touchable femur plus 34 first-class protected fossils from the mainland."
-      },
-      "zh": {
-        "headline": "赤洲恐龍化石展今起九龍公園免費開放 可觸摸巨型股骨",
-        "dek": "香港文物探知館「見龍在田」展覽展至明年5月12日，展出港產化石及34組國家一級保護內地標本。"
       }
     }
   ]
