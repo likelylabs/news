@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-11-24T00:10:50+08:00",
+  "generated_at": "2026-11-24T00:14:01+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-11-24-chan-kin-por-ha-chairman",
+      "published_at": "2026-11-24T00:12:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "hospital-authority",
+        "chan-kin-por",
+        "lo-chung-mau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-chan-kin-por-ha-chairman.json",
+      "en": {
+        "headline": "Chan Kin-por appointed Hospital Authority chairman from December",
+        "dek": "The former lawmaker and Executive Council member will succeed Henry Fan for a two-year term starting 1 December, the government said."
+      },
+      "zh": {
+        "headline": "陳健波獲委任醫院管理局主席 12月1日起任期兩年",
+        "dek": "政府周一宣布，前立法會議員及行政會議成員陳健波將接替范鴻齡，帶領醫管局。"
+      }
+    },
+    {
+      "id": "2026-11-24-hko-northeast-monsoon-cooling",
+      "published_at": "2026-11-24T00:12:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "monsoon",
+        "cooling"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-hko-northeast-monsoon-cooling.json",
+      "en": {
+        "headline": "Observatory expects cooler weather as northeast monsoon arrives",
+        "dek": "A cold front will cross the Guangdong coast this morning, bringing rain at first and progressive cooling, with urban lows around 16 degrees on Wednesday and Thursday."
+      },
+      "zh": {
+        "headline": "天文台料東北季候風今早抵達 天氣逐步轉涼",
+        "dek": "冷鋒今早橫過廣東沿岸，初時有幾陣雨，天氣轉涼，周三周四市區最低約16度。"
+      }
+    },
+    {
+      "id": "2026-11-24-interpol-restricted-flying-zone",
+      "published_at": "2026-11-24T00:12:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "police",
+        "interpol",
+        "wan-chai",
+        "drone"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-interpol-restricted-flying-zone.json",
+      "en": {
+        "headline": "Police set citywide restricted flying zone for Interpol General Assembly",
+        "dek": "From 30 November to 3 December, drones, kites, balloons and light aircraft will be banned across Hong Kong, with marine and road restrictions near the Wan Chai venue."
+      },
+      "zh": {
+        "headline": "警方就國際刑警大會設全港臨時限制飛行區",
+        "dek": "11月30日至12月3日期間，全港禁飛無人機、風箍及輕型飛機等，灣仔會展附近設海陸管制。"
+      }
+    },
+    {
+      "id": "2026-11-24-worldskills-shanghai-record",
+      "published_at": "2026-11-24T00:12:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "education",
+        "worldskills",
+        "john-lee",
+        "vtc"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-worldskills-shanghai-record.json",
+      "en": {
+        "headline": "Hong Kong team sets record with 15 awards at WorldSkills Shanghai",
+        "dek": "Chief Executive John Lee praised the 41-strong delegation’s silver medal in rail vehicle technology and 14 medals for excellence after a reception at government headquarters."
+      },
+      "zh": {
+        "headline": "港隊世界技能大賽奪15獎創歷屆最佳 李家超讚揚拼搏精神",
+        "dek": "行政長官周一在政府總部會見代表團，稱41名選手在37個項目中取得一銀及14個優異獎章，刷新紀錄。"
+      }
+    },
     {
       "id": "2026-11-24-chp-four-legionnaires-cases",
       "published_at": "2026-11-24T00:10:00+08:00",
