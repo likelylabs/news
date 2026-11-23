@@ -1,24 +1,6 @@
 {
   "covered": [
     {
-      "key": "lifestyle-arts-in-the-park-2026",
-      "id": "2026-11-09-lifestyle-arts-in-the-park-2026",
-      "first_seen": "2026-11-09T04:30:00+08:00",
-      "headline_en": "Arts in the Park returns to Causeway Bay with fairy-tale puppets next weekend"
-    },
-    {
-      "key": "ransomware-cases-rise-ai-attacks-nov9",
-      "id": "2026-11-09-ransomware-cases-rise-ai-attacks",
-      "first_seen": "2026-11-09T08:05:00+08:00",
-      "headline_en": "Police record nearly 18 per cent rise in ransomware cases as AI aids attacks"
-    },
-    {
-      "key": "strong-monsoon-signal-cold-front-nov9",
-      "id": "2026-11-09-strong-monsoon-signal-cold-front",
-      "first_seen": "2026-11-09T08:05:00+08:00",
-      "headline_en": "Strong Monsoon Signal and Red Fire Danger Warning in force as cold front arrives"
-    },
-    {
       "key": "north-point-citybus-pedestrian-death",
       "id": "2026-11-09-north-point-citybus-pedestrian-death",
       "first_seen": "2026-11-09T10:15:00+08:00",
@@ -2255,7 +2237,19 @@
       "id": "2026-11-23-lifestyle-causeway-bay-winter-wonderland",
       "first_seen": "2026-11-23T04:20:00+08:00",
       "headline_en": "Causeway Bay Winter Wonderland opens 25 November with elf-themed lights"
+    },
+    {
+      "key": "hko-midweek-cooling-nov25",
+      "id": "2026-11-23-hko-midweek-cooling",
+      "first_seen": "2026-11-23T08:05:00+08:00",
+      "headline_en": "Observatory forecasts temperatures falling to 16 degrees midweek"
+    },
+    {
+      "key": "primary-one-discretionary-results-nov23",
+      "id": "2026-11-23-primary-one-discretionary-results",
+      "first_seen": "2026-11-23T08:05:00+08:00",
+      "headline_en": "Primary One discretionary place results released today for 2027 intake"
     }
   ],
-  "updated_at": "2026-11-23T04:18:51+08:00"
+  "updated_at": "2026-11-23T08:05:25+08:00"
 }

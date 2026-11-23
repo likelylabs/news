@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-23T04:18:51+08:00",
+  "generated_at": "2026-11-23T08:05:25+08:00",
   "live_window_hours": 72,
-  "count": 73,
+  "count": 72,
   "articles": [
+    {
+      "id": "2026-11-23-hko-midweek-cooling",
+      "published_at": "2026-11-23T08:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "monsoon",
+        "cooling"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-hko-midweek-cooling.json",
+      "en": {
+        "headline": "Observatory forecasts temperatures falling to 16 degrees midweek",
+        "dek": "The Hong Kong Observatory said a northeast monsoon would bring cooler weather from Tuesday, with urban temperatures between 16 and 20 degrees on Wednesday."
+      },
+      "zh": {
+        "headline": "天文台預料周中氣溫跌至16度",
+        "dek": "香港天文台表示，東北季候風明日抵達華南沿岸，周三市區氣溫介乎16至20度，早晚清涼。"
+      }
+    },
+    {
+      "id": "2026-11-23-primary-one-discretionary-results",
+      "published_at": "2026-11-23T08:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "primary-one",
+        "schools",
+        "edb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-primary-one-discretionary-results.json",
+      "en": {
+        "headline": "Primary One discretionary place results released today for 2027 intake",
+        "dek": "The Education Bureau said 18,148 of 32,104 applicants received discretionary places, with results available from 10am on the e-platform or at schools."
+      },
+      "zh": {
+        "headline": "小一自行分配學位結果今日公布 進讀二〇二七年小一",
+        "dek": "教育局表示，全港官立及資助小學小一入學自行分配學位結果今日公布，家長可於上午10時起透過電子平台或到學校查閱。"
+      }
+    },
     {
       "id": "2026-11-23-lifestyle-causeway-bay-winter-wonderland",
       "published_at": "2026-11-23T04:20:00+08:00",
@@ -1579,74 +1623,6 @@
       "zh": {
         "headline": "天文台發出強烈季候風信號 吹偏北強風",
         "dek": "信號於上午4時45分生效，預料平均風速每小時超過40公里，陣風間中達烈風程度。"
-      }
-    },
-    {
-      "id": "2026-11-20-lifestyle-hong-kong-winterfest",
-      "published_at": "2026-11-20T04:45:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "community",
-        "central",
-        "winter",
-        "tourism"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-lifestyle-hong-kong-winterfest.json",
-      "en": {
-        "headline": "Hong Kong WinterFest opens with winter wonderlands in Central and Tsim Sha Tsui",
-        "dek": "The Hong Kong Tourism Board’s annual festival began on 18 November with light installations and a Christmas town at Statue Square, running through 5 January."
-      },
-      "zh": {
-        "headline": "香港冬日節開幕 中環及尖沙咀冬日仙境亮相",
-        "dek": "旅發局年度旗艦活動「香港冬日節」于11月18日開幕，香港冬日仙境首次擴展至三大熱點，展期至明年1月5日。"
-      }
-    },
-    {
-      "id": "2026-11-20-cooler-weather-northeast-monsoon",
-      "published_at": "2026-11-20T04:25:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "temperature",
-        "monsoon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-cooler-weather-northeast-monsoon.json",
-      "en": {
-        "headline": "Observatory forecasts urban temperatures down to 14 degrees under northeast monsoon",
-        "dek": "The Hong Kong Observatory said cloudy skies with rain patches will bring appreciably cooler conditions today, with wind chill making it feel colder especially in the New Territories."
-      },
-      "zh": {
-        "headline": "天文台料強烈東北季候風下市區氣溫降至14度",
-        "dek": "香港天文台表示，受強烈東北季候風及雲雨帶影響，本港今日顯著轉涼，密雲有幾陣雨，風寒效應令體感更冷，新界部分地區及高地寒冷。"
-      }
-    },
-    {
-      "id": "2026-11-20-lifestyle-neomu-neomu-popup",
-      "published_at": "2026-11-20T04:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "community",
-        "lai-chi-kok",
-        "pop-up",
-        "korean"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-lifestyle-neomu-neomu-popup.json",
-      "en": {
-        "headline": "Korean illustration brands gather for limited pop-up at D2 Place in Lai Chi Kok",
-        "dek": "The neomu neomu pop-up brings eight Korean illustration brands, several making their Hong Kong debut, to D2 Place TWO until 22 November with plush toys, charms and stationery."
-      },
-      "zh": {
-        "headline": "韓國插畫品牌期間限定店登陸荔枝角D2 Place",
-        "dek": "neomu neomu韓國文創快閃店匯集八個韓國插畫品牌，部分首次來港，於荔枝角D2 Place二期地下展至11月22日，售賣毛絨玩具及文具。"
       }
     }
   ]
