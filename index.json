@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-23T08:59:43+08:00",
+  "generated_at": "2026-11-23T10:14:56+08:00",
   "live_window_hours": 72,
-  "count": 70,
+  "count": 72,
   "articles": [
+    {
+      "id": "2026-11-23-lifestyle-asian-ethnic-cultural-performances",
+      "published_at": "2026-11-23T10:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "tsim-sha-tsui",
+        "exhibition",
+        "lcsd"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-lifestyle-asian-ethnic-cultural-performances.json",
+      "en": {
+        "headline": "Asian Ethnic Cultural Performances exhibition continues at Cultural Centre",
+        "dek": "The Leisure and Cultural Services Department said the free exhibition under the theme Convergence of Cross-Cultural Gifting runs until 29 November in Tsim Sha Tsui."
+      },
+      "zh": {
+        "headline": "亞裔民族文化表演展於文化中心持續舉行至11月29日",
+        "dek": "康文署表示，免費展覽以「跨文化饋贈的匯聚」為主題，於尖沙咀香港文化中心舉行。"
+      }
+    },
+    {
+      "id": "2026-11-23-tsim-sha-tsui-prat-avenue-fatal-crash",
+      "published_at": "2026-11-23T10:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "traffic",
+        "tsim-sha-tsui",
+        "police",
+        "drink-driving"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-tsim-sha-tsui-prat-avenue-fatal-crash.json",
+      "en": {
+        "headline": "Police arrest driver after BMW mounts pavement in Tsim Sha Tsui killing one",
+        "dek": "A 38-year-old man was arrested on suspicion of drink-driving and dangerous driving causing death after a private car hit four pedestrians on Prat Avenue on Sunday."
+      },
+      "zh": {
+        "headline": "尖沙咀寶勒巷寶馬劎行人路釀ᴻ死3傷 38歲男司機涉酒駕被捕",
+        "dek": "警方表示，一名38歲男子周日傍晚因涉嫌酒後駕駛及危險駕駛導致他人死亡被捕，涉事私家車於寶勒巷衝上行人路。"
+      }
+    },
+    {
+      "id": "2026-11-23-tsuen-wan-tai-pa-street-saltwater-burst",
+      "published_at": "2026-11-23T10:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "tsuen-wan",
+        "utilities",
+        "water",
+        "traffic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-tsuen-wan-tai-pa-street-saltwater-burst.json",
+      "en": {
+        "headline": "Saltwater main bursts in Tsuen Wan sending jet up to 10 metres high",
+        "dek": "Water Supplies Department staff shut off the valve after a rupture on Tai Pa Street early Monday disrupted traffic and damaged the pavement."
+      },
+      "zh": {
+        "headline": "荃灣大壩街鹹水管爆裂 水柱一度高達約10米",
+        "dek": "水務署人員清晨到場關閉水揇，路面被沖出約一米乘一米的洞，交通一度受影響。"
+      }
+    },
     {
       "id": "2026-11-23-hko-midweek-cooling",
       "published_at": "2026-11-23T08:05:00+08:00",
@@ -1555,29 +1624,6 @@
       "zh": {
         "headline": "天文台料周六早上清涼其後轉晴 周日大致多雲有微雨",
         "dek": "周六漸轉天晴乾燥，早上相當清涼，市區氣溫15至22度；周日大致多雲，初時部分時間明朗，稍後有一兩陣微雨。"
-      }
-    },
-    {
-      "id": "2026-11-20-oxfam-trailwalker-start",
-      "published_at": "2026-11-20T10:13:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "oxfam",
-        "trailwalker",
-        "sai-kung",
-        "fundraising"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-oxfam-trailwalker-start.json",
-      "en": {
-        "headline": "Oxfam Trailwalker begins in Sai Kung with nearly 4800 participants",
-        "dek": "The 41st edition of the 100km fundraising race started at 8am from Pak Tam Chung under cold and wet conditions."
-      },
-      "zh": {
-        "headline": "樂施會毅行者西貢起步 近4800人參加百公里籌款賽",
-        "dek": "第41屆樂施會毅行者百公里籌款賽周五早上8時於西貢北潭涌起步，近4800人參與。"
       }
     }
   ]
