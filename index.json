@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-24T02:05:56+08:00",
+  "generated_at": "2026-11-24T04:20:37+08:00",
   "live_window_hours": 72,
   "count": 84,
   "articles": [
+    {
+      "id": "2026-11-24-lifestyle-frieren-exhibition-mong-kok",
+      "published_at": "2026-11-24T04:18:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "exhibition",
+        "mong-kok",
+        "anime"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-lifestyle-frieren-exhibition-mong-kok.json",
+      "en": {
+        "headline": "Frieren anime exhibition opens at Mong Kok INCUBASE Arena until early January",
+        "dek": "The authorised show recreates scenes from the first season with five themed areas, life-size props and a Hong Kong-exclusive photo spot, running to 3 January."
+      },
+      "zh": {
+        "headline": "《葬送的芙莉蓮特展》香港站今日在旺角創興廣場開幕至明年1月",
+        "dek": "官方授權展覽以第一季為主軸，設五大主題展區、1:1武器及香港獨家打卡位，展期至1月3日。"
+      }
+    },
+    {
+      "id": "2026-11-24-oi-tung-estate-flat-fire",
+      "published_at": "2026-11-24T04:18:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "fire",
+        "shau-kei-wan",
+        "oi-tung-estate"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-oi-tung-estate-flat-fire.json",
+      "en": {
+        "headline": "Firefighters extinguish flat blaze at Oi Tung Estate after evacuating more than 100…",
+        "dek": "Police said a 17th-floor unit at Oi Chak House in Shau Kei Wan caught fire late on Monday night, with no injuries reported and the cause under investigation."
+      },
+      "zh": {
+        "headline": "筲箕灣愛東邨愛澤樓中層單位失火 逾百人疏散無人受傷",
+        "dek": "警方稱周一晚上約10時愛澤樓17樓一單位起火冒煙，消防約12分鐘將火救熄，起火原因仍在調查。"
+      }
+    },
     {
       "id": "2026-11-24-hktdc-hr-manager-sister-conviction",
       "published_at": "2026-11-24T02:03:00+08:00",
@@ -1852,51 +1897,6 @@
       "zh": {
         "headline": "The Big Picnic時隔七年重返愉景灣大白灣沙灘",
         "dek": "社區音樂節今日上午十一時至晚上十時於大白灣舉行，有逾二十支樂隊、美食攤檔及兒童專區。"
-      }
-    },
-    {
-      "id": "2026-11-21-govt-rejects-uscc-report",
-      "published_at": "2026-11-21T04:20:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "uscc",
-        "national-security",
-        "government"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-govt-rejects-uscc-report.json",
-      "en": {
-        "headline": "Government strongly rejects USCC 2026 report on Hong Kong",
-        "dek": "The SAR Government condemned the US-China Economic and Security Review Commission report as biased and urged the United States to stop interfering in Hong Kong affairs."
-      },
-      "zh": {
-        "headline": "特區政府強烈譴責美中經濟與安全審議委員會報告",
-        "dek": "政府形容報告失實偏頗，敦促美國立即停止干涉純屬中國內政的香港事務。"
-      }
-    },
-    {
-      "id": "2026-11-21-lifestyle-hk-china-tonga-rugby",
-      "published_at": "2026-11-21T04:20:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "lifestyle",
-        "sport",
-        "rugby",
-        "kai-tak",
-        "nations-cup"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-lifestyle-hk-china-tonga-rugby.json",
-      "en": {
-        "headline": "Hong Kong China face Tonga in double-header at Kai Tak today",
-        "dek": "Women’s international at 2 p.m. and men’s Nations Cup fixture at 5 p.m. at Kai Tak Youth Sports Ground, with tickets from HK$100."
-      },
-      "zh": {
-        "headline": "港中國欖球隊今於啟德迎戰湯加 男女雙賽",
-        "dek": "女子國際賽下午二時開波，男子Nations Cup決賽圈下午五時，啟德青年運動場，門票由100元起。"
       }
     }
   ]
