@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-23T18:12:12+08:00",
+  "generated_at": "2026-11-23T20:28:32+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 80,
   "articles": [
+    {
+      "id": "2026-11-23-customs-double-eleven-counterfeit",
+      "published_at": "2026-11-23T20:30:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "customs",
+        "counterfeit",
+        "kwai-chung",
+        "double-eleven"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-customs-double-eleven-counterfeit.json",
+      "en": {
+        "headline": "Customs seize HK$68 million in suspected counterfeit goods in Double 11 operation",
+        "dek": "Officers cracked 39 cases and arrested two people after intercepting about 120,000 items bound mainly for the Americas and the Middle East."
+      },
+      "zh": {
+        "headline": "海關「雙十一」行動檢值6800萬元冒牌貨 拘兩人",
+        "dek": "海關破獲39宗案件，檢獲約12萬件懷疑冒牌物品，主要準備轉運至美洲及中東地區。"
+      }
+    },
+    {
+      "id": "2026-11-23-san-po-kong-fake-usd-arrest",
+      "published_at": "2026-11-23T20:30:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "counterfeit",
+        "san-po-kong",
+        "bank"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-san-po-kong-fake-usd-arrest.json",
+      "en": {
+        "headline": "Police arrest 47-year-old woman over suspected fake US$100 at San Po Kong bank",
+        "dek": "A Standard Chartered branch on Tai Wo Street alerted officers after staff found one counterfeit note among 71 US dollar bills a customer tried to deposit."
+      },
+      "zh": {
+        "headline": "新蒲崗銀行疑存入偽美鈔 47歲女子被捕",
+        "dek": "大有街渣打銀行職員發現顧客擬存入的71張美鈔中有一張100元屬偽鈔後報警，警方以涉嫌行使偽製紙幣拘捕她。"
+      }
+    },
+    {
+      "id": "2026-11-23-wang-fuk-medical-extension",
+      "published_at": "2026-11-23T20:30:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "wang-fuk",
+        "tai-po",
+        "hospital-authority",
+        "fire"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-wang-fuk-medical-extension.json",
+      "en": {
+        "headline": "Free medical services for Wang Fuk Court fire victims extended to end of April 2027",
+        "dek": "The Health Bureau said Chinese and Western medicine outreaches, free dental dentures and Hospital Authority fee waivers will continue for another four months after the original year-end deadline."
+      },
+      "zh": {
+        "headline": "宏福苑火災受影響居民免費醫療安排延長至明年4月底",
+        "dek": "醫務衞生局宣布，中西醫義診、牙醫免費鑲配假牙及醫管局全額醫療費用豁免由原定年底延長四個月至2027年4月30日。"
+      }
+    },
     {
       "id": "2026-11-23-bid-rigging-taskforce-second-group",
       "published_at": "2026-11-23T18:15:00+08:00",
@@ -1743,50 +1812,6 @@
       "zh": {
         "headline": "蘇黎世保險客戶平台遭未授權存取 私隱公署稱或影響逾3.8萬人",
         "dek": "個人資料私隱專員公署表示，事件或影響38,453人的個人資料；公司已暫停客戶網上平台。"
-      }
-    },
-    {
-      "id": "2026-11-20-marine-officer-domestic-worker-assault",
-      "published_at": "2026-11-20T20:26:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "court",
-        "police",
-        "domestic-worker"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-marine-officer-domestic-worker-assault.json",
-      "en": {
-        "headline": "Marine police officer admits assaulting domestic worker, remanded for sentencing",
-        "dek": "A 44-year-old suspended marine officer admitted 12 charges at Kwun Tong Magistrates’ Courts and will be sentenced on 15 December."
-      },
-      "zh": {
-        "headline": "休班水警認襲擊外傭12罪 還柙候判",
-        "dek": "44歲停職水警在觀塘裁判法院承認12項普通襲擊及襲擊致造成身體傷害罪，12月15日判刑。"
-      }
-    },
-    {
-      "id": "2026-11-20-peak-hermes-handbags-burglary",
-      "published_at": "2026-11-20T20:26:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "burglary",
-        "peak"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-peak-hermes-handbags-burglary.json",
-      "en": {
-        "headline": "Police investigate Peak house burglary after four Hermès handbags reported stolen",
-        "dek": "Officers classified the case as burglary after a domestic helper reported a pried-open window at a detached house on Mount Austin Road on Thursday."
-      },
-      "zh": {
-        "headline": "山頂獨立屋遭爆竊 失約15萬元Hermès手袋",
-        "dek": "外傭周四下午報案指柯士甸山道獨立屋有窗戶被撬，警方列作爆竊跟進，暫未有人被捕。"
       }
     }
   ]
