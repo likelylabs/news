@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-23T22:16:28+08:00",
+  "generated_at": "2026-11-24T00:09:12+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 77,
   "articles": [
     {
       "id": "2026-11-23-john-lee-accelerates-building-reforms",
@@ -1743,98 +1743,6 @@
       "zh": {
         "headline": "City Kids聖誕嘉年華今午半山舉行 免費開放公眾參與",
         "dek": "非牟利幼稚園於波老道二級歷史建築校園舉辦年度籌款活動，上午十時至下午二時，無需登記。"
-      }
-    },
-    {
-      "id": "2026-11-20-ai-risk-governance-working-group",
-      "published_at": "2026-11-20T22:17:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "ai",
-        "governance",
-        "chan-kwok-ki",
-        "policy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-ai-risk-governance-working-group.json",
-      "en": {
-        "headline": "Chief Secretary chairs first meeting of AI risk governance working group",
-        "dek": "Chan Kwok-ki said the group will coordinate seven actions covering AI crime, minor protection, ethical risks and employment impacts."
-      },
-      "zh": {
-        "headline": "陳國基主持人工智能風險管治統籌工作組首次會議",
-        "dek": "政務司司長表示，工作組將統籌七項行動，涵蓋打擊AI犯罪、保護未成年使用者及研究就業影響。"
-      }
-    },
-    {
-      "id": "2026-11-20-building-safety-penalties-proposal",
-      "published_at": "2026-11-20T22:17:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "building-safety",
-        "tai-po-fire",
-        "development-bureau",
-        "legco"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-building-safety-penalties-proposal.json",
-      "en": {
-        "headline": "Government proposes higher building safety penalties after Tai Po fire",
-        "dek": "Development Bureau paper to LegCo suggests maximum fine of HK$10 million and five years' jail for dangerous works, and a new category for large-scale maintenance."
-      },
-      "zh": {
-        "headline": "政府擬修例提高樓宇安全罰則 大型維修工程需事先許可",
-        "dek": "發展局向立法會提交文件，建議危險工程最高罰款1000萬元及監禁五年，並為大型樓宇維修設立新規管類別。"
-      }
-    },
-    {
-      "id": "2026-11-20-hk-joins-ich-regulatory-member",
-      "published_at": "2026-11-20T22:17:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "ich",
-        "drug-regulation",
-        "innovation",
-        "health-bureau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-hk-joins-ich-regulatory-member.json",
-      "en": {
-        "headline": "Hong Kong joins global drug standards body as regulatory member",
-        "dek": "The Health Bureau said Hong Kong became the 20th regulatory member of the ICH after approval at a Czech Republic assembly on 17 November."
-      },
-      "zh": {
-        "headline": "香港正式加入國際人用藥品註冊技術協調會成為監管成員",
-        "dek": "醫務衛生局表示，香港在11月17日捷克大會上獲接納為ICH第20個監管機構成員。"
-      }
-    },
-    {
-      "id": "2026-11-20-zurich-insurance-data-breach",
-      "published_at": "2026-11-20T22:17:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "data-breach",
-        "zurich",
-        "privacy",
-        "insurance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-zurich-insurance-data-breach.json",
-      "en": {
-        "headline": "Zurich Insurance reports unauthorised access to customer portal affecting over 38,000",
-        "dek": "The Privacy Commissioner for Personal Data said 38,453 people may have been affected; the company has taken its customer portal offline."
-      },
-      "zh": {
-        "headline": "蘇黎世保險客戶平台遭未授權存取 私隱公署稱或影響逾3.8萬人",
-        "dek": "個人資料私隱專員公署表示，事件或影響38,453人的個人資料；公司已暫停客戶網上平台。"
       }
     }
   ]
