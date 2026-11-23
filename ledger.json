@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "cheung-shun-street-falling-table-nov9",
-      "id": "2026-11-10-cheung-shun-street-falling-table",
-      "first_seen": "2026-11-10T02:04:00+08:00",
-      "headline_en": "Woman injured after folding table falls from Cheung Sha Wan building"
-    },
-    {
-      "key": "strong-monsoon-signal-nov9-cooling",
-      "id": "2026-11-10-strong-monsoon-signal-cooling",
-      "first_seen": "2026-11-10T02:04:00+08:00",
-      "headline_en": "Observatory keeps Strong Monsoon Signal in force as temperatures fall toward 16 degrees"
-    },
-    {
       "key": "ferrari-f40-repulse-bay-dangerous-driving-arrest",
       "id": "2026-11-10-ferrari-f40-repulse-bay-arrest",
       "first_seen": "2026-11-10T04:20:00+08:00",
@@ -2327,7 +2315,13 @@
       "id": "2026-11-24-worldskills-shanghai-record",
       "first_seen": "2026-11-24T00:12:00+08:00",
       "headline_en": "Hong Kong team sets record with 15 awards at WorldSkills Shanghai"
+    },
+    {
+      "key": "hktdc-hr-manager-sister-conviction",
+      "id": "2026-11-24-hktdc-hr-manager-sister-conviction",
+      "first_seen": "2026-11-24T02:03:00+08:00",
+      "headline_en": "Former HKTDC HR manager and sister convicted over undeclared family link in hiring"
     }
   ],
-  "updated_at": "2026-11-24T00:14:01+08:00"
+  "updated_at": "2026-11-24T02:04:12+08:00"
 }

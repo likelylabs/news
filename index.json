@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-24T00:14:01+08:00",
+  "generated_at": "2026-11-24T02:04:12+08:00",
   "live_window_hours": 72,
   "count": 85,
   "articles": [
+    {
+      "id": "2026-11-24-hktdc-hr-manager-sister-conviction",
+      "published_at": "2026-11-24T02:03:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "icac",
+        "hktdc",
+        "court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-hktdc-hr-manager-sister-conviction.json",
+      "en": {
+        "headline": "Former HKTDC HR manager and sister convicted over undeclared family link in hiring",
+        "dek": "The Independent Commission Against Corruption said the pair were found guilty of using documents to deceive the Trade Development Council and will be sentenced on 7 December."
+      },
+      "zh": {
+        "headline": "貿發局前人力資源經理隱瞞親妹應徵關係 姊妹同被裁定罪成",
+        "dek": "廉政公署指兩人被裁定使用文件意圖欺騙主事人罪名成立，案件押後至12月7日判刑。"
+      }
+    },
     {
       "id": "2026-11-24-chan-kin-por-ha-chairman",
       "published_at": "2026-11-24T00:12:00+08:00",
@@ -1899,30 +1921,6 @@
       "zh": {
         "headline": "研資局與科學館今午舉辦免費人工智能公眾講座",
         "dek": "兩場粵語講座分別談事實查核及體育教學，下午二時半至四時半於尖沙咀舉行，免費入場先到先得。"
-      }
-    },
-    {
-      "id": "2026-11-21-lifestyle-city-kids-christmas-fair",
-      "published_at": "2026-11-21T00:32:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "community",
-        "mid-levels",
-        "family",
-        "christmas",
-        "event"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-lifestyle-city-kids-christmas-fair.json",
-      "en": {
-        "headline": "City Kids Christmas Fair returns to Mid-Levels campus today",
-        "dek": "The not-for-profit preschool opens its free annual fundraiser from 10 a.m. to 2 p.m. at the Grade II listed building on Borrett Road."
-      },
-      "zh": {
-        "headline": "City Kids聖誕嘉年華今午半山舉行 免費開放公眾參與",
-        "dek": "非牟利幼稚園於波老道二級歷史建築校園舉辦年度籌款活動，上午十時至下午二時，無需登記。"
       }
     }
   ]
