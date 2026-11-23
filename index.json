@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-11-23T12:11:16+08:00",
+  "generated_at": "2026-11-23T14:16:51+08:00",
   "live_window_hours": 72,
-  "count": 77,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-11-23-hang-seng-midday-lower-nov23",
+      "published_at": "2026-11-23T14:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "hang-seng",
+        "stocks",
+        "market",
+        "ai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-hang-seng-midday-lower-nov23.json",
+      "en": {
+        "headline": "Hang Seng falls to near 19-month low as AI sell-off weighs on tech shares",
+        "dek": "The index dropped as much as 1.8 per cent in morning trade on Monday, with the tech gauge down more than 1 per cent amid continued pressure from US AI stock declines."
+      },
+      "zh": {
+        "headline": "恒指一度跌穿22000點 科技股受AI拋售拖累",
+        "dek": "周一早市恒生指數最多跌1.8%，科技指數跌逾1%，延續美股人工智能股跌勢影響。"
+      }
+    },
+    {
+      "id": "2026-11-23-interpol-general-assembly-no-fly-zone",
+      "published_at": "2026-11-23T14:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "police",
+        "interpol",
+        "security",
+        "wan-chai",
+        "drone"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-interpol-general-assembly-no-fly-zone.json",
+      "en": {
+        "headline": "Police announce citywide no-fly zone for Interpol General Assembly next week",
+        "dek": "From 30 November to 3 December, drones, helicopters, kites and other aerial activities will be banned across Hong Kong, with roads closed around the Wan Chai venue."
+      },
+      "zh": {
+        "headline": "國際刑警全體大會下周舉行 全港設臨時禁飛區",
+        "dek": "警方宣布，11月30日至12月3日期間全港禁止無人機、直升機、風箍等空中活動，灣仔會展一帶封路。"
+      }
+    },
+    {
+      "id": "2026-11-23-lifestyle-youth-music-interflows-symphony",
+      "published_at": "2026-11-23T14:25:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "music",
+        "lcsd",
+        "tsim-sha-tsui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-lifestyle-youth-music-interflows-symphony.json",
+      "en": {
+        "headline": "Symphony Orchestra Interflow opens at Cultural Centre with school ensembles",
+        "dek": "The Music Office said about 60 primary and secondary school orchestras will perform from today until 25 November at the Hong Kong Cultural Centre Concert Hall, with tickets at HK$80."
+      },
+      "zh": {
+        "headline": "青年音樂匯演交響樂團項目今日起在文化中心舉行",
+        "dek": "音樂事務處表示，約60隊中小學樂團由今日至25日在香港文化中心音樂廳演出，門票80元。"
+      }
+    },
+    {
+      "id": "2026-11-23-strong-monsoon-signal-cancelled-nov23",
+      "published_at": "2026-11-23T14:25:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "monsoon",
+        "strong-monsoon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-strong-monsoon-signal-cancelled-nov23.json",
+      "en": {
+        "headline": "Observatory cancels Strong Monsoon Signal after morning winds ease",
+        "dek": "The Hong Kong Observatory said the Strong Monsoon Signal was cancelled at 12:45 pm on Monday as easterly winds moderated."
+      },
+      "zh": {
+        "headline": "天文台取消強烈季候風信號 上午風勢緩和",
+        "dek": "香港天文台表示，強烈季候風信號於周一中午12時45分取消，偏東風勢減弱。"
+      }
+    },
     {
       "id": "2026-11-23-adora-flora-city-kai-tak",
       "published_at": "2026-11-23T12:10:00+08:00",
@@ -1694,50 +1785,6 @@
       "zh": {
         "headline": "深水埗運動場對開地盤發現可疑物體 爆炸品處理課到場後解封",
         "dek": "工人中午約12時58分報案，指發現長約200毫米的物體，警方及爆炸品處理課到場調查後宣布安全。"
-      }
-    },
-    {
-      "id": "2026-11-20-primary-one-discretionary-places",
-      "published_at": "2026-11-20T14:15:00+08:00",
-      "updated_at": "2026-11-20T14:18:00+08:00",
-      "category": "community",
-      "tags": [
-        "education",
-        "primary-school",
-        "admission",
-        "edb"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-primary-one-discretionary-places.json",
-      "en": {
-        "headline": "Education Bureau says 56.5 per cent of Primary 1 applicants offered discretionary places",
-        "dek": "A record high success rate as total applications fall to 32,104 for September 2027 entry, with results due on Monday."
-      },
-      "zh": {
-        "headline": "教育局公布小一自行分配學位成功率56.5% 創逾二十年新高",
-        "dek": "申請人數跌至32,104人，18,148人獲派位，結果下周一公布，家長須於25或26日註冊。"
-      }
-    },
-    {
-      "id": "2026-11-20-yoga-instructor-murder-life-sentence",
-      "published_at": "2026-11-20T14:15:00+08:00",
-      "updated_at": "2026-11-20T14:18:00+08:00",
-      "category": "crime",
-      "tags": [
-        "crime",
-        "court",
-        "murder",
-        "high-court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-yoga-instructor-murder-life-sentence.json",
-      "en": {
-        "headline": "Court jails man for life over murder of yoga instructor ex-girlfriend",
-        "dek": "High Court judge says Lo Chun-ming had every intention to kill and sentences him after jury conviction yesterday."
-      },
-      "zh": {
-        "headline": "瑜伽導師被殺案 前男友謀殺罪成判終身監禁",
-        "dek": "高等法院法官指被告有殺害意圖，陪審團昨日一致裁定罪成後今日判刑。"
       }
     }
   ]
