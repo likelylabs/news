@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-11-24T00:09:12+08:00",
+  "generated_at": "2026-11-24T00:10:50+08:00",
   "live_window_hours": 72,
-  "count": 77,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-11-24-chp-four-legionnaires-cases",
+      "published_at": "2026-11-24T00:10:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "chp",
+        "legionnaires",
+        "department-of-health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-chp-four-legionnaires-cases.json",
+      "en": {
+        "headline": "Centre for Health Protection reports four new community Legionnaires’ disease cases",
+        "dek": "The cases, involving people aged 66 to 89 with underlying illnesses, bring the year’s total to 182, the Department of Health said."
+      },
+      "zh": {
+        "headline": "衛生防護中心公布四宗社區感染退伍軍人病個案",
+        "dek": "病人年齡介乎66至89歲，全部有長期病患，今年累計182宗。"
+      }
+    },
+    {
+      "id": "2026-11-24-lifestyle-detour-2026-pmq",
+      "published_at": "2026-11-24T00:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "design",
+        "pmq",
+        "central"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-lifestyle-detour-2026-pmq.json",
+      "en": {
+        "headline": "deTour 2026 design festival continues at PMQ with free entry until 29 November",
+        "dek": "Organised by PMQ, the festival features 14 installations under the theme Better, Not Perfect and a new pop-up shop at the Central venue."
+      },
+      "zh": {
+        "headline": "deTour 2026設計節在中環PMQ元創方舉行至29日免費入場",
+        "dek": "由PMQ主辦，以「不完美，更美好」為主題，設有14件裝置及首次快閃店。"
+      }
+    },
+    {
+      "id": "2026-11-24-prat-avenue-driver-nine-charges",
+      "published_at": "2026-11-24T00:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "tsim-sha-tsui",
+        "traffic",
+        "court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-prat-avenue-driver-nine-charges.json",
+      "en": {
+        "headline": "Police charge 38-year-old man with nine offences over fatal Prat Avenue crash",
+        "dek": "The driver is to appear at Kowloon City Magistrates' Courts on Tuesday morning on charges including dangerous driving causing death and driving while disqualified."
+      },
+      "zh": {
+        "headline": "警方就寶勒巷致命車禍暫控38歲男子九項罪名",
+        "dek": "司機將於周二早上在九龍城裁判法院提堂，控罪包括危險駕駛引致他人死亡及被取消駕駛資格期間駕駛。"
+      }
+    },
+    {
+      "id": "2026-11-24-tai-po-dog-second-arrest",
+      "published_at": "2026-11-24T00:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "tai-po",
+        "animal-cruelty"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-tai-po-dog-second-arrest.json",
+      "en": {
+        "headline": "Police arrest second man over dog found hanging from tree in Tai Po",
+        "dek": "Officers found animal traps and cages near a stone house on Ma Wo Road after a woman reported the mistreatment of a stray that her brother had fed for a year."
+      },
+      "zh": {
+        "headline": "大埔唐狗被吊樹死亡 警方再拘一人涉殘酷對待動物",
+        "dek": "警方在馬窩路石屋一帶發現捕獸器及捕獸籠，案中唐狗由其胞弟飼養約一年。"
+      }
+    },
     {
       "id": "2026-11-23-john-lee-accelerates-building-reforms",
       "published_at": "2026-11-23T22:15:00+08:00",
