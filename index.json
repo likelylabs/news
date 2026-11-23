@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-24T02:04:12+08:00",
+  "generated_at": "2026-11-24T02:05:14+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 84,
   "articles": [
     {
       "id": "2026-11-24-hktdc-hr-manager-sister-conviction",
       "published_at": "2026-11-24T02:03:00+08:00",
-      "updated_at": null,
+      "updated_at": "2026-11-24T02:06:00+08:00",
       "category": "crime",
       "tags": [
         "crime",
@@ -1897,30 +1897,6 @@
       "zh": {
         "headline": "港中國欖球隊今於啟德迎戰湯加 男女雙賽",
         "dek": "女子國際賽下午二時開波，男子Nations Cup決賽圈下午五時，啟德青年運動場，門票由100元起。"
-      }
-    },
-    {
-      "id": "2026-11-21-lifestyle-rgc-ai-lectures-science-museum",
-      "published_at": "2026-11-21T02:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "science-museum",
-        "ai",
-        "education",
-        "tsim-sha-tsui"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-lifestyle-rgc-ai-lectures-science-museum.json",
-      "en": {
-        "headline": "Research Grants Council hosts free AI lectures at Science Museum today",
-        "dek": "Two Cantonese sessions on fact-checking and sports education run from 2:30 p.m. to 4:30 p.m. with free first-come seating."
-      },
-      "zh": {
-        "headline": "研資局與科學館今午舉辦免費人工智能公眾講座",
-        "dek": "兩場粵語講座分別談事實查核及體育教學，下午二時半至四時半於尖沙咀舉行，免費入場先到先得。"
       }
     }
   ]
