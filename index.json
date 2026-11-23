@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-23T20:28:32+08:00",
+  "generated_at": "2026-11-23T22:16:28+08:00",
   "live_window_hours": 72,
-  "count": 80,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-11-23-john-lee-accelerates-building-reforms",
+      "published_at": "2026-11-23T22:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "building",
+        "maintenance",
+        "wang-fuk",
+        "reforms",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-john-lee-accelerates-building-reforms.json",
+      "en": {
+        "headline": "Lee orders acceleration of building maintenance reforms after Wang Fuk Court fire",
+        "dek": "The Chief Executive told officials on Monday to submit amendments to six ordinances as soon as possible following a progress briefing on the independent committee’s recommendations."
+      },
+      "zh": {
+        "headline": "李家超下令加快樓宇維修制度改革 防止宏福苑悲劇重演",
+        "dek": "行政長官周一聽取進度匯報後，指示各部門盡快向立法會提交六項法例修訂，全力落實獨立委員會建議。"
+      }
+    },
     {
       "id": "2026-11-23-customs-double-eleven-counterfeit",
       "published_at": "2026-11-23T20:30:00+08:00",
