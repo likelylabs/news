@@ -1,8 +1,119 @@
 {
-  "generated_at": "2026-11-23T10:18:29+08:00",
+  "generated_at": "2026-11-23T12:11:16+08:00",
   "live_window_hours": 72,
-  "count": 75,
+  "count": 77,
   "articles": [
+    {
+      "id": "2026-11-23-adora-flora-city-kai-tak",
+      "published_at": "2026-11-23T12:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "cruise",
+        "kai-tak",
+        "tourism",
+        "adora"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-adora-flora-city-kai-tak.json",
+      "en": {
+        "headline": "Second domestic large cruise ship Adora Flora City arrives at Kai Tak",
+        "dek": "China's second domestically built large cruise ship, carrying more than 3,800 passengers, arrived at Kai Tak Cruise Terminal on its maiden commercial voyage from Guangzhou."
+      },
+      "zh": {
+        "headline": "第二艙國產大型郵輪愛達・花城號抵達啟德郵輪碼頭",
+        "dek": "中國第二艙國產大型郵輪載逾3800名旅客，於商業首航期間今早抵達啟德郵輪碼頭。"
+      }
+    },
+    {
+      "id": "2026-11-23-building-maintenance-new-category",
+      "published_at": "2026-11-23T12:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "building",
+        "development",
+        "regulation",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-building-maintenance-new-category.json",
+      "en": {
+        "headline": "Development Bureau proposes new category for large building maintenance works",
+        "dek": "Permanent Secretary Doris Ho said approval times for major maintenance projects are expected to lengthen, with a target of completing reviews within 45 days of full submissions."
+      },
+      "zh": {
+        "headline": "發展局擬將大型樓宇維修列新類別 審批時間料較長",
+        "dek": "發展局常任秘書長何珮玲表示，大型維修工程審批時間預計較以往長，目標在交齊文件後45日內完成。"
+      }
+    },
+    {
+      "id": "2026-11-23-chan-kin-por-ha-chairman",
+      "published_at": "2026-11-23T12:10:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "hospital-authority",
+        "appointment",
+        "chan-kin-por"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-chan-kin-por-ha-chairman.json",
+      "en": {
+        "headline": "Government appoints Chan Kin-por as Hospital Authority chairman",
+        "dek": "The Chief Executive appointed Chan Kin-por as chairman of the Hospital Authority for a two-year term from 1 December, with one new member and six reappointments."
+      },
+      "zh": {
+        "headline": "政府委任陳健波為醫管局主席 12月1日起任期兩年",
+        "dek": "行政長官根據《醫院管理局條例》委任陳健波為醫管局主席，任期由12月1日起為期兩年，同時委任一名新成員及再度委任六名現任成員。"
+      }
+    },
+    {
+      "id": "2026-11-23-lifestyle-detour-2026-pmq",
+      "published_at": "2026-11-23T12:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "pmq",
+        "design",
+        "central"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-lifestyle-detour-2026-pmq.json",
+      "en": {
+        "headline": "deTour 2026 design festival continues at PMQ until 29 November",
+        "dek": "PMQ said the free annual design festival, themed Better Not Perfect: Prototypes for Tomorrow, features 14 works across three zones and a new pop-up shop."
+      },
+      "zh": {
+        "headline": "deTour 2026設計節於元創方持續至11月29日",
+        "dek": "元創方表示，免費年度設計節以「不完美，更美好」為主題，設三大展區展出14件作品，並首設快閃選物店。"
+      }
+    },
+    {
+      "id": "2026-11-23-strong-monsoon-signal-nov23",
+      "published_at": "2026-11-23T12:10:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "monsoon",
+        "strong-monsoon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-strong-monsoon-signal-nov23.json",
+      "en": {
+        "headline": "Observatory updates Strong Monsoon Signal with easterly winds",
+        "dek": "The Hong Kong Observatory said the Strong Monsoon Signal remains in force with strong easterly winds expected and occasional gale-force gusts."
+      },
+      "zh": {
+        "headline": "天文台更新強烈季候風信號 吹偏東強風",
+        "dek": "香港天文台表示，強烈季候風信號現正生效，預料吹偏東強風，陣風間中達烈風程度。"
+      }
+    },
     {
       "id": "2026-11-23-lifestyle-asian-ethnic-cultural-performances",
       "published_at": "2026-11-23T10:20:00+08:00",
@@ -1627,72 +1738,6 @@
       "zh": {
         "headline": "瑜伽導師被殺案 前男友謀殺罪成判終身監禁",
         "dek": "高等法院法官指被告有殺害意圖，陪審團昨日一致裁定罪成後今日判刑。"
-      }
-    },
-    {
-      "id": "2026-11-20-cheung-sha-wan-kaming-fire",
-      "published_at": "2026-11-20T12:11:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "fire",
-        "cheung-sha-wan",
-        "emergency"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-cheung-sha-wan-kaming-fire.json",
-      "en": {
-        "headline": "Fire at Cheung Sha Wan factory building extinguished in 15 minutes, one person unwell",
-        "dek": "Firefighters put out a blaze in an open-air canopy area at Kaming Factory Building on Castle Peak Road shortly after 10:30 a.m., with one person treated at the scene."
-      },
-      "zh": {
-        "headline": "長沙灣嘉名工廠大廈火警15分鐘撲熄 一人不適",
-        "dek": "消防今早約10時33分到場，約15分鐘內撲滅青山道688-690號嘉名工廠大廈露天簷篷位置火警，一人不適在場接受治理。"
-      }
-    },
-    {
-      "id": "2026-11-20-cold-weather-warning-nov20",
-      "published_at": "2026-11-20T12:11:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "cold",
-        "monsoon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-cold-weather-warning-nov20.json",
-      "en": {
-        "headline": "Observatory issues Cold Weather Warning as urban temperatures fall toward 12 degrees",
-        "dek": "The Hong Kong Observatory raised the Cold Weather Warning at 11:15 a.m., forecasting cold conditions today and tomorrow with daytime urban lows around 12 degrees under the northeast monsoon."
-      },
-      "zh": {
-        "headline": "天文台發出寒冷天氣警告 市區日間氣溫料降至約12度",
-        "dek": "天文台上午11時15分發出寒冷天氣警告，預料今明兩日天氣寒冷，市區日間最低氣溫約12度，新界及高地再低一兩度。"
-      }
-    },
-    {
-      "id": "2026-11-20-weekend-weather-outlook-nov21-22",
-      "published_at": "2026-11-20T12:11:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "weekend",
-        "temperature"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-weekend-weather-outlook-nov21-22.json",
-      "en": {
-        "headline": "Observatory forecasts cool Saturday morning then cloudier Sunday for Hong Kong",
-        "dek": "Saturday will turn fine and dry after a rather cool morning with urban temperatures of 15 to 22 degrees, while Sunday brings mainly cloudy skies and possible light rain later."
-      },
-      "zh": {
-        "headline": "天文台料周六早上清涼其後轉晴 周日大致多雲有微雨",
-        "dek": "周六漸轉天晴乾燥，早上相當清涼，市區氣溫15至22度；周日大致多雲，初時部分時間明朗，稍後有一兩陣微雨。"
       }
     }
   ]
