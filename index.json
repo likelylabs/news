@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-23T10:14:56+08:00",
+  "generated_at": "2026-11-23T10:18:29+08:00",
   "live_window_hours": 72,
-  "count": 72,
+  "count": 75,
   "articles": [
     {
       "id": "2026-11-23-lifestyle-asian-ethnic-cultural-performances",
@@ -24,6 +24,52 @@
       "zh": {
         "headline": "亞裔民族文化表演展於文化中心持續舉行至11月29日",
         "dek": "康文署表示，免費展覽以「跨文化饋贈的匯聚」為主題，於尖沙咀香港文化中心舉行。"
+      }
+    },
+    {
+      "id": "2026-11-23-lifestyle-megabox-christmas-music-hall",
+      "published_at": "2026-11-23T10:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "megabox",
+        "kowloon-bay",
+        "christmas",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-lifestyle-megabox-christmas-music-hall.json",
+      "en": {
+        "headline": "MegaBox opens Christmas Music Hall with corgi Mochi as resident singer",
+        "dek": "The Kowloon Bay mall said its L5 atrium becomes a vintage record room from today until 3 January, with a six-metre music tree and golden Christmas forest on the rooftop garden."
+      },
+      "zh": {
+        "headline": "MegaBox聖誕音樂館開幕 哥基麻粑化身駐場歌手",
+        "dek": "九龍灣MegaBox表示，L5中庭由今日起至1月3日化身復古唱片室，設6米高音樂聖誕樹，頂層空中花園則變金色聖誕叢林。"
+      }
+    },
+    {
+      "id": "2026-11-23-mtr-ho-man-tin-kwun-tong-signal-fault",
+      "published_at": "2026-11-23T10:20:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "kwun-tong-line",
+        "ho-man-tin",
+        "signal-fault",
+        "transport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-mtr-ho-man-tin-kwun-tong-signal-fault.json",
+      "en": {
+        "headline": "MTR fixes signal fault near Ho Man Tin after brief Kwun Tong Line delays",
+        "dek": "The MTR Corporation said trains slowed past a signalling equipment failure near Ho Man Tin Station around 9am, adding 10 to 15 minutes to journeys before service returned to normal."
+      },
+      "zh": {
+        "headline": "何文田站附近信號故障 觀塘綫一度需額外10至15分鐘",
+        "dek": "港鐵表示，周一早上約9時何文田站附近信號設備故障，列車需慢駛，觀塘綫行車時間一度增加10至15分鐘，約10分鐘後恢復正常。"
       }
     },
     {
@@ -70,6 +116,29 @@
       "zh": {
         "headline": "荃灣大壩街鹹水管爆裂 水柱一度高達約10米",
         "dek": "水務署人員清晨到場關閉水揇，路面被沖出約一米乘一米的洞，交通一度受影響。"
+      }
+    },
+    {
+      "id": "2026-11-23-yau-ma-tei-lin-cheung-road-van-overturn",
+      "published_at": "2026-11-23T10:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "traffic",
+        "yau-ma-tei",
+        "accident",
+        "police",
+        "lin-cheung-road"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-yau-ma-tei-lin-cheung-road-van-overturn.json",
+      "en": {
+        "headline": "Driver climbs from overturned van on Lin Cheung Road after early-morning crash",
+        "dek": "Police said a 50-year-old man sustained abrasions to his hands and legs after his seven-seater hit a barrier near West Kowloon Station and flipped, but he declined hospital treatment."
+      },
+      "zh": {
+        "headline": "油麻地連翔道七人車撞壆翻側 司機自行爬出擦傷拒送院",
+        "dek": "警方表示，周一凌晨約1時38分一輛七人車在西九龍站對開隧道自炒撞向石壆後四輪朝天，50歲男司機手腳擦傷，現場治理後毋須送院。"
       }
     },
     {
