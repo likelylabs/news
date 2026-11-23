@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-23T14:16:51+08:00",
+  "generated_at": "2026-11-23T16:27:57+08:00",
   "live_window_hours": 72,
-  "count": 79,
+  "count": 78,
   "articles": [
+    {
+      "id": "2026-11-23-hongkong-post-fake-website-warning",
+      "published_at": "2026-11-23T16:27:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "hongkong-post",
+        "scam",
+        "police",
+        "phishing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-hongkong-post-fake-website-warning.json",
+      "en": {
+        "headline": "Hong Kong Post warns public of fake websites and messages",
+        "dek": "The postal service said on Monday it had referred to police fake websites and messages impersonating it that ask recipients for personal data or postage payments."
+      },
+      "zh": {
+        "headline": "香港郵政呼籲慎防偽冒網站及短訊",
+        "dek": "香港郵政周一表示，已將冒認其名義的虛假網站及要求提供個人資料或支付郵費的短訊電郵轉交警方，並提醒市民官方網站及發送人名稱。"
+      }
+    },
+    {
+      "id": "2026-11-23-lion-rock-tunnel-tow-truck-overturn",
+      "published_at": "2026-11-23T16:27:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "lion-rock-tunnel",
+        "accident",
+        "traffic",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-lion-rock-tunnel-tow-truck-overturn.json",
+      "en": {
+        "headline": "Tow truck overturns in Lion Rock Tunnel forcing single-tube traffic",
+        "dek": "A recovery vehicle rolled onto its side in the Kowloon-bound tube around 11:24 am on Monday after striking a barrier, slightly injuring the driver and causing heavy congestion under one-tube two-way running."
+      },
+      "zh": {
+        "headline": "獅子山隧道往九龍方向拖車翻側 實施單管雙程行車",
+        "dek": "周一上午約11時24分，一輛拖車在獅子山隧道往九龍方向管道內疑失控撞石壆後翻側，司機輕傷拒送院，運輸署實施單管雙程行車，交通擠塞。"
+      }
+    },
     {
       "id": "2026-11-23-hang-seng-midday-lower-nov23",
       "published_at": "2026-11-23T14:25:00+08:00",
@@ -1718,73 +1764,6 @@
       "zh": {
         "headline": "《北部都會區發展條例》刊憲 為北都發展提供法律基礎",
         "dek": "條例經立法會11月12日三讀通過後今日刊憲，首批附屬法例計劃明年一月提交、首季生效。"
-      }
-    },
-    {
-      "id": "2026-11-20-north-point-boc-counterfeit-usd",
-      "published_at": "2026-11-20T16:24:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "counterfeit",
-        "north-point",
-        "bank"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-north-point-boc-counterfeit-usd.json",
-      "en": {
-        "headline": "Police arrest two over suspected counterfeit US dollar notes at North Point bank",
-        "dek": "A man and a woman were detained after Bank of China staff flagged 100 US$100 bills at a branch on King's Road on Friday morning."
-      },
-      "zh": {
-        "headline": "北角中銀職員揭百張百元美鈔疑偽鈔 警拘兩人",
-        "dek": "一男一女今早持100張100美元鈔票到英皇道分行，職員發現多張同編號後報警，兩人涉行使偽鈔被捕。"
-      }
-    },
-    {
-      "id": "2026-11-20-public-housing-waiting-time-4-4-years",
-      "published_at": "2026-11-20T16:24:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "housing",
-        "public-housing",
-        "housing-bureau",
-        "waiting-time"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-public-housing-waiting-time-4-4-years.json",
-      "en": {
-        "headline": "Housing Bureau says public housing composite waiting time falls to 4.4 years",
-        "dek": "The figure is the lowest in a decade and the first time below the 4.5-year target set for 2026-27, the bureau said on Friday."
-      },
-      "zh": {
-        "headline": "房屋局公布公屋綜合輪候時間降至4.4年 創十年新低",
-        "dek": "較6月底的4.8年減少0.4年，首次低於4.5年目標，亦是過去十年來最低。"
-      }
-    },
-    {
-      "id": "2026-11-20-sham-shui-po-suspicious-object",
-      "published_at": "2026-11-20T16:24:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "police",
-        "sham-shui-po",
-        "emergency"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-sham-shui-po-suspicious-object.json",
-      "en": {
-        "headline": "Explosive ordnance team clears suspicious object at Sham Shui Po construction site",
-        "dek": "Police said a worker reported a 200mm object opposite the sports ground around noon on Friday, and the site was later declared safe."
-      },
-      "zh": {
-        "headline": "深水埗運動場對開地盤發現可疑物體 爆炸品處理課到場後解封",
-        "dek": "工人中午約12時58分報案，指發現長約200毫米的物體，警方及爆炸品處理課到場調查後宣布安全。"
       }
     }
   ]

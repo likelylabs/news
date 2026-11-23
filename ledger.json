@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "lifestyle-muji-25th-exhibition-central",
-      "id": "2026-11-09-lifestyle-muji-25th-anniversary-exhibition",
-      "first_seen": "2026-11-09T14:20:00+08:00",
-      "headline_en": "MUJI marks 25 years in Hong Kong with Central exhibition and Ferris-wheel installation"
-    },
-    {
-      "key": "paul-chan-afrc-forum-supply-chains-nov9",
-      "id": "2026-11-09-paul-chan-afrc-forum-ipo",
-      "first_seen": "2026-11-09T14:20:00+08:00",
-      "headline_en": "Chan says firms accelerating supply-chain diversification amid geopolitical uncertainty"
-    },
-    {
       "key": "hang-seng-index-close-nov9",
       "id": "2026-11-09-hang-seng-close-down-33",
       "first_seen": "2026-11-09T16:35:00+08:00",
@@ -2309,7 +2297,19 @@
       "id": "2026-11-23-strong-monsoon-signal-cancelled-nov23",
       "first_seen": "2026-11-23T14:25:00+08:00",
       "headline_en": "Observatory cancels Strong Monsoon Signal after morning winds ease"
+    },
+    {
+      "key": "hongkong-post-phishing-warning-nov23",
+      "id": "2026-11-23-hongkong-post-fake-website-warning",
+      "first_seen": "2026-11-23T16:27:00+08:00",
+      "headline_en": "Hong Kong Post warns public of fake websites and messages"
+    },
+    {
+      "key": "lion-rock-tunnel-tow-truck-overturn-nov23",
+      "id": "2026-11-23-lion-rock-tunnel-tow-truck-overturn",
+      "first_seen": "2026-11-23T16:27:00+08:00",
+      "headline_en": "Tow truck overturns in Lion Rock Tunnel forcing single-tube traffic"
     }
   ],
-  "updated_at": "2026-11-23T14:16:51+08:00"
+  "updated_at": "2026-11-23T16:27:57+08:00"
 }
