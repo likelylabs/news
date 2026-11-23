@@ -1,24 +1,6 @@
 {
   "covered": [
     {
-      "key": "hang-seng-index-close-nov9",
-      "id": "2026-11-09-hang-seng-close-down-33",
-      "first_seen": "2026-11-09T16:35:00+08:00",
-      "headline_en": "Hang Seng closes down 33 points at 24449"
-    },
-    {
-      "key": "legco-research-requirement-nonbinding-motions",
-      "id": "2026-11-09-legco-research-nonbinding-motions",
-      "first_seen": "2026-11-09T16:35:00+08:00",
-      "headline_en": "Legco to require research for non-binding motions from next year"
-    },
-    {
-      "key": "north-point-citybus-driver-arrest-nov9",
-      "id": "2026-11-09-north-point-citybus-driver-arrest",
-      "first_seen": "2026-11-09T16:35:00+08:00",
-      "headline_en": "Police arrest Citybus driver after pedestrian dies in North Point"
-    },
-    {
       "key": "ocean-park-tower-malfunction-nov9",
       "id": "2026-11-09-ocean-park-tower-malfunction",
       "first_seen": "2026-11-09T18:15:00+08:00",
@@ -2309,7 +2291,31 @@
       "id": "2026-11-23-lion-rock-tunnel-tow-truck-overturn",
       "first_seen": "2026-11-23T16:27:00+08:00",
       "headline_en": "Tow truck overturns in Lion Rock Tunnel forcing single-tube traffic"
+    },
+    {
+      "key": "bid-rigging-taskforce-second-group-nov23",
+      "id": "2026-11-23-bid-rigging-taskforce-second-group",
+      "first_seen": "2026-11-23T18:15:00+08:00",
+      "headline_en": "Task force dismantles second bid-rigging group involving 15 estates"
+    },
+    {
+      "key": "fps-system-upgrade-nov29",
+      "id": "2026-11-23-fps-system-upgrade-nov29",
+      "first_seen": "2026-11-23T18:15:00+08:00",
+      "headline_en": "Faster Payment System to suspend service for upgrade on 29 November"
+    },
+    {
+      "key": "hang-seng-close-nov23",
+      "id": "2026-11-23-hang-seng-close-down-27",
+      "first_seen": "2026-11-23T18:15:00+08:00",
+      "headline_en": "Hang Seng closes down 27 points at 22384 as auto stocks lag"
+    },
+    {
+      "key": "hangzhou-cigarettes-sentence-nov23",
+      "id": "2026-11-23-hangzhou-cigarettes-sentence",
+      "first_seen": "2026-11-23T18:15:00+08:00",
+      "headline_en": "Man from Hangzhou jailed seven months for importing 61200 duty-free cigarettes"
     }
   ],
-  "updated_at": "2026-11-23T16:27:57+08:00"
+  "updated_at": "2026-11-23T18:12:12+08:00"
 }

@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-11-23T16:27:57+08:00",
+  "generated_at": "2026-11-23T18:12:12+08:00",
   "live_window_hours": 72,
-  "count": 78,
+  "count": 79,
   "articles": [
+    {
+      "id": "2026-11-23-bid-rigging-taskforce-second-group",
+      "published_at": "2026-11-23T18:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "bid-rigging",
+        "building",
+        "police",
+        "icac"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-bid-rigging-taskforce-second-group.json",
+      "en": {
+        "headline": "Task force dismantles second bid-rigging group involving 15 estates",
+        "dek": "The joint task force said it arrested 33 people and blocked two contracts worth about HK$7.6 million after uncovering deals totalling more than HK$130 million."
+      },
+      "zh": {
+        "headline": "特遣隊再瓦解圍標集團 涉15屋苑工程逾1.3億",
+        "dek": "聯合特遣隊表示已拘捕33人，並阻止兩份約760萬元合約，涉案工程合約總額超過1.3億元。"
+      }
+    },
+    {
+      "id": "2026-11-23-fps-system-upgrade-nov29",
+      "published_at": "2026-11-23T18:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "fps",
+        "hkma",
+        "payments",
+        "technology"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-fps-system-upgrade-nov29.json",
+      "en": {
+        "headline": "Faster Payment System to suspend service for upgrade on 29 November",
+        "dek": "The Hong Kong Monetary Authority said the system will be unavailable from 1 am to 11 am on Sunday while Hong Kong Interbank Clearing carries out maintenance."
+      },
+      "zh": {
+        "headline": "轉數快本月29日凌晨1時至早上11時暫停服務",
+        "dek": "金管局表示，香港銀行同業結算有限公司將於周日進行系統提升，該時段內轉數快暫停服務。"
+      }
+    },
+    {
+      "id": "2026-11-23-hang-seng-close-down-27",
+      "published_at": "2026-11-23T18:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "hang-seng",
+        "stocks",
+        "market",
+        "ai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-hang-seng-close-down-27.json",
+      "en": {
+        "headline": "Hang Seng closes down 27 points at 22384 as auto stocks lag",
+        "dek": "The index ended Monday 0.12 per cent lower after recovering from a morning drop of more than 400 points, with Lenovo among the strongest gainers."
+      },
+      "zh": {
+        "headline": "恒指收市跌27點報22384 汽車股受壓",
+        "dek": "周一恒生指數收市跌0.12%，早段曾跌逾400點失守22000點，聯想集團升近8%成表現最好藍籌之一。"
+      }
+    },
+    {
+      "id": "2026-11-23-hangzhou-cigarettes-sentence",
+      "published_at": "2026-11-23T18:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "customs",
+        "airport",
+        "cigarettes",
+        "court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-23/2026-11-23-hangzhou-cigarettes-sentence.json",
+      "en": {
+        "headline": "Man from Hangzhou jailed seven months for importing 61200 duty-free cigarettes",
+        "dek": "Customs said the 56-year-old was intercepted at the airport on 28 October with cigarettes valued at about HK$366000 and was also fined HK$1000."
+      },
+      "zh": {
+        "headline": "杭州抵港旅客攜6.1萬支私煙 判囚7個月罰款千元",
+        "dek": "海關指56歲男旅客於10月28日在機場被截獲，行李內有約61200支未完稅香煙，市值約36.6萬元。"
+      }
+    },
     {
       "id": "2026-11-23-hongkong-post-fake-website-warning",
       "published_at": "2026-11-23T16:27:00+08:00",
@@ -1695,75 +1787,6 @@
       "zh": {
         "headline": "山頂獨立屋遭爆竊 失約15萬元Hermès手袋",
         "dek": "外傭周四下午報案指柯士甸山道獨立屋有窗戶被撬，警方列作爆竊跟進，暫未有人被捕。"
-      }
-    },
-    {
-      "id": "2026-11-20-ev-battery-recycling-levy",
-      "published_at": "2026-11-20T18:08:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "ev",
-        "recycling",
-        "environment",
-        "epd",
-        "levy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-ev-battery-recycling-levy.json",
-      "en": {
-        "headline": "Government proposes HK$6 per kg levy on EV battery suppliers from 2028",
-        "dek": "The Environmental Protection Department said the charge would start at about HK$3,000 for a typical private car battery and rise to about HK$15,000 by 2043."
-      },
-      "zh": {
-        "headline": "政府擬向電動車電池供應商徵費每公斤6元 料2028年起實施",
-        "dek": "環保署表示，一般私家車約500公斤電池初期徵費約3000元，至2043年逐步增至約15000元。"
-      }
-    },
-    {
-      "id": "2026-11-20-lifestyle-detour-2026-pmq",
-      "published_at": "2026-11-20T18:08:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "pmq",
-        "design",
-        "central",
-        "exhibition"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-lifestyle-detour-2026-pmq.json",
-      "en": {
-        "headline": "deTour 2026 design festival opens at PMQ with free admission through 29 November",
-        "dek": "Organised by PMQ under the theme Better, Not Perfect, the festival shows 14 works and runs 11 a.m. to 8 p.m. from Saturday, with shorter hours today."
-      },
-      "zh": {
-        "headline": "deTour 2026設計節於元創方開幕 免費入場至11月29日",
-        "dek": "由元創方主辦，主題「不完美，更美好」，展出14件作品；今日開放至下午3時，明日起至晚上8時。"
-      }
-    },
-    {
-      "id": "2026-11-20-northern-metropolis-ordinance-gazetted",
-      "published_at": "2026-11-20T18:08:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "northern-metropolis",
-        "legislation",
-        "development",
-        "legco"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-20/2026-11-20-northern-metropolis-ordinance-gazetted.json",
-      "en": {
-        "headline": "Northern Metropolis Development Ordinance gazetted after LegCo passage",
-        "dek": "The ordinance, passed on 12 November, provides a legal basis for faster planning, land and building measures, with subsidiary legislation targeted for early 2027."
-      },
-      "zh": {
-        "headline": "《北部都會區發展條例》刊憲 為北都發展提供法律基礎",
-        "dek": "條例經立法會11月12日三讀通過後今日刊憲，首批附屬法例計劃明年一月提交、首季生效。"
       }
     }
   ]
