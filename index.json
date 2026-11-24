@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-24T04:20:37+08:00",
+  "generated_at": "2026-11-24T08:06:36+08:00",
   "live_window_hours": 72,
   "count": 84,
   "articles": [
+    {
+      "id": "2026-11-24-lifestyle-construction-innovation-expo-2026",
+      "published_at": "2026-11-24T08:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "construction",
+        "cic",
+        "wan-chai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-lifestyle-construction-innovation-expo-2026.json",
+      "en": {
+        "headline": "Construction Innovation Expo continues at Convention Centre until Wednesday",
+        "dek": "More than 190 exhibitors show AI, robots and sustainable methods at the triennial event organised by the Construction Industry Council and partners."
+      },
+      "zh": {
+        "headline": "建造創新博覽會於會展中心舉行至周三",
+        "dek": "三年一度旗艦活動由建造業議會等主辦，逾190家參展商展示人工智能、機械人及可持續建造技術。"
+      }
+    },
+    {
+      "id": "2026-11-24-wang-fuk-new-beginning-grants",
+      "published_at": "2026-11-24T08:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "wang-fuk",
+        "tai-po",
+        "support-fund",
+        "grants"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-wang-fuk-new-beginning-grants.json",
+      "en": {
+        "headline": "Wang Fuk Court owners to receive HK$300,000 new beginning grants",
+        "dek": "The Support Fund will pay the sum in two instalments from end-December, and give families of each deceased person a one-off HK$200,000."
+      },
+      "zh": {
+        "headline": "宏福苑業主可獲30萬元新生活支援補助",
+        "dek": "援助基金將於12月底起分兩期發放，每名死者家屬另獲一次過20萬元。"
+      }
+    },
     {
       "id": "2026-11-24-lifestyle-frieren-exhibition-mong-kok",
       "published_at": "2026-11-24T04:18:00+08:00",
@@ -1851,52 +1897,6 @@
       "zh": {
         "headline": "三間慈善機構今早分區賣旗籌款至中午",
         "dek": "社會福利署表示，香港認知障礙症協會、香港導盲犬協會及保護遺棄動物協會將於上午七時至中午十二時半賣旗。"
-      }
-    },
-    {
-      "id": "2026-11-21-cold-weather-warning-cancelled",
-      "published_at": "2026-11-21T08:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "cold-weather",
-        "hko",
-        "temperature"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-cold-weather-warning-cancelled.json",
-      "en": {
-        "headline": "Observatory cancels Cold Weather Warning as temperatures ease",
-        "dek": "The Hong Kong Observatory cancelled the Cold Weather Warning at 6 a.m. today after it was issued on Friday morning."
-      },
-      "zh": {
-        "headline": "天文台取消寒冷天氣警告 氣溫回升",
-        "dek": "香港天文台今早六時取消星期五上午發出的寒冷天氣警告。"
-      }
-    },
-    {
-      "id": "2026-11-21-lifestyle-big-picnic-discovery-bay",
-      "published_at": "2026-11-21T04:35:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "discovery-bay",
-        "music",
-        "festival",
-        "lantau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-lifestyle-big-picnic-discovery-bay.json",
-      "en": {
-        "headline": "The Big Picnic returns to Discovery Bay beach after seven-year break",
-        "dek": "The community music festival runs from 11 a.m. to 10 p.m. today at Tai Pak Beach, with more than 20 bands, food stalls and a kids zone."
-      },
-      "zh": {
-        "headline": "The Big Picnic時隔七年重返愉景灣大白灣沙灘",
-        "dek": "社區音樂節今日上午十一時至晚上十時於大白灣舉行，有逾二十支樂隊、美食攤檔及兒童專區。"
       }
     }
   ]
