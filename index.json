@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-24T20:27:52+08:00",
+  "generated_at": "2026-11-24T20:28:44+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-11-24-electricity-tariffs-2027-announced",
+      "published_at": "2026-11-24T20:30:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "electricity",
+        "clp",
+        "hk-electric",
+        "tariffs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-electricity-tariffs-2027-announced.json",
+      "en": {
+        "headline": "CLP freezes basic tariff as net rates rise 1.8 percent for 2027",
+        "dek": "The utility will hold the average basic tariff at 101.2 cents per unit from 1 January while the fuel adjustment lifts the average net tariff to 143.2 cents, with HK Electric raising its net rate by 7.9 percent."
+      },
+      "zh": {
+        "headline": "中電明年凍結基本電價 淨電費上調1.8% 港燈加7.9%",
+        "dek": "中電由明年1月1日起凍結平均基本電價於每度電101.2港仙，燃料調整費上調後平均淨電價為143.2港仙，港燈平均淨電價則上調7.9%至176.2港仙。"
+      }
+    },
+    {
+      "id": "2026-11-24-gleneagles-app-data-breach",
+      "published_at": "2026-11-24T20:30:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "privacy",
+        "data-breach",
+        "gleneagles",
+        "hospital"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-gleneagles-app-data-breach.json",
+      "en": {
+        "headline": "Gleneagles Hospital takes patient app offline after unauthorised data access",
+        "dek": "The hospital said it discovered unauthorised activity on 18 November affecting its My Gleneagles SmartHealth app, with some patient names, identity numbers and contact details accessed."
+      },
+      "zh": {
+        "headline": "港怡醫院病人手機程式遭未經授權存取 部分個人資料外泄",
+        "dek": "醫院表示11月18日發現「港怡『智』健康」手機程式保安設施出現未經授權活動，部分病人姓名、身份證明文件號碼及聯絡資料遭存取。"
+      }
+    },
     {
       "id": "2026-11-24-cj-cheung-singapore-conference",
       "published_at": "2026-11-24T18:10:00+08:00",
