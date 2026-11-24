@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-11-24T10:15:03+08:00",
+  "generated_at": "2026-11-24T12:12:27+08:00",
   "live_window_hours": 72,
   "count": 85,
   "articles": [
+    {
+      "id": "2026-11-24-asian-mathematics-alliance-yau",
+      "published_at": "2026-11-24T12:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "culture",
+        "education",
+        "mathematics",
+        "shing-tung-yau",
+        "hong-kong"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-asian-mathematics-alliance-yau.json",
+      "en": {
+        "headline": "Shing-Tung Yau leads launch of Asian Mathematics Alliance in Hong Kong",
+        "dek": "The Fields Medal winner said the new body would focus on pure mathematics, applied maths, statistics and artificial intelligence, drawing on Hong Kong’s bilingual strengths."
+      },
+      "zh": {
+        "headline": "丘成桐牽頭在港成立亞洲數學聯盟 聚焦純數應用數學統計及AI",
+        "dek": "菲爾茲獎得主表示新組織將匯聚亞洲數學人才，香港憑英語環境及背靠內地優勢成為合適地點。"
+      }
+    },
+    {
+      "id": "2026-11-24-eric-chan-bid-rigging-warning",
+      "published_at": "2026-11-24T12:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "bid-rigging",
+        "wang-fuk",
+        "eric-chan",
+        "building-maintenance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-eric-chan-bid-rigging-warning.json",
+      "en": {
+        "headline": "Chief Secretary warns building-upkeep sector bid-rigging days are over",
+        "dek": "Eric Chan said two syndicates had been dismantled, more than 160 people arrested and about HK$230 million in gains seized, as reforms continue after the Wang Fuk Court fire."
+      },
+      "zh": {
+        "headline": "陳國基警告樓宇維修業圍標日子已過 兩集團被瓦解",
+        "dek": "政務司司長指已拆散兩個集團，拘捕逾160人，檢獲約2.3億元得益，宏福苑火災後改革持續推進。"
+      }
+    },
+    {
+      "id": "2026-11-24-strong-monsoon-signal-in-force",
+      "published_at": "2026-11-24T12:15:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "monsoon",
+        "strong-monsoon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-strong-monsoon-signal-in-force.json",
+      "en": {
+        "headline": "Observatory issues Strong Monsoon Signal with northerly winds over 40 km/h",
+        "dek": "The signal has been in force since 09:45 HKT, with gusts occasionally reaching gale force, as a northeast monsoon affects the coast."
+      },
+      "zh": {
+        "headline": "天文台發出強烈季候風信號 吹偏北強風陣風達烈風",
+        "dek": "信號自上午9時45分生效，預料平均風速每小時超過40公里，陣風間中達烈風程度。"
+      }
+    },
     {
       "id": "2026-11-24-lifestyle-bar-camillo-rosewood-opening",
       "published_at": "2026-11-24T10:15:00+08:00",
@@ -1852,75 +1920,6 @@
       "zh": {
         "headline": "方力申港澳慈善游已完成逾14公里 游出香港水域",
         "dek": "前奧運泳手今早約九時由大嶼山雞翼角出發，中午已完成12公里並完成首次補給，下午初段已游出香港水域，目標約九小時橫渡35公里抵達澳門。"
-      }
-    },
-    {
-      "id": "2026-11-21-sports-dispute-resolution-summit",
-      "published_at": "2026-11-21T12:12:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "legal",
-        "summit",
-        "justice",
-        "dispute-resolution"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-sports-dispute-resolution-summit.json",
-      "en": {
-        "headline": "Sports dispute resolution summit set for 1 December with free registration",
-        "dek": "The Department of Justice, Law Society and Bar Association will co-host the event to promote Hong Kong as an international centre for sports dispute resolution."
-      },
-      "zh": {
-        "headline": "體育爭議解決高峰會十二月一日舉行 免費登記現已開放",
-        "dek": "律政司、律師會及大律師公會合辦高峰會，展現香港成為國際體育爭議解決中心的優勢，名額有限先到先得。"
-      }
-    },
-    {
-      "id": "2026-11-21-tourism-arrivals-first-10-months",
-      "published_at": "2026-11-21T12:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "tourism",
-        "visitors",
-        "rosanna-law",
-        "apec",
-        "hotels"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-tourism-arrivals-first-10-months.json",
-      "en": {
-        "headline": "Tourism chief confident visitor arrivals can exceed 55 million this year",
-        "dek": "Rosanna Law said Hong Kong recorded more than 45.8 million arrivals in the first 10 months, a 12 percent rise, and expects the full-year total to top the original 53.8 million target."
-      },
-      "zh": {
-        "headline": "羅淑佩料全年訪港旅客可突破5500萬人次",
-        "dek": "文化體育及旅遊局局長羅淑佩表示，今年首十個月錄得逾4580萬人次訪港旅客，按年升12%，有信心全年可超過原先5380萬目標。"
-      }
-    },
-    {
-      "id": "2026-11-21-west-kowloon-highway-motorcycle-pothole",
-      "published_at": "2026-11-21T12:12:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "accident",
-        "motorcycle",
-        "west-kowloon",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-west-kowloon-highway-motorcycle-pothole.json",
-      "en": {
-        "headline": "Motorcyclist injured after hitting pothole on West Kowloon Highway",
-        "dek": "A 54-year-old rider was taken to Princess Margaret Hospital after his motorcycle overturned near V Walk on Friday afternoon; police are investigating."
-      },
-      "zh": {
-        "headline": "西九龍公路電單車轆坑洞翻側 鐵騎士受傷送院",
-        "dek": "54歲李姓男子周五下午於V Walk對開路段因路面殘缺人車倒地，清醒送瑪嘉烈醫院，警方調查中。"
       }
     }
   ]
