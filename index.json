@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-25T02:07:26+08:00",
+  "generated_at": "2026-11-25T04:20:08+08:00",
   "live_window_hours": 72,
   "count": 88,
   "articles": [
+    {
+      "id": "2026-11-25-lifestyle-bar-camillo-rosewood",
+      "published_at": "2026-11-25T04:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "bar",
+        "cocktail",
+        "tsim-sha-tsui",
+        "opening",
+        "rosewood"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-lifestyle-bar-camillo-rosewood.json",
+      "en": {
+        "headline": "Bar Camillo opens at Rosewood Hong Kong with Bar Leone founders",
+        "dek": "The Italian-inspired cocktail bar begins service on 25 November at the Tsim Sha Tsui hotel, offering 50 seats indoors and on the terrace with a tableside Negroni trolley."
+      },
+      "zh": {
+        "headline": "瑰麗酒店新酒吧Bar Camillo開業 由Bar Leone創辦人主理",
+        "dek": "意大利風格雞尾酒吧於11月25日在尖沙咀酒店開始營業，設約50個室內及露台座位，並有桌邊調製尼格羅尼的手推車。"
+      }
+    },
     {
       "id": "2026-11-25-lifestyle-sushi-zanmai-tst",
       "published_at": "2026-11-25T02:15:00+08:00",
@@ -1967,30 +1991,6 @@
       "zh": {
         "headline": "天文台發出黃色火災危險警告 火險頗高",
         "dek": "香港天文台周日上午六時發出黃色火災危險警告，提醒市民及遠足人士採取防火措施，郊野火險頗高。"
-      }
-    },
-    {
-      "id": "2026-11-22-lifestyle-detour-2026-pmq",
-      "published_at": "2026-11-22T04:20:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "central",
-        "pmq",
-        "design",
-        "exhibition"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-lifestyle-detour-2026-pmq.json",
-      "en": {
-        "headline": "deTour 2026 design festival continues at PMQ in Central",
-        "dek": "Free exhibition of 14 prototypes under the theme Better, Not Perfect runs until 29 November from 11am to 8pm."
-      },
-      "zh": {
-        "headline": "deTour 2026設計節於中環PMQ元創方繼續舉行",
-        "dek": "以「不完美，更美好」為主題的免費展覽展出14件原型作品，活動至11月29日，每日上午11時至晚上8時開放。"
       }
     }
   ]
