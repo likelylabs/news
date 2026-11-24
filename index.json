@@ -1,8 +1,55 @@
 {
-  "generated_at": "2026-11-24T08:06:36+08:00",
+  "generated_at": "2026-11-24T10:15:03+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-11-24-lifestyle-bar-camillo-rosewood-opening",
+      "published_at": "2026-11-24T10:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "bar",
+        "tsim-sha-tsui",
+        "rosewood",
+        "opening"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-lifestyle-bar-camillo-rosewood-opening.json",
+      "en": {
+        "headline": "Bar Camillo opens at Rosewood Hong Kong on Wednesday with tableside Negronis",
+        "dek": "The 50-seat Italian-inspired cocktail lounge by the Bar Leone team launches at the Tsim Sha Tsui hotel, with bookings open and service from 5pm Tuesday to Sunday."
+      },
+      "zh": {
+        "headline": "瑰麗酒店Bar Camillo周三開幕 設桌邊調製尼格羅尼",
+        "dek": "由Bar Leone團隊打造的50座位意大利風格雞尾酒吧位於尖沙咀，周二至周日下午5時起營業，已接受預訂。"
+      }
+    },
+    {
+      "id": "2026-11-24-swire-cathay-pacific-stake-sale",
+      "published_at": "2026-11-24T10:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "swire-pacific",
+        "cathay-pacific",
+        "aviation",
+        "stocks"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-swire-cathay-pacific-stake-sale.json",
+      "en": {
+        "headline": "Swire Pacific raises about HK$3.57 billion from 4.15 percent Cathay stake sale",
+        "dek": "The conglomerate placed shares at HK$14.23 each, an 8.5 percent discount to Monday's close, and will retain around 35 percent as the largest shareholder."
+      },
+      "zh": {
+        "headline": "太古出售國泰航空4.15%股份 籌得約35.7億元",
+        "dek": "太古以每股14.23元配售股份，較周一收市價折讓約8.5%，配售後仍持有約35%股權，繼續為最大股東。"
+      }
+    },
     {
       "id": "2026-11-24-lifestyle-construction-innovation-expo-2026",
       "published_at": "2026-11-24T08:05:00+08:00",
@@ -1874,29 +1921,6 @@
       "zh": {
         "headline": "西九龍公路電單車轆坑洞翻側 鐵騎士受傷送院",
         "dek": "54歲李姓男子周五下午於V Walk對開路段因路面殘缺人車倒地，清醒送瑪嘉烈醫院，警方調查中。"
-      }
-    },
-    {
-      "id": "2026-11-21-regional-flag-day",
-      "published_at": "2026-11-21T10:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "flag-day",
-        "charity",
-        "swd",
-        "fundraising"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-regional-flag-day.json",
-      "en": {
-        "headline": "Three charities hold regional flag days across Hong Kong this morning",
-        "dek": "The Social Welfare Department said Alzheimer's Disease Association, Guide Dogs Association and Society for Abandoned Animals will sell flags until 12.30pm."
-      },
-      "zh": {
-        "headline": "三間慈善機構今早分區賣旗籌款至中午",
-        "dek": "社會福利署表示，香港認知障礙症協會、香港導盲犬協會及保護遺棄動物協會將於上午七時至中午十二時半賣旗。"
       }
     }
   ]
