@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-11-24T14:18:02+08:00",
+  "generated_at": "2026-11-24T16:34:32+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-11-24-electricity-tariffs-2027-proposals",
+      "published_at": "2026-11-24T16:30:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "electricity",
+        "clp",
+        "hk-electric",
+        "tariffs"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-electricity-tariffs-2027-proposals.json",
+      "en": {
+        "headline": "CLP and HK Electric propose 1.8 and 7.9 percent tariff rises for 2027",
+        "dek": "Sources said the two utilities will announce next year’s rates on Tuesday after presenting reviews to a Legislative Council panel, amid higher fuel costs."
+      },
+      "zh": {
+        "headline": "中電及港燈擬明年電費上調1.8%及7.9%",
+        "dek": "消息指兩電將於周二公布明年電費，並已向立法會事務委員會匯報年度檢討，燃料成本上升是主因。"
+      }
+    },
+    {
+      "id": "2026-11-24-hang-seng-close-down-nov24",
+      "published_at": "2026-11-24T16:30:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "stocks",
+        "hang-seng",
+        "markets"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-hang-seng-close-down-nov24.json",
+      "en": {
+        "headline": "Hang Seng Index closes down about 0.7 percent as tech shares weaken",
+        "dek": "The benchmark fell to around 22,220 points after early gains faded, with the tech index sliding more than 1 percent amid lingering AI sector concerns."
+      },
+      "zh": {
+        "headline": "恒生指數收市跌約0.7% 科網股偏弱",
+        "dek": "指數收報約22220點，早段升幅回吐，恒生科技指數跌逾1%，人工智能相關憂慮持續。"
+      }
+    },
+    {
+      "id": "2026-11-24-prat-avenue-driver-bail-denied",
+      "published_at": "2026-11-24T16:30:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "court",
+        "tsim-sha-tsui",
+        "prat-avenue",
+        "dangerous-driving"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-prat-avenue-driver-bail-denied.json",
+      "en": {
+        "headline": "Court denies bail to man charged over fatal Tsim Sha Tsui pavement crash",
+        "dek": "Ngai Ho-lam, 38, faces nine charges including dangerous driving causing death after a BMW mounted the pavement on Prat Avenue, killing one and injuring three."
+      },
+      "zh": {
+        "headline": "尖沙咀寶勒巷致命車禍被告申請保釋被拒",
+        "dek": "38歲倪浩林面對包括危駕致死等9項控罪，周日寶勒巷私家車衝上行人路造成1死3傷。"
+      }
+    },
+    {
+      "id": "2026-11-24-strong-monsoon-signal-cancelled",
+      "published_at": "2026-11-24T16:30:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "monsoon",
+        "strong-monsoon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-strong-monsoon-signal-cancelled.json",
+      "en": {
+        "headline": "Observatory cancels Strong Monsoon Signal after afternoon winds ease",
+        "dek": "The signal, issued at 09:45 HKT, was cancelled at 14:15 as the northeast monsoon weakened and mean winds dropped below the threshold."
+      },
+      "zh": {
+        "headline": "天文台取消強烈季候風信號 下午風勢減弱",
+        "dek": "信號於上午9時45分發出，至下午2時15分取消，東北季候風減弱後平均風速已低於發出門檻。"
+      }
+    },
     {
       "id": "2026-11-24-customs-slimming-injections-seizure",
       "published_at": "2026-11-24T14:25:00+08:00",
@@ -1896,75 +1986,6 @@
       "zh": {
         "headline": "大埔72歲女子失蹤 警方呼籲市民提供消息",
         "dek": "蘇秀珍昨日凌晨在完善路最後露面，身高約1.6米，身穿黑色外套及長褲。"
-      }
-    },
-    {
-      "id": "2026-11-21-customs-airport-endangered-turtles-seizure",
-      "published_at": "2026-11-21T16:28:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "airport",
-        "endangered",
-        "turtles",
-        "wildlife"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-customs-airport-endangered-turtles-seizure.json",
-      "en": {
-        "headline": "Customs seize four suspected endangered turtles in US parcel at airport",
-        "dek": "Officers found the live animals inside a package declared as a toy gift box; the case has been passed to the Agriculture, Fisheries and Conservation Department."
-      },
-      "zh": {
-        "headline": "海關機場檢獲四隻懷疑瀕危活龜 包裹由美國進口",
-        "dek": "人員在一件報稱為玩具禮盒的包裹內發現四隻活龜，估計市值約四千元，案件已轉交漁護署。"
-      }
-    },
-    {
-      "id": "2026-11-21-customs-kwun-tong-counterfeit-perfume-father",
-      "published_at": "2026-11-21T16:28:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "counterfeit",
-        "kwun-tong",
-        "perfume",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-customs-kwun-tong-counterfeit-perfume-father.json",
-      "en": {
-        "headline": "Customs arrest 61-year-old over counterfeit perfume operation involving HK$6 million",
-        "dek": "A father was held after officers raided a Kwun Tong unit last week and seized about 800 suspected fake luxury items; his son remains overseas."
-      },
-      "zh": {
-        "headline": "海關破觀塘網店售冒牌香水案 拘61歲父親 兒子在逃",
-        "dek": "海關上周三突擊觀塘工廈單位，檢獲約800件懷疑冒牌香水及公仔，涉犯罪得益約600萬元。"
-      }
-    },
-    {
-      "id": "2026-11-21-police-southern-district-drone-traffic",
-      "published_at": "2026-11-21T16:28:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "police",
-        "drone",
-        "traffic",
-        "southern-district",
-        "enforcement"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-police-southern-district-drone-traffic.json",
-      "en": {
-        "headline": "Police use drones to record 42 double-white-line offences in Southern District",
-        "dek": "Officers from the Hong Kong Island Traffic Unit targeted Stanley Gap Road and Victoria Road during Operation Torch today."
-      },
-      "zh": {
-        "headline": "警方南區以無人機執法 錄得42宗橫越雙白線",
-        "dek": "港島總區交通部今日展開「火炬」行動，於赤柱峽道及域多利道以高空錄影搜集證據。"
       }
     }
   ]
