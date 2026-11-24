@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-11-24T12:53:14+08:00",
+  "generated_at": "2026-11-24T14:18:02+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-11-24-customs-slimming-injections-seizure",
+      "published_at": "2026-11-24T14:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "customs",
+        "smuggling",
+        "drugs",
+        "slimming-injections"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-customs-slimming-injections-seizure.json",
+      "en": {
+        "headline": "Customs seize controlled slimming injections and drugs worth HK$23 million, arrest seven",
+        "dek": "Officers found the items in air parcels from Japan declared as ballpoint pens and in a city warehouse, with the drugs lacking local registration numbers."
+      },
+      "zh": {
+        "headline": "海關檢獲市值約2300萬元受管制減肥針劑及藥物 拘捕7人",
+        "dek": "人員在日本空運郵包（報稱原子筆）及市區倉庫檢獲物品，涉事藥物無本港註冊編號。"
+      }
+    },
+    {
+      "id": "2026-11-24-lai-ka-ying-return-home",
+      "published_at": "2026-11-24T14:25:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "culture",
+        "space",
+        "astronaut",
+        "lai-ka-ying",
+        "shenzhou"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-lai-ka-ying-return-home.json",
+      "en": {
+        "headline": "Hong Kong’s first astronaut Lai Ka-ying set to return after completing Shenzhou-23 tasks",
+        "dek": "The China Manned Space Agency said she performed space science work and outreach well, and will return with the Pakistani astronaut after Wednesday’s Shenzhou-24 launch."
+      },
+      "zh": {
+        "headline": "香港首位航天員黎家盈完成神舟二十三號任務 料將返回",
+        "dek": "載人航天工程辦公室稱她出色完成科研及科普工作，將隨周三發射的神舟二十四號乘組輪換後返回。"
+      }
+    },
+    {
+      "id": "2026-11-24-lifestyle-asian-ethnic-exhibition",
+      "published_at": "2026-11-24T14:25:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "exhibition",
+        "tsim-sha-tsui",
+        "cultural-centre"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-lifestyle-asian-ethnic-exhibition.json",
+      "en": {
+        "headline": "Ethnic cultural exhibition continues at Hong Kong Cultural Centre until Sunday",
+        "dek": "The free display of handicrafts from Belt and Road countries and regions runs in the foyer through 29 November after last weekend’s carnival."
+      },
+      "zh": {
+        "headline": "民族文化展覽於香港文化中心繼續舉行至周日",
+        "dek": "免費展出「一帶一路」國家及地區手工藝品，嘉年華過後於大堂展出至11月29日。"
+      }
+    },
+    {
+      "id": "2026-11-24-october-visitor-arrivals",
+      "published_at": "2026-11-24T14:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "tourism",
+        "visitor-arrivals",
+        "hktb"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-october-visitor-arrivals.json",
+      "en": {
+        "headline": "Provisional October visitor arrivals reach 5.13 million, up 12 percent",
+        "dek": "The Tourism Board said mainland arrivals rose 15 percent and year-to-date figures hit 45.8 million, boosted by Golden Week and major events."
+      },
+      "zh": {
+        "headline": "10月初步訪港旅客約513萬人次 按年升12%",
+        "dek": "旅發局稱內地旅客升15%，首十個月累計達4580萬人次，受黃金周及大型活動帶動。"
+      }
+    },
     {
       "id": "2026-11-24-asian-mathematics-alliance-yau",
       "published_at": "2026-11-24T12:15:00+08:00",
@@ -1874,52 +1965,6 @@
       "zh": {
         "headline": "警方南區以無人機執法 錄得42宗橫越雙白線",
         "dek": "港島總區交通部今日展開「火炬」行動，於赤柱峽道及域多利道以高空錄影搜集證據。"
-      }
-    },
-    {
-      "id": "2026-11-21-algernon-yau-apec-consensus",
-      "published_at": "2026-11-21T14:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "apec",
-        "trade",
-        "algernon-yau",
-        "economy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-algernon-yau-apec-consensus.json",
-      "en": {
-        "headline": "Commerce chief says China-US-Russia consensus positive for Hong Kong economy",
-        "dek": "Algernon Yau said the joint peace declaration from the APEC summit sends a positive message but urged cautious optimism as issues cannot be resolved overnight."
-      },
-      "zh": {
-        "headline": "商務局長指中美俄共識對香港經濟正面",
-        "dek": "姚英華表示，APEC峰會期間三國領袖發出的和平宣言釋放正面訊息，但問題不可能一跄而就，須保持審慎樂觀。"
-      }
-    },
-    {
-      "id": "2026-11-21-lifestyle-alex-fong-charity-swim",
-      "published_at": "2026-11-21T14:15:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "lifestyle",
-        "sport",
-        "charity",
-        "lantau",
-        "swimming"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-lifestyle-alex-fong-charity-swim.json",
-      "en": {
-        "headline": "Alex Fong passes 14 km mark in Hong Kong to Macau charity swim",
-        "dek": "The former Olympian started from Peaked Hill on Lantau at about 9 a.m. and had exited Hong Kong waters by early afternoon, aiming to finish the 35 km crossing in about nine hours."
-      },
-      "zh": {
-        "headline": "方力申港澳慈善游已完成逾14公里 游出香港水域",
-        "dek": "前奧運泳手今早約九時由大嶼山雞翼角出發，中午已完成12公里並完成首次補給，下午初段已游出香港水域，目標約九小時橫渡35公里抵達澳門。"
       }
     }
   ]
