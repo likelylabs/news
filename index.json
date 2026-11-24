@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24T18:09:49+08:00",
+  "generated_at": "2026-11-24T20:27:52+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 86,
   "articles": [
     {
       "id": "2026-11-24-cj-cheung-singapore-conference",
@@ -1939,120 +1939,6 @@
       "zh": {
         "headline": "天文台發出紅色火災危險警告 火險極高",
         "dek": "香港天文台於周六上午六時發出紅色火災危險警告，指郊野火險極高，市民外出需採取防火措施。"
-      }
-    },
-    {
-      "id": "2026-11-21-election-committee-poll-inspection",
-      "published_at": "2026-11-21T20:25:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "election",
-        "election-committee",
-        "john-lee",
-        "politics",
-        "voting"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-election-committee-poll-inspection.json",
-      "en": {
-        "headline": "Chief Executive inspects Wan Chai polling station ahead of Election Committee vote",
-        "dek": "John Lee visited Harbour Road Sports Centre this afternoon and urged eligible voters to cast ballots tomorrow in the contest for 723 seats."
-      },
-      "zh": {
-        "headline": "行政長官視察灣仔票站 選委會選舉明日舉行",
-        "dek": "李家超今午到港灣道體育館了解準備情況，呼籲合資格投票人明日踴躍投票，選出723名委員。"
-      }
-    },
-    {
-      "id": "2026-11-21-sports-law-body-hong-kong-base",
-      "published_at": "2026-11-21T20:25:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "justice",
-        "horace-cheung",
-        "dispute-resolution",
-        "headquarters"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-sports-law-body-hong-kong-base.json",
-      "en": {
-        "headline": "Major regional sports law body to establish Hong Kong headquarters by year end",
-        "dek": "Deputy Secretary for Justice Horace Cheung said a major regional sports law organisation will set up its base in the city within this year."
-      },
-      "zh": {
-        "headline": "主要區域體育法律機構將於年底前在港設立總部",
-        "dek": "律政司副司長張國鈞表示，一個主要區域體育法律機構將於今年內在香港設立總部。"
-      }
-    },
-    {
-      "id": "2026-11-21-aiib-hong-kong-office",
-      "published_at": "2026-11-21T18:13:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "aiib",
-        "finance",
-        "paul-chan",
-        "infrastructure",
-        "business"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-aiib-hong-kong-office.json",
-      "en": {
-        "headline": "Asian Infrastructure Investment Bank to open office in Hong Kong",
-        "dek": "The government and the bank signed agreements on Saturday; Hong Kong will contribute a further US$20 million to the bank's project preparation fund."
-      },
-      "zh": {
-        "headline": "亞投行將在港設辦公室 陳茂波指彰顯國際金融中心地位",
-        "dek": "中央政府與亞投行周六簽署協定奠定設辦基礎，香港再向項目準備特別基金注資2000萬美元。"
-      }
-    },
-    {
-      "id": "2026-11-21-kwai-chung-school-concrete-injury",
-      "published_at": "2026-11-21T18:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "accident",
-        "school",
-        "kwai-chung",
-        "police",
-        "injury"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-kwai-chung-school-concrete-injury.json",
-      "en": {
-        "headline": "Five students injured by falling concrete at Kwai Chung school",
-        "dek": "Police are treating the case as an accidental injury after the students were taken to hospital with light injuries including eye and head complaints."
-      },
-      "zh": {
-        "headline": "葵涌裘錦秋中學工程石屎墮下 五名學生輕傷送院",
-        "dek": "警方列作有人意外受傷處理，學生報頭痛、耳痛及眼部受傷，已送瑪嘉烈醫院治理。"
-      }
-    },
-    {
-      "id": "2026-11-21-tai-po-missing-woman-so",
-      "published_at": "2026-11-21T18:13:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "missing-person",
-        "police",
-        "tai-po",
-        "appeal"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-tai-po-missing-woman-so.json",
-      "en": {
-        "headline": "Police appeal for information on 72-year-old woman missing in Tai Po",
-        "dek": "So Sau-chun was last seen early yesterday on Yuen Shan Road; she is described as about 1.6 metres tall and was wearing black clothing."
-      },
-      "zh": {
-        "headline": "大埔72歲女子失蹤 警方呼籲市民提供消息",
-        "dek": "蘇秀珍昨日凌晨在完善路最後露面，身高約1.6米，身穿黑色外套及長褲。"
       }
     }
   ]
