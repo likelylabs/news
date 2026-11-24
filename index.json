@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-24T16:34:32+08:00",
+  "generated_at": "2026-11-24T18:09:49+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-11-24-cj-cheung-singapore-conference",
+      "published_at": "2026-11-24T18:10:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "judiciary",
+        "chief-justice",
+        "singapore",
+        "rule-of-law"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-cj-cheung-singapore-conference.json",
+      "en": {
+        "headline": "Chief Justice Cheung to attend global rule of law conference in Singapore",
+        "dek": "He will depart tomorrow and return on 29 November, with Justice Roberto Ribeiro serving as Acting Chief Justice during his absence."
+      },
+      "zh": {
+        "headline": "張舉能明日赴新加坡出席全球法治會議",
+        "dek": "終院首席法官將於29日返港，期間由常任法官李義署任首席法官。"
+      }
+    },
+    {
+      "id": "2026-11-24-mark-six-73m-jackpot",
+      "published_at": "2026-11-24T18:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "mark-six",
+        "jockey-club",
+        "lottery",
+        "jackpot"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-mark-six-73m-jackpot.json",
+      "en": {
+        "headline": "Mark Six estimated jackpot rises to HK$73 million for tonight's draw",
+        "dek": "The Hong Kong Jockey Club raised the snowball after turnover hit the first threshold, with sales closing at 9.15pm and the draw at 9.30pm."
+      },
+      "zh": {
+        "headline": "六合彩今晚金多寶估計頭獎升至7300萬元",
+        "dek": "馬會因投注額達到首個門檻而提升金多寶金額，今晚9時15分截止售票，9時30分攪珠。"
+      }
+    },
+    {
+      "id": "2026-11-24-oxfam-trailwalker-20km-future",
+      "published_at": "2026-11-24T18:10:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "oxfam",
+        "trailwalker",
+        "hiking",
+        "fundraising",
+        "sai-kung"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-oxfam-trailwalker-20km-future.json",
+      "en": {
+        "headline": "Oxfam considers keeping 20km Trailwalker route after strong debut",
+        "dek": "Organisers reported an 81.6 per cent completion rate on the 100km course and said the limited-edition 20km route drew near-full finishes."
+      },
+      "zh": {
+        "headline": "樂施毅行者考慮保留20公里路線 100公里完成率81.6%",
+        "dek": "主辦方指100公里路線完成率符合長期平均，限定版20公里路線完成率達99.7%。"
+      }
+    },
     {
       "id": "2026-11-24-electricity-tariffs-2027-proposals",
       "published_at": "2026-11-24T16:30:00+08:00",
