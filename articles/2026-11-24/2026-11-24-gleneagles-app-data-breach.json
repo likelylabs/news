@@ -1,1 +1,32 @@
-PLACEHOLDER2
+{
+  "id": "2026-11-24-gleneagles-app-data-breach",
+  "published_at": "2026-11-24T20:30:00+08:00",
+  "category": "health",
+  "tags": [
+    "health",
+    "privacy",
+    "data-breach",
+    "gleneagles",
+    "hospital"
+  ],
+  "ai_generated": true,
+  "story_key": "gleneagles-hospital-app-data-breach-nov24",
+  "en": {
+    "headline": "Gleneagles Hospital takes patient app offline after unauthorised data access",
+    "dek": "The hospital said it discovered unauthorised activity on 18 November affecting its My Gleneagles SmartHealth app, with some patient names, identity numbers and contact details accessed.",
+    "body": [
+      "Gleneagles Hospital Hong Kong said on Tuesday that it discovered unauthorised activity on 18 November involving the security infrastructure supporting its patient mobile app, My Gleneagles SmartHealth, which is maintained by a third-party provider.",
+      "The hospital said its security team immediately isolated the affected access route and took the app offline as a precaution. An investigation with independent cybersecurity experts is under way, additional monitoring has been implemented, and the incident has been contained. Hospital operations and clinical services continue as normal.",
+      "Based on the investigation so far, the activity resulted in unauthorised access to certain patient and other personal data, including names, identification document numbers and contact details. Medical information remains intact and credit card or payment information was not affected. The hospital has notified law enforcement and regulatory authorities, is informing affected patients directly, and has set up a hotline at 3912 3217 for enquiries."
+    ]
+  },
+  "zh": {
+    "headline": "港怡醫院病人手機程式遭未經授權存取 部分個人資料外泄",
+    "dek": "醫院表示11月18日發現「港怡『智』健康」手機程式保安設施出現未經授權活動，部分病人姓名、身份證明文件號碼及聯絡資料遭存取。",
+    "body": [
+      "港怡醫院周二表示，於11月18日發現由第三方服務供應商維護的病人手機應用程式「港怡『智』健康」的保安基礎設施出現未經授權活動。",
+      "醫院指保安團隊立即隔離受影響的存取路徑，並作為預防措施將程式暫時下線。目前正與獨立網絡安全專家展開調查，並已加強監察及保安措施，事件已受控。醫院運作及臨床服務維持正常。",
+      "根據迄今調查，該活動導致未經授權存取部分病人及其他個人資料，包括姓名、身份證明文件號碼及聯絡資料。醫療資料完好無損，信用卡及付款資料未受影響。醫院已通知執法及監管機構，正直接通知受影響病人，並設立熱線3912 3217供查詢。"
+    ]
+  }
+}
