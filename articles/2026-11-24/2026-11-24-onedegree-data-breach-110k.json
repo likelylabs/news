@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-24-onedegree-data-breach-110k",
+  "published_at": "2026-11-24T22:15:00+08:00",
+  "category": "technology",
+  "tags": ["data-breach", "privacy", "onedegree", "insurance", "cybersecurity"],
+  "ai_generated": true,
+  "story_key": "onedegree-data-breach-pcpd-110k",
+  "en": {
+    "headline": "Privacy watchdog investigates OneDegree breach that may affect 110000 people",
+    "dek": "The Office of the Privacy Commissioner said it received the virtual insurer’s notification on 19 November and has launched an investigation into possible access to names, identity numbers and financial details.",
+    "body": [
+      "The Office of the Privacy Commissioner for Personal Data said on Tuesday that it received a data-breach notification from virtual insurer OneDegree on 19 November. Preliminary information indicates the incident may affect the personal data of about 110000 people, possibly including names, identity card numbers and photographs, dates of birth and financial information. The office has begun an investigation under its established procedures.",
+      "OneDegree said it detected suspicious activity on its systems on 16 November. After investigation it confirmed that the systems had been maliciously infiltrated by hackers. Initial findings showed that some customer data had been illegally accessed by unauthorised persons, involving identity cards of some customers and bank account numbers of a small number of customers. Credit card data was not involved, the company said.",
+      "The insurer said its relevant systems are operating normally and no further abnormal access has been detected. Claims services continue as usual. It has reported the matter to the police and notified the Insurance Authority, and has engaged an independent third-party cybersecurity and digital forensics team. Customers were reminded to be wary of suspicious calls, messages or links.",
+      "The company expressed regret for any concern or inconvenience the incident may cause and said affected customers would be notified by email once the full scope is confirmed."
+    ]
+  },
+  "zh": {
+    "headline": "私隱專員公署調查OneDegree資料外洩 或影響約11萬人",
+    "dek": "公署表示本月19日接獲該虛擬保險公司的資料外洩通報，並已展開調查，可能涉及姓名、身份證號碼及財務資料等。",
+    "body": [
+      "個人資料私隱專員公署周二表示，本月19日接獲虛擬保險公司OneDegree的資料外洩事故通報。初步資料顯示，事件可能影響約11萬人的個人資料，當中可能包括姓名、香港身份證號碼及照片、出生日期及財務資料等。公署已按既定機制展開調查。",
+      "OneDegree表示，本月16日偵測到系統出現可疑活動，調查後確認系統曾遭黑客惡意入侵。初步調查發現，部分客戶資料被未經授權人士非法盜取，涉及部分客戶的身份證及少數客戶的銀行戶口號碼，但不涉及信用卡資料。",
+      "公司指相關系統現時運作正常，未發現進一步異常存取，理賠服務維持正常。公司已向警方報案，並通知保險業監管局，同時委聘獨立第三方網絡安全及數碼鑒證顧問團隊協助調查。公司提醒客戶提防可疑來電、短訊或連結。",
+      "OneDegree對事件可能帶來的擔憂及不便表示歉意，並指會在確認完整範圍後，透過電郵通知受影響客戶。"
+    ]
+  }
+}
