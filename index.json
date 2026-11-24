@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-24T20:28:44+08:00",
+  "generated_at": "2026-11-24T22:15:19+08:00",
   "live_window_hours": 72,
   "count": 88,
   "articles": [
+    {
+      "id": "2026-11-24-onedegree-data-breach-110k",
+      "published_at": "2026-11-24T22:15:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "data-breach",
+        "privacy",
+        "onedegree",
+        "insurance",
+        "cybersecurity"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-onedegree-data-breach-110k.json",
+      "en": {
+        "headline": "Privacy watchdog investigates OneDegree breach that may affect 110000 people",
+        "dek": "The Office of the Privacy Commissioner said it received the virtual insurer’s notification on 19 November and has launched an investigation into possible access to names, identity numbers and financial details."
+      },
+      "zh": {
+        "headline": "私隱專員公署調查OneDegree資料外洩 或影響約11萬人",
+        "dek": "公署表示本月19日接獲該虛擬保險公司的資料外洩通報，並已展開調查，可能涉及姓名、身份證號碼及財務資料等。"
+      }
+    },
+    {
+      "id": "2026-11-24-qeh-influenza-a-cluster",
+      "published_at": "2026-11-24T22:15:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "influenza",
+        "hospital",
+        "queen-elizabeth",
+        "flu"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-qeh-influenza-a-cluster.json",
+      "en": {
+        "headline": "Queen Elizabeth Hospital reports influenza A cluster among four patients",
+        "dek": "Four women aged 60 to 75 in a medical ward tested positive after developing fever or respiratory symptoms since 20 November, with one in critical condition due to underlying illness."
+      },
+      "zh": {
+        "headline": "伊利沙伯醫院內科女病房出現甲型流感個案組群",
+        "dek": "四名60至75歲女病人自11月20日起出現發燒或呼吸道徵狀，檢測對甲型流感呈陽性，其中一人因自身疾病情況危殆。"
+      }
+    },
     {
       "id": "2026-11-24-electricity-tariffs-2027-announced",
       "published_at": "2026-11-24T20:30:00+08:00",
@@ -1942,49 +1988,6 @@
       "zh": {
         "headline": "Atsuko Okatsuka今晚於亞洲博覽館上演Big Bowl Tour",
         "dek": "喜劇演員晚上八時在11號館演出，座位票價由580港元至780港元。"
-      }
-    },
-    {
-      "id": "2026-11-21-lifestyle-asian-gaelic-games-2026",
-      "published_at": "2026-11-21T22:15:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "lifestyle",
-        "sport",
-        "gaelic",
-        "tseung-kwan-o"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-lifestyle-asian-gaelic-games-2026.json",
-      "en": {
-        "headline": "Asian Gaelic Games mark 30th anniversary at Tseung Kwan O training centre",
-        "dek": "More than 700 athletes from across Asia and Ireland are competing in Gaelic football, hurling and camogie this weekend at the Jockey Club HKFA Football Training Centre."
-      },
-      "zh": {
-        "headline": "亞洲蓋爾克運動會於將軍澳訓練中心迎來30周年",
-        "dek": "逾700名來自亞洲及愛爾蘭的運動員週末於將軍澳賽馬會足球訓練中心參與蓋爾克足球、曲棍球及女子曲棍球比賽。"
-      }
-    },
-    {
-      "id": "2026-11-21-red-fire-danger-warning",
-      "published_at": "2026-11-21T22:15:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "fire-danger",
-        "hko"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-21/2026-11-21-red-fire-danger-warning.json",
-      "en": {
-        "headline": "Observatory issues Red Fire Danger Warning as risk reaches extreme",
-        "dek": "The Hong Kong Observatory raised the Red Fire Danger Warning at 6am on Saturday, warning that the countryside is extremely vulnerable to fire."
-      },
-      "zh": {
-        "headline": "天文台發出紅色火災危險警告 火險極高",
-        "dek": "香港天文台於周六上午六時發出紅色火災危險警告，指郊野火險極高，市民外出需採取防火措施。"
       }
     }
   ]

@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "hkma-capital-charges-northern-metropolis-universities",
-      "id": "2026-11-10-hkma-capital-rules-northern-metropolis",
-      "first_seen": "2026-11-10T20:30:00+08:00",
-      "headline_en": "HKMA proposes lower capital charges for loans to Northern Metropolis university towns"
-    },
-    {
-      "key": "kwai-chung-forklift-fall-nov10",
-      "id": "2026-11-10-kwai-chung-forklift-fall",
-      "first_seen": "2026-11-10T20:30:00+08:00",
-      "headline_en": "Worker injured after forklift falls from platform at Kwai Chung logistics centre"
-    },
-    {
       "key": "afcd-cheung-chau-unchipped-dogs",
       "id": "2026-11-10-afcd-cheung-chau-dogs",
       "first_seen": "2026-11-10T22:20:00+08:00",
@@ -2327,7 +2315,19 @@
       "id": "2026-11-24-gleneagles-app-data-breach",
       "first_seen": "2026-11-24T20:30:00+08:00",
       "headline_en": "Gleneagles Hospital takes patient app offline after unauthorised data access"
+    },
+    {
+      "key": "onedegree-data-breach-pcpd-110k",
+      "id": "2026-11-24-onedegree-data-breach-110k",
+      "first_seen": "2026-11-24T22:15:00+08:00",
+      "headline_en": "Privacy watchdog investigates OneDegree breach that may affect 110000 people"
+    },
+    {
+      "key": "qeh-influenza-a-female-ward-cluster",
+      "id": "2026-11-24-qeh-influenza-a-cluster",
+      "first_seen": "2026-11-24T22:15:00+08:00",
+      "headline_en": "Queen Elizabeth Hospital reports influenza A cluster among four patients"
     }
   ],
-  "updated_at": "2026-11-24T20:28:44+08:00"
+  "updated_at": "2026-11-24T22:15:19+08:00"
 }
