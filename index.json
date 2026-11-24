@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-25T00:05:55+08:00",
+  "generated_at": "2026-11-25T02:06:51+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-11-25-lifestyle-sushi-zanmai-tst",
+      "published_at": "2026-11-25T02:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "sushi",
+        "tsim-sha-tsui",
+        "opening",
+        "japanese"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-lifestyle-sushi-zanmai-tst.json",
+      "en": {
+        "headline": "Sushi Zanmai opens first Hong Kong restaurant in Tsim Sha Tsui",
+        "dek": "The Japanese chain's outlet on Humphreys Avenue began service on 24 November with 82 seats, offering bluefin tuna nigiri and a limited promotion of three cuts until 23 December."
+      },
+      "zh": {
+        "headline": "壽司三昧尖沙咀開設香港首店",
+        "dek": "日本連鎖店於11月24日在堪富利士道開始營業，設82個座位，並推出至12月23日的藍魁吞拿三貫推廣。"
+      }
+    },
     {
       "id": "2026-11-25-lifestyle-happy-wednesday-finale",
       "published_at": "2026-11-25T00:10:00+08:00",
@@ -1967,51 +1991,6 @@
       "zh": {
         "headline": "deTour 2026設計節於中環PMQ元創方繼續舉行",
         "dek": "以「不完美，更美好」為主題的免費展覽展出14件原型作品，活動至11月29日，每日上午11時至晚上8時開放。"
-      }
-    },
-    {
-      "id": "2026-11-22-air-niugini-emergency-landing-davao",
-      "published_at": "2026-11-22T02:05:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "aviation",
-        "emergency",
-        "air-niugini",
-        "philippines"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-air-niugini-emergency-landing-davao.json",
-      "en": {
-        "headline": "Air Niugini flight from Hong Kong lands safely in Philippines after engine fire alert",
-        "dek": "All 146 passengers and crew evacuated uninjured after the Boeing 767 diverted to Davao early Saturday following a right-engine fire indication."
-      },
-      "zh": {
-        "headline": "香港起飛新幾內亞航空客機引擎火警 菲律賓達沃安全降落",
-        "dek": "波音767客機載有146人，因右引擎火警指示緊急降落達沃，全員經逃生滑梯撤離，無人受傷。"
-      }
-    },
-    {
-      "id": "2026-11-22-lifestyle-asian-ethnic-cultural-performances",
-      "published_at": "2026-11-22T02:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "tsim-sha-tsui",
-        "free-event",
-        "lcsd"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-lifestyle-asian-ethnic-cultural-performances.json",
-      "en": {
-        "headline": "Free Asian Ethnic Cultural Performances carnival opens at Cultural Centre today",
-        "dek": "Performers from around 30 countries gather at the Tsim Sha Tsui piazza from 2pm to 6pm under the theme Blessings in Full Bloom."
-      },
-      "zh": {
-        "headline": "亞洲民族文化表演嘉年華今日尖沙咀文化中心免費舉行",
-        "dek": "約30個國家及地區表演者下午二時至六時在廣場演出，主題為「福滿綻放」。"
       }
     }
   ]
