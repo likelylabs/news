@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-25T00:04:10+08:00",
+  "generated_at": "2026-11-25T00:05:55+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-11-25-lifestyle-happy-wednesday-finale",
+      "published_at": "2026-11-25T00:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "happy-wednesday",
+        "happy-valley",
+        "music",
+        "food",
+        "racing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-lifestyle-happy-wednesday-finale.json",
+      "en": {
+        "headline": "Happy Wednesday Music and Dine Festival holds final night at Happy Valley",
+        "dek": "The Hong Kong Jockey Club stages the last of its November series at Happy Valley Racecourse from 6pm, with singer Wendy Robin performing and a Discovery Passport for collecting stamps."
+      },
+      "zh": {
+        "headline": "Happy Wednesday音樂飲食節今晚跑馬地最後一晚",
+        "dek": "馬會於今晚6時在跑馬地馬場舉行11月系列最後一晚，歌手Wendy Robin演出，並設探索護照收集印章換領獎賞。"
+      }
+    },
     {
       "id": "2026-11-24-mark-six-draw-results-nov24",
       "published_at": "2026-11-25T00:05:00+08:00",
