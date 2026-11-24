@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-24T22:15:19+08:00",
+  "generated_at": "2026-11-25T00:04:10+08:00",
   "live_window_hours": 72,
   "count": 88,
   "articles": [
+    {
+      "id": "2026-11-24-mark-six-draw-results-nov24",
+      "published_at": "2026-11-25T00:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "mark-six",
+        "jockey-club",
+        "lottery",
+        "jackpot"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-24/2026-11-24-mark-six-draw-results-nov24.json",
+      "en": {
+        "headline": "Mark Six draw leaves first prize unclaimed as jackpot rolls to Saturday",
+        "dek": "The Hong Kong Jockey Club said the numbers drawn on Tuesday night were 1, 20, 26, 28, 35 and 41 with special number 36, and the estimated first prize for Saturday's draw rises to about HK$102 million."
+      },
+      "zh": {
+        "headline": "六合彩頭獎無人中 獎金撥入周六金多寶約1.02億",
+        "dek": "馬會表示周二晚上攪出號碼為1、20、26、28、35及41，特別號碼36，周六攪珠估計頭獎升至約1.02億元。"
+      }
+    },
+    {
+      "id": "2026-11-25-special-weather-tip-high-water",
+      "published_at": "2026-11-25T00:05:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "high-tide",
+        "monsoon",
+        "cool"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-special-weather-tip-high-water.json",
+      "en": {
+        "headline": "Observatory expects higher coastal water levels this evening",
+        "dek": "The Hong Kong Observatory said astronomical high tide and the northeast monsoon may raise water levels tonight, with possible minor flooding in some low-lying areas, while mornings and nights stay cool."
+      },
+      "zh": {
+        "headline": "天文台料今晚沿岸水位偏高 低窪地區或輕微水浸",
+        "dek": "天文台表示受天文大潮及東北季候風影響，今晚沿岸水位較正常稍高，部分低窪地區可能出現輕微水浸，早晚清涼。"
+      }
+    },
     {
       "id": "2026-11-24-onedegree-data-breach-110k",
       "published_at": "2026-11-24T22:15:00+08:00",
@@ -1943,51 +1988,6 @@
       "zh": {
         "headline": "亞洲民族文化表演嘉年華今日尖沙咀文化中心免費舉行",
         "dek": "約30個國家及地區表演者下午二時至六時在廣場演出，主題為「福滿綻放」。"
-      }
-    },
-    {
-      "id": "2026-11-22-election-committee-voting-day",
-      "published_at": "2026-11-22T00:03:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "election",
-        "election-committee",
-        "voting",
-        "politics"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-election-committee-voting-day.json",
-      "en": {
-        "headline": "Election Committee subsector polls open today from 9am to 6pm",
-        "dek": "856 candidates contest 723 seats across 31 subsectors at five ordinary polling stations; voters must bring original HKID."
-      },
-      "zh": {
-        "headline": "選委會界別分組選舉今日舉行 投票時間上午九時至下午六時",
-        "dek": "856名候選人競逐31個界別分組723個席位，五個一般投票站開放，投票人須帶備香港身份證正本。"
-      }
-    },
-    {
-      "id": "2026-11-22-lifestyle-atsuko-okatsuka-big-bowl-tour",
-      "published_at": "2026-11-22T00:03:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "comedy",
-        "asiaworld-expo",
-        "lantau",
-        "performance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-lifestyle-atsuko-okatsuka-big-bowl-tour.json",
-      "en": {
-        "headline": "Atsuko Okatsuka performs Big Bowl Tour at AsiaWorld-Expo tonight",
-        "dek": "The comedian takes the stage at Runway 11 at 8pm, with seated tickets priced from HK$580 to HK$780."
-      },
-      "zh": {
-        "headline": "Atsuko Okatsuka今晚於亞洲博覽館上演Big Bowl Tour",
-        "dek": "喜劇演員晚上八時在11號館演出，座位票價由580港元至780港元。"
       }
     }
   ]
