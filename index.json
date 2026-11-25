@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-25T08:09:59+08:00",
+  "generated_at": "2026-11-25T10:15:15+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-11-25-lifestyle-frieren-exhibition-mong-kok",
+      "published_at": "2026-11-25T10:14:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "anime",
+        "mong-kok",
+        "opening"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-lifestyle-frieren-exhibition-mong-kok.json",
+      "en": {
+        "headline": "Frieren anime exhibition opens at Mong Kok INCUBASE Arena",
+        "dek": "The Beyond Journey's End exhibition runs until 3 January at Chong Hing Square B2, with five themed areas from the first season and tickets from HK$108."
+      },
+      "zh": {
+        "headline": "《葬送的芙莉蓮》特展旺角開幕 展至明年1月",
+        "dek": "展覽於11月24日在旺角創興廣場地庫INCUBASE Arena開始，設五個第一季主題展區，門票由108元起，展至明年1月3日。"
+      }
+    },
+    {
+      "id": "2026-11-25-north-point-tram-pedestrian",
+      "published_at": "2026-11-25T10:14:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "accident",
+        "north-point",
+        "tram"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-north-point-tram-pedestrian.json",
+      "en": {
+        "headline": "Tram hits elderly woman in North Point as services briefly suspended",
+        "dek": "A westbound tram struck a woman at the King's Road junction with Kam Hong Street at 7:19am; she was conscious and taken to Eastern Hospital, with services on Shu Kuk Street resuming at 8:12am."
+      },
+      "zh": {
+        "headline": "北角電車撞倒過路婦 書局街西行線一度暫停",
+        "dek": "今早約7時19分一輛西行電車於英皇道與琴行街交界撞倒一名婦人，她清醒送東區醫院，書局街西行電車服務至8時12分恢復正常。"
+      }
+    },
     {
       "id": "2026-11-25-customs-airport-cannabis-bust",
       "published_at": "2026-11-25T08:09:00+08:00",
@@ -1949,73 +1994,6 @@
       "zh": {
         "headline": "選委會選舉截至上午11時投票率69.61%",
         "dek": "選舉事務處公布，截至周日上午11時，5709名合資格投票人中已有3974人投票，累積投票率達69.61%。"
-      }
-    },
-    {
-      "id": "2026-11-22-election-committee-voting-underway",
-      "published_at": "2026-11-22T10:13:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "election",
-        "election-committee",
-        "voting",
-        "chris-tang"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-election-committee-voting-underway.json",
-      "en": {
-        "headline": "Election Committee voting underway as Tang inspects polling stations",
-        "dek": "Polls opened at 9am on Sunday for 856 candidates contesting 723 seats; Security Secretary Chris Tang visited two stations this morning."
-      },
-      "zh": {
-        "headline": "選委會選舉投票進行中 鄧炳強巡視票站",
-        "dek": "周日上午九時開始投票，856名候選人競逐723席；保安局局長鄧炳強今早到訪兩個票站視察。"
-      }
-    },
-    {
-      "id": "2026-11-22-lifestyle-maritime-carnival-hkmm",
-      "published_at": "2026-11-22T10:13:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "central",
-        "maritime",
-        "free-event"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-lifestyle-maritime-carnival-hkmm.json",
-      "en": {
-        "headline": "Maritime Carnival continues at Hong Kong Maritime Museum this weekend",
-        "dek": "Free mini carnival and art container exhibition run at the museum's Anchor Plaza in Central, with free museum admission on 21 and 22 November."
-      },
-      "zh": {
-        "headline": "海事嘉年華於香港海事博物館繼續舉行",
-        "dek": "免費小型嘉年華及藝術貨櫃展覽於中環賽馬會海事廣場舉行，21及22日博物館免費開放。"
-      }
-    },
-    {
-      "id": "2026-11-22-northeast-monsoon-midweek-cool",
-      "published_at": "2026-11-22T10:13:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "monsoon",
-        "temperature"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-northeast-monsoon-midweek-cool.json",
-      "en": {
-        "headline": "Observatory expects cooler midweek weather as northeast monsoon arrives",
-        "dek": "A fresh northeast monsoon is forecast to reach the south China coast on Tuesday, bringing a few rain patches and lower temperatures."
-      },
-      "zh": {
-        "headline": "天文台料周二東北季候風抵港 本周中期轉涼有雨",
-        "dek": "一股清勁東北季候風預料周二抵達華南沿岸，本周中期氣溫下降及有幾陣雨。"
       }
     }
   ]
