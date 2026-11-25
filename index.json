@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-25T16:26:24+08:00",
+  "generated_at": "2026-11-25T18:14:26+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 87,
   "articles": [
     {
       "id": "2026-11-25-audit-children-assessment-noshow",
@@ -1976,73 +1976,6 @@
       "zh": {
         "headline": "選委會選舉投票結束 投票率98.79% 點票展開",
         "dek": "選舉事務處公布，截至周日傍晚6時共5640人投票，投票率達98.79%；選管會主席陸啟康指結果令人鼓舞。"
-      }
-    },
-    {
-      "id": "2026-11-22-election-committee-turnout-5pm",
-      "published_at": "2026-11-22T18:07:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "election",
-        "election-committee",
-        "voting",
-        "turnout"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-election-committee-turnout-5pm.json",
-      "en": {
-        "headline": "Election Committee turnout reaches 98.37 per cent by 5pm",
-        "dek": "Official figures show 5,616 of 5,709 eligible electors have voted as of 5pm on Sunday, with polls set to close at 6pm."
-      },
-      "zh": {
-        "headline": "選委會選舉截至下午5時投票率98.37%",
-        "dek": "選舉事務處公布，截至周日下午5時，5709名合資格投票人中已有5616人投票，累積投票率達98.37%，投票站將於下午6時結束。"
-      }
-    },
-    {
-      "id": "2026-11-22-hong-kong-open-badminton-finals",
-      "published_at": "2026-11-22T18:07:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "sport",
-        "badminton",
-        "kai-tak",
-        "hong-kong-open"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-hong-kong-open-badminton-finals.json",
-      "en": {
-        "headline": "Malaysia wins two titles as Hong Kong Open badminton finals conclude",
-        "dek": "Anders Antonsen took the men's singles by walkover, Wang Zhiyi defended the women's singles, and Malaysian pairs claimed both doubles crowns at Kai Tak Arena."
-      },
-      "zh": {
-        "headline": "香港羽毛球公開賽決賽完結 馬來西亞奪兩項冠軍",
-        "dek": "安德斯·安東森因對手退賽獲男單冠軍，王祉怡衛冕女單，馬來西亞組合奪得男雙及女雙，賽事在啟德體育園舉行。"
-      }
-    },
-    {
-      "id": "2026-11-22-lifestyle-omart-megabox-opening",
-      "published_at": "2026-11-22T18:07:00+08:00",
-      "updated_at": "2026-11-22T18:20:00+08:00",
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "shopping",
-        "kowloon-bay",
-        "opening",
-        "megabox"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-lifestyle-omart-megabox-opening.json",
-      "en": {
-        "headline": "Omart warehouse supermarket opens at MegaBox with long queues",
-        "dek": "The membership-based store from OB Group occupies over 20,000 square feet on the 12th floor of MegaBox in Kowloon Bay and opened on Sunday."
-      },
-      "zh": {
-        "headline": "Omart倉儲式超市於九龍灣MegaBox開幕 門外排長龍",
-        "dek": "由OB Group營運的會員制超市佔用MegaBox 12樓逾2萬平方呎空間，周日正式開業。"
       }
     }
   ]
