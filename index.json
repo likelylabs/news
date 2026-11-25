@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-11-25T18:15:28+08:00",
+  "generated_at": "2026-11-25T20:26:39+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-11-25-audit-student-loan-defaults",
+      "published_at": "2026-11-25T20:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "audit",
+        "education",
+        "student-loans",
+        "working-family-student-financial-assistance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-audit-student-loan-defaults.json",
+      "en": {
+        "headline": "Audit Commission urges faster recovery of HK$131 million in defaulted student loans",
+        "dek": "The report found 9,515 default cases representing 4.2 per cent of loan amounts, with legal action not begun in nearly half after pandemic deferrals."
+      },
+      "zh": {
+        "headline": "審計署促加快追計1.31億元拖欠學生貸款",
+        "dek": "報告指截至9月底有9515宗拖欠個案，佔貸款額4.2%，近半數個案在疫情延期後仍未展開法律行動。"
+      }
+    },
+    {
+      "id": "2026-11-25-customs-illicit-cigarettes-bust",
+      "published_at": "2026-11-25T20:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "customs",
+        "smuggling",
+        "cigarettes",
+        "money-laundering"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-customs-illicit-cigarettes-bust.json",
+      "en": {
+        "headline": "Customs dismantles syndicate and seizes 32 million illicit cigarettes worth HK$140 million",
+        "dek": "Five people aged 44 to 65 were arrested after operations targeting bases in Tsuen Wan and Yuen Long; the group is also suspected of laundering HK$9.3 million."
+      },
+      "zh": {
+        "headline": "海關搞破私煙集團檢獲3200萬支香煙市值1.4億元",
+        "dek": "拘捕5名44至65歲人士，行動針對荃灣及元朗據點，集團亦涉嫌清洗930萬元犯罪得益。"
+      }
+    },
+    {
+      "id": "2026-11-25-hkt-3g-termination-approved",
+      "published_at": "2026-11-25T20:25:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "hkt",
+        "3g",
+        "communications-authority",
+        "ofca"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-hkt-3g-termination-approved.json",
+      "en": {
+        "headline": "Communications Authority approves HKT's plan to end 3G services on 25 February 2027",
+        "dek": "The regulator cited the low number of affected users and HKT's support measures, including device-replacement offers, while requiring satisfactory service until the termination date."
+      },
+      "zh": {
+        "headline": "通訊局批准HKT於2027年2月25日終止3G服務",
+        "dek": "通訊局考慮受影響客戶比例低及HKT的支援措施包括換機優惠，並要求在終止日前維持令人滿意的服務。"
+      }
+    },
     {
       "id": "2026-11-25-community-drug-formulary-launch",
       "published_at": "2026-11-25T18:15:00+08:00",
@@ -2022,50 +2090,6 @@
       "zh": {
         "headline": "何文田京士柏山單位失竊 兩戒指及現金共約25萬元",
         "dek": "警方表示，46歲女住戶周日早上報稱寓所內兩枚戒指及約2000元現金不見，案件列作盜竊。"
-      }
-    },
-    {
-      "id": "2026-11-22-customs-airport-cannabis-seizure",
-      "published_at": "2026-11-22T20:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "customs",
-        "drugs",
-        "airport",
-        "cannabis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-customs-airport-cannabis-seizure.json",
-      "en": {
-        "headline": "Customs seize 37.3kg cannabis in two airport drug cases, charge two men",
-        "dek": "Hong Kong Customs said officers seized about 37.3 kilograms of suspected cannabis buds valued at about HK$8 million in two cases at the airport."
-      },
-      "zh": {
-        "headline": "海關機場破兩宗藏毒案 檢37.3公斤大麻花 兩男被控",
-        "dek": "香港海關在機場兩宗案件中檢獲約37.3公斤懷疑大麻花，估計市值約800萬港元，兩名男子已被控。"
-      }
-    },
-    {
-      "id": "2026-11-22-election-committee-turnout-close-counting",
-      "published_at": "2026-11-22T20:10:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "election",
-        "election-committee",
-        "voting",
-        "turnout"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-election-committee-turnout-close-counting.json",
-      "en": {
-        "headline": "Election Committee polls close with 98.79 per cent turnout as counting begins",
-        "dek": "Officials said 5,640 of 5,709 eligible electors voted by 6pm on Sunday; Electoral Affairs Commission chairman David Lok called the result encouraging."
-      },
-      "zh": {
-        "headline": "選委會選舉投票結束 投票率98.79% 點票展開",
-        "dek": "選舉事務處公布，截至周日傍晚6時共5640人投票，投票率達98.79%；選管會主席陸啟康指結果令人鼓舞。"
       }
     }
   ]
