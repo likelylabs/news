@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-25T18:14:26+08:00",
+  "generated_at": "2026-11-25T18:14:46+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-11-25-community-drug-formulary-launch",
+      "published_at": "2026-11-25T18:15:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "drugs",
+        "primary-healthcare",
+        "health-bureau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-community-drug-formulary-launch.json",
+      "en": {
+        "headline": "Health Bureau launches community drug formulary with 151 medicines from 30 December",
+        "dek": "The formulary expands coverage to urological, ophthalmic and dermatological conditions, with non-patented drugs at HK$2 per item per week."
+      },
+      "zh": {
+        "headline": "醫衞局公布社區藥物名冊下月30日推出涵蓋151項藥物",
+        "dek": "名冊新增38項藥物，擴闊至泌尿科、眼科及皮膚科，非專利藥物每項每星期2元，並提供每年200元藥費資助。"
+      }
+    },
     {
       "id": "2026-11-25-audit-children-assessment-noshow",
       "published_at": "2026-11-25T16:25:00+08:00",
