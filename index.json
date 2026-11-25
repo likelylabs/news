@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-25T20:26:39+08:00",
+  "generated_at": "2026-11-25T22:15:30+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-11-25-lcsd-urbtix-data-breach",
+      "published_at": "2026-11-25T22:13:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "lcsd",
+        "urbtix",
+        "data-breach",
+        "privacy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-lcsd-urbtix-data-breach.json",
+      "en": {
+        "headline": "Leisure department confirms URBTIX breach involving 1.3 million users",
+        "dek": "The Leisure and Cultural Services Department said a contractor reported unauthorised access on 24 November, with names, phone numbers and emails involved but no identity documents."
+      },
+      "zh": {
+        "headline": "康文署確認城市售票網被黑客進入涉約130萬使用者資料",
+        "dek": "康文署表示外判承辦商於11月24日通報系統被非法進入，初步涉及姓名、電話及電郵，並無身分證明文件資料。"
+      }
+    },
+    {
+      "id": "2026-11-25-tourism-spending-h1-111b",
+      "published_at": "2026-11-25T22:13:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "tourism",
+        "economy",
+        "visitors"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-tourism-spending-h1-111b.json",
+      "en": {
+        "headline": "Tourism minister says visitor spending reached HK$111 billion in first half",
+        "dek": "Secretary for Culture, Sports and Tourism Rosanna Law told the Legislative Council that full-year related spending is projected at HK$238.1 billion after 11 per cent growth."
+      },
+      "zh": {
+        "headline": "文化體育及旅遊局局長指上半年旅客消費達1110億元",
+        "dek": "羅淑佩向立法會表示，預計全年入境旅遊相關總消費將達2381億元，首十個月訪港人次按年升12%。"
+      }
+    },
     {
       "id": "2026-11-25-audit-student-loan-defaults",
       "published_at": "2026-11-25T20:25:00+08:00",
@@ -2024,72 +2069,6 @@
       "zh": {
         "headline": "香港演員江⸹生及袁澧林奪金馬獎 善男信女獲最佳劇情片",
         "dek": "Mirror成員江⸹生憑《我們不是什麼》奪最佳男配角，袁澧林奪最佳女主角；《善男信女》奪最佳劇情片。"
-      }
-    },
-    {
-      "id": "2026-11-22-chp-meningococcal-infection-case",
-      "published_at": "2026-11-22T22:15:00+08:00",
-      "updated_at": "2026-11-22T22:25:00+08:00",
-      "category": "health",
-      "tags": [
-        "health",
-        "chp",
-        "disease",
-        "meningitis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-chp-meningococcal-infection-case.json",
-      "en": {
-        "headline": "CHP investigates invasive meningococcal infection in 74-year-old man",
-        "dek": "The Centre for Health Protection said the patient, who has an underlying illness, is in stable condition at Kwong Wah Hospital after no travel during the incubation period."
-      },
-      "zh": {
-        "headline": "衞生防護中心調查74歲男子感染侵入性腦膜炎雙球菌",
-        "dek": "中心指該名有長期病患的患者目前在廣華醫院情況穩定，潛伏期內沒有外遊，初步屬散發個案。"
-      }
-    },
-    {
-      "id": "2026-11-22-election-committee-results-emerging",
-      "published_at": "2026-11-22T22:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "election",
-        "election-committee",
-        "voting",
-        "results"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-election-committee-results-emerging.json",
-      "en": {
-        "headline": "Election Committee results begin to emerge after 98.79 per cent turnout",
-        "dek": "Counting continues at the Convention Centre; the Law Society president and General Chamber chief executive were not among those elected in their subsectors."
-      },
-      "zh": {
-        "headline": "選委會選舉點票結果陸續公布 投票率達98.79%",
-        "dek": "會展中央點票站繼續點票；律師會會長湯文龍及總商會總裁楊偉添在所屬界別落選。"
-      }
-    },
-    {
-      "id": "2026-11-22-ho-man-tin-kings-park-hill-theft",
-      "published_at": "2026-11-22T22:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "theft",
-        "ho-man-tin",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-ho-man-tin-kings-park-hill-theft.json",
-      "en": {
-        "headline": "Police investigate theft of rings and cash worth about HK$250,000 from Ho Man Tin flat",
-        "dek": "A 46-year-old woman reported that two rings and about HK$2,000 in cash were missing from her King's Park Hill residence after she discovered the loss on Sunday morning."
-      },
-      "zh": {
-        "headline": "何文田京士柏山單位失竊 兩戒指及現金共約25萬元",
-        "dek": "警方表示，46歲女住戶周日早上報稱寓所內兩枚戒指及約2000元現金不見，案件列作盜竊。"
       }
     }
   ]

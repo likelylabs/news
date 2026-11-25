@@ -1,24 +1,6 @@
 {
   "covered": [
     {
-      "key": "cfs-korea-netherlands-poultry-suspension-nov11",
-      "id": "2026-11-11-cfs-korea-netherlands-poultry",
-      "first_seen": "2026-11-11T20:30:00+08:00",
-      "headline_en": "Centre for Food Safety suspends poultry imports from more areas in Korea and the Netherlands"
-    },
-    {
-      "key": "cfs-meadows-milk-colony-count-nov11",
-      "id": "2026-11-11-cfs-meadows-milk-colony",
-      "first_seen": "2026-11-11T20:30:00+08:00",
-      "headline_en": "Centre for Food Safety finds colony count over limit in Meadows milk sample"
-    },
-    {
-      "key": "tko-upper-village-garage-owner-death-nov11",
-      "id": "2026-11-11-tko-garage-owner-death",
-      "first_seen": "2026-11-11T20:30:00+08:00",
-      "headline_en": "72-year-old garage owner dies after car falls on him in Tseung Kwan O"
-    },
-    {
       "key": "mega-fans-expo-cancelled-nov11",
       "id": "2026-11-11-mega-fans-expo-cancelled",
       "first_seen": "2026-11-11T22:20:00+08:00",
@@ -2297,7 +2279,19 @@
       "id": "2026-11-25-hkt-3g-termination-approved",
       "first_seen": "2026-11-25T20:25:00+08:00",
       "headline_en": "Communications Authority approves HKT's plan to end 3G services on 25 February 2027"
+    },
+    {
+      "key": "lcsd-urbtix-data-breach",
+      "id": "2026-11-25-lcsd-urbtix-data-breach",
+      "first_seen": "2026-11-25T22:13:00+08:00",
+      "headline_en": "Leisure department confirms URBTIX breach involving 1.3 million users"
+    },
+    {
+      "key": "tourism-spending-h1-111-billion",
+      "id": "2026-11-25-tourism-spending-h1-111b",
+      "first_seen": "2026-11-25T22:13:00+08:00",
+      "headline_en": "Tourism minister says visitor spending reached HK$111 billion in first half"
     }
   ],
-  "updated_at": "2026-11-25T20:26:39+08:00"
+  "updated_at": "2026-11-25T22:15:30+08:00"
 }
