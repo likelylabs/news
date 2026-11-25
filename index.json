@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-25T12:11:04+08:00",
+  "generated_at": "2026-11-25T14:16:05+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-11-25-audit-consumer-council-complaints",
+      "published_at": "2026-11-25T14:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "audit",
+        "consumer-council",
+        "complaints",
+        "public-service"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-audit-consumer-council-complaints.json",
+      "en": {
+        "headline": "Auditor finds Consumer Council missed complaint handling targets",
+        "dek": "The Audit Commission said the Consumer Council failed to meet reply times and resolution rates for complaints in recent years, and noted low usage of its two service centres."
+      },
+      "zh": {
+        "headline": "審計署指消委會投訴處理未達標 服務中心使用率低",
+        "dek": "審計署表示消委會近年未能達到投訴回覆時限及調停成功率目標，北角及尖沙咀服務中心使用率亦偏低。"
+      }
+    },
+    {
+      "id": "2026-11-25-lifestyle-tung-wah-care-food-exhibition",
+      "published_at": "2026-11-25T14:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "food",
+        "admiralty",
+        "tung-wah"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-lifestyle-tung-wah-care-food-exhibition.json",
+      "en": {
+        "headline": "Tung Wah social enterprises open care food exhibition in Admiralty",
+        "dek": "The CookEasy and iBakery exhibition on soft meals runs until 31 March at the iBakery Gallery Café in Tamar Park, featuring stories from ten guests including celebrities and care home residents."
+      },
+      "zh": {
+        "headline": "東華三院社企開辦照護食展覽 展至明年三月",
+        "dek": "煮餥易及愛烘焙的「人人都可以食得好 2026」展覽即日起至明年三月三十一日於添馬公園愛烘焙茶座舉行，展出十位嘉賓的飲食故事。"
+      }
+    },
     {
       "id": "2026-11-25-apec-digital-trade-support",
       "published_at": "2026-11-25T12:15:00+08:00",
@@ -1952,94 +1997,6 @@
       "zh": {
         "headline": "尖沙咀寶勒巷私家車剷上行人路 一死三傷 一男子被捕",
         "dek": "警方表示，周日下午約2時半，一輛私家車在寶勒巷剷上行人路，造成一名途人死亡、三人受傷。一名男子已被拘捕。"
-      }
-    },
-    {
-      "id": "2026-11-22-election-committee-turnout-1pm",
-      "published_at": "2026-11-22T14:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "election",
-        "election-committee",
-        "voting",
-        "turnout"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-election-committee-turnout-1pm.json",
-      "en": {
-        "headline": "Election Committee turnout reaches 89.81 per cent by 1pm",
-        "dek": "A total of 5,127 voters have cast ballots out of 5,709 eligible electors as of 1pm on Sunday, according to official figures."
-      },
-      "zh": {
-        "headline": "選委會選舉截至下午1時投票率89.81%",
-        "dek": "選舉事務處公布，截至周日下午1時，5709名合資格投票人中已有5127人投票，累積投票率達89.81%。"
-      }
-    },
-    {
-      "id": "2026-11-22-hk-chile-working-holiday-scheme",
-      "published_at": "2026-11-22T14:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "working-holiday",
-        "chile",
-        "labour",
-        "youth"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-hk-chile-working-holiday-scheme.json",
-      "en": {
-        "headline": "Hong Kong-Chile working holiday scheme expected to start in first half of 2027",
-        "dek": "Labour Secretary Chris Sun said the bilateral scheme, Hong Kong’s first with a Latin American country, will offer 100 places a year each way."
-      },
-      "zh": {
-        "headline": "港智工作假期計劃料明年上半年落實",
-        "dek": "勞工及福利局局長孫玉菡表示，這是香港與拉丁美洲國家首個工作假期安排，每年雙方各有100個名額。"
-      }
-    },
-    {
-      "id": "2026-11-22-workweek-weather-outlook-nov23-27",
-      "published_at": "2026-11-22T14:15:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "forecast",
-        "monsoon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-workweek-weather-outlook-nov23-27.json",
-      "en": {
-        "headline": "Observatory forecasts cooler midweek as northeast monsoon arrives",
-        "dek": "A fresh northeast monsoon is expected to reach the south China coast on Tuesday, bringing rain and lower temperatures through midweek."
-      },
-      "zh": {
-        "headline": "天文台料周二東北季候風抵港 本周中期轉涼有雨",
-        "dek": "一股清勁東北季候風預料周二抵達華南沿岸，本周中期氣溫下降及有幾陣雨，其後天氣逐漸好轉。"
-      }
-    },
-    {
-      "id": "2026-11-22-election-committee-turnout-11am",
-      "published_at": "2026-11-22T12:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "election",
-        "election-committee",
-        "voting",
-        "turnout"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-election-committee-turnout-11am.json",
-      "en": {
-        "headline": "Election Committee turnout reaches 69.61 per cent by 11am",
-        "dek": "A total of 3,974 voters have cast ballots out of 5,709 eligible electors as of 11am on Sunday, according to official figures."
-      },
-      "zh": {
-        "headline": "選委會選舉截至上午11時投票率69.61%",
-        "dek": "選舉事務處公布，截至周日上午11時，5709名合資格投票人中已有3974人投票，累積投票率達69.61%。"
       }
     }
   ]
