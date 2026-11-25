@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-25-hkma-cmu-digital-asset-platform",
+  "published_at": "2026-11-25T18:15:00+08:00",
+  "category": "business",
+  "tags": ["business", "hkma", "fintech", "digital-assets", "bonds"],
+  "ai_generated": true,
+  "story_key": "hkma-cmu-digital-asset-platform-launch",
+  "en": {
+    "headline": "HKMA launches CMU Digital Asset Platform for paperless bond settlement",
+    "dek": "The DLT-based platform supports end-to-end paperless operations for debt securities and 24-hour multi-currency settlement using cash tokens.",
+    "body": [
+      "The Hong Kong Monetary Authority announced on Wednesday the official launch of the CMU Digital Asset Platform, developed and operated by CMU OmniClear on behalf of the HKMA.",
+      "The distributed ledger technology platform enables a paperless process from primary issuance of debt securities through secondary market clearing and settlement, coupon payments and maturity redemption. It also supports tokenisation of traditional bonds.",
+      "The platform adopts an on-chain atomic delivery-versus-payment settlement model, with direct interfaces to the Real Time Gross Settlement systems and central bank digital currencies. It supports 24-hour multi-currency settlement using cash tokens.",
+      "CMU OmniClear plans to expand coverage to funds and real-world assets, and to connect with other DLT platforms and payment tools including tokenised deposits and regulated stablecoins. HKMA Chief Executive Eddie Yue said the platform aims to make the CMU core infrastructure for Hong Kong's multi-asset digital financial ecosystem."
+    ]
+  },
+  "zh": {
+    "headline": "金管局正式推出CMU數字資產平台支援無紙化債券結算",
+    "dek": "基於分布式分類帳技術的平台實現債券全程無紙化操作，並支援24小時多幣種結算。",
+    "body": [
+      "香港金融管理局今日宣布，正式推出CMU數字資產平台。平台由迅清結算有限公司協助金管局開發及營運，是債務工具中央結算系統基於分布式分類帳技術建立的平台。",
+      "平台實現從債券一級市場發行、二級市場交易結算及交收，到票息支付及到期贖回的全程無紙化操作，亦支持傳統債券代幣化，以連接數碼金融與傳統金融。",
+      "平台採用鏈上原子化貨銀兩訖結算模式，與即時支付結算系統及央行數碼貨幣直接對接，並透過現金代幣支持24小時多幣種結算。",
+      "迅清結算已制定策略路線圖，將探索把覆蓋範圍由債券擴展至基金及現實世界資產，並與其他分布式分類帳平台及代幣化存款、受監管穩定幣等支付工具對接。金管局總裁余偉文表示，希望將CMU打造成香港多元資產數碼金融生態圈的核心基建。"
+    ]
+  }
+}
