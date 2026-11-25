@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-25T22:15:30+08:00",
+  "generated_at": "2026-11-26T00:06:06+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-11-26-pwh-doctor-arrested-indecent-assault",
+      "published_at": "2026-11-26T00:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "hospital",
+        "prince-of-wales",
+        "police",
+        "cuhk"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-pwh-doctor-arrested-indecent-assault.json",
+      "en": {
+        "headline": "Prince of Wales Hospital doctor arrested over alleged unauthorised examinations",
+        "dek": "A 31-year-old doctor employed by CUHK has been suspended from clinical duties after police arrested him on suspicion of indecent assault involving two patients last month."
+      },
+      "zh": {
+        "headline": "威爾斯親王醫院醫生涉非禮被捕 院方禁止進入臨床範圍",
+        "dek": "一名31歲中大醫學院醫生上月疑在兒童外科病房為兩名男病人進行未經授權檢查，警方拘捕後獲准保釋，院方已暫停其臨床工作。"
+      }
+    },
     {
       "id": "2026-11-25-lcsd-urbtix-data-breach",
       "published_at": "2026-11-25T22:13:00+08:00",
