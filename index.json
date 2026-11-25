@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-25T18:15:06+08:00",
+  "generated_at": "2026-11-25T18:15:17+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 90,
   "articles": [
     {
       "id": "2026-11-25-community-drug-formulary-launch",
@@ -23,6 +23,28 @@
       "zh": {
         "headline": "醫衞局公布社區藥物名冊下月30日推出涵蓋151項藥物",
         "dek": "名冊新增38項藥物，擴闊至泌尿科、眼科及皮膚科，非專利藥物每項每星期2元，並提供每年200元藥費資助。"
+      }
+    },
+    {
+      "id": "2026-11-25-five-schools-five-classes-s1",
+      "published_at": "2026-11-25T18:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "education",
+        "schools",
+        "s1-allocation",
+        "education-bureau"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-five-schools-five-classes-s1.json",
+      "en": {
+        "headline": "Education Bureau approves five schools for five S1 classes in 2027 allocation",
+        "dek": "The approved schools are Fanling Rhenish Church Secondary School, HKTA Tang Hin Memorial Secondary School, Munsang College (Hong Kong Island), St Mark's School and Tin Ka Ping Secondary School."
+      },
+      "zh": {
+        "headline": "教育局批准五間中學以五班參加2027年度中一派位",
+        "dek": "獲批學校包括粉嶺禮賢會中學、香港道教聯合會鄧顯紀念中學、港島民生書院、聖馬可中學及田家炳中學。"
       }
     },
     {
