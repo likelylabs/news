@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-25T04:20:08+08:00",
+  "generated_at": "2026-11-25T08:09:59+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-11-25-customs-airport-cannabis-bust",
+      "published_at": "2026-11-25T08:09:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "customs",
+        "airport",
+        "drugs",
+        "cannabis"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-customs-airport-cannabis-bust.json",
+      "en": {
+        "headline": "Customs seize 19kg cannabis buds at airport in two cases",
+        "dek": "Hong Kong Customs said officers seized about 19 kilograms of suspected cannabis buds with an estimated value of HK$4 million and arrested four mainland men at the airport."
+      },
+      "zh": {
+        "headline": "海關機場破兩宗販毒案 檢約19公斤大麻花拘4名內地男子",
+        "dek": "海關表示在香港國際機場兩宗案件中檢獲約19公斤懷疑大麻花，估計市值約400萬元，並拘捕四名內地男子。"
+      }
+    },
+    {
+      "id": "2026-11-25-sham-shui-po-taxi-crash",
+      "published_at": "2026-11-25T08:09:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "accident",
+        "sham-shui-po",
+        "taxi",
+        "motorcycle"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-sham-shui-po-taxi-crash.json",
+      "en": {
+        "headline": "Five vehicles collide in Sham Shui Po after taxi hits motorcycle",
+        "dek": "Police said a 25-year-old motorcyclist suffered a leg injury and a 67-year-old taxi driver reported discomfort after the crash on Castle Peak Road; both were conscious and taken to Caritas Hospital."
+      },
+      "zh": {
+        "headline": "深水埗青山道的士撞電單車醒五車相撞 兩人受傷",
+        "dek": "警方表示星期二晚上約10時20分於深水埗青山道60號對開發生五車相撞，25歲鐵騎士腳部受傷，67歲的士司機報稱不適，兩人清醒送明愛醫院。"
+      }
+    },
     {
       "id": "2026-11-25-lifestyle-bar-camillo-rosewood",
       "published_at": "2026-11-25T04:20:00+08:00",
@@ -1970,27 +2016,6 @@
       "zh": {
         "headline": "天文台料周二東北季候風抵港 本周中期轉涼有雨",
         "dek": "一股清勁東北季候風預料周二抵達華南沿岸，本周中期氣溫下降及有幾陣雨。"
-      }
-    },
-    {
-      "id": "2026-11-22-yellow-fire-danger-warning",
-      "published_at": "2026-11-22T08:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "fire-danger",
-        "hko"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-yellow-fire-danger-warning.json",
-      "en": {
-        "headline": "Observatory issues Yellow Fire Danger Warning as risk rises",
-        "dek": "The Hong Kong Observatory raised the Yellow Fire Danger Warning at 6am on Sunday, advising the public and hikers to take precautions against fires."
-      },
-      "zh": {
-        "headline": "天文台發出黃色火災危險警告 火險頗高",
-        "dek": "香港天文台周日上午六時發出黃色火災危險警告，提醒市民及遠足人士採取防火措施，郊野火險頗高。"
       }
     }
   ]
