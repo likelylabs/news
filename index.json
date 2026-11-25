@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-25T18:15:17+08:00",
+  "generated_at": "2026-11-25T18:15:28+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 91,
   "articles": [
     {
       "id": "2026-11-25-community-drug-formulary-launch",
@@ -68,6 +68,29 @@
       "zh": {
         "headline": "金管局正式推出CMU數字資產平台支援無紙化債券結算",
         "dek": "基於分布式分類帳技術的平台實現債券全程無紙化操作，並支援24小時多幣種結算。"
+      }
+    },
+    {
+      "id": "2026-11-25-john-lee-visits-wang-fuk-residents",
+      "published_at": "2026-11-25T18:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "john-lee",
+        "wang-fuk-court",
+        "tai-po-fire",
+        "housing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-john-lee-visits-wang-fuk-residents.json",
+      "en": {
+        "headline": "John Lee visits Wang Fuk Court residents in Aberdeen ahead of fire anniversary",
+        "dek": "The Chief Executive met two households temporarily housed in Aberdeen, who said they expected to receive keys to new flats next month."
+      },
+      "zh": {
+        "headline": "李家超探訪宏福苑火災受影響居民稱政府持續提供支援",
+        "dek": "行政長官上周六到香港仔探訪暫居居民，兩戶居民表示預計下月收取新單位鎖匙。"
       }
     },
     {
