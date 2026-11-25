@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-25T18:14:46+08:00",
+  "generated_at": "2026-11-25T18:15:06+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 89,
   "articles": [
     {
       "id": "2026-11-25-community-drug-formulary-launch",
@@ -23,6 +23,29 @@
       "zh": {
         "headline": "醫衞局公布社區藥物名冊下月30日推出涵蓋151項藥物",
         "dek": "名冊新增38項藥物，擴闊至泌尿科、眼科及皮膚科，非專利藥物每項每星期2元，並提供每年200元藥費資助。"
+      }
+    },
+    {
+      "id": "2026-11-25-hkma-cmu-digital-asset-platform",
+      "published_at": "2026-11-25T18:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "hkma",
+        "fintech",
+        "digital-assets",
+        "bonds"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-hkma-cmu-digital-asset-platform.json",
+      "en": {
+        "headline": "HKMA launches CMU Digital Asset Platform for paperless bond settlement",
+        "dek": "The DLT-based platform supports end-to-end paperless operations for debt securities and 24-hour multi-currency settlement using cash tokens."
+      },
+      "zh": {
+        "headline": "金管局正式推出CMU數字資產平台支援無紙化債券結算",
+        "dek": "基於分布式分類帳技術的平台實現債券全程無紙化操作，並支援24小時多幣種結算。"
       }
     },
     {
