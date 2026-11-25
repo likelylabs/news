@@ -1,24 +1,6 @@
 {
   "covered": [
     {
-      "key": "airport-apron-shuttle-brake-nov11",
-      "id": "2026-11-12-airport-apron-shuttle-brake",
-      "first_seen": "2026-11-12T02:15:00+08:00",
-      "headline_en": "Five passengers suffer minor injuries after airport apron shuttle brakes suddenly"
-    },
-    {
-      "key": "lifestyle-wan-chai-sikh-temple-lights-nov2026",
-      "id": "2026-11-12-lifestyle-wan-chai-sikh-temple-lights",
-      "first_seen": "2026-11-12T02:15:00+08:00",
-      "headline_en": "Wan Chai Sikh temple lights up in blue for Bandi Chhor Divas until 24 November"
-    },
-    {
-      "key": "tai-hang-man-hanging-nov11",
-      "id": "2026-11-12-tai-hang-man-hanging",
-      "first_seen": "2026-11-12T02:15:00+08:00",
-      "headline_en": "21-year-old man found dead in Tai Hang flat after being discovered hanging"
-    },
-    {
       "key": "happy-valley-woman-collapse-nov11",
       "id": "2026-11-12-happy-valley-woman-death",
       "first_seen": "2026-11-12T04:20:00+08:00",
@@ -2267,7 +2249,19 @@
       "id": "2026-11-26-lifestyle-cheung-sha-wan-food-fiesta",
       "first_seen": "2026-11-26T02:02:00+08:00",
       "headline_en": "Sixth Hong Kong International Food Fiesta opens today in Cheung Sha Wan"
+    },
+    {
+      "key": "hk-arts-festival-website-breach-nov26",
+      "id": "2026-11-26-hk-arts-festival-website-breach",
+      "first_seen": "2026-11-26T04:18:00+08:00",
+      "headline_en": "Hong Kong Arts Festival website reports unauthorised access to ticket buyer data"
+    },
+    {
+      "key": "tuen-mun-hospital-anesthetic-theft-nov26",
+      "id": "2026-11-26-tuen-mun-hospital-anesthetic-theft",
+      "first_seen": "2026-11-26T04:18:00+08:00",
+      "headline_en": "Former Tuen Mun Hospital surgeon arrested over suspected anesthetic theft"
     }
   ],
-  "updated_at": "2026-11-26T02:03:04+08:00"
+  "updated_at": "2026-11-26T04:18:49+08:00"
 }

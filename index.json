@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-26T02:03:05+08:00",
+  "generated_at": "2026-11-26T04:18:49+08:00",
   "live_window_hours": 72,
   "count": 91,
   "articles": [
+    {
+      "id": "2026-11-26-hk-arts-festival-website-breach",
+      "published_at": "2026-11-26T04:18:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "arts-festival",
+        "data-breach",
+        "privacy",
+        "culture"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-hk-arts-festival-website-breach.json",
+      "en": {
+        "headline": "Hong Kong Arts Festival website reports unauthorised access to ticket buyer data",
+        "dek": "The organisers said personal data of several thousand advance ticket buyers for the 55th festival may have been accessed after detecting a breach on 23 November."
+      },
+      "zh": {
+        "headline": "香港藝術節網站遭入侵 數千名購票者資料或被非法閱覽",
+        "dek": "主辦方表示11月23日發現主網站被未經授權進入，初步懷疑數千名第55屆藝術節門票預訂觀眾的個人資料可能外洩。"
+      }
+    },
+    {
+      "id": "2026-11-26-tuen-mun-hospital-anesthetic-theft",
+      "published_at": "2026-11-26T04:18:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "hospital",
+        "police",
+        "dangerous-drugs",
+        "tuen-mun"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-tuen-mun-hospital-anesthetic-theft.json",
+      "en": {
+        "headline": "Former Tuen Mun Hospital surgeon arrested over suspected anesthetic theft",
+        "dek": "Police arrested a 38-year-old former surgeon after a vial of pain-relief medication went missing from an operating theatre during a patient's procedure."
+      },
+      "zh": {
+        "headline": "屯門醫院前外科醫生涉盜手術室麻醉藥被捕",
+        "dek": "警方拘捕一名38歲前外科醫生，事發時有病人正在手術室接受手術，一支止痛用麻醉藥不翼而飛。"
+      }
+    },
     {
       "id": "2026-11-26-lifestyle-cheung-sha-wan-food-fiesta",
       "published_at": "2026-11-26T02:02:00+08:00",
@@ -2024,52 +2070,6 @@
       "zh": {
         "headline": "銅鑼灣冬日仙境25日開幕 精靈主題燈飾亮相利園區",
         "dek": "旅發局表示，利園區將由晚上7時至10時有燈光表演，並設戶外酒吧，作為擴大版冬日巡禮的一部分，至1月3日結束。"
-      }
-    },
-    {
-      "id": "2026-11-23-one-stanley-extortion-report",
-      "published_at": "2026-11-23T02:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "property",
-        "stanley",
-        "extortion",
-        "buildings"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-one-stanley-extortion-report.json",
-      "en": {
-        "headline": "One Stanley developer reports alleged extortion bid to police",
-        "dek": "K&K Property said it reported an alleged extortion attempt involving tens of millions of dollars to police on November 4, as investigations continue into substandard construction at the luxury estate."
-      },
-      "zh": {
-        "headline": "建灝地產稱遭勒索已報警 涉及One Stanley缺鋼筋事件",
-        "dek": "赤柱豪宅One Stanley發展商建灝地產發言人表示，公司於11月4日就一宗懷疑勒索案向警方報案，金額據悉達數千萬元。"
-      }
-    },
-    {
-      "id": "2026-11-23-tai-po-dog-cruelty-arrest",
-      "published_at": "2026-11-23T02:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "animals",
-        "tai-po",
-        "police",
-        "wilson-trail"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-tai-po-dog-cruelty-arrest.json",
-      "en": {
-        "headline": "Police arrest man after dog found hanging from tree on Tai Po trail",
-        "dek": "A 54-year-old man was arrested on Sunday evening on suspicion of cruelty to animals after his sister reported finding a dog hanging lifeless from a tree outside their stone hut on the Wilson Trail."
-      },
-      "zh": {
-        "headline": "大埔衞奕信徑唐狗被吊樹上死亡 警方拘捕54歲男子涉虐畜",
-        "dek": "一名57歲女子周日中午報案，指胞弟飼養的唐狗被吊在石屋外樹上氣絕，警方晚上以涉嫌殘酷對待動物拘捕54歲胞弟。"
       }
     }
   ]
