@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-25T14:16:05+08:00",
+  "generated_at": "2026-11-25T14:18:10+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-11-25-luxury-consignment-fraud-losses-rise",
+      "published_at": "2026-11-25T14:17:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "fraud",
+        "luxury",
+        "causeway-bay",
+        "admiralty"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-luxury-consignment-fraud-losses-rise.json",
+      "en": {
+        "headline": "Police reports on two closed luxury consignment shops rise to nearly HK$51 million",
+        "dek": "Police said they have received nearly 400 reports alleging unpaid payments totalling almost HK$51.2 million after the two shops in Causeway Bay and Admiralty closed abruptly."
+      },
+      "zh": {
+        "headline": "兩間二手名牌寄賣店突然結業 警方接獲近400宗報案涉款約5120萬元",
+        "dek": "警方表示已接獲近400宗報案，指銅鑼灣及金鐘兩間寄賣店拖欠款項，涉及金額約5120萬元，案件列為詐騙調查中。"
+      }
+    },
     {
       "id": "2026-11-25-audit-consumer-council-complaints",
       "published_at": "2026-11-25T14:15:00+08:00",
