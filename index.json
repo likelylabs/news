@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-26T00:06:43+08:00",
+  "generated_at": "2026-11-26T02:03:05+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-11-26-lifestyle-cheung-sha-wan-food-fiesta",
+      "published_at": "2026-11-26T02:02:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "cheung-sha-wan",
+        "festival",
+        "opening"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-lifestyle-cheung-sha-wan-food-fiesta.json",
+      "en": {
+        "headline": "Sixth Hong Kong International Food Fiesta opens today in Cheung Sha Wan",
+        "dek": "The free five-day outdoor event at Cheung Sha Wan Playground runs until 30 November with a Sichuan food street and limited $10 lucky bags."
+      },
+      "zh": {
+        "headline": "第六屆香港國際美食巡禮今日長沙灣開幕",
+        "dek": "香港食品委員會主辦的戶外嘉年華由今日起至30日於長沙灣遊樂場舉行，免費入場，設四川美食街及限量10元福袋。"
+      }
+    },
     {
       "id": "2026-11-26-pwh-doctor-arrested-indecent-assault",
       "published_at": "2026-11-26T00:06:00+08:00",
@@ -2047,51 +2070,6 @@
       "zh": {
         "headline": "大埔衞奕信徑唐狗被吊樹上死亡 警方拘捕54歲男子涉虐畜",
         "dek": "一名57歲女子周日中午報案，指胞弟飼養的唐狗被吊在石屋外樹上氣絕，警方晚上以涉嫌殘酷對待動物拘捕54歲胞弟。"
-      }
-    },
-    {
-      "id": "2026-11-23-election-committee-results-completed",
-      "published_at": "2026-11-23T00:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "election",
-        "election-committee",
-        "voting",
-        "results"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-election-committee-results-completed.json",
-      "en": {
-        "headline": "Election Committee counting completes with results published after record turnout",
-        "dek": "The Electoral Affairs Commission said counting finished at 10.15pm on Sunday; Chief Executive John Lee congratulated the winners."
-      },
-      "zh": {
-        "headline": "選委會點票順利完成 結果已公布 投票率達98.79%",
-        "dek": "選舉管理委員會表示，點票工作於周日晚上10時15分完成；行政長官李家超恭賀所有當選人。"
-      }
-    },
-    {
-      "id": "2026-11-23-golden-horse-hk-wins",
-      "published_at": "2026-11-23T00:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "culture",
-        "film",
-        "awards",
-        "golden-horse",
-        "anson-kong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-golden-horse-hk-wins.json",
-      "en": {
-        "headline": "Hong Kong actors Anson Kong and Angela Yuen win at Golden Horse Awards",
-        "dek": "Mirror member Anson Kong took best supporting actor for We're Nothing at All, while Angela Yuen won best actress; We Are Born Good claimed best narrative feature."
-      },
-      "zh": {
-        "headline": "香港演員江⸹生及袁澧林奪金馬獎 善男信女獲最佳劇情片",
-        "dek": "Mirror成員江⸹生憑《我們不是什麼》奪最佳男配角，袁澧林奪最佳女主角；《善男信女》奪最佳劇情片。"
       }
     }
   ]
