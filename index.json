@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T04:18:49+08:00",
+  "generated_at": "2026-11-26T04:19:03+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 92,
   "articles": [
     {
       "id": "2026-11-26-hk-arts-festival-website-breach",
@@ -24,6 +24,30 @@
       "zh": {
         "headline": "香港藝術節網站遭入侵 數千名購票者資料或被非法閱覽",
         "dek": "主辦方表示11月23日發現主網站被未經授權進入，初步懷疑數千名第55屆藝術節門票預訂觀眾的個人資料可能外洩。"
+      }
+    },
+    {
+      "id": "2026-11-26-lifestyle-asia-music-event",
+      "published_at": "2026-11-26T04:18:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "music",
+        "conference",
+        "soho-house",
+        "electronic-music"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-lifestyle-asia-music-event.json",
+      "en": {
+        "headline": "Inaugural Asia Music Event opens two-day electronic music conference at Soho House",
+        "dek": "The industry gathering at Soho House Hong Kong runs 26 and 27 November with more than 50 sessions and a closing party featuring international techno artists."
+      },
+      "zh": {
+        "headline": "首屆亞洲音樂活動今日於蘇豪會展開電子音樂業界會議",
+        "dek": "為期兩日的會議於蘇豪會香港舉行，設逾50場環節，並於27日晚舉辦閉幕派對，邀請國際techno藝人演出。"
       }
     },
     {
