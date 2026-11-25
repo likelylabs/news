@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-25T14:18:10+08:00",
+  "generated_at": "2026-11-25T16:26:24+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-11-25-audit-children-assessment-noshow",
+      "published_at": "2026-11-25T16:25:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "audit",
+        "children",
+        "department-of-health",
+        "hospital-authority"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-audit-children-assessment-noshow.json",
+      "en": {
+        "headline": "Audit finds high no-show rates at children's assessment centres",
+        "dek": "The Audit Commission said professional assessment no-show rates ranged from 11 to 25 per cent at the eight centres, and the Department of Health missed its six-month completion target."
+      },
+      "zh": {
+        "headline": "審計署指兒童測驗中心失約率高達兩成半",
+        "dek": "審計報告顯示八間兒童測驗中心專業評估失約率介乎11%至25%，衛生署持續未達6個月內完成評估目標。"
+      }
+    },
+    {
+      "id": "2026-11-25-hang-seng-close-below-22000",
+      "published_at": "2026-11-25T16:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "hang-seng",
+        "stocks",
+        "market"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-hang-seng-close-below-22000.json",
+      "en": {
+        "headline": "Hang Seng Index closes below 22000 as earlier gains fade",
+        "dek": "The benchmark index finished the session under the 22000 level after morning advances reversed, with technology shares among the main contributors to the decline."
+      },
+      "zh": {
+        "headline": "恒指尾市失守22000點 早前升幅消失",
+        "dek": "基準指數今日下午升幅回吐，最終收市失守兩萬二關口，科技股成為主要拖累。"
+      }
+    },
+    {
+      "id": "2026-11-25-hko-special-tip-higher-water-levels",
+      "published_at": "2026-11-25T16:25:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "coastal",
+        "flooding"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-25/2026-11-25-hko-special-tip-higher-water-levels.json",
+      "en": {
+        "headline": "Observatory expects higher coastal water levels tonight",
+        "dek": "The Hong Kong Observatory said the combined effect of a spring tide and the northeast monsoon may bring slightly higher water levels, with minor flooding possible in some low-lying areas."
+      },
+      "zh": {
+        "headline": "天文台料今晚沿岸水位較高 低窪地區或現輕微水浸",
+        "dek": "天文台表示受天文大潮及東北季候風共同影響，預料今晚沿岸水位較正常稍高，部分低窪地區可能出現輕微水浸。"
+      }
+    },
     {
       "id": "2026-11-25-luxury-consignment-fraud-losses-rise",
       "published_at": "2026-11-25T14:17:00+08:00",
@@ -1976,50 +2043,6 @@
       "zh": {
         "headline": "Omart倉儲式超市於九龍灣MegaBox開幕 門外排長龍",
         "dek": "由OB Group營運的會員制超市佔用MegaBox 12樓逾2萬平方呎空間，周日正式開業。"
-      }
-    },
-    {
-      "id": "2026-11-22-election-committee-turnout-3pm",
-      "published_at": "2026-11-22T16:23:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "election",
-        "election-committee",
-        "voting",
-        "turnout"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-election-committee-turnout-3pm.json",
-      "en": {
-        "headline": "Election Committee turnout reaches 95.60 per cent by 3pm",
-        "dek": "Official figures show 5,458 of 5,709 eligible electors have voted as of 3pm on Sunday, surpassing the final turnout of the previous election."
-      },
-      "zh": {
-        "headline": "選委會選舉截至下午3時投票率95.60%",
-        "dek": "選舉事務處公布，截至周日下午3時，5709名合資格投票人中已有5458人投票，累積投票率達95.60%，已超越上屆最終投票率。"
-      }
-    },
-    {
-      "id": "2026-11-22-tsim-sha-tsui-prat-avenue-crash",
-      "published_at": "2026-11-22T16:23:00+08:00",
-      "updated_at": "2026-11-22T16:30:00+08:00",
-      "category": "crime",
-      "tags": [
-        "crime",
-        "traffic",
-        "tsim-sha-tsui",
-        "arrest"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-22/2026-11-22-tsim-sha-tsui-prat-avenue-crash.json",
-      "en": {
-        "headline": "Man arrested after car mounts pavement in Tsim Sha Tsui, killing one and injuring three",
-        "dek": "Police said a private car mounted the pavement on Prat Avenue at about 2.30pm on Sunday; one pedestrian died and three others were injured. A man has been arrested."
-      },
-      "zh": {
-        "headline": "尖沙咀寶勒巷私家車剷上行人路 一死三傷 一男子被捕",
-        "dek": "警方表示，周日下午約2時半，一輛私家車在寶勒巷剷上行人路，造成一名途人死亡、三人受傷。一名男子已被拘捕。"
       }
     }
   ]
