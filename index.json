@@ -1,8 +1,73 @@
 {
-  "generated_at": "2026-11-26T16:30:23+08:00",
+  "generated_at": "2026-11-26T18:11:12+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 95,
   "articles": [
+    {
+      "id": "2026-11-26-247-fitness-data-breach",
+      "published_at": "2026-11-26T18:15:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "data-breach",
+        "privacy",
+        "fitness"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-247-fitness-data-breach.json",
+      "en": {
+        "headline": "24/7 Fitness reports unauthorised access to membership system",
+        "dek": "The chain said contact details, photos and, for some, identity numbers and health records of current and former members were affected; passwords and payment data were not."
+      },
+      "zh": {
+        "headline": "24/7 FITNESS會員系統遭未經授權存取 部分現有及前會員資料受影響",
+        "dek": "連鎖健身中心表示上周五發現事件，涉及聯絡資料、會員照片，部分人身份證明文件號碼及健康申報資料；登入密碼及付款資料不受影響。"
+      }
+    },
+    {
+      "id": "2026-11-26-hang-seng-close",
+      "published_at": "2026-11-26T18:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "stocks",
+        "hang-seng"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-hang-seng-close.json",
+      "en": {
+        "headline": "Hang Seng Index closes up 260 points to end seven-day slide",
+        "dek": "The benchmark finished at 22,226 points, up about 1.2 percent, after gains narrowed in the afternoon; turnover exceeded HK$212.4 billion."
+      },
+      "zh": {
+        "headline": "恒指收市升260點結束7連跌 報22226點",
+        "dek": "指數午後升幅收窄，全日成交逾2124億元；科技指數升逾1%結束11連跌。"
+      }
+    },
+    {
+      "id": "2026-11-26-october-exports-surge",
+      "published_at": "2026-11-26T18:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "trade",
+        "exports",
+        "ai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-october-exports-surge.json",
+      "en": {
+        "headline": "Hong Kong October exports surge 65.6 percent on AI-related goods",
+        "dek": "Census and Statistics Department figures showed exports rose to HK$764.5 billion and imports by 56.2 percent, driven by sustained strong demand for AI electronic products."
+      },
+      "zh": {
+        "headline": "本港10月出口按年大升65.6% 受人工智能相關電子產品帶動",
+        "dek": "統計處公布10月出口貨值7645億元，進口升56.2%，有形貿易逆差193億元；首10個月出口升47.4%。"
+      }
+    },
     {
       "id": "2026-11-26-mental-bot-teachers-launch",
       "published_at": "2026-11-26T16:30:00+08:00",
