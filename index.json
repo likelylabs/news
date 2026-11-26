@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-11-26T04:19:27+08:00",
+  "generated_at": "2026-11-26T08:07:00+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 93,
   "articles": [
+    {
+      "id": "2026-11-26-clear-water-bay-minibus-driver-death",
+      "published_at": "2026-11-26T08:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "traffic",
+        "clear-water-bay",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-clear-water-bay-minibus-driver-death.json",
+      "en": {
+        "headline": "Police investigate death of 69-year-old minibus driver dragged under vehicle in Clear…",
+        "dek": "A 69-year-old green minibus driver died in hospital on Wednesday evening after the vehicle rolled forward while he was outside it at the junction of Clear Water Bay Road and Tai Au Mun Road."
+      },
+      "zh": {
+        "headline": "清水灣道小巴司機被捲車底死亡 警方調查中",
+        "dek": "一名69歲綠色小巴司機周三傍晚在清水灣道近大埉門路交界下車後，小巴溜前將他捲入車底，送院後不治，警方正調查事件。"
+      }
+    },
+    {
+      "id": "2026-11-26-mong-kok-gambling-raid",
+      "published_at": "2026-11-26T08:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "mong-kok",
+        "gambling"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-mong-kok-gambling-raid.json",
+      "en": {
+        "headline": "Police arrest 23 in Mong Kok raid on suspected illegal gambling den",
+        "dek": "Officers from the Mong Kok special duties squad raided a unit on Soy Street on Wednesday, seizing seven mahjong tables and about HK$20,000 in cash while detaining 23 people for investigation."
+      },
+      "zh": {
+        "headline": "警旺角豉油街搗破非法賭檔拘捕23人",
+        "dek": "旺角特別職務隊周三突擊搜查豉油街一單位，搗破懷疑非法賭檔，檢獲7張麻雀柁及約2萬元現金，拘捕23人。"
+      }
+    },
+    {
+      "id": "2026-11-26-mtr-tuen-ma-line-delay-tin-shui-wai",
+      "published_at": "2026-11-26T08:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "mtr",
+        "transport",
+        "tuen-ma-line",
+        "tin-shui-wai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-mtr-tuen-ma-line-delay-tin-shui-wai.json",
+      "en": {
+        "headline": "MTR Tuen Ma Line resumes after engineering vehicle fault at Tin Shui Wai",
+        "dek": "The MTR said a defective engineering train at Tin Shui Wai Station had been moved clear by 6:20 this morning, with services gradually returning to normal after temporary delays of 10 to 15 minutes."
+      },
+      "zh": {
+        "headline": "天水圍站工程車故障已處理 屯馬綫服務逐步回復正常",
+        "dek": "港鐵表示今早天水圍站有工程車設備故障，列車已於6時20分左右駛離行車綫，屯馬綫服務逐步回復正常，較早時候候車時間曾延長10至15分鐘。"
+      }
+    },
+    {
+      "id": "2026-11-26-wang-fuk-court-fire-anniversary",
+      "published_at": "2026-11-26T08:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "tai-po",
+        "wang-fuk-court",
+        "fire"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-wang-fuk-court-fire-anniversary.json",
+      "en": {
+        "headline": "Wang Fuk Court fire marks first anniversary as community holds memorials",
+        "dek": "One year after the blaze that killed 168 people at the Tai Po estate, religious groups are holding memorial services while the government has said it will not organise an official ceremony but will not obstruct lawful…"
+      },
+      "zh": {
+        "headline": "宏福苑火災一周年 社區舉行悼念活動",
+        "dek": "大埔宏福苑火災今日滿一周年，造成168人死亡。政府表示不會舉辦官方悼念儀式，但不會阻止合法悼念活動，多個宗教團體已舉行追思彌撒。"
+      }
+    },
     {
       "id": "2026-11-26-hk-arts-festival-website-breach",
       "published_at": "2026-11-26T04:18:00+08:00",
@@ -2027,73 +2115,6 @@
       "zh": {
         "headline": "油麻地連翔道七人車撞壆翻側 司機自行爬出擦傷拒送院",
         "dek": "警方表示，周一凌晨約1時38分一輛七人車在西九龍站對開隧道自炒撞向石壆後四輪朝天，50歲男司機手腳擦傷，現場治理後毋須送院。"
-      }
-    },
-    {
-      "id": "2026-11-23-hko-midweek-cooling",
-      "published_at": "2026-11-23T08:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "monsoon",
-        "cooling"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-hko-midweek-cooling.json",
-      "en": {
-        "headline": "Observatory forecasts temperatures falling to 16 degrees midweek",
-        "dek": "The Hong Kong Observatory said a northeast monsoon would bring cooler weather from Tuesday, with urban temperatures between 16 and 20 degrees on Wednesday."
-      },
-      "zh": {
-        "headline": "天文台預料周中氣溫跌至16度",
-        "dek": "香港天文台表示，東北季候風明日抵達華南沿岸，周三市區氣溫介乎16至20度，早晚清涼。"
-      }
-    },
-    {
-      "id": "2026-11-23-primary-one-discretionary-results",
-      "published_at": "2026-11-23T08:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "primary-one",
-        "schools",
-        "edb"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-primary-one-discretionary-results.json",
-      "en": {
-        "headline": "Primary One discretionary place results released today for 2027 intake",
-        "dek": "The Education Bureau said 18,148 of 32,104 applicants received discretionary places, with results available from 10am on the e-platform or at schools."
-      },
-      "zh": {
-        "headline": "小一自行分配學位結果今日公布 進讀二〇二七年小一",
-        "dek": "教育局表示，全港官立及資助小學小一入學自行分配學位結果今日公布，家長可於上午10時起透過電子平台或到學校查閱。"
-      }
-    },
-    {
-      "id": "2026-11-23-lifestyle-causeway-bay-winter-wonderland",
-      "published_at": "2026-11-23T04:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "causeway-bay",
-        "winterfest",
-        "events",
-        "christmas"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-lifestyle-causeway-bay-winter-wonderland.json",
-      "en": {
-        "headline": "Causeway Bay Winter Wonderland opens 25 November with elf-themed lights",
-        "dek": "The Hong Kong Tourism Board said the Lee Gardens area will host light shows from 7pm to 10pm and an outdoor bar as part of the expanded WinterFest until 3 January."
-      },
-      "zh": {
-        "headline": "銅鑼灣冬日仙境25日開幕 精靈主題燈飾亮相利園區",
-        "dek": "旅發局表示，利園區將由晚上7時至10時有燈光表演，並設戶外酒吧，作為擴大版冬日巡禮的一部分，至1月3日結束。"
       }
     }
   ]
