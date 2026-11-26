@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-26T22:17:58+08:00",
+  "generated_at": "2026-11-27T00:04:18+08:00",
   "live_window_hours": 72,
-  "count": 93,
+  "count": 95,
   "articles": [
+    {
+      "id": "2026-11-27-lifestyle-dairy-queen-causeway-bay",
+      "published_at": "2026-11-27T00:03:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "causeway-bay",
+        "opening",
+        "dairy-queen"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-lifestyle-dairy-queen-causeway-bay.json",
+      "en": {
+        "headline": "Dairy Queen opens first Hong Kong store in Causeway Bay on Saturday",
+        "dek": "The American soft-serve chain returns after nearly 50 years with a flagship at One Causeway Bay and plans three more outlets by year-end."
+      },
+      "zh": {
+        "headline": "Dairy Queen重返香港 銅鑼灣旗艦店周六開業",
+        "dek": "美國軟雪糕連鎖近半世紀後再度進駐，銅鑼灣One Causeway Bay旗艦店周六開幕，年內再開三間分店。"
+      }
+    },
+    {
+      "id": "2026-11-27-tai-po-flowers-relocated",
+      "published_at": "2026-11-27T00:03:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "tai-po",
+        "wang-fuk-court",
+        "community",
+        "remembrance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-tai-po-flowers-relocated.json",
+      "en": {
+        "headline": "Government relocates tribute flowers at Wang Fuk Court remembrance site",
+        "dek": "Officials said the move creates space for more mourners while the flowers will be transferred to a religious venue for continued tribute."
+      },
+      "zh": {
+        "headline": "政府搬移宏福苑掉念地點花束 腾出空間供市民繼續致意",
+        "dek": "政府指花束數量多，故以膠箱暫時放置並移至隣近草地，其後將逐步移送宗教場所存放。"
+      }
+    },
     {
       "id": "2026-11-26-mong-kok-scaffolding-fire",
       "published_at": "2026-11-26T22:25:00+08:00",

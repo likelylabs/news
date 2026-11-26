@@ -1,24 +1,6 @@
 {
   "covered": [
     {
-      "key": "chow-sang-sang-unauthorized-access-nov12",
-      "id": "2026-11-13-chow-sang-sang-data-breach",
-      "first_seen": "2026-11-13T00:04:00+08:00",
-      "headline_en": "Chow Sang Sang detects unauthorised system access with customer and staff data possibly extracted"
-    },
-    {
-      "key": "connaught-place-wounding-reclassified-murder-nov12",
-      "id": "2026-11-13-connaught-place-murder-reclassification",
-      "first_seen": "2026-11-13T00:04:00+08:00",
-      "headline_en": "Police reclassify Central wounding case as murder after man dies"
-    },
-    {
-      "key": "sogo-membership-data-breach-nov12",
-      "id": "2026-11-13-sogo-membership-data-breach",
-      "first_seen": "2026-11-13T00:04:00+08:00",
-      "headline_en": "Sogo reports membership system breach potentially affecting 820000 members"
-    },
-    {
       "key": "lifestyle-bigbang-cosmos-kai-tak-nov13",
       "id": "2026-11-13-lifestyle-bigbang-cosmos-kai-tak",
       "first_seen": "2026-11-13T02:05:00+08:00",
@@ -2285,7 +2267,19 @@
       "id": "2026-11-26-wong-tai-sin-candida-auris-update",
       "first_seen": "2026-11-26T22:25:00+08:00",
       "headline_en": "Four more patients carry Candida auris at Wong Tai Sin Hospital"
+    },
+    {
+      "key": "lifestyle-dairy-queen-causeway-bay-opening",
+      "id": "2026-11-27-lifestyle-dairy-queen-causeway-bay",
+      "first_seen": "2026-11-27T00:03:00+08:00",
+      "headline_en": "Dairy Queen opens first Hong Kong store in Causeway Bay on Saturday"
+    },
+    {
+      "key": "tai-po-flowers-relocated-nov26",
+      "id": "2026-11-27-tai-po-flowers-relocated",
+      "first_seen": "2026-11-27T00:03:00+08:00",
+      "headline_en": "Government relocates tribute flowers at Wang Fuk Court remembrance site"
     }
   ],
-  "updated_at": "2026-11-26T22:17:57+08:00"
+  "updated_at": "2026-11-27T00:04:18+08:00"
 }
