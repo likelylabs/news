@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-26T10:57:15+08:00",
+  "generated_at": "2026-11-26T12:10:50+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-11-26-william-wong-sentencing",
+      "published_at": "2026-11-26T12:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "court",
+        "cuhk",
+        "traffic"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-william-wong-sentencing.json",
+      "en": {
+        "headline": "Former lawmaker William Wong sentenced to community service over CUHK drink-driving crash",
+        "dek": "Sha Tin Court ordered 120 hours of community service, a one-year driving ban and a HK$6,000 fine after Wong pleaded guilty to four traffic offences."
+      },
+      "zh": {
+        "headline": "前立法會議員黃錦輝中大醉駕撞車被判120小時社會服務令",
+        "dek": "沙田裁判法院周四判處黃錦輝120小時社會服務令、停牌一年及罰款共6000元，他早前承認四項交通罪行。"
+      }
+    },
     {
       "id": "2026-11-26-lawrence-pun-death",
       "published_at": "2026-11-26T10:15:00+08:00",
@@ -1936,117 +1958,6 @@
       "zh": {
         "headline": "天文台取消強烈季候風信號 上午風勢緩和",
         "dek": "香港天文台表示，強烈季候風信號於周一中午12時45分取消，偏東風勢減弱。"
-      }
-    },
-    {
-      "id": "2026-11-23-adora-flora-city-kai-tak",
-      "published_at": "2026-11-23T12:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "cruise",
-        "kai-tak",
-        "tourism",
-        "adora"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-adora-flora-city-kai-tak.json",
-      "en": {
-        "headline": "Second domestic large cruise ship Adora Flora City arrives at Kai Tak",
-        "dek": "China's second domestically built large cruise ship, carrying more than 3,800 passengers, arrived at Kai Tak Cruise Terminal on its maiden commercial voyage from Guangzhou."
-      },
-      "zh": {
-        "headline": "第二艙國產大型郵輪愛達・花城號抵達啟德郵輪碼頭",
-        "dek": "中國第二艙國產大型郵輪載逾3800名旅客，於商業首航期間今早抵達啟德郵輪碼頭。"
-      }
-    },
-    {
-      "id": "2026-11-23-building-maintenance-new-category",
-      "published_at": "2026-11-23T12:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "building",
-        "development",
-        "regulation",
-        "legco"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-building-maintenance-new-category.json",
-      "en": {
-        "headline": "Development Bureau proposes new category for large building maintenance works",
-        "dek": "Permanent Secretary Doris Ho said approval times for major maintenance projects are expected to lengthen, with a target of completing reviews within 45 days of full submissions."
-      },
-      "zh": {
-        "headline": "發展局擬將大型樓宇維修列新類別 審批時間料較長",
-        "dek": "發展局常任秘書長何珮玲表示，大型維修工程審批時間預計較以往長，目標在交齊文件後45日內完成。"
-      }
-    },
-    {
-      "id": "2026-11-23-chan-kin-por-ha-chairman",
-      "published_at": "2026-11-23T12:10:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "hospital-authority",
-        "appointment",
-        "chan-kin-por"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-chan-kin-por-ha-chairman.json",
-      "en": {
-        "headline": "Government appoints Chan Kin-por as Hospital Authority chairman",
-        "dek": "The Chief Executive appointed Chan Kin-por as chairman of the Hospital Authority for a two-year term from 1 December, with one new member and six reappointments."
-      },
-      "zh": {
-        "headline": "政府委任陳健波為醫管局主席 12月1日起任期兩年",
-        "dek": "行政長官根據《醫院管理局條例》委任陳健波為醫管局主席，任期由12月1日起為期兩年，同時委任一名新成員及再度委任六名現任成員。"
-      }
-    },
-    {
-      "id": "2026-11-23-lifestyle-detour-2026-pmq",
-      "published_at": "2026-11-23T12:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "pmq",
-        "design",
-        "central"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-lifestyle-detour-2026-pmq.json",
-      "en": {
-        "headline": "deTour 2026 design festival continues at PMQ until 29 November",
-        "dek": "PMQ said the free annual design festival, themed Better Not Perfect: Prototypes for Tomorrow, features 14 works across three zones and a new pop-up shop."
-      },
-      "zh": {
-        "headline": "deTour 2026設計節於元創方持續至11月29日",
-        "dek": "元創方表示，免費年度設計節以「不完美，更美好」為主題，設三大展區展出14件作品，並首設快閃選物店。"
-      }
-    },
-    {
-      "id": "2026-11-23-strong-monsoon-signal-nov23",
-      "published_at": "2026-11-23T12:10:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "monsoon",
-        "strong-monsoon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-strong-monsoon-signal-nov23.json",
-      "en": {
-        "headline": "Observatory updates Strong Monsoon Signal with easterly winds",
-        "dek": "The Hong Kong Observatory said the Strong Monsoon Signal remains in force with strong easterly winds expected and occasional gale-force gusts."
-      },
-      "zh": {
-        "headline": "天文台更新強烈季候風信號 吹偏東強風",
-        "dek": "香港天文台表示，強烈季候風信號現正生效，預料吹偏東強風，陣風間中達烈風程度。"
       }
     }
   ]
