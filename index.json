@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-11-26T12:11:24+08:00",
+  "generated_at": "2026-11-26T12:17:20+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-11-26-lifestyle-space-museum-tiangong",
+      "published_at": "2026-11-26T12:25:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "exhibition",
+        "space-museum",
+        "tiangong",
+        "lai-ka-ying"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-lifestyle-space-museum-tiangong.json",
+      "en": {
+        "headline": "Space Museum opens free exhibition on astronauts' life aboard Tiangong",
+        "dek": "The display runs until 19 July next year and features a full-scale model of Hong Kong's first scientific payload on the station plus interactive exhibits."
+      },
+      "zh": {
+        "headline": "香港太空館舉辦免費展覽 展出航天員天宮日誌",
+        "dek": "展覽即日起至明年7月19日，設有天韻相機全尺寸模型及互動機械臂體驗，介紹香港首位載荷專家黎家盈的任務。"
+      }
+    },
+    {
+      "id": "2026-11-26-private-home-prices-fall-october",
+      "published_at": "2026-11-26T12:25:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "property",
+        "housing",
+        "rating-valuation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-private-home-prices-fall-october.json",
+      "en": {
+        "headline": "Private home prices fall 0.6 percent in October after two-month rise",
+        "dek": "The Rating and Valuation Department index slipped to 319 points while the private rental index reached a fresh record high of 213.2."
+      },
+      "zh": {
+        "headline": "差估署：10月私人住宅樓價指數按月跌0.6% 結束兩個月升勢",
+        "dek": "指數報319點，按年仍升8.17%；租金指數升至213.2，續創歷史新高。"
+      }
+    },
+    {
+      "id": "2026-11-26-tuen-mun-light-rail-truck-collision",
+      "published_at": "2026-11-26T12:25:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "mtr",
+        "light-rail",
+        "tuen-mun",
+        "accident"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-tuen-mun-light-rail-truck-collision.json",
+      "en": {
+        "headline": "Truck collides with empty Light Rail train in Tuen Mun",
+        "dek": "The MTR diverted three routes and ran free shuttle buses after the 10:30 collision at Lung Mun Road and Wu Chui Road; services began returning to normal by 11:03."
+      },
+      "zh": {
+        "headline": "屯門龍門路貨車撞無乘客輕鐵 三條路綫一度改道",
+        "dek": "早上約10時30分湖翠路交界發生碰撞，港鐵安排免費接駁巴士，至11時03分宣布事件處理完畢，服務逐步回復正常。"
+      }
+    },
     {
       "id": "2026-11-26-lifestyle-ganso-hakata-yatai",
       "published_at": "2026-11-26T12:15:00+08:00",
