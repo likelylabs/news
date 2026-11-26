@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-11-26T10:14:04+08:00",
+  "generated_at": "2026-11-26T10:15:23+08:00",
   "live_window_hours": 72,
-  "count": 93,
+  "count": 96,
   "articles": [
+    {
+      "id": "2026-11-26-lawrence-pun-death",
+      "published_at": "2026-11-26T10:15:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "culture",
+        "literature",
+        "north-point",
+        "writer",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-lawrence-pun-death.json",
+      "en": {
+        "headline": "Hong Kong writer Lawrence Pun dies at 56 after fall from North Point flat",
+        "dek": "Police found a note at the writer’s residence indicating prolonged illness; Pun had battled thymoma and related complications since 2023 and published a final essay collection last month."
+      },
+      "zh": {
+        "headline": "香港作家潘國靈北角寓所墮樓身亡 終年56歲",
+        "dek": "警方在單位檢獲遺書，指事主長期受病患困擾；潘國靈自2023年確診胸腺瘤後接受手術及電療，上月剛出版新書。"
+      }
+    },
+    {
+      "id": "2026-11-26-lifestyle-cookeasy-ibakery-exhibition",
+      "published_at": "2026-11-26T10:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "community",
+        "exhibition",
+        "food",
+        "elderly",
+        "tung-wah"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-lifestyle-cookeasy-ibakery-exhibition.json",
+      "en": {
+        "headline": "Tung Wah social enterprises open free exhibition on dignified dining at iBakery Gallery…",
+        "dek": "The display at Tamar Park runs until 31 March and pairs portraits of public figures with stories about adapting meals for those with chewing difficulties."
+      },
+      "zh": {
+        "headline": "東華三院社企於添馬公園iBakery舉辦「人人都可以食得好」展覽",
+        "dek": "展覽即日起至明年3月31日於金鐘添馬公園添馬茶座舉行，以圖文及影像呈現不同人士的飲食故事，關注咀嚼能力減弱者的尊嚴飲食。"
+      }
+    },
+    {
+      "id": "2026-11-26-sha-tin-road-two-car-crash",
+      "published_at": "2026-11-26T10:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "traffic",
+        "sha-tin",
+        "accident",
+        "lion-rock-tunnel"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-sha-tin-road-two-car-crash.json",
+      "en": {
+        "headline": "Two-car crash on Sha Tin Road closes lanes and disrupts Lion Rock Tunnel",
+        "dek": "A collision between two private cars on Thursday morning left one vehicle overturned and another on its side, forcing closures on Sha Tin Road towards Ma On Shan and intermittent shutdowns at the tunnel."
+      },
+      "zh": {
+        "headline": "沙田路兩私家車相撞翻側 往馬鞍山方向一度全線封閉",
+        "dek": "周四早上約7時45分沙田路近博康商場兩部私家車相撞，一部四輪朝天、一部翻側，往馬鞍山方向道路封閉，獅子山隧道往沙田方向間封，車龍延至九龍塘。"
+      }
+    },
     {
       "id": "2026-11-26-clear-water-bay-minibus-driver-death",
       "published_at": "2026-11-26T08:05:00+08:00",
