@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-11-26T14:16:41+08:00",
+  "generated_at": "2026-11-26T16:30:23+08:00",
   "live_window_hours": 72,
-  "count": 95,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-11-26-mental-bot-teachers-launch",
+      "published_at": "2026-11-26T16:30:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "education",
+        "technology",
+        "mental-health"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-mental-bot-teachers-launch.json",
+      "en": {
+        "headline": "Universities launch MentAl Bot to train teachers on student mental health",
+        "dek": "The digital platform, based on WHO standards, starts with 300 teachers and 300 university students across 20 schools."
+      },
+      "zh": {
+        "headline": "三所大學推出MentAl Bot 助教師辨識學生精神健康需要",
+        "dek": "平台以世衛標準為基礎，首階段涵蓋20所學校的300名教師及300名大學生。"
+      }
+    },
+    {
+      "id": "2026-11-26-ride-hailing-driver-permit-applications",
+      "published_at": "2026-11-26T16:30:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "ride-hailing",
+        "transport-department"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-ride-hailing-driver-permit-applications.json",
+      "en": {
+        "headline": "Transport Department to accept ride-hailing driver permit applications from Monday",
+        "dek": "Applications open at 10am on 30 November via the GovHK portal using iAM Smart; there is no quota."
+      },
+      "zh": {
+        "headline": "運輸署下周一上午10時接受網約車駕駛許可證申請",
+        "dek": "申請透過智方便在一站通專頁提交，並無配額上限，非先到先得。"
+      }
+    },
+    {
+      "id": "2026-11-26-smartone-network-instability",
+      "published_at": "2026-11-26T16:30:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "telecommunications",
+        "smartone"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-smartone-network-instability.json",
+      "en": {
+        "headline": "SmarTone network instability affects some areas this afternoon",
+        "dek": "Users reported loss of mobile service from around 2:30pm; the company said services were recovering by mid-afternoon and apologised."
+      },
+      "zh": {
+        "headline": "數碼通部分地區網絡不穩 服務陸續恢復",
+        "dek": "下午約2時半起有用戶報稱訊號中斷，公司表示正調查，至約3時45分逐步恢復並致歉。"
+      }
+    },
     {
       "id": "2026-11-26-hang-seng-rebound",
       "published_at": "2026-11-26T14:20:00+08:00",
@@ -2022,143 +2086,6 @@
       "zh": {
         "headline": "杭州抵港旅客攜6.1萬支私煙 判囚7個月罰款千元",
         "dek": "海關指56歲男旅客於10月28日在機場被截獲，行李內有約61200支未完稅香煙，市值約36.6萬元。"
-      }
-    },
-    {
-      "id": "2026-11-23-hongkong-post-fake-website-warning",
-      "published_at": "2026-11-23T16:27:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "hongkong-post",
-        "scam",
-        "police",
-        "phishing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-hongkong-post-fake-website-warning.json",
-      "en": {
-        "headline": "Hong Kong Post warns public of fake websites and messages",
-        "dek": "The postal service said on Monday it had referred to police fake websites and messages impersonating it that ask recipients for personal data or postage payments."
-      },
-      "zh": {
-        "headline": "香港郵政呼籲慎防偽冒網站及短訊",
-        "dek": "香港郵政周一表示，已將冒認其名義的虛假網站及要求提供個人資料或支付郵費的短訊電郵轉交警方，並提醒市民官方網站及發送人名稱。"
-      }
-    },
-    {
-      "id": "2026-11-23-lion-rock-tunnel-tow-truck-overturn",
-      "published_at": "2026-11-23T16:27:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "lion-rock-tunnel",
-        "accident",
-        "traffic",
-        "police"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-lion-rock-tunnel-tow-truck-overturn.json",
-      "en": {
-        "headline": "Tow truck overturns in Lion Rock Tunnel forcing single-tube traffic",
-        "dek": "A recovery vehicle rolled onto its side in the Kowloon-bound tube around 11:24 am on Monday after striking a barrier, slightly injuring the driver and causing heavy congestion under one-tube two-way running."
-      },
-      "zh": {
-        "headline": "獅子山隧道往九龍方向拖車翻側 實施單管雙程行車",
-        "dek": "周一上午約11時24分，一輛拖車在獅子山隧道往九龍方向管道內疑失控撞石壆後翻側，司機輕傷拒送院，運輸署實施單管雙程行車，交通擠塞。"
-      }
-    },
-    {
-      "id": "2026-11-23-hang-seng-midday-lower-nov23",
-      "published_at": "2026-11-23T14:25:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "hang-seng",
-        "stocks",
-        "market",
-        "ai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-hang-seng-midday-lower-nov23.json",
-      "en": {
-        "headline": "Hang Seng falls to near 19-month low as AI sell-off weighs on tech shares",
-        "dek": "The index dropped as much as 1.8 per cent in morning trade on Monday, with the tech gauge down more than 1 per cent amid continued pressure from US AI stock declines."
-      },
-      "zh": {
-        "headline": "恒指一度跌穿22000點 科技股受AI拋售拖累",
-        "dek": "周一早市恒生指數最多跌1.8%，科技指數跌逾1%，延續美股人工智能股跌勢影響。"
-      }
-    },
-    {
-      "id": "2026-11-23-interpol-general-assembly-no-fly-zone",
-      "published_at": "2026-11-23T14:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "police",
-        "interpol",
-        "security",
-        "wan-chai",
-        "drone"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-interpol-general-assembly-no-fly-zone.json",
-      "en": {
-        "headline": "Police announce citywide no-fly zone for Interpol General Assembly next week",
-        "dek": "From 30 November to 3 December, drones, helicopters, kites and other aerial activities will be banned across Hong Kong, with roads closed around the Wan Chai venue."
-      },
-      "zh": {
-        "headline": "國際刑警全體大會下周舉行 全港設臨時禁飛區",
-        "dek": "警方宣布，11月30日至12月3日期間全港禁止無人機、直升機、風箍等空中活動，灣仔會展一帶封路。"
-      }
-    },
-    {
-      "id": "2026-11-23-lifestyle-youth-music-interflows-symphony",
-      "published_at": "2026-11-23T14:25:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "music",
-        "lcsd",
-        "tsim-sha-tsui"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-lifestyle-youth-music-interflows-symphony.json",
-      "en": {
-        "headline": "Symphony Orchestra Interflow opens at Cultural Centre with school ensembles",
-        "dek": "The Music Office said about 60 primary and secondary school orchestras will perform from today until 25 November at the Hong Kong Cultural Centre Concert Hall, with tickets at HK$80."
-      },
-      "zh": {
-        "headline": "青年音樂匯演交響樂團項目今日起在文化中心舉行",
-        "dek": "音樂事務處表示，約60隊中小學樂團由今日至25日在香港文化中心音樂廳演出，門票80元。"
-      }
-    },
-    {
-      "id": "2026-11-23-strong-monsoon-signal-cancelled-nov23",
-      "published_at": "2026-11-23T14:25:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "monsoon",
-        "strong-monsoon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-strong-monsoon-signal-cancelled-nov23.json",
-      "en": {
-        "headline": "Observatory cancels Strong Monsoon Signal after morning winds ease",
-        "dek": "The Hong Kong Observatory said the Strong Monsoon Signal was cancelled at 12:45 pm on Monday as easterly winds moderated."
-      },
-      "zh": {
-        "headline": "天文台取消強烈季候風信號 上午風勢緩和",
-        "dek": "香港天文台表示，強烈季候風信號於周一中午12時45分取消，偏東風勢減弱。"
       }
     }
   ]
