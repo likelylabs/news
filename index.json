@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-26T20:28:30+08:00",
+  "generated_at": "2026-11-26T22:17:58+08:00",
   "live_window_hours": 72,
-  "count": 95,
+  "count": 93,
   "articles": [
+    {
+      "id": "2026-11-26-mong-kok-scaffolding-fire",
+      "published_at": "2026-11-26T22:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "fire",
+        "mong-kok",
+        "accident",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-mong-kok-scaffolding-fire.json",
+      "en": {
+        "headline": "Worker burned in scaffolding fire at Mong Kok building",
+        "dek": "A 55-year-old man suffered burns to his hands and legs after a fire on exterior scaffolding on Dundas Street this afternoon."
+      },
+      "zh": {
+        "headline": "旺角翠園大樓棚網起火 55歲工人手腳燒傷送院",
+        "dek": "下午約5時登打士街大廈外牆棚網起火，一名55歲工人手部及小腿燒傷，清醒送廣華醫院治理。"
+      }
+    },
+    {
+      "id": "2026-11-26-wong-tai-sin-candida-auris-update",
+      "published_at": "2026-11-26T22:25:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "hospital",
+        "infection",
+        "wong-tai-sin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-wong-tai-sin-candida-auris-update.json",
+      "en": {
+        "headline": "Four more patients carry Candida auris at Wong Tai Sin Hospital",
+        "dek": "The hospital said the four men aged 44 to 72 showed no symptoms and were isolated after contact tracing in the same ward."
+      },
+      "zh": {
+        "headline": "黃大仙醫院再多4名男病人帶有耳念珠菌",
+        "dek": "院方經接觸追蹤在同一護養病房發現4名44至72歲男病人帶菌，均無病徵，正接受隔離，情況穩定。"
+      }
+    },
     {
       "id": "2026-11-26-lifestyle-india-by-the-bay",
       "published_at": "2026-11-26T20:30:00+08:00",
@@ -2057,98 +2101,6 @@
       "zh": {
         "headline": "大埔唐狗被吊樹死亡 警方再拘一人涉殘酷對待動物",
         "dek": "警方在馬窩路石屋一帶發現捕獸器及捕獸籠，案中唐狗由其胞弟飼養約一年。"
-      }
-    },
-    {
-      "id": "2026-11-23-john-lee-accelerates-building-reforms",
-      "published_at": "2026-11-23T22:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "building",
-        "maintenance",
-        "wang-fuk",
-        "reforms",
-        "legco"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-john-lee-accelerates-building-reforms.json",
-      "en": {
-        "headline": "Lee orders acceleration of building maintenance reforms after Wang Fuk Court fire",
-        "dek": "The Chief Executive told officials on Monday to submit amendments to six ordinances as soon as possible following a progress briefing on the independent committee’s recommendations."
-      },
-      "zh": {
-        "headline": "李家超下令加快樓宇維修制度改革 防止宏福苑悲劇重演",
-        "dek": "行政長官周一聽取進度匯報後，指示各部門盡快向立法會提交六項法例修訂，全力落實獨立委員會建議。"
-      }
-    },
-    {
-      "id": "2026-11-23-customs-double-eleven-counterfeit",
-      "published_at": "2026-11-23T20:30:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "customs",
-        "counterfeit",
-        "kwai-chung",
-        "double-eleven"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-customs-double-eleven-counterfeit.json",
-      "en": {
-        "headline": "Customs seize HK$68 million in suspected counterfeit goods in Double 11 operation",
-        "dek": "Officers cracked 39 cases and arrested two people after intercepting about 120,000 items bound mainly for the Americas and the Middle East."
-      },
-      "zh": {
-        "headline": "海關「雙十一」行動檢值6800萬元冒牌貨 拘兩人",
-        "dek": "海關破獲39宗案件，檢獲約12萬件懷疑冒牌物品，主要準備轉運至美洲及中東地區。"
-      }
-    },
-    {
-      "id": "2026-11-23-san-po-kong-fake-usd-arrest",
-      "published_at": "2026-11-23T20:30:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "counterfeit",
-        "san-po-kong",
-        "bank"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-san-po-kong-fake-usd-arrest.json",
-      "en": {
-        "headline": "Police arrest 47-year-old woman over suspected fake US$100 at San Po Kong bank",
-        "dek": "A Standard Chartered branch on Tai Wo Street alerted officers after staff found one counterfeit note among 71 US dollar bills a customer tried to deposit."
-      },
-      "zh": {
-        "headline": "新蒲崗銀行疑存入偽美鈔 47歲女子被捕",
-        "dek": "大有街渣打銀行職員發現顧客擬存入的71張美鈔中有一張100元屬偽鈔後報警，警方以涉嫌行使偽製紙幣拘捕她。"
-      }
-    },
-    {
-      "id": "2026-11-23-wang-fuk-medical-extension",
-      "published_at": "2026-11-23T20:30:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "wang-fuk",
-        "tai-po",
-        "hospital-authority",
-        "fire"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-wang-fuk-medical-extension.json",
-      "en": {
-        "headline": "Free medical services for Wang Fuk Court fire victims extended to end of April 2027",
-        "dek": "The Health Bureau said Chinese and Western medicine outreaches, free dental dentures and Hospital Authority fee waivers will continue for another four months after the original year-end deadline."
-      },
-      "zh": {
-        "headline": "宏福苑火災受影響居民免費醫療安排延長至明年4月底",
-        "dek": "醫務衞生局宣布，中西醫義診、牙醫免費鑲配假牙及醫管局全額醫療費用豁免由原定年底延長四個月至2027年4月30日。"
       }
     }
   ]
