@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-26T20:26:24+08:00",
+  "generated_at": "2026-11-26T20:28:30+08:00",
   "live_window_hours": 72,
-  "count": 94,
+  "count": 95,
   "articles": [
+    {
+      "id": "2026-11-26-lifestyle-india-by-the-bay",
+      "published_at": "2026-11-26T20:30:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "festival",
+        "asia-society",
+        "admiralty"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-lifestyle-india-by-the-bay.json",
+      "en": {
+        "headline": "India by the Bay festival opens at Asia Society Hong Kong Center",
+        "dek": "The 11th edition runs from today to 29 November with music, dance, literature and cuisine programmes co-presented by Teamwork Arts and the Asia Society."
+      },
+      "zh": {
+        "headline": "印度海灣節於亞洲協會香港中心開幕",
+        "dek": "第十一屆由今日起至11月29日舉行，包括音樂、舞蹈、文學及美食節目，由Teamwork Arts與亞洲協會合辦。"
+      }
+    },
     {
       "id": "2026-11-26-ombudsman-lcsd-study-rooms",
       "published_at": "2026-11-26T20:25:00+08:00",
