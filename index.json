@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-26T18:11:12+08:00",
+  "generated_at": "2026-11-26T20:26:24+08:00",
   "live_window_hours": 72,
-  "count": 95,
+  "count": 94,
   "articles": [
+    {
+      "id": "2026-11-26-ombudsman-lcsd-study-rooms",
+      "published_at": "2026-11-26T20:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "ombudsman",
+        "lcsd",
+        "education",
+        "libraries"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-ombudsman-lcsd-study-rooms.json",
+      "en": {
+        "headline": "Ombudsman launches investigation into LCSD management of public study rooms",
+        "dek": "The probe examines reports of seat abuse, noise and misuse in library and sports centre study rooms that affect students with genuine revision needs."
+      },
+      "zh": {
+        "headline": "申訴專員主動調查康文署自修室管理 關注霸位及濫用問題",
+        "dek": "公署指圖書館及體育場館自修室不時出現霸位不用、噪音氣味滋擾等情況，影響真正有需要溫習的學生。"
+      }
+    },
+    {
+      "id": "2026-11-26-privacy-commissioner-data-security",
+      "published_at": "2026-11-26T20:25:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "privacy",
+        "data-security",
+        "cybersecurity"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-privacy-commissioner-data-security.json",
+      "en": {
+        "headline": "Privacy Commissioner urges businesses to invest more in data security amid AI-assisted…",
+        "dek": "Ada Chung said recent breaches affecting more than one million users show hackers are using AI to speed up attacks, and organisations must strengthen systems even when using third parties."
+      },
+      "zh": {
+        "headline": "私隱專員促企業加強資料保安投資 指黑客用AI加快攻擊",
+        "dek": "鍾麗玲表示近期多宗事故影響逾百萬人，黑客借助人工智能加速入侵，機構即使外判亦須負責。"
+      }
+    },
+    {
+      "id": "2026-11-26-yau-ma-tei-vice-arrests",
+      "published_at": "2026-11-26T20:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "yau-ma-tei",
+        "vice"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-yau-ma-tei-vice-arrests.json",
+      "en": {
+        "headline": "Police arrest 20 after raiding three suspected vice venues in Yau Ma Tei",
+        "dek": "Officers detained four local men, one local woman and 15 foreign women aged 20 to 57; some face charges of managing or permitting prostitution premises."
+      },
+      "zh": {
+        "headline": "警油麻地搞破三個懷疑賣淫場所 拘捕20人",
+        "dek": "行動拘捕4名本地男子、1名本地女子及15名外籍女子，部分人涉嫌經營或准許處所用作賣淫場所。"
+      }
+    },
     {
       "id": "2026-11-26-247-fitness-data-breach",
       "published_at": "2026-11-26T18:15:00+08:00",
@@ -2059,98 +2126,6 @@
       "zh": {
         "headline": "宏福苑火災受影響居民免費醫療安排延長至明年4月底",
         "dek": "醫務衞生局宣布，中西醫義診、牙醫免費鑲配假牙及醫管局全額醫療費用豁免由原定年底延長四個月至2027年4月30日。"
-      }
-    },
-    {
-      "id": "2026-11-23-bid-rigging-taskforce-second-group",
-      "published_at": "2026-11-23T18:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "bid-rigging",
-        "building",
-        "police",
-        "icac"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-bid-rigging-taskforce-second-group.json",
-      "en": {
-        "headline": "Task force dismantles second bid-rigging group involving 15 estates",
-        "dek": "The joint task force said it arrested 33 people and blocked two contracts worth about HK$7.6 million after uncovering deals totalling more than HK$130 million."
-      },
-      "zh": {
-        "headline": "特遣隊再瓦解圍標集團 涉15屋苑工程逾1.3億",
-        "dek": "聯合特遣隊表示已拘捕33人，並阻止兩份約760萬元合約，涉案工程合約總額超過1.3億元。"
-      }
-    },
-    {
-      "id": "2026-11-23-fps-system-upgrade-nov29",
-      "published_at": "2026-11-23T18:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "fps",
-        "hkma",
-        "payments",
-        "technology"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-fps-system-upgrade-nov29.json",
-      "en": {
-        "headline": "Faster Payment System to suspend service for upgrade on 29 November",
-        "dek": "The Hong Kong Monetary Authority said the system will be unavailable from 1 am to 11 am on Sunday while Hong Kong Interbank Clearing carries out maintenance."
-      },
-      "zh": {
-        "headline": "轉數快本月29日凌晨1時至早上11時暫停服務",
-        "dek": "金管局表示，香港銀行同業結算有限公司將於周日進行系統提升，該時段內轉數快暫停服務。"
-      }
-    },
-    {
-      "id": "2026-11-23-hang-seng-close-down-27",
-      "published_at": "2026-11-23T18:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "hang-seng",
-        "stocks",
-        "market",
-        "ai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-hang-seng-close-down-27.json",
-      "en": {
-        "headline": "Hang Seng closes down 27 points at 22384 as auto stocks lag",
-        "dek": "The index ended Monday 0.12 per cent lower after recovering from a morning drop of more than 400 points, with Lenovo among the strongest gainers."
-      },
-      "zh": {
-        "headline": "恒指收市跌27點報22384 汽車股受壓",
-        "dek": "周一恒生指數收市跌0.12%，早段曾跌逾400點失守22000點，聯想集團升近8%成表現最好藍籌之一。"
-      }
-    },
-    {
-      "id": "2026-11-23-hangzhou-cigarettes-sentence",
-      "published_at": "2026-11-23T18:15:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "customs",
-        "airport",
-        "cigarettes",
-        "court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-23/2026-11-23-hangzhou-cigarettes-sentence.json",
-      "en": {
-        "headline": "Man from Hangzhou jailed seven months for importing 61200 duty-free cigarettes",
-        "dek": "Customs said the 56-year-old was intercepted at the airport on 28 October with cigarettes valued at about HK$366000 and was also fined HK$1000."
-      },
-      "zh": {
-        "headline": "杭州抵港旅客攜6.1萬支私煙 判囚7個月罰款千元",
-        "dek": "海關指56歲男旅客於10月28日在機場被截獲，行李內有約61200支未完稅香煙，市值約36.6萬元。"
       }
     }
   ]

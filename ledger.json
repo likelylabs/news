@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "customs-endangered-species-ocean-vessel-seizure-nov12",
-      "id": "2026-11-12-customs-endangered-species-seizure",
-      "first_seen": "2026-11-12T18:20:00+08:00",
-      "headline_en": "Customs seize HK$100 million in suspected endangered species from containers"
-    },
-    {
-      "key": "police-fake-ticket-syndicate-arrests-nov12",
-      "id": "2026-11-12-police-fake-ticket-arrests",
-      "first_seen": "2026-11-12T18:20:00+08:00",
-      "headline_en": "Police arrest 10 in crackdown on fake concert ticket syndicate"
-    },
-    {
       "key": "debt-restructuring-scam-arrest-nov12",
       "id": "2026-11-12-debt-restructuring-scam-arrest",
       "first_seen": "2026-11-12T20:30:00+08:00",
@@ -2309,7 +2297,25 @@
       "id": "2026-11-26-october-exports-surge",
       "first_seen": "2026-11-26T18:15:00+08:00",
       "headline_en": "Hong Kong October exports surge 65.6 percent on AI-related goods"
+    },
+    {
+      "key": "ombudsman-lcsd-study-rooms-investigation-nov26",
+      "id": "2026-11-26-ombudsman-lcsd-study-rooms",
+      "first_seen": "2026-11-26T20:25:00+08:00",
+      "headline_en": "Ombudsman launches investigation into LCSD management of public study rooms"
+    },
+    {
+      "key": "privacy-commissioner-data-security-urge-nov26",
+      "id": "2026-11-26-privacy-commissioner-data-security",
+      "first_seen": "2026-11-26T20:25:00+08:00",
+      "headline_en": "Privacy Commissioner urges businesses to invest more in data security amid AI-assisted attacks"
+    },
+    {
+      "key": "yau-ma-tei-vice-venues-arrests-nov26",
+      "id": "2026-11-26-yau-ma-tei-vice-arrests",
+      "first_seen": "2026-11-26T20:25:00+08:00",
+      "headline_en": "Police arrest 20 after raiding three suspected vice venues in Yau Ma Tei"
     }
   ],
-  "updated_at": "2026-11-26T18:11:12+08:00"
+  "updated_at": "2026-11-26T20:26:24+08:00"
 }
