@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-26T12:10:50+08:00",
+  "generated_at": "2026-11-26T12:11:10+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-11-26-platform-workers-compensation-bill",
+      "published_at": "2026-11-26T12:15:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "labour",
+        "delivery",
+        "legco"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-platform-workers-compensation-bill.json",
+      "en": {
+        "headline": "Government proposes up to one year of paid sick leave for injured platform delivery…",
+        "dek": "The Digital Platform Workers Compensation Bill sets a three-tier system based on working hours, with platforms required to carry insurance for food and goods delivery staff."
+      },
+      "zh": {
+        "headline": "政府擬為平台外送員工傷設三級制 最高可獲一年有薪病假",
+        "dek": "《數碼平台工作者補償條例草案》按工時劃分三級，食物及貨物外送平台須購買保險，保障工傷及死亡個案。"
+      }
+    },
     {
       "id": "2026-11-26-william-wong-sentencing",
       "published_at": "2026-11-26T12:15:00+08:00",
