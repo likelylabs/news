@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-26T12:11:10+08:00",
+  "generated_at": "2026-11-26T12:11:24+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-11-26-lifestyle-ganso-hakata-yatai",
+      "published_at": "2026-11-26T12:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "causeway-bay",
+        "japanese",
+        "opening"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-lifestyle-ganso-hakata-yatai.json",
+      "en": {
+        "headline": "Fukuoka yatai restaurant Ganso Hakata Yatai opens at One Causeway Bay",
+        "dek": "The first overseas outpost of Yatai Keiji brings charcoal-grilled yakitori, robatayaki and ramen to a 106-seat venue overlooking the typhoon shelter."
+      },
+      "zh": {
+        "headline": "福岡屋台「元祖博多屋台」進駐銅鑼灣港島壹號中心",
+        "dek": "屋台けいじ首家海外分店在告士打道281號開業，設106個座位，供應炭火燒鳥、爐端燒及拉麵等福岡風味。"
+      }
+    },
     {
       "id": "2026-11-26-platform-workers-compensation-bill",
       "published_at": "2026-11-26T12:15:00+08:00",
