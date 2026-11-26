@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-26-247-fitness-data-breach",
+  "published_at": "2026-11-26T18:15:00+08:00",
+  "category": "technology",
+  "tags": ["technology", "data-breach", "privacy", "fitness"],
+  "ai_generated": true,
+  "story_key": "247-fitness-membership-data-breach-nov20",
+  "en": {
+    "headline": "24/7 Fitness reports unauthorised access to membership system",
+    "dek": "The chain said contact details, photos and, for some, identity numbers and health records of current and former members were affected; passwords and payment data were not.",
+    "body": [
+      "Fitness chain 24/7 Fitness said it discovered unauthorised access to its membership system on Friday 20 November. The company published a notice on its website on Monday stating that personal data of some current and former members had been affected.",
+      "According to the notice, the exposed information included contact details and membership photographs. For a portion of members, identity document numbers and health declaration records were also involved. The company said the number of affected members and the full scope remained to be confirmed. Login passwords and payment details were not affected.",
+      "24/7 Fitness said it had patched the identified vulnerability and strengthened security measures to prevent further unauthorised access. It has engaged a third-party cybersecurity firm to investigate and has notified the Office of the Privacy Commissioner for Personal Data and the Hong Kong Computer Emergency Response Team Coordination Centre.",
+      "The company reminded members that it would never request passwords, one-time verification codes or payments via email, text message, telephone, instant messaging or unverified links. It apologised for any distress caused."
+    ]
+  },
+  "zh": {
+    "headline": "24/7 FITNESS會員系統遭未經授權存取 部分現有及前會員資料受影響",
+    "dek": "連鎖健身中心表示上周五發現事件，涉及聯絡資料、會員照片，部分人身份證明文件號碼及健康申報資料；登入密碼及付款資料不受影響。",
+    "body": [
+      "連鎖健身中心24/7 FITNESS表示，上周五（11月20日）發現會員系統被未經授權存取。公司於周一在官方網站發出通知，指部分現有及前會員的個人資料受影響。",
+      "根據通知，外洩資料包括聯絡資料及會員照片。部分會員的身份證明文件號碼及健康申報資料亦受影響。公司指受影響會員人數及資料範圍仍待確認。會員登入密碼及付款資料則不受影響。",
+      "24/7 FITNESS表示，已修補目前識別到的系統漏洞，並加強安全防護措施，以阻止進一步未經授權存取。公司已委聘第三方網絡安全公司展開調查，並已通知私隱專員公署及香港網絡安全事故協調中心。",
+      "公司提醒會員，絕不會透過電郵、短訊、電話、即時通訊或來歷不明的連結要求提供密碼、一次性驗證碼或付款。對事件為會員帶來的困擾，公司深表歉意。"
+    ]
+  }
+}
