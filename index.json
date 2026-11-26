@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-27T02:04:08+08:00",
+  "generated_at": "2026-11-27T04:20:30+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-11-27-lifestyle-hkust-impact-fiesta",
+      "published_at": "2026-11-27T04:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "hkust",
+        "central",
+        "exhibition"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-lifestyle-hkust-impact-fiesta.json",
+      "en": {
+        "headline": "HKUST 35th anniversary Impact Fiesta opens at Central harbourfront today",
+        "dek": "The free two-day event at AIA Vitality Park features space robots, AI cinema, mixed-reality art and a 1991-drone light show on Saturday."
+      },
+      "zh": {
+        "headline": "科大35周年Impact Fiesta今日中環海濱開幕",
+        "dek": "免費兩日活動於AIA Vitality Park舉行，展出太空機械人、AI電影、混合實境藝術，周六有1991架無人機燈光秀。"
+      }
+    },
     {
       "id": "2026-11-27-immigration-passport-tampering-arrests",
       "published_at": "2026-11-27T01:15:00+08:00",
@@ -1943,51 +1966,6 @@
       "zh": {
         "headline": "宏福苑業主可獲30萬元新生活支援補助",
         "dek": "援助基金將於12月底起分兩期發放，每名死者家屬另獲一次過20萬元。"
-      }
-    },
-    {
-      "id": "2026-11-24-lifestyle-frieren-exhibition-mong-kok",
-      "published_at": "2026-11-24T04:18:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "exhibition",
-        "mong-kok",
-        "anime"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-lifestyle-frieren-exhibition-mong-kok.json",
-      "en": {
-        "headline": "Frieren anime exhibition opens at Mong Kok INCUBASE Arena until early January",
-        "dek": "The authorised show recreates scenes from the first season with five themed areas, life-size props and a Hong Kong-exclusive photo spot, running to 3 January."
-      },
-      "zh": {
-        "headline": "《葬送的芙莉蓮特展》香港站今日在旺角創興廣場開幕至明年1月",
-        "dek": "官方授權展覽以第一季為主軸，設五大主題展區、1:1武器及香港獨家打卡位，展期至1月3日。"
-      }
-    },
-    {
-      "id": "2026-11-24-oi-tung-estate-flat-fire",
-      "published_at": "2026-11-24T04:18:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "fire",
-        "shau-kei-wan",
-        "oi-tung-estate"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-oi-tung-estate-flat-fire.json",
-      "en": {
-        "headline": "Firefighters extinguish flat blaze at Oi Tung Estate after evacuating more than 100…",
-        "dek": "Police said a 17th-floor unit at Oi Chak House in Shau Kei Wan caught fire late on Monday night, with no injuries reported and the cause under investigation."
-      },
-      "zh": {
-        "headline": "筲箕灣愛東邨愛澤樓中層單位失火 逾百人疏散無人受傷",
-        "dek": "警方稱周一晚上約10時愛澤樓17樓一單位起火冒煙，消防約12分鐘將火救熄，起火原因仍在調查。"
       }
     }
   ]
