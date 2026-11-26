@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-11-26T12:17:20+08:00",
+  "generated_at": "2026-11-26T14:16:41+08:00",
   "live_window_hours": 72,
-  "count": 91,
+  "count": 95,
   "articles": [
+    {
+      "id": "2026-11-26-hang-seng-rebound",
+      "published_at": "2026-11-26T14:20:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "stocks",
+        "hang-seng"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-hang-seng-rebound.json",
+      "en": {
+        "headline": "Hang Seng Index rebounds over 1.8 percent by midday after seven-day slide",
+        "dek": "The benchmark closed the morning session at 22,373 points, up 407 points, as tech shares led a recovery from recent losses."
+      },
+      "zh": {
+        "headline": "恒指連跌七日後反彈 半日升逾1.8%報22373點",
+        "dek": "恒生指數早市收報22373點，升407點，科技股帶動下從近日跌勢回升。"
+      }
+    },
+    {
+      "id": "2026-11-26-lifestyle-cantonese-opera-ko-shan",
+      "published_at": "2026-11-26T14:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "cantonese-opera",
+        "ko-shan-theatre",
+        "performance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-lifestyle-cantonese-opera-ko-shan.json",
+      "en": {
+        "headline": "Ngok Tou Tou Chinese Musical Club stages Cantonese opera at Ko Shan Theatre tonight",
+        "dek": "The performance of a full-length opera begins at 7:30pm with tickets priced from HK$180 to HK$480."
+      },
+      "zh": {
+        "headline": "樂滔滔曲藝社今晚高山劇場演出粵劇",
+        "dek": "完整粵劇演出於晚上7時30分開始，票價由180至480港元。"
+      }
+    },
+    {
+      "id": "2026-11-26-sheung-shui-police-officer-death",
+      "published_at": "2026-11-26T14:20:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "sheung-shui"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-sheung-shui-police-officer-death.json",
+      "en": {
+        "headline": "Police investigate death of officer found with gunshot wound at Sheung Shui station",
+        "dek": "A male officer from the New Territories North traffic unit was confirmed dead at the scene after a report at about 10:50am on Thursday."
+      },
+      "zh": {
+        "headline": "上水警署男警疑自轟身亡 警方正調查",
+        "dek": "一名新界北交通部男警今早約10時50分被發現於警署內有槍傷，當場證實死亡，警方循自殺方向調查。"
+      }
+    },
+    {
+      "id": "2026-11-26-wang-fuk-buyout-update",
+      "published_at": "2026-11-26T14:20:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "tai-po",
+        "wang-fuk-court",
+        "housing"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-26/2026-11-26-wang-fuk-buyout-update.json",
+      "en": {
+        "headline": "Government to contact 13 Wang Fuk Court owners who rejected buy-out next month",
+        "dek": "More than 96 percent of the estate’s households have signed to sell, with compulsory acquisition remaining a last resort, Deputy Financial Secretary Michael Wong said."
+      },
+      "zh": {
+        "headline": "政府下月接觸拒收購的13戶宏福苑業主",
+        "dek": "財政司副司長黃偉綸表示，逾96%住戶已簽署出售協議，強制收回只會作為最後手段。"
+      }
+    },
     {
       "id": "2026-11-26-lifestyle-space-museum-tiangong",
       "published_at": "2026-11-26T12:25:00+08:00",
