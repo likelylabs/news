@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-27T00:04:18+08:00",
+  "generated_at": "2026-11-27T02:04:08+08:00",
   "live_window_hours": 72,
-  "count": 95,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-11-27-immigration-passport-tampering-arrests",
+      "published_at": "2026-11-27T01:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "immigration",
+        "passport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-immigration-passport-tampering-arrests.json",
+      "en": {
+        "headline": "Immigration Department arrests couple over suspected passport tampering",
+        "dek": "A 27-year-old woman and her 34-year-old boyfriend were arrested in Lam Tin after laboratory tests confirmed human alteration to a SAR passport that had missing pages."
+      },
+      "zh": {
+        "headline": "入境處拘捕情侶 涉非法改動特區護照",
+        "dek": "27歲女子及其34歲男友在藍田平田邨被捕，政府化驗所證實護照缺頁屬人為造成，兩人涉嫌改動旅行證件等三罪。"
+      }
+    },
+    {
+      "id": "2026-11-27-lifestyle-fiba-3x3-victoria-park",
+      "published_at": "2026-11-27T01:15:00+08:00",
+      "updated_at": null,
+      "category": "sport",
+      "tags": [
+        "lifestyle",
+        "sport",
+        "basketball",
+        "victoria-park",
+        "causeway-bay"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-lifestyle-fiba-3x3-victoria-park.json",
+      "en": {
+        "headline": "FIBA 3x3 World Tour returns to Victoria Park this weekend",
+        "dek": "Sixteen professional teams compete at Causeway Bay on 28 and 29 November, with a free carnival village opening on Friday; Team Hong Kong is among the sides."
+      },
+      "zh": {
+        "headline": "FIBA 3x3世界巡迴賽本周末重臨維多利亞公園",
+        "dek": "16支職業球隊28及29日於銅鑼灣競逐，周五起設免費嘉年華；香港隊亦有出賽。"
+      }
+    },
     {
       "id": "2026-11-27-lifestyle-dairy-queen-causeway-bay",
       "published_at": "2026-11-27T00:03:00+08:00",
@@ -1944,208 +1988,6 @@
       "zh": {
         "headline": "筲箕灣愛東邨愛澤樓中層單位失火 逾百人疏散無人受傷",
         "dek": "警方稱周一晚上約10時愛澤樓17樓一單位起火冒煙，消防約12分鐘將火救熄，起火原因仍在調查。"
-      }
-    },
-    {
-      "id": "2026-11-24-hktdc-hr-manager-sister-conviction",
-      "published_at": "2026-11-24T02:03:00+08:00",
-      "updated_at": "2026-11-24T02:08:00+08:00",
-      "category": "crime",
-      "tags": [
-        "crime",
-        "icac",
-        "hktdc",
-        "court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-hktdc-hr-manager-sister-conviction.json",
-      "en": {
-        "headline": "Former HKTDC HR manager and sister convicted over undeclared family link in hiring",
-        "dek": "The Independent Commission Against Corruption said the pair were found guilty of using documents to deceive the Trade Development Council and will be sentenced on 7 December."
-      },
-      "zh": {
-        "headline": "貿發局前人力資源經理隱瞞親妹應徵關係 姊妹同被裁定罪成",
-        "dek": "廉政公署指兩人被裁定使用文件意圖欺騙主事人罪名成立，案件押後至12月7日判刑。"
-      }
-    },
-    {
-      "id": "2026-11-24-chan-kin-por-ha-chairman",
-      "published_at": "2026-11-24T00:12:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "hospital-authority",
-        "chan-kin-por",
-        "lo-chung-mau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-chan-kin-por-ha-chairman.json",
-      "en": {
-        "headline": "Chan Kin-por appointed Hospital Authority chairman from December",
-        "dek": "The former lawmaker and Executive Council member will succeed Henry Fan for a two-year term starting 1 December, the government said."
-      },
-      "zh": {
-        "headline": "陳健波獲委任醫院管理局主席 12月1日起任期兩年",
-        "dek": "政府周一宣布，前立法會議員及行政會議成員陳健波將接替范鴻齡，帶領醫管局。"
-      }
-    },
-    {
-      "id": "2026-11-24-hko-northeast-monsoon-cooling",
-      "published_at": "2026-11-24T00:12:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "monsoon",
-        "cooling"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-hko-northeast-monsoon-cooling.json",
-      "en": {
-        "headline": "Observatory expects cooler weather as northeast monsoon arrives",
-        "dek": "A cold front will cross the Guangdong coast this morning, bringing rain at first and progressive cooling, with urban lows around 16 degrees on Wednesday and Thursday."
-      },
-      "zh": {
-        "headline": "天文台料東北季候風今早抵達 天氣逐步轉涼",
-        "dek": "冷鋒今早橫過廣東沿岸，初時有幾陣雨，天氣轉涼，周三周四市區最低約16度。"
-      }
-    },
-    {
-      "id": "2026-11-24-interpol-restricted-flying-zone",
-      "published_at": "2026-11-24T00:12:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "police",
-        "interpol",
-        "wan-chai",
-        "drone"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-interpol-restricted-flying-zone.json",
-      "en": {
-        "headline": "Police set citywide restricted flying zone for Interpol General Assembly",
-        "dek": "From 30 November to 3 December, drones, kites, balloons and light aircraft will be banned across Hong Kong, with marine and road restrictions near the Wan Chai venue."
-      },
-      "zh": {
-        "headline": "警方就國際刑警大會設全港臨時限制飛行區",
-        "dek": "11月30日至12月3日期間，全港禁飛無人機、風箍及輕型飛機等，灣仔會展附近設海陸管制。"
-      }
-    },
-    {
-      "id": "2026-11-24-worldskills-shanghai-record",
-      "published_at": "2026-11-24T00:12:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "education",
-        "worldskills",
-        "john-lee",
-        "vtc"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-worldskills-shanghai-record.json",
-      "en": {
-        "headline": "Hong Kong team sets record with 15 awards at WorldSkills Shanghai",
-        "dek": "Chief Executive John Lee praised the 41-strong delegation’s silver medal in rail vehicle technology and 14 medals for excellence after a reception at government headquarters."
-      },
-      "zh": {
-        "headline": "港隊世界技能大賽奪15獎創歷屆最佳 李家超讚揚拼搏精神",
-        "dek": "行政長官周一在政府總部會見代表團，稱41名選手在37個項目中取得一銀及14個優異獎章，刷新紀錄。"
-      }
-    },
-    {
-      "id": "2026-11-24-chp-four-legionnaires-cases",
-      "published_at": "2026-11-24T00:10:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "chp",
-        "legionnaires",
-        "department-of-health"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-chp-four-legionnaires-cases.json",
-      "en": {
-        "headline": "Centre for Health Protection reports four new community Legionnaires’ disease cases",
-        "dek": "The cases, involving people aged 66 to 89 with underlying illnesses, bring the year’s total to 182, the Department of Health said."
-      },
-      "zh": {
-        "headline": "衛生防護中心公布四宗社區感染退伍軍人病個案",
-        "dek": "病人年齡介乎66至89歲，全部有長期病患，今年累計182宗。"
-      }
-    },
-    {
-      "id": "2026-11-24-lifestyle-detour-2026-pmq",
-      "published_at": "2026-11-24T00:10:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "design",
-        "pmq",
-        "central"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-lifestyle-detour-2026-pmq.json",
-      "en": {
-        "headline": "deTour 2026 design festival continues at PMQ with free entry until 29 November",
-        "dek": "Organised by PMQ, the festival features 14 installations under the theme Better, Not Perfect and a new pop-up shop at the Central venue."
-      },
-      "zh": {
-        "headline": "deTour 2026設計節在中環PMQ元創方舉行至29日免費入場",
-        "dek": "由PMQ主辦，以「不完美，更美好」為主題，設有14件裝置及首次快閃店。"
-      }
-    },
-    {
-      "id": "2026-11-24-prat-avenue-driver-nine-charges",
-      "published_at": "2026-11-24T00:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "tsim-sha-tsui",
-        "traffic",
-        "court"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-prat-avenue-driver-nine-charges.json",
-      "en": {
-        "headline": "Police charge 38-year-old man with nine offences over fatal Prat Avenue crash",
-        "dek": "The driver is to appear at Kowloon City Magistrates' Courts on Tuesday morning on charges including dangerous driving causing death and driving while disqualified."
-      },
-      "zh": {
-        "headline": "警方就寶勒巷致命車禍暫控38歲男子九項罪名",
-        "dek": "司機將於周二早上在九龍城裁判法院提堂，控罪包括危險駕駛引致他人死亡及被取消駕駛資格期間駕駛。"
-      }
-    },
-    {
-      "id": "2026-11-24-tai-po-dog-second-arrest",
-      "published_at": "2026-11-24T00:10:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "police",
-        "tai-po",
-        "animal-cruelty"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-tai-po-dog-second-arrest.json",
-      "en": {
-        "headline": "Police arrest second man over dog found hanging from tree in Tai Po",
-        "dek": "Officers found animal traps and cages near a stone house on Ma Wo Road after a woman reported the mistreatment of a stray that her brother had fed for a year."
-      },
-      "zh": {
-        "headline": "大埔唐狗被吊樹死亡 警方再拘一人涉殘酷對待動物",
-        "dek": "警方在馬窩路石屋一帶發現捕獸器及捕獸籠，案中唐狗由其胞弟飼養約一年。"
       }
     }
   ]
