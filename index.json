@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-27T22:11:54+08:00",
+  "generated_at": "2026-11-28T00:05:21+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-11-28-lifestyle-hive-christmas-markets",
+      "published_at": "2026-11-28T00:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "market",
+        "christmas",
+        "sai-ying-pun",
+        "sai-kung"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-lifestyle-hive-christmas-markets.json",
+      "en": {
+        "headline": "Hive Christmas markets open today in Sai Ying Pun and Sai Kung",
+        "dek": "The Hive holds free community Christmas markets from 1pm to 6pm today at its Poho and Sai Kung venues, featuring local makers, food and live music."
+      },
+      "zh": {
+        "headline": "Hive今日西營盤及西貢舉辦聖誕市集",
+        "dek": "Hive今日下午1時至6時在西營盤Poho及西貢場地舉辦免費社區聖誕市集，設本地手作、美食及現場音樂。"
+      }
+    },
     {
       "id": "2026-11-27-fu-shin-estate-robbery-arrest",
       "published_at": "2026-11-27T22:15:00+08:00",
@@ -1909,97 +1932,6 @@
       "zh": {
         "headline": "Happy Wednesday音樂飲食節今晚跑馬地最後一晚",
         "dek": "馬會於今晚6時在跑馬地馬場舉行11月系列最後一晚，歌手Wendy Robin演出，並設探索護照收集印章換領獎賞。"
-      }
-    },
-    {
-      "id": "2026-11-24-mark-six-draw-results-nov24",
-      "published_at": "2026-11-25T00:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "mark-six",
-        "jockey-club",
-        "lottery",
-        "jackpot"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-mark-six-draw-results-nov24.json",
-      "en": {
-        "headline": "Mark Six draw leaves first prize unclaimed as jackpot rolls to Saturday",
-        "dek": "The Hong Kong Jockey Club said the numbers drawn on Tuesday night were 1, 20, 26, 28, 35 and 41 with special number 36, and the estimated first prize for Saturday's draw rises to about HK$102 million."
-      },
-      "zh": {
-        "headline": "六合彩頭獎無人中 獎金撥入周六金多寶約1.02億",
-        "dek": "馬會表示周二晚上攪出號碼為1、20、26、28、35及41，特別號碼36，周六攪珠估計頭獎升至約1.02億元。"
-      }
-    },
-    {
-      "id": "2026-11-25-special-weather-tip-high-water",
-      "published_at": "2026-11-25T00:05:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "high-tide",
-        "monsoon",
-        "cool"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-special-weather-tip-high-water.json",
-      "en": {
-        "headline": "Observatory expects higher coastal water levels this evening",
-        "dek": "The Hong Kong Observatory said astronomical high tide and the northeast monsoon may raise water levels tonight, with possible minor flooding in some low-lying areas, while mornings and nights stay cool."
-      },
-      "zh": {
-        "headline": "天文台料今晚沿岸水位偏高 低窪地區或輕微水浸",
-        "dek": "天文台表示受天文大潮及東北季候風影響，今晚沿岸水位較正常稍高，部分低窪地區可能出現輕微水浸，早晚清涼。"
-      }
-    },
-    {
-      "id": "2026-11-24-onedegree-data-breach-110k",
-      "published_at": "2026-11-24T22:15:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "data-breach",
-        "privacy",
-        "onedegree",
-        "insurance",
-        "cybersecurity"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-onedegree-data-breach-110k.json",
-      "en": {
-        "headline": "Privacy watchdog investigates OneDegree breach that may affect 110000 people",
-        "dek": "The Office of the Privacy Commissioner said it received the virtual insurer’s notification on 19 November and has launched an investigation into possible access to names, identity numbers and financial details."
-      },
-      "zh": {
-        "headline": "私隱專員公署調查OneDegree資料外洩 或影響約11萬人",
-        "dek": "公署表示本月19日接獲該虛擬保險公司的資料外洩通報，並已展開調查，可能涉及姓名、身份證號碼及財務資料等。"
-      }
-    },
-    {
-      "id": "2026-11-24-qeh-influenza-a-cluster",
-      "published_at": "2026-11-24T22:15:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "influenza",
-        "hospital",
-        "queen-elizabeth",
-        "flu"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-qeh-influenza-a-cluster.json",
-      "en": {
-        "headline": "Queen Elizabeth Hospital reports influenza A cluster among four patients",
-        "dek": "Four women aged 60 to 75 in a medical ward tested positive after developing fever or respiratory symptoms since 20 November, with one in critical condition due to underlying illness."
-      },
-      "zh": {
-        "headline": "伊利沙伯醫院內科女病房出現甲型流感個案組群",
-        "dek": "四名60至75歲女病人自11月20日起出現發燒或呼吸道徵狀，檢測對甲型流感呈陽性，其中一人因自身疾病情況危殆。"
       }
     }
   ]
