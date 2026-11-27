@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-11-27T20:25:24+08:00",
+  "generated_at": "2026-11-27T22:11:54+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-11-27-fu-shin-estate-robbery-arrest",
+      "published_at": "2026-11-27T22:15:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "tai-po",
+        "robbery"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-fu-shin-estate-robbery-arrest.json",
+      "en": {
+        "headline": "Police arrest 58-year-old man over Tai Po Fu Shin Estate robbery of elderly man",
+        "dek": "Police said a 58-year-old local man was arrested on Friday afternoon in connection with Wednesday's robbery in which an 84-year-old man was attacked and lost gold ornaments and cash worth about HK$650,000."
+      },
+      "zh": {
+        "headline": "警方大埔拘捕58歲男子 涉富善邨長者行劫案",
+        "dek": "警方表示周五下午在大埔拘捕一名58歲本地男子，他涉嫌與周三富善邨一名84歲長者被襲及搶去約65萬元金飾現金有關。"
+      }
+    },
+    {
+      "id": "2026-11-27-octopus-cyber-attack",
+      "published_at": "2026-11-27T22:15:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "cybersecurity",
+        "octopus",
+        "privacy"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-octopus-cyber-attack.json",
+      "en": {
+        "headline": "Octopus reports cyber attack affecting 7500 customers and 22000 merchants",
+        "dek": "Octopus said it detected a network attack this morning that exposed names and photos of about 7500 customers plus contact details of 22000 merchants, with no financial losses found so far."
+      },
+      "zh": {
+        "headline": "八達通系統遭網絡攻擊 涉約7500名客戶及2.2萬商戶資料",
+        "dek": "八達通表示今早偵測到系統受網絡攻擊，涉及約7500名客戶的姓名及相片，以及約2.2萬名商戶聯絡資料，目前未發現客戶有財務損失。"
+      }
+    },
+    {
+      "id": "2026-11-27-sham-shui-po-sports-ground-bombs",
+      "published_at": "2026-11-27T22:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "police",
+        "sham-shui-po",
+        "safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-sham-shui-po-sports-ground-bombs.json",
+      "en": {
+        "headline": "Two suspected wartime bombs found at Sham Shui Po sports ground site",
+        "dek": "Police said two small suspected wartime bombs about 5 centimetres long were found at a construction site in Sham Shui Po Sports Ground on Friday evening and removed after checks found no danger."
+      },
+      "zh": {
+        "headline": "深水埗運動場地盤發現兩枚懷疑戰時炸彈",
+        "dek": "警方表示周五傍晚深水埗運動場內地盤發現兩枚約5厘米長的懷疑戰時炸彈，爆炸品處理人員檢查後認為無危險並已帶走。"
+      }
+    },
     {
       "id": "2026-11-27-smartplay-data-breach-90000",
       "published_at": "2026-11-27T20:25:00+08:00",
@@ -1934,52 +2000,6 @@
       "zh": {
         "headline": "伊利沙伯醫院內科女病房出現甲型流感個案組群",
         "dek": "四名60至75歲女病人自11月20日起出現發燒或呼吸道徵狀，檢測對甲型流感呈陽性，其中一人因自身疾病情況危殆。"
-      }
-    },
-    {
-      "id": "2026-11-24-electricity-tariffs-2027-announced",
-      "published_at": "2026-11-24T20:30:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "electricity",
-        "clp",
-        "hk-electric",
-        "tariffs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-electricity-tariffs-2027-announced.json",
-      "en": {
-        "headline": "CLP freezes basic tariff as net rates rise 1.8 percent for 2027",
-        "dek": "The utility will hold the average basic tariff at 101.2 cents per unit from 1 January while the fuel adjustment lifts the average net tariff to 143.2 cents, with HK Electric raising its net rate by 7.9 percent."
-      },
-      "zh": {
-        "headline": "中電明年凍結基本電價 淨電費上調1.8% 港燈加7.9%",
-        "dek": "中電由明年1月1日起凍結平均基本電價於每度電101.2港仙，燃料調整費上調後平均淨電價為143.2港仙，港燈平均淨電價則上調7.9%至176.2港仙。"
-      }
-    },
-    {
-      "id": "2026-11-24-gleneagles-app-data-breach",
-      "published_at": "2026-11-24T20:30:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "privacy",
-        "data-breach",
-        "gleneagles",
-        "hospital"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-gleneagles-app-data-breach.json",
-      "en": {
-        "headline": "Gleneagles Hospital takes patient app offline after unauthorised data access",
-        "dek": "The hospital said it discovered unauthorised activity on 18 November affecting its My Gleneagles SmartHealth app, with some patient names, identity numbers and contact details accessed."
-      },
-      "zh": {
-        "headline": "港怡醫院病人手機程式遭未經授權存取 部分個人資料外泄",
-        "dek": "醫院表示11月18日發現「港怡『智』健康」手機程式保安設施出現未經授權活動，部分病人姓名、身份證明文件號碼及聯絡資料遭存取。"
       }
     }
   ]
