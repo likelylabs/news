@@ -172,8 +172,13 @@ jobs:
             rm -rf _site/archive
           fi
 
+      # Only reads the Pages site settings; nothing below uses its outputs.
+      # On 2026-11-27 a GitHub API "Server Error" here killed the run before
+      # any deploy was attempted and left the feed stale. A truly
+      # misconfigured site still fails at the deploy step, so don't block.
       - uses: actions/configure-pages@v6
         if: steps.gate.outputs.go == 'true'
+        continue-on-error: true
       - uses: actions/upload-pages-artifact@v5
         if: steps.gate.outputs.go == 'true'
         with:
