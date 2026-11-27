@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-11-27T04:20:30+08:00",
+  "generated_at": "2026-11-27T08:05:44+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-11-27-customs-airport-cannabis",
+      "published_at": "2026-11-27T08:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "customs",
+        "drugs",
+        "airport"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-customs-airport-cannabis.json",
+      "en": {
+        "headline": "Customs seizes 7.3kg of suspected cannabis buds at airport, man charged",
+        "dek": "A 23-year-old mainland man arriving from Bangkok was arrested after officers found the drugs in his carry-on baggage; he is due in West Kowloon Magistrates' Court today."
+      },
+      "zh": {
+        "headline": "海關機場檢獲7.3公斤懷疑大麻花 內地男被控販毒今日提堂",
+        "dek": "23歲內地男子從曼谷抵港，海關在其隨身行李發現毒品，估計市值160萬元，案件今日於西九龍裁判法院提堂。"
+      }
+    },
+    {
+      "id": "2026-11-27-hilltop-gardens-burglaries",
+      "published_at": "2026-11-27T08:05:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "burglary",
+        "ngau-chi-wan",
+        "wong-tai-sin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-hilltop-gardens-burglaries.json",
+      "en": {
+        "headline": "Two flats burgled at Ngau Chi Wan estate during major renovation",
+        "dek": "Police are treating the cases at Hilltop Gardens as a serial burglary after gold jewellery worth about HK$320,000 was taken from two units in the same block."
+      },
+      "zh": {
+        "headline": "牛池灣海港花園大維修期間兩單位遭連環爆竊失約32萬金器",
+        "dek": "警方將案件合併列作連環爆竊調查，同座兩個單位窗戶被撬，共失約32萬元金器珠寶，暫未有人被捕。"
+      }
+    },
+    {
+      "id": "2026-11-27-lifestyle-open-house-hong-kong",
+      "published_at": "2026-11-27T08:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "culture",
+        "architecture",
+        "open-house",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-lifestyle-open-house-hong-kong.json",
+      "en": {
+        "headline": "Open House Hong Kong returns for third edition from 28 November",
+        "dek": "The festival of architecture and urban spaces runs until 13 December with guided tours of more than 80 buildings and specially opened sites across the city."
+      },
+      "zh": {
+        "headline": "Open House Hong Kong第三屆今日起至12月13日舉行",
+        "dek": "建築與城市空間節日由11月28日至12月13日，提供超過80個建築及特別開放場地的導賞團、主題步行及講座。"
+      }
+    },
+    {
+      "id": "2026-11-27-ride-hailing-permits-delayed",
+      "published_at": "2026-11-27T08:05:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "ride-hailing",
+        "transport-department"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-ride-hailing-permits-delayed.json",
+      "en": {
+        "headline": "Transport Department delays ride-hailing vehicle permits to early 2027",
+        "dek": "Driving permit applications open on 30 November with no cap, but vehicle permits limited to 10,000 will not open until early next year, postponing licensed platform operations."
+      },
+      "zh": {
+        "headline": "運輸署將網約車車輛許可證申請延至明年初",
+        "dek": "網約車車輛駕駛許可證下周一接受申請，數量不設上限；但一萬個車輛許可證要到明年初才公開邀請，平台未能如期在年底前營運。"
+      }
+    },
     {
       "id": "2026-11-27-lifestyle-hkust-impact-fiesta",
       "published_at": "2026-11-27T04:20:00+08:00",
@@ -1920,52 +2008,6 @@
       "zh": {
         "headline": "太古出售國泰航空4.15%股份 籌得約35.7億元",
         "dek": "太古以每股14.23元配售股份，較周一收市價折讓約8.5%，配售後仍持有約35%股權，繼續為最大股東。"
-      }
-    },
-    {
-      "id": "2026-11-24-lifestyle-construction-innovation-expo-2026",
-      "published_at": "2026-11-24T08:05:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "construction",
-        "cic",
-        "wan-chai"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-lifestyle-construction-innovation-expo-2026.json",
-      "en": {
-        "headline": "Construction Innovation Expo continues at Convention Centre until Wednesday",
-        "dek": "More than 190 exhibitors show AI, robots and sustainable methods at the triennial event organised by the Construction Industry Council and partners."
-      },
-      "zh": {
-        "headline": "建造創新博覽會於會展中心舉行至周三",
-        "dek": "三年一度旗艦活動由建造業議會等主辦，逾190家參展商展示人工智能、機械人及可持續建造技術。"
-      }
-    },
-    {
-      "id": "2026-11-24-wang-fuk-new-beginning-grants",
-      "published_at": "2026-11-24T08:05:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "wang-fuk",
-        "tai-po",
-        "support-fund",
-        "grants"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-wang-fuk-new-beginning-grants.json",
-      "en": {
-        "headline": "Wang Fuk Court owners to receive HK$300,000 new beginning grants",
-        "dek": "The Support Fund will pay the sum in two instalments from end-December, and give families of each deceased person a one-off HK$200,000."
-      },
-      "zh": {
-        "headline": "宏福苑業主可獲30萬元新生活支援補助",
-        "dek": "援助基金將於12月底起分兩期發放，每名死者家屬另獲一次過20萬元。"
       }
     }
   ]
