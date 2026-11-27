@@ -2,12 +2,18 @@
   "id": "2026-11-27-smartplay-data-breach-90000",
   "published_at": "2026-11-27T20:25:00+08:00",
   "category": "technology",
-  "tags": ["technology", "cybersecurity", "lcsd", "privacy", "smartplay"],
+  "tags": [
+    "technology",
+    "cybersecurity",
+    "lcsd",
+    "privacy",
+    "smartplay"
+  ],
   "ai_generated": true,
   "story_key": "smartplay-data-breach-90000-nov27",
   "en": {
     "headline": "SmartPLAY booking system breach may affect 90000 users",
-    "dek": "The Leisure and Cultural Services Department said hackers accessed a function to reactivate old accounts, potentially exposing birth dates, addresses and phone numbers, and the privacy office has started an investigation.",
+    "dek": "The Leisure and Cultural Services Department said hackers accessed a function to reactivate old accounts, potentially exposing birth dates, addresses and phone numbers, and the privacy office has started an…",
     "body": [
       "The Leisure and Cultural Services Department said its SmartPLAY system for booking public sports and recreational facilities was subject to illegal access through hacking, as reported by the contractor on Thursday.",
       "Preliminary findings indicate the breach targeted the function that allowed former Leisure Link users to reactivate accounts. It involved personal data from about 90,000 accounts, including dates of birth, telephone numbers, addresses, gender and email addresses, with the names of about 1,500 users also exposed. The department stressed that no identity document details or payment information were involved, as the system does not store credit card data.",

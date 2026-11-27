@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-11-27T18:13:03+08:00",
+  "generated_at": "2026-11-27T20:25:24+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-11-27-smartplay-data-breach-90000",
+      "published_at": "2026-11-27T20:25:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "cybersecurity",
+        "lcsd",
+        "privacy",
+        "smartplay"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-smartplay-data-breach-90000.json",
+      "en": {
+        "headline": "SmartPLAY booking system breach may affect 90000 users",
+        "dek": "The Leisure and Cultural Services Department said hackers accessed a function to reactivate old accounts, potentially exposing birth dates, addresses and phone numbers, and the privacy office has started an…"
+      },
+      "zh": {
+        "headline": "康文署SmartPLAY康體通資料外洩或影響約九萬用戶",
+        "dek": "康文署表示，黑客非法進入重新啟動舊系統帳戶功能，可能外洩出生日期、地址及電話等資料，私隱公署已展開調查。"
+      }
+    },
     {
       "id": "2026-11-27-afcd-captures-unattended-dogs",
       "published_at": "2026-11-27T18:15:00+08:00",
