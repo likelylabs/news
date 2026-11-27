@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-28T00:05:21+08:00",
+  "generated_at": "2026-11-28T02:05:57+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-11-28-lifestyle-merry-balloon-causeway-bay",
+      "published_at": "2026-11-28T02:10:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "causeway-bay",
+        "events",
+        "christmas",
+        "family"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-lifestyle-merry-balloon-causeway-bay.json",
+      "en": {
+        "headline": "Giant character balloons fill Causeway Bay as Merry Balloon preview continues",
+        "dek": "Free displays of Cookie Monster, Snoopy and other characters run on Pak Sha Road through Sunday as a preview to the December event at Kai Tak."
+      },
+      "zh": {
+        "headline": "巨型角色氣球進駐銅鑼灣 白沙道預熱活動續至周日",
+        "dek": "Cookie Monster、Snoopy等巨型氣球在銅鑼灣白沙道免費展出至周日，為十二月啟德大型活動預熱。"
+      }
+    },
+    {
+      "id": "2026-11-28-wong-chuk-hang-citybus-crash",
+      "published_at": "2026-11-28T02:10:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "citybus",
+        "accident",
+        "wong-chuk-hang",
+        "police"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-wong-chuk-hang-citybus-crash.json",
+      "en": {
+        "headline": "Citybus driver suspended after Wong Chuk Hang crash injures five",
+        "dek": "A Citybus lost control while descending Nam Fung Road on Friday evening, colliding with three other vehicles and injuring the driver and four passengers."
+      },
+      "zh": {
+        "headline": "黃竹坑城巴落斜失控撞三車 五人受傷車長暫停職務",
+        "dek": "周五晚上約八時半，一輛城巴沿南風道落斜時懷疑失控，越過對面行車線並撞及鐵欄及三輛車輛，車長及四名乘客受傷。"
+      }
+    },
     {
       "id": "2026-11-28-lifestyle-hive-christmas-markets",
       "published_at": "2026-11-28T00:05:00+08:00",
@@ -1908,30 +1954,6 @@
       "zh": {
         "headline": "壽司三昧尖沙咀開設香港首店",
         "dek": "日本連鎖店於11月24日在堪富利士道開始營業，設82個座位，並推出至12月23日的藍鰭吞拿三貫推廣。"
-      }
-    },
-    {
-      "id": "2026-11-25-lifestyle-happy-wednesday-finale",
-      "published_at": "2026-11-25T00:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "happy-wednesday",
-        "happy-valley",
-        "music",
-        "food",
-        "racing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-lifestyle-happy-wednesday-finale.json",
-      "en": {
-        "headline": "Happy Wednesday Music and Dine Festival holds final night at Happy Valley",
-        "dek": "The Hong Kong Jockey Club stages the last of its November series at Happy Valley Racecourse from 6pm, with singer Wendy Robin performing and a Discovery Passport for collecting stamps."
-      },
-      "zh": {
-        "headline": "Happy Wednesday音樂飲食節今晚跑馬地最後一晚",
-        "dek": "馬會於今晚6時在跑馬地馬場舉行11月系列最後一晚，歌手Wendy Robin演出，並設探索護照收集印章換領獎賞。"
       }
     }
   ]

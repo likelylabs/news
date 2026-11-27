@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "fanling-ping-che-warehouse-fire-nov13",
-      "id": "2026-11-14-fanling-ping-che-warehouse-fire",
-      "first_seen": "2026-11-14T02:05:00+08:00",
-      "headline_en": "Firefighters extinguish Fanling warehouse blaze after nearly two hours"
-    },
-    {
-      "key": "lifestyle-hk-heritage-museum-fun-day-nov14",
-      "id": "2026-11-14-lifestyle-heritage-museum-fun-day",
-      "first_seen": "2026-11-14T02:05:00+08:00",
-      "headline_en": "Hong Kong Heritage Museum holds free Fun Day in Sha Tin today"
-    },
-    {
       "key": "amber-rainstorm-thunderstorm-nov14",
       "id": "2026-11-14-amber-rainstorm-thunderstorm-warning",
       "first_seen": "2026-11-14T04:18:00+08:00",
@@ -2255,7 +2243,19 @@
       "id": "2026-11-28-lifestyle-hive-christmas-markets",
       "first_seen": "2026-11-28T00:05:00+08:00",
       "headline_en": "Hive Christmas markets open today in Sai Ying Pun and Sai Kung"
+    },
+    {
+      "key": "lifestyle-merry-balloon-preview-nov28",
+      "id": "2026-11-28-lifestyle-merry-balloon-causeway-bay",
+      "first_seen": "2026-11-28T02:10:00+08:00",
+      "headline_en": "Giant character balloons fill Causeway Bay as Merry Balloon preview continues"
+    },
+    {
+      "key": "wong-chuk-hang-citybus-crash-nov27",
+      "id": "2026-11-28-wong-chuk-hang-citybus-crash",
+      "first_seen": "2026-11-28T02:10:00+08:00",
+      "headline_en": "Citybus driver suspended after Wong Chuk Hang crash injures five"
     }
   ],
-  "updated_at": "2026-11-28T00:05:21+08:00"
+  "updated_at": "2026-11-28T02:05:57+08:00"
 }
