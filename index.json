@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-27T08:05:44+08:00",
+  "generated_at": "2026-11-27T10:15:42+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 90,
   "articles": [
+    {
+      "id": "2026-11-27-clear-street-boom-securities-acquisition",
+      "published_at": "2026-11-27T10:14:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "fintech",
+        "sfc",
+        "investment"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-clear-street-boom-securities-acquisition.json",
+      "en": {
+        "headline": "US fintech Clear Street completes acquisition of Boom Securities for Hong Kong presence",
+        "dek": "InvestHK said the New York firm has established its first licensed base in the city after acquiring the 1997-founded online brokerage, which holds SFC licences for 18 markets."
+      },
+      "zh": {
+        "headline": "美國金融科技Clear Street完成收購寶盛證券 設香港首個持牌據點",
+        "dek": "投資推廣署宣布，紐約公司在取得證監會批准後，完成收購一九九七年成立的網上經紀行，為客戶提供十八個環球市場渠道。"
+      }
+    },
+    {
+      "id": "2026-11-27-digital-platform-workers-compensation-bill",
+      "published_at": "2026-11-27T10:14:00+08:00",
+      "updated_at": null,
+      "category": "politics",
+      "tags": [
+        "politics",
+        "labour",
+        "legislation",
+        "platform-workers"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-digital-platform-workers-compensation-bill.json",
+      "en": {
+        "headline": "Government gazettes bill for work injury compensation for delivery platform workers",
+        "dek": "The Digital Platform Workers Compensation Bill, published today, would require food and goods delivery operators to insure workers and pay compensation for injuries or deaths, with first reading set for 9 December."
+      },
+      "zh": {
+        "headline": "政府刊憲《數碼平台工作者補償條例草案》 為外送員提供工傷補償",
+        "dek": "草案今日刊憲，規定餐飲及貨品送遞平台營運商為工作者購買保險並支付工傷或死亡補償，將於十二月九日在立法會首讀。"
+      }
+    },
+    {
+      "id": "2026-11-27-lifestyle-asia-outdoor-pet-fest-kai-tak",
+      "published_at": "2026-11-27T10:14:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "pets",
+        "kai-tak",
+        "community",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-lifestyle-asia-outdoor-pet-fest-kai-tak.json",
+      "en": {
+        "headline": "Asia Outdoor Pet Fest opens today at Kai Tak Sports Park East Village",
+        "dek": "The three-day event, title-sponsored by ZA Bank, features pet markets, outdoor activities and a cat zone on more than 80,000 square feet of lawn from today to Sunday."
+      },
+      "zh": {
+        "headline": "亞洲戶外寵物節今日於啟德體育園東營開幕",
+        "dek": "由ZA Bank冠名贊助的三日活動，今日起至周日在逾八萬平方呎草坪舉行，設寵物市集、戶外活動及貓咪專區。"
+      }
+    },
     {
       "id": "2026-11-27-customs-airport-cannabis",
       "published_at": "2026-11-27T08:05:00+08:00",
@@ -1961,53 +2028,6 @@
       "zh": {
         "headline": "天文台發出強烈季候風信號 吹偏北強風陣風達烈風",
         "dek": "信號自上午9時45分生效，預料平均風速每小時超過40公里，陣風間中達烈風程度。"
-      }
-    },
-    {
-      "id": "2026-11-24-lifestyle-bar-camillo-rosewood-opening",
-      "published_at": "2026-11-24T10:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "bar",
-        "tsim-sha-tsui",
-        "rosewood",
-        "opening"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-lifestyle-bar-camillo-rosewood-opening.json",
-      "en": {
-        "headline": "Bar Camillo opens at Rosewood Hong Kong on Wednesday with tableside Negronis",
-        "dek": "The 50-seat Italian-inspired cocktail lounge by the Bar Leone team launches at the Tsim Sha Tsui hotel, with bookings open and service from 5pm Tuesday to Sunday."
-      },
-      "zh": {
-        "headline": "瑰麗酒店Bar Camillo周三開幕 設桌邊調製尼格羅尼",
-        "dek": "由Bar Leone團隊打造的50座位意大利風格雞尾酒吧位於尖沙咀，周二至周日下午5時起營業，已接受預訂。"
-      }
-    },
-    {
-      "id": "2026-11-24-swire-cathay-pacific-stake-sale",
-      "published_at": "2026-11-24T10:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "swire-pacific",
-        "cathay-pacific",
-        "aviation",
-        "stocks"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-swire-cathay-pacific-stake-sale.json",
-      "en": {
-        "headline": "Swire Pacific raises about HK$3.57 billion from 4.15 percent Cathay stake sale",
-        "dek": "The conglomerate placed shares at HK$14.23 each, an 8.5 percent discount to Monday's close, and will retain around 35 percent as the largest shareholder."
-      },
-      "zh": {
-        "headline": "太古出售國泰航空4.15%股份 籌得約35.7億元",
-        "dek": "太古以每股14.23元配售股份，較周一收市價折讓約8.5%，配售後仍持有約35%股權，繼續為最大股東。"
       }
     }
   ]
