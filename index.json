@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27T16:27:56+08:00",
+  "generated_at": "2026-11-27T16:28:46+08:00",
   "live_window_hours": 72,
-  "count": 88,
+  "count": 90,
   "articles": [
     {
       "id": "2026-11-27-cfa-autistic-man-flag-convictions-quashed",
@@ -23,6 +23,52 @@
       "zh": {
         "headline": "終審法院撤銷自閉症男子侮辱國旗及區旗定罪",
         "dek": "五名法官一致裁定黃俊樂上訴得直，指下級法院未妥善評估其犯罪意圖，並錯誤拒絕接納有關自閉症的醫療證據。"
+      }
+    },
+    {
+      "id": "2026-11-27-lifestyle-family-style-food-fest",
+      "published_at": "2026-11-27T16:26:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "west-kowloon",
+        "events",
+        "weekend"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-lifestyle-family-style-food-fest.json",
+      "en": {
+        "headline": "Family Style Food Fest brings chef-led outdoor event to West Kowloon this weekend",
+        "dek": "The two-day event at the Art Park Great Lawn on 28 and 29 November features Eddie Huang, Jason Oh and David Lai alongside food stalls, music and limited Family Table seats."
+      },
+      "zh": {
+        "headline": "Family Style Food Fest本周末西九藝術公園大草坪舉行",
+        "dek": "由 ComplexCon主辦的兩日活動於 11月 28及 29日舉行，邀請 Eddie Huang、Jason Oh及黎國基等主廚，設美食攤檔、音樂及限量 Family Table席位。"
+      }
+    },
+    {
+      "id": "2026-11-27-police-pcpd-data-breach-warnings",
+      "published_at": "2026-11-27T16:26:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "cybersecurity",
+        "police",
+        "pcpd",
+        "scams"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-police-pcpd-data-breach-warnings.json",
+      "en": {
+        "headline": "Police and privacy office warn of rising data breaches and precision scams",
+        "dek": "Superintendent Rachel Hui said a single retailer breach exposed over one million customers, while the PCPD has received 330 breach notifications this year, up nearly 50 percent."
+      },
+      "zh": {
+        "headline": "警方及私隱公署警告資料外洩及精準詐騙上升",
+        "dek": "網絡安全及科技罪案調查科警司許綺惠指一間連鎖零售商外洩逾百萬客戶資料，私隱公署今年接獲 330宗通報，按年近增五成。"
       }
     },
     {
