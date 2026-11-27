@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-27T16:27:17+08:00",
+  "generated_at": "2026-11-27T16:27:56+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-11-27-cfa-autistic-man-flag-convictions-quashed",
+      "published_at": "2026-11-27T16:26:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "court",
+        "cfa",
+        "autism"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-cfa-autistic-man-flag-convictions-quashed.json",
+      "en": {
+        "headline": "Court of Final Appeal quashes autistic man's flag insult convictions",
+        "dek": "Five judges unanimously overturned the 2022 convictions of Wong Chun-lok after finding lower courts failed to properly assess his intent and wrongly excluded medical evidence of autism."
+      },
+      "zh": {
+        "headline": "終審法院撤銷自閉症男子侮辱國旗及區旗定罪",
+        "dek": "五名法官一致裁定黃俊樂上訴得直，指下級法院未妥善評估其犯罪意圖，並錯誤拒絕接納有關自閉症的醫療證據。"
+      }
+    },
     {
       "id": "2026-11-27-central-kowloon-bypass-open",
       "published_at": "2026-11-27T14:15:00+08:00",
