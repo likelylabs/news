@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-27T11:00:09+08:00",
+  "generated_at": "2026-11-27T12:12:24+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 92,
   "articles": [
+    {
+      "id": "2026-11-27-ferry-collision-tsing-yi-oil-depot",
+      "published_at": "2026-11-27T12:12:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "accident",
+        "tsing-yi",
+        "ferry",
+        "police"
+      ],
+      "breaking": true,
+      "path": "articles/2026-11-27/2026-11-27-ferry-collision-tsing-yi-oil-depot.json",
+      "en": {
+        "headline": "Ferry collides with floating dock off Tsing Yi oil depot, 24 injured",
+        "dek": "Police said a passenger ferry from Sheung Wan to Shekou struck a floating dock around 9:25am, leaving 24 people injured including four in serious condition."
+      },
+      "zh": {
+        "headline": "上環往蛇口客輪青衣油庫對開撞浮船塢 24人受傷",
+        "dek": "警方表示，一艘由上環前往蛇口的客輪約上午9時25分在青衣油庫對開海域撞及浮船塢，造成24人受傷，其中4人情況嚴重。"
+      }
+    },
+    {
+      "id": "2026-11-27-weekend-weather-outlook-nov28-29",
+      "published_at": "2026-11-27T12:12:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "weekend",
+        "monsoon"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-weekend-weather-outlook-nov28-29.json",
+      "en": {
+        "headline": "Observatory forecasts fine and very dry Saturday, windy Sunday for Hong Kong",
+        "dek": "The Observatory said a strong northeast monsoon will bring fine and very dry weather over the weekend, with temperatures from 19 to 26 degrees on Saturday and stronger winds on Sunday."
+      },
+      "zh": {
+        "headline": "天文台預測周六天晴非常乾燥 周日風勢頗大",
+        "dek": "天文台表示，一股達強風程度的東北季候風將在周末為華南帶來晴朗及非常乾燥的天氣，周六氣溫19至26度，周日風勢較大。"
+      }
+    },
     {
       "id": "2026-11-27-clear-street-boom-securities-acquisition",
       "published_at": "2026-11-27T10:14:00+08:00",
