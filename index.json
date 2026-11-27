@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-11-27T16:28:46+08:00",
+  "generated_at": "2026-11-27T18:13:03+08:00",
   "live_window_hours": 72,
-  "count": 90,
+  "count": 87,
   "articles": [
+    {
+      "id": "2026-11-27-afcd-captures-unattended-dogs",
+      "published_at": "2026-11-27T18:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "afcd",
+        "dogs",
+        "public-safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-afcd-captures-unattended-dogs.json",
+      "en": {
+        "headline": "AFCD captures 17 unattended dogs in special operation",
+        "dek": "The Agriculture, Fisheries and Conservation Department said it has captured 17 unattended dogs in 25 operations across high-risk areas since launching a four-month drive on 8 October."
+      },
+      "zh": {
+        "headline": "漁護署特別行動捕捉17隻無人看管狗隻",
+        "dek": "漁護署表示，自10月8日展開為期四個月特別行動以來，截至26日已進行25次捕捉行動，共捕捉17隻無人看管狗隻。"
+      }
+    },
+    {
+      "id": "2026-11-27-hang-seng-closes-up-nov27",
+      "published_at": "2026-11-27T18:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "stocks",
+        "hang-seng",
+        "markets"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-hang-seng-closes-up-nov27.json",
+      "en": {
+        "headline": "Hang Seng Index closes 2.11 percent higher at 22694",
+        "dek": "The Hang Seng Index rose 467 points to close at 22694.77 on Friday, with the Tech Index surging 6.45 percent amid an afternoon rally."
+      },
+      "zh": {
+        "headline": "恒生指數收升2.11%報22694點 科指飆6.45%",
+        "dek": "恒生指數周五收報22694.77點，升467點或2.11%，恒生科技指數急升6.45%，午後升勢明顯。"
+      }
+    },
+    {
+      "id": "2026-11-27-hung-shui-kiu-industry-park-ceo",
+      "published_at": "2026-11-27T18:15:00+08:00",
+      "updated_at": null,
+      "category": "business",
+      "tags": [
+        "business",
+        "northern-metropolis",
+        "industry",
+        "appointment"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-hung-shui-kiu-industry-park-ceo.json",
+      "en": {
+        "headline": "Yiu Hing-leung appointed first CEO of Hung Shui Kiu Industry Park Company",
+        "dek": "The company said Yiu, a former Hong Kong Science and Technology Parks executive, will take up the three-year post on 1 December after open recruitment and Chief Executive approval."
+      },
+      "zh": {
+        "headline": "姚慶良獲聘洪水橋產業園公司首任行政總裁",
+        "dek": "洪水橋產業園公司宣布，姚慶良將於12月1日起出任首任行政總裁，任期三年，經公開招聘及行政長官批准。"
+      }
+    },
+    {
+      "id": "2026-11-27-smartone-10gb-compensation",
+      "published_at": "2026-11-27T18:15:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "telecom",
+        "smartone",
+        "compensation"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-smartone-10gb-compensation.json",
+      "en": {
+        "headline": "SmarTone offers 10GB free data to monthly subscribers after outage",
+        "dek": "SmarTone said it will automatically credit an extra 10GB of local data to all monthly plan customers, including Birdie users, in the next billing cycle following Thursday’s network disruption."
+      },
+      "zh": {
+        "headline": "數碼通向月費客戶提供10GB本地數據補償",
+        "dek": "數碼通表示，就周四網絡不穩事件，將向所有數碼通及自由鳥月費計劃客戶在下一個賬單月自動存入額外10GB本地數據。"
+      }
+    },
     {
       "id": "2026-11-27-cfa-autistic-man-flag-convictions-quashed",
       "published_at": "2026-11-27T16:26:00+08:00",
@@ -1869,163 +1957,6 @@
       "zh": {
         "headline": "港怡醫院病人手機程式遭未經授權存取 部分個人資料外泄",
         "dek": "醫院表示11月18日發現「港怡『智』健康」手機程式保安設施出現未經授權活動，部分病人姓名、身份證明文件號碼及聯絡資料遭存取。"
-      }
-    },
-    {
-      "id": "2026-11-24-cj-cheung-singapore-conference",
-      "published_at": "2026-11-24T18:10:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "judiciary",
-        "chief-justice",
-        "singapore",
-        "rule-of-law"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-cj-cheung-singapore-conference.json",
-      "en": {
-        "headline": "Chief Justice Cheung to attend global rule of law conference in Singapore",
-        "dek": "He will depart tomorrow and return on 29 November, with Justice Roberto Ribeiro serving as Acting Chief Justice during his absence."
-      },
-      "zh": {
-        "headline": "張舉能明日赴新加坡出席全球法治會議",
-        "dek": "終院首席法官將於29日返港，期間由常任法官李義署任首席法官。"
-      }
-    },
-    {
-      "id": "2026-11-24-mark-six-73m-jackpot",
-      "published_at": "2026-11-24T18:10:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "mark-six",
-        "jockey-club",
-        "lottery",
-        "jackpot"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-mark-six-73m-jackpot.json",
-      "en": {
-        "headline": "Mark Six estimated jackpot rises to HK$73 million for tonight's draw",
-        "dek": "The Hong Kong Jockey Club raised the snowball after turnover hit the first threshold, with sales closing at 9.15pm and the draw at 9.30pm."
-      },
-      "zh": {
-        "headline": "六合彩今晚金多寶估計頭獎升至7300萬元",
-        "dek": "馬會因投注額達到首個門檻而提升金多寶金額，今晚9時15分截止售票，9時30分攪珠。"
-      }
-    },
-    {
-      "id": "2026-11-24-oxfam-trailwalker-20km-future",
-      "published_at": "2026-11-24T18:10:00+08:00",
-      "updated_at": null,
-      "category": "sport",
-      "tags": [
-        "oxfam",
-        "trailwalker",
-        "hiking",
-        "fundraising",
-        "sai-kung"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-oxfam-trailwalker-20km-future.json",
-      "en": {
-        "headline": "Oxfam considers keeping 20km Trailwalker route after strong debut",
-        "dek": "Organisers reported an 81.6 per cent completion rate on the 100km course and said the limited-edition 20km route drew near-full finishes."
-      },
-      "zh": {
-        "headline": "樂施毅行者考慮保留20公里路線 100公里完成率81.6%",
-        "dek": "主辦方指100公里路線完成率符合長期平均，限定版20公里路線完成率達99.7%。"
-      }
-    },
-    {
-      "id": "2026-11-24-electricity-tariffs-2027-proposals",
-      "published_at": "2026-11-24T16:30:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "electricity",
-        "clp",
-        "hk-electric",
-        "tariffs"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-electricity-tariffs-2027-proposals.json",
-      "en": {
-        "headline": "CLP and HK Electric propose 1.8 and 7.9 percent tariff rises for 2027",
-        "dek": "Sources said the two utilities will announce next year’s rates on Tuesday after presenting reviews to a Legislative Council panel, amid higher fuel costs."
-      },
-      "zh": {
-        "headline": "中電及港燈擬明年電費上調1.8%及7.9%",
-        "dek": "消息指兩電將於周二公布明年電費，並已向立法會事務委員會匯報年度檢討，燃料成本上升是主因。"
-      }
-    },
-    {
-      "id": "2026-11-24-hang-seng-close-down-nov24",
-      "published_at": "2026-11-24T16:30:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "stocks",
-        "hang-seng",
-        "markets"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-hang-seng-close-down-nov24.json",
-      "en": {
-        "headline": "Hang Seng Index closes down about 0.7 percent as tech shares weaken",
-        "dek": "The benchmark fell to around 22,220 points after early gains faded, with the tech index sliding more than 1 percent amid lingering AI sector concerns."
-      },
-      "zh": {
-        "headline": "恒生指數收市跌約0.7% 科網股偏弱",
-        "dek": "指數收報約22220點，早段升幅回吐，恒生科技指數跌逾1%，人工智能相關憂慮持續。"
-      }
-    },
-    {
-      "id": "2026-11-24-prat-avenue-driver-bail-denied",
-      "published_at": "2026-11-24T16:30:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "court",
-        "tsim-sha-tsui",
-        "prat-avenue",
-        "dangerous-driving"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-prat-avenue-driver-bail-denied.json",
-      "en": {
-        "headline": "Court denies bail to man charged over fatal Tsim Sha Tsui pavement crash",
-        "dek": "Ngai Ho-lam, 38, faces nine charges including dangerous driving causing death after a BMW mounted the pavement on Prat Avenue, killing one and injuring three."
-      },
-      "zh": {
-        "headline": "尖沙咀寶勒巷致命車禍被告申請保釋被拒",
-        "dek": "38歲倪浩林面對包括危駕致死等9項控罪，周日寶勒巷私家車衝上行人路造成1死3傷。"
-      }
-    },
-    {
-      "id": "2026-11-24-strong-monsoon-signal-cancelled",
-      "published_at": "2026-11-24T16:30:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "monsoon",
-        "strong-monsoon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-strong-monsoon-signal-cancelled.json",
-      "en": {
-        "headline": "Observatory cancels Strong Monsoon Signal after afternoon winds ease",
-        "dek": "The signal, issued at 09:45 HKT, was cancelled at 14:15 as the northeast monsoon weakened and mean winds dropped below the threshold."
-      },
-      "zh": {
-        "headline": "天文台取消強烈季候風信號 下午風勢減弱",
-        "dek": "信號於上午9時45分發出，至下午2時15分取消，東北季候風減弱後平均風速已低於發出門檻。"
       }
     }
   ]
