@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-27-hkcert-ai-hackers",
+  "published_at": "2026-11-27T14:15:00+08:00",
+  "category": "technology",
+  "tags": ["technology", "cybersecurity", "hkcert", "ai"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "hkcert-ai-hackers-vulnerabilities-nov27",
+  "en": {
+    "headline": "HKCERT says AI tools help hackers find system loopholes faster",
+    "dek": "The Hong Kong Computer Emergency Response Team said AI is making it easier for attackers to scan for weaknesses around the clock, with 4,404 incidents reported in the third quarter of 2026.",
+    "body": [
+      "Artificial intelligence tools have made it easier for hackers to find and exploit system vulnerabilities, contributing to a rise in cyber security incidents and data leaks in Hong Kong, the Hong Kong Computer Emergency Response Team Coordination Centre said on Friday.",
+      "Otto Lee, head of HKCERT at the Productivity Council, told a radio programme that the centre recorded 15,877 incident reports in 2025, up more than 20 percent and a record high. In the third quarter of 2026 alone, 4,404 cases were logged, a rise of about 15 percent year on year.",
+      "Lee said businesses now operate more websites, mobile apps, cloud services and payment systems, while links between systems through application programming interfaces and third-party platforms have grown more complex. He compared the situation to a house with many doors, noting that AI tools allow continuous scanning so that any unlocked entry can be found within minutes.",
+      "He added that AI agents can now be pointed at a domain or file to hunt for weaknesses automatically, and that building a convincing fake website has become simple. Lee urged companies to prioritise incident response planning, noting that some had no usable backups, and advised members of the public affected by leaks to change passwords, monitor accounts and watch for phishing."
+    ]
+  },
+  "zh": {
+    "headline": "HKCERT指黑客用AI工具更快找出系統漏洞",
+    "dek": "香港電腦保安事故協調中心表示，人工智能令攻擊者可全天候掃描弱點，2026年第三季共錄得4404宗事故報告。",
+    "body": [
+      "香港電腦保安事故協調中心周五表示，人工智能工具令黑客更容易找出及利用系統漏洞，導致本港網絡保安事故及資料外洩增加。",
+      "生產力促進局轄下HKCERT主管李奧圖在電台節目指出，中心2025年共接獲15877宗事故報告，按年上升逾兩成，屬歷來最高。2026年第三季單季已錄得4404宗，按年增加約15%。",
+      "李奧圖表示，企業現時營運更多網站、流動應用程式、雲端服務及支付系統，而透過應用程式介面及第三方平台連接的系統亦愈趨複雜。他形容情況如一間有多道門的房屋，AI工具可不停掃描，任何未鎖好的入口可在數分鐘內被發現。",
+      "他補充，現時可將AI代理指向域名或檔案，自動搜尋弱點，而製作仿冒網站亦變得簡單。李奧圖呼籲企業優先做好事故應變計劃，指出部分機構甚至沒有可用備份，並建議受資料外洩影響的市民更改密碼、監察帳戶，並提防釣魚詐騙。"
+    ]
+  }
+}
