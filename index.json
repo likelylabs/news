@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-27T12:12:24+08:00",
+  "generated_at": "2026-11-27T14:15:49+08:00",
   "live_window_hours": 72,
-  "count": 92,
+  "count": 91,
   "articles": [
+    {
+      "id": "2026-11-27-central-kowloon-bypass-open",
+      "published_at": "2026-11-27T14:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "infrastructure",
+        "kowloon",
+        "route-6"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-central-kowloon-bypass-open.json",
+      "en": {
+        "headline": "Central Kowloon Bypass fully opens 6 December at 7am completing Route 6",
+        "dek": "The Transport Department said the Kowloon Bay section will open at 7am on 6 December, with a flat HK$8 toll for all vehicles and peak journeys from Tseung Kwan O to Yau Ma Tei cut to about 12 minutes."
+      },
+      "zh": {
+        "headline": "中九龍繞道十二月六日上午七時全線通車 完成六號幹線",
+        "dek": "運輸署表示，九龍灣段將於十二月六日上午七時開通，所有車輛劃一收費八元，將軍澳往油麻地繁忙時段車程預計縮至約十二分鐘。"
+      }
+    },
+    {
+      "id": "2026-11-27-hkcert-ai-hackers",
+      "published_at": "2026-11-27T14:15:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "cybersecurity",
+        "hkcert",
+        "ai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-27/2026-11-27-hkcert-ai-hackers.json",
+      "en": {
+        "headline": "HKCERT says AI tools help hackers find system loopholes faster",
+        "dek": "The Hong Kong Computer Emergency Response Team said AI is making it easier for attackers to scan for weaknesses around the clock, with 4,404 incidents reported in the third quarter of 2026."
+      },
+      "zh": {
+        "headline": "HKCERT指黑客用AI工具更快找出系統漏洞",
+        "dek": "香港電腦保安事故協調中心表示，人工智能令攻擊者可全天候掃描弱點，2026年第三季共錄得4404宗事故報告。"
+      }
+    },
     {
       "id": "2026-11-27-ferry-collision-tsing-yi-oil-depot",
       "published_at": "2026-11-27T12:12:00+08:00",
@@ -2005,74 +2049,6 @@
       "zh": {
         "headline": "10月初步訪港旅客約513萬人次 按年升12%",
         "dek": "旅發局稱內地旅客升15%，首十個月累計達4580萬人次，受黃金周及大型活動帶動。"
-      }
-    },
-    {
-      "id": "2026-11-24-asian-mathematics-alliance-yau",
-      "published_at": "2026-11-24T12:15:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "culture",
-        "education",
-        "mathematics",
-        "shing-tung-yau",
-        "hong-kong"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-asian-mathematics-alliance-yau.json",
-      "en": {
-        "headline": "Shing-Tung Yau leads launch of Asian Mathematics Alliance in Hong Kong",
-        "dek": "The Fields Medal winner said the new body would focus on pure mathematics, applied maths, statistics and artificial intelligence, drawing on Hong Kong’s bilingual strengths."
-      },
-      "zh": {
-        "headline": "丘成桐牽頭在港成立亞洲數學聯盟 聚焦純數應用數學統計及AI",
-        "dek": "菲爾茲獎得主表示新組織將匯聚亞洲數學人才，香港憑英語環境及背靠內地優勢成為合適地點。"
-      }
-    },
-    {
-      "id": "2026-11-24-eric-chan-bid-rigging-warning",
-      "published_at": "2026-11-24T12:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "community",
-        "bid-rigging",
-        "wang-fuk",
-        "eric-chan",
-        "building-maintenance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-eric-chan-bid-rigging-warning.json",
-      "en": {
-        "headline": "Chief Secretary warns building-upkeep sector bid-rigging days are over",
-        "dek": "Eric Chan said two syndicates had been dismantled, more than 160 people arrested and about HK$230 million in gains seized, as reforms continue after the Wang Fuk Court fire."
-      },
-      "zh": {
-        "headline": "陳國基警告樓宇維修業圍標日子已過 兩集團被瓦解",
-        "dek": "政務司司長指已拆散兩個集團，拘捕逾160人，檢獲約2.3億元得益，宏福苑火災後改革持續推進。"
-      }
-    },
-    {
-      "id": "2026-11-24-strong-monsoon-signal-in-force",
-      "published_at": "2026-11-24T12:15:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "monsoon",
-        "strong-monsoon"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-24/2026-11-24-strong-monsoon-signal-in-force.json",
-      "en": {
-        "headline": "Observatory issues Strong Monsoon Signal with northerly winds over 40 km/h",
-        "dek": "The signal has been in force since 09:45 HKT, with gusts occasionally reaching gale force, as a northeast monsoon affects the coast."
-      },
-      "zh": {
-        "headline": "天文台發出強烈季候風信號 吹偏北強風陣風達烈風",
-        "dek": "信號自上午9時45分生效，預料平均風速每小時超過40公里，陣風間中達烈風程度。"
       }
     }
   ]
