@@ -1,0 +1,26 @@
+{
+  "id": "2026-11-27-smartplay-data-breach-90000",
+  "published_at": "2026-11-27T20:25:00+08:00",
+  "category": "technology",
+  "tags": ["technology", "cybersecurity", "lcsd", "privacy", "smartplay"],
+  "ai_generated": true,
+  "story_key": "smartplay-data-breach-90000-nov27",
+  "en": {
+    "headline": "SmartPLAY booking system breach may affect 90000 users",
+    "dek": "The Leisure and Cultural Services Department said hackers accessed a function to reactivate old accounts, potentially exposing birth dates, addresses and phone numbers, and the privacy office has started an investigation.",
+    "body": [
+      "The Leisure and Cultural Services Department said its SmartPLAY system for booking public sports and recreational facilities was subject to illegal access through hacking, as reported by the contractor on Thursday.",
+      "Preliminary findings indicate the breach targeted the function that allowed former Leisure Link users to reactivate accounts. It involved personal data from about 90,000 accounts, including dates of birth, telephone numbers, addresses, gender and email addresses, with the names of about 1,500 users also exposed. The department stressed that no identity document details or payment information were involved, as the system does not store credit card data.",
+      "The Leisure and Cultural Services Department has cancelled the reactivation function and will remove the related Leisure Link data. It has also suspended the forgot user ID or password function after it was used to send unsolicited verification emails. The department has reported the matter to police and notified the Security Bureau, the Digital Policy Office and the Office of the Privacy Commissioner for Personal Data, while contacting affected users. The privacy office said it has launched an investigation under its established procedures and reminded the public to stay vigilant against suspicious messages that claim to know personal details."
+    ]
+  },
+  "zh": {
+    "headline": "康文署SmartPLAY康體通資料外洩或影響約九萬用戶",
+    "dek": "康文署表示，黑客非法進入重新啟動舊系統帳戶功能，可能外洩出生日期、地址及電話等資料，私隱公署已展開調查。",
+    "body": [
+      "康樂及文化事務署表示，其用於預訂公眾體育及康樂設施的SmartPLAY康體通系統遭黑客非法進入，承辦商於星期四作出通報。",
+      "初步調查顯示，事件針對讓前Leisure Link用戶重新啟動帳戶的功能，涉及約九萬個帳戶的個人資料，包括出生日期、電話號碼、地址、性別及電郵地址，另有約一千五百名用戶的姓名亦受影響。署方強調事件不涉及身份證明文件資料或付款資訊，系統並無儲存信用卡等資料。",
+      "康文署已取消重新啟動帳戶功能，並會移除相關Leisure Link資料。署方亦已暫停忘記用戶編號或密碼功能，因該功能被黑客利用發送驗證電郵。署方已向警方報案，並通報保安局、數字政策辦公室及個人資料私隱專員公署，同時正聯絡受影響人士。私隱公署表示已按既定機制展開調查，並提醒市民對聲稱知悉個人資料的可疑訊息保持警惕。"
+    ]
+  }
+}
