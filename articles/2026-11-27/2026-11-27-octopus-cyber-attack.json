@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-27-octopus-cyber-attack",
+  "published_at": "2026-11-27T22:15:00+08:00",
+  "category": "technology",
+  "tags": ["technology", "cybersecurity", "octopus", "privacy"],
+  "ai_generated": true,
+  "story_key": "octopus-cyber-attack-nov27",
+  "en": {
+    "headline": "Octopus reports cyber attack affecting 7500 customers and 22000 merchants",
+    "dek": "Octopus said it detected a network attack this morning that exposed names and photos of about 7500 customers plus contact details of 22000 merchants, with no financial losses found so far.",
+    "body": [
+      "Octopus Cards Limited said it detected a cyber attack on its systems on Friday morning and took immediate steps to contain the incident.",
+      "The company said the attack involved personal data of about 7500 individual customers, including names and photographs, and in some cases details related to automatic add-value services such as bank codes and top-up amounts. It stressed that no credit card or bank account information was affected.",
+      "About 22000 merchants were also impacted, with general contact information exposed, including the names, positions, email addresses and phone numbers of company contacts.",
+      "Octopus said its main services continue to operate normally and customers can still use physical Octopus cards, mobile Octopus and the Octopus Wallet as usual. As of Friday evening, the company had not identified any financial losses suffered by customers, and balances in cards and wallets remain protected.",
+      "A small number of functions may be temporarily affected because of the preventive measures taken. The company has notified the relevant authorities, is conducting a full investigation and will update its assessment as the probe progresses. Affected customers will be notified directly.",
+      "Octopus has set up dedicated hotlines for enquiries: 2266 2222 for individual customers and 2266 2388 for commercial customers. It urged all users to remain vigilant for unusual account activity and to beware of suspicious calls, messages, emails or links claiming to be from Octopus."
+    ]
+  },
+  "zh": {
+    "headline": "八達通系統遭網絡攻擊 涉約7500名客戶及2.2萬商戶資料",
+    "dek": "八達通表示今早偵測到系統受網絡攻擊，涉及約7500名客戶的姓名及相片，以及約2.2萬名商戶聯絡資料，目前未發現客戶有財務損失。",
+    "body": [
+      "八達通卡有限公司表示，周五早上偵測到系統受到網絡攻擊，已即時採取行動控制事件。",
+      "公司指事件涉及約7500名個人客戶的個人資料，包括姓名及相片，部分亦可能涉及自動增值服務資料，如銀行編號及自動增值金額，但不涉及信用卡或銀行戶口資料。",
+      "另外，約2.2萬名商戶的一般資料同樣受影響，範圍包括公司聯絡人姓名、職位、電郵地址及電話號碼。",
+      "八達通表示主要服務目前運作如常，客戶可繼續使用實體八達通卡、手機八達通及八達通銀包。截至周五晚上，未發現有客戶因此蒙受財務損失，卡內及銀包餘額繼續受到保障。",
+      "因應已採取的預防措施，少數功能或會暫時受影響。公司已通知相關當局，正全面調查事件，並會因應進展適時更新評估，受影響客戶將獲直接通知。",
+      "八達通已設立查詢熱線，個人客戶可致電2266 2222，商業客戶可致電2266 2388。公司提醒所有客戶提高警覺，留意戶口有否異常活動，並提防可疑來電、短訊、電郵或連結。"
+    ]
+  }
+}
