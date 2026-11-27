@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "amber-rainstorm-thunderstorm-nov14",
-      "id": "2026-11-14-amber-rainstorm-thunderstorm-warning",
-      "first_seen": "2026-11-14T04:18:00+08:00",
-      "headline_en": "Observatory issues Amber Rainstorm Warning amid overnight thunderstorms"
-    },
-    {
-      "key": "lifestyle-ich-wonder-play-fun-day",
-      "id": "2026-11-14-lifestyle-ich-wonder-play-fun-day",
-      "first_seen": "2026-11-14T04:18:00+08:00",
-      "headline_en": "Sam Tung Uk Museum hosts free ICH Wonder Play Fun Day on Sunday"
-    },
-    {
       "key": "cardinal-chow-taipo-fire-anniversary-masses",
       "id": "2026-11-14-cardinal-chow-taipo-fire-masses",
       "first_seen": "2026-11-14T08:05:00+08:00",
@@ -2255,7 +2243,13 @@
       "id": "2026-11-28-wong-chuk-hang-citybus-crash",
       "first_seen": "2026-11-28T02:10:00+08:00",
       "headline_en": "Citybus driver suspended after Wong Chuk Hang crash injures five"
+    },
+    {
+      "key": "lifestyle-hkust-35th-impact-fiesta-nov28",
+      "id": "2026-11-28-lifestyle-hkust-35th-impact-fiesta",
+      "first_seen": "2026-11-28T04:25:00+08:00",
+      "headline_en": "HKUST 35th anniversary science showcase continues free at Central Harbourfront"
     }
   ],
-  "updated_at": "2026-11-28T02:05:57+08:00"
+  "updated_at": "2026-11-28T04:19:42+08:00"
 }

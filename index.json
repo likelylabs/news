@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-28T02:05:57+08:00",
+  "generated_at": "2026-11-28T04:19:42+08:00",
   "live_window_hours": 72,
   "count": 87,
   "articles": [
+    {
+      "id": "2026-11-28-lifestyle-hkust-35th-impact-fiesta",
+      "published_at": "2026-11-28T04:25:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "hkust",
+        "central",
+        "events",
+        "technology",
+        "education"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-lifestyle-hkust-35th-impact-fiesta.json",
+      "en": {
+        "headline": "HKUST 35th anniversary science showcase continues free at Central Harbourfront",
+        "dek": "AIA Vitality Park event runs until 7pm today with research models, workshops and a 1991-drone light show over the harbour at 6:20pm."
+      },
+      "zh": {
+        "headline": "科大35周年成果共享節今日中環海濱免費開放",
+        "dek": "AIA Vitality公園活動至晚上7時，展出科研模型及工作坊，晚上6時20分維港有1991架無人機匯演。"
+      }
+    },
     {
       "id": "2026-11-28-lifestyle-merry-balloon-causeway-bay",
       "published_at": "2026-11-28T02:10:00+08:00",
@@ -1930,30 +1954,6 @@
       "zh": {
         "headline": "瑰麗酒店新酒吧Bar Camillo開業 由Bar Leone創辦人主理",
         "dek": "意大利風格雞尾酒吧於11月25日在尖沙咀酒店開始營業，設約50個室內及露台座位，並有桌邊調製尼格羅尼的手推車。"
-      }
-    },
-    {
-      "id": "2026-11-25-lifestyle-sushi-zanmai-tst",
-      "published_at": "2026-11-25T02:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "sushi",
-        "tsim-sha-tsui",
-        "opening",
-        "japanese"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-lifestyle-sushi-zanmai-tst.json",
-      "en": {
-        "headline": "Sushi Zanmai opens first Hong Kong restaurant in Tsim Sha Tsui",
-        "dek": "The Japanese chain's outlet on Humphreys Avenue began service on 24 November with 82 seats, offering bluefin tuna nigiri and a limited promotion of three cuts until 23 December."
-      },
-      "zh": {
-        "headline": "壽司三昧尖沙咀開設香港首店",
-        "dek": "日本連鎖店於11月24日在堪富利士道開始營業，設82個座位，並推出至12月23日的藍鰭吞拿三貫推廣。"
       }
     }
   ]
