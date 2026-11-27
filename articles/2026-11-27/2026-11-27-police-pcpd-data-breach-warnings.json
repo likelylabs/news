@@ -1,0 +1,31 @@
+{
+  "id": "2026-11-27-police-pcpd-data-breach-warnings",
+  "published_at": "2026-11-27T16:26:00+08:00",
+  "category": "technology",
+  "tags": ["technology", "cybersecurity", "police", "pcpd", "scams"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "police-pcpd-data-breach-scam-warnings-nov27",
+  "en": {
+    "headline": "Police and privacy office warn of rising data breaches and precision scams",
+    "dek": "Superintendent Rachel Hui said a single retailer breach exposed over one million customers, while the PCPD has received 330 breach notifications this year, up nearly 50 percent.",
+    "body": [
+      "Hong Kong police and the Office of the Privacy Commissioner for Personal Data on Friday warned of a sharp rise in data breaches and related scams, urging organisations to strengthen defences and the public to stay vigilant.",
+      "Superintendent Rachel Hui of the Cyber Security and Technology Crime Bureau said police handled 30 cyber incidents between 1 October and 24 November, of which 11 involved API vulnerabilities. In one case a chain retailer suffered a breach that exposed the personal details of more than one million customers within several days, a speed she said could not have been achieved by human operators alone.",
+      "The Privacy Commissioner’s office said it had received 330 data-breach notifications by 25 November, nearly 50 percent more than the 223 recorded in the same period last year. Of those, 156 involved hacking, more than double the 75 cases a year earlier.",
+      "Police and the Hong Kong Computer Emergency Response Team Coordination Centre noted that AI tools allow attackers to scan for weaknesses around the clock. Leaked order details are increasingly used in precision scams in which fraudsters pose as customer service staff, cite real purchases and send fake links or apps to steal banking credentials.",
+      "Officials advised organisations to adopt a zero-trust approach, inventory and patch their systems and APIs, and report breaches promptly. Residents were told that genuine refund processes never require passwords or one-time codes and to verify any request through official channels."
+    ]
+  },
+  "zh": {
+    "headline": "警方及私隱公署警告資料外洩及精準詐騙上升",
+    "dek": "網絡安全及科技罪案調查科警司許綺惠指一間連鎖零售商外洩逾百萬客戶資料，私隱公署今年接獲 330宗通報，按年近增五成。",
+    "body": [
+      "警方及個人資料私隱專員公署星期五警告，資料外洩事故及相關詐騙顯著上升，呼籲機構加強防護，市民提高警惕。",
+      "網絡安全及科技罪案調查科警司許綺惠表示，警方在 10月 1日至 11月 24日期間處理 30宗網絡事故，其中 11宗涉及 API漏洞。一間連鎖零售商的外洩事件在數日內暴露逾一百萬名客戶的個人資料，她指速度非人手可達。",
+      "私隱公署表示，截至 11月 25日接獲 330宗資料外洩通報，較去年同期的 223宗增加近五成；當中 156宗涉及黑客入侵，較去年的 75宗增加逾一倍。",
+      "警方及香港電腦保安事故協調中心指出，人工智能工具讓攻擊者可全天候掃描弱點。外洩的訂單資料正被用於精準詐騙，騙徒冒充客服並提及真實購買紀錄，再發送虛假連結或應用程式盜取銀行密碼。",
+      "官員建議機構採取零信任原則，清點及修補系統與 API，並及時通報外洩。市民則獲提醒，真正的退款程序不會要求提供密碼或一次性驗證碼，應透過官方渠道核實任何要求。"
+    ]
+  }
+}
