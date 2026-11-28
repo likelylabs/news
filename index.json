@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-29T00:04:44+08:00",
+  "generated_at": "2026-11-29T00:04:54+08:00",
   "live_window_hours": 72,
-  "count": 83,
+  "count": 84,
   "articles": [
     {
       "id": "2026-11-29-fehd-hawker-officers-leave-investigation",
@@ -23,6 +23,28 @@
       "zh": {
         "headline": "食環署向警方舉報小販管理隊人員涉詐騙請假",
         "dek": "數名小販管理隊人員疑以參與職工會事務為由申請暫時離職，但電視節目拍攝到他們購物及健身，署方已報警並展開紀律調查。"
+      }
+    },
+    {
+      "id": "2026-11-29-lifestyle-hkia-sunflower-programme",
+      "published_at": "2026-11-29T00:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "airport",
+        "accessibility",
+        "community"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-29/2026-11-29-lifestyle-hkia-sunflower-programme.json",
+      "en": {
+        "headline": "Hong Kong airport offers free sunflower lanyards for hidden disabilities",
+        "dek": "Passengers with non-visible conditions can pick up free lanyards at five customer service centres so staff know they may need extra time or support."
+      },
+      "zh": {
+        "headline": "香港國際機場免費提供向日葵掛繩支援隱性障礙旅客",
+        "dek": "有非可見殘障或狀況的乘客可在五個顧客服務中心免費領取掛繩，讓職員知道他們可能需要額外時間或協助。"
       }
     },
     {
