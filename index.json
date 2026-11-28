@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-11-28T20:26:41+08:00",
+  "generated_at": "2026-11-28T22:13:17+08:00",
   "live_window_hours": 72,
-  "count": 81,
+  "count": 82,
   "articles": [
+    {
+      "id": "2026-11-28-disneyland-mainland-tourist-theft",
+      "published_at": "2026-11-28T22:10:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "disneyland",
+        "theft"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-disneyland-mainland-tourist-theft.json",
+      "en": {
+        "headline": "Police arrest 28-year-old over alleged theft of more than 100 items at Disneyland",
+        "dek": "A mainland tourist was held after security reported he took keychains and reusable bags valued at about HK$20,000 from park shops on Friday evening."
+      },
+      "zh": {
+        "headline": "警方拘捕28歲內地男 涉迪士尼樂園偷逾百件商品",
+        "dek": "保安報稱該名持雙程證來港的遊客於周五晚在園內偷取大量鎖匙扣及環保袋，總值約2萬元，因數量多至晚上11時許才報案。"
+      }
+    },
+    {
+      "id": "2026-11-28-lifestyle-family-style-food-fest",
+      "published_at": "2026-11-28T22:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "lifestyle",
+        "food",
+        "west-kowloon",
+        "festival",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-lifestyle-family-style-food-fest.json",
+      "en": {
+        "headline": "Family Style Food Fest brings chef-led outdoor dining to West Kowloon this weekend",
+        "dek": "The two-day event at Art Park Great Lawn features visiting chefs including Eddie Huang and local talent, with food stalls, music and limited seating experiences."
+      },
+      "zh": {
+        "headline": "Family Style Food Fest本周末西九藝術公園舉行戶外美食節",
+        "dek": "為期兩天的活動邀請Eddie Huang等主廚參與，設有美食攤檔、音樂及限量長桌體驗。"
+      }
+    },
+    {
+      "id": "2026-11-28-tuen-mun-scaffolding-fire-cigarette-cause",
+      "published_at": "2026-11-28T22:10:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "fire",
+        "tuen-mun",
+        "scaffolding",
+        "fire-services"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-tuen-mun-scaffolding-fire-cigarette-cause.json",
+      "en": {
+        "headline": "Fire Services say cigarette butts likely caused Tuen Mun scaffolding blaze",
+        "dek": "Preliminary investigation found multiple cigarette butts on the scaffolding and rooftop, with the fire starting from a third-floor platform at the industrial building."
+      },
+      "zh": {
+        "headline": "消防初步相信煙頭導致屯門工廈棚架火警",
+        "dek": "初步調查發現棚架及天台有多個煙頭，火警由三樓平台由下而上蔓延，當日工程並無使用明火工具。"
+      }
+    },
     {
       "id": "2026-11-28-chan-kin-por-ha-insurance-comments",
       "published_at": "2026-11-28T20:25:00+08:00",
@@ -1767,51 +1835,6 @@
       "zh": {
         "headline": "威爾斯親王醫院醫生涉非禮被捕 院方禁止進入臨床範圍",
         "dek": "一名31歲中大醫學院醫生上月疑在兒童外科病房為兩名男病人進行未經授權檢查，警方拘捕後獲准保釋，院方已暫停其臨床工作。"
-      }
-    },
-    {
-      "id": "2026-11-25-lcsd-urbtix-data-breach",
-      "published_at": "2026-11-25T22:13:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "lcsd",
-        "urbtix",
-        "data-breach",
-        "privacy"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-lcsd-urbtix-data-breach.json",
-      "en": {
-        "headline": "Leisure department confirms URBTIX breach involving 1.3 million users",
-        "dek": "The Leisure and Cultural Services Department said a contractor reported unauthorised access on 24 November, with names, phone numbers and emails involved but no identity documents."
-      },
-      "zh": {
-        "headline": "康文署確認城市售票網被黑客進入涉約130萬使用者資料",
-        "dek": "康文署表示外判承辦商於11月24日通報系統被非法進入，初步涉及姓名、電話及電郵，並無身分證明文件資料。"
-      }
-    },
-    {
-      "id": "2026-11-25-tourism-spending-h1-111b",
-      "published_at": "2026-11-25T22:13:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "tourism",
-        "economy",
-        "visitors"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-tourism-spending-h1-111b.json",
-      "en": {
-        "headline": "Tourism minister says visitor spending reached HK$111 billion in first half",
-        "dek": "Secretary for Culture, Sports and Tourism Rosanna Law told the Legislative Council that full-year related spending is projected at HK$238.1 billion after 11 per cent growth."
-      },
-      "zh": {
-        "headline": "文化體育及旅遊局局長指上半年旅客消費達1110億元",
-        "dek": "羅淑佩向立法會表示，預計全年入境旅遊相關總消費將達2381億元，首十個月訪港人次按年升12%。"
       }
     }
   ]
