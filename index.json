@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-11-28T04:19:42+08:00",
+  "generated_at": "2026-11-28T08:07:46+08:00",
   "live_window_hours": 72,
-  "count": 87,
+  "count": 89,
   "articles": [
+    {
+      "id": "2026-11-28-lifestyle-open-house-hong-kong-2026",
+      "published_at": "2026-11-28T08:06:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "architecture",
+        "events",
+        "heritage",
+        "weekend"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-lifestyle-open-house-hong-kong-2026.json",
+      "en": {
+        "headline": "Open House Hong Kong returns with guided tours of more than 80 buildings",
+        "dek": "The third edition of the architecture festival runs across three weekends from 28 November to 13 December, opening distinctive spaces including Villa Haw Par and the International Gateway Centre."
+      },
+      "zh": {
+        "headline": "第三屆打開香港今日展開 逾80座建築開放導賞",
+        "dek": "建築節由11月28日至12月13日一連三個周末舉行，開放虎豹別墅、環球匯等特色空間供公眾導賞及參觀。"
+      }
+    },
+    {
+      "id": "2026-11-28-red-fire-danger-warning",
+      "published_at": "2026-11-28T08:06:00+08:00",
+      "updated_at": null,
+      "category": "weather",
+      "tags": [
+        "weather",
+        "hko",
+        "fire-danger",
+        "dry"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-red-fire-danger-warning.json",
+      "en": {
+        "headline": "Observatory issues Red Fire Danger Warning as risk turns extreme",
+        "dek": "The Hong Kong Observatory raised the Red Fire Danger Warning at 6am on Saturday, warning of extreme fire risk amid very dry conditions."
+      },
+      "zh": {
+        "headline": "天文台發出紅色火災危險警告 火警風險極高",
+        "dek": "天文台周六上午6時發出紅色火災危險警告，表示火災危險性極高，市民需提高警覺並採取防火措施。"
+      }
+    },
+    {
+      "id": "2026-11-28-wong-tai-sin-hospital-staff-assault",
+      "published_at": "2026-11-28T08:06:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "hospital",
+        "wong-tai-sin"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-wong-tai-sin-hospital-staff-assault.json",
+      "en": {
+        "headline": "Police arrest 64-year-old over alleged indecent assault at Wong Tai Sin Hospital",
+        "dek": "A 64-year-old discharged patient was arrested on Friday after a female staff member at Wong Tai Sin Hospital reported being indecently assaulted while on ward duty the previous day."
+      },
+      "zh": {
+        "headline": "黃大仙醫院職員疑遭非禮 警方拘捕64歲已出院男病人",
+        "dek": "東華三院黃大仙醫院一名女職員周四在病房執勤期間懷疑被非禮，警方周五拘捕一名已出院的64歲男病人。"
+      }
+    },
     {
       "id": "2026-11-28-lifestyle-hkust-35th-impact-fiesta",
       "published_at": "2026-11-28T04:25:00+08:00",
@@ -1930,30 +1997,6 @@
       "zh": {
         "headline": "深水埗青山道的士撞電單車醒五車相撞 兩人受傷",
         "dek": "警方表示星期二晚上約10時20分於深水埗青山道60號對開發生五車相撞，25歲鐵騎士腳部受傷，67歲的士司機報稱不適，兩人清醒送明愛醫院。"
-      }
-    },
-    {
-      "id": "2026-11-25-lifestyle-bar-camillo-rosewood",
-      "published_at": "2026-11-25T04:20:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "bar",
-        "cocktail",
-        "tsim-sha-tsui",
-        "opening",
-        "rosewood"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-lifestyle-bar-camillo-rosewood.json",
-      "en": {
-        "headline": "Bar Camillo opens at Rosewood Hong Kong with Bar Leone founders",
-        "dek": "The Italian-inspired cocktail bar begins service on 25 November at the Tsim Sha Tsui hotel, offering 50 seats indoors and on the terrace with a tableside Negroni trolley."
-      },
-      "zh": {
-        "headline": "瑰麗酒店新酒吧Bar Camillo開業 由Bar Leone創辦人主理",
-        "dek": "意大利風格雞尾酒吧於11月25日在尖沙咀酒店開始營業，設約50個室內及露台座位，並有桌邊調製尼格羅尼的手推車。"
       }
     }
   ]
