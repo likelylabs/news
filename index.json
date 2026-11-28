@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-28T12:23:43+08:00",
+  "generated_at": "2026-11-28T14:15:27+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 85,
   "articles": [
+    {
+      "id": "2026-11-28-wang-fuk-court-site-future-years",
+      "published_at": "2026-11-28T14:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "housing",
+        "tai-po",
+        "wang-fuk-court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-wang-fuk-court-site-future-years.json",
+      "en": {
+        "headline": "Acting housing chief says Wang Fuk Court site future may take years",
+        "dek": "Michael Wong said consolidating ownership and demolishing the fire-damaged buildings will take years, with the site planned for community facilities or a park after recovery."
+      },
+      "zh": {
+        "headline": "署理房屋局長稱廣福邨用地未來用途或需數年決定",
+        "dek": "黃偉紊表示整合業權及清拆火警損毀樓宇需時，用地收回後計劃作社區設施或公園用途。"
+      }
+    },
     {
       "id": "2026-11-28-public-housing-waiting-time-4-4-years",
       "published_at": "2026-11-28T12:15:00+08:00",
@@ -1883,51 +1905,6 @@
       "zh": {
         "headline": "兩間二手名牌寄賣店突然結業 警方接獲近400宗報案涉款約5120萬元",
         "dek": "警方表示已接獲近400宗報案，指銅鑼灣及金鐘兩間寄賣店拖欠款項，涉及金額約5120萬元，案件列為詐騙調查中。"
-      }
-    },
-    {
-      "id": "2026-11-25-audit-consumer-council-complaints",
-      "published_at": "2026-11-25T14:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "audit",
-        "consumer-council",
-        "complaints",
-        "public-service"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-audit-consumer-council-complaints.json",
-      "en": {
-        "headline": "Auditor finds Consumer Council missed complaint handling targets",
-        "dek": "The Audit Commission said the Consumer Council failed to meet reply times and resolution rates for complaints in recent years, and noted low usage of its two service centres."
-      },
-      "zh": {
-        "headline": "審計署指消委會投訴處理未達標 服務中心使用率低",
-        "dek": "審計署表示消委會近年未能達到投訴回覆時限及調停成功率目標，北角及尖沙咀服務中心使用率亦偏低。"
-      }
-    },
-    {
-      "id": "2026-11-25-lifestyle-tung-wah-care-food-exhibition",
-      "published_at": "2026-11-25T14:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "food",
-        "admiralty",
-        "tung-wah"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-lifestyle-tung-wah-care-food-exhibition.json",
-      "en": {
-        "headline": "Tung Wah social enterprises open care food exhibition in Admiralty",
-        "dek": "The CookEasy and iBakery exhibition on soft meals runs until 31 March at the iBakery Gallery Café in Tamar Park, featuring stories from ten guests including celebrities and care home residents."
-      },
-      "zh": {
-        "headline": "東華三院社企開辦照護食展覽 展至明年三月",
-        "dek": "煮餥易及愛烘焙的「人人都可以食得好 2026」展覽即日起至明年三月三十一日於添馬公園愛烘焙茶座舉行，展出十位嘉賓的飲食故事。"
       }
     }
   ]
