@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-11-28T14:16:34+08:00",
+  "generated_at": "2026-11-28T16:25:19+08:00",
   "live_window_hours": 72,
-  "count": 85,
+  "count": 82,
   "articles": [
+    {
+      "id": "2026-11-28-tuen-mun-scaffolding-fire",
+      "published_at": "2026-11-28T16:25:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "fire",
+        "tuen-mun",
+        "scaffolding"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-tuen-mun-scaffolding-fire.json",
+      "en": {
+        "headline": "About 200 evacuated after scaffolding fire at Tuen Mun industrial building",
+        "dek": "Police and firefighters responded to a blaze on exterior scaffolding at an industrial building on Kin Fat Lane shortly after 2pm, with no injuries reported."
+      },
+      "zh": {
+        "headline": "屯門工廈外牆棚架起火 約200人疏散",
+        "dek": "警方及消防於下午2時許接報建發里工廈外牆棚架起火，疏散約200人，暫無受傷報告。"
+      }
+    },
     {
       "id": "2026-11-28-wang-fuk-court-site-future-years",
       "published_at": "2026-11-28T14:15:00+08:00",
@@ -1815,96 +1837,6 @@
       "zh": {
         "headline": "李家超探訪宏福苑火災受影響居民稱政府持續提供支援",
         "dek": "行政長官上周六到香港仔探訪暫居居民，兩戶居民表示預計下月收取新單位鎖匙。"
-      }
-    },
-    {
-      "id": "2026-11-25-audit-children-assessment-noshow",
-      "published_at": "2026-11-25T16:25:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "audit",
-        "children",
-        "department-of-health",
-        "hospital-authority"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-audit-children-assessment-noshow.json",
-      "en": {
-        "headline": "Audit finds high no-show rates at children's assessment centres",
-        "dek": "The Audit Commission said professional assessment no-show rates ranged from 11 to 25 per cent at the eight centres, and the Department of Health missed its six-month completion target."
-      },
-      "zh": {
-        "headline": "審計署指兒童測驗中心失約率高達兩成半",
-        "dek": "審計報告顯示八間兒童測驗中心專業評估失約率介乎11%至25%，衛生署持續未達6個月內完成評估目標。"
-      }
-    },
-    {
-      "id": "2026-11-25-hang-seng-close-below-22000",
-      "published_at": "2026-11-25T16:25:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "hang-seng",
-        "stocks",
-        "market"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-hang-seng-close-below-22000.json",
-      "en": {
-        "headline": "Hang Seng Index closes below 22000 as earlier gains fade",
-        "dek": "The benchmark index finished the session under the 22000 level after morning advances reversed, with technology shares among the main contributors to the decline."
-      },
-      "zh": {
-        "headline": "恒指尾市失守22000點 早前升幅消失",
-        "dek": "基準指數今日下午升幅回吐，最終收市失守兩萬二關口，科技股成為主要拖累。"
-      }
-    },
-    {
-      "id": "2026-11-25-hko-special-tip-higher-water-levels",
-      "published_at": "2026-11-25T16:25:00+08:00",
-      "updated_at": null,
-      "category": "weather",
-      "tags": [
-        "weather",
-        "hko",
-        "coastal",
-        "flooding"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-hko-special-tip-higher-water-levels.json",
-      "en": {
-        "headline": "Observatory expects higher coastal water levels tonight",
-        "dek": "The Hong Kong Observatory said the combined effect of a spring tide and the northeast monsoon may bring slightly higher water levels, with minor flooding possible in some low-lying areas."
-      },
-      "zh": {
-        "headline": "天文台料今晚沿岸水位較高 低窪地區或現輕微水浸",
-        "dek": "天文台表示受天文大潮及東北季候風共同影響，預料今晚沿岸水位較正常稍高，部分低窪地區可能出現輕微水浸。"
-      }
-    },
-    {
-      "id": "2026-11-25-luxury-consignment-fraud-losses-rise",
-      "published_at": "2026-11-25T14:17:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "fraud",
-        "luxury",
-        "causeway-bay",
-        "admiralty"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-luxury-consignment-fraud-losses-rise.json",
-      "en": {
-        "headline": "Police reports on two closed luxury consignment shops rise to nearly HK$51 million",
-        "dek": "Police said they have received nearly 400 reports alleging unpaid payments totalling almost HK$51.2 million after the two shops in Causeway Bay and Admiralty closed abruptly."
-      },
-      "zh": {
-        "headline": "兩間二手名牌寄賣店突然結業 警方接獲近400宗報案涉款約5120萬元",
-        "dek": "警方表示已接獲近400宗報案，指銅鑼灣及金鐘兩間寄賣店拖欠款項，涉及金額約5120萬元，案件列為詐騙調查中。"
       }
     }
   ]
