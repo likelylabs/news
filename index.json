@@ -1,8 +1,55 @@
 {
-  "generated_at": "2026-11-29T02:06:24+08:00",
+  "generated_at": "2026-11-29T04:18:14+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 83,
   "articles": [
+    {
+      "id": "2026-11-29-lifestyle-detour-2026-final-day",
+      "published_at": "2026-11-29T04:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "design",
+        "pmq",
+        "central",
+        "exhibition"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-29/2026-11-29-lifestyle-detour-2026-final-day.json",
+      "en": {
+        "headline": "deTour design festival ends today at PMQ after ten-day run",
+        "dek": "The free annual event themed Better Not Perfect closes at 8pm with 14 installations, workshops and a pop-up shop still open."
+      },
+      "zh": {
+        "headline": "deTour設計節今日元創方閉幕 十日本地及國際作品展出",
+        "dek": "免費年度設計節以「不完美更美好」為主題，晚上8時結束，仍有14件裝置、工作坊及快閃店開放。"
+      }
+    },
+    {
+      "id": "2026-11-29-lifestyle-lantau-live-mui-wo",
+      "published_at": "2026-11-29T04:20:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "music",
+        "mui-wo",
+        "lantau",
+        "festival",
+        "events"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-29/2026-11-29-lifestyle-lantau-live-mui-wo.json",
+      "en": {
+        "headline": "Lantau Live returns for two-day music and arts weekend in Mui Wo",
+        "dek": "The festival's third edition runs Saturday and Sunday at The Hideout with live bands, DJs, theatre, workshops and a kids' zone."
+      },
+      "zh": {
+        "headline": "Lantau Live第三屆梅窩音樂藝術節首度兩日舉行",
+        "dek": "活動周六及周日在The Hideout舉行，有現場樂隊、DJ、劇場、工作坊及兒童專區。"
+      }
+    },
     {
       "id": "2026-11-29-lifestyle-merry-balloon-preheat",
       "published_at": "2026-11-29T02:05:00+08:00",
@@ -1808,76 +1855,6 @@
       "zh": {
         "headline": "宏福苑火災一周年 社區舉行悼念活動",
         "dek": "大埔宏福苑火災今日滿一周年，造成168人死亡。政府表示不會舉辦官方悼念儀式，但不會阻止合法悼念活動，多個宗教團體已舉行追思彌撒。"
-      }
-    },
-    {
-      "id": "2026-11-26-hk-arts-festival-website-breach",
-      "published_at": "2026-11-26T04:18:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "arts-festival",
-        "data-breach",
-        "privacy",
-        "culture"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-26/2026-11-26-hk-arts-festival-website-breach.json",
-      "en": {
-        "headline": "Hong Kong Arts Festival website reports unauthorised access to ticket buyer data",
-        "dek": "The organisers said personal data of several thousand advance ticket buyers for the 55th festival may have been accessed after detecting a breach on 23 November."
-      },
-      "zh": {
-        "headline": "香港藝術節網站遭入侵 數千名購票者資料或被非法閱覽",
-        "dek": "主辦方表示11月23日發現主網站被未經授權進入，初步懷疑數千名第55屆藝術節門票預訂觀眾的個人資料可能外洩。"
-      }
-    },
-    {
-      "id": "2026-11-26-lifestyle-asia-music-event",
-      "published_at": "2026-11-26T04:18:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "culture",
-        "music",
-        "conference",
-        "soho-house",
-        "electronic-music"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-26/2026-11-26-lifestyle-asia-music-event.json",
-      "en": {
-        "headline": "Inaugural Asia Music Event opens two-day electronic music conference at Soho House",
-        "dek": "The industry gathering at Soho House Hong Kong runs 26 and 27 November with more than 50 sessions and a closing party featuring international techno artists."
-      },
-      "zh": {
-        "headline": "首屆亞洲音樂活動今日於蘇豪會展開電子音樂業界會議",
-        "dek": "為期兩日的會議於蘇豪會香港舉行，設逾50場環節，並於27日晚舉辦閉幕派對，邀請國際techno藝人演出。"
-      }
-    },
-    {
-      "id": "2026-11-26-tuen-mun-hospital-anesthetic-theft",
-      "published_at": "2026-11-26T04:18:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "hospital",
-        "police",
-        "dangerous-drugs",
-        "tuen-mun"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-26/2026-11-26-tuen-mun-hospital-anesthetic-theft.json",
-      "en": {
-        "headline": "Former Tuen Mun Hospital surgeon arrested over suspected anesthetic theft",
-        "dek": "Police arrested a 38-year-old former surgeon after a vial of pain-relief medication went missing from an operating theatre during a patient's procedure."
-      },
-      "zh": {
-        "headline": "屯門醫院前外科醫生涉盜手術室麻醉藥被捕",
-        "dek": "警方拘捕一名38歲前外科醫生，事發時有病人正在手術室接受手術，一支止痛用麻醉藥不翼而飛。"
       }
     }
   ]
