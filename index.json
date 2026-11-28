@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-28T08:07:46+08:00",
+  "generated_at": "2026-11-28T10:14:39+08:00",
   "live_window_hours": 72,
-  "count": 89,
+  "count": 86,
   "articles": [
+    {
+      "id": "2026-11-28-lifestyle-cloisonne-reimagined-pmq",
+      "published_at": "2026-11-28T10:14:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "exhibition",
+        "heritage",
+        "central",
+        "pmq",
+        "craft"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-lifestyle-cloisonne-reimagined-pmq.json",
+      "en": {
+        "headline": "Debby Shing and students show cloisonne works at PMQ until month end",
+        "dek": "Free exhibition at LIVIN ARTSPACE in Central runs daily noon to 7pm through 30 November, featuring pieces by the artist and more than 20 students."
+      },
+      "zh": {
+        "headline": "成影翠師生掐絲琺瑯展元創方展出至月底",
+        "dek": "中環LIVIN ARTSPACE免費展覽每日中午至晚上7時開放，至11月30日止，展出藝術家及逾20名學生作品。"
+      }
+    },
     {
       "id": "2026-11-28-lifestyle-open-house-hong-kong-2026",
       "published_at": "2026-11-28T08:06:00+08:00",
@@ -1906,97 +1930,6 @@
       "zh": {
         "headline": "鄧炳強指打擊圍標特遣隊已起震懼作用",
         "dek": "保安局局長鄧炳強警告有集團虛擬維修令施壓業主，呼籲業主查核屋宇署網站確認令是否存在。"
-      }
-    },
-    {
-      "id": "2026-11-25-lifestyle-frieren-exhibition-mong-kok",
-      "published_at": "2026-11-25T10:14:00+08:00",
-      "updated_at": null,
-      "category": "culture",
-      "tags": [
-        "lifestyle",
-        "exhibition",
-        "anime",
-        "mong-kok",
-        "opening"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-lifestyle-frieren-exhibition-mong-kok.json",
-      "en": {
-        "headline": "Frieren anime exhibition opens at Mong Kok INCUBASE Arena",
-        "dek": "The Beyond Journey's End exhibition runs until 3 January at Chong Hing Square B2, with five themed areas from the first season and tickets from HK$108."
-      },
-      "zh": {
-        "headline": "《葬送的芙莉蓮》特展旺角開幕 展至明年1月",
-        "dek": "展覽於11月24日在旺角創興廣場地庫INCUBASE Arena開始，設五個第一季主題展區，門票由108元起，展至明年1月3日。"
-      }
-    },
-    {
-      "id": "2026-11-25-north-point-tram-pedestrian",
-      "published_at": "2026-11-25T10:14:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "accident",
-        "north-point",
-        "tram"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-north-point-tram-pedestrian.json",
-      "en": {
-        "headline": "Tram hits elderly woman in North Point as services briefly suspended",
-        "dek": "A westbound tram struck a woman at the King's Road junction with Kam Hong Street at 7:19am; she was conscious and taken to Eastern Hospital, with services on Shu Kuk Street resuming at 8:12am."
-      },
-      "zh": {
-        "headline": "北角電車撞倒過路婦 書局街西行線一度暫停",
-        "dek": "今早約7時19分一輛西行電車於英皇道與琴行街交界撞倒一名婦人，她清醒送東區醫院，書局街西行電車服務至8時12分恢復正常。"
-      }
-    },
-    {
-      "id": "2026-11-25-customs-airport-cannabis-bust",
-      "published_at": "2026-11-25T08:09:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "customs",
-        "airport",
-        "drugs",
-        "cannabis"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-customs-airport-cannabis-bust.json",
-      "en": {
-        "headline": "Customs seize 19kg cannabis buds at airport in two cases",
-        "dek": "Hong Kong Customs said officers seized about 19 kilograms of suspected cannabis buds with an estimated value of HK$4 million and arrested four mainland men at the airport."
-      },
-      "zh": {
-        "headline": "海關機場破兩宗販毒案 檢約19公斤大麻花拘4名內地男子",
-        "dek": "海關表示在香港國際機場兩宗案件中檢獲約19公斤懷疑大麻花，估計市值約400萬元，並拘捕四名內地男子。"
-      }
-    },
-    {
-      "id": "2026-11-25-sham-shui-po-taxi-crash",
-      "published_at": "2026-11-25T08:09:00+08:00",
-      "updated_at": null,
-      "category": "transport",
-      "tags": [
-        "transport",
-        "accident",
-        "sham-shui-po",
-        "taxi",
-        "motorcycle"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-sham-shui-po-taxi-crash.json",
-      "en": {
-        "headline": "Five vehicles collide in Sham Shui Po after taxi hits motorcycle",
-        "dek": "Police said a 25-year-old motorcyclist suffered a leg injury and a 67-year-old taxi driver reported discomfort after the crash on Castle Peak Road; both were conscious and taken to Caritas Hospital."
-      },
-      "zh": {
-        "headline": "深水埗青山道的士撞電單車醒五車相撞 兩人受傷",
-        "dek": "警方表示星期二晚上約10時20分於深水埗青山道60號對開發生五車相撞，25歲鐵騎士腳部受傷，67歲的士司機報稱不適，兩人清醒送明愛醫院。"
       }
     }
   ]
