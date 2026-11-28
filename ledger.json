@@ -1,18 +1,6 @@
 {
   "covered": [
     {
-      "key": "electronic-proxy-voting-trial-nov14",
-      "id": "2026-11-14-electronic-proxy-voting-trial",
-      "first_seen": "2026-11-14T18:10:00+08:00",
-      "headline_en": "Government to trial electronic proxy voting for estate meetings next year"
-    },
-    {
-      "key": "organ-donation-register-record-nov14",
-      "id": "2026-11-14-organ-donation-register-425000",
-      "first_seen": "2026-11-14T18:10:00+08:00",
-      "headline_en": "Organ donation register reaches record 425000 but more than 2000 still waiting"
-    },
-    {
       "key": "disneyland-17000-qr-codes-stolen-nov14",
       "id": "2026-11-14-disneyland-qr-codes-stolen",
       "first_seen": "2026-11-14T20:25:00+08:00",
@@ -2207,7 +2195,19 @@
       "id": "2026-11-28-tuen-mun-scaffolding-fire",
       "first_seen": "2026-11-28T16:25:00+08:00",
       "headline_en": "About 200 evacuated after scaffolding fire at Tuen Mun industrial building"
+    },
+    {
+      "key": "cic-app-data-breach-nov28",
+      "id": "2026-11-28-cic-app-unauthorized-access",
+      "first_seen": "2026-11-28T18:30:00+08:00",
+      "headline_en": "Construction Industry Council suspends app after access to half a million workers data"
+    },
+    {
+      "key": "ho-wai-ho-posthumous-medal-nov28",
+      "id": "2026-11-28-firefighter-ho-posthumous-medal",
+      "first_seen": "2026-11-28T18:30:00+08:00",
+      "headline_en": "Firefighter Ho Wai-ho receives posthumous Gold Medal for Bravery at honours ceremony"
     }
   ],
-  "updated_at": "2026-11-28T16:25:19+08:00"
+  "updated_at": "2026-11-28T18:11:17+08:00"
 }

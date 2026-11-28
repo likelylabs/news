@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-28T16:25:19+08:00",
+  "generated_at": "2026-11-28T18:11:17+08:00",
   "live_window_hours": 72,
-  "count": 82,
+  "count": 84,
   "articles": [
+    {
+      "id": "2026-11-28-cic-app-unauthorized-access",
+      "published_at": "2026-11-28T18:30:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "cybersecurity",
+        "privacy",
+        "data-breach",
+        "construction"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-cic-app-unauthorized-access.json",
+      "en": {
+        "headline": "Construction Industry Council suspends app after access to half a million workers data",
+        "dek": "The council said suspicious activity on Friday exposed names, identity document numbers and contact details of about 500000 registered workers, with no financial information involved."
+      },
+      "zh": {
+        "headline": "建造業議會暫停應用程式 涉約50萬工人資料遭未經授權存取",
+        "dek": "議會表示周五偵測到伺服器可疑活動，可能涉及約50萬名註冊工人的姓名、身份證明文件號碼及聯絡資料，並無財務資料受影響。"
+      }
+    },
+    {
+      "id": "2026-11-28-firefighter-ho-posthumous-medal",
+      "published_at": "2026-11-28T18:30:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "honours",
+        "firefighter",
+        "tai-po",
+        "wang-fuk-court"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-firefighter-ho-posthumous-medal.json",
+      "en": {
+        "headline": "Firefighter Ho Wai-ho receives posthumous Gold Medal for Bravery at honours ceremony",
+        "dek": "His fiancee and brother accepted the award from Chief Executive John Lee at Government House, two days after the first anniversary of the Tai Po fire that killed 168 people."
+      },
+      "zh": {
+        "headline": "消防員何偉豪獲追授金英勇勳章 兄長及未婚妻代領",
+        "dek": "行政長官李家超周六在禮賓府頒授勳章，何偉豪未婚妻及兄長代為接受，典禮於大埔火警一周年後兩日舉行。"
+      }
+    },
     {
       "id": "2026-11-28-tuen-mun-scaffolding-fire",
       "published_at": "2026-11-28T16:25:00+08:00",
