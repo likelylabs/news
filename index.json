@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-11-28T18:12:07+08:00",
+  "generated_at": "2026-11-28T20:26:41+08:00",
   "live_window_hours": 72,
-  "count": 84,
+  "count": 81,
   "articles": [
+    {
+      "id": "2026-11-28-chan-kin-por-ha-insurance-comments",
+      "published_at": "2026-11-28T20:25:00+08:00",
+      "updated_at": null,
+      "category": "health",
+      "tags": [
+        "health",
+        "hospital-authority",
+        "insurance"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-chan-kin-por-ha-insurance-comments.json",
+      "en": {
+        "headline": "Incoming Hospital Authority chairman Chan Kin-por flags insurance premium rises",
+        "dek": "Chan said more creative ways are needed to raise medical revenue and that sharp increases in medical insurance premiums must be addressed, while stressing he would not favour the industry."
+      },
+      "zh": {
+        "headline": "下月出任醫管局主席陳健波稱需正視醫保加幅大",
+        "dek": "陳健波表示需更有創意增加醫療收入，並正視醫療保險保費大幅上升的問題，同時強調絕不會偏袒保險業界。"
+      }
+    },
+    {
+      "id": "2026-11-28-digital-policy-office-cybersecurity-checks",
+      "published_at": "2026-11-28T20:25:00+08:00",
+      "updated_at": null,
+      "category": "technology",
+      "tags": [
+        "technology",
+        "cybersecurity",
+        "government",
+        "ai"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-digital-policy-office-cybersecurity-checks.json",
+      "en": {
+        "headline": "Digital Policy Office orders departments to check systems after cyber incidents",
+        "dek": "The office said it has instructed bureaus to prioritise reviews of systems holding personal data and strengthen incident reporting amid a rise in AI-assisted attacks."
+      },
+      "zh": {
+        "headline": "數字辦指示各部門優先檢查涉及個人資料系統",
+        "dek": "數字政策辦公室表示高度關注近期網絡安全事故，已指示各部門優先檢查涉個人及敏感資料的重要系統，並強化事故通報機制。"
+      }
+    },
+    {
+      "id": "2026-11-28-mtr-tung-chung-line-early-end",
+      "published_at": "2026-11-28T20:25:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "mtr",
+        "tung-chung",
+        "extension"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-mtr-tung-chung-line-early-end.json",
+      "en": {
+        "headline": "Tung Chung Line trains end early tonight for extension track works",
+        "dek": "Services between Tung Chung and Sunny Bay stations conclude around 11pm on Saturday so engineers can install a critical turnout, with free shuttle buses provided afterwards."
+      },
+      "zh": {
+        "headline": "東涌綫往來東涌及欣澳站列車今晚提早約11時完結",
+        "dek": "港鐵為配合東涌綫延綫關鍵波口安裝工程，周六晚上往來東涌站及欣澳站服務約於晚上11時完結，其後安排免費接駁巴士。"
+      }
+    },
+    {
+      "id": "2026-11-28-police-nt-south-anti-burglary",
+      "published_at": "2026-11-28T20:25:00+08:00",
+      "updated_at": null,
+      "category": "crime",
+      "tags": [
+        "crime",
+        "police",
+        "new-territories",
+        "burglary"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-police-nt-south-anti-burglary.json",
+      "en": {
+        "headline": "Police run multi-agency anti-burglary operation across New Territories South",
+        "dek": "Officers from New Territories South, marine police and the Government Flying Service conducted land, sea and air patrols over two days, deploying drones for high-altitude checks near housing estates."
+      },
+      "zh": {
+        "headline": "新界南警方展開海陸空跨部門反爆竊行動",
+        "dek": "新界南總區聯同水警及政府飛行服務隊一連兩日進行海陸空巡邏，並引入無人機在屋苑附近作高空監察。"
+      }
+    },
     {
       "id": "2026-11-28-cic-app-unauthorized-access",
       "published_at": "2026-11-28T18:30:00+08:00",
@@ -1725,164 +1812,6 @@
       "zh": {
         "headline": "文化體育及旅遊局局長指上半年旅客消費達1110億元",
         "dek": "羅淑佩向立法會表示，預計全年入境旅遊相關總消費將達2381億元，首十個月訪港人次按年升12%。"
-      }
-    },
-    {
-      "id": "2026-11-25-audit-student-loan-defaults",
-      "published_at": "2026-11-25T20:25:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "audit",
-        "education",
-        "student-loans",
-        "working-family-student-financial-assistance"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-audit-student-loan-defaults.json",
-      "en": {
-        "headline": "Audit Commission urges faster recovery of HK$131 million in defaulted student loans",
-        "dek": "The report found 9,515 default cases representing 4.2 per cent of loan amounts, with legal action not begun in nearly half after pandemic deferrals."
-      },
-      "zh": {
-        "headline": "審計署促加快追計1.31億元拖欠學生貸款",
-        "dek": "報告指截至9月底有9515宗拖欠個案，佔貸款額4.2%，近半數個案在疫情延期後仍未展開法律行動。"
-      }
-    },
-    {
-      "id": "2026-11-25-customs-illicit-cigarettes-bust",
-      "published_at": "2026-11-25T20:25:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "customs",
-        "smuggling",
-        "cigarettes",
-        "money-laundering"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-customs-illicit-cigarettes-bust.json",
-      "en": {
-        "headline": "Customs dismantles syndicate and seizes 32 million illicit cigarettes worth HK$140 million",
-        "dek": "Five people aged 44 to 65 were arrested after operations targeting bases in Tsuen Wan and Yuen Long; the group is also suspected of laundering HK$9.3 million."
-      },
-      "zh": {
-        "headline": "海關搞破私煙集團檢獲3200萬支香煙市值1.4億元",
-        "dek": "拘捕5名44至65歲人士，行動針對荃灣及元朗據點，集團亦涉嫌清洗930萬元犯罪得益。"
-      }
-    },
-    {
-      "id": "2026-11-25-hkt-3g-termination-approved",
-      "published_at": "2026-11-25T20:25:00+08:00",
-      "updated_at": null,
-      "category": "technology",
-      "tags": [
-        "technology",
-        "hkt",
-        "3g",
-        "communications-authority",
-        "ofca"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-hkt-3g-termination-approved.json",
-      "en": {
-        "headline": "Communications Authority approves HKT's plan to end 3G services on 25 February 2027",
-        "dek": "The regulator cited the low number of affected users and HKT's support measures, including device-replacement offers, while requiring satisfactory service until the termination date."
-      },
-      "zh": {
-        "headline": "通訊局批准HKT於2027年2月25日終止3G服務",
-        "dek": "通訊局考慮受影響客戶比例低及HKT的支援措施包括換機優惠，並要求在終止日前維持令人滿意的服務。"
-      }
-    },
-    {
-      "id": "2026-11-25-community-drug-formulary-launch",
-      "published_at": "2026-11-25T18:15:00+08:00",
-      "updated_at": null,
-      "category": "health",
-      "tags": [
-        "health",
-        "drugs",
-        "primary-healthcare",
-        "health-bureau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-community-drug-formulary-launch.json",
-      "en": {
-        "headline": "Health Bureau launches community drug formulary with 151 medicines from 30 December",
-        "dek": "The formulary expands coverage to urological, ophthalmic and dermatological conditions, with non-patented drugs at HK$2 per item per week."
-      },
-      "zh": {
-        "headline": "醫衞局公布社區藥物名冊下月30日推出涵蓋151項藥物",
-        "dek": "名冊新增38項藥物，擴闊至泌尿科、眼科及皮膚科，非專利藥物每項每星期2元，並提供每年200元藥費資助。"
-      }
-    },
-    {
-      "id": "2026-11-25-five-schools-five-classes-s1",
-      "published_at": "2026-11-25T18:15:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "education",
-        "schools",
-        "s1-allocation",
-        "education-bureau"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-five-schools-five-classes-s1.json",
-      "en": {
-        "headline": "Education Bureau approves five schools for five S1 classes in 2027 allocation",
-        "dek": "The approved schools are Fanling Rhenish Church Secondary School, HKTA Tang Hin Memorial Secondary School, Munsang College (Hong Kong Island), St Mark's School and Tin Ka Ping Secondary School."
-      },
-      "zh": {
-        "headline": "教育局批准五間中學以五班參加2027年度中一派位",
-        "dek": "獲批學校包括粉嶺禮賢會中學、香港道教聯合會鄧顯紀念中學、港島民生書院、聖馬可中學及田家炳中學。"
-      }
-    },
-    {
-      "id": "2026-11-25-hkma-cmu-digital-asset-platform",
-      "published_at": "2026-11-25T18:15:00+08:00",
-      "updated_at": null,
-      "category": "business",
-      "tags": [
-        "business",
-        "hkma",
-        "fintech",
-        "digital-assets",
-        "bonds"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-hkma-cmu-digital-asset-platform.json",
-      "en": {
-        "headline": "HKMA launches CMU Digital Asset Platform for paperless bond settlement",
-        "dek": "The DLT-based platform supports end-to-end paperless operations for debt securities and 24-hour multi-currency settlement using cash tokens."
-      },
-      "zh": {
-        "headline": "金管局正式推出CMU數字資產平台支援無紙化債券結算",
-        "dek": "基於分布式分類帳技術的平台實現債券全程無紙化操作，並支援24小時多幣種結算。"
-      }
-    },
-    {
-      "id": "2026-11-25-john-lee-visits-wang-fuk-residents",
-      "published_at": "2026-11-25T18:15:00+08:00",
-      "updated_at": null,
-      "category": "politics",
-      "tags": [
-        "politics",
-        "john-lee",
-        "wang-fuk-court",
-        "tai-po-fire",
-        "housing"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-25/2026-11-25-john-lee-visits-wang-fuk-residents.json",
-      "en": {
-        "headline": "John Lee visits Wang Fuk Court residents in Aberdeen ahead of fire anniversary",
-        "dek": "The Chief Executive met two households temporarily housed in Aberdeen, who said they expected to receive keys to new flats next month."
-      },
-      "zh": {
-        "headline": "李家超探訪宏福苑火災受影響居民稱政府持續提供支援",
-        "dek": "行政長官上周六到香港仔探訪暫居居民，兩戶居民表示預計下月收取新單位鎖匙。"
       }
     }
   ]
