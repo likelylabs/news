@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-11-29T00:04:54+08:00",
+  "generated_at": "2026-11-29T02:05:28+08:00",
   "live_window_hours": 72,
   "count": 84,
   "articles": [
+    {
+      "id": "2026-11-29-lifestyle-merry-balloon-preheat",
+      "published_at": "2026-11-29T02:05:00+08:00",
+      "updated_at": null,
+      "category": "culture",
+      "tags": [
+        "lifestyle",
+        "causeway-bay",
+        "events",
+        "festival",
+        "kai-tak"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-29/2026-11-29-lifestyle-merry-balloon-preheat.json",
+      "en": {
+        "headline": "Giant character balloons fill Causeway Bay street for free Merry Balloon preview",
+        "dek": "Cookie Monster, Snoopy and a SpongeBob figure hang above Pak Sha Road through Sunday as a free warm-up for the December Kai Tak event."
+      },
+      "zh": {
+        "headline": "銅鑼灣白沙道巨型角色氣球免費預熱Merry Balloon",
+        "dek": "芝麻街Cookie Monster、Snoopy及海綿寶寶角色氣球懸掛白沙道至周日，為12月啟德活動預熱，免費入場。"
+      }
+    },
+    {
+      "id": "2026-11-29-uptown-clubhouse-ceiling-panel",
+      "published_at": "2026-11-29T02:05:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "yuen-long",
+        "housing",
+        "safety"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-29/2026-11-29-uptown-clubhouse-ceiling-panel.json",
+      "en": {
+        "headline": "Ceiling light panel falls in Yuen Long estate clubhouse playroom",
+        "dek": "A resident of Uptown in Hung Shui Kiu said a section of suspended lights dropped in the clubhouse playroom on Saturday afternoon, with no injuries reported."
+      },
+      "zh": {
+        "headline": "元朗Uptown會所遊戲室天花燈板墜落",
+        "dek": "洪水橋Uptown住戶表示，周六下午會所遊戲室一段懸掛燈板突然跌下，暫無受傷報告。"
+      }
+    },
     {
       "id": "2026-11-29-fehd-hawker-officers-leave-investigation",
       "published_at": "2026-11-29T00:10:00+08:00",
@@ -1833,52 +1878,6 @@
       "zh": {
         "headline": "屯門醫院前外科醫生涉盜手術室麻醉藥被捕",
         "dek": "警方拘捕一名38歲前外科醫生，事發時有病人正在手術室接受手術，一支止痛用麻醉藥不翼而飛。"
-      }
-    },
-    {
-      "id": "2026-11-26-lifestyle-cheung-sha-wan-food-fiesta",
-      "published_at": "2026-11-26T02:02:00+08:00",
-      "updated_at": null,
-      "category": "community",
-      "tags": [
-        "lifestyle",
-        "food",
-        "cheung-sha-wan",
-        "festival",
-        "opening"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-26/2026-11-26-lifestyle-cheung-sha-wan-food-fiesta.json",
-      "en": {
-        "headline": "Sixth Hong Kong International Food Fiesta opens today in Cheung Sha Wan",
-        "dek": "The free five-day outdoor event at Cheung Sha Wan Playground runs until 30 November with a Sichuan food street and limited $10 lucky bags."
-      },
-      "zh": {
-        "headline": "第六屆香港國際美食巡禮今日長沙灣開幕",
-        "dek": "香港食品委員會主辦的戶外嘉年華由今日起至30日於長沙灣遊樂場舉行，免費入場，設四川美食街及限量10元福袋。"
-      }
-    },
-    {
-      "id": "2026-11-26-pwh-doctor-arrested-indecent-assault",
-      "published_at": "2026-11-26T00:06:00+08:00",
-      "updated_at": null,
-      "category": "crime",
-      "tags": [
-        "crime",
-        "hospital",
-        "prince-of-wales",
-        "police",
-        "cuhk"
-      ],
-      "breaking": false,
-      "path": "articles/2026-11-26/2026-11-26-pwh-doctor-arrested-indecent-assault.json",
-      "en": {
-        "headline": "Prince of Wales Hospital doctor arrested over alleged unauthorised examinations",
-        "dek": "A 31-year-old doctor employed by CUHK has been suspended from clinical duties after police arrested him on suspicion of indecent assault involving two patients last month."
-      },
-      "zh": {
-        "headline": "威爾斯親王醫院醫生涉非禮被捕 院方禁止進入臨床範圍",
-        "dek": "一名31歲中大醫學院醫生上月疑在兒童外科病房為兩名男病人進行未經授權檢查，警方拘捕後獲准保釋，院方已暫停其臨床工作。"
       }
     }
   ]
