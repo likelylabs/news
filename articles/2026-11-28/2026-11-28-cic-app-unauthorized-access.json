@@ -1,0 +1,31 @@
+{
+  "id": "2026-11-28-cic-app-unauthorized-access",
+  "published_at": "2026-11-28T18:30:00+08:00",
+  "category": "technology",
+  "tags": ["technology", "cybersecurity", "privacy", "data-breach", "construction"],
+  "breaking": false,
+  "ai_generated": true,
+  "story_key": "cic-app-data-breach-nov28",
+  "en": {
+    "headline": "Construction Industry Council suspends app after access to half a million workers data",
+    "dek": "The council said suspicious activity on Friday exposed names, identity document numbers and contact details of about 500000 registered workers, with no financial information involved.",
+    "body": [
+      "The Construction Industry Council said it detected suspicious activity on the server of its CIC APP on Friday and found that an unauthorized party had accessed personal data.",
+      "Preliminary investigation indicated the incident may involve data of about 500000 registered workers, including names, dates of birth, genders, telephone numbers and identity document numbers. No financial data was involved, the council said.",
+      "The council has suspended the app, engaged independent cybersecurity forensic experts to investigate, reported the matter to police, and notified the Privacy Commissioner for Personal Data and the Digital Policy Office. It is verifying the affected scope and will notify users as soon as possible.",
+      "Other council systems and services remain unaffected, including the card-tapping system for site access, the council said. It urged users to stay alert, avoid sharing personal information or one-time passwords with suspicious contacts, and not to click unknown links.",
+      "The council expressed deep regret for the inconvenience caused and said it would continue to review and strengthen protective measures."
+    ]
+  },
+  "zh": {
+    "headline": "建造業議會暫停應用程式 涉約50萬工人資料遭未經授權存取",
+    "dek": "議會表示周五偵測到伺服器可疑活動，可能涉及約50萬名註冊工人的姓名、身份證明文件號碼及聯絡資料，並無財務資料受影響。",
+    "body": [
+      "建造業議會表示，昨日偵測到其「建造業議會應用程式（CIC APP）」伺服器出現可疑活動，並發現有未經授權人士存取個人資料。",
+      "經初步調查，事件可能涉及約50萬名註冊工人的資料，包括姓名、出生日期、性別、電話號碼及身份證明文件號碼。議會指事件並不涉及任何財務資料。",
+      "議會已即時暫停該應用程式運作，並委聘獨立第三方網絡安全鑑證專家協助調查。同時已向警方報案，並通報個人資料私隱專員公署及數字政策辦公室。議會正進一步核實受影響範圍，會儘快通知受影響用戶。",
+      "其他議會系統及服務未受影響，工人出入工地拍咗系統亦維持正常運作。議會呼籲用戶提高警覺，切勿向可疑來電、短訊或連結提供個人資料，亦不要透露密碼或一次性密碼。",
+      "議會對受影響人士造成的不便深表歉意，並表示會持續檢視及加強防護措施。"
+    ]
+  }
+}
