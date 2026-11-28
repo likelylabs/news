@@ -1,8 +1,52 @@
 {
-  "generated_at": "2026-11-28T10:51:24+08:00",
+  "generated_at": "2026-11-28T12:12:31+08:00",
   "live_window_hours": 72,
-  "count": 86,
+  "count": 88,
   "articles": [
+    {
+      "id": "2026-11-28-public-housing-waiting-time-4-4-years",
+      "published_at": "2026-11-28T12:15:00+08:00",
+      "updated_at": null,
+      "category": "community",
+      "tags": [
+        "community",
+        "public-housing",
+        "housing-bureau",
+        "waiting-time"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-public-housing-waiting-time-4-4-years.json",
+      "en": {
+        "headline": "Acting housing chief says 4.4-year public housing wait is 10-year low",
+        "dek": "Wong Wai-lun said the composite waiting time has fallen to 4.4 years and expressed confidence in future supply, including over 36000 traditional units in 2026-27."
+      },
+      "zh": {
+        "headline": "署理房屋局長稱公屋綜合輪候時間4.4年為十年新低",
+        "dek": "黃偉綸表示綜合輪候時間已降至4.4年，並對未來供應有信心，2026/27年度傳統公屋落成量將逾3.6萬伙。"
+      }
+    },
+    {
+      "id": "2026-11-28-route-6-temporary-signs",
+      "published_at": "2026-11-28T12:15:00+08:00",
+      "updated_at": null,
+      "category": "transport",
+      "tags": [
+        "transport",
+        "route-6",
+        "kowloon-bay",
+        "central-kowloon-bypass"
+      ],
+      "breaking": false,
+      "path": "articles/2026-11-28/2026-11-28-route-6-temporary-signs.json",
+      "en": {
+        "headline": "Officials install temporary signs to guide drivers for Route 6 opening",
+        "dek": "More than 80 yellow temporary signs will help motorists adapt when the Kowloon Bay section of the Central Kowloon Bypass opens on 6 December, completing Route 6."
+      },
+      "zh": {
+        "headline": "運輸署增設逾80個臨時路牌 助司機適應中九龍繞道九龍灣段開通",
+        "dek": "九龍灣段將於12月6日早上7時開通，完成6號幹線，當局以黃色臨時路牌及導航影片協助駕駛者熟悉新路段。"
+      }
+    },
     {
       "id": "2026-11-28-lifestyle-cloisonne-reimagined-pmq",
       "published_at": "2026-11-28T10:14:00+08:00",
